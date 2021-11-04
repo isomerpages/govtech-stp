@@ -4,12 +4,14 @@ permalink: /health/shn
 third_nav_title: Info on Stay Home Notice
 ---
 On this page, you will find information on:
-- Stay Home Notice (SHN) Requirements
-- SHN Start and End Date
-- SHN Compliance Checks
-- SHN Electronic Monitoring Device
+- [Stay Home Notice (SHN) Requirements](#requirements)
+- [SHN Start and End Date](#date)
+- [SHN Compliance Checks](#compliance)
+- [SHN Electronic Monitoring Device](#device)
 
 Only some Safe Travel Lanes to Singapore require travellers to serve an SHN, if they have travel history to certain countries/regions. If you need information on what Safe Travel Lanes to use and whether a Stay Home Notice will be imposed when you enter Singapore, please start from the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page instead to find out more.
+
+<div id="requirements"></div>
 
 ### SHN Requirements
 
@@ -26,6 +28,8 @@ Travellers issued with an SHN should refer to the conditions inside the SHN, and
 **View this video in the following languages: [Chinese](https://youtu.be/300gtMksKrw), [Bahasa Indonesia](https://youtu.be/TcgBoA0Hrn0)**
 
 ---
+
+<div id="date"></div>
 
 ### SHN Start and End Date
 
@@ -75,11 +79,13 @@ Reflected in the table below are two examples of indicative SHN durations. You m
   </table>
 
 
-<div id="sdf"></div>
+<div id="compliance"></div>
 
 ### SHN Compliance Checks
 
 Travellers issued with the Stay-Home Notice (SHN) will be subjected to on-site or electronic compliance checks (SMS, phone/video calls) from the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or Ministry of Education (MOE). Travellers should note that officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked to provide the last four digits of his/her Identity Card or Travel Document for verification. Any payment request made by the caller may be a scam. Travellers with SHN issues may call the SafeTravel Helpline at 6812 5555 for further enquiries or assistance.
+
+<div id="device"></div>
 
 ### SHN Electronic Monitoring Device
 
