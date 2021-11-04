@@ -83,7 +83,7 @@ Travellers issued with the Stay-Home Notice (SHN) will be subjected to on-site o
 
 ### SHN Electronic Monitoring Device
 
-Some travellers may be issued with an Electronic Monitoring Device (EMD) from ICA during their SHN period to ensure compliance. Users are required to download the StayHome@SG mobile application (<a href="" target="_blank">App Store</a>, <a href="" target="_blank">Google Play Store</a>) to use the EMD, which comprises of a paired gateway device and wristband (image below). Travellers must wear the wristband throughout the entire duration of their SHN. 
+Some travellers may be issued with an Electronic Monitoring Device (EMD) from ICA during their SHN period to ensure compliance. Users are required to download the StayHome@SG mobile application (<a href="https://apps.apple.com/sg/app/stayhome-sg/id1517984071" target="_blank">App Store</a>, <a href="https://play.google.com/store/apps/details?id=com.hitachi.shn_mobile&hl=en_SG&gl=US" target="_blank">Google Play Store</a>) to use the EMD, which comprises of a paired gateway device and wristband (image below). Travellers must wear the wristband throughout the entire duration of their SHN. 
 
 <img src="/images/ica-wristband.jpg" style="width:auto; height:auto;">
 
