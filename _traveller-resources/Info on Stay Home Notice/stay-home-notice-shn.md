@@ -21,21 +21,6 @@ In general, travellers under SHN are required to take a mandatory <a href="/heal
 
 Travellers issued with an SHN should refer to the conditions inside the SHN, and watch the video below for a quick overview of SHN requirements. Travellers who have questions regarding their SHN may also refer to the <a href="/health/faq#shnsdf" target="_blank">Frequently Asked Questions (FAQ) section</a> . Those in need of additional support can refer to <a href="https://www.gov.sg/article/call-these-helplines-if-you-need-emotional-or-psychological-support" target="_blank">this page</a> for a list of local helplines and resources.
 
-
-
-	
-
-
-### Overview 
-
-The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or SHN Dedicated Facility ([SDF](/health/shn/sdf)) for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Om-hkGPvHOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-In general, travellers under SHN are required to take a mandatory [COVID-19 Polymerase Chain Reaction test ("PCR Test")](/health/covid19-tests/pcrtest) towards the end of their SHN. <b>Travellers can check their required SHN duration and required <a href="/health/covid19-tests/pcrtest">COVID-19 tests</a> on the individual <a href="/arriving/overview">SafeTravel Lanes pages</a></b>. Travellers approved for entry into Singapore should refer to their Entry Approval Letter or SafeTravel Pass for details on whether they are required to serve their SHN and COVID-19 test to take. 
-
-Travellers issued with an SHN should refer to the conditions inside the SHN, and watch the video below for a quick overview of SHN requirements. Travellers who have questions regarding their SHN may also refer to the [Frequently Asked Questions (FAQ) section](/health/faq#shnsdf). Those in need of additional support can refer to this [page](https://www.gov.sg/article/call-these-helplines-if-you-need-emotional-or-psychological-support) for a list of local helplines and resources.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H-ZarGe4vr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **View this video in the following languages: [Chinese](https://youtu.be/300gtMksKrw), [Bahasa Indonesia](https://youtu.be/TcgBoA0Hrn0)**
