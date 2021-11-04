@@ -20,7 +20,76 @@ The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Disease
 In general, travellers under SHN are required to take a mandatory <a href="/health/covid19-tests/pcrtest" target="_blank">COVID-19 Polymerase Chain Reaction test (“PCR Test”)</a> towards the end of their SHN. Travellers can check their required SHN duration and required COVID-19 tests on the individual SafeTravel Lanes pages. Travellers approved for entry into Singapore should refer to their Entry Approval Letter or SafeTravel Pass for details on whether they are required to serve their SHN and COVID-19 test to take.
 Travellers issued with an SHN should refer to the conditions inside the SHN, and watch the video below for a quick overview of SHN requirements. Travellers who have questions regarding their SHN may also refer to the Frequently Asked Questions (FAQ) section. Those in need of additional support can refer to this page for a list of local helplines and resources.
 
- 
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+<h2>Accordion</h2>
+
+<button class="accordion">Section 1</button>
+<div class="panel">
+  <p>Test 1</p>
+</div>
+
+<button class="accordion">Section 2</button>
+<div class="panel">
+  <p>Test 2</p>
+</div>
+
+<button class="accordion">Section 3</button>
+<div class="panel">
+  <p>Test 3</p>
+</div>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html> 
+
+
 
 ### Overview 
 
