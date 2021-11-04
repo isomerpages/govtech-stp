@@ -89,6 +89,6 @@ Some travellers may be issued with an Electronic Monitoring Device (EMD) from IC
 
 The EMD will alert the relevant authorities to errant travellers who leave their declared SHN accommodation before the end of the SHN period. As such, travellers should ensure that their EMD is properly set up. Travellers should refer to <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf" target="_blank">this guide</a>, <a href="https://www.youtube.com/watch?v=zKhawlenncA" target="_blank">video</a>, <a href="/images/stayhomesg-infographics-1.png" target="_blank">infographic</a> or <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stay@homesg-faqs.pdf" target="_blank">FAQ</a>, for instructions on EMD set up and troubleshooting issues with the EMD.
 
-All EMDs issued by ICA are not equipped with audio or video recording capabilities – personal privacy is therefore protected. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.
+All EMDs are not equipped with audio or video recording capabilities – personal privacy is therefore protected. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.
 
-Travellers may also be issued with electronic SHN monitoring devices. More information on these devices can be found [here](/health/shn-monitoring).
+Travellers will be contacted by ICA at the end of their SHN period for the return of their gateway device. They may, however, dispose the wristband based on existing e-waste disposal methods.
