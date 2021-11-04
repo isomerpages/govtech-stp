@@ -81,4 +81,8 @@ Reflected in the table below are two examples of indicative SHN durations. You m
 
 Travellers issued with the Stay-Home Notice (SHN) will be subjected to on-site or electronic compliance checks (SMS, phone/video calls) from the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or Ministry of Education (MOE). Travellers should note that officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked to provide the last four digits of his/her Identity Card or Travel Document for verification. Any payment request made by the caller may be a scam. Travellers with SHN issues may call the SafeTravel Helpline at 6812 5555 for further enquiries or assistance.
 
+### SHN Electronic Monitoring Device
+
+Some travellers may be issued with an Electronic Monitoring Device (EMD) from ICA during their SHN period to ensure compliance. Users are required to download the StayHome@SG mobile application (App Store, Google Play Store) to use the EMD, which comprises of a paired gateway device and wristband (image below). Travellers must wear the wristband throughout the entire duration of their SHN. 
+
 Travellers may also be issued with electronic SHN monitoring devices. More information on these devices can be found [here](/health/shn-monitoring).
