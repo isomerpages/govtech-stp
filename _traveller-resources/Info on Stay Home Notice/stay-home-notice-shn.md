@@ -9,11 +9,17 @@ On this page, you will find information on:
 - SHN Compliance Checks
 - SHN Electronic Monitoring Device
 
-Only some Safe Travel Lanes to Singapore require travellers to serve an SHN, if they have travel history to certain countries/regions. If you need information on what Safe Travel Lanes to use and whether a Stay Home Notice will be imposed when you enter Singapore, please start from the <a href="/arriving/overview">Travelling to Singapore</a> page instead to find out more.
+Only some Safe Travel Lanes to Singapore require travellers to serve an SHN, if they have travel history to certain countries/regions. If you need information on what Safe Travel Lanes to use and whether a Stay Home Notice will be imposed when you enter Singapore, please start from the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page instead to find out more.
 
 ### SHN Requirements
 
-The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or SHN Dedicated Facility (SDF) for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.
+The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or <a href="/health/shn/sdf" target="_blank">SHN Dedicated Facility (SDF)</a> for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Om-hkGPvHOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In general, travellers under SHN are required to take a mandatory <a href="/health/covid19-tests/pcrtest" target="_blank">COVID-19 Polymerase Chain Reaction test (“PCR Test”)</a> towards the end of their SHN. Travellers can check their required SHN duration and required COVID-19 tests on the individual SafeTravel Lanes pages. Travellers approved for entry into Singapore should refer to their Entry Approval Letter or SafeTravel Pass for details on whether they are required to serve their SHN and COVID-19 test to take.
+Travellers issued with an SHN should refer to the conditions inside the SHN, and watch the video below for a quick overview of SHN requirements. Travellers who have questions regarding their SHN may also refer to the Frequently Asked Questions (FAQ) section. Those in need of additional support can refer to this page for a list of local helplines and resources.
+
 
 ### Overview 
 
@@ -86,6 +92,3 @@ Reflected in the table below are two examples of indicative SHN durations. You m
 Travellers issued with the Stay-Home Notice (SHN) will be subjected to on-site or electronic compliance checks (SMS, phone/video calls) from the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or Ministry of Education (MOE). Travellers should note that officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked to provide the last four digits of his/her Identity Card or Travel Document for verification. Any payment request made by the caller may be a scam. Travellers with SHN issues may call the SafeTravel Helpline at 6812 5555 for further enquiries or assistance.
 
 Travellers may also be issued with electronic SHN monitoring devices. More information on these devices can be found [here](/health/shn-monitoring).
-
-
-	
