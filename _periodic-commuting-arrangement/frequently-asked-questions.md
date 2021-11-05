@@ -78,11 +78,11 @@ Travellers who are serving SHN at their own place of residence may end their SHN
 
 Travellers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.
 
-#### 3. What is a SHN Electronic Monitoring Device?
+<!--#### 3. What is a SHN Electronic Monitoring Device?
 
 An <a href="/health/shn#device">Electronic Monitoring Device</a> (“device”) will be issued to travellers above 12 and are serving their Stay-Home Notice (SHN) outside an SHN-Dedicated Facility (SDF). It is used solely to detect travellers who have illegally left their SHN accommodation before the completion of SHN.
 
-Your personal privacy is protected while using these devices. The device does not have any audio or video recording capabilities. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.
+Your personal privacy is protected while using these devices. The device does not have any audio or video recording capabilities. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.-->
 
 
 ##### Click here to go to the [top](#top).
