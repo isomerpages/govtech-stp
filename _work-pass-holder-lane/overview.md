@@ -137,7 +137,7 @@ We understand these measures are difficult for employers and their pass holders,
 				<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Confinement nannies</li>
 				</ol>
 			</td>
-			<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Employers or Employment Agencies to apply: <a href="https://eservices.ica.gov.sg/STO/">WPHL</a>
+			<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Employers or Employment Agencies to apply: <a href="https://eservices.ica.gov.sg/STO/">WPHL</a></td>
 	</tr>
 					<tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">All other pass holders
