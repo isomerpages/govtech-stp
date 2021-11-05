@@ -94,10 +94,3 @@ Some activities in Singapore may require proof of vaccination (e.g. attendance a
 
 Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
 
-<br>
-<br>
-<br>
-<details>
-    <summary style="background-color:#153855; color:white;font-size:20px;"><font style="margin-left:10px;">What is HTML?</font></summary>
-    <p>HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content.</p>
-</details>
