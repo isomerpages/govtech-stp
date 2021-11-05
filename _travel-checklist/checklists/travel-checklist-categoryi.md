@@ -94,29 +94,9 @@ Some activities in Singapore may require proof of vaccination (e.g. attendance a
 
 Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
 
-
-<table style="background-color:#f5f5f5">
-<tbody>
-    <tr>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes before referring to the THCM Categories:</u></b></span><br><br>
-					<b> ➀</b> If you have visited or transited in multiple countries in the past 14 days before arriving in Singapore, note that:
-					<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
-					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The most stringent category out of all the countries/regions you have visited (excluding transit) will apply. For example, a traveller who had travel history to both Category (I) and (II) countries/regions before departure, but transited in a Category (IV) country/region on the way to Singapore, will be subject to Category (II) measures; and</li>
-												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	<!--A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 14 consecutive days before departure. <u>or</u> you are a Singapore resident (i.e. Singapore Citizen, Permanent Resident and Long-Term Pass Holder) and have remained in a Category (I), (II), (III) and/or (IV) country/region for at least 14 consecutive days before departure.--> A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 14 consecutive days before departure.</li>
-					</ol>
-					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
-										</p>
-							<!-- <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>&#10114;</b> Short Term Travellers are defined as those who are not Singapore Citizens, Permanent Residents or Long Term Pass Holders (e.g. Work Pass, Student's Pass, Dependant's Pass, In-Principle Approval Work or Student Pass Holders)
-										</p>-->
-			</td>
-    </tr>
-	</tbody>
-		</table>
-
-
-
+<br>
+<br>
+<br>
 <details>
     <summary style="background-color:#153855; color:white;">What is HTML?</summary>
     <p>HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content.</p>
