@@ -98,6 +98,6 @@ Travellers should also use the <a href="https://www.tracetogether.gov.sg/" targe
 <br>
 <br>
 <details>
-    <summary style="background-color:#153855; color:white;font-size:20px;"><font style="margin-left:10%; margin-right:10%;">What is HTML?</font></summary>
+    <summary style="background-color:#153855; color:white;font-size:20px;"><font style="margin-left:10px; margin-right:10%;">What is HTML?</font></summary>
     <p>HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content.</p>
 </details>
