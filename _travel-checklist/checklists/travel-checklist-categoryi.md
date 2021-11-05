@@ -93,3 +93,20 @@ After SHN, travellers may go about their activities but <b>must</b> comply with 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a> 
 
 Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
+
+
+
+
+
+<details>
+    <summary>What is HTML?</summary>
+    <p>HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content.</p>
+</details>
+<details>
+    <summary>What is CSS?</summary>
+    <p>Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML.</p>
+</details>
+<details>
+    <summary>What is JavaScript?</summary>
+    <p>JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.</p>
+</details>
