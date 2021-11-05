@@ -17,7 +17,7 @@ input {
 
 label {
     display: block;    
-    padding: 8px 22px;
+    padding: 18px 22px;
     margin: 0 0 1px 0;
     cursor: pointer;
     background: #153855;
