@@ -7,7 +7,7 @@ permalink: /testaccordian
 
 <head>
 <meta charset="utf-8">
-<title>CSS Accordion</title>
+<title>Test Accordion</title>
 
 <style>
 
