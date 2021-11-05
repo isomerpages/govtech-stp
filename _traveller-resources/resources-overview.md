@@ -2,7 +2,6 @@
 title: Resources - Overview
 permalink: /health
 ---
-
 The resources on this page provide general information on specific travel health control measures when travelling to Singapore. If you are unsure which of these requirements apply to you or how to get the relevant entry approvals, we strongly suggest you start from the <a href="/arriving/overview">Travelling to Singapore</a> page for incoming/returning travellers, or <a href="/departing/overview">Departing from Singapore</a> page for outbound travellers.
 
 Otherwise, click on the links below for the relevant resources on Singapore's travel health control measures/procedures:
@@ -18,7 +17,6 @@ Otherwise, click on the links below for the relevant resources on Singapore's tr
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn">Stay-Home Notice (SHN)</a></li>
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn/sdf">SHN in Dedicated Facilities (SDF)</a></li>
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn-monitoring">SHN Electronic Monitoring Device</a></li>
     </ol>
 	</li>
 	 <li style="margin-top:0px; margin-bottom:0px; font-size:18px; ">

@@ -273,7 +273,7 @@ RGL travellers entering Singapore via air and land transport must produce the fo
 - Proof of return transportation arrangements to depart from Singapore (e.g. air, train and bus return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.
 - A mobile device with the TraceTogether app already downloaded or proof of rental of TraceTogether- compatible device in Singapore.
 
-Traveller who does not have any of the above may be refuse boarding by the airline. For traveller who do not have mobile devices that can download the TraceTogether app, please refer to Question 25.
+Traveller who does not have any of the above may be refuse boarding by the airline. For traveller who do not have mobile devices that can download the TraceTogether app, please refer to Question 24.
 
 <div id="covid19"></div>
 
