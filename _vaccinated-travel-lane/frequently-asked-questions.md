@@ -259,7 +259,7 @@ If you encounter an error upon uploading the QR code on your vaccination certifi
 You may encounter errors upon uploading your vaccination QR code(s) for reasons such as:
 
 - QR code is not cropped from the vaccination certificate document when uploaded
-- [For International COVID-19 Vaccination Certificate](https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof) Full 1-page PDF file was not uploaded
+- <a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof">[For International COVID-19 Vaccination Certificate]</a> Full 1-page PDF file was not uploaded
 - QR code is not in an acceptable format and by specific issuers
 - Traveller’s particulars do not match with the particulars in the vaccination certificate – please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.
 - Traveller is not [fully vaccinated](/health/vtsg) yet
