@@ -163,7 +163,7 @@ Please click the links below for more information on accepted digitally verifiab
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates</a> (EU DCC) issued by any VTL country/region</li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards</a> (SHC) issued by:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a> (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Any Canadian province</li>
 </ol>
