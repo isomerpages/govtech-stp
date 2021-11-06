@@ -18,8 +18,8 @@ permalink: /vtl/faq
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-latin;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VacReq">Vaccination Requirement</a>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Eligibility and Proof of Vaccination</li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Digitally Verifiable Vaccination Certificate and QR Code Issues</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VTLReq">Eligibility and Proof of Vaccination</a></li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vaxcert">Digitally Verifiable Vaccination Certificate and QR Code Issues</a></li>
 	</ol>
 	</li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#THReq">Travel History Requirement</a></li>
@@ -65,7 +65,6 @@ Unvaccinated travellers aged 13 and above are not allowed to travel under the VT
 </ol>
 
 may still travel to Singapore on a non-designated flight. They will be subject to the prevailing Stay-Home Notice (SHN) and COVID-19 test requirements upon entry into Singapore.
-
 
 #### 2. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL?
 
@@ -132,6 +131,8 @@ If you are a short-term visitor or Long-Term Pass holder with your vaccination r
 #### 7. I am fully vaccinated. How may I benefit from Vaccination-Differentiated Safe Management Measures (VDS) (e.g. dine-in at F&B establishments, enter shopping malls, etc.)?
 
 As part of Singapore’s <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">Vaccination-Differentiated Safe Management Measures (VDS)</a>, you must be vaccinated to participate in certain activities in Singapore (e.g. dining in at F&B establishments, entering shopping malls, attending certain events etc.). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore. Please find more information on <a href="/health/vtsg" target="_blank">VDS here</a>. 
+
+<div id="vaxcert"></div>
 
 ### (ii) Digitally Verifiable Vaccination Certificate and QR Code Issues
 
