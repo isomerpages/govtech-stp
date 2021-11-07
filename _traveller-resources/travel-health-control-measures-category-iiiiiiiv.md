@@ -201,7 +201,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test results and date of test;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">PCR test results and date of test;</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
 </ol>
@@ -210,7 +210,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn/sdf">SHN Dedicated Facility</a>
 	</li>
-	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.</li></ol>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test on Day 10 of SHN.</li></ol>
 	
 </td>
 	</tr>
