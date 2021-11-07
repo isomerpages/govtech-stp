@@ -21,14 +21,14 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 &#9744;  <i><b>A) Obtain an acceptable proof of vaccination </b></i>
 
-Travellers are be required to provide proof of vaccination during application, departure checks and immigration clearance. You must obtain any of the following acceptable proof of vaccination. Eligibility for each vaccination proof will vary depending on where you took your vaccination and your location:
+Travellers are be required to provide proof of vaccination during application, departure checks and immigration clearance. You must obtain any of the following acceptable proof of vaccination. Eligibility for each vaccination proof will vary depending on where you took your vaccination and your location. If you are unable to obtain one of the digitally verifiable vaccination certificates listed below, you will not be eligible for travel on the VTL.:
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:10px;">
     <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:16px;"><b>Mobile Applications</b></p>
 	    <ol style="margin-top:0px; list-style-type: decimal;">
 		    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
 		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
-		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a></li>
+		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a> (developed by the Government of Brunei</li>
 	    </ol>
 	    <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;"><b>Vaccination Certificates</b></p>
 	    <ol style="margin-top:0px; list-style-type: decimal;">
@@ -43,11 +43,12 @@ Travellers are be required to provide proof of vaccination during application, d
 			</li>
 						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
 		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 7 November 2021, 2359hrs, SGT]</b><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any VTL country/region 	  </li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b> [For entry into Singapore from 14 November 2021, 2359hrs, SGT]</b> Static QR Code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>*</li>	    
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b> [For entry into Singapore from 14 November 2021, 2359hrs, SGT]</b> Static QR Code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>*</li>
+		    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 21 Nov 2021, 2359hrs, SGT] </b>Digital Certificate for COVID-19 Vaccination downloadable from the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a> (developed by the Government of Malaysia) </li>
 			</ol>
 	    <p style="font-size:16px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>Foreign nationals vaccinated in the Republic of Korea should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide their physical vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Foreign nationals who are Singapore Citizens/Permanent Residents will need to present their physical vaccination certificate for verification at check-in and arrival immigration. They are strongly encouraged to self-verify their vaccination certificate <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">here</a> prior to their trip.</p>
 	    <div style="padding-left: 5px; padding-bottom: 10px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>For short-term visitors and long-term pass holders</u></b></span><br/><br/><i>If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.</i> </p>
+	<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>For short-term visitors and long-term pass holders</u></b></span><br/><br/><i>If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. </i> </p>
 </div> 
 </div>
 
@@ -75,6 +76,7 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Arrive in Singapore on a designated VTL flight (list below); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
 </ol>
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>Note:</b></a> Travellers entering Singapore from 11 Nov 2021, 2359hrs, may also have travel history to (i.e. travelled to or transited via) <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> in the last 14 consecutive days before departing for Singapore.</p>
 			<p style="font-size:16px; margin-top:10px; margin-bottom:15px; line-height:1.5;">Please refer to the respective airlines’ websites for information on when the first designated VTL flight will commence.</p>
 			<table>
 <thead>
@@ -161,14 +163,20 @@ Travellers can self-isolate at any of the following locations:
 
 Travellers may complete their self-isolation with vaccinated household members sharing the same travel history, arrival date and self-isolation requirements. Otherwise, they should self-isolate in an enclosed room with an en-suite toilet. Travellers who intend to self-isolate at a non-residential accommodation, e.g. hotel, may refer to this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before a booking is made, travellers should confirm with the hotel that they are able to accommodate guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.
 
-&#9744;  <i><b>G) Pre-Departure COVID-19 PCR Test</b></i>
+The minimum rental period is 3 months for private residences, and 6 months for HDB flats. Short-term rentals of these properties are not allowed. Travellers may refer to the following websites for more information: 
+- <a href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation" target="_blank">Regulations for renting a Private Property</a>
+- <a href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat" target="_blank">Regulations for renting a HDB flat / Bedroom </a>
 
-All travellers, <b>except</b> those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), must take a pre-departure COVID-19 PCR test **within 48 hours before departure for Singapore**. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the test report:
+&#9744;  <i><b>G) Pre-Departure COVID-19 Test</b></i>
+
+All travellers, <b>except</b> those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), must take a pre-departure COVID-19 PCR test [or Antigen Rapid Test (ART) for entry into Singapore from 11 November 2021, 2359hrs]  **within 48 hours before departure for Singapore**. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the test report:
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 	<li style="line-height:1.5;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
 	<li style="line-height:1.5;">Reflects the date and time the test was taken, the name of the testing institution, and a negative test result.</li>
 	</ol>
+
+* If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours.
 
 &#9744;  <i><b>H) Submission of Health Declaration</b></i>
 
@@ -202,7 +210,6 @@ When checking in at the departure airport, travellers must present to the airlin
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Physical or electronic copy of the Vaccinated Travel Pass (VTP) for the specified period of entry;</li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Valid pre-departure COVID-19 PCR test showing a negative COVID-19 result; </li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Valid visa (for visa-required visitors);</li>
-				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Mobile device with the TraceTogether app with an active user profile;  and</li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Acceptable proof of vaccination (same proof as at <a href="#proof">Stage 1A</a>).</li>
 </ol>
 
@@ -249,7 +256,7 @@ Travellers who test positive for COVID-19 are required to receive <a href="/heal
 
 After self-isolation, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Please visit the <a  href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank"> Ministry of Health website</a> for details on the prevailing measures.
 
-Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app after arrival in Singapore.
+Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.
 
 
 ### Stage 6: Departure from Singapore
