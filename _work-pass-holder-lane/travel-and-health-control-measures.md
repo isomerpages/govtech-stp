@@ -490,7 +490,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 
 ### Travel Health Control Measures for WPHL-Pass Holders 
 
-<p style="font-size:24px;"><b>[For arrivals <span style="color: red;">before 11 Nov 2021, 2359h</span>]</b></p>
+<p style="font-size:24px;"><b>[For arrivals <span style="color: red;">before 11 Nov 2021, 2359 hours</span>]</b></p>
 
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
