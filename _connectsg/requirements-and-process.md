@@ -162,7 +162,7 @@ Once the application is approved, the applicant will be issued with SafeTravel P
 <br><br>
 For the entire duration of their stay in Singapore, travellers under the Connect@Singapore initiative will be housed in a “bubble” within Appointed Facility, undergo regular testing, and strictly observe all prevailing SMMs.
 <br><br>
-Travellers will be able to conduct meetings with Singapore residents and with other traveller groups (with SMMs in place) while in the Appointed Facility. They would also have to undergo <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR tests</a> on Day 3, Day 7 and Day 14 of their stay as part of the health and safety protocols.
+Travellers will be able to conduct meetings with Singapore residents and with other traveller groups (with SMMs in place) while in the Appointed Facility. They would also have to undergo COVID-19 PCR tests on Day 3, Day 7 and Day 14 of their stay as part of the health and safety protocols.
 </td>
 </tr>
 	<tr>
