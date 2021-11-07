@@ -34,10 +34,13 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	</tbody>
 		</table>
 
-<b>On this page you will find the following</b>:<ol style="list-style-type:lower-latin;">
-	<li>Categories of travel health control measures for arrivals from 11 Nov 2021, 2359 hours</li>
-	<li>Categories of travel health control measures for arrivals before 11 Nov 2021, 2359 hours</li>
+<b>On this page you will find the following</b>:
+<ol style="list-style-type:lower-latin;">
+	<li><a href="#from">Categories of travel health control measures for arrivals from 11 Nov 2021, 2359 hours</a></li>
+	<li><a href="#before">Categories of travel health control measures for arrivals before 11 Nov 2021, 2359 hours</a></li>
 	</ol>
+
+<div id="from"></div>
 
 ### Categories of Travel Health Control Measures (for arrivals from 26 Oct 2021, 2359H)
 
