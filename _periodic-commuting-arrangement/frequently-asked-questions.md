@@ -215,7 +215,7 @@ No. All travellers must turn up for their COVID-19 test at the assigned date, ti
 
 #### 3. What should I do if I have a medical condition, e.g. frequent nose bleeds, operations on face or nose area, tumours or cancers of the nose or throat area, that prevents me from providing a nasal swab sample for the COVID-19 test?
 
-Travellers who are unable to take the COVID test due to a medical condition should write in to [COVID_SafeTravelAppeals@mti.gov.sg](mailto:COVID_SafeTravelAppeals@mti.gov.sg) <b>at least</b> 7 working days before entry into Singapore. The employee or application sponsor should indicate in the email, the medical condition and provide the following details:
+Travellers who are unable to take the test due to a medical condition should write in to [COVID_SafeTravelAppeals@mti.gov.sg](mailto:COVID_SafeTravelAppeals@mti.gov.sg) <b>at least</b> 7 working days before entry into Singapore. The employee or application sponsor should indicate in the email, the medical condition and provide the following details:
 <ul>
 <li>Name;</li>
 <li>FIN No. (for work pass holder) or NRIC (for Singapore PR);</li>
