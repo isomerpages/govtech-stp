@@ -177,7 +177,7 @@ For passengers who are taking a <b>connecting flight</b> to Singapore, the <u>48
 
 Click <a href="/transit/overview#PDT">here</a> for the relevant details.
 
-#### 3. What will happen if I arrive in Singapore and do not have a valid negative PCR test certificate?
+#### 3. What will happen if I arrive in Singapore and do not have a valid negative Covid-19 test certificate?
 
 As a condition to enter Singapore, travellers may be required to produce a negative COVID-19 test result. This may be enforced by the airline during pre-boarding checks. Unless there are other compelling reasons, travellers failing to meet this condition will be denied entry into Singapore.
 
@@ -199,7 +199,7 @@ If a COVID-19 test is required to be taken <u>48 hours</u> before departure, i.e
 
 Travellers will be denied boarding by their airline or ferry if they are:
 - diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or
-- tested positive on the COVID-19 PCR test within <u>48 hours</u> before departure for Singapore.
+- tested positive on the COVID-19 test within <u>48 hours</u> before departure for Singapore.
 
 #### 6. How will I be informed of my COVID-19 test result?
 
@@ -215,11 +215,11 @@ Action will be taken against travellers who fail to comply with any of the stipu
 
 #### 8. Do I have to complete my Stay-Home Notice (SHN) if I have been tested negative for COVID-19 before departing to Singapore?
 
-Yes, travellers must complete their SHN even after they are tested negative for their COVID-19 Polymerase Chain Reaction test (“PCR test”) before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
+Yes, travellers must complete their SHN even after they are tested negative for their COVID-19 test before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
 
 #### 9. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
-Travellers arriving from countries that require a COVID-19 Polymerase Chain Reaction test (“PCR test”) must do so if they are three years old and above in that calendar year (i.e. born in and before 2018) and departing for Singapore from their first point of embarkation. Travellers whose children are below three years old in that calendar year, i.e. born after 2018, are exempted.
+Travellers arriving from countries that require a COVID-19 test must do so if they are three years old and above in that calendar year (i.e. born in and before 2018) and departing for Singapore from their first point of embarkation. Travellers whose children are below three years old in that calendar year, i.e. born after 2018, are exempted.
 
 #### 10. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
