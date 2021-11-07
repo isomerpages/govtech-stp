@@ -88,7 +88,6 @@ Travellers will be asked to produce the following documents as part of the immig
 		<li>Negative PDT report, if required</li>
 	<li>	Valid entry approval letter (electronic or physical copy)</li>
 	<li>Valid visa (only visa-required passport holders)</li>
-	<li>	A mobile device with the TraceTogether app downloaded and with a registered user profile</li>
 	</ul>
 
 <b>Eligible travellers vaccinated overseas should also inform the immigration officer to have your vaccination details temporarily registered in your TraceTogether app</b> in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure to get your vaccination status registered</a>. 
