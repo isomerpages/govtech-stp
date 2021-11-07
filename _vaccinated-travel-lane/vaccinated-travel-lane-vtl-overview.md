@@ -134,7 +134,7 @@ input:checked + label + .content {
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Active VTL Countries/Regions]</b> Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain<sup>4</sup>, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 7 Nov 2021, 2359hrs, SGT]</b> Australia and Switzerland</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 14 Nov 2021, 2359hrs, SGT]</b> Republic of Korea</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 18 Nov 2021, 2359hrs, SGT]</b> Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Finland, Greece, Hungary, Iceland, Ireland, Liechtenstein, Luxembourg, Malta, Norway, Poland, Portugal, San Marino, Slovakia, Sweden, Turkey and the Vatican City</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 18 Nov 2021, 2359hrs, SGT]</b> Finland and Sweden</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 21 Nov 2021, 2359hrs, SGT]</b> Malaysia</li>
 	</ol>
 	</p>
@@ -224,7 +224,7 @@ input:checked + label + .content {
 <div class="content">
 	<p style="line-height:1.5;"><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b></p>
 	<p style="line-height:1.5;">Travellers departing from the Republic of Korea may only submit their applications from <b>8 November 2021, 1000hrs, SGT</b>.</p>
-	<p style="line-height:1.5;">Travellers departing from <b>Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Finland, Greece, Hungary, Iceland, Ireland, Liechtenstein, Luxembourg, Malta, Norway, Poland, Portugal, San Marino, Slovakia, Sweden, Turkey and the Vatican City</b> may only submit their applications from <b>12 Nov 2021, 1000hrs, SGT.</b></p>
+	<p style="line-height:1.5;">Travellers departing from <b>Finland and Sweden</b> may only submit their applications from <b>12 Nov 2021, 1000hrs, SGT.</b></p>
 	<p style="line-height:1.5;">Travellers departing from <b>Malaysia</b> may only submit their applications from <b>15 Nov 2021, 1000hrs, SGT</b>.</p>
 	<p style="line-height:1.5;">Please note the following when making the application:
 	<ol style="margin-top:0px; list-style-type:disc;">
