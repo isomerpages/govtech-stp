@@ -146,14 +146,14 @@ The requirement for travellers to present a digitally verified and authenticated
 
 #### 2. What are the accepted forms of digitally verifiable vaccination certificates?
 
-Please click the links below for more information on accepted digitally verifiable vaccination certificates:
+Please click the links below for more information on accepted digitally verifiable vaccination certificates If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL:
 
 <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Mobile Applications</b></p>
 
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a></li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a> (Developed by the Government of Brunei)</li>
 </ol>
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Vaccination Certificates</b></p>
@@ -170,12 +170,13 @@ Please click the links below for more information on accepted digitally verifiab
 </li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 7 November 2021, 2359hrs, SGT]</b><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any VTL country/region</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b> [For entry into Singapore from 14 November 2021, 2359hrs, SGT]</b> Static QR Code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>*</li>	    
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b> [For entry into Singapore from 14 November 2021, 2359hrs, SGT]</b> Static QR Code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>*</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b> [[For entry into Singapore from 21 November 2021, 2359hrs]</b>Digital Certificate for COVID-19 Vaccination downloadable from the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a> (developed by the Government of Malaysia) </li>	 
 </ol>
 	    
 <p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>Foreign nationals vaccinated in the Republic of Korea should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide their physical vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Foreign nationals who are Singapore Citizens/Permanent Residents will need to present their physical vaccination certificate for verification at check-in and arrival immigration. They are strongly encouraged to self-verify their vaccination certificate <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">here</a> prior to their trip.</p>
 
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;">We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date.</p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;">We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more issuers are onboarded.</p>
 
 <div style="padding-left: 5px; padding-bottom: 10px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>For short-term visitors and long-term pass holders</u></b></span><br/><br/><i>If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.</i> </p>
@@ -280,10 +281,15 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 
 ### (b) Travel History Requirement
 
+<div style="padding-left: 5px; padding-bottom: 10px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>Note:</b></span>Travellers entering Singapore from 11 November 2021, 2359hrs, may also have travel history to (i.e. travelled to or transited via) <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> in the last 14 consecutive days before departing for Singapore.</p>
+</div> 
+
+
 
 #### 1. How is the 14-day travel history determined?
 
-If the scheduled day of departure of the traveller's fight to Singapore is D (e.g. 19 October 2021), the traveller must have only been to one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore from D-14 to D (i.e. 5 to 19 October 2021, if D is 19 October 2021). 
+If the scheduled day of departure of the traveller's fight to Singapore is D (e.g. 19 October 2021), the traveller must have only travelled to or transited via one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore from D-14 to D (i.e. 5 to 19 October 2021, if D is 19 October 2021). 
 
 #### 2. Do I need to remain in a [VTL country/region](/vtl/requirements-and-process#countries) for 14 consecutive days before travelling to Singapore?
 
@@ -323,26 +329,26 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 <div id="PDT"></div>
 
  
-### (c) Pre-Departure Polymerase Chain Reaction (PCR) Test
+### (c) Pre-Departure COVID-19 Test
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 PCR test.</i></p>
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 test.</i></p>
 
 #### 1. Are travellers under the VTL required to take any pre-departure COVID-19 PCR tests?
 
-All travellers, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore.
+All travellers, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 polymerase chain reaction (PCR) test [or Antigen Rapid Test (ART) for entry into Singapore from 11 November 2021, 2359hrs] within 48 hours before departure for Singapore.
 
-For example, if the visitor departs for Singapore on 15 September 2021, the test must be taken no earlier than 13 September 2021.
+If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours
 
-The pre-departure COVID-19 PCR test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>. The test result certificate must be in English and state the following:
+The pre-departure COVID-19 test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>. The test result certificate must be in English and state the following:
 
 - the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
-- a negative COVID-19 PCR test result;
-- the date and time when the COVID-19 PCR test was taken; and
-- the name of the testing institution conducting the COVID-19 PCR test.
+- a negative COVID-19 test result;
+- the date and time when the COVID-19 test was taken; and
+- the name of the testing institution conducting the COVID-19 test.
 
-Travellers are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test. They must also bear the cost of their pre-departure COVID-19 PCR test. Please check with the listed testing institutions for the cost of the test.
+Travellers are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 test. They must also bear the cost of their pre-departure COVID-19 test. Please check with the listed testing institutions for the cost of the test.
 
-Travellers, who are unable to produce a valid pre-departure COVID-19 PCR test result certificate during check-in at the departure airport, will be refused boarding by the airline.
+Travellers, who are unable to produce a valid pre-departure COVID-19 test result certificate during check-in at the departure airport, will be refused boarding by the airline.
 
 ---
 
@@ -356,7 +362,7 @@ Travellers, who are unable to produce a valid pre-departure COVID-19 PCR test re
  
 ### (d) Designated VTL Flights
 
-#### 1. What are the designated VTL flights?
+<!--#### 1. What are the designated VTL flights?
 
 Travellers must arrive in Singapore on a designated VTL flight in order to be eligible for the VTL. Travellers departing from VTL countries/regions may transit via any of the VTL countries/regions, subject to the transit country/region’s VTL being in effect (e.g. a VTL traveller departing from Canada may only transit in the Republic of Korea after 14 November 2021, 2359 hours).
 
@@ -424,21 +430,19 @@ Please refer to the respective airlines’ websites below for details of the des
 </tr>
 </tbody>
 </table>
-<sup>*</sup>The list of airlines and websites will be regularly updated
+<sup>*</sup>The list of airlines and websites will be regularly updated-->
 
-
-
-#### 2. Are travellers guaranteed a ticket on a designated VTL flight to Singapore if they have a VTP?
+#### 1. Are travellers guaranteed a ticket on a designated VTL flight to Singapore if they have a VTP?
 
 Having a VTP does not guarantee travellers a ticket on a designated VTL flight to Singapore. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL flight to Singapore does not guarantee a VTP.
 
-#### 3. I have a VTP and I meet all the requirements under the VTL. However, I did not manage to get a ticket on a designated VTL flight to Singapore. Will I still be allowed to enter Singapore?
+#### 2. I have a VTP and I meet all the requirements under the VTL. However, I did not manage to get a ticket on a designated VTL flight to Singapore. Will I still be allowed to enter Singapore?
 
 As required under the VTL <a href="/vtl/conditions">Conditions</a>, a VTP holder must arrive in Singapore on a designated VTL flight. Short-term visitors and long-term pass holders who did not arrive on a designated VTL flight to Singapore may be denied entry into Singapore.
 
 Singapore Citizens and Permanent Residents may return home to Singapore regardless, but will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
-#### 4. What are the requirements for travellers to be eligible for a designated VTL flight?
+<!--#### 4. What are the requirements for travellers to be eligible for a designated VTL flight?
 To be eligible to take a designated VTL flight, they are required to:
 
 <ul>
@@ -468,34 +472,25 @@ To be eligible to take a designated VTL flight, they are required to:
 </ul></li>
 </ul>
 
-Travellers are responsible for <a href="/departing/overview" target="_blank">making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test</a>. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.
+Travellers are responsible for <a href="/departing/overview" target="_blank">making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test</a>. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.-->
 
-#### 5. What flights may Singapore Citizens and Permanent Residents take in order to enter Singapore?
+#### 3. What flights may Singapore Citizens and Permanent Residents take in order to enter Singapore?
 
-Singapore Citizens and Permanent Residents may take either:
-
-(A)	a designated VTL flight; or
-(B)	a non-designated flight.
-
-<u><b>(A) Designated VTL Flights</b></u>
-
-Those arriving in Singapore on a designated VTL flight are not required to serve a Stay-Home Notice (SHN). Instead, they will undergo a COVID-19 PCR tests on-arrival at the airport. They must meet the requirements to be eligible for a designated VTL flight. Upon the completion of their on-arrival COVID-19 PCR test, travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.
-
-<u><b>(B) Non-Designated Flights</b></u>
+Singapore Citizens and Permanent Residents may only arrive in Singapore on a designated VTL flight in order not to serve a Stay-Home Notice (SHN). Instead, they will undergo a COVID-19 PCR test on-arrival at the airport. They must meet the requirements to be eligible for a designated VTL flight. Upon the completion of their on-arrival COVID-19 PCR test, travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.
 
 Those arriving in Singapore on a non-designated flight will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
-#### 6. What flights may Long-Term Pass holders take in order to enter Singapore?
+#### 4. What flights may Long-Term Pass holders take in order to enter Singapore?
 
 Long-Term Pass holders holding a VTP may only arrive in Singapore on a designated VTL flight. Otherwise, they may be denied entry into Singapore.
 
 Long-Term Pass holders holding a Approval Letter of Entry (ALE) via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/overview">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a> may only travel to Singapore on a non-designated flight and will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
-#### 7. What flights may short-term visitors take in order to enter Singapore?
+#### 5. What flights may short-term visitors take in order to enter Singapore?
 
 Short-term visitors who are VTP holders may only arrive in Singapore on designated VTL flights. Otherwise, they will be denied entry into Singapore.
 
-#### 8. What must travellers present to airline staff during check-in at the departure airport for Singapore?
+#### 6. What must travellers present to airline staff during check-in at the departure airport for Singapore?
 
 When checking in at the departure airport, travellers must present the following to the airline staff:
 <ul> 
@@ -514,38 +509,34 @@ When checking in at the departure airport, travellers must present the following
 			</li>
 		</ul>
 	</li>
-<li><i>[not applicable for children aged 2 and below in the calendar year]</i> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+<li><i>[not applicable for children aged 2 and below in the calendar year]</i> a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) [or Antigen Rapid Test (ART) for entry into Singapore from 11 November 2021, 2359hrs] test result certificate (electronic or physical copy) in English stating the following:
 <ol style="list-style-type: circle">
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
-<li>a negative COVID-19 PCR test result;</li>
-<li>the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before departure for Singapore; and</li>
-<li>the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
+<li>a negative COVID-19 test result;</li>
+<li>the date and time when the COVID-19 test was taken, which must be within 48 hours before departure for Singapore; and</li>
+<li>the name of the testing institution conducting the COVID-19 test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
 </ol>
 	</li>
 	</ul>
 
-In addition, short-term visitors must present:
-- a valid visa (for visa-required visitors); and
-- a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app.
+In addition, visa-required short-term visitors must present a valid visa.
 
 A traveller who does not have any of the above may be refused boarding by the airline.
 
 Those unable to use a mobile device due to a certified disability or special needs are eligible to be issued TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport upon arrival in Singapore.
 
-For visitors who do not have mobile devices to download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 5 and 6 under <b><font style="colour:red;">Contact Tracing – TraceTogether</font></b>.
-
-#### 9. What should travellers do if they have already booked themselves onto a non-designated flight?
+#### 7. What should travellers do if they have already booked themselves onto a non-designated flight?
 
 They should approach their airline for assistance.
 
-#### 10. Do travellers need a return flight ticket to enter Singapore?
+#### 8. Do travellers need a return flight ticket to enter Singapore?
 
 Travellers under the VTL do not need a return flight ticket to enter Singapore. However, they are advised to check with the relevant authorities on the entry requirements of the country/region to which they are travelling after Singapore.
 
-#### 11. Are travellers required to take designated VTL flights to depart from Singapore?
+#### 9. Are travellers required to take designated VTL flights to depart from Singapore?
 No, the VTL is meant for travellers who intend to seek entry into Singapore. For travellers flying departing from Singapore, it will depend on the inbound requirements of the destination country/region. Currently, there are no requirements for designated VTL flights.
 
-#### 12. Can transfer/transit passengers travel on designated VTL flights?
+#### 10. Can transfer/transit passengers travel on designated VTL flights?
 
 Transfer/transit passengers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> with WHO EUL vaccines may travel on designated VTL flights, regardless of where they were issued their vaccination certificate and regardless of their travel history, as long as they are able to show proof of vaccination.
 
@@ -564,70 +555,27 @@ At this point in time, travellers will only be able to transfer through Singapor
 
 <p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19 PCR test.</i></p>
 
-#### 1. How do I pay for the on-arrival COVID-19 PCR test?
-Travellers should register and make payment for their on-arrival COVID-19 PCR test <a href="/health/covid19-tests/pcrtest#price">here</a>.
+#### 1. What are the requirements for transportation from the airport to the declared place of accommodation, after taking the on-arrival COVID-19 PCR test?
 
-#### 2. Are travellers required to take an on-arrival COVID-19 PCR test?
+After taking the COVID-19 PCR test, travellers are to immediately take private transportation, taxi, or private hire car (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps) from the airport to their declared place of accommodation.
 
-Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19 PCR test.
-
-All other travellers must undergo a COVID-19 Polymerase Chain Reaction (PCR) test upon arrival in Singapore. The test results will likely be out within 24 hours.
-
-After taking the COVID-19 PCR test, travellers are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the place of accommodation until their test result is confirmed to be negative. After being notified of their negative test results, travellers will be allowed to go about their activities in Singapore.
-
-To expedite the COVID-19 PCR test at the airport, travellers should pre-book and make payment <a href="https://safetravel.changiairport.com/">here</a>.
-
-#### 3. What types of transportation do travellers need to use when going from the airport to their declared place of accommodation, after taking the COVID-19 PCR test?
-
-After taking the COVID-19 PCR test, travellers are to immediately take private transportation, taxi, or private hire car (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps) from the airport to their declared place of accommodation. The traveller may proceed to the taxi stand or call any of the service providers below to book a taxi.
-
-#### 4. Can travellers shop and dine at Changi Airport and visit Jewel Changi Airport upon arrival in Singapore?
-
-No, travellers are not allowed to shop and dine at Changi Airport, including Jewel Changi Airport. This is because travellers are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. 
-
-The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall. 
-
-Travellers will only be allowed to go about their activities in Singapore after being notified of their negative test results.
-
-#### 5. What types of accommodation do travellers need to use while waiting for their test results?
-
-The self-isolation accommodation types are:
-- residential accommodation (i.e. HDB flat, condominium or landed property); or
-- non-residential accommodation (i.e. hotel or serviced apartment).
-
-Travellers must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the accommodation, without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an individual room with an en-suite toilet.
-
-Travellers are required to bear the cost of their accommodation (if applicable) in Singapore.
-
-Travellers may refer to the Singapore Hotel Association (SHA) <a href="https://www.sha.org.sg/hotel-accommodation">website</a> for a list of hotels. The list is non-exhaustive and travellers may book other available accommodations as long as they offer individual rooms with an en-suite toilet.
-
-#### 6. Can travellers share the same room with family members / travel companions / a caregiver (due to a certified disability or special needs) while waiting for their PCR test results?
-
-If the family member(s), travel companion(s) or caregiver is/are <a href="/health/vtsg">fully vaccinated</a> and share similar travel history in the past 14 days prior to departure for Singapore, travellers may share the same room with such persons, while waiting for their PCR test results.
-
-Please also note that if a traveller’s test result is confirmed to be positive, all persons who had shared the same room with the traveller, as well as those identified to be a close contact, will be issued a Quarantine / Isolation Order, and/or be subject to further public health requirements.
-
-#### 7. How much is the on-arrival COVID-19 PCR test at the airport?
-
-The cost of the COVID-19 PCR test is S$160 (inclusive of Goods and Services Tax). Travellers will bear the cost of the test in Singapore.
-
-To expedite the COVID-19 PCR test at the airport, travellers should pre-book and make payment <a href="https://safetravel.changiairport.com/">here</a>.
-
-#### 8. What happens if travellers refuse to undergo the on-arrival COVID-19 PCR test?
-
-Among other measures which may be taken, if travellers refuse to undergo the on-arrival COVID-19 PCR test, they may have their VTP cancelled and be refused entry into Singapore. In such an event, travellers may also be liable for all costs incurred for their repatriation, including custody and maintenance pending repatriation.
-
-#### 9. Can my company / family member / friend pick me up from the airport in a private vehicle and transport me to my declared place of accommodation where I will be waiting for my COVID-19 PCR test results?
-
-Travellers entering Singapore on an approved VTP may be picked up from the airport by their company / family member / friend in a private vehicle. There should not be more than one person picking the traveller up from the airport. 
+Travellers entering Singapore on an approved VTP may be picked up from the airport by their company / family member / friend in a private vehicle. There should not be more than one person picking the traveller up from the airport.
 
 Travellers must be transported directly to their declared place of accommodation to await their COVID-19 PCR test results. All persons in the private vehicle must wear face masks throughout the journey. The following precautionary measures are also strongly encouraged:
-
 - The traveller should sit alone in the back seat and the front passenger seat should be left unoccupied.
 - If more than one traveller is picked up, travellers sharing the same vehicle should have the same travel history and head to the same declared accommodation.
 - The vehicle windows should be wound down and the air-conditioning turned off, where practical.
-- After the traveller has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the National Environment Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/cleaning-and-disinfection/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for surface cleaning and disinfection.
- 
+- After the traveller has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/cleaning-and-disinfection/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19" target="_blank">National Environment Agency (NEA) guidelines</a> for surface cleaning and disinfection.
+
+#### 2. What happens if travellers refuse to undergo the on-arrival COVID-19 PCR test?
+
+Among other measures which may be taken, if travellers refuse to undergo the on-arrival COVID-19 PCR test, they may have their VTP cancelled and be refused entry into Singapore. In such an event, travellers may also be liable for all costs incurred for their repatriation, including custody and maintenance pending repatriation.
+
+#### 3. What should travellers do if they test positive for COVID-19?
+
+Travellers who have tested positive should expect to receive an Isolation Order (IO). Please visit <a href="https://www.covid.gov.sg/unwell/hrp" target="_blank">this page</a> for information on the recovery procedure.
+
+Please also note that if a traveller’s test result is confirmed to be positive, all persons who had shared the same room with the traveller, as well as those identified to be a close contact, should follow <a href="https://www.covid.gov.sg/" target="_blank">MOH’s Protocol 3</a> and may be served with a Health Risk Warning (HRW).
  
 ---
 
@@ -682,15 +630,11 @@ This is to ensure that short-term visitors will be able to bear the full cost of
 
 Visitors must purchase travel insurance for the entire duration of their stay in Singapore, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. Should their COVID-19 treatment cost go beyond S$30,000, visitors will have to pay for the excess.
 
-#### 3. How can visitors purchase the required insurance coverage?
-
-Visitors must purchase COVID-19 travel insurance prior to their travel to Singapore. The SafeTravel website provides <a href="/health/travelinsurance" target="_blank">a list of the Singapore-based insurers’ products</a>. Visitors can visit the respective insurers’ websites to purchase the inbound insurance plan. They may reach out to the insurers for more information.
-
-#### 4. Do visitors need to show proof of travel insurance purchase when they apply for the VTP?
+#### 3. Do visitors need to show proof of travel insurance purchase when they apply for the VTP?
 
 Visitors will have to declare, at the point of VTP application, that they will purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
 
-#### 5. What penalties will be imposed on the visitor if he/she did not buy the insurance prior to entering Singapore?
+#### 4. What penalties will be imposed on the visitor if he/she did not buy the insurance prior to entering Singapore?
 
 Purchase of travel insurance is a condition of the VTL. Non-compliance with any of the conditions of the VTL may result in refusal of entry into Singapore and/or cancellation of the VTP and/or Visit Pass. In such an event, the VTP holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
@@ -710,7 +654,7 @@ Purchase of travel insurance is a condition of the VTL. Non-compliance with any 
 
 #### 1. Must every visitor use TraceTogether?
 
-Yes. All visitors to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, visitors must activate and use the app (see questions 2 and 3 for app activation queries) for the duration of their stay in Singapore.
+Yes. All visitors to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, visitors must activate and use the app for the duration of their stay in Singapore.
 
 Children who are aged 7 to 12 in the calendar year [i.e. in the year 2021, those born from 2009 to 2014 (inclusive)] and those unable to use a mobile device due to a certified disability or special needs are eligible to be issued TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
 
@@ -767,17 +711,14 @@ Please ensure that you keep your mobile device’s Bluetooth function turned on 
 
 All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the <a href="https://apps.apple.com/sg/app/tracetogether/id1498276074">iOS App Store</a>, <a href="https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace">Google Play Store</a> and Huawei App Gallery.
 
-Visitors, with mobile devices that are unable to download the TraceTogether app, can rent a compatible mobile device from the Changi Recommends website <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> prior to departing for Singapore. They must have an electronic or physical copy of the booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport. Visitors who are unable to present a booking confirmation may be refused boarding by the airline.
+Visitors with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is compatible. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport used to enter Singapore.
 
-Visitors can pay for and collect their rental mobile device at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
+Visitors who have rented a mobile device must carry it with them at all times during their stay in Singapore until it is returned. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
 
-Visitors, who have rented a mobile device from Changi Recommends, must carry it with them at all times during their stay in Singapore until it is returned to Changi Recommends. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
    
 #### 6. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
 
-Visitors who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can book a Singapore SIM card from the Changi Recommends website <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> prior to departing for Singapore. They must present an electronic or physical copy of the booking confirmation from Changi Recommends to the airline staff during check-in at the departure airport. Visitors who are unable to present a booking confirmation may be refused boarding by the airline.
-
-Visitors can purchase and collect their Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
+Visitors who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can purchase a Singapore SIM card. Upon purchase, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport used to enter Singapore.
 
 #### 7. Can visitors switch off their mobile devices while in Singapore?
 
@@ -806,115 +747,65 @@ The S$50 deposit will be refunded if:
  
 ### Application for the Vaccinated Travel Pass (VTP)
 
-
 <p style="font-size:16px; color:red;line-height:1.5;"><i>Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are not required to apply for a VTP. However they must comply with all other VTL <a href="/vtl/conditions">conditions</a>.</i></p>
 
-
-#### 1. What is a VTP?
-
-A VTP allows vaccinated travellers who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) travelling from one of the following countries/regions to seek entry into Singapore:
-
-- Australia *(with effect from 7 November 2021, 2359hrs)*
-- Brunei Darussalam
-- Germany
-- Canada
-- Denmark
-- France
-- Italy
-- Republic of Korea *(with effect from 14 November 2021, 2359 hours)*
-- Spain
-- Switzerland *(with effect from 7 November 2021, 2359hrs)*
-- The Netherlands
-- The United Kingdom
-- The United States
-
-The VTP can only be used for travel on designated VTL flights. It comes with <a href="/vtl/conditions">conditions</a> of travel under the VTL that the applicant must comply with.
-
-Singapore Citizens and Permanent Residents do not need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval. Please click <a href="/vtl/requirements-and-process">here</a> for more information on the requirements.
-
-#### 2. How can travellers apply for a VTP?
-
-Short-term visitors and long-term pass holders departing from the following countries/regions may click [here](https://go.gov.sg/vtl-portal) to apply. 
-
-- Brunei Darussalam
-- Germany
-- Canada
-- Denmark
-- France
-- Italy
-- Spain
-- The Netherlands
-- The United Kingdom
-- The United States
-
-
-VTP applications for the Republic of Korea will open on **8 November 2021, 1000 hours (Singapore time)**.
-
-Do note that applications for the VTP must be made between seven and sixty calendar days prior to the intended date of entry into Singapore.
-
-For example, travellers who intend to enter Singapore on 1 October 2021 must apply for a VTP between 1 September 2021 and 24 September 2021.
-
-#### 3. How long will it take for a VTP application to be processed?
+#### 1. How long will it take for a VTP application to be processed?
 
 All travellers who successfully submit their application will be issued with a VTP immediately.
 
-#### 4. Is there a fee to apply for a VTP?
+#### 2. Is there a fee to apply for a VTP?
 
 No, there is no fee payable for the application of a VTP.  
 
-#### 5. Do travellers travelling with family members need to apply a VTP for every individual?
+#### 3. Do travellers travelling with family members need to apply a VTP for every individual?
 
 Yes, each traveller will require a VTP.
 
-#### 6. Is there a limit to the number of times travellers can apply for a VTP?
+#### 4. Is there a limit to the number of times travellers can apply for a VTP?
 
 There is no limit to the number of times travellers can apply for a VTP. Every entry into Singapore requires a new VTP application.
 
-#### 7. How long is the validity of a VTP?
+#### 5. How long is the validity of a VTP?
 
 A VTP is valid for single entry into Singapore anytime from the traveller’s intended date of entry and up to six calendar days after.
 
 For example, travellers who hold a valid VTP to enter Singapore on 8 September 2021, have up to 14 September 2021 to do so should they need to make changes to their flight departure date.
 
-#### 8. Once a VTP application is approved, can the relevant authorities change the VTL conditions or even cancel the VTP?
+#### 6. Once a VTP application is approved, can the relevant authorities change the VTL conditions or even cancel the VTP?
 
 Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may introduce new measures or requirements as and when necessary to safeguard public health. This may result in changes to the VTL conditions or cancellation of the VTP at short notice. Applicants will be notified of any such changes or cancellation of their VTP.
 
-#### 9. Do Singapore Citizens and Permanent Residents need to apply for an VTP?
+#### 7. Do Singapore Citizens and Permanent Residents need to apply for an VTP?
 
 Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click <a href="/vtl/requirements-and-process">here</a> for more information on the requirements.
 
-#### 10. I have an In-Principle Approval (IPA) for a Long-Term Pass or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM). How should I apply for the VTP?
+#### 8. I have an In-Principle Approval (IPA) for a Long-Term Pass or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM). How should I apply for the VTP?
 
 IPA holders and MOM LTVP holders should apply for the VTP as short-term visitors. They will need to comply with all the [conditions](/vtl/conditions) of the VTP that apply to short-term visitors.
 
-#### 11. Can travel agents apply for VTP on behalf of their clients?
-
-No. Travellers will need to submit the application themselves as they are required to agree to the conditions of the VTL, read and agree to the Privacy Statement, as well as verify all submitted information.
-
-#### 12. Why was I unsuccessful in applying for a VTP?
+#### 9. Why was I unsuccessful in applying for a VTP?
 
 A VTP application may be unsuccessful for reasons such as:
-- Invalid vaccination QR code
+- <a href="/vtl/faq#invalidcode" target="_blank">Invalid vaccination QR code</a>
 - Incomplete and/or incorrect information submitted
 - Passport validity is less than 6 months
  
-#### 13. How do I change the validity of my VTP?
+#### 10. How do I change the validity of my VTP?
 
 A VTP is valid for single entry into Singapore anytime from your intended date of entry and up to six calendar days after.
 If your travel plans change and you need to enter before or after the validity period, please submit a new VTP application. 
 
 Should you require assistance to seek urgent entry into Singapore within the next 6 days, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555. Kindly note that all appeals are assessed on a case-by-case basis. 
 
-#### 14. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
+#### 11. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
 
-If your particulars have changed, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
+If your particulars have changed, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> with your revised particulars.
 
-#### 15. How can I cancel my VTP as I no longer wish to travel to Singapore?
+#### 12. How can I cancel my VTP as I no longer wish to travel to Singapore?
 
 You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, it will automatically expire.
 
-#### 16. Can travellers use the VTP to transit/transfer through Singapore?
+#### 13. Can travellers use the VTP to transit/transfer through Singapore?
 
 No, the VTP is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
