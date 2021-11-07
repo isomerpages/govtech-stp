@@ -294,7 +294,7 @@ Please ensure that you keep your mobile device’s Bluetooth function turned on 
 
 All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace) and Huawei App Gallery.
 
-Visitors, with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is compatible.
+Visitors with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is compatible.
 
 Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore.
 
