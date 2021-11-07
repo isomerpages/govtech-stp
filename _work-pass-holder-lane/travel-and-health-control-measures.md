@@ -75,7 +75,7 @@ On this page you will find the following:
 <ol style="margin-top: 0px; list-style-type: decimal;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:<br><br>
 	<table>
 		<thead>
 			<tr>
@@ -99,7 +99,8 @@ On this page you will find the following:
 			</td>
 			</tr>
 		</tbody>
-	</table><br>
+	</table>
+	<br>
 	Submitters must register and pay for the on-arrival test ($160 including GST) <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to self-isolate in one of the following accommodation until they get a negative test result: 
@@ -114,7 +115,33 @@ On this page you will find the following:
 		<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-style-type: decimal;">
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:  <br><br>Submitters must register and pay for the on-arrival test ($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:  <br><br>
+	<table>
+		<thead>
+			<tr>
+		<th style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Helper's/CN's mode of entry into Singapore</b>
+		</th>
+						<th style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Register and pay for on-arrival test using</b>
+		</th>
+				</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Air
+			</td>
+			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Changi Airport eService</a>
+			</td>
+			</tr>
+			<tr>
+			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Land or Sea
+			</td>
+			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">Parkway Shenton eService</a>
+			</td>
+			</tr>
+		</tbody>
+	</table>
+	<br>
+	Submitters must register and pay for the on-arrival test ($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 </li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to self-isolate until they get a negative test result. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	</li>
