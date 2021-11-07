@@ -252,7 +252,7 @@ You may refer to this table below:
 </tbody>
 </table>
 
-<sup>*</sup>Foreign nationals vaccinated in the Republic of Korea should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide their physical vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Foreign nationals who are Singapore Citizens/Permanent Residents will need to present their physical vaccination certificate for verification at check-in and arrival immigration. They are strongly encouraged to self-verify their vaccination certificate <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=1" target="_blank">here</a> prior to their trip.
+<sup>*</sup>If you are a non-Korean national and a Singapore short-term visitor or long-term pass holder, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application.
 
 If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="blank">enquiry form</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.
 
@@ -273,6 +273,83 @@ You may encounter errors upon uploading your vaccination QR code(s) for reasons 
 - Traveller is not vaccinated in a [VTL country/region](/vtl/requirements-and-process#countries)
 
 For further assistance, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at +65 6812 5555.
+
+<div id="verify"></div>
+
+#### 6. Can I self-verify my vaccination certificate?
+
+Yes, you can. You may wish to use the following non-exhaustive list of applications / websites for self-verification:
+
+<table>
+<thead>
+<tr>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Certificate Type</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Application / Website</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">
+	<ol style="margin-top:0px; list-style-type: lower-latin;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Web App: <a href="https://app.digitalcovidcertchecker.gov.ie/" target="_blank">DCC Checker</a></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Android Mobile App: <a href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier" target="_blank">COVID Certificate Check</a> </li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">iOS Mobile App: <a href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510" target="_blank">COVID Certificate Check</a> </li>
+	</ol>
+	</td>
+</tr>
+<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://smarthealth.cards/faq.html" target="_blank">Smart Health Cards (SHC)</a> issued by 
+	<ol style="margin-top:0px; list-style-type: lower-latin;">
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
+								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Any Canadian province</li>							</ol>
+</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">
+	<ol style="margin-top:0px; list-style-type: lower-latin;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">iOS Mobile App: <a href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390" target="_blank"> SMART Health Card Verifier</a></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Android Mobile App:<a href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier" target="_blank">SMART Health Card Verifier</a> </li>
+	</ol>
+	</td>
+</tr>	
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Pass</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">
+		<ol style="margin-top:0px; list-style-type: lower-latin;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Web App: <a href="https://app.digitalcovidcertchecker.gov.ie/" target="_blank">DCC Checker</a></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Android Mobile App: <a href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier" target="_blank">COVID Certificate Check</a> </li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">iOS Mobile App: <a href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510" target="_blank">COVID Certificate Check</a> </li>
+	</ol>
+		</td>
+</tr>	
+	<tr>
+<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center; "><i><b>For travellers entering Singapore from 7 November 2021, 2359 hours</b></i></td>
+	</tr>
+		<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">
+			<ol style="margin-top:0px; list-style-type: lower-latin;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Android Mobile App: <a href="https://play.google.com/store/apps/details?id=au.gov.dfat.vdsncchecker" target="_blank">VDS-NC Checker </a> </li>
+					<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">iOS Mobile App:  <a href="https://apps.apple.com/sg/app/vds-nc-checker/id1582587862" target="_blank">VDS-NC Checker </a> </li>
+	</ol>
+			</td>
+</tr>	
+		<tr>
+<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center; "><i><b>For travellers entering Singapore from 14 November 2021, 2359 hours</b></i></td>
+	</tr>
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">
+				<ol style="margin-top:0px; list-style-type: lower-latin;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">KDCA website</a> </li>
+	</ol>
+				</td>
+</tr>	
+</tbody>
+</table>
+
+
+
 
 ---
 
