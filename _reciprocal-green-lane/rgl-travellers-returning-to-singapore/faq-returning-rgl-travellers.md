@@ -47,7 +47,7 @@ third_nav_title: RGL Travellers Returning to Singapore
 
 #### 1. What health measures will apply to me upon my return to Singapore after my RGL travel?
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders returning to Singapore from their trip to Mainland China  under the RGL are not required to serve a Stay-Home Notice. However, they will be required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](https://safetravel.changiairport.com/#/) upon arrival and remain in self-isolation until a negative PCR test is conveyed.
+Singapore Citizens, Permanent Residents and Long-Term Pass holders returning to Singapore from their trip to Mainland China  under the RGL are not required to serve a Stay-Home Notice. However, they will be required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](https://safetravel.changiairport.com/#/) [S$160] upon arrival and remain in self-isolation until a negative PCR test is conveyed.
 
 Travellers returning to Singapore from their trip to Brunei Darussalam under RGL are required to:
 - Take a COVID-19 PCR test within 72 hours before departure for Singapore.
