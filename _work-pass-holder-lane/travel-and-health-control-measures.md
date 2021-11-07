@@ -79,9 +79,9 @@ On this page you will find the following:
 	<table>
 		<thead>
 			<tr>
-		<th style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Helper's/CN's mode of entry into Singapore
+		<th style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Helper's/CN's mode of entry into Singapore</b>
 		</th>
-						<th style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Register and pay for on-arrival test using
+						<th style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Register and pay for on-arrival test using</b>
 		</th>
 				</tr>
 		</thead>
@@ -89,13 +89,13 @@ On this page you will find the following:
 		<tr>
 			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Air
 			</td>
-			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Changi Airport eService
+			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Changi Airport eService</a>
 			</td>
 			</tr>
 			<tr>
 			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Land or Sea
 			</td>
-			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Parkway Shenton eService
+			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">Parkway Shenton eService</a>
 			</td>
 			</tr>
 		</tbody>
