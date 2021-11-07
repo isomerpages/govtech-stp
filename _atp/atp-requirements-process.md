@@ -115,8 +115,13 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 	              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">non-residential accommodation (i.e. hotel or serviced apartment).</li>
      </ol>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Visitors must isolate alone, or with household members who have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet. </p>
-	    <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Visitors are required to bear the cost of their accommodation (if applicable) in Singapore</p>
-	    <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><i><b>Note: </b>Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg/hotel-accommodation">website</a> for a list of hotels. The list is non-exhaustive, and visitors may book other available accommodations as long as they offer individual rooms with an ensuite toilet.</i></p>
+	    <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Visitors are required to bear the cost of their accommodation (if applicable) in Singapore</p><br/>
+	    <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><b>Note: </b>Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg/hotel-accommodation">website</a> for a list of hotels. The list is non-exhaustive, and visitors may book other available accommodations as long as they offer individual rooms with an ensuite toilet.</p><br/>
+			  <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The minimum rental period is 3 months for private residences, and 6 months for HDB flats. Short-term rental of these properties are not allowed. Travellers may refer to the following websites for more information.</p>
+			<ol style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;list-style-type:disc;">
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Regulations for renting a Private Property</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Regulations for renting a HDB flat/ Bedroom</li>
+			</ol>
     </td>
  </tr>
   <tr>
