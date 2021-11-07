@@ -302,9 +302,9 @@ Visitors, who have rented a mobile device must carry it with them at all times d
 
 #### 6. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
 
-Visitors who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can book a Singapore SIM card from the Changi Recommends website [here](https://www.changirecommends.com/reservation_form.aspx) prior to departing for Singapore. They must have an electronic or physical copy of the booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport. Visitors who are unable to present a booking confirmation may be refused boarding by the airline.
+Visitors who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can purchase a Singapore SIM card.
 
-Visitors can pay for and collect their Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
+Upon purchase, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore.
 
 #### 7. Can visitors switch off their mobile devices while in Singapore?
 
