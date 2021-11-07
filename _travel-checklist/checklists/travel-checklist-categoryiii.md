@@ -22,19 +22,21 @@ All travellers, except Singapore Citizens and Permanent Residents, must apply fo
 
 Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.
 
-&#9744;  <i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
+<div id="stage1c"></div>
+
+&#9744;  <i><b>C) Pre-Departure COVID-19 Test (PDT)</b></i>
 
 Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
 - Are below the age of three in this calendar year; or
 - Have remained in any <a href="/shn-and-swab-summary" target="_blank">Category (I) country/region</a> in the past 14 consecutive days before departure; or
 - Are Singapore Citizen entering Singapore via the Causeway or Second Link.
 
-Travellers are required to take their PDT at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the PDT:
+Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR [For arrivals from 11 Nov 2021, 2359 hours]</b> an Antigen Rapid Test(ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-Swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test.
 
-Travellers with difficulties getting a COVID-19 PCR test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office</a>.
+Travellers with difficulties getting a COVID-19 PCR test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
@@ -56,7 +58,7 @@ Install and activate the <a href="https://www.tracetogether.gov.sg/" target="_bl
 
 As part of the airline or transport operator’s pre-boarding checks, travellers may be asked for the following:
 - Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and
-- Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result
+- Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result (see [Stage 1C](#stage1c))
 
 Travellers without the above may be denied boarding.
 
@@ -114,9 +116,11 @@ During the SHN period, randomised in-person or phone/video compliance check(s) w
 </div>
 
 
-&#9744;  <i><b>B) COVID-19 Tests during SHN</b></i>
+&#9744;  <i><b>B) End-of-SHN COVID-19 Test</b></i>
 
-**All** travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
+Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
+
+The test costs SGD$125 (including GST). Returning Singapore Citizens and Permanent Residents will be advised on payment details after arrival. All other travellers would have paid for the test at the point of entry application.
 
 
 ### Stage 5: End of Stay-Home Notice
