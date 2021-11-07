@@ -238,3 +238,20 @@ input:checked + label + .content {
 	</div>
 </body>
 </html>
+
+
+### 3. Frequently Asked Questions
+
+Click <a href="/vtl/faq" target="_blank">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
+- <a href="/vtl/faq#QRcode" target="_blank">Recognised Vaccination Certificates for VTL</a>
+- <a href="/vtl/faq#invalidcode" target="_blank">VTP Application Technical Difficulties</a>
+- <a href="/health/vtsg" target="_blank">Definition of Fully Vaccinated</a>
+- <a href="/vtl/faq#THReq" target="_blank">Travel History</a>
+- <a href="/vtl/faq#PDT" target="_blank">Pre-Departure Test</a>
+- <a href="/vtl/faq#Flight" target="_blank">Designated VTL Flights</a>
+- <a href="/vtl/faq#OAT" target="_blank">On-Arrival Test & Self-Isolation</a>
+
+Have a question that is not addressed by any of the available resources found in this webpage? Contact us here.
+
+
+
