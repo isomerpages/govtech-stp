@@ -12,7 +12,7 @@ All other approved RGL travellers visiting Singapore must remain in the RGL-coun
 
 ### COVID-19 Test before Departure to Singapore
 
-In addition to meeting the travel history requirement, all RGL-approved travellers must take a [COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pcrtest) (“PCR test”) within 72 hours before departure. The test must be taken at the following authorised COVID-19 testing facilities:
+In addition to meeting the travel history requirement, all RGL-approved travellers must take a COVID-19 Polymerase Chain Reaction test (“PCR test”) within 72 hours before departure. The test must be taken at the following authorised COVID-19 testing facilities:
 
 <table>
 <thead>
