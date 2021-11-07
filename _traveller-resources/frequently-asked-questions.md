@@ -46,7 +46,7 @@ Travellers should note that basic essentials such as water, cleaning supplies as
 
 #### 4. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
 
-The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) <u>at the end of SHN</u>. The duration of the SHN will be stated on your SHN document, and you can also [click here](/shn-calculator) to calculate the end date of your SHN. 
+The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final COVID-19 Polymerase Chain Reaction test (“PCR test”) <u>at the end of SHN</u>. The duration of the SHN will be stated on your SHN document, and you can also [click here](/shn-calculator) to calculate the end date of your SHN. 
 
 Travellers who are serving SHN at their own place of residence may end their SHN after they have received confirmation of a **negative** result for the SHN exit PCR tests.
 
@@ -215,11 +215,11 @@ Action will be taken against travellers who fail to comply with any of the stipu
 
 #### 8. Do I have to complete my Stay-Home Notice (SHN) if I have been tested negative for COVID-19 before departing to Singapore?
 
-Yes, travellers must complete their SHN even after they are tested negative for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
+Yes, travellers must complete their SHN even after they are tested negative for their COVID-19 Polymerase Chain Reaction test (“PCR test”) before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
 
 #### 9. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
-Travellers arriving from countries that require a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) must do so if they are three years old and above in that calendar year (i.e. born in and before 2018) and departing for Singapore from their first point of embarkation. Travellers whose children are below three years old in that calendar year, i.e. born after 2018, are exempted.
+Travellers arriving from countries that require a COVID-19 Polymerase Chain Reaction test (“PCR test”) must do so if they are three years old and above in that calendar year (i.e. born in and before 2018) and departing for Singapore from their first point of embarkation. Travellers whose children are below three years old in that calendar year, i.e. born after 2018, are exempted.
 
 #### 10. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
@@ -227,7 +227,7 @@ Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.
 
 #### 11. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
 
-In Singapore’s context, the [COVID-19 Polymerase Chain Reaction Test (“PCR test”)](/health/covid19-tests/pcrtest) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
+In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
 #### 12. I am unwell. Can I postpone my COVID-19 Polymerase Chain Reaction test (“PCR test”) appointment?
 
@@ -377,7 +377,7 @@ Yes, all travellers serving their Stay-Home Notice at an [SDF](/health/shn/sdf) 
 
 #### 2. When and how should I pay for my COVID-19 Polymerase Chain Reaction test (“PCR test”) and Stay-Home Notice Dedicated Facility (SDF)?
 
-All arriving travellers are required to pay for their PCR test (click [here](/health/covid19-tests/pcrtest) to check for the cost) and [SDF](/health/shn/sdf). Travellers who are sponsored may work out the payment arrangement with their application sponsors.
+All arriving travellers are required to pay for their Covid-19 test and [SDF](/health/shn/sdf). Travellers who are sponsored may work out the payment arrangement with their application sponsors.
 
 When and how payment is collected, will depend on the travellers’ scheme of travel:
 
