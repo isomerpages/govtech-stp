@@ -116,8 +116,8 @@ input:checked + label + .content {
 			</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>If you are a non-Korean national and a Singapore short-term visitor or long-term pass holder, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application. </p>
 	   <!-- <p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>Foreign nationals vaccinated in the Republic of Korea should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide their physical vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Foreign nationals who are Singapore Citizens/Permanent Residents will need to present their physical vaccination certificate for verification at check-in and arrival immigration. They are strongly encouraged to self-verify their vaccination certificate <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">here</a> prior to their trip.</p>-->
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>For Singapore Citizens and Permanent Residents</u></b></span><br/><br/><i>You will need to present an acceptable proof of vaccination at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#Q6" target="_blank">here</a>.</i> </p>
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>For Short-Term Visitors and Long-Term Pass Holders</u></b></span><br/><br/><i>If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate.</i> </p>
+	<!--<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>For Singapore Citizens and Permanent Residents</u></b></span><br/><br/><i>You will need to present an acceptable proof of vaccination at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#Q6" target="_blank">here</a>.</i> </p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>For Short-Term Visitors and Long-Term Pass Holders</u></b></span><br/><br/><i>If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate.</i> </p>-->
 </div>
 
 <input type="checkbox" id="title3" />
@@ -217,8 +217,8 @@ input:checked + label + .content {
 <label for="title4">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
 <div class="content">
-	<p style="line-height:1.5;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>.</p>
-		<p style="line-height:1.5;"><b>However, SC/PRs must comply with the requirements stated in the <a href="/vtl/travel-checklist" target="_blank"> VTL Traveller’s Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
+	<p style="line-height:1.5;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. However, you will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide here.</p>
+		<p style="line-height:1.5;"><b>SC/PRs must comply with the requirements stated in the <a href="/vtl/travel-checklist" target="_blank"> VTL Traveller’s Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 </div>
 	
 <input type="checkbox" id="title5" />
@@ -235,7 +235,8 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Accompanying children aged 12 and below and are unvaccinated do not need to apply. </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications must be submitted between 7 and 60 days before the intended date of entry into Singapore. </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications must be supported with digitally verifiable vaccination certificate QR code(s).</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A VTP is valid for 6 calendar days from the traveller’s chosen date of entry.</li>		
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A VTP is valid for 6 calendar days from the traveller’s chosen date of entry.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements, please write to the Safe Travel Office using the enquiry form here and provide your vaccination certificate.</li>	
 	</ol>
 	</p>
 	</div>
