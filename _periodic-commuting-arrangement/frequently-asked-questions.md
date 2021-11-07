@@ -232,7 +232,7 @@ Travellers who have misplaced their work pass should lodge a police report immed
 
 #### 5. How much does it cost to take the end-of-SHN COVID-19 test? To whom and how should the payment be made?
 
-Payment would already be collected at the point of application. 
+The latest cost of the test is S$125. Payment would already be collected at the point of application. 
 
 #### 6. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
 
