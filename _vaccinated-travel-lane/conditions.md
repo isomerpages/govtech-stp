@@ -14,13 +14,13 @@ permalink: /vtl/conditions
        <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test [or Antigen Rapid Test (ART), for entry into Singapore from <b>11 Nov 2021, 2359hrs, SGT</b>]  within 48 hours before the scheduled departure time of his/her flight, at an internationally accredited laboratory, clinic or medical facility, and obtain a test result certificate in English stating the following:</li>
         <ol style="font-size:18px; list-style-type:lower-roman;">
           <li style="font-size:18px; list-style-type:lower-roman;">the VTP holder’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
-           <li style="font-size:18px; list-style-type:lower-roman;">a negative COVID-19 PCR test result</li>
-          <li style="font-size:18px; list-style-type:lower-roman;">the date and time when the COVID-19 PCR test was taken; and</li>
-					    <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 PCR test.
+           <li style="font-size:18px; list-style-type:lower-roman;">a negative COVID-19 test result</li>
+          <li style="font-size:18px; list-style-type:lower-roman;">the date and time when the COVID-19 test was taken; and</li>
+					    <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 test.
 </li>
          </ol>
                <li style="font-size:18px; list-style-type:lower-alpha;">undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately<sup>2</sup>  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTL application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
-	     <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 PCR test results to the relevant Singapore Government authorities for public health purposes;</li>
+	     <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 test results to the relevant Singapore Government authorities for public health purposes;</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;">download the TraceTogether app on his/her mobile device and:
 		<ol style="font-size:18px; list-style-type:lower-roman;">
 		<li style="font-size:18px; list-style-type:lower-roman;">keep the TraceTogether app activated at all times while in Singapore;</li>
