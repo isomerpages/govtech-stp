@@ -211,7 +211,7 @@ input:checked + label + .content {
 <body>
 
 <input type="checkbox" id="title4" />
-<label for="title1">Singapore Citizens (SC) / Permanent Residents (PR)</label>
+<label for="title4">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
 <div class="content">
 	<p style="line-height:1.5;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>.</p>
@@ -219,7 +219,7 @@ input:checked + label + .content {
 </div>
 	
 <input type="checkbox" id="title5" />
-<label for="title2">Foreign Visitors (e.g. Short-Term Visitors / Long-Term Pass Holders)</label>
+<label for="title5">Foreign Visitors (e.g. Short-Term Visitors / Long-Term Pass Holders)</label>
 
 <div class="content">
 	<p style="line-height:1.5;"><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a></b></p>
