@@ -48,7 +48,7 @@ label:hover {
 
 label::after {
 	font-family: "Font Awesome 5 Free";
-	content: '\002B';
+	content: '\271A';
 	font-weight: bold;
 	font-size: 22px;
 	position: absolute;
@@ -179,7 +179,7 @@ label:hover {
 
 label::after {
 	font-family: "Font Awesome 5 Free";
-	content: '\002B';
+	content: '\271A';
 	font-weight: bold;
 	font-size: 22px;
 	position: absolute;
