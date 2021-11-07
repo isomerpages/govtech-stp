@@ -33,9 +33,8 @@ The ATP comes with [conditions](/atp/conditions) of travel that the applicant mu
 
 #### 2. How can visitors apply for an ATP?
 
-To apply for an ATP, please go to [apply now](/atp/apply-now). Do note that applications for the ATP must be made between seven and thirty calendar days prior to the intended date of entry into Singapore.
+To apply for an ATP, please go to [apply now](/atp/apply-now). Do note that applications for the ATP must be made between seven and 60 calendar days prior to the intended date of entry into Singapore.
 
-For example, visitors who intend to enter Singapore on 31 January 2021 must apply for an ATP between 1 January 2021 and 24 January 2021.
 
 #### 3. How long will it take for an ATP application to be processed?
 
@@ -322,4 +321,3 @@ The S$50 deposit will be refunded if:
 - the TraceTogether token the visitor is returning belongs to him/her; and
 - the visitor had made a deposit for the TraceTogether token being returned; and
 - the TraceTogether token is not faulty or damaged.
-
