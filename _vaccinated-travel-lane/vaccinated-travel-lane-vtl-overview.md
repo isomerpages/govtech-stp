@@ -12,6 +12,8 @@ The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On 
 
 Travellers intending to leave Singapore to a VTL country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For all departure-related advisories, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.
 
+<div id="Eligibility"></div>
+
 ### 1. Eligibility
 
 To be eligible for quarantine-free travel under the Vaccinated Travel Lane, travellers must fulfil the following criteria and the <a href="/vtl/conditions" target="_blank">Conditions</a> of the VTL. Otherwise, they should explore other Safe Travel Lanes at the Travelling to Singapore page:
