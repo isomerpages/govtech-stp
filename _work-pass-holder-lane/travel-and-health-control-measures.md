@@ -288,7 +288,7 @@ On this page you will find the following:
 		</table><br>	
 		<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i><br>
 		
-<div id="cat3"></div>
+<!--<div id="cat3"></div>-->
 
 <table>
 <thead>
