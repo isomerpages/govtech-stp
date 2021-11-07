@@ -65,9 +65,8 @@ permalink: /brunei/rgl/terms-and-conditions
 8. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
 : b. Valid visa (for visa-required passport holders);
-: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a health centre authorised by the Government of Brunei Darussalam;
-: d. Return air ticket or proof of other transportation arrangements to depart Singapore; and
-: e. TraceTogether app downloaded on mobile device with profile registered on app or proof of rental of TraceTogether-compatible device in Singapore. 
+: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a health centre authorised by the Government of Brunei Darussalam; and
+: d. Return air ticket or proof of other transportation arrangements to depart Singapore
 
 #### Post-Arrival in Singapore
 
@@ -76,9 +75,8 @@ permalink: /brunei/rgl/terms-and-conditions
 2. The traveller is required to present the following documents (hard copy or electronic copy) at Immigration:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
 : b. Valid Visa (for visa-required passport holders);
-: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a health centre authorised by the Government of Brunei Darussalam;
-: d. Return air ticket or proof of other transportation arrangements to depart Singapore; and
-: e. TraceTogether app downloaded on mobile device with profile registered on app or proof of rental of TraceTogether-compatible device in Singapore.
+: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a health centre authorised by the Government of Brunei Darussalam; and
+: d. Return air ticket or proof of other transportation arrangements to depart Singapore
 
 3. The traveller must utilise the dedicated transportation arranged by the Host for transport between the airport and the traveller’s declared place of accommodation.
 
