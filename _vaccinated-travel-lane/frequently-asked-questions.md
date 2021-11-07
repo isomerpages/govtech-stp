@@ -80,7 +80,7 @@ However, unvaccinated:
 </ol>
 may still travel to Singapore on a non-designated flight. They will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
-<div id="Q6"></div>
+
 
 #### 3. What must travellers with proof of vaccination issued in Singapore present at check-in and arrival immigration?
 
@@ -121,6 +121,8 @@ The electronic or physical vaccination certificate(s) should be in English and c
 If you have an EU Digital COVID Certificate (EU DCC) issued by any VTL country/region showing the final dose in the series (i.e. “1/1” or “2/2”), you will fulfill the vaccination requirement under the VTL. Short-term visitors and long-term pass holders may proceed to apply for a <a href="https://go.gov.sg/vtl-portal" target="_blank">Vaccinated Travel Pass (VTP) here</a> and upload the QR code found on their EU DCC of vaccination on the VTP application portal.
 
 For all other travellers, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form</a> and provide your proof of vaccination and recovery certificate.
+
+<div id="Q6"></div>
 
 #### 6. I was fully vaccinated in a non-VTL country/region and have since obtained a vaccination certificate issued by a VTL country/region / had my vaccination records ingested into Singapore’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
 
