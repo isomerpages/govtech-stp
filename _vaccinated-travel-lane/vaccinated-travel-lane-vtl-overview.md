@@ -16,7 +16,7 @@ Travellers intending to leave Singapore to a VTL country/region, must check with
 
 ### 1. Eligibility
 
-To be eligible for quarantine-free travel under the Vaccinated Travel Lane, travellers must fulfil the following criteria and the <a href="/vtl/conditions" target="_blank">Conditions</a> of the VTL. Otherwise, they should explore other Safe Travel Lanes at the Travelling to Singapore page:
+To be eligible for quarantine-free travel under the Vaccinated Travel Lane, travellers must fulfil the following criteria and the <a href="/vtl/conditions" target="_blank">Conditions</a> of the VTL. Otherwise, they should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page:
 
 <html>
 
@@ -80,10 +80,11 @@ input:checked + label + .content {
 <body>
 
 <input type="checkbox" id="title1" />
-<label for="title1">Test</label>
+<label for="title1">Criteria 1: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
 
 <div class="content">
-	<p>The following FAQs apply to persons who are residents in countries/regions that have established RGL arrangements with Singapore seeking single-entry, short-term essential business and official visit into Singapore:</p>
+	<p style="line-height:1.5;">Travellers must be fully vaccinated with WHO EUL vaccines (<a href="/health/vtsg" target="_blank">click here for definition</a> of fully vaccinated) at least two weeks before arrival in Singapore. </p>
+		<p style="line-height:1.5;">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL if accompanied by a fully vaccinated VTL traveller.</p>
 </div>
 
 <input type="checkbox" id="title2" />
