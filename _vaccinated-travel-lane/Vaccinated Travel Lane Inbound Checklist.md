@@ -140,7 +140,6 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 </tr>
 </tbody>
 </table>
-	<sup>*</sup><p style="line-height:1.5;">The list of airlines and websites will be regularly updated</p>
 </div>
 
 
