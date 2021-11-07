@@ -3,10 +3,9 @@ title: Pre-Departure Measures
 permalink: /rgl/pre-departure-measures
 third_nav_title: RGL Travellers Visiting Singapore
 ---
-
 ### Travel history
 
-Approved RGL-travellers travelling from Mainland China, must remain in Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang, for at least seven days prior to departure for Singapore. 
+Approved RGL travellers travelling from Mainland China, must remain in Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang, for at least seven days prior to departure for Singapore. 
 
 All other approved RGL travellers visiting Singapore must remain in the RGL-counterpart country/region for at least 14 consecutive days prior to departure for Singapore.
 
