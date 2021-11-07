@@ -212,7 +212,7 @@ For RGL travellers entering Singapore by land, entry is only permitted via the C
 
 The application for the SafeTravel Pass is open for a period of two to five weeks before the week of the traveller’s planned departure to Singapore. As applications can take up to seven days (excluding the day of application) to process, any application submitted less than eight days from the planned date of entry will not be accepted.
 
-Application sponsors should apply for the SafeTravel Pass-RGL as soon as practicable. Sponsors should take into consideration the time involved forapplication and visa processing (if required), as well as the mandatory pre-departure [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) before departure for Singapore. That aside, application sponsors should note that the hosting company or government agency must submit a copy of the traveller’s 14-day controlled itinerary at least a day before the travellers’ arrival in Singapore.
+Application sponsors should apply for the SafeTravel Pass-RGL as soon as practicable. Sponsors should take into consideration the time involved forapplication and visa processing (if required), as well as the mandatory pre-departure COVID-19 Polymerase Chain Reaction test (“PCR test”) before departure for Singapore. That aside, application sponsors should note that the hosting company or government agency must submit a copy of the traveller’s 14-day controlled itinerary at least a day before the travellers’ arrival in Singapore.
 
 #### 8. How will I be notified of the outcome of the SafeTravel Pass application?
 
