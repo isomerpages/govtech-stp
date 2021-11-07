@@ -62,7 +62,7 @@ Travellers will be responsible for charges for COVID-19 treatment if [symptoms](
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the PDF copy of the Entry Travel Pass which confirms that he/she was granted approval by the relevant authorities to travel to Brunei Darussalam or Mainland China under the RGL. The document is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Brunei Darussalam or Mainland China via the RGL.
 
-<div id="faq-return-GIJMR"></div>  
+<!--<div id="faq-return-GIJMR"></div>  
 
 ### Germany, Indonesia, Japan, Malaysia & Republic of Korea
 
@@ -150,7 +150,7 @@ Returning RGL travellers from <b>Germany, Indonesia, Japan, Malaysia (taking fli
 
 #### 3. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Germany/ Indonesia/ Japan/ Malaysia/ Republic of Korea?
 
-Singapore Citizens and Permanent Residents may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.
+Singapore Citizens and Permanent Residents may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.-->
 
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 
