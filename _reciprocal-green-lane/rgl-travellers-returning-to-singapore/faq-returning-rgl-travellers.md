@@ -10,7 +10,7 @@ third_nav_title: RGL Travellers Returning to Singapore
 <table>
   <thead>
     <tr>
-      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">RGL Countries</th>
+      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">RGL Countries/Regions</th>
       <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">FAQ</th>
     </tr>
   </thead>
