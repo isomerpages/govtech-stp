@@ -78,9 +78,8 @@ permalink: /china/rgl/terms-and-conditions
 2. The traveller is required to present the following documents (hard copy or electronic copy) at Immigration:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
 : b. Valid Visa (for visa-required passport holders);
-: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a medical institution designated by the relevant provincial/municipal government in China;
-: d. Return air ticket or proof of other transportation arrangements to depart Singapore; and
-: e. TraceTogether app downloaded on mobile device with profile registered on app or proof of rental of TraceTogether-compatible device in Singapore.
+: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a medical institution designated by the relevant provincial/municipal government in China; and
+: d. Return air ticket or proof of other transportation arrangements to depart Singapore
 
 3. The traveller must utilise the dedicated transportation arranged by the Host for transport between the airport and the traveller’s declared place of accommodation.
 
