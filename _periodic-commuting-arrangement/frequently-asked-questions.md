@@ -386,7 +386,7 @@ While employers do not need to arrange for the tests, they are obligated to info
 
 Employers or employees that do not have the details of the COVID-19 test appointment date, time and designated test site <u>by the 4th day </u> of the SHN period should write in using [SafeTravel Enquiry Form](https://go.gov.sg/sto-enquiry). Please include the employee’s name and FIN (for work pass holder) or NRIC (for Singapore PR), and employer’s mobile number for our follow up.
 
-#### 2. My employee did not turn up for his/her End-of-SHN COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
+#### 2. My employee did not turn up for his/her end-of-SHN COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
 All PCA travellers <b>must</b> adhere to their appointment timing for their COVID-19 test. Should an employee miss their first test appointment, a second test appointment will be scheduled; these details would be sent to the employer/employee. Employers should ensure that their employees turn up for their test appointment. Travellers who refuse to or continue to miss their COVID-19 PCR tests may be charged under the Infectious Diseases Act and have their work passes revoked.
 
