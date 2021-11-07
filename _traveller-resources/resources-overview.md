@@ -19,8 +19,6 @@ Otherwise, click on the links below for the relevant resources on Singapore's tr
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn/sdf">SHN in Dedicated Facilities (SDF)</a></li>
     </ol>
 	</li>
-	 <li style="margin-top:0px; margin-bottom:0px; font-size:18px; ">
-  <a href="/health/covid19-tests/pcrtest">COVID-19 tests for travel to Singapore</a></li>
 	 <li style="margin-top:10px; margin-bottom:0px; font-size:18px;">
 <a href="/health/travelinsurance">Mandatory inbound COVID-19 travel insurance</a></li>
 	  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">
