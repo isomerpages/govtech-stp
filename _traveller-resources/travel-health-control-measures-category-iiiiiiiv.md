@@ -99,7 +99,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test results and date of test;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 test results and date of test;</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
 </ol>
@@ -113,7 +113,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 	</li>
-	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN.</li></ol>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test on Day 7 of SHN.</li></ol>
 		<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i><b>*[Advisory for travellers serving SHN at home]</b> Travellers may serve SHN at their residence, with household members not sharing the same travel history, regardless of vaccination status. However, if travellers are residing with unvaccinated vulnerable household members, they are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members.</i></p>
 	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i>If sharing a place of residence with others, travellers should designate a specific bathroom to be used by themselves, and other household members to use another bathroom. If a single bathroom has to be shared, ensure that everyone practises good hygiene habits and disinfects the bathroom after each use.  These are some examples to help the household manage:</i> 
 	</p><ol style="margin-top:0px; list-style-type: lower-roman;">
