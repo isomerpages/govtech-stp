@@ -213,7 +213,7 @@ Your personal privacy is protected while using these devices. The device does no
   </tr>
   <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Serving SHN at a declared SHN accommodation </b></td>
-  <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers must remain in their <a href="/health/shn/sdf" target="_blank">declared SHN accommodation</a> for the period stipulated in the <a href="/health/shn">SHN</a> unless they are due to take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”). The test may be conducted at a specified testing facility, and travellers must return to their declared SHN accommodation immediately after the test. <br/><br/>
+  <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers must remain in their <a href="/health/shn/sdf" target="_blank">declared SHN accommodation</a> for the period stipulated in the <a href="/health/shn">SHN</a> unless they are due to take a COVID-19 Polymerase Chain Reaction test (“PCR test”). The test may be conducted at a specified testing facility, and travellers must return to their declared SHN accommodation immediately after the test. <br/><br/>
 	Travellers will be required to take a PCR test on Day 7, before they exit their SHN.
 		<br/><br/>
 Travellers who develop <a href="/health/covid19-symptoms">COVID-19 symptoms</a> during their SHN within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.<br/><br/>
