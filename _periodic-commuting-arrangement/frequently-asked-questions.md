@@ -169,7 +169,7 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 #### 2. I am a Malaysian citizen and a Singapore Permanent Resident (PR) who is presently in Malaysia. Do I need to apply for a PCA pass to enter Singapore?
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
-- A COVID-19 Antigen Rapid Test ("ART Test") or Polymerase Chain Reaction Test (“PCR Test”) taken within 48 hours before departure for Singapore <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</a></b>;
+- A COVID-19 Antigen Rapid Test ("ART Test") or Polymerase Chain Reaction Test (“PCR Test”) taken within 48 hours before departure<b> at a <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>;
 - Serving 7-day Stay-Home Notice (SHN) at a declared SHN accommodation; and
 - Exit PCR test on Day 7 of SHN. 
 
@@ -207,7 +207,7 @@ Entries into Singapore under the PCA must be sponsored by a Singapore-based comp
 
 #### 1. What should I do if I feel unwell on or before the date of my end-of-SHN COVID-19 test appointment?
 
-Travellers who are [unwell](/health/covid19-symptoms) should inform the relevant agencies immediately and should also not leave their accommodation for the PCR test. Click [here](https://go.gov.sg/tc) for more details.
+Travellers who are [unwell](/health/covid19-symptoms) should inform the relevant agencies immediately and should also not leave their accommodation for the COVID-19 test. Click [here](https://go.gov.sg/tc) for more details.
 
 #### 2. Can I defer or change the appointment date/time of my end-of-SHN COVID-19 test?
 
