@@ -73,7 +73,7 @@ As part of the airline or transport operator’s pre-boarding checks, travellers
 
 <ul style="list-style-type:lower-roman;">
 <li>Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and</li>
-<li>	Valid Pre-Departure COVID-19 Test certificate showing a negative COVID-19 result (if required)</li>
+<li>	Valid Pre-Departure COVID-19 Test certificate showing a negative result (if required)</li>
 </ul>
 
 Travellers without the above may be denied boarding. Travellers who are exempted from (ii) should produce their proof of exemption to the transport operator instead.
