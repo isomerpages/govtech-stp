@@ -6,7 +6,7 @@ permalink: /shn-and-swab-summary
 
 ### Overview
 
-This page provides a summary of the four categories of travel health control measures (THCMs) that are applicable to travellers utilising the following lanes:
+This page provides a summary of the four categories of travel health control measures (THCMs) that are applicable to travellers entering Singapore via the following lanes:
 - Returning Singapore Citizen/ Permanent Resident (SC/PR) Lane
 - Death and Critical Illness Emergency Visits Lane
 - Familial Ties Lane
