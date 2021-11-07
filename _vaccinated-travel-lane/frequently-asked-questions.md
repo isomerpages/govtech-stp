@@ -290,8 +290,8 @@ Yes, you can. You may wish to use the following non-exhaustive list of applicati
 <tbody>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">
-	<ol style="margin-top:0px; list-style-type: lower-latin;">
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">
+	<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Web App: <a href="https://app.digitalcovidcertchecker.gov.ie/" target="_blank">DCC Checker</a></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Android Mobile App: <a href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier" target="_blank">COVID Certificate Check</a> </li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">iOS Mobile App: <a href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510" target="_blank">COVID Certificate Check</a> </li>
@@ -305,8 +305,8 @@ Yes, you can. You may wish to use the following non-exhaustive list of applicati
 								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Any Canadian province</li>							</ol>
 </td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">
-	<ol style="margin-top:0px; list-style-type: lower-latin;">
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
+	<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">iOS Mobile App: <a href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390" target="_blank"> SMART Health Card Verifier</a></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Android Mobile App:<a href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier" target="_blank">SMART Health Card Verifier</a> </li>
 	</ol>
@@ -314,8 +314,8 @@ Yes, you can. You may wish to use the following non-exhaustive list of applicati
 </tr>	
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Pass</a></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">
-		<ol style="margin-top:0px; list-style-type: lower-latin;">
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
+		<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Web App: <a href="https://app.digitalcovidcertchecker.gov.ie/" target="_blank">DCC Checker</a></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Android Mobile App: <a href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier" target="_blank">COVID Certificate Check</a> </li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">iOS Mobile App: <a href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510" target="_blank">COVID Certificate Check</a> </li>
@@ -327,8 +327,8 @@ Yes, you can. You may wish to use the following non-exhaustive list of applicati
 	</tr>
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">
-			<ol style="margin-top:0px; list-style-type: lower-latin;">
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">
+			<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Android Mobile App: <a href="https://play.google.com/store/apps/details?id=au.gov.dfat.vdsncchecker" target="_blank">VDS-NC Checker </a> </li>
 					<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">iOS Mobile App:  <a href="https://apps.apple.com/sg/app/vds-nc-checker/id1582587862" target="_blank">VDS-NC Checker </a> </li>
 	</ol>
@@ -339,8 +339,8 @@ Yes, you can. You may wish to use the following non-exhaustive list of applicati
 	</tr>
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">
-				<ol style="margin-top:0px; list-style-type: lower-latin;">
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">
+				<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">KDCA website</a> </li>
 	</ol>
 				</td>
