@@ -303,7 +303,7 @@ Pass holders who took other types of vaccines will not meet the entry requiremen
 
 Yes, all pass holders who have recovered from COVID-19 are still subject to the [vaccination requirements](/wphl/vaccination-requirements). 
 
-#### 9. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
+#### 9. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure test. Can he/she be exempted from Stay-Home Notice (SHN)?
 
 Fully vaccinated pass holders are still subject to the [prevailing travel health control measures](https://go.gov.sg/responsibilities-submitters-pass-holders), which include serving SHN depending on their travel histories. 
 
