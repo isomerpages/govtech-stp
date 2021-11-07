@@ -388,7 +388,6 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn/sdf">SHN Dedicated Facility</a>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test on Day 10 of SHN.</li></ol>
-	
 </td>
 	</tr>
 	</tbody>
