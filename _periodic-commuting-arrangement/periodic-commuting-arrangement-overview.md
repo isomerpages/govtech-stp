@@ -6,4 +6,4 @@ The Periodic Commuting Arrangement (PCA) is a Safe Travel Lane agreed between th
 
 Under the PCA, approved travellers/employees are required to remain in their country of employment for at least 90 days before returning to their home country for short-term home leave. Cross-border entry under the PCA is only permitted via land at the Causeway and Second link. 
 
-Upon arrival in Singapore, all PCA-approved travellers/employees will serve a 7-day <a href="/health/shn">Stay-Home Notice</a> (SHN), where they will undergo a <a href="/health/covid19-tests/pcrtest">COVID-19</a> test on Day 7, before they exit their SHN.
+Upon arrival in Singapore, all PCA-approved travellers/employees will serve a 7-day <a href="/health/shn">Stay-Home Notice</a> (SHN), where they will undergo a COVID-19 test on Day 7, before they exit their SHN.
