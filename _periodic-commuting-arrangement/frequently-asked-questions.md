@@ -169,7 +169,7 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 #### 2. I am a Malaysian citizen and a Singapore Permanent Resident (PR) who is presently in Malaysia. Do I need to apply for a PCA pass to enter Singapore?
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
-- A COVID-19 Antigen Rapid Test ("ART Test") or Polymerase Chain Reaction Test (“PCR Test”) taken within 2 days of arrival in Singapore <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</a></b>;
+- A COVID-19 Antigen Rapid Test ("ART Test") or Polymerase Chain Reaction Test (“PCR Test”) taken within 48 hours before departure for Singapore <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</a></b>;
 - Serving 7-day Stay-Home Notice (SHN) at a declared SHN accommodation; and
 - Exit PCR test on Day 7 of SHN. 
 
@@ -203,19 +203,19 @@ Entries into Singapore under the PCA must be sponsored by a Singapore-based comp
 
 <div id="PCRTraveller"></div>
 
-### **COVID-19 Polymerase Chain Reaction Test**
+### **COVID-19 Tests**
 
-#### 1. What should I do if I feel unwell on or before the date of my COVID-19 Polymerase Chain Reaction test (“PCR test”) appointment?
+#### 1. What should I do if I feel unwell on or before the date of my end-of-SHN COVID-19 test appointment?
 
-Travellers who are [unwell](/health/covid19-symptoms) should inform the relevant agencies immediately and should also not leave their accommodation for the [PCR test](/health/covid19-tests/pcrtest). Click [here](https://go.gov.sg/tc) for more details.
+Travellers who are [unwell](/health/covid19-symptoms) should inform the relevant agencies immediately and should also not leave their accommodation for the PCR test. Click [here](https://go.gov.sg/tc) for more details.
 
-#### 2. Can I defer or change the appointment date/time of my COVID-19 Polymerase Chain Reaction test (“PCR test”)?
+#### 2. Can I defer or change the appointment date/time of my end-of-SHN COVID-19 test?
 
-No. All travellers must turn up for their COVID-19 [PCR test](/health/covid19-tests/pcrtest) at the assigned date, time and site as this is crucial to mitigating the formation of crowds.
+No. All travellers must turn up for their COVID-19 test at the assigned date, time and site as this is crucial to mitigating the formation of crowds.
 
-#### 3. What should I do if I have a medical condition, e.g. frequent nose bleeds, operations on face or nose area, tumours or cancers of the nose or throat area, that prevents me from providing a nasal swab sample for the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
+#### 3. What should I do if I have a medical condition, e.g. frequent nose bleeds, operations on face or nose area, tumours or cancers of the nose or throat area, that prevents me from providing a nasal swab sample for the COVID-19 test?
 
-Travellers who are unable to take the [PCR test](/health/covid19-tests/pcrtest) due to a medical condition should write in to [COVID_SafeTravelAppeals@mti.gov.sg](mailto:COVID_SafeTravelAppeals@mti.gov.sg) <b>at least</b> 7 working days before entry into Singapore. The employee or application sponsor should indicate in the email, the medical condition and provide the following details:
+Travellers who are unable to take the COVID test due to a medical condition should write in to [COVID_SafeTravelAppeals@mti.gov.sg](mailto:COVID_SafeTravelAppeals@mti.gov.sg) <b>at least</b> 7 working days before entry into Singapore. The employee or application sponsor should indicate in the email, the medical condition and provide the following details:
 <ul>
 <li>Name;</li>
 <li>FIN No. (for work pass holder) or NRIC (for Singapore PR);</li>
@@ -224,17 +224,15 @@ Travellers who are unable to take the [PCR test](/health/covid19-tests/pcrtest) 
 <li>Employee and employer’s local contact number.</li>
 </ul>
 	
-#### 4. I do not have my physical work pass. What should use as proof of my identity when I turn up for my COVID-19 Polymerase Chain Reaction test (“PCR Test”)?
+#### 4. I do not have my physical work pass. What should use as proof of my identity when I turn up for my end-of-SHN COVID-19 test?
 
 Travellers can bring the [digital copy](https://www.mom.gov.sg/eservices/sgworkpass) of their Singapore-issued work pass and passport for identity verification.
 
 Travellers who have misplaced their work pass should lodge a police report immediately. For identity verification purposes, this group of travellers should bring along their passport and police report (showing the FIN number).
 
-#### 5. How much does it cost to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)? To whom and how should the payment be made?
- 
-Click [here](/health/covid19-tests/pcrtest#price) to check for the latest cost of the COVID-19 PCR test.
+#### 5. How much does it cost to take the end-of-SHN COVID-19 test? To whom and how should the payment be made?
 
-For the exit from [Stay Home Notice (SHN)](/health/shn) COVID-19 [PCR test](/health/covid19-tests/pcrtest), payment would already be collected at the point of application. 
+Payment would already be collected at the point of application. 
 
 #### 6. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
 
@@ -242,9 +240,9 @@ Travellers who are unwell or recently diagnosed with [COVID-19](/health/covid19-
 
 Those diagnosed with COVID-19 should only schedule their trip to Singapore 14 days after the first diagnosis, <u>and</u> after they have fully recovered from COVID-19.
 
-#### 7. I was recently diagnosed with or recovered from COVID-19. Am I exempted from the requirement to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) within 48 hours before departure for Singapore?
+#### 7. I was recently diagnosed with or recovered from COVID-19. Am I exempted from the requirement to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) or Antigen Rapid Test ("ART") within 48 hours before departure for Singapore?
 
-As a <a href="/malaysia/pca/terms-and-conditions" target="_blank">condition</a> for entry into Singapore, <u>all</u> travellers arriving from Malaysia under the PCA scheme <u>must</u> take a COVID-19 PCR test within 48 hours before departure for Singapore. The test must be taken at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>. As proof that the required PCR test has been taken, travellers should ask for a copy of the COVID-19 PCR test report that:
+As a <a href="/malaysia/pca/terms-and-conditions" target="_blank">condition</a> for entry into Singapore, <u>all</u> travellers arriving from Malaysia under the PCA scheme <u>must</u> take a COVID-19 PCR test within 48 hours before departure for Singapore. The test must be taken at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>. As proof that the required PCR test has been taken, travellers should ask for a copy of the COVID-19 PCR or ART test report that:
 
 -	Is in English (or accompanied with an English translation); and
 -	Contains the (i) Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and (ii) Date of the test.
@@ -252,12 +250,12 @@ As a <a href="/malaysia/pca/terms-and-conditions" target="_blank">condition</a> 
 Travellers will be turned away at Singapore's checkpoint if:
 <ol style="list-style-type: lower-latin;">
 	<li>diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or</li>
-	<li>tested positive on the pre-departure COVID-19 PCR test.</li>
+	<li>tested positive on the pre-departure COVID-19 PCR or ART test.</li>
 </ol> 
 
 #### 8. I have recovered from COVID-19 and was also tested negative for COVID-19 after taking the COVID-19 Polymerase Chain Reaction test (“PCR test”). Am I exempted from having to take another COVID-19 PCR test in Singapore?
 
-In general, as a [condition](/malaysia/pca/terms-and-conditions) for entry into Singapore, all PCA travellers must adhere to the health control measures imposed on the group. This includes the taking of a COVID-19 [PCR test](/health/covid19-tests/pcrtest) toward the end of their [Stay Home Notice (SHN)](/health/shn). 
+In general, as a [condition](/malaysia/pca/terms-and-conditions) for entry into Singapore, all PCA travellers must adhere to the health control measures imposed on the group. This includes the taking of a COVID-19 test at the end of their [Stay Home Notice (SHN)](/health/shn). 
 
 ##### Click here to go to the [top](#top).
 
