@@ -87,9 +87,15 @@ On this page you will find the following:
 		</thead>
 		<tbody>
 		<tr>
-			<td>
+			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Air
 			</td>
-			<td>
+			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Changi Airport eService
+			</td>
+			</tr>
+			<tr>
+			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Land or Sea
+			</td>
+			<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Parkway Shenton eService
 			</td>
 			</tr>
 		</tbody>
