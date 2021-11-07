@@ -119,7 +119,7 @@ On this page you will find the following:
 	<table>
 		<thead>
 			<tr>
-		<th style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Helper's/CN's mode of entry into Singapore</b>
+		<th style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Pass holder's mode of entry into Singapore</b>
 		</th>
 						<th style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Register and pay for on-arrival test using</b>
 		</th>
