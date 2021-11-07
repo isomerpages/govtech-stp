@@ -440,7 +440,7 @@ Having a VTP does not guarantee travellers a ticket on a designated VTL flight t
 
 As required under the VTL <a href="/vtl/conditions">Conditions</a>, a VTP holder must arrive in Singapore on a designated VTL flight. Short-term visitors and long-term pass holders who did not arrive on a designated VTL flight to Singapore may be denied entry into Singapore.
 
-Singapore Citizens and Permanent Residents may return home to Singapore regardless, but will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
+Singapore Citizens and Permanent Residents may return home to Singapore regardless, but will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN)</a> and COVID-19 test requirements upon entry into Singapore.
 
 <!--#### 4. What are the requirements for travellers to be eligible for a designated VTL flight?
 To be eligible to take a designated VTL flight, they are required to:
