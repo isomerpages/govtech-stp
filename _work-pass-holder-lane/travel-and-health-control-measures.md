@@ -665,7 +665,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments).</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. If the household has unvaccinated vulnerable individuals, the pass holder is strongly encouraged to isolate themselves in a separate room and minimise contact with these vulnerable household members.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. If the household has vulnerable individuals, the pass holder is strongly encouraged to isolate themselves in a separate room and minimise contact with these vulnerable household members. If this is not possible, please look for another accommodation.</li>
 	</ol>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. <!--(This will be replaced by a self-administered <a href="/health/covid19-tests/pcrtest">Antigen Rapid Test</a> for arrivals from 22 Oct 2021).--></li>
