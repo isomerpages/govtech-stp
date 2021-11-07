@@ -79,7 +79,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Address(es) of Traveller’s accommodation for his/her:
 <ol style="margin-top:0px; list-style-type:lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">On-arrival isolation (approximately 24 hours while waiting for release of <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> results), and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">On-arrival isolation (approximately 24 hours while waiting for release of <a href="https://safetravel.changiairport.com/#/">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> results), and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">14-day stay in Singapore (must be a non-residential address and an individual room with en-suite toilet).</li>
 </ol>
   <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Note: Click <a href="https://sha.org.sg/hotel-accommodation">here</a> for a list of hotels that accept RGL travellers. This list is non-exhaustive, and travellers may book other accommodations that is a non-residential individual room with an en-suite toilet.</p>
