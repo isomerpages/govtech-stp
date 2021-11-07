@@ -130,12 +130,12 @@ input:checked + label + .content {
 	</p>
 	<p style="line-height:1.5;"><span style="color:red;"><u>Note:</u></span> Travellers entering Singapore from 11 Nov 2021, 2359hrs, may also have travel history to (i.e. travelled to or transited via) <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> in the last 14 consecutive days before departing for Singapore.</p>
 <p style="line-height:1.5;">A list of designated flights from the VTL countries/regions below is available in the <a href="/vtl/travel-checklist" target="_blank">VTL Traveller’s Checklist</a>.
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Active VTL Countries/Regions]</b> Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain<sup>4</sup>, the United Kingdom<sup>5</sup> and the United States6</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 7 Nov 2021, 2359hrs, SGT]</b> Australia and Switzerland</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 14 Nov 2021, 2359hrs, SGT]</b> Republic of Korea</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 18 Nov 2021, 2359hrs, SGT]</b> Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Finland, Greece, Hungary, Iceland, Ireland, Liechtenstein, Luxembourg, Malta, Norway, Poland, Portugal, San Marino, Slovakia, Sweden, Turkey and the Vatican City</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 21 Nov 2021, 2359hrs, SGT]</b> Malaysia</li>
+<ol style="margin-top:0px; list-style-type: disc;">
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Active VTL Countries/Regions]</b> Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain<sup>4</sup>, the United Kingdom<sup>5</sup> and the United States6</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 7 Nov 2021, 2359hrs, SGT]</b> Australia and Switzerland</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 14 Nov 2021, 2359hrs, SGT]</b> Republic of Korea</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 18 Nov 2021, 2359hrs, SGT]</b> Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Finland, Greece, Hungary, Iceland, Ireland, Liechtenstein, Luxembourg, Malta, Norway, Poland, Portugal, San Marino, Slovakia, Sweden, Turkey and the Vatican City</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 21 Nov 2021, 2359hrs, SGT]</b> Malaysia</li>
 	</ol>
 	</p>
 <p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
@@ -144,6 +144,91 @@ input:checked + label + .content {
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>4</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
 </div>
+</body>
+</html>
+
+### 2. Application for Travel under the VTL
+
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>Test Accordion</title>
+
+<style>
+
+input {
+    display: none;
+}
+
+label {
+    display: block;    
+    padding: 10px 30px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #153855;
+    border-radius: 3px;
+    color: #FFF;
+    transition: ease .5s;
+	position: relative;
+}
+
+label:hover {
+    background: #346f9e;
+}
+
+label::after {
+	font-family: "Font Awesome 5 Free";
+	content: '\271A';
+	font-weight: bold;
+	font-size: 22px;
+	position: absolute;
+	right: 10px;
+	top: 6px;
+}
+
+input:checked + label::after {
+	content: '\2212';
+}
+
+.content {
+    background: #FFFFFF;
+    padding: 10px 25px;
+    margin: 0 0 1px 0;
+    border-radius: 3px;
+}
+
+input + label + .content {
+    display: none;
+}
+
+input:checked + label + .content {
+    display: block;
+}
+	
+</style>
+</head>
+<body>
+
+<input type="checkbox" id="title1" />
+<label for="title1">Singapore Citizens (SC) / Permanent Residents (PR)</label>
+
+<div class="content">
+	<p style="line-height:1.5;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>.</p>
+		<p style="line-height:1.5;"><b>However, SC/PRs must comply with the requirements stated in the <a href="/vtl/travel-checklist" target="_blank"> VTL Traveller’s Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
+</div>
+	
+<input type="checkbox" id="title2" />
+<label for="title2"></label>
+
+<div class="content">
+	</div>
+
+<input type="checkbox" id="title3" />
+<label for="title3"></label>
+
+<div class="content">
+	</div>
 </body>
 </html>
 
