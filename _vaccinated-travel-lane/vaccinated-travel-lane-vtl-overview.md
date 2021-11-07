@@ -210,7 +210,7 @@ input:checked + label + .content {
 </head>
 <body>
 
-<input type="checkbox" id="title1" />
+<input type="checkbox" id="title4" />
 <label for="title1">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
 <div class="content">
@@ -218,13 +218,13 @@ input:checked + label + .content {
 		<p style="line-height:1.5;"><b>However, SC/PRs must comply with the requirements stated in the <a href="/vtl/travel-checklist" target="_blank"> VTL Traveller’s Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 </div>
 	
-<input type="checkbox" id="title2" />
+<input type="checkbox" id="title5" />
 <label for="title2"></label>
 
 <div class="content">
 	</div>
 
-<input type="checkbox" id="title3" />
+<input type="checkbox" id="title6" />
 <label for="title3"></label>
 
 <div class="content">
