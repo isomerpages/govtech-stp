@@ -224,7 +224,7 @@ input:checked + label + .content {
 
 <div class="content">
 	<p style="line-height:1.5;"><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b></p>
-	<p style="line-height:1.5;">Travellers departing from the Republic of Korea may only submit their applications from <b>8 November 2021, 1000hrs, SGT</b>.</p>
+	<!--<p style="line-height:1.5;">Travellers departing from the Republic of Korea may only submit their applications from <b>8 November 2021, 1000hrs, SGT</b>.</p>-->
 	<p style="line-height:1.5;">Travellers departing from <b>Finland and Sweden</b> may only submit their applications from <b>12 Nov 2021, 1000hrs, SGT.</b></p>
 	<p style="line-height:1.5;">Travellers departing from <b>Malaysia</b> may only submit their applications from <b>15 Nov 2021, 1000hrs, SGT</b>.</p>
 	<p style="line-height:1.5;">Please note the following when making the application:
