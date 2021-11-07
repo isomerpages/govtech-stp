@@ -280,7 +280,7 @@ Traveller who does not have any of the above may be refuse boarding by the airli
 
 #### 16. What COVID-19 tests am I required to take upon arrival in Singapore? Where will the tests be administered, and what are the available payment modes?
 
-All RGL travellers are required to take a COVID-19 PCR test upon arrival. Travellers entering Singapore by air are encouraged to [pre-register and pre-pay](https://safetravel.changiairport.com/) for the PCR test.
+All RGL travellers are required to take a COVID-19 PCR test (S$160) upon arrival. Travellers entering Singapore by air are encouraged to [pre-register and pre-pay](https://safetravel.changiairport.com/) for the PCR test.
 
 In general, travellers should, upon arrival, identify themselves as travellers of the RGL scheme to an airport or checkpoint officer. Upon confirmation of their RGL approved status, travellers will be brought to the swabbing station within Changi Airport in Singapore for the test.
 
