@@ -219,15 +219,22 @@ input:checked + label + .content {
 </div>
 	
 <input type="checkbox" id="title5" />
-<label for="title2"></label>
+<label for="title2">Foreign Visitors (e.g. Short-Term Visitors / Long-Term Pass Holders)</label>
 
 <div class="content">
-	</div>
-
-<input type="checkbox" id="title6" />
-<label for="title3"></label>
-
-<div class="content">
+	<p style="line-height:1.5;"><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a></b></p>
+	<p style="line-height:1.5;">Travellers departing from the Republic of Korea may only submit their applications from <b>8 November 2021, 1000hrs, SGT</b>.</p>
+	<p style="line-height:1.5;">Travellers departing from <b>Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Finland, Greece, Hungary, Iceland, Ireland, Liechtenstein, Luxembourg, Malta, Norway, Poland, Portugal, San Marino, Slovakia, Sweden, Turkey and the Vatican City</b> may only submit their applications from <b>12 Nov 2021, 1000hrs, SGT.</b></p>
+	<p style="line-height:1.5;">Travellers departing from <b>Malaysia</b> may only submit their applications from <b>15 Nov 2021, 1000hrs, SGT</b>.</p>
+	<p style="line-height:1.5;">Please note the following when making the application:
+	<ol style="margin-top:0px; list-style-type:disc;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">VTL travellers must also refer to this <a href="/vtl/travel-checklist" target="_blank">travel checklist</a> and the <a href="/vtl/conditions" target="_blank">VTL conditions to ensure they satisfy all VTL requirements, otherwise they may be denied entry to Singapore.</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Accompanying children aged 12 and below and are unvaccinated do not need to apply. </li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications must be submitted between 7 and 60 days before the intended date of entry into Singapore. </li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications must be supported with digitally verifiable vaccination certificate QR code(s).</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A VTP is valid for 6 calendar days from the traveller’s chosen date of entry.</li>		
+	</ol>
+	</p>
 	</div>
 </body>
 </html>
