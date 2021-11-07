@@ -48,7 +48,7 @@ label:hover {
 
 label::after {
 	font-family: "Font Awesome 5 Free";
-	content: '\21E8';
+	content: '\002B';
 	font-weight: bold;
 	font-size: 22px;
 	position: absolute;
@@ -57,7 +57,7 @@ label::after {
 }
 
 input:checked + label::after {
-	content: '\21E9';
+	content: '\2716';
 }
 
 .content {
