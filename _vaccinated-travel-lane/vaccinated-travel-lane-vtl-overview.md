@@ -16,8 +16,89 @@ Travellers intending to leave Singapore to a VTL country/region, must check with
 
 To be eligible for quarantine-free travel under the Vaccinated Travel Lane, travellers must fulfil the following criteria and the <a href="/vtl/conditions" target="_blank">Conditions</a> of the VTL. Otherwise, they should explore other Safe Travel Lanes at the Travelling to Singapore page:
 
+<html>
 
+<head>
+<meta charset="utf-8">
+<title>Test Accordion</title>
 
+<style>
+
+input {
+    display: none;
+}
+
+label {
+    display: block;    
+    padding: 18px 50px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #153855;
+    border-radius: 3px;
+    color: #FFF;
+    transition: ease .5s;
+	position: relative;
+}
+
+label:hover {
+    background: #346f9e;
+}
+
+label::after {
+	font-family: "Font Awesome 5 Free";
+	content: '\271A';
+	font-weight: bold;
+	font-size: 22px;
+	position: absolute;
+	right: 10px;
+	top: 6px;
+}
+
+input:checked + label::after {
+	content: '\2212';
+}
+
+.content {
+    background: #FFFFFF;
+    padding: 10px 25px;
+    margin: 0 0 1px 0;
+    border-radius: 3px;
+}
+
+input + label + .content {
+    display: none;
+}
+
+input:checked + label + .content {
+    display: block;
+}
+	
+</style>
+</head>
+<body>
+
+<input type="checkbox" id="title1" />
+<label for="title1">Test</label>
+
+<div class="content">
+	<p>The following FAQs apply to persons who are residents in countries/regions that have established RGL arrangements with Singapore seeking single-entry, short-term essential business and official visit into Singapore:</p>
+</div>
+
+<input type="checkbox" id="title2" />
+<label for="title2">Accordion Two</label>
+
+<div class="content">
+<p>Your content goes here.</p>
+</div>
+
+<input type="checkbox" id="title3" />
+<label for="title3">Accordion Three</label>
+
+<div class="content">
+<p>Your content goes here.</p>
+</div>
+</body>
+</html>
 
 
 
