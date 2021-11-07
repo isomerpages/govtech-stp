@@ -172,7 +172,7 @@ The minimum rental period is 3 months for private residences, and 6 months for H
 
 &#9744;  <i><b>G) Pre-Departure COVID-19 Test</b></i>
 
-All travellers, <b>except</b> those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), must take a pre-departure COVID-19 PCR test [or Antigen Rapid Test (ART) for entry into Singapore from 11 November 2021, 2359hrs]  **within 48 hours before departure for Singapore**. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the test report:
+All travellers, <b>except</b> those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), must take a pre-departure COVID-19 PCR test [or Antigen Rapid Test (ART) for entry into Singapore from 11 November 2021, 2359hrs]  **within 48 hours before departure for Singapore**. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure. Please also ensure that the test report:
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 	<li style="line-height:1.5;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
