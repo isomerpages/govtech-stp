@@ -376,25 +376,25 @@ The employee is permitted to leave Singapore. However, employers should note tha
 
 <div id="PCREmployer"></div>
 
-### **COVID-19 Polymerase Chain Reaction Test (“PCR test”)**
+### **End-of-SHN COVID-19 Test**
 
-#### 1. Do I need to arrange for the COVID-19 Polymerase Chain Reaction test (“PCR test”) for my employees? If not, how do I inform my employees of the date and time of their PCR test appointment?
+#### 1. Do I need to arrange for the End-of-SHN COVID-19 test for my employees? If not, how do I inform my employees of the date and time of their PCR test appointment?
 
-Employers do not have to arrange for the COVID-19 [PCR test](/health/covid19-tests/pcrtest) for their employees as these are automatically scheduled by the relevant authorities. Travellers will be scheduled for a PCR test on the 10th  day before they exit their SHN.
+Employers do not have to arrange for the COVID-19 test for their employees as these are automatically scheduled by the relevant authorities. Travellers will be scheduled for a PCR test on the 10th  day before they exit their SHN.
 
 While employers do not need to arrange for the tests, they are obligated to inform their employees of the details of their PCR test appointment, e.g. test date and time and location. These details will be sent to the employer as an SMS or email. In general, travellers will be required to take the PCR test toward the end of their [Stay Home Notice](/health/shn).
 
-Employers or employees that do not have the details of the COVID-19 PCR test appointment date, time and designated test site <u>by the 7th day </u> of the SHN period should write in using [SafeTravel Enquiry Form](https://go.gov.sg/sto-enquiry). Please include the employee’s name and FIN (for work pass holder) or NRIC (for Singapore PR), and employer’s mobile number for our follow up.
+Employers or employees that do not have the details of the COVID-19 test appointment date, time and designated test site <u>by the 4th day </u> of the SHN period should write in using [SafeTravel Enquiry Form](https://go.gov.sg/sto-enquiry). Please include the employee’s name and FIN (for work pass holder) or NRIC (for Singapore PR), and employer’s mobile number for our follow up.
 
-#### 2. My employee did not turn up for his/her COVID-19 Polymerase Chain Reaction test (“PCR test”) on the scheduled date. Who can I contact to reschedule a new swab appointment?
+#### 2. My employee did not turn up for his/her End-of-SHN COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
-All PCA travellers <b>must</b> adhere to their appointment timing for their COVID-19 PCR test. Should an employee miss their first test appointment, a second test appointment will be scheduled; these details would be sent to the employer/employee. Employers should ensure that their employees turn up for their test appointment. Travellers who refuse to or continue to miss their COVID-19 PCR tests may be charged under the Infectious Diseases Act and have their work passes revoked.
+All PCA travellers <b>must</b> adhere to their appointment timing for their COVID-19 test. Should an employee miss their first test appointment, a second test appointment will be scheduled; these details would be sent to the employer/employee. Employers should ensure that their employees turn up for their test appointment. Travellers who refuse to or continue to miss their COVID-19 PCR tests may be charged under the Infectious Diseases Act and have their work passes revoked.
 
 Travellers should not turn up for their COVID-19 PCR test <u>if</u> they are [unwell](/health/covid19-symptoms) while serving their [Stay-Home Notice (SHN)](/health/shn). Such travellers should alert the relevant agencies immediately and remain in their accommodation. [Click here](https://go.gov.sg/tc) for the list of contact points on SHN and PCR test related issues. 
 
 #### 3. How will I and/or my employee be informed of his/her COVID-19 test result?
 
-COVID-19 [Polymerase Chain Reaction test (“PCR test")](/health/covid19-tests/pcrtest) results will be sent to employers within 2 days of the test. Should there be a need for a second test, employers will be informed. Employers should remind their employees to remain in their accommodation until after being tested negative for COVID-19.
+COVID-19 test results will be sent to employers within 2 days of the test. Should there be a need for a second test, employers will be informed. Employers should remind their employees to remain in their accommodation until after being tested negative for COVID-19.
 
 Employers that do not receive a notification of the test result, 2 days from when the test was taken, should either call us at 6812 5555 or submit a webform via <https://go.gov.sg/sto-enquiry>  and provide the employee’s name and FIN (for work pass holders) or NRIC number (for Singapore PRs), as well as the employer’s contact details.
 
