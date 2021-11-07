@@ -273,7 +273,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <ol style="margin-top:0px; list-style-type: decimal;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 48 hours before departure</b> and obtain a copy of the negative COVID-19 test report that: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is a Polymerase Chain Reaction Test taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility. Antigen Rapid Tests are not allowed.</a></li>	
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is a Polymerase Chain Reaction Test taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a>. Antigen Rapid Tests are not allowed.</li>	
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
