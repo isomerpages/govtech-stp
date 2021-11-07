@@ -242,7 +242,7 @@ Those diagnosed with COVID-19 should only schedule their trip to Singapore 14 da
 
 #### 7. I was recently diagnosed with or recovered from COVID-19. Am I exempted from the requirement to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) or Antigen Rapid Test ("ART") within 48 hours before departure for Singapore?
 
-As a <a href="/malaysia/pca/terms-and-conditions" target="_blank">condition</a> for entry into Singapore, <u>all</u> travellers arriving from Malaysia under the PCA scheme <u>must</u> take a COVID-19 PCR test within 48 hours before departure for Singapore. The test must be taken at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>. As proof that the required PCR test has been taken, travellers should ask for a copy of the COVID-19 PCR or ART test report that:
+As a <a href="/malaysia/pca/terms-and-conditions" target="_blank">condition</a> for entry into Singapore, <u>all</u> travellers arriving from Malaysia under the PCA scheme <u>must</u> take a COVID-19 PCR  or ART test within 48 hours before departure for Singapore. The test must be taken at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>. As proof that the required PCR or ART test has been taken, travellers should ask for a copy of the COVID-19 PCR or ART test report that:
 
 -	Is in English (or accompanied with an English translation); and
 -	Contains the (i) Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and (ii) Date of the test.
