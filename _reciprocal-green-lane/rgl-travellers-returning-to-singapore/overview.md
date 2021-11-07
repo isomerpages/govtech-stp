@@ -65,7 +65,7 @@ Returning RGL travellers will be subjected to the health measures described in t
   </tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>On-arrival  Health Control Measures</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Returning RGL travellers from <b>Mainland China </b> will not be served a <a href="/health/shn">Stay-Home Notice (SHN)</a>. However, they will take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival. Once a swab is taken, travellers must remain in self-isolation until the result of their PCR test is released.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Returning RGL travellers from <b>Mainland China </b> will not be served a <a href="/health/shn">Stay-Home Notice (SHN)</a>. However, they will take a <a href="https://safetravel.changiairport.com/#/">COVID-19 PCR test</a> upon arrival. Once a swab is taken, travellers must remain in self-isolation until the result of their PCR test is released.
 	<br/><br/><br/>
       <p style="margin-top:-30px; margin-bottom:0px; font-size:16px; line-height:1.5;">Returning RGL travellers from <b>Brunei Darussalam</b> will:  </p>
 <ol style="margin-top:0px; list-style-type:disc;">
