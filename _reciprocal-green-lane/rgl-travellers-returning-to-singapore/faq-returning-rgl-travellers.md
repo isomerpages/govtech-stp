@@ -69,8 +69,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 #### 1. What health measures will apply to me upon my return to Singapore after my RGL travel?
 
 Upon arrival in Singapore, all Singapore-based travellers returning from their travel from <b>Germany/Indonesia/Japan/Malaysia/ Republic of Korea</b> on RGL, will be required to:
-- Take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest);
-- Take an on-arrival [COVID-19 PCR test](/health/covid19-tests/pcrtest) (travellers arriving in Singapore from Indonesia will be required to take an additional Antigen Rapid test upon arrival); and
+- Take an on-arrival [COVID-19 PCR test](https://safetravel.changiairport.com/#/); and
 - Serve [SHN](/health/shn) and take the relevant COVID-19 tests, details below:
 
 <table>
