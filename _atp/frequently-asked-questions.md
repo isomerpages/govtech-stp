@@ -102,9 +102,8 @@ Visitors entering Singapore before 26 October 2021, 2359hrs (Singapore time) may
 #### 3. What must visitors present to airline staff during check-in at the departure airport for Singapore?
 
 When checking in at the departure airport, visitors must present the following to the airline staff:
-- a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;
-- a valid visa (for visa-required visitors); and
-- a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app.
+- a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore; and
+- a valid visa (for visa-required visitors).
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
@@ -246,8 +245,6 @@ Children aged 6 years or younger in that calendar year are exempted from the Tra
 
 #### 2. After downloading the TraceTogether app, how do I activate it?
 
-You can activate your app only after clearing Singapore immigration. There might be a short lag after clearing immigration before you can activate the app. 
-
 After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. 
 
 Please ensure that your TraceTogether App is updated to the latest version. You will see the Holding Screen after you have registered your profile. You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore. Follow the instructions until you reach the Home Screen.
@@ -297,9 +294,9 @@ Please ensure that you keep your mobile device’s Bluetooth function turned on 
 
 All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace) and Huawei App Gallery.
 
-Visitors, with mobile devices that are unable to download the TraceTogether app, can rent a compatible mobile device from the Changi Recommends website [here](https://www.changirecommends.com/reservation_form.aspx) prior to departing for Singapore. They must have an electronic or physical copy of the booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport. Visitors who are unable to present a booking confirmation may be refused boarding by the airline.
+Visitors, with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is compatible.
 
-Visitors can pay for and collect their rental mobile device at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
+Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore.
 
 Visitors, who have rented a mobile device from Changi Recommends, must carry it with them at all times during their stay in Singapore until it is returned to Changi Recommends. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
 
