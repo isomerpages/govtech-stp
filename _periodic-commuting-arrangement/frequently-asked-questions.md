@@ -18,7 +18,7 @@ permalink: /malaysia/pca/faq
 <ul>
 <li><a href="#SCPR">Eligibility (Singapore Citizens & Singapore Permanent Residents)</a></li>
 <li><a href="#PassHolders">Eligibility (Work and other MOM and ICA-issued pass holders)</a></li>
-<li><a href="#PCRTraveller">COVID-19 Polymerase Chain Reaction test (“PCR Test”)</a></li>
+<li><a href="#PCRTraveller">COVID-19 tests</a></li>
 </ul>
 
 #### [C. FAQs for Employer/Application Sponsor](#EmployerSponsors)
@@ -26,7 +26,7 @@ permalink: /malaysia/pca/faq
 <li><a href="#GenIssues">General Issues</a></li>
 <li><a href="#Eligibility">Eligibility</a></li>
 <li><a href="#AppMatters">Application Matters</a></li>
-<li><a href="#PCREmployer">COVID-19 Polymerase Chain Reaction test (“PCR test”)</a></li>
+<li><a href="#PCREmployer">COVID-19 tests</a></li>
 </ul>
 
 <div id="GenQueries"></div>
@@ -72,7 +72,7 @@ Travellers without a suitable place of residence for SHN may make a direct reser
 
 #### 2. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
 
-The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test (“PCR test”)</a> at the end of SHN. The duration of the SHN will be stated on your SHN document, and you can also <a href="/shn-calculator">click here</a> to calculate the end date of your SHN.
+The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final COVID-19 test at the end of SHN. The duration of the SHN will be stated on your SHN document, and you can also <a href="/shn-calculator">click here</a> to calculate the end date of your SHN.
 
 Travellers who are serving SHN at their own place of residence may end their SHN once they receive an SMS with their test result.
 
@@ -169,11 +169,11 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 #### 2. I am a Malaysian citizen and a Singapore Permanent Resident (PR) who is presently in Malaysia. Do I need to apply for a PCA pass to enter Singapore?
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
-- A COVID-19 Polymerase Chain Reaction Test (“PCR Test”) taken within 48 hours before departure at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</a></b>;
-- Serving 10-day Stay-Home Notice (SHN) at a declared SHN accommodation; and
-- Exit PCR test on Day 10 of SHN. 
+- A COVID-19 Antigen Rapid Test ("ART Test") or Polymerase Chain Reaction Test (“PCR Test”) taken within 2 days of arrival in Singapore <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</a></b>;
+- Serving 7-day Stay-Home Notice (SHN) at a declared SHN accommodation; and
+- Exit PCR test on Day 7 of SHN. 
 
-Click <a href="/shn-and-swab-summary">here</a> and <a href="/sc-pr/overview">here</a> for more information.
+Click <a href="/sc-pr/overview">here</a> for more information on the prevailing measures for Singapore Citizens and PRs.
 
 Singapore PRs whose employer in Singapore is willing to facilitate their home leave in Malaysia may return to Singapore under the PCA. 
 
