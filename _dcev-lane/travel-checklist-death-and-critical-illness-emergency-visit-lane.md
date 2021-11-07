@@ -36,7 +36,7 @@ Travellers are required to take either a COVID-19 Polymerase Chain Reaction (PCR
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test.
 
-Travellers with difficulties getting a COVID-19 PCR test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
+Travellers with difficulties obtaining a COVID-19 test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
 
 &#x2610;  <i><b>D) Submission of Health Declaration</b></i>
 
