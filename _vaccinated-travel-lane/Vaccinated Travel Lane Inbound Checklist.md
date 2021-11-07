@@ -76,7 +76,7 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Arrive in Singapore on a designated VTL flight (list below); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
 </ol>
-	<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>Note:</b></a> Travellers entering Singapore from 11 Nov 2021, 2359hrs, may also have travel history to (i.e. travelled to or transited via) <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> in the last 14 consecutive days before departing for Singapore.</p>
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>Note:</b> Travellers entering Singapore from 11 Nov 2021, 2359hrs, may also have travel history to (i.e. travelled to or transited via) <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> in the last 14 consecutive days before departing for Singapore.</p>
 			<p style="font-size:16px; margin-top:10px; margin-bottom:15px; line-height:1.5;">Please refer to the respective airlines’ websites for information on when the first designated VTL flight will commence.</p>
 			<table>
 <thead>
@@ -140,6 +140,7 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 </tr>
 </tbody>
 </table>
+	<p style="line-height:1.5;"><sup>*</sup>The list of airlines and websites will be regularly updated</p>
 </div>
 
 
