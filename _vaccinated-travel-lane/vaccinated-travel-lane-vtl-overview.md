@@ -140,7 +140,7 @@ input:checked + label + .content {
 	<p style="line-height:1.5;"><span style="color:red;"><u>Note:</u></span> Travellers entering Singapore from 11 Nov 2021, 2359hrs, may also have travel history to (i.e. travelled to or transited via) <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> in the last 14 consecutive days before departing for Singapore.</p>
 <p style="line-height:1.5;">A list of designated flights from the VTL countries/regions below is available in the <a href="/vtl/travel-checklist" target="_blank">VTL Traveller’s Checklist</a>.
 <ol style="margin-top:0px; list-style-type: disc;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Active VTL Countries/Regions]</b>Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Active VTL Countries/Regions]</b> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 14 Nov 2021, 2359hrs, SGT]</b> Republic of Korea</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Finland, Malaysia Sweden</li>
 	</ol>
