@@ -37,8 +37,13 @@ For all other pass holders (work pass holders and their dependants), this page e
 	</tbody>
 		</table>
 
+On this page you will find the following:
+<ol style="padding-left:20px; font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-latin;">
+	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#from">from 11 Nov 2021, 2359 hours</a></li> 
+	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#before">before 11 Nov 2021, 2359 hours</a></li>
+	</ol>
 
-### Travel Health Control Measures for WPHL-Pass Holders
+Travel Health Control Measures for WPHL-Pass Holders
 
 <div id="from"></div>
 
@@ -220,7 +225,7 @@ input:checked + label + .subcontent {
 <label for="CountryListCat2">Category (II) Countries/Regions (based on 14-day travel history excluding transits)</label>
 
 <div class="content">
-Insert CAT II non VTL countries here<br><br>
+<b>Austria, Bahrain, Belgium, Bhutan, Bulgaria, Cambodia, Croatia, Cyprus, Czech Republic, Egypt, Fiji, Greece, Hungary, Iceland, Indonesia, Ireland, Israel, Japan, Liechtenstein, Luxembourg, Maldives, Malta, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, Samoa,San Marino, Saudi Arabia, Slovakia, South Africa, Tonga, Turkey, the United Arab Emirates (UAE), Vatican City and Vietnam</b><br><br>
 	<b>[Vaccinated Travel Lane (VTL) Countries/Regions]</b><br><br>
 Australia, Brunei, Canada, Denmark<sup>1</sup>, France<sup>2</sup>, Germany, Italy, Spain,  Switzerland, The Netherlands<sup>3</sup>, The Republic of Korea, The United Kingdom<sup>4</sup> and The United States of America<sup>5</sup>
 Fully vaccinated pass holders departing from Vaccinated Travel Lane (VTL) countries/regions listed above may enter Singapore without Stay-Home Notice if they apply to enter Singapore via the VTL instead of the WPHL. Click here for more details on the VTL.<br><br>
