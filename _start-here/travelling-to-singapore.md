@@ -2,6 +2,14 @@
 title: Travelling to Singapore
 permalink: /arriving/overview
 ---
+
+<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b><u>Important Update</u></b></span></p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">Singapore will launch a joint VTL with <b>Malaysia</b> for travel between Changi Airport and Kuala Lumpur International Airport (KLIA) <b>from 29 November 2021</b>. Vaccinated Travel Pass (VTP) applications for Short-Term Visitors and Long-Term Pass Holders will commence on <b>22 November 2021</b>; returning Singapore Citizens and Permanent Residents who are fully vaccinated will not need to apply. Singapore and Malaysia are also in detailed discussion to launch a similar scheme for travel across the causeway. </p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">We will also extend the VTLs to Finland and Sweden <b>from 29 November 2021</b>, with applications for Short Term Visitors and Long-Term Pass Holders commencing on <b>22 November 2021</b>. </p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">More details will be provided nearer the date when applications are open.</p>
+</div>
+
 Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangement, and the entry requirements and health controls of each Safe Travel Lane may differ depending on the traveller’s profile and travel history. Travellers can refer to the following sections on this page to determine the most relevant arrangement(s) to enter Singapore:
 - [Self Help Tool for Safe Travel Lanes and Entry Requirements](#selfhelptool)
 - [Listing of Safe Travel Lanes by Traveller Profile](#lanelist)
@@ -41,9 +49,9 @@ Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore fro
 Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane</a>.
 
 <ol style="list-style-type:disc;">
-	<li style="line-height:1.5;">Brunei Darussalam, Canada, Denmark,<sup>1</sup> Germany, France,<sup>2</sup> Italy, the Netherlands,<sup>3</sup> Spain, the United Kingdom,<sup>4</sup> and the United States<sup>5</sup></li>
-	<li style="line-height:1.5; margin-top:10px;">Australia, Switzerland (for entry into Singapore from 8 Nov 2021)</li>
+	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark,<sup>1</sup> Germany, France,<sup>2</sup> Italy, the Netherlands,<sup>3</sup> Spain, Switzerland, the United Kingdom,<sup>4</sup> and the United States<sup>5</sup></li>
 		<li style="line-height:1.5; margin-top:10px;">South Korea (applications open on 8 Nov 2021, 1000hrs, for entry into Singapore from 15 Nov 2021)</li>
+	<li style="line-height:1.5; margin-top:10px;">Finland, Malaysia and Sweden (applications open on 22 Nov 2021,  for entry into Singapore from 29 Nov 2021)</li>
 	</ol>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
