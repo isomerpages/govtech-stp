@@ -19,7 +19,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 					<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
 						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;"> The most stringent category out of all the countries/regions the pass holder has visited (excluding transit) will apply. For example, a traveller who had travel history to both Category (I) and (II) countries/regions before departure, but transited in a Category (IV) country/region on the way to Singapore, will be subject to Category (II) measures; and</li>
 												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	If the pass holder remained in a Category (I) country for at least 14 consecutive days before departure, they do not need to take a pre-departure COVID-19 test.</li>
-							<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">From 11 Nov 2021, 2359 hours, pass holders with travel history to either Category (II) or (III) country/region in the past 14 days before arriving in Singapore can choose to either take a pre-departure COVID-19 Antigen Rapid Test (ART), or a PCR test. <br><br> Pass holders must take the pre-departure COVID-19 Test within 48 hours before departing for Singapore.<br><br>Example: If the pre-departure test is taken on 1 Nov 2021, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoint) up to 3 Nov 2021, 2359 hours.<br><br> They must present a valid negative test report before departure and upon arrival in Singapore.</li>
+							<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">From 11 Nov 2021, 2359 hours, pass holders with travel history to either Category (II) or (III) country/region in the past 14 days before arriving in Singapore can choose to either take a pre-departure COVID-19 Antigen Rapid Test (ART), or a PCR test. <br><br> Pass holders must take the pre-departure COVID-19 Test within 2 days before departing for Singapore.<br><br>Example: If the pre-departure test is taken on 1 Nov 2021, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoint) up to 3 Nov 2021, 2359 hours.<br><br> They must present a valid negative test report before departure and upon arrival in Singapore.</li>
 					</ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➁</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed in the table below.
@@ -184,7 +184,7 @@ On this page you will find the following:
 <ol style="margin-top: 0px; list-style-type: decimal;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
 </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of the following COVID-19 tests <sup>①</sup> <b>within 48 hours before departure</b>.
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of the following COVID-19 tests <sup>①</sup> <b>within 2 days before departure</b>.
 		  <table>
     <thead>
       <tr>
@@ -235,7 +235,7 @@ On this page you will find the following:
 		<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-style-type: decimal;">
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
 </li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of the following COVID-19 tests <sup>①</sup> <b>within 48 hours before departure</b>.
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of the following COVID-19 tests <sup>①</sup> <b>within 2 days before departure</b>.
 		  <table>
     <thead>
       <tr>
@@ -314,7 +314,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of the following COVID-19 tests <sup>①</sup> <b>within 48 hours before departure</b>.
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of the following COVID-19 tests <sup>①</sup> <b>within 2 days before departure</b>.
 		  <table>
     <thead>
       <tr>
@@ -366,7 +366,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2">
 		<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;
 border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> ④ </sup>  before arrival.</b></li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of the following COVID-19 tests <sup>①</sup> <b>within 48 hours before departure</b>.
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of the following COVID-19 tests <sup>①</sup> <b>within 2 days before departure</b>.
 		  <table>
     <thead>
       <tr>
@@ -442,7 +442,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 <ol style="margin-top: 0px; list-style-type: decimal;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure </b>at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>. </li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 2 days before departure </b>at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>. </li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
@@ -463,7 +463,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 	</td> 
 		<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-style-type: decimal;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> ④ </sup> before arrival.</b></li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 2 days before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
@@ -623,7 +623,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 <ol style="margin-top: 0px; list-style-type: decimal;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
 </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 2 days before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 		<ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
@@ -649,7 +649,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 		<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-style-type: decimal;">
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
 </li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a></li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 2 days before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a></li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 		<ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
@@ -703,7 +703,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
 </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test (“COVID-19 PCR test”) <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test (“COVID-19 PCR test”) <b>within 2 days before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 		<ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
@@ -730,7 +730,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2">
 		<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;
 border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> ④ </sup>  before arrival.</b></li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 2 days before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 		<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
@@ -781,7 +781,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 <ol style="margin-top: 0px; list-style-type: decimal;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure </b>at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 2 days before departure </b>at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
@@ -802,7 +802,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 	</td> 
 		<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-style-type: decimal;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> ④ </sup> before arrival.</b></li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a>.</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 2 days before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a>.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
