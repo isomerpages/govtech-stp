@@ -241,7 +241,7 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications must be submitted between 7 and 60 days before the intended date of entry into Singapore. </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications must be supported with digitally verifiable vaccination certificate QR code(s).</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A VTP is valid for 6 calendar days from the traveller’s chosen date of entry.</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements, please write to the Safe Travel Office using the enquiry form here and provide your vaccination certificate.</li>	
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate.</li>	
 	</ol>
 	</p>
 	</div>
