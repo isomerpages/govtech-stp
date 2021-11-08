@@ -26,7 +26,7 @@ Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass
 
 &#x2610; <i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
-Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
+Travellers must take a PDT **within 2 days before departure** for Singapore, unless they:
 - Are below the age of three in this calendar year; or
 - Have remained in only [Category (I) country/region](/shn-and-swab-summary) in the past 14 consecutive days before departure; or
 - Are Singapore Citizen entering Singapore via the Causeway or Second Link.
