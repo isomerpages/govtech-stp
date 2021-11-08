@@ -212,7 +212,7 @@ For RGL travellers entering Singapore by land, entry is only permitted via the C
 
 The application for the SafeTravel Pass is open for a period of two to five weeks before the week of the traveller’s planned departure to Singapore. As applications can take up to seven days (excluding the day of application) to process, any application submitted less than eight days from the planned date of entry will not be accepted.
 
-Application sponsors should apply for the SafeTravel Pass-RGL as soon as practicable. Sponsors should take into consideration the time involved forapplication and visa processing (if required), as well as the mandatory pre-departure [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) before departure for Singapore. That aside, application sponsors should note that the hosting company or government agency must submit a copy of the traveller’s 14-day controlled itinerary at least a day before the travellers’ arrival in Singapore.
+Application sponsors should apply for the SafeTravel Pass-RGL as soon as practicable. Sponsors should take into consideration the time involved forapplication and visa processing (if required), as well as the mandatory pre-departure COVID-19 Polymerase Chain Reaction test (“PCR test”) before departure for Singapore. That aside, application sponsors should note that the hosting company or government agency must submit a copy of the traveller’s 14-day controlled itinerary at least a day before the travellers’ arrival in Singapore.
 
 #### 8. How will I be notified of the outcome of the SafeTravel Pass application?
 
@@ -271,7 +271,6 @@ RGL travellers entering Singapore via air and land transport must produce the fo
 - A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore).
 - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of the country/region the traveller is departing from). The certificate should also be in English or accompanied with an English translation.It should also contain the (i) Traveller's name, Date of Birth or Passport number (per passport used to travel to Singapore); and (ii) Date and result of the PCR test. 
 - Proof of return transportation arrangements to depart from Singapore (e.g. air, train and bus return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.
-- A mobile device with the TraceTogether app already downloaded or proof of rental of TraceTogether- compatible device in Singapore.
 
 Traveller who does not have any of the above may be refuse boarding by the airline. For traveller who do not have mobile devices that can download the TraceTogether app, please refer to Question 24.
 
@@ -281,9 +280,9 @@ Traveller who does not have any of the above may be refuse boarding by the airli
 
 #### 16. What COVID-19 tests am I required to take upon arrival in Singapore? Where will the tests be administered, and what are the available payment modes?
 
-All RGL travellers are required to take a COVID-19 PCR test. Travellers entering Singapore by air are encouraged to [pre-register and pre-pay](https://safetravel.changiairport.com/) for the PCR test, while travellers entering Singapore via land will pay on the day of arrival. Click [here](/health/covid19-tests/pcrtest) for more information on the tests and corresponding cost.
+All RGL travellers are required to take a COVID-19 PCR test (S$160) upon arrival. Travellers entering Singapore by air are encouraged to [pre-register and pre-pay](https://safetravel.changiairport.com/) for the PCR test.
 
-In general, travellers should, upon arrival, identify themselves as travellers of the RGL scheme to an airport or checkpoint officer. Upon confirmation of their RGL approved status, travellers will be brought to the swabbing station within Changi Airport, Seletar Airport, Woodlands or Tuas Checkpoints in Singapore for the test.
+In general, travellers should, upon arrival, identify themselves as travellers of the RGL scheme to an airport or checkpoint officer. Upon confirmation of their RGL approved status, travellers will be brought to the swabbing station within Changi Airport in Singapore for the test.
 
 #### 17. What happens if I test positive for COVID-19 in Singapore? Do I have to pay for my COVID-19 medical bills?
 
@@ -313,7 +312,7 @@ Travellers should take their temperature twice daily and report their health sta
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. Together with other digital contact tracing tools, TraceTogether's Bluetooth proximity data has helped to reduce average contact tracing time from 4 days to less than 1.5 days. 
 
-The Bluetooth proximity data collected is stored locally in the user's phone. If the user test positive for COviD-19, the Singapore Ministry of Health will approach the user to upload their Bluetooth proximity data for contact tracing purposes. TraceTogether app does not collect or track your GPS location data. You may read more about our [Privacy Safeguards](htttps://tracetogether.gov.sg/common/privacystatement/).
+The Bluetooth proximity data collected is stored locally in the user's phone. If the user test positive for COviD-19, the Singapore Ministry of Health will approach the user to upload their Bluetooth proximity data for contact tracing purposes. TraceTogether app does not collect or track your GPS location data. You may read more about our [Privacy Safeguards](https://tracetogether.gov.sg/common/privacystatement/).
 
 The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found [here](https://www.tracetogether.gov.sg/).
 
@@ -372,9 +371,9 @@ Please ensure that you keep your mobile device's Bluetooth function turned on so
 
 All travellers must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app. The TraceTogether App can be downloaded from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace) and Huawei App Gallery.
 
-Travellers, with mobile devices that are unable to download the TraceTogether app, can rent a compatible mobile device from the Changi Recommends website [here](https://www.changirecommends.com/reservation_form.aspx) prior to departing for Singapore. They must have an electronic or physical copy of the booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport. Travellers who are unable to present a booking confirmation may be refused boarding by the airline.
+Travellers, with mobile devices that are unable to download the TraceTogether app, can rent a compatible mobile device from the Changi Recommends website [here](https://www.changirecommends.com/reservation_form.aspx) prior to departing for Singapore.
 
-Travellers can pay for and collect their rental mobile device at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. At immigration clearance, travellers are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
+Travellers can pay for and collect their rental mobile device at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore.
 
 Travellers, who have rented a mobile device from Changi Recommends, must carry it with them at all times during their stay in Singapore until it is returned to Changi Recommends. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay and for 21 consecutive days after departing Singapore.   
 

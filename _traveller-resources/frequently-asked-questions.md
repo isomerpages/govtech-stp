@@ -9,7 +9,7 @@ permalink: /health/FAQ
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN) and Dedicated SHN Facility</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#transport">Transport arrangements during SHN</a></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Polymerase Chain Reaction Test (“PCR test”)</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#outboundPDT">Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#inboundtravelinsurance">Singapore Inbound Travel Insurance</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
@@ -36,7 +36,7 @@ The length of your SHN will be stipulated in the Entry Approval Letter or Safe T
 
 Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this <a href="https://sha.org.sg/stay-home-notice" target="_blank">list</a>. Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
-<div id="shnsdfQ3</div>
+<div id="shnsdfQ3"></div>
 
 #### 3. I am presently serving my Stay-Home Notice (SHN). How do I obtain my daily necessities?
 
@@ -46,7 +46,7 @@ Travellers should note that basic essentials such as water, cleaning supplies as
 
 #### 4. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
 
-The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) <u>at the end of SHN</u>. The duration of the SHN will be stated on your SHN document, and you can also [click here](/shn-calculator) to calculate the end date of your SHN. 
+The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final COVID-19 Polymerase Chain Reaction test (“PCR test”) <u>at the end of SHN</u>. The duration of the SHN will be stated on your SHN document, and you can also [click here](/shn-calculator) to calculate the end date of your SHN. 
 
 Travellers who are serving SHN at their own place of residence may end their SHN after they have received confirmation of a **negative** result for the SHN exit PCR tests.
 
@@ -152,34 +152,34 @@ Click here to [Go Back To Top](#top).
 
 <div id="pcrtest"></div>
 
-## COVID-19 Polymerase Chain Reaction Test (“PCR test”)
+## COVID-19 Tests
 
 #### 1. I have an upcoming flight to Singapore. Do I need to be tested for COVID-19 before travelling? What test should I take and how long before my departure should I be tested?
 
-Travellers approved for entry into Singapore <b>will be informed via a condition stipulated in the Entry Approval Letter or SafeTravel Pass on whether they need to be tested for COVID-19 before arrival</b>. Alternatively, travellers who are planning to visit Singapore may refer to this [table](/shn-and-swab-summary) or the [specific safe travel lanes](/arriving/overview) to check if he/she needs to be tested before arrival.
+Travellers approved for entry into Singapore <b>will be informed via a condition stipulated in the Entry Approval Letter or SafeTravel Pass on whether they need to be tested for COVID-19 before arrival</b>. Alternatively, travellers who are planning to visit Singapore may refer to the [specific safe travel lanes](/arriving/overview) to check if he/she needs to be tested before arrival.
 
-To test for COVID-19, travellers bound for Singapore are required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). 
+To test for COVID-19, travellers bound for Singapore may be required to take a COVID-19 Polymerase Chain Reaction (PCR) test within **2 days** before departing for Singapore. From <b>11 November 2021, 2359 hours</b>, Category II and/or III travellers arriving in or transiting through Singapore can take either a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) to fulfil the pre-departure test requirement. Category IV travellers will still be required to take a COVID-19 PCR test. 
 
-Travellers should ask for a copy of their PCR test result as it will be considered by the airline and immigration officer as proof that the traveller has been tested for COVID-19. The documentary proof should:
+Singapore currently only accepts pre-departure COVID-19 PCR tests taken at an accredited or authorised testing facility, or Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional. Self-swabs are not allowed. Travellers should ask for a copy of their negative test result as it will be considered by the airline and immigration officer as proof that the traveller has been tested for COVID-19. The documentary proof should:
 <ul style="list-style-type: disc;">
 	<li>Be in English (or accompanied with an English translation);</li>
 	<li>Contain the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-	<li>Reflect the date and result of the PCR test</li>
+	<li>Reflect the date and result of the test</li>
 </ul>	
 
-Travellers who fail to produce the required documentary proof of having taken the PCR test within the stipulated time before arrival in Singapore may be denied boarding or turned away.
+Travellers who fail to produce the required documentary proof of having taken the COVID-19 test within the stipulated time before arrival in Singapore may be denied boarding or turned away.
 
-In general, travellers who are required to take a PCR test must do so <u>within 48 hours before departure to Singapore</u>. For passengers on <b>direct flights</b> to Singapore, the <u>48 hours</u> will be counted from the scheduled departure day of the flight to Singapore. For example, if the flight is scheduled to depart on 28 May 2021, the COVID-19 PCR test must be taken no earlier than 26 May 2021.
+In general, travellers who are required to take a COVID-19 test must do so <u>within 2 days before departure to Singapore</u>. For passengers on <b>direct flights</b> to Singapore, the <u>2 days</u> will be counted from the scheduled departure day of the flight to Singapore. For example, if the PDT is taken on <b>1 November 2021</b>, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoints) <b>up to 3 November 2021, 2359 hours</b>.
 
-For passengers who are taking a <b>connecting flight</b> to Singapore, the <u>48 hours</u> will be counted from the scheduled departure of his flight from his first embarkation point of his journey to Singapore. For example, if the passenger’s flight itinerary is LAX-NRT-SIN, the COVID-19 PCR test must be taken within <u>48 hours</u> before the scheduled departure of his flight from LAX.
+For passengers who are taking a <b>connecting flight</b> to Singapore, the <u>2 days</u> will be counted from the scheduled departure of his flight from his first embarkation point of his journey to Singapore. For example, if the passenger’s flight itinerary is LAX-NRT-SIN, the COVID-19 test must be taken within <u>2 days</u> before the scheduled departure of his flight from LAX.
 
 #### 2. I am transiting via Singapore. Do I still need to have a valid negative COVID-19 test result?
 
 Click <a href="/transit/overview#PDT">here</a> for the relevant details.
 
-#### 3. What will happen if I arrive in Singapore and do not have a valid negative PCR test certificate?
+#### 3. What will happen if I arrive in Singapore and do not have a valid negative Covid-19 test certificate?
 
-As a condition to enter Singapore, travellers may be required to produce a negative [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) result. This may be enforced by the airline during pre-boarding checks. Unless there are other compelling reasons, travellers failing to meet this condition will be denied entry into Singapore.
+As a condition to enter Singapore, travellers may be required to produce a negative COVID-19 test result. This may be enforced by the airline during pre-boarding checks. Unless there are other compelling reasons, travellers failing to meet this condition will be denied entry into Singapore.
 
 Travellers who present falsified COVID-19 test certificates will be dealt with accordingly, and may be barred from future applications for entry into or stay in Singapore.
 
@@ -195,11 +195,11 @@ To prevent the spread of COVID-19, airlines will deny travellers from boarding a
 
 #### 5. I have recovered from COVID-19. Am I required to be tested for COVID-19 before departure for Singapore?
 
-If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) is required to be taken <u>48 hours</u> before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
+If a COVID-19 test is required to be taken <u>2 days</u> before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
 
 Travellers will be denied boarding by their airline or ferry if they are:
 - diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or
-- tested positive on the COVID-19 PCR test within <u>48 hours</u> before departure for Singapore.
+- tested positive on the COVID-19 test within <u>2 days</u> before departure for Singapore.
 
 #### 6. How will I be informed of my COVID-19 test result?
 
@@ -209,17 +209,17 @@ Travellers with a SingPass account may login to [HealthHub](https://www.healthhu
 
 #### 7. Can I refuse the COVID-19 test in Singapore?
 
-As a condition for entry into Singapore, travellers may be required to take a [COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pcrtest)  while in the country. These conditions would be made explicit during application and reiterated to the traveller again, by way of a condition stipulated in their Entry Approval Letter or SafeTravel Pass. 
+As a condition for entry into Singapore, travellers may be required to take a COVID-19 test while in the country. These conditions would be made explicit during application and reiterated to the traveller again, by way of a condition stipulated in their Entry Approval Letter or SafeTravel Pass. 
 
 Action will be taken against travellers who fail to comply with any of the stipulated requirement/condition for entry into Singapore. This may amount to a fine and/or imprisonment term as prescribed in the Infectious Diseases Act. Additional penalties such as revocation of Work Pass may also apply.
 
 #### 8. Do I have to complete my Stay-Home Notice (SHN) if I have been tested negative for COVID-19 before departing to Singapore?
 
-Yes, travellers must complete their SHN even after they are tested negative for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
+Yes, travellers must complete their SHN even after they are tested negative for their COVID-19 test before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
 
 #### 9. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
-Travellers arriving from countries that require a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) must do so if they are three years old and above in that calendar year (i.e. born in and before 2018) and departing for Singapore from their first point of embarkation. Travellers whose children are below three years old in that calendar year, i.e. born after 2018, are exempted.
+Travellers arriving from countries that require a COVID-19 test must do so if they are three years old and above in that calendar year (i.e. born in and before 2018) and departing for Singapore from their first point of embarkation. Travellers whose children are below three years old in that calendar year, i.e. born after 2018, are exempted.
 
 #### 10. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
@@ -227,7 +227,7 @@ Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.
 
 #### 11. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
 
-In Singapore’s context, the [COVID-19 Polymerase Chain Reaction Test (“PCR test”)](/health/covid19-tests/pcrtest) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
+In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
 #### 12. I am unwell. Can I postpone my COVID-19 Polymerase Chain Reaction test (“PCR test”) appointment?
 
@@ -377,7 +377,7 @@ Yes, all travellers serving their Stay-Home Notice at an [SDF](/health/shn/sdf) 
 
 #### 2. When and how should I pay for my COVID-19 Polymerase Chain Reaction test (“PCR test”) and Stay-Home Notice Dedicated Facility (SDF)?
 
-All arriving travellers are required to pay for their PCR test (click [here](/health/covid19-tests/pcrtest) to check for the cost) and [SDF](/health/shn/sdf). Travellers who are sponsored may work out the payment arrangement with their application sponsors.
+All arriving travellers are required to pay for their Covid-19 test and [SDF](/health/shn/sdf). Travellers who are sponsored may work out the payment arrangement with their application sponsors.
 
 When and how payment is collected, will depend on the travellers’ scheme of travel:
 
@@ -415,84 +415,21 @@ Travellers should register and pay for their on-arrival COVID-19 PCR test separa
    </tr> 
       <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:16px;border-right:2px solid #E0E0E0;"><a href="/stpl/overview">Student’s Pass Holder Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">PayPal payment link for SDF stay and COVID-19 PCR tests during SHN will be provided upon provisional approval of application.<br><br>To expedite clearance at the airport, travellers should register and pay for their on-arrival COVID-19 PCR tests using the relevant links below, <b>before</b> arrival.
-								<ul style="list-style-type: disc;">
-					<li style="font-size:16px;">Travellers arriving via air transport, click <a href="https://safetravel.changiairport.com/#/">here</a></li>
-					<li style="font-size:16px;">Travellers arriving via land or sea transport click <a href="https://t.2c2p.com/express/parkwayshenton">here</a>.</li>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">PayPal payment link for SDF stay and COVID-19 PCR tests during SHN will be provided upon provisional approval of application.<br><br>To expedite clearance at the airport, travellers should register and pay for their on-arrival COVID-19 PCR tests <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a>. The PCR test will cost SGD$160 including GST.
 				</ul>
 </td>
    </tr> 
       <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:16px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/overview">Singapore Citizen/Permanent Resident Familial Ties Lane </a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for SDF stay and COVID-19 PCR tests to be taken during SHN will be made at the point of application.
-<br><br>
-Travellers/application sponsors may refer to the table below on how to make separate pre-payment  for their on-arrival COVID-19 tests:
-       <br>
-   <table>
-  <thead>
-    <tr>
-      <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;"><b>Point of Swab</b></th>
-      <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Swab location</b></th>
-       <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Charge (inclusive of GST)</b></th>
-        <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Payment Mode</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;" rowspan="3">On arrival in Singapore</td>
-      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Changi Airport</td>
-       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160</td>
-        <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/">Here</a></td>
-    </tr>
-        <tr>
-      <td style="font-size:16px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
-					<td style="font-size:16px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$160</td>
-					<td style="font-size:16px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;" rowspan="2">Click <a href="https://t.2c2p.com/express/parkwayshenton">Here</a></td>
-		</tr>
-        <tr>
-      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
-					  <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160</td>
-    </tr>     
-  </tbody>
-  </table>
+<br><br>To expedite clearance at the airport, travellers should register and pay for their on-arrival COVID-19 PCR tests <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a>. The PCR test will cost SGD$160 including GST.
 </td>
    </tr> 
    <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Work Pass Holder General Lane (WPHL) <br><br> (<a href="/wphl/overview">Helpers and Confinement Nannies</a>, <a href="/wphl/overview">all other Work Pass Holders and their dependents</a>)</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for costs of SDF stay and COVID-19 PCR tests during SHN will be made at the point of application.
-<br><br>
-Travellers/application sponsors may refer to the table below on how to make separate payment for the on-arrival COVID-19 tests:
-				<table>
-  <thead>
-    <tr>
-      <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;"><b>Point of Swab</b></th>
-      <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Swab location</b></th>
-       <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Charge (inclusive of GST)</b></th>
-        <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Payment Mode</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;" rowspan="3">On arrival in Singapore</td>
-      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
-       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160</td>
-        <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must click <a href="https://safetravel.changiairport.com/#/">here</a>  to book and pay for the tests <b>before the helper/CN arrives in Singapore</b>.</td>
-    </tr>
-        <tr>
-      <td style="font-size:16px; margin-top:0px; margin-bottom:0px;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
-	<td style="font-size:16px; margin-top:0px; margin-bottom:0px;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">S$160</td>
-	<td style="font-size:16px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Helper/CN must register and pay for the tests <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before arrival</b>.<br><br>
-Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits">responsible for the test cost</a>
-</td>
-</tr>
-<tr>
-      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
-	<td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><b>PCR Test</b> – S$160</td>
- <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must register and pay <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before the traveller’s arrival in Singapore</b>.</td>
-    </tr> 
-  </tbody>
-  </table>
- <p style="margin-top:0px; margin-bottom:0px; font-size:16px;"> <b>Note:</b> The instructions in the table above do not apply to: </p>
+<br><br>Application sponsors, i.e. employer/employment agent, must click <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a> to book and pay for the tests <b>before the helper/Confinment Nanny arrives in Singapore</b>. The PCR test will cost SGD$160 including GST.
+ <p style="margin-top:15px; margin-bottom:0px; font-size:16px;"> <b>Note:</b> The instructions in the table above do not apply to: </p>
 				<ol style="margin-top:0px; margin-bottom:0px; font-size:16px;">
            <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Helpers serving SHN at an SDF alone or with other helpers; and </li>
            <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Workers in Construction, Marine Shipyard and Process (CMP) sectors who would be onboarded at the Migrant Worker Onboarding Centre. This includes CMP workers on Work Permit, Training Work Permit or S Pass and entering Singapore alone (i.e. without dependants). Click <a href="https://www.mom.gov.sg/covid-19/migrant-worker-onboarding-centre">here</a> to find out more about the Migrant Worker Onboarding Centre. </li>
@@ -505,7 +442,7 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
 
 #### 3. How do I request a refund for my COVID-19 Polymerase Chain Reaction test (“PCR test’) as well as stay at the Stay-Home Notice (SHN) dedicated facility (SDF)?
 
-Pre-payments made for relevant costs such as [SDF](/health/shn/sdf) and [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) fees during the entry application process are non-refundable for drop-outs and last minute cancellations. All forfeited pre-payments will go toward covering the relevant costs have been incurred to secure and prepare the accommodation for the traveller.
+Pre-payments made for relevant costs such as [SDF](/health/shn/sdf) and COVID-19 test fees during the entry application process are non-refundable for drop-outs and last minute cancellations. All forfeited pre-payments will go toward covering the relevant costs have been incurred to secure and prepare the accommodation for the traveller.
  
 Requests for refunds will only be considered if there are strong mitigating factors. These may include flight cancellation by the airline, or changes in border policies that has prevented the traveller from leaving for Singapore. In such instances, travellers may submit a refund request to the channels, below, based on their corresponding pass type and/or scheme of entry:
 

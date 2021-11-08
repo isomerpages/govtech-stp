@@ -2,6 +2,14 @@
 title: Conditions
 permalink: /vtl/conditions
 ---
+
+<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b><u>Important Update</u></b></span></p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">Singapore will launch a joint VTL with <b>Malaysia</b> for travel between Changi Airport and Kuala Lumpur International Airport (KLIA) <b>from 29 November 2021</b>. Vaccinated Travel Pass (VTP) applications for Short-Term Visitors and Long-Term Pass Holders will commence on <b>22 November 2021</b>; returning Singapore Citizens and Permanent Residents who are fully vaccinated will not need to apply. Singapore and Malaysia are also in detailed discussion to launch a similar scheme for travel across the land links. </p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">We will also extend the VTLs to Finland and Sweden <b>from 29 November 2021</b>, with applications for Short Term Visitors and Long-Term Pass Holders commencing on <b>22 November 2021</b>. </p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">More details will be provided nearer the date when applications are open.</p>
+</div>
+
 ### Conditions of the Vaccinated Travel Lane (VTL)
 
 <ol style="font-size:20px;">
@@ -9,18 +17,18 @@ permalink: /vtl/conditions
   <li style="font-size:20px; list-style-type:decimal;"> A VTL Traveller must comply with the following conditions:
      <ol style="font-size:18px; list-style-type:lower-alpha;">
 	      <li style="font-size:18px; list-style-type:lower-alpha;">be <a href="/health/vtsg">fully vaccinated</a>, and have a valid proof of vaccination issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> he/she departs from;</li>	      
-	     <li style="font-size:18px; list-style-type:lower-alpha;">have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a> and/or Singapore, for the last 14 consecutive days<sup>1</sup> before departing for Singapore;</li>			 
+	     <li style="font-size:18px; list-style-type:lower-alpha;">have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, [<a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a>, for entry into Singapore from <b>11 Nov 2021, 2359hrs, SGT</b>] and/or Singapore, for the last 14 consecutive days<sup>1</sup> before departing for Singapore;</li>			 
         <li style="font-size:18px; list-style-type:lower-alpha;">travel to Singapore on a designated VTL flight;</li>
-       <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of his/her flight, at an internationally accredited laboratory, clinic or medical facility, and obtain a test result certificate in English stating the following:</li>
+       <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test [or Antigen Rapid Test (ART), for entry into Singapore from <b>11 Nov 2021, 2359hrs, SGT</b>]  within 2 days <sup>2</sup> before the scheduled departure time of his/her flight, at an internationally accredited laboratory, clinic or medical facility, and obtain a test result certificate in English stating the following:</li>
         <ol style="font-size:18px; list-style-type:lower-roman;">
           <li style="font-size:18px; list-style-type:lower-roman;">the VTP holder’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
-           <li style="font-size:18px; list-style-type:lower-roman;">a negative COVID-19 PCR test result</li>
-          <li style="font-size:18px; list-style-type:lower-roman;">the date and time when the COVID-19 PCR test was taken; and</li>
-					    <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 PCR test.
+           <li style="font-size:18px; list-style-type:lower-roman;">a negative COVID-19 test result</li>
+          <li style="font-size:18px; list-style-type:lower-roman;">the date and time when the COVID-19 test was taken; and</li>
+					    <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 test.
 </li>
          </ol>
-               <li style="font-size:18px; list-style-type:lower-alpha;">undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately<sup>2</sup>  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTL application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
-	     <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 PCR test results to the relevant Singapore Government authorities for public health purposes;</li>
+               <li style="font-size:18px; list-style-type:lower-alpha;">undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately<sup>3</sup>  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTL application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
+	     <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 test results to the relevant Singapore Government authorities for public health purposes;</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;">download the TraceTogether app on his/her mobile device and:
 		<ol style="font-size:18px; list-style-type:lower-roman;">
 		<li style="font-size:18px; list-style-type:lower-roman;">keep the TraceTogether app activated at all times while in Singapore;</li>
@@ -46,4 +54,6 @@ permalink: /vtl/conditions
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>1</sup>If the scheduled day of departure of the flight is D (e.g. 7 October 2021), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a> and/or Singapore from D-14 to D (i.e. 23 September to 7 October 2021, if D is 7 October 2021).</p>
 
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>Travellers are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area of the Arrivals Hall.</p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours.</p>
+
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>3</sup>Travellers are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area of the Arrivals Hall.</p>

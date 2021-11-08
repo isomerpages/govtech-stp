@@ -10,7 +10,7 @@ third_nav_title: RGL Travellers Returning to Singapore
 <table>
   <thead>
     <tr>
-      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">RGL Countries</th>
+      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">RGL Countries/Regions</th>
       <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">FAQ</th>
     </tr>
   </thead>
@@ -47,7 +47,7 @@ third_nav_title: RGL Travellers Returning to Singapore
 
 #### 1. What health measures will apply to me upon my return to Singapore after my RGL travel?
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders returning to Singapore from their trip to Mainland China  under the RGL are not required to serve a Stay-Home Notice. However, they will be required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) upon arrival and remain in self-isolation until a negative PCR test is conveyed.
+Singapore Citizens, Permanent Residents and Long-Term Pass holders returning to Singapore from their trip to Mainland China  under the RGL are not required to serve a Stay-Home Notice. However, they will be required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](https://safetravel.changiairport.com/#/) [S$160] upon arrival and remain in self-isolation until a negative PCR test is conveyed.
 
 Travellers returning to Singapore from their trip to Brunei Darussalam under RGL are required to:
 - Take a COVID-19 PCR test within 72 hours before departure for Singapore.
@@ -62,15 +62,15 @@ Travellers will be responsible for charges for COVID-19 treatment if [symptoms](
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the PDF copy of the Entry Travel Pass which confirms that he/she was granted approval by the relevant authorities to travel to Brunei Darussalam or Mainland China under the RGL. The document is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Brunei Darussalam or Mainland China via the RGL.
 
-<div id="faq-return-GIJMR"></div>  
+<!--<div id="faq-return-GIJMR"></div>  
 
 ### Germany, Indonesia, Japan, Malaysia & Republic of Korea
 
 #### 1. What health measures will apply to me upon my return to Singapore after my RGL travel?
 
 Upon arrival in Singapore, all Singapore-based travellers returning from their travel from <b>Germany/Indonesia/Japan/Malaysia/ Republic of Korea</b> on RGL, will be required to:
-- Take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest);
-- Take an on-arrival [COVID-19 PCR test](/health/covid19-tests/pcrtest) (travellers arriving in Singapore from Indonesia will be required to take an additional Antigen Rapid test upon arrival); and
+- Take a COVID-19 PCR test
+- Take an on-arrival [COVID-19 PCR test](https://safetravel.changiairport.com/#/)(S$160); and
 - Serve [SHN](/health/shn) and take the relevant COVID-19 tests, details below:
 
 <table>
@@ -150,7 +150,7 @@ Returning RGL travellers from <b>Germany, Indonesia, Japan, Malaysia (taking fli
 
 #### 3. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Germany/ Indonesia/ Japan/ Malaysia/ Republic of Korea?
 
-Singapore Citizens and Permanent Residents may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.
+Singapore Citizens and Permanent Residents may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.-->
 
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 

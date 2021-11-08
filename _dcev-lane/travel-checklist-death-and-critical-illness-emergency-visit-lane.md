@@ -22,19 +22,21 @@ All travellers, except Singapore Citizens and Permanent Residents, must write to
 
 Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.
 
+<div id="stage1c"></div>
+
 &#x2610; <i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
-Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
-- Below the age of three in this calendar year; or
+Travellers must take a PDT **within 2 days before departure** for Singapore, unless they:
+- Are below the age of three in this calendar year; or
 - Have remained in only [Category (I) country/region](/shn-and-swab-summary) in the past 14 consecutive days before departure; or
-- Are Singapore Citizen entering Singapore via the Causeway or Second Link.
+- Are Singapore Citizens entering Singapore via the Causeway or Second Link.
 
-Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
+Travellers are required to take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR [For Category II and III arrivals from 11 Nov 2021, 2359 hours]</b> an Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure, if necessary. <b>Self-swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test.
 
-Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the [Safe Travel Office here for assistance.](/contact-us)
+Travellers with difficulties obtaining a COVID-19 test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office here for assistance</a>.
 
 &#x2610;  <i><b>D) Submission of Health Declaration</b></i>
 
@@ -63,8 +65,6 @@ Travellers must download and create a user profile on the <a href="https://www.t
 
 Children who are aged 6 years or below in this calendar year are exempted from this requirement. Travellers who are 7 to 12 yrs of age in the current calendar year, and those who are unable to use a mobile device due to a certified disability or special need, will receive a TraceTogether token on arrival in Singapore. For more details on the use of TraceTogether, click [here](/health/tt-for-travellers).
 
-
-
 ### Stage 2: Departure for Singapore
 
 &#x2610;  <i><b>A) Pre-boarding Document Checks (for travellers arriving by air or sea)</b></i>
@@ -73,11 +73,10 @@ As part of the airline or transport operator’s pre-boarding checks, travellers
 
 <ul style="list-style-type:lower-roman;">
 <li>Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and</li>
-<li>	Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result (if required)</li>
+<li>	Valid Pre-Departure COVID-19 Test certificate showing a negative result (if required)</li>
 </ul>
 
 Travellers without the above may be denied boarding. Travellers who are exempted from (ii) should produce their proof of exemption to the transport operator instead.
-
 
 ### Stage 3: Arrival in Singapore
 
@@ -89,7 +88,6 @@ Travellers will be asked to produce the following documents as part of the immig
 		<li>Negative PDT report, if required</li>
 	<li>	Valid entry approval letter (electronic or physical copy)</li>
 	<li>Valid visa (only visa-required passport holders)</li>
-	<li>	A mobile device with the TraceTogether app downloaded and with a registered user profile</li>
 	</ul>
 
 <b>Eligible travellers vaccinated overseas should also inform the immigration officer to have your vaccination details temporarily registered in your TraceTogether app</b> in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure to get your vaccination status registered</a>. 
@@ -100,7 +98,7 @@ Travellers with a 14-day travel history to any <a href="/shn-and-swab-summary" t
 
 &#x2610; <i><b>B) COVID-19 Test [Category (I) travellers only]</b></i>
 
-Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you did not <a href="/health/covid19-tests/pcrtest#price" target="_blank">pay for the test before arrival</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
+Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you did not <a href="https://safetravel.changiairport.com/#/" target="_blank">pay for the test before arrival</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
 
 &#x2610;  <i><b>C) Transport to Self-Isolation / Stay-Home Notice accommodation) </b></i>
 

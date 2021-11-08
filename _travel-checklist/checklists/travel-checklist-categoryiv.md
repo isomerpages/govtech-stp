@@ -6,7 +6,7 @@ permalink: /travel-checklist/category-4
 
 ### Travel Checklist – Category (IV) Travel History
 
-This checklist is **only** suitable for travellers with travel history to any Category (IV) country/region in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">this menu</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
+This checklist is **only** suitable for travellers with travel history to any Category (IV) country/region in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">this list of countries/regions</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
 
 Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
 
@@ -16,18 +16,20 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.
 
-&#9744;  <i><b>B) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
+&#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
-Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.
+Travellers who are not Singapore Citizens, Permanent Residents or Long-Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.
+
+<div id="stage1c"></div>
 
 &#9744;  <i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
-Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
+Travellers must take a PDT **within 2 days before departure** for Singapore, unless they:
 - Below the age of three in this calendar year; or
 - Have remained in only <a href="/shn-and-swab-summary" target="_blank">Category (I) country/region</a> in the past 14 consecutive days before departure; or
-- Are Singapore Citizen entering Singapore via the Causeway or Second Link.
 
 Travellers are required to take their PDT at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the PDT:
+- Is a Polymerase Chain Reaction (PCR) test, Antigen Rapid Test are <b>not allowed</b>;
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test.
@@ -78,7 +80,7 @@ Travellers should note that any prior approvals given to complete the SHN at a p
 
 As part of the airline or transport operator’s pre-boarding checks, travellers may be asked for the following:
 - Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and
-- Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result
+- Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result (per [Stage 1C](#stage1c))
 
 Travellers without the above may be denied boarding.
 
@@ -148,10 +150,11 @@ To calculate the estimated SHN end-date, click here for an <a href="/shn-calcula
 
 During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. <a href="/health/shn#shn-compliance-checks" target="_blank">Click here for more information on SHN-related compliance matters</a>.
 
-&#9744;  <i><b>B) COVID-19 Test during SHN</b></i>
+&#9744;  <i><b>B) End-of-SHN COVID-19 Test</b></i>
 
-**All** travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on Day 10 of their arrival. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
+Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
 
+The test costs SGD$125 (including GST). Returning Singapore Citizens and Permanent Residents will be advised on payment details after arrival. All other travellers would have paid for the test at the point of entry application.
 
 ### Stage 5: End of Stay-Home Notice
 

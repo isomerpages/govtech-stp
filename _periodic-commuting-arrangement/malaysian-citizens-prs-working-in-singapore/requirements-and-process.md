@@ -42,7 +42,7 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
     <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Obtain the sponsored employees’:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Acknowledgement of the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> that he/she will be subject to for entry under the PCA; and </li>
-         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Consent to disclosing their <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> results either by themselves or through the medical provider, to the employer and relevant government authorities in Singapore. </li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Consent to disclosing their COVID-19 Polymerase Chain Reaction test ("PCR test") results either by themselves or through the medical provider, to the employer and relevant government authorities in Singapore. </li>
          </ol>   
        </li>
       </ol>   
@@ -80,12 +80,12 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
   </thead>
 <tbody>
   <tr>
-   <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 PCR Test</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, including Singapore Permanent Residents, must take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> <b>within 48 hours before departure</b>. <b>The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a></b>.<br/><br/>
-As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR test result in English (or accompanied with an English translation), which contains the following details:
+   <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 PCR or ART Test</b></td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, including Singapore Permanent Residents, must take a COVID-19 Polymerase Chain Reaction test ("PCR test") or Antigen Rapid Test ("ART test") <b>within 2 days before departure for Singapore</b>. <b>The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a></b>.<br/><br/>
+As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR or ART test result in English (or accompanied with an English translation), which contains the following details:
 <ol style="margin-top:0px; list-style-type: disc;">
  <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-  <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Date and result of the PCR test.</li>
+  <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Date and result of the PCR or ART test.</li>
  </ol>
 <!--<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><u><i>Note:</i></u></p>
@@ -148,16 +148,15 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance</b></td>
     <td style="font-size:18px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present to the ICA officer or they may be denied entry:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid PCA approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid visa (for visa-required passport holders); and</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app. Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</li>
+         <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid PCA approval letter (electronic or physical copy) for the specified period of entry into Singapore; and</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid visa (for visa-required passport holders)</li>
          </ol>
 		<b>Eligible travellers vaccinated overseas should also inform the immigration officer to temporarily register their vaccination details in their TraceTogether app</b>, in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>. 
          </td>
  </tr>
  <tr>
-     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction Test (PCR Test)</b></td>
-     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers who arrive in Singapore without a valid negative COVID-19 PCR test may be denied entry into Singapore and could have their relevant permits cancelled. 
+     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction or Antigen Rapid Test (PCR Test or ART)</b></td>
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers who arrive in Singapore without a valid negative COVID-19 PCR or ART test may be denied entry into Singapore and could have their relevant permits cancelled. 
 </td> 
  </tr>
    <tr>
@@ -198,7 +197,7 @@ Your personal privacy is protected while using these devices. The device does no
 <thead>
   <tr>
     <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED
-"><b><u>Up to 10 days after arriving</u></b> in Singapore</th>
+"><b><u>Up to 7 days after arriving</u></b> in Singapore</th>
   </tr>
   </thead>
 <tbody>
@@ -214,8 +213,8 @@ Your personal privacy is protected while using these devices. The device does no
   </tr>
   <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Serving SHN at a declared SHN accommodation </b></td>
-  <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers must remain in their <a href="/health/shn/sdf" target="_blank">declared SHN accommodation</a> for the period stipulated in the <a href="/health/shn">SHN</a> unless they are due to take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”). The test may be conducted at a specified testing facility, and travellers must return to their declared SHN accommodation immediately after the test. <br/><br/>
-	Travellers will be required to take a PCR test on Day 10, before they exit their SHN.
+  <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers must remain in their <a href="/health/shn/sdf" target="_blank">declared SHN accommodation</a> for the period stipulated in the <a href="/health/shn">SHN</a> unless they are due to take a COVID-19 Polymerase Chain Reaction test (“PCR test”). The test may be conducted at a specified testing facility, and travellers must return to their declared SHN accommodation immediately after the test. <br/><br/>
+	Travellers will be required to take a PCR test on Day 7, before they exit their SHN.
 		<br/><br/>
 Travellers who develop <a href="/health/covid19-symptoms">COVID-19 symptoms</a> during their SHN within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.<br/><br/>
 Singapore Permanent Residents who are Malaysian nationals may access Government subsidies and Medishield Life/Integrated Shield Plans to help pay for their medical bills.

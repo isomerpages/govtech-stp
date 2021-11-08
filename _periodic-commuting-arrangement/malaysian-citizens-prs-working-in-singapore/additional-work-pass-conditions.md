@@ -32,7 +32,7 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
   </ol>
   <p style="margin-top:10px; margin-bottom:10px; line-height:1.5;"><i>Before the foreign employee leaves for Singapore</i></p>
   <ol>
-   <li style="line-height:1.5;">The Employer shall inform the foreign employee that he/she is required to serve a 10-day Stay-Home Notice period (“SHN period”) at declared SHN accommodation once he/she arrives in Singapore.</li>
+   <li style="line-height:1.5;">The Employer shall inform the foreign employee that he/she is required to serve a 7-day Stay-Home Notice period (“SHN period”) at declared SHN accommodation once he/she arrives in Singapore.</li>
    <li style="line-height:1.5;">The Employer shall ensure that the foreign employee is able to fully comply with the additional work pass conditions imposed on him/her for the SHN period.</li>
    <li style="line-height:1.5;">The Employer shall explain and ensure that the foreign employee understands the additional work pass conditions that he/she has to comply with, and the advisories that he/she has to observe.</li> 
   <li style="line-height:1.5;">The Employer shall ensure that the foreign employee is in possession of a subscriber identification module (“SIM”) card with a Singapore telephone number to allow the foreign employee to be contactable by the Controller when in Singapore.</li>
@@ -49,8 +49,8 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
    <li style="line-height:1.5;">The Employer shall ensure that the foreign employee is transferred directly from Singapore’s immigration land checkpoint using private vehicle, taxi or private hire car to the foreign employee's SHN place of residence during the SHN period, immediately upon his/her arrival in Singapore. The Employer shall ensure that the foreign employee does not take public trains and buses to his/her declared place of residence for SHN.</li>
    <li style="line-height:1.5;">The Employer shall ensure that the foreign employee complies with the SHN Period which will commence with immediate effect from the time it is issued to the foreign employee on arrival (day 1) and will be effective on that day until:
    <ol style="list-style-type:lower-alpha;">
-     <li style="line-height:1.5;">10 days subsequent thereafter and will end at 12 noon on the 11th day; or </li>
-     <li style="line-height:1.5;">until the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN will end immediately, whichever is later  </li>
+     <li style="line-height:1.5;">At least 7 days subsequent thereafter; and </li>
+     <li style="line-height:1.5;">the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN will end immediately, if the results are received after the 7th day.  </li>
     </ol>
   </li>
    <li style="line-height:1.5;">The Employer shall arrange a suitable place of residence for his foreign employee to stay during his SHN period.</li>
@@ -75,8 +75,8 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
   <li style="line-height:1.5;">Pursuant to section 7(4A) of the Employment of Foreign Manpower Act (Cap. 91A), these additional conditions are imposed on a Malaysia employee approved for Periodic Commuting Arrangement (“PCA”), after the foreign employee arrives in Singapore</li>
    <li style="line-height:1.5;">The foreign employee shall comply with the Stay-Home Notice period (“SHN period”) which will commence with immediate effect from the time it is issued to the foreign employee on arrival (day1) and will be effective on that day until:
      <ol style="list-style-type:lower-alpha;">
-      <li style="line-height:1.5;">10 days subsequent thereafter, and will end at 12 noon on the 11th day; or</li>
-        <li style="line-height:1.5;">until the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN period will end immediately, whichever is later.</li>
+      <li style="line-height:1.5;">at least 7 days subsequent thereafter; and</li>
+        <li style="line-height:1.5;">the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN period will end immediately, if the results are received after the 7th day.</li>
      </ol>
   </li>
    <li style="line-height:1.5;">The foreign employee shall proceed from the Singapore immigration land checkpoint directly to his/her declared SHN accommodation to serve his/her SHN.</li>

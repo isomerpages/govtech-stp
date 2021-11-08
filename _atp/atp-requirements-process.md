@@ -115,8 +115,13 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 	              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">non-residential accommodation (i.e. hotel or serviced apartment).</li>
      </ol>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Visitors must isolate alone, or with household members who have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet. </p>
-	    <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Visitors are required to bear the cost of their accommodation (if applicable) in Singapore</p>
-	    <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><i><b>Note: </b>Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg/hotel-accommodation">website</a> for a list of hotels. The list is non-exhaustive, and visitors may book other available accommodations as long as they offer individual rooms with an ensuite toilet.</i></p>
+	    <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Visitors are required to bear the cost of their accommodation (if applicable) in Singapore</p><br/>
+	    <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><b>Note: </b>Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg/hotel-accommodation">website</a> for a list of hotels. The list is non-exhaustive, and visitors may book other available accommodations as long as they offer individual rooms with an ensuite toilet.</p><br/>
+			  <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The minimum rental period is 3 months for private residences, and 6 months for HDB flats. Short-term rental of these properties are not allowed. Travellers may refer to the following websites for more information.</p>
+			<ol style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;list-style-type:disc;">
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation">Regulations for renting a Private Property</a></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat">Regulations for renting a HDB flat/ Bedroom</a></li>
+			</ol>
     </td>
  </tr>
   <tr>
@@ -140,11 +145,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Check-in at departure airport</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> When checking in at the departure airport, visitors must present to the airline staff:
     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors); and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors).</li>
     </ol> 
-     <br/>
      <b>Visitors who do not have any of the above may be refused entry into Singapore by ICA. </b>
  </td>
  </tr>
@@ -169,8 +172,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app (or a TraceTogether token for those eligible to be issued with a token). Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app. </li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
          </ol>
 		<b>Eligible travellers vaccinated overseas should also inform the immigration officer to temporarily register their vaccination details in their TraceTogether app</b>, in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>.  <br><br>
 			Please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here</a> for more information about the e-Pass.

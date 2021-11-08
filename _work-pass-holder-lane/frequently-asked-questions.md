@@ -170,7 +170,7 @@ As a condition for entry under the Work Pass Holder General Lane (WPHL), travell
 
 Travellers and employers should note that non-compliance with the SHN conditions is an offence that could attract a fine and/or imprisonment term. MOM may also initiate pass revocation procedures or withdraw the relevant work pass privileges. 
 
-In general, individual served with an SHN are not permitted to leave their SHN accommodation, including the [SHN Dedicated Facility (SDF)](/health/shn/sdf), during the stipulated SHN period. Travellers are only permitted to leave their SHN accommodation or SDF for their [COVID-19  tests](/health/covid19-tests/pcrtest). Transport to and from the designated testing facility would be arranged as travellers are prohibited from commuting using public transport.
+In general, individual served with an SHN are not permitted to leave their SHN accommodation, including the [SHN Dedicated Facility (SDF)](/health/shn/sdf), during the stipulated SHN period. Travellers are only permitted to leave their SHN accommodation or SDF for their COVID-19  tests. Transport to and from the designated testing facility would be arranged as travellers are prohibited from commuting using public transport.
 
 #### 2. Is my helper/confinement nanny allowed to share rooms at the Stay-Home Notice Dedicated Facility (SDF)? Where can I submit the room sharing application?
 
@@ -303,7 +303,7 @@ Pass holders who took other types of vaccines will not meet the entry requiremen
 
 Yes, all pass holders who have recovered from COVID-19 are still subject to the [vaccination requirements](/wphl/vaccination-requirements). 
 
-#### 9. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
+#### 9. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure test. Can he/she be exempted from Stay-Home Notice (SHN)?
 
 Fully vaccinated pass holders are still subject to the [prevailing travel health control measures](https://go.gov.sg/responsibilities-submitters-pass-holders), which include serving SHN depending on their travel histories. 
 

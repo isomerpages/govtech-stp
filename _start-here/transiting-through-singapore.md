@@ -14,7 +14,7 @@ However, only passengers travelling with an airline whose transfer route via Sin
 
 A pre-departure COVID-19 test is not required for transit travellers  with a 14-day travel history to any <a href="/shn-and-swab-summary#table" target="_blank">Category(I) countries/regions</a>.
 
-All other travellers transiting in Singapore are required to take a COVID-19 Polymerase Chain Reaction test ("PCR test") <b>within 48 hours before departure for Singapore. </b> Only travellers with a valid negative COVID-19 PCR test report will be allowed to board their flight or ferry to transit in Singapore.
+All other travellers transiting in Singapore are required to take a COVID-19 Polymerase Chain Reaction test ("PCR test") <b>within 2 days before departure for Singapore. </b> Only travellers with a valid negative COVID-19 PCR test report will be allowed to board their flight or ferry to transit in Singapore.
 
 #### Entry Visas
 
