@@ -169,9 +169,7 @@ Singapore currently only accepts pre-departure COVID-19 PCR tests taken at an ac
 
 Travellers who fail to produce the required documentary proof of having taken the COVID-19 test within the stipulated time before arrival in Singapore may be denied boarding or turned away.
 
-In general, travellers who are required to take a COVID-19 test must do so <u>within 2 days before departure to Singapore</u>. For passengers on <b>direct flights</b> to Singapore, the <u>2 days</u> will be counted from the scheduled departure day of the flight to Singapore. For example, if the flight is scheduled to depart on 28 May 2021, the COVID-19 test must be taken no earlier than 26 May 2021.
-
-If the PDT is taken on <b>1 November 2021</b>, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoints) <b>up to 3 November 2021, 2359 hours</b>.
+In general, travellers who are required to take a COVID-19 test must do so <u>within 2 days before departure to Singapore</u>. For passengers on <b>direct flights</b> to Singapore, the <u>2 days</u> will be counted from the scheduled departure day of the flight to Singapore. For example, if the PDT is taken on <b>1 November 2021</b>, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoints) <b>up to 3 November 2021, 2359 hours</b>.
 
 For passengers who are taking a <b>connecting flight</b> to Singapore, the <u>2 days</u> will be counted from the scheduled departure of his flight from his first embarkation point of his journey to Singapore. For example, if the passenger’s flight itinerary is LAX-NRT-SIN, the COVID-19 test must be taken within <u>2 days</u> before the scheduled departure of his flight from LAX.
 
