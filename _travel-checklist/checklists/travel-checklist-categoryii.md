@@ -56,7 +56,7 @@ Install and activate the <a href="https://www.tracetogether.gov.sg/" target="_bl
 
 As part of the airline or transport operator’s pre-boarding checks, travellers may be asked for the following:
 - Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and
-- Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result (see [Stage 1C](#stage1c))
+- Valid Pre-Departure test (PDT) showing a negative COVID-19 result (see [Stage 1C](#stage1c))
 
 Travellers without the above may be denied boarding.
 
