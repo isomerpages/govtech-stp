@@ -20,7 +20,7 @@ All travellers, except Singapore Citizens and Permanent Residents, must write to
 
 &#x2610;  <i><b>B) Application for Entry Visas</b></i>
 
-Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.
+Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.
 
 <div id="stage1c"></div>
 
