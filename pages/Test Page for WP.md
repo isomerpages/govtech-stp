@@ -37,13 +37,8 @@ For all other pass holders (work pass holders and their dependants), this page e
 	</tbody>
 		</table>
 
-On this page you will find the following:
-<ol style="padding-left:20px; font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-latin;">
-	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#from">from 11 Nov 2021, 2359 hours</a></li> 
-	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#before">before 11 Nov 2021, 2359 hours</a></li>
-	</ol>
 
-Travel Health Control Measures for WPHL-Pass Holders
+### Travel Health Control Measures for WPHL-Pass Holders
 
 <div id="from"></div>
 
