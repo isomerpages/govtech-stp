@@ -836,7 +836,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 </td>
 </tr>
 	<tr>
-		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Category (I) Health Measures by Pass Type</b></th>
+		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Category (I) Health Measures by Pass Type</b></td>
 	</tr>
 	<tr>
 	<td>
@@ -1025,7 +1025,7 @@ input:checked + label + .subcontent {
 </td>
 </tr>
 	<tr>
-		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Category (II) Health Measures by Pass Type</b></th>
+		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Category (II) Health Measures by Pass Type</b></td>
 	</tr>
 	<tr>
 	<td>
