@@ -222,7 +222,7 @@ input:checked + label + .content {
 <label for="title4">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
 <div class="content">
-	<p style="line-height:1.5;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. However, you will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide here.</p>
+	<p style="line-height:1.5;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. However, you will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.</p>
 		<p style="line-height:1.5;"><b>SC/PRs must comply with the requirements stated in the <a href="/vtl/travel-checklist" target="_blank"> VTL Traveller’s Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 </div>
 	
