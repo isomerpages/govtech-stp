@@ -1004,8 +1004,7 @@ input:checked + label + .subcontent {
 </html>
 	</td>
 	</tr>
-	</table>
-	<br>
+	</table><br>
 	<!--Category 2-->
 	<table>
 <tr>
@@ -1027,10 +1026,7 @@ input:checked + label + .subcontent {
 	<tr>
 		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Category (II) Health Measures by Pass Type</b></td>
 	</tr>
-	<tr>
-	<td>
 	<html>
-
 <head>
 <meta charset="utf-8">
 <title>Test Accordion</title>
