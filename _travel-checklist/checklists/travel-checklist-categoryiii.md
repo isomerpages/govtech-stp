@@ -31,7 +31,7 @@ Travellers must take a PDT **within 2 days before departure** for Singapore, unl
 - Have remained in any <a href="/shn-and-swab-summary" target="_blank">Category (I) country/region</a> in the past 14 consecutive days before departure; or
 - Are Singapore Citizens entering Singapore via the Causeway or Second Link.
 
-Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR [For arrivals from 11 Nov 2021, 2359 hours]</b> an Antigen Rapid Test(ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-Swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
+Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR [For arrivals from 11 Nov 2021, 2359 hours]</b> an Antigen Rapid Test(ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test.
@@ -58,7 +58,7 @@ Install and activate the <a href="https://www.tracetogether.gov.sg/" target="_bl
 
 As part of the airline or transport operator’s pre-boarding checks, travellers may be asked for the following:
 - Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and
-- Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result (see [Stage 1C](#stage1c))
+- Valid Pre-Departure test (PDT) showing a negative COVID-19 result (see [Stage 1C](#stage1c))
 
 Travellers without the above may be denied boarding.
 
