@@ -49,15 +49,16 @@ Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore fro
 Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane</a>.
 
 <ol style="list-style-type:disc;">
-	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark,<sup>1</sup> Germany, France,<sup>2</sup> Italy, the Netherlands,<sup>3</sup> Spain, Switzerland, the United Kingdom,<sup>4</sup> and the United States<sup>5</sup></li>
+	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 		<li style="line-height:1.5; margin-top:10px;">South Korea (applications open on 8 Nov 2021, 1000hrs, for entry into Singapore from 15 Nov 2021)</li>
 	<li style="line-height:1.5; margin-top:10px;">Finland, Malaysia and Sweden (applications open on 22 Nov 2021,  for entry into Singapore from 29 Nov 2021)</li>
 	</ol>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
 <i style="font-size:14px; line-height:1.5;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>4</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>5</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
+<i style="font-size:14px; line-height:1.5;"><sup>4</sup>Including the Canary Islands</i><br>
+<i style="font-size:14px; line-height:1.5;"><sup>5/sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
+<i style="font-size:14px; line-height:1.5;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
 
 ---
 
