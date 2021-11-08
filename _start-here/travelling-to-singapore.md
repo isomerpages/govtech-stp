@@ -94,7 +94,6 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 <i style="font-size:14px; line-height:1.5;"><sup>4</sup>Including the Canary Islands</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
-
 				</td>
 	</tr>
 	<tr>
