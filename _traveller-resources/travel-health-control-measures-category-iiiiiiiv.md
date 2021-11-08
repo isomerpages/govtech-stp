@@ -21,7 +21,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 					<b> ➀</b> If you have visited or transited in multiple countries in the past 14 days before arriving in Singapore, note that:
 					<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
 					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The most stringent category out of all the countries/regions you have visited (excluding transits less than 24 hours) will apply. For example, a traveller who had travel history to both Category (I) and (II) countries/regions before departure, but transited in a Category (IV) country/region on the way to Singapore, will be subject to Category (II) measures; and</li>
-												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	<!--A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 14 consecutive days before departure. <u>or</u> you are a Singapore resident (i.e. Singapore Citizen, Permanent Resident and Long-Term Pass Holder) and have remained in a Category (I), (II), (III) and/or (IV) country/region for at least 14 consecutive days before departure.-->	For transits in Category II/III/IV countries/regions lasting more than 24 hours, a pre-departure test must be taken within 48 hours from the last leg of the journey to Singapore.  </li>
+												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	<!--A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 14 consecutive days before departure. <u>or</u> you are a Singapore resident (i.e. Singapore Citizen, Permanent Resident and Long-Term Pass Holder) and have remained in a Category (I), (II), (III) and/or (IV) country/region for at least 14 consecutive days before departure.-->	For transits in Category II/III/IV countries/regions lasting more than 24 hours, a pre-departure test must be taken within 2 days from the last leg of the journey to Singapore.  </li>
 					</ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
@@ -93,7 +93,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
 <ol style="margin-top:0px; list-style-type: decimal;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the negative COVID-19 test report that:
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the negative COVID-19 test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is an Antigen Rapid Test (ART) administered by a trained professional (self-swabs not allowed) OR Polymerase Chain Reaction Test taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
@@ -143,7 +143,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
 <ol style="margin-top:0px; list-style-type: decimal;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 48 hours before departure</b> and obtain a copy of the negative COVID-19 test report that: 
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days before departure</b> and obtain a copy of the negative COVID-19 test report that: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is an Antigen Rapid Test (ART) administered by a trained professional (self-swabs not allowed) OR Polymerase Chain Reaction Test taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
@@ -164,7 +164,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test on Day 10 of SHN.</li></ol>
-	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 48 hours before departure from Malaysia</i></p>
+	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 2 days before departure from Malaysia</i></p>
 		<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i><b>**[Advisory for travellers serving SHN at home]</b> Travellers may serve SHN at their residence, with household members not sharing the same travel history, regardless of vaccination status. However, if travellers are residing with unvaccinated vulnerable household members, they are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members.</i></p>
 	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i>If sharing a place of residence with others, travellers should designate a specific bathroom to be used by themselves, and other household members to use another bathroom. If a single bathroom has to be shared, ensure that everyone practises good hygiene habits and disinfects the bathroom after each use.  These are some examples to help the household manage:</i> 
 	</p><ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -194,7 +194,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
 <ol style="margin-top:0px; list-style-type: decimal;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 48 hours</b> before departure and obtain a copy of the negative COVID-19 test report that: 
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days</b> before departure and obtain a copy of the negative COVID-19 test report that: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is a COVID-19 Polymerase Chain Reaction Test ("PCR test") taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a>. Antigen Rapid Tests are not allowed.
 	</li>
@@ -271,7 +271,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
 <ol style="margin-top:0px; list-style-type: decimal;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 48 hours before departure</b> and obtain a copy of the negative COVID-19 test report that: 
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days before departure</b> and obtain a copy of the negative COVID-19 test report that: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is a Polymerase Chain Reaction Test taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a>. Antigen Rapid Tests are not allowed.</li>	
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
@@ -321,7 +321,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
 <ol style="margin-top:0px; list-style-type: decimal;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 48 hours before departure</b> and obtain a copy of the negative COVID-19 test report that: 
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days before departure</b> and obtain a copy of the negative COVID-19 test report that: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is a Polymerase Chain Reaction Test taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a>. Antigen Rapid Tests are not allowed.</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
@@ -342,7 +342,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test on Day 10 of SHN.</li></ol>
-	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 48 hours before departure from Malaysia</i></p>
+	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 2 days before departure from Malaysia</i></p>
 		<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i><b>**[Advisory for travellers serving SHN at home]</b> Travellers may serve SHN at their residence, with household members not sharing the same travel history, regardless of vaccination status. However, if travellers are residing with unvaccinated vulnerable household members, they are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members.</i></p>
 	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i>If sharing a place of residence with others, travellers should designate a specific bathroom to be used by themselves, and other household members to use another bathroom. If a single bathroom has to be shared, ensure that everyone practises good hygiene habits and disinfects the bathroom after each use.  These are some examples to help the household manage:</i> 
 	</p><ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -372,7 +372,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
 <ol style="margin-top:0px; list-style-type: decimal;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 48 hours before departure</b> and obtain a copy of the negative COVID-19 test report that:
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days before departure</b> and obtain a copy of the negative COVID-19 test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">i.	Is a Polymerase Chain Reaction Test taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a>. Antigen Rapid Tests are not allowed.</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
