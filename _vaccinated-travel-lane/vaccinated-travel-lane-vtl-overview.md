@@ -3,6 +3,13 @@ title: Vaccinated Travel Lane (VTL) Overview
 permalink: /vtl/requirements-and-process
 ---
 
+<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b><u>Important Update</u></b></span></p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">Singapore will launch a joint VTL with <b>Malaysia</b> for travel between Changi Airport and Kuala Lumpur International Airport (KLIA) <b>from 29 November 2021</b>. Vaccinated Travel Pass (VTP) applications for Short-Term Visitors and Long-Term Pass Holders will commence on <b>22 November 2021</b>; returning Singapore Citizens and Permanent Residents who are fully vaccinated will not need to apply. Singapore and Malaysia are also in detailed discussion to launch a similar scheme for travel across the causeway. </p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">We will also extend the VTLs to Finland and Sweden <b>from 29 November 2021</b>, with applications for Short Term Visitors and Long-Term Pass Holders commencing on <b>22 November 2021</b>. </p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">More details will be provided nearer the date when applications are open.</p>
+</div>
+
 The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL:
 <ol>
 	<li style="line-height:1.5;"><a href="#Eligibility">Eligibility</a></li>
@@ -112,7 +119,7 @@ input:checked + label + .content {
 						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
 		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 7 November 2021, 2359hrs, SGT]</b><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any VTL country/region 	  </li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b> [For entry into Singapore from 14 November 2021, 2359hrs, SGT]</b> Static QR Code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>*</li>	
-		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 21 Nov 2021, 2359hrs, SGT] </b> Digital Certificate for COVID-19 Vaccination downloadable from the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a> (developed by the Government of Malaysia)</li>
+		   <!-- <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 21 Nov 2021, 2359hrs, SGT] </b> Digital Certificate for COVID-19 Vaccination downloadable from the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a> (developed by the Government of Malaysia)</li>-->
 			</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>If you are a non-Korean national and a Singapore short-term visitor or long-term pass holder, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application. </p>
 	   <!-- <p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>Foreign nationals vaccinated in the Republic of Korea should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide their physical vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Foreign nationals who are Singapore Citizens/Permanent Residents will need to present their physical vaccination certificate for verification at check-in and arrival immigration. They are strongly encouraged to self-verify their vaccination certificate <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">here</a> prior to their trip.</p>-->
@@ -133,11 +140,9 @@ input:checked + label + .content {
 	<p style="line-height:1.5;"><span style="color:red;"><u>Note:</u></span> Travellers entering Singapore from 11 Nov 2021, 2359hrs, may also have travel history to (i.e. travelled to or transited via) <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> in the last 14 consecutive days before departing for Singapore.</p>
 <p style="line-height:1.5;">A list of designated flights from the VTL countries/regions below is available in the <a href="/vtl/travel-checklist" target="_blank">VTL Traveller’s Checklist</a>.
 <ol style="margin-top:0px; list-style-type: disc;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Active VTL Countries/Regions]</b> Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain<sup>4</sup>, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 7 Nov 2021, 2359hrs, SGT]</b> Australia and Switzerland</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Active VTL Countries/Regions]</b>Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 14 Nov 2021, 2359hrs, SGT]</b> Republic of Korea</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 18 Nov 2021, 2359hrs, SGT]</b> Finland and Sweden</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 21 Nov 2021, 2359hrs, SGT]</b> Malaysia</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Finland, Malaysia Sweden</li>
 	</ol>
 	</p>
 <p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
@@ -227,8 +232,8 @@ input:checked + label + .content {
 <div class="content">
 	<p style="line-height:1.5;"><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b></p>
 	<!--<p style="line-height:1.5;">Travellers departing from the Republic of Korea may only submit their applications from <b>8 November 2021, 1000hrs, SGT</b>.</p>-->
-	<p style="line-height:1.5;">Travellers departing from <b>Finland and Sweden</b> may only submit their applications from <b>12 Nov 2021, 1000hrs, SGT.</b></p>
-	<p style="line-height:1.5;">Travellers departing from <b>Malaysia</b> may only submit their applications from <b>15 Nov 2021, 1000hrs, SGT</b>.</p>
+	<p style="line-height:1.5;">Travellers departing from <b>Finland, Malaysia and Sweden</b> may only submit their applications from <b>22 Nov 2021</b></p>
+	<!--<p style="line-height:1.5;">Travellers departing from <b>Malaysia</b> may only submit their applications from <b>15 Nov 2021, 1000hrs, SGT</b>.</p>-->
 	<p style="line-height:1.5;">Please note the following when making the application:
 	<ol style="margin-top:0px; list-style-type:disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">VTL travellers must also refer to this <a href="/vtl/travel-checklist" target="_blank">travel checklist</a> and the <a href="/vtl/conditions" target="_blank">VTL conditions</a> to ensure they satisfy all VTL requirements, otherwise they may be denied entry to Singapore.</li>
