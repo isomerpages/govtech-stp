@@ -92,7 +92,7 @@ Tozinameran (INN)</li>
 
 If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated with WHO EUL vaccines.
 
-<sup>*</sup>The ingestion of the Covaxin vaccination record into the National Immunisation Registry (NIR) will be made after 12 November 2021. 
+<sup>*</sup><i>The ingestion of the Covaxin vaccination record into the National Immunisation Registry (NIR) will be made after 12 November 2021.</i>
 
 <div id="VDSMM"></div>
 
