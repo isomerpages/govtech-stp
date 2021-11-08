@@ -38,11 +38,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 		</table>
 
 
-### Travel Health Control Measures for WPHL-Pass Holders
-
-<div id="from"></div>
-
-<p style="font-size:24px;"><b>[For arrivals <span style="color: red;">from 11 Nov 2021, 2359h</span>]</b></p>
+### Travel Health Control Measures for WPHL-Pass Holders [For arrivals from 11 Nov 2021, 2359h]
 
 
 <html>
