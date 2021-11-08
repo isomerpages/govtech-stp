@@ -218,7 +218,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	</table>
 	
 	
-<div id=""></div>
+<div id="before"></div>
 	
 ### Categories of Travel Health Control Measures (for arrivals before 11 Nov 2021, 2359H)
 
