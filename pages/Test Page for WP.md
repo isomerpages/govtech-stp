@@ -218,7 +218,7 @@ input:checked + label + .subcontent {
 <div class="content">
 <b>Austria, Bahrain, Belgium, Bhutan, Bulgaria, Cambodia, Croatia, Cyprus, Czech Republic, Egypt, Fiji, Greece, Hungary, Iceland, Indonesia, Ireland, Israel, Japan, Liechtenstein, Luxembourg, Maldives, Malta, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, Samoa,San Marino, Saudi Arabia, Slovakia, South Africa, Tonga, Turkey, the United Arab Emirates (UAE), Vatican City and Vietnam</b><br><br>
 	<b>[Vaccinated Travel Lane (VTL) Countries/Regions]</b><br><br>
-Australia, Brunei, Canada, Denmark<sup>1</sup>, France<sup>2</sup>, Germany, Italy, Spain,  Switzerland, The Netherlands<sup>3</sup>, The Republic of Korea, The United Kingdom<sup>4</sup> and The United States of America<sup>5</sup>
+<b>Australia, Brunei, Canada, Denmark<sup>1</sup>, France<sup>2</sup>, Germany, Italy, Spain,  Switzerland, The Netherlands<sup>3</sup>, The Republic of Korea, The United Kingdom<sup>4</sup> and The United States of America<sup>5</sup></b><br><br>
 Fully vaccinated pass holders departing from Vaccinated Travel Lane (VTL) countries/regions listed above may enter Singapore without Stay-Home Notice if they apply to enter Singapore via the VTL instead of the WPHL. Click here for more details on the VTL.<br><br>
 <sup>1</sup> Including the Faroe Islands and Greenland.<br>
 <sup>2</sup> Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.<br>
