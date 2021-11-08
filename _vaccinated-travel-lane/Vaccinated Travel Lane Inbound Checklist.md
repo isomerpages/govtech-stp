@@ -2,7 +2,15 @@
 title: Vaccinated Travel Lane Inbound Checklist
 permalink: /vtl/travel-checklist
 ---
+
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b><u>Important Update</u></b></span></p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">Singapore will launch a joint VTL with <b>Malaysia</b> for travel between Changi Airport and Kuala Lumpur International Airport (KLIA) <b>from 29 November 2021</b>. Vaccinated Travel Pass (VTP) applications for Short-Term Visitors and Long-Term Pass Holders will commence on <b>22 November 2021</b>; returning Singapore Citizens and Permanent Residents who are fully vaccinated will not need to apply. Singapore and Malaysia are also in detailed discussion to launch a similar scheme for travel across the causeway. </p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">We will also extend the VTLs to Finland and Sweden <b>from 29 November 2021</b>, with applications for Short Term Visitors and Long-Term Pass Holders commencing on <b>22 November 2021</b>. </p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">More details will be provided nearer the date when applications are open.</p>
+</div>
+
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>This page contains is a checklist for VTL travellers who already understand the entry requirements into Singapore via the Vaccinated Travel Lane (VTL). If you are not clear on the VTL requirements, please refer to the VTL Overview page <a href="/vtl/requirements-and-process" target="_blank">here</a>  before reading this checklist.</b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>Travellers intending to travel <u>out</u> of Singapore to a VTL country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</b></span></p>
 </div>
