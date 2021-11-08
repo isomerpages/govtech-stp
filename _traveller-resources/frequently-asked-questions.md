@@ -158,7 +158,7 @@ Click here to [Go Back To Top](#top).
 
 Travellers approved for entry into Singapore <b>will be informed via a condition stipulated in the Entry Approval Letter or SafeTravel Pass on whether they need to be tested for COVID-19 before arrival</b>. Alternatively, travellers who are planning to visit Singapore may refer to the [specific safe travel lanes](/arriving/overview) to check if he/she needs to be tested before arrival.
 
-To test for COVID-19, travellers bound for Singapore may be required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 48 hours before departing for Singapore. From <b>11 November 2021, 2359 hours</b>, Category II and/or III travellers arriving in or transiting through Singapore can take either a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) to fulfil the pre-departure test requirement. Category IV travellers will still be required to take a COVID-19 PCR test. 
+To test for COVID-19, travellers bound for Singapore may be required to take a COVID-19 Polymerase Chain Reaction (PCR) test within **2 days** before departing for Singapore. From <b>11 November 2021, 2359 hours</b>, Category II and/or III travellers arriving in or transiting through Singapore can take either a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) to fulfil the pre-departure test requirement. Category IV travellers will still be required to take a COVID-19 PCR test. 
 
 Singapore currently only accepts pre-departure COVID-19 PCR tests taken at an accredited or authorised testing facility, or Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional. Travellers should ask for a copy of their negative test result as it will be considered by the airline and immigration officer as proof that the traveller has been tested for COVID-19. The documentary proof should:
 <ul style="list-style-type: disc;">
@@ -169,9 +169,11 @@ Singapore currently only accepts pre-departure COVID-19 PCR tests taken at an ac
 
 Travellers who fail to produce the required documentary proof of having taken the COVID-19 test within the stipulated time before arrival in Singapore may be denied boarding or turned away.
 
-In general, travellers who are required to take a COVID-19 test must do so <u>within 48 hours before departure to Singapore</u>. For passengers on <b>direct flights</b> to Singapore, the <u>48 hours</u> will be counted from the scheduled departure day of the flight to Singapore. For example, if the flight is scheduled to depart on 28 May 2021, the COVID-19 PCR test must be taken no earlier than 26 May 2021.
+In general, travellers who are required to take a COVID-19 test must do so <u>within 2 days before departure to Singapore</u>. For passengers on <b>direct flights</b> to Singapore, the <u>2 days</u> will be counted from the scheduled departure day of the flight to Singapore. For example, if the flight is scheduled to depart on 28 May 2021, the COVID-19 test must be taken no earlier than 26 May 2021.
 
-For passengers who are taking a <b>connecting flight</b> to Singapore, the <u>48 hours</u> will be counted from the scheduled departure of his flight from his first embarkation point of his journey to Singapore. For example, if the passenger’s flight itinerary is LAX-NRT-SIN, the COVID-19 PCR test must be taken within <u>48 hours</u> before the scheduled departure of his flight from LAX.
+If the PDT is taken on <b>1 November 2021</b>, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoints) <b>up to 3 November 2021, 2359 hours</b>.
+
+For passengers who are taking a <b>connecting flight</b> to Singapore, the <u>2 days</u> will be counted from the scheduled departure of his flight from his first embarkation point of his journey to Singapore. For example, if the passenger’s flight itinerary is LAX-NRT-SIN, the COVID-19 test must be taken within <u>2 days</u> before the scheduled departure of his flight from LAX.
 
 #### 2. I am transiting via Singapore. Do I still need to have a valid negative COVID-19 test result?
 
@@ -195,11 +197,11 @@ To prevent the spread of COVID-19, airlines will deny travellers from boarding a
 
 #### 5. I have recovered from COVID-19. Am I required to be tested for COVID-19 before departure for Singapore?
 
-If a COVID-19 test is required to be taken <u>48 hours</u> before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
+If a COVID-19 test is required to be taken <u>2 days</u> before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
 
 Travellers will be denied boarding by their airline or ferry if they are:
 - diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or
-- tested positive on the COVID-19 test within <u>48 hours</u> before departure for Singapore.
+- tested positive on the COVID-19 test within <u>2 days</u> before departure for Singapore.
 
 #### 6. How will I be informed of my COVID-19 test result?
 
