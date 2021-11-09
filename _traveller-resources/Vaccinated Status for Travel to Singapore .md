@@ -111,12 +111,13 @@ As part of <a href="https://go.gov.sg/moh-smm" target="_blank">Singapore’s Vac
 
 If your vaccination certificate(s) are valid, you will be granted <b>temporary vaccinated status lasting about 30 days</b>. You will need to download the TraceTogether app and register with your passport number to view your vaccination status. The vaccinated status in your TraceTogether app will be your proof of vaccination while going around Singapore.
 
-<sup>*</sup><i>The ingestion of Covaxin vaccination records into the National Immunisation Registry (NIR) with serology testing will only be available <b>from 12 November 2021</b>.</i>
 
 #### Maintaining vaccination status beyond 30 days after arrival
 
 The temporary vaccinated status on the TraceTogether app may expire 30 days after your arrival in Singapore. If you require your vaccination status for longer than 30 days, please visit a private healthcare provider or <a href="https://phpc.gov.sg" target="_blank">Public Health Preparedness Clinics</a>for a serology test. Please call in advance to check if the service is available, and bring along your personal identification documents, vaccination certificate(s), as well as translated copies if necessary. 
 
 If your serology test is positive, the private healthcare provider will enter your vaccination records into the National Immunisation Registry (NIR). Your vaccinated status will be updated in the TraceTogether app within 24 hours and you will continue to be eligible for VDS.
+
+<sup>*</sup><i>The ingestion of Covaxin vaccination records into the National Immunisation Registry (NIR) with serology testing will only be available <b>from 12 November 2021</b>.</i>
 
 For more information, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH FAQ </a>.
