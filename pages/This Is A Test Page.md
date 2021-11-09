@@ -255,7 +255,7 @@ input:checked + label + .content {
 <body>
 <!--Cat2 Helpers/CNs-->
 <input type="checkbox" id="CountryListCat2" />
-<label for="CountryListCat2" style="background:#D8D8D8; color:#000000;">Helpers/Confinement Nannies</label>
+<label for="CountryListCat2" style="background:#D8D8D8; color:#000000;"><b>Helpers/Confinement Nannies</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -291,7 +291,7 @@ input:checked + label + .content {
 </div>
 	<!--Cat2 Other Work Pass Holders-->
 	<input type="checkbox" id="OtherWorkPassHolders-2" />
-<label for="OtherWorkPassHolders-2" style="background:#D8D8D8; color:#000000;">All Other Pass Holders</label>
+<label for="OtherWorkPassHolders-2" style="background:#D8D8D8; color:#000000;"><b>All Other Pass Holders</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -412,7 +412,7 @@ input:checked + label + .content {
 <body>
 <!--Cat3 Helpers and CNs-->
 <input type="checkbox" id="CountryListCat3" />
-<label for="CountryListCat3" style="background:#D8D8D8; color:#000000;">Helpers/Confinement Nannies</label>
+<label for="CountryListCat3" style="background:#D8D8D8; color:#000000;"><b>Helpers/Confinement Nannies</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -449,7 +449,7 @@ input:checked + label + .content {
 </div>
 	<!--Cat3 Other Work Pass Holders-->
 	<input type="checkbox" id="OtherWorkPassHolders-3" />
-<label for="OtherWorkPassHolders-3" style="background:#D8D8D8; color:#000000;">All Other Pass Holders</label>
+<label for="OtherWorkPassHolders-3" style="background:#D8D8D8; color:#000000;"><b>All Other Pass Holders</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -567,7 +567,7 @@ input:checked + label + .content {
 <body>
 <!--Cat4 Helpers and CNs-->
 <input type="checkbox" id="CountryListCat4" />
-<label for="CountryListCat4" style="background:#D8D8D8; color:#000000;">Helpers/Confinement Nannies</label>
+<label for="CountryListCat4" style="background:#D8D8D8; color:#000000;"><b>Helpers/Confinement Nannies</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -594,7 +594,7 @@ input:checked + label + .content {
 </div>
 	<!--Cat4 Other Work Pass Holders-->
 	<input type="checkbox" id="OtherWorkPassHolders-4" />
-<label for="OtherWorkPassHolders-4" style="background:#D8D8D8; color:#000000;">All Other Pass Holders</label>
+<label for="OtherWorkPassHolders-4" style="background:#D8D8D8; color:#000000;"><b>All Other Pass Holders</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
