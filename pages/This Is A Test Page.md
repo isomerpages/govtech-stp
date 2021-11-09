@@ -168,7 +168,7 @@ input:checked + label + .content {
 	</td>
 	</tr>
 	</table>
-<br>
+<br><br>
 	<!--Category 2-->
 	<table>
 <tr>
@@ -330,7 +330,7 @@ input:checked + label + .content {
 	</td>
 	</tr>
 	</table>
-<br>
+<br><br>
 <!--Cat3 countries-->
 <table>
 <tr>
@@ -485,7 +485,7 @@ input:checked + label + .content {
 	</td>
 	</tr>
 	</table>
-<br>
+<br><br>
 <!--Cat4 countries-->
 <table>
 <tr>
