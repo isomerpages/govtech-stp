@@ -486,7 +486,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 		</table><br>
 		
 		
-<div id=""></div>
+<div id="before"></div>
 
 ### Travel Health Control Measures for WPHL-Pass Holders 
 
