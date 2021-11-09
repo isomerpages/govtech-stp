@@ -119,7 +119,7 @@ input:checked + label + .content {
 <body>
 <!--Cat1 Countries-->
 <input type="checkbox" id="CountryListCat1" />
-<label for="CountryListCat1" style="background:#D8D8D8; color:#000000;">Helpers/Confinement Nannies</label>
+<label for="CountryListCat1" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -144,7 +144,7 @@ input:checked + label + .content {
 </div>
 	<!--Cat1 Other Work Pass Holders-->
 	<input type="checkbox" id="OtherWorkPassHolders-1" />
-<label for="OtherWorkPassHolders-1" style="background:#D8D8D8; color:#000000;">All Other Pass Holders</label>
+<label for="OtherWorkPassHolders-1" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
