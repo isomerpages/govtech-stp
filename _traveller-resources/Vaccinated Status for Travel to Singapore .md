@@ -92,6 +92,8 @@ Tozinameran (INN)</li>
 	</tbody>
 	</table>
 
+<sup>*</sup><i>The ingestion of Covaxin vaccination records into the National Immunisation Registry (NIR) with serology testing will only be available from 12 November 2021.</i>
+
 If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated with WHO EUL vaccines.
 
 <div id="VDSMM"></div>
