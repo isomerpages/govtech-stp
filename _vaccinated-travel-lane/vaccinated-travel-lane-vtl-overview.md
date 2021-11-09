@@ -81,14 +81,6 @@ input + label + .content {
 input:checked + label + .content {
     display: block;
 }
-
-#criteria p {
-  display: none;
-}	
-	
-#criteria:target p{
-        display:block;
-    }	
 	
 </style>
 </head>
