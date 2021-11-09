@@ -2,7 +2,6 @@ collections:
   work-pass-holder-lane:
     output: true
     order:
-      - This Is A Test Page.md
       - overview.md
       - travel-and-health-control-measures.md
       - frequently-asked-questions.md
