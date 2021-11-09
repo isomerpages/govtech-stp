@@ -63,7 +63,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 <title>Test Accordion</title>
 
 <style>
-
+	
 input {
     display: none;
 }
@@ -169,8 +169,9 @@ input:checked + label + .content {
 	</tr>
 	</table>
 <br><br>
+
 	<!--Category 2-->
-	<table>
+<table>
 <tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (II) Country/Regions</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
 </tr>
@@ -331,7 +332,9 @@ input:checked + label + .content {
 	</tr>
 	</table>
 <br><br>
+
 <!--Cat3 countries-->
+
 <table>
 <tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (III) Country/Regions</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
