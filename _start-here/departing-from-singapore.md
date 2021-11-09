@@ -60,8 +60,7 @@ Travellers who do not receive their QR code or encounter any technical difficult
 
 <div id="Proof"></div>
 
-#### 4) Digitally Authenticated Proof of Vaccination
-
+### 4) Digitally Authenticated Vaccination Certificate
 
 All hardcopy vaccination cards/ slips issued in Singapore, as well as vaccination records found on mobile applications such as <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> are <b>not</b> meant for overseas use. Travellers who are vaccinated in Singapore and are required by  foreign authorities to show digitally authenticated proof of vaccination, should digitally authenticate their vaccination records using <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise</a>. Upon authentication, a digital vaccination certificate and QR code will be sent by Notαrise to the traveller’s email and/or Singpass mobile application.
 
