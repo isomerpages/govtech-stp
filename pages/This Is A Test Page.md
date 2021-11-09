@@ -52,9 +52,9 @@ For all other pass holders (work pass holders and their dependants), this page e
 <td>&nbsp;
 </td>
 </tr>
-	<tr>
+	<!--<tr>
 		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Category (I) Health Measures by Pass Type</b></td>
-	</tr><br>
+	</tr>--><br>
 	<tr>
 	<td>
 	<html>
