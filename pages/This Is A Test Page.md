@@ -263,7 +263,7 @@ input:checked + label + .content {
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of the following COVID-19 tests <sup>①</sup> <b>within 2 days before departure</b>.
 		<ol style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test:</b>Test must be done with an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test:</b> Test must be done with an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: Done by a trained professional (e.g. medical professional or Government-recognised trained professional).</li>
 	</ol>
 		</li> 
@@ -299,7 +299,7 @@ input:checked + label + .content {
 </li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of the following COVID-19 tests <sup>①</sup> <b>within 2 days before departure</b>.
 	<ol style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test:</b>Test must be done with an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test:</b> Test must be done with an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: Done by a trained professional (e.g. medical professional or Government-recognised trained professional).</li>
 	</ol>
 			</li>
@@ -418,7 +418,7 @@ input:checked + label + .content {
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of the following COVID-19 tests <sup>①</sup> <b>within 2 days before departure</b>.
 	<ol style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test:</b>Test must be done with an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test:</b> Test must be done with an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: Done by a trained professional (e.g. medical professional or Government-recognised trained professional).</li>
 	</ol>
 			</li>
@@ -454,7 +454,7 @@ input:checked + label + .content {
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> ④ </sup>  before arrival.</b></li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of the following COVID-19 tests <sup>①</sup> <b>within 2 days before departure</b>.
 		 	<ol style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test:</b>Test must be done with an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test:</b> Test must be done with an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: Done by a trained professional (e.g. medical professional or Government-recognised trained professional).</li>
 	</ol>
 			</li>
