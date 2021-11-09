@@ -83,7 +83,9 @@ Tozinameran (INN)</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Ad26.COV2.S</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></li>
-				</ol></td>
+					<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Bharat Biotech BBV152 COVAXIN<sup>&#174;</sup></li>
+				</ol>
+			</td>
 										<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">2</td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">17 days</td>
 		</tr>
@@ -91,8 +93,6 @@ Tozinameran (INN)</li>
 	</table>
 
 If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated with WHO EUL vaccines.
-
-<sup>*</sup><i>The ingestion of the Covaxin vaccination record into the National Immunisation Registry (NIR) will be made after 12 November 2021.</i>
 
 <div id="VDSMM"></div>
 
@@ -110,6 +110,8 @@ As part of <a href="https://go.gov.sg/moh-smm" target="_blank">Singapore’s Vac
 	</ol>
 
 If your vaccination certificate(s) are valid, you will be granted <b>temporary vaccinated status lasting about 30 days</b>. You will need to download the TraceTogether app and register with your passport number to view your vaccination status. The vaccinated status in your TraceTogether app will be your proof of vaccination while going around Singapore.
+
+<sup>*</sup><i>The ingestion of Covaxin vaccination records into the National Immunisation Registry (NIR) with serology testing will only be available <b>from 12 November 2021</b>.</i>
 
 #### Maintaining vaccination status beyond 30 days after arrival
 
