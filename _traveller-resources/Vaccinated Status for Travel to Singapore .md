@@ -92,8 +92,6 @@ Tozinameran (INN)</li>
 	</tbody>
 	</table>
 
-<sup>*</sup><i>The ingestion of Covaxin vaccination records into the National Immunisation Registry (NIR) with serology testing will only be available from 12 November 2021.</i>
-
 If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated with WHO EUL vaccines.
 
 <div id="VDSMM"></div>
@@ -103,7 +101,9 @@ If you do not meet any of the above requirements, you are <b>not</b> considered 
 
 As part of <a href="https://go.gov.sg/moh-smm" target="_blank">Singapore’s Vaccination-Differentiated Safe Management Measures (VDS)</a>, you must be vaccinated to participate in certain activities in Singapore, such as dining, entering shopping malls or attending performances.
 
-<b>Travellers who are vaccinated overseas should present your vaccination certificate(s) to the ICA officer at immigration clearance</b> in order to get the overseas vaccination records reflected electronically in their [HealthHub](https://www.healthhub.sg/) or [TraceTogether](https://www.tracetogether.gov.sg/) apps to show on demand to be eligible for VDS. Travellers need to:
+<b>Travellers who are vaccinated overseas should present your vaccination certificate(s) to the ICA officer at immigration clearance</b> in order to get the overseas vaccination records reflected electronically in their [HealthHub](https://www.healthhub.sg/) or [TraceTogether](https://www.tracetogether.gov.sg/) apps to show on demand to be eligible for VDS. 
+
+Travellers need to:
 
 <ol style="list-style-type: lower-roman;">
 <li>Be aged 12 and above;</li>
@@ -112,6 +112,8 @@ As part of <a href="https://go.gov.sg/moh-smm" target="_blank">Singapore’s Vac
 	</ol>
 
 If your vaccination certificate(s) are valid, you will be granted <b>temporary vaccinated status lasting about 30 days</b>. You will need to download the TraceTogether app and register with your passport number to view your vaccination status. The vaccinated status in your TraceTogether app will be your proof of vaccination while going around Singapore.
+
+<sup>*</sup><i>The ingestion of Covaxin vaccination records into the National Immunisation Registry (NIR) with serology testing will only be available from 12 November 2021.</i>
 
 #### Maintaining vaccination status beyond 30 days after arrival
 
