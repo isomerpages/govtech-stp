@@ -81,7 +81,7 @@ We understand these measures are difficult for employers and their pass holders,
 </thead>
 	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
-		<td  style="font-size:16px;border-right:1px solid #D8D8D8;">3 to 60 days from date of application</td>		
+		<td  style="font-size:16px;border-right:1px solid #D8D8D8;">3 to 60 days before planned date of arrival in Singapore</td>		
 		</tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>How to Apply</b></td>
