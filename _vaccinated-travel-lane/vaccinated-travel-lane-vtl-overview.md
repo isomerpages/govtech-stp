@@ -82,6 +82,10 @@ input:checked + label + .content {
     display: block;
 }
 	
+#criteria:target{
+        display:block;
+    }	
+	
 </style>
 </head>
 <body>
