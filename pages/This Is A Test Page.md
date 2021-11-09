@@ -167,8 +167,7 @@ input:checked + label + .content {
 </html>
 	</td>
 	</tr>
-	</table>
-<br>
+	</table><br>
 
 <!--Category 2-->
 <table>
