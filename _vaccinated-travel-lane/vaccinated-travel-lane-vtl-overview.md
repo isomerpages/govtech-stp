@@ -98,8 +98,6 @@ input:checked + label + .content {
 		<p style="line-height:1.5;">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL if accompanied by a fully vaccinated VTL traveller.</p>
 </div>
 
-<div id="criteria"></div>
-	
 <input type="checkbox" id="title2" />
 <label for="title2">Criteria 2: Hold an Accepted Proof of Vaccination</label>
 
