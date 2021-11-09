@@ -82,7 +82,7 @@ input:checked + label + .content {
     display: block;
 }
 	
-#criteria:target{
+#criteria:target p{
         display:block;
     }	
 	
