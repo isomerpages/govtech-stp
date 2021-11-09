@@ -3,6 +3,7 @@ title: This Is A Test Page
 permalink: /thisisatestpage
 description: ""
 ---
+
 As a condition for entry into Singapore, pass holders with an approval under the Work Pass Holder General Lane (WPHL) must comply with the prevailing travel health control measures (e.g. Stay-Home Notice (SHN) and COVID-19 tests). Employers and employment agencies, which submitted the entry applications (“Submitters”), must pay for pass holders’ entry charges and ensure they comply with the measures. 
 
 Workers who meet <b>all three of the conditions below</b>, please refer to [Ministry of Manpower’s website](https://www.mom.gov.sg/covid-19/entry-approval-requirements) instead for the travel health control measures:<br><br>
@@ -39,6 +40,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 
 ### Travel Health Control Measures for WPHL-Pass Holders [for arrivals from 11 Nov 2021]
 		
+
 <table>
 <tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (I) Country/Regions</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
@@ -51,7 +53,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 </td>
 </tr>
 	<tr>
-		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Category (I) Health Measures by Pass Type</b></th>
+		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Category (I) Health Measures by Pass Type</b></td>
 	</tr><br>
 	<tr>
 	<td>
@@ -342,7 +344,7 @@ input:checked + label + .content {
 </td>
 </tr>
 	<tr>
-		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Category (III) Health Measures by Pass Type</b></th>
+		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Category (III) Health Measures by Pass Type</b></td>
 	</tr><br>
 	<tr>
 	<td>
@@ -497,7 +499,7 @@ input:checked + label + .content {
 </td>
 </tr>
 	<tr>
-		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Category (IV) Health Measures by Pass Type</b></th>
+		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Category (IV) Health Measures by Pass Type</b></td>
 	</tr><br>
 	<tr>
 	<td>
