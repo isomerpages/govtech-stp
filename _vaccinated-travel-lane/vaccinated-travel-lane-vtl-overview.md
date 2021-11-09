@@ -93,11 +93,13 @@ input:checked + label + .content {
 	<p style="line-height:1.5;">Travellers must be fully vaccinated with WHO EUL vaccines (<a href="/health/vtsg" target="_blank">click here for definition</a> of fully vaccinated) at least two weeks before arrival in Singapore. </p>
 		<p style="line-height:1.5;">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL if accompanied by a fully vaccinated VTL traveller.</p>
 </div>
+
+<div id="criteria"></div>
 	
 <input type="checkbox" id="title2" />
 <label for="title2">Criteria 2: Hold an Accepted Proof of Vaccination</label>
 
-<div class="content" id="criteria">
+<div class="content">
 <p style="line-height:1.5; margin-bottom:15px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality. If you are unable to obtain one of the digitally verifiable vaccination certificates listed below, you will not be eligible for travel on the VTL.  </p>
  <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Mobile Applications</b></p>
 	    <ol style="margin-top:0px; list-style-type: decimal;">
