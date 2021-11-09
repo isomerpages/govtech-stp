@@ -32,7 +32,7 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 
 <div id="payment"></div>
 
-&#9744;  <i><b>C) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+&#9744;  <i><b>D) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
 
 Travellers who are fit for travel should:
 
