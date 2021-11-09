@@ -101,9 +101,7 @@ If you do not meet any of the above requirements, you are <b>not</b> considered 
 
 As part of <a href="https://go.gov.sg/moh-smm" target="_blank">Singapore’s Vaccination-Differentiated Safe Management Measures (VDS)</a>, you must be vaccinated to participate in certain activities in Singapore, such as dining, entering shopping malls or attending performances.
 
-<b>Travellers who are vaccinated overseas should present your vaccination certificate(s) to the ICA officer at immigration clearance</b> in order to get the overseas vaccination records reflected electronically in their [HealthHub](https://www.healthhub.sg/) or [TraceTogether](https://www.tracetogether.gov.sg/) apps to show on demand to be eligible for VDS. 
-
-Travellers need to:
+<b>Travellers who are vaccinated overseas should present your vaccination certificate(s) to the ICA officer at immigration clearance</b> in order to get the overseas vaccination records reflected electronically in their [HealthHub](https://www.healthhub.sg/) or [TraceTogether](https://www.tracetogether.gov.sg/) apps to show on demand to be eligible for VDS. Travellers need to:
 
 <ol style="list-style-type: lower-roman;">
 <li>Be aged 12 and above;</li>
