@@ -33,7 +33,7 @@ label {
 }
 </style>
 -->
-<label style="  background: linear-gradient(90deg, #072b4b, #61788c); border-left:20px #072b4b solid; color: #FFFFFF; font-size: 20px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 50px 0px;">Stage 1: Pre-Departure for Singapore</label>
+<label style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:20px #072b4b solid; color: #FFFFFF; font-size: 20px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 500px 0px;">Stage 1: Pre-Departure for Singapore</label>
 <table>
 <tr>
 <td style="margin-top:50px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8;font-size:20px;">
