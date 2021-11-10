@@ -355,7 +355,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2">
 </li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at one of the following:
 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments).</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels, serviced apartments, hostels or Employment Agencies' residential units. Please ensure these places can accommodate persons on SHN).</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer's house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b> If the household has vulnerable individuals, the helper is strongly encouraged to isolate herself in a separate room and minimise contact with these vulnerable household members. If this is not possible, please look for another accommodation. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Note: For submitters who have paid for the stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.]</p>
 		</li>
 		</ol>
