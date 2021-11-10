@@ -15,7 +15,6 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 	
 <style>
 
-
 label {
   background: linear-gradient(90deg, #072b4b, #61788c);
   border-left:20px #072b4b solid;
@@ -23,12 +22,11 @@ label {
   font-size: 20px;
   line-height: 28px;
   padding: 15px 20px 15px 20px;
-	margin: 0px 0px 100px 0px;
+	margin: 20px 0px 50px 0px;
 
 }
 </style>
 <label>Stage 1: Pre-Departure for Singapore</label>
-<br>
 <table>
 <tr>
 <td style="margin-top:0px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8;font-size:20px;">
