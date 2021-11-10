@@ -124,7 +124,7 @@ label {
 	
 <table>
 <tr>
-<td style="background-color:#f0f0f0;font-size:20px;">
+<td style="margin-top:0px; margin-bottom:0px; line-height:1.5; background-color:#f0f0f0;font-size:20px;">
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
 All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the <a href="/arriving/overview" target="_blank" >“Travelling to Singapore”</a> page.
@@ -133,7 +133,7 @@ All travellers, except Singapore Citizens and Permanent Residents, must apply fo
 	</table>
 		<table>
 <tr>
-<td style="background:#f8f8f8; font-size:20px;">
+<td style="margin-top:0px; margin-bottom:0px; line-height:1.5; background:#f8f8f8; font-size:20px;">
 &#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
 Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.
