@@ -36,7 +36,7 @@ label {
 <label style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:20px #072b4b solid; color: #FFFFFF; font-size: 20px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 500px 0px;">Stage 1: Pre-Departure for Singapore</label>
 <table>
 <tr>
-<td style="margin-top:50px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8;font-size:20px;">
+ <td style="margin-top:50px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8;font-size:20px;">
 &#9744;  <b>A) Application for Entry Approval</b><br><br>
 
 All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the <a href="/arriving/overview" target="_blank" >“Travelling to Singapore”</a> page.
