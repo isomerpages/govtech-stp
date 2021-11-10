@@ -222,7 +222,7 @@ When checking in at the departure airport, travellers must present to the airlin
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Acceptable proof of vaccination (same proof as at <a href="#proof">Stage 1A</a>).</li>
 </ol>
 
-Singapore Citizens and Permanent Residents need only present (ii) and (v) above. Travellers who do not fulfil the above may be denied boarding.
+Singapore Citizens and Permanent Residents need only present (ii) and (iv) above. Travellers who do not fulfil the above may be denied boarding.
 
 Long-Term Pass holders need only present (i), (ii) and (v) above. Travellers who do not fulfil the above may be denied boarding.
 
