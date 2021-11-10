@@ -116,7 +116,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller's Checklist</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">These checklists provide a step-by-step guide to help the traveller prepare for the various administrative and travel/health-realted protocols that the traveller wil be subject to <b>before and during the traveller's stay</b> in Singapore:
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">These checklists provide a step-by-step guide to help the traveller prepare for the various administrative and travel/health-related protocols that the traveller wil be subject to <b>before and during the traveller's stay</b> in Singapore:
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/travel-checklist/category-1">Category (I) travel history</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/travel-checklist/category-2">Category (II) travel history</a></li>
