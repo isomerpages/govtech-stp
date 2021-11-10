@@ -17,7 +17,7 @@ Didn't I tell you that you cannot do this? Style MUST go into the Header.
 
 <html>
 	
- ---- and there can only be 1 HTML tag in the entire webpage
+ ---- and there can only be 1 HTML tag in the entire webpage. How can you add one more here?
 
 <style>
 
