@@ -19,7 +19,7 @@ label {
   background: linear-gradient(90deg, #072b4b, #61788c);
   border-left:20px #072b4b solid;
   color: #FFFFFF;
-  font-size: 20px;
+  font-size: 50px;
   line-height: 28px;
   padding: 15px 20px 15px 20px;
 	margin: 20px 0px 50px 0px;
