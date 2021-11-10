@@ -12,8 +12,13 @@ This checklist is suitable for travellers with travel history to <b>only</b> <a 
 Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
 
 <!--
+
+Didn't I tell you that you cannot do this? Style MUST go into the Header.
+
 <html>
 	
+ ---- and there can only be 1 HTML tag in the entire webpage
+
 <style>
 
 label {
