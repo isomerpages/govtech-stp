@@ -11,6 +11,7 @@ This checklist is suitable for travellers with travel history to <b>only</b> <a 
 
 Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
 
+<!--
 <html>
 	
 <style>
@@ -26,7 +27,8 @@ label {
 
 }
 </style>
-<label>Stage 1: Pre-Departure for Singapore zzzzz</label>
+-->
+<label style="  background: linear-gradient(90deg, #072b4b, #61788c); border-left:20px #072b4b solid; color: #FFFFFF; font-size: 20px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 50px 0px;">Stage 1: Pre-Departure for Singapore zzzzz</label>
 <table>
 <tr>
 <td style="margin-top:50px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8;font-size:20px;">
