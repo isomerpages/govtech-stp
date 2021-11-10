@@ -46,7 +46,7 @@ On this page you will find the following:
 
 <div id="from"></div>
 
-<p style="font-size:24px;"><b>[For arrivals <span style="color: red;">from 11 Nov 2021, 2359h</span>]</b></p>
+<p style="font-size:24px;"><b>[For arrivals <span style="color: red;">from 11 Nov 2021, 2359 hours</span>]</b></p>
 
 <!--<p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 11 Nov 2021, 2359h will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></p>-->
 
@@ -486,7 +486,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 		</table><br>
 		
 		
-<div id="before"></div>
+<div id=""></div>
 
 ### Travel Health Control Measures for WPHL-Pass Holders 
 
@@ -823,4 +823,3 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 	</tr>
 	</tbody>
 		</table><br>
-
