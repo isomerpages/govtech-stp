@@ -114,7 +114,8 @@ label {
   color: #FFFFFF;
   font-size: 20px;
   line-height: 28px;
-  padding: 15px 20px 15px 20px; 
+  padding: 15px 20px 15px 20px;
+  margin: 30px;
 }
 	
 </style>
