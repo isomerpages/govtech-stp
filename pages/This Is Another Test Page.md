@@ -11,7 +11,7 @@ This checklist is suitable for travellers with travel history to <b>only</b> <a 
 
 Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
 
-<label style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:20px #072b4b solid; color: #FFFFFF; font-size: 20px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 100px 0px;">Stage 1: Pre-Departure for Singapore</label>
+<label style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:20px #072b4b solid; color: #FFFFFF; font-size: 20px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 50px 0px;">Stage 1: Pre-Departure for Singapore</label>
 <table>
 	<tr style="background-color: #f0f0f0; margin:20px;">
 		<td style="margin-top:50px; line-height:1.5; background-color:#f8f8f8;font-size:20px;">&#9744;  <b>A) Application for Entry Approval</b><br><br>
