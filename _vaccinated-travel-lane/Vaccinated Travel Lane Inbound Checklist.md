@@ -217,14 +217,14 @@ When checking in at the departure airport, travellers must present to the airlin
 
 <ol style="padding-left:20px; margin-top:10px; margin-bottom:0px;list-style-type:lower-roman; ">
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Physical or electronic copy of the Vaccinated Travel Pass (VTP) for the specified period of entry;</li>
-				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Valid pre-departure COVID-19 PCR test showing a negative COVID-19 result; </li>
+				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Valid pre-departure COVID-19 PCR test [or Antigen Rapid Test (ART) for entry into Singapore <b>from 11 November 2021, 2359hrs</b>] showing a negative test result; </li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Valid visa (for visa-required visitors);</li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Acceptable proof of vaccination (same proof as at <a href="#proof">Stage 1A</a>).</li>
 </ol>
 
 Singapore Citizens and Permanent Residents need only present (ii) and (iv) above. Travellers who do not fulfil the above may be denied boarding.
 
-Long-Term Pass holders need only present (i), (ii) and (v) above. Travellers who do not fulfil the above may be denied boarding.
+Long-Term Pass holders need only present (i), (ii) and (iv) above. Travellers who do not fulfil the above may be denied boarding.
 
 ### Stage 3: Arrival in Singapore
 
