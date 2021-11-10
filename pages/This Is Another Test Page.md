@@ -21,8 +21,8 @@ label {
   color: #FFFFFF;
   font-size: 50px;
   line-height: 28px;
-  padding: 15 20 15 20;
-	margin: 20 0 50 0;
+  padding: 15px 20px 15px 20px;
+	margin: 20px 0px 50px 0px;
 
 }
 </style>
