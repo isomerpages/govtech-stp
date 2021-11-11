@@ -60,20 +60,20 @@ If not, an overview of the RGL requirements can be found below. For the list of 
 <table>
 <thead>
 <tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Country/Region</b></th>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Required Days of Stay before Departure for Singapore</b>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;vertical-align:middle;"><b>Country/Region</b></th>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;vertical-align:middle; margin-bottom:10px;"><b>Required Days of Stay before Departure for Singapore</b>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; text-align:center;vertical-align:middle;">Brunei Darussalam 
+<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; text-align:left;vertical-align:middle;"><b>Brunei Darussalam</b> 
 </td>
 <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; text-align:center;vertical-align:middle;">14 days
 </td>
 </tr>
 <tr>
-<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; text-align:center;vertical-align:middle;">Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)
+<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b>
 </td>
 <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center; vertical-align:middle;">7 days
 </td>
@@ -124,7 +124,7 @@ See Annex for partner countries/regions where RGL has been suspended.
 <td style="font-size:18px;border-right:1px solid #D8D8D8;">Conditions for travellers entering from:
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/brunei/rgl/terms-and-conditions" target="_blank">Brunei Darussalam</a></li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/china/rgl/terms-and-conditions" target="_blank">Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</a></li> 
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/china/rgl/terms-and-conditions" target="_blank"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</a></li> 
 </ol>
  </td>
 </tr>
