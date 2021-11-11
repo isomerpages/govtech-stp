@@ -138,13 +138,7 @@ Those seeking to enter China for purposes other than essential business and offi
 
 The RGL is for travel between Singapore and the six RGL regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, and Zhejiang).
 
-A traveller from Singapore who needs to travel between adjacent RGL regions in China (e.g., from Shanghai to Jiangsu, or Shanghai to Zhejiang, etc.) within the first 14 days upon arrival, shall, through the host company or government agency, acquire in advance the approval (i.e., Letter of Invitation) from the relevant provincial/municipal authorities of the next destination. In the case of Guangdong, travellers would need to acquire approval from the Guangdong authorities of the next destination in advance, within the first 21 days upon arrival in Guangdong.
-
-The traveller is only allowed to use the private transport designated by his/her host company or government agency to travel to other RGL regions. Travel via plane, rail, inter-city buses or other means of public transportation is not allowed.
-
-After the first 14 days, inter-provincial/municipal travel for the non-RGL regions within China will be allowed for a RGL traveller from Singapore, as long as he/she adheres to the same domestic travel restrictions imposed on residents in China to move between those provinces/municipalities concerned. In the case of Guangdong, inter-provincial/municipal travel for the non-RGL regions within China can only commence after 21 days, after the duration for the controlled itinerary ends.
-
-As some provinces/municipalities may require additional COVID-19 test(s) before the traveller is allowed to embark on inter-provincial/municipal travel, the traveller’s local host company or government agency should check with the relevant local provincial/municipality authorities if there are any such requirements.
+As the specific requirements may vary amongst provinces/municipalities and continue to evolve, the traveller should verify the latest requirements with his/her local host company or government agency, as well as the PRC Embassy in Singapore. 
 
 #### 7.	Who can I contact for more information on the arrangements in China, e.g., accommodation and transport?
 
@@ -154,15 +148,13 @@ The traveller may contact his/her host company or government agency in China to 
 
 #### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-RGL travellers departing for China will need to take a pre-departure COVID-19 PCR test and an IgM antibody serology test and obtain negative test results within 48 hours before departure for China. Only IgM antibody serology test certificates which state that the test was conducted using the venous blood method will be accepted. Please refer to the guidelines by the Chinese government [here](http://www.chinaembassy.org.sg/eng/lsfw/t1835751.htm). 
+The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexbchina">ANNEX B</a>**. 
 
-The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexbchina">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.
-
-Eligible RGL travellers should contact the selected clinics in Singapore directly to make an appointment in advance for a pre-departure COVID-19 PCR test and an IgM antibody serology test.
+Eligible RGL travellers should contact the selected clinics in Singapore directly to make an appointment in advance for a pre-departure COVID-19 PCR tests and N protein antibody test/IgM antibody serology test, depending on vaccination type and status.
 
 Travellers should make an appointment that fits his/her testing window and be present at the clinic early for the appointment, at least 48 hours prior to departure. Travellers who present themselves at the clinic less than 38 hours to the flight may not be able to receive the result in time for the flight. Please also check with the clinic if it is able to meet China’s requirements.
 
-Travellers should contact the clinic for an estimate of the cost of the PCR and IgM antibody serology tests. These tests are to be taken at the traveller’s cost. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
+Travellers should contact the clinic for an estimate of the cost of the PCR and N protein antibody/IgM antibody serology tests. These tests are to be taken at the traveller’s cost. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
 #### 9. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
 
