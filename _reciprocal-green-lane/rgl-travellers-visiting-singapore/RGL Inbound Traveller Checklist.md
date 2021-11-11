@@ -25,11 +25,11 @@ All RGL travellers <b>must</b> be sponsored by a Singapore-based company or Sing
 
 ☐ <i><b>B) Application for Entry Visas</b></i>
 
-Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.
+Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry visa or wish to apply for a visa should <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">click here</a> for more details.
 
 ☐ <i><b>C) COVID-19 Insurance</b></i>
 
-All RGL travellers <b>must</b> be insured for any COVID-19 related medical charges for a minimum coverage of S$30,000. Travellers can be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, <a href="https://safetravel.ica.gov.sg/health/travelinsurance">click here</a>.
+All RGL travellers <b>must</b> be insured for any COVID-19 related medical charges for a minimum coverage of S$30,000. Travellers can be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, <a href="https://safetravel.ica.gov.sg/health/travelinsurance" target="_blank">click here</a>.
 
 ☐ <i><b>D) Book transport to Singapore</b></i>
 
