@@ -91,7 +91,7 @@ Following the test, travellers <b>must</b> obtain a certificate/report for the t
 Travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration, within 3 days before arriving in Singapore. 
 
 Travellers should <b>defer their travels</b> if they:
-<ol style="margin-top:0px; margin-left:20px; list-style-type: lower-roman;">
+<ol style="margin-top:0px; padding-left:25px; list-style-type: lower-roman;">
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; padding:10px;">Have <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; padding:10px;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; padding:10px;">Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
