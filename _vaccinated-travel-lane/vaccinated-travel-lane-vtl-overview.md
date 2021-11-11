@@ -257,6 +257,8 @@ input:checked + label + .content {
 
 Travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. Please refer to the detailed requirements in the <a href="/vtl/travel-checklist" target="_blank">travel checklist</a>.
 
+<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
+
 <table>
 <thead>
 <tr>
@@ -314,4 +316,4 @@ Click <a href="/vtl/faq" target="_blank">here</a> for the full list of FAQs, or 
 - <a href="/vtl/faq#Flight" target="_blank">Designated VTL Flights</a>
 - <a href="/vtl/faq#OAT" target="_blank">On-Arrival Test & Self-Isolation</a>
 
-Have a question that is not addressed by any of the available resources found in this webpage? Contact us here.
+Have a question that is not addressed by any of the available resources found in this webpage? <a href="https://go.gov.sg/sto-enquiry" target="_blank">Contact us here</a>.
