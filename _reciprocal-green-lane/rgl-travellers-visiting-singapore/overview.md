@@ -161,24 +161,27 @@ See Annex for partner countries/regions where RGL has been suspended.
 </thead>
 <tbody>
 <tr>
-<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><b>Germany</b>
+<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="Germany.png" width="147" height="53">
 </td>
 <td rowspan="2" style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><a href="">Vaccinated Travel Lane</a>
 </td>
 </tr>
 <tr>
-<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><b>Republic of Korea</b>
+<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="ROK.png" width="147" height="53">
 </td>
 </tr>
 <tr>
-<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><b>Indonesia</b></td>
+<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="Indonesia.png" width="147" height="53"></td>
 <td rowspan="3" style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;">Return to the “<a href="/arriving/overview">Travelling to Singapore</a>” page for more entry lanes.</td>
 </tr>
 <tr>
-<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><b>Japan</b></td>
+<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="Japan.png" width="147" height="53"></td>
 </tr>
 <tr>
-<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><b>Malaysia</b></td>
+<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="Malaysia.png" width="147" height="53"></td>
 </tr>
 </tbody>
 </table>
+
+
+
