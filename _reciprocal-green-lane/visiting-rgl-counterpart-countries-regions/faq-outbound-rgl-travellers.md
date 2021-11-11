@@ -3,51 +3,7 @@ title: FAQ - Outbound RGL Travellers
 permalink: /rgl/outbound/faq
 third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
-
 <div id="faq-top"></div>
-
-### FAQ for Travellers in Singapore seeking entry to the following RGL counterpart countries/regions
-
-<table>
-  <thead>
-    <tr>
-      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">RGL Countries</th>
-      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">FAQ</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darusalam</b></td>
-      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-brunei">Click here</a></td>
-    </tr>
-      <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>China</b></td>
-      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-china">Click here</a></td>
-    </tr>
-      <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany</b></td>
-      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-germany">Click here</a></td>
-    </tr>
-      <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Indonesia</b></td>
-      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-indonesia">Click here</a></td>
-    </tr>
-      <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
-      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-japan">Click here</a></td>
-    </tr>
-      <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
-      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-malaysia">Click here</a></td>
-    </tr>
-      <tr>
-      <td style="border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Republic of Korea</b></td>
-      <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="#faq-outbound-rok">Click here</a></td>
-    </tr>    
-  </tbody>
-  </table>
-
------
 
 <div id="faq-outbound-brunei"></div>
 
@@ -871,4 +827,3 @@ Email: <consg@mofa.go.kr> (for visa matters) / <fastlanesg@mofa.go.kr> (for RGL-
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 
 -----
-
