@@ -5,6 +5,8 @@ description: ""
 ---
 <div id="faq-top"></div>
 
+### FAQ for Travellers in Singapore seeking entry to the following RGL counterpart countries/regions
+
 <table>
 <thead>
 <tr>
