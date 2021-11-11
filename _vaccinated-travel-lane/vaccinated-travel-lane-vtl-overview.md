@@ -257,6 +257,8 @@ input:checked + label + .content {
 
 Travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. Please refer to the detailed requirements in the <a href="/vtl/travel-checklist" target="_blank">travel checklist</a>.
 
+<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
+
 <table>
 <thead>
 <tr>
