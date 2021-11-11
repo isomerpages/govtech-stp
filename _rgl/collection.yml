@@ -1,6 +1,0 @@
-collections:
-  rgl:
-    output: true
-    order:
-      - rgl-requirements-and-process.md
-      - apply-now.md
