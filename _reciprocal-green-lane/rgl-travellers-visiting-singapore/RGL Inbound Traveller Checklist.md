@@ -61,18 +61,18 @@ All travellers, must take a pre-departure COVID-19 PCR test <b>within 72 hours b
 </td>
 <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:left;vertical-align:middle;">
 <ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Sports Complex Swab Centre</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">RIPAS Hospital</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SARI Centre, Suri Seri Begawan Hospital</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Berakas Health Centre</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">PAPHMWHB Gadong Health Centre</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pengkalan Batu Health Centre</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Seria Health Centre</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5; padding-left:10px;">Sports Complex Swab Centre</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5; padding-left:10px;">RIPAS Hospital</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5; padding-left:10px;">SARI Centre, Suri Seri Begawan Hospital</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5; padding-left:10px;">Berakas Health Centre</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;padding-left:10px;">PAPHMWHB Gadong Health Centre</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;padding-left:10px;">Pengkalan Batu Health Centre</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;padding-left:10px;">Seria Health Centre</li>
 </ol>
 </td>
 </tr>
 <tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><b>Mainland China</b> 
+<td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><b>Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang</b> 
 </td>
 <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align:left;vertical-align:middle;"><a href="http://bmfw.www.gov.cn/hsjcjgcx/index.html" target="_blank">Click Here</a>
 </td>
