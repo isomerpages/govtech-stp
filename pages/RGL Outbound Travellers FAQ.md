@@ -33,7 +33,7 @@ description: ""
 
 <div id="faq-outbound-brunei"></div>
 
-## **Application Process for Travellers in Singapore seeking entry into Brunei Darusalam**
+### **Application Process for Travellers in Singapore seeking entry into Brunei Darusalam**
 
 ### **Application**
 
@@ -128,7 +128,7 @@ The traveller should verify the latest requirements of the Bruneian authorities 
 
 <div id="faq-outbound-china"></div>
 
-## **Application Process for Travellers in Singapore seeking entry into Mainland China**
+### **Application Process for Travellers in Singapore seeking entry into Mainland China**
 
 ### **Application**
 
