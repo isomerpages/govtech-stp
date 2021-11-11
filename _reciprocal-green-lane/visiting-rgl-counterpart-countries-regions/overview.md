@@ -9,6 +9,7 @@ Travellers who leave Singapore via RGL can return to Singapore without the need 
 
 Listed below, are resources relevant for outbound RGL trips. For additional departure related information, including travel advisories, travellers should refer to the “<a href="/departing/overview">Departing from Singapore</a>” page. Travellers departing Singapore via RGL should work with their foreign RGL sponsors, i.e. company or government agency, to ensure that they meet the RGL conditions for entry into the receiving country/region.
 
+<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 <table>
 <thead>
   <tr>
