@@ -147,7 +147,7 @@ RGL travellers entering Singapore via air and land transport must produce the fo
 - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of the country/region the traveller is departing from). The certificate should also be in English or accompanied with an English translation. It should also contain the (i) Traveller's name, Date of Birth or Passport number (per passport used to travel to Singapore); and (ii) Date and result of the PCR test. 
 - Proof of return transportation arrangements to depart from Singapore (e.g. air, train and bus return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.
 
-Traveller who does not have any of the above may be refuse boarding by the airline. For traveller who do not have mobile devices that can download the TraceTogether app, please refer to Question 24.
+Traveller who does not have any of the above may be refuse boarding by the airline. For traveller who do not have mobile devices that can download the TraceTogether app, please refer to Question 23.
 
 <div id="covid19"></div>
 
@@ -173,7 +173,7 @@ Singapore Citizens and PRs may access Government subsidies and MediShield Life/I
 
 ### Public Health Safeguards in Singapore
 
-#### 18. What health measures will I be subjected to upon arrival in Singapore?
+#### 17. What health measures will I be subjected to upon arrival in Singapore?
 
 Travellers should refer to the relevant Terms & Conditions, for details on the health measures that they must observe upon arrival in Singapore. Travellers can click [here](/rgl/terms-and-conditions) to view the Terms and Conditions.
 
@@ -183,7 +183,7 @@ Travellers can leave their accommodation only if they are tested negative for CO
 
 Travellers should take their temperature twice daily and report their health status to the host company/government agency. During their stay in Singapore, travellers must adhere to prevailing public health requirements, which includes the use of the TraceTogether mobile application and SafeEntry.
 
-#### 19. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
+#### 18. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. Together with other digital contact tracing tools, TraceTogether's Bluetooth proximity data has helped to reduce average contact tracing time from 4 days to less than 1.5 days. 
 
@@ -191,11 +191,11 @@ The Bluetooth proximity data collected is stored locally in the user's phone. If
 
 The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found [here](https://www.tracetogether.gov.sg/).
 
-#### 20. Must every travellers download the TraceTogether app?
+#### 19. Must every travellers download the TraceTogether app?
 
 Yes. All travellers to Singapore must download the TraceTogether app prior to departing for Singapore.
 
-#### 21. After downloading the TraceTogether app, how do I activate it? 
+#### 20. After downloading the TraceTogether app, how do I activate it? 
 
 After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the **same identification number, nationality and date of birth** as those shown in the passport that you are using to enter Singapore. 
 
@@ -220,7 +220,7 @@ For more information, please refer to the TraceTogether website.
 
 If you require assistance on how to download and activate the TraceTogether app, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a>.
 
-#### 22. I have downloaded the TraceTogether app, but I cannot activate the app. What should I do?
+#### 21. I have downloaded the TraceTogether app, but I cannot activate the app. What should I do?
 
 Please check that your app has been updated to the latest version.
 
@@ -234,7 +234,7 @@ You can edit your passport details by clicking the ‘edit’ button on the Hold
 
 If you still face issues, please email <support@tracetogether.gov.sg> with your query and details of the issue you are facing, or call the support helpline at +65 6973 6511 during operating hours.
 
-#### 23. If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
+#### 22. If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
 
 If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 21 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration, as set out in the RGL [Terms and Condition](/rgl/terms-and-conditions) 1(e)(ii).
 
@@ -242,7 +242,7 @@ If you change your SIM card but are still using the same mobile device, you will
 
 Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app remains activated throughout your stay in Singapore.
 
-#### 24. What happens if travellers do not have mobile devices to download the TraceTogether app?
+#### 23. What happens if travellers do not have mobile devices to download the TraceTogether app?
 
 All travellers must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app. The TraceTogether App can be downloaded from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace) and Huawei App Gallery.
 
@@ -252,15 +252,15 @@ Travellers can pay for and collect their rental mobile device at the Changi Reco
 
 Travellers, who have rented a mobile device from Changi Recommends, must carry it with them at all times during their stay in Singapore until it is returned to Changi Recommends. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay and for 21 consecutive days after departing Singapore.   
 
-#### 25. Can travellers switch off their mobile devices while in Singapore?
+#### 24. Can travellers switch off their mobile devices while in Singapore?
 
 No, travellers must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
 
-#### 26. Can travellers uninstall the TraceTogether app upon departing from Singapore?
+#### 25. Can travellers uninstall the TraceTogether app upon departing from Singapore?
 
 Travellers must retain the TraceTogether app with the data on their mobile devices for 21 consecutive days after departing from Singapore. This is to facilitate contact tracing if travellers are tested positive for COVID-19.
 
-#### 27. What is SafeEntry?
+#### 26. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FIN and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
@@ -270,15 +270,15 @@ Alternatively, some venues allow you to complete SafeEntry by presenting your pa
 
 More information on the system can be found [here](https://www.safeentry.gov.sg/).
 
-#### 28. I was identified as a close contact of a confirmed COVID-19 case. What does it mean?
+#### 27. I was identified as a close contact of a confirmed COVID-19 case. What does it mean?
 
 Close contacts of an active COVID-19 case will be identified by MOH through contact tracing. Individuals assess to be a close contact of an active COVID-19 case may be issued a quarantine order (QO) under the Infectious Diseases Act. Click [here](https://www.gov.sg/article/everything-you-need-to-know-about-quarantine-orders) for more on the QO. Affected travellers should extend their visit pass, if duration of the QO exceeds the visit pass’ validity period. 
 
-#### 29. Can I visit the convenient store/shopping mall/supermarket to purchase daily necessity or business-related items?
+#### 28. Can I visit the convenient store/shopping mall/supermarket to purchase daily necessity or business-related items?
 
 No, travellers should seek assistance from their Host to make the purchases on their behalf to limit the contact with the local community. Any deviation from controlled itinerary may result in the cancellation of Visit Pass.
 
-#### 30. What happens if I do not comply with the terms and conditions for the SafeTravel Pass? 
+#### 29. What happens if I do not comply with the terms and conditions for the SafeTravel Pass? 
 
 The Singapore Government takes a serious view of non-compliance with SafeTravel terms and conditions and prevailing health measures. Non-compliance with any of the conditions of the SafeTravel Pass may result in refusal of entry into Singapore and/or cancellation of the SafeTravel Pass. The traveller and the Host shall be jointly liable for and bear all costs incurred for the cost of repatriation, as well as cost of custody and care pending repatriation. Furture SafeTravel Pass aplications may also be rejected. 
 
@@ -286,15 +286,15 @@ The Singapore Government takes a serious view of non-compliance with SafeTravel 
 
 ### Return to Countries/Regions of Departure
 
-#### 31. Do I need to be tested again before I return to my origin country/region of departure? What health measures will I be subjected to upon return to my country/region of departure?
+#### 30. Do I need to be tested again before I return to my origin country/region of departure? What health measures will I be subjected to upon return to my country/region of departure?
 
 As the specific requirements may change over time, RGL travellers returning to their country/region of departure should verify the latest requirements with the respective country/region’s government.
 
 <table>
   <thead>
     <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">RGL Travellers From</th>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Return Measures</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; vertical-align:middle;"><b>RGL Travellers From</b></th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;vertical-align:middle;"><b>Return Measures</b></th>
     </tr>    
   </thead>
   <tbody>
@@ -306,54 +306,11 @@ As the specific requirements may change over time, RGL travellers returning to t
          <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">As the situation is dynamic, travellers may wish to verify the latest measures with the Brunei Government. </p>
    </td>
     </tr>
-    <tr>
-        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Germany</td>
-       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;"> 
-<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore is presently listed as a non-risk area by the German authorities. Travellers who have remained in Singapore for the past 14 days before their return to Germany, are not required to be tested for COVID-19 before their departure from Singapore. They are also not required to be quarantined or take a COVID-19 test upon arrival in Germany.
-</p>
-   </td>
-    </tr>
      <tr>
-        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Mainland China</td>
-       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;"> 
-<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to China from Singapore must take a pre-departure COVID-19 PCR test and an IgM antibody serology test within 48 hours of their planned return to China. Please refer to the guidelines by the Chinese government <a href="http://www.chinaembassy.org.sg/eng/gdxw/t1812116.htm">here</a>. 
+        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Mainland China</td>
+       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; font-size:18px;"> 
+<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to China from Singapore should refer to the <a href="http://www.chinaembassy.org.sg/eng/lsfw/" target="_blank">website</a> of the Embassy of the People’s Republic of China in Singapore for the latest pre-departure requirements imposed by China.
 </p>
-         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers can make an appointment at selected clinics in Singapore for a <a href="/departing/overview#PDT">pre-departure COVID-19 PCR test</a> and an IgM antibody serology test. 
-</p>
-          <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.
-</p>
-   </td>
-    </tr>
-      <tr>
-        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Japan</td>
-       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;"> 
-<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">IF the duration of their stay in Singapore is less than 7 days, travellers returnig to Japan from Singapore can choose to either obtain a certificate of pre-entry testing result within 72 hours before departure to Japan OR taking a COVID-19 test conducted by a doctor after they arrive in Japan. IF the duration of their stay in Singapore is more than 7 days, the pre-entry testing is mandatory. 
-</p>
-         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">While the traveller will not be subject to a 14 days quarantine upon arrival, he/she must refrain from using public transportation for 14 days after entry and obtain permission from the relevant authorities to conduct activities according to his/her Scheduled of Activities in Japan. RGL travellers returning to Japan should check on the specific measures/requirements they are required to observe upon their return, <a href="https://www.mofa.go.jp/a_o/na/page22e_000928.html">here</a>.
-</p>
-   </td>
-    </tr>
-     <tr>
-        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Malaysia</td>
-       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;"> 
-<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Malaysia from Singapore do not need to be tested in Singapore before returning to Malaysia. 
-</p>
-         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Upon their return to Malaysia, travellers must adhere to the prevailing COVID-19 prevention and control measures introduced by the Malaysian government. Travellers may wish to verify the latest measures with the Malaysian Government.
-</p>
-   </td>
-    </tr>
-      <tr>
-        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:18px; border-bottom:1px solid #D8D8D8;">Republic of Korea</td>
-       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;font-size:18px;"> 
-<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">RGL travellers who are foreign nationals/citizens with long-term residency in the Republic of Korea returning to the Republic of Korea are required to take a COVID-19 PCR test in Singapore within 72 hours before the departure date. 
-</p>
-         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Upon their return to the Republic of Korea, all travellers must adhere to the prevailing COVID-19 prevention and control measures of the Government of the Republic of Korea. This may include a 14-day quarantine and/or COVID-19 PCR test.
-</p>
-          <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">As the specific requirements may change over time, travellers returning to the Republic of Korea should verify the latest requirements with the Government of the Republic of Korea or the Embassy of the Republic of Korea in Singapore.
-</p>
-          <p style="margin-top:0px; margin-bottom:0px;  font-size:18px;">ROK nationals who are foreign nationals/citizens with long-term residency in the Republic of Korea should note that they are required to obtain a re-entry permit before leaving the Republic of Korea. A re-entry permit allows the holder to re-enter the ROK once within the period of permission. Please click <a href="http://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761457&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1">here</a> for more information on the re-entry permit. 
-</p>
-         
    </td>
     </tr>
   </tbody>
