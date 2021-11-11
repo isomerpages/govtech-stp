@@ -93,3 +93,4 @@ Some activities in Singapore may require proof of vaccination (e.g. attendance a
 
 Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
 
+
