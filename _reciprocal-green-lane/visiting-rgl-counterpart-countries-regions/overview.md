@@ -12,10 +12,10 @@ Listed below, are resources relevant for outbound RGL trips. For additional depa
 <table>
 <thead>
   <tr>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; width:100px;"><b>Destination</b></th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; width:250px"><b>Counterpart RGL Scheme Name</b></th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; width:200px;"><b>Application and Instructions</b></th>
-     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;width:150px;"><b>FAQs</b></th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; color:white; background-color:#153855; width:100px;"><b>Destination</b></th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; color:white; background-color:#153855; width:250px"><b>Counterpart RGL Scheme Name</b></th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; color:white; background-color:#153855; width:200px;"><b>Application and Instructions</b></th>
+     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; color:white; background-color:#153855;width:150px;"><b>FAQs</b></th>
   </tr>
 </thead>
 <tbody>
