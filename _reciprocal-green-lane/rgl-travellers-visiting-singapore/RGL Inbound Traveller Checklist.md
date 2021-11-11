@@ -21,6 +21,8 @@ Travellers may print out this page and indicate with a “” in the box (☐
 
 All RGL travellers <b>must</b> be sponsored by a Singapore-based company or Singapore Government agency for entry. Entry applications must be submitted by the sponsor between 2 to 5 weeks before the traveller’s intended week of entry; applications submitted less than 8 days from the intended date of entry will not be accepted. Successful applicants will receive an alert via email. Thereafter, they must submit a 14-day controlled itinerary, which the traveller will adhere for the duration of their stay in Singapore. <b>For the applicable RGL conditions, <a href="#conditions">click here</a>. To apply, <a href="https://go.gov.sg/vtl-portal" target="_blank">click here</a></b>.
 
+<div id="stage1b"></div>
+
 ☐ <i><b>B) Application for Entry Visas</b></i>
 
 Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.
@@ -109,7 +111,7 @@ Travellers <b>must</b> download the <a href="https://www.tracetogether.gov.sg/" 
 When checking in at the departure airport, travellers must present to the airline staff:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Physical or digital copy of the SafeTravel Pass approval letter, where the date of entry falls within the permitted week of entry stated in the letter);</li>
-<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid visa (for visa-required visitors) (see Stage 1B);</li>
+<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid visa (for visa-required visitors) (see <a href="#stage1b">Stage 1B</a>);</li>
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid pre-departure COVID-19 PCR test showing a negative COVID-19 result (see Stage 1F); and</li>
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Mobile device with the TraceTogether app with an active user profile (see Stage 1I).</li>
 </ol>
