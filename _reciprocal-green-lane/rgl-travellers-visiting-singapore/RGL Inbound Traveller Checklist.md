@@ -51,13 +51,13 @@ All travellers, must take a pre-departure COVID-19 PCR test <b>within 72 hours b
 <table>
 <thead>
 <tr>
-<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Country/Region of Departure</b></th>
-<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Designated Testing Facilities</b></th>
+<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;vertical-align:middle;"><b>Country/Region of Departure</b></th>
+<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;vertical-align:middle;"><b>Designated Testing Facilities</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><b>Brunei Darussalam</b> 
+<td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;width:200px"><b>Brunei Darussalam</b> 
 </td>
 <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:left;vertical-align:middle;">
 <ol style="margin-top:0px; list-style-type: lower-roman;">
