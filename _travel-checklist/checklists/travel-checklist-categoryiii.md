@@ -38,7 +38,7 @@ Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an
 
 Handwritten negative PDT results are not accepted.
 
-Travellers with difficulties getting a COVID-19 PCR test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
+Travellers with difficulties getting a COVID-19 test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
