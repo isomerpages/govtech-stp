@@ -2,7 +2,7 @@
 title: RGL Outbound Travellers FAQ
 permalink: /rgl/outbound/faq
 description: ""
-third_nav_title: Visiting Rgl Counterpart Countries Regions
+third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
 
 <div id="faq-top"></div>
