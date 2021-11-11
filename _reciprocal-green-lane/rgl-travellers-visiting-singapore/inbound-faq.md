@@ -1,7 +1,9 @@
 ---
-title: Frequently Asked Questions on RGL
+title: RGL Inbound Traveller FAQ
 permalink: /rgl/faq
+third_nav_title: RGL Travellers Visiting Singapore
 ---
+
 ### **RESIDENTS IN COUNTERPART COUNTRIES/REGIONS**
 
 The following FAQs apply to persons who are residents of Brunei Darussalam and selected regions in Mainland China (i.e. Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) who are seeking single-entry, short-term essential business and official visit to Singapore under the RGL arrangement.
