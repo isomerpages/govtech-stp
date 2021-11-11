@@ -11,7 +11,7 @@ description: ""
 
 ### Reciprocal Green Lane Checklist (Travellers Inbound to Singapore)
 
-This checklist is suitable only for travellers leaving from Brunei Darussalam or specific regions in Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang), and are unable to enter Singapore via any other available Safe Travel Lanes except the Reciprocal Green Lane. Return to the self-help checker found in the “Travelling to Singapore” page to identify other Safe Travel Lanes you may qualify under for entry into Singapore.
+This checklist is suitable only for travellers leaving from Brunei Darussalam or specific regions in Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang), and are unable to enter Singapore via any other available Safe Travel Lanes except the Reciprocal Green Lane. Return to the self-help checker found in the “<a href="/arriving/overview">Travelling to Singapore</a>” page to identify other Safe Travel Lanes you may qualify under for entry into Singapore.
 
 Travellers may print out this page and indicate with a “&#9745;” in the box (☐) for completed actions.
 
