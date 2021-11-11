@@ -106,7 +106,7 @@ As part of <a href="https://go.gov.sg/moh-smm" target="_blank">Singapore’s Vac
 <ol style="list-style-type: lower-roman;">
 <li>Be aged 12 and above;</li>
 <li>Be fully vaccinated overseas with any vaccines approved under the WHO EUL; and</li>
-<li>Bring along the original overseas vaccination document that clearly states the type of vaccine taken and date(s) they were taken. The documents need to be in English or translated to English by a translation service provider, embassy or notary public.</li>
+<li>Bring along the original overseas vaccination document that clearly states the type of vaccine taken and date(s) they were taken. The documents need to be in English or translated to English by a translation service provider, notary public or embassy of the country that issued the document.</li>
 	</ol>
 
 If your vaccination certificate(s) are valid, you will be granted <b>temporary vaccinated status lasting about 30 days</b>. You will need to download the TraceTogether app and register with your passport number to view your vaccination status. The vaccinated status in your TraceTogether app will be your proof of vaccination while going around Singapore.
