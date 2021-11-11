@@ -150,7 +150,7 @@ See Annex for partner countries/regions where RGL has been suspended.
 </tr>
 </tbody>
 </table>
-
+<br><br>
 <u><b>Annex: RGL Suspended Countries/Regions</b></u>
 <table>
 <thead>
