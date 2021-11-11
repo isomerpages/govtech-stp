@@ -21,7 +21,7 @@ Listed below, are resources relevant for outbound RGL trips. For additional depa
 </thead>
 <tbody>
 	<tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><img src="/images/BD.png" width="125" height="127"></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><img src="/images/BD.png" width="124" height="123"></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Entry Travel Pass</td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="http://www.pmo.gov.bn/travelportal/Home.aspx" target="_blank">Click here</a><br><br>(See instructions under "Entry Travel for Foreigners")</td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-brunei" target="_blank">Click Here</a></td>
