@@ -305,7 +305,7 @@ The clinic will email the results to your email address. You will need to print 
 
 -----
 
-<div id="faq-outbound-germany"></div>
+<!--<div id="faq-outbound-germany"></div>
 
 ## **Application Process for Travellers in Singapore seeking entry into Germany**
 
@@ -816,4 +816,4 @@ Email: <consg@mofa.go.kr> (for visa matters) / <fastlanesg@mofa.go.kr> (for RGL-
 
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 
------
+----- -->
