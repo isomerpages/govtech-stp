@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: RGL Inbound Travellers FAQ
 permalink: /rgl/faq
 third_nav_title: RGL Travellers Visiting Singapore
 ---
