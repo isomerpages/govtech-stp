@@ -167,6 +167,8 @@ Singapore currently only accepts pre-departure COVID-19 PCR tests taken at an ac
 	<li>Reflect the date and result of the test</li>
 </ul>	
 
+Handwritten negative PDT results are not accepted.
+
 Travellers who fail to produce the required documentary proof of having taken the COVID-19 test within the stipulated time before arrival in Singapore may be denied boarding or turned away.
 
 In general, travellers who are required to take a COVID-19 test must do so <u>within 2 days before departure to Singapore</u>. For passengers on <b>direct flights</b> to Singapore, the <u>2 days</u> will be counted from the scheduled departure day of the flight to Singapore. For example, if the PDT is taken on <b>1 November 2021</b>, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoints) <b>up to 3 November 2021, 2359 hours</b>.
