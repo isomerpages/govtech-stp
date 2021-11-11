@@ -6,7 +6,7 @@ permalink: /travel-checklist/category-2
 
 ### Travel Checklist – Category (II) Travel History
 
-This checklist is **only** suitable for travellers with travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (II) country/region</a> in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">this list of countries/regions</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
+This checklist is **only** suitable for travellers with travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (II) country/region</a> in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">country/region listing</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
 
 Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
 
@@ -33,6 +33,8 @@ Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test.
+
+Handwritten negative PDT results are not accepted.
 
 Travellers with difficulties getting a COVID-19 PCR test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
 

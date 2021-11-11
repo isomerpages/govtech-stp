@@ -14,6 +14,7 @@ The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On 
 <ol>
 	<li style="line-height:1.5;"><a href="#Eligibility">Eligibility</a></li>
 	<li style="line-height:1.5;"><a href="#Application">Application for Travel under the VTL</a></li>
+	<li style="line-height:1.5;"><a href="#Documents">Essential Documents for Your Journey</a></li>
 	<li style="line-height:1.5;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
@@ -128,7 +129,7 @@ input:checked + label + .content {
 </div>
 
 <input type="checkbox" id="title3" />
-<label for="title3">Criteria 3: Travel History & Designated VTL Flight Requirements</label>
+<label for="title3">Criteria 3: Fulfil Travel History & Designated VTL Flight Requirements</label>
 
 <div class="content">
 <p style="line-height:1.5;">Travellers must:
@@ -154,6 +155,8 @@ input:checked + label + .content {
 </div>
 </body>
 </html>
+
+<div id="Application"></div>
 
 ### 2. Application for Travel under the VTL
 
@@ -248,8 +251,59 @@ input:checked + label + .content {
 </body>
 </html>
 
+<div id="Documents"></div>
 
-### 3. Frequently Asked Questions
+### 3. Essential Documents for Your Journey
+
+Travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. Please refer to the detailed requirements in the <a href="/vtl/travel-checklist" target="_blank">travel checklist</a>.
+
+<table>
+<thead>
+<tr>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width: 300px;vertical-align:middle;"><b>Documents</b></th>
+	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px;"><b>Singapore Citizens & Permanent Residents</b></th>
+		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px;"><b>Long-Term Pass Holders</b></th>
+		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px;"><b>Short-Term Visitors</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;">1. Accepted Proof of Vaccination</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+</tr>
+		<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; padding:10px; vertical-align:middle;">2. Negative Pre-Departure COVID-19 Test</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+</tr>
+		<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left;vertical-align:middle; padding:10px;">3. Valid Vaccinated Travel Pass (VTP)</td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
+					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+</tr>	
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left;vertical-align:middle; padding:10px;">4. COVID-19 Insurance Policy</td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
+									<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+</tr>	
+				<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ext-align: left;vertical-align:middle; padding:10px;">5. Valid Visa (for visa-required visitors)</td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
+													<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
+													<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+</tr>	
+</tbody>
+</table>
+
+
+<div id="FAQ"></div>
+
+### 4. Frequently Asked Questions
 
 Click <a href="/vtl/faq" target="_blank">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
 - <a href="/vtl/faq#QRcode" target="_blank">Recognised Vaccination Certificates for VTL</a>
@@ -261,6 +315,3 @@ Click <a href="/vtl/faq" target="_blank">here</a> for the full list of FAQs, or 
 - <a href="/vtl/faq#OAT" target="_blank">On-Arrival Test & Self-Isolation</a>
 
 Have a question that is not addressed by any of the available resources found in this webpage? Contact us here.
-
-
-

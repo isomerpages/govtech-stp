@@ -3,13 +3,6 @@ title: Travelling to Singapore
 permalink: /arriving/overview
 ---
 
-<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b><u>Important Update</u></b></span></p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">Singapore will launch a joint VTL with <b>Malaysia</b> for travel between Changi Airport and Kuala Lumpur International Airport (KLIA) <b>from 29 November 2021</b>. Vaccinated Travel Pass (VTP) applications for Short-Term Visitors and Long-Term Pass Holders will commence on <b>22 November 2021</b>; returning Singapore Citizens and Permanent Residents who are fully vaccinated will not need to apply. Singapore and Malaysia are also in detailed discussion to launch a similar scheme for travel across the land links. </p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">We will also extend the VTLs to Finland and Sweden <b>from 29 November 2021</b>, with applications for Short Term Visitors and Long-Term Pass Holders commencing on <b>22 November 2021</b>. </p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">More details will be provided nearer the date when applications are open.</p>
-</div>
-
 Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangement, and the entry requirements and health controls of each Safe Travel Lane may differ depending on the traveller’s profile and travel history. Travellers can refer to the following sections on this page to determine the most relevant arrangement(s) to enter Singapore:
 - [Self Help Tool for Safe Travel Lanes and Entry Requirements](#selfhelptool)
 - [Listing of Safe Travel Lanes by Traveller Profile](#lanelist)
@@ -19,9 +12,9 @@ Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangem
 
 ### 1) Self-Help Tool for Safe Travel Lanes and Entry Requirements
 
-This self-help tool will help travellers identify the most appropriate Safe Travel Lane(s) to use for entry into Singapore.Travellers should input the most relevant pass-type and vaccination-related information. Travellers who are vaccinated outside Singapore, but are unsure if they meet Singapore’s definition of “fully vaccinated” should refer to this <a href="/health/vtsg" target="_blank">list of vaccination conditions</a> before selecting their vaccination status.
+This self-help tool will help travellers identify the most appropriate Safe Travel Lane(s) to use for entry into Singapore. Travellers should input the most relevant pass-type and vaccination-related information. Travellers who are vaccinated outside Singapore, but are unsure if they meet Singapore’s definition of “fully vaccinated” should refer to this <a href="/health/vtsg" target="_blank">list of vaccination conditions</a> before selecting their vaccination status.
 
-The relevant health control requirements (e.g. Stay Home Notice, COVID-19 tests) will vary according to the specific lane used. This tool will only output the most relevant lanes to use based on the traveller’s profile, and travellers can click on the relevant lane to find out about the specific health requirements under that lane. If the tool below does not work in your browser, try opening it in a <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">separate window</a>, or refer to the list of <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">SafeTravel Lanes</a>. 
+This tool will only output the most relevant lanes to use based on the traveller’s profile, and travellers can click on the relevant lane to find out about the specific health requirements (e.g. Stay Home Notice, COVID-19 tests) under that lane. Some lanes use MOH's Category I-IV health measure framework while others may not. If the tool below does not work in your browser, try opening it in a <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">separate window</a>, or refer to the list of <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">SafeTravel Lanes</a>. 
 
 <iframe width="100%" height="2100px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
