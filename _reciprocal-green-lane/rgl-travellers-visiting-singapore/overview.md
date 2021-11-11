@@ -130,7 +130,7 @@ See Annex for partner countries/regions where RGL has been suspended.
 </tr>
 		<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller's Checklist</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;"><a href="/rgl/travel-checklist" target="_blank">Click Here for RGL Traveller’s checklist</a</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;"><a href="/rgl/travel-checklist" target="_blank">Click Here for RGL Traveller’s checklist</a></td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
