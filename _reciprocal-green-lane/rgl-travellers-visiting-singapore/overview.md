@@ -124,7 +124,7 @@ See Annex for partner countries/regions where RGL has been suspended.
 <td style="font-size:18px;border-right:1px solid #D8D8D8;">Conditions for travellers entering from:
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/brunei/rgl/terms-and-conditions" target="_blank">Brunei Darussalam</a></li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/china/rgl/terms-and-conditions" target="_blank"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></a></li> 
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/china/rgl/terms-and-conditions" target="_blank">Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</a></li> 
 </ol>
  </td>
 </tr>
