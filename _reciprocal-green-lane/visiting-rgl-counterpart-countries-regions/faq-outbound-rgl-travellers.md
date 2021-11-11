@@ -176,9 +176,7 @@ The Chinese authorities require a traveller to test negative for both the post-a
 
 #### 13. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to China?
 
-Minimally, a traveller should have on hand his/her negative COVID-19 PCR and IgM antibody serology test results, green health declaration code with the “HDC” mark from the PRC Embassy, a valid visa and a Letter of Invitation issued by the Chinese provincial/municipal authorities of Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin or Zhejiang specifically for essential business or official travel under the RGL.
-
-As the specific requirements may vary amongst provinces/municipalities, the traveller should verify the latest requirements with his/her local host company or government agency.
+As the specific requirements may vary amongst provinces/municipalities and continue to evolve, the traveller should verify the latest requirements with his/her local host company or government agency, as well as the PRC Embassy in Singapore.
 
 ### **Health Measures in China**
 
@@ -224,7 +222,7 @@ While a traveller no longer needs to adhere to a controlled itinerary after the 
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for eligible RGL travellers.
+Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for eligible RGL travellers. Please note that of the two PCR tests required, one must be performed at hospitals and clinics of Raffles Medical Group or Parkway Pantai Ltd.
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
 
