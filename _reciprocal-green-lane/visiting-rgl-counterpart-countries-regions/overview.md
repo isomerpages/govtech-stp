@@ -21,13 +21,13 @@ Listed below, are resources relevant for outbound RGL trips. For additional depa
 </thead>
 <tbody>
 	<tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><img src="/images/BD.png" width="147" height="53"></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><img src="/images/BD.png" width="125" height="127"></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Entry Travel Pass</td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="http://www.pmo.gov.bn/travelportal/Home.aspx" target="_blank">Click here</a><br><br>(See instructions under "Entry Travel for Foreigners")</td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-brunei" target="_blank">Click Here</a></td>
   </tr>
   <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><img src="/images/MC.png" width="147" height="53"></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><img src="/images/MC.png" width="124" height="70"></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">新中快捷通道 (Singapore-China Fast Lane)</td>
       <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="http://www.chinaembassy.org.sg/eng/lsfw/" target="_blank">Click Here</a><br><br><i>[Note: Specific requirements can vary and evolve amongst provinces/municipalities. Travellers are advised to verify the latest travel/entry requirements with the relevant Chinese authorities and People’s Republic of China Embassy in Singapore.]</i></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-china" target="_blank">Click Here</a></td>
