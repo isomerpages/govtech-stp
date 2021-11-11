@@ -140,7 +140,6 @@ See Annex for partner countries/regions where RGL has been suspended.
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/rgl/faq#Applicationprocess">RGL Application process for Application Sponsors</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/rgl/faq">Other queries from RGL travellers</a></li>
 </ul>
-
  </td>
 </tr>
 <tr>
