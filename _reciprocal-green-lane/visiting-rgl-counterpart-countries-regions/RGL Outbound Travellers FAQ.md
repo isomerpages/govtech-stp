@@ -1,6 +1,7 @@
 ---
-title: FAQ - Outbound RGL Travellers
+title: RGL Outbound Travellers FAQ
 permalink: /rgl/outbound/faq
+description: ""
 third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
 
@@ -9,49 +10,32 @@ third_nav_title: Visiting RGL Counterpart Countries/Regions
 ### FAQ for Travellers in Singapore seeking entry to the following RGL counterpart countries/regions
 
 <table>
-  <thead>
-    <tr>
-      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">RGL Countries</th>
-      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">FAQ</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darusalam</b></td>
-      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-brunei">Click here</a></td>
-    </tr>
-      <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>China</b></td>
-      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-china">Click here</a></td>
-    </tr>
-      <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany</b></td>
-      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-germany">Click here</a></td>
-    </tr>
-      <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Indonesia</b></td>
-      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-indonesia">Click here</a></td>
-    </tr>
-      <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
-      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-japan">Click here</a></td>
-    </tr>
-      <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
-      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-malaysia">Click here</a></td>
-    </tr>
-      <tr>
-      <td style="border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Republic of Korea</b></td>
-      <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="#faq-outbound-rok">Click here</a></td>
-    </tr>    
-  </tbody>
-  </table>
-
------
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Country/Region</b></th>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>FAQ</b>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;">Brunei Darussalam 
+</td>
+<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><a href="#faq-outbound-brunei">Click Here</a>
+</td>
+</tr>
+<tr>
+<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;">Mainland China 
+</td>
+<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><a href="#faq-outbound-china">Click Here</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 <div id="faq-outbound-brunei"></div>
 
-## **Application Process for Travellers in Singapore seeking entry into Brunei Darusalam**
+### **Application Process for Travellers in Singapore seeking entry into Brunei Darusalam**
 
 ### **Application**
 
@@ -146,7 +130,7 @@ The traveller should verify the latest requirements of the Bruneian authorities 
 
 <div id="faq-outbound-china"></div>
 
-## **Application Process for Travellers in Singapore seeking entry into Mainland China**
+### **Application Process for Travellers in Singapore seeking entry into Mainland China**
 
 ### **Application**
 
@@ -162,7 +146,7 @@ Residents in Singapore seeking to travel to China for essential business or offi
 
 If the application is approved, a Letter of Invitation specifically for essential business or official travel under the RGL will be issued to the applicant. The approved applicant will thereafter submit a visa application and health declaration to the PRC Embassy in Singapore, which will issue the applicant a visa. The requirement to obtain a visa also applies to Singaporeans visiting China for less than 15 days, as the 15-day visa free facility for Singaporeans travelling to China remains suspended by the PRC government until further notice. For more details on visa application, please contact the PRC Embassy in Singapore.
 
-The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the provincial/municipal authorities prior to departure for China. Travellers will need to take a pre-departure COVID-19 Polymerase Chain Reaction test (“PCR test”) obtain a negative test result within 48 hours before departure. Only IgM antibody serology test certificates which state that the test was conducted using the venous blood method will be accepted. Please refer to the guidelines by the Chinese Government [here](http://www.chinaembassy.org.sg/eng/lsfw/t1835751.htm). Other requirements may include keeping the local authorities informed of the traveller’s flight details, and submitting the traveller’s closed-loop itinerary to the local authorities. Travellers should also confirm with the PRC Embassy in Singapore the latest procedures and requirements, including approval for closed-loop management, before their departure, [here](http://www.chinaembassy.org.sg/eng/lsfw/fhqz/t1788677.htm).
+The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the provincial/municipal authorities prior to departure for China. Travellers should check the website of the PRC Embassy in Singapore for the latest requirements for travellers from Singapore to China under the RGL.
 
 #### 3. What visas will I be eligible for under the RGL, and what is the visa duration in China?
 
@@ -182,13 +166,7 @@ Those seeking to enter China for purposes other than essential business and offi
 
 The RGL is for travel between Singapore and the six RGL regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, and Zhejiang).
 
-A traveller from Singapore who needs to travel between adjacent RGL regions in China (e.g., from Shanghai to Jiangsu, or Shanghai to Zhejiang, etc.) within the first 14 days upon arrival, shall, through the host company or government agency, acquire in advance the approval (i.e., Letter of Invitation) from the relevant provincial/municipal authorities of the next destination. In the case of Guangdong, travellers would need to acquire approval from the Guangdong authorities of the next destination in advance, within the first 21 days upon arrival in Guangdong.
-
-The traveller is only allowed to use the private transport designated by his/her host company or government agency to travel to other RGL regions. Travel via plane, rail, inter-city buses or other means of public transportation is not allowed.
-
-After the first 14 days, inter-provincial/municipal travel for the non-RGL regions within China will be allowed for a RGL traveller from Singapore, as long as he/she adheres to the same domestic travel restrictions imposed on residents in China to move between those provinces/municipalities concerned. In the case of Guangdong, inter-provincial/municipal travel for the non-RGL regions within China can only commence after 21 days, after the duration for the controlled itinerary ends.
-
-As some provinces/municipalities may require additional COVID-19 test(s) before the traveller is allowed to embark on inter-provincial/municipal travel, the traveller’s local host company or government agency should check with the relevant local provincial/municipality authorities if there are any such requirements.
+As the specific requirements may vary amongst provinces/municipalities and continue to evolve, the traveller should verify the latest requirements with his/her local host company or government agency, as well as the PRC Embassy in Singapore. 
 
 #### 7.	Who can I contact for more information on the arrangements in China, e.g., accommodation and transport?
 
@@ -198,15 +176,13 @@ The traveller may contact his/her host company or government agency in China to 
 
 #### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-RGL travellers departing for China will need to take a pre-departure COVID-19 PCR test and an IgM antibody serology test and obtain negative test results within 48 hours before departure for China. Only IgM antibody serology test certificates which state that the test was conducted using the venous blood method will be accepted. Please refer to the guidelines by the Chinese government [here](http://www.chinaembassy.org.sg/eng/lsfw/t1835751.htm). 
+The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexbchina">ANNEX B</a>**. 
 
-The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexbchina">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.
-
-Eligible RGL travellers should contact the selected clinics in Singapore directly to make an appointment in advance for a pre-departure COVID-19 PCR test and an IgM antibody serology test.
+Eligible RGL travellers should contact the selected clinics in Singapore directly to make an appointment in advance for a pre-departure COVID-19 PCR tests and N protein antibody test/IgM antibody serology test, depending on vaccination type and status.
 
 Travellers should make an appointment that fits his/her testing window and be present at the clinic early for the appointment, at least 48 hours prior to departure. Travellers who present themselves at the clinic less than 38 hours to the flight may not be able to receive the result in time for the flight. Please also check with the clinic if it is able to meet China’s requirements.
 
-Travellers should contact the clinic for an estimate of the cost of the PCR and IgM antibody serology tests. These tests are to be taken at the traveller’s cost. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
+Travellers should contact the clinic for an estimate of the cost of the PCR and N protein antibody/IgM antibody serology tests. These tests are to be taken at the traveller’s cost. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
 #### 9. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
 
@@ -228,9 +204,7 @@ The Chinese authorities require a traveller to test negative for both the post-a
 
 #### 13. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to China?
 
-Minimally, a traveller should have on hand his/her negative COVID-19 PCR and IgM antibody serology test results, green health declaration code with the “HDC” mark from the PRC Embassy, a valid visa and a Letter of Invitation issued by the Chinese provincial/municipal authorities of Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin or Zhejiang specifically for essential business or official travel under the RGL.
-
-As the specific requirements may vary amongst provinces/municipalities, the traveller should verify the latest requirements with his/her local host company or government agency.
+As the specific requirements may vary amongst provinces/municipalities and continue to evolve, the traveller should verify the latest requirements with his/her local host company or government agency, as well as the PRC Embassy in Singapore.
 
 ### **Health Measures in China**
 
@@ -276,7 +250,7 @@ While a traveller no longer needs to adhere to a controlled itinerary after the 
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for eligible RGL travellers.
+Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for eligible RGL travellers. Please note that of the two PCR tests required, one must be performed at hospitals and clinics of Raffles Medical Group or Parkway Pantai Ltd.
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
 
@@ -359,7 +333,7 @@ The clinic will email the results to your email address. You will need to print 
 
 -----
 
-<div id="faq-outbound-germany"></div>
+<!--<div id="faq-outbound-germany"></div>
 
 ## **Application Process for Travellers in Singapore seeking entry into Germany**
 
@@ -870,5 +844,4 @@ Email: <consg@mofa.go.kr> (for visa matters) / <fastlanesg@mofa.go.kr> (for RGL-
 
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 
------
-
+----- -->
