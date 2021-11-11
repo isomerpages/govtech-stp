@@ -7,7 +7,7 @@ collections:
       - rgl-travellers-visiting-singapore/RGL Inbound Traveller Checklist.md
       - visiting-rgl-counterpart-countries-regions/.keep
       - visiting-rgl-counterpart-countries-regions/overview.md
-  visiting-rgl-counterpart-countries-regions: 
-    output: false
-    order:
       - visiting-rgl-counterpart-countries-regions/faq-outbound-rgl-travellers.md
+        output: false
+ 
+      
