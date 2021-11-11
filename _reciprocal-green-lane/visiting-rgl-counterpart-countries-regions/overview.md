@@ -12,10 +12,10 @@ Listed below, are resources relevant for outbound RGL trips. For additional depa
 <table>
 <thead>
   <tr>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Destination</b></th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Counterpart RGL Scheme Name</b></th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Application and Instructions</b></th>
-     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>FAQs</b></th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; width:100px;"><b>Destination</b></th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; width:250px"><b>Counterpart RGL Scheme Name</b></th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; width:200px;"><b>Application and Instructions</b></th>
+     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;width:150px;"><b>FAQs</b></th>
   </tr>
 </thead>
 <tbody>
@@ -27,7 +27,7 @@ Listed below, are resources relevant for outbound RGL trips. For additional depa
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China</b></td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">新中快捷通道（Singapore-China Fast Lane）</td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">新中快捷通道 (Singapore-China Fast Lane)</td>
       <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="http://www.chinaembassy.org.sg/eng/lsfw/" target="_blank">Click Here</a><br><br><i>[Note: Specific requirements can vary and evolve amongst provinces/municipalities. Travellers are advised to verify the latest travel/entry requirements with the relevant Chinese authorities and People’s Republic of China Embassy in Singapore.]</i></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-china" target="_blank">Click Here</a></td>
   </tr>
