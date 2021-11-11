@@ -31,6 +31,8 @@ Valid entry-visa holders and visa-exempted travellers are not required to apply 
 
 All RGL travellers <b>must</b> be insured for any COVID-19 related medical charges for a minimum coverage of S$30,000. Travellers can be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, <a href="https://safetravel.ica.gov.sg/health/travelinsurance" target="_blank">click here</a>.
 
+<div id="1D"></div>
+
 ☐ <i><b>D) Book transport to Singapore</b></i>
 
 Travellers should secure the necessary transport to Singapore. 
@@ -40,6 +42,8 @@ Travellers should secure the necessary transport to Singapore.
 ☐ <i><b>E) Secure Self-Isolation Accommodation</b></i>
 
 Travellers must self-isolate at a non-residential address, e.g. hotel, with an en-suite toilet. For hotel bookings, travellers may refer to this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive hotel list</a>. Before a booking is made, travellers should confirm with the hotel on their ability to accommodate guests on self-isolation whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.
+
+<div id="1F"></div>
 
 ☐ <i><b>F) Pre-Departure COVID-19 PCR Test</b></i>
 
@@ -97,6 +101,8 @@ Travellers should <b>defer their travels</b> if they:
 ☐ <i><b>H) Registration and Pre-payment for On-Arrival COVID-19 PCR Test</b></i>
 
 All travellers should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pre-pay for their on-arrival COVID-19 PCR test here</a>. Failing which, the traveller will pay for the test on the spot during arrival and also expect additional delays in the administration of the test and departure from the checkpoint.
+
+<div id="1I"></div>
 
 ☐ <i><b>I) Contact Tracing</b></i>
 
