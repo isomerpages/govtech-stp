@@ -81,7 +81,7 @@ All travellers, must take a pre-departure COVID-19 PCR test <b>within 72 hours b
 </table>
 
 Following the test, travellers <b>must</b> obtain a certificate/report for the test; only those who test negative for COVID-19 will be permitted to travel. The report should be in English (or accompanied with an English translation), and:
-<ol style="margin-top:0px; list-style-type: lower-roman;">
+<ol style="margin-top:0px; padding-left:25px; list-style-type: lower-roman;">
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contain the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Reflect the date and time the test was taken, the name of the testing institution, and test result.</li>
 </ol>
@@ -114,7 +114,7 @@ Travellers <b>must</b> download the <a href="https://www.tracetogether.gov.sg/" 
 ☐ <i><b>Check-in at Departure Airport</b></i>
 
 When checking in at the departure airport, travellers must present to the airline staff:
-<ol style="margin-top:0px; list-style-type: lower-roman;">
+<ol style="margin-top:0px; padding-left:25px; list-style-type: lower-roman;">
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Physical or digital copy of the SafeTravel Pass approval letter, where the date of entry falls within the permitted week of entry stated in the letter);</li>
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid visa (for visa-required visitors) (see <a href="#1B">Stage 1B</a>);</li>
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid pre-departure COVID-19 PCR test showing a negative COVID-19 result (see <a href="#1F">Stage 1F</a>); and</li>
@@ -156,7 +156,7 @@ Travellers who test positive for COVID-19 are required to receive <a href="/heal
 ☐ <i><b>COVID-19 Safe Management Measures</b></i>
 
 After self-isolation, travellers may go about their activities but <b>must</b>:
-<ol style="margin-top:0px; list-style-type: lower-roman;">
+<ol style="margin-top:0px; padding-left:25px; list-style-type: lower-roman;">
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Adhere to the 14-day controlled itinerary submitted; </li>
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Commute using only private hire cars/taxis, or cohorted company transport. Commutes via public transport is prohibited; and</li>
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Comply with the latest public health measures, which includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> to facilitate Contact Tracing. For details on the prevailing public health measures, please visit the Ministry of Health <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">website</a>.</li>
