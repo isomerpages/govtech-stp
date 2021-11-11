@@ -10,7 +10,7 @@ Currently, Brunei Darussalam and selected regions in Mainland China (i.e. Chongq
 <table>
 <thead>
 <tr>
-<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Country/Region</b></th>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Country/Region</b></th>
 <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Alternative SafeTravel Lanes</b><br> 
 (no quarantine, no controlled itinerary)
 </th>
