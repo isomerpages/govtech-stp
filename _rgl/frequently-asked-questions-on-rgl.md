@@ -4,45 +4,9 @@ permalink: /rgl/faq
 ---
 ### **RESIDENTS IN COUNTERPART COUNTRIES/REGIONS**
 
-The following FAQs apply to persons who are residents in countries/regions that have established RGL arrangements with Singapore seeking single-entry, short-term essential business and official visit into Singapore:
+The following FAQs apply to persons who are residents of Brunei Darussalam and selected regions in Mainland China (i.e. Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) who are seeking single-entry, short-term essential business and official visit to Singapore under the RGL arrangement.
 
-<table>
-<thead>
-  <tr>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country/Region</th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">NOTE</th>
-  </tr>
-</thead>
-<tbody>
-    <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
-      <td rowspan="2" style="text-align:left;border-right:1px solid #D8D8D8;">Travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a></td>
-  </tr>
-  <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></td>
-  </tr>
-   <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany </b></td>
-    <td rowspan="5" style="text-align:left;border-right:1px solid #D8D8D8;"><span style="color:red;"><b>New applications have been suspended for these countries/regions.</b></span>
-       <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Click below for the press releases regarding Singapore's RGL suspension for:</p>
-      <ol style="margin-top:0px; margin-bottom:0px;display: none list-style-type:disc;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">Japan</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></li>            
-      </ol>
- </td>
-  </tr>
-  <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
-  </tr>
-     <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
-  </tr>
-    <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Republic of Korea</b></td>
-  </tr>
-  </tbody>
-  </table>
-   
-Click on the links below to jump to the sections relevant to you: 
+Click on the links below to jump to the sections relevant to you:
 
 A) [General Queries](#General)
 
@@ -79,50 +43,12 @@ You can check [here](/arriving/overview) for the available SafeTravel lanes to v
 
 In general, travellers who are unwell should seek for immediate medical attention and defer their travels. Travellers diagnosed with [COVID-19](/health/covid19-symptoms) less than 21 days before the scheduled date of arrival in Singapore will not be permitted travel to Singapore; airlines will deny such travellers from boarding.
 
-#### 5. I was approved to travel to Singapore under the RGL. Can I transit through a second country to get to Singapore? What should my travel route look like?
-
-RGL travellers are only allowed to travel to Singapore via a non-stop flight from selected airports (below) in the counterpart countries/regions; transits through other countries are prohibited.
-
-<table>
-  <thead>
-    <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country</th>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Entry/Exit Point (Airport(s))</th>
-    </tr>    
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">
-        <b>Japan</b>
-      </td>
-      <td style="margin-top:0px; margin-bottom:0px; border-right:1px solid #D8D8D8; font-size:18px;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Narita International Airport;</li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Haneda International Airport;</li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Kansai International Airport;</li>
-      <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Fukuoka International Airport; and</li>
-     <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Chubu Centrair International Airport.</li>
-        </ol>
-      </td>
-    </tr>
-     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;font-size:18px;">
-        <b>Republic of Korea</b>
-      </td>
-      <td style="margin-top:0px; margin-bottom:0px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; font-size:18px;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">(Seoul) Incheon International Airport.</li>
-        </ol>
-      </td>
-    </tr>
-  </tbody>
-  </table>
-  
-For RGL travellers entering Singapore by land, entry is only permitted via the Causeway and Second Link. Such travellers may drive into Singapore using their personal vehicle (including Malaysia-registered vehicles), subject to LTA’s prevailing regulations and fees stated on the One Motoring website [here](http://onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html).
 
 <div id="Applicationprocess"></div>
 
 ### B) RGL Application Process for Application Sponsors
 
-#### 6. Under the RGL arrangement, what documents are accepted as proof of residency?
+#### 5. Under the RGL arrangement, what documents are accepted as proof of residency?
 
 <table>
   <thead>
@@ -145,66 +71,15 @@ For RGL travellers entering Singapore by land, entry is only permitted via the C
 </ol>
    </td>
     </tr>
-         <tr>
-        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Germany</td>
-       <td style="margin-top:0px; margin-bottom:0px; border-right:1px solid #D8D8D8;font-size:18px;">German nationals:<ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Passport page </li>
-</ol>
-<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Foreign residents in Germany, any of the following:</p><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Confirmation letter for registration of new address (Anmeldebestätigung)</li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Copy of residency registration certificate (Meldebescheinigung) </li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Visa (Visum)
-</li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Residence Permit (Aufenthaltserlaubnis)
-</li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Blue EU card (Blaue Karte EU)
-</li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Intra-Corporate Transfer (ICT) Card (ICT-Karte) or Mobile ICT Card (Mobile-ICT-Karte)
-</li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Settlement Permit / Permanent Residence Permit (Niederlassungserlaubnis)
-</li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">EU Long-term Residence Permit (Erlaubnis zum Daueraufenthalt - EU)
-</li>
-</ol> </td>
-    </tr>
         <tr>
-        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Mainland China</td>
-      <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;">Chinese citizens:<ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Mainland China</td>
+      <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;font-size:18px;">Chinese citizens:<ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Passport biodata page </li>
-</ol>
+</ol><br>
          <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Foreign residents in China:</p><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">China residence permit</li>
          </ol></td>
          </tr>
-     <tr>
-        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Japan</td>
-        <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;">Japanese citizens:<ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Passport biodata page </li>
-</ol>
-         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Foreign residents in Japan:</p><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Residence Card</li>
-         </ol>
-              </td>
-      </tr>
-    <tr>
-        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Malaysia</td>
-        <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;">Malaysian citizens:<ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Passport biodata page </li>
-</ol>
-         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Foreign residents in Malaysia:</p><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Malaysia-issued Long-Term Pass</li>
-         </ol></td>
-      </tr>
-     <tr>
-        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Republic of Korea</td>
-        <td style="margin-top:0px; margin-bottom:0px;border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; font-size:18px;">Korean citizens: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Passport biodata page </li>
-</ol>
-         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Foreign residents in the Republic of Korea:</p><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Certificate of Alien Registration</li>
-         </ol>
-          </td>
-      </tr>
   </tbody>
   </table>
 
