@@ -156,6 +156,8 @@ input:checked + label + .content {
 </body>
 </html>
 
+<div id="Application"></div>
+
 ### 2. Application for Travel under the VTL
 
 <html>
@@ -297,6 +299,9 @@ Travellers must carry along an electronic or physical copy of the documents appl
 </tr>	
 </tbody>
 </table>
+
+
+<div id="FAQ"></div>
 
 ### 4. Frequently Asked Questions
 
