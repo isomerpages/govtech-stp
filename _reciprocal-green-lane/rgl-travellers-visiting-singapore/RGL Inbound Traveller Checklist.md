@@ -99,7 +99,7 @@ Travellers should <b>defer their travels</b> if they:
 
 ☐ <i><b>H) Registration and Pre-payment for On-Arrival COVID-19 PCR Test</b></i>
 
-All travellers should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pre-pay for their on-arrival COVID-19 PCR test here</a>. Failing which, the traveller will pay for the test on the spot during arrival and also expect additional delays in the administration of the test and departure from the checkpoint.
+All travellers should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pre-pay for their on-arrival COVID-19 PCR test</a>. Failing which, the traveller will pay for the test on the spot during arrival and also expect additional delays in the administration of the test and departure from the checkpoint.
 
 <div id="1I"></div>
 
