@@ -63,7 +63,7 @@ In general, travellers who are unwell should seek for immediate medical attentio
        <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;"> Bruneian citizens:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Passport biodata page or yellow ID card. </li>
-</ol>
+</ol><br>
 <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Non-Bruneian citizens who are resident in Brunei, any of the following:</p><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Bruneian Long-Term Pass; or</li>
         <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Purple ID cards issued to Permanent Residents who are holders of foreign passports and Certificates of Identity; </li>
