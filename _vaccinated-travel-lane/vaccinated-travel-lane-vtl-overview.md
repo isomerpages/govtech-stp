@@ -14,7 +14,7 @@ The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On 
 <ol>
 	<li style="line-height:1.5;"><a href="#Eligibility">Eligibility</a></li>
 	<li style="line-height:1.5;"><a href="#Application">Application for Travel under the VTL</a></li>
-	<li style="line-height:1.5;"><a href="#Application">Essential Documents for Your Journey</a></li>
+	<li style="line-height:1.5;"><a href="#Documents">Essential Documents for Your Journey</a></li>
 	<li style="line-height:1.5;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
@@ -248,6 +248,8 @@ input:checked + label + .content {
 	</div>
 </body>
 </html>
+
+<div id="Documents"></div>
 
 ### 3. Essential Documents for Your Journey
 
