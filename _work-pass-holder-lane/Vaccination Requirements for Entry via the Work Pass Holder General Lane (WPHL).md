@@ -11,7 +11,7 @@ All pass holders entering under WPHL, regardless of travel history, must be <a h
     <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions.</li>
 	</ol>
 	
-To be considered for exemption , employers must <a href="https://www.mom.gov.sg/exempt-vaccination">submit a request</a> for their pass holders and upload a doctor's memo. If the request is approved, employers can then proceed with the <a href="https://go.gov.sg/wphl-requirements">entry application</a>.
+To be considered for exemption, employers must <a href="https://www.mom.gov.sg/exempt-vaccination">submit a request</a> for their pass holders and upload a doctor's memo. If the request is approved, employers can then proceed with the <a href="https://go.gov.sg/wphl-requirements">entry application</a>.
 
 <div id="vaccinated"></div>
 
