@@ -120,7 +120,7 @@ See Annex for partner countries/regions where RGL has been suspended.
 </thead>
 <tbody>
 	<tr>
-<td style="font-size:18px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>RGL Conditions</b></td>
+<td style="font-size:18px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><p id="conditions" style="font-size:18px;"><b>RGL Conditions</b></p></td>
 <td style="font-size:18px;border-right:1px solid #D8D8D8;">Conditions for travellers entering from:
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/brunei/rgl/terms-and-conditions" target="_blank">Brunei Darussalam</a></li>
