@@ -31,7 +31,7 @@ Travellers must take a PDT **within 2 days before departure** for Singapore, unl
 - Have remained in only [Category (I) country/region](/shn-and-swab-summary) in the past 14 consecutive days before departure; or
 - Are Singapore Citizens entering Singapore via the Causeway or Second Link.
 
-Travellers are required to take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR [For Category II and III arrivals from 11 Nov 2021, 2359 hours]</b> an Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure, if necessary. <b>Self-swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
+Travellers are required to take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR [For Category II and III]</b> an Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure, if necessary. <b>Self-swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test.
@@ -189,7 +189,7 @@ For travellers who received approval to leave their SHN location for short visit
 
 &#x2610;  <i><b>A1) Early release from Stay-Home Notice (SHN) (if applicable)</b></i>
 
-Travellers who wish to leave Singapore before the end of the SHN period **due to exceptional circumstances**, Please submit a request via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>, with the category “Stay Home Notice Accommodation” and sub-category “Appeal to leave SHN for Exceptional Reasons”. An exit COVID-19 Polymerase Chain Reaction test will be required.
+Travellers who wish to leave Singapore before the end of the SHN period **due to exceptional circumstances**, please submit a request via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>, with the category “Stay Home Notice Accommodation” and sub-category “Appeal to leave SHN for Exceptional Reasons”. An exit COVID-19 Polymerase Chain Reaction test will be required.
 
 &#x2610; <i><b>A2) Regular release from Self-isolation / Stay-Home Notice (if applicable)</b></i>
 
