@@ -46,7 +46,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 
 <div id="from"></div>
 
-<p style="font-size:24px;"><b>[For arrivals <span style="color: red;">from 11 Nov 2021, 2359 hours</span>]</b></p>
+<!--<p style="font-size:24px;"><b>[For arrivals <span style="color: red;">from 11 Nov 2021, 2359 hours</span>]</b></p>-->
 
 <!--<p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 11 Nov 2021, 2359h will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></p>-->
 
@@ -101,8 +101,8 @@ For all other pass holders (work pass holders and their dependants), this page e
 		</tbody>
 	</table>
 	<br>
-	Submitters must register and pay for the on-arrival test ($160 including GST) <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 </li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the on-arrival test ($160 including GST) <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to self-isolate in one of the following accommodation until they get a negative test result: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels, serviced apartments, hostels or Employment Agencies' residential units. Please ensure these places can accommodate persons on SHN). </li>
@@ -141,8 +141,8 @@ For all other pass holders (work pass holders and their dependants), this page e
 		</tbody>
 	</table>
 	<br>
-	Submitters must register and pay for the on-arrival test ($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 </li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the on-arrival test ($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to self-isolate until they get a negative test result. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</li>
@@ -224,7 +224,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels, serviced apartments, hostels or Employment Agencies' residential units. Please ensure these places can accommodate persons on SHN). <p style="font-size: 16px; padding-top:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If the employer allows, submitters can arrange for the helper/CN to share a room with another helper/CN with the same travel history. They should remain isolated during the SHN and not mingle, or share facilitates such as toilets, with other residents.</p> </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels, serviced apartments, hostels or Employment Agencies' residential units. Please ensure these places can accommodate persons on SHN). <p style="font-size: 16px; padding-top:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If the employer allows, submitters can arrange for the helper/CN to share a room with another helper/CN with the same travel history. They should remain isolated during the SHN and not mingle, or share facilities such as toilets, with other residents.</p> </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer’s house. The helper/CN must isolate herself in her room and minimise contact with household members. If this is not possible or there are <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>, please look for another accommodation.</li>
 	</ol>
 	</li>
@@ -276,7 +276,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments).</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. The pass holder must isolate themselves in their room and minimise contact with household members. If this is not possible or there are <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>, please look for another accommodation.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. The pass holder must isolate themselves in their room and minimise contact with household members especially <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank"> vulnerable household members</a>. If this is not possible, please look for another accommodation.</li>
 	</ol>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. <!--(This will be replaced by a self-administered Antigen Rapid Test for arrivals from 22 Oct 2021).--></li>
@@ -354,7 +354,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2">
 </li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at one of the following:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels, serviced apartments, hostels or Employment Agencies' residential units. Please ensure these places can accommodate persons on SHN). <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If the employer allows, submitters can arrange for the helper/CN to share a room with another helper/CN with the same travel history. They should remain isolated during the SHN and not mingle, or share facilitates such as toilets, with other residents. </p></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels, serviced apartments, hostels or Employment Agencies' residential units. Please ensure these places can accommodate persons on SHN). <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If the employer allows, submitters can arrange for the helper/CN to share a room with another helper/CN with the same travel history. They should remain isolated during the SHN and not mingle, or share facilities such as toilets, with other residents. </p></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer's house. The helper/CN must isolate herself in her room and minimise contact with household members. If this is not possible or there are <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>, please look for another accommodation. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Note: For submitters who have paid for the stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.]</p>
 		</li>
 		</ol>
@@ -407,7 +407,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> in one of the following:
 <ol style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g hotels or serviced apartments);</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. The pass holder must isolate themselves in their room and minimise contact with household members. If this is not possible, please look for another accommodation.  <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Note: For submitters who have paid for the stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.]</p></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. The pass holder must isolate themselves in their room and minimise contact with household members especially <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank"> vulnerable household members</a>. If this is not possible, please look for another accommodation.  <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Note: For submitters who have paid for the stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.]</p></li>
 				</ol>
 	</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.</li>
