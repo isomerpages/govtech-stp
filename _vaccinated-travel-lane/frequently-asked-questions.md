@@ -2,12 +2,6 @@
 title: Frequently Asked Questions
 permalink: /vtl/faq
 ---
-<!-- <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b><u>Important Update</u></b></span></p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">Singapore will launch a joint VTL with <b>Malaysia</b> for travel between Changi Airport and Kuala Lumpur International Airport (KLIA) <b>from 29 November 2021</b>. Vaccinated Travel Pass (VTP) applications for Short-Term Visitors and Long-Term Pass Holders will commence on <b>22 November 2021</b>; returning Singapore Citizens and Permanent Residents who are fully vaccinated will not need to apply. Singapore and Malaysia are also in detailed discussion to launch a similar scheme for travel across the land links. </p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">We will also extend the VTLs to Finland and Sweden <b>from 29 November 2021</b>, with applications for Short Term Visitors and Long-Term Pass Holders commencing on <b>22 November 2021</b>. </p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">More details will be provided nearer the date when applications are open.</p>
-</div> -->
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:10px; color:red; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>
@@ -145,17 +139,11 @@ As part of Singapore’s <a href="https://www.moh.gov.sg/covid-19-phase-advisory
 
 ### (ii) Digitally Verifiable Vaccination Certificate and QR Code Issues
 
-#### 1. What is a digitally verifiable vaccination certificate?
-
-Digitally verifiable vaccination certificates are tamper-proof and can be digitally authenticated. They should contain QR code(s) that can be scanned to read and authenticate that the QR code was issued by a trusted issuer and that the QR code belongs to the individual presenting it.
-
-The requirement for travellers to present a digitally verified and authenticated proof of vaccination is a key safeguard of the VTL. At this point in time, non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that we can scan to read and authenticate the traveller’s vaccination status) will <b>not</b> be accepted.
-
 <div id="QRcode"></div>
 
-#### 2. What are the accepted forms of digitally verifiable vaccination certificates?
+#### 1. What are the accepted forms of digitally verifiable vaccination certificates?
 
-Please click the links below for more information on accepted digitally verifiable vaccination certificates If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL:
+Please click the links below for more information on accepted digitally verifiable vaccination certificates. 
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Vaccination Certificates</b></p>
 	    
@@ -174,33 +162,38 @@ Please click the links below for more information on accepted digitally verifiab
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b> [For entry into Singapore from 14 November 2021, 2359hrs, SGT]</b> Static QR Code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>*</li>
 	<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b> [[For entry into Singapore from 21 November 2021, 2359hrs]</b>Digital Certificate for COVID-19 Vaccination downloadable from the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a> (developed by the Government of Malaysia) </li>-->	 
 </ol>
+<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>^</sup>If your vaccination record was issued in the US but you are unable to produce a digitally verifiable vaccination certificate, you can provide either (a) your digital vaccination record retrieved through your state’s or local health authority’s public health database, or (b) your physical vaccination records and a letter signed by your vaccination provider to attest to your vaccination status; the attestation letter should contain your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore, and details about your vaccination.</p>
+<ol style="margin-top:0px; list-style-type: lower-latin;">
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Citizens and Permanent Residents do not need to apply for the VTP and can just show either of the above documents for verification at the airlines check-in counter pre-departure and on arrival at the Singapore immigration.</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Short-Term Visitors and Long-Term Pass Holders who need to apply for the VTP but cannot upload their vaccination certificate can write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with the documents attached for verification.</li>
+	</ol>
 <p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>If you are a non-Korean national and a Singapore short-term visitor or long-term pass holder, please write in to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application. </p>
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>^</sup>If you have a vaccination certificate issued in the United States, but are unable to obtain it in a digitally verifiable format, please write to the Safe Travel Office using the enquiry form here and provide either (a) your digital vaccination record retrieved through your state’s public health database, or b) your physical vaccination records and a letter signed by your vaccination provider to attest to your vaccination status. The attestation letter should contain your personal particulars and details about your vaccination.</p>
-<!--<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>Foreign nationals vaccinated in the Republic of Korea should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide their physical vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Foreign nationals who are Singapore Citizens/Permanent Residents will need to present their physical vaccination certificate for verification at check-in and arrival immigration. They are strongly encouraged to self-verify their vaccination certificate <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">here</a> prior to their trip.</p>-->
-
 <p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;">We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more issuers are onboarded.</p>
-
 <div style="padding-left: 5px; padding-bottom: 10px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>For Singapore Citizens and Permanent Residents</u></b></span><br/><br/><i>You will need to present an acceptable proof of vaccination at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.</i> </p>
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>For short-term visitors and long-term pass holders</u></b></span><br/><br/><i>If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.</i> </p>
 </div> 
 
 
-#### 3. I was issued a vaccination certificate in the United States but it is not digitally verifiable. Is there any alternative to showing my vaccination status for VTL travel?
+#### 2. I was issued a vaccination certificate in the United States but it is not digitally verifiable. Is there any alternative to showing my vaccination status for VTL travel?
 
-If your vaccination record was issued in the US but you do not have a digitally verifiable vaccination certificate, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide either (a) your digital vaccination record retrieved through your state’s public health database, or b) your physical vaccination records and a letter signed by your vaccination provider to attest to your vaccination status. The attestation letter should contain your personal particulars and details about your vaccination.
+If your vaccination record was issued in the US but you are unable to produce a digitally verifiable vaccination certificate, you can provide either (a) your digital vaccination record retrieved through your state’s or local health authority’s public health database, or (b) your physical vaccination records and a letter signed by your vaccination provider to attest to your vaccination status; the attestation letter should contain your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore, and details about your vaccination.
 
-#### 4. Why are only SMART Health Cards by certain issuers accepted?
+**Singapore Citizens and Permanent Residents** do not need to apply for the VTP and can just show either of the above documents for verification at the airlines check-in counter pre-departure and on arrival at the Singapore immigration.
+
+**Short-term Visitors and Long-Term Pass Holders** who need to apply for the VTP but cannot upload their vaccination certificate can write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with the documents attached for verification.
+
+#### 3. Why are only SMART Health Cards by certain issuers accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
 
 Please note that individuals with an Excelsior Pass issued by the New York State in United States will need to obtain an Excelsior Pass Plus, which is an SHC accepted for travel on the VTL. More information on the Excelsior Pass and Excelsior Pass Plus can be found <a href="https://forward.ny.gov/excelsior-pass-and-excelsior-pass-plus-frequently-asked-questions" target="_blank">here</a>.
 
-We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more states and issuers are onboarded. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.
+We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more states and issuers are onboarded. 
 
 <div id="numberofcodes"></div>
 
-#### 5. How do I know if I need to upload (1) or (2) vaccination QR codes?
+#### 4. How do I know if I need to upload (1) or (2) vaccination QR codes?
 
 You may refer to this table below:
 
@@ -254,15 +247,17 @@ You may refer to this table below:
 </tbody>
 </table>
 
-<sup>^</sup>If you have a vaccination certificate issued in the United States, but are unable to obtain it in a digitally verifiable format, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide either (a) your digital vaccination record retrieved through your state’s public health database, or b) your physical vaccination records and a letter signed by your vaccination provider to attest to your vaccination status. The attestation letter should contain your personal particulars and details about your vaccination.
+<sup>^</sup>If your vaccination record was issued in the US but you are unable to produce a digitally verifiable vaccination certificate, you can provide either (a) your digital vaccination record retrieved through your state’s or local health authority’s public health database, or (b) your physical vaccination records and a letter signed by your vaccination provider to attest to your vaccination status; the attestation letter should contain your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore, and details about your vaccination.
+- Singapore Citizens and Permanent Residents do not need to apply for the VTP and can just show either of the above documents for verification at the airlines check-in counter pre-departure and on arrival at the Singapore immigration.
+- Short-Term Visitors and Long-Term Pass Holders who need to apply for the VTP but cannot upload their vaccination certificate can write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with the documents attached for verification.
 
 <sup>*</sup>If you are a non-Korean national and a Singapore short-term visitor or long-term pass holder, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application.
 
-If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="blank">enquiry form</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.
+If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="blank">enquiry form</a> and provide your vaccination certificate. If you are unable to obtain one of the accepted proofs of vaccination listed above, you will not be eligible for travel on the VTL.
 
 <div id="invalidcode"></div>
 
-#### 6. Why was/were my vaccination QR code(s) not accepted in my VTP application?
+#### 5. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
 You may encounter errors upon uploading your vaccination QR code(s) for reasons such as:
 
@@ -280,7 +275,7 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 
 <div id="verify"></div>
 
-#### 7. Can I self-verify my vaccination certificate?
+#### 6. Can I self-verify my vaccination certificate?
 
 Yes, you can. You may wish to use the following non-exhaustive list of applications / websites for self-verification:
 
@@ -350,8 +345,6 @@ Yes, you can. You may wish to use the following non-exhaustive list of applicati
 </table>
 
 
-
-
 ---
 
 ##### Click here to go back to the [top](#top).
@@ -403,7 +396,6 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 #### 7. I intend to transit via a Category I country/region immediately before arriving in Singapore. Will I be eligible for the VTL?
 
 At this point in time, there are no designated VTL flights operating from Category I countries/regions to Singapore. You will not be eligible for the VTL as you do not fulfill the requirement to arrive in Singapore on a designated VTL flight.
-
 
 
 <div id="PDT"></div>
@@ -531,7 +523,7 @@ To be eligible to take a designated VTL flight, they are required to:
 	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> have a valid proof of vaccination status, which can be in the form of:
 		<ul style="list-style-type:disc;">
 	<li>a vaccination status on the TraceTogether app, HealthHub app or BruHealth app; or</li>
-	<li>digitally verifiable vaccination certificate(s) in English, stating the following:
+	<li>an accepted proof of vaccination in English, stating the following:
 			<ul style="list-style-type:lower-roman;">
 				<li> the traveller's name, and atleast one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
 				<li>the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;</li>
