@@ -117,6 +117,11 @@ input:checked + label + .content {
 			</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>^</sup>If your vaccination record was issued in the US but you are unable to produce a digitally verifiable vaccination certificate, you can provide either (a) your digital vaccination record retrieved through your state’s or local health authority’s public health database, or (b) your physical vaccination records and a letter signed by your vaccination provider to attest to your vaccination status; the attestation letter should contain your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore, and details about your vaccination.</p>
 	<ol style="margin-top:0px; list-style-type: lower-roman;">
+		<li style="font-size:18px; margin-top:10px; padding-left:10px; margin-bottom:0px; line-height:1.5;">your name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the name of the vaccine administered for each dose; and</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;">the date when each dose was administered.</li>
+	</ol>
+	<ol style="margin-top:0px; list-style-type: lower-roman;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Citizens and Permanent Residents do not need to apply for the VTP and can just show either of the above documents for verification at the airlines check-in counter pre-departure and on arrival at the Singapore immigration.</li>
 				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Short-Term Visitors and Long-Term Pass Holders who need to apply for the VTP but cannot upload their vaccination certificate can write to the Safe Travel Office using the enquiry form here with the documents attached for verification.</li>
 	</ol>
