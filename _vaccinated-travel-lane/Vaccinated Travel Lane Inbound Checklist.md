@@ -24,7 +24,7 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 Travellers are be required to provide proof of vaccination during application, departure checks and immigration clearance. You must obtain any of the following acceptable proof of vaccination. Eligibility for each vaccination proof will vary depending on where you took your vaccination and your location. If you are unable to obtain one of the accepted proofs of vaccination certificates listed below, you will not be eligible for travel on the VTL.
 
-All travellers should self-verify their vaccination certificates by referring to the guide here.
+All travellers should self-verify their vaccination certificates by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:10px;">
  <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Mobile Applications</b></p>
