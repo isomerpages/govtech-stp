@@ -184,7 +184,7 @@ Please click the links below for more information on accepted digitally verifiab
 
 If your vaccination record was issued in the US but you are unable to produce a digitally verifiable vaccination certificate, you can provide either (a) your digital vaccination record retrieved through your state’s or local health authority’s public health database, or (b) your physical vaccination records and a letter signed by your vaccination provider to attest to your vaccination status; the attestation letter should contain your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore, and details about your vaccination.
 
-**Singapore Citizens and Permanent Residents** do not need to apply for the VTP and can just show either of the above documents for verification at the airlines check-in counter pre-departure and on arrival at the Singapore immigration.
+**Singapore Citizens and Permanent Residents** do not need to apply for the VTP and can just show either of the documents in (a) or (b) above for verification at the airlines check-in counter pre-departure and on arrival at the Singapore immigration.
 
 **Short-term Visitors and Long-Term Pass Holders** who need to apply for the VTP but cannot upload their vaccination certificate can write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with the documents attached for verification.
 
