@@ -92,7 +92,7 @@ input:checked + label + .content {
 <label for="title2">Criteria 2: Hold an Accepted Proof of Vaccination</label>
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">
-<p style="line-height:1.5; margin-bottom:15px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality. If you are unable to obtain one of the accepted proofs of vaccination listed below (downloadable PDF <a href="" target="_blank">here</a>), you will not be eligible for travel on the VTL.  </p>
+<p style="line-height:1.5; margin-bottom:15px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality. If you are unable to obtain one of the accepted proofs of vaccination listed below, you will not be eligible for travel on the VTL.  </p>
  <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Mobile Applications</b></p>
 	    <ol style="margin-top:0px; list-style-type: decimal;">
 		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
