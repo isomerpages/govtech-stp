@@ -17,7 +17,7 @@ Travellers intending to leave Singapore to a VTL country/region, must check with
 
 ### 1. Eligibility
 
-To be eligible for quarantine-free travel under the Vaccinated Travel Lane, travellers must fulfil the following criteria and the <a href="/vtl/conditions" target="_blank">Conditions</a> of the VTL. Otherwise, they should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page:
+To be eligible for quarantine-free travel under the Vaccinated Travel Lane, travellers must fulfil the following criteria and the <a href="/vtl/conditions" target="_blank">Conditions</a> of the VTL. Otherwise, they should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.
 
 <html>
 
