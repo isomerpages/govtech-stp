@@ -116,8 +116,8 @@ input:checked + label + .content {
 		   <!-- <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 21 Nov 2021, 2359hrs, SGT] </b> Digital Certificate for COVID-19 Vaccination downloadable from the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a> (developed by the Government of Malaysia)</li>-->
 			</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>^</sup>If your vaccination record was issued in the US but you are unable to produce a digitally verifiable vaccination certificate, you can provide either (a) your digital vaccination record retrieved through your state’s or local health authority’s public health database, or (b) your physical vaccination records and a letter signed by your vaccination provider to attest to your vaccination status; the attestation letter should contain your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore, and details about your vaccination.</p>
-	<ol style="margin-top:0px; list-style-type: lower-roman;">
-		<li style="font-size:18px; margin-top:10px; padding-left:10px; margin-bottom:0px; line-height:1.5;">your name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
+	<ol style="margin-top:0px; padding-left:20px; list-style-type: lower-roman;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">your name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the name of the vaccine administered for each dose; and</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;">the date when each dose was administered.</li>
 	</ol>
