@@ -168,7 +168,7 @@ Please click the links below for more information on accepted digitally verifiab
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the name of the vaccine administered for each dose; and</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;">the date when each dose was administered.</li>
 	</ol>
-<ol style="margin-top:0px; list-style-type: lower-latin;">
+<ol style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Citizens and Permanent Residents do not need to apply for the VTP and can just show either of the above documents for verification at the airlines check-in counter pre-departure and on arrival at the Singapore immigration.</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Short-Term Visitors and Long-Term Pass Holders who need to apply for the VTP but cannot upload their vaccination certificate can write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with the documents attached for verification.</li>
 	</ol>
