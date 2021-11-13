@@ -77,7 +77,7 @@ To qualify for the VTL quarantine-free travel health protocols,
 		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers <b>must</b>:</p>
 						 <ol style="margin-top:0px; list-style-type: lower-roman;">
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL flight (list below reflecting respective airlines' websites); and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions listed below, Category I countries/regions and/or Singapore, in the last 14 consecutive days before departure for Singapore.If transits are made via a non-VTL country/region:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions listed below, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore, in the last 14 consecutive days before departure for Singapore.If transits are made via a non-VTL country/region:
 	<ol style="margin-top:0px; list-style-type: lower-alpha;">
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Citizens and Permanent Residents will not be eligible for quarantine-free health protocols.</li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Short-term visitors and long-term pass holders may be denied entry into Singapore.</li>
@@ -150,13 +150,6 @@ To qualify for the VTL quarantine-free travel health protocols,
 	<p style="line-height:1.5;"><sup>*</sup>The list of airlines and websites will be regularly updated</p>
 </div>
 
-
-Travellers may transit via any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> before arrival in Singapore. 
-
-If transits are made via a non-VTL country/region:
-- Singapore Citizens and Permanent Residents will not be eligible for quarantine-free health protocols. 
-- Short-term visitors and long-term pass holders may be denied entry into Singapore.
-
 &#9744;  <i><b>E) [Short-term visitors only] COVID-19 Insurance </b></i>
 
 All short-term visitors travelling to Singapore under VTL, must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.
@@ -166,18 +159,14 @@ All short-term visitors travelling to Singapore under VTL, must purchase a suita
 &#9744;  <i><b>F) Secure Self-Isolation Accommodation</b></i>
 
 Travellers can self-isolate at any of the following locations:
-- Place of residence, e.g. own HDB flat, condominium; or
-- Non-residential accommodation, e.g. hotel or serviced apartment.
+- Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for <a href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation" target="_blank">Private Property</a> and <a href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat" target="_blank">HDB flat / Bedroom</a>); or
+- Non-residential accommodation, such as hotel or serviced apartment in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.
 
-Travellers may complete their self-isolation with vaccinated household members sharing the same travel history, arrival date and self-isolation requirements. Otherwise, they should self-isolate in an enclosed room with an en-suite toilet. Travellers who intend to self-isolate at a non-residential accommodation, e.g. hotel, may refer to this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before a booking is made, travellers should confirm with the hotel that they are able to accommodate guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.
-
-The minimum rental period is 3 months for private residences, and 6 months for HDB flats. Short-term rentals of these properties are not allowed. Travellers may refer to the following websites for more information: 
-- <a href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation" target="_blank">Regulations for renting a Private Property</a>
-- <a href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat" target="_blank">Regulations for renting a HDB flat / Bedroom </a>
+Travellers may complete their self-isolation with vaccinated household members sharing the same travel history, arrival date and self-isolation requirements. Otherwise, they should self-isolate in an enclosed room with an en-suite toilet.  
 
 &#9744;  <i><b>G) Pre-Departure COVID-19 Test</b></i>
 
-All travellers, <b>except</b> those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), must take a pre-departure COVID-19 PCR test or Antigen Rapid Test (ART) for entry into Singapore **within 2 days before departure for Singapore**. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure. Please also ensure that the test report:
+All travellers, except those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), must take a pre-departure COVID-19 PCR test, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure, or a professionally-administered Antigen Rapid Test (ART) within 2 days* before departure for Singapore. Self-swabs are not allowed. Please also ensure that the test report:
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 	<li style="line-height:1.5;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
@@ -198,7 +187,7 @@ Travellers should **defer their travels** if they:
 
 &#9744;  <i><b>I) Registration and Pre-payment for On-Arrival COVID-19 PCR Test</b></i>
 
-All travellers, **except** those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), should <a href="https://safetravel.changiairport.com/#/" target="_blank"> register and pre-pay for their on-arrival COVID-19 PCR test here</a>. Failing which, travellers will pay for the test on the spot during arrival, and should expect additional delays in the administration of the test and departure from the checkpoint.
+All travellers, except those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year), should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pre-pay for their on-arrival COVID-19 PCR test here</a>. The test costs $160 including GST. Failing which, travellers will pay for the test on the spot during arrival, and should expect additional delays in the administration of the test and departure from the checkpoint.
 
 &#9744;  <i><b>J) [Short term visitors only] Contact Tracing App/Token</b></i>
 
@@ -237,7 +226,7 @@ Travellers may only procure goods and services from permitted concessionaires wi
 
 &#9744;  <i><b>B) On-Arrival COVID-19 PCR Test</b></i>
 
-All travellers, **except** those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), must take an <a href="https://safetravel.changiairport.com/#/" target="_blank">on-arrival COVID-19 PCR test</a>. Travellers who did not register and pay for the test before arrival will pay on the spot for the test and may expect delays.
+All travellers, except those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year), must take an <a href="https://safetravel.changiairport.com/#/" target="_blank">on-arrival COVID-19 PCR test</a>. Travellers who did not pay for the test before arrival will pay on the spot for the test.
 
 &#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
 
@@ -262,9 +251,10 @@ Travellers who test positive for COVID-19 are required to receive <a href="/heal
 
 &#9744;  <i><b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></i>
 
-After self-isolation, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Please visit the <a  href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank"> Ministry of Health website</a> for details on the prevailing measures.
+Travellers must comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.
+
 
 
 ### Stage 6: Departure from Singapore
