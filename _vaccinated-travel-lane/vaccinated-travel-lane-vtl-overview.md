@@ -90,7 +90,7 @@ input:checked + label + .content {
 <input type="checkbox" id="title1" />
 <label for="title1">Criteria 1: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
 
-<div class="content" style="background-color:#edf5fc;">
+<div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.5;">Travellers must be fully vaccinated with WHO EUL vaccines (<a href="/health/vtsg" target="_blank">click here for definition</a> of fully vaccinated) at least two weeks before arrival in Singapore. </p>
 		<p style="line-height:1.5;">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL if accompanied by a fully vaccinated VTL traveller.</p>
 </div>
@@ -98,7 +98,7 @@ input:checked + label + .content {
 <input type="checkbox" id="title2" />
 <label for="title2">Criteria 2: Hold an Accepted Proof of Vaccination</label>
 
-<div id="criteria" class="content" style="background-color:#edf5fc;">
+<div id="criteria" class="content" style="background-color:#edf4fa;">
 <p style="line-height:1.5; margin-bottom:15px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality. If you are unable to obtain one of the digitally verifiable vaccination certificates listed below, you will not be eligible for travel on the VTL.  </p>
  <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Mobile Applications</b></p>
 	    <ol style="margin-top:0px; list-style-type: decimal;">
@@ -131,7 +131,7 @@ input:checked + label + .content {
 <input type="checkbox" id="title3" />
 <label for="title3">Criteria 3: Fulfil Travel History & Designated VTL Flight Requirements</label>
 
-<div class="content" style="background-color:#edf5fc;">
+<div class="content" style="background-color:#edf4fa;">
 <p style="line-height:1.5;" >Travellers must:
 	<ol style="margin-top:0px; list-style-type: lower-roman;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL flight; and</li>
@@ -165,7 +165,7 @@ input:checked + label + .content {
 <input type="checkbox" id="title4" />
 <label for="title4">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
-<div class="content" style="background-color:#edf5fc;">
+<div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.5;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. However, you will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.</p>
 		<p style="line-height:1.5;"><b>SC/PRs must comply with the requirements stated in the <a href="/vtl/travel-checklist" target="_blank"> VTL Traveller’s Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 </div>
@@ -173,7 +173,7 @@ input:checked + label + .content {
 <input type="checkbox" id="title5" />
 <label for="title5">Foreign Visitors (e.g. Short-Term Visitors / Long-Term Pass Holders)</label>
 
-<div class="content" style="background-color:#edf5fc;">
+<div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.5;"><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b></p>
 	<!--<p style="line-height:1.5;">Travellers departing from the Republic of Korea may only submit their applications from <b>8 November 2021, 1000hrs, SGT</b>.</p>-->
 	<p style="line-height:1.5;">Travellers departing from <b>Finland, Malaysia and Sweden</b> may only submit their applications from <b>22 Nov 2021</b></p>
