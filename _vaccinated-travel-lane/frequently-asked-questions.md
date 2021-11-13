@@ -2,12 +2,12 @@
 title: Frequently Asked Questions
 permalink: /vtl/faq
 ---
-<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+<!-- <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b><u>Important Update</u></b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">Singapore will launch a joint VTL with <b>Malaysia</b> for travel between Changi Airport and Kuala Lumpur International Airport (KLIA) <b>from 29 November 2021</b>. Vaccinated Travel Pass (VTP) applications for Short-Term Visitors and Long-Term Pass Holders will commence on <b>22 November 2021</b>; returning Singapore Citizens and Permanent Residents who are fully vaccinated will not need to apply. Singapore and Malaysia are also in detailed discussion to launch a similar scheme for travel across the land links. </p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">We will also extend the VTLs to Finland and Sweden <b>from 29 November 2021</b>, with applications for Short Term Visitors and Long-Term Pass Holders commencing on <b>22 November 2021</b>. </p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5">More details will be provided nearer the date when applications are open.</p>
-</div>
+</div> -->
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:10px; color:red; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>
@@ -157,20 +157,12 @@ The requirement for travellers to present a digitally verified and authenticated
 
 Please click the links below for more information on accepted digitally verifiable vaccination certificates If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL:
 
-<p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Mobile Applications</b></p>
-
-<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a> (Developed by the Government of Brunei)</li>
-</ol>
-
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Vaccination Certificates</b></p>
 	    
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a></li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates</a> (EU DCC) issued by any VTL country/region</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards</a> (SHC) issued by:
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards</a><sup>^</sup> (SHC) issued by:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a> (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
@@ -182,7 +174,8 @@ Please click the links below for more information on accepted digitally verifiab
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b> [For entry into Singapore from 14 November 2021, 2359hrs, SGT]</b> Static QR Code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>*</li>
 	<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b> [[For entry into Singapore from 21 November 2021, 2359hrs]</b>Digital Certificate for COVID-19 Vaccination downloadable from the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a> (developed by the Government of Malaysia) </li>-->	 
 </ol>
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>If you are a non-Korean national and a Singapore short-term visitor or long-term pass holder, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application. </p>	    
+<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>If you are a non-Korean national and a Singapore short-term visitor or long-term pass holder, please write in to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application. </p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>^</sup>If you have a vaccination certificate issued in the United States, but are unable to obtain it in a digitally verifiable format, please write to the Safe Travel Office using the enquiry form here and provide either (a) your digital vaccination record retrieved through your state’s public health database, or b) your physical vaccination records and a letter signed by your vaccination provider to attest to your vaccination status. The attestation letter should contain your personal particulars and details about your vaccination.</p>
 <!--<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>Foreign nationals vaccinated in the Republic of Korea should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide their physical vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Foreign nationals who are Singapore Citizens/Permanent Residents will need to present their physical vaccination certificate for verification at check-in and arrival immigration. They are strongly encouraged to self-verify their vaccination certificate <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">here</a> prior to their trip.</p>-->
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;">We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more issuers are onboarded.</p>
@@ -192,7 +185,12 @@ Please click the links below for more information on accepted digitally verifiab
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>For short-term visitors and long-term pass holders</u></b></span><br/><br/><i>If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.</i> </p>
 </div> 
 
-#### 3. Why are only SMART Health Cards by certain issuers accepted?
+
+#### 3. I was issued a vaccination certificate in the United States but it is not digitally verifiable. Is there any alternative to showing my vaccination status for VTL travel?
+
+If your vaccination record was issued in the US but you do not have a digitally verifiable vaccination certificate, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide either (a) your digital vaccination record retrieved through your state’s public health database, or b) your physical vaccination records and a letter signed by your vaccination provider to attest to your vaccination status. The attestation letter should contain your personal particulars and details about your vaccination.
+
+#### 4. Why are only SMART Health Cards by certain issuers accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
 
@@ -202,7 +200,7 @@ We are currently working on accepting digitally verifiable vaccination certifica
 
 <div id="numberofcodes"></div>
 
-#### 4. How do I know if I need to upload (1) or (2) vaccination QR codes?
+#### 5. How do I know if I need to upload (1) or (2) vaccination QR codes?
 
 You may refer to this table below:
 
@@ -226,7 +224,7 @@ You may refer to this table below:
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://smarthealth.cards/faq.html" target="_blank">Smart Health Cards (SHC)</a> issued by 
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://smarthealth.cards/faq.html" target="_blank">Smart Health Cards (SHC)</a><sup>^</sup> issued by 
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
 								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
@@ -256,13 +254,15 @@ You may refer to this table below:
 </tbody>
 </table>
 
+<sup>^</sup>If you have a vaccination certificate issued in the United States, but are unable to obtain it in a digitally verifiable format, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide either (a) your digital vaccination record retrieved through your state’s public health database, or b) your physical vaccination records and a letter signed by your vaccination provider to attest to your vaccination status. The attestation letter should contain your personal particulars and details about your vaccination.
+
 <sup>*</sup>If you are a non-Korean national and a Singapore short-term visitor or long-term pass holder, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application.
 
 If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="blank">enquiry form</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.
 
 <div id="invalidcode"></div>
 
-#### 5. Why was/were my vaccination QR code(s) not accepted in my VTP application?
+#### 6. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
 You may encounter errors upon uploading your vaccination QR code(s) for reasons such as:
 
@@ -280,7 +280,7 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 
 <div id="verify"></div>
 
-#### 6. Can I self-verify my vaccination certificate?
+#### 7. Can I self-verify my vaccination certificate?
 
 Yes, you can. You may wish to use the following non-exhaustive list of applications / websites for self-verification:
 
@@ -362,49 +362,48 @@ Yes, you can. You may wish to use the following non-exhaustive list of applicati
 
 ### (b) Travel History Requirement
 
-<div style="padding-left: 5px; padding-bottom: 10px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>Note:</b></span>Travellers entering Singapore may also have travel history to (i.e. travelled to or transited via) <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> in the last 14 consecutive days before departing for Singapore.</p>
-</div> 
-
-
-
 #### 1. How is the 14-day travel history determined?
 
-If the scheduled day of departure of the traveller's fight to Singapore is D (e.g. 19 October 2021), the traveller must have only travelled to or transited via one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore from D-14 to D (i.e. 5 to 19 October 2021, if D is 19 October 2021). 
+If the scheduled day of departure of the traveller's fight to Singapore is D (e.g. 19 October 2021), the traveller must have only travelled to or transited via one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore from D-14 to D (i.e. 5 to 19 October 2021, if D is 19 October 2021). 
 
 #### 2. Do I need to remain in a [VTL country/region](/vtl/requirements-and-process#countries) for 14 consecutive days before travelling to Singapore?
 
-No, your travel history within the past 14 consecutive days before departure for Singapore may consist of one or more of the VTL countries/regions and/or Singapore. For example, your travel history may include 7 days in Canada and 7 days in the United States. 
+No, your travel history within the past 14 consecutive days before departure for Singapore may consist of one or more of the VTL countries/regions, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. For example, your travel history may include 4 days in Hong Kong, 3 days in Canada and 7 days in the United States. 
 
 #### 3. I am travelling from Singapore to a [VTL country/region](/vtl/requirements-and-process#countries) and will be back in less than 14 days. Will i be eligible to return to Singapore on the VTL?
 
-Yes, you will be eligible for the VTL so long as your travel history within the past 14 consecutive days before departure for Singapore only consists of one or more of the VTL countries/regions and/or Singapore. For example, your 14-day travel history may include 5 days in Singapore, 5 days in the United Kingdom, and 4 days in Germany.
+Yes, you will be eligible for the VTL so long as your travel history within the past 14 consecutive days before departure for Singapore only consists of one or more of the VTL countries/regions, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. For example, your 14-day travel history may include 5 days in Singapore, 5 days in the United Kingdom, and 4 days in Germany.
 
-#### 4. I am currently in a non-VTL country/region but will be travelling to [VTL countries/regions](/vtl/requirements-and-process#countries). Will I be eligible for the VTL?
+#### 4. I am currently in a non-VTL and non-Category I country/region but will be travelling to [VTL countries/regions](/vtl/requirements-and-process#countries). Will I be eligible for the VTL?
 
-You may be eligible for the VTL if your travel and transit history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore. 
+You may be eligible for the VTL if your travel and transit history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. 
 
-However, if you were in a non-VTL country/region at any point within the past 14 days, you will not be eligible for the VTL.
+However, if you were in a non-VTL and non Category I country/region at any point within the past 14 days, you will not be eligible for the VTL.
 
-#### 5. I am only travelling to [VTL countries/regions](/vtl/requirements-and-process#countries), but will transit via a non-VTL country/region in my departing flight from Singapore. Will I be eligible to return to Singapore on the VTL?
+#### 5. I am only travelling to [VTL countries/regions](/vtl/requirements-and-process#countries), but will transit via a non-VTL and non-Category I country/region in my departing flight from Singapore. Will I be eligible to return to Singapore on the VTL?
 
-To be eligible to enter Singapore on the VTL, you must have only travelled to / transited via any [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore within the past 14 consecutive days before departure for Singapore.
+To be eligible to enter Singapore on the VTL, you must have only travelled to / transited via any [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore within the past 14 consecutive days before departure for Singapore.
 
-If your transit via a non-VTL country/region is within the past 14 days, you will not be eligible for the VTL. However:
+If your transit via a non-VTL and non-Category I country/region is within the past 14 days, you will not be eligible for the VTL. However:
 - [Singapore Citizens](/sc-pr/overview)
 - [Permanent Residents](/sc-pr/overview), and
 - Long-Term Pass holders who have received entry approval via the [Work Pass Holder General Lane](/wphl/overview), [Student’s Pass Holder Lane](/stpl/overview), or [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/overview)
 may still travel to Singapore on a non-designated flight. They will be subject to the prevailing [Stay-Home Notice (SHN)](/health/shn) and COVID-19 test requirements upon entry into Singapore.
 
-#### 6. I intend to arrive in Singapore on a designated VTL flight, but will transit via a non-VTL country/region prior to that flight. Will I be eligible for the VTL?
+#### 6. I intend to arrive in Singapore on a designated VTL flight, but will transit via a non-VTL and non-Category I country/region prior to that flight. Will I be eligible for the VTL?
 
-To be eligible to enter Singapore on the VTL, you must have only travelled to / transited via any [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore within the past 14 consecutive days before departure for Singapore.
+To be eligible to enter Singapore on the VTL, you must have only travelled to / transited via any [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore within the past 14 consecutive days before departure for Singapore.
 
 In this scenario, you will not be eligible for the VTL. However:
 - [Singapore Citizens](/sc-pr/overview)
 - [Permanent Residents](/sc-pr/overview), and
 - Long-Term Pass holders who have received entry approval via the [Work Pass Holder General Lane](/wphl/overview), [Student’s Pass Holder Lane](/stpl/overview), or [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/overview)
 may still travel to Singapore on a non-designated flight. They will be subject to the prevailing [Stay-Home Notice (SHN)](/health/shn) and COVID-19 test requirements upon entry into Singapore.
+
+#### 7. I intend to transit via a Category I country/region immediately before arriving in Singapore. Will I be eligible for the VTL?
+
+At this point in time, there are no designated VTL flights operating from Category I countries/regions to Singapore. You will not be eligible for the VTL as you do not fulfill the requirement to arrive in Singapore on a designated VTL flight.
+
 
 
 <div id="PDT"></div>
@@ -416,7 +415,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 
 #### 1. Are travellers under the VTL required to take any pre-departure COVID-19 PCR tests?
 
-All travellers, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART) for entry into Singapore within 2 days before departure for Singapore.
+All travellers, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
 
 If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours
 
@@ -590,7 +589,7 @@ When checking in at the departure airport, travellers must present the following
 			</li>
 		</ul>
 	</li>
-<li><i>[not applicable for children aged 2 and below in the calendar year]</i> a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) for entry into Singapore test result certificate (electronic or physical copy) in English stating the following:
+<li><i>[not applicable for children aged 2 and below in the calendar year]</i> a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) test result certificate (electronic or physical copy) in English stating the following:
 <ol style="list-style-type: circle">
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
 <li>a negative COVID-19 test result;</li>
