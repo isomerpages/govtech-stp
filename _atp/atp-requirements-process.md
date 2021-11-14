@@ -145,7 +145,6 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore; and</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors).</li>
     </ol> 
-     <b>Visitors who do not have any of the above may be refused entry into Singapore by ICA. </b>
  </td>
  </tr>
   </tbody>
