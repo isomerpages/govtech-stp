@@ -189,15 +189,18 @@ Visitors will only be allowed to go about their activities in Singapore after be
 
 #### 4. What types of accommodation do visitors need to use while waiting for their test results?
 
-The self-isolation accommodation types are: 
-- residential accommodation (i.e. HDB flat, condominium or landed property); or 
-- non-residential accommodation (i.e. hotel or serviced apartment). 
-
-Visitors must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the accommodation without the same travel history, arrival date, and self-isolation requirement, the traveller(s) must isolate in an individual room with an en-suite toilet. 
-
-Visitors are required to bear the cost of their accommodation in Singapore.
-
-Visitors may refer to the Singapore Hotel Association (SHA) [website](https://www.sha.org.sg/) for a list of hotels. The list is non-exhaustive and visitors may book other available accommodation as long as they offer individual rooms with an en-suite toilet.
+Travellers can self-isolate at any of the following locations:
+ <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="margin-top:10px; margin-bottom:0px;  line-height:1.5;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for <a href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation" target="_blank">Private Property</a> and <a href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat" target="_blank">HDB flat / Bedroom</a>); or</li>
+	              <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.5;">non-residential accommodation such as hotel or serviced apartment in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
+     </ol>
+  <p style=" margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Adivsory for travellers self-isolating with household members]</b> Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>	    
+	    <p style=" margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
+	      <ol style="margin-top:0px; list-style-type: disc;">
+		      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Lower the lid before flushing the toilet;</li>
+		       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Clean and disinfect contact surfaces after each use; and</li>
+		       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation</li>
+	    </ol>
 
 #### 5. Can visitors share the same room with family members / travel companions / a caretaker (due to a certified disability or special needs) while waiting for their PCR test results?
 
