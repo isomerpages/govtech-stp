@@ -196,10 +196,10 @@ Travellers can self-isolate at any of the following locations:
      </ol>
   <p style=" margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Adivsory for travellers self-isolating with household members]</b> Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>	    
 	    <p style=" margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
-	      <ol style="margin-top:0px; list-style-type: disc;">
-		      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Lower the lid before flushing the toilet;</li>
-		       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Clean and disinfect contact surfaces after each use; and</li>
-		       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation</li>
+	      <ol style="margin-top:0px; list-style-type: lower-roman;">
+		      <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.0;">Lower the lid before flushing the toilet;</li>
+		       <li style="margin-top:10px; margin-bottom:0px;  line-height:1.0;">Clean and disinfect contact surfaces after each use; and</li>
+		       <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.0;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation</li>
 	    </ol>
 
 #### 5. Can visitors share the same room with family members / travel companions / a caretaker (due to a certified disability or special needs) while waiting for their PCR test results?
