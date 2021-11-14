@@ -84,6 +84,7 @@ While waiting for the on-arrival test result, the traveller is prohibited from l
 	<li>Lower the lid before flushing the toilet; </li>
 	<li>Clean and disinfect contact surfaces after each use; and</li>
 	<li>Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation</li>
+	</ol>
 </div>
 
 Travellers without a suitable place of residence may self-isolate at a hotel found in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before a booking is made, travellers should check and ensure that the hotel can accommodate guests who are self-isolating for their COVID-19 Polymerase Chain Reaction Test (“PCR Test”) result. During this period of self-isolation, the traveller is prohibited from leaving the SHN accommodation.
