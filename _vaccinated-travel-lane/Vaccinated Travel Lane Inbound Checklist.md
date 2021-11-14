@@ -167,7 +167,13 @@ Travellers can self-isolate at any of the following locations:
 - Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for <a href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation" target="_blank">Private Property</a> and <a href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat" target="_blank">HDB flat / Bedroom</a>); or
 - Non-residential accommodation, such as hotel or serviced apartment in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.
 
-Travellers may complete their self-isolation with vaccinated household members sharing the same travel history, arrival date and self-isolation requirements. Otherwise, they should self-isolate in an enclosed room with an en-suite toilet.  
+ <p style=" margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Adivsory for travellers self-isolating with household members]</b> Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>	    
+	    <p style=" margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
+	      <ol style="margin-top:0px; list-style-type: lower-roman;">
+		      <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.0;">Lower the lid before flushing the toilet;</li>
+		       <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.0;">Clean and disinfect contact surfaces after each use; and</li>
+		       <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.0;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation</li>
+	    </ol>
 
 &#9744;  <i><b>G) Pre-Departure COVID-19 Test</b></i>
 
