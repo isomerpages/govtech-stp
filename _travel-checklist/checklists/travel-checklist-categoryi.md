@@ -83,7 +83,7 @@ While waiting for the on-arrival test result, the traveller is prohibited from l
 	<ol style="list-style-type:lower-roman;">
 	<li>Lower the lid before flushing the toilet; </li>
 	<li>Clean and disinfect contact surfaces after each use; and</li>
-	<li>Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation</li>
+	<li>Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation.</li>
 	</ol>
 </div>
 
