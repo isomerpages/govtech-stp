@@ -44,7 +44,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 
 <div id="from"></div>
 
-### Categories of Travel Health Control Measures
+### Categories of Travel Health Control Measures (for arrivals from 18 Nov 2021, 2359H)
 
 <!--<span style="color:red;"><b>Travellers arriving in Singapore <u>before 26 Oct 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>-->
 
@@ -208,7 +208,9 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	
 <div id=""></div>
 
-<!--<span style="color:red;"><b>Travellers arriving in Singapore <u>before 26 Oct 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>-->
+### Categories of Travel Health Control measures (for arrivals before 18 Nov 2021, 2359H)
+
+<span style="color:red;"><b>Travellers arriving in Singapore <u>before 18 Nov 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
@@ -366,4 +368,3 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	</tr>
 	</tbody>
 	</table>
-	
