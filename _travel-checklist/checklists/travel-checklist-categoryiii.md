@@ -35,9 +35,7 @@ Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore);
 - Reflects the date and result of the test; and
-- Is not handwritten
-
-Handwritten negative PDT results are not accepted.
+- Is not handwritten.
 
 Travellers with difficulties getting a COVID-19 test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
 
