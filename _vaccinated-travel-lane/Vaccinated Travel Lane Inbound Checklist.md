@@ -10,7 +10,12 @@ permalink: /vtl/travel-checklist
 
 ### Vaccinated Travel Lane Checklist
 
-This step-by-step checklist is for all VTL travellers entering Singapore, including Singapore Citizens (SC) and Permanent Residents (PR). 
+This step-by-step checklist is for all VTL travellers entering Singapore, including Singapore Citizens (SC) and Permanent Residents (PR). If the requirements below are not followed:
+
+<ol style="list-style-type:lower-alpha">
+	<li style="line-height:1.5;">Singapore Citizens and Permanent Residents will not be eligible for quarantine-free health protocols.</li>	
+	<li style="line-height:1.5;">Short-Term Visitors and Long-Term Pass Holders may be denied entry into Singapore.</li>	
+</ol>
 
 *“Short-term visitors” mentioned in this page refers to travellers who are not SC/PR or hold any Singapore-issued Long-Term Pass (e.g. Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration & Checkpoints Authority).*
 
@@ -22,32 +27,28 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 &#9744;  <i><b>A) Obtain an acceptable proof of vaccination </b></i>
 
-Travellers are be required to provide proof of vaccination during application, departure checks and immigration clearance. You must obtain any of the following acceptable proof of vaccination. Eligibility for each vaccination proof will vary depending on where you took your vaccination and your location. If you are unable to obtain one of the accepted proofs of vaccination certificates listed below, you will not be eligible for travel on the VTL.
-
-All travellers should self-verify their vaccination certificates by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.
+You must obtain any of the following acceptable proof of vaccination, or you will not be eligible for travel on the VTL. Other non-VTL lanes are available on the “Traveling to Singapore” page if you are not eligible for the VTL. Eligibility for the vaccination proof below will vary depending on where you took your vaccination and your location. All travellers should also self-verify their vaccination certificates by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:10px;">
  <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Mobile Applications</b></p>
 	    <ol style="margin-top:0px; list-style-type: decimal;">
-		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
-		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
-		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a> (developed by the Government of Brunei)</li>
+		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore's <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
+		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Brunei Darussalam's<a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a></li>
+		      <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Indonesia’s <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi</a></li>
+		      <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> Qatar’s <a href="https://alhosnapp.ae/en/home" target=_blank">AlHosn</a></li>
+		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> Saudi Arabia’s <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna</a></li>
+		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> United Arab Emirates’ <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">Tawtheeq</a></li>
 	    </ol>
 	    <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Vaccination Certificates</b><sup>^</sup></p>
 	    <ol style="margin-top:0px; list-style-type: decimal;">
 		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a></li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates</a> (EU DCC) issued by any VTL country/region</li>
-						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards</a> (SHC) issued by:
-			<ol style="margin-top:0px; list-style-type: lower-latin;">
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a> (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
-								<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Any Canadian province</li>
-							</ol>
+						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards</a> (SHC) issued by any Canadian province, CommonTrust Network issuers in any VTL country/region (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>) or <a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a>
 			</li>
 						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
 		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any VTL country/region 	  </li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b> [For entry into Singapore from 14 November 2021, 2359hrs, SGT]</b> Static QR Code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>*</li>	
-		    <!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 21 Nov 2021, 2359hrs, SGT] </b> Digital Certificate for COVID-19 Vaccination downloadable from the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a> (developed by the Government of Malaysia)</li>-->
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Static QR Code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>*</li>	
+		  <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Vaccination certificates in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC)</a> standard, such as those within India’s <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform</li>
 			</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>^</sup>If your vaccination record was issued in the US but you are unable to produce a digitally verifiable vaccination certificate, you can provide either</p> 
 	<p style="font-size:18px; margin-top:10px; line-height:1.5;">(a) your digital vaccination record retrieved through your state’s or local health authority’s public health database, or</p>
