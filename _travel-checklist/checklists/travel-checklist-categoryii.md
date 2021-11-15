@@ -91,7 +91,7 @@ The use of public transport (e.g. trains, buses) is strictly prohibited.
 A Stay-Home Notice (SHN) comes into effect immediately upon its issuance. Travellers **must** remain in the SHN accommodation for the period specified in their SHN, **unless** they have/have been:
 - Directed by the relevant authorities to do so;
 - Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or
-- Received a negative PCR test result for the test taken on the last day of SHN.
+- Received a negative PCR test result for the test taken before the end of the SHN.
 
 To calculate the estimated SHN end-date, click <a href="/shn-calculator" target="_blank">here</a> for an SHN calculator. Travellers may complete their SHN at their own residence, self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel should only secure their bookings after checking and ensuring that the hotel of choice can accommodate guests on SHN. Travellers may refer to this page for the <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list of hotels</a> offering SHN-accommodation.
 
