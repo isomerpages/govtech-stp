@@ -35,7 +35,7 @@ Travellers issued with an SHN should refer to the conditions inside the SHN, and
 
 SHN will begin <b>immediately</b> from the time the notice is issued on the day of the traveller's arrival in Singapore. It will remain in effect until the traveller is notified of a negative test result from the final PCR test taken at the end of the SHN. 
 
-Travellers serving their SHN at a place of residence or self-sourced accommodation may end their SHN immediately upon receipt of the negative PCR test result at the end of their SHN. 
+Travellers serving their SHN at a place of residence or self-sourced accommodation will be scheduled to take a COVID-19 Polymerase Chain Reaction ("PCR Test") before the end of the SHN. Travellers who do not receive their test appointment details a day befor ethe end of their SHN should seek assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers may end their SHN arrangements upon receipt of a negative test result or when they complete the 7-day or 10-day SHN period applicable to them, whichever is later. 
 
 For travellers serving SHN in an SDF, <b>the SDF will inform the traveller of the check-out time after it receives confirmation of the negative COVID-19 test result from the relevant government agency</b>. Travellers will only be allowed to leave the SDF thereafter. 
 
@@ -48,7 +48,7 @@ Reflected in the table below are two examples of indicative SHN durations. You m
     <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>7-day SHN</b>
       </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller A arrived in Singapore on 1 March 2021. His SHN will start with immediate effect on 1 March 2021, and end around 8 March 2021, after his COVID-19 test results are released.
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller A cleared arrival immigration on 1 March 2021. His SHN will start with immediate effect on 1 March 2021, and end on 8 March 2021, or after his COVID-19 test results are released, whichever is later.
       </td>
     </tr>
     <!-- <tr>
@@ -60,7 +60,7 @@ Reflected in the table below are two examples of indicative SHN durations. You m
 		<tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom: 1px solid #D8D8D8;"><b>10-day SHN</b>
       </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom: 1px solid #D8D8D8;  ">Traveller B arrived in Singapore on 7 October 2021. His SHN will start with immediate effect on 7 October 2021, and end around 17 October 2021, after his COVID-19 test results are released.
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom: 1px solid #D8D8D8;  ">Traveller B cleared immigration checkpoint on 7 October 2021. His SHN will start with immediate effect on 7 October 2021, and end on 17 October 2021, or after his COVID-19 test results are released, whichever is later. 
       </td>
     </tr>
        <!--  <tr>
