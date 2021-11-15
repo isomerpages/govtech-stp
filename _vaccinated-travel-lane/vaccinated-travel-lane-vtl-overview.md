@@ -102,6 +102,7 @@ input:checked + label + .content {
 	    <ol style="margin-top:0px; list-style-type: decimal;">
 		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore's <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
 		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Brunei Darussalam's <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a></li>
+		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT] Indonesia’s <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi</a></li>
 		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT] Qatar’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">Tawtheeq</a></li>
 		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT] Saudi Arabia’s <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna</a></li>
 		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For entry into Singapore from 5 Dec 2021, 2359hrs, SGT] United Arab Emirates’ <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn</a></li>
