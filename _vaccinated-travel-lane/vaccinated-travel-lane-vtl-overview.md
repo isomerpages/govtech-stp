@@ -3,7 +3,7 @@ title: Vaccinated Travel Lane (VTL) Overview
 permalink: /vtl/requirements-and-process
 ---
 
-<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;"><span style="color:red;font-size:18px;">Important Notice</span>
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;"><p style="color:red;font-size:18px;">Important Notice</p>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Singapore will launch the Vaccinated Travel Lanes (VTLs) for <b>Finland, Indonesia, Malaysia and Sweden</b> from 29 November 2021 and will open for Vaccinated Travel Pass (VTP) applications from 22 November 2021. We will also launch the VTLs for <b>Qatar, Saudi Arabia and the United Arab Emirates</b> from 6 December 2021, and will open for VTP applications from 29 November 2021. We also intend to launch a VTL for <b>India</b>. More details will be announced when ready.</p>
 </div>
