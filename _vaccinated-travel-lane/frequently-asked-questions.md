@@ -142,7 +142,7 @@ As part of Singapore’s <a href="https://www.moh.gov.sg/covid-19-phase-advisory
 
 #### 1. What are the accepted forms of vaccination certificates?
 
-Please click the links below for more information on accepted vaccination certificates. If you have a proof of vaccination on one of the <a href="" target="_blank">accepted mobile applications</a>, you do not need to obtain a separate vaccination certificate.
+Please click the links below for more information on accepted vaccination certificates. If you have a proof of vaccination on one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted mobile applications</a>, you do not need to obtain a separate vaccination certificate.
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Vaccination Certificates</b></p>
 	    
