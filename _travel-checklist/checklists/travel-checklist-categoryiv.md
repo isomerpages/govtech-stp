@@ -29,10 +29,11 @@ Travellers must take a PDT **within 2 days before departure** for Singapore, unl
 - Have remained in only <a href="/shn-and-swab-summary" target="_blank">Category (I) country/region</a> in the past 14 consecutive days before departure; or
 
 Travellers are required to take their PDT at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the PDT:
-- Is a Polymerase Chain Reaction (PCR) test, Antigen Rapid Test are <b>not allowed</b>;
+- Is a Polymerase Chain Reaction (PCR) test (Antigen Rapid Test <b>not allowed</b>);
 - Is in English (or accompanied with an English translation);
-- Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
-- Reflects the date and result of the PCR test.
+- Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore);
+- Reflects the date and result of the PCR test and;
+- Is not handwritten.
 
 Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the <a href="/contact-us" target="_blank">Safe Travel Office</a>.
 
