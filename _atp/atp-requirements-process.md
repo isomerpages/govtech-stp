@@ -105,22 +105,20 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>
  </tr>
   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation till negative on-arrival covid-19 PCR result is notified</b> </td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Secure self-isolation accommodation</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"> 
-	    Visitors are required to be isolated until they receive a negative on arrival COVID-19 PCR test result. 
-	    <p style="font-size:16px; margin-top:10px;">The types of accommodation for self-isolation are:</p>
+	    Visitors are required to be isolated until they receive a negative on arrival COVID-19 PCR test result. They should secure an accommodation which is a:
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">residential accommodation (i.e. HDB flat, condominium or landed property); or</li>
-	              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">non-residential accommodation (i.e. hotel or serviced apartment).</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for <a href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation" target="_blank">Private Property</a> and <a href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat" target="_blank">HDB flat / Bedroom</a>); or</li>
+	              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">non-residential accommodation such as hotel or serviced apartment in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
      </ol>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Visitors must isolate alone, or with household members who have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet. </p>
-	    <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Visitors are required to bear the cost of their accommodation (if applicable) in Singapore</p><br/>
-	    <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><b>Note: </b>Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg/hotel-accommodation">website</a> for a list of hotels. The list is non-exhaustive, and visitors may book other available accommodations as long as they offer individual rooms with an ensuite toilet.</p><br/>
-			  <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The minimum rental period is 3 months for private residences, and 6 months for HDB flats. Short-term rental of these properties are not allowed. Travellers may refer to the following websites for more information.</p>
-			<ol style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;list-style-type:disc;">
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation">Regulations for renting a Private Property</a></li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat">Regulations for renting a HDB flat/ Bedroom</a></li>
-			</ol>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Advisory for travellers self-isolating with household members]</b> Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>	    
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
+<ol style="margin-top:0px; list-style-type: disc;">
+		      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Lower the lid before flushing the toilet;</li>
+		       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Clean and disinfect contact surfaces after each use; and</li>
+		       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation</li>
+	    </ol>
     </td>
  </tr>
   <tr>
@@ -147,7 +145,6 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore; and</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors).</li>
     </ol> 
-     <b>Visitors who do not have any of the above may be refused entry into Singapore by ICA. </b>
  </td>
  </tr>
   </tbody>

@@ -57,7 +57,7 @@ During immigration clearance, provide all relevant documents and information req
 
 For visitors granted entry, please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport unless arriving by land or sea. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here for more information about the e-Pass</a> .
 
-&#9744;  <i><b>B) COVID-19 Tests</b></i>
+&#9744;  <i><b>B) On-arrival COVID-19 Tests</b></i>
 
 Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you did not <a href="#payment" target="_blank">pay for the test before arrival</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
 
@@ -71,26 +71,35 @@ The use of public transport (e.g. trains, buses) is strictly prohibited.
 
 &#9744;  <i><b>A) Serve self-isolation period</b></i>
 
-Travellers may self-isolate in the following accommodations:
-- Place of residence; or 
-- Hotel of choice.
+While waiting for the on-arrival test result, the traveller is prohibited from leaving the self-isolation accommodation, which can be a
+<ol style="list-style-type:disc;">
+	<li>Place of residence; or </li>
+	<li>Hotel of choice including hotels in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before a booking is made, travellers should check and ensure that the hotel can accommodate guests who are self-isolating while waiting for their COVID-19 Polymerase Chain Reaction Test ("PCR Test") result.</li>
+</ol>
+
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="margin-top:0px; margin-bottom:0px; line-height:1.5"><b>[Advisory for travellers self-isolating with household members]</b> Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>
+	<p style=" margin-top:0px; margin-bottom:0px; line-height:1.5">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
+	<ol style="list-style-type:lower-roman;">
+	<li>Lower the lid before flushing the toilet; </li>
+	<li>Clean and disinfect contact surfaces after each use; and</li>
+	<li>Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation.</li>
+	</ol>
+</div>
 
 Travellers without a suitable place of residence may self-isolate at a hotel found in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before a booking is made, travellers should check and ensure that the hotel can accommodate guests who are self-isolating for their COVID-19 Polymerase Chain Reaction Test (“PCR Test”) result. During this period of self-isolation, the traveller is prohibited from leaving the SHN accommodation.
 
 ### Stage 5: End of Self-isolation period
 
-&#9744;  <i><b>A) Release from self-isolation</b></i>
+&#9744;  <i><b>A) Release from Self-isolation</b></i>
 
-Travellers may only leave their accommodation only **after** a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. The result could be released to the traveller via a call, email, or SMS. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
+Travellers may leave their accommodation only **after** receiving a negative result for the COVID-19 test taken on arrival in Singapore. The result could be released to the traveller via a call, email, or SMS. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
 
-Travellers who test positive for COVID-19 will and must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
+Travellers who test positive for COVID-19 must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
-&#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
+&#9744;  <i><b>B) Abide by Local COVID-19 Safe Management Measures</b></i>
 
-After SHN, travellers may go about their activities but <b>must</b> comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures.</a> 
+After SHN, travellers may go about their activities but <b>must</b> comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a> including using the TraceTogether app, which aids contact-tracing for COVID-19. 
 
-Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a> 
-
-Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
-
+Some activities in Singapore may require proof of vaccination. If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a> 
 
