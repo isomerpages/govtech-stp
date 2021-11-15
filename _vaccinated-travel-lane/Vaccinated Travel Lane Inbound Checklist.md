@@ -171,14 +171,14 @@ Travellers can self-isolate at any of the following locations:
 &#9744;  <i><b>G) Pre-Departure COVID-19 Test</b></i>
 
 All travellers, except those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), must take a pre-departure COVID-19 PCR test, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure, or a professionally-administered Antigen Rapid Test (ART) within 2 days* before departure for Singapore. Self-swabs are not allowed. Please also ensure that the test report:
-<ol style="list-style-type:lower-roman;">
+<ol style="list-style-type:lower-roman; padding-left:25px;">
 	<li style="line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 	<li style="line-height:1.5;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
 	<li style="line-height:1.5;">Reflects the date and time the test was taken, the name of the testing institution, and a negative test result; and</li>
 			      <li style="line-height:1.5;">Is not handwritten.</li>
 	</ol>
 
-* If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours.
+<sup>*</sup>If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours.
 
 &#9744;  <i><b>H) Submission of Health Declaration</b></i>
 
