@@ -297,7 +297,7 @@ On this page you will find the following:
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;" colspan="2"><b>[Category III]</b></th>
 </tr>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle;" colspan="2"><b>Argentina, Bangladesh, Belarus, Brazil, Chile, Colombia, Estonia, Ethiopia, India, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Myanmar, Nepal, Oman, Pakistan, Papua New Guinea, the Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Sri Lanka, Thailand and Ukraine</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle;" colspan="2"><b>Argentina, Bangladesh, Belarus, Brazil, Colombia, Estonia, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papua New Guinea, the Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Thailand and Ukraine</b></th>
 </tr>
 	<tr>
 		<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;background-color:#153855; color:white; text-align:center; vertical-align:middle;" colspan="4"><b>Health Measures by Pass Type</b></th>
