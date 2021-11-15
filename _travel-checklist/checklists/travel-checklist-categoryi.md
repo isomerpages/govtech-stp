@@ -78,7 +78,7 @@ While waiting for the on-arrival test result, the traveller is prohibited from l
 </ol>
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="margin-top:0px; margin-bottom:0px; line-height:1.5"><b>[Adivsory for travellers self-isolating with household members]</b> Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>
+	<p style="margin-top:0px; margin-bottom:0px; line-height:1.5"><b>[Advisory for travellers self-isolating with household members]</b> Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>
 	<p style=" margin-top:0px; margin-bottom:0px; line-height:1.5">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
 	<ol style="list-style-type:lower-roman;">
 	<li>Lower the lid before flushing the toilet; </li>
