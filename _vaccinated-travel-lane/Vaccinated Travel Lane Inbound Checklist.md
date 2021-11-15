@@ -76,21 +76,13 @@ Unvaccinated children aged 12 and below in this calendar year are eligible to en
 Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.
 
 &#9744;  <i><b>D) Secure Tickets for a Designated VTL Flight </b></i>
-
-To qualify for the VTL quarantine-free travel health protocols, 
-
-<div style="padding-left: 5px; padding-bottom: 20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:10px;">
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers <b>must</b>:</p>
-						 <ol style="margin-top:0px; list-style-type: lower-roman;">
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL flight (list below reflecting respective airlines' websites); and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions listed below, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore, in the last 14 consecutive days before departure for Singapore.If transits are made via a non-VTL country/region:
-<ol style="margin-top:0px; list-style-type: lower-alpha;">
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Citizens and Permanent Residents will not be eligible for quarantine-free health protocols.</li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Short-term visitors and long-term pass holders may be denied entry into Singapore.</li>
-	</ol>
-							 </li>
-</ol>
-			<p style="font-size:16px; margin-top:10px; margin-bottom:15px; line-height:1.5;">Please refer to the respective airlines’ websites for information on when the first designated VTL flight will commence.</p>
+			      
+To qualify for the VTL quarantine-free travel health protocols, travellers must do the following:
+			      
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions listed below, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL flight (list below reflecting respective airlines’ websites)</li>
+			      </ol>
 			<table>
 <thead>
 <tr>
@@ -137,15 +129,15 @@ To qualify for the VTL quarantine-free travel health protocols,
 </tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.flyroyalbrunei.com/singapore/en/help-support/frequently-asked-questions/vaccinated-travel-lane-vtl/" target="_blank">Royal Brunei Airlines</a></td>
-			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Brunei Darussalam</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Brunei Darussalam</td>
 </tr>
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.flyscoot.com/en/announcements/vaccinated-travel-lane-flights" target="_blank">Scoot</a></td>
-					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Germany, Republic of Korea</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Germany, Republic of Korea</td>
 </tr>
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/" target="_blank">Singapore Airlines</a></td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Brunei Darussalam, Canada, Denmark, France, Germany, Italy, Republic of Korea, Spain,  Switzerland, The Netherlands, The United Kingdom, The United States</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Brunei Darussalam, Canada, Denmark, France, Germany, Italy, Republic of Korea, Spain,  Switzerland, The Netherlands, The United Kingdom, The United States</td>
 </tr>
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.swiss.com/sg/en/ch-sg-vtl" target="_blank">SWISS</a></td>
@@ -153,8 +145,8 @@ To qualify for the VTL quarantine-free travel health protocols,
 </tr>
 </tbody>
 </table>
-	<p style="font-size:16px; line-height:1.5;"><sup>*</sup>The list of airlines and websites will be regularly updated</p>
-</div>
+<p style="font-size:16px; line-height:1.5;"><sup>*</sup>The list of airlines and websites will be regularly updated</p>
+
 
 &#9744;  <i><b>E) [Short-term visitors only] COVID-19 Insurance </b></i>
 
@@ -168,7 +160,8 @@ Travellers can self-isolate at any of the following locations:
 - Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for <a href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation" target="_blank">Private Property</a> and <a href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat" target="_blank">HDB flat / Bedroom</a>); or
 - Non-residential accommodation, such as hotel or serviced apartment in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.
 
-<p style=" margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Advisory for travellers self-isolating with household members]</b> Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p><p style=" margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
+<p style=" margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>
+<p style=" margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 		      <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.5;">Lower the lid before flushing the toilet;</li>
 		       <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
@@ -181,7 +174,8 @@ All travellers, except those aged two and below in this calendar year (i.e. a ch
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 	<li style="line-height:1.5;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
-	<li style="line-height:1.5;">Reflects the date and time the test was taken, the name of the testing institution, and a negative test result.</li>
+	<li style="line-height:1.5;">Reflects the date and time the test was taken, the name of the testing institution, and a negative test result; and</li>
+			      <li style="line-height:1.5;">Is not handwritten.</li>
 	</ol>
 
 * If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours.
@@ -189,6 +183,10 @@ All travellers, except those aged two and below in this calendar year (i.e. a ch
 &#9744;  <i><b>H) Submission of Health Declaration</b></i>
 
 Travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration, within 3 days before arriving in Singapore. 
+
+SC/PRs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the SG Arrival Card submission. Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database. 
+			      
+Long-term pass holders and short-term visitors who are required to apply for a VTP are not required to upload their vaccination certificates as part of the SG Arrival Card submission, as their vaccination certificates will be verified as part of the VTP application.
 
 Travellers should **defer their travels** if they:
 - Have <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;
@@ -262,7 +260,7 @@ Travellers who test positive for COVID-19 are required to receive <a href="/heal
 
 &#9744;  <i><b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></i>
 
-Travellers must comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
+Travellers must comply with the <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.
 
