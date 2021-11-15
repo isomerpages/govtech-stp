@@ -171,7 +171,7 @@ Travellers can self-isolate at any of the following locations:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 		      <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.5;">Lower the lid before flushing the toilet;</li>
 		       <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
-		       <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.5;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation</li>
+		       <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.5;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation.</li>
 	    </ol>
 
 &#9744;  <i><b>G) Pre-Departure COVID-19 Test</b></i>
