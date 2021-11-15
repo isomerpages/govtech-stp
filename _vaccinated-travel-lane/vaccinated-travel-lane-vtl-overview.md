@@ -141,16 +141,23 @@ input:checked + label + .content {
 
 <div class="content" style="background-color:#edf4fa;">
 <p style="line-height:1.5; font-size:18px; " >Travellers must:
-	<ol style="margin-top:0px; list-style-type: lower-roman;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL flight; and</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
+	<ol style="margin-top:0px; list-style-type: lower-latin;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions below, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore, in the last 14 consecutive days before departure for Singapore.
+		<ol style="margin-top:0px; list-style-type: lower-roman;">
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Active VTL Countries/Regions] Australia, Brunei Darussalam, Canada, Denmark1, Germany, France2, Italy, the Netherlands3, the Republic of Korea, Spain4, Switzerland, the United Kingdom5 and the United States6</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT] Finland, India, Indonesia, Malaysia and Sweden</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT] Qatar, Saudi Arabia, the United Arab Emirates/li>
+			</ol>
+		</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL flight (list available in the in the <a href="/vtl/travel-checklist" target="_blank">VTL Traveller’s Checklist</a>)</li>
 	</ol>
 	</p>
 <p style="line-height:1.5; font-size:18px; ">A list of designated flights from the VTL countries/regions below is available in the <a href="/vtl/travel-checklist" target="_blank">VTL Traveller’s Checklist</a>.
 <ol style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Active VTL Countries/Regions]</b> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 14 Nov 2021, 2359hrs, SGT]</b> Republic of Korea</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Finland, Malaysia and  Sweden</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Finland, Indonesia, Malaysia and  Sweden</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> Qatar, Saudi Arabia, the United Arab Emirates</li>
 	</ol>
 	</p>
 <p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
@@ -159,6 +166,20 @@ input:checked + label + .content {
 		<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>4</sup>Including the Canary Islands</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>5</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>6</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
+</div>
+
+<input type="checkbox" id="title4" />
+<label for="title3">Criteria 4 [Foreign short- term visitors only]: COVID-19 Travel Insurance</label>
+
+<div class="content" style="background-color:#edf4fa;">
+<p style="line-height:1.5; font-size:18px;">>All short-term visitors travelling to Singapore under VTL, must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.</p>
+</div>
+
+<input type="checkbox" id="title5" />
+<label for="title3">Criteria 5 [Foreign short-term visitors only]: Travel Visa for Visa-required Travel Document Holders</label>
+
+<div class="content" style="background-color:#edf4fa;">
+<p style="line-height:1.5; font-size:18px;">>Foreign short term visitors holding travel documents that require a visa to enter Singapore, must apply for a visa. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.</p>
 </div>
 </body>
 </html>
@@ -174,7 +195,10 @@ input:checked + label + .content {
 
 <div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.5; font-size:18px; ">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. However, you will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.</p>
-		<p style="line-height:1.5; font-size:18px; "><b>SC/PRs must comply with the requirements stated in the <a href="/vtl/travel-checklist" target="_blank"> VTL Traveller’s Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
+	
+	<p style="line-height:1.5; font-size:18px; ">SC/PRs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> submission. Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
+	
+		<p style="line-height:1.5; font-size:18px; "><b>SC/PRs must comply with all the requirements stated in the <a href="/vtl/travel-checklist" target="_blank"> VTL Traveller’s Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 </div>
 	
 <input type="checkbox" id="title5" />
