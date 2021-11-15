@@ -180,25 +180,25 @@ input:checked + label + .content {
 <label for="title6">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
 <div class="content" style="background-color:#edf4fa;">
-	<p style="line-height:1.5; font-size:18px; ">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. However, you will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.</p>
+	<p style="line-height:1.5; font-size:18px;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. However, you will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.</p>
 	
-	<p style="line-height:1.5; font-size:18px; ">SC/PRs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> submission. Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
+	<p style="line-height:1.5; font-size:18px;">SC/PRs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> submission. Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
 	
-		<p style="line-height:1.5; font-size:18px; "><b>SC/PRs must comply with all the requirements stated in the <a href="/vtl/travel-checklist" target="_blank"> VTL Traveller’s Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
+		<p style="line-height:1.5; font-size:18px;"><b>SC/PRs must comply with all the requirements stated in the <a href="/vtl/travel-checklist" target="_blank"> VTL Traveller’s Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 </div>
 	
-<input type="checkbox" id="title7" />
+<input type="checkbox" id="title7"/>
 <label for="title7">Foreign Visitors (e.g. Short-Term Visitors / Long-Term Pass Holders)</label>
 
 <div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.5; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b></p>
 	<!--<p style="line-height:1.5;">Travellers departing from the Republic of Korea may only submit their applications from <b>8 November 2021, 1000hrs, SGT</b>.</p>-->
-	<p style="line-height:1.5; font-size:18px; ">Travellers departing from <b>Indonesia</b> may only submit their applications from <b>22 Nov 2021, 1000hrs SGT</b></p>
-		<p style="line-height:1.5; font-size:18px; ">Travellers departing from <b>Finland and Sweden</b> may only submit their applications from <b>22 Nov 2021, 1800hrs SGT</b></p>
+	<p style="line-height:1.5; font-size:18px;">Travellers departing from <b>Indonesia</b> may only submit their applications from <b>22 Nov 2021, 1000hrs SGT</b></p>
+		<p style="line-height:1.5; font-size:18px;">Travellers departing from <b>Finland and Sweden</b> may only submit their applications from <b>22 Nov 2021, 1800hrs SGT</b></p>
 			<p style="line-height:1.5; font-size:18px; ">Travellers departing from <b>Qatar, Saudi Arabia and the United Arab Emirates</b> may only submit their applications from <b>29 Nov 2021, 1000hrs SGT</b></p>
 	<p style="line-height:1.5; font-size:18px; ">More details for VTP applications for <b>India</b> and <b>Malaysia</b> will be announced when ready.</p>
 	<!--<p style="line-height:1.5;">Travellers departing from <b>Malaysia</b> may only submit their applications from <b>15 Nov 2021, 1000hrs, SGT</b>.</p>-->
-	<p style="line-height:1.5; font-size:18px; ">Please note the following when making the application:
+	<p style="line-height:1.5; font-size:18px; ">Please note the following when making the application:</p>
 	<ol style="margin-top:0px; list-style-type:disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">VTL travellers must also refer to this <a href="/vtl/travel-checklist" target="_blank">travel checklist</a> and the <a href="/vtl/conditions" target="_blank">VTL conditions</a> to ensure they satisfy all VTL requirements, otherwise they may be denied entry to Singapore.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Accompanying children aged 12 and below and are unvaccinated do not need to apply. </li>
@@ -207,7 +207,6 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A VTP is valid for 6 calendar days from the traveller’s chosen date of entry.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements (<b>See Criteria 2 above</b>), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate.</li>	
 	</ol>
-	</p>
 	</div>
 </body>
 
