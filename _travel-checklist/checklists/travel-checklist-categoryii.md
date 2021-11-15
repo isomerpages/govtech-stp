@@ -117,7 +117,7 @@ The test costs SGD$125 (including GST). Returning Singapore Citizens and Permane
 
 &#9744;  <i><b>A) Release from Stay-Home Notice (SHN)</b></i>
 
-Travellers can leave their SHN accommodation once they are informed that their end-of SHN COVID-19 test result is negative. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the  <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
+Travellers may end their SHN arrangements upon receipt of a negative test result or when they complete the 7-day SHN period, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the  <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
 
 Travellers who test positive for COVID-19 will and must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
