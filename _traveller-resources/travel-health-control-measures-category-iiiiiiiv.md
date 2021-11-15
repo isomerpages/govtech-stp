@@ -132,7 +132,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 </tr>
 <tr>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Argentina, Bangladesh, Belarus, Brazil, Chile, Colombia, Estonia, Ethiopia, India, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Myanmar, Nepal, Oman, Pakistan, Papa New Guinea, Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Sri Lanka, Thailand, Ukraine</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Argentina, Bangladesh, Belarus, Brazil, Chile, Colombia, Estonia, Ethiopia, India, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papa New Guinea, Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Sri Lanka, Thailand, Ukraine</b></th>
 </tr>
 </thead>
 <tbody>
