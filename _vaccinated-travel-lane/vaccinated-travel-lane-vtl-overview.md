@@ -169,14 +169,14 @@ input:checked + label + .content {
 </div>
 
 <input type="checkbox" id="title4" />
-<label for="title3">Criteria 4 [Foreign short- term visitors only]: COVID-19 Travel Insurance</label>
+<label for="title4">Criteria 4 [Foreign short- term visitors only]: COVID-19 Travel Insurance</label>
 
 <div class="content" style="background-color:#edf4fa;">
 <p style="line-height:1.5; font-size:18px;">>All short-term visitors travelling to Singapore under VTL, must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.</p>
 </div>
 
 <input type="checkbox" id="title5" />
-<label for="title3">Criteria 5 [Foreign short-term visitors only]: Travel Visa for Visa-required Travel Document Holders</label>
+<label for="title5">Criteria 5 [Foreign short-term visitors only]: Travel Visa for Visa-required Travel Document Holders</label>
 
 <div class="content" style="background-color:#edf4fa;">
 <p style="line-height:1.5; font-size:18px;">>Foreign short term visitors holding travel documents that require a visa to enter Singapore, must apply for a visa. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.</p>
@@ -190,8 +190,8 @@ input:checked + label + .content {
 
 <body>
 
-<input type="checkbox" id="title4" />
-<label for="title4">Singapore Citizens (SC) / Permanent Residents (PR)</label>
+<input type="checkbox" id="title6" />
+<label for="title6">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
 <div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.5; font-size:18px; ">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. However, you will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.</p>
@@ -201,8 +201,8 @@ input:checked + label + .content {
 		<p style="line-height:1.5; font-size:18px; "><b>SC/PRs must comply with all the requirements stated in the <a href="/vtl/travel-checklist" target="_blank"> VTL Traveller’s Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 </div>
 	
-<input type="checkbox" id="title5" />
-<label for="title5">Foreign Visitors (e.g. Short-Term Visitors / Long-Term Pass Holders)</label>
+<input type="checkbox" id="title7" />
+<label for="title7">Foreign Visitors (e.g. Short-Term Visitors / Long-Term Pass Holders)</label>
 
 <div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.5; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b></p>
