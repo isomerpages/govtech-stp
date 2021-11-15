@@ -2,7 +2,6 @@
 title: Frequently Asked Questions
 permalink: /vtl/faq
 ---
-
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:10px; color:red; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>
 		This page contains FAQs for travellers who already understand the entry requirements into Singapore via the Vaccinated Travel Lane (VTL). Singapore time (SGT) is used for all dates and times shown on this page. If you are not clear on the VTL requirements, please refer to the <a href="/vtl/requirements-and-process" target="_blank">VTL Overview page here</a> before reading this FAQ Page.<br/><br/> Travellers intending to travel out of Singapore to a VTL country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.
@@ -141,9 +140,9 @@ As part of Singapore’s <a href="https://www.moh.gov.sg/covid-19-phase-advisory
 
 <div id="QRcode"></div>
 
-#### 1. What are the accepted forms of digitally verifiable vaccination certificates?
+#### 1. What are the accepted forms of vaccination certificates?
 
-Please click the links below for more information on accepted digitally verifiable vaccination certificates. 
+Please click the links below for more information on accepted vaccination certificates. If you have a proof of vaccination on one of the <a href="" target="_blank">accepted mobile applications</a>, you do not need to obtain a separate vaccination certificate.
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Vaccination Certificates</b></p>
 	    
