@@ -193,7 +193,10 @@ input:checked + label + .content {
 <div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.5; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b></p>
 	<!--<p style="line-height:1.5;">Travellers departing from the Republic of Korea may only submit their applications from <b>8 November 2021, 1000hrs, SGT</b>.</p>-->
-	<p style="line-height:1.5; font-size:18px; ">Travellers departing from <b>Finland, Malaysia and Sweden</b> may only submit their applications from <b>22 Nov 2021</b></p>
+	<p style="line-height:1.5; font-size:18px; ">Travellers departing from <b>Indonesia</b> may only submit their applications from <b>22 Nov 2021, 1000hrs SGT</b></p>
+		<p style="line-height:1.5; font-size:18px; ">Travellers departing from <b>Finland and Sweden</b> may only submit their applications from <b>22 Nov 2021, 1800hrs SGT</b></p>
+			<p style="line-height:1.5; font-size:18px; ">Travellers departing from <b>Qatar, Saudi Arabia and the United Arab Emirates</b> may only submit their applications from <b>29 Nov 2021, 1000hrs SGT</b></p>
+	<p style="line-height:1.5; font-size:18px; ">More details for VTP applications for <b>India</b> and <b>Malaysia</b> will be announced when ready.</p>
 	<!--<p style="line-height:1.5;">Travellers departing from <b>Malaysia</b> may only submit their applications from <b>15 Nov 2021, 1000hrs, SGT</b>.</p>-->
 	<p style="line-height:1.5; font-size:18px; ">Please note the following when making the application:
 	<ol style="margin-top:0px; list-style-type:disc;">
