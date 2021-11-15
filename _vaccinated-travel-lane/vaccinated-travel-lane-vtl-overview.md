@@ -11,13 +11,13 @@ The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On 
 	<li style="line-height:1.5;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
-Travellers intending to leave Singapore to a VTL country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For all departure-related advisories, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.
+Travellers intending to leave Singapore to a VTL country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For all departure-related advisories, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page .
 
 <div id="Eligibility"></div>
 
 ### 1. Eligibility
 
-To be eligible for quarantine-free travel under the Vaccinated Travel Lane, travellers must fulfil the following criteria and the <a href="/vtl/conditions" target="_blank">Conditions</a> of the VTL. Otherwise, they should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.
+<b>Travellers must fulfil the following basic criteria and <a href="/vtl/conditions" target="_blank">conditions</a> of the VTL to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.
 
 <html>
 
@@ -92,7 +92,7 @@ input:checked + label + .content {
 <label for="title2">Criteria 2: Hold an Accepted Proof of Vaccination</label>
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">
-<p style="line-height:1.5; font-size:18px; margin-bottom:15px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality. If you are unable to obtain one of the accepted proofs of vaccination listed below, you will not be eligible for travel on the VTL.  </p>
+<p style="line-height:1.5; font-size:18px; margin-bottom:15px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality.</p>
  <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Mobile Applications</b></p>
 	    <ol style="margin-top:0px; list-style-type: decimal;">
 		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
