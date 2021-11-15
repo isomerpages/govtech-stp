@@ -3,6 +3,11 @@ title: Vaccinated Travel Lane (VTL) Overview
 permalink: /vtl/requirements-and-process
 ---
 
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;"><span style="color:red;font-size:18px;">Important Notice</span>
+
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Singapore will launch the Vaccinated Travel Lanes (VTLs) for <b>Finland, Indonesia, Malaysia and Sweden</b> from 29 November 2021 and will open for Vaccinated Travel Pass (VTP) applications from 22 November 2021. We will also launch the VTLs for <b>Qatar, Saudi Arabia and the United Arab Emirates</b> from 6 December 2021, and will open for VTP applications from 29 November 2021. We also intend to launch a VTL for <b>India</b>. More details will be announced when ready.</p>
+</div>
+
 The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL:
 <ol>
 	<li style="line-height:1.5;"><a href="#Eligibility">Eligibility</a></li>
@@ -11,7 +16,7 @@ The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On 
 	<li style="line-height:1.5;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
-Travellers intending to leave Singapore to a VTL country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For all departure-related advisories, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page .
+Travellers intending to <b>leave</b> Singapore to a VTL country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For all departure-related advisories, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page .
 
 <div id="Eligibility"></div>
 
@@ -95,9 +100,11 @@ input:checked + label + .content {
 <p style="line-height:1.5; font-size:18px; margin-bottom:15px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality.</p>
  <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Mobile Applications</b></p>
 	    <ol style="margin-top:0px; list-style-type: decimal;">
-		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
-		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
-		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a> (developed by the Government of Brunei)</li>
+		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore's <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
+		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Brunei Darussalam's <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a></li>
+		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT] Qatar’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">Tawtheeq</a></li>
+		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT] Saudi Arabia’s <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna</a></li>
+		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For entry into Singapore from 5 Dec 2021, 2359hrs, SGT] United Arab Emirates’ <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn</a></li>
 	    </ol>
 	    <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Vaccination Certificates</b><sup>^</sup></p>
 	    <ol style="margin-top:0px; list-style-type: decimal;">
