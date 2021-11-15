@@ -134,20 +134,18 @@ input:checked + label + .content {
 <label for="title3">Criteria 3: Fulfil Travel History & Designated VTL Flight Requirements</label>
 
 <div class="content" style="background-color:#edf4fa;">
-<p style="line-height:1.5; font-size:18px; " >Travellers must:
+	<p style="line-height:1.5; font-size:18px; " >Travellers must:</p>
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions below, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore, in the last 14 consecutive days before departure for Singapore.
 		<ol style="margin-top:0px; list-style-type: lower-roman;">
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Active VTL Countries/Regions] Australia, Brunei Darussalam, Canada, Denmark1, Germany, France2, Italy, the Netherlands3, the Republic of Korea, Spain4, Switzerland, the United Kingdom5 and the United States6</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT] Finland, India, Indonesia, Malaysia and Sweden</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT] Qatar, Saudi Arabia, the United Arab Emirates/li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT] Qatar, Saudi Arabia, the United Arab Emirates</li>
 			</ol>
 		</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL flight (list available in the in the <a href="/vtl/travel-checklist" target="_blank">VTL Traveller’s Checklist</a>)</li>
 	</ol>
-	</p>
-<p style="line-height:1.5; font-size:18px; ">A list of designated flights from the VTL countries/regions below is available in the <a href="/vtl/travel-checklist" target="_blank">VTL Traveller’s Checklist</a>.
-	</p>
+
 <p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
