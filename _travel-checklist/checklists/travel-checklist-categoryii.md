@@ -32,9 +32,8 @@ Travellers must take a PDT **within 2 days before departure** for Singapore, unl
 Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR</b> an Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
-- Reflects the date and result of the test.
-
-Handwritten negative PDT results are not accepted.
+- Reflects the date and result of the test and;
+- Is not handwritten.
 
 Travellers with difficulties getting a COVID-19 test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
 
@@ -99,12 +98,12 @@ To calculate the estimated SHN end-date, click <a href="/shn-calculator" target=
 During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. <a href="/health/shn#shn-compliance-checks" target="_blank">Click here for more information on SHN-related compliance matters</a>.
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>[Advisory for travellers serving SHN at home]</b> Travellers may serve SHN at their residence, with household members not sharing the same travel history, regardless of vaccination status. However, if travellers are residing with unvaccinated vulnerable household members, they are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members. If this is not feasible, travellers are advised to consider alternative accommodation.</p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">If sharing a place of residence with others, travellers should designate a specific bathroom to be used by themselves, and other household members to use another bathroom. If a single bathroom has to be shared, ensure that everyone practises good hygiene habits and disinfects the bathroom after each use.  These are some examples to help the household manage:
+<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>[Advisory for travellers serving SHN at home]</b> Travellers may serve SHN at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>
+	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:
 	<ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
 		<li style="font-size:16px; margin-top:5px; margin-bottom:0px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
-		<li style="font-size:16px; margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving SHN.</li>
+		<li style="font-size:16px; margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation.</li>
 	</ol>
 	</p>
 </div>
