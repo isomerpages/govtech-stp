@@ -45,7 +45,7 @@ Singapore <b>Long Term Pass Holders (e.g. Work Pass, Student’s Pass)</b> will 
 </ol></li>
 </ol>
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at any of the following accommodation:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 7-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at any of the following accommodation:
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Residence</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Self-sourced hotel; or</li>
