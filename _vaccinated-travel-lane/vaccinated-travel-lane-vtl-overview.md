@@ -158,14 +158,14 @@ input:checked + label + .content {
 <label for="title4">Criteria 4 [Foreign short- term visitors only]: COVID-19 Travel Insurance</label>
 
 <div class="content" style="background-color:#edf4fa;">
-<p style="line-height:1.5; font-size:18px;">>All short-term visitors travelling to Singapore under VTL, must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.</p>
+<p style="line-height:1.5; font-size:18px;">All short-term visitors travelling to Singapore under VTL, must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.</p>
 </div>
 
 <input type="checkbox" id="title5" />
 <label for="title5">Criteria 5 [Foreign short-term visitors only]: Travel Visa for Visa-required Travel Document Holders</label>
 
 <div class="content" style="background-color:#edf4fa;">
-<p style="line-height:1.5; font-size:18px;">>Foreign short term visitors holding travel documents that require a visa to enter Singapore, must apply for a visa. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.</p>
+<p style="line-height:1.5; font-size:18px;">Foreign short term visitors holding travel documents that require a visa to enter Singapore, must apply for a visa. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.</p>
 </div>
 </body>
 </html>
