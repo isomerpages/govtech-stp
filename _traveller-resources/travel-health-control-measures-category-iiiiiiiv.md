@@ -115,7 +115,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 	</li>
-	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test on Day 7 of SHN.</li></ol>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
 	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 2 days before departure from Malaysia</i></p>
 	<p></p>
 	</td>
