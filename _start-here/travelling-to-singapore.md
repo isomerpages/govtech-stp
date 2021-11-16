@@ -43,7 +43,7 @@ Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 ye
 <ol style="list-style-type:disc;">
 	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain<sup>4</sup>, Switzerland, the Republic of Korea, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 		<li style="line-height:1.5; margin-top:10px;">South Korea (applications open on 8 Nov 2021, 1000hrs, for entry into Singapore from 15 Nov 2021)</li>
-	<li style="line-height:1.5; margin-top:10px;">Finland, Malaysia and Sweden (applications open on 22 Nov 2021,  for entry into Singapore from 29 Nov 2021)</li>
+	<li style="line-height:1.5; margin-top:10px;">Finland, India, Indonesia, Malaysia, and Sweden (applications open on 22 Nov 2021,  for entry into Singapore from 29 Nov 2021)</li>
 	</ol>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
