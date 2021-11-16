@@ -2,7 +2,7 @@
 title: This Is A Test Page
 permalink: /thisisatestpage
 description: ""
-published: false
+published: true
 ---
 
 [You have arrived at a test page.]
