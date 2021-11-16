@@ -2,7 +2,6 @@
 title: Travelling to Singapore
 permalink: /arriving/overview
 ---
-
 Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangement, and the entry requirements and health controls of each Safe Travel Lane may differ depending on the traveller’s profile and travel history. Travellers can refer to the following sections on this page to determine the most relevant arrangement(s) to enter Singapore:
 - [Self Help Tool for Safe Travel Lanes and Entry Requirements](#selfhelptool)
 - [Listing of Safe Travel Lanes by Traveller Profile](#lanelist)
@@ -42,7 +41,7 @@ Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore fro
 Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane</a>.
 
 <ol style="list-style-type:disc;">
-	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
+	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain<sup>4</sup>, Switzerland, the Republic of Korea, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 		<li style="line-height:1.5; margin-top:10px;">South Korea (applications open on 8 Nov 2021, 1000hrs, for entry into Singapore from 15 Nov 2021)</li>
 	<li style="line-height:1.5; margin-top:10px;">Finland, Malaysia and Sweden (applications open on 22 Nov 2021,  for entry into Singapore from 29 Nov 2021)</li>
 	</ol>
