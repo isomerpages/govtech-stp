@@ -1,16 +1,11 @@
 ---
-title: This Is A Test Page
-permalink: /thisisatestpage
+title: This is Another Test Page
+permalink: /thisisatestpage2
 description: ""
 published: false
 ---
 
-[You have arrived at a test page.]
-
-
-### Version 2
-
-### Travel Health Control Measures for Work Pass Holders (for arrivals from 18 Nov 2021)
+### Version 3
 
 As a condition for entry into Singapore, pass holders with an approval under the Work Pass Holder General Lane (WPHL) must comply with the prevailing travel health control measures (e.g. Stay-Home Notice (SHN) and COVID-19 tests). Employers and employment agencies, which submitted the entry applications (“Submitters”), must pay for pass holders’ entry charges and ensure they comply with the measures. 
 
@@ -21,15 +16,14 @@ c) &nbsp; Not entering Singapore with their dependants
 
 For all other pass holders (work pass holders and their dependants), this page explains the travel health control measures that apply to them when travelling to Singapore. The measures are based on the pass holders' travel history, and will be stated on their entry approval letters. Please use the self-check tool below to determine the health measures (Category I/II/III/IV) that will apply to you.
 
-<table style="background-color:#f5f5f5">
+<table>
 <tbody>
-    <tr>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes</u></b></span><br><br>
-					<b> ➀</b> If the pass holder has visited multiple countries in the past 14 days before arriving in Singapore, note that: <b>The most stringent category out of all the countries/regions visited (excluding transit) will apply. See example at Step 1.</b>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>➁</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed in the tables below.
-										</p>
-					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
+<tr>
+<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes</u></b></span><br><br>
+<b> ➀</b> If the pass holder has visited multiple countries in the past 14 days before arriving in Singapore, note that: <b>The most stringent category out of all the countries/regions visited (excluding transit) will apply.</b> <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">E.g. A traveller who had travel history to both Category (I) and (II) countries/regions before departure, but transited in a Category (IV) country/region on the way to Singapore, will be subject to Category (II) measures.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
+<b>➁</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed in the tables below.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➂</b>All pass holders are not allowed to serve SHN or self-isolation in dormitories.<br/><br/>Submitter may refer to this <a href="https://sha.org.sg/stay-home-notice">list</a> (non-exhaustive) to book a hotel or serviced apartment for the pass holder. Please check if they can accommodate guests on SHN or self-isolation.</p>
 										<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➃</b>All pass holders entering under WPHL, regardless of travel history, must be <a href="/wphl/vaccination-requirements#vaccinated">fully vaccinated</a> before arrival except for the following groups:<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
@@ -40,23 +34,38 @@ For all other pass holders (work pass holders and their dependants), this page e
     </tr>
 	</tbody>
 		</table>
+		
+#### Country/Region Categories
 
-#### Step 1: Check the category of health measures that apply
+<p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><b>Click on each of the category below for details of the travel health control measures that apply.</b></p>
+<table>
+<tr>
+<td style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5; background-color:#f8f8f8;">	
+<p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat1"><b>Category 1 (Click here for Health Control Measures)</b></a>: <br>Hong Kong, Macao, Mainland China and Taiwan</p>
+</td>
+</tr>
+<tr>
+<td style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5; background-color:#f1f1f1;"><p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat2"><b>Category 2 (Click here for Health Control Measures)</b></a>: <br>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, Malaysia, Maldives, Malta, Myanmar, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Samoa, San Marino, Saudi Arabia, Slovakia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</p>
+<p style="margin-top:10px; margin-bottom:10px; font-size:14px; line-height:1.5;">	
+<sup>1</sup>Including the Faroe Islands and Greenland.<br>
+<sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.<br>
+<sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.<br>
+<sup>4</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.<br>
+<sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
+</td>
+</tr>
+<tr>
+<td style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;background-color:#f8f8f8;">
+<p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat3"><b>Category 3 (Click here for Health Control Measures)</b></a>: <br>Argentina, Bangladesh, Belarus, Brazil, Colombia, Estonia, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papua New Guinea, the Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Thailand and Ukraine</p></td>
+</tr>
+<tr>
+	<td style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;background-color:#f1f1f1;">
+<p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat4"><b>Category 4 (Click here for Health Control Measures)</b></a>: <br>All other countries</p></td></tr>
+</table>
 
-Select the country/region of departure in the checker tool below to obtain the category of health measures that you are subjected to.
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:20px; line-height:1.5;"><b>[If there are more than one countries/regions in your 14-day travel history (excluding transits)]</b></p>
-<ol style="padding-left:20px; font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:decimal;"><li>Check your first country/region: Select country/region, and click "<i>Show Results</i>"</li>
-	<li>Select "<i>Edit Fields</i>"</li>
-	<li>Select second country/region and click "<i>Show Results</i>"</li>
-		<li>Repeat the steps above to find out the category of health measures for all countries/regions of travel in your 14-day travel history</li>
-	<li><b>The most stringent category out of all the countries/regions visited (excluding transit) will apply.</b> <p>E.g. A traveller who had travel history to both Category (I) and (II) countries/regions before departure, but transited in a Category (IV) country/region on the way to Singapore, will be subject to Category (II) measures.</p> </li>
-	</ol>
+#### Travel Health Control Measures
 
-
-<iframe src="https://www.checkfirst.gov.sg/c/906e4903-c164-4efc-80f8-e8994741dbe7" style="width:100%;height:500px"></iframe>
-
-#### Step 2: Read more about the different categories of health measures here
 
 Scroll to the relevant category table below and select the health measures according to your pass type.
 <div id="cat1"></div>
