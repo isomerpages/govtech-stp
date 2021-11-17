@@ -681,9 +681,9 @@ For all other pass holders (work pass holders and their dependants), this page e
 <tr>
 									       <td style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;background-color:#f8f8f8;">
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><a href="#cat3"><b>Category 3</b></a>: <br>Argentina, Bangladesh, Belarus, Brazil, Colombia, Estonia, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papua New Guinea, the Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Thailand and Ukraine</p></td>
-															</tr>
-															<tr>
-															<td style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;background-color:#f1f1f1;">
+</tr>
+<tr>
+	<td style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;background-color:#f1f1f1;">
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><a href="#cat4"><b>Category 4</b></a>: <br>All other countries</p></td></tr>
 </tbody>
 </table>
