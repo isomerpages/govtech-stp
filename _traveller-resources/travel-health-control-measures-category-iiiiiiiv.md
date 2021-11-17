@@ -2,9 +2,7 @@
 title: Travel Health Control Measures (Category I/II/III/IV)
 permalink: /shn-and-swab-summary
 ---
-<meta name="robots" content="noindex" />
-
-<i>[<span style="color:red;">!!</span> Readers who have arrived at this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page. Travellers who do not meet the entry requirements may be disallowed entry to Singapore.]</i>
+<i>[<span style="color:red;">!!</span> Readers who have arrived at this page directly from a search engine or are new to the entry requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page, as not all SafeTravel Lanes use this Category I/II/III/IV framework. Travellers who do not meet the entry requirements may be disallowed from entering Singapore.]</i>
 
 ### Overview
 
@@ -14,7 +12,7 @@ This page provides a summary of the four categories of travel health control mea
 - Familial Ties Lane
 - Student’s Pass Holder Lane
 
-For details on the requirements of SafeTravel Lanes not listed above, return to [this menu](/arriving/overview) to find a SafeTravel Lane that is applicable to you.
+<b>The health measures on this page are not applicable to the Vaccinated Travel Lane and other lanes not listed above.</b> For details on the requirements of SafeTravel Lanes not listed above, return to [this menu](/arriving/overview) to find a SafeTravel Lane that is applicable to you.
 
 <table style="background-color:#f5f5f5">
 <tbody>
@@ -54,16 +52,16 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (I) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-1">Click here</a> for a step-by step Category (I) Traveller’s Checklist]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (I) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-1">Click here</a> for a step-by step Category (I) Traveller’s Checklist]</i></span></th>
 </tr>
 <tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Hong Kong, Macao, Mainland China, Taiwan</b></th>
 </tr>
 </thead>
 <tbody>
 	<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
+<td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ul style="margin-top: 0px;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.changiairport.com/#/">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”) upon arrival</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 24 hours)</li>
@@ -78,10 +76,10 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (II) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2">Click here</a> for a step-by step Category (II) Traveller’s Checklist]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (II) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2">Click here</a> for a step-by step Category (II) Traveller’s Checklist]</i></span></th>
 </tr>
 <tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, Malaysia, Maldives, Malta, Myanmar, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Samoa, San Marino, Saudi Arabia, Slovakia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</b>
 	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
@@ -93,7 +91,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 </thead>
 <tbody>
 	<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
+<td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ol style="margin-top:0px; list-style-type: decimal;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days before departure</b> <!-- at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> --> and obtain a copy of the negative COVID-19 test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -116,7 +114,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
-	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 2 days before departure from Malaysia</i></p>
+	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 test within 2 days before departure from Malaysia</i></p>
 	<p></p>
 	</td>
 	</tr>
@@ -128,16 +126,16 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (III) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-3">Click here</a> for a step-by-step Category (III) Traveller’s Checklist]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (III) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-3">Click here</a> for a step-by-step Category (III) Traveller’s Checklist]</i></span></th>
 </tr>
 <tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Argentina, Bangladesh, Belarus, Brazil, Colombia, Estonia, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papa New Guinea, Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Thailand, Ukraine</b></th>
 </tr>
 </thead>
 <tbody>
 	<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
+<td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ol style="margin-top:0px; list-style-type: decimal;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days before departure</b> and obtain a copy of the negative COVID-19 test report that: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -171,16 +169,16 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (IV) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-4">Click here</a> for step-by-step Category (IV) Traveller’s Checklist]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (IV) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-4">Click here</a> for step-by-step Category (IV) Traveller’s Checklist]</i></span></th>
 </tr>
 <tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions</b></th>
 </tr>
 </thead>
 <tbody>
 	<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
+<td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ol style="margin-top:0px; list-style-type: decimal;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days</b> before departure and obtain a copy of the negative COVID-19 test report that: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -206,7 +204,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	</table>
 	
 	
-<div id="before"></div>
+<div></div>
 
 ### Categories of Travel Health Control measures (for arrivals before 18 Nov 2021, 2359H)
 
@@ -218,16 +216,16 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (I) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-1">Click here</a> for a step-by step Category (I) Traveller’s Checklist]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (I) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-1">Click here</a> for a step-by step Category (I) Traveller’s Checklist]</i></span></th>
 </tr>
 <tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Hong Kong, Macao, Mainland China, Taiwan</b></th>
 </tr>
 </thead>
 <tbody>
 	<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
+<td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ul style="margin-top: 0px;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.changiairport.com/#/">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”) upon arrival</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 24 hours)</li>
@@ -242,10 +240,10 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (II) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2">Click here</a> for a step-by step Category (II) Traveller’s Checklist]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (II) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2">Click here</a> for a step-by step Category (II) Traveller’s Checklist]</i></span></th>
 </tr>
 <tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Egypt, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, Indonesia, Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, Malaysia, Maldives, Malta, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Samoa, San Marino, Saudi Arabia, Slovakia, South Africa, Spain, Sweden, Switzerland, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</b>
 	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
@@ -257,7 +255,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 </thead>
 <tbody>
 	<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
+<td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ol style="margin-top:0px; list-style-type: decimal;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days before departure</b> <!-- at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> --> and obtain a copy of the negative COVID-19 test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -292,16 +290,16 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (III) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-3">Click here</a> for a step-by-step Category (III) Traveller’s Checklist]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (III) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-3">Click here</a> for a step-by-step Category (III) Traveller’s Checklist]</i></span></th>
 </tr>
 <tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Argentina, Bangladesh, Belarus, Brazil, Chile, Colombia, Estonia, Ethiopia, India, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Myanmar, Nepal, Oman, Pakistan, Papua New Guinea, Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Sri Lanka, Thailand, Ukraine</b></th>
 </tr>
 </thead>
 <tbody>
 	<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
+<td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ol style="margin-top:0px; list-style-type: decimal;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days before departure</b> and obtain a copy of the negative COVID-19 test report that: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -335,16 +333,16 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (IV) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-4">Click here</a> for step-by-step Category (IV) Traveller’s Checklist]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (IV) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-4">Click here</a> for step-by-step Category (IV) Traveller’s Checklist]</i></span></th>
 </tr>
 <tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions</b></th>
 </tr>
 </thead>
 <tbody>
 	<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
+<td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ol style="margin-top:0px; list-style-type: decimal;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days</b> before departure and obtain a copy of the negative COVID-19 test report that: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
