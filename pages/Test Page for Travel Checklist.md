@@ -8,7 +8,7 @@ description: ""
 ### Travel Checklist – Category (I) Travel History
 
 
-<p style="font-size:20px;"><span style="color:green; font-size:24px;"><b>&#10004;</b></span> &nbsp; For travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore.</p>
+<p style="font-size:20px;"><span style="color:green; font-size:32px;"><b>&#10004;</b></span> &nbsp; For travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore.</p>
 
 <b>&#10006;</b> &nbsp; Not for travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane.
 
