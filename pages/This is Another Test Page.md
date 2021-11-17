@@ -1,6 +1,6 @@
 ---
 title: This is Another Test Page
-permalink: /thisistestpage2
+permalink: /thisisatestpage2
 description: ""
 published: true
 ---
