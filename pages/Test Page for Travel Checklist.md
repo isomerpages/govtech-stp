@@ -8,9 +8,9 @@ published: true
 
 ### Travel Checklist – Category (I) Travel History
 
-<p style="font-size:18px;"><span style="font-size:40px; color:green;"><b>&#10003;</b></span> &nbsp; For travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore.</p>
+<p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span> &nbsp; For travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore.</p>
 
-<p style="font-size:18px; line-height:1.5;"><span style="font-size:40px; color:red;font-weight:900;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore via: </p>
+<p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore via: </p>
 <ol style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc; padding-left:32px;">
 	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Work Pass Holder General Lane (WPHL)</li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Air Travel Pass (ATP)</li>
