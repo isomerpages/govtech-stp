@@ -9,6 +9,7 @@ published: true
 ### Travel Checklist – Category (I) Travel History
 
 <span style="color:green; font-size:50px;">&#10003;</span>
+<span style="color:red; font-size:50px;">&#10005;</span>
 
 <p style="font-size:18px;"><span style="font-size:28px;"><b>&#10004;&#65039;</b></span> &nbsp; For travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore.</p>
 
