@@ -23,7 +23,7 @@ description: ""
 
 <p  style="font-size:18px;"><span style="color:blue; font-size:40px;"><b>&#8634;</b></span> &nbsp; Return to <a href="/shn-and-swab-summary" target="_blank">this country-listing</a> if you are unsure if you come under this travel history category. </p>
 
-<p  style="font-size:18px;"><span style="color:black; font-size:32px;"><b>&#128424;&#65039;</b></span> &nbsp;Travellers may print out this page and indicate with a "&#9745;" in the box (&#9744;) for completed activities.</p>
+<p  style="font-size:18px;"><span style="color:black; font-size:32px;"><b>&#128424;&#65039;</b></span> &nbsp;Travellers may "&#9745;" against the box (&#9744;) for completed activities.</p>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 <p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">&#9744;  &nbsp;<b>(A) Apply for Entry Approval</b><br><br>
