@@ -8,9 +8,18 @@ description: ""
 ### Travel Checklist – Category (I) Travel History
 
 
-<p style="font-size:18px;"><span style="font-size:32px;"><b>&#10004;&#65039;</b></span> &nbsp; For travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore.</p>
+<p style="font-size:18px;"><span style="font-size:28px;"><b>&#10004;&#65039;</b></span> &nbsp; For travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore.</p>
 
-<p style="font-size:18px;"><span style="font-size:32px;"><b>&#10060;</b></span> &nbsp; Not for travellers arriving in Singapore via the <b>Work Pass Holder General Lane (WPHL)</b>, <b>Air Travel Pass (ATP)</b>, <b>Periodic Commuting Arrangement (PCA)</b>, <b>Reciprocal Green Lane (RGL)</b>, <b>Vaccinated Travel Lane (VTL)</b> or <b>Death and Critical Illness Emergency Lane (DCEV)</b>. Please refer to the lane specific requirements or approval letters for instructions.</p>
+<p style="font-size:18px;"><span style="font-size:28px;"><b>&#10060;</b></span> &nbsp; Not for travellers arriving in Singapore via: </p>
+<ol style="font-size:18px; list-style-type:disc; padding-left:40px;">
+	<li style="margin:30px; font-size:18px; line-height:1.5px;">Work Pass Holder General Lane (WPHL)</li>
+		<li style="margin:30px; font-size:18px; line-height:1.5px;">Air Travel Pass (ATP)</li>
+		<li style="margin:30px; font-size:18px; line-height:1.5px;">Periodic Commuting Arrangement (PCA)</li>
+		<li style="margin:30px; font-size:18px; line-height:1.5px;">Reciprocal Green Lane (RGL)</li>
+		<li style="margin:30px; font-size:18px; line-height:1.5px;">Vaccinated Travel Lane (VTL)</li>
+		<li style="margin:30px; font-size:18px; line-height:1.5px;">Death and Critical Illness Emergency Lane (DCEV)</li>
+	</ol>
+<p style="font-size:18px;">Please refer to the lane specific requirements or approval letters for instructions.</p>
 
 <p  style="font-size:18px;"><span style="color:blue; font-size:40px;"><b>&#8634;</b></span> &nbsp; Return to <a href="/shn-and-swab-summary" target="_blank">this country-listing</a> if you are unsure if you come under this travel history category. </p>
 
