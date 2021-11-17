@@ -59,7 +59,7 @@ Select the country/region of departure in the checker tool below to obtain the c
 #### Step 2: Read more about the different categories of health measures here
 
 Scroll to the relevant category table below and select the health measures according to your pass type.
-
+<div id="cat1"></div>
 <table>
 <tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (I) Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
@@ -186,7 +186,7 @@ input:checked + label + .content {
 	</table><br>
 
 <!--Category 2-->
-
+<div id="cat2"></div>
 <table>
 <tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (II) Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
@@ -344,7 +344,7 @@ input:checked + label + .content {
 <br><br>
 
 <!--Cat3 countries-->
-
+<div id="cat3"></div>
 <table>
 <tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (III) Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
@@ -497,6 +497,7 @@ input:checked + label + .content {
 	</table>
 <br><br>
 <!--Cat4 countries-->
+<div id="cat4"></div>
 <table>
 <tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (IV) Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
