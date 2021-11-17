@@ -2,7 +2,7 @@
 title: This is Another Test Page
 permalink: /thisistestpage2
 description: ""
-published: false
+published: true
 ---
 
 ### Version 3
