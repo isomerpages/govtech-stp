@@ -137,7 +137,7 @@ input:checked + label + .content {
 <div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.5; font-size:18px; " >Travellers must:</p>
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore in the last 14 consecutive days before departure for Singapore.
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 14 consecutive days before departure for Singapore.
 		<ol style="margin-top:0px; list-style-type: lower-roman;">
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Active VTL Countries/Regions]</b> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Finland, India, Indonesia, Malaysia and Sweden</li>
