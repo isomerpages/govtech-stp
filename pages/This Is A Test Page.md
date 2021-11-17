@@ -641,15 +641,14 @@ c) &nbsp; Not entering Singapore with their dependants
 
 For all other pass holders (work pass holders and their dependants), this page explains the travel health control measures that apply to them when travelling to Singapore. The measures are based on the pass holders' travel history, and will be stated on their entry approval letters. Please use the self-check tool below to determine the health measures (Category I/II/III/IV) that will apply to you.
 
-<table style="background-color:#f5f5f5">
+<table>
 <tbody>
-    <tr>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes</u></b></span><br><br>
-					<b> ➀</b> If the pass holder has visited multiple countries in the past 14 days before arriving in Singapore, note that: <b>The most stringent category out of all the countries/regions visited (excluding transit) will apply.</b> <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">E.g. A traveller who had travel history to both Category (I) and (II) countries/regions before departure, but transited in a Category (IV) country/region on the way to Singapore, will be subject to Category (II) measures.</p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>➁</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed in the tables below.
-										</p>
-					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
+<tr>
+<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes</u></b></span><br><br>
+<b> ➀</b> If the pass holder has visited multiple countries in the past 14 days before arriving in Singapore, note that: <b>The most stringent category out of all the countries/regions visited (excluding transit) will apply.</b> <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">E.g. A traveller who had travel history to both Category (I) and (II) countries/regions before departure, but transited in a Category (IV) country/region on the way to Singapore, will be subject to Category (II) measures.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
+<b>➁</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed in the tables below.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➂</b>All pass holders are not allowed to serve SHN or self-isolation in dormitories.<br/><br/>Submitter may refer to this <a href="https://sha.org.sg/stay-home-notice">list</a> (non-exhaustive) to book a hotel or serviced apartment for the pass holder. Please check if they can accommodate guests on SHN or self-isolation.</p>
 										<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➃</b>All pass holders entering under WPHL, regardless of travel history, must be <a href="/wphl/vaccination-requirements#vaccinated">fully vaccinated</a> before arrival except for the following groups:<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
@@ -687,5 +686,4 @@ For all other pass holders (work pass holders and their dependants), this page e
 <tr>
 	<td style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;background-color:#f1f1f1;">
 <p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat4"><b>Category 4</b></a>: <br>All other countries</p></td></tr>
-</tbody>
 </table>
