@@ -12,7 +12,7 @@ description: ""
 
 <p style="font-size:20px;"><span style="font-size:32px;"><b>&#10060;</b></span> &nbsp; Not for travellers arriving in Singapore via the <b>Work Pass Holder General Lane (WPHL)</b>, <b>Air Travel Pass (ATP)</b>, <b>Periodic Commuting Arrangement (PCA)</b>, <b>Reciprocal Green Lane (RGL)</b>, <b>Vaccinated Travel Lane (VTL)</b> or <b>Death and Critical Illness Emergency Lane (DCEV)</b>. Please refer to the lane specific requirements or approval letters for instructions.</p>
 
-<p  style="font-size:20px;"><span style="color:blue; font-size:32px;"><b>&#8634;</b></span> &nbsp; Return to <a href="/shn-and-swab-summary" target="_blank">this country-listing</a> if you are unsure if you come under this travel history category. </p>
+<p  style="font-size:20px;"><span style="color:blue; font-size:40px;"><b>&#8634;</b></span> &nbsp; Return to <a href="/shn-and-swab-summary" target="_blank">this country-listing</a> if you are unsure if you come under this travel history category. </p>
 
 <p  style="font-size:20px;"><span style="color:black; font-size:32px;"><b>&#128424;&#65039;</b></span> &nbsp;Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.</p>
 
