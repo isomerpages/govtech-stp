@@ -114,7 +114,7 @@ This page provides a summary of the four categories of travel health control mea
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
-	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 2 days before departure from Malaysia</i></p>
+	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 test within 2 days before departure from Malaysia</i></p>
 	<p></p>
 	</td>
 	</tr>
