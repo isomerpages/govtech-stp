@@ -671,5 +671,5 @@ For all other pass holders (work pass holders and their dependants), this page e
 	<sup>4</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.<br>
 	<sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
 
-<a href="#cat3"><b>Category 3</b></a>: Argentina, Bangladesh, Belarus, Brazil, Colombia, Estonia, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papua New Guinea, the Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Thailand and Ukraine
-<a href="#cat3"><b>Category 3</b></a>: All other countries
+<p><a href="#cat3"><b>Category 3</b></a>: Argentina, Bangladesh, Belarus, Brazil, Colombia, Estonia, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papua New Guinea, the Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Thailand and Ukraine</p>
+<p><a href="#cat3"><b>Category 3</b></a>: All other countries</p>
