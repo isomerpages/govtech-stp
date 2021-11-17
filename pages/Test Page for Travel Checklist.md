@@ -28,7 +28,7 @@ published: true
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
-<p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:14px; height:14px; vertical-align:middle;" id="1A" name="1A" value="EntryApproval"><label for="1A">&nbsp;&nbsp;<b>(A) Apply for Entry Approval</b></label><br><br>
+<p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:22px; height:22px; vertical-align:middle;" id="1A" name="1A" value="EntryApproval"><label for="1A">&nbsp;&nbsp;<b>(A) Apply for Entry Approval</b></label><br><br>
 <span style="color:red;">&#10006;</span> &nbsp;<b>Singapore Citizens and Permanent Residents need not apply</b>.<br><br>All other travellers must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the <a href="/arriving/overview" target="_blank" >“Travelling to Singapore”</a> page.</p>
 
 <p style="padding: 10px; margin: 20px 0px 20px 0px; line-height:1.5; background:#f0f0f0; font-size:18px;"><input type="checkbox" style="width:18px; height:18px;vertical-align:middle;" id="1B" name="1B" value="EntryVisa"><label for="1B">&nbsp;&nbsp;<b>(B) Apply for Entry Visa (For holder of passport issued by visa-required country/region)</b></label><br><br>
