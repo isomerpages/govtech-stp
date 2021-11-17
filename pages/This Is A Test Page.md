@@ -666,11 +666,11 @@ For all other pass holders (work pass holders and their dependants), this page e
 <table>
 <tr>
 <td style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5; background-color:#f8f8f8;">	
-<p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat1"><b>Category 1</b></a>: <br>Hong Kong, Macao, Mainland China and Taiwan</p>
+<p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat1"><b>Category 1 (Click here for Health Control Measures)</b></a>: <br>Hong Kong, Macao, Mainland China and Taiwan</p>
 </td>
 </tr>
 <tr>
-<td style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5; background-color:#f1f1f1;"><p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat2"><b>Category 2</b></a>: <br>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, Malaysia, Maldives, Malta, Myanmar, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Samoa, San Marino, Saudi Arabia, Slovakia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</p>
+<td style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5; background-color:#f1f1f1;"><p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat2"><b>Category 2 (Click here for Health Control Measures)</b></a>: <br>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, Malaysia, Maldives, Malta, Myanmar, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Samoa, San Marino, Saudi Arabia, Slovakia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</p>
 <p style="margin-top:10px; margin-bottom:10px; font-size:14px; line-height:1.5;">	
 <sup>1</sup>Including the Faroe Islands and Greenland.<br>
 <sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.<br>
@@ -681,9 +681,9 @@ For all other pass holders (work pass holders and their dependants), this page e
 </tr>
 <tr>
 <td style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;background-color:#f8f8f8;">
-<p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat3"><b>Category 3</b></a>: <br>Argentina, Bangladesh, Belarus, Brazil, Colombia, Estonia, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papua New Guinea, the Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Thailand and Ukraine</p></td>
+<p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat3"><b>Category 3 (Click here for Health Control Measures)</b></a>: <br>Argentina, Bangladesh, Belarus, Brazil, Colombia, Estonia, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papua New Guinea, the Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Thailand and Ukraine</p></td>
 </tr>
 <tr>
 	<td style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;background-color:#f1f1f1;">
-<p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat4"><b>Category 4</b></a>: <br>All other countries</p></td></tr>
+<p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><a href="#cat4"><b>Category 4 (Click here for Health Control Measures)</b></a>: <br>All other countries</p></td></tr>
 </table>
