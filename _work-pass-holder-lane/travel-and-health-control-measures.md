@@ -102,7 +102,7 @@ On this page you will find the following:
 	</table>
 	<br>
 </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the on-arrival test ($160 including GST) <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the on-arrival test ($125 including GST) <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to self-isolate in one of the following accommodation until they get a negative test result: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels, serviced apartments, hostels or Employment Agencies' residential units. Please ensure these places can accommodate persons on SHN). </li>
@@ -142,7 +142,7 @@ On this page you will find the following:
 	</table>
 	<br>
 </li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the on-arrival test ($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the on-arrival test ($125 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to self-isolate until they get a negative test result. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</li>

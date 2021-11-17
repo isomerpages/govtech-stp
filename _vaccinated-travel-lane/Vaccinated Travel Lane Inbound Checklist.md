@@ -2,7 +2,6 @@
 title: Vaccinated Travel Lane Inbound Checklist
 permalink: /vtl/travel-checklist
 ---
-
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>This page contains is a checklist for VTL travellers who already understand the entry requirements into Singapore via the Vaccinated Travel Lane (VTL). If you are not clear on the VTL requirements, please refer to the VTL Overview page <a href="/vtl/requirements-and-process" target="_blank">here</a>  before reading this checklist.</b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>Travellers intending to travel <u>out</u> of Singapore to a VTL country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For useful information regarding preparing to depart from Singapore (e.g. obtaining pre-departure tests, vaccination certificates), please visit the, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</b></span></p>
@@ -19,7 +18,7 @@ This step-by-step checklist is for all VTL travellers entering Singapore, includ
 
 *“Short-term visitors” mentioned in this page refers to travellers who are not SC/PR or hold any Singapore-issued Long-Term Pass (e.g. Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration & Checkpoints Authority).*
 
-Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
+Travellers can check the box **(&#9744;)** for completed activities.
 
 ### Stage 1: Pre-Departure for Singapore
 
@@ -196,7 +195,7 @@ Travellers should **defer their travels** if they:
 
 &#9744;  <i><b>I) Registration and Pre-payment for On-Arrival COVID-19 PCR Test</b></i>
 
-All travellers, except those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year), should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pre-pay for their on-arrival COVID-19 PCR test here</a>. The test costs $160 including GST. Failing which, travellers will pay for the test on the spot during arrival, and should expect additional delays in the administration of the test and departure from the checkpoint.
+All travellers, except those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year), should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pre-pay for their on-arrival COVID-19 PCR test here</a>. The test costs $125 including GST. Failing which, travellers will pay for the test on the spot during arrival, and should expect additional delays in the administration of the test and departure from the checkpoint.
 
 &#9744;  <i><b>J) [Short term visitors only] Contact Tracing App/Token</b></i>
 

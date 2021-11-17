@@ -8,7 +8,7 @@ permalink: /travel-checklist/category-1
 
 This checklist is suitable for travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">this country-listing</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
 
-Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
+Travellers can check the box **(&#9744;)** for completed activities.
 
 ### Stage 1: Pre-Departure for Singapore
 
@@ -37,7 +37,7 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 Travellers who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay</a> for their on-arrival COVID-19 Polymerase Chain Reaction test (S$160)</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay</a> for their on-arrival COVID-19 Polymerase Chain Reaction test (S$125)</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
 
@@ -101,5 +101,4 @@ Travellers who test positive for COVID-19 must receive <a href="/health/covidtre
 
 After SHN, travellers may go about their activities but <b>must</b> comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a> including using the TraceTogether app, which aids contact-tracing for COVID-19. 
 
-Some activities in Singapore may require proof of vaccination. If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a> 
-
+Some activities in Singapore may require proof of vaccination. If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a>
