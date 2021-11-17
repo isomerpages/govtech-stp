@@ -661,7 +661,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 	</tbody>
 		</table>
 		
-### Country Categories
+### Country/Region Categories
 #### (Click on each of the category below for details of the travel health control measures that apply.)
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><a href="#cat1"><b>Category 1</b></a>: Hong Kong, Macao, Mainland China and Taiwan</p>
