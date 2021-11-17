@@ -661,7 +661,8 @@ For all other pass holders (work pass holders and their dependants), this page e
 	</tbody>
 		</table>
 		
-### Country Categories (Click on each of the category below for details of the travel health control measures that apply.)
+### Country Categories
+#### (Click on each of the category below for details of the travel health control measures that apply.)
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><a href="#cat1"><b>Category 1</b></a>: Hong Kong, Macao, Mainland China and Taiwan</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><a href="#cat2"><b>Category 2</b></a>: Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, Malaysia, Maldives, Malta, Myanmar, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Samoa, San Marino, Saudi Arabia, Slovakia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</p>
