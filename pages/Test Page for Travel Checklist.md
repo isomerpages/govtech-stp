@@ -33,3 +33,4 @@ published: true
 
 <p style="padding: 10px; margin: 20px 0px 20px 0px; line-height:1.5; background:#f0f0f0; font-size:18px;"><input type="checkbox" id="1B" name="1B" value="EntryVisa"><label for="1A">&nbsp;&nbsp;<b>(B) Apply for Entry Visa (For holder of passport issued by visa-required country/region)</b></label><br><br>
 Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa.<br><br> Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.</p>
+
