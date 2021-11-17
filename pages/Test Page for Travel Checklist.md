@@ -12,7 +12,7 @@ published: true
 <p style="font-size:18px;"><span style="font-size:28px;"><b>&#10004;&#65039;</b></span> &nbsp; For travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore.</p>
 
 <p style="font-size:18px;"><span style="font-size:28px;"><b>&#10060;</b></span> &nbsp; Not for travellers arriving in Singapore via: </p>
-<ol style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc; padding-left:50px;">
+<ol style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc; padding-left:32px;">
 	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Work Pass Holder General Lane (WPHL)</li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Air Travel Pass (ATP)</li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Periodic Commuting Arrangement (PCA)</li>
