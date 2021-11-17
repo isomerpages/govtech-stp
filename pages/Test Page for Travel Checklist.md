@@ -2,6 +2,7 @@
 title: Test Page for Travel Checklist
 permalink: /testpageforchecklist
 description: ""
+published: false
 ---
 <i>Readers who have arrived on this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview" target="_blank" >“Travelling to Singapore”</a> page. Travellers who do not meet the entry requirements may be turned away from Singapore. </i>
 
