@@ -11,7 +11,8 @@ permalink: /FAQ/tech
 3. [Receipts and Approval Letters](#receiptandapproval)
 4. [Traveller Details](#TravellerDetails) 
 5. [Document Uploads](#upload)
-6. [Other General Application Issues](#GenAppIssues) 
+6. [Digitally Verifiable Vaccination Certificate and QR Code Issues](/vtl/faq#vaxcert)
+7. [Other General Application Issues](#GenAppIssues) 
 
 <div id="entrydates"></div>
 
