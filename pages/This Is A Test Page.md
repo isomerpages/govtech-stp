@@ -644,7 +644,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 <tbody>
     <tr>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes</u></b></span><br><br>
-					<b> ➀</b> If the pass holder has visited multiple countries in the past 14 days before arriving in Singapore, note that: <b>The most stringent category out of all the countries/regions visited (excluding transit) will apply. See example at Step 1.</b>
+					<b> ➀</b> If the pass holder has visited multiple countries in the past 14 days before arriving in Singapore, note that: <b>The most stringent category out of all the countries/regions visited (excluding transit) will apply.</b> <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">E.g. A traveller who had travel history to both Category (I) and (II) countries/regions before departure, but transited in a Category (IV) country/region on the way to Singapore, will be subject to Category (II) measures.</p>
 	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➁</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed in the tables below.
 										</p>
