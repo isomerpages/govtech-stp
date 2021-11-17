@@ -12,13 +12,13 @@ published: true
 <p style="font-size:18px;"><span style="font-size:28px;"><b>&#10004;&#65039;</b></span> &nbsp; For travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore.</p>
 
 <p style="font-size:18px;"><span style="font-size:28px;"><b>&#10060;</b></span> &nbsp; Not for travellers arriving in Singapore via: </p>
-<ol style="margin-top:30px; margin-bottom:20px; font-size:18px; list-style-type:disc; padding-left:50px;">
-	<li style="margin-top:10px; margin-bottom:30px; font-size:18px; line-height:1.5;">Work Pass Holder General Lane (WPHL)</li>
-		<li style="margin-top:10px; margin-bottom:30px; font-size:18px; line-height:1.5;">Air Travel Pass (ATP)</li>
-		<li style="margin-top:10px; margin-bottom:30px; font-size:18px; line-height:1.5;">Periodic Commuting Arrangement (PCA)</li>
-		<li style="margin-top:10px; margin-bottom:30px; font-size:18px; line-height:1.5;">Reciprocal Green Lane (RGL)</li>
-		<li style="margin-top:10px; margin-bottom:30px; font-size:18px; line-height:1.5;">Vaccinated Travel Lane (VTL)</li>
-		<li style="margin-top:10px; margin-bottom:30px; font-size:18px; line-height:1.5;">Death and Critical Illness Emergency Lane (DCEV)</li>
+<ol style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc; padding-left:50px;">
+	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Work Pass Holder General Lane (WPHL)</li>
+		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Air Travel Pass (ATP)</li>
+		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Periodic Commuting Arrangement (PCA)</li>
+		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Reciprocal Green Lane (RGL)</li>
+		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Vaccinated Travel Lane (VTL)</li>
+		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Death and Critical Illness Emergency Lane (DCEV)</li>
 	</ol>
 <p style="font-size:18px;">Please refer to the specific requirements of each lane or approval letters for instructions.</p>
 
