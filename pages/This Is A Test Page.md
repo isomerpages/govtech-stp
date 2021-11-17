@@ -662,7 +662,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 		
 ### Country/Region Categories
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>Click on each of the category below for details of the travel health control measures that apply.</b></p>
+<p style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5;"><b>Click on each of the category below for details of the travel health control measures that apply.</b></p>
 <table>
 <tr>
 <td style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.5; background-color:#f8f8f8;">	
