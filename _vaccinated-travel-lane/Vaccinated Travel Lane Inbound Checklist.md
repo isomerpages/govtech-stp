@@ -122,11 +122,6 @@ You must obtain any of the following acceptable proof of vaccination, or you wil
 	</tbody>
 	</table>
 
-
-
-
-
-
 Frequently asked questions regarding vaccination proof can be found <a href="/vtl/faq#VacReq" target="_blank">here</a>.
 
 &#9744;  <i><b>B) [Short-Term Visitors and Long-Term Pass Holders only] Apply for Vaccinated Travel Pass (VTP) </b></i>
@@ -135,7 +130,7 @@ All short-term visitors and long-term pass holders must apply for a VTP. The VTP
 
 Unvaccinated children aged 12 and below in this calendar year are eligible to enter Singapore on the VTL without applying for a VTP (e.g. a child turning 12 this year is eligible). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL traveller.
 
-&#9744;  <i><b>C) [If required] Application for Entry Visas for Short Term Visitors</b></i>
+&#9744;  <i><b>C) [If travel document is issued by a country/region that requires an entry visa] Application for Entry Visas for Short Term Visitors</b></i>
 
 Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.
 
@@ -145,12 +140,12 @@ To qualify for the VTL quarantine-free travel health protocols, travellers must 
 			      
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions listed below, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL flight (list below reflecting respective airlines’ websites)</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL flight  Please check the websites of the respective airlines for details of the VTL flights available.</li>
 			      </ol>
 <table>
 <thead>
 <tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width:400px;"><b>Airlines Operating Designated VTL Flights to Singapore*</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width:400px;"><b>Airlines Operating Designated VTL Flights to Singapore*<br>*List will be regularly updated</b></th>
 	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;"><b>VTL Countries/Regions</b></th>
 </tr>
 </thead>
@@ -260,7 +255,7 @@ Travellers should **defer their travels** if they:
 
 &#9744;  <i><b>I) Registration and Pre-payment for On-Arrival COVID-19 PCR Test</b></i>
 
-All travellers, except those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year), should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pre-pay for their on-arrival COVID-19 PCR test here</a>. The test costs $125 including GST. Failing which, travellers will pay for the test on the spot during arrival, and should expect additional delays in the administration of the test and departure from the checkpoint.
+All travellers, except those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year), should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pre-pay for their on-arrival COVID-19 PCR test here</a>. The test costs $125 including GST. Failing which, travellers will pay for the test on the spot during arrival, and may experience delays in the administration of the test and departure from the checkpoint.
 
 &#9744;  <i><b>J) [Short term visitors only] Contact Tracing App/Token</b></i>
 
@@ -324,9 +319,11 @@ Travellers who test positive for COVID-19 are required to receive <a href="/heal
 
 &#9744;  <i><b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></i>
 
-Travellers must comply with the <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
+As part of Singapore’s Vaccination-differentiated Safe Management Measures (VDS), you must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). Travellers must also comply with all other <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.
 
-Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.
+If you are a Singapore Citizen or Permanent Resident with an overseas-issued vaccination certificate, to be eligible for VDS, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, if you are unable to upload your vaccination certificate successfully during SG Arrival Card submission. Your status will be updated on your TraceTogether app.
+
+Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://safetravel.ica.gov.sg/health/vtsg" target="_blank">here</a> for more FAQs on inland public health measures.
 
 
 
