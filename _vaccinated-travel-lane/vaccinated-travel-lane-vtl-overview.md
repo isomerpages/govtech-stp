@@ -135,9 +135,9 @@ input:checked + label + .content {
 	<tr>
 <td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;">Singapore</td>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><ol style="list-style-type:lower-alpha;">
-			<li style="line-height:1.5; font-size:18px;">Singapore Vaccination HealthCerts issued via the Notarise portal with a QR code</li>
+			<li style="line-height:1.5; margin-bottom:15px; font-size:18px;">Singapore Vaccination HealthCerts issued via the Notarise portal with a QR code</li>
 			OR
-			<li style="line-height:1.5; font-size:18px;">Singapore Ministry of Health-issued vaccination certificate without a QR code </li>
+			<li style="line-height:1.5; margin-bottom:15px;  font-size:18px;">Singapore Ministry of Health-issued vaccination certificate without a QR code </li>
 			OR
 			<li style="line-height:1.5; font-size:18px;">Proof of vaccination on the TraceTogether or HealthHub app</li>
 			</ol></td>
