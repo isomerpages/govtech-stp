@@ -17,7 +17,7 @@ Only some Safe Travel Lanes to Singapore require travellers to serve an SHN, if 
 
 ### SHN Requirements
 
-The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or <a href="/health/shn/sdf" target="_blank">SHN Dedicated Facility (SDF)</a> for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.
+The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or <a href="#sdf">SHN Dedicated Facility (SDF)</a> for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Om-hkGPvHOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
