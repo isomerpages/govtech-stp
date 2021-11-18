@@ -188,7 +188,7 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Arab Emirates:</b> Proof of vaccination on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a> </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Kingdom:</b> 
 			<ol style="list-style-type:lower-alpha; ">
-							<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a href="https://www.nhs.uk/conditions/coronavirus-covid-19/covid-pass/" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination or record of COVID-19 vaccination status issued by NHS Digital for England, wales and Isle of Man, and NHS Scotland in Scotland; or</li>
+							<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a href="https://www.nhs.uk/conditions/coronavirus-covid-19/covid-pass/" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination or record of COVID-19 vaccination status issued by NHS Digital for England, Wales and Isle of Man, and NHS Scotland in Scotland; or</li>
 				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”)</a>).</li> 
 			</ol>
 			<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">One QR code per dose.</p></li>
@@ -267,7 +267,7 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTL travellers must also refer to this <a href="/vtl/travel-checklist" target="_blank">travel checklist</a> and the <a href="/vtl/conditions" target="_blank">VTL conditions</a> to ensure they satisfy all VTL requirements, otherwise they may be denied entry to Singapore.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Accompanying children aged 12 and below and are unvaccinated do not need to apply. </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Applications must be submitted between 7 and 60 days before the intended date of entry into Singapore. </li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Applications must be supported with digitally verifiable vaccination certificate QR code(s). (when requested)</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Applications must be supported with digitally verifiable vaccination certificate QR code(s), if required. Please see our <a href="/vtl/faq#QRcode" target="_blank">FAQ</a> for more details.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">A VTP is valid for 6 calendar days from the traveller’s chosen date of entry.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements (<b>See Criteria 2 above</b>), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate.</li>	
 	</ol>
