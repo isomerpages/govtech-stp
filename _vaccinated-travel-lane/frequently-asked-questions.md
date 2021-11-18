@@ -187,7 +187,7 @@ We are currently unable to accept recovery certificates of travellers with proof
 
 <div id="QRcode"></div>
 
-#### 1. What are the accepted forms of vaccination certificates?
+#### 1. What are the accepted proofs of vaccination and which can I upload onto the VTP portal??
 
 Please click the links below for more information on accepted vaccination certificates. If you have a proof of vaccination on one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted mobile applications</a>, you do not need to obtain a separate vaccination certificate.
 
