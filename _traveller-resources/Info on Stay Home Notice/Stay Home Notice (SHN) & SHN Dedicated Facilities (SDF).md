@@ -1,7 +1,6 @@
 ---
 title: Stay Home Notice (SHN) & SHN Dedicated Facilities (SDF)
 permalink: /health/shn
-third_nav_title: Info on Stay Home Notice
 description: ""
 ---
 On this page, you will find information on:
