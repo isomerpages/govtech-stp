@@ -62,6 +62,8 @@ For conditions for entry into Malaysia, travellers can check <a href="https://ww
 
 <a href="https://www.caas.gov.sg/docs/default-source/default-document-library/infographic-on-vtl-(for-short-term-visitors-and-long-term-pass-holders)-18-nov-21.pdf" target="_blank">Infographic B: Vaccinated Travel Lane for Short-Term Visitors and Long-Term Pass Holders</a>
 
+---
+
 <div id="#_ftn1"></div>
 
 [1] As of 15 November 2021, the countries/regions under Category 1 are Hong Kong, Macao, Mainland China and Taiwan. Please refer to <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary" target="_blank">
