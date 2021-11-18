@@ -56,10 +56,16 @@ The cost of a 10-day SDF stay is typically S$1,450 per person per room. A furthe
 <sup>**</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) who are serving SHN with the same travel history and duration are permitted to share a room.</i><br><br>
 <sup>***</sup><i>Most standard rooms are able to accommodate a maximum of 2 adults and 2 minors. For greater comfort, families may also request for inter-connecting rooms upon arrival at the SDF, subject to availability and charges for the additional room.</i>
 
+---
+
 ### Specific Requests for SDF Stay
 
-Travellers who have specific needs for their SDF stay (e.g. medical requirements), may wish to refer to [this self-help form](https://go.gov.sg/shnhotelneeds) for details. Alternatively, they may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance. Travellers are strongly advised to submit their enquiry or request <u>two weeks in advance</u> of their arrival as border measures may be adjusted due to the fluidity of the Covid-19 situation. Travellers who are already serving SHN at an SDF may wish to contact the SDF's front desk for assistance.
+Travellers who have specific needs for their SDF stay (e.g. smoking rooms, child-friendly amenities), or wish to request to serve their SHN at a place of residence due to medical requirements, may wish to refer to [this self-help form](https://go.gov.sg/shnhotelneeds) for details. Alternatively, they may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance. Travellers are strongly advised to submit their enquiry or request <u>two weeks in advance</u> of their arrival as border measures may be adjusted due to the fluidity of the Covid-19 situation. 
+
+Travellers who are already serving SHN at an SDF with special requests should contact the SDF's front desk for assistance.
+
 <p>As there is a very high volume of SDF-related requests, please write in early and we seek your understanding and patience that it may take up to five working days to receive a response.</p>
+
 ---
 
 <div id="date"></div>
