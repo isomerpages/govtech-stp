@@ -114,4 +114,3 @@ https://safetravel.ica.gov.sg/vtl/requirements-and-process</a>.
 **SINGAPORE**
 
 **18 NOVEMBER 2021**
-
