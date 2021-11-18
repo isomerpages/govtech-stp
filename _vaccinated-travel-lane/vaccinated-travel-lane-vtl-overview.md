@@ -27,15 +27,15 @@ permalink: /vtl/requirements-and-process
 <tbody>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;width:200px;"><b>[Active VTL Countries/Regions]</b></td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;"> Australia <br> Brunei Darussalam <br> Canada <br> Denmark<sup>1</sup> <br> Germany <br> France<sup>2</sup><br> Italy<br> the Netherlands<sup>3</sup><br> the Republic of Korea<br> Spain<sup>4</sup><br> Switzerland<br> the United Kingdom<sup>5</sup><br> the United States<sup>6</sup></td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;"> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></td>
 </tr>
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b></td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Finland<br> India<br> Indonesia<br> Malaysia<br> Sweden</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Finland, India, Indonesia, Malaysia and Sweden</td>
 </tr>
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b></td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Qatar<br> Saudi Arabia<br> the United Arab Emirates</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Qatar, Saudi Arabia and the United Arab Emirates</td>
 </tr>
 	</tbody>
 	</table>
