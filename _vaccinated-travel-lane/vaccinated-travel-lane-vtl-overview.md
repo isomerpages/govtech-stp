@@ -84,7 +84,7 @@ permalink: /vtl/requirements-and-process
 <p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>6</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
 -->
 
-<!--<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.35;"><b>[Active VTL Countries/Regions]</b> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></p>
+<!--<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.35;"><b>[Active VTL Countries/Regions]</b> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, France<sup>2</sup>, Germany, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></p>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.35;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Finland, India, Indonesia, Malaysia and Sweden</p>
 
