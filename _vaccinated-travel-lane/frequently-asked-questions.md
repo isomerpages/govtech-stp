@@ -55,7 +55,7 @@ permalink: /vtl/faq
 
 #### 1. Are unvaccinated children allowed to travel under the VTL?
 
-Unvaccinated children aged 12 and below in the calendar year may enter Singapore on the VTL (e.g. a child turning 12 in the current calendar year is allowed). However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller. 
+Unvaccinated children aged 12 and below in the calendar year may enter Singapore on the VTL (e.g. a child turning 12 in the current calendar year is allowed). They do not need to apply for a Vaccinated Travel Pass (VTP). However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller. 
 
 Unvaccinated travellers aged 13 and above are not allowed to travel under the VTL. However, unvaccinated:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
