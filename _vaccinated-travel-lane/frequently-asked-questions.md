@@ -388,7 +388,7 @@ You can provide either
 	</li>
 </ol>
 
-**Singapore Citizens and Permanent Residents** do not need to apply for the VTP and can just show either of the documents in (a) <b><u>or</u></b> (b) above for verification at the airlines check-in counter pre-departure and on arrival at the Singapore immigration.
+**Singapore Citizens and Permanent Residents** do not need to apply for the VTP and can just present either of the documents in (a) <b><u>or</u></b> (b) above for verification at the airlines check-in counter pre-departure and on arrival at the Singapore immigration.
 
 **Short-term Visitors and Long-Term Pass Holders** who need to apply for the VTP but cannot upload their vaccination certificate can write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> either of the documents in (a) <b><u>or</u></b> (b) above for verification.
 
