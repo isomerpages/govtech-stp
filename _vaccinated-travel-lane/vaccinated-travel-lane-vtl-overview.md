@@ -152,13 +152,13 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Kingdom:</b> <a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination or Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”) app</a>). One QR code per dose.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United States of America(any of the following):</b> 
 			<ol style="list-style-type:lower-alpha; ">
-			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by CommonTrust Network issuers (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>) or <a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
+			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by CommonTrust Network issuers (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>) or <a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Digital vaccination record retrieved from the public health database of the state or the local health authority </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to passenger’s vaccination status. The attestation letter should contain:
 			<ol style="list-style-type:lower-roman;">
-				<li style="line-height:1.3; margin-bottom:18px; font-size:15px;">the passenger’s name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the passenger’s passport used for entry into Singapore; </li>
-				<li style="line-height:1.3; margin-bottom:18px; font-size:15px;">the name of the vaccine administered for each dose; and</li>
-				<li style="line-height:1.3; margin-bottom:18px; font-size:15px;">the date when each dose was administered.</li>
+				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">the passenger’s name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the passenger’s passport used for entry into Singapore; </li>
+				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">the name of the vaccine administered for each dose; and</li>
+				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">the date when each dose was administered.</li>
 				</ol>		
 			</li>	
 			</ol>
