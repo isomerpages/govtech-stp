@@ -126,7 +126,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">If you have a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore’ on the portal and proceed to upload your QR code obtained from the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>.</p>
 
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">If you are still encountering issues, please write to the Safe Travel Office using the <A href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">If you are still encountering issues, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
 </td>
 		</tr>
 				<tr>
@@ -139,10 +139,12 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 		</tr>
 	</tbody>
 	</table>
+
+<div id="Q4"></div>
  
- #### 4. The VTP application portal tells me that my vaccination records cannot be retrieved from the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR), but I have a Notarise HealthCert QR code. Can I upload that QR code on the VTP portal?
+#### 4. The VTP application portal tells me that my vaccination records cannot be retrieved from the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR), but I have a Notarise HealthCert QR code. Can I upload that QR code on the VTP portal?
  
-Yes, you may. If you have a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code obtained from the Notarise portal. If you are still encountering issues, you should write to the Safe Travel Office using the<a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.
+Yes, you may. If you have a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code obtained from the Notarise portal. If you are still encountering issues, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.
 
 <div id="Q6"></div>
 
@@ -189,43 +191,123 @@ We are currently unable to accept recovery certificates of travellers with proof
 
 #### 1. What are the accepted proofs of vaccination and which can I upload onto the VTP portal??
 
-Please click the links below for more information on accepted vaccination certificates. If you have a proof of vaccination on one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted mobile applications</a>, you do not need to obtain a separate vaccination certificate.
-
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Vaccination Certificates</b></p>
-	    
-<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a></li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates</a> (EU DCC) issued by any VTL country/region</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards(SHC)</a><sup>^</sup> issued by:
-<ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a> (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Any Canadian province</li>
-</ol>
-</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any VTL country/region</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Static QR Code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>*</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs]</b> Vaccination certificates in the Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard, such as those within India’s Co-WIN platform
-</li>
-	<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b> [[For entry into Singapore from 21 November 2021, 2359hrs]</b>Digital Certificate for COVID-19 Vaccination downloadable from the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a> (developed by the Government of Malaysia) </li>-->	 
-</ol>
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>^</sup>If your vaccination record was issued in the US but you are unable to produce a digitally verifiable vaccination certificate, you can provide either</p> 
-<p style="font-size:18px; margin-top:10px; line-height:1.5;">(a) your digital vaccination record retrieved through your state’s or local health authority’s public health database, or</p>
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"> (b) your physical vaccination records <b><u>and</u></b> a letter signed by your vaccination provider to attest to your vaccination status; the attestation letter should contain:</p>
-<ol style="margin-top:0px; padding-left:25px; list-style-type: lower-roman;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">your name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the name of the vaccine administered for each dose; and</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;">the date when each dose was administered.</li>
-	</ol>
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.5;">Singapore Citizens and Permanent Residents do not need to apply for the VTP and can just present either of the documents in (a) <b><u>or</u></b> (b) above for verification at the airlines check-in counter pre-departure and on arrival at the Singapore immigration.</p>
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.5;">Short-Term Visitors and Long-Term Pass Holders who need to apply for the VTP but cannot upload their vaccination certificate can write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with either of the documents in (a) <b><u>or</u></b> (b) above attached for verification.</p>
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>If you are a non-Korean national and a Singapore short-term visitor or long-term pass holder, please write in to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application.</p>
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;">We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more issuers are onboarded.</p>
-<div style="padding-left: 5px; padding-bottom: 10px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>For Singapore Citizens and Permanent Residents</u></b></span><br/><br/><i>You will need to present an acceptable proof of vaccination at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.</i></p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>For short-term visitors and long-term pass holders</u></b></span><br/><br/><i>You may wish to self-verify your vaccination certificate prior to applying for a VTP by referring to the guide <a href="/vtl/faq#verify">here</a>.If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate.</i></p>
-</div> 
+<p style="line-height:1.5; font-size:18px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality.</p>
+<p style="line-height:1.5; margin-top:15px;  font-size:18px; color:red;"><b><u>For Singapore Citizens and Permanent Residents</u></b></p>
+<p style="line-height:1.5; font-size:18px;"> If you are a Singapore Citizen or Permanent Resident, you need not apply for a VTP. You will need to show an accepted proof of vaccination to airlines at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https:/eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. </p>
+<p style="line-height:1.5; font-size:18px; margin-top:15px; color:red;"><b><u>For Short-Term Visitors and Long-Term Pass Holders</u></b></p>
+<p style="line-height:1.5; font-size:18px;">If you are a Long-Term Pass Holder or Short-Term Visitor (LTPH/STV) to Singapore, you need to apply for a VTP. Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP application portal. You may wish to self-verify your vaccination certificate prior to applying for a VTP by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. Those who are required to upload a QR code but cannot do so are write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation and other necessary documentation. </p>
+<p style="line-height:1.5; font-size:18px; margin-top:20px; color:red;"><b><u>Accepted Proofs of Vaccination</u></b></p>
+<p style="line-height:1.5; font-size:18px;">
+<table>
+<thead>
+<tr>
+	<th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px;"><b>Country in which Proof of Vaccination was issued</b></th>
+		<th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px;"><b>Accepted Proofs of Vaccination</b></th>
+		<th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px;"><b>I am an LTPH/STV. Do I need to upload my vaccination certificate QR code onto the VTP portal?</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Singapore</b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><ol style="list-style-type:lower-alpha;">
+			<li style="line-height:1.5; margin-bottom:15px; font-size:18px;">Singapore Vaccination HealthCerts issued via the Notarise portal with a QR code</li>
+			<b>OR</b>
+			<li style="line-height:1.5; margin-bottom:15px;  font-size:18px;">Singapore Ministry of Health-issued vaccination certificate without a QR code </li>
+			<b>OR</b>
+			<li style="line-height:1.5; font-size:18px;">Proof of vaccination on the TraceTogether or HealthHub app</li>
+			</ol></td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, as the portal should be able to retrieve your vaccination records from Singapore’s National Immunisation Registry. <br/><br/> If you are facing issues retrieving your vaccination records on the VTP portal, please refer to our FAQs <a href="#4">here</a> for possible workarounds.</td>
+</tr>
+	<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Australia</b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a> </td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes. Please upload a 1-page PDF of your certificate onto the portal.</td>
+</tr>
+		<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Brunei</b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Proof of vaccination on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a></td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration.</td>
+</tr>
+			<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Canada</b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by any Canadian province</td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
+</tr>
+				<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Denmark<br/>France<br/>Germany<br/>Italy<br/>Netherlands<br/>Spain<br/>Switzerland<br/><br/><i>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</i><br/>Finland<br/>Sweden
+</b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2).</td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
+</tr>
+					<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>India<br><br><i>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</i></b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.</td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes. Your certificate should contain both ‘Date of Birth’ and ‘Passport Number’. Please request for an International Travel Certificate on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN website</a> if your certificate does not contain these fields.</td>
+</tr>
+						<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Indonesia<br><br><i>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</i></b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration</td>
+</tr>
+							<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Malaysia<br><br><i>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</i></b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
+</tr>
+								<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Qatar<br><br><i>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</i></b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a></td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
+</tr>
+	<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Republic of Korea</b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><ol style="list-style-type:lower-alpha;">
+			<li style="line-height:1.5; margin-bottom:15px; font-size:18px;">Static vaccination certificate QR code on the COOV app</li>
+			<b>OR</b>
+			<li style="line-height:1.5; margin-bottom:15px;  font-size:18px;">COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA) downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="blank">KDCA website</a></li></ol></td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes<br><br>If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application.</td>
+</tr>
+	<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Saudi Arabia<br><br><i>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</i></b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Proof of vaccination on the <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a></td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration</td>
+</tr>
+	<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>United Arab Emirates<br><br><i>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</i></b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Proof of vaccination on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a></td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration</td>
+</tr>
+		<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>United Kingdom</b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination. One QR code per dose. </td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes. Please screen-capture one QR code at a time, and upload each QR code into the portal accordingly.</td>
+</tr>
+	<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>United States of America</b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><ol style="list-style-type:lower-alpha;">
+			<li style="line-height:1.5; margin-bottom:15px; font-size:18px;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by: 
+				<ol style="list-style-type:lower-roman;">
+				<li style="line-height:1.5; margin-bottom:15px; font-size:18px;">CommonTrust Network issuers (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>); or</li>
+				<li style="line-height:1.5; margin-bottom:15px; font-size:18px;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers;</a>  </li>
+				</ol>			
+			</li>
+			<b>OR</b>
+			<li style="line-height:1.5; margin-bottom:15px;  font-size:18px;">Digital vaccination record retrieved from the public health database of the state or the local health authority; </li>
+			<b>OR</b>
+			<li style="line-height:1.5; margin-bottom:15px;  font-size:18px;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to passenger’s vaccination status. The attestation letter should contain:
+			<ol style="list-style-type:lower-roman;">
+				<li style="line-height:1.5; margin-bottom:15px; font-size:18px;">the passenger’s name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the passenger’s passport used for entry into Singapore; </li>
+				<li style="line-height:1.5; margin-bottom:15px; font-size:18px;">the name of the vaccine administered for each dose; and</li>
+				<li style="line-height:1.5; margin-bottom:15px; font-size:18px;">the date when each dose was administered.</li>
+				</ol>			
+			</li>
+			</ol></td>
+				<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes, if you have the proof of vaccination in (a). Please screen-capture the QR code found on the SHC certificate and upload it into the portal.<br/><br/> If you have a proof of vaccination in (b) or (c), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with either of the documents in (b) or (c) attached for verification.
+</td>
+</tr>
+	</tbody>
+	</table>	
+	</p>
 
 
 #### 2. I was issued a vaccination certificate in the United States but it is not digitally verifiable. Is there any alternative to showing my vaccination status for VTL travel?
