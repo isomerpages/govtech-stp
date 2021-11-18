@@ -43,3 +43,5 @@ Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass
 
 <div id="payment"></div>
 
+<p style="padding: 10px; margin: 20px 0px 20px 0px; line-height:1.5; background:#f0f0f0; font-size:18px;"><input type="checkbox" style="width:20px; height:20px;vertical-align:middle;" id="1B" name="1B" value="EntryVisa"><label for="1B">&nbsp;&nbsp;<b>(D) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></label><br><br>
+Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa.<br><br> Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.</p>
