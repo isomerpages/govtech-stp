@@ -392,25 +392,16 @@ You can provide either
 
 **Short-term Visitors and Long-Term Pass Holders** who need to apply for the VTP but cannot upload their vaccination certificate can write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> either of the documents in (a) <b><u>or</u></b> (b) above for verification.
 
-#### 3. Why are only SMART Health Cards by certain issuers accepted?
-
-There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
-
-Please note that individuals with an Excelsior Pass issued by the New York State in United States will need to obtain an Excelsior Pass Plus, which is an SHC accepted for travel on the VTL. More information on the Excelsior Pass and Excelsior Pass Plus can be found <a href="https://forward.ny.gov/excelsior-pass-and-excelsior-pass-plus-frequently-asked-questions" target="_blank">here</a>.
-
-We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more states and issuers are onboarded. 
-
-
 <div id="invalidcode"></div>
 
-#### 5. Why was/were my vaccination QR code(s) not accepted in my VTP application?
+#### 4. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
 You may encounter errors upon uploading your vaccination QR code(s) for reasons such as:
 
 - QR code is not cropped from the vaccination certificate document when uploaded
 - <a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof">[For International COVID-19 Vaccination Certificate]</a> Full 1-page PDF file was not uploaded
 - QR code is not in an acceptable format and by specific issuers
-- Traveller’s particulars do not match with the particulars in the vaccination certificate – please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.
+- Traveller’s particulars do not match with the particulars in the vaccination certificate – <b>please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation</b>.
 - Traveller is not [fully vaccinated](/health/vtsg) yet
 - [Days interval between doses](/health/vtsg) is less than the requirement
 - [Number of QR codes](#numberofcodes) uploaded does not meet the criteria
@@ -421,7 +412,7 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 
 <div id="verify"></div>
 
-#### 6. Can I self-verify my vaccination certificate?
+### 5. How can I check if my vaccination certificate is acceptable? Can I self-verify my vaccination certificate?
 
 Yes, you can. You may wish to use the following non-exhaustive list of applications / websites for self-verification:
 
@@ -453,7 +444,7 @@ Yes, you can. You may wish to use the following non-exhaustive list of applicati
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 	<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">iOS Mobile App: <a href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390" target="_blank"> SMART Health Card Verifier</a></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Android Mobile App:<a href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier" target="_blank">SMART Health Card Verifier</a> </li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Android Mobile App: <a href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier" target="_blank">SMART Health Card Verifier</a> </li>
 	</ol>
 	</td>
 </tr>	
@@ -486,6 +477,20 @@ Yes, you can. You may wish to use the following non-exhaustive list of applicati
 </tr>	
 </tbody>
 </table>
+
+#### 6. Why are only SMART Health Cards by certain issuers accepted?
+
+There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
+
+Please note that individuals with an Excelsior Pass issued by the New York State in United States will need to obtain an Excelsior Pass Plus, which is an SHC accepted for travel on the VTL. More information on the Excelsior Pass and Excelsior Pass Plus can be found <a href="https://forward.ny.gov/excelsior-pass-and-excelsior-pass-plus-frequently-asked-questions" target="_blank">here</a>.
+
+We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more states and issuers are onboarded. 
+
+
+
+
+#### 6. Can I self-verify my vaccination certificate?
+
 
 
 ---
