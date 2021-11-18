@@ -162,8 +162,7 @@ input:checked + label + .content {
 				</ol>		
 			</li>	
 			</ol>
-		</li>
-				
+		</li>		
 	</ol>
 	</p>
 </div>
