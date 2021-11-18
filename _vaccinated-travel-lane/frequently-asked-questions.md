@@ -121,9 +121,9 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 							
 <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;"><b>MOE Long-Term Pass Holder</b> if you are a Student Pass holder</li>
 
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;"> Please also select ‘Yes’ when prompted if you have a Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal. Your vaccination status will be verified against MOH’s records.</p>
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;"> Please also select ‘Yes’ when prompted if you have a 'Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal. Your vaccination status will be verified against MOH’s records.</p>
 
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">If you have a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore’ on the portal and proceed to upload your QR code obtained from the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>.</p>
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">If you have a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code obtained from the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>.</p>
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">If you are still encountering issues, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
 </td>
@@ -176,7 +176,7 @@ Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_b
 
 If you have an EU Digital COVID Certificate (EU DCC) issued by any VTL country/region showing the final dose in the series (i.e. “1/1” or “2/2”), you will fulfill the vaccination requirement under the VTL. Short-term visitors and long-term pass holders may proceed to apply for a <a href="https://go.gov.sg/vtl-portal" target="_blank">Vaccinated Travel Pass (VTP) here</a> and upload the QR code found on their EU DCC of vaccination on the VTP application portal.
 
-If you have an NHS COVID Pass of vaccination or a Singapore-issued vaccination certificate, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo.
+If you have an NHS COVID Pass of vaccination, a Northern Ireland COVID certificate, or a Singapore-issued vaccination certificate, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo.
 
 The date of your vaccine dose should be at least 14 days before the date of your intended arrival into Singapore. We regret to inform you that we are unable to consider your appeal if it does not fulfill these criteria.
 
@@ -214,7 +214,7 @@ We are currently unable to accept recovery certificates of travellers with proof
 			<b style="font-size:15px;">OR</b>
 			<li style="line-height:1.3; font-size:15px;">Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">Tracetogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
 			</ol></td>
-				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, as the portal should be able to retrieve your vaccination records from Singapore’s National Immunisation Registry. <br/><br/> If you are facing issues retrieving your vaccination records on the VTP portal, please refer to our FAQs here for possible workarounds.</td>
+				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, as the portal should be able to retrieve your vaccination records from Singapore’s National Immunisation Registry. <br/><br/> If you are facing issues retrieving your vaccination records on the VTP portal, please refer to our FAQs <a href="/vtl/faq#invalidcode">here</a> for possible workarounds.</td>
 </tr>
 	<tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Australia</b></td>
