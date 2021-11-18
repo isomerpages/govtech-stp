@@ -56,4 +56,5 @@ published: true
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
 
 <p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A" name="2A" value="EntryApproval"><label for="2A">&nbsp;&nbsp;<b>(A) Pre-boarding Document Checks</b></label><br><br>
-Travellers who are not Singapore Citizens or Permanent Residents may be asked to produce their valid Entry Approval Letter to airlines/transport operators to verify that they have been approved to enter Singapore.</p>
+<span style="color:red;">&#10060;</span> &nbsp;<b>Not applicable to Singapore Citizens and Permanent Residents</b>.<br><br>
+Produce valid Entry Approval Letter to airlines/transport operators upon request for their verification of entry approval.</p>
