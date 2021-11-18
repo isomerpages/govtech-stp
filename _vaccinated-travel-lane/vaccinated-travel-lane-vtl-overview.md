@@ -5,43 +5,43 @@ permalink: /vtl/requirements-and-process
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;"><p style="color:red;font-size:18px;"><b>Important Notice</b></p>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;">Singapore will launch the Vaccinated Travel Lanes (VTLs) for <b>Finland, Indonesia, Malaysia and Sweden</b> from 29 November 2021 and will open for Vaccinated Travel Pass (VTP) applications from 22 November 2021. We will launch the VTLs for <b>Qatar, Saudi Arabia and the United Arab Emirates</b> from 6 December 2021, and will open for VTP applications from 29 November 2021. We also intend to launch a VTL for <b>India</b> for entry into Singapore from 29 November 2021 and will open VTP applications from 22 November 2021. </p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Singapore will launch the Vaccinated Travel Lanes (VTLs) for <b>Finland, Indonesia, Malaysia and Sweden</b> from 29 November 2021 and will open for Vaccinated Travel Pass (VTP) applications from 22 November 2021. We will launch the VTLs for <b>Qatar, Saudi Arabia and the United Arab Emirates</b> from 6 December 2021, and will open for VTP applications from 29 November 2021. We also intend to launch a VTL for <b>India</b> for entry into Singapore from 29 November 2021 and will open VTP applications from 22 November 2021. </p>
 </div>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;">The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL:</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL:</p>
 <ol>
-	<li style="line-height:1.3;"><a href="#countries">VTL Countries/Regions</a></li>
-	<li style="line-height:1.3;"><a href="#Eligibility">Eligibility</a></li>
-	<li style="line-height:1.3;"><a href="#Application">Application for Travel under the VTL</a></li>
-	<li style="line-height:1.3;"><a href="#Documents">Essential Documents for Your Journey</a></li>
-	<li style="line-height:1.3;"><a href="#FAQ">Frequently Asked Questions</a></li>
+	<li style="line-height:1.35;"><a href="#countries">VTL Countries/Regions</a></li>
+	<li style="line-height:1.35;"><a href="#Eligibility">Eligibility</a></li>
+	<li style="line-height:1.35;"><a href="#Application">Application for Travel under the VTL</a></li>
+	<li style="line-height:1.35;"><a href="#Documents">Essential Documents for Your Journey</a></li>
+	<li style="line-height:1.35;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;">Travellers intending to <b>leave</b> Singapore to a VTL country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For all departure-related advisories, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page .</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Travellers intending to <b>leave</b> Singapore to a VTL country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For all departure-related advisories, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page .</p>
 
 <div id="countries"></div>
 
 ### 1. VTL/Countries and Regions
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.3;"><b>[Active VTL Countries/Regions]</b> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.35;"><b>[Active VTL Countries/Regions]</b> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></p>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.3;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Finland, India, Indonesia, Malaysia and Sweden</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.35;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Finland, India, Indonesia, Malaysia and Sweden</p>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.3;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> Qatar, Saudi Arabia, the United Arab Emirates</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.35;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> Qatar, Saudi Arabia, the United Arab Emirates</p>
 
-<p style="margin-top:20px; margin-bottom:0px; font-size:16px; line-height:1.3;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.3;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.3;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.3;"><sup>4</sup>Including the Canary Islands</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.3;"><sup>5</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.3;"><sup>6</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
+<p style="margin-top:20px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>4</sup>Including the Canary Islands</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>5</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>6</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
 
 
 <div id="Eligibility"></div>
 
 ### 2. Eligibility
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.3;"><b>Travellers must fulfil the following basic criteria and <a href="/vtl/conditions" target="_blank">conditions</a> of the VTL to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic criteria and <a href="/vtl/conditions" target="_blank">conditions</a> of the VTL to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
 
 <html>
 
@@ -305,7 +305,7 @@ input:checked + label + .content {
 
 ### 4. Essential Documents for Your Journey
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;">Travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. Please refer to the detailed requirements in the <a href="/vtl/travel-checklist" target="_blank">travel checklist</a>.</p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.35;">Travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. Please refer to the detailed requirements in the <a href="/vtl/travel-checklist" target="_blank">travel checklist</a>.</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
@@ -366,4 +366,4 @@ input:checked + label + .content {
 - <a href="/vtl/faq#Flight" target="_blank">Designated VTL Flights</a>
 - <a href="/vtl/faq#OAT" target="_blank">On-Arrival Test & Self-Isolation</a>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;">Have a question that is not addressed by any of the available resources found in this webpage? <a href="https://go.gov.sg/sto-enquiry" target="_blank">Contact us here</a>.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Have a question that is not addressed by any of the available resources found in this webpage? <a href="https://go.gov.sg/sto-enquiry" target="_blank">Contact us here</a>.</p>
