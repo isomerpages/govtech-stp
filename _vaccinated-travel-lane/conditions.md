@@ -22,7 +22,7 @@ permalink: /vtl/conditions
          </ol>
                <li style="font-size:18px; list-style-type:lower-alpha;">undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately<sup>3</sup>  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTL application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 test results to the relevant Singapore Government authorities for public health purposes;</li>
-	     <li style="font-size:18px; list-style-type:lower-alpha;">download the TraceTogether app on his/her mobile device and:
+	     <li style="font-size:18px; list-style-type:lower-alpha;">download the <a href="https://tracetogether.gov.sg" target="_blank">TraceTogether app</a> on his/her mobile device and:
 		<ol style="font-size:18px; list-style-type:lower-roman;">
 		<li style="font-size:18px; list-style-type:lower-roman;">keep the TraceTogether app activated at all times while in Singapore;</li>
 				<li style="font-size:18px; list-style-type:lower-roman;">upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore.</li>
@@ -42,6 +42,7 @@ permalink: /vtl/conditions
   <br>
    <li style="font-size:20px; list-style-type:decimal;"> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL or cancellation of the VTP at short notice. </li> <br> 
 	<li style="font-size:20px; list-style-type:decimal;"> A VTP holder’s entry and stay in Singapore are subject to compliance with the prevailing immigration requirements of the Singapore Immigration &amp; Checkpoints Authority (“ICA”), including compliance with the conditions of the VTL. Non-compliance with any of the prevailing immigration requirements or conditions of the VTL may result in refusal of entry into Singapore and/or cancellation of the VTP, and/or Visit Pass or Long-Term Pass. In such an event, the VTP holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected. </li>  <br>
+	<li style="font-size:20px; list-style-type:decimal;"> A VTP holder, who is also holding a Work Pass, Letter of Consent, Dependant’s Pass, Long-Term Visit Pass or an In-Principle Approval issued by the Ministry of Manpower (“MOM”), is subject to additional conditions as detailed here.</li> <br>
 		<li style="font-size:20px; list-style-type:decimal;">For the purpose of determining whether the conditions of the VTL are being complied with, a public officer, including an officer of the Civil Aviation Authority of Singapore (“CAAS”), or an officer acting on behalf of the CAAS, may request to see the VTP. Upon receipt of such a request, a VTP holder must show his or her VTP to the officer.</li>  <br>
 </ol>
 
