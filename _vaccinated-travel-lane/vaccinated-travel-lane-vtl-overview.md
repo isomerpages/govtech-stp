@@ -211,7 +211,7 @@ input:checked + label + .content {
 <td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>United States of America</b></td>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><ol style="list-style-type:lower-alpha;">
 			<li style="line-height:1.5; margin-bottom:15px; font-size:18px;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by: 
-				<ol style="list-style-type:lower-alpha;">
+				<ol style="list-style-type:lower-roman;">
 				<li style="line-height:1.5; margin-bottom:15px; font-size:18px;">CommonTrust Network issuers (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>); or</li>
 				<li style="line-height:1.5; margin-bottom:15px; font-size:18px;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers;</a>  </li>
 				</ol>			
@@ -220,7 +220,7 @@ input:checked + label + .content {
 			<li style="line-height:1.5; margin-bottom:15px;  font-size:18px;">Digital vaccination record retrieved from the public health database of the state or the local health authority; </li>
 			<b>OR</b>
 			<li style="line-height:1.5; margin-bottom:15px;  font-size:18px;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to passenger’s vaccination status. The attestation letter should contain:
-			<ol style="list-style-type:lower-alpha;">
+			<ol style="list-style-type:lower-roman;">
 				<li style="line-height:1.5; margin-bottom:15px; font-size:18px;">the passenger’s name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the passenger’s passport used for entry into Singapore; </li>
 				<li style="line-height:1.5; margin-bottom:15px; font-size:18px;">the name of the vaccine administered for each dose; and</li>
 				<li style="line-height:1.5; margin-bottom:15px; font-size:18px;">the date when each dose was administered.</li>
