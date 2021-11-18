@@ -15,11 +15,11 @@ permalink: /contact-us
 </div>
 
 ### Enquiries on How to Enter Singapore
-As our Contact Centre is experiencing a high volume of enquiries, we encourage you to use our self-help tool at the [Travelling to Singapore page](/arriving/overview#selfhelptool) first to determine what Safe Travel Lane you should use to enter Singapore, and read about the corresponding requirements under that lane.
+As our Contact Centre is experiencing a high volume of enquiries, we strongly encourage you to use our self-help tool at the [Travelling to Singapore page](/arriving/overview#selfhelptool) first to determine what Safe Travel Lane you should use to enter Singapore, and read about the corresponding requirements under that lane.
 
-### Application Status
+### Enquiries on Application Status
 
-If you have already applied for entry into Singapore under any of the following lanes, you can check your application status at the links below.
+If you have already applied for entry into Singapore under any of the following lanes, you should check your application status using the links below.
 
 <table>
 <thead>
