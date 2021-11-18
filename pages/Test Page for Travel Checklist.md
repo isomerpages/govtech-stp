@@ -25,7 +25,7 @@ published: true
 
 <p  style="font-size:18px;"><span style="color:black; font-size:32px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Flying</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travel</b></div>
 
 <p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A" name="1A" value="EntryApproval"><label for="1A">&nbsp;&nbsp;<b>(A) Apply for Entry Approval</b></label><br><br>
 <span style="color:red;">&#10060;</span> &nbsp;<b>Singapore Citizens and Permanent Residents need not apply</b>.<br><br>All other travellers must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the <a href="/arriving/overview" target="_blank" >“Travelling to Singapore”</a> page.</p>
@@ -54,6 +54,12 @@ published: true
 </ol></p>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
+
+<p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A" name="2A" value="EntryApproval"><label for="2A">&nbsp;&nbsp;<b>(A) Pre-boarding Document Checks</b></label><br><br>
+<span style="color:red;">&#10060;</span> &nbsp;<b>Not applicable to Singapore Citizens and Permanent Residents</b>.<br><br>
+Produce valid Entry Approval Letter to airlines/transport operators upon request for their verification of entry approval.</p>
+
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in  Singapore</b></div>
 
 <p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A" name="2A" value="EntryApproval"><label for="2A">&nbsp;&nbsp;<b>(A) Pre-boarding Document Checks</b></label><br><br>
 <span style="color:red;">&#10060;</span> &nbsp;<b>Not applicable to Singapore Citizens and Permanent Residents</b>.<br><br>
