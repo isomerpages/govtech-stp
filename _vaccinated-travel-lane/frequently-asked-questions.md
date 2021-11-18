@@ -487,12 +487,6 @@ Please note that individuals with an Excelsior Pass issued by the New York State
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more states and issuers are onboarded. 
 
 
-
-
-#### 6. Can I self-verify my vaccination certificate?
-
-
-
 ---
 
 ##### Click here to go back to the [top](#top).
