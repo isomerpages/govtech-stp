@@ -7,7 +7,7 @@ description: ""
 On this page, you will find information on:
 - [Stay Home Notice (SHN) Requirements](#requirements)
 - [SHN-Dedicated Facilities (SDF) and Cost of Stay](#sdf)
-- [Specific Requests for SDF Stay](#sdfrequests)
+- [Specific Requests for SDF Stay](#sdfrequest)
 - [SHN Start and End Date](#date)
 - [SHN Compliance Checks](#compliance)
 
@@ -30,6 +30,8 @@ Travellers issued with an SHN should refer to the conditions inside the SHN, and
 **View this video in the following languages: [Chinese](https://youtu.be/300gtMksKrw), [Bahasa Indonesia](https://youtu.be/TcgBoA0Hrn0)**
 
 ---
+
+<div id="sdf"></div>
 
 ### SHN Dedicated Facilities (SDF)
 
@@ -57,6 +59,8 @@ The cost of a 10-day SDF stay is typically S$1,450 per person per room. A furthe
 <sup>***</sup><i>Most standard rooms are able to accommodate a maximum of 2 adults and 2 minors. For greater comfort, families may also request for inter-connecting rooms upon arrival at the SDF, subject to availability and charges for the additional room.</i>
 
 ---
+
+<div id="sdfrequest"></div>
 
 ### Specific Requests for SDF Stay
 
@@ -116,17 +120,14 @@ Reflected in the table below are two examples of indicative SHN durations. You m
     </tr>-->
   </tbody>
   </table>
-
+	
+---
 
 <div id="compliance"></div>
 
 ### SHN Compliance Checks
 
 Travellers issued with the Stay-Home Notice (SHN) will be subjected to on-site or electronic compliance checks (SMS, phone/video calls) from the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or Ministry of Education (MOE). Travellers should note that officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked to provide the last four digits of his/her Identity Card or Travel Document for verification. Any payment request made by the caller may be a scam. Travellers with SHN issues may call the SafeTravel Helpline at 6812 5555 for further enquiries or assistance.
-
-<div id="device"></div>
-
-### SHN Electronic Monitoring Device
 
 Some travellers may be issued with an Electronic Monitoring Device (EMD) from ICA during their SHN period to ensure compliance. Users are required to download the StayHome@SG mobile application (<a href="https://apps.apple.com/sg/app/stayhome-sg/id1517984071" target="_blank">App Store</a>, <a href="https://play.google.com/store/apps/details?id=com.hitachi.shn_mobile&hl=en_SG&gl=US" target="_blank">Google Play Store</a>) to use the EMD, which comprises of a paired gateway device and wristband (image below). Travellers must wear the wristband throughout the entire duration of their SHN. 
 
