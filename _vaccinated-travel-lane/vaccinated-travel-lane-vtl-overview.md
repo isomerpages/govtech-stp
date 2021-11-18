@@ -303,7 +303,7 @@ input:checked + label + .content {
 
 <div id="Documents"></div>
 
-### 3. Essential Documents for Your Journey
+### 4. Essential Documents for Your Journey
 
 Travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. Please refer to the detailed requirements in the <a href="/vtl/travel-checklist" target="_blank">travel checklist</a>.
 
@@ -355,7 +355,7 @@ Travellers must carry along an electronic or physical copy of the documents appl
 
 <div id="FAQ"></div>
 
-### 4. Frequently Asked Questions
+### 5. Frequently Asked Questions
 
 Click <a href="/vtl/faq" target="_blank">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
 - <a href="/vtl/faq#QRcode" target="_blank">Recognised Vaccination Certificates for VTL</a>
