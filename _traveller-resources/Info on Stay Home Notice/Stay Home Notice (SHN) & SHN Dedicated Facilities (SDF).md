@@ -4,9 +4,9 @@ permalink: /health/shn
 third_nav_title: Info on Stay Home Notice
 description: ""
 ---
-
 On this page, you will find information on:
 - [Stay Home Notice (SHN) Requirements](#requirements)
+- [SHN-Dedicated Facilities (SDF) and Cost of Stay](#sdf)
 - [SHN Start and End Date](#date)
 - [SHN Compliance Checks](#compliance)
 - [SHN Electronic Monitoring Device](#device)
