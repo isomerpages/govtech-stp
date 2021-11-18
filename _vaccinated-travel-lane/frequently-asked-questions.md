@@ -170,7 +170,7 @@ As part of Singapore’s Vaccination-differentiated Safe Management Measures (VD
 
 To be eligible for VDS, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, if you are unable to upload your vaccination certificate successfully during SG Arrival Card submission. Your status will be updated on your TraceTogether app.
 
-Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="/health/vtsg" target="_blank">here</a> for more FAQs on inland public health measures.
+Please click <a href="/health/vtsg" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for more FAQs on inland public health measures.
 
 #### 8. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
 
@@ -667,7 +667,7 @@ To be eligible to take a designated VTL flight, they are required to:
 		</li>
 	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> have a valid proof of vaccination status, which can be in the form of:
 		<ul style="list-style-type:disc;">
-	<li>a vaccination status on the TraceTogether app, HealthHub app or BruHealth app; or</li>
+	<li>proof of vaccination on the TraceTogether, HealthHub, BruHealth, PeduliLindungi, Tawakkalna or Al Hosn app, or</li>
 	<li>an accepted proof of vaccination in English, stating the following:
 			<ul style="list-style-type:lower-roman;">
 				<li> the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
