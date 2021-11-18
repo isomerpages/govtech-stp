@@ -161,6 +161,9 @@ input:checked + label + .content {
 				<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">the date when each dose was administered.</li>
 				</ol>		
 			</li>	
+			</ol>
+		</li>
+				
 	</ol>
 	</p>
 </div>
