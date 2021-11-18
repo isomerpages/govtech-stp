@@ -30,11 +30,11 @@ Travellers intending to <b>leave</b> Singapore to a VTL country/region, must che
 <b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> Qatar, Saudi Arabia, the United Arab Emirates
 
 <p style="margin-top:20px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
-		<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>4</sup>Including the Canary Islands</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>5</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>6</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>4</sup>Including the Canary Islands</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>5</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>6</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
 
 
 <div id="Eligibility"></div>
@@ -108,21 +108,21 @@ input:checked + label + .content {
 <label for="title1">Criteria 1: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
 
 <div class="content" style="background-color:#edf4fa;">
-	<p style="line-height:1.5; font-size:18px; ">Travellers must be fully vaccinated with WHO EUL vaccines (<a href="/health/vtsg" target="_blank">click here for definition</a> of fully vaccinated) at least two weeks before arrival in Singapore. </p>
-		<p style="line-height:1.5; font-size:18px; ">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL if accompanied by a fully vaccinated VTL traveller.</p>
+<p style="line-height:1.5; font-size:18px; ">Travellers must be fully vaccinated with WHO EUL vaccines (<a href="/health/vtsg" target="_blank">click here for definition</a> of fully vaccinated) at least two weeks before arrival in Singapore. </p>
+<p style="line-height:1.5; font-size:18px; ">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL if accompanied by a fully vaccinated VTL traveller.</p>
 </div>
 
 <input type="checkbox" id="title2" />
 <label for="title2">Criteria 2: Hold an Accepted Proof of Vaccination</label>
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">
-	<p style="line-height:1.5; font-size:18px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality.</p>
-	<p style="line-height:1.5; margin-top:15px;  font-size:18px; color:red;"><b><u>For Singapore Citizens and Permanent Residents</u></b></p>
-	<p style="line-height:1.5; font-size:18px;"> If you are a Singapore Citizen or Permanent Resident, you need not apply for a VTP. You will need to show an accepted proof of vaccination to airlines at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https:/eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. </p>
-	<p style="line-height:1.5; font-size:18px; margin-top:15px; color:red;"><b><u>For Short-Term Visitors and Long-Term Pass Holders</u></b></p>
-	<p style="line-height:1.5; font-size:18px;">If you are a Long-Term Pass Holder or Short-Term Visitor (LTPH/STV) to Singapore, you need to apply for a VTP. Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP application portal. You may wish to self-verify your vaccination certificate prior to applying for a VTP by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. Those who are required to upload a QR code but cannot do so are write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation and other necessary documentation. </p>
-	<p style="line-height:1.5; font-size:18px; margin-top:20px; color:red;"><b><u>Accepted Proofs of Vaccination</u></b></p>
-	<p style="line-height:1.5; font-size:18px;">
+<p style="line-height:1.5; font-size:18px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality.</p>
+<p style="line-height:1.5; margin-top:15px;  font-size:18px; color:red;"><b><u>For Singapore Citizens and Permanent Residents</u></b></p>
+<p style="line-height:1.5; font-size:18px;"> If you are a Singapore Citizen or Permanent Resident, you need not apply for a VTP. You will need to show an accepted proof of vaccination to airlines at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https:/eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. </p>
+<p style="line-height:1.5; font-size:18px; margin-top:15px; color:red;"><b><u>For Short-Term Visitors and Long-Term Pass Holders</u></b></p>
+<p style="line-height:1.5; font-size:18px;">If you are a Long-Term Pass Holder or Short-Term Visitor (LTPH/STV) to Singapore, you need to apply for a VTP. Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP application portal. You may wish to self-verify your vaccination certificate prior to applying for a VTP by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. Those who are required to upload a QR code but cannot do so are write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation and other necessary documentation. </p>
+<p style="line-height:1.5; font-size:18px; margin-top:20px; color:red;"><b><u>Accepted Proofs of Vaccination</u></b></p>
+<p style="line-height:1.5; font-size:18px;">
 <table>
 <thead>
 <tr>
