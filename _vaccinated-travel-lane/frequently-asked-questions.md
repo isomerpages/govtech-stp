@@ -129,6 +129,14 @@ If you have a Singapore Vaccination HealthCerts issued via the Notαrise portal,
 If you are still encountering issues, please write to the Safe Travel Office using the enquiry form here and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.
 </td>
 		</tr>
+				<tr>
+			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A VTL country/region</td>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p>A valid Vaccinated Travel Pass (VTP), which you can apply for here.</p>
+<p>On the VTP application portal, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’. Please proceed to upload your vaccination certificate QR code, which should be one of the accepted proofs of vaccination.</p>
+<p>If you are still encountering issues or do not have a Singapore Vaccination HealthCerts issued via the Notαrise portal, please write to the Safe Travel Office using the enquiry form here and provide your overseas-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
+</td>
+		</tr>
 	</tbody>
 	</table>
 Travellers may present either of the following:
