@@ -64,7 +64,7 @@ permalink: /vtl/requirements-and-process
 	</table>
 	
 <p style="margin-top:20px;"></p>
-<table>
+<!--<table>
 <tbody>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>[Active VTL Countries/Regions]</b></td>
@@ -87,7 +87,7 @@ permalink: /vtl/requirements-and-process
 <p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>4</sup>Including the Canary Islands</p>
 <p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>5</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
 <p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>6</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
-
+-->
 
 <!--<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.35;"><b>[Active VTL Countries/Regions]</b> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></p>
 
