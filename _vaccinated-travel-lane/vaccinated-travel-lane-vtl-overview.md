@@ -8,7 +8,7 @@ permalink: /vtl/requirements-and-process
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;">Singapore will launch the Vaccinated Travel Lanes (VTLs) for <b>Finland, Indonesia, Malaysia and Sweden</b> from 29 November 2021 and will open for Vaccinated Travel Pass (VTP) applications from 22 November 2021. We will launch the VTLs for <b>Qatar, Saudi Arabia and the United Arab Emirates</b> from 6 December 2021, and will open for VTP applications from 29 November 2021. We also intend to launch a VTL for <b>India</b> for entry into Singapore from 29 November 2021 and will open VTP applications from 22 November 2021. </p>
 </div>
 
-The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL:
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;">The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL:</p>
 <ol>
 	<li style="line-height:1.3;"><a href="#countries">VTL Countries/Regions</a></li>
 	<li style="line-height:1.3;"><a href="#Eligibility">Eligibility</a></li>
@@ -17,7 +17,7 @@ The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On 
 	<li style="line-height:1.3;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
-Travellers intending to <b>leave</b> Singapore to a VTL country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For all departure-related advisories, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page .
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;">Travellers intending to <b>leave</b> Singapore to a VTL country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For all departure-related advisories, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page .</p>
 
 <div id="countries"></div>
 
