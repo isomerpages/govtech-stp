@@ -23,11 +23,11 @@ permalink: /vtl/requirements-and-process
 
 ### 1. VTL/Countries and Regions
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;"><b>[Active VTL Countries/Regions]</b> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.3;"><b>[Active VTL Countries/Regions]</b> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></p>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Finland, India, Indonesia, Malaysia and Sweden</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.3;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Finland, India, Indonesia, Malaysia and Sweden</p>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> Qatar, Saudi Arabia, the United Arab Emirates</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.3;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> Qatar, Saudi Arabia, the United Arab Emirates</p>
 
 <p style="margin-top:20px; margin-bottom:0px; font-size:16px; line-height:1.3;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 <p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.3;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
