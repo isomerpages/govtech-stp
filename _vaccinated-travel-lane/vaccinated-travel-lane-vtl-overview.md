@@ -357,7 +357,7 @@ input:checked + label + .content {
 
 ### 5. Frequently Asked Questions
 
-Click <a href="/vtl/faq" target="_blank">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
+<span style="font-size:18px;">Click <a href="/vtl/faq" target="_blank">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
 - <a href="/vtl/faq#QRcode" target="_blank">Recognised Vaccination Certificates for VTL</a>
 - <a href="/vtl/faq#invalidcode" target="_blank">VTP Application Technical Difficulties</a>
 - <a href="/health/vtsg" target="_blank">Definition of Fully Vaccinated</a>
