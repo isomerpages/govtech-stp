@@ -77,9 +77,9 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 <table>
 	<thead>
 		<tr>
-			<th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#f8f8f8;"><b>I am a...</b></th>
-						<th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#f8f8f8;"><b>My proof of vaccination was issued in...</b></th>
-						<th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#f8f8f8;"><b>I will need to present, as a proof of vaccination…</b></th>
+			<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#f8f8f8;"><b>I am a...</b></th>
+						<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#f8f8f8;"><b>My proof of vaccination was issued in...</b></th>
+						<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#f8f8f8;"><b>I will need to present, as a proof of vaccination…</b></th>
 		</tr>
 	</thead>
 	<tbody>
