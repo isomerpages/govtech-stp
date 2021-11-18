@@ -12,7 +12,7 @@ permalink: /shn-calculator
 
 The following [SHN](/health/shn) end-date calculators will only provide the indicative SHN-end date. A definitive SHN end date and time cannot be provided as travellers can only leave their SHN accommodation when the result of the end-of-SHN COVID-19 Polymerase Chain Reaction test is released or when the SHN duration has been completed, whichever is later. 
 
-This resulkt can be conveyed to the traveller via a call, SMS or email. 
+This result can be conveyed to the traveller via a call, SMS or email. 
 
 For travellers serving SHN in an [SHN Dedicated Facility (SDF)](/health/shn/sdf), the SDF will inform the traveller of the check-out time once it receives confirmation of the negative COVID-19 test result from the relevant government agencies. The traveller will only be allowed to leave the SDF thereafter.
 
