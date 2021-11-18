@@ -203,6 +203,8 @@ Travellers will be denied boarding by their airline or ferry if they are:
 - diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or
 - tested positive on the COVID-19 test within <u>2 days</u> before departure for Singapore.
 
+<div id="testresult"></div>
+
 #### 6. How will I be informed of my COVID-19 test result?
 
 Hardcopy/softcopy of the COVID-19 test result will not be issued. Travellers who are Work Pass Holders (and their dependants) will receive their results via SMS or email. All other travellers will be informed of their swab test results verbally by phone or in person. 
