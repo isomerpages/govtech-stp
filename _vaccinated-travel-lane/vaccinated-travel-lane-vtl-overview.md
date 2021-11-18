@@ -41,7 +41,7 @@ permalink: /vtl/requirements-and-process
 
 ### 2. Eligibility
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;"><b>Travellers must fulfil the following basic criteria and <a href="/vtl/conditions" target="_blank">conditions</a> of the VTL to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.3;"><b>Travellers must fulfil the following basic criteria and <a href="/vtl/conditions" target="_blank">conditions</a> of the VTL to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
 
 <html>
 
