@@ -40,3 +40,6 @@ Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass
 	<li style="margin-left: 30px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px; list-style-type:lower-roman;">Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 </p>
+
+<div id="payment"></div>
+
