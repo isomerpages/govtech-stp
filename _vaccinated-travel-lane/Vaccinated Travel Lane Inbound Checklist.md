@@ -26,7 +26,7 @@ Travellers can check the box **(&#9744;)** for completed activities.
 
 &#9744;  <i><b>A) Obtain an acceptable proof of vaccination </b></i>
 
-You must obtain any of the following acceptable proof of vaccination, or you will not be eligible for travel on the VTL. Other non-VTL lanes are available on the “Traveling to Singapore” page if you are not eligible for the VTL. Eligibility for the vaccination proof below will vary depending on where you took your vaccination and your location. All travellers should also self-verify their vaccination certificates by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.
+You must obtain any of the following acceptable proof of vaccination, or you will not be eligible for travel on the VTL. Other non-VTL lanes are available on the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if you are not eligible for the VTL. Eligibility for the vaccination proof below will vary depending on where you took your vaccination and your location. All travellers should also self-verify their vaccination certificates by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.
 
 <p style="line-height:1.5; font-size:18px;">
 <ol style="margin-top:0px; list-style-type: disc;">
