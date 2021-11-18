@@ -714,7 +714,7 @@ When checking in at the departure airport, travellers must present the following
 	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>
 <li><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid proof of vaccination status, which can be in the form of:
 <ul style="list-style-type:disc;">
-	<li>a vaccination status on the TraceTogether app, HealthHub app, or BruHealth app; or</li>
+	<li>proof of vaccination on the TraceTogether, HealthHub, BruHealth, PeduliLindungi, Tawakkalna or Al Hosn app, or</li>
 	<li>an accepted proof of vaccination in English, stating the following:
 			<ul style="list-style-type:lower-roman;">
 				<li> the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
