@@ -4,7 +4,7 @@ permalink: /health/shn/sdfupgrade
 ---
 # Book an SDF Suite at Higher Cost
 
-Subject to availability, travellers who are required to complete their [Stay-Home Notice (SHN)](/health/shn) at an [SHN Dedicated Facility (SDF)](/health/shn/sdf) may book a suite at higher cost. Travellers can refer to the guide below.
+Subject to availability, travellers who are required to complete their [Stay-Home Notice (SHN)](/health/shn) at an [SHN Dedicated Facility (SDF)](/health/shn#sdf) may book a suite at higher cost. Travellers can refer to the guide below.
 
 [Click here](/health/shn/sdfsuitefaq) for the FAQs on booking an SDF suite.
 
