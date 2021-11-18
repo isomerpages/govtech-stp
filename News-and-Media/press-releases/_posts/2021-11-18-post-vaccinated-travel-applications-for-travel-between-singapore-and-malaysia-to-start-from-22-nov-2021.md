@@ -13,7 +13,7 @@ Travellers from Malaysia may enter Singapore under the Vaccinated Travel Lane (V
 
 Singapore and Malaysia enjoy strong economic links and warm people-to-people ties. The joint VTL is an important step in reopening the borders between two close neighbours, facilitate business and allow many families to reunite. Pre-COVID, Malaysia was amongst the top three markets for annual passenger arrivals at Changi Airport. The Singapore-Kuala Lumpur link was also the busiest international air route in the world, with about 40 flights daily and an average of 7,000 arrivals per day at Changi Airport.
 
-VTL Requirements
+<b>VTL Requirements</b>
 
 Under the VTL, fully vaccinated travellers from VTL countries may enter Singapore without quarantine and just need to undergo COVID-19 testing. Children aged 12 years and below who are not vaccinated will be allowed to travel under the VTL into Singapore if they are accompanied by a VTL traveller who meets all VTL requirements.
 
