@@ -144,6 +144,8 @@ may still travel to Singapore on a non-designated flight. They will be subject t
  
 Yes, you may. If you have a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code obtained from the Notarise portal. If you are still encountering issues, you should write to the Safe Travel Office using the<a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.
 
+<div id="Q6"></div>
+
 #### 5. I was fully vaccinated in a non-VTL country/region and have since obtained a vaccination certificate issued by a VTL country/region / had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
 
 Yes, you will fulfill the requirement of having your proof of vaccination issued in any VTL country/region or Singapore. 
@@ -173,19 +175,11 @@ Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_b
 
 If you have an EU Digital COVID Certificate (EU DCC) issued by any VTL country/region showing the final dose in the series (i.e. “1/1” or “2/2”), you will fulfill the vaccination requirement under the VTL. Short-term visitors and long-term pass holders may proceed to apply for a <a href="https://go.gov.sg/vtl-portal" target="_blank">Vaccinated Travel Pass (VTP) here</a> and upload the QR code found on their EU DCC of vaccination on the VTP application portal.
 
-For all other travellers, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form</a> and provide your proof of vaccination and recovery certificate.
+If you have an NHS COVID Pass of vaccination or a Singapore-issued vaccination certificate, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo.
 
-<div id="Q6"></div>
+The date of your vaccine dose should be at least 14 days before the date of your intended arrival into Singapore. We regret to inform you that we are unable to consider your appeal if it does not fulfill these criteria.
 
-#### 6. I was fully vaccinated in a non-VTL country/region and have since obtained a vaccination certificate issued by a VTL country/region / had my vaccination records ingested into Singapore’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
-
-Yes, you will fulfill the requirement of having your proof of vaccination issued in any VTL country/region or Singapore. 
-
-If you are a short-term visitor or Long-Term Pass holder with your vaccination records ingested into Singapore’s NIR, you may obtain your vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a> and upload the QR code in your application for a Vaccinated Travel Pass (VTP).
-
-#### 7. I am fully vaccinated. How may I benefit from Vaccination-Differentiated Safe Management Measures (VDS) (e.g. dine-in at F&B establishments, enter shopping malls, etc.)?
-
-As part of Singapore’s <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">Vaccination-Differentiated Safe Management Measures (VDS)</a>, you must be vaccinated to participate in certain activities in Singapore (e.g. dining in at F&B establishments, entering shopping malls, attending certain events etc.). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore. Please find more information on <a href="/health/vtsg" target="_blank">VDS here</a>. 
+We are currently unable to accept recovery certificates of travellers with proofs of vaccination issued in other countries.
 
 <div id="vaxcert"></div>
 
