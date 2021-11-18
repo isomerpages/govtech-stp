@@ -40,7 +40,7 @@ permalink: /vtl/requirements-and-process
 	</tr>
 	</tbody>
 	</table>
-<br>
+<p style="margin-top:20px;"></p>
 <table>
 <tbody>
 	<tr>
@@ -51,7 +51,7 @@ permalink: /vtl/requirements-and-process
 	</tr>
 	</tbody>
 	</table>
-<br>
+<p style="margin-top:20px;"></p>
 <table>
 <tbody>
 	<tr>
