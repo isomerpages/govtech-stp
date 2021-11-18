@@ -169,7 +169,7 @@ To be eligible for VDS, please be reminded to present your overseas vaccination 
 
 Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="/health/vtsg" target="_blank">here</a> for more FAQs on inland public health measures.
 
-#### 5. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
+#### 8. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
 
 If you have an EU Digital COVID Certificate (EU DCC) issued by any VTL country/region showing the final dose in the series (i.e. “1/1” or “2/2”), you will fulfill the vaccination requirement under the VTL. Short-term visitors and long-term pass holders may proceed to apply for a <a href="https://go.gov.sg/vtl-portal" target="_blank">Vaccinated Travel Pass (VTP) here</a> and upload the QR code found on their EU DCC of vaccination on the VTP application portal.
 
