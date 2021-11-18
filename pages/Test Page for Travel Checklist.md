@@ -31,10 +31,10 @@ published: true
 <span style="color:red;">&#10060;</span> &nbsp;<b>Singapore Citizens and Permanent Residents need not apply</b>.<br><br>All other travellers must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the <a href="/arriving/overview" target="_blank" >“Travelling to Singapore”</a> page.</p>
 
 <p style="padding: 10px; margin: 20px 0px 0px 0px; line-height:1.5; background:#f0f0f0; font-size:18px;"><input type="checkbox" style="width:20px; height:20px;vertical-align:middle;" id="1B" name="1B" value="EntryVisa"><label for="1B">&nbsp;&nbsp;<b>(B) Apply for Entry Visa (For holder of passport issued by visa-required country/region)</b></label><br>
-<ol style="margin-top: 0px; margin-left: 0px; margin-bottom:0px; line-height:1.5; background-color:#f0f0f0; font-size:18px; list-style-type:lower-roman;padding:0px 0px 0px 10px;">Apply for entry visa if traveller is:<br>
+<ol style="margin-top: 0px; margin-left: 0px; margin-bottom:0px; line-height:1.5; background-color:#f0f0f0; font-size:18px; list-style-type:lower-roman;padding:0px 0px 10px 10px;">Apply for entry visa if traveller is:<br>
 	<li style="margin-left: 30px; margin-top: 20px; margin-bottom:0px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">Not a Singapore Citizen, Permanent Resident or Long Term Pass holder; <b>AND</b></li>
 <li style="margin-left: 30px; margin-bottom:0px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">Holding a passport issued by visa-required countries/regions.</li><br>
-	Travellers who are unsure if they require an entry-visa or wish to apply may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">visit the main ICA site</a> for more information.
+Travellers who are unsure if they require an entry-visa or wish to apply may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">visit the main ICA site</a> for more information.
 </ol></p>
 
 <p style="padding:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:20px; height:20px;vertical-align:middle;" id="1C" name="1C" value="HealthDeclarationl"><label for="1C">&nbsp;&nbsp;<b>(C) Submit Health Declaration via SG Arrival Card (SGAC)</b></label><br><br>&#128345; <b>Up to <span style="color:red;">72 hours before arrival</span> in Singapore</b><br><br>Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.
@@ -61,6 +61,6 @@ Produce valid Entry Approval Letter to airlines/transport operators upon request
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in  Singapore</b></div>
 
-<p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A" name="2A" value="EntryApproval"><label for="2A">&nbsp;&nbsp;<b>(A) Pre-boarding Document Checks</b></label><br><br>
+<p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f0f0f0; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A" name="2A" value="EntryApproval"><label for="2A">&nbsp;&nbsp;<b>(A) Pre-boarding Document Checks</b></label><br><br>
 <span style="color:red;">&#10060;</span> &nbsp;<b>Not applicable to Singapore Citizens and Permanent Residents</b>.<br><br>
 Produce valid Entry Approval Letter to airlines/transport operators upon request for their verification of entry approval.</p>
