@@ -127,7 +127,7 @@ If you encountered errors while uploading, please follow the following troublesh
 
 #### 1. What are the browsers compatible with Safe Travel Portal?
 
-For best user experience, please use Google Chrome (version 84 or later) or Microsoft Edge Web Browser. Please also ensure that your pop-up blocker has been turned off to facilitate the payment process.
+For best user experience, please use Google Chrome (version 84 or later) or Microsoft Edge (Version 95 or later) Web Browser. Please also ensure that your pop-up blocker has been turned off to facilitate the payment process.
 
 #### 2. Why am I unable to access the Safe Travel Portal despite having a Corppass?
 

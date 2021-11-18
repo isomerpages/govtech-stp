@@ -14,11 +14,12 @@ permalink: /contact-us
 <!--<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">For approved travellers who have not yet arrived in Singapore, please check the webpages of the <a href="/arriving/overview">Safe Travel Lane</a> you are utilising, to confirm the latest health prevailing health measures that apply to you.</p>-->
 </div>
 
-As our Contact Centre is experiencing a high volume of enquiries, please browse through the information on the SafeTravel website first to find out what requirements apply to you when entering or departing Singapore.
+### Enquiries on How to Enter Singapore
+As our Contact Centre is experiencing a high volume of enquiries, we strongly encourage you to use our self-help tool at the [Travelling to Singapore page](/arriving/overview#selfhelptool) first to determine what Safe Travel Lane you should use to enter Singapore, and read about the corresponding requirements under that lane.
 
-### Application Status
+### Enquiries on Application Status
 
-If you have already applied for entry into Singapore under any of the following lanes, you can check your application status at the links below.
+If you have already applied for entry into Singapore under any of the following lanes, you should check your application status using the links below.
 
 <table>
 <thead>

@@ -1,13 +1,14 @@
 ---
-title: Stay Home Notice (SHN)
+title: Stay Home Notice (SHN) & SHN Dedicated Facilities (SDF)
 permalink: /health/shn
-third_nav_title: Info on Stay Home Notice
+description: ""
 ---
 On this page, you will find information on:
 - [Stay Home Notice (SHN) Requirements](#requirements)
+- [SHN-Dedicated Facilities (SDF) and Cost of Stay](#sdf)
+- [Specific Requests for SDF Stay](#sdfrequest)
 - [SHN Start and End Date](#date)
 - [SHN Compliance Checks](#compliance)
-- [SHN Electronic Monitoring Device](#device)
 
 Only some Safe Travel Lanes to Singapore require travellers to serve an SHN, if they have travel history to certain countries/regions. If you need information on what Safe Travel Lanes to use and whether a Stay Home Notice will be imposed when you enter Singapore, please start from the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page instead to find out more.
 
@@ -15,7 +16,7 @@ Only some Safe Travel Lanes to Singapore require travellers to serve an SHN, if 
 
 ### SHN Requirements
 
-The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or <a href="/health/shn/sdf" target="_blank">SHN Dedicated Facility (SDF)</a> for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.
+The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or <a href="#sdf">SHN Dedicated Facility (SDF)</a> for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Om-hkGPvHOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,13 +30,54 @@ Travellers issued with an SHN should refer to the conditions inside the SHN, and
 
 ---
 
+<div id="sdf"></div>
+
+### SHN Dedicated Facilities (SDF)
+
+Travellers arriving from <a href="/shn-and-swab-summary#from">Category (IV) countries/regions</a> are required by default to serve their SHN at an SDF. Due to the fast-changing demands for SDFs, <b>travellers will be assigned to an available SDF only upon arrival</b>. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click <a href="/health/shn/sdfupgrade">here</a> to find out more.
+
+The cost of a 10-day SDF stay is typically S$1,450 per person per room. A further breakdown is provided in the table below*. The exact costs for the SDF stay will be made known to travellers during the entry approval application process for pass holders, or during check-in at the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the <a href="/health/faq#shnsdf">FAQs</a> for more information.
+
+<table>
+  <tbody><tr>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Single adult to a room</b></td>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">S$1,450 per person for accommodation and food.</td>
+  </tr>
+  <tr>
+    <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Two adults to a room</b>**</td>
+    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">S$950 per person for accommodation and food.
+    </td>   
+  </tr>
+    <tr>
+    <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Minors</b>*** <i>(who are aged 12 years old and below in the current calendar year)</i></td>
+    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Cost will vary for minors depending on age.</td>   
+  </tr>
+ </tbody></table>
+<sup>*</sup><i>Applicable to all travellers except migrant domestic workers (MDW) and confinement nannies. For more information on costs for MDWs and confinement nannies, click  <a href="/wphl/shn-and-swab-summary">here</a>.</i><br><br>
+<sup>**</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) who are serving SHN with the same travel history and duration are permitted to share a room.</i><br><br>
+<sup>***</sup><i>Most standard rooms are able to accommodate a maximum of 2 adults and 2 minors. For greater comfort, families may also request for inter-connecting rooms upon arrival at the SDF, subject to availability and charges for the additional room.</i>
+
+---
+
+<div id="sdfrequest"></div>
+
+### Specific Requests for SDF Stay
+
+Travellers who have specific needs for their SDF stay (e.g. smoking rooms, child-friendly amenities), or wish to request to serve their SHN at a place of residence due to medical requirements, may wish to refer to [this self-help form](https://go.gov.sg/shnhotelneeds) for details. Alternatively, they may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance. Travellers are strongly advised to submit their enquiry or request <u>two weeks in advance</u> of their arrival as border measures may be adjusted due to the fluidity of the Covid-19 situation. 
+
+Travellers who are already serving SHN at an SDF with special requests should contact the SDF's front desk for assistance.
+
+<p>As there is a very high volume of SDF-related requests, please write in early and we seek your understanding and patience that it may take up to five working days to receive a response.</p>
+
+---
+
 <div id="date"></div>
 
 ### SHN Start and End Date
 
 SHN will begin <b>immediately</b> from the time the notice is issued on the day of the traveller's arrival in Singapore. It will remain in effect until the traveller is notified of a negative test result from the final PCR test taken at the end of the SHN. 
 
-Travellers serving their SHN at a place of residence or self-sourced accommodation will be scheduled to take a COVID-19 Polymerase Chain Reaction ("PCR Test") before the end of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers may end their SHN arrangements upon receipt of a negative test result or when they complete the 7-day or 10-day SHN period applicable to them, whichever is later. 
+Travellers serving their SHN at a place of residence or self-sourced accommodation will be scheduled to take a COVID-19 Polymerase Chain Reaction ("PCR Test") before the end of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers may end their SHN arrangements <a href="/health/faq#testresult" target="_blank">upon receipt of a negative test result</a> or when they complete the 7-day or 10-day SHN period applicable to them, whichever is later. 
 
 For travellers serving SHN in an SDF, <b>the SDF will inform the traveller of the check-out time after it receives confirmation of the negative COVID-19 test result from the relevant government agency</b>. Travellers will only be allowed to leave the SDF thereafter. 
 
@@ -77,17 +119,14 @@ Reflected in the table below are two examples of indicative SHN durations. You m
     </tr>-->
   </tbody>
   </table>
-
+	
+---
 
 <div id="compliance"></div>
 
 ### SHN Compliance Checks
 
 Travellers issued with the Stay-Home Notice (SHN) will be subjected to on-site or electronic compliance checks (SMS, phone/video calls) from the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or Ministry of Education (MOE). Travellers should note that officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked to provide the last four digits of his/her Identity Card or Travel Document for verification. Any payment request made by the caller may be a scam. Travellers with SHN issues may call the SafeTravel Helpline at 6812 5555 for further enquiries or assistance.
-
-<div id="device"></div>
-
-### SHN Electronic Monitoring Device
 
 Some travellers may be issued with an Electronic Monitoring Device (EMD) from ICA during their SHN period to ensure compliance. Users are required to download the StayHome@SG mobile application (<a href="https://apps.apple.com/sg/app/stayhome-sg/id1517984071" target="_blank">App Store</a>, <a href="https://play.google.com/store/apps/details?id=com.hitachi.shn_mobile&hl=en_SG&gl=US" target="_blank">Google Play Store</a>) to use the EMD, which comprises of a paired gateway device and wristband (image below). Travellers must wear the wristband throughout the entire duration of their SHN. 
 

@@ -40,7 +40,7 @@ Travellers without a suitable place of residence for SHN may make a direct reser
 
 #### 3. I am presently serving my Stay-Home Notice (SHN). How do I obtain my daily necessities?
 
-An SHN is a legal notice issued under the Infectious Diseases Act, which directs its recipients to remain in their place of residence or [SHN-Dedicated Facilities (SDF)](/health/shn/sdf) <u>at all times</u> for a stipulated period. Any breach in SHN requirements is punishable under Singapore’s laws and additional penalties such as the revocation of a Work Pass may also be taken by the relevant authorities.
+An SHN is a legal notice issued under the Infectious Diseases Act, which directs its recipients to remain in their place of residence or [SHN-Dedicated Facilities (SDF)](/health/shn#sdf) <u>at all times</u> for a stipulated period. Any breach in SHN requirements is punishable under Singapore’s laws and additional penalties such as the revocation of a Work Pass may also be taken by the relevant authorities.
 
 Travellers should note that basic essentials such as water, cleaning supplies as well as daily meals (three times a day based on dietary preference) will be provided by the SDF. Should you require extra food and essentials, you may opt for home delivery services or enlist the help of others. When collecting these items, please refrain from collecting them personally. If you have other specific needs during the SHN period you may call the SafeTravel Enquiries helpline at **6812 5555**.
 
@@ -203,6 +203,8 @@ Travellers will be denied boarding by their airline or ferry if they are:
 - diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or
 - tested positive on the COVID-19 test within <u>2 days</u> before departure for Singapore.
 
+<div id="testresult"></div>
+
 #### 6. How will I be informed of my COVID-19 test result?
 
 Hardcopy/softcopy of the COVID-19 test result will not be issued. Travellers who are Work Pass Holders (and their dependants) will receive their results via SMS or email. All other travellers will be informed of their swab test results verbally by phone or in person. 
@@ -233,7 +235,7 @@ In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR te
 
 #### 12. I am unwell. Can I postpone my COVID-19 Polymerase Chain Reaction test (“PCR test”) appointment?
 
-Travellers who are due to take their PCR test but are feeling unwell should remain in their [Stay-Home Notice (SHN)](/health/shn) accommodation, e.g. own residence or [SHN-Dedicated Facility (SDF)](/health/shn/sdf), and alert the relevant agencies listed in this [page](https://go.gov.sg/tc).
+Travellers who are due to take their PCR test but are feeling unwell should remain in their [Stay-Home Notice (SHN)](/health/shn) accommodation, e.g. own residence or [SHN-Dedicated Facility (SDF)](/health/shn#sdf), and alert the relevant agencies listed in this [page](https://go.gov.sg/tc).
 
 Click here to [Go Back To Top](#top).
 
@@ -375,11 +377,11 @@ Click here to [Go Back To Top](#top).
 
 #### 1. Do I have to pay for my stay at a Stay-Home Notice Dedicated facility (SDF) if I request for it?
 
-Yes, all travellers serving their Stay-Home Notice at an [SDF](/health/shn/sdf) are required to pay for the cost of the accommodation.
+Yes, all travellers serving their Stay-Home Notice at an [SDF](/health/shn#sdf) are required to pay for the cost of the accommodation.
 
 #### 2. When and how should I pay for my COVID-19 Polymerase Chain Reaction test (“PCR test”) and Stay-Home Notice Dedicated Facility (SDF)?
 
-All arriving travellers are required to pay for their Covid-19 test and [SDF](/health/shn/sdf). Travellers who are sponsored may work out the payment arrangement with their application sponsors.
+All arriving travellers are required to pay for their Covid-19 test and [SDF](/health/shn#sdf). Travellers who are sponsored may work out the payment arrangement with their application sponsors.
 
 When and how payment is collected, will depend on the travellers’ scheme of travel:
 
@@ -444,7 +446,7 @@ Travellers should register and pay for their on-arrival COVID-19 PCR test separa
 
 #### 3. How do I request a refund for my COVID-19 Polymerase Chain Reaction test (“PCR test’) as well as stay at the Stay-Home Notice (SHN) dedicated facility (SDF)?
 
-Pre-payments made for relevant costs such as [SDF](/health/shn/sdf) and COVID-19 test fees during the entry application process are non-refundable for drop-outs and last minute cancellations. All forfeited pre-payments will go toward covering the relevant costs have been incurred to secure and prepare the accommodation for the traveller.
+Pre-payments made for relevant costs such as [SDF](/health/shn#sdf) and COVID-19 test fees during the entry application process are non-refundable for drop-outs and last minute cancellations. All forfeited pre-payments will go toward covering the relevant costs have been incurred to secure and prepare the accommodation for the traveller.
  
 Requests for refunds will only be considered if there are strong mitigating factors. These may include flight cancellation by the airline, or changes in border policies that has prevented the traveller from leaving for Singapore. In such instances, travellers may submit a refund request to the channels, below, based on their corresponding pass type and/or scheme of entry:
 

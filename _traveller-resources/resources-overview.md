@@ -13,12 +13,7 @@ Otherwise, click on the links below for the relevant resources on Singapore's tr
 	<a href="/shn-and-swab-summary">Travel Health Control Measures  (Category I/II/III/IV)</a></li>
 	 <li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">
 <a href="/health/vtsg">Vaccinated Status for Travel to Singapore </a></li>
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> <b>Information on Stay Home Notice</b>
-  <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn">Stay-Home Notice (SHN)</a></li>
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn/sdf">SHN in Dedicated Facilities (SDF)</a></li>
-    </ol>
-	</li>
+		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="/health/shn">Stay-Home Notice (SHN) & SHN Dedicated Facilities</a></li>
 	 <li style="margin-top:10px; margin-bottom:0px; font-size:18px;">
 <a href="/health/travelinsurance">Mandatory inbound COVID-19 travel insurance</a></li>
 	  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">

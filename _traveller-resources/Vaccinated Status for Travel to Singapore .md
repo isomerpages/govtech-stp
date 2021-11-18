@@ -67,7 +67,7 @@ Travellers are considered fully vaccinated if they meet the following conditions
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">13 days</td>
 		</tr>
 						<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Covaxin*</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Covaxin</td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Bharat Biotech BBV152 COVAXIN<sup>&#174;</sup></td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">24 days</td>
@@ -117,7 +117,5 @@ If your vaccination certificate(s) are valid, you will be granted <b>temporary v
 The temporary vaccinated status on the TraceTogether app may expire 30 days after your arrival in Singapore. If you require your vaccination status for longer than 30 days, please visit a private healthcare provider or <a href="https://phpc.gov.sg" target="_blank">Public Health Preparedness Clinics</a>for a serology test. Please call in advance to check if the service is available, and bring along your personal identification documents, vaccination certificate(s), as well as translated copies if necessary. 
 
 If your serology test is positive, the private healthcare provider will enter your vaccination records into the National Immunisation Registry (NIR). Your vaccinated status will be updated in the TraceTogether app within 24 hours and you will continue to be eligible for VDS.
-
-<sup>*</sup><i>The ingestion of Covaxin vaccination records into the National Immunisation Registry (NIR) with serology testing will only be available <b>from 12 November 2021</b>.</i>
 
 For more information, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH FAQ </a>.

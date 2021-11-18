@@ -9,7 +9,7 @@ permalink: /vtl/travel-checklist
 
 ### Vaccinated Travel Lane Checklist
 
-This step-by-step checklist is for all VTL travellers entering Singapore, including Singapore Citizens (SC) and Permanent Residents (PR). If the requirements below are not followed:
+This step-by-step checklist is for all VTL travellers entering Singapore, including Singapore Citizens (SC) and Permanent Residents (PR). If <b><u>ANY OF</u></b> the requirements below are not met:
 
 <ol style="list-style-type:lower-alpha">
 	<li style="line-height:1.5;">Singapore Citizens and Permanent Residents will not be eligible for quarantine-free health protocols.</li>	
@@ -26,41 +26,37 @@ Travellers can check the box **(&#9744;)** for completed activities.
 
 &#9744;  <i><b>A) Obtain an acceptable proof of vaccination </b></i>
 
-You must obtain any of the following acceptable proof of vaccination, or you will not be eligible for travel on the VTL. Other non-VTL lanes are available on the “Traveling to Singapore” page if you are not eligible for the VTL. Eligibility for the vaccination proof below will vary depending on where you took your vaccination and your location. All travellers should also self-verify their vaccination certificates by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.
+You must obtain any of the following acceptable proof of vaccination, or you will not be eligible for travel on the VTL. Other non-VTL lanes are available on the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if you are not eligible for the VTL. Eligibility for the vaccination proof below will vary depending on where you took your vaccination and your location. All travellers should also self-verify their vaccination certificates by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.
 
-<div style="padding-left: 5px; padding-bottom: 20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:10px;">
- <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Mobile Applications</b></p>
-	    <ol style="margin-top:0px; list-style-type: decimal;">
-		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore's <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
-		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Brunei Darussalam's<a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a></li>
-		      <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Indonesia’s <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi</a></li>
-		      <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> Qatar’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">Tawtheeq</a></li>
-		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> Saudi Arabia’s <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna</a></li>
-		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> United Arab Emirates’ <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn</a></li>
-	    </ol>
-	    <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Vaccination Certificates</b><sup>^</sup></p>
-	    <ol style="margin-top:0px; list-style-type: decimal;">
-		    <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a></li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates</a> (EU DCC) issued by any VTL country/region</li>
-						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards</a> (SHC) issued by any Canadian province, CommonTrust Network issuers in any VTL country/region (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>) or <a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a>
-			</li>
-						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
-		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any VTL country/region</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Static QR Code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>*</li>	
-		  <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Vaccination certificates in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC)</a> standard, such as those within India’s <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform</li>
+<p style="line-height:1.5; font-size:18px;">
+<ol style="margin-top:0px; list-style-type: disc;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">Tracetogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia:</b> <a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Brunei:</b> Proof of vaccination on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Canada:</b> <a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by any Canadian province</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Denmark, France, Germany, Italy, Netherlands, Spain, Switzerland, Finland, Sweden:</b> <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>India:</b> International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Indonesia:</b> Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Qatar</b> COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Republic of Korea:</b> Static vaccination certificate QR code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA) downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="blank">KDCA website</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Saudi Arabia:</b> Proof of vaccination on the <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>United Arab Emirates:</b> Proof of vaccination on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a> </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>United Kingdom:</b> <a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination or Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”) app</a>). One QR code per dose.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>United States of America(any of the following):</b> 
+			<ol style="list-style-type:lower-alpha; ">
+			<li style="line-height:1.5; margin-bottom:18px; font-size:18px;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by CommonTrust Network issuers (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>) or <a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Digital vaccination record retrieved from the public health database of the state or the local health authority </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to passenger’s vaccination status. The attestation letter should contain:
+			<ol style="list-style-type:lower-roman;">
+				<li style="line-height:1.5; margin-bottom:18px; font-size:18px;">the passenger’s name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the passenger’s passport used for entry into Singapore; </li>
+				<li style="line-height:1.5; margin-bottom:18px; font-size:18px;">the name of the vaccine administered for each dose; and</li>
+				<li style="line-height:1.5; margin-bottom:18px; font-size:18px;">the date when each dose was administered.</li>
+				</ol>		
+			</li>	
 			</ol>
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>^</sup>If your vaccination record was issued in the US but you are unable to produce a digitally verifiable vaccination certificate, you can provide either</p> 
-<p style="font-size:18px; margin-top:10px; line-height:1.5;">(a) your digital vaccination record retrieved through your state’s or local health authority’s public health database, or</p>
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"> (b) your physical vaccination records <b><u>and</u></b> a letter signed by your vaccination provider to attest to your vaccination status; the attestation letter should contain:</p>
-<ol style="margin-top:0px; padding-left:25px; list-style-type: lower-roman;">
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">your name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the name of the vaccine administered for each dose; and</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;">the date when each dose was administered.</li>
+		</li>		
 	</ol>
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.5;">Singapore Citizens and Permanent Residents do not need to apply for the VTP and can just present either of the documents in (a) <b><u>or</u></b> (b) above for verification at the airlines check-in counter pre-departure and on arrival at the Singapore immigration.</p>
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.5;">Short-Term Visitors and Long-Term Pass Holders who need to apply for the VTP but cannot upload their vaccination certificate can write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with either of the documents in (a) <b><u>or</u></b> (b) above attached for verification.</p>
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>*</sup>If you are a non-Korean national and a Singapore short-term visitor or long-term pass holder, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application. </p>
-</div> 
+</p>
 
 Frequently asked questions regarding vaccination proof can be found <a href="/vtl/faq#VacReq" target="_blank">here</a>.
 
@@ -70,7 +66,7 @@ All short-term visitors and long-term pass holders must apply for a VTP. The VTP
 
 Unvaccinated children aged 12 and below in this calendar year are eligible to enter Singapore on the VTL without applying for a VTP (e.g. a child turning 12 this year is eligible). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL traveller.
 
-&#9744;  <i><b>C) [If required] Application for Entry Visas for Short Term Visitors</b></i>
+&#9744;  <i><b>C) [If travel document is issued by a country/region that requires an entry visa] Application for Entry Visas for Short Term Visitors</b></i>
 
 Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.
 
@@ -80,12 +76,12 @@ To qualify for the VTL quarantine-free travel health protocols, travellers must 
 			      
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions listed below, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL flight (list below reflecting respective airlines’ websites)</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL flight  Please check the websites of the respective airlines for details of the VTL flights available.</li>
 			      </ol>
 <table>
 <thead>
 <tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width:400px;"><b>Airlines Operating Designated VTL Flights to Singapore*</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width:400px;"><b>Airlines Operating Designated VTL Flights to Singapore*<br>*List will be regularly updated</b></th>
 	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;"><b>VTL Countries/Regions</b></th>
 </tr>
 </thead>
@@ -195,7 +191,7 @@ Travellers should **defer their travels** if they:
 
 &#9744;  <i><b>I) Registration and Pre-payment for On-Arrival COVID-19 PCR Test</b></i>
 
-All travellers, except those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year), should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pre-pay for their on-arrival COVID-19 PCR test here</a>. The test costs $125 including GST. Failing which, travellers will pay for the test on the spot during arrival, and should expect additional delays in the administration of the test and departure from the checkpoint.
+All travellers, except those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year), should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pre-pay for their on-arrival COVID-19 PCR test here</a>. The test costs $125 including GST. Failing which, travellers will pay for the test on the spot during arrival, and may experience delays in the administration of the test and departure from the checkpoint.
 
 &#9744;  <i><b>J) [Short term visitors only] Contact Tracing App/Token</b></i>
 
@@ -259,9 +255,11 @@ Travellers who test positive for COVID-19 are required to receive <a href="/heal
 
 &#9744;  <i><b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></i>
 
-Travellers must comply with the <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
+As part of Singapore’s Vaccination-differentiated Safe Management Measures (VDS), you must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). Travellers must also comply with all other <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.
 
-Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.
+If you are a Singapore Citizen or Permanent Resident with an overseas-issued vaccination certificate, to be eligible for VDS, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, if you are unable to upload your vaccination certificate successfully during SG Arrival Card submission. Your status will be updated on your TraceTogether app.
+
+Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://safetravel.ica.gov.sg/health/vtsg" target="_blank">here</a> for more FAQs on inland public health measures.
 
 
 
