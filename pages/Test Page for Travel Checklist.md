@@ -52,3 +52,5 @@ published: true
 <li style="margin-left: 30px; margin-bottom:20px; line-height:1.5; background-color:#f0f0f0; font-size:18px;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay</a> <b>(S$125)</b> for on-arrival COVID-19 Polymerase Chain Reaction test</li>
 		<li style="margin-left: 30px; margin-bottom:20px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">	Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones to facilitate SHN compliance checks and contact tracing</li>
 </ol></p>
+
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
