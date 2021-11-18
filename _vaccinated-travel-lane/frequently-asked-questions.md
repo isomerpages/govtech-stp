@@ -114,17 +114,19 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 				<tr>
 			<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
 						<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore</td>
-						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A valid Vaccinated Travel Pass (VTP), which you can apply for here.
+						<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A valid Vaccinated Travel Pass (VTP), which you can apply for here.
 
-On the VTP application portal, please select the following options depending on your pass type: 
-•	MOM Long-Term Pass Holder if you are an Employment Pass, Work Pass or Dependent’s Pass holder, or
-•	MOE Long-Term Pass Holder if you are a Student Pass holder
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"> On the VTP application portal, please select the following options depending on your pass type: </p>
+	
+<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">MOM Long-Term Pass Holder if you are an Employment Pass, Work Pass or Dependent’s Pass holder, or</li>
+							
+<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">MOE Long-Term Pass Holder if you are a Student Pass holder</li>
 
-Please also select ‘Yes’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal. Your vaccination status will be verified against MOH’s records.
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"> Please also select ‘Yes’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal. Your vaccination status will be verified against MOH’s records.</p>
 
-If you have a Singapore Vaccination HealthCerts issued via the Notαrise portal, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore’ on the portal and proceed to upload your QR code obtained from the Notαrise portal.
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">If you have a Singapore Vaccination HealthCerts issued via the Notαrise portal, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore’ on the portal and proceed to upload your QR code obtained from the Notαrise portal.</p>
 
-If you are still encountering issues, please write to the Safe Travel Office using the enquiry form here and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">If you are still encountering issues, please write to the Safe Travel Office using the enquiry form here and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
 </td>
 		</tr>
 				<tr>
