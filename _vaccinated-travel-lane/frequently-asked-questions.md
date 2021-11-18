@@ -87,7 +87,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 		<tr>
 			<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
 						<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore</td>
-						<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">(A)	a vaccination status on the TraceTogether app or HealthHub app; or <br><br>
+						<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Either of the following:<br>(A)	a vaccination status on the TraceTogether app or HealthHub app; or <br><br>
 (B)	vaccination certificate(s) issued by the Singapore Ministry of Health in English. <br><br>
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">For (A), please see sample screenshots below:</p>
 <table>
@@ -108,7 +108,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 		</tr>
 		<tr>
 			<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
-						<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A VTL country/region</td>
+						<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></td>
 						<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">One of the accepted proofs of vaccination, which may include your overseas-issued vaccination certificate</td>
 		</tr>
 				<tr>
