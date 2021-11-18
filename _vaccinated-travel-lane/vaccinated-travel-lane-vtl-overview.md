@@ -156,9 +156,9 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Digital vaccination record retrieved from the public health database of the state or the local health authority </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to passenger’s vaccination status. The attestation letter should contain:
 			<ol style="list-style-type:lower-roman;">
-				<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">the passenger’s name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the passenger’s passport used for entry into Singapore; </li>
-				<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">the name of the vaccine administered for each dose; and</li>
-				<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">the date when each dose was administered.</li>
+				<li style="line-height:1.3; margin-bottom:18px; font-size:15px;">the passenger’s name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the passenger’s passport used for entry into Singapore; </li>
+				<li style="line-height:1.3; margin-bottom:18px; font-size:15px;">the name of the vaccine administered for each dose; and</li>
+				<li style="line-height:1.3; margin-bottom:18px; font-size:15px;">the date when each dose was administered.</li>
 				</ol>		
 			</li>	
 			</ol>
