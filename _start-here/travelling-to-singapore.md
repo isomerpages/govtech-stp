@@ -15,7 +15,7 @@ This self-help tool will output the most relevant Safe Travel Lanes to use based
 
 No information will be stored by this tool. If the tool below does not work in your browser, try opening it in a <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">separate window</a>, or refer to the list of <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">SafeTravel Lanes</a>. 
 
-<iframe width="100%" height="2100px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="2600px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <div id="lanelist"></div>
