@@ -506,7 +506,7 @@ Please refer to the table below.
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">oe</td>
 </tr>	
 </tbody>
-</table><br>
+</table>
 
 Please note that the field will only allow you to key in a maximum of one space between words.
 
