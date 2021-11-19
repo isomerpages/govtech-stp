@@ -171,7 +171,7 @@ input:checked + label + .content {
 <label for="title2">Criteria 2: Hold an Accepted Proof of Vaccination</label>
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">
-<p style="line-height:1.3; font-size:18px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality. More details can be found in our <a href="/vtl/faq#QRcode" "_blank">FAQs</a>.</p>
+<p style="line-height:1.3; font-size:18px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality. More details can be found in our <a href="/vtl/faq#QRcode" target="_blank">FAQs</a>.</p>
 	<p style="line-height:1.3; font-size:18px;">
 	<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
