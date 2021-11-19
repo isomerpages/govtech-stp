@@ -527,7 +527,7 @@ We are currently working on accepting digitally verifiable vaccination certifica
 
 You can provide either 
 <ol style="list-style-type:lower-alpha;">
-	<li style="line-height:1.5;">your digital vaccination record retrieved through your state’s or local health authority’s public health database, <b><u>or</u></b></li>
+	<li style="line-height:1.5;">your <a href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html" target="_blank">digital vaccination record retrieved through your state’s or local health authority’s public health database</a>, <b><u>or</u></b></li>
 	<li style="line-height:1.5;">your physical vaccination records <b><u>and</u></b> a letter signed by your vaccination provider to attest to your vaccination status; the attestation letter should contain:
 		<ol style="list-style-type:lower-roman;">
 <li>your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
