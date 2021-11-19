@@ -108,7 +108,7 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;"> Please also select ‘Yes’ when prompted if you have a 'Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal. Your vaccination status will be verified against MOH’s records.</p>
 
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">If you have a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code obtained from the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>.</p>
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">You may also upload a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, if you have one. Please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code obtained from the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>.</p>
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">If you are still encountering issues, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
 </td>
@@ -118,7 +118,7 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">A valid Vaccinated Travel Pass (VTP), which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>.</p>
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">On the VTP application portal, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’. Please proceed to upload your vaccination certificate QR code, which should be one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>.</p>
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">If you are still encountering issues or do not have a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your overseas-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">If you are still encountering issues, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your overseas-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
 </td>
 		</tr>
 	</tbody>
@@ -157,11 +157,15 @@ To be eligible for VDS, please be reminded to present your overseas vaccination 
 
 Please click <a href="/health/vtsg" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for more FAQs on inland public health measures.
 
-#### 8. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
+#### 8. I was diagnosed with COVID-19 and have since recovered. I have been administered only one vaccine dose of a typically two-dose regimen. Am I eligible to travel under the VTL?
 
-If you have an EU Digital COVID Certificate (EU DCC) issued by any VTL country/region showing the final dose in the series (i.e. “1/1” or “2/2”), you will fulfill the vaccination requirement under the VTL. Short-term visitors and long-term pass holders may proceed to apply for a <a href="https://go.gov.sg/vtl-portal" target="_blank">Vaccinated Travel Pass (VTP) here</a> and upload the QR code found on their EU DCC of vaccination on the VTP application portal.
+Yes, if the date of your vaccine dose is at least 14 days before the date of your intended arrival into Singapore, and you are holding one of the following proofs of vaccination:
 
-If you have an NHS COVID Pass of vaccination, a Northern Ireland COVID certificate, or a Singapore-issued vaccination certificate, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo.
+<ol style="list-style-type:disc;">
+			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">•	EU Digital COVID Certificate (EU DCC) of vaccination issued by any VTL country/region showing the final dose in the series (i.e. “1/1”). If you are required to apply for a Vaccinated Travel Pass (VTP), you need only upload the QR code found on your EU DCC; or</li>
+
+<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">•	NHS COVID Pass of vaccination, a Northern Ireland COVID certificate, or a Singapore-issued vaccination certificate. This must be accompanied with an EU DCC of recovery, NHS recovery certificate, or Singapore-issued discharge memo stating the date of your first COVID infection. If you are required to apply for a VTP, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo. Singapore Citizens and Permanent Residents must show their recovery certificate or discharge memo along with either of these proofs of vaccination at airlines at check-in and at arrival immigration.</li>
+</ol>
 
 The date of your vaccine dose should be at least 14 days before the date of your intended arrival into Singapore. We regret to inform you that we are unable to consider your appeal if it does not fulfill these criteria.
 
