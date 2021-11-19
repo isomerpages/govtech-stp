@@ -161,7 +161,6 @@ To qualify for the VTL quarantine-free travel health protocols, travellers must 
 </tr>	
 </tbody>
 </table>
-<p style="font-size:16px; line-height:1.5;"><sup>*</sup>The list of airlines and websites will be regularly updated</p>
 
 
 &#9744;  <i><b>E) [Short-term visitors only] COVID-19 Insurance </b></i>
