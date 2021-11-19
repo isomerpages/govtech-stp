@@ -507,6 +507,8 @@ Please refer to the table below.
 	</tbody>
 	</table>
 
+<p style="font-size:15px; margin-top:20px; margin-bottom:15px; line-height:1.5;">Please note that the field will only allow you to key in a maximum of one space between words.</p>
+<p style="font-size:15px; margin-top:20px; margin-bottom:15px; line-height:1.5;">If you are still facing name mismatch errors, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.</p>
 
 #### 3. I was issued a vaccination certificate in the United States but it is not issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative. Is there any alternative to showing my vaccination status for VTL travel?
 
