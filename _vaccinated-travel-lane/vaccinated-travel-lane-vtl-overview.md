@@ -215,7 +215,7 @@ input:checked + label + .content {
 <div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.3; font-size:18px; " >Travellers must:</p>
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any VTL countries/regions below, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 14 consecutive days before departure for Singapore.
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any VTL countries/regions below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 14 consecutive days before departure for Singapore.
 		</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL flight (list available in the in the <a href="/vtl/travel-checklist" target="_blank">VTL Traveller’s Checklist</a>)</li>
 	</ol>
