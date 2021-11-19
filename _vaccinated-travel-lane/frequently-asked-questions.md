@@ -506,11 +506,12 @@ Please refer to the table below.
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">oe</td>
 </tr>	
 </tbody>
-</table>
+</table><br>
 
 Please note that the field will only allow you to key in a maximum of one space between words.
 
 If you are still facing name mismatch errors, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
+
 
 
 #### 6. Why are only SMART Health Cards by certain issuers accepted?
@@ -540,11 +541,13 @@ You can provide either
 
 **Short-term Visitors and Long-Term Pass Holders** who need to apply for the VTP but cannot upload their vaccination certificate can write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> either of the documents in (a) <b><u>or</u></b> (b) above for verification.
 
+
 ---
 
 ##### Click here to go back to the [top](#top).
 
 ---
+
 
 <div id="THReq"></div>
 
