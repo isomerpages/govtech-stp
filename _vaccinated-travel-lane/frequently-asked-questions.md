@@ -461,7 +461,6 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 #### 5. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP?
 
 Please refer to the table below. 
-
 <table>
 <thead>
 <tr>
@@ -506,8 +505,8 @@ Please refer to the table below.
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ø</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">oe</td>
 </tr>	
-	</tbody>
-	</table>
+</tbody>
+</table>
 
 Please note that the field will only allow you to key in a maximum of one space between words.
 
