@@ -171,7 +171,7 @@ input:checked + label + .content {
 <label for="title2">Criteria 2: Hold an Accepted Proof of Vaccination</label>
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">
-<p style="line-height:1.3; font-size:18px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality. More details can be found in our FAQs.</p>
+<p style="line-height:1.3; font-size:18px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality. More details can be found in our <a href="/vtl/faq#QRcode" "_blank">FAQs</a>.</p>
 	<p style="line-height:1.3; font-size:18px;">
 	<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
@@ -247,7 +247,7 @@ input:checked + label + .content {
 <label for="title6">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
 <div class="content" style="background-color:#edf4fa;">
-<p style="line-height:1.3; font-size:18px;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. However, <b><span style="color:red;">SC/PRs must also comply with all the requirements stated in the <a href="/vtl/travel-checklist" target="_blank">VTL Traveller's Checklist</a></span></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
+<p style="line-height:1.3; font-size:18px;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. However, <b><span style="color:red; font-size:18px;">SC/PRs must also comply with all the requirements stated in the</span> <a href="/vtl/travel-checklist" target="_blank">VTL Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
 	
 <p style="line-height:1.3; font-size:18px;">SC/PRs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore. <b>Please note that the physical arrival card ("white card") is no longer accepted</b>.</p>
 	
