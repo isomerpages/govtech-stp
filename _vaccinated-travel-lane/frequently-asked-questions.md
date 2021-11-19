@@ -522,6 +522,7 @@ Please note that individuals with an Excelsior Pass issued by the New York State
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more states and issuers are onboarded. 
 
+
 #### 7. I was issued a vaccination certificate in the United States but it is not a SMART Health Card issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative. Is there any alternative to showing my vaccination status for VTL travel?
 
 You can provide either 
