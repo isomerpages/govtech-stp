@@ -2,7 +2,7 @@ collections:
   work-pass-holder-lane:
     output: true
     order:
-      - overview.md
+      - Overview (Work Pass Holder Lane).md
       - travel-and-health-control-measures.md
       - frequently-asked-questions.md
       - Vaccination Requirements for Entry via the Work Pass Holder General Lane
