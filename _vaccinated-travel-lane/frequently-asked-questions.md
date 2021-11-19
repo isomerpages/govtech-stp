@@ -284,7 +284,7 @@ We are currently unable to accept recovery certificates of travellers with proof
 				</ol>			
 			</li>
 			<b style="font-size:15px;">OR</b>
-			<li style="line-height:1.3; margin-bottom:15px;  font-size:15px;">Digital vaccination record retrieved from the public health database of the state or the local health authority; </li>
+			<li style="line-height:1.3; margin-bottom:15px;  font-size:15px;"><a href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html" target="_blank">Digital vaccination record retrieved from the public health database of the state or the local health authority</a>; </li>
 			<b style="font-size:15px;">OR</b>
 			<li style="line-height:1.3; margin-bottom:15px;  font-size:15px;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to passenger’s vaccination status. The attestation letter should contain:
 			<ol style="list-style-type:lower-roman;">
@@ -442,19 +442,17 @@ You may refer to this table below:
 
 #### 4. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
-You may encounter errors upon uploading your vaccination QR code(s) for reasons such as:
-
-- QR code is not cropped from the vaccination certificate document when uploaded
-- <a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof">[For International COVID-19 Vaccination Certificate]</a> Full 1-page PDF file was not uploaded
-- QR code is not in an acceptable format and by specific issuers
-- Traveller’s particulars do not match with the particulars in the vaccination certificate – <b>please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation</b>.
-- Traveller is not [fully vaccinated](/health/vtsg) yet
-- [Days interval between doses](/health/vtsg) is less than the requirement
-- [Number of QR codes](#numberofcodes) uploaded does not meet the criteria
+Some possible reasons include:
+- Traveller does not have a proof vaccination issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
+- Number of QR codes uploaded does not meet the criteria mentioned <a href="#numberofcodes" target="_blank">here</a>.
+- Wrong method of QR code upload. Please refer to our FAQ <a href="#QRcode" target="_blank">here</a>.
+- Not an <a href="#QRcode" target="_blank">accepted proof of vaccination</a>
+- Traveller’s particulars do not match with particulars in the vaccination certificate. Please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.
+- Traveller is not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
+- <a href="/health/vtsg" target="_blank">Days interval between doses</a> is less than the requirement
 - The QR code has been tampered with
-- Traveller does not have a proof vaccination issued in a [VTL country/region](/vtl/requirements-and-process#countries)
 
-For further assistance, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at +65 6812 5555.
+For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
 
 
@@ -527,7 +525,7 @@ We are currently working on accepting digitally verifiable vaccination certifica
 
 You can provide either 
 <ol style="list-style-type:lower-alpha;">
-	<li style="line-height:1.5;">your digital vaccination record retrieved through your state’s or local health authority’s public health database, <b><u>or</u></b></li>
+	<li style="line-height:1.5;">your <a href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html" target="_blank">digital vaccination record retrieved through your state’s or local health authority’s public health database</a>, <b><u>or</u></b></li>
 	<li style="line-height:1.5;">your physical vaccination records <b><u>and</u></b> a letter signed by your vaccination provider to attest to your vaccination status; the attestation letter should contain:
 		<ol style="list-style-type:lower-roman;">
 <li>your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
