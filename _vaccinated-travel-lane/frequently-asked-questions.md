@@ -442,6 +442,19 @@ You may refer to this table below:
 
 #### 4. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
+Some possible reasons include:
+- Traveller does not have a proof vaccination issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
+- Number of QR codes uploaded does not meet the criteria mentioned here.
+- Wrong method of QR code upload. Please refer to our FAQ here.
+- Not an accepted proof of vaccination
+- Traveller’s particulars do not match with particulars in the vaccination certificate. Please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.
+- Traveller is not fully vaccinated yet
+- Days interval between doses is less than the requirement
+- The QR code has been tampered with
+
+For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
+
+
 You may encounter errors upon uploading your vaccination QR code(s) for reasons such as:
 
 - QR code is not cropped from the vaccination certificate document when uploaded
