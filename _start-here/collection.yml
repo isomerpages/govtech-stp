@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Travelling to Singapore.md
-      - departing-from-singapore.md
+      - Departing from Singapore.md
       - transiting-through-singapore.md
