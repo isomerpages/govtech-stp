@@ -455,21 +455,6 @@ Some possible reasons include:
 For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
 
-You may encounter errors upon uploading your vaccination QR code(s) for reasons such as:
-
-- QR code is not cropped from the vaccination certificate document when uploaded
-- <a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof">[For International COVID-19 Vaccination Certificate]</a> Full 1-page PDF file was not uploaded
-- QR code is not in an acceptable format and by specific issuers
-- Traveller’s particulars do not match with the particulars in the vaccination certificate – <b>please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation</b>.
-- Traveller is not [fully vaccinated](/health/vtsg) yet
-- [Days interval between doses](/health/vtsg) is less than the requirement
-- [Number of QR codes](#numberofcodes) uploaded does not meet the criteria
-- The QR code has been tampered with
-- Traveller does not have a proof vaccination issued in a [VTL country/region](/vtl/requirements-and-process#countries)
-
-For further assistance, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at +65 6812 5555.
-
-
 
 #### 5. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP?
 
