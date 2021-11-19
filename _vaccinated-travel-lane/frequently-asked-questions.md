@@ -284,7 +284,7 @@ We are currently unable to accept recovery certificates of travellers with proof
 				</ol>			
 			</li>
 			<b style="font-size:15px;">OR</b>
-			<li style="line-height:1.3; margin-bottom:15px;  font-size:15px;">Digital vaccination record retrieved from the public health database of the state or the local health authority; </li>
+			<li style="line-height:1.3; margin-bottom:15px;  font-size:15px;"><a href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html" target="_blank">Digital vaccination record retrieved from the public health database of the state or the local health authority</a>; </li>
 			<b style="font-size:15px;">OR</b>
 			<li style="line-height:1.3; margin-bottom:15px;  font-size:15px;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to passenger’s vaccination status. The attestation letter should contain:
 			<ol style="list-style-type:lower-roman;">
