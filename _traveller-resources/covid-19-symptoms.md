@@ -28,7 +28,7 @@ Visitors should monitor their health and should not travel to Singapore if they:
 <ol style="margin-top:0px; margin-bottom:0px;">
 <li style="margin-top:10px; margin-bottom:0px; list-style-type:lower-roman">Have symptoms of COVID-19;</li>
 <li style="margin-top:10px; margin-bottom:0px; list-style-type:lower-roman">Are diagnosed or suspected to have COVID-19 infection in the last 14 days before departing for Singapore; or</li>
-<li style="margin-top:10px; margin-bottom:0px; list-style-type:lower-roman">Had close contact with any person with COVID-19 in the last 10 days before departing for Singapore. Close contact means:</li>
+<li style="margin-top:10px; margin-bottom:0px; list-style-type:lower-roman">Had close contact with any person with COVID-19 in the last 7 days before departing for Singapore. Close contact means:</li>
 <ul>
     <li style="margin-top:10px; margin-bottom:0px; list-style-type:disc">Providing care for a COVID-19 patient, including in healthcare or family/social setting;</li>
     <li style="margin-top:10px; margin-bottom:0px; list-style-type:disc">Staying in the same place as a person with COVID-19 (e.g. household members); or</li>
