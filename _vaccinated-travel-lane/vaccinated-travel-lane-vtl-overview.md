@@ -247,7 +247,7 @@ input:checked + label + .content {
 <label for="title6">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
 <div class="content" style="background-color:#edf4fa;">
-<p style="line-height:1.3; font-size:18px;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. However, <b><span style="color:red; font-size:18px;">SC/PRs must also comply with all the requirements stated in the</span> <a href="/vtl/travel-checklist" target="_blank">VTL Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
+<p style="line-height:1.3; font-size:18px;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. <span style="color:red; font-size:18px;">However, <b>SC/PRs must also comply with all the requirements stated in the</span> <a href="/vtl/travel-checklist" target="_blank">VTL Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
 	
 <p style="line-height:1.3; font-size:18px;">SC/PRs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore. <b>Please note that the physical arrival card ("white card") is no longer accepted</b>.</p>
 	
