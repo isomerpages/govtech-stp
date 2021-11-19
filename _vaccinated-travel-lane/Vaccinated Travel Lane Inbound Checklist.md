@@ -63,7 +63,7 @@ Other frequently asked questions regarding vaccination proof can be found <a hre
 
 &#9744;  <i><b>B) [Short-Term Visitors and Long-Term Pass Holders only] Apply for Vaccinated Travel Pass (VTP) </b></i>
 
-All short-term visitors and long-term pass holders must apply for a VTP. The VTP can only be used for travel on designated VTL flights. Applications must be made between 7 and 60 calendar days before the intended date of entry, together with the QR code of the traveller’s vaccination certificate (if available). Applications are free of charge. Successful applicants will receive their approved VTP via email. <b><a href="https://go.gov.sg/vtl-portal" target="_blank">Click here to apply for a VTP</a></b>
+All short-term visitors and long-term pass holders must apply for a VTP. The VTP can only be used for travel on designated VTL flights. Applications must be made between 7 and 60 calendar days before the intended date of entry, together with the QR code of the traveller’s vaccination certificate (if available). Applications are free of charge. Successful applicants will receive their approved VTP via email. <b><a href="https://go.gov.sg/vtl-portal" target="_blank">Click here to apply for a VTP.</a></b>
 
 Unvaccinated children aged 12 and below in this calendar year are eligible to enter Singapore on the VTL without applying for a VTP (e.g. a child turning 12 this year is eligible). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL traveller.
 
@@ -82,7 +82,7 @@ To qualify for the VTL quarantine-free travel health protocols, travellers must 
 <table>
 <thead>
 <tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width:400px;"><b>Airlines Operating Designated VTL Flights to Singapore*<br>*List will be regularly updated</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width:400px;"><b>Airlines Operating Designated VTL Flights to Singapore*<br>*<i style="font-size:14px;">List will be regularly updated</i></b></th>
 	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;"><b>VTL Countries/Regions</b></th>
 </tr>
 </thead>
