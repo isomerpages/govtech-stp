@@ -102,7 +102,7 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;"> Please select ‘Yes’ when prompted if you have a 'Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal. Your vaccination status will be verified against MOH’s records.</p>
 
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">You may also upload a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, if you have one. Please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code obtained from the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>.</p>
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">You may also upload a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, if you have one. Please refer to <a href="#Q4">Q4</a> below for more details.</p>
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">If you are still encountering issues, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
 </td>
