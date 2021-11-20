@@ -421,7 +421,7 @@ Switzerland</td>
 
 #### 3. How do I know if I need to upload (1) or (2) vaccination QR codes?
 
-You may refer to this table below:
+You may refer to this table below. Please extract (i.e. screen-capture, crop and upload) each of your QR codes at each point of upload.
 
 <table>
 <thead>
