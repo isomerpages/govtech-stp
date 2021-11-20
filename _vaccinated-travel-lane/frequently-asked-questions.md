@@ -301,19 +301,29 @@ We are currently unable to accept recovery certificates of travellers with proof
 
 <div id="verify"></div>
 
-#### 2. How can I check if my vaccination certificate is acceptable? Can I self-verify my vaccination certificate?
+#### 2. Can I self-verify my vaccination certificate?
 
-Yes, you can. You may wish to use the following non-exhaustive list of applications / websites for self-verification:
+Depending on the vaccination certificate you hold, you are encouraged to check if your QR code(s) or vaccination certificate(s) is/are valid before uploading them to the portal. You may wish to use the following non-exhaustive list of applications / websites for self-verification.
 
 <table>
 <thead>
 <tr>
-<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Certificate Type</b></th>
-<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Application / Website</b></th>
+<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Country in which Proof of Vaccination was issued</b></th>
+<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Self-Verifiable Proofs of Vaccination</b></th>
+	<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Available Self-Verification Tools</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
+	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center; ">Denmark<br>
+Finland<br> 
+France<br>
+Germany<br>
+Italy<br>
+Netherlands<br>
+Spain<br>
+Sweden<br> 
+Switzerland</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">
 	<ol style="margin-top:0px; list-style-type: disc;">
