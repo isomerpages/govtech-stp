@@ -438,6 +438,13 @@ You may refer to this table below. Please extract (i.e. screen-capture, crop and
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise Portal</a></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+</tr>
+	<tr>
+			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Canada</td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://smarthealth.cards/faq.html" target="_blank">Smart Health Cards (SHC)</a><sup>^</sup> issued by any Canadian province</li></ol>
+</td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>	
 <tr>
 	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Denmark<br>
@@ -454,11 +461,12 @@ Switzerland</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>
 <tr>
+			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">United States of America</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://smarthealth.cards/faq.html" target="_blank">Smart Health Cards (SHC)</a><sup>^</sup> issued by 
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
 				<li style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
 								<li style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
-				<li style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Any Canadian province</li>							</ol>
+				<li style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Any Canadian province</li></ol>
 </td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
