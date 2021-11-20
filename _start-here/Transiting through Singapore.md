@@ -1,7 +1,9 @@
 ---
 title: Transiting through Singapore
 permalink: /transit/overview
+description: Requirements for transiting through Singapore
 ---
+
 #### Eligibility
 
 Travellers departing from all countries/regions are allowed to transit through Singapore.

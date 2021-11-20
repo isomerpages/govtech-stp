@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - rgl-travellers-visiting-singapore/.keep
-      - rgl-travellers-visiting-singapore/overview.md
+      - rgl-travellers-visiting-singapore/RGL Overview.md
       - rgl-travellers-visiting-singapore/RGL Inbound Traveller Checklist.md
       - rgl-travellers-visiting-singapore/inbound-faq.md
       - visiting-rgl-counterpart-countries-regions/.keep

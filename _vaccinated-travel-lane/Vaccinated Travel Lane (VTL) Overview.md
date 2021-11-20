@@ -1,7 +1,9 @@
 ---
 title: Vaccinated Travel Lane (VTL) Overview
 permalink: /vtl/requirements-and-process
+description: Requirements for using the Vaccinated Travel Lane to travel to Singapore by air
 ---
+
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL:</p>
 <ol>

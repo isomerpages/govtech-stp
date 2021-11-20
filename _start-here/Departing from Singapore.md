@@ -1,7 +1,9 @@
 ---
 title: Departing from Singapore
 permalink: /departing/overview
+description: Advisories and resources for departing from Singapore
 ---
+
 <div id="top"></div>
 
 On this page, travellers intending to depart from Singapore can find information on:

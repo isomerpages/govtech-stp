@@ -1,7 +1,11 @@
 ---
 title: Travelling to Singapore
 permalink: /arriving/overview
+description: Start here to find out the travel requirements, restrictions and
+  SafeTravel Lanes available when travelling to Singapore
 ---
+
+
 Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangement, and the entry requirements and health controls of each Safe Travel Lane may differ depending on the traveller’s profile and travel history. Travellers can refer to the following sections on this page to determine the most relevant arrangement(s) to enter Singapore:
 - [Self Help Tool for Safe Travel Lanes and Entry Requirements](#selfhelptool)
 - [Listing of Safe Travel Lanes by Traveller Profile](#lanelist)

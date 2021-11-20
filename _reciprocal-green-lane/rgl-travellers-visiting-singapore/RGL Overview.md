@@ -1,8 +1,10 @@
 ---
-title: Overview
+title: RGL Overview
 permalink: /rgl/overview
 third_nav_title: RGL Travellers Visiting Singapore
+description: ""
 ---
+
 This page summarises the requirements for using the Reciprocal Green Lane (RGL) to enter Singapore.
 
 Currently, Brunei Darussalam and selected regions in Mainland China (i.e. Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) have an active RGL arrangement with Singapore. However, travellers from these countries/regions should note that there are alternate SafeTavel Lanes (see list below) that offer more relaxed travel requirements. Travellers are therefore encouraged to explore these travel options first before attempting to apply for entry via RGL.

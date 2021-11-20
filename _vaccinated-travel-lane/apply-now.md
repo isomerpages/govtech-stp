@@ -5,7 +5,7 @@ permalink: /vtl/apply-now
 <table>
   <thead>
     <tr>
-      <th style="text-align:center;">Apply for Vaccinated Travel Lane</th>
+      <th style="text-align:center;">Apply for Vaccinated Travel Pass under the Vaccinated Travel Lane</th>
 		</tr>
 	</thead>
 	 <tbody>

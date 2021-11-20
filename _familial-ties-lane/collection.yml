@@ -2,5 +2,5 @@ collections:
   familial-ties-lane:
     output: true
     order:
-      - overview.md
+      - FTL Overview.md
       - frequently-asked-questions.md
