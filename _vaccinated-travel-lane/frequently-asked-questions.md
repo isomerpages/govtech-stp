@@ -100,13 +100,7 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A valid Vaccinated Travel Pass (VTP), which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>.
 
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;"> On the VTP application portal, please select one of the following options depending on your pass type: </p>
-	
-<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;list-style-type:lower-latin;"><b>MOM Long-Term Pass Holder</b> if you are an Employment Pass, Work Pass or Dependent’s Pass holder, or</li>
-							
-<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px; list-style-type:lower-latin;"><b>MOE Long-Term Pass Holder</b> if you are a Student Pass holder</li>
-
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;"> Please also select ‘Yes’ when prompted if you have a 'Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal. Your vaccination status will be verified against MOH’s records.</p>
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;"> Please select ‘Yes’ when prompted if you have a 'Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal. Your vaccination status will be verified against MOH’s records.</p>
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">You may also upload a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, if you have one. Please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code obtained from the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>.</p>
 
