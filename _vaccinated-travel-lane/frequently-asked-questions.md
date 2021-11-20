@@ -296,11 +296,11 @@ We are currently unable to accept recovery certificates of travellers with proof
 </td>
 </tr>
 	</tbody>
-	</table>	
-
+	</table><br>
 	
-
+	
 <div id="verify"></div>
+
 
 #### 2. Can I self-verify my vaccination certificate?
 
