@@ -119,7 +119,7 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOM Long-Term Pass Holder</b> if you are an Employment Pass, Work Pass or Dependent’s Pass holder; or</li>
 <li  style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOE Long-Term Pass Holder</b> if you are a Student Pass holder</li>
 	</ol>
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">^If you are still encountering issues, please write to the Safe Travel Office using the enquiry form here and provide your Singapore MOH-issued or your overseas-issued vaccination certificate, and other details and screenshots of the errors faced.</li>
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">^If you are still encountering issues, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued or your overseas-issued vaccination certificate, and other details and screenshots of the errors faced.</li>
 
 
 
