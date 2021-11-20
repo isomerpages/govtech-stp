@@ -533,10 +533,8 @@ Some possible reasons include:
 - Traveller does not have a proof vaccination issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
 - Not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
 - Number of QR codes uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or <a href="/vtl/faq#verify">wrong method of QR code upload</a>.
-- Wrong method of QR code upload. Please refer to our FAQ <a href="#QRcode" target="_blank">here</a>.
-
-- Traveller’s particulars do not match with particulars in the vaccination certificate. Please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.
 - Traveller is not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
+- Traveller’s particulars do not match with particulars in the vaccination certificate. Where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation.
 - <a href="/health/vtsg" target="_blank">Days interval between doses</a> is less than the requirement
 - The QR code has been tampered with
 
