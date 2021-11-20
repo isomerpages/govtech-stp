@@ -120,7 +120,7 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOM Long-Term Pass Holder</b> if you are an Employment Pass, Work Pass or Dependent’s Pass holder; or</li>
 <li  style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOE Long-Term Pass Holder</b> if you are a Student Pass holder</li>
 	</ol>
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">^If you are still encountering issues, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued or your overseas-issued vaccination certificate, and other details and screenshots of the errors faced.</li>
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">^If you are still encountering issues, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued or your overseas-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
 
 
 
@@ -297,7 +297,7 @@ We are currently unable to accept recovery certificates of travellers with proof
 </tr>
 	</tbody>
 	</table>	
-	</p>
+
 	
 
 <div id="verify"></div>
@@ -505,26 +505,15 @@ Switzerland</td>
 </td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
-</tr>	
-
-<!--				<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC)</a> standard</td>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
-</tr>	
-					<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a></td>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
-</tr>	-->
+</tr>
 </tbody>
 </table>
-
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>*</sup>If you are not a national of the Republic of Korea <u>and</u> you are a Singapore short-term visitor or long-term pass holder, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application.</p>
 
 <p style="font-size:16px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>^</sup>If your vaccination record was issued in the US but is not issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative, please refer to <a href="#Question7">Q7</a> below.</p>
 
 <p style="font-size:16px; margin-top:20px; margin-bottom:15px; line-height:1.5;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>, you will not be eligible for travel on the VTL.</p>
+
 
 <div id="invalidcode"></div>
 
@@ -607,6 +596,7 @@ Please note that individuals with an Excelsior Pass issued by the New York State
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more states and issuers are onboarded. 
 
+<div id="Question7"></div>
 
 #### 7. I was issued a vaccination certificate in the United States but it is not a SMART Health Card issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative. Is there any alternative to showing my vaccination status for VTL travel?
 
