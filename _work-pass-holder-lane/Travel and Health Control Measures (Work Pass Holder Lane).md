@@ -3,7 +3,6 @@ title: Travel and Health Control Measures (Work Pass Holder Lane)
 permalink: /wphl/shn-and-swab-summary
 description: Work Pass Holder Lane travel and health control measures
 ---
-
 As a condition for entry into Singapore, pass holders with an approval under the Work Pass Holder General Lane (WPHL) must comply with the prevailing travel health control measures (e.g. Stay-Home Notice (SHN) and COVID-19 tests). Employers and employment agencies, which submitted the entry applications (“Submitters”), must pay for pass holders’ entry charges and ensure they comply with the measures. 
 
 Workers who meet <b>all three of the conditions below</b>, please refer to [Ministry of Manpower’s website](https://www.mom.gov.sg/covid-19/entry-approval-requirements) instead for the travel health control measures:<br><br>
@@ -40,17 +39,17 @@ For all other pass holders (work pass holders and their dependants), this page e
 
 On this page you will find the following:
 <ol style="padding-left:20px; font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-latin;">
-	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#from">from 18 Nov 2021, 2359 hours</a></li> 
-	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#before">before 18 Nov 2021, 2359 hours</a></li>
+	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#from">from 24 Nov 2021, 2359 hours</a></li> 
+	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#before">before 24 Nov 2021, 2359 hours</a></li>
 	</ol>
 
 ### Travel Health Control Measures for WPHL-Pass Holders
 
 <div id="from"></div>
 
-<p style="font-size:24px;"><b>[For arrivals <span style="color: red;">from 18 Nov 2021, 2359 hours</span>]</b></p>
+<p style="font-size:24px;"><b>[For arrivals <span style="color: red;">from 24 Nov 2021, 2359 hours</span>]</b></p>
 
-<p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 18 Nov 2021, 2359h will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></p>
+<p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 24 Nov 2021, 2359 hours will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
