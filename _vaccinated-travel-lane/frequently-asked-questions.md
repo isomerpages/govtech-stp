@@ -103,8 +103,6 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;"> Please select ‘Yes’ when prompted if you have a 'Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal. Your vaccination status will be verified against MOH’s records.</p>
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">You may also upload a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, if you have one. Please refer to <a href="#Q4">Q4</a> below for more details.</p>
-
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">If you are still encountering issues, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
 </td>
 		</tr>
 				<tr>
@@ -112,7 +110,6 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">A valid Vaccinated Travel Pass (VTP), which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>.</p>
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">On the VTP application portal, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’. Please proceed to upload your vaccination certificate QR code, which should be one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>.</p>
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">If you are still encountering issues, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your overseas-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
 </td>
 		</tr>
 	</tbody>
