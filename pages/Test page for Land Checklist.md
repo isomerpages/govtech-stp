@@ -4,14 +4,16 @@ permalink: /land-checklist
 description: ""
 published: false
 ---
+&#9888; This step-by-step checklist is for all VTL (Land) travellers, including Singapore Citizens (SC) and Singapore Permanent Residents (PR), entering Singapore via a designated VTL (Land) bus through the Causeway. Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the “Vaccinated Travel Lane” page instead for more details. Those who are intending to leave Singapore via VTL (Land), should visit the “Vaccinated Travel Lane-Land (Outbound)” page for more details.
 
-<i>Readers who have arrived on this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview" target="_blank" >“Travelling to Singapore”</a> page. Travellers who do not meet the entry requirements may be turned away from Singapore. </i>
+### VTL Land Travel Checklist
 
-### Travel Checklist – Category (I) Travel History
+<p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp;Travellers entering Singapore via the Causeway on special buses for the VTL (Land). including Singapore Citizens, Singapore Permanent Residents (PR)</p>
 
-<p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span> &nbsp; For travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore.</p>
-
-<p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore via: </p>
+<p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp;Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) 
+	
+<p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore by air &#9992;. Fully vaccinated travellers who intend to fly to Singapore should click <a href="/vtl/requirements-and-process" target="_blank">here</a> for more details. </p>
+<p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Leaving Singapore: Travellers who intend to leave Singapore using the VTL (Land) should visit the "<i><a href="">Vaccinated Travel Lane- Land (Outbound)</a></i>" page for more details.</p>
 <ol style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc; padding-left:32px;">
 	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Work Pass Holder General Lane (WPHL)</li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Air Travel Pass (ATP)</li>
