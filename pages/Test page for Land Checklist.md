@@ -4,7 +4,7 @@ permalink: /land-checklist
 description: ""
 published: false
 ---
-&#9888; This step-by-step checklist is for all VTL (Land) travellers, including Singapore Citizens (SC) and Singapore Permanent Residents (PR), entering Singapore via a designated VTL (Land) bus through the Causeway. Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the “Vaccinated Travel Lane” page instead for more details. Those who are intending to leave Singapore via VTL (Land), should visit the “Vaccinated Travel Lane-Land (Outbound)” page for more details.
+<span style="font-size:32px; color:red;">&#9888;</span> This step-by-step checklist is for all VTL (Land) travellers, including Singapore Citizens (SC) and Singapore Permanent Residents (PR), entering Singapore via a designated VTL (Land) bus through the Causeway. Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the “Vaccinated Travel Lane” page instead for more details. Those who are intending to leave Singapore via VTL (Land), should visit the “Vaccinated Travel Lane-Land (Outbound)” page for more details.
 
 ### VTL Land Travel Checklist 
 
