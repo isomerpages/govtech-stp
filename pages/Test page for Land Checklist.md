@@ -12,16 +12,12 @@ published: false
 
 <p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp;Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) 
 	
-<p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore by air &#9992;. Fully vaccinated travellers who intend to fly to Singapore should click <a href="/vtl/requirements-and-process" target="_blank">here</a> for more details. </p>
-<p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Leaving Singapore: Travellers who intend to leave Singapore using the VTL (Land) should visit the "<i><a href="">Vaccinated Travel Lane- Land (Outbound)</a></i>" page for more details.</p>
-
-<p style="font-size:18px;">Please refer to the specific requirements of each lane or approval letters for instructions.</p>
-
-<p  style="font-size:18px;"><span style="color:blue; font-size:40px;"><b>&#8634;</b></span> &nbsp; Return to <a href="/shn-and-swab-summary" target="_blank">this country-listing</a> if you are unsure if you come under this travel history category. </p>
+<p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore by plane &#9992;. Fully vaccinated travellers who intend to fly to Singapore should click <a href="/vtl/requirements-and-process" target="_blank">here</a> for more details. </p>
+<p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers leaving Singapore. Travellers who intend to leave Singapore using the VTL (Land) should visit the "<i><a href="">Vaccinated Travel Lane- Land (Outbound)</a></i>" page for more details.</p>
 
 <p  style="font-size:18px;"><span style="color:black; font-size:32px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travel</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
 <p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A" name="1A" value="EntryApproval"><label for="1A">&nbsp;&nbsp;<b>(A) Apply for Entry Approval</b></label><br><br>
 <span style="color:red;">&#10060;</span> &nbsp;<b>Singapore Citizens and Permanent Residents need not apply</b>.<br><br>All other travellers must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the <a href="/arriving/overview" target="_blank" >“Travelling to Singapore”</a> page.</p>
