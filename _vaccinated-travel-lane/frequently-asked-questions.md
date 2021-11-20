@@ -441,9 +441,9 @@ You may refer to this table below. Please extract (i.e. screen-capture, crop and
 </tr>
 	<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Canada</td>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://smarthealth.cards/faq.html" target="_blank">Smart Health Cards (SHC)</a><sup>^</sup> issued by any Canadian province</li></ol>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://smarthealth.cards/faq.html" target="_blank">Smart Health Cards (SHC)</a> issued by any Canadian province</li></ol>
 </td>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code containing information on both doses <p style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Please upload the 1-page PDF file containing your vaccination certificate</i></p></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>	
 <tr>
