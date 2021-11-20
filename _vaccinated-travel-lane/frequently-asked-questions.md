@@ -390,7 +390,7 @@ Switzerland</td>
 							<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United Kingdom</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><ol style="margin-top:0px; list-style-type: lower-latin;">
 	<li style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service ("NHS") COVID Pass of vaccination</a> or;</li>
-	<li style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Northern Ireland COVID certificate issued by Health and Social Care (HSC) in Northern Ireland (e.g. found on the COVIDCert Northern Ireland ("NI") app)</li></ol></td>
+	<li style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the COVIDCert Northern Ireland ("NI") app)</li></ol></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 		<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Web App: <a href="https://app.digitalcovidcertchecker.gov.ie/" target="_blank">DCC Checker</a></li>
