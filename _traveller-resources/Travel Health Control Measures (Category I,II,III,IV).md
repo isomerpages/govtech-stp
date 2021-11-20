@@ -38,8 +38,8 @@ This page provides a summary of the four categories of travel health control mea
 
 <b>On this page you will find the following</b>:
 <ol style="list-style-type:lower-latin;">
-	<li><a href="#from">Categories of travel health control measures for arrivals from 24 Nov 2021, 2359 hours</a></li>
-	<li><a href="#before">Categories of travel health control measures for arrivals before 24 Nov 2021, 2359 hours</a></li>
+	<li><a href="#from">Categories of travel health control measures for arrivals from 18 Nov 2021, 2359 hours</a></li>
+	<li><a href="#before">Categories of travel health control measures for arrivals before 18 Nov 2021, 2359 hours</a></li>
 	</ol>
 
 <div id="from"></div>
@@ -206,7 +206,7 @@ This page provides a summary of the four categories of travel health control mea
 	</table>
 	
 	
-<div></div>
+<div id="before"></div>
 
 ### Categories of Travel Health Control measures (for arrivals before 18 Nov 2021, 2359H)
 
