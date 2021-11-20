@@ -46,7 +46,7 @@ This page provides a summary of the four categories of travel health control mea
 
 ### Categories of Travel Health Control Measures (for arrivals from 24 Nov 2021, 2359H)
 
-<!--<span style="color:red;"><b>Travellers arriving in Singapore <u>before 26 Oct 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>-->
+<span style="color:red;"><b>Travellers arriving in Singapore <u>before 24 Nov 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
@@ -82,7 +82,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, Malaysia, Maldives, Malta, Myanmar, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Samoa, San Marino, Saudi Arabia, Slovakia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</b>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Australia, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, Malaysia, Maldives, Malta, Myanmar, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Samoa, San Marino, Saudi Arabia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</b>
 	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
