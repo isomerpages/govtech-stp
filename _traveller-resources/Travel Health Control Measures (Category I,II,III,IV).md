@@ -4,7 +4,6 @@ permalink: /shn-and-swab-summary
 description: Only applicable for specific SafeTravel Lanes, check the Travelling
   to Singapore page for full list of SafeTravel lanes and requirements
 ---
-
 <i>[<span style="color:red;">!!</span> Readers who have arrived at this page directly from a search engine or are new to the entry requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page, as not all SafeTravel Lanes use this Category I/II/III/IV framework. Travellers who do not meet the entry requirements may be disallowed from entering Singapore.]</i>
 
 ### Overview
@@ -39,13 +38,13 @@ This page provides a summary of the four categories of travel health control mea
 
 <b>On this page you will find the following</b>:
 <ol style="list-style-type:lower-latin;">
-	<li><a href="#from">Categories of travel health control measures for arrivals from 18 Nov 2021, 2359 hours</a></li>
-	<li><a href="#before">Categories of travel health control measures for arrivals before 18 Nov 2021, 2359 hours</a></li>
+	<li><a href="#from">Categories of travel health control measures for arrivals from 24 Nov 2021, 2359 hours</a></li>
+	<li><a href="#before">Categories of travel health control measures for arrivals before 24 Nov 2021, 2359 hours</a></li>
 	</ol>
 
 <div id="from"></div>
 
-### Categories of Travel Health Control Measures (for arrivals from 18 Nov 2021, 2359H)
+### Categories of Travel Health Control Measures (for arrivals from 24 Nov 2021, 2359H)
 
 <!--<span style="color:red;"><b>Travellers arriving in Singapore <u>before 26 Oct 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>-->
 
@@ -209,7 +208,7 @@ This page provides a summary of the four categories of travel health control mea
 	
 <div></div>
 
-### Categories of Travel Health Control measures (for arrivals before 18 Nov 2021, 2359H)
+### Categories of Travel Health Control measures (for arrivals before 24 Nov 2021, 2359H)
 
 <span style="color:red;"><b>Travellers arriving in Singapore <u>before 18 Nov 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
