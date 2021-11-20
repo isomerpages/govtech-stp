@@ -181,7 +181,6 @@ We are currently unable to accept recovery certificates of travellers with proof
 <p style="line-height:1.5; font-size:18px; margin-top:15px; color:red;"><b><u>For Short-Term Visitors and Long-Term Pass Holders</u></b></p>
 <p style="line-height:1.5; font-size:18px;">If you are a Long-Term Pass Holder or Short-Term Visitor (LTPH/STV) to Singapore, you need to apply for a VTP. Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP application portal. You are also strongly encouraged to self-verify your vaccination certificate prior to applying for a VTP by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. Those who are required to upload a QR code but cannot do so are write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation (e.g. passport) and other supporting documents. </p>
 <p style="line-height:1.5; font-size:18px; margin-top:20px; color:red;"><b><u>Accepted Proofs of Vaccination</u></b></p>
-<p style="line-height:1.5; font-size:18px;">
 <table>
 <thead>
 <tr>
@@ -278,12 +277,12 @@ We are currently unable to accept recovery certificates of travellers with proof
 			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by: 
 				<ol style="list-style-type:lower-roman;">
 				<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">CommonTrust Network issuers (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>); or</li>
-				<li style="line-height:1.3; margin-bottom:15px; font-size:15px;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers;</a>  </li>
+				<li style="line-height:1.3; margin-bottom:15px; font-size:15px;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a> </li>
 				</ol>			
 			</li>
 			<b style="font-size:15px;">OR</b>
-			<li style="line-height:1.3; margin-bottom:15px;  font-size:15px;"><a href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html" target="_blank">Digital vaccination record retrieved from the public health database of the state or the local health authority</a>; </li>
-			<b style="font-size:15px;">OR</b>
+			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;"><a href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html" target="_blank">Digital vaccination record retrieved from the public health database of the state or the local health authority</a>; </li>
+			<b><span style="style="font-size:15px;"">OR</span></b>
 			<li style="line-height:1.3; margin-bottom:15px;  font-size:15px;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to the passenger’s vaccination status. The attestation letter should contain:
 			<ol style="list-style-type:lower-roman;">
 				<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">the passenger’s name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the passenger’s passport used for entry into Singapore; </li>
