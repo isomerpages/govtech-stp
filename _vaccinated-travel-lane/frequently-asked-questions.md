@@ -282,7 +282,7 @@ We are currently unable to accept recovery certificates of travellers with proof
 			</li>
 			<b style="font-size:15px;">OR</b>
 			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;"><a href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html" target="_blank">Digital vaccination record retrieved from the public health database of the state or the local health authority</a>; </li>
-			<b style="style="font-size:15px;">OR</b>
+			<b style="font-size:15px;">OR</b>
 			<li style="line-height:1.3; margin-bottom:15px;  font-size:15px;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to the passenger’s vaccination status. The attestation letter should contain:
 			<ol style="list-style-type:lower-roman;">
 				<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">the passenger’s name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the passenger’s passport used for entry into Singapore; </li>
