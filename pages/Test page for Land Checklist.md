@@ -8,20 +8,13 @@ published: false
 
 ### VTL Land Travel Checklist
 
-<p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp;Travellers entering Singapore via the Causeway on special buses for the VTL (Land). including Singapore Citizens, Singapore Permanent Residents (PR)</p>
+<p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp;Travellers entering Singapore via the Causeway taking designated buses for the VTL (Land)</p>
 
 <p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp;Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) 
 	
 <p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore by air &#9992;. Fully vaccinated travellers who intend to fly to Singapore should click <a href="/vtl/requirements-and-process" target="_blank">here</a> for more details. </p>
 <p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Leaving Singapore: Travellers who intend to leave Singapore using the VTL (Land) should visit the "<i><a href="">Vaccinated Travel Lane- Land (Outbound)</a></i>" page for more details.</p>
-<ol style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc; padding-left:32px;">
-	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Work Pass Holder General Lane (WPHL)</li>
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Air Travel Pass (ATP)</li>
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Periodic Commuting Arrangement (PCA)</li>
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Reciprocal Green Lane (RGL)</li>
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Vaccinated Travel Lane (VTL)</li>
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Death and Critical Illness Emergency Lane (DCEV)</li>
-	</ol>
+
 <p style="font-size:18px;">Please refer to the specific requirements of each lane or approval letters for instructions.</p>
 
 <p  style="font-size:18px;"><span style="color:blue; font-size:40px;"><b>&#8634;</b></span> &nbsp; Return to <a href="/shn-and-swab-summary" target="_blank">this country-listing</a> if you are unsure if you come under this travel history category. </p>
