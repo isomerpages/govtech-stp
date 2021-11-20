@@ -166,8 +166,6 @@ Yes, if the date of your vaccine dose is at least 14 days before the date of you
 <li style="line-height:1.3; margin-bottom:15px;">NHS COVID Pass of vaccination, a Northern Ireland COVID certificate, or a Singapore-issued vaccination certificate. This must be accompanied with an EU DCC of recovery, NHS recovery certificate, or Singapore-issued discharge memo stating the date of your first COVID infection. If you are required to apply for a VTP, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo. Singapore Citizens and Permanent Residents must show their recovery certificate or discharge memo along with either of these proofs of vaccination at airlines at check-in and at arrival immigration.</li>
 </ol>
 
-The date of your vaccine dose should be at least 14 days before the date of your intended arrival into Singapore. We regret to inform you that we are unable to consider your appeal if it does not fulfill these criteria.
-
 We are currently unable to accept recovery certificates of travellers with proofs of vaccination issued in other countries.
 
 <div id="vaxcert"></div>
