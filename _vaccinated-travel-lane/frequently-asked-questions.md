@@ -531,7 +531,8 @@ Switzerland</td>
 
 Some possible reasons include:
 - Traveller does not have a proof vaccination issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
-- Number of QR codes uploaded does not meet the criteria mentioned <a href="#numberofcodes" target="_blank">here</a>.
+- Not an accepted proof of vaccination
+- Number of QR codes uploaded does not meet the criteria mentioned, or wrong method of QR code upload.
 - Wrong method of QR code upload. Please refer to our FAQ <a href="#QRcode" target="_blank">here</a>.
 - Not an <a href="#QRcode" target="_blank">accepted proof of vaccination</a>
 - Traveller’s particulars do not match with particulars in the vaccination certificate. Please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.
