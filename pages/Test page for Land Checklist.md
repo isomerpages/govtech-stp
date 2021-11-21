@@ -50,7 +50,7 @@ published: false
 </div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C" name="1C" value="ApplyVTP">
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C" name="1C" value="ticket">
 		<label for="1C">&nbsp;&nbsp;<b>(C) Secure Tickets for a Designated VTL (Land) Bus Service</b></label>
 
 	&#128345; <b>Up to <span style="color:red;">72 hours before arrival</span> in Singapore</b><br><br>Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.
