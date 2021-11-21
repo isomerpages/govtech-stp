@@ -121,5 +121,5 @@ published: true
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Travellers must present the same set of documentation listed in <a href="#stage2">Stage 2</a> for immigration clearance.</p>
 <p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;</span><b>Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA). </b></p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.5;"><u><b>After clearing immigration</b></u></p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">via any available transport, including the same bus used to commute to Singapore or public transport. Those who have successfully cleared immigration may leave the checkpoint via any available transport, including the same bus used to commute to Singapore or public transport.</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Travellers may leave the checkpoint via any available transport, including the same bus used to commute to Singapore or public transport.</p>
 </div>
