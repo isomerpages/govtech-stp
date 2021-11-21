@@ -50,8 +50,8 @@ published: false
 </div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B" name="1B" value="ApplyVTP">
-		<label for="1B">&nbsp;&nbsp;<b>(B) <span style="color:red;">[Only Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C" name="1C" value="ApplyVTP">
+		<label for="1C">&nbsp;&nbsp;<b>(C) Secure Tickets for a Designated VTL (Land) Bus Service</b></label>
 
 	&#128345; <b>Up to <span style="color:red;">72 hours before arrival</span> in Singapore</b><br><br>Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.
 <ol style="margin-top: 0px; margin-left: 0px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px; list-style-type:lower-roman;padding:10px;">Travellers should defer their travels in any of the following cases:<br>
