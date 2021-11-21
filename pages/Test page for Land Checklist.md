@@ -21,8 +21,8 @@ published: true
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-bottom: 0px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A">
-		<label for="1A">&nbsp;&nbsp;<b>(A) Provide accepted proof of vaccination</b></label><br>
-		<span style="font-size:32px; color:green; line-height:1.5;">&#10003;</span> &nbsp; Required at application*, departure checks and clearance on arrival.<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.5;">Provide any of the following country's vaccination certificate accepted by the Singapore Government today:</p>
+<label for="1A">&nbsp;&nbsp;<b>(A) Provide accepted proof of vaccination</b></label>
+<p style="font-size:18px; margin-bottom: 0px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:green; line-height:1.5;">&#10003;</span> &nbsp; Required at application*, departure checks and clearance on arrival.<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.5;">Provide any of the following country's vaccination certificate accepted by the Singapore Government today:</p>
 		<ol style="padding:0px 10px 10px 10px; font-size:18px;">
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Singapore</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Malaysia</b>: Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
