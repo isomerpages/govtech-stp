@@ -123,3 +123,14 @@ published: true
 <p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.5;"><u><b>After clearing immigration</b></u></p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Travellers may leave the checkpoint via any available transport, including the same bus used to commute to Singapore or public transport.</p>
 </div>
+
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom: 10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3A">
+	<label for="3A">&nbsp;&nbsp;<b>(A) Immigration Clearance</b></label></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Follow the instructions provided by the officers and signages on arrival.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Travellers must present the same set of documentation listed in <a href="#stage2">Stage 2</a> for immigration clearance.</p>
+<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;</span><b>Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA). </b></p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.5;"><u><b>After clearing immigration</b></u></p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Travellers may leave the checkpoint via any available transport, including the same bus used to commute to Singapore or public transport.</p>
+</div>
