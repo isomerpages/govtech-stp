@@ -22,15 +22,15 @@ published: false
 <div style="padding:10px 10px 10px 10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-bottom: 0px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A" name="1A" value="AcceptedVaccination">
 		<label for="1A">&nbsp;&nbsp;<b>(A) Provide accepted proof of vaccination</b></label><br>
-		<span style="font-size:32px; color:green;">&#10003;</span> &nbsp; Required at application, departure checks and clearance on arrival.<p style="padding: 0px; margin-top:10px; font-size:18px;">Provide any of the following country's vaccination certificate accepted by the Singapore Government today:</p>
+		<span style="font-size:32px; color:green;">&#10003;</span> &nbsp; Required at application*, departure checks and clearance on arrival.<p style="padding: 0px; margin-top:10px; font-size:18px;">Provide any of the following country's vaccination certificate accepted by the Singapore Government today:</p>
 		<ol style="padding:0px 10px 10px 10px; font-size:18px;">
-			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Singapore*</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
+			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Singapore</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Malaysia</b>: Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
 						<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Others</b>: If your vaccination certificate is not listed above, refer to the full list of accepted vaccination certificates [here]. </li>
 		</ol>
 	</p>
-<u>Note during application:</u><br>
-	<p style="padding-left:5px; font-size:18px; margin-bottom:0px; line-height:1.5;">* Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
+*<u>Note during application:</u><br>
+	<p style="padding-left:5px; font-size:18px; margin-bottom:0px; line-height:1.5;">Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
 	<p style="padding-left:5px; font-size:18px; line-height:1.5;">Travellers vaccinated outside Singapore are strongly encouraged to self-verify your vaccination certificate using the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>, before applying for the VTP.</p>
 <p style="padding-left:5px;font-size:18px; padding-bottom:5px;margin-bottom:10px; line-height:1.5;">&#10067; &nbsp;<b>Frequently Asked Questions:</b> Click <a href="" target="_blank">here</a>.</p>
 </div>
@@ -40,7 +40,7 @@ published: false
 		<label for="1A">&nbsp;&nbsp;<b>(B) <span style="color:red;">[Only Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label><br>
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">Apply for entry <b>between 2 and 60 days before</b> the intended date of entry into Singapore, together with the QR code of the traveller’s vaccination certificate (if available).</p>
 	<ol style="padding:0px 10px 10px 10px; font-size:18px; list-style-type: disc; background-color:#f0f0f0; ">
-	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><strike><span style="color:red; font-size:24px;">&#65284;</span></strike> No cost is required for application.</li>
+	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><span style="color:red; font-size:24px;"><strike>&#65284;</strike></span> &nbsp; No cost is required for application.</li>
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Successful applicants will receive their approved VTP via email. </li>
 	</ol>
 <div style="vertical-align:middle; text-align:center; font-size:20px; line-height:1.5; "><a style="padding:10px 10px 10px 10px; background-color:#D8D8D8;" href="https://go.gov.sg/vtl-portal" target="_blank"><b>Click here to apply for a VTP</b></a></p>
