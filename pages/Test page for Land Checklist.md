@@ -35,7 +35,7 @@ published: false
 <p style="padding-left:5px;font-size:18px; padding-bottom:5px;margin-bottom:10px; line-height:1.5;">&#10067; &nbsp;<b>Frequently Asked Questions:</b> Click <a href="" target="_blank">here</a>.</p>
 </div>
 
-<div style="padding:10px 10px 0px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B" name="1B" value="AcceptedVaccination">
 		<label for="1A">&nbsp;&nbsp;<b>(B) <span style="color:red;">[Only for Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label><br>
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">Apply for entry <b>between 2 and 60 days before</b> the intended date of entry into Singapore, together with the QR code of the traveller’s vaccination certificate (if available).</p>
@@ -43,8 +43,8 @@ published: false
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><strike><span style="color:red; font-size:24px;">&#65284;</span></strike> No cost is required for application.</li>
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Successful applicants will receive their approved VTP via email. </li>
 	</ol>
-	<p><a href="https://go.gov.sg/vtl-portal" target="_blank">Click here to apply for a VTP</a>.</p>
-	</p>
+	<div style="vertical-align:middle; text-align:center; font-size:20px; padding:5px; line-height:1.5; background: #D8D8D8;"><a href="https://go.gov.sg/vtl-portal" target="_blank"><b>Click here to apply for a VTP</b></a>.</p>
+	</div>
 </div>
 
 <p style="padding:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:20px; height:20px;vertical-align:middle;" id="1C" name="1C" value="HealthDeclarationl"><label for="1C">&nbsp;&nbsp;<b>(C) Submit Health Declaration via SG Arrival Card (SGAC)</b></label><br><br>&#128345; <b>Up to <span style="color:red;">72 hours before arrival</span> in Singapore</b><br><br>Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.
