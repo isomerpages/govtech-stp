@@ -74,8 +74,8 @@ published: true
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f0f0f0;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Is in English (or accompanied with an English translation);</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); </li>
-				<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">XXX</li>
-				<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">XXX</li>
+				<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Reflects the date and time the test was taken, the name of the testing institution; and </li>
+				<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Has a negative test result.</li>
 	</ol>
 	</p>
 	</div>
