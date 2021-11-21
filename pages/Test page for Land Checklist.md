@@ -63,14 +63,12 @@ published: false
 </p>
 </div>
 
-
-<div id="payment"></div>
-
-<p style="padding: 10px 10px 0px 10px; margin: 20px 0px 0px 0px; line-height:1.5; background:#f0f0f0; font-size:18px;"><input type="checkbox" style="width:20px; height:20px;vertical-align:middle;" id="1D" name="1D" value="payment"><label for="1D">&nbsp;&nbsp;<b>(D) Register and Pre-pay On-Arrival COVID-19 Test & Install TraceTogether app</b></label>
-<ol style="margin-top: 0px; margin-left: 0px; margin-bottom:20px; line-height:1.5; background-color:#f0f0f0; font-size:18px; list-style-type:lower-roman; padding:10px; background:#f0f0f0;">
-<li style="margin-left: 30px; margin-bottom:20px; line-height:1.5; background-color:#f0f0f0; font-size:18px;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay</a> <b>(S$125)</b> for on-arrival COVID-19 Polymerase Chain Reaction test</li>
-		<li style="margin-left: 30px; margin-bottom:20px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">	Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones to facilitate SHN compliance checks and contact tracing</li>
-</ol></p>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D" name="1D" value="PDT">
+    <label for="1D">&nbsp;&nbsp;<b>(D) Pre-departure Test (PDT)</b></label>
+	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">
+</p>
+	</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
 
