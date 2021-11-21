@@ -108,8 +108,8 @@ published: true
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per Stage 1A); and</li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per stage 1E).</li>
 	</ol>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><b>[&#127480;&#127468; Singapore Citizens and Singapore Permanent Residents]</b>: Present only <b>(i), (iii) and (iv)</b> above.</p>
-	</div>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><b>[Singapore Citizens and Singapore Permanent Residents]</b>: Present only <b>(i), (iii) and (iv)</b> above.</p>
+</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in  Singapore</b></div>
 <p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f0f0f0; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A" name="2A" value="EntryApproval">
