@@ -43,7 +43,7 @@ published: false
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><strike><span style="color:red; font-size:24px;">&#65284;</span></strike> No cost is required for application.</li>
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Successful applicants will receive their approved VTP via email. </li>
 	</ol>
-<div style="vertical-align:middle; text-align:center; font-size:20px; padding:10px 0px px 0px; line-height:1.5; background: #D8D8D8;"><a href="https://go.gov.sg/vtl-portal" target="_blank"><b>Click here to apply for a VTP</b></a>.</p>
+<div style="vertical-align:middle; text-align:center; font-size:20px; padding:10px 0px 1px 0px; line-height:1.5; background: #D8D8D8;"><a href="https://go.gov.sg/vtl-portal" target="_blank"><b>Click here to apply for a VTP</b></a>.</p>
 	</div>
 </div>
 
