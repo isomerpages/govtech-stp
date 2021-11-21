@@ -96,14 +96,25 @@ published: true
 	</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
-
-<p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A" name="2A" value="EntryApproval"><label for="2A">&nbsp;&nbsp;<b>(A) Pre-boarding Document Checks</b></label><br><br>
-<span style="color:red;">&#10060;</span> &nbsp;<b>Not applicable to Singapore Citizens and Permanent Residents</b>.<br><br>
-Produce valid Entry Approval Letter to airlines/transport operators upon request for their verification of entry approval.</p>
+<div style="padding:10px 10px 5px 10px; margin-bottom: 10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A">
+	<label for="2A">&nbsp;&nbsp;<b>(A) Pre-departure document checks</b></label></p>
+<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers who fail to comply may be denied boarding.</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Present the following documents to transport operators for verification:</p>
+		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f0f0f0;">
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Ticket for designated VTL (Land) bus services; </li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Passport;</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Physical or electronic copy of the VTP for the specified period of entry (per Stage 1B);</li>
+<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per Stage 1A); and</li>
+			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per stage 1E).</li>
+	</ol>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><b>[&#127480;&#127468; Singapore Citizens and Singapore Permanent Residents]</b>: Present only <b>(i), (iii) and (iv)</b> above.</p>
+	</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in  Singapore</b></div>
-
-<p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f0f0f0; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A" name="2A" value="EntryApproval"><label for="2A">&nbsp;&nbsp;<b>(A) Immigration Clearance</b></label><br><br>Provide all relevant documents and information required by the immigration officer, including proof of tests taken if necessary.<br><br><b>[Eligible travellers vaccinated overseas]</b> Inform the immigration officer to temporarily register vaccination details in TraceTogether app</b>, to be eligible for <a href="/health/vtsg" target="_blank">vaccination-differentiated measures within Singapore</a> (e.g. visiting malls, dining out).<br><br><b>[Check your email for period of stay granted]</b> Travellers will be digitally notified via email of their Visit Pass (e-Pass), the period of stay granted and the last day of stay allowed. Physical endorsement on visitor's passport is only available for arrivals by land or sea.<br><br></p>
+<p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f0f0f0; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A" name="2A" value="EntryApproval">
+<label for="2A">&nbsp;&nbsp;<b>(A) Immigration Clearance</b></label>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Provide all relevant documents and information required by the immigration officer, including proof of tests taken if necessary.<br><br><b>[Eligible travellers vaccinated overseas]</b> Inform the immigration officer to temporarily register vaccination details in TraceTogether app</b>, to be eligible for <a href="/health/vtsg" target="_blank">vaccination-differentiated measures within Singapore</a> (e.g. visiting malls, dining out).<br><br><b>[Check your email for period of stay granted]</b> Travellers will be digitally notified via email of their Visit Pass (e-Pass), the period of stay granted and the last day of stay allowed. Physical endorsement on visitor's passport is only available for arrivals by land or sea.<br><br></p>
 
 For visitors granted entry, please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport unless arriving by land or sea. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here for more information about the e-Pass</a>.</p>
 
