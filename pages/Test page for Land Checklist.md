@@ -20,10 +20,10 @@ published: false
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
 <div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-	<p><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A" name="1A" value="AcceptedVaccinationl">
+	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A" name="1A" value="AcceptedVaccination">
 		<label for="1A">&nbsp;&nbsp;<b>(A) Provide accepted proof of vaccination</b></label><br>
 		<span style="font-size:32px; color:green;">&#10003;</span> &nbsp; Required at application, departure checks and clearance on arrival
-		<ol style="padding:5px 10px 5px 10px;">
+		<ol style="padding:0px 10px 10px 0px;">
 			<li style="margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">Singapore: Singapore Vaccination HealthCerts issued via the Notarise portal with a QR code, or Proof of vaccination on the TraceTogether or HealthHub app</li>
 			<li style="margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">Malaysia: Digital Certificate for COVID-19 Vaccination downloaded or shown on the MySejahtera app</li>
 		</ol>
