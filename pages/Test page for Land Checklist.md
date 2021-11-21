@@ -26,7 +26,7 @@ published: false
 		<ol style="padding:0px 10px 10px 10px; font-size:18px;">
 			<li style="margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Singapore</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
 			<li style="margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Malaysia</b>: Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
-						<li style="margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Others</b>: If your vaccination certificate is not listed above, you can reference the full list of accepted vaccination certificates [here]. </li>
+						<li style="margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Others</b>: If your vaccination certificate is not listed above, refer to the full list of accepted vaccination certificates [here]. </li>
 		</ol>
 	</p>
 </div>
