@@ -52,7 +52,8 @@ published: false
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C" name="1C" value="ticket">
 		<label for="1C">&nbsp;&nbsp;<b>(C) Secure Tickets for a Designated VTL (Land) Bus Service</b></label>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">VTL (Land) travellers must take <b>only</b> the following designated bus service to Singapore below to enjoy quarantine-free travel.</p><p style="font-size:18px; margin-bottom:10px; line-height:1.5;"> The latest list of designated VTL (Land) bus operators are as follows:</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">To enjoy quarantine-free travel, VTL (Land) travellers must take <b>only</b> the designated bus services from the list below to enter Singapore.</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.5; margin-top:10px;"> The latest list of designated VTL (Land) bus operators are as follows:</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">XXX</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">XXX</li>
