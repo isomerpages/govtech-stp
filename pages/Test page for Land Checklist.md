@@ -108,15 +108,14 @@ published: true
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per Stage 1A); and</li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per stage 1E).</li>
 	</ol>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><b>[Singapore Citizens and Singapore Permanent Residents]</b>: Present only <b>(i), (iii) and (iv)</b> above.</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><b>[Singapore Citizens and Singapore Permanent Residents]</b> Present only <b>(i), (iii) and (iv)</b> above.</p>
 </div>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in  Singapore</b></div>
-<p style="padding:10px; margin-bottom:20px; line-height:1.5; background-color:#f0f0f0; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A" name="2A" value="EntryApproval">
-<label for="2A">&nbsp;&nbsp;<b>(A) Immigration Clearance</b></label>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Provide all relevant documents and information required by the immigration officer, including proof of tests taken if necessary.<br><br><b>[Eligible travellers vaccinated overseas]</b> Inform the immigration officer to temporarily register vaccination details in TraceTogether app</b>, to be eligible for <a href="/health/vtsg" target="_blank">vaccination-differentiated measures within Singapore</a> (e.g. visiting malls, dining out).<br><br><b>[Check your email for period of stay granted]</b> Travellers will be digitally notified via email of their Visit Pass (e-Pass), the period of stay granted and the last day of stay allowed. Physical endorsement on visitor's passport is only available for arrivals by land or sea.<br><br></p>
-
-For visitors granted entry, please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport unless arriving by land or sea. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here for more information about the e-Pass</a>.</p>
-
-
-Place at Stage 5: Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>.
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival Immigration Clearance</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom: 10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3A">
+	<label for="3A">&nbsp;&nbsp;<b>(A) Pre-departure document checks</b></label></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Follow the instructions provided by the officers and signages on arrival.
+As part of immigration clearance, travellers must present the same set of documentation listed in Stage 2. Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA). Those who have successfully cleared immigration may leave the checkpoint via any available transport, including the same bus used to commute to Singapore or public transport. Those who have successfully cleared immigration may leave the checkpoint via any available transport, including the same bus used to commute to Singapore or public transport.
+</p>
+</div>
