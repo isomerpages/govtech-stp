@@ -24,8 +24,9 @@ published: false
 		<label for="1A">&nbsp;&nbsp;<b>(A) Provide accepted proof of vaccination</b></label><br>
 		<span style="font-size:32px; color:green;">&#10003;</span> &nbsp; Required at application, departure checks and clearance on arrival
 		<ol style="padding:0px 10px 10px 0px;">
-			<li style="margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">Singapore: Singapore Vaccination HealthCerts issued via the Notarise portal with a QR code, or Proof of vaccination on the TraceTogether or HealthHub app</li>
-			<li style="margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">Malaysia: Digital Certificate for COVID-19 Vaccination downloaded or shown on the MySejahtera app</li>
+			<li style="margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Singapore</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the TraceTogether or HealthHub app</li>
+			<li style="margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Malaysia</b>: Digital Certificate for COVID-19 Vaccination downloaded or shown on the MySejahtera app</li>
+						<li style="margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Others</b>: If your vaccination certificate is not listed above, you can reference the full list of accepted vaccination certificates [here]. </li>
 		</ol>
 	</p>
 </div>
