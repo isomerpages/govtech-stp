@@ -46,6 +46,7 @@ published: false
 	<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.5;"><span style="color:red; font-size:24px;">&#10005;</span>&nbsp; Unvaccinated children aged 12 and below in this calendar year do not need to apply to enter Singapore on the VTL (Land). However, they must comply with all other VTL (Land) conditions, including being accompanied by a fully vaccinated VTL (Land) traveller.</p>
 <div style="vertical-align:middle; text-align:center; font-size:20px; line-height:1.5; "><a style="padding:10px 10px 10px 10px; background-color:#D8D8D8;" href="https://go.gov.sg/vtl-portal" target="_blank"><b>Click here to apply for a VTP</b></a></p>
 	</div>
+	<p style="padding-left:5px;font-size:18px; padding-bottom:5px;margin-bottom:10px; line-height:1.5;">&#9888;&#65039; &nbsp;<b>Error when uploading vaccination certificate QR code:</b> If you have problem uploading the vaccination certificate QR code even though you have met the above requirements, <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office</a> for help and provide your vaccination certificate.</p>
 </div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
