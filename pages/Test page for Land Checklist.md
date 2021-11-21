@@ -40,7 +40,7 @@ published: true
 		<label for="1B">&nbsp;&nbsp;<b>(B) <span style="color:red;">[Only Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label>
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">Apply for entry <b>between 2 and 60 days before</b> the intended date of entry into Singapore, together with the QR code of the traveller’s vaccination certificate (if available).</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f0f0f0;">
-	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><span style="color:red; font-size:24px;"><strike>&#65284;</strike></span> &nbsp; No cost is required for application.</li>
+	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">No cost is required for application.</li>
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Successful applicants will receive their approved VTP via email. </li>
 	</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.5;"><span style="color:red; font-size:24px;">&#10005;</span>&nbsp; Unvaccinated children aged 12 and below in this calendar year do not need to apply to enter Singapore on the VTL (Land). However, they must comply with all other VTL (Land) conditions, including being accompanied by a fully vaccinated VTL (Land) traveller.</p>
@@ -67,8 +67,8 @@ published: true
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D">
     <label for="1D">&nbsp;&nbsp;<b>(D) Pre-departure Test (PDT)</b></label>
-	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">
-</p>
+	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">All travellers, except those aged two and below in this calendar year (i.e. child who has turned two this year is exempted), must take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) for entry into Singapore within 2 days before departure for Singapore. To illustrate, the earliest date which a traveller entering Singapore on 3 December 2021 should take a pre-departure COVID-19 test, is 1 December 2021.</p>
+	</p>
 	</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
