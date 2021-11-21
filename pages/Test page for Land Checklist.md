@@ -39,15 +39,20 @@ published: false
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B" name="1B" value="ApplyVTP">
 		<label for="1B">&nbsp;&nbsp;<b>(B) <span style="color:red;">[Only Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label>
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">Apply for entry <b>between 2 and 60 days before</b> the intended date of entry into Singapore, together with the QR code of the traveller’s vaccination certificate (if available).</p>
-	<ol style="padding:0px 10px 10px 10px; font-size:18px; list-style-type: disc; background-color:#f0f0f0; ">
+	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f0f0f0; ">
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><span style="color:red; font-size:24px;"><strike>&#65284;</strike></span> &nbsp; No cost is required for application.</li>
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Successful applicants will receive their approved VTP via email. </li>
 	</ol>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.5;"><span style="color:red; font-size:24px;">&#10005;</span>&nbsp; Unvaccinated children aged 12 and below in this calendar year do not need to apply to enter Singapore on the VTL (Land). However, they must comply with all other VTL (Land) conditions, including being accompanied by a fully vaccinated VTL (Land) traveller.</p>
 <div style="vertical-align:middle; text-align:center; font-size:20px; line-height:1.5; "><a style="padding:10px 10px 10px 10px; background-color:#D8D8D8;" href="https://go.gov.sg/vtl-portal" target="_blank"><b>Click here to apply for a VTP</b></a></p>
 	</div>
 </div>
 
-<p style="padding:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:20px; height:20px;vertical-align:middle;" id="1C" name="1C" value="HealthDeclarationl"><label for="1C">&nbsp;&nbsp;<b>(C) Submit Health Declaration via SG Arrival Card (SGAC)</b></label><br><br>&#128345; <b>Up to <span style="color:red;">72 hours before arrival</span> in Singapore</b><br><br>Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B" name="1B" value="ApplyVTP">
+		<label for="1B">&nbsp;&nbsp;<b>(B) <span style="color:red;">[Only Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label>
+
+	&#128345; <b>Up to <span style="color:red;">72 hours before arrival</span> in Singapore</b><br><br>Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.
 <ol style="margin-top: 0px; margin-left: 0px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px; list-style-type:lower-roman;padding:10px;">Travellers should defer their travels in any of the following cases:<br>
 	<li style="margin-left: 30px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">Showing COVID-19 symptoms;</li>
 	<li style="margin-left: 30px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
