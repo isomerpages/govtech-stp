@@ -44,22 +44,24 @@ published: false
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Successful applicants will receive their approved VTP via email. </li>
 	</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.5;"><span style="color:red; font-size:24px;">&#10005;</span>&nbsp; Unvaccinated children aged 12 and below in this calendar year do not need to apply to enter Singapore on the VTL (Land). However, they must comply with all other VTL (Land) conditions, including being accompanied by a fully vaccinated VTL (Land) traveller.</p>
-<div style="vertical-align:middle; text-align:center; font-size:20px; line-height:1.5; "><a style="padding:10px 10px 10px 10px; background-color:#D8D8D8;" href="https://go.gov.sg/vtl-portal" target="_blank"><b>Click here to apply for a VTP</b></a></p>
+<div style="vertical-align:middle; text-align:center; font-size:18px; line-height:1.5; "><a style="padding:10px 10px 10px 10px; background-color:#D8D8D8;" href="https://go.gov.sg/vtl-portal" target="_blank"><b>Click here to apply for a VTP</b></a></p>
 	</div>
 	<p style="padding-left:5px;font-size:18px; padding-bottom:5px;margin-bottom:10px; line-height:1.5;">&#9888;&#65039; &nbsp;<b>Error when uploading vaccination certificate QR code:</b> If you have problem uploading the vaccination certificate QR code even though you have met all requirements above, <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office</a> for help and provide your vaccination certificate.</p>
 </div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C" name="1C" value="ticket">
 		<label for="1C">&nbsp;&nbsp;<b>(C) Secure Tickets for a Designated VTL (Land) Bus Service</b></label>
-
-	&#128345; <b>Up to <span style="color:red;">72 hours before arrival</span> in Singapore</b><br><br>Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.
-<ol style="margin-top: 0px; margin-left: 0px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px; list-style-type:lower-roman;padding:10px;">Travellers should defer their travels in any of the following cases:<br>
-	<li style="margin-left: 30px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">Showing COVID-19 symptoms;</li>
-	<li style="margin-left: 30px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
-	<li style="margin-left: 30px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
-</ol>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">VTL (Land) travellers must take <b>only</b> the following designated bus service to Singapore to enjoy quarantine-free travel.</p><p> The latest list of designated VTL (Land) bus operators are as follows:
+	<ol>
+i.	XXX
+ii.	XXX
+	</ol>
+*The list of bus operators and websites will be regularly updated.
+<p>Travellers can purchase tickets for the designated VTL (Land) bus services offered by either Singaporean or Malaysian designated operators for travel to Singapore. </p>
 </p>
+</div>
+
 
 <div id="payment"></div>
 
