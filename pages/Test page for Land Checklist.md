@@ -4,7 +4,7 @@ permalink: /land-checklist
 description: ""
 published: false
 ---
-<span style="font-size:32px; color:red;">&#9888;</span> This step-by-step checklist is for all VTL (Land) travellers, including Singapore Citizens (SC) and Singapore Permanent Residents (PR), entering Singapore via a designated VTL (Land) bus through the Causeway. Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the “Vaccinated Travel Lane” page instead for more details. Those who are intending to leave Singapore via VTL (Land), should visit the “Vaccinated Travel Lane-Land (Outbound)” page for more details.
+<span style="font-size:32px; color:red;">&#9888;</span> This step-by-step checklist is for all VTL (Land) travellers, including Singapore Citizens (SC) and Singapore Permanent Residents (PR), entering Singapore via a designated VTL (Land) bus through the Causeway.
 
 ### VTL Land Travel Checklist 
 
@@ -29,20 +29,22 @@ published: false
 						<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Others</b>: If your vaccination certificate is not listed above, refer to the full list of accepted vaccination certificates [here]. </li>
 		</ol>
 	</p>
-<u>Note during application</u><br>
+<u>Note during application:</u><br>
 	<p style="padding-left:5px; font-size:18px; margin-bottom:0px; line-height:1.5;">* Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
-	<p style="padding-left:5px; font-size:18px; line-height:1.5;">Travellers vaccinated outside Singapore are strongly encouraged to self-verify your vaccination certificate before applying for the VTP and travelling to Singapore, by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>.</p>
-<p style="padding-left:5px;font-size:18px; padding-bottom:10px;margin-bottom:10px; line-height:1.5;">&#10067; &nbsp;<b>Frequently Asked Questions:</b> Click <a href="" target="_blank">here</a>.</p>
+	<p style="padding-left:5px; font-size:18px; line-height:1.5;">Travellers vaccinated outside Singapore are strongly encouraged to self-verify your vaccination certificate using the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>, before applying for the VTP.</p>
+<p style="padding-left:5px;font-size:18px; padding-bottom:5px;margin-bottom:10px; line-height:1.5;">&#10067; &nbsp;<b>Frequently Asked Questions:</b> Click <a href="" target="_blank">here</a>.</p>
 </div>
 
 <div style="padding:10px 10px 0px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
-<p style="font-size:18px; margin-bottom:0px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B" name="1B" value="AcceptedVaccination">
-		<label for="1A">&nbsp;&nbsp;<b>(A) Provide accepted proof of vaccination</b></label><br>
-<ol style="margin-top: 0px; margin-left: 0px; margin-bottom:0px; line-height:1.5; background-color:#f0f0f0; font-size:18px; list-style-type:lower-roman;padding:0px 0px 10px 10px;">Apply for entry visa if traveller is:<br>
-	<li style="margin-left: 30px; margin-top: 20px; margin-bottom:0px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">Not a Singapore Citizen, Permanent Resident or Long Term Pass holder; <b>AND</b></li>
-<li style="margin-left: 30px; margin-bottom:0px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">Holding a passport issued by visa-required countries/regions.</li><br>
-Travellers who are unsure if they require an entry-visa or wish to apply may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">visit the main ICA site</a> for more information.
-</ol></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B" name="1B" value="AcceptedVaccination">
+		<label for="1A">&nbsp;&nbsp;<b>(B) <span style="color:red;">[Only for Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label><br>
+	<p>Apply for entry between 2 and 60 days before the intended date of entry into Singapore, together with the QR code of the traveller’s vaccination certificate (if available).</p>
+	<ol style="padding:0px 10px 10px 10px; font-size:18px; list-style-type: disc; background-color:#f0f0f0; ">
+	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><strike><span style="color:red; font-size:24px;">&#65284;</span></strike> No cost is required for application.</li>
+	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Successful applicants will receive their approved VTP via email. </li>
+	</ol>
+	<p>Click here to apply for a VTP.</p>
+	</p>
 </div>
 
 <p style="padding:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:20px; height:20px;vertical-align:middle;" id="1C" name="1C" value="HealthDeclarationl"><label for="1C">&nbsp;&nbsp;<b>(C) Submit Health Declaration via SG Arrival Card (SGAC)</b></label><br><br>&#128345; <b>Up to <span style="color:red;">72 hours before arrival</span> in Singapore</b><br><br>Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.
