@@ -67,8 +67,9 @@ published: true
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D">
     <label for="1D">&nbsp;&nbsp;<b>(D) Pre-departure Test (PDT)</b></label>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><span style="color:red;">&#10060;</span>&nbsp;<b>Children aged two and below in this calendar year (i.e. child who has turned two this year does not require a PDT.)</b></p>
-	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">All travellers, except those aged two and below in this calendar year (i.e. child who has turned two this year is exempted), must take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) for entry into Singapore within 2 days before departure for Singapore. To illustrate, the earliest date which a traveller entering Singapore on 3 December 2021 should take a pre-departure COVID-19 test, is 1 December 2021.</p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><span style="color:red;">&#10060;</span>&nbsp;<b>Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require a PDT.</b></p>
+	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">All other travellers, must take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) for entry into Singapore <b>within 2 days before departure</b> for Singapore. To illustrate, the earliest date which a traveller entering Singapore on 3 December 2021 should take a pre-departure COVID-19 test, is 1 December 2021.</p>
+		<p style="font-size:18px; margin-bottom:0px; line-height:1.5;"><i>E.g. a traveller entering Singapore on 3 December 2021 should take a pre-departure COVID-19 test, is 1 December 2021.</i></p>
 	</p>
 	</div>
 
