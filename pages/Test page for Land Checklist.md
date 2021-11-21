@@ -19,24 +19,31 @@ published: false
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
-<div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A" name="1A" value="AcceptedVaccination">
+<div style="padding:10px 10px 10px 10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+	<p style="font-size:18px; margin-bottom: 0px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A" name="1A" value="AcceptedVaccination">
 		<label for="1A">&nbsp;&nbsp;<b>(A) Provide accepted proof of vaccination</b></label><br>
-		<span style="font-size:32px; color:green;">&#10003;</span> &nbsp; Required at application, departure checks and clearance on arrival.<p style="padding: 0px; margin-top:10px; font-size:18px;">Provide any of the following accepted by the Singapore Government today:</p>
+		<span style="font-size:32px; color:green;">&#10003;</span> &nbsp; Required at application, departure checks and clearance on arrival.<p style="padding: 0px; margin-top:10px; font-size:18px;">Provide any of the following country's vaccination certificate accepted by the Singapore Government today:</p>
 		<ol style="padding:0px 10px 10px 10px; font-size:18px;">
-			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Singapore</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
+			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Singapore*</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Malaysia</b>: Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
 						<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Others</b>: If your vaccination certificate is not listed above, refer to the full list of accepted vaccination certificates [here]. </li>
 		</ol>
 	</p>
+<u>Note during application</u><br>
+	<p style="padding-left:5px; font-size:18px; margin-bottom:0px; line-height:1.5;">* Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
+	<p style="padding-left:5px; font-size:18px; line-height:1.5;">Travellers vaccinated outside Singapore are strongly encouraged to self-verify your vaccination certificate before applying for the VTP and travelling to Singapore, by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>.</p>
+<p style="padding-left:5px;font-size:18px; padding-bottom:10px;margin-bottom:10px; line-height:1.5;">&#10067; &nbsp;<b>Frequently Asked Questions:</b> Click <a href="" target="_blank">here</a>.</p>
 </div>
 
-<p style="padding: 10px; margin: 20px 0px 0px 0px; line-height:1.5; background:#f0f0f0; font-size:18px;"><input type="checkbox" style="width:20px; height:20px;vertical-align:middle;" id="1B" name="1B" value="EntryVisa"><label for="1B">&nbsp;&nbsp;<b>(B) Apply for Entry Visa (For holder of passport issued by visa-required country/region)</b></label><br>
+<div style="padding:10px 10px 0px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+<p style="font-size:18px; margin-bottom:0px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B" name="1B" value="AcceptedVaccination">
+		<label for="1A">&nbsp;&nbsp;<b>(A) Provide accepted proof of vaccination</b></label><br>
 <ol style="margin-top: 0px; margin-left: 0px; margin-bottom:0px; line-height:1.5; background-color:#f0f0f0; font-size:18px; list-style-type:lower-roman;padding:0px 0px 10px 10px;">Apply for entry visa if traveller is:<br>
 	<li style="margin-left: 30px; margin-top: 20px; margin-bottom:0px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">Not a Singapore Citizen, Permanent Resident or Long Term Pass holder; <b>AND</b></li>
 <li style="margin-left: 30px; margin-bottom:0px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">Holding a passport issued by visa-required countries/regions.</li><br>
 Travellers who are unsure if they require an entry-visa or wish to apply may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">visit the main ICA site</a> for more information.
 </ol></p>
+</div>
 
 <p style="padding:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><input type="checkbox" style="width:20px; height:20px;vertical-align:middle;" id="1C" name="1C" value="HealthDeclarationl"><label for="1C">&nbsp;&nbsp;<b>(C) Submit Health Declaration via SG Arrival Card (SGAC)</b></label><br><br>&#128345; <b>Up to <span style="color:red;">72 hours before arrival</span> in Singapore</b><br><br>Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.
 <ol style="margin-top: 0px; margin-left: 0px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px; list-style-type:lower-roman;padding:10px;">Travellers should defer their travels in any of the following cases:<br>
