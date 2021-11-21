@@ -110,7 +110,7 @@ published: true
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per Stage 1A); and</li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per stage 1E).</li>
 	</ol>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><b>[Singapore Citizens and Singapore Permanent Residents]</b> Present only <b>(i), (iii) and (iv)</b> above.</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><b style="color:blue;">[Singapore Citizens and Singapore Permanent Residents]</b> Present only <b>(i), (iii) and (iv)</b> above.</p>
 </div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
@@ -127,8 +127,8 @@ published: true
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom: 10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3A">
-	<label for="3A">&nbsp;&nbsp;<b>(A) Immigration Clearance</b></label></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Follow the instructions provided by the officers and signages on arrival.</p>
+	<label for="3A">&nbsp;&nbsp;<b>(A) COVID-19 Safe Management Measures and Proof of Vaccination</b></label></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">All travellers must comply with the latest public health measures. This includes the use of the TraceTogether app, which allows the identification of close contacts of a positive COVID-19 case. Please visit the Ministry of Health website for details on the prevailing measures.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Travellers must present the same set of documentation listed in <a href="#stage2">Stage 2</a> for immigration clearance.</p>
 <p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;</span><b>Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA). </b></p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.5;"><u><b>After clearing immigration</b></u></p>
