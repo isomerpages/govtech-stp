@@ -54,10 +54,10 @@ published: false
 		<label for="1C">&nbsp;&nbsp;<b>(C) Secure Tickets for a Designated VTL (Land) Bus Service</b></label>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.5;">VTL (Land) travellers must take <b>only</b> the following designated bus service to Singapore to enjoy quarantine-free travel.</p><p> The latest list of designated VTL (Land) bus operators are as follows:
 	<ol>
-i.	XXX
-ii.	XXX
+		<li>XXX</li>
+		<li>XXX</li>
 	</ol>
-*The list of bus operators and websites will be regularly updated.
+	*<i>The list of bus operators and websites will be regularly updated.</i>
 <p>Travellers can purchase tickets for the designated VTL (Land) bus services offered by either Singaporean or Malaysian designated operators for travel to Singapore. </p>
 </p>
 </div>
