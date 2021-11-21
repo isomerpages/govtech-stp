@@ -20,7 +20,7 @@ published: true
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:20px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-bottom: 0px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A" name="1A" value="AcceptedVaccination">
+	<p style="font-size:18px; margin-bottom: 0px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A">
 		<label for="1A">&nbsp;&nbsp;<b>(A) Provide accepted proof of vaccination</b></label><br>
 		<span style="font-size:32px; color:green;">&#10003;</span> &nbsp; Required at application*, departure checks and clearance on arrival.<p style="padding: 0px; margin-top:10px; font-size:18px;">Provide any of the following country's vaccination certificate accepted by the Singapore Government today:</p>
 		<ol style="padding:0px 10px 10px 10px; font-size:18px;">
@@ -36,7 +36,7 @@ published: true
 </div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B" name="1B" value="ApplyVTP">
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B">
 		<label for="1B">&nbsp;&nbsp;<b>(B) <span style="color:red;">[Only Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label>
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">Apply for entry <b>between 2 and 60 days before</b> the intended date of entry into Singapore, together with the QR code of the traveller’s vaccination certificate (if available).</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f0f0f0;">
