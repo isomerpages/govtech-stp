@@ -19,7 +19,7 @@ published: true
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-bottom: 0px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A">
 <label for="1A">&nbsp;&nbsp;<b>(A) Provide accepted proof of vaccination</b></label>
 <p style="font-size:18px; margin-bottom: 0px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:green; line-height:1.5;">&#10003;</span> &nbsp; Required at application*, departure checks and clearance on arrival.<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.5;">Provide any of the following country's vaccination certificate accepted by the Singapore Government today:</p>
@@ -32,7 +32,7 @@ published: true
 <p style="padding-left:5px; font-size:18px; margin-bottom:0px; line-height:1.5;"><b>[Note during application]</b></p>
 	<p style="padding-left:5px; font-size:18px; margin-bottom:0px; margin-top:10px; line-height:1.5;">*Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
 	<p style="padding-left:5px; font-size:18px; line-height:1.5; margin-top:10px;">Travellers vaccinated outside Singapore are strongly encouraged to self-verify your vaccination certificate using the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>, before applying for the VTP.</p>
-<p style="padding-left:5px;font-size:18px; padding-bottom:5px;margin-bottom:10px; line-height:1.5;">&#10067; &nbsp;<b>Frequently Asked Questions:</b> Click <a href="" target="_blank">here</a>.</p>
+<p style="padding-left:5px;font-size:18px; margin-bottom: 10px; line-height:1.5;">&#10067; &nbsp;<b>Frequently Asked Questions:</b> Click <a href="" target="_blank">here</a>.</p>
 </p>
 </div>
 
