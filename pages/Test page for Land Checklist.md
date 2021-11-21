@@ -38,7 +38,7 @@ published: true
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B">
 		<label for="1B">&nbsp;&nbsp;<b>(B) <span style="color:red;">[Only Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">&#128433;&#65039; &nbsp;<b>Between 2 and 60 days before intended date of entry into Singapore</b></p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">&#128433;&#65039; &nbsp;<b>Between <u>2 and 60 days</u> before intended date of entry into Singapore</b></p>
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">Apply for entry, together with the QR code of the traveller’s vaccination certificate (if available).</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f0f0f0;">
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">No cost is required for application.</li>
@@ -84,7 +84,7 @@ published: true
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E">
     <label for="1E">&nbsp;&nbsp;<b>(E) Submit Health Declaration</b></label>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">&#128433;&#65039; &nbsp;<b>Within 3 days before arriving in Singapore</b></p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">&#128433;&#65039; &nbsp;<b>Within <u>3 days</u> before arriving in Singapore</b></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><span style="color:red;">&#128681;</span>&nbsp;<b>Defer travel</b> if you:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
@@ -92,6 +92,7 @@ published: true
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
 		<li style="padding-left:10px; margin-bottom:0px; padding-bottom:10px; line-height:1.5; font-size:18px;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 	</ol>
+	</p>
 	</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
