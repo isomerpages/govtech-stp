@@ -5,7 +5,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 ---
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>NOTICE</b></span></p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>NOTICE</u></b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>The Vaccinated Travel Pass (VTP) application is currently unavailable. We are working to resolve the issue. We apologise for any inconvenience caused.</b></span></p>
 </div>
 
