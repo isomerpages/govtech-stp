@@ -2,5 +2,5 @@ collections:
   vtl-land:
     output: true
     order:
-      - VTL (Land) Frequently Asked Questions.md
       - Conditions.md
+      - VTL (Land) Frequently Asked Questions.md
