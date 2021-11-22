@@ -132,7 +132,7 @@ To qualify for the VTL quarantine-free travel health protocols, travellers must 
 			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Germany</td>
 </tr>
 	<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Malaysia Airlines</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.malaysiaairlines.com/sg/en/campaign/vaccinated-travel-lane-sin-kul.html?icid=mastheadbanner_n1_homepage_sg_vtl-sin-kul" target="_blank">Malaysia Airlines</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Malaysia</td>
 </tr>
 	<tr>
