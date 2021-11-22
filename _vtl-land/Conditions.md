@@ -47,5 +47,5 @@ published: false
 <li>For the purpose of determining whether the conditions of the VTL (Land) are being complied with, a public officer, including an officer of the ICA, or an officer acting on behalf of the ICA, may request to see the VTP. Upon receipt of such a request, a VTP holder must show his or her VTP to the officer.</li>
 </ol>	
 	
-<p><sup>1</sup>If the scheduled day of departure of the bus service is D (e.g. 7 December 2021), the traveller must have oremained in Malaysia and Singapore from D-14 to D (i.e. 23 November to 7 December 2021, if D is 7 December 2021).
-2If the pre-departure test is taken on 1 December 2021, it will be valid for departures up to 3 December 2021, 2359 hours.
+<p style="font-size:16px;line-height:1.5;"><sup>1</sup> If the scheduled day of departure of the bus service is D (e.g. 7 December 2021), the traveller must have oremained in Malaysia and Singapore from D-14 to D (i.e. 23 November to 7 December 2021, if D is 7 December 2021).</p>
+<p style="font-size:16px; line-height:1.5;"><sup>2</sup> If the pre-departure test is taken on 1 December 2021, it will be valid for departures up to 3 December 2021, 2359 hours.</p>
