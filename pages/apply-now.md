@@ -3,6 +3,10 @@ title: Apply Now
 permalink: /apply-now
 ---
 
+<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>The Application Service for Safe Travel Pass is experiencing high volume. Please <u>try again later</u> if you are unable to log in.</b> </p>
+	</div>
+
 **This page is meant for users who are already familiar with the relevant SafeTravel lane eligibility criteria and requirements, and wish to apply for entry.**
 
 <u>If you are unsure which lane to use to enter Singapore and the corresponding entry requirements</u>, please refer to the [Travelling to Singapore](/arriving/overview) page instead, which will guide you on which lane to use.

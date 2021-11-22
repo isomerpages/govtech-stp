@@ -3,7 +3,11 @@ title: Contact Us
 permalink: /contact-us
 ---
 
-<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
+<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>The Application Service for Safe Travel Pass is experiencing high volume. Please <u>try again later</u> if you are unable to log in.</b> </p>
+	</div>	
+
+<div style="padding-left: 5px; padding-bottom: 20px; margin-top:20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE </b><br/> Public Advisory On Scam Calls From ICA</p>
 <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.2;">ICA is aware that members of the public have received calls from the number “+65 6812 5555” that is similar to our SafeTravel Enquiries Helpline. The callers claimed to be officers from government agencies. They accused the recipients of either spreading fake news related to COVID-19 or breaking COVID-19 rules, further saying that a report would be made against them or they had to pay a penalty.</p>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">ICA would like to clarify that such calls were not made by officers from ICA or any other government agencies. ICA does not call members of the public to request money in any form over the phone. Members of the public are advised to take precautions when they receive such calls. For details, visit <a href="https://www.ica.gov.sg/news-and-publications/media-releases/media-release/public-advisory-on-scam-calls-from-ica-sto">this page</a>.</p><br/>
