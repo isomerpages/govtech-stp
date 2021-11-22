@@ -16,10 +16,10 @@ published: false
 <li>A VTP is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li><br>
 <li>A VTL (Land) Traveller must comply with the following conditions:
 <ol style="font-size:18px; list-style-type:lower-latin; line-height:1.5; padding-bottom:10px;">
-	<li>be<a href="/health/vtsg">fully vaccinated</a>, and have a valid proof of vaccination issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore;</li>
-<li>have only travelled to / transited via any VTL countries/regions, [Category I countries/regions] and/or Singapore, for the last 14 consecutive days1 before departing for Singapore;</li>
+	<li>be <a href="/health/vtsg">fully vaccinated</a>, and have a valid proof of vaccination issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore;</li>
+	<li>have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, [<a href="/shn-and-swab-summary">Category I countries/regions</a>] and/or Singapore, for the last 14 consecutive days<sup>1</sup> before departing for Singapore;</li>
 <li>travel to Singapore on a designated VTL (Land) bus service;</li>
-<li>undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART), within 2 days 2 before the scheduled departure time of the bus service, at a laboratory or centre that is accredited or recognised by the Malaysia Ministry of Health, and obtain a test result certificate in English stating the following:
+<li>undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART), within 2 days<sup>2</sup> before the scheduled departure time of the bus service, at a <a href="https://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_SENARAI_MAKMAL_YANG_MENJALANKAN_UJIAN_RT-PCR_BAGI_COVID-19_21092021.pdf" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> that is accredited or recognised by the Malaysia Ministry of Health, and obtain a test result certificate in English stating the following:
 	<ol style="list-style-type:lower-roman; line-height:1.5; padding-left:10px; padding:bottom:10px;">
 <li>the VTP holder’s name, and at least one other personal identifier such as the date of birth or passport number or NRIC number corresponding exactly with the information in the traveller’s passport or NRIC used for entry into Singapore;</li>
 		<li>	a negative COVID-19 test result;</li>
