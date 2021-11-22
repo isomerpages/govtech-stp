@@ -1,6 +1,6 @@
 collections:
   vtl-land:
-    output: true
+    output: false
     order:
       - Conditions.md
       - Frequently Asked Questions.md
