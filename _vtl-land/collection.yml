@@ -1,5 +1,5 @@
 collections:
   vtl-land:
-    output: true
+    output: false
     order:
       - VTL (Land) Terms and Conditions.md
