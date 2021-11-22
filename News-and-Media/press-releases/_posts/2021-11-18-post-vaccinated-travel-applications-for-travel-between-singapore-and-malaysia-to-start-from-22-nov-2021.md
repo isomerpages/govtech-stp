@@ -56,11 +56,11 @@ More details on the VTL requirements into Singapore can be found in the Annex an
 
 For conditions for entry into Malaysia, travellers can check <a href="https://www.imi.gov.my" target="_blank">https://www.imi.gov.my</a>.
 
-<a href="https://www.caas.gov.sg/docs/default-source/default-document-library/final-annex-18-nov-21.pdf" target="_blank">Annex: Summary of Vaccinated Travel Lane Requirements</a>
+<a href="https://www-caas-gov-sg-admin.cwp.sg/docs/default-source/docs---cc/final-annex-18-nov-21.pdf" target="_blank">Annex: Summary of Vaccinated Travel Lane Requirements</a>
 
-<a href="https://www.caas.gov.sg/docs/default-source/default-document-library/infographic-on-vtl-(for-singapore-citizens-and-permanent-residents)-18-nov-21.pdf" target="_blank">Infographic A: Vaccinated Travel Lane for Singapore Citizens and Permanent Residents</a>
+<a href="https://www-caas-gov-sg-admin.cwp.sg/docs/default-source/docs---cc/infographic-on-vtl-(for-singapore-citizens-and-permanent-residents)-18-nov-21.pdf" target="_blank">Infographic A: Vaccinated Travel Lane for Singapore Citizens and Permanent Residents</a>
 
-<a href="https://www.caas.gov.sg/docs/default-source/default-document-library/infographic-on-vtl-(for-short-term-visitors-and-long-term-pass-holders)-18-nov-21.pdf" target="_blank">Infographic B: Vaccinated Travel Lane for Short-Term Visitors and Long-Term Pass Holders</a>
+<a href="https://www-caas-gov-sg-admin.cwp.sg/docs/default-source/docs---cc/infographic-on-vtl-(for-short-term-visitors-and-long-term-pass-holders)-18-nov-21.pdf" target="_blank">Infographic B: Vaccinated Travel Lane for Short-Term Visitors and Long-Term Pass Holders</a>
 
 ---
 
