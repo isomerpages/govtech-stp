@@ -5,7 +5,7 @@ description: ""
 ---
 ### VTL (Air) Travel Checklist
 
-This travel checklist is for the following travellers who are eligible for the VTL and are arriving in Singapore on a designated VTL flight:
+This travel checklist is for the following travellers who are eligible for the VTL and will be arriving in Singapore on a designated VTL flight:
 
 <p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>Singapore Citizens and Singapore Permanent Residents</b></p>
 <p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; Singapore <b>Long Term Pass Holders</b> (i.e. Holders of Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration & Checkpoints Authority)</p>
