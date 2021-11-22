@@ -426,7 +426,7 @@ You may refer to this table below. Please extract (i.e. screen-capture, crop and
 <thead>
 <tr>
 <th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; "><b>Country in which Proof of Vaccination was issued</b></th>
-<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; "><b>Certificate Type</b></th>
+<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; "><b>Accepted Proofs of Vaccination Containing QR Code(s)</b></th>
 <th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; "><b>If <a href="/health/vtsg">full vaccination regimen</a> consists of 2 doses</b></th>
 	<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; "><b>If <a href="/health/vtsg">full vaccination regimen</a> consists of 1 dose</b></th>
 </tr>
