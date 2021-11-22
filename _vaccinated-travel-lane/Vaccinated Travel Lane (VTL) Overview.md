@@ -14,7 +14,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 		<ol style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">
 	<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">There is <u><b>no quota</b></u> on VTPs issued for air travel. If you are entering Singapore after 1 Dec, please apply on another day.</li>
 			<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Get ready your passport, <a href="/vtl/faq#QRcode" target="_blank">proof of vaccination</a> and self-isolation address before applying.</li>
-			<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Singapore Citizens and Permanent Residents do not need to apply. However, <b>they must also comply with all the requirements stated in the <a href="/vtl/travel-checklist" target="_blank">VTL Traveller's Checklist.</b></li>
+			<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Singapore Citizens and Permanent Residents do not need to apply. However, <b>they must also comply with all the requirements stated in the</b> <a href="/vtl/travel-checklist" target="_blank"><b>VTL Traveller's Checklist</b></a>.</li>
 	</ol>
 </div>
 
