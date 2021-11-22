@@ -2,4 +2,4 @@ collections:
   vtl-land:
     output: false
     order:
-      - VTL (Land) Terms and Conditions.md
+      - Conditions.md
