@@ -4,7 +4,6 @@ permalink: /rgl/overview
 third_nav_title: RGL Travellers Visiting Singapore
 description: ""
 ---
-
 This page summarises the requirements for using the Reciprocal Green Lane (RGL) to enter Singapore.
 
 Currently, Brunei Darussalam and selected regions in Mainland China (i.e. Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) have an active RGL arrangement with Singapore. However, travellers from these countries/regions should note that there are alternate SafeTavel Lanes (see list below) that offer more relaxed travel requirements. Travellers are therefore encouraged to explore these travel options first before attempting to apply for entry via RGL.
@@ -106,7 +105,7 @@ See Annex for partner countries/regions where RGL has been suspended.
 <tbody>
 <tr>
 <td style="font-size:18px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Applicant/Application portal</b></td>
-<td style="font-size:18px;border-right:1px solid #D8D8D8; vertical-align:middle;">Singapore-based company or Singapore Government Agencies can <a href="https://go.gov.sg/vtl-portal" target="_blank">APPLY HERE</a> on behalf of the traveller. Travellers cannot apply for their own travel under the RGL.</td>
+<td style="font-size:18px;border-right:1px solid #D8D8D8; vertical-align:middle;">Singapore-based company or Singapore Government Agencies can <a href="https://eservices.ica.gov.sg/STO" target="_blank">APPLY HERE</a> on behalf of the traveller. Travellers cannot apply for their own travel under the RGL.</td>
 </tr>
 <tr>
 <td style="font-size:18px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
