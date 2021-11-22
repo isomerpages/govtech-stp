@@ -1,4 +1,5 @@
 collections:
   vtl-land:
     output: true
-    order: []
+    order:
+      - VTL (Land) Terms and Conditions.md
