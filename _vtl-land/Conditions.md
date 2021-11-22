@@ -15,7 +15,7 @@ description: ""
 <li>A VTP is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li><br>
 <li>A VTL (Land) Traveller must comply with the following conditions:
 <ol style="font-size:18px; list-style-type:lower-latin; line-height:1.5; padding-bottom:10px;">
-	<li>be<a href="/health/vtsg">fully vaccinated</a>, and have a valid proof of vaccination issued in any VTL country/region or Singapore;</li>
+	<li>be<a href="/health/vtsg">fully vaccinated</a>, and have a valid proof of vaccination issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore;</li>
 <li>have only travelled to / transited via any VTL countries/regions, [Category I countries/regions] and/or Singapore, for the last 14 consecutive days1 before departing for Singapore;</li>
 <li>travel to Singapore on a designated VTL (Land) bus service;</li>
 <li>undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART), within 2 days 2 before the scheduled departure time of the bus service, at a laboratory or centre that is accredited or recognised by the Malaysia Ministry of Health, and obtain a test result certificate in English stating the following:
