@@ -4,8 +4,9 @@ permalink: /vtl/requirements-and-process
 description: Requirements for using the Vaccinated Travel Lane to travel to Singapore by air
 ---
 
-<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; color:red; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE </b><br><br>The Vaccinated Travel Pass (VTP) application is currently unavailable. We are working to resolve the issue. We apologise for any inconvenience caused.</p>
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>NOTICE</b></span></p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>The Vaccinated Travel Pass (VTP) application is currently unavailable. We are working to resolve the issue. We apologise for any inconvenience caused.</b></span></p>
 </div>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL:</p>
