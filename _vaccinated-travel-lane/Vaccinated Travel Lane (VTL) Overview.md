@@ -270,9 +270,7 @@ input:checked + label + .content {
 
 <div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.3; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b></p>
-	<p style="line-height:1.3; font-size:18px;">Travellers departing from <b>Indonesia and Malaysia</b> may only submit their applications from <b>22 Nov 2021, 1000hrs SGT</b></p>
-		<p style="line-height:1.3; font-size:18px;">Travellers departing from <b>Finland, India and Sweden</b> may only submit their applications from <b>22 Nov 2021, 1800hrs SGT</b></p>
-			<p style="line-height:1.3; font-size:18px; ">Travellers departing from <b>Qatar, Saudi Arabia and the United Arab Emirates</b> may only submit their applications from <b>29 Nov 2021, 1000hrs SGT</b></p>
+	<p style="line-height:1.3; font-size:18px; ">Travellers departing from <b>Qatar, Saudi Arabia and the United Arab Emirates</b> may only submit their applications from <b>29 Nov 2021, 1000hrs SGT</b></p>
 	<p style="line-height:1.3; font-size:18px; ">Please note the following when making the application:</p>
 	<ol style="margin-top:0px; list-style-type:disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTL travellers must also refer to this <a href="/vtl/travel-checklist" target="_blank">travel checklist</a> and the <a href="/vtl/conditions" target="_blank">VTL conditions</a> to ensure they satisfy all VTL requirements, otherwise they may be denied entry to Singapore.</li>
