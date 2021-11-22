@@ -1,5 +1,5 @@
 collections:
   vtl-land:
-    output: false
+    output: true
     order:
       - Conditions.md
