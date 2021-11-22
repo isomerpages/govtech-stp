@@ -9,7 +9,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>The Vaccinated Travel Pass (VTP) application is currently unavailable. We are working to resolve the issue. We apologise for any inconvenience caused.</b></span></p>
 </div>
 
-<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; background-color:#f8f8f8; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>Please note that for Vaccinated Travel Pass (VTP) applications:</b></span></p>
 		<ol style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">
 	<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">There is <u><b>no quota</b></u> on VTPs issued for air travel. If you are entering Singapore after 1 Dec, please apply on another day.</li>
