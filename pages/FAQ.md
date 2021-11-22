@@ -5,10 +5,6 @@ permalink: /FAQ
 ## Safe Travel Lane FAQs
 
 
-<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>The Application Service for Safe Travel Pass is experiencing high volume. Please <u>try again later</u> if you are unable to log in.</b> </p>
-	</div>
-
 <table>
   <thead>
     <tr>
