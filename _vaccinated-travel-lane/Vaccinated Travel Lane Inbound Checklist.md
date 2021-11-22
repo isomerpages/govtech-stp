@@ -88,7 +88,7 @@ To qualify for the VTL quarantine-free travel health protocols, travellers must 
 </thead>
 <tbody>
 		<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">AirAsia</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://support.airasia.com/s/article/Travel-Requirements-Singapore?language=en_GB" target="_blank">AirAsia</a></td>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Malaysia</td>
 </tr>
 	<tr>
@@ -100,8 +100,12 @@ To qualify for the VTL quarantine-free travel health protocols, travellers must 
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Republic of Korea</td>
 </tr>
 		<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Finnair</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.finnair.com/gb-en/flight-information/travel-updates/travelling-via-singapore-2424534" target="_blank">Finnair</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Finland</td>
+</tr>	
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.garuda-indonesia.com/" target="_blank">Garuda Indonesia</a></td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Indonesia</td>
 </tr>	
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.britishairways.com/en-gb/information/incident/coronavirus/entry-requirements#singapore" target="_blank">British Airways</a></td>
@@ -128,11 +132,11 @@ To qualify for the VTL quarantine-free travel health protocols, travellers must 
 			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Germany</td>
 </tr>
 	<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Malaysia Airlines</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.malaysiaairlines.com/sg/en/campaign/vaccinated-travel-lane-sin-kul.html?icid=mastheadbanner_n1_homepage_sg_vtl-sin-kul" target="_blank">Malaysia Airlines</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Malaysia</td>
 </tr>
 	<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Malindo Air</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.malindoair.com/news-events/COVID19-COVID19-Countries-Travel-Restriction--Policies" target="_blank">Malindo Air</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Malaysia</td>
 </tr>	
 		<tr>
@@ -149,14 +153,14 @@ To qualify for the VTL quarantine-free travel health protocols, travellers must 
 </tr>
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/" target="_blank">Singapore Airlines</a></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Brunei Darussalam, Canada, Denmark, France, Germany, Italy, Malaysia, Republic of Korea, Spain,  Switzerland, The Netherlands, United Arab Emirates, The United Kingdom, The United States of America</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Brunei Darussalam, Canada, Denmark, France, Germany, Indonesia, Italy, Malaysia, Republic of Korea, Spain,  Switzerland, The Netherlands, United Arab Emirates, The United Kingdom, The United States of America</td>
 </tr>
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.swiss.com/sg/en/ch-sg-vtl" target="_blank">SWISS</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Switzerland</td>
 </tr>
 	<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">United Airlines</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.united.com/ual/en/us/fly/travel/notices.html#asia-waivers" target="_blank">United Airlines</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">United States of America</td>
 </tr>	
 </tbody>
