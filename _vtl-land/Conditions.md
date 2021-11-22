@@ -15,23 +15,24 @@ description: ""
 <li>A VTP is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li><br>
 <li>A VTL (Land) Traveller must comply with the following conditions:
 <ol style="font-size:18px; list-style-type:lower-latin; line-height:1.5; padding-bottom:10px;">
-<li>be fully vaccinated, and have a valid proof of vaccination issued in any VTL country/region or Singapore;</li>
+	<li>be<a href="/health/vtsg">fully vaccinated</a>, and have a valid proof of vaccination issued in any VTL country/region or Singapore;</li>
 <li>have only travelled to / transited via any VTL countries/regions, [Category I countries/regions] and/or Singapore, for the last 14 consecutive days1 before departing for Singapore;</li>
 <li>travel to Singapore on a designated VTL (Land) bus service;</li>
 <li>undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART), within 2 days 2 before the scheduled departure time of the bus service, at a laboratory or centre that is accredited or recognised by the Malaysia Ministry of Health, and obtain a test result certificate in English stating the following:
-	<ol style="list-style-type:lower-roman; line-height:1.5; padding-left:10px; padding:bottom:20px;">
+	<ol style="list-style-type:lower-roman; line-height:1.5; padding-left:10px; padding:bottom:10px;">
 <li>the VTP holder’s name, and at least one other personal identifier such as the date of birth or passport number or NRIC number corresponding exactly with the information in the traveller’s passport or NRIC used for entry into Singapore;</li>
 		<li>	a negative COVID-19 test result;</li>
 		<li>the date and time when the COVID-19 test was taken; and</li>
 		<li>the name of the testing institution conducting the COVID-19 test.</li>
 	</ol>
-<li>download the TraceTogether app on his/her mobile device and:
+	
+<li style="padding-top:10px;">download the TraceTogether app on his/her mobile device and:
 <ol style="list-style-type:lower-roman; line-height:1.5;padding-left:10px;">	
 	<li>keep the TraceTogether app activated at all times while in Singapore;</li>
 <li>upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore.</li>
 	</ol>
 </li>
-	<li>adhere to all prevailing public health measures while in Singapore; and</li>
+	<li  style="padding-top:10px;">adhere to all prevailing public health measures while in Singapore; and</li>
 <li>remain contactable at all times while in Singapore via his/her their declared mobile number and email address.</li>
 	</li>
 	</ol>
