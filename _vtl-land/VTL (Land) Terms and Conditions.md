@@ -7,3 +7,4 @@ description: ""
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>Important Update</u></b></span></p>
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Singapore will launch a joint VTL (Land) with <b>Malaysia</b> for travel between Woodlands Checkpoint and Bangunan Sultan Iskandar (BSI) <b>from 29 November 2021</b>. Vaccinated Travel Pass (VTP) applications for Holders of a Singapore Long-Term Pass will commence on <b>25 November 2021</b>; returning Singapore Citizens and Singapore Permanent Residents who are fully vaccinated will not need to apply.</p>
 </div>
+
