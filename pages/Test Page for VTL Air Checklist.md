@@ -13,3 +13,5 @@ This travel checklist is for the following travellers who are eligible for the V
 <p style="font-size:18px;"><span style="color:red; font-size:32px;">&#9888;</span>&nbsp; <b>[If ALL applicable requirements below are not met]</b> Singapore Citizens/Permanent Residents will be subjected to prevailing Stay-Home Notice and testing requirements. All other travellers may be denied entry into Singapore.</p>
 
 <p  style="font-size:18px;"><span style="color:black; font-size:32px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>
+
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
