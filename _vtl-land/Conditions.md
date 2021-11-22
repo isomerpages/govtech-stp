@@ -2,6 +2,7 @@
 title: Conditions
 permalink: /vtl-land/conditions
 description: ""
+published: false
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; padding:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px; text-align:justify;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>Important Update</u></b></span></p>
