@@ -10,20 +10,22 @@ description: ""
 
 ### Click to jump to the following sections:
 
-<ol style="list-style-type: decimal;">
-<li>Eligibility Criteria</li>
-<li>Designated VTL (Land) Bus Services</li>
-<li>Application for the Vaccinated Travel Pass (VTP)</li>
-	<li>VTL (Land) Requirements
-	<ol style="list-style-type:lower-roman;">
-		<li>Vaccination Requirement
-		<ol style="list-style-type:lower-latin;">
-			<li style="">Eligibility and Proof of Vaccination</li>
-			<li>Digitally Verifiable Vaccination Certificate and QR Code Issues</li>
-		</ol>
+<div id="top"></div>
+
+<ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Eligibility Criteria</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Designated VTL (Land) Bus Services</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Application for the Vaccinated Travel Pass (VTP)</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">VTL (Land) Requirements</a>
+	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Vaccination Requirement</a>
+			<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
+				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Eligibility and Proof of Vaccination</a></li>
+							<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Digitally Verifiable Vaccination Certificate and QR Code Issues</a></li>
+			</ol>
 		</li>
-		<li>Travel History Requirement</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Travel History Requirement</a></li>
 	</ol>
-</li>
-	<li>Contact Tracing</li> 
+	</li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Contact Tracing </a></li>
 </ol>
