@@ -196,11 +196,12 @@ Please click the links below for more information on accepted digitally verifiab
 
 If your vaccination certificate is not listed above, you can reference the full list of accepted vaccination certificates <a href="/vtl/faq#vaxcert" target="_blank">here</a>. Travellers not vaccinated in Singapore are strongly encouraged to self-verify that your vaccination certificate is accepted by Singapore by referring to the guide <a href="/vtl/faq#verify" target=_blank">here</a>.
 
-Travellers are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#verify" target=_blank">here</a>.
+Travellers are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.
 
-<b style="color:red;"><u>For Holders of a Singapore Long-Term Pass:</u></a> <i>If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL (Land).</i>
+<b style="color:red;"><u>For Holders of a Singapore Long-Term Pass:</u></b> <i>If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL (Land).</i>
 
-4. How do I know if I need to upload (1) or (2) vaccination QR codes?
+#### 3. How do I know if I need to upload (1) or (2) vaccination QR codes?
+	
 You may refer to this table below:
 
 
