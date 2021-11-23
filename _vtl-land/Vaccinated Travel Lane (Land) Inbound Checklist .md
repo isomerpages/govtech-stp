@@ -10,7 +10,7 @@ description: ""
 
 <div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 1: Pre-Departure for Singapore</b></div>
 
-&#9744;  <i><b>A) Obtain an acceptable proof of vaccination </b></i>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744;  <i><b>A) Obtain an acceptable proof of vaccination </b></i></p>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">A proof of vaccination is required for application, pre-departure checks and immigration clearance. Without which, the traveller is ineligible for entry via VTL (Land). Depending on the traveller’s location of vaccination, the following digitally verifiable vaccination certificates are accepted by the Government of Singapore today:
   <ol style="list-style-type:disc">
