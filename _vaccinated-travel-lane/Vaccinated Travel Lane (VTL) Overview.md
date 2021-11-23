@@ -5,7 +5,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 ---
 
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.3;"><b><span style="color:red;">NOTE:</span> </b><b><span style="color:black;">If you hold a valid entry approval letter under other SafeTravel Lanes but wish to apply to enter under the Vaccinated Travel Lane (VTL), please write in via the <a href="http://go.gov.sg/sto-enquiry" target="_blank">SafeTravel Enquiry Form</a> for assistance. All short-term visitors and long-term pass holders are required to have a Vaccinated Travel Pass and fulfil VTL conditions in order to qualify for quarantine-free travel under the VTL.</span></b></p>
+	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.3;"><b><span style="color:red;">NOTE:</span> </b><b><span style="color:black;">If you hold a valid entry approval letter under other SafeTravel Lanes but wish to apply to enter under the Vaccinated Travel Lane (Air) [VTL (Air)], please write in via the <a href="http://go.gov.sg/sto-enquiry" target="_blank">SafeTravel Enquiry Form</a> for assistance. All short-term visitors and long-term pass holders are required to have a Vaccinated Travel Pass and fulfil VTL conditions in order to qualify for quarantine-free travel under the VTL.</span></b></p>
 	</div>
 
 <!--<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; background-color:#f8f8f8; border-style: solid; border-width: 1px; margin-bottom:20px;">
@@ -18,25 +18,25 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 </div>-->
 
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL:</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">The Vaccinated Travel Lane (Air) [VTL (Air)] allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL (Air):</p>
 <ol>
-	<li style="line-height:1.35;"><a href="#countries">VTL Countries/Regions</a></li>
+	<li style="line-height:1.35;"><a href="#countries">VTL (Air) Countries/Regions</a></li>
 	<li style="line-height:1.35;"><a href="#Eligibility">Eligibility</a></li>
-	<li style="line-height:1.35;"><a href="#Application">Application for Travel under the VTL</a></li>
+	<li style="line-height:1.35;"><a href="#Application">Application for Travel under the VTL (Air)</a></li>
 	<li style="line-height:1.35;"><a href="#Documents">Essential Documents for Your Journey</a></li>
 	<li style="line-height:1.35;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Travellers intending to <b>leave</b> Singapore to a VTL country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For all departure-related advisories, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page .</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Travellers intending to <b>leave</b> Singapore to a VTL (Air) country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For all departure-related advisories, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page .</p>
 
 <div id="countries"></div>
 
-### 1. VTL/Countries and Regions
+### 1. VTL (Air) Countries/Regions
 
 <table>
 <tbody>
 	<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>Active VTL Countries/Regions</b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>Active VTL (Air) Countries/Regions</b></td>
 		</tr>
 	<tr>
 	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup>
@@ -111,7 +111,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 
 ### 2. Eligibility
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic criteria and <a href="/vtl/conditions" target="_blank">conditions</a> of the VTL to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic criteria and <a href="/vtl/conditions" target="_blank">conditions</a> of the VTL (Air) to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL (Air) should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
 
 <html>
 
@@ -179,7 +179,7 @@ input:checked + label + .content {
 
 <div class="content" style="background-color:#edf4fa;">
 <p style="line-height:1.3; font-size:18px; ">Travellers must be fully vaccinated with WHO EUL vaccines (<a href="/health/vtsg" target="_blank">click here for definition</a> of fully vaccinated) at least two weeks before arrival in Singapore. </p>
-<p style="line-height:1.3; font-size:18px; ">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL if accompanied by a fully vaccinated VTL traveller.</p>
+<p style="line-height:1.3; font-size:18px; ">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL (Air) if accompanied by a fully vaccinated VTL (Air) traveller.</p>
 </div>
 
 <input type="checkbox" id="title2" />
@@ -190,10 +190,10 @@ input:checked + label + .content {
 	<p style="line-height:1.3; font-size:18px;">
 	<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Australia:</b> <a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Australia:</b> <a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Brunei:</b> Proof of vaccination on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Canada:</b> <a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by any Canadian province</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Denmark, Finland, France, Germany, Italy, Netherlands, Spain, Sweden, Switzerland:</b> <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Denmark, Finland, France, Germany, Italy, Netherlands, Spain, Sweden, Switzerland:</b> <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
@@ -204,9 +204,11 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Kingdom:</b> 
 			<ol style="list-style-type:lower-alpha; ">
 							<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a href="https://www.nhs.uk/conditions/coronavirus-covid-19/covid-pass/" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination or record of COVID-19 vaccination status issued by NHS Digital for England, Wales and Isle of Man, and NHS Scotland in Scotland; or</li>
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”)</a>).</li> 
+				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”)</a>).</li>
+				<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">One QR code per dose.</p>
+				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>[For children aged 13 to 15] Digital vaccination record retrieved from the public health database of the state or the local health authority.</li> 
 			</ol>
-			<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">One QR code per dose.</p></li>
+		</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United States of America (any of the following):</b> 
 			<ol style="list-style-type:lower-alpha; ">
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by CommonTrust Network issuers (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>) or <a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
