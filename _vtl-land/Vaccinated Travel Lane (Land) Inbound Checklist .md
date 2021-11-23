@@ -20,7 +20,7 @@ description: ""
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Other VTL countries:</b> <a href="/vtl-land/faq#digitalcerts" target="_blank">Click here</a></li>	
 	</ol>
 </p>
-<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers vaccinated in Singapore are not required to submit or present their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database. Travellers vaccinated overseas are advised to refer to <a href="/vtl/faq#verify" target="_blank">this guide</a> to verify if their vaccination certificate is accepted in Singapore. </p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers vaccinated in Singapore are not required to submit or present their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database. Travellers vaccinated overseas are advised to refer to <a href="/vtl-land/faq#verify" target="_blank">this guide</a> to verify if their vaccination certificate is accepted in Singapore. </p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Frequently asked questions regarding vaccination proof can be found <a href="/vtl/faq#VacReq" target="_blank">here</a>.</p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>B) Secure Tickets for a Designated VTL (Land) Bus Service </b></i></u></p>
