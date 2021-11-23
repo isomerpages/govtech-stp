@@ -103,9 +103,9 @@ input:checked + label + .content {
 <input type="checkbox" id="title2" />
 <label for="title2">Criterion 2: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
 
-<div id="criteria" class="content" style="background-color:#edf4fa;">
+<div id="criteria2" class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.4; font-size:18px; ">Travellers who are 12 and above in this calendar year must receive the required WHO EUL vaccine doses, below, at least two weeks before arrival in Singapore:
-	<ol style="list-style-type:lower-alpha">
+	<ol style="list-style-type:disc">
 		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Pfizer/BioNTech (BNT162b2 / Comirnaty / Tozinameran), at least 2 doses 17 days apart</li>
 		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Moderna (mRNA-1273), at least 2 doses 24 days apart </li>
 			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">AstraZeneca (AZD1222 Vaxzevria), at least 2 doses 24 days apart</li>
@@ -120,6 +120,17 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px; "><a href="/health/vtsg" target="_blank">Click here</a> for updates/details. Unvaccinated travellers who are 12 and below in this calendar year can still travel to Singapore via VTL (Land) if accompanied by a fully vaccinated VTL traveller.</p>
 	</div>
 	
-	
+<input type="checkbox" id="title3" />
+<label for="title3">Criterion 3: Hold an Accepted Proof of Vaccination</label>
+
+<div id="criteria" class="content" style="background-color:#edf4fa;">	
+	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated in the following locations, must obtain a digitally verifiable vaccination certificates in any of the following formats for application, pre-departure checks and immigration clearance:
+	<ol style="list-style-type:disc">
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia: Digital Certificate for COVID-19 Vaccination downloaded or shown on the MySejahtera app</li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Other VTL countries: Click here</li>	
+	</ol>
+	</p>
+	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated overseas are advised to refer to <a href="/vtl/faq#verify" target="_blank">this guide</a> to verify if their vaccination certificate is accepted in Singapore.</p>
+</div>
 	
 	
