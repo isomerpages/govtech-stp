@@ -10,9 +10,9 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">On this page, you will find the following details on VTL (Land):</p>
 <ol style="font-size:18px;">
-	<li style="line-height:1.4;"><a href="#Eligibility">Eligibility</a></li>
-	<li style="line-height:1.4;"><a href="#Application">Application for Travel under the VTL</a></li>
-	<li style="line-height:1.4;"><a href="#FAQ">Frequently Asked Questions</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="#Eligibility">Eligibility</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="#Application">Application for Travel under the VTL</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Travellers intending to <b>leave Singapore to Malaysia</b> under the VTL (Land), should check with the <a href="http://www.myvtl.gov.my/" target="_blank">Government of Malaysia</a> on the prevailing entry requirements. For all departure-related advisories including how to obtain pre-departure tests and digital vaccination certificates, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page. Travellers should note that fresh entry applications must be submitted, for those seeking to return to Singapore after leaving for Malaysia via VTL (Land).</p>
@@ -255,13 +255,13 @@ input:checked + label + .content {
 
 <span style="font-size:18px;">Click <a href="/vtl-land/faq" target="_blank">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
 
-<ol style="font-size:18px;">
-	<li style="line-height:1.4;"><a href="/vtl-land/faq#digitalcerts" target="_blank">Recognised Vaccination Certificates for VTL</a></li>
-	<li style="line-height:1.4;"><a href="/vtl-land/faq#Application" target="_blank">VTP Application Technical Difficulties</a></li>
-	<li style="line-height:1.4;"><a href="/health/vtsg" target="_blank">Definition of Fully Vaccinated</a></li>
-	<li style="line-height:1.4;"><a href="/vtl-land/faq#travel-history" target="_blank">Travel History</a></li>
-	<li style="line-height:1.4;"><a href="" target="_blank">Pre-Departure Test</a></li>
-	<li style="line-height:1.4;"><a href="/vtl-land/faq#DesignatedBus" target="_blank">Bus Services</a></li>
+<ol style="font-size:18px; list-style-type:disc;">
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#digitalcerts" target="_blank">Recognised Vaccination Certificates for VTL</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#Application" target="_blank">VTP Application Technical Difficulties</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/health/vtsg" target="_blank">Definition of Fully Vaccinated</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#travel-history" target="_blank">Travel History</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="" target="_blank">Pre-Departure Test</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#DesignatedBus" target="_blank">Bus Services</a></li>
 </ol>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">Have a question that is not addressed by any of the available resources found in this webpage? <a href="https://go.gov.sg/sto-enquiry" target="_blank">Contact us here</a>.</p>
