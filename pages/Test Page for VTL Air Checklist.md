@@ -210,7 +210,7 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#128701; &nbsp; Lower the lid before flushing the toilet;</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#129533; &nbsp; Clean and disinfect contact surfaces after each use; and</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">
-&#9201;&#65039; &nbsp; Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation. Clean and disinfect contact surfaces after each use.</li>
+&#9201;&#65039; &nbsp; Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation. Clean and disinfect contact surfaces after each use.</p>
   </p>
   </div>
 	
