@@ -13,7 +13,7 @@ This travel checklist is for the following travellers who are eligible for the V
 <p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>Short-term Visitors ("STVs")</b> (i.e. travellers who are not SC/PRs or LTPHs)</p>
 <p style="font-size:18px;"><span style="color:red; font-size:32px;">&#9888;</span>&nbsp; <b>[If ALL applicable requirements below are not met]</b> SC/PRs will be subjected to prevailing Stay-Home Notice and testing requirements. All other travellers may be denied entry into Singapore. If you are not eligible for the VTL, refer to the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page for the available non-VTL lanes.</p>
 
-<p  style="font-size:18px;"><span style="color:black; font-size:32px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>
+<p style="font-size:18px;"><span style="color:black; font-size:32px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
@@ -83,9 +83,9 @@ input:checked + label + .content {
 </head>
 <body>
 <input type="checkbox" id="SG" />
-<label for="SG" style="background:#D8D8D8; color:red;"><b>Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></label>
+<label for="SG" style="background:#D8D8D8;color:black;"><b>(Click Here) Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></label>
 
-<div class="content" style="background-color:#f8f8f8;">
+<div class="content" style="background-color:#e5e5e5;">
 <p style="line-height:1.3; font-size:18px;">
 	<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
@@ -117,10 +117,17 @@ input:checked + label + .content {
 	</ol>
 </p>
 </div>
-	
 </body>
 </html>
 </p>
 </div>
+
+
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+&#9744;&nbsp;<b>(B) Self-verify proof of vaccination</b>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers <u>must</u> obtain any of the following acceptable proofs of vaccination to be eligible for the VTL.
  <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[STVs/LTPHs]</b> Note the requirements of each vaccination proof during application, airline check-in and immigration clearance, based on their countries/regions of issuance.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[SC/PRs]</b> No application is required. Produce accepted proofs of vaccination at check-in and arrival immigration.</p>
+	</p>
+	</div>
