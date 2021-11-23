@@ -12,7 +12,7 @@ description: ""
 
 <div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 1: Pre-Departure for Singapore</b></div>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>A) Obtain an acceptable proof of vaccination </b></i></u></p>
+<p id="stage1a" style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>A) Obtain an acceptable proof of vaccination </b></i></u></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">A proof of vaccination is required for application, pre-departure checks and immigration clearance. Without which, the traveller is ineligible for entry via VTL (Land). Depending on the traveller’s location of vaccination, the following digitally verifiable vaccination certificates are accepted by the Government of Singapore today:
   <ol style="list-style-type:disc">
@@ -67,7 +67,7 @@ description: ""
 				</ol>
 </p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>E) Submission of Health Declaration</b></i></u></p>
+<p id="stage1e" style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>E) Submission of Health Declaration</b></i></u></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><b>Within 3 days before arrival in Singapore</b>, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration.</p>
 
@@ -79,18 +79,72 @@ description: ""
 				</ol>
 </p>
 
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>F) Passport Updates for Automated Immigration Clearance</b></i></u></p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:20px; line-height:1.5;">To enjoy automated immigration clearance at Woodlands Checkpoint, travellers may follow the following steps:</p>
+
+<table>
+<thead>
+<tr>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#153855; text-align:center; width:400px; color:white;"><b>Traveller Profile</b></th>
+	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#153855; text-align:center; vertical-align:middle; color:white;"><b>Instructions</b></th>
+</tr>
+</thead>
+<tbody>
+		<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Permanent Residents</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Perform a transfer of Re-Entry Permit to the new Passport using the weblink in MyICA</td>
+</tr>
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">MOM Work Permit, S Pass, Employment Pass, Dependant Pass, Long-Term Pass Holder</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Update Passport particulars through the “Notify MOM” option after selecting the relevant pass type in the MOM Website</td>
+</tr>
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ICA Long-Term Visit Pass Holder</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">To report a change in Passport particulars, you will need to:
+				<ol style="list-style-type:disc;">
+				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Email <a href="mailto:ICA_Visit_Pass@ica.gov.sg">ICA_Visit_Pass@ica.gov.sg</a> with the subject title: <b>Change of Passport Particulars for LTVP Holder (FIN No: XXXXXXXXXX)</b>; and </li>
+				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Attach the following documents in your email:
+					<ol>
+						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Passport biodata page</li>
+						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Long-Term Visit Pass card</li>
+					</ol>
+					</li>
+				</ol>
+			<p style="font-size:18px; margin-top:10px; line-height:1.5;">Sponsor's Identity Card</p>
+				</td>
+</tr>
+	</tbody>
+	</table>
+
+<div id="stage2"></div>
+
+<div style="background-color:#153855; color: #FFFFFF; margin-top:25px; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 2: Departure for Singapore</b></div>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>Pre-departure document checks</i></u></p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">As part of the pre-boarding checks, transport operators will ask for the following documents for verification. Travellers who fail to comply may be denied boarding.</p>
+<ol style="list-style-type:lower-roman;">
+				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Ticket for designated VTL (Land) bus services;</li>
+	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Passport;</li>
+	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore NRIC or Re-Entry Permit (only applicable for Singapore Permanent Residents);</li>
+	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Physical or electronic copy of the VTP for the specified period of entry (per Stage 1B, not applicable for Singapore Citizens and Singapore Permanent Residents);</li>
+	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per <a href="#stage1a">Stage 1A</a>); and</li>
+	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#stage1e">stage 1E</a>).</li>
+</ol>
+
+<div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 3: Arrival in Singapore</b></div>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>Immigration Clearance</i></u></p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Follow the instructions provided by the officers and signages on arrival.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#stage2">Stage 2</a>. Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA). Those who have successfully cleared immigration may leave the checkpoint via any available transport, including the same bus used to commute to Singapore or public transport.</p>
+
+<div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 4: Stay in Singapore</b></div>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>COVID-19 Safe Management Measures and Proof of Vaccinatione</i></u></p>
+	
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">All travellers must comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Please visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for details on the prevailing measures.</p>	
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL (Land) travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.</p>	
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+	
