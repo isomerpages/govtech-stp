@@ -175,9 +175,9 @@ input:checked + label + .content {
   <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 		&#9744;&nbsp;<b>(E) Secure Tickets for a Designated VTL (Air) Flight & Check Travel/Transit Route</b>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers <b>MUST</b></p>
-	<ol>
-		<li></li>
-		<li></li>
+	<ol style="list-style-type:lower-roman;">
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Have only travelled to / transited via any VTL (Air) countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Air) flight Please check the websites of the respective airlines for details of the VTL (Air) flights available.</li>
 	</ol>
   </p>
   </div>
