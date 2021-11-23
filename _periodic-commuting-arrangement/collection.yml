@@ -2,7 +2,7 @@ collections:
   periodic-commuting-arrangement:
     output: true
     order:
-      - Requirements and Process.md
+      - Periodic Commuting Arrangement Checklist.md
       - Additional Work Pass Conditions.md
       - singapore-citizens-prs-working-in-malaysia/.keep
       - singapore-citizens-prs-working-in-malaysia/returning-to-singapore-for-short-term-home-leave.md
