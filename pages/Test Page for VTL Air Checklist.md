@@ -204,14 +204,29 @@ input:checked + label + .content {
 		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Non-residential accommodation, such as hotel or serviced apartment in this non-exhaustive list. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
 	</ol>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp;Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; Travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; Travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in isolation in a room and minimise contact. If this is not feasible, please consider alternative accommodation.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; Designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#128701; &nbsp; Lower the lid before flushing the toilet;</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#129533; &nbsp; Clean and disinfect contact surfaces after each use; and</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">
-&#9201;&#65039; &nbsp; Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation.Clean and disinfect contact surfaces after each use.</li>
+&#9201;&#65039; &nbsp; Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation. Clean and disinfect contact surfaces after each use.</li>
   </p>
   </div>
 	
-	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">
+&#9744;&nbsp;<b>(H) Pre-Departure COVID-19 Test (PDT)</b>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. turns 2 in this calendar year) do not require a PDT</b>.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Self-swabs are not allowed.</b>.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Take a pre-departure COVID-19 PCR test, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure, or a professionally-administered Antigen Rapid Test (ART) within 2 days* before departure for Singapore.</p>
+<p style="font-size:16px; margin-bottom:25px; line-height:1.5; margin-top:0px;"><i>*E.g. If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours.</i></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Ensure that the test report:</p>
+	<ol style="list-style-type:lower-roman;">
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Is in English (or accompanied with an English translation);</li>
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
+				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Reflects the date and time the test was taken, the name of the testing institution, and a negative test result; and</li>
+						<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Is not handwritten.</li>
+	</ol>	
+	</p>
+	</div>
