@@ -180,10 +180,28 @@ input:checked + label + .content {
 		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Air) flight. Please check the websites of the respective airlines for details of the VTL (Air) flights available.</li>
 	</ol>
 <input type="checkbox" id="airlines" />
-  <label for="airlines" style="background:#D8D8D8;color:black;"><b>Click here for Airlines Offering VTL Flights to Singapore Based On Traveller's Country/Region</b></label>
+  <label for="airlines" style="background:#D8D8D8; color:black;"><b>Click here for Airlines Offering VTL Flights to Singapore Based On Traveller's Country/Region</b></label>
 <div class="content" style="background-color:#e5e5e5;">
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px; color:#d36363;"><u><b>Australia</b></u></p>
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><a href="https://www.jetstar.com/sg/en/travel-alerts#Flights%20from%20Australia%20to%20Singapore%20under%20the%20Vaccinated%20Travel%20Lane%20(VTL)%20scheme" target="_blank">Jetstar Airways</a>, <a href="https://www.jetstar.com/sg/en/travel-alerts#Flights%20from%20Australia%20to%20Singapore%20under%20the%20Vaccinated%20Travel%20Lane%20(VTL)%20scheme" target="_blank">Jetstar Asia</a>, <a href="https://www.qantas.com/sg/en/coronavirus/international-travel/singapore-flights.html" target="_blank">Qantas</a>, <a href="https://www.flyscoot.com/en/announcements/vaccinated-travel-lane-flights" target="_blank">Scoot</a> and <a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/" target="_blank">Singapore Airlines</a></p>
 </div>
+  </p>
+  </div>
+	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+&#9744;&nbsp;<b>(F) [STVs only] Purchase COVID-19 Insurance</b>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.</p>
+	</p>
+	</div>
+	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+  <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+		&#9744;&nbsp;<b>(G) Secure self-isolation accommodation</b>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers can self-isolate at any of the following locations::</p>
+	<ol style="list-style-type:disc;">
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for Private Property and HDB flat / Bedroom); or</li>
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Non-residential accommodation, such as hotel or serviced apartment in this non-exhaustive list. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
+	</ol>
   </p>
   </div>
