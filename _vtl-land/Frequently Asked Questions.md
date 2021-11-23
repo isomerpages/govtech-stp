@@ -15,13 +15,13 @@ description: ""
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#eligibility">Eligibility Criteria</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#DesignatedBus">Designated VTL (Land) Bus Services</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Application for the Vaccinated Travel Pass (VTP)</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">VTL (Land) Requirements</a>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Application">Application for the Vaccinated Travel Pass (VTP)</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="requirements">VTL (Land) Requirements</a>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Vaccination Requirement</a>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Vaccination Requirement
 			<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
-				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Eligibility and Proof of Vaccination</a></li>
-							<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Digitally Verifiable Vaccination Certificate and QR Code Issues</a></li>
+				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#proof">Eligibility and Proof of Vaccination</a></li>
+							<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#digitalcerts">Digitally Verifiable Vaccination Certificate and QR Code Issues</a></li>
 			</ol>
 		</li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Travel History Requirement</a></li>
@@ -96,6 +96,112 @@ As required under the <a href="/vtl-land/conditions" target="_blank">VTL (Land) 
 
 Travellers who are allowed to enter Singapore will be subject to <a href="/shn-and-swab-summary" target="_blank">Category (II) health measures</a> upon entry into Singapore.
 
+<div id="Application"></div>
+
+### (c) Application for the VTP
+
+#### 1. Do travellers travelling with family members need to apply a VTP for every individual?
+
+All travellers above the age of 12 years old in this calendar year who are not Singapore Citizens or Singapore Permanent Residents must apply for a VTP. 
+
+Travellers who are aged 12 or below 12 years old in this calendar year are eligible to enter Singapore without a VTP, if they are travelling with an approved VTL (Land) adult and if they satisfy the other <a href="/vtl-land/conditions" target="_blank">VTL (Land) Conditions</a>.
+
+#### 2. Is there an expiry (i.e. validity period) and limit to the number of times travellers can apply for a VTP?
+
+No, there is no limit to the number of times a traveller can apply for a VTP. To afford entry flexibility to travellers, a VTP is valid for a period of up to 14 calendar days after the intended date of entry. This means that <b>a traveller holding a VTP for entry into Singapore on 1 December 2021, may book designated VTL (Land) bus service to enter Singapore on any day from 1 December to 15 December 2021. </b> 
+
+Travellers intending to enter Singapore before or after the 14-day validity period should apply for a new VTP. 
+
+#### 3. Once a VTP application is approved, can the relevant authorities change the VTL (Land) conditions or even cancel the VTP?
+
+Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may introduce new measures or requirements as and when necessary to safeguard public health. This may result in changes to the VTL (Land) conditions or cancellation of the VTP at short notice. Applicants will be notified of any such changes or cancellation of their VTP via email.
+
+#### 4. Why was I unsuccessful in applying for a VTP?
+
+A VTP application may be unsuccessful for reasons such as:
+
+<ol style="list-style-type:disc;">
+	<li style="line-height:1.5;"><a href="/vtl/faq#invalidcode" target="_blank">Invalid vaccination QR code</a></li>
+	<li style="line-height:1.5;">Incomplete and/or incorrect information submitted</li>
+	<li style="line-height:1.5;">Passport validity is less than 6 months</li>
+	</ol>
+
+Those who are required to apply for a VTP and meet the eligibility criteria but cannot do so can write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation (e.g. passport) and other supporting documents.
+
+#### 5. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
+
+If your particulars have changed, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with your revised particulars.
+
+#### 6. How can I cancel my VTP as I no longer wish to travel to Singapore?
+
+You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, it will automatically expire.
+
+<div id="requirements"></div>
+
+### (d) Vaccinated Travel Lane Land (VTL (Land)) Requirements
+
+### (i) Vaccination Requirement
+
+<div id="proof"></div>
+
+### (a) Eligibility and Proof of Vaccination
+
+For more information, please click <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a>.
+
+#### 1. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL (Land)?
+
+Persons who are above the age of 12 in the calendar year and medically unfit are not allowed to travel under the VTL (Land).
+
+#### 2. What information needs to be reflected on the vaccination certificate?
+
+The electronic or physical vaccination certificate(s) should be in English and clearly state the following:
+
+<ol style="list-style-type:disc;">
+	<li style="line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth, passport number or NRIC number corresponding exactly with the information in the traveller’s passport or NRIC used for entry into Singapore;</li>
+	<li style="line-height:1.5;">the country/region of issuance must be any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a> they depart from;</li>
+	<li style="line-height:1.5;">the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
+	<li style="line-height:1.5;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller’s arrival in Singapore.</li>
+	</ol>
+
+#### 3. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL (Land)?
+
+If you have an EU Digital COVID Certificate (EU DCC) issued by any VTL country/region showing the final dose in the series (i.e. “1/1” or “2/2”), you will fulfill the vaccination requirement under the VTL (Land). Holders of a Singapore Long-Term Pass may proceed to apply for a <a href="https://go.gov.sg/vtl-portal" target="_blank">Vaccinated Travel Pass (VTP) here</a> and upload the QR code found on their EU DCC of vaccination on the VTP application portal.
+
+For all other travellers, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form</a> and provide your proof of vaccination and recovery certificate.
+
+#### 4. I was fully vaccinated in a non-VTL country/region and have since obtained a vaccination certificate issued by a VTL country/region / had my vaccination records ingested into Singapore’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
+
+Yes, you will fulfill the requirement of having your proof of vaccination issued in any VTL country/region or Singapore.
+
+If you are a holder of a Singapore Long-Term Pass with your vaccination records ingested into Singapore’s NIR, you may obtain your vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a> and upload the QR code in your application for a VTP.
+
+<div id="digitalcerts"></div>
+
+### (b) Digitally Verifiable Vaccination Certificate and QR Code Issues
+
+#### 1. What is a digitally verifiable vaccination certificate?
+
+Digitally verifiable vaccination certificates should contain QR code(s) that can be scanned to read and authenticate that the QR code was issued by a trusted issuer and that the QR code belongs to the individual presenting it.
+
+Non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that we can scan to read and authenticate the traveller’s vaccination status) will not be accepted.
+
+#### 2. What are the accepted forms of digitally verifiable vaccination certificates?
+
+Please click the links below for more information on accepted digitally verifiable vaccination certificates If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL (Land):
+
+<ol style="list-style-type:disc;">
+	<li style="line-height:1.5;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
+	<li style="line-height:1.5;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
+	</ol>
+
+If your vaccination certificate is not listed above, you can reference the full list of accepted vaccination certificates <a href="/vtl/faq#vaxcert" target="_blank">here</a>. Travellers not vaccinated in Singapore are strongly encouraged to self-verify that your vaccination certificate is accepted by Singapore by referring to the guide <a href="/vtl/faq#verify" target=_blank">here</a>.
+
+Travellers are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#verify" target=_blank">here</a>.
+
+<b style="color:red;"><u>For Holders of a Singapore Long-Term Pass:</u></a> <i>If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL (Land).</i>
+
+4. How do I know if I need to upload (1) or (2) vaccination QR codes?
+You may refer to this table below:
 
 
 
