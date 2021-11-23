@@ -121,7 +121,7 @@ description: ""
 
 <div style="background-color:#153855; color: #FFFFFF; margin-top:25px; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 2: Departure for Singapore</b></div>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>Pre-departure document checks</i></u></p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>Pre-departure document checks</b></i></u></p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">As part of the pre-boarding checks, transport operators will ask for the following documents for verification. Travellers who fail to comply may be denied boarding.</p>
 <ol style="list-style-type:lower-roman;">
 				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Ticket for designated VTL (Land) bus services;</li>
