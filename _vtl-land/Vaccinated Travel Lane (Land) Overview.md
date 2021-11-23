@@ -91,8 +91,8 @@ input:checked + label + .content {
 <p style="line-height:1.4; font-size:18px; ">This includes:
 	<ol style="list-style-type:lower-alpha">
 		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore Citizen</li>
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore Permanent Resident </li>
-			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Holder of a Singapore-issued Long-Term Pass (i.e. Work Pass Holders*, Student’s Pass Holders, or Long-Term Visit Pass Holders)</li>
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Singapore Permanent Resident </li>
+			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Holder of a Singapore-issued Long-Term Pass (i.e. Work Pass Holders*, Student’s Pass Holders, or Long-Term Visit Pass Holders)</li>
 	</ol>
 	</p>
 <p style="line-height:1.4; font-size:18px; "><i>*Holders of an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass) are not allowed to enter Singapore under the VTL (Land). These travellers should apply for entry under the Work Pass Holder General Lane instead.</i></p>
@@ -105,14 +105,14 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px; ">Travellers who are 12 and above in this calendar year must receive the required WHO EUL vaccine doses, below, at least two weeks before arrival in Singapore:
 	<ol style="list-style-type:disc">
 		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Pfizer/BioNTech (BNT162b2 / Comirnaty / Tozinameran), at least 2 doses 17 days apart</li>
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Moderna (mRNA-1273), at least 2 doses 24 days apart </li>
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Moderna (mRNA-1273), at least 2 doses 24 days apart </li>
 			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">AstraZeneca (AZD1222 Vaxzevria), at least 2 doses 24 days apart</li>
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Covishield, at least 2 doses 24 days apart</li>
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Sinopharm, at least 2 doses 17 days apart</li>
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Sinovac, at least 2 doses 13 days apart</li>
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Covaxin, at least 2 doses 24 days apart</li>
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Mix of any vaccines above, at least 2 doses 17 days apart</li>
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Janssen/J&J (Ad26.COV2.S), 1 dose</li>
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Covishield, at least 2 doses 24 days apart</li>
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Sinopharm, at least 2 doses 17 days apart</li>
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Sinovac, at least 2 doses 13 days apart</li>
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Covaxin, at least 2 doses 24 days apart</li>
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Mix of any vaccines above, at least 2 doses 17 days apart</li>
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Janssen/J&J (Ad26.COV2.S), 1 dose</li>
 	</ol>
 	</p>
 	<p style="line-height:1.4; font-size:18px; "><a href="/health/vtsg" target="_blank">Click here</a> for updates/details. Unvaccinated travellers who are 12 and below in this calendar year can still travel to Singapore via VTL (Land) if accompanied by a fully vaccinated VTL traveller.</p>
@@ -149,7 +149,7 @@ input:checked + label + .content {
 			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
 			<ol style="list-style-type:disc;">
 				<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
-				<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
+				<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
 				</ol>
 			</li>
 	</ol>
