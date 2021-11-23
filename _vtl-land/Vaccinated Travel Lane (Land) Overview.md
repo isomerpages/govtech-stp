@@ -135,7 +135,7 @@ input:checked + label + .content {
 <label for="title4">Criterion 4: Hold an Accepted Proof of Negative Pre-Departure COVID-19 Test</label>
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">	
-	<p style="line-height:1.4; font-size:18px; ">Travellers <b>must</b> test negative in a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) within 2 days before departure for Singapore. The test must be taken at a laboratory or centre accredited/recognised by the Malaysia Ministry of Health.
+	<p style="line-height:1.4; font-size:18px; ">Travellers <b>must</b> test negative in a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) within 2 days before departure for Singapore. The test must be taken at a <a href="https://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_SENARAI_MAKMAL_YANG_MENJALANKAN_UJIAN_RT-PCR_BAGI_COVID-19_21092021.pdf" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> accredited/recognised by the Malaysia Ministry of Health.
 	</p>
 	</div>
 
