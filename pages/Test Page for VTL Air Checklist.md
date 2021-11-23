@@ -125,9 +125,14 @@ input:checked + label + .content {
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
-&#9744;&nbsp;<b>(B) Self-verify proof of vaccination</b>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers <u>must</u> obtain any of the following acceptable proofs of vaccination to be eligible for the VTL.
- <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[STVs/LTPHs]</b> Note the requirements of each vaccination proof during application, airline check-in and immigration clearance, based on their countries/regions of issuance.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[SC/PRs]</b> No application is required. Produce accepted proofs of vaccination at check-in and arrival immigration.</p>
+&#9744;&nbsp;<b>(B) Verify your proof of vaccination</b>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers are strongly encouraged to verify their vaccination certificates using the verification tools below. </p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Once you have verified your certificate to be valid, proceed to the the next step (Step C).</p>
+	
+<input type="checkbox" id="verify" />
+<label for="verify" style="background:#D8D8D8;color:black;"><b>(Click Here) Verfication Tools for Proof of Vaccinations by their Countries/Regions of Issuance</b></label>
 	</p>
 	</div>
+	
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[STVs/LTPHs]</b> Note the requirements of each vaccination proof during application, airline check-in and immigration clearance, based on their countries/regions of issuance.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[SC/PRs]</b> No application is required. Produce accepted proofs of vaccination at check-in and arrival immigration.</p>
