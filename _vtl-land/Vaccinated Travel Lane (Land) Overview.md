@@ -247,7 +247,7 @@ input:checked + label + .content {
 	</ol>
 	</div>
 </body>
-	</html>
+</html>
 
 <div id="FAQ"></div>
 
