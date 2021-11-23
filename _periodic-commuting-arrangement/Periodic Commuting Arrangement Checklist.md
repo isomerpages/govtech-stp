@@ -29,7 +29,15 @@ description: ""
 <p id="stage1a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>A) Apply for SafeTravel Periodic Commuting Arrangement (PCA) Pass</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Singapore-based companies (i.e. application sponsors) must <a href="https://go.gov.sg/pcamsia" target="_blank">apply for a PCA Pass on behalf of employees via the Application portal here.</a></p>
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">The employees must spend <b>at least 90 days in Singapore for work upon entry</b>. Applications must be submitted at least 7 calendar days before the planned date of entry. Eligible employees must be:</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">The employees must spend <b>at least 90 days in Singapore for work upon entry</b>. Applications must be submitted at least 7 calendar days before the planned date of entry. Eligible employees must be:
+ <ol style="list-style-type:lower-alpha; padding-left:25px;">
+    <li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Malaysian Citizen or Malaysian Permanent Resident holding a long-term pass* for business and work purposes in Singapore that is valid for at least 15 days from the date of entry; or</li>
+	 <li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Malaysian Citizen who is a Singapore Permanent Resident working in Singapore. </li>
+	 </ol>
+</p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><i>*Includes the following MOM-issued work passes: Employment Pass, Entre Pass, Personalised Employment Pass, S Pass, Work Permit, Training Employment Pass, Training Work Permit and Work Holiday Pass. <b>Work Pass in-principal approval holders are ineligible for PCA and should obtain their <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore" target="_blank">entry approvals from MOM.</a></b></i></p>
+
 
 
 
