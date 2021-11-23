@@ -9,7 +9,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the <a href="/vtl/requirements-and-process" target="_blank">“Vaccinated Travel Lane (Air)”</a> page instead for more details.</p>  
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">On this page, you will find the following details on VTL (Land):</p>
-<ol>
+<ol style="font-size:18px;">
 	<li style="line-height:1.4;"><a href="#Eligibility">Eligibility</a></li>
 	<li style="line-height:1.4;"><a href="#Application">Application for Travel under the VTL</a></li>
 	<li style="line-height:1.4;"><a href="#FAQ">Frequently Asked Questions</a></li>
@@ -254,11 +254,14 @@ input:checked + label + .content {
 ### 3. Frequently Asked Questions
 
 <span style="font-size:18px;">Click <a href="/vtl-land/faq" target="_blank">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
-- <a href="" target="_blank">Recognised Vaccination Certificates for VTL</a>
-- <a href="" target="_blank">VTP Application Technical Difficulties</a>
-- <a href="" target="_blank">Definition of Fully Vaccinated</a>
-- <a href="" target="_blank">Travel History</a>
-- <a href="" target="_blank">Pre-Departure Test</a>
-- <a href="" target="_blank">Bus Services</a>
+
+<ol style="font-size:18px;">
+	<li style="line-height:1.4;"><a href="/vtl-land/faq#digitalcerts" target="_blank">Recognised Vaccination Certificates for VTL</a></li>
+	<li style="line-height:1.4;"><a href="/vtl-land/faq#Application" target="_blank">VTP Application Technical Difficulties</a></li>
+	<li style="line-height:1.4;"><a href="/health/vtsg" target="_blank">Definition of Fully Vaccinated</a></li>
+	<li style="line-height:1.4;"><a href="/vtl-land/faq#travel-history" target="_blank">Travel History</a></li>
+	<li style="line-height:1.4;"><a href="" target="_blank">Pre-Departure Test</a></li>
+	<li style="line-height:1.4;"><a href="/vtl-land/faq#DesignatedBus" target="_blank">Bus Services</a></li>
+</ol>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">Have a question that is not addressed by any of the available resources found in this webpage? <a href="https://go.gov.sg/sto-enquiry" target="_blank">Contact us here</a>.</p>
