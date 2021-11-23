@@ -2,10 +2,10 @@
 title: Overview - Returning SC/PR Lane
 permalink: /sc-pr/overview
 ---
-All Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore under the Returning SC/PR lane <b>without</b> the need to apply for an entry approval, but prevailing measures outlined on this page will apply.
+All Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore under the Returning SC/PR Lane <b>without</b> the need to apply for an entry approval, but prevailing measures outlined on this page will apply.
 
 Please note the following before continuing to read:
-* You can also return to Singapore via the [Vaccinated Travel Lane (Air)](/vtl/requirements-and-process) or [Vaccinated Travel Lane (Land)](/vtl-land/overview) without quarantine instead, if you are returning from VTL countries/regions and fulfil the necessary criteria.
+* You can also return to Singapore via the [Vaccinated Travel Lane (Air)](/vtl/requirements-and-process) or [Vaccinated Travel Lane (Land)](/vtl-land/overview) instead without quarantine, if you are returning from VTL countries/regions and fulfil the necessary criteria.
 
 * PR-In-Principle Approval holders must apply for an entry approval under the <a href="/scpr-familial-ties-lane/overview">Familial Ties Lane</a> instead. 
 
