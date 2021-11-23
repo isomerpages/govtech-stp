@@ -155,9 +155,11 @@ input:checked + label + .content {
 	</ol>
 	</p>
 	</div>
+		</body>
 	
 ### 2. Application for Travel under the VTL (Land)
 
+<body>
 <input type="checkbox" id="title6" />
 <label for="title6">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
@@ -182,8 +184,8 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements (<b>See Criterion 3 above</b>), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate.</li>	
 	</ol>
 	</div>
-	</body>
-	</html>
+</body>
+
 
 ### 3. Frequently Asked Questions
 
