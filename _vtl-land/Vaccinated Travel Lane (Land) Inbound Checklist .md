@@ -26,11 +26,11 @@ description: ""
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744;  <i><b>B) Secure Tickets for a Designated VTL (Land) Bus Service </b></i></p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated VTL (Land) bus service offered by the operators below. Tickets for designated VTL (Land) bus services must be purchased at least 2 days before arrival.
 <ol style="list-style-type:lower-roman">
-			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, any other VTL country as recognised by the Government of Singapore, and/or Singapore in the last 14 consecutive days before departing for Singapore; and </li>
-			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
+			<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, any other VTL country as recognised by the Government of Singapore, and/or Singapore in the last 14 consecutive days before departing for Singapore; and </li>
+			<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
 			<ol style="list-style-type:disc;">
-				<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
-				<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
+				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
+				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
 				</ol>
 			</li>
 	</ol>
@@ -49,3 +49,22 @@ description: ""
 </div>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:20px; line-height:1.5;">Applicants who encounter errors when uploading their vaccination certificate QR code to the VTP application portal (per Stage 1A), should <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office</a> for help and provide the vaccination certificate.</p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744;  <i><b>D) Pre-Departure COVID-19 Test	</b></i></p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers aged two and below in this calendar year is exempted from this requirement. All other travellers must take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) for entry into Singapore <b>within 2 days before departure for Singapore</b> (illustration below).</p>
+
+<div style="padding-left: 5px; padding-bottom: 15px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5">Illustration:</p>
+	<p style="font-size:18px; margin-top:15px; margin-bottom:0px; line-height:1.5">The earliest date which a traveller entering Singapore on 3 December 2021 should take a pre-departure COVID-19 test, is 1 December 2021.</p>
+</div>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">The test must be taken at a laboratory or centre accredited/recognised by the Malaysia Ministry of Health. Travellers should obtain a test report that is in English (or accompanied with an English translation), and:
+			<ol style="list-style-type:lower-roman;">
+				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); </li>
+				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Reflects the date and time the test was taken, the name of the testing institution; and </li>
+				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Has a negative test result. </li>
+				</ol>
+</p>
+
+
