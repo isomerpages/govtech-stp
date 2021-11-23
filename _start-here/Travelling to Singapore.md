@@ -159,7 +159,8 @@ Travellers who need to only make a short-term visits to Singapore may use the la
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 17px; list-style-type: disc;">
-	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup>, the United States<sup>6</sup> and, <b>(from 29 Nov 2021)</b> Finland, Indonesia, India, Malaysia and Sweden </li>
+	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
+					 	<li style="line-height:1.5; margin-top:10px;">Finland, Indonesia, India, Malaysia and Sweden (for entry into Singapore from 29 Nov 2021)</li>
 					 		<li style="line-height:1.5; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (for entry into Singapore from 6 Dec 2021)</li>
 				 </ul>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
