@@ -131,4 +131,10 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated overseas are advised to refer to <a href="/vtl/faq#verify" target="_blank">this guide</a> to verify if their vaccination certificate is accepted in Singapore.</p>
 </div>
 	
-	
+<input type="checkbox" id="title4" />
+<label for="title4">Criterion 4: Hold an Accepted Proof of Negative Pre-Departure COVID-19 Test</label>
+
+<div id="criteria" class="content" style="background-color:#edf4fa;">	
+	<p style="line-height:1.4; font-size:18px; ">Travellers <b>must</b> test negative in a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) within 2 days before departure for Singapore. The test must be taken at a laboratory or centre accredited/recognised by the Malaysia Ministry of Health.
+	</p>
+	</div>
