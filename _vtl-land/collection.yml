@@ -2,7 +2,7 @@ collections:
   vtl-land:
     output: true
     order:
-      - Vaccinated Travel Lane (Land) Inbound Checklist .md
       - Vaccinated Travel Lane (Land) Overview.md
+      - Vaccinated Travel Lane (Land) Inbound Checklist .md
       - Conditions.md
       - Frequently Asked Questions.md
