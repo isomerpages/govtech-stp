@@ -167,7 +167,7 @@ input:checked + label + .content {
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(D) ) [If travel document is issued by a country/region that requires an entry visa] Apply for Entry Visa</b>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore. </p>
-<b>&#10067;</b>&nbsp; Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="" target="_blank">here</a> for more details.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>&#10067;</b>&nbsp; Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="" target="_blank">here</a> for more details.</p>
 	</p>
 	</div>
 	
