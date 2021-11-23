@@ -16,7 +16,7 @@ description: ""
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#eligibility">Eligibility Criteria</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#DesignatedBus">Designated VTL (Land) Bus Services</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Application">Application for the Vaccinated Travel Pass (VTP)</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="requirements">VTL (Land) Requirements</a>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#requirements">VTL (Land) Requirements</a>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Vaccination Requirement
 			<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
