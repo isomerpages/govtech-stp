@@ -82,8 +82,8 @@ input:checked + label + .content {
 </style>
 </head>
 <body>
-<input type="checkbox" id="SG" />
-<label for="SG" style="background:#D8D8D8;color:black;"><b>(Click Here) Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></label>
+<input type="checkbox" id="proof" />
+<label for="proof" style="background:#D8D8D8;color:black;"><b>(Click Here) Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></label>
 
 <div class="content" style="background-color:#e5e5e5;">
 <p style="line-height:1.3; font-size:18px;">
@@ -126,11 +126,17 @@ input:checked + label + .content {
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(B) Verify your proof of vaccination</b>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers are strongly encouraged to verify their vaccination certificates using the verification tools below. </p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Once you have verified your certificate to be valid, proceed to the the next step (Step C).</p>
-	
-<input type="checkbox" id="verify" />
-<label for="verify" style="background:#D8D8D8;color:black;"><b>(Click Here) Verification Tools for Proof of Vaccinations by their Countries/Regions of Issuance</b></label>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Some QR codes/vaccination certificates can be verified by travellers themselves before application. Travellers are strongly encouraged to verify these using the verification tools below.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Once you have verified them to be valid, proceed to the next step (Step C).</p>
+<input type="checkbox" id="SG-verify" />
+	<label for="SG-verify" style="background:#D8D8D8;color:black;"><b>(Click Here) Verification Tools for Proof of Vaccinations based on Countries/Regions of Issuance</b></label>
+	<div class="content" style="background-color:#e5e5e5;">
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px; color:#d36363;"><u><b>Singapore</b></u></p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Self-Verifiable Proofs of Vaccination</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a></p>
+				<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Available Self-Verification Tools</b>: <a href="https://www.verify.gov.sg/" target="_blank">Verify.gov.sg</a> or regular QR code scanner on your mobile device</p>
+				<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px; color:#d36363;"><u><b>Australia</b></u></p>
+			<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Self-Verifiable Proofs of Vaccination</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a></p>
+	</div>
 	</p>
 	</div>
 	
