@@ -64,48 +64,48 @@ For conditions for entry into Malaysia, travellers can check <a href="https://ww
 
 ---
 
-<div id="#_ftn1"></div>
+<div id="_ftn1"></div>
 
 [1] As of 15 November 2021, the countries/regions under Category 1 are Hong Kong, Macao, Mainland China and Taiwan. Please refer to <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary" target="_blank">
 https://safetravel.ica.gov.sg/shn-and-swab-summary</a> for the latest country/region classification. Please refer to <a href="https://safetravel.ica.gov.sg/vtl/requirements-and-process" target="_blank">
 https://safetravel.ica.gov.sg/vtl/requirements-and-process</a> for the latest list of VTL countries/regions.
 
-<div id="#_ftn2"></div>
+<div id="_ftn2"></div>
 
 [2] The ART must be performed by trained professionals such as medical professionals and Government-recognised trained professionals.  
 
-<div id="#_ftn3"></div>
+<div id="_ftn3"></div>
 
 [3] To illustrate, if the pre-departure test is taken on 27 November 2021, it will be valid for boarding up to 29 November 2021, 2359 hours.
 
-<div id="#_ftn4"></div>
+<div id="_ftn4"></div>
 
 [4] For more information on the pre-departure test requirements, please refer to <a href="https://safetravel.ica.gov.sg/vtl/faq#PDT" target="_blank">
 https://safetravel.ica.gov.sg/vtl/faq#PDT</a>.
 
-<div id="#_ftn5"></div>
+<div id="_ftn5"></div>
 
 [5] To illustrate, children born in or after 2019 entering Singapore under the VTL in 2021 are not required to undergo the pre-departure or on-arrival COVID-19 PCR tests.
 
-<div id="#_ftn6"></div>
+<div id="_ftn6"></div>
 
 [6] An individual is considered fully vaccinated 14 days after he or she has received the full regimen of any World Health Organisation Emergency Use Listing vaccines. More details can be found at <a href="https://safetravel.ica.gov.sg/health/vtsg" target="_blank">
 https://safetravel.ica.gov.sg/health/vtsg</a>.
 
-<div id="#_ftn7"></div>
+<div id="_ftn7"></div>
 
 [7] These must contain the necessary information about the travellers’ full vaccination regimen, as specified on the Safe Travel Office website. For the acceptable proofs of vaccination for travel under the VTL, please refer to <a href="https://safetravel.ica.gov.sg/vtl/requirements-and-process" target="_blank">
 https://safetravel.ica.gov.sg/vtl/requirements-and-process</a>. 
 
-<div id="#_ftn8"></div>
+<div id="_ftn8"></div>
 
 [8] Please refer to <a href="https://safetravel.ica.gov.sg/vtl/requirements-and-process" target="_blank">https://safetravel.ica.gov.sg/vtl/requirements-and-process</a> for the latest list of VTL countries/regions.
 
-<div id="#_ftn9"></div>
+<div id="_ftn9"></div>
 
 [9] To illustrate, children born in or after 2009 entering Singapore under the VTL in 2021 are not required to present any proof of vaccination. The child must be accompanied by a VTL traveller who meets all VTL requirements for entry into Singapore.
 
-<div id="#_ftn10"></div>
+<div id="_ftn10"></div>
 
 [10] <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">https://eservices.ica.gov.sg/sgarrivalcard</a>
 
