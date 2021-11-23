@@ -4,6 +4,10 @@ permalink: /stpl/overview
 description: Overview of the Student Pass Holder Lane
 ---
 
+<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b><span style="color:red;">NOTE:</span> If you hold a valid entry approval letter under other SafeTravel Lanes but wish to apply to enter under the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (VTL)</a>, please write in via the <a href="http://go.gov.sg/sto-enquiry" target="_blank">SafeTravel Enquiry Form</a> for assistance. All short-term visitors and long-term pass holders are required to have a Vaccinated Travel Pass and fulfil VTL conditions in order to qualify for quarantine-free travel under the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (VTL)</a></b></p>
+	</div>
+
 The Student’s Pass Holder Lane (STPHL) is a Safe Travel lane that facilitates the entry of Student’s Pass (STP) holders and their eligible family members into Singapore. STP holders who are related to a Singapore Citizen or Permanent Resident (SC/PR), e.g. immediate family member, relative or fiancé/fiancée, should apply for entry via the [Familial Ties Lane](/scpr-familial-ties-lane/overview). Foreign students holding a Dependent’s Pass and family members holding MOM-issued passes should apply for entry via the [Work Pass Holder General Lane](/wphl/overview).
 
 The table below provides a quick overview of the key STPHL features, requirements as well as application and entry instructions. Travellers who are not eligible for entry via the STPHL may return to [this menu](/arriving/overview) to explore other Safe Travel options.
@@ -35,8 +39,6 @@ The table below provides a quick overview of the key STPHL features, requirement
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 14-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
 			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed.</p>
-			 			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b>Note</b>: Fully vaccinated travellers with travel history to certain countries/regions may be eligible for the Vaccinated Travel Lane (VTL) instead with quarantine-free measures. Eligible travellers who wish to enter Singapore via the VTL do <b>not</b> need a separate entry approval under the STPHL. <a href="/vtl/requirements-and-process">Click here for more details on the VTL</a>.</p>
-	<p></p>
 		 </td>
  </tr>
 </tbody><thead>
