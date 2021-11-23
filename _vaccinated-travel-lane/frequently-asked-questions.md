@@ -473,14 +473,14 @@ Switzerland</td>
 <tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">India</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform</td>
-		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/QR_India.png" width="54" height="84"></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/QR_India.png" width="69" height="90"></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code indicating the final dose (i.e. 2/2)</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>
 <tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Malaysia</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></td>
-		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u>On physical/PDF copy</u><br><img src="/images/QR_Malaysia.png" width="99" height="86"><br>or<br><br><u>On apps</u><br><img src="/images/QR_Malaysia_1.png" width="56" height="110"></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u>On physical/PDF copy</u><br><img src="/images/QR_Malaysia.png" width="80" height="69"><br>or<br><br><u>On apps</u><br><img src="/images/QR_Malaysia_1.png" width="55" height="108"></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 QR codes, one for each dose
 <p style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Please extract (i.e. crop and upload) each of the QR codes at each point of upload</i></p>
 </td>
@@ -489,7 +489,7 @@ Switzerland</td>
 <tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Republic of Korea</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Static QR code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a>*</td>
-	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/QR_ROK.png" width="54" height="84"></td>
+	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/QR_ROK.png" width="72" height="136"></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code containing information on both doses</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>	
