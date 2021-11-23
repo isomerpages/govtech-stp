@@ -2,7 +2,7 @@
 title: Test Page for VTL Air Checklist
 permalink: /vtl-air/checklist
 description: ""
-published: false
+published: true
 ---
 ### VTL (Air) Travel Checklist
 
@@ -173,11 +173,17 @@ input:checked + label + .content {
 	
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
   <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
-		&#9744;&nbsp;<b>(E) Secure Tickets for a Designated VTL (Air) Flight & Check Travel/Transit Route</b>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers <b>MUST</b></p>
+		&#9744;&nbsp;<b>(E) Check Travel/Transit History & Secure Tickets for a Designated VTL (Air) Flight</b>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers <b>MUST</b>:</p>
 	<ol style="list-style-type:lower-roman;">
-		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Have only travelled to / transited via any VTL (Air) countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
-		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Air) flight Please check the websites of the respective airlines for details of the VTL (Air) flights available.</li>
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Have <B>only</B> travelled to / transited via any VTL (Air) countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Air) flight. Please check the websites of the respective airlines for details of the VTL (Air) flights available.</li>
 	</ol>
+<input type="checkbox" id="airlines" />
+  <label for="airlines" style="background:#D8D8D8;color:black;"><b>Click here for Airlines Offering VTL Flights to Singapore Based On Traveller's Country/Region</b></label>
+<div class="content" style="background-color:#e5e5e5;">
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px; color:#d36363;"><u><b>Australia</b></u></p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><a href="https://www.jetstar.com/sg/en/travel-alerts#Flights%20from%20Australia%20to%20Singapore%20under%20the%20Vaccinated%20Travel%20Lane%20(VTL)%20scheme" target="_blank">Jetstar Airways</a>, <a href="https://www.jetstar.com/sg/en/travel-alerts#Flights%20from%20Australia%20to%20Singapore%20under%20the%20Vaccinated%20Travel%20Lane%20(VTL)%20scheme" target="_blank">Jetstar Asia</a>, <a href="https://www.qantas.com/sg/en/coronavirus/international-travel/singapore-flights.html" target="_blank">Qantas</a>, <a href="https://www.flyscoot.com/en/announcements/vaccinated-travel-lane-flights" target="_blank">Scoot</a> and <a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/" target="_blank">Singapore Airlines</a></p>
+</div>
   </p>
   </div>
