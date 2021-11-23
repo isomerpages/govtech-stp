@@ -39,9 +39,9 @@ description: ""
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><i>*Includes the following MOM-issued work passes: Employment Pass, Entre Pass, Personalised Employment Pass, S Pass, Work Permit, Training Employment Pass, Training Work Permit and Work Holiday Pass. <b>Work Pass in-principal approval holders are ineligible for PCA and should obtain their <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore" target="_blank">entry approvals from MOM.</a></b></i></p>
 
 
+<p id="stage1b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>B) Secure Self-Isolation Accommodation</b></i></u></p>
 
-
-
+<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Travellers will be placed on 7-day Stay-Home Notice (SHN), which they must complete before going about with their activities in Singapore. They may complete their SHN at a place of residence (see advisory below), self-sourced hotel, or serviced apartment. For hotel bookings, travellers may refer to this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive hotel list</a>. </p>
 
 
 
