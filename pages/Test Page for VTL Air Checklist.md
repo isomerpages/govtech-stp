@@ -154,7 +154,7 @@ input:checked + label + .content {
 <input type="checkbox" id="SG-apply" />
   <label for="SG-apply" style="background:#D8D8D8;color:black;"><b>Singapore</b></label>
   <div class="content" style="background-color:#e7e7e7;">
-<p style="font-size:18px; margin-bottom:0px; line-height:1.5; margin-top:0px;"><span style="font-size:18px; color:red;"><b>&#10005;</b></span> &nbsp;<b>LTPHs/STVs who have received their vaccination in Singapore do not need to upload their vaccination QR code during application. The portal should be able to retrieve the vaccination records from Singapore’s National Immunisation Registry.</b><p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.5; margin-top:0px;"><span style="font-size:18px; color:red;"><b>&#10005;</b></span> &nbsp;<b>LTPHs/STVs who have received their vaccination in Singapore do not need to upload their vaccination QR code during application. The portal should be able to retrieve the vaccination records from Singapore’s National Immunisation Registry.</b></p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;">Should there be any changes to your pass status, and you hold the following proof of vaccination, please refer to the instructions below.</p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Proof of vaccination</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code</p>
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>No. of QR Codes required for upload</b>: One QR code (regardless of no. of doses in full vaccination regimen).</p>
