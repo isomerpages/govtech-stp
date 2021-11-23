@@ -128,7 +128,7 @@ input:checked + label + .content {
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Other VTL countries:</b> <a href="/vtl-land/faq#digitalcerts" target="_blank">Click here</a></li>	
 	</ol>
 	</p>
-	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated overseas are advised to refer to <a href="/vtl/faq#verify" target="_blank">this guide</a> to verify if their vaccination certificate is accepted in Singapore.</p>
+	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated overseas are advised to refer to <a href="/vtl-land/faq#verify" target="_blank">this guide</a> to verify if their vaccination certificate is accepted in Singapore.</p>
 </div>
 	
 <input type="checkbox" id="title4" />
