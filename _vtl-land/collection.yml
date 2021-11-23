@@ -2,6 +2,6 @@ collections:
   vtl-land:
     output: false
     order:
-      - VACCINATED TRAVEL LANE (LAND).md
+      - Vaccinated Travel Lane (Land).md
       - Conditions.md
       - Frequently Asked Questions.md
