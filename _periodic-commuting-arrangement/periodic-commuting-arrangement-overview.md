@@ -1,6 +1,7 @@
 ---
 title: Periodic Commuting Arrangement - Overview
 permalink: /pca/overview
+published: false
 ---
 The Periodic Commuting Arrangement (PCA) is a Safe Travel Lane agreed between the Governments of Singapore and Malaysia. It supports companies in Singapore and Malaysia by facilitating the movement of workers between both countries. Companies that need to bring their employees into Malaysia or Singapore can sponsor an application.
 
