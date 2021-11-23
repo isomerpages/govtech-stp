@@ -128,9 +128,9 @@ input:checked + label + .content {
 &#9744;&nbsp;<b>(B) Verify your proof of vaccination</b>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Some QR codes/vaccination certificates can be verified by travellers themselves before application. Travellers are strongly encouraged to verify these using the verification tools below.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Once you have verified them to be valid, proceed to the next step (Step C).</p>
-<input type="checkbox" id="SG-verify" />
-	<label for="SG-verify" style="background:#D8D8D8;color:black;"><b>(Click Here) Verification Tools for Proof of Vaccinations based on Countries/Regions of Issuance</b></label>
-	<div class="content" style="background-color:#e5e5e5;">
+<input type="checkbox" id="verify" />
+	<label for="verify" style="background:#D8D8D8;color:black;"><b>(Click Here) Verification Tools for Proof of Vaccinations based on Countries/Regions of Issuance</b></label>
+	<div class="content" style="background-color:#e7e7e7;">
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px; color:#d36363;"><u><b>Singapore</b></u></p>
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Self-Verifiable Proofs of Vaccination</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a></p>
 				<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Available Self-Verification Tools</b>: <a href="https://www.verify.gov.sg/" target="_blank">Verify.gov.sg</a> or regular QR code scanner on your mobile device</p>
@@ -140,5 +140,26 @@ input:checked + label + .content {
 	</p>
 	</div>
 	
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[STVs/LTPHs]</b> Note the requirements of each vaccination proof during application, airline check-in and immigration clearance, based on their countries/regions of issuance.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[SC/PRs]</b> No application is required. Produce accepted proofs of vaccination at check-in and arrival immigration.</p>
+
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+  <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+&#9744;&nbsp;<b>(C) [For STV/LTPHs only] Apply for Vaccination Travel Pass</b>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp;<b>[SC/PRs]</b> No application is required. Produce accepted proofs of vaccination at check-in and arrival immigration.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>[STVs/LTPHs]</b> Note the requirements of each vaccination proof during application, airline check-in and immigration clearance, based on their countries/regions of issuance.</p>
+
+
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">The submission requirements during application depends on the <a href="/health/vtsg#acceptedvaccines" target="_blank">full vaccination regimen</a> and the types of vaccination certificates issued.</p>
+<p style="font-size:14px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><i>"Full Vaccination Regimen"= The no. of doses of a particular type/mixture of vaccines in order for the traveller to be considered fully vaccinated.</i></p><br>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Click on the country of issuance for your vaccination certificate below to find out the submission requirements in the VTL portal.</b></p>
+<input type="checkbox" id="SG-apply" />
+  <label for="SG-apply" style="background:#D8D8D8;color:black;"><b>Singapore</b></label>
+  <div class="content" style="background-color:#e7e7e7;">
+<p style="font-size:18px; margin-bottom:0px; line-height:1.5; margin-top:0px;"><span style="font-size:18px; color:red;"><b>&#10005;</b></span> &nbsp;<b>LTPHs/STVs who have received their vaccination in Singapore do not need to upload their vaccination QR code during application. The portal should be able to retrieve the vaccination records from Singapore’s National Immunisation Registry.</b><p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;">Should there be any changes to your pass status, and you hold the following proof of vaccination, please refer to the instructions below.</p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Proof of vaccination</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code</p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>No. of QR Codes required for upload</b>: One QR code (regardless of no. of doses in full vaccination regimen).</p>
+				<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Location of QR code</b>: <img src="/images/QR_SG.png" width="54" height="84"></p>
+  </div>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;"><b>&#63;</b>&nbsp; Issues with uploading your QR code: Refer to FAQs here.</p>
+  </p>
+  </div>
