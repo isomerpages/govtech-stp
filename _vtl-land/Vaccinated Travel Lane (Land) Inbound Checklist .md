@@ -141,7 +141,7 @@ description: ""
 
 <div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 4: Stay in Singapore</b></div>
 
-<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>COVID-19 Safe Management Measures and Proof of Vaccinatione</i></u></p>
+<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>COVID-19 Safe Management Measures and Proof of Vaccinations</b></i></u></p>
 	
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">All travellers must comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Please visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for details on the prevailing measures.</p>	
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL (Land) travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.</p>	
