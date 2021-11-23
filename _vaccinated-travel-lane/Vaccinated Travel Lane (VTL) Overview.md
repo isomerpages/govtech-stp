@@ -4,14 +4,14 @@ permalink: /vtl/requirements-and-process
 description: Requirements for using the Vaccinated Travel Lane to travel to Singapore by air
 ---
 
-<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; background-color:#f8f8f8; border-style: solid; border-width: 1px; margin-bottom:20px;">
+<!--<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; background-color:#f8f8f8; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>Please note that for Vaccinated Travel Pass (VTP) applications:</b></span></p>
 		<ol style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">
 	<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">There is <u><b>no quota</b></u> on VTPs issued for air travel. Due to the high volume of VTP applications, only those who are entering Singapore between 30 Nov 2021 and 6 Dec 2021 (both dates inclusive) may apply at this point in time.</li>
 			<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Get ready your passport, <a href="/vtl/faq#QRcode" target="_blank">proof of vaccination</a> and self-isolation address before applying.</li>
 			<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Singapore Citizens and Permanent Residents do not need to apply. However, <b>they must also comply with all the requirements stated in the</b> <a href="/vtl/travel-checklist" target="_blank"><b>VTL Traveller's Checklist</b></a>.</li>
 	</ol>
-</div>
+</div>-->
 
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">The Vaccinated Travel Lane (VTL) allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL:</p>
@@ -270,6 +270,8 @@ input:checked + label + .content {
 
 <div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.3; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b></p>
+	<p style="line-height:1.3; font-size:18px; ">There is <u><b>no quota</b></u> on VTPs issued for air travel. Due to the high volume of VTP applications, only those who are entering Singapore between 30 Nov 2021 and 6 Dec 2021 (both dates inclusive) may apply at this point in time.</p>
+	<p style="line-height:1.3; font-size:18px; ">Get ready your passport, <a href="/vtl/faq#QRcode" target="_blank">proof of vaccination</a> and self-isolation address before applying.</p>
 	<p style="line-height:1.3; font-size:18px; ">Travellers departing from <b>Qatar, Saudi Arabia and the United Arab Emirates</b> may only submit their applications from <b>29 Nov 2021, 1000hrs SGT</b></p>
 	<p style="line-height:1.3; font-size:18px; ">Please note the following when making the application:</p>
 	<ol style="margin-top:0px; list-style-type:disc;">
