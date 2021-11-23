@@ -2,7 +2,6 @@
 title: Vaccinated Travel Lane (Land) Overview
 permalink: /vtl-land/overview
 description: "Requirements for using the Vaccinated Travel Lane to travel to Singapore by Land"
-published: false
 ---
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] facilitates quarantine-free travel for fully vaccinated travellers commuting between Singapore and Malaysia, via the Causeway only.</p>
