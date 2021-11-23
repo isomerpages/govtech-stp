@@ -145,7 +145,7 @@ input:checked + label + .content {
   <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(C) [For STV/LTPHs only] Apply for Vaccination Travel Pass</b>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp;<b>[SC/PRs]</b> No application is required. Produce accepted proofs of vaccination at check-in and arrival immigration.</p>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>[STVs/LTPHs]</b> Note the requirements of each vaccination proof during application, airline check-in and immigration clearance, based on their countries/regions of issuance.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>[STVs/LTPHs]</b> Note the requirements of each vaccination proof during application.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">The submission requirements during application depends on the <a href="/health/vtsg#acceptedvaccines" target="_blank">full vaccination regimen</a> and the types of vaccination certificates issued.</p>
 <p style="font-size:14px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><i>"Full Vaccination Regimen"= The no. of required doses of a particular type/mixture of vaccines in order for the traveller to be considered fully vaccinated.</i></p><br>
@@ -203,5 +203,15 @@ input:checked + label + .content {
 		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for Private Property and HDB flat / Bedroom); or</li>
 		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Non-residential accommodation, such as hotel or serviced apartment in this non-exhaustive list. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
 	</ol>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp;Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; Travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; Designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
+
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#128701; &nbsp; Lower the lid before flushing the toilet;</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#129533; &nbsp; Clean and disinfect contact surfaces after each use; and</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">
+&#9201;&#65039; &nbsp; Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation.Clean and disinfect contact surfaces after each use.</li>
   </p>
   </div>
+	
+	
