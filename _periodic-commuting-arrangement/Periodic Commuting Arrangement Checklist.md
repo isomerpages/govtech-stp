@@ -79,6 +79,13 @@ description: ""
 	</ol>
 </p>
 
+<p id="stage1e" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>E) Contact Tracing</b></i></u></p>
+
+<p style="font-size:18px; margin-top:30px; margin-bottom:30px; line-height:1.5;">Travellers must download the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a>, <a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank"> FWMOMCARE</a>  and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications and register their profile on these applications to facilitate contact tracing. Individuals who are unable to use a mobile device due to a certified disability or special need, are eligible to be issued physical TraceTogether tokens.</p>
+
+<div id="stage2" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 2: Departure for Singapore</b></div>
+
+
 
 <p id="stage1b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) Secure Self-Isolation Accommodation</b></i></u></p>
 
