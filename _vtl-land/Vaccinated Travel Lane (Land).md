@@ -16,3 +16,4 @@ published: false
 	<li style="line-height:1.4;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">Travellers intending to <b>leave Singapore to Malaysia</b> under the VTL (Land), should check with the Government of Malaysia on the prevailing entry requirements. For all departure-related advisories including how to obtain pre-departure tests and digital vaccination certificates, please visit the "Departing from Singapore" page. Travellers should note that fresh entry applications must be submitted, for those seeking to return to Singapore after leaving for Malaysia via VTL (Land).</p>
