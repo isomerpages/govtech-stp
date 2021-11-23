@@ -276,9 +276,10 @@ input:checked + label + .content {
 	<p style="line-height:1.3; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b>
 	<ol style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
 	<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">There is <u><b>no quota</b></u> on VTPs issued for air travel. Due to the high volume of VTP applications, only those who are entering Singapore between <b>30 Nov 2021 and 6 Dec 2021 (both dates inclusive)</b> may apply at this point in time.</li>
-			<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Get ready your passport, <a href="/vtl/faq#QRcode" target="_blank">proof of vaccination</a> and self-isolation address before applying.</li></ol>
+			<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Get ready your passport, <a href="/vtl/faq#QRcode" target="_blank">proof of vaccination</a> and self-isolation address before applying.</li>
+		<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers departing from <b>Qatar, Saudi Arabia and the United Arab Emirates</b> may only submit their applications from <b>29 Nov 2021, 1000hrs SGT</b></li>
+	</ol>
 	</p>
-	<p style="line-height:1.3; font-size:18px; ">Travellers departing from <b>Qatar, Saudi Arabia and the United Arab Emirates</b> may only submit their applications from <b>29 Nov 2021, 1000hrs SGT</b></p>
 	<p style="line-height:1.3; font-size:18px; ">Please note the following when making the application:</p>
 	<ol style="margin-top:0px; list-style-type:disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTL travellers must also refer to this <a href="/vtl/travel-checklist" target="_blank">travel checklist</a> and the <a href="/vtl/conditions" target="_blank">VTL conditions</a> to ensure they satisfy all VTL requirements, otherwise they may be denied entry to Singapore.</li>
