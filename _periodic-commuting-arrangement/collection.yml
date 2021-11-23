@@ -2,8 +2,8 @@ collections:
   periodic-commuting-arrangement:
     output: true
     order:
-      - Additional Work Pass Conditions.md
       - Requirements and Process.md
+      - Additional Work Pass Conditions.md
       - malaysian-citizens-prs-working-in-singapore/.keep
       - malaysian-citizens-prs-working-in-singapore/additional-work-pass-conditions.md
       - singapore-citizens-prs-working-in-malaysia/.keep
