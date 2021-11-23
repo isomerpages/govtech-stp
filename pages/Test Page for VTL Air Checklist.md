@@ -130,7 +130,7 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Once you have verified your certificate to be valid, proceed to the the next step (Step C).</p>
 	
 <input type="checkbox" id="verify" />
-<label for="verify" style="background:#D8D8D8;color:black;"><b>(Click Here) Verfication Tools for Proof of Vaccinations by their Countries/Regions of Issuance</b></label>
+<label for="verify" style="background:#D8D8D8;color:black;"><b>(Click Here) Verification Tools for Proof of Vaccinations by their Countries/Regions of Issuance</b></label>
 	</p>
 	</div>
 	
