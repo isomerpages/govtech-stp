@@ -203,10 +203,12 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Arab Emirates:</b> Proof of vaccination on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a> </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Kingdom:</b> 
 			<ol style="list-style-type:lower-alpha; ">
-							<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a href="https://www.nhs.uk/conditions/coronavirus-covid-19/covid-pass/" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination or record of COVID-19 vaccination status issued by NHS Digital for England, Wales and Isle of Man, and NHS Scotland in Scotland; or</li>
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”)</a>).</li>
-				<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">One QR code per dose.</p>
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>[For children aged 13 to 15] Digital vaccination record retrieved from the public health database of the state or the local health authority.</li> 
+			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination.</li>
+			<b style="font-size:15px;">OR</b>
+			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”) app</a>)</li>
+			<p style="font-size:15px; line-height:1.3;">One QR code per dose.</p>
+						<b style="font-size:15px;">OR</b>
+			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;"><b>[For children aged 13 to 15]</b> Digital vaccination record retrieved from the public health database of the state or the local health authority.</li>
 			</ol>
 		</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United States of America (any of the following):</b> 
