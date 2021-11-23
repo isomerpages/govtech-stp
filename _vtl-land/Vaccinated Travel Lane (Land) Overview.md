@@ -125,7 +125,7 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated in the following locations, must obtain a digitally verifiable vaccination certificates in any of the following formats for application, pre-departure checks and immigration clearance:
 	<ol style="list-style-type:disc">
 		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia: Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Other VTL countries: Click here</li>	
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Other VTL countries: Click here</li>	
 	</ol>
 	</p>
 	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated overseas are advised to refer to <a href="/vtl/faq#verify" target="_blank">this guide</a> to verify if their vaccination certificate is accepted in Singapore.</p>
@@ -146,7 +146,7 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px; ">Travellers must:
 		<ol style="list-style-type:lower-roman">
 			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, any other VTL country as recognised by the Government of Singapore, and/or Singapore in the last 14 consecutive days before departing for Singapore; and </li>
-			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
+			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
 			<ol style="list-style-type:disc;">
 				<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
 				<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
