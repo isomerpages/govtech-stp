@@ -227,7 +227,7 @@ input:checked + label + .content {
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">	
 	<p style="line-height:1.4; font-size:18px; ">SC/PRs and unvaccinated children aged 12 and below in this calendar year do not need to apply for entry via VTL (Land). </p>
-		<p style="line-height:1.4; font-size:18px; margin-top:15px; "><span style="color:red;">However, SC/PRs must comply with the requirements stated in the</span> <a href="/vtl-land/conditions" target="_blank">VTL (Land) Conditions</a>. Details can also be found in this <a href="/vtl-land/traveller-checklist" target="_blank">traveller Checklist</a>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
+		<p style="line-height:1.4; font-size:18px; margin-top:15px; "><span style="color:red;">However, SC/PRs must comply with the requirements stated in the</span> <a href="/vtl-land/conditions" target="_blank">VTL (Land) Conditions</a>. Details can also be found in this <a href="/vtl-land/travel-checklist" target="_blank">traveller Checklist</a>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 	</div>
 	
 <input type="checkbox" id="title7"/>
@@ -237,7 +237,7 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b>
 	</p>
 	<p style="line-height:1.4; font-size:18px; ">Applications are free of charge, and will start from 25 Nov 2021, 2359 hours. Successful applicants will receive a VTP via email.</p>
-	<p style="line-height:1.4; font-size:18px; ">Travellers must comply with the VTL (Land) conditions, details can be found this <a href="/vtl-land/traveller-checklist" target="_blank">travel checklist</a>. Failing which, they may be denied entry to Singapore. Travellers should note:</p>
+	<p style="line-height:1.4; font-size:18px; ">Travellers must comply with the VTL (Land) conditions, details can be found this <a href="/vtl-land/travel-checklist" target="_blank">travel checklist</a>. Failing which, they may be denied entry to Singapore. Travellers should note:</p>
 	<ol style="margin-top:0px; list-style-type:disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Accompanying children aged 12 and below and are unvaccinated do <b><u>not</u></b> need to apply. </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Applications must be submitted minimally 3 days before the intended date of entry into Singapore. </li>
