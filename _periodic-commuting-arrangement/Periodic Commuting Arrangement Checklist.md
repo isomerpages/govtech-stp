@@ -85,8 +85,54 @@ description: ""
 
 <div id="stage2" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 2: Departure for Singapore</b></div>
 
+<p id="stage2a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>Pre-Departure Checks</b></i></u></p>
+
+<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Travellers are strongly advised to prepare the following documents, which may be requested by the Malaysian authorities during departure:
+<ol style="list-style-type:lower-roman; padding-left:25px;">
+	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">	Physical or digital copy of the PCA Approval Letter;</li>
+		<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Valid pre-departure COVID-19 PCR test showing a negative COVID-19 result (see <a href="#stage1c">Stage 1C</a>);</li>
+		<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">iValid Malaysia-issued passport; and</li>
+	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Singapore-issued Work Pass or Singapore NRIC (for Singapore Permanent Residents).</li>
+	</ol>
+</p>
+
+<div id="stage3" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 3: Arrival in Singapore</b></div>
+
+<p id="stage3a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>A) Immigration Clearance</b></i></u></p>
+
+<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Follow the instructions provided by the ground officers and signages on arrival.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">As part of immigration clearance, travellers may be required to present the same set of documentation listed in <a href="#stage2">Stage 2</a>. Travellers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> overseas should also present their vaccination certificate(s) to the immigration officer, who will facilitate the registration of the traveller’s vaccination status into TraceTogether. This will allow the traveller to qualify for vaccination-differentiated safe management measures (VDS) adopted in Singapore for up to 30 days. </p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Following immigration clearance, travellers will receive a digital Visit Pass (“e-Pass”), which will indicate the permissible period of stay granted; traveller’s passport will no longer be stamped. Travellers will receive their e-Pass via the email indicated in their SG Arrival Card.</p>
+
+<p id="stage3b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) Transport to Declared SHN Accommodation</b></i></u></p>
+
+<p style="font-size:18px; margin-top:30px; margin-bottom:20px; line-height:1.5;">Travellers must commute directly to their declared accommodation for the completion of their 7-day Stay Home Notice. They may do so using private transport, taxi, or private hire cars (see advisories below). The use of public transport, e.g. trains or buses, is prohibited.</p>
+
+<table>
+<thead>
+<tr>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#153855; text-align:center; width:200px;color:white;"><b>Transport Type</b></th>
+	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#153855; text-align:center; vertical-align:middle; color:white;"><b>Advisory</b></th>
+</tr>
+</thead>
+<tbody>
+		<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Private transport</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Travellers can be ferried from the checkpoint to the declared accommodation by the authorised hotel, transport service representative, or family member from the same household/friend. However, there should not be more than one person picking up the traveller.</p>
+			<p style="font-size:16px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers who are sharing vehicle must share the same travel history and be heading to the same declared place of accommodation. A face mask must be worn by all passengers throughout the journey. Passengers are also strongly encouraged to adopt the following measures:</p>
+			</td>
+</tr>
+	</tbody>
+	</table>
+
 
 
 <p id="stage1b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) Secure Self-Isolation Accommodation</b></i></u></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"></p>
+
+<ol style="list-style-type:lower-roman; padding-left:25px;">
+	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"></li>
+	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"></li>
+	</ol>
