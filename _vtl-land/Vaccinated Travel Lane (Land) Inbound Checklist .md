@@ -134,7 +134,7 @@ description: ""
 
 <div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 3: Arrival in Singapore</b></div>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>Immigration Clearance</i></u></p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>Immigration Clearance</b></i></u></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Follow the instructions provided by the officers and signages on arrival.</p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#stage2">Stage 2</a>. Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA). Those who have successfully cleared immigration may leave the checkpoint via any available transport, including the same bus used to commute to Singapore or public transport.</p>
