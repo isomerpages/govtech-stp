@@ -1,16 +1,14 @@
 ---
 title: Vaccinated Travel Lane (Land) Overview
 permalink: /vtl-land/overview
-description: Requirements for using the Vaccinated Travel Lane to travel to
-  Singapore by Land
+description: Requirements for using the Vaccinated Travel Lane to travel to Singapore by Land
 ---
 
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] facilitates quarantine-free travel for fully vaccinated travellers commuting between Singapore and Malaysia, via the Causeway only.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the <a href="/vtl/requirements-and-process" target="_blank">“Vaccinated Travel Lane (Air)”</a> page instead for more details.</p>  
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the <a href="/vtl/requirements-and-process" target="_blank">“Vaccinated Travel Lane (Air)”</a> page instead for more details.</p>  
-
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">On this page, you will find the following details on VTL (Land):</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">On this page, you will find the following details on VTL (Land):</p>
 <ol>
 	<li style="line-height:1.4;"><a href="#Eligibility">Eligibility</a></li>
 	<li style="line-height:1.4;"><a href="#Application">Application for Travel under the VTL</a></li>
@@ -23,7 +21,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 
 ### 1. Eligibility
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;"><b>Travellers must fulfil the following criteria before applying to travel under VTL (Land)</b>. Travellers who do not satisfy any of these criteria and conditions, should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a>.</p> 
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>Travellers must fulfil the following criteria before applying to travel under VTL (Land)</b>. Travellers who do not satisfy any of these criteria and conditions, should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a>.</p> 
 
 <html>
 
