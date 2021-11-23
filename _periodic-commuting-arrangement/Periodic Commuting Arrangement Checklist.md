@@ -118,16 +118,64 @@ description: ""
 </thead>
 <tbody>
 		<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Private transport</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Private transport</b></td>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Travellers can be ferried from the checkpoint to the declared accommodation by the authorised hotel, transport service representative, or family member from the same household/friend. However, there should not be more than one person picking up the traveller.</p>
-			<p style="font-size:16px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers who are sharing vehicle must share the same travel history and be heading to the same declared place of accommodation. A face mask must be worn by all passengers throughout the journey. Passengers are also strongly encouraged to adopt the following measures:</p>
+			<p style="font-size:16px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers who are sharing vehicle must share the same travel history and be heading to the same declared place of accommodation. A face mask must be worn by all passengers throughout the journey. Passengers are also strongly encouraged to adopt the following measures:
+			<ol style="list-style-type:disc; padding-left:25px;">
+	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:16px;">	Wind down vehicle windows</li>
+	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Where practicable, occupy the backseat, i.e. front passenger seat be left unoccupied</li>
+				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Vehicle to be cleaned per the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19" target="_blank">National Environmental Agency (NEA) guidelines</a></li>
+	</ol>
+			</p>
 			</td>
 </tr>
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Taxi/private hire cars</b></td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">
+			<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Travellers must inform the transport operator and driver that they are served with an SHN. Travellers may do so by indicating “SHN” in the chat, note or comment box found in the mobile booking application, or selecting this option (if available).</p>
+				<p style="font-size:16px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Only travellers sharing the same travel history and serving their 7-day SHN at the same declared place of accommodation are permitted to share transport. All travellers are advised to occupy the backseat and have the vehicle windows wounded down.</p>
+	</td>
+	</tr>
 	</tbody>
 	</table>
 
+<div id="stage4" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 4: Stay-Home Notice and COVID-19 Test</b></div>
+
+<p id="stage4a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>A) Stay-Home Notice (SHN)</b></i></u></p>
+
+<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">
+Travellers must serve a 7-day Stay-Home Notice (SHN) which takes effect immediately upon its issuance. Travellers must remain in the declared SHN accommodation for the period specified in their SHN, unless they have/have been:
+	<ol style="list-style-type:lower-roman; padding-left:25px;">
+	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">	Directed by the relevant authorities to leave their accommodation</li>
+	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or</li>
+		<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Received a negative PCR test result for the test taken before the end of SHN.</li>
+	</ol>
+</p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">To calculate the estimated SHN end-date, <a href="/shn-calculator" target="_blank">click here</a> for the SHN calculator.</p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act and a breach of the additional work pass conditions. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. Click here for information on SHN-compliance. </p>
+
+<p id="stage4b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) End-of-SHN COVID-19 Test</b></i></u></p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance by <a href="https://go.gov.sg/sto-enquiry" target="_blank">completing this form</a>. </p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers can only leave their self-isolation accommodation after a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. </p>
+
+<div id="stage5" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 5: End of Stay-Home Notice</b></div>
+
+<p id="stage5a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>A) Release from Stay-Home Notice (SHN)</b></i></u></p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">
+Travellers may end their SHN upon the receipt of a negative COVID-19 PCR test result, or upon completion of the 7-day SHN, whichever is later. The result could be released to the traveller via email or call in around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.
+</p>
 
 
+
+
+
+
+<div id="stage3" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 3: Arrival in Singapore</b></div>
 <p id="stage1b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) Secure Self-Isolation Accommodation</b></i></u></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"></p>
