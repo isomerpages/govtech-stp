@@ -227,14 +227,14 @@ input:checked + label + .content {
 </div>
 
 <input type="checkbox" id="title3" />
-<label for="title3">Criteria 3: Fulfil Travel/Transit History & Designated VTL Flight Requirements</label>
+<label for="title3">Criteria 3: Fulfil Travel/Transit History & Designated VTL (Air) Flight Requirements</label>
 
 <div class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.3; font-size:18px; " >Travellers must:</p>
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any VTL countries/regions below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 14 consecutive days before departure for Singapore.
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any VTL (Air) countries/regions below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 14 consecutive days before departure for Singapore.
 		</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL flight (list available in the in the <a href="/vtl/travel-checklist" target="_blank">VTL Traveller’s Checklist</a>)</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL (Air) flight (list available in the in the <a href="/vtl/travel-checklist" target="_blank">VTL (Air) Traveller’s Checklist</a>)</li>
 	</ol>
 </div>
 
@@ -242,7 +242,7 @@ input:checked + label + .content {
 <label for="title4">Criteria 4 [Foreign short- term visitors only]: COVID-19 Travel Insurance</label>
 
 <div class="content" style="background-color:#edf4fa;">
-<p style="line-height:1.3; font-size:18px;">All short-term visitors travelling to Singapore under VTL, must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.</p>
+<p style="line-height:1.3; font-size:18px;">All short-term visitors travelling to Singapore under VTL (Air), must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.</p>
 </div>
 
 <input type="checkbox" id="title5" />
@@ -256,7 +256,7 @@ input:checked + label + .content {
 
 <div id="Application"></div>
 
-### 3. Application for Travel under the VTL
+### 3. Application for Travel under the VTL (Air)
 
 <body>
 
@@ -264,7 +264,7 @@ input:checked + label + .content {
 <label for="title6">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
 <div class="content" style="background-color:#edf4fa;">
-<p style="line-height:1.3; font-size:18px;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. <span style="color:red; font-size:18px;">However, <b>SC/PRs must also comply with all the requirements stated in the</b></span> <b><a href="/vtl/travel-checklist" target="_blank">VTL Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
+<p style="line-height:1.3; font-size:18px;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. <span style="color:red; font-size:18px;">However, <b>SC/PRs must also comply with all the requirements stated in the</b></span> <b><a href="/vtl/travel-checklist" target="_blank">VTL (Air) Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
 	
 <p style="line-height:1.3; font-size:18px;">SC/PRs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore. <b>Please note that the physical arrival card ("white card") is no longer accepted</b>.</p>
 	
@@ -275,16 +275,16 @@ input:checked + label + .content {
 <label for="title7">Foreign Visitors (e.g. Short-Term Visitors / Long-Term Pass Holders)</label>
 
 <div class="content" style="background-color:#edf4fa;">
-	<p style="line-height:1.3; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b>
+	<p style="line-height:1.3; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (AIR) [VTP(AIR)]</b>
 	<ol style="margin-top:0px; list-style-type:disc;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">There is <u><b>no quota</b></u> on VTPs issued for air travel. Due to the high volume of VTP applications, only those who are entering Singapore between <b>30 Nov 2021 and 6 Dec 2021 (both dates inclusive)</b> may apply at this point in time.</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">There is <u><b>no quota</b></u> on VTPs issued for air travel. Due to the high volume of VTP (Air) applications, only those who are entering Singapore between <b>30 Nov 2021 and 6 Dec 2021 (both dates inclusive)</b> may apply at this point in time.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Get ready your passport, <a href="/vtl/faq#QRcode" target="_blank">proof of vaccination</a> and self-isolation address before applying.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers departing from <b>Qatar, Saudi Arabia and the United Arab Emirates</b> may only submit their applications from <b>29 Nov 2021, 1000hrs SGT</b></li>
 	</ol>
 	</p>
 	<p style="line-height:1.3; font-size:18px; ">Please note the following when making the application:</p>
 	<ol style="margin-top:0px; list-style-type:disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTL travellers must also refer to this <a href="/vtl/travel-checklist" target="_blank">travel checklist</a> and the <a href="/vtl/conditions" target="_blank">VTL conditions</a> to ensure they satisfy all VTL requirements, otherwise they may be denied entry to Singapore.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTL (Air) travellers must also refer to this <a href="/vtl/travel-checklist" target="_blank">travel checklist</a> and the <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a> to ensure they satisfy all VTL (Air) requirements, otherwise they may be denied entry to Singapore.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Accompanying children aged 12 and below and are unvaccinated do not need to apply. </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Applications must be supported with digitally verifiable vaccination certificate QR code(s), if required. Please see our <a href="/vtl/faq#QRcode" target="_blank">FAQs</a> for more details.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">A VTP is valid for 6 calendar days from the traveller’s chosen date of entry.</li>
@@ -351,12 +351,12 @@ input:checked + label + .content {
 ### 5. Frequently Asked Questions
 
 <span style="font-size:18px;">Click <a href="/vtl/faq" target="_blank">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
-- <a href="/vtl/faq#QRcode" target="_blank">Recognised Vaccination Certificates for VTL</a>
+- <a href="/vtl/faq#QRcode" target="_blank">Recognised Vaccination Certificates for VTL (Air)</a>
 - <a href="/vtl/faq#invalidcode" target="_blank">VTP Application Technical Difficulties</a>
 - <a href="/health/vtsg" target="_blank">Definition of Fully Vaccinated</a>
 - <a href="/vtl/faq#THReq" target="_blank">Travel History</a>
 - <a href="/vtl/faq#PDT" target="_blank">Pre-Departure Test</a>
-- <a href="/vtl/faq#Flight" target="_blank">Designated VTL Flights</a>
+- <a href="/vtl/faq#Flight" target="_blank">Designated VTL (Air) Flights</a>
 - <a href="/vtl/faq#OAT" target="_blank">On-Arrival Test & Self-Isolation</a>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Have a question that is not addressed by any of the available resources found in this webpage? <a href="https://go.gov.sg/sto-enquiry" target="_blank">Contact us here</a>.</p>
