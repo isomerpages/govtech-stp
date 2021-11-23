@@ -170,17 +170,17 @@ Travellers must serve a 7-day Stay-Home Notice (SHN) which takes effect immediat
 Travellers may end their SHN upon the receipt of a negative COVID-19 PCR test result, or upon completion of the 7-day SHN, whichever is later. The result could be released to the traveller via email or call in around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.
 </p>
 
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers who test positive for COVID-19 must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The medical expenses incurred will be borne by the employer if the traveller infected with COVID-19 within 14 days of their entry into Singapore. Otherwise, the prevailing medical treatment charges will apply. Singapore Permanent Residents, may, access Government subsidies and Medishield Life/Integrated Shield Plans to pay for their medical bills.</p>
 
+<p id="stage5b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) Abide by local COVID-19 Safe Management Measures</b></i></u></p>
 
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">After self-isolation, travellers may go about their activities but must comply with the latest public health measures. </p>
 
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">To qualify for vaccination-differentiated safe management measures (VDS) in Singapore, travellers will need to show proof of their vaccination status via the TraceTogether application. <a href="/health/vtsg#VDSMM" target="_blank">Click here for more details on VDS</a>. Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which facilitates the identification of close contacts of a positive COVID-19 case.</p>
 
+<div id="stage6" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 6: Departure from Singapore</b></div>
 
-<div id="stage3" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 3: Arrival in Singapore</b></div>
-<p id="stage1b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) Secure Self-Isolation Accommodation</b></i></u></p>
+<p id="stage6a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>A) Upload of TraceTogether Data & Return of TraceTogether Tokens (If applicable)</b></i></u></p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"></p>
-
-<ol style="list-style-type:lower-roman; padding-left:25px;">
-	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"></li>
-	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"></li>
-	</ol>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers who test positive for COVID-19 upon their return to Malaysia, may be asked by the Singapore Ministry of Health to upload their TraceTogether mobile application data. As such, travellers are strongly advised to retain their TraceTogether mobile application for 14 days following their departure from Singapore.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers issued with a physical TraceTogether token upon arrival in Singapore must return the tokens in-person at the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674823-Do-Short-Term-Visitors-need-to-return-their-TraceTogether-TT-Tokens-before-leaving-Singapore-" target="_blank">designated TraceTogether token return booth</a> found at the checkpoint.</p>
