@@ -21,7 +21,7 @@ description: ""
 	</ol>
 </p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers vaccinated in Singapore are not required to submit or present their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database. Travellers vaccinated overseas are advised to refer to <a href="/vtl-land/faq#verify" target="_blank">this guide</a> to verify if their vaccination certificate is accepted in Singapore. </p>
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Frequently asked questions regarding vaccination proof can be found <a href="/vtl/faq#VacReq" target="_blank">here</a>.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Frequently asked questions regarding vaccination proof can be found <a href="/vtl-land/faq#requirements" target="_blank">here</a>.</p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>B) Secure Tickets for a Designated VTL (Land) Bus Service </b></i></u></p>
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated VTL (Land) bus service offered by the operators below. Tickets for designated VTL (Land) bus services must be purchased at least 2 days before arrival.
@@ -93,11 +93,11 @@ description: ""
 <tbody>
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Permanent Residents</td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Perform a transfer of Re-Entry Permit to the new Passport using the weblink in MyICA</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Perform a transfer of Re-Entry Permit to the new Passport using the weblink in <a href="https://ica.gov.sg" target="_blank">MyICA</a></td>
 </tr>
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">MOM Work Permit, S Pass, Employment Pass, Dependant Pass, Long-Term Pass Holder</td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Update Passport particulars through the “Notify MOM” option after selecting the relevant pass type in the MOM Website</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Update Passport particulars through the “Notify MOM” option after selecting the relevant pass type in the <a href="https://www.mom.gov.sg/" target="_blank">MOM Website</a></td>
 </tr>
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">ICA Long-Term Visit Pass Holder</td>
