@@ -97,3 +97,27 @@ input:checked + label + .content {
 	</p>
 <p style="line-height:1.4; font-size:18px; "><i>*Holders of an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass) are not allowed to enter Singapore under the VTL (Land). These travellers should apply for entry under the Work Pass Holder General Lane instead.</i></p>
 </div>
+
+<input type="checkbox" id="title2" />
+<label for="title2">Criterion 2: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
+
+<div id="criteria" class="content" style="background-color:#edf4fa;">
+	<p style="line-height:1.4; font-size:18px; ">Travellers who are 12 and above in this calendar year must receive the required WHO EUL vaccine doses, below, at least two weeks before arrival in Singapore:
+	<ol style="list-style-type:lower-alpha">
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Pfizer/BioNTech (BNT162b2 / Comirnaty / Tozinameran), at least 2 doses 17 days apart</li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Moderna (mRNA-1273), at least 2 doses 24 days apart </li>
+			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">AstraZeneca (AZD1222 Vaxzevria), at least 2 doses 24 days apart</li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Covishield, at least 2 doses 24 days apart</li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Sinopharm, at least 2 doses 17 days apart</li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Sinovac, at least 2 doses 13 days apart</li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Covaxin, at least 2 doses 24 days apart</li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Mix of any vaccines above, at least 2 doses 17 days apart</li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Janssen/J&J (Ad26.COV2.S), 1 dose</li>
+	</ol>
+	</p>
+	<p style="line-height:1.4; font-size:18px; "><a href="/health/vtsg" target="_blank">Click here</a> for updates/details. Unvaccinated travellers who are 12 and below in this calendar year can still travel to Singapore via VTL (Land) if accompanied by a fully vaccinated VTL traveller.</p>
+	</div>
+	
+	
+	
+	
