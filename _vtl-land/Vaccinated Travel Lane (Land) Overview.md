@@ -156,6 +156,7 @@ input:checked + label + .content {
 	</p>
 	</div>
 </body>
+</html>
 	
 ### 2. Application for Travel under the VTL (Land)
 
