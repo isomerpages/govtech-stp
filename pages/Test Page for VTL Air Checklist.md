@@ -145,12 +145,12 @@ input:checked + label + .content {
   <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(C) [For STV/LTPHs only] Apply for Vaccination Travel Pass</b>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp;<b>[SC/PRs]</b> No application is required. Produce accepted proofs of vaccination at check-in and arrival immigration.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>[STVs/LTPHs]</b> Note the requirements of each vaccination proof during application, airline check-in and immigration clearance, based on their countries/regions of issuance.</p>
-
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>[STVs/LTPHs]</b> Note the requirements of each vaccination proof during application, airline check-in and immigration clearance, based on their countries/regions of issuance.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">The submission requirements during application depends on the <a href="/health/vtsg#acceptedvaccines" target="_blank">full vaccination regimen</a> and the types of vaccination certificates issued.</p>
-<p style="font-size:14px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><i>"Full Vaccination Regimen"= The no. of doses of a particular type/mixture of vaccines in order for the traveller to be considered fully vaccinated.</i></p><br>
+<p style="font-size:14px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><i>"Full Vaccination Regimen"= The no. of required doses of a particular type/mixture of vaccines in order for the traveller to be considered fully vaccinated.</i></p><br>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Click on the country of issuance for your vaccination certificate below to find out the submission requirements in the VTL portal.</b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;"><b>&#10067;</b>&nbsp; Issues with uploading your QR code: Refer to FAQs here.</p>
 <input type="checkbox" id="SG-apply" />
   <label for="SG-apply" style="background:#D8D8D8;color:black;"><b>Singapore</b></label>
   <div class="content" style="background-color:#e7e7e7;">
@@ -158,8 +158,26 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;">Should there be any changes to your pass status, and you hold the following proof of vaccination, please refer to the instructions below.</p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Proof of vaccination</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code</p>
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>No. of QR Codes required for upload</b>: One QR code (regardless of no. of doses in full vaccination regimen).</p>
-				<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Location of QR code</b>: <img src="/images/QR_SG.png" width="54" height="84"></p>
+				<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_SG.png" style="width:49px; height:98px;"></p>
   </div>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;"><b>&#63;</b>&nbsp; Issues with uploading your QR code: Refer to FAQs here.</p>
+  </p>
+  </div>
+	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+&#9744;&nbsp;<b>(D) ) [If travel document is issued by a country/region that requires an entry visa] Apply for Entry Visa</b>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore. </p>
+<b>&#10067;</b>&nbsp; Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="" target="_blank">here</a> for more details.</p>
+	</p>
+	</div>
+	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+  <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+		&#9744;&nbsp;<b>(E) Secure Tickets for a Designated VTL (Air) Flight & Check Travel/Transit Route</b>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers <b>MUST</b></p>
+	<ol>
+		<li></li>
+		<li></li>
+	</ol>
   </p>
   </div>
