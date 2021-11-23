@@ -14,7 +14,7 @@ description: ""
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9744;  <i><b>A) Obtain an acceptable proof of vaccination </b></i></p>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">A proof of vaccination is required for application, pre-departure checks and immigration clearance. Without which, the traveller is ineligible for entry via VTL (Land). Depending on the traveller’s location of vaccination, the following digitally verifiable vaccination certificates are accepted by the Government of Singapore today:
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">A proof of vaccination is required for application, pre-departure checks and immigration clearance. Without which, the traveller is ineligible for entry via VTL (Land). Depending on the traveller’s location of vaccination, the following digitally verifiable vaccination certificates are accepted by the Government of Singapore today:
   <ol style="list-style-type:disc">
     <li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Other VTL countries:</b> Click here</li>	
