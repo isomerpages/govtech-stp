@@ -124,7 +124,7 @@ input:checked + label + .content {
 <div id="criteria" class="content" style="background-color:#edf4fa;">	
 	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated in the following locations, must obtain a digitally verifiable vaccination certificates in any of the following formats for application, pre-departure checks and immigration clearance:
 	<ol style="list-style-type:disc">
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia: Digital Certificate for COVID-19 Vaccination downloaded or shown on the MySejahtera app</li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia: Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
 		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Other VTL countries: Click here</li>	
 	</ol>
 	</p>
