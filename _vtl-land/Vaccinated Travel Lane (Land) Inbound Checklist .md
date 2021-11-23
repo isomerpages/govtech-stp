@@ -103,15 +103,15 @@ description: ""
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ICA Long-Term Visit Pass Holder</td>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">To report a change in Passport particulars, you will need to:
 				<ol style="list-style-type:disc;">
-				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Email <a href="mailto:ICA_Visit_Pass@ica.gov.sg">ICA_Visit_Pass@ica.gov.sg</a> with the subject title: <b>Change of Passport Particulars for LTVP Holder (FIN No: XXXXXXXXXX)</b>; and </li>
-				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Attach the following documents in your email:
+				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:16px;">Email <a href="mailto:ICA_Visit_Pass@ica.gov.sg">ICA_Visit_Pass@ica.gov.sg</a> with the subject title: <b>Change of Passport Particulars for LTVP Holder (FIN No: XXXXXXXXXX)</b>; and </li>
+				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Attach the following documents in your email:
 					<ol>
-						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Passport biodata page</li>
-						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Long-Term Visit Pass card</li>
+						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Passport biodata page</li>
+						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Long-Term Visit Pass card</li>
 					</ol>
 					</li>
 				</ol>
-			<p style="font-size:18px; margin-top:10px; line-height:1.5;">Sponsor's Identity Card</p>
+			<p style="font-size:16px; margin-top:10px; line-height:1.5;">Sponsor's Identity Card</p>
 				</td>
 </tr>
 	</tbody>
@@ -125,11 +125,11 @@ description: ""
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">As part of the pre-boarding checks, transport operators will ask for the following documents for verification. Travellers who fail to comply may be denied boarding.</p>
 <ol style="list-style-type:lower-roman;">
 				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Ticket for designated VTL (Land) bus services;</li>
-	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Passport;</li>
-	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore NRIC or Re-Entry Permit (only applicable for Singapore Permanent Residents);</li>
-	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Physical or electronic copy of the VTP for the specified period of entry (per Stage 1B, not applicable for Singapore Citizens and Singapore Permanent Residents);</li>
-	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per <a href="#stage1a">Stage 1A</a>); and</li>
-	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#stage1e">stage 1E</a>).</li>
+	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Passport;</li>
+	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Singapore NRIC or Re-Entry Permit (only applicable for Singapore Permanent Residents);</li>
+	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Physical or electronic copy of the VTP for the specified period of entry (per Stage 1B, not applicable for Singapore Citizens and Singapore Permanent Residents);</li>
+	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per <a href="#stage1a">Stage 1A</a>); and</li>
+	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#stage1e">stage 1E</a>).</li>
 </ol>
 
 <div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 3: Arrival in Singapore</b></div>
