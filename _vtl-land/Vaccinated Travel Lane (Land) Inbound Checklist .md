@@ -17,7 +17,7 @@ description: ""
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">A proof of vaccination is required for application, pre-departure checks and immigration clearance. Without which, the traveller is ineligible for entry via VTL (Land). Depending on the traveller’s location of vaccination, the following digitally verifiable vaccination certificates are accepted by the Government of Singapore today:
   <ol style="list-style-type:disc">
     <li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
-		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Other VTL countries:</b> Click here</li>	
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Other VTL countries:</b> <a href="/vtl-land/faq#digitalcerts" target="_blank">Click here</a></li>	
 	</ol>
 </p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers vaccinated in Singapore are not required to submit or present their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database. Travellers vaccinated overseas are advised to refer to <a href="/vtl/faq#verify" target="_blank">this guide</a> to verify if their vaccination certificate is accepted in Singapore. </p>
