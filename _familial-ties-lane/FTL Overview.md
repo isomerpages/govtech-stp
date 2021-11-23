@@ -4,6 +4,10 @@ permalink: /scpr-familial-ties-lane/overview
 description: Overview of the Familial Ties Lane
 ---
 
+<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b><span style="color:red;">NOTE:</span> If you hold a valid entry approval letter under other SafeTravel Lanes but wish to apply to enter under the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (VTL)</a>, please write in via the <a href="http://go.gov.sg/sto-enquiry" target="_blank">SafeTravel Enquiry Form for assistance. All short-term visitors and long-term pass holders are required to have a Vaccinated Travel Pass and fulfil VTL conditions in order to qualify for quarantine-free travel under the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (VTL)</a></b></p>
+	</div>
+
 <i>The <b>Familial Ties Lane (FTL)</b> is a Safe Travel Lane that facilitates entry of immediate family members of Singapore Citizens (SC) / Permanent Residents (PR), and PR in-principle approval holders into Singapore. </i>
 
 <i>SC/PRs may return to Singapore without the need for any Entry Approvals and should refer to [this page](/sc-pr/overview) instead for more information. If you are ineligible for entry via FTL, return to <a href="/arriving/overview">this menu</a> to explore other Safe Travel Lane options. </i>
@@ -36,7 +40,7 @@ The table below is a quick overview of the key FTL features and requirements.
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 14-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">	All countries/regions allowed.</p>
+			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed.</p>
 		 </td>
  </tr>
 </tbody><thead>
