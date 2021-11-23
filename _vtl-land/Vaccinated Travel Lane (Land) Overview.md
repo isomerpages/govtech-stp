@@ -138,3 +138,20 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px; ">Travellers <b>must</b> test negative in a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) within 2 days before departure for Singapore. The test must be taken at a laboratory or centre accredited/recognised by the Malaysia Ministry of Health.
 	</p>
 	</div>
+
+<input type="checkbox" id="title5" />
+<label for="title5">Criterion 5: Fulfil Travel History & Designated VTL (Land) Bus Requirements</label>
+
+<div id="criteria" class="content" style="background-color:#edf4fa;">	
+	<p style="line-height:1.4; font-size:18px; ">Travellers must:
+		<ol style="list-style-type:lower-roman">
+			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, any other VTL country as recognised by the Government of Singapore, and/or Singapore in the last 14 consecutive days before departing for Singapore; and </li>
+			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
+			<ol style="list-style-type:disc;">
+				<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
+				<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
+				</ol>
+			</li>
+	</ol>
+	</p>
+	</div>
