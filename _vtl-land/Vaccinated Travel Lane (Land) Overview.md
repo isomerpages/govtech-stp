@@ -234,7 +234,7 @@ input:checked + label + .content {
 <label for="title7">Holders of a Singapore Long-Term Pass</label>
 
 <div class="content" style="background-color:#edf4fa;">
-	<p style="line-height:1.4; font-size:18px; "><b><a href="https://go.gov.sg/" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b>
+	<p style="line-height:1.4; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b>
 	</p>
 	<p style="line-height:1.4; font-size:18px; ">Applications are free of charge, and will start from 25 Nov 2021, 2359 hours. Successful applicants will receive a VTP via email.</p>
 	<p style="line-height:1.4; font-size:18px; ">Travellers must comply with the VTL (Land) conditions, details can be found this <a href="/vtl-land/traveller-checklist" target="_blank">travel checklist</a>. Failing which, they may be denied entry to Singapore. Travellers should note:</p>
