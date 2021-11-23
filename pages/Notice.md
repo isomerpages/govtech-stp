@@ -3,8 +3,6 @@ title: Notice
 permalink: /message
 description: ""
 ---
-
-
 <style type="text/css" media="screen">
   .container {
     margin: 10px auto;
