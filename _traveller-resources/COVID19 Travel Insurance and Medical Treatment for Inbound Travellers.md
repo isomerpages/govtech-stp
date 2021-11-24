@@ -4,11 +4,20 @@ permalink: /health/insurance-and-treatment
 description: ""
 ---
 
-## Mandatory COVID-19 Travel Insurance
+This page contains information on the following issues:
 
-### Short-term Visitors
+1.	COVID-19 Travel Insurance
+2.	Medical Treatment Facilities for COVID-19
+3.	Medical Treatment Costs
 
-Short-term visitors applying to enter Singapore via the [Air Travel Pass (ATP)](/atp/overview),  [Reciprocal Green Lanes (RGLs)](/rgl/overview) and [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) will need to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore, with a minimum coverage of S$30,000. The travel insurance will help them pay for the costs of their medical treatment in Singapore.
+
+### COVID-19 Travel Insurance
+
+#### Mandatory Insurance for Short-term Visitors
+
+All short-term visitors applying to enter Singapore via the [Air Travel Pass (ATP)](/atp/overview),  [Reciprocal Green Lanes (RGLs)](/rgl/overview) and [Vaccinated Travel Lane (Air)](/vtl/requirements-and-process) will need to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore, with a minimum coverage of S$30,000 (based on COVID-19 bill sizes at private hospitals). This is a requirement regardless of the traveller's vaccination or recovery status, as there is still a risk that these travellers can get a COVID-19 infection and require medical attention.
+
+The travel insurance will help with the costs of their medical treatment in Singapore. Please ensure sufficient coverage as travellers will have to pay for their own treatment costs beyond their insurance coverage.
 
 Visitors should <u>purchase such travel insurance prior to travelling to Singapore</u>, either from Singapore-based or overseas insurers. 
 
