@@ -3,7 +3,6 @@ title: VTL (Air) Checklist for Travel to Singapore
 permalink: /vtl/travel-checklist
 description: ""
 ---
-
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>This page contains is a checklist for Vaccinated Travel Lane (Air) [VTL (Air)] travellers who already understand the entry requirements into Singapore via the VTL (Air). If you are not clear on the VTL (Air) requirements, please refer to the VTL (Air) Overview page <a href="/vtl/requirements-and-process" target="_blank">here</a>  before reading this checklist.</b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>Travellers intending to travel <u>out</u> of Singapore to a VTL (Air) country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For useful information regarding preparing to depart from Singapore (e.g. obtaining pre-departure tests, vaccination certificates), please visit the, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</b></span></p>
@@ -302,7 +301,7 @@ As part of Singapore’s Vaccination-differentiated Safe Management Measures (VD
 
 If you are a Singapore Citizen or Permanent Resident with an overseas-issued vaccination certificate, to be eligible for VDS, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, if you are unable to upload your vaccination certificate successfully during SG Arrival Card submission. Your status will be updated on your TraceTogether app.
 
-Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://safetravel.ica.gov.sg/health/vtsg" target="_blank">here</a> for more FAQs on inland public health measures.
+Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for more FAQs on inland public health measures.
 
 
 
