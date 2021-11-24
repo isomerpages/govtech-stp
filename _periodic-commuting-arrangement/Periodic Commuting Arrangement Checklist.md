@@ -28,7 +28,7 @@ description: ""
 
 <p id="stage1a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>A) Apply for SafeTravel Periodic Commuting Arrangement (PCA) Pass</b></i></u></p>
 
-<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Singapore-based companies (i.e. application sponsors) must <a href="https://go.gov.sg/pcamsia" target="_blank">apply for a PCA Pass on behalf of employees via the Application portal here.</a></p>
+<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Singapore-based companies (i.e. application sponsors) must <a href="https://go.gov.sg/pcamsia" target="_blank">apply for a PCA Pass on behalf of employees via the application portal here.</a></p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">The employees must spend <b>at least 90 days in Singapore for work upon entry</b>. Applications must be submitted at least 7 calendar days before the planned date of entry. Eligible employees must be:
  <ol style="list-style-type:lower-alpha; padding-left:25px;">
     <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Malaysian Citizen or Malaysian Permanent Resident holding a long-term pass* for business and work purposes in Singapore that is valid for at least 15 days from the date of entry; or</li>
@@ -91,7 +91,7 @@ description: ""
 <ol style="list-style-type:lower-roman; padding-left:25px;">
 	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">	Physical or digital copy of the PCA Approval Letter;</li>
 			<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative COVID-19 result (see <a href="#stage1c">Stage 1C</a>);</li>
-		<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">iValid Malaysia-issued passport; and</li>
+		<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">a Valid Malaysia-issued passport; and</li>
 	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Singapore-issued Work Pass or Singapore NRIC (for Singapore Permanent Residents).</li>
 	</ol>
 </p>
@@ -154,7 +154,7 @@ Travellers must serve a 7-day Stay-Home Notice (SHN) which takes effect immediat
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">To calculate the estimated SHN end-date, <a href="/shn-calculator" target="_blank">click here</a> for the SHN calculator.</p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act and a breach of the additional work pass conditions. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. Click here for information on SHN-compliance. </p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act and a breach of the additional work pass conditions. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. <a href="/health/shn" target="_blank">Click here</a> for information on SHN-compliance. </p>
 
 <p id="stage4b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) End-of-SHN COVID-19 Test</b></i></u></p>
 
