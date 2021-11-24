@@ -15,13 +15,16 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	<li style="font-size:18px; line-height:1.4;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Travellers intending to <b>leave Singapore to Malaysia</b> under the VTL (Land), should check with the <a href="http://www.myvtl.gov.my/" target="_blank">Government of Malaysia</a> on the prevailing entry requirements. For all departure-related advisories including how to obtain pre-departure tests and digital vaccination certificates, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page. Travellers should note that fresh entry applications must be submitted, for those seeking to return to Singapore after leaving for Malaysia via VTL (Land).</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Travellers intending to <b>leave Singapore to Malaysia</b> under the VTL (Land), can check the <a href="vtl-land/outbound-travel" target="_blank">outbound VTL (Land) advisory page</a>.</p>
+
+
+<!--should check with the <a href="http://www.myvtl.gov.my/" target="_blank">Government of Malaysia</a> on the prevailing entry requirements. For all departure-related advisories including how to obtain pre-departure tests and digital vaccination certificates, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page. Travellers should note that fresh entry applications must be submitted, for those seeking to return to Singapore after leaving for Malaysia via VTL (Land).-->
 
 <div id="Eligibility"></div>
 
 ### 1. Eligibility
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>Travellers must fulfil the following criteria before applying to travel under VTL (Land)</b>. Travellers who do not satisfy any of these criteria and conditions, should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a>.</p> 
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>Travellers must fulfil the following basic criteria before applying to travel under VTL (Land)</b>. Travellers who do not satisfy any of these criteria and conditions, should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a>.</p> 
 
 <html>
 
@@ -115,7 +118,7 @@ input:checked + label + .content {
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Janssen/J&J (Ad26.COV2.S), 1 dose</li>
 	</ol>
 	</p>
-	<p style="line-height:1.4; font-size:18px; "><a href="/health/vtsg" target="_blank">Click here</a> for updates/details. Unvaccinated travellers who are 12 and below in this calendar year can still travel to Singapore via VTL (Land) if accompanied by a fully vaccinated VTL traveller.</p>
+	<p style="line-height:1.4; font-size:18px; ">Unvaccinated travellers who are 12 and below in this calendar year can still travel to Singapore via VTL (Land) if accompanied by a fully vaccinated VTL traveller.</p>
 	</div>
 	
 <input type="checkbox" id="title3" />
@@ -125,7 +128,7 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated in the following locations, must obtain a digitally verifiable vaccination certificates in any of the following formats for application, pre-departure checks and immigration clearance:
 	  <ol style="list-style-type:disc">
     <li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
-		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Other VTL countries:</b> <a href="/vtl-land/faq#digitalcerts" target="_blank">Click here</a></li>	
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Other VTL countries:</b> <a href="/vtl-land/faq#digitalcerts" target="_blank">Click here</a> to see full list of other accepted certificates</li>	
 	</ol>
 	</p>
 	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated overseas are advised to refer to <a href="/vtl-land/faq#verify" target="_blank">this guide</a> to verify if their vaccination certificate is accepted in Singapore.</p>
@@ -160,7 +163,7 @@ input:checked + label + .content {
 	
 <div id="Application"></div>
 
-### 2. Application for Travel under the VTL (Land)
+### 2. Application for Vaccinated Travel Pass (Land)
 
 <html>
 
@@ -214,6 +217,10 @@ input:checked + label::after {
 input + label + .content {
     display: none;
 }
+	
+input + label + #criteria {
+    display: block;
+}
 
 input:checked + label + .content {
     display: block;
@@ -227,23 +234,24 @@ input:checked + label + .content {
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">	
 	<p style="line-height:1.4; font-size:18px; ">SC/PRs and unvaccinated children aged 12 and below in this calendar year do not need to apply for entry via VTL (Land). </p>
-		<p style="line-height:1.4; font-size:18px; margin-top:15px; "><span style="color:red;">However, SC/PRs must comply with the requirements stated in the</span> <a href="/vtl-land/conditions" target="_blank">VTL (Land) Conditions</a>. Details can also be found in this <a href="/vtl-land/travel-checklist" target="_blank">traveller Checklist</a>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
+		<p style="line-height:1.4; font-size:18px; margin-top:15px; "><span style="color:red;">However, SC/PRs must comply with the requirements stated in the</span><a href="/vtl-land/travel-checklist" target="_blank">traveller checklist</a>, which summarises the <a href="/vtl-land/conditions" target="_blank">VTL (Land) Conditions</a>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 	</div>
 	
 <input type="checkbox" id="title7"/>
 <label for="title7">Holders of a Singapore Long-Term Pass</label>
 
 <div class="content" style="background-color:#edf4fa;">
-	<p style="line-height:1.4; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (VTP)</b>
+	<p style="line-height:1.4; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (LAND) (VTP LAND)</b>
 	</p>
-	<p style="line-height:1.4; font-size:18px; ">Applications are free of charge, and will start from 25 Nov 2021, 2359 hours. Successful applicants will receive a VTP via email.</p>
+	<p style="line-height:1.4; font-size:18px; ">VTP applications are free of charge, and will start from 25 Nov 2021, 2359 hours. Successful applicants will receive a VTP via email. <b>Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first (see Criterion 4).</b></p>
 	<p style="line-height:1.4; font-size:18px; ">Travellers must comply with the VTL (Land) conditions, details can be found this <a href="/vtl-land/travel-checklist" target="_blank">travel checklist</a>. Failing which, they may be denied entry to Singapore. Travellers should note:</p>
 	<ol style="margin-top:0px; list-style-type:disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Accompanying children aged 12 and below and are unvaccinated do <b><u>not</u></b> need to apply. </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Applications must be submitted minimally 3 days before the intended date of entry into Singapore. </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Applications must be supported with digitally verifiable vaccination certificate QR code(s).</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">A VTP is valid for 14 calendar days from the traveller’s chosen date of entry.</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements (<b>See Criterion 3 above</b>), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate.</li>	
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements (<b>see Criterion 3 above</b>), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate.</li>	
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTP (Land) and VTP (Air) are not interchangeable, a separate application for VTP (Air) is required if travelling by air.</li>
 	</ol>
 	</div>
 </body>
