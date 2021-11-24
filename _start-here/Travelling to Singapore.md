@@ -40,7 +40,7 @@ No information will be stored by this tool. If the tool below does not work in y
 
 Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore from any overseas country without an entry approval. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore. Details related to the entry requirements and Category of travel health measures is available in the <a href="/sc-pr/overview" target="_blank">"Returning SC/PR Lane Overview"</a>.
 
-Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane (Air) to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane (Air)</a>.
+Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane (Air) or Vaccinated Travel Lane (Land) to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank"> Vaccinated Travel Lane (Land)</a>.
 
 <ol style="list-style-type:disc;">
 	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
@@ -53,8 +53,6 @@ Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 ye
 <i style="font-size:14px; line-height:1.5;"><sup>4</sup>Including the Canary Islands</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
-
-Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore via the Causeway and Second Link from Malaysia may also return via the Vaccinated Travel Lane (Land) to enjoy quarantine-free measures on arrival. <a href="/vtl-land/overview" target="_blank">Click here for more information on the Vaccinated Travel Lane (Land)</a>.
 
 ---
 
