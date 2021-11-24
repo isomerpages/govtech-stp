@@ -129,6 +129,8 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
  
 Yes, you may. If you have a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code obtained from the Notarise portal. If you are still encountering issues, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.
 
+If your Singapore vaccination records are tagged to an older identification (e.g. passport/FIN/IC) number, please click <a href="https://go.gov.sg/vax-status-query" target="_blank">here</a> to retag your records to your newer identification number. Once retagging is complete, please proceed to re-submit your VTP (Air) application.
+
 <div id="Q6"></div>
 
 #### 5. I was fully vaccinated in a non-VTL country/region and have since obtained a vaccination certificate issued by a VTL country/region / had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
