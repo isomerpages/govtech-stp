@@ -7,7 +7,7 @@ This page contains information on the following issues:
 
 1. [COVID-19 Travel Insurance](#insurance)
 2. [Medical Treatment Facilities for COVID-19](#treatment)
-3. [Medical Treatment Costs](#cost)
+3. [Cost of Medical Treatment](#cost)
 
 
 <div id="insurance"></div>
