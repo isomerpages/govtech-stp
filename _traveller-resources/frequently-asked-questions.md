@@ -538,7 +538,7 @@ For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccin
 
 #### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
-[Fully vaccinated travellers](/health/vtsg) utilising the Vaccinated Travel Lane are not be required to serve a Stay-Home Notice. For more information on the Vaccinated Travel Lane (VTL), click <a href="/vtl/requirements-and-process">here</a>.
+[Fully vaccinated travellers](/health/vtsg) utilising the Vaccinated Travel Lane via flight and land are not be required to serve a Stay-Home Notice. Please refer to the <a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air) [VTL (Air)]</a> and <a href="/vtl-land/overview">Vaccinated Travel Lane (Land) [VTL (Land)]</a> for more information.
 
 Click here to [Go Back To Top](#top).
 
