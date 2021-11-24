@@ -70,8 +70,8 @@ Travellers can purchase tickets for designated VTL (Land) bus services offered b
 
 The list of designated VTL (Land) bus services is as follows:
 <ol style="list-style-type:lower-roman;">
-<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.transtar.travel/" target="_blank">Transtar Travel</a></li>
-<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><a href="https://www.causewaylink.com.my" target="_blank">Handal Indah</a></li>
+<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.causewaylink.com.my" target="_blank">Handal Indah</a></li>
+<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><a href="https://www.transtar.travel/" target="_blank">Transtar Travel</a></li>
 </ol>
 
 #### 3. Should I apply for a VTP first or should I book my bus tickets first? What happens if I do not require a VTP?
