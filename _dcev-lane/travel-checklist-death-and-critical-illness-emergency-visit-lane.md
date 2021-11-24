@@ -176,7 +176,7 @@ SHN-serving travellers will be required to take additional COVID-19 tests during
 
 Travellers who wish to leave their self-isolation/SHN accommodation, or SDF for facilitated visits to funerals/wakes or hospitals must have a negative PCR result within the last 72 hours of the visit,  before they can leave their SHN/SDF location. The cost of the tests will be borne by the travellers and paid directly to the test providers. Those who are unable to comply with the pre-visiting testing requirement will not be allowed to leave their SHN/SDF location.
 
-Travellers who test positive for COVID-19 will receive the necessary <a href="/health/covidtreatment" target="_blank">medical treatment</a>, and the prevailing treatment charges would apply.
+Travellers who test positive for COVID-19 will receive the necessary <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges would apply.
 
 &#x2610; <i><b>B) Visits to Medical Facility / Funeral</b></i>
 
@@ -197,7 +197,7 @@ Travellers who wish to leave Singapore before the end of the SHN period **due to
 
 <b>Travellers serving SHN at a place of residence </b> will be scheduled to take a COVID-19 Polymerase Chain Reaction ("PCR test") before the end of the SHN. Travellers who do nto receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers may end their SHN arrangements upon receipt of a negative test result or when they complete the 7 -day or 10-day SHN period applicable to them, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank"> HealthHub App</a> .
 
-Travellers who test positive for COVID-19 will and must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
+Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
 &#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
 

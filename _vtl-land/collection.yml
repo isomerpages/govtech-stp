@@ -1,7 +1,9 @@
 collections:
   vtl-land:
-    output: false
+    output: true
     order:
-      - Vaccinated Travel Lane (Land).md
-      - Conditions.md
+      - Vaccinated Travel Lane (Land) Overview.md
+      - VTL (Land) Checklist for Travel to Singapore.md
+      - VTL (Land) for Travel to Malaysia.md
+      - VTL (Land) Conditions.md
       - Frequently Asked Questions.md

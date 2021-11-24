@@ -15,11 +15,10 @@ Otherwise, click on the links below for the relevant resources on Singapore's tr
 <a href="/health/vtsg">Vaccinated Status for Travel to Singapore </a></li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="/health/shn">Stay-Home Notice (SHN) & SHN Dedicated Facilities</a></li>
 	 <li style="margin-top:10px; margin-bottom:0px; font-size:18px;">
-<a href="/health/travelinsurance">Mandatory inbound COVID-19 travel insurance</a></li>
+<a href="/health/insurance-and-treatment">COVID-19 Travel Insurance and Medical Treatment</a></li>
 	  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">
 <a href="/health/tt-for-travellers">TraceTogether for Travellers</a></li>
 		 <li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">
 <a href="/health/covid19-symptoms">COVID-19 symptoms</a></li>
-	  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="/health/covidtreatment">Medical Treatment for COVID-19</a></li>
 		  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="/health/faq">Frequently Asked Questions</a></li>
 		    </ol>

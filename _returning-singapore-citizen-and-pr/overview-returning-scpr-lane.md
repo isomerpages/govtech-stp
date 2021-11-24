@@ -2,13 +2,16 @@
 title: Overview - Returning SC/PR Lane
 permalink: /sc-pr/overview
 ---
-<i>Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore <b>without</b> the need to apply for an entry approval. PR-In-Principle Approval holders, however, must apply for an entry approval under the <a href="/scpr-familial-ties-lane/overview">Familial Ties Lane</a>. </i>
+All Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore under the Returning SC/PR Lane <b>without</b> the need to apply for an entry approval, but prevailing measures outlined on this page will apply.
 
-<i>Non-SC/PR family members of SC/PRs cannot use this lane and should apply for entry approval via a suitable <a href="/arriving/overview">Safe Travel Lane </a>.</i>
+Please note the following before continuing to read:
+* You can also return to Singapore via the [Vaccinated Travel Lane (Air)](/vtl/requirements-and-process) or [Vaccinated Travel Lane (Land)](/vtl-land/overview) instead without quarantine, if you are returning from VTL countries/regions and fulfil the necessary criteria.
 
----
-This table summarises the key lane features and requirements for SCs and PRs returning to Singapore. 
+* PR-In-Principle Approval holders must apply for an entry approval under the <a href="/scpr-familial-ties-lane/overview">Familial Ties Lane</a> instead. 
 
+* Non-SC/PR family members of SC/PRs cannot use this lane and should find another suitable Safe Travel Lane via the<a href="/arriving/overview">Travelling to Singapore page</a>.
+
+The table below summarises the key lane features and requirements for SCs and PRs returning to Singapore under the Returning SC/PR Lane. 
 
 <table>
 <thead>
@@ -37,7 +40,7 @@ This table summarises the key lane features and requirements for SCs and PRs ret
 </thead>
 <tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Process</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;" rowspan="5"><b>None</b>; SC/PR do not need an entry approval for entry.</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;" rowspan="5"><b>None</b>; SC/PRs do not need approval for entry.</td>
 </tr>
 </tbody><thead>
 <tr>

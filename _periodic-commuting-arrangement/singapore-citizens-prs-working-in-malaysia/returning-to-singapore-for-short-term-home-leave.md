@@ -2,6 +2,7 @@
 title: Returning to Singapore for Short-Term Home Leave
 permalink: /pca/scpr-requirement-and-process
 third_nav_title: Singapore Citizens/PRs Working in Malaysia
+published: false
 ---
 The details in this page is only relevant to Singapore Permanent Residents who are PCA travellers working in Malaysia, returning to Singapore for home leave. These travellers will be subject to the prevailing travel health control measures, which includes a 14-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility.
 

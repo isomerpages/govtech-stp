@@ -29,7 +29,7 @@ Valid entry-visa holders and visa-exempted travellers are not required to apply 
 
 ☐ <i><b>C) COVID-19 Insurance</b></i>
 
-All RGL travellers <b>must</b> be insured for any COVID-19 related medical charges for a minimum coverage of S$30,000. Travellers can be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, <a href="https://safetravel.ica.gov.sg/health/travelinsurance" target="_blank">click here</a>.
+All RGL travellers <b>must</b> be insured for any COVID-19 related medical charges for a minimum coverage of S$30,000. Travellers can be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, <a href="/health/insurance-and-treatment#insurance" target="_blank">click here</a>.
 
 
 ☐ <i><b>D) Book transport to Singapore</b></i>
@@ -149,7 +149,7 @@ All travellers must self-isolate at their declared accommodation (per <a href="#
 
 Travellers can only leave their self-isolation accommodation <b>after</b> a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. The result could be released to the traveller via email or call in around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.
 
-Travellers who test positive for COVID-19 are required to receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing medical treatment charges will apply.
+Travellers who test positive for COVID-19 are required to receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>. The prevailing medical treatment charges will apply.
 
 ### Stage 5: Stay in Singapore
 

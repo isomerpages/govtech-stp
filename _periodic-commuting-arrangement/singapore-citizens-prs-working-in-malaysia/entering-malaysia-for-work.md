@@ -2,6 +2,7 @@
 title: Entering Malaysia for Work
 permalink: /pca/SCPR-entering-malaysia
 third_nav_title: Singapore Citizens/PRs Working in Malaysia
+published: false
 ---
 ### **Singapore Citizens and Permanent Residents Applying to Work in Malaysia**
 

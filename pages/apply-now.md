@@ -2,7 +2,6 @@
 title: Apply Now
 permalink: /apply-now
 ---
-
 <!--<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>The Application Service for Safe Travel Pass is experiencing high volume. Please <u>try again later</u> if you are unable to log in.</b> </p>
 	</div>-->
@@ -23,7 +22,7 @@ permalink: /apply-now
     </tr>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; vertical-align:middle;"><a href="/connectsg/requirements-and-process ">Connect@Singapore</a></td>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Connect@Singapore is curently suspended until further notice. Otherwise, you may enquire with an Appointed Facility listed <a href="https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html">here</a></td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Connect@Singapore is currently suspended until further notice. Otherwise, you may enquire with an Appointed Facility listed <a href="https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html">here</a></td>
     </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a></td>
@@ -46,7 +45,11 @@ permalink: /apply-now
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/stphl-application">here</a></td>
     </tr>
 	         <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/vtl-portal">here</a></td>
+    </tr>
+			         <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl-land/overview">Vaccinated Travel Lane (Land)</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/vtl-portal">here</a></td>
     </tr>
   </tbody>

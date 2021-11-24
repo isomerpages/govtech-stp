@@ -2,7 +2,7 @@
 title: Test Page for VTL Air Checklist
 permalink: /vtl-air/checklist
 description: ""
-published: false
+published: true
 ---
 ### VTL (Air) Travel Checklist
 
@@ -145,21 +145,88 @@ input:checked + label + .content {
   <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(C) [For STV/LTPHs only] Apply for Vaccination Travel Pass</b>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp;<b>[SC/PRs]</b> No application is required. Produce accepted proofs of vaccination at check-in and arrival immigration.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>[STVs/LTPHs]</b> Note the requirements of each vaccination proof during application, airline check-in and immigration clearance, based on their countries/regions of issuance.</p>
-
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>[STVs/LTPHs]</b> Note the requirements of each vaccination proof during application.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">The submission requirements during application depends on the <a href="/health/vtsg#acceptedvaccines" target="_blank">full vaccination regimen</a> and the types of vaccination certificates issued.</p>
-<p style="font-size:14px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><i>"Full Vaccination Regimen"= The no. of doses of a particular type/mixture of vaccines in order for the traveller to be considered fully vaccinated.</i></p><br>
+<p style="font-size:14px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><i>"Full Vaccination Regimen"= The no. of required doses of a particular type/mixture of vaccines in order for the traveller to be considered fully vaccinated.</i></p><br>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Click on the country of issuance for your vaccination certificate below to find out the submission requirements in the VTL portal.</b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;"><b>&#10067;</b>&nbsp; Issues with uploading your QR code: Refer to FAQs here.</p>
 <input type="checkbox" id="SG-apply" />
   <label for="SG-apply" style="background:#D8D8D8;color:black;"><b>Singapore</b></label>
   <div class="content" style="background-color:#e7e7e7;">
-<p style="font-size:18px; margin-bottom:0px; line-height:1.5; margin-top:0px;"><span style="font-size:18px; color:red;"><b>&#10005;</b></span> &nbsp;<b>LTPHs/STVs who have received their vaccination in Singapore do not need to upload their vaccination QR code during application. The portal should be able to retrieve the vaccination records from Singapore’s National Immunisation Registry.</b><p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.5; margin-top:0px;"><span style="font-size:18px; color:red;"><b>&#10005;</b></span> &nbsp;<b>LTPHs/STVs who have received their vaccination in Singapore do not need to upload their vaccination QR code during application. The portal should be able to retrieve the vaccination records from Singapore’s National Immunisation Registry.</b></p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;">Should there be any changes to your pass status, and you hold the following proof of vaccination, please refer to the instructions below.</p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Proof of vaccination</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code</p>
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>No. of QR Codes required for upload</b>: One QR code (regardless of no. of doses in full vaccination regimen).</p>
-				<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Location of QR code</b>: <img src="/images/QR_SG.png" width="54" height="84"></p>
+				<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_SG.png" style="width:49px; height:98px;"></p>
   </div>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;"><b>&#63;</b>&nbsp; Issues with uploading your QR code: Refer to FAQs here.</p>
   </p>
   </div>
+	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+&#9744;&nbsp;<b>(D) ) [If travel document is issued by a country/region that requires an entry visa] Apply for Entry Visa</b>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore. </p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>&#10067;</b>&nbsp; Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="" target="_blank">here</a> for more details.</p>
+	</p>
+	</div>
+	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+  <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+		&#9744;&nbsp;<b>(E) Check Travel/Transit History & Secure Tickets for a Designated VTL (Air) Flight</b>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers <b>MUST</b>:</p>
+	<ol style="list-style-type:lower-roman;">
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Have <B>only</B> travelled to / transited via any VTL (Air) countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Air) flight. Please check the websites of the respective airlines for details of the VTL (Air) flights available.</li>
+	</ol>
+<input type="checkbox" id="airlines" />
+  <label for="airlines" style="background:#D8D8D8; color:black;"><b>Click here for Airlines Offering VTL Flights to Singapore Based On Traveller's Country/Region</b></label>
+<div class="content" style="background-color:#e5e5e5;">
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px; color:#d36363;"><u><b>Australia</b></u></p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><a href="https://www.jetstar.com/sg/en/travel-alerts#Flights%20from%20Australia%20to%20Singapore%20under%20the%20Vaccinated%20Travel%20Lane%20(VTL)%20scheme" target="_blank">Jetstar Airways</a>, <a href="https://www.jetstar.com/sg/en/travel-alerts#Flights%20from%20Australia%20to%20Singapore%20under%20the%20Vaccinated%20Travel%20Lane%20(VTL)%20scheme" target="_blank">Jetstar Asia</a>, <a href="https://www.qantas.com/sg/en/coronavirus/international-travel/singapore-flights.html" target="_blank">Qantas</a>, <a href="https://www.flyscoot.com/en/announcements/vaccinated-travel-lane-flights" target="_blank">Scoot</a> and <a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/" target="_blank">Singapore Airlines</a></p>
+</div>
+  </p>
+  </div>
+	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+&#9744;&nbsp;<b>(F) [STVs only] Purchase COVID-19 Insurance</b>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.</p>
+	</p>
+	</div>
+	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+  <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+		&#9744;&nbsp;<b>(G) Secure self-isolation accommodation</b>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers can self-isolate at any of the following locations::</p>
+	<ol style="list-style-type:disc;">
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for Private Property and HDB flat / Bedroom); or</li>
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Non-residential accommodation, such as hotel or serviced apartment in this non-exhaustive list. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
+	</ol>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp;Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; Travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in isolation in a room and minimise contact. If this is not feasible, please consider alternative accommodation.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; Designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
+
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#128701; &nbsp; Lower the lid before flushing the toilet;</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#129533; &nbsp; Clean and disinfect contact surfaces after each use; and</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">
+&#9201;&#65039; &nbsp; Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation. Clean and disinfect contact surfaces after each use.</p>
+  </p>
+  </div>
+	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">
+&#9744;&nbsp;<b>(H) Pre-Departure COVID-19 Test (PDT)</b>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. turns 2 in this calendar year) do not require a PDT</b>.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Self-swabs are not allowed.</b>.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Take a pre-departure COVID-19 PCR test, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure, or a professionally-administered Antigen Rapid Test (ART) within 2 days* before departure for Singapore.</p>
+<p style="font-size:16px; margin-bottom:25px; line-height:1.5; margin-top:0px;"><i>*E.g. If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours.</i></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Ensure that the test report:</p>
+	<ol style="list-style-type:lower-roman;">
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Is in English (or accompanied with an English translation);</li>
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
+				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Reflects the date and time the test was taken, the name of the testing institution, and a negative test result; and</li>
+						<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Is not handwritten.</li>
+	</ol>	
+	</p>
+	</div>

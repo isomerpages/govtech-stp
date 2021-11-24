@@ -33,32 +33,36 @@ If you have already applied for entry into Singapore under any of the following 
   </tr>
 </thead>
 <tbody>
-  <tr>
+   <tr>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Air Travel Pass</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/atpsg">here</a></td>
+ </tr>
+	  <tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Periodic Commuting Arrangement</td>
    <td rowspan ="3" style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Click <a href="https://eservices.ica.gov.sg/STO">here</a>
      </td>
  </tr>
-    <tr>
+	 <tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Reciprocal Green Lane</td>
  </tr>
-      <tr>
+	      <tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Singaporean Citizen/Permanent Resident Familial Ties Lane</td>
  </tr>
 	 <tr>
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Student’s Pass Holder Lane</td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/stphl-application">here</a></td>
-  </tr>
-<tr>
+  </tr>	
+	<tr>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Vaccinated Travel Lane (Air)</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/vtl-portal">here</a></td>
+ </tr>
+		   <tr>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Vaccinated Travel Lane (Land)</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/vtl-portal">here</a></td>
+ </tr>
+	<tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Work Pass Holder General Lane</td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">If you applied for entry via the SafeTravel Portal, please check <a href="https://eservices.ica.gov.sg/STO">here</a>. If you applied with MOM, please write to MOM directly.</td>
- </tr>
-   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Air Travel Pass</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/atpsg">here</a></td>
- </tr>
-	   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Vaccinated Travel Lane</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/vtl-portal">here</a></td>
  </tr>
   </tbody>
   </table>

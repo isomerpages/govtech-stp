@@ -2,8 +2,8 @@ collections:
   vaccinated-travel-lane:
     output: true
     order:
-      - Vaccinated Travel Lane (VTL) Overview.md
-      - Vaccinated Travel Lane Inbound Checklist.md
-      - conditions.md
+      - Vaccinated Travel Lane (Air) Overview.md
+      - VTL (Air) Checklist for Travel to Singapore.md
+      - VTL (Air) Conditions.md
       - frequently-asked-questions.md
       - apply-now.md
