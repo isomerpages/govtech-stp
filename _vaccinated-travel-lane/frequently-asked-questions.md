@@ -125,7 +125,7 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 
 <div id="Q4"></div>
  
-#### 4. The VTP application portal tells me that my vaccination records cannot be retrieved from the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR), but I have a Notarise HealthCert QR code. Can I upload that QR code on the VTP portal?
+#### 4. The VTP (Air) application portal tells me that my vaccination records cannot be retrieved from the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR), but I have a Notarise HealthCert QR code. Can I upload that QR code on the VTP portal?
  
 Yes, you may. If you have a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code obtained from the Notarise portal. If you are still encountering issues, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.
 
