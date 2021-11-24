@@ -16,7 +16,7 @@ description: ""
 <p id="stage1a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>A) Obtain an acceptable proof of vaccination </b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">A proof of vaccination is required for application, pre-departure checks and immigration clearance. Without which, the traveller is ineligible for entry via VTL (Land). Depending on the traveller’s location of vaccination, the following digitally verifiable vaccination certificates are accepted by the Government of Singapore today:
-  <ol style="list-style-type:disc">
+  <ol style="list-style-type:disc;padding-left:25px;">
     <li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Other VTL countries:</b> <a href="/vtl-land/faq#digitalcerts" target="_blank">Click here</a> for full list of vaccination certificates recognised</li>	
 	</ol>
@@ -26,7 +26,7 @@ description: ""
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>B) Secure Tickets for a Designated VTL (Land) Bus Service </b></i></u></p>
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated VTL (Land) bus service offered by the operators below. Tickets for designated VTL (Land) bus services must be purchased at least 3 days before arrival.
-<ol style="list-style-type:lower-roman">
+<ol style="list-style-type:lower-roman; padding-left:25px;">
 			<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, any other VTL country as recognised by the Government of Singapore, and/or Singapore in the last 14 consecutive days before departing for Singapore; and </li>
 			<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
 			<ol style="list-style-type:disc;">
@@ -36,7 +36,7 @@ description: ""
 			</li>
 	</ol>
 </p>
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">*The list of bus operators and websites will be regularly updated. Click here for the VTL (Land) bus service schedule.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">*The list of bus operators and websites will be regularly updated. Please refer to the websites of the respective bus operators for more details </p>
 
 <p id="stage1c" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>C) [Holders of a Singapore Long-Term Pass only] Apply for Vaccinated Travel Pass (VTP) </b></i></u></p>
 
@@ -61,7 +61,7 @@ description: ""
 </div>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">The test must be taken at a <a href="https://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_SENARAI_MAKMAL_YANG_MENJALANKAN_UJIAN_RT-PCR_BAGI_COVID-19_21092021.pdf" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> accredited/recognised by the Malaysia Ministry of Health. Travellers should obtain a test report that is in English (or accompanied with an English translation), and:
-			<ol style="list-style-type:lower-roman;">
+			<ol style="list-style-type:lower-roman; padding-left:25px;">
 				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); </li>
 				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Reflects the date and time the test was taken, the name of the testing institution; and </li>
 				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Has a negative test result. </li>
@@ -73,7 +73,7 @@ description: ""
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;"><b>Within 3 days before arrival in Singapore</b>, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration.</p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers should defer their travels if they:
-	<ol style="list-style-type:disc;">
+	<ol style="list-style-type:disc; padding-left:25px;">
 				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Have <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
 				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
 				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
@@ -124,7 +124,7 @@ description: ""
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>Pre-departure document checks</b></i></u></p>
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">As part of the pre-boarding checks, transport operators will ask for the following documents for verification. Travellers who fail to comply may be denied boarding.</p>
-<ol style="list-style-type:lower-roman;">
+<ol style="list-style-type:lower-roman; padding-left:25px;">
 				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Ticket for designated VTL (Land) bus services;</li>
 	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Passport;</li>
 	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Singapore NRIC or Re-Entry Permit (only applicable for Singapore Permanent Residents);</li>

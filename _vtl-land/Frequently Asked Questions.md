@@ -64,12 +64,14 @@ All travellers are required to meet the eligibility criteria and entry requireme
 
 <b>Having a VTP does not guarantee travellers a ticket on a designated VTL (Land) bus service to Singapore.</b> Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL (Land) bus service to Singapore does not guarantee a VTP.
 
+<div id="bus-service"></div>
+
 #### 2. Can I buy a ticket from a Malaysian VTL bus operator, or must I buy a ticket from a Singaporean VTL bus operator?
 
 Travellers can purchase tickets for designated VTL (Land) bus services offered by either Singaporean or Malaysian designated operators for travel to Singapore. 
 
 The list of designated VTL (Land) bus services is as follows:
-<ol style="list-style-type:lower-roman;">
+<ol style="list-style-type:lower-roman;padding-left:25px;">
 <li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.causewaylink.com.my" target="_blank">Handal Indah</a></li>
 <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><a href="https://www.transtar.travel/" target="_blank">Transtar Travel</a></li>
 </ol>
@@ -88,7 +90,11 @@ Travellers entering Malaysia under the VTL (Land) will have to board the bus at 
 
 #### 5. Will the VTL (Land) bus services run daily? When are the earliest and latest VTL (Land) bus services?
 
-There will be daily VTL (Land) bus services. Please refer here for the schedules of the VTL (Land) bus services. 
+There will be daily VTL (Land) bus services. Please refer to the websites of the respective bus operators for more details:
+<ol style="list-style-type:lower-roman; padding-left:25px;">
+<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.causewaylink.com.my" target="_blank">Handal Indah</a></li>
+<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><a href="https://www.transtar.travel/" target="_blank">Transtar Travel</a></li>
+</ol>
 
 #### 6. I have a VTP and I meet all the requirements under the VTL (Land). However, I did not manage to get a ticket on a designated VTL (Land) bus service to Singapore. Will I still be allowed to enter Singapore if I drive my private vehicle, cycle, walk or take a non-designated bus service?
 
@@ -120,7 +126,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 
 A VTP application may be unsuccessful for reasons such as:
 
-<ol style="list-style-type:disc;">
+<ol style="list-style-type:disc; padding-left:25px;">
 	<li style="line-height:1.5;"><a href="/vtl/faq#invalidcode" target="_blank">Invalid vaccination QR code</a></li>
 	<li style="line-height:1.5;">Incomplete and/or incorrect information submitted</li>
 	<li style="line-height:1.5;">Passport validity is less than 6 months</li>
@@ -150,13 +156,13 @@ For more information, please click <a href="https://www.moh.gov.sg/covid-19/vacc
 
 #### 1. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL (Land)?
 
-Persons who are above the age of 12 in the calendar year and medically unfit are not allowed to travel under the VTL (Land).
+Persons who are above the age of 12 in the calendar year and medically unfit to be vaccinated are not allowed to travel under the VTL (Land).
 
 #### 2. What information needs to be reflected on the vaccination certificate?
 
 The electronic or physical vaccination certificate(s) should be in English and clearly state the following:
 
-<ol style="list-style-type:disc;">
+<ol style="list-style-type:disc;padding-left:25px;">
 	<li style="line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth, passport number or NRIC number corresponding exactly with the information in the traveller’s passport or NRIC used for entry into Singapore;</li>
 	<li style="line-height:1.5;">the country/region of issuance must be any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a> they depart from;</li>
 	<li style="line-height:1.5;">the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
@@ -189,7 +195,7 @@ Non-digitally verifiable vaccination certificates (i.e. those that do not contai
 
 Please click the links below for more information on accepted digitally verifiable vaccination certificates If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL (Land):
 
-<ol style="list-style-type:disc;">
+<ol style="list-style-type:disc;padding-left:25px;">
 	<li style="line-height:1.5;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
 	<li style="line-height:1.5;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
 	</ol>
@@ -539,7 +545,7 @@ No, visitors must keep their mobile devices and the Bluetooth function switched 
 Visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore.
 
 The S$50 deposit will be refunded if:
-<ol style="list-style-type:lower-roman;">
+<ol style="list-style-type:lower-roman;padding-left:25px;">
 <li>the TraceTogether token the visitor is returning belongs to him/her; and
 </li><li>the visitor had made a deposit for the TraceTogether token being returned; and
 </li><li>the TraceTogether token is not faulty or damaged.
