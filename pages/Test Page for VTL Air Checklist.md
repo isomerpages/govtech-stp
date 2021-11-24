@@ -76,7 +76,7 @@ This travel checklist is for the following travellers who are eligible for the V
 <p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>Short-term Visitors ("STVs")</b> (i.e. travellers who are not SC/PRs or LTPHs)</p>
 <p style="font-size:18px;"><span style="color:red; font-size:32px;">&#9888;</span>&nbsp; <b>[If ALL applicable requirements below are not met]</b> SC/PRs will be subjected to prevailing Stay-Home Notice and testing requirements. All other travellers may be denied entry into Singapore. If you are not eligible for the VTL, refer to the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page for the available non-VTL lanes.</p>
 
-<p style="font-size:18px;"><span style="color:black; font-size:32px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>
+<!--<p style="font-size:18px;"><span style="color:black; font-size:32px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>-->
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
@@ -231,3 +231,17 @@ This travel checklist is for the following travellers who are eligible for the V
 	</ol>	
 	</p>
 	</div>
+	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+  <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+		&#9744;&nbsp;<b>(I) Submit Health Declaration</b>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:20px;"><b>📅 3 days before arriving in Singapore</b></p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Submit an SG Arrival Card (SGAC) with pre-trip health and travel history declaration, </p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#128161;&nbsp; <span style="font-size:18px; color:red;"><b><u>Note during submission</u></b>:</span></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>SC/PRs who are not vaccinated in Singapore</b>: You are strongly encouraged to submit your overseas vaccination certificate in your health declaration as part of the SG Arrival Card submission. </p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span>&nbsp; <b>SC/PRs who are vaccinated in Singapore:</b> You are not required to upload your vaccination certificates as your records are already captured in the Singapore Ministry of Health (MOH) database.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span>&nbsp; <b>Long-term pass holders and short-term visitors</b>: You do not need to upload your vaccination certificates they will be verified as part of the VTP application.</p>
+		</li>
+	</ol>
+  </p>
+  </div>
