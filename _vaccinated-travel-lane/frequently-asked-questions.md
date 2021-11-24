@@ -896,7 +896,7 @@ No, the VTL (Air) is meant for travellers who intend to seek entry into Singapor
 
 #### 10. Can transfer/transit passengers travel on designated VTL (Air) flights?
 
-Transfer/transit passengers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> with WHO EUL vaccines may travel on designated VTL flights, regardless of where they were issued their vaccination certificate and regardless of their travel history, as long as they are able to show proof of vaccination.
+Transfer/transit passengers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> with WHO EUL vaccines may travel on designated VTL (Air) flights, regardless of where they were issued their vaccination certificate and regardless of their travel history, as long as they are able to show proof of vaccination.
 
 At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). They are required to be through-checked to their onward destination, as they will not be allowed to clear arrival immigration. Travellers should confirm with their airline on their eligibility to transfer.
 
