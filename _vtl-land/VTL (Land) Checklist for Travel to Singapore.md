@@ -5,7 +5,7 @@ description: ""
 ---
 
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">This checklist is for approved VTL (Land) travellers, including Singapore Citizens (SC) and Singapore Permanent Residents (PR), entering Singapore via a designated VTL (Land) bus through the Causeway. Travellers may mark “☑” <!--(☐)--> for completed actions.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">This checklist is for approved VTL (Land) travellers, including Singapore Citizens (SC) and Singapore Permanent Residents (PR), entering Singapore via a designated VTL (Land) bus through the Causeway. Travellers may mark “☑” <!--(☐)--> for completed actions, and refer to <a href="/images/VTL-Land-2.jpg" target="_blank">this graphic</a> for the general VTL (Land) entry process</p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:20px; line-height:1.5;">Travellers approved for entry <b>by flight</b> into Singapore via the Vaccinated Travel Lane, should visit the <a href="/vtl/requirements-and-process" target="_blank">“Vaccinated Travel Lane (Air)”</a> page instead for details instead. Those who intend to leave Singapore via VTL (Land), should check with the summary page on <a href="/vtl-land/outbound-travel" target="_blank">outbound VTL (Land) travel</a> instead. </p>
 
