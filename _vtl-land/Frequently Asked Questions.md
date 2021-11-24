@@ -42,11 +42,11 @@ IPA holders are not eligible to utilise the VTL (Land) for travel to Singapore. 
 
 Travellers who use the VTL (Land) to enter Singapore can only return to Malaysia under the VTL (Land) if they meet the entry requirements for Malaysia, as follows:
 
-<ol style="list-style-type:lower-alpha;">
+<ol style="list-style-type:lower-alpha; padding-left:25px;">
 	<li style="line-height:1.5;">Malaysia Citizen, Malaysia Permanent Resident, or holder of a Malaysia Long-Term Pass;</li>
 <li style="line-height:1.5;">Fully vaccinated with a vaccine recognised by the Malaysia Ministry of Health;</li>
 	<li style="line-height:1.5;">Holds a proof of vaccination accepted by the Government of Malaysia;</li>
-	<li style="line-height:1.5;">Remains in Malaysia, any other VTL country as recognised by the Government of Singapore, and/or Singapore in the last 14 consecutive days before departing for Singapore; and</li>
+	<li style="line-height:1.5;">Remains in Singapore and/or Malaysia for the last 14 consecutive days before departing for Malaysia; and</li>
 	<li style="line-height:1.5;">Arrives in Malaysia on a designated VTL (Land) bus service.</li>
 	</ol>
 
