@@ -45,7 +45,7 @@ description: ""
 
 <div style="padding-left: 5px; padding-bottom: 15px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5">Illustration:</p>
-	<p style="font-size:18px; margin-top:15px; margin-bottom:0px; line-height:1.5">Traveller holds a VTP for entry into Singapore via the Causeway on 1 December 2021. He may book a designated VTL (Land) bus service to enter Singapore on any day from 1 December to 15 December 2021. The traveller should apply for a new VTP if he is unable to enter Singapore from 1 December to 15 December.</p>
+	<p style="font-size:18px; margin-top:15px; margin-bottom:0px; line-height:1.5">Traveller holds a VTP for entry into Singapore via the Causeway on 1 December 2021. He may book a designated VTL (Land) bus service to enter Singapore on any day from 1 December to 14 December 2021. The traveller should apply for a new VTP if he is unable to enter Singapore from 1 December to 14 December.</p>
 </div>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:20px; line-height:1.5;">Applicants who encounter errors when uploading their vaccination certificate QR code to the VTP application portal (per Stage 1A), should <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office</a> for help and provide the vaccination certificate.</p>
