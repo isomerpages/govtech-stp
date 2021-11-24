@@ -29,7 +29,7 @@ Valid entry-visa holders and visa-exempted travellers are not required to apply 
 
 ☐ <i><b>C) COVID-19 Insurance</b></i>
 
-All RGL travellers <b>must</b> be insured for any COVID-19 related medical charges for a minimum coverage of S$30,000. Travellers can be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, <a href="https://safetravel.ica.gov.sg/health/insurance-and-treatment#insurance" target="_blank">click here</a>.
+All RGL travellers <b>must</b> be insured for any COVID-19 related medical charges for a minimum coverage of S$30,000. Travellers can be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, <a href="/health/insurance-and-treatment#insurance" target="_blank">click here</a>.
 
 
 ☐ <i><b>D) Book transport to Singapore</b></i>
