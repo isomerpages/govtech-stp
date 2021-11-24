@@ -242,7 +242,7 @@ input:checked + label + .content {
 <label for="title4">Criteria 4 [Foreign short- term visitors only]: COVID-19 Travel Insurance</label>
 
 <div class="content" style="background-color:#edf4fa;">
-<p style="line-height:1.3; font-size:18px;">All short-term visitors travelling to Singapore under VTL (Air), must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.</p>
+<p style="line-height:1.3; font-size:18px;">All short-term visitors travelling to Singapore under VTL (Air), must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment#insurance" target="_blank">here</a>.</p>
 </div>
 
 <input type="checkbox" id="title5" />
