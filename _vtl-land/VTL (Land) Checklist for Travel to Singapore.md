@@ -36,7 +36,7 @@ description: ""
 			</li>
 	</ol>
 </p>
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">*The list of bus operators and websites will be regularly updated. Click here for the VTL (Land) bus service schedule.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">*The list of bus operators and websites will be regularly updated. <a href="">Click here</a> for the VTL (Land) bus service schedule.</p>
 
 <p id="stage1c" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>C) [Holders of a Singapore Long-Term Pass only] Apply for Vaccinated Travel Pass (VTP) </b></i></u></p>
 
