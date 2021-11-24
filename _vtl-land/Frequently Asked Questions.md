@@ -90,7 +90,11 @@ Travellers entering Malaysia under the VTL (Land) will have to board the bus at 
 
 #### 5. Will the VTL (Land) bus services run daily? When are the earliest and latest VTL (Land) bus services?
 
-There will be daily VTL (Land) bus services. Please refer <a href="#bus-service">here</a> for the schedules of the VTL (Land) bus services. 
+There will be daily VTL (Land) bus services. Please refer to the websites of the respective bus operators for more details:
+<ol style="list-style-type:lower-roman; padding-left:25px;">
+<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.causewaylink.com.my" target="_blank">Handal Indah</a></li>
+<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><a href="https://www.transtar.travel/" target="_blank">Transtar Travel</a></li>
+</ol>
 
 #### 6. I have a VTP and I meet all the requirements under the VTL (Land). However, I did not manage to get a ticket on a designated VTL (Land) bus service to Singapore. Will I still be allowed to enter Singapore if I drive my private vehicle, cycle, walk or take a non-designated bus service?
 
