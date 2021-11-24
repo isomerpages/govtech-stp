@@ -247,7 +247,7 @@ input:checked + label + .content {
 
 <div id="ltph" class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.4; font-size:18px; ">Long-Term Pass Holders should <b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (LAND) (VTP LAND)</b>.</p>
-	<p style="line-height:1.4; font-size:18px; ">Please note the following before applying:
+	<p style="line-height:1.4; margin-top:20px; font-size:18px; ">Please note the following before applying:
 		<ol style="margin-top:0px; list-style-type:disc;">
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> <b>Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">TP applications will initially open for travellers entering from 29 Nov to 5 Dec, and VTPs are valid for up to 14 calendar days from the traveller’s chosen date of entry. Travellers not travelling during this date range can apply for a VTP later.</li>
