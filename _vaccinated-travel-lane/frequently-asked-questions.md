@@ -659,28 +659,28 @@ Yes, you will be eligible for the VTL (Air) so long as your travel history withi
 
 You may be eligible for the VTL (Air) if your travel and transit history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL (Air) countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. 
 
-However, if you were in a non-VTL and non Category I country/region at any point within the past 14 days, you will not be eligible for the VTL.
+However, if you were in a non-VTL (Air) and non Category I country/region at any point within the past 14 days, you will not be eligible for the VTL (Air).
 
-#### 5. I am only travelling to [VTL countries/regions](/vtl/requirements-and-process#countries), but will transit via a non-VTL and non-Category I country/region in my departing flight from Singapore. Will I be eligible to return to Singapore on the VTL?
+#### 5. I am only travelling to [VTL (Air) countries/regions](/vtl/requirements-and-process#countries), but will transit via a non-VTL (Air) and non-Category I country/region in my departing flight from Singapore. Will I be eligible to return to Singapore on the VTL (Air)?
 
-No, you will not be eligible for the VTL. However:
+No, you will not be eligible for the VTL (Air). However:
 - [Singapore Citizens](/sc-pr/overview)
 - [Permanent Residents](/sc-pr/overview), and
 - Long-Term Pass holders who have received entry approval via the [Work Pass Holder General Lane](/wphl/overview), [Student’s Pass Holder Lane](/stpl/overview), or [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/overview)
 may still travel to Singapore on a non-designated flight. They will be subject to the prevailing [Stay-Home Notice (SHN)](/health/shn) and COVID-19 test requirements upon entry into Singapore.
 
-#### 6. I intend to arrive in Singapore on a designated VTL flight, but will transit via a non-VTL and non-Category I country/region prior to that flight. Will I be eligible for the VTL?
+#### 6. I intend to arrive in Singapore on a designated VTL (Air) flight, but will transit via a non-VTL (Air) and non-Category I country/region prior to that flight. Will I be eligible for the VTL (Air)?
 
-No, you will not be eligible for the VTL. 
+No, you will not be eligible for the VTL (Air). 
 However:
 - [Singapore Citizens](/sc-pr/overview)
 - [Permanent Residents](/sc-pr/overview), and
 - Long-Term Pass holders who have received entry approval via the [Work Pass Holder General Lane](/wphl/overview), [Student’s Pass Holder Lane](/stpl/overview), or [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/overview)
 may still travel to Singapore on a non-designated flight. They will be subject to the prevailing [Stay-Home Notice (SHN)](/health/shn) and COVID-19 test requirements upon entry into Singapore.
 
-#### 7. I intend to transit via a Category I country/region immediately before arriving in Singapore. Will I be eligible for the VTL?
+#### 7. I intend to transit via a Category I country/region immediately before arriving in Singapore. Will I be eligible for the VTL (Air)?
 
-At this point in time, there are no designated VTL flights operating from Category I countries/regions to Singapore. You will not be eligible for the VTL as you do not fulfill the requirement to arrive in Singapore on a designated VTL flight.
+At this point in time, there are no designated VTL (Air) flights operating from Category I countries/regions to Singapore. You will not be eligible for the VTL (Air) as you do not fulfill the requirement to arrive in Singapore on a designated VTL (Air) flight.
 
 
 <div id="PDT"></div>
@@ -690,7 +690,7 @@ At this point in time, there are no designated VTL flights operating from Catego
 
 <p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 test.</i></p>
 
-#### 1. Are travellers under the VTL required to take any pre-departure COVID-19 tests?
+#### 1. Are travellers under the VTL (Air) required to take any pre-departure COVID-19 tests?
 
 All travellers, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
 
