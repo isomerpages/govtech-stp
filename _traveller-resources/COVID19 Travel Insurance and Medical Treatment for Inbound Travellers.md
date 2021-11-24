@@ -5,9 +5,9 @@ description: ""
 ---
 This page contains information on the following issues:
 
-1.	COVID-19 Travel Insurance
-2.	Medical Treatment Facilities for COVID-19
-3.	Medical Treatment Costs
+1. [COVID-19 Travel Insurance](#insurance)
+2. [Medical Treatment Facilities for COVID-19](#treatment)
+3. [Medical Treatment Costs](#cost)
 
 
 <div id="insurance"></div>
@@ -60,6 +60,9 @@ Employers must buy COVID-19 medical insurance for all (both new and existing) Wo
 
 For all other pass holders (e.g. Employment Pass holders or dependants), they are encouraged to buy medical insurance with the appropriate coverage <b>before entering Singapore</b>. They are responsible for their own medical expenses if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.
 
+
+<div id="treatment"></div>
+
 ### Medical Treatment Facilities for COVID-19
 
 COVID-19-positive patients who are assessed to be ineligible for home recovery may be conveyed to and accorded the necessary medical treatment at a suitable COVID-19 care facility. These facilities can be public and private hospitals, COVID-19 Treatment Facilities (CTFs) and/or Community Isolation Facilities (CIFs), depending on the patient’s condition.
@@ -70,7 +73,10 @@ Patients who are first admitted to a hospital for COVID-19 management may subseq
 
 Patients who deliberately refuse treatment or leave the facility before a formal discharge, or otherwise behave in a manner that exposes others to the risk of infection, may be prosecuted for offences under the Infectious Diseases Act. Upon conviction, the offender may be imprisoned and/or fined.
 
-### Medical Treatment Facilities for COVID-19
+
+<div id="cost"></div>
+
+### Cost of Medical Treatment
 
 Under the prevailing policy, the following groups of individuals are <b>responsible for all charges on their medical bills</b>:
 
