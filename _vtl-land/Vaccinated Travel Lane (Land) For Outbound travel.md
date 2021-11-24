@@ -11,7 +11,7 @@ description: ""
 	<li style="font-size:18px; line-height:1.4;"><a href="#returning">Returning to Singapore</a></li>
 	</ol>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">If you are intending to travel to Singapore using VTL (Land), read <a href="/vtl-land/overview" target="_blank">this page</a> instead.</a>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">If you are intending to travel to Singapore using VTL (Land), read <a href="/vtl-land/overview" target="_blank">this page</a> instead.
 	
 	
 <div id="process" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Process of VTL (Land) Departure to Malaysia</b></div>
