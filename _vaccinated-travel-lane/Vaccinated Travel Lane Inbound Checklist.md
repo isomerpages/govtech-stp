@@ -116,6 +116,10 @@ To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, trav
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.garuda-indonesia.com/" target="_blank">Garuda Indonesia</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Indonesia</td>
 </tr>	
+				<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.goindigo.in/" target="_blank">InterGlobe Aviation (IndiGo)</a></td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">India</td>
+</tr>	
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.britishairways.com/en-gb/information/incident/coronavirus/entry-requirements#singapore" target="_blank">British Airways</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">The United Kingdom</td>
