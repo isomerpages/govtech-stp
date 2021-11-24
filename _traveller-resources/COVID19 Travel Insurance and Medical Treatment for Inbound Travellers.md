@@ -82,7 +82,7 @@ Under the prevailing policy, the following groups of individuals are <b>responsi
 
 <ol style="list-style-type:lower-roman;">
 <li style="padding-left:10px; line-height:1.5;">Singapore Citizens (SCs), Permanent Residents (PRs), Long Term Pass Holders (LTPHs) travellers, if they test positive for COVID-19 or have onset of symptoms within 14 days of their arrival to Singapore.</li>
-	<li style="padding-left:10px; line-height:1.5;"><b>(From 8 December 2021)</b> All SCs/PRs/LTPHs who are unvaccinated by choice – specifically, those who have not been medically exempted from COVID-19 vaccines on the National Vaccination Programme, and patients under 12 years of age</li>
+	<li style="padding-left:10px; line-height:1.5;"><b>(From 8 December 2021)</b> All SCs/PRs/LTPHs who are unvaccinated by choice – specifically, those aged 12 years and above who have not been medically exempted from COVID-19 vaccines on the National Vaccination Programme.</li>
 <li style="padding-left:10px; line-height:1.5;">All Short-Term Visit Pass Holders, throughout their stay in Singapore</li>
 </ol>
 
