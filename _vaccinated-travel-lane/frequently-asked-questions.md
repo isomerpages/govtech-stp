@@ -269,7 +269,7 @@ We are currently unable to accept recovery certificates of travellers with proof
 			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”) app</a>)</li>
 			<p style="font-size:15px; line-height:1.3;">One QR code per dose.</p>
 						<b style="font-size:15px;">OR</b>
-			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;"><b>[For children aged 13 to 15]</b> Digital vaccination record retrieved from the public health database of the state or the local health authority.</li>
+			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;"><b>[For children aged 13 to 15]</b> Digital vaccination record retrieved from the public health database of the local health authority.</li>
 			</ol>
 			 </td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes. Please screen-capture one QR code at a time, and upload each QR code into the portal accordingly<br/><br/>If you have a proof of vaccination in (c), please write to the SafeTravel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with your documents attached for verification.</td>
