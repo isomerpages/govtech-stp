@@ -7,7 +7,7 @@ description: ""
   .container {
     margin: 10px auto;
     max-width: 600px;
-    text-align: center;
+    text-align: left;
   }
   h1 {
     margin: 30px 0;
