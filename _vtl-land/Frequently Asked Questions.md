@@ -64,6 +64,8 @@ All travellers are required to meet the eligibility criteria and entry requireme
 
 <b>Having a VTP does not guarantee travellers a ticket on a designated VTL (Land) bus service to Singapore.</b> Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL (Land) bus service to Singapore does not guarantee a VTP.
 
+<div id="bus-service"></div>
+
 #### 2. Can I buy a ticket from a Malaysian VTL bus operator, or must I buy a ticket from a Singaporean VTL bus operator?
 
 Travellers can purchase tickets for designated VTL (Land) bus services offered by either Singaporean or Malaysian designated operators for travel to Singapore. 
@@ -88,7 +90,7 @@ Travellers entering Malaysia under the VTL (Land) will have to board the bus at 
 
 #### 5. Will the VTL (Land) bus services run daily? When are the earliest and latest VTL (Land) bus services?
 
-There will be daily VTL (Land) bus services. Please refer here for the schedules of the VTL (Land) bus services. 
+There will be daily VTL (Land) bus services. Please refer <a href="#bus-service">here</a> for the schedules of the VTL (Land) bus services. 
 
 #### 6. I have a VTP and I meet all the requirements under the VTL (Land). However, I did not manage to get a ticket on a designated VTL (Land) bus service to Singapore. Will I still be allowed to enter Singapore if I drive my private vehicle, cycle, walk or take a non-designated bus service?
 
