@@ -22,7 +22,7 @@ description: ""
 <li>travel to Singapore on a designated VTL (Land) bus service;</li>
 <li>undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART), within 2 days<sup>2</sup> before the scheduled departure time of the bus service, at a <a href="https://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_SENARAI_MAKMAL_YANG_MENJALANKAN_UJIAN_RT-PCR_BAGI_COVID-19_21092021.pdf" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> that is accredited or recognised by the Malaysia Ministry of Health, and obtain a test result certificate in English stating the following:
 	<ol style="list-style-type:lower-roman; line-height:1.5; padding-left:10px; padding:bottom:10px;">
-<li>the VTP holder’s name, and at least one other personal identifier such as the date of birth or passport number or NRIC number corresponding exactly with the information in the traveller’s passport or NRIC used for entry into Singapore;</li>
+<li>the VTP traveller's name, and at least one other personal identifier such as the date of birth or passport number or NRIC number corresponding exactly with the information in the traveller’s passport or NRIC used for entry into Singapore;</li>
 		<li>	a negative COVID-19 test result;</li>
 		<li>the date and time when the COVID-19 test was taken; and</li>
 		<li>the name of the testing institution conducting the COVID-19 test.</li>
@@ -44,9 +44,9 @@ description: ""
 <br>
 <li>Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL (Land) or cancellation of the VTP at short notice.</li>
 <br>
-<li>A VTP holder’s entry and stay in Singapore are subject to compliance with the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (“ICA”), including compliance with the conditions of the VTL (Land). Non-compliance with any of the prevailing immigration requirements or conditions of the VTL (Land) may result in refusal of entry into Singapore and/or cancellation of the VTP, and/or Long-Term Pass. In such an event, the VTP holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.</li>
+<li>A VTP traveller’s entry and stay in Singapore are subject to compliance with the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (“ICA”), including compliance with the conditions of the VTL (Land). Non-compliance with any of the prevailing immigration requirements or conditions of the VTL (Land) may result in refusal of entry into Singapore and/or cancellation of the VTP, and/or Long-Term Pass. In such an event, the VTP traveller may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.</li>
 <br>
-<li>For the purpose of determining whether the conditions of the VTL (Land) are being complied with, a public officer, including an officer of the ICA, or an officer acting on behalf of the ICA, may request to see the VTP. Upon receipt of such a request, a VTP holder must show his or her VTP to the officer.</li>
+<li>For the purpose of determining whether the conditions of the VTL (Land) are being complied with, a public officer, including an officer of the ICA, or an officer acting on behalf of the ICA, may request to see the VTP. Upon receipt of such a request, a VTP traveller must show his or her VTP to the officer.</li>
 </ol>	
 	
 <p style="font-size:16px;line-height:1.5;"><sup>1</sup> If the scheduled day of departure of the bus service is D (e.g. 7 December 2021), the traveller must have remained in Malaysia and Singapore from D-14 to D (i.e. 23 November to 7 December 2021, if D is 7 December 2021).</p>
