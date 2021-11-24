@@ -325,7 +325,7 @@ When and how payment is collected, will depend on the travellers’ scheme of tr
       <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">Please enquire and make the necessary arrangement with your Appointed Facility.</td>
     </tr>
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:16px;border-right:2px solid #E0E0E0;"><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:16px;border-right:2px solid #E0E0E0;"><a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment is collected at the point of application for the costs of SDF and COVID-19 PCR tests during SHN.
 <br><br>
 Travellers should register and pay for their on-arrival COVID-19 PCR test separately <a href="https://t.2c2p.com/express/parkwayshenton">here</a>.
