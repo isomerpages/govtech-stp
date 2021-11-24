@@ -165,7 +165,7 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), the checkout timi
 
 Travellers serving SHN at a place of residence may end their SHN arrangements upon receipt of a negative test result or when they complete the 10-day SHN period, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
 
-Travellers who test positive for COVID-19 will and must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
+Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
 &#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
 
