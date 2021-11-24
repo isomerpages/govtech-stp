@@ -128,7 +128,7 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated in the following locations, must obtain a digitally verifiable vaccination certificates in any of the following formats for application, pre-departure checks and immigration clearance:
 	  <ol style="list-style-type:disc">
 		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">  <b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
-    <li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
+    <li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Other VTL countries:</b> <a href="/vtl-land/faq#digitalcerts" target="_blank">Click here</a> to see full list of other accepted certificates</li>	
 	</ol>
 	</p>
