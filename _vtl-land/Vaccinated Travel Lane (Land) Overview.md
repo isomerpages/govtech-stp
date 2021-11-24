@@ -147,9 +147,9 @@ input:checked + label + .content {
 		<ol style="list-style-type:lower-roman">
 			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, any other VTL country as recognised by the Government of Singapore, and/or Singapore in the last 14 consecutive days before departing for Singapore; and </li>
 			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
-			<ol style="list-style-type:disc;">
-				<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
-				<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><pending MOT’s input on operator name and website></li>
+					<ol style="list-style-type:disc;">
+<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.transtar.travel/" target="_blank">Transtar Travel</a></li>
+<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><a href="https://www.causewaylink.com.my" target="_blank">Handal Indah</a></li>
 				</ol>
 			</li>
 	</ol>
