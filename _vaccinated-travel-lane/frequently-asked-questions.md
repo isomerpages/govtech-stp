@@ -133,7 +133,7 @@ If your Singapore vaccination records are tagged to an older identification (e.g
 
 <div id="Q6"></div>
 
-#### 5. I was fully vaccinated in a non-VTL country/region and have since obtained a vaccination certificate issued by a VTL country/region / had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
+#### 5. I was fully vaccinated in a non-VTL (Air) country/region and have since obtained a vaccination certificate issued by a VTL country/region / had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
 
 Yes, you will fulfill the requirement of having your proof of vaccination issued in any VTL country/region or Singapore. 
 
