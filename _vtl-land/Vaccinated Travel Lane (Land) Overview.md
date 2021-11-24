@@ -221,6 +221,10 @@ input + label + .content {
 input + label + #scpr {
     display: block;
 }
+	
+input:checked + label + #scpr {
+    display: none;
+}
 
 input:checked + label + .content {
     display: block;
