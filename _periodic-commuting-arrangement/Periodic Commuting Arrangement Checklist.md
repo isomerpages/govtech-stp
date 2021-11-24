@@ -90,7 +90,7 @@ description: ""
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Travellers are strongly advised to prepare the following documents, which may be requested by the Malaysian authorities during departure:
 <ol style="list-style-type:lower-roman; padding-left:25px;">
 	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">	Physical or digital copy of the PCA Approval Letter;</li>
-		<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Valid pre-departure COVID-19 PCR test showing a negative COVID-19 result (see <a href="#stage1c">Stage 1C</a>);</li>
+			<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative COVID-19 result (see <a href="#stage1c">Stage 1C</a>);</li>
 		<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">iValid Malaysia-issued passport; and</li>
 	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Singapore-issued Work Pass or Singapore NRIC (for Singapore Permanent Residents).</li>
 	</ol>
