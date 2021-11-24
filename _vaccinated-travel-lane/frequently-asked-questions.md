@@ -120,7 +120,7 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 <li  style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOE Long-Term Pass Holder</b> if you are a Student Pass holder</li>
 	</ol>
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">^If you are still encountering issues, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued or your overseas-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
-
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">If your Singapore vaccination records are tagged to an older identification (e.g. passport/FIN/IC) number, please click here to retag your records to your newer identification number. Once retagging is complete, please proceed to re-submit your VTP (Air) application.</p>
 
 
 <div id="Q4"></div>
