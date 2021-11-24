@@ -10,6 +10,8 @@ This page contains information on the following issues:
 3.	Medical Treatment Costs
 
 
+<div id="insurance"></div>
+
 ### COVID-19 Travel Insurance
 
 #### Mandatory Insurance for Short-term Visitors
@@ -67,3 +69,19 @@ COVID-19-positive patients who are assessed to be ineligible for home recovery m
 Patients who are first admitted to a hospital for COVID-19 management may subsequently be transferred to a CTF or CIF for continued care. Such patients will be medically managed at the facility until they are fit for discharge.
 
 Patients who deliberately refuse treatment or leave the facility before a formal discharge, or otherwise behave in a manner that exposes others to the risk of infection, may be prosecuted for offences under the Infectious Diseases Act. Upon conviction, the offender may be imprisoned and/or fined.
+
+### Medical Treatment Facilities for COVID-19
+
+Under the prevailing policy, the following groups of individuals are <b>responsible for all charges on their medical bills</b>:
+
+i.	Singapore Citizens (SCs), Permanent Residents (PRs), Long Term Pass Holders (LTPHs) travellers, if they test positive for COVID-19 or have onset of symptoms within 14 days of their arrival to Singapore.
+
+ii.	(From 8 December 2021) All SCs/PRs/LTPHs who are unvaccinated by choice – specifically, those who have not been medically exempted from COVID-19 vaccines on the National Vaccination Programme, and patients under 12 years of age
+
+iii.	All Short-Term Visit Pass Holders, throughout their stay in Singapore
+
+SCs and PRs may use Government subsidies, MediSave and MediShield Life/Integrated Shield Plans to help pay for their bills where applicable. LTPHs and STVPs may tap on private insurance, if applicable. There are no subsidies available to LTPHs and STVPs and they will have to rely on their <a href="#insurance">private insurance</a> if any, to cover their medical costs.
+
+Charges for hospitals and community facilities are billed separately. All paying patients may enquire about the relevant charges during financial counselling at the point of admission to the hospital or CCF.
+
+This cost of hospitalisation at the hospitals and/or community facilities are separate from the cost of <a href="/health/shn#sdf" target="_blank">Stay-Home-Notice (SHN) Dedicated Facilities</a>.
