@@ -1,5 +1,5 @@
 ---
-title: COVID19 Travel Insurance and Medical Treatment for Inbound Travellers
+title: COVID-19 Travel Insurance and Medical Treatment for Inbound Travellers
 permalink: /health/insurance-and-treatment
 description: ""
 ---
