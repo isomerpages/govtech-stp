@@ -31,7 +31,7 @@ description: ""
 			<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
 			<ol style="list-style-type:disc;">
 <li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.causewaylink.com.my" target="_blank">Handal Indah</a>, for boarding at Queen Street terminal.</li>
-<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><a href="https://www.transtar.travel/" target="_blank">Transtar Travel</a>, for boarding ay woodlands temporary bus interchange</li>
+<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><a href="https://www.transtar.travel/" target="_blank">Transtar Travel</a>, for boarding at Woodlands temporary bus interchange</li>
 				</ol>
 			</li>
 	</ol>
