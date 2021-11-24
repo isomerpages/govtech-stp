@@ -263,7 +263,7 @@ input:checked + label + .content {
 
 <div id="FAQ"></div>
 
-### 3. Frequently Asked Questions
+### 3. Traveller Resources & Frequently Asked Questions
 
 <span style="font-size:18px;">Click <a href="/vtl-land/faq" target="_blank">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
 
@@ -274,6 +274,7 @@ input:checked + label + .content {
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#travel-history" target="_blank">Travel History</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="" target="/vtl-land/travel-checklist#pdt" target="_blank">Pre-departure test for travel to Singapore</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#DesignatedBus" target="_blank">Bus Services</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/images/VTL-Land-4.jpg" target="_blank">Useful weblinks</a></li>
 </ol>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">Have a question that is not addressed by any of the available resources found in this webpage? <a href="https://go.gov.sg/sto-enquiry" target="_blank">Contact us here</a>.</p>
