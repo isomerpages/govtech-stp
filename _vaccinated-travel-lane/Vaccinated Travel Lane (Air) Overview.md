@@ -113,9 +113,10 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic criteria and <a target="_blank" href="/vtl/conditions">conditions</a> of the VTL (Air) to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL (Air) should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
 
 
+<html>
 
-
-
+<head>
+<meta charset="utf-8">
 <title>Test Accordion</title>
 
 <style>
