@@ -218,7 +218,7 @@ input + label + .content {
     display: none;
 }
 	
-input + label + #criteria {
+input + label + #scpr {
     display: block;
 }
 
@@ -232,7 +232,7 @@ input:checked + label + .content {
 <input type="checkbox" id="title6" />
 <label for="title6">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
-<div id="criteria" class="content" style="background-color:#edf4fa;">	
+<div id="scpr" class="content" style="background-color:#edf4fa;">	
 	<p style="line-height:1.4; font-size:18px; ">SC/PRs and unvaccinated children aged 12 and below in this calendar year do not need to apply for entry via VTL (Land). </p>
 		<p style="line-height:1.4; font-size:18px; margin-top:15px; "><span style="color:red;">However, SC/PRs must comply with the requirements stated in the</span><a href="/vtl-land/travel-checklist" target="_blank">traveller checklist</a>, which summarises the <a href="/vtl-land/conditions" target="_blank">VTL (Land) Conditions</a>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 	</div>
