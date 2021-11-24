@@ -114,7 +114,7 @@ Travellers who are aged 12 or below 12 years old in this calendar year are eligi
 
 #### 2. Is there an expiry (i.e. validity period) and limit to the number of times travellers can apply for a VTP?
 
-No, there is no limit to the number of times a traveller can apply for a VTP. To afford entry flexibility to travellers, a VTP is valid for a period of up to 14 calendar days after the intended date of entry. This means that <b>a traveller holding a VTP for entry into Singapore on 1 December 2021, may book designated VTL (Land) bus service to enter Singapore on any day from 1 December to 15 December 2021. </b> 
+No, there is no limit to the number of times a traveller can apply for a VTP. To afford entry flexibility to travellers, a VTP is valid for a period of up to 14 calendar days after the intended date of entry. This means that <b>a traveller holding a VTP for entry into Singapore on 1 December 2021, may book designated VTL (Land) bus service to enter Singapore on any day from 1 December to 14 December 2021. </b> 
 
 Travellers intending to enter Singapore before or after the 14-day validity period should apply for a new VTP. 
 
@@ -557,4 +557,3 @@ The S$50 deposit will be refunded if:
 ##### Click here to go back to the [top](#top).
 
 ---
-
