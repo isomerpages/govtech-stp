@@ -530,10 +530,10 @@ Switzerland</td>
 <div id="invalidcode"></div>
 
 
-#### 4. Why was/were my vaccination QR code(s) not accepted in my VTP application?
+#### 4. Why was/were my vaccination QR code(s) not accepted in my VTP (Air) application?
 
 Some possible reasons include:
-- Traveller does not have a proof vaccination issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
+- Traveller does not have a proof vaccination issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a>
 - Not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
 - Number of QR codes uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or <a href="/vtl/faq#verify">wrong method of QR code upload</a>.
 - Traveller is not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
@@ -545,7 +545,7 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 
 <div id="mismatch-error"></div>
 
-#### 5. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP?
+#### 5. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP (Air)?
 
 Please refer to the table below. 
 <table>
@@ -607,7 +607,7 @@ If you are still facing name mismatch errors, please write to the Safe Travel Of
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
 
-Please note that individuals with an Excelsior Pass issued by the New York State in United States will need to obtain an Excelsior Pass Plus, which is an SHC accepted for travel on the VTL. More information on the Excelsior Pass and Excelsior Pass Plus can be found <a href="https://forward.ny.gov/excelsior-pass-and-excelsior-pass-plus-frequently-asked-questions" target="_blank">here</a>.
+Please note that individuals with an Excelsior Pass issued by the New York State in United States will need to obtain an Excelsior Pass Plus, which is an SHC accepted for travel on the VTL (Air). More information on the Excelsior Pass and Excelsior Pass Plus can be found <a href="https://forward.ny.gov/excelsior-pass-and-excelsior-pass-plus-frequently-asked-questions" target="_blank">here</a>.
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more states and issuers are onboarded. 
 
@@ -645,17 +645,17 @@ You can provide either
 
 #### 1. How is the 14-day travel history determined?
 
-If the scheduled day of departure of the traveller's fight to Singapore is D (e.g. 19 October 2021), the traveller must have only travelled to or transited via one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore from D-14 to D (i.e. 5 to 19 October 2021, if D is 19 October 2021). 
+If the scheduled day of departure of the traveller's fight to Singapore is D (e.g. 19 October 2021), the traveller must have only travelled to or transited via one or more of the [VTL (Air) countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore from D-14 to D (i.e. 5 to 19 October 2021, if D is 19 October 2021). 
 
-#### 2. Do I need to remain in a [VTL country/region](/vtl/requirements-and-process#countries) for 14 consecutive days before travelling to Singapore?
+#### 2. Do I need to remain in a [VTL (Air) country/region](/vtl/requirements-and-process#countries) for 14 consecutive days before travelling to Singapore?
 
-No, your travel history within the past 14 consecutive days before departure for Singapore may consist of one or more of the VTL countries/regions, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. For example, your travel history may include 4 days in Hong Kong, 3 days in Canada and 7 days in the United States. 
+No, your travel history within the past 14 consecutive days before departure for Singapore may consist of one or more of the VTL (Air) countries/regions, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. For example, your travel history may include 4 days in Hong Kong, 3 days in Canada and 7 days in the United States. 
 
-#### 3. I am travelling from Singapore to a [VTL country/region](/vtl/requirements-and-process#countries) and will be back in less than 14 days. Will i be eligible to return to Singapore on the VTL?
+#### 3. I am travelling from Singapore to a [VTL (Air) country/region](/vtl/requirements-and-process#countries) and will be back in less than 14 days. Will i be eligible to return to Singapore on the VTL (Air)?
 
-Yes, you will be eligible for the VTL so long as your travel history within the past 14 consecutive days before departure for Singapore only consists of one or more of the VTL countries/regions, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. For example, your 14-day travel history may include 5 days in Singapore, 5 days in the United Kingdom, and 4 days in Germany.
+Yes, you will be eligible for the VTL (Air) so long as your travel history within the past 14 consecutive days before departure for Singapore only consists of one or more of the VTL (Air) countries/regions, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. For example, your 14-day travel history may include 5 days in Singapore, 5 days in the United Kingdom, and 4 days in Germany.
 
-#### 4. I am currently in a non-VTL and non-Category I country/region but will be travelling to [VTL countries/regions](/vtl/requirements-and-process#countries). Will I be eligible for the VTL?
+#### 4. I am currently in a non-VTL (Air) and non-Category I country/region but will be travelling to [VTL (Air) countries/regions](/vtl/requirements-and-process#countries). Will I be eligible for the VTL (Air)?
 
 You may be eligible for the VTL if your travel and transit history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. 
 
