@@ -135,7 +135,7 @@ input:checked + label + .content {
 </div>
 	
 <input type="checkbox" id="title4" />
-<label for="title5">Criterion 4: Fulfil Travel History & Designated VTL (Land) Bus Requirements</label>
+<label for="title4">Criterion 4: Fulfil Travel History & Designated VTL (Land) Bus Requirements</label>
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">	
 	<p style="line-height:1.4; font-size:18px; ">Travellers must:
