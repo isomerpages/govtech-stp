@@ -3,9 +3,6 @@ title: VTL (Land) for Travel to Malaysia
 permalink: /vtl-land/outbound-travel
 description: ""
 ---
-
-
-
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">This page contains the following brief summary information for using the VTL (Land) to travel to Malaysia:</p>
 <ol style="font-size:18px; padding-left:20px;">
 	<li style="font-size:18px; line-height:1.4;"><a href="#process">Process of VTL (Land) Departure to Malaysia</a></li>
@@ -18,10 +15,6 @@ description: ""
 <div id="process" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Process of VTL (Land) Departure to Malaysia</b></div>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">Travelers must check with the <a href="http://www.myvtl.gov.my/" target="_blank">relevant authorities of Malaysia</a> for the latest detailed requirements for entering Malaysia using VTL (Land). Please read the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page as well for the latest travel advisories including how to obtain pre-departure tests in Singapore and digital test and vaccination certificates for overseas use.</p>
-
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">An infographic provided by the Immigration Authority of Malaysia on using the VTL (Land) to travel to Malaysia can be found below for reference.</p>
-
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">INFOGRAPHICS HERE</p>
 
 <div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Returning to Singapore</b></div>
 
