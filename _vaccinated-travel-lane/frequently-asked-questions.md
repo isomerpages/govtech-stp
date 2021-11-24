@@ -717,7 +717,7 @@ Travellers, who are unable to produce a valid pre-departure COVID-19 test result
 <div id="Flight"></div>
 
  
-### (d) Designated VTL Flights
+### (d) Designated VTL (Air) Flights
 
 <!--#### 1. What are the designated VTL flights?
 
@@ -789,9 +789,9 @@ Please refer to the respective airlines’ websites below for details of the des
 </table>
 <sup>*</sup>The list of airlines and websites will be regularly updated-->
 
-#### 1. Are travellers guaranteed a ticket on a designated VTL flight to Singapore if they have a VTP?
+#### 1. Are travellers guaranteed a ticket on a designated VTL (Air) flight to Singapore if they have a VTP (Air)?
 
-Having a VTP does not guarantee travellers a ticket on a designated VTL flight to Singapore. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL flight to Singapore does not guarantee a VTP.
+Having a VTP (Air) does not guarantee travellers a ticket on a designated VTL (Air) flight to Singapore. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL (Air) flight to Singapore does not guarantee a VTP (Air).
 
 #### 2. I have a VTP and I meet all the requirements under the VTL. However, I did not manage to get a ticket on a designated VTL flight to Singapore. Will I still be allowed to enter Singapore?
 
