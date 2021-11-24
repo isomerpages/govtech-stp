@@ -3,8 +3,6 @@ title: VTL (Land) Checklist for Travel to Singapore
 permalink: /vtl-land/travel-checklist
 description: ""
 ---
-
-
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">This checklist is for approved VTL (Land) travellers, including Singapore Citizens (SC) and Singapore Permanent Residents (PR), entering Singapore via a designated VTL (Land) bus through the Causeway. Travellers may mark “☑” <!--(☐)--> for completed actions, and refer to <a href="/files/VTL-Land-2.pdf" target="_blank">this graphic</a> for the general VTL (Land) entry process</p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:20px; line-height:1.5;">Travellers approved for entry <b>by flight</b> into Singapore via the Vaccinated Travel Lane, should visit the <a href="/vtl/requirements-and-process" target="_blank">“Vaccinated Travel Lane (Air)”</a> page instead for details instead. Those who intend to leave Singapore via VTL (Land), should check the summary page on <a href="/vtl-land/outbound-travel" target="_blank">VTL (Land) for travel to Malaysia' page</a> instead. </p>
@@ -109,7 +107,7 @@ description: ""
 					<ol>
 						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Passport biodata page</li>
 						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Long-Term Visit Pass card</li>
-						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Sponsor's Identity Card</li>
+									<li style="font-size:16px; margin-top:10px; line-height:1.5;">Sponsor's Identity Card</li>
 					</ol>
 					</li>
 				</ol>
@@ -145,7 +143,4 @@ description: ""
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>COVID-19 Safe Management Measures and Proof of Vaccinations</b></i></u></p>
 	
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">All travellers must comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Please visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for details on the prevailing measures.</p>	
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL (Land) travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.</p>	
-
-
-	
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL (Land) travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.</p>
