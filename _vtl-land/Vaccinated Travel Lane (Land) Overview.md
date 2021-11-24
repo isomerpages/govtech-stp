@@ -107,7 +107,7 @@ input:checked + label + .content {
 <label for="title2">Criterion 2: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
 
 <div id="criteria2" class="content" style="background-color:#edf4fa;">
-	<p style="line-height:1.4; font-size:18px; ">Travellers who are 12 and above in this calendar year must receive the required WHO EUL vaccine doses, below, at least two weeks before arrival in Singapore:
+	<p style="line-height:1.4; font-size:18px; ">Travellers who are above the age of 12 in this calendar year must receive the required WHO EUL vaccine doses, below, at least two weeks before arrival in Singapore:
 	<ol style="list-style-type:disc">
 		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Pfizer/BioNTech (BNT162b2 / Comirnaty / Tozinameran), at least 2 doses 17 days apart</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Moderna (mRNA-1273), at least 2 doses 24 days apart </li>
