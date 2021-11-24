@@ -107,7 +107,7 @@ description: ""
 					<ol>
 						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Passport biodata page</li>
 						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Long-Term Visit Pass card</li>
-									<li style="font-size:16px; margin-top:10px; line-height:1.5;">Sponsor's Identity Card</li>
+						<li style="font-size:16px; margin-top:10px; line-height:1.5;">Sponsor's Identity Card</li>
 					</ol>
 					</li>
 				</ol>
