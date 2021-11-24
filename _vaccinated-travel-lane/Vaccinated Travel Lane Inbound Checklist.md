@@ -68,9 +68,9 @@ Other frequently asked questions regarding vaccination proof can be found <a hre
 
 &#9744;  <i><b>B) [Short-Term Visitors and Long-Term Pass Holders only] Apply for Vaccinated Travel Pass (Air) [VTP(Air)] </b></i>
 
-All short-term visitors and long-term pass holders must apply for a VTP. The VTP can only be used for travel on designated VTL flights. Applications must be made between 7 and 60 calendar days before the intended date of entry, together with the QR code of the traveller’s vaccination certificate (if available). Applications are free of charge. Successful applicants will receive their approved VTP via email. <b><a href="https://go.gov.sg/vtl-portal" target="_blank">Click here to apply for a VTP.</a></b>
+All short-term visitors and long-term pass holders must apply for a VTP. The VTP can only be used for travel on designated VTL (Air) flights. Applications must be made between 7 and 60 calendar days before the intended date of entry, together with the QR code of the traveller’s vaccination certificate (if available). Applications are free of charge. Successful applicants will receive their approved VTP via email. <b><a href="https://go.gov.sg/vtl-portal" target="_blank">Click here to apply for a VTP.</a></b>
 
-Unvaccinated children aged 12 and below in this calendar year are eligible to enter Singapore on the VTL without applying for a VTP (e.g. a child turning 12 this year is eligible). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL traveller.
+Unvaccinated children aged 12 and below in this calendar year are eligible to enter Singapore on the VTL (Air) without applying for a VTP (e.g. a child turning 12 this year is eligible). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL (Air) traveller.
 
 &#9744;  <i><b>C) [If travel document is issued by a country/region that requires an entry visa] Application for Entry Visas for Short Term Visitors</b></i>
 
@@ -78,10 +78,10 @@ Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens
 
 &#9744;  <i><b>D) Secure Tickets for a Designated VTL Flight </b></i>
 			      
-To qualify for the VTL quarantine-free travel health protocols, travellers must do the following:
+To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, travellers must do the following:
 			      
 <ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL (Air) countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL flight  Please check the websites of the respective airlines for details of the VTL flights available.</li>
 			      </ol>
 <table>
