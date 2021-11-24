@@ -153,7 +153,7 @@ During the SHN period, randomised in-person or phone/video compliance check(s) w
 
 &#9744;  <i><b>B) End-of-SHN COVID-19 Test</b></i>
 
-Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers may end their SHN arrangements upon receipt of a negative test result or when they complete the 10-day SHN period, whichever is later.
+Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
 
 The test costs SGD$125 (including GST). Returning Singapore Citizens and Permanent Residents will be advised on payment details after arrival. All other travellers would have paid for the test at the point of entry application.
 
@@ -163,7 +163,7 @@ The test costs SGD$125 (including GST). Returning Singapore Citizens and Permane
 
 For travellers serving SHN at an SHN Dedicated Facility (SDF), the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. 
 
-Travellers serving SHN at a place of residence may leave after they are informed that their end-of SHN COVID-19 test result is negative. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
+Travellers serving SHN at a place of residence may end their SHN arrangements upon receipt of a negative test result or when they complete the 10-day SHN period, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
 
 Travellers who test positive for COVID-19 will and must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
