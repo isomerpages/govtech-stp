@@ -169,7 +169,7 @@ To qualify for the VTL quarantine-free travel health protocols, travellers must 
 
 &#9744;  <i><b>E) [Short-term visitors only] COVID-19 Insurance </b></i>
 
-All short-term visitors travelling to Singapore under VTL, must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.
+All short-term visitors travelling to Singapore under VTL, must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment#insurance" target="_blank">here</a>.
 
 <div id="1F"></div>
 
