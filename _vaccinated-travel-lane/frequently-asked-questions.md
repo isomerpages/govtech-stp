@@ -917,7 +917,7 @@ At this point in time, travellers will only be able to transfer through Singapor
 
 After taking the COVID-19 PCR test, travellers are to immediately take private transportation, taxi, or private hire car (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps) from the airport to their declared place of accommodation.
 
-Travellers entering Singapore on an approved VTP may be picked up from the airport by their company / family member / friend in a private vehicle. There should not be more than one person picking the traveller up from the airport.
+Travellers entering Singapore on an approved VTP (Air) may be picked up from the airport by their company / family member / friend in a private vehicle. There should not be more than one person picking the traveller up from the airport.
 
 Travellers must be transported directly to their declared place of accommodation to await their COVID-19 PCR test results. All persons in the private vehicle must wear face masks throughout the journey. The following precautionary measures are also strongly encouraged:
 - The traveller should sit alone in the back seat and the front passenger seat should be left unoccupied.
@@ -927,7 +927,7 @@ Travellers must be transported directly to their declared place of accommodation
 
 #### 2. What happens if travellers refuse to undergo the on-arrival COVID-19 PCR test?
 
-Among other measures which may be taken, if travellers refuse to undergo the on-arrival COVID-19 PCR test, they may have their VTP cancelled and be refused entry into Singapore. In such an event, travellers may also be liable for all costs incurred for their repatriation, including custody and maintenance pending repatriation.
+Among other measures which may be taken, if travellers refuse to undergo the on-arrival COVID-19 PCR test, they may have their VTP (Air) cancelled and be refused entry into Singapore. In such an event, travellers may also be liable for all costs incurred for their repatriation, including custody and maintenance pending repatriation.
 
 #### 3. What should travellers do if they test positive for COVID-19?
 
@@ -950,9 +950,9 @@ Please also note that if a traveller’s test result is confirmed to be positive
 
 <div id="visa"></div>
 
-#### 1. Do visitors with a valid VTP need to apply separately for a visa to enter Singapore?
+#### 1. Do visitors with a valid VTP (Air) need to apply separately for a visa to enter Singapore?
 
-Visitors, who require a visa to enter Singapore, must separately obtain a visa. They are advised to do so after receiving their VTP approval and before departing for Singapore.
+Visitors, who require a visa to enter Singapore, must separately obtain a visa. They are advised to do so after receiving their VTP (Air) approval and before departing for Singapore.
 
 If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to apply for a visa.
 
@@ -962,7 +962,7 @@ Visitors may refer to ICA’s website <a href="https://www.ica.gov.sg/enter-depa
 
 Visitors who are granted entry into Singapore will be issued with a visit pass by the Singapore Immigration &amp; Checkpoints Authority (ICA) at the immigration checkpoints. The duration of stay in Singapore will be generally aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
 
-Please note that the VTP is <u><b>not</b></u> an immigration visit pass. It only allows visitors to travel to and seek entry into Singapore within a specified period.
+Please note that the VTP (Air) is <u><b>not</b></u> an immigration visit pass. It only allows visitors to travel to and seek entry into Singapore within a specified period.
 
 #### 3. Are visitors able to extend their duration of stay in Singapore?
 
