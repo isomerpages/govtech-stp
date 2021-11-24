@@ -152,7 +152,7 @@ For more information, please click <a href="https://www.moh.gov.sg/covid-19/vacc
 
 #### 1. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL (Land)?
 
-Persons who are above the age of 12 in the calendar year and medically unfit are not allowed to travel under the VTL (Land).
+Persons who are above the age of 12 in the calendar year and medically unfit to be vaccinated are not allowed to travel under the VTL (Land).
 
 #### 2. What information needs to be reflected on the vaccination certificate?
 
