@@ -76,7 +76,7 @@ Visitors who require a longer period of stay beyond the Visit Pass granted on en
 
 #### 10. Is travel insurance covering COVID-19 mandatory for travellers entering Singapore under the Singapore Citizen/Permanent Resident Familial Ties Lane? 
 
-Travel insurance covering COVID-19 is not mandatory for travellers entering Singapore under the Singapore Citizen/Permanent Resident Familial Ties Lane. For more details, please click [here](https://safetravel.ica.gov.sg/health/travelinsurance).
+Travel insurance covering COVID-19 is not mandatory for travellers entering Singapore under the Singapore Citizen/Permanent Resident Familial Ties Lane. For more details, please click [here](https://safetravel.ica.gov.sg/health/insurance-and-treatment#insurance).
 
 
 #### 11. I have received a COVID-19 vaccination. Will I still be subjected to prevailing border measures and stay-home-notice requirement? 
