@@ -25,7 +25,7 @@ description: ""
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Frequently asked questions regarding vaccination proof can be found <a href="/vtl-land/faq#requirements" target="_blank">here</a>.</p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>B) Secure Tickets for a Designated VTL (Land) Bus Service </b></i></u></p>
-<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated VTL (Land) bus service offered by the operators below. Tickets for designated VTL (Land) bus services must be purchased at least 2 days before arrival.
+<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated VTL (Land) bus service offered by the operators below. Tickets for designated VTL (Land) bus services must be purchased at least 3 days before arrival.
 <ol style="list-style-type:lower-roman">
 			<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, any other VTL country as recognised by the Government of Singapore, and/or Singapore in the last 14 consecutive days before departing for Singapore; and </li>
 			<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
@@ -38,7 +38,7 @@ description: ""
 </p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">*The list of bus operators and websites will be regularly updated. Click here for the VTL (Land) bus service schedule.</p>
 
-<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>C) [Holders of a Singapore Long-Term Pass only] Apply for Vaccinated Travel Pass (VTP) </b></i></u></p>
+<p id="stage1c" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>C) [Holders of a Singapore Long-Term Pass only] Apply for Vaccinated Travel Pass (VTP) </b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Applications must be made minimally 3 calendar days before the intended date of entry, together with the QR code of the traveller’s vaccination certificate (if available). Successful applicants will receive their approved VTP via email. Unvaccinated children aged 12 and below in this calendar year may enter Singapore via VTL (Land) without a VTP. However, they must comply with all other <a href="/vtl-land/conditions" target="_blank">VTL (Land) conditions</a>, including being accompanied by a fully vaccinated VTL (Land) traveller.</p>
 
@@ -53,7 +53,7 @@ description: ""
 
 <p id="pdt" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>D) Pre-Departure COVID-19 Test	</b></i></u></p>
 
-<p style="font-size:18px; margin-top:30px; margin-bottom:20px; line-height:1.5;">Travellers aged two and below in this calendar year is exempted from this requirement. All other travellers must take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) for entry into Singapore <b>within 2 days before departure for Singapore</b> (illustration below).</p>
+<p style="font-size:18px; margin-top:30px; margin-bottom:20px; line-height:1.5;">Travellers aged two and below in this calendar year are exempted from this requirement. All other travellers must take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) for entry into Singapore <b>within 2 days before departure for Singapore</b> (illustration below).</p>
 
 <div style="padding-left: 5px; padding-bottom: 15px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5">Illustration:</p>
@@ -128,9 +128,9 @@ description: ""
 				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Ticket for designated VTL (Land) bus services;</li>
 	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Passport;</li>
 	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Singapore NRIC or Re-Entry Permit (only applicable for Singapore Permanent Residents);</li>
-	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Physical or electronic copy of the VTP for the specified period of entry (per Stage 1B, not applicable for Singapore Citizens and Singapore Permanent Residents);</li>
+	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Physical or electronic copy of the VTP for the specified period of entry (per <a href="#stage1c">Stage 1C</a>, not applicable for Singapore Citizens and Singapore Permanent Residents);</li>
 	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per <a href="#stage1a">Stage 1A</a>); and</li>
-	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#stage1e">stage 1E</a>).</li>
+	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#pdt">stage 1D</a>).</li>
 </ol>
 
 <div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 3: Arrival in Singapore</b></div>
