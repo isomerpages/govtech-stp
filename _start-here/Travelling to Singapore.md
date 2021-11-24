@@ -40,7 +40,7 @@ No information will be stored by this tool. If the tool below does not work in y
 
 Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore from any overseas country without an entry approval. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore. Details related to the entry requirements and Category of travel health measures is available in the <a href="/sc-pr/overview" target="_blank">"Returning SC/PR Lane Overview"</a>.
 
-Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane</a>.
+Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane (Air) to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane (Air)</a>.
 
 <ol style="list-style-type:disc;">
 	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
@@ -53,6 +53,8 @@ Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 ye
 <i style="font-size:14px; line-height:1.5;"><sup>4</sup>Including the Canary Islands</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
+
+Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore via the Causeway and Second Link from Malaysia may also return via the Vaccinated Travel Lane (Land) to enjoy quarantine-free measures on arrival. <a href="/vtl-land/overview" target="_blank">Click here for more information on the Vaccinated Travel Lane (Land)</a>.
 
 ---
 
@@ -75,8 +77,8 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 	</thead>
 	<tbody>
 		<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a></td>
-		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air) <br/><br/> For Arrivals by flight only</a></td>
+		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> including any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 17px; list-style-type: disc;">
 	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 	<li style="line-height:1.5; margin-top:10px;">Finland, Indonesia, India, Malaysia and Sweden (for entry into Singapore from 29 Nov 2021)</li>
@@ -90,6 +92,17 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 <i style="font-size:14px; line-height:1.5;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
 				</td>
 	</tr>
+		<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Land) <br/><br/> For Arrivals by Land only</a></td>
+		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> including any accompanying unvaccinated children below 12 years old, meeting the following conditions:
+			   <ul style="font-size: 17px; list-style-type: disc;">
+	<li style="line-height:1.5;">Entering Singapore via the Causeway and Second Link from Malaysia; and</li>
+	<li style="line-height:1.5; margin-top:10px;">Is a resident of Singapore, this includes a Singapore Citizen, Singapore Permanent Resident, and holder of a valid Long-Term Pass issued by Singapore, e.g. Work Pass, S Pass, Student's Pass etc.</li>
+				 </ul>
+			   <p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;">N<i>Note: All In-Principal Approval (IPA) holders (e.g. newly-approved pass holders entering Singapore for the first time) should apply for entry via the available lanes found in this list.</i></p>
+				</td>
+	</tr>
+		
 	<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/overview">Familial Ties Lane</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
@@ -156,7 +169,7 @@ Travellers who need to only make a short-term visits to Singapore may use the la
 	</thead>
 	<tbody>
 		<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> <br/><br/> <b>For arrivals by flight only. Arrivals by Land are currently not allowed.</b></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 17px; list-style-type: disc;">
 	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
