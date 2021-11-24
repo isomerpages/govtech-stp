@@ -75,7 +75,7 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 	</thead>
 	<tbody>
 		<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air) <br/><br/> For Arrivals by flight only</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> <br/><br/> <i>For Arrivals by flight only</i></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> including any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 17px; list-style-type: disc;">
 	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
@@ -91,7 +91,7 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 				</td>
 	</tr>
 		<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Land) <br/><br/> For Arrivals by Land only</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Land)</a> <br/><br/> <i>For Arrivals by Land only</i></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> including any accompanying unvaccinated children below 12 years old, meeting the following conditions:
 			   <ul style="font-size: 17px; list-style-type: disc;">
 	<li style="line-height:1.5;">Entering Singapore via the Causeway and Second Link from Malaysia; and</li>
