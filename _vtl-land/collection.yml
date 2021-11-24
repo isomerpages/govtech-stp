@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Vaccinated Travel Lane (Land) Overview.md
-      - Vaccinated Travel Lane (Land) Inbound Checklist .md
+      - VTL (Land) Checklist for Travel to Singapore.md
       - Vaccinated Travel Lane (Land) For Outbound travel.md
       - Conditions.md
       - Frequently Asked Questions.md
