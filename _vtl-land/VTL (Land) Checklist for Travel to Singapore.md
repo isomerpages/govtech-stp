@@ -110,7 +110,7 @@ description: ""
 					</ol>
 					</li>
 				</ol>
-			<li style="font-size:16px; margin-top:10px; line-height:1.5;">Sponsor's Identity Card</p>
+			<li style="font-size:16px; margin-top:10px; line-height:1.5;">Sponsor's Identity Card</li>
 				</td>
 </tr>
 	</tbody>
