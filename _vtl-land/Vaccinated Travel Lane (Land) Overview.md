@@ -13,7 +13,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">On this page, you will find the following details on VTL (Land):</p>
 <ol style="font-size:18px;">
 	<li style="font-size:18px; line-height:1.4;"><a href="#Eligibility">Eligibility</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a href="#Application">Application for vaccinated travel pass (land)</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="#Application">Application for Vaccinated Travel Pass (Land)</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="#FAQ">Traveller Resources & Frequently Asked Questions</a></li>
 </ol>
 
