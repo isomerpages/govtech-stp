@@ -156,7 +156,7 @@ As part of Singapore’s Vaccination-differentiated Safe Management Measures (VD
 
 To be eligible for VDS, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, if you are unable to upload your vaccination certificate successfully during SG Arrival Card submission. Your status will be updated on your TraceTogether app.
 
-Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="/health/vtsg" target="_blank">here</a> for more FAQs on inland public health measures.
+Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for more FAQs on inland public health measures.
 
 #### 8. I was diagnosed with COVID-19 and have since recovered. I have been administered only one vaccine dose of a typically two-dose regimen. Am I eligible to travel under the VTL?
 
