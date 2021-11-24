@@ -186,7 +186,7 @@ To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, trav
 
 &#9744;  <i><b>E) [Short-term visitors only] COVID-19 Insurance </b></i>
 
-All short-term visitors travelling to Singapore under VTL, must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment#insurance" target="_blank">here</a>.
+All short-term visitors travelling to Singapore under VTL (Air), must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment#insurance" target="_blank">here</a>.
 
 <div id="1F"></div>
 
@@ -236,7 +236,7 @@ All travellers, except those aged two and below in this calendar year (i.e. a ch
 
 &#9744;  <i><b>J) [Short term visitors only] Contact Tracing App/Token</b></i>
 
-All short-term VTL travellers **must** download the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phone and register their profile for contact tracing. Only children aged 6 and below in this calendar year are exempted from this requirement (e.g. a child who turns 6 this calendar year will be exempted).
+All short-term VTL (Air) travellers **must** download the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phone and register their profile for contact tracing. Only children aged 6 and below in this calendar year are exempted from this requirement (e.g. a child who turns 6 this calendar year will be exempted).
 
 Travellers aged 7 to 12 in this calendar year [i.e. those born from 2009 to 2014 (inclusive)] and those who are unable to use a mobile device due to a certified disability or special need, are eligible to be issued physical TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport upon arrival in Singapore.
 
@@ -249,7 +249,7 @@ Travellers aged 7 to 12 in this calendar year [i.e. those born from 2009 to 2014
 When checking in at the departure airport, travellers must present to the airline staff:
 
 <ol style="padding-left:20px; margin-top:10px; margin-bottom:0px;list-style-type:lower-roman; ">
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Physical or electronic copy of the Vaccinated Travel Pass (VTP) for the specified period of entry;</li>
+		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Physical or electronic copy of the Vaccinated Travel Pass (Air) [VTP (Air)] for the specified period of entry;</li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Valid pre-departure COVID-19 PCR test or Antigen Rapid Test (ART) for entry into Singapore showing a negative test result; </li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Valid visa (for visa-required visitors);</li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Acceptable proof of vaccination (same proof as at <a href="#proof">Stage 1A</a>).</li>
@@ -296,7 +296,7 @@ Travellers who test positive for COVID-19 are required to receive <a href="/heal
 
 &#9744;  <i><b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></i>
 
-As part of Singapore’s Vaccination-differentiated Safe Management Measures (VDS), you must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). Travellers must also comply with all other <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.
+As part of Singapore’s Vaccination-differentiated Safe Management Measures (VDS), you must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). Travellers must also comply with all other <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL (Air) travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.
 
 If you are a Singapore Citizen or Permanent Resident with an overseas-issued vaccination certificate, to be eligible for VDS, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, if you are unable to upload your vaccination certificate successfully during SG Arrival Card submission. Your status will be updated on your TraceTogether app.
 
