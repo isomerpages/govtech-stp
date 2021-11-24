@@ -3,7 +3,7 @@ title: Notice
 permalink: /message
 description: ""
 ---
-#### You have reached this holding page as there is a high number of users currently using the SafeTravel application portal.
+#### You have reached this holding page as there is a large number of users currently making applications on the SafeTravel portal.
 
 If you are applying for a Vaccinated Travel Pass (Land) [VTP(Land)], please note the following: 
 * <b>Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first.</b> VTPs will be issued immediately if your application and vaccination certificates are complete.
