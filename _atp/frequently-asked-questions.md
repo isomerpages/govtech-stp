@@ -153,7 +153,7 @@ Visitors must purchase travel insurance for the entire duration of their stay in
 
 #### 3. How can visitors purchase the required insurance coverage?
 
-Visitors must purchase COVID-19 travel insurance prior to their travel to Singapore. The SafeTravel website provides a [list of the Singapore-based insurers’ products](/health/travelinsurance). Visitors can visit the respective insurers’ websites to purchase the inbound insurance plan. They may reach out to the insurers for more information.
+Visitors must purchase COVID-19 travel insurance prior to their travel to Singapore. The SafeTravel website provides a [list of the Singapore-based insurers’ products](/health/insurance-and-treatment#insurance). Visitors can visit the respective insurers’ websites to purchase the inbound insurance plan. They may reach out to the insurers for more information.
 
 #### 4. Do visitors need to show proof of travel insurance purchase when they apply for the ATP?
 
