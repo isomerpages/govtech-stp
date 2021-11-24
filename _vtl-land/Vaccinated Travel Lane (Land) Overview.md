@@ -273,7 +273,7 @@ input:checked + label + .content {
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#Application" target="_blank">VTP Application Technical Difficulties</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/health/vtsg" target="_blank">Definition of Fully Vaccinated</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#travel-history" target="_blank">Travel History</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a href="" target="_blank">Pre-Departure Test</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="" target="/vtl-land/travel-checklist#pdt">Pre-departure test for travel to Singapore</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#DesignatedBus" target="_blank">Bus Services</a></li>
 </ol>
 
