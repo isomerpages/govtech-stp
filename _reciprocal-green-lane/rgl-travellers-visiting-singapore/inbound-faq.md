@@ -162,7 +162,7 @@ In general, travellers should, upon arrival, identify themselves as travellers o
 
 #### 16. What happens if I test positive for COVID-19 in Singapore? Do I have to pay for my COVID-19 medical bills?
 
-Travellers who test positive for COVID-19 will be given medical attention/treatment immediately. The cost of the relevant medical treatments will be borne in full by the travellers. As such travellers are required be insured for any COVID-19 related medical treatment before travelling to Singapore. Click [here](/health/travelinsurance) for more information on this requirement.
+Travellers who test positive for COVID-19 will be given medical attention/treatment immediately. The cost of the relevant medical treatments will be borne in full by the travellers. As such travellers are required be insured for any COVID-19 related medical treatment before travelling to Singapore. Click [here](/health/insurance-and-treatment) for more information on this requirement.
 
 Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.
 
