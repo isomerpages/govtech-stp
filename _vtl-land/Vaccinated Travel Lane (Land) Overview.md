@@ -8,7 +8,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;"><b><span style="color:red;">NOTE:</span> Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the <a href="/vtl/requirements-and-process" target="_blank">“Vaccinated Travel Lane (Air)”</a> page instead for more details.</b></p>
 	</div>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] facilitates quarantine-free travel for fully vaccinated travellers commuting between Singapore and Malaysia, via the Causeway only.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] facilitates quarantine-free travel for fully vaccinated travellers commuting between Singapore and Malaysia, via the Causeway only from 29 Nov 2021.</p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">On this page, you will find the following details on VTL (Land):</p>
 <ol style="font-size:18px;">
@@ -266,7 +266,7 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px; ">Long-Term Pass Holders should <b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (LAND) (VTP LAND)</b>.</p>
 	<p style="line-height:1.4; margin-top:20px; font-size:18px; ">Please note the following before applying:
 		<ol style="margin-top:0px; list-style-type:disc;">
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> <b>Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> <b>Applications open on 25 Nov 2021, 8am. Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTP applications will initially open for travellers entering from <b><u>29 Nov to 5 Dec</u></b>, and VTPs are <b>valid for up to 14 calendar days</b> from the traveller’s chosen date of entry. Travellers not travelling during this date range can apply for a VTP later.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Accompanying children aged 12 and below and are unvaccinated do <b><u>not</u></b> need to apply. </li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Travellers must comply with the <a href="/vtl-land/conditions" target="_blank">VTL (Land) conditions</a>, details can be found this <a href="/vtl-land/travel-checklist" target="_blank">travel checklist</a>. Failing which, they may be denied entry to Singapore.</li>
@@ -291,7 +291,7 @@ input:checked + label + .content {
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#travel-history" target="_blank">Travel History</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="" target="/vtl-land/travel-checklist#pdt" target="_blank">Pre-departure test for travel to Singapore</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#DesignatedBus" target="_blank">Bus Services</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a href="/images/VTL-Land-4.jpg" target="_blank">Useful weblinks</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/files/VTL-Land-4.pdf" target="_blank">Useful weblinks</a></li>
 </ol>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">Have a question that is not addressed by any of the available resources found in this webpage? <a href="https://go.gov.sg/sto-enquiry" target="_blank">Contact us here</a>.</p>
