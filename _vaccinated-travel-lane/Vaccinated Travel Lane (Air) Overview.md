@@ -175,7 +175,7 @@ input:checked + label + .content {
 <body>
 
 <input id="title1" type="checkbox">
-<label for="title1">Criteria 1: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
+<label for="title1">Criterion 1: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
 
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.3; font-size:18px;">Travellers must be fully vaccinated with WHO EUL vaccines (<a target="_blank" href="/health/vtsg">click here for definition</a> of fully vaccinated) at least two weeks before arrival in Singapore. </p>
@@ -183,7 +183,7 @@ input:checked + label + .content {
 </div>
 
 <input id="title2" type="checkbox">
-<label for="title2">Criteria 2: Hold an Accepted Proof of Vaccination</label>
+<label for="title2">Criterion 2: Hold an Accepted Proof of Vaccination</label>
 
 <div style="background-color:#edf4fa;" class="content" id="criteria">
 <p style="line-height:1.3; font-size:18px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality. More details can be found in our <a target="_blank" href="/vtl/faq#QRcode">FAQs</a>.</p>
@@ -206,13 +206,13 @@ input:checked + label + .content {
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a target="_blank" href="https://www.gov.uk/guidance/nhs-covid-pass">National Health Service (“NHS”) COVID Pass</a> of vaccination; or</li>
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Northern Ireland COVID certificate issued by <a target="_blank" href="http://online.hscni.net/">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a target="_blank" href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents">COVIDCert Northern Ireland (“NI”) app</a>)</li>
 			<p style="margin-top:10px; font-size:18px; line-height:1.3;">One QR code per dose; or</p>
-			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><b>[For children aged 13 to 15]</b> Digital vaccination record retrieved from the public health database of the state or the local health authority.</li>
+			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><b>[For children aged 13 to 15]</b> Digital vaccination record retrieved from the public health database of the local health authority.</li>
 			</ol>
 		</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United States of America (any of the following):</b> 
 			<ol style="list-style-type:lower-alpha;">
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a target="_blank" href="https://smarthealth.cards/faq.html">SMART Health Cards (SHC)</a> issued by CommonTrust Network issuers (listed <a target="_blank" href="https://www.commontrustnetwork.org/verifier-list">here</a> and <a target="_blank" href="https://www.commonhealth.org/smart-health-cards">here</a>) or <a target="_blank" href="https://vci.org/issuers">Vaccination Credential Initiative issuers</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><a target="_blank" href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html">Digital vaccination record retrieved from the public health database of the local health authority</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><a target="_blank" href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html">Digital vaccination record retrieved from the public health database of the state or the local health authority</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to the passenger’s vaccination status. The attestation letter should contain:
 			<ol style="list-style-type:lower-roman;">
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">the passenger’s name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the passenger’s passport used for entry into Singapore; </li>
@@ -227,7 +227,7 @@ input:checked + label + .content {
 </div>
 
 <input id="title3" type="checkbox">
-<label for="title3">Criteria 3: Fulfil Travel/Transit History &amp; Designated VTL (Air) Flight Requirements</label>
+<label for="title3">Criterion 3: Fulfil Travel/Transit History &amp; Designated VTL (Air) Flight Requirements</label>
 
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;">Travellers must:</p>
@@ -239,14 +239,14 @@ input:checked + label + .content {
 </div>
 
 <input id="title4" type="checkbox">
-<label for="title4">Criteria 4 [Foreign short- term visitors only]: COVID-19 Travel Insurance</label>
+<label for="title4">Criterion 4 [Foreign short- term visitors only]: COVID-19 Travel Insurance</label>
 
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.3; font-size:18px;">All short-term visitors travelling to Singapore under VTL (Air), must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a target="_blank" href="/health/insurance-and-treatment#insurance">here</a>.</p>
 </div>
 
 <input id="title5" type="checkbox">
-<label for="title5">Criteria 5 [Foreign short-term visitors only]: Travel Visa for Visa-required Travel Document Holders</label>
+<label for="title5">Criterion 5 [Foreign short-term visitors only]: Travel Visa for Visa-required Travel Document Holders</label>
 
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.3; font-size:18px;">Foreign short term visitors holding travel documents that require a visa to enter Singapore, must apply for a visa. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a target="_blank" href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for more details.</p>
