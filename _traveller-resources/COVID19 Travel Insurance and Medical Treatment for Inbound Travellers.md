@@ -54,7 +54,7 @@ The mandatory travel insurance <u>does not</u> apply to Singapore Citizens/Perma
 
 #### Insurance for Long-Term Pass Holders
 
-Employers must buy COVID-19 medical insurance for all Work Permit, Training Work Permit and S Pass holders entering Singapore, <b><u>before your workers arrive in Singapore</u></b>.
+Employers must buy COVID-19 medical insurance for all (both new and existing) Work Permit, Training Work Permit and S Pass holders, <b>before they enter Singapore</b>.
 
 The insurance must meet these requirements:
 <ul>
