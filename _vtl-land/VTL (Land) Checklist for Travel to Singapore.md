@@ -51,7 +51,7 @@ description: ""
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:20px; line-height:1.5;">Applicants who encounter errors when uploading their vaccination certificate QR code to the VTP application portal (per Stage 1A), should <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office</a> for help and provide the vaccination certificate.</p>
 
-<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>D) Pre-Departure COVID-19 Test	</b></i></u></p>
+<p id="pdt" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>D) Pre-Departure COVID-19 Test	</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:20px; line-height:1.5;">Travellers aged two and below in this calendar year is exempted from this requirement. All other travellers must take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) for entry into Singapore <b>within 2 days before departure for Singapore</b> (illustration below).</p>
 
