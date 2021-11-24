@@ -3,21 +3,26 @@ title: Vaccinated Travel Lane (Land) For Outbound travel
 permalink: /vtl-land/outbound-travel
 description: ""
 ---
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">Travellers intending to leave Singapore for Malaysia via VTL (Land), should check with the relevant Malaysian authorities on the requirements to enter Malaysia. Care and caution are also strongly advised for travellers with accompanying children. For all departure-related advisories, please visit the "Departing from Singapore" page. Travellers from Singapore who have successfully left for Malaysia via VTL (Land) should note that fresh entry applications must be submitted to return to Singapore. Visit the “Travelling to Singapore” page for the available entry options. </p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">Travellers will find the following VTL (Land) departure information on this page but are advised to check with the relevant authorities of Malaysia for the latest travel-related requirements.</p>
+
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">This page contains the following brief summary information for using the VTL (Land) to travel to Malaysia:</p>
 <ol style="font-size:18px; padding-left:20px;">
-	<li style="font-size:18px; line-height:1.4;">Eligibility Requirements</li>
-		<li style="font-size:18px; line-height:1.4;">Infographic: Process of VTL (Land) Departure for Malaysia</li>
+	<li style="font-size:18px; line-height:1.4;"><a href="#process">Process of VTL (Land) Departure to Malaysia</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="#returning">Returning to Singapore</a></li>
 	</ol>
+
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">If you are intending to travel to Singapore using VTL (Land), read <a href="/vtl-land/overview" target="_blank">this page</a> instead.</a>
 	
 	
-<div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">1.	Eligibility Requirements</b></div>
+<div id="process" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Process of VTL (Land) Departure to Malaysia</b></div>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">Malaysia Citizens, Malaysian Permanent Residents and holders of Malaysia issued Long-term pass holders will be eligible for travel via VTL. In addition to completing the full regimen of a COVID-19 vaccine recognised by the Malaysia Ministry of Health, travellers must also commute to Malaysia via a designated VTL (Land) bus service.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">Travelers must check with the <a href="http://www.myvtl.gov.my/" target="_blank">relevant authorities of Malaysia</a> for the latest detailed requirements for entering Malaysia using VTL (Land). Please read the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page as well for the latest travel advisories including how to obtain pre-departure tests in Singapore and digital test and vaccination certificates for overseas use.</p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">Children who are 12 and below in this calendar year can travel to Malaysia via VTL (Land) travel, if they are travelling with a VTL (Land) approved adult.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">An infographic provided by the Immigration Authority of Malaysia on using the VTL (Land) to travel to Malaysia can be found below for reference.</p>
 
-<div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">2.	Process of VTL (Land) Departure for Malaysia</b></div>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">INFOGRAPHICS HERE</p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">Applications must be submitted to the XXX.<br/><br/>[Infographics]</p>
+<div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Returning to Singapore</b></div>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">Travellers from Singapore who have left for Malaysia via VTL (Land) may also return via VTL (Land) or VTL (Air) arrangements if they wish to enjoy quarantine-free travel. Travellers will need to fulfil all relevant inbound VTL criteria depending on whether they are arriving by land or air.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">Travellers can also check the Travelling to Singapore page if they want to use other non-VTL SafeTravel Lanes to return to Singapore, but prevailing measures such as Stay Home Notice may apply.</p>
