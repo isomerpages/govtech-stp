@@ -34,7 +34,7 @@ permalink: /vtl/faq
 </ol>
 </li>
 </ol>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (VTP)</a></li> 
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (Air) [VTP (Air)]</a></li> 
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/departing/overview">Departing from Singapore</a>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-latin;">
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mfa.gov.sg/where-are-you-travelling-to">Travel Requirements for Destination Countries/Regions</a></li>
@@ -45,7 +45,7 @@ permalink: /vtl/faq
 
 <div id="VTLReq"></div>
 
-### Vaccinated Travel Lane (VTL) Requirements
+### Vaccinated Travel Lane (Air) [VTL (Air)] Requirements
 ### (a) Vaccination Requirement
 ### (i) Eligibility and Proof of Vaccination
 
@@ -53,13 +53,13 @@ permalink: /vtl/faq
 
 <div id="fullyvaccinated"></div>
 
-#### 1. Are unvaccinated children allowed to travel under the VTL?
+#### 1. Are unvaccinated children allowed to travel under the VTL (Air)?
 
-Unvaccinated children aged 12 and below in the calendar year may enter Singapore on the VTL (e.g. a child turning 12 in the current calendar year is allowed). They do not need to apply for a Vaccinated Travel Pass (VTP). However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller. 
+Unvaccinated children aged 12 and below in the calendar year may enter Singapore on the VTL (Air) (e.g. a child turning 12 in the current calendar year is allowed). They do not need to apply for a Vaccinated Travel Pass (Air) [VTP (Air)]. However, they must comply with all other VTL (Air) <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL (Air) traveller. 
 
-#### 2. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL?
+#### 2. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL (Air)?
 
-Persons who are medically unfit to be vaccinated are not allowed to travel under the VTL.
+Persons who are medically unfit to be vaccinated are not allowed to travel under the VTL (Air).
 
 Unvaccinated short-term visitors will not be allowed to travel to Singapore.
 
@@ -92,13 +92,13 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 		</tr>
 		<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></td>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">One of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>, which may include your overseas-issued vaccination certificate</td>
 		</tr>
 				<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A valid Vaccinated Travel Pass (VTP), which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>*.
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A valid Vaccinated Travel Pass (Air) [VTP (Air)], which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>*.
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;"> Please select ‘Yes’ when prompted if you have a 'Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal. Your vaccination status will be verified against MOH’s records.</p>
 
@@ -107,7 +107,7 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 		</tr>
 				<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></td>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">A valid Vaccinated Travel Pass (VTP), which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>*.</p>
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">On the VTP application portal, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’. Please proceed to upload your vaccination certificate QR code, which should be one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>^.</p>
 </td>
