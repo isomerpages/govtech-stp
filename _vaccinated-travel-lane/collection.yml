@@ -2,7 +2,7 @@ collections:
   vaccinated-travel-lane:
     output: true
     order:
-      - Vaccinated Travel Lane (VTL) Overview.md
+      - Vaccinated Travel Lane (Air) Overview.md
       - Vaccinated Travel Lane Inbound Checklist.md
       - conditions.md
       - frequently-asked-questions.md
