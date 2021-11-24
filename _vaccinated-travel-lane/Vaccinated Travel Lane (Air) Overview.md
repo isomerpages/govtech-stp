@@ -252,7 +252,7 @@ input:checked + label + .content {
 <p style="line-height:1.3; font-size:18px;">Foreign short term visitors holding travel documents that require a visa to enter Singapore, must apply for a visa. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a target="_blank" href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for more details.</p>
 </div>
 	</body>
-
+</html>
 
 <div id="Application"></div>
 
@@ -351,7 +351,7 @@ input:checked + label + .content {
 	</ol>
 	</div>
 	</body>
-
+</html>
 
 <div id="Documents"></div>
 
