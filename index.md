@@ -11,7 +11,7 @@ notification: <h6 style="text-align:left;">Beware of <a
   services offered by commercial entities who claim to provide assistance to
   travellers to fill up ICA's free <a
   href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card (SGAC)
-  e-Service</a> for a fee.                    </h6>
+  e-Service</a> for a fee.                     </h6>
 sections:
   - hero:
       title: <h3 style="font-size:25px; font-weight:bold; font-family:Arial;
