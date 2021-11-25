@@ -1240,22 +1240,22 @@ A VTP application may be unsuccessful for reasons such as:
  
 #### 10. How do I change the validity of my VTP (Air)?
 
-A VTP is valid for single entry into Singapore anytime from your intended date of entry and up to six calendar days after.
-If your travel plans change and you need to enter before or after the validity period, please submit a new VTP application. 
+A VTP (Air) is valid for single entry into Singapore anytime from your intended date of entry and up to six calendar days after.
+If your travel plans change and you need to enter before or after the validity period, please submit a new VTP (Air) application. 
 
 Should you require assistance to seek urgent entry into Singapore within the next 6 days, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555. Kindly note that all appeals are assessed on a case-by-case basis. 
 
-#### 11. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
+#### 11. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP (Air) application?
 
 If your particulars have changed, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> with your revised particulars.
 
-#### 12. How can I cancel my VTP as I no longer wish to travel to Singapore?
+#### 12. How can I cancel my VTP (Air) as I no longer wish to travel to Singapore?
 
-You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, it will automatically expire.
+You do not need to cancel your VTP (Air). If you do not utilise your VTP (Air) within the validity period, it will automatically expire.
 
-#### 13. Can travellers use the VTP to transit/transfer through Singapore?
+#### 13. Can travellers use the VTP (Air) to transit/transfer through Singapore?
 
-No, the VTP is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
+No, the VTP (Air) is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
 ---
 
