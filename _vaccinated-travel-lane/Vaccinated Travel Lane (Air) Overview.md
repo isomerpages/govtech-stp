@@ -246,7 +246,7 @@ input:checked + label + .content {
 		</li>
 <p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.35;">For entry into Singapore from 28 Nov 2021, 2359hrs:</p>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Finland, Sweden:</b> <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> of vaccination issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> International Travel Certificate in the <a target="_blank" href="https://divoc.egov.org.in/">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.</li>	
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> International Travel Certificate in the <a target="_blank" href="https://divoc.egov.org.in/">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.</li>	
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"></li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"></li>
 	</ol>
