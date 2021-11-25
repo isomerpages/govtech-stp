@@ -100,7 +100,6 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 			   <p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;">N<i>Note: All In-Principal Approval (IPA) holders (e.g. newly-approved pass holders entering Singapore for the first time) should apply for entry via the available lanes found in this list.</i></p>
 				</td>
 	</tr>
-		
 	<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/overview">Familial Ties Lane</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
