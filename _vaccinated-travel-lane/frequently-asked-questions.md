@@ -944,7 +944,7 @@ Short-term visitors who are VTP (Air) holders may only arrive in Singapore on de
 When checking in at the departure airport, travellers must present the following to the airline staff:
 <ul> 
 	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid VTP (Air) (electronic or physical copy) for the specified period of entry into Singapore;</li>
-<li><i>[not applicable for children aged 12 and below in the calendar year]</i> an accepted proof of vaccination, which can be in the form of:
+<li><i>[not applicable for children aged 12 and below in the calendar year]</i> an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>, which can be in the form of:
 <ul style="list-style-type:disc; margin-top:0px;">
 	<li>a proof of vaccination on an accepted mobile application, or</li>
 	<li>a vaccination certificate in English, stating the following:
