@@ -242,8 +242,7 @@ This travel checklist is for the following travellers who are eligible for the V
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>SC/PRs who are not vaccinated in Singapore</b>: You are strongly encouraged to submit your overseas vaccination certificate in your health declaration as part of the SG Arrival Card submission. </p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span>&nbsp; <b>SC/PRs who are vaccinated in Singapore:</b> You are not required to upload your vaccination certificates as your records are already captured in the Singapore Ministry of Health (MOH) database.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span>&nbsp; <b>Long-term pass holders and short-term visitors</b>: You do not need to upload your vaccination certificates they will be verified as part of the VTP application.</p>
-		</li>
-	</ol>
+
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><span style="color:red;">&#128681;</span>&nbsp; <b>Defer travel</b> if you:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Have <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
@@ -258,7 +257,7 @@ This travel checklist is for the following travellers who are eligible for the V
 	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(J) Registration and Pre-pay On-Arrival COVID-19 PCR Test</b>
 	<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:20px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Does not apply to children aged two and below in this calendar year (i.e. turns 2 in this calendar year).</b>.</p>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:20px;">Register and pre-pay for on-arrival COVID-19 PCR test <a href="">here</a>. The test costs <b>$125</b> including GST. </p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:20px;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay for on-arrival COVID-19 PCR test here</a>. The test costs <b>$125</b> including GST. </p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:10px;"><span style="color:red; font-size:20px;">&#9888;</span>&nbsp; <i>Travellers who did not do so will pay for their tests on the spot during arrival, and may experience delays in the administration of the tests and departure from the checkpoint.</i></p>
 	</p>
 	</div>
@@ -273,3 +272,19 @@ This travel checklist is for the following travellers who are eligible for the V
 </p>
   </p>
   </div>
+
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
+
+
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;">When checking in at the departure airport, travellers must present to the airline staff:</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">
+&#9744;&nbsp;<b>(A) Pre-boarding document checks</b>
+<ol style="list-style-type:lower-roman;">
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Physical or electronic copy of the Vaccinated Travel Pass (Air) [VTP (Air)] for the specified period of entry;</li>
+		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Valid pre-departure COVID-19 PCR test or Antigen Rapid Test (ART) for entry into Singapore showing a negative test result;</li>
+				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Valid visa (for visa-required visitors);</li>
+						<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Acceptable proof of vaccination (same proof as at Stage 1A).</li>
+	</ol>	
+	</p>
+	</div>
