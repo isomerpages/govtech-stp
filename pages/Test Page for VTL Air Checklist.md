@@ -7,6 +7,8 @@ published: false
 
 ### VTL (Air) Travel Checklist
 
+### VTL (Air) Travel Checklist
+
 
 <html>
 <head>
@@ -191,8 +193,9 @@ This travel checklist is for the following travellers who are eligible for the V
 	
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
-&#9744;&nbsp;<b>(F) [STVs only] Purchase COVID-19 Insurance</b>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.</p>
+&#9744;&nbsp;<b>(F) [STVs only: Joyce- Suggest to remove this as LTPHs also have to purchase insurance when entering Singapore.] Purchase COVID-19 Insurance</b>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[STVs]</b>&nbsp; Purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[LTPHs]</b>&nbsp; Please refer to (<i>insert link to LTPH insurance section</i>) for more information.</p>
 	</p>
 	</div>
 	
@@ -218,7 +221,7 @@ This travel checklist is for the following travellers who are eligible for the V
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(H) Pre-Departure COVID-19 Test (PDT)</b>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. turns 2 in this calendar year) do not require a PDT</b>.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:20px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. turns 2 in this calendar year) do not require a PDT</b>.</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Self-swabs are not allowed.</b>.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Take a pre-departure COVID-19 PCR test, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure, or a professionally-administered Antigen Rapid Test (ART) within 2 days* before departure for Singapore.</p>
 <p style="font-size:16px; margin-bottom:25px; line-height:1.5; margin-top:0px;"><i>*E.g. If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours.</i></p>
@@ -255,17 +258,20 @@ This travel checklist is for the following travellers who are eligible for the V
 	
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">
-&#9744;&nbsp;<b>(J) Pre-Departure COVID-19 Test (PDT)</b>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. turns 2 in this calendar year) do not require a PDT</b>.</p>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Self-swabs are not allowed.</b>.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Take a pre-departure COVID-19 PCR test, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure, or a professionally-administered Antigen Rapid Test (ART) within 2 days* before departure for Singapore.</p>
-<p style="font-size:16px; margin-bottom:25px; line-height:1.5; margin-top:0px;"><i>*E.g. If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours.</i></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Ensure that the test report:</p>
-	<ol style="list-style-type:lower-roman;">
-		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Is in English (or accompanied with an English translation);</li>
-		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
-				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Reflects the date and time the test was taken, the name of the testing institution, and a negative test result; and</li>
-						<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Is not handwritten.</li>
-	</ol>	
+&#9744;&nbsp;<b>(J) Registration and Pre-pay On-Arrival COVID-19 PCR Test</b>
+	<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:20px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Does not apply to children aged two and below in this calendar year (i.e. turns 2 in this calendar year).</b>.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:20px;">Register and pre-pay for on-arrival COVID-19 PCR test <a href="">here</a>. The test costs <b>$125</b> including GST. </p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:10px;"><span style="color:red; font-size:20px;">&#9888;</span>&nbsp; <i>Travellers who did not do so will pay for their tests on the spot during arrival, and may experience delays in the administration of the tests and departure from the checkpoint.</i></p>
 	</p>
 	</div>
+	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+  <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+		&#9744;&nbsp;<b>(K) [Short term visitors only] Contact Tracing App/Token</b>
+	<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:20px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged 6 and below in this calendar year are exempted from this requirement (e.g. a child who turns 6 this calendar year)</b>.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:20px;">All short-term VTL (Air) travellers <b>must</b> download the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phone and register their profile for contact tracing.</p>
+
+<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:20px;">Travellers aged 7 to 12 in this calendar year [i.e. those born from 2009 to 2014 (inclusive)] and those who are unable to use a mobile device due to a certified disability or special need, are eligible to be issued physical TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport upon arrival in Singapore.</p>
+</p>
+  </p>
+  </div>
