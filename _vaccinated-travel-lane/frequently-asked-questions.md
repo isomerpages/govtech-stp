@@ -149,11 +149,11 @@ The electronic or physical vaccination certificate(s) must be an accepted proof 
 
 #### 7. How may I benefit from Vaccination-Differentiated Safe Management Measures (VDS) (e.g. dine-in at F&B establishments, enter shopping malls, etc.)?
 
-As part of Singapore’s Vaccination-differentiated Safe Management Measures (VDS), you must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL (Air) travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.
+You must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). Some activities in Singapore may require you to show your proof of vaccination.
 
-To be eligible for VDS, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, if you are unable to upload your vaccination certificate successfully during SG Arrival Card submission. Your status will be updated on your TraceTogether app.
+To be eligible for VDS, please upload your vaccination certificate successfully during SG Arrival Card submission, or present your overseas vaccination certificates at the immigration counter for verification and processing. Your status will be updated on your TraceTogether app around 1 day after arrival in Singapore.
 
-Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for more FAQs on inland public health measures.
+Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for more FAQs on these measures.
 
 #### 8. I was diagnosed with COVID-19 and have since recovered. I have been administered only one vaccine dose of a typically two-dose regimen. Am I eligible to travel under the VTL (Air)?
 
