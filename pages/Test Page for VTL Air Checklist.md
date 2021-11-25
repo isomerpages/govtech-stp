@@ -276,13 +276,13 @@ This travel checklist is for the following travellers who are eligible for the V
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
 
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
+<div id="check" style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(A) Pre-boarding document checks</b>
 	<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top: 0px;">When checking in at the departure airport, travellers must present to the airline staff all the documents listed below, except the following groups of travellers.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;"><b>[SC/PRs]: </b> Present only (ii) and (iv) above.</p>
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;"><b>[LTPHs]: </b> Present only (i), (ii) and (iv) above.</p>
-<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be denied boarding if they do not provide all the documents required.</b></p>
+<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be denied boarding if they do not provide all the required documentations.</b></p>
 
 <ol style="list-style-type:lower-roman;">
 		<li style="line-height:1.3; margin-bottom:10px; font-size:18px;">Physical or electronic copy of the Vaccinated Travel Pass (Air) [VTP (Air)] for the specified period of entry;</li>
@@ -296,7 +296,12 @@ This travel checklist is for the following travellers who are eligible for the V
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-  <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
-
+	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">
+&#9744;&nbsp;<b>(A) Clear Arrival Immigration</b>
+  <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">Follow the instructions provided by the officers and signages on arrival.</p>
+ <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#check">Stage 2A</a>. </p>
+ <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;"><b>Short-term visitors must also present a physical or electronic copy of their travel insurance policy.</b></p>
+	<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA) if they do not provide all the required documentations.</b></p>
+ <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">Travellers may only procure goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall.</p>
   </p>
   </div>
