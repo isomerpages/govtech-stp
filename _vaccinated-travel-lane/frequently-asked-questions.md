@@ -1078,13 +1078,13 @@ This is to ensure that short-term visitors will be able to bear the full cost of
 
 Visitors must purchase travel insurance for the entire duration of their stay in Singapore, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. Should their COVID-19 treatment cost go beyond S$30,000, visitors will have to pay for the excess.
 
-#### 3. Do visitors need to show proof of travel insurance purchase when they apply for the VTP?
+#### 3. Do visitors need to show proof of travel insurance purchase when they apply for the VTP (Air)?
 
-Visitors will have to declare, at the point of VTP application, that they will purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
+Visitors will have to declare, at the point of VTP (Air) application, that they will purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
 
 #### 4. What penalties will be imposed on the visitor if he/she did not buy the insurance prior to entering Singapore?
 
-Purchase of travel insurance is a condition of the VTL. Non-compliance with any of the conditions of the VTL may result in refusal of entry into Singapore and/or cancellation of the VTP and/or Visit Pass. In such an event, the VTP holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
+Purchase of travel insurance is a condition of the VTL (Air). Non-compliance with any of the conditions of the VTL (Air) may result in refusal of entry into Singapore and/or cancellation of the VTP (Air) and/or Visit Pass. In such an event, the VTP (Air) holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
 ---
 
@@ -1193,52 +1193,52 @@ The S$50 deposit will be refunded if:
 <div id="application"></div>
 
  
-### Application for the Vaccinated Travel Pass (VTP)
+### Application for the Vaccinated Travel Pass (Air) [VTP (Air)]
 
-<p style="font-size:16px; color:red;line-height:1.5;"><i>Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are not required to apply for a VTP. However they must comply with all other VTL <a href="/vtl/conditions">conditions</a>.</i></p>
+<p style="font-size:16px; color:red;line-height:1.5;"><i>Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are not required to apply for a VTP (Air). However they must comply with all other VTL <a href="/vtl/conditions">conditions</a>.</i></p>
 
-#### 1. How long will it take for a VTP application to be processed?
+#### 1. How long will it take for a VTP (Air) application to be processed?
 
-All travellers who successfully submit their application will be issued with a VTP immediately.
+All travellers who successfully submit their application will be issued with a VTP (Air) immediately.
 
-#### 2. Is there a fee to apply for a VTP?
+#### 2. Is there a fee to apply for a VTP (Air)?
 
-No, there is no fee payable for the application of a VTP.  
+No, there is no fee payable for the application of a VTP (Air).  
 
-#### 3. Do travellers travelling with family members need to apply a VTP for every individual?
+#### 3. Do travellers travelling with family members need to apply a VTP (Air) for every individual?
 
-Yes, each traveller will require a VTP.
+Yes, each traveller will require a VTP (Air).
 
-#### 4. Is there a limit to the number of times travellers can apply for a VTP?
+#### 4. Is there a limit to the number of times travellers can apply for a VTP (Air)?
 
-There is no limit to the number of times travellers can apply for a VTP. Every entry into Singapore requires a new VTP application.
+There is no limit to the number of times travellers can apply for a VTP. Every entry into Singapore requires a new VTP (Air) application.
 
-#### 5. How long is the validity of a VTP?
+#### 5. How long is the validity of a VTP (Air)?
 
-A VTP is valid for single entry into Singapore anytime from the traveller’s intended date of entry and up to six calendar days after.
+A VTP (Air) is valid for single entry into Singapore anytime from the traveller’s intended date of entry and up to six calendar days after.
 
-For example, travellers who hold a valid VTP to enter Singapore on 8 September 2021, have up to 14 September 2021 to do so should they need to make changes to their flight departure date.
+For example, travellers who hold a valid VTP (Air) to enter Singapore on 8 September 2021, have up to 14 September 2021 to do so should they need to make changes to their flight departure date.
 
-#### 6. Once a VTP application is approved, can the relevant authorities change the VTL conditions or even cancel the VTP?
+#### 6. Once a VTP (Air) application is approved, can the relevant authorities change the VTL (Air) conditions or even cancel the VTP (Air)?
 
-Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may introduce new measures or requirements as and when necessary to safeguard public health. This may result in changes to the VTL conditions or cancellation of the VTP at short notice. Applicants will be notified of any such changes or cancellation of their VTP.
+Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may introduce new measures or requirements as and when necessary to safeguard public health. This may result in changes to the VTP (Air) conditions or cancellation of the VTP (Air) at short notice. Applicants will be notified of any such changes or cancellation of their VTP (Air).
 
-#### 7. Do Singapore Citizens and Permanent Residents need to apply for an VTP?
+#### 7. Do Singapore Citizens and Permanent Residents need to apply for an VTP (Air)?
 
 Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click <a href="/vtl/requirements-and-process">here</a> for more information on the requirements.
 
-#### 8. I have an In-Principle Approval (IPA) for a Long-Term Pass or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM). How should I apply for the VTP?
+#### 8. I have an In-Principle Approval (IPA) for a Long-Term Pass or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM). How should I apply for the VTP (Air)?
 
-IPA holders and MOM LTVP holders should apply for the VTP as short-term visitors. They will need to comply with all the [conditions](/vtl/conditions) of the VTP that apply to short-term visitors.
+IPA holders and MOM LTVP holders should apply for the VTP (Air) as short-term visitors. They will need to comply with all the [conditions](/vtl/conditions) of the VTP (Air) that apply to short-term visitors.
 
-#### 9. Why was I unsuccessful in applying for a VTP?
+#### 9. Why was I unsuccessful in applying for a VTP (Air)?
 
 A VTP application may be unsuccessful for reasons such as:
 - <a href="/vtl/faq#invalidcode" target="_blank">Invalid vaccination QR code</a>
 - Incomplete and/or incorrect information submitted
 - Passport validity is less than 6 months
  
-#### 10. How do I change the validity of my VTP?
+#### 10. How do I change the validity of my VTP (Air)?
 
 A VTP is valid for single entry into Singapore anytime from your intended date of entry and up to six calendar days after.
 If your travel plans change and you need to enter before or after the validity period, please submit a new VTP application. 
