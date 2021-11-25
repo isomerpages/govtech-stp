@@ -3,6 +3,11 @@ title: Periodic Commuting Arrangement Checklist
 permalink: /pca/requirements-and-process
 description: ""
 ---
+
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red;">NOTE:</span> </b><b><span style="color:black;">If you hold a valid entry approval letter under the Periodic Commuting Arrangement but wish to apply to enter under the Vaccinated Travel Lane (VTL), please write in via the <a href="http://go.gov.sg/sto-enquiry" target="_blank">SafeTravel Enquiry Form</a> for assistance. All short-term visitors and long-term pass holders are required to have a Vaccinated Travel Pass and fulfil VTL conditions in order to qualify for quarantine-free travel under the VTL. Click for more information on the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a>.</span></b></p>
+	</div>
+
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The Periodic Commuting Arrangement (PCA) supports the periodic movement of workers between Singapore and Malaysia. In summary, travellers using the PCA to enter Singapore must:
  <ol style="list-style-type:lower-roman; padding-left:25px;">
 	 <li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">	Travel via the land checkpoints from Malaysia to Singapore</li>
