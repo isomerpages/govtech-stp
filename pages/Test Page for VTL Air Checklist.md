@@ -7,8 +7,6 @@ published: false
 
 ### VTL (Air) Travel Checklist
 
-### VTL (Air) Travel Checklist
-
 
 <html>
 <head>
