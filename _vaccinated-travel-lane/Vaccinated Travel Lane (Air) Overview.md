@@ -258,6 +258,20 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Arab Emirates:</b> Proof of vaccination (e.g. COVID-19 Vaccination Card) on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a></li>
 	</ol>
+<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 13 Dec 2021, 2359hrs:</b></p>
+	<ol style="margin-top:0px; list-style-type: disc;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Thailand:</b> International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</li>
+	</ol>
+	<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 15 Dec 2021, 2359hrs:</b></p>
+	<ol style="margin-top:0px; list-style-type: disc;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Bahrain:</b> COVID-19 Vaccination Certificate issued by the Ministry of Health, Kingdom of Bahrain</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Cambodia:</b> COVID-19 Vaccination Card issued by the Ministry of Health / Ministry of Defence in Cambodia</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Egypt:</b> COVID-19 Vaccine Certificate issued by the Ministry of Health & Population, Arab Republic of Egypt</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Fiji:</b> COVID-19 Vaccination Certificate issued by Republic of Fiji</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Maldives:</b> COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Sri Lanka: Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>All other European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>), including Israel and Turkey:</b> <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> of vaccination</li>
+	</ol>
 </div>
 
 <input id="title3" type="checkbox">
