@@ -71,7 +71,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	</tr>
 	</tbody>
 	</table>
-	<p style="margin-top:20px;"></p>
+<p style="margin-top:20px;"></p>
 <table>
 <tbody>
 	<tr>
@@ -82,7 +82,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	</tr>
 	</tbody>
 	</table>
-		<p style="margin-top:20px;"></p>
+<p style="margin-top:20px;"></p>
 <table>
 <tbody>
 	<tr>
