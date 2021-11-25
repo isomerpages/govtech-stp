@@ -945,7 +945,7 @@ When checking in at the departure airport, travellers must present the following
 <ul> 
 	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid VTP (Air) (electronic or physical copy) for the specified period of entry into Singapore;</li>
 <li><i>[not applicable for children aged 12 and below in the calendar year]</i> an accepted proof of vaccination, which can be in the form of:
-<ul style="list-style-type:disc;">
+<ul style="list-style-type:disc; margin-top:0px;">
 	<li>a proof of vaccination on an accepted mobile application, or</li>
 	<li>a vaccination certificate in English, stating the following:
 			<ul style="list-style-type:lower-roman; margin-top:0px;">
