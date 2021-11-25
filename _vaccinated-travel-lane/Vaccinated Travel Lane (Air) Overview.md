@@ -336,7 +336,7 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (AIR) [VTP(AIR)]</b>
 	</p><ol style="margin-top:0px; list-style-type:disc;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">There is <u><b>no quota</b></u> on VTPs issued for air travel. Due to the high volume of VTP (Air) applications, only those who are entering Singapore between <b>2 Dec 2021 and 8 Dec 2021 (both dates inclusive)</b> may apply at this point in time.</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">There is <u><b>no quota</b></u> on VTPs issued for air travel. Due to the high volume of VTP (Air) applications, only those who are entering Singapore between <b>3 Dec 2021 and 9 Dec 2021 (both dates inclusive)</b> may apply at this point in time.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Get ready your passport, <a target="_blank" href="/vtl/faq#QRcode">proof of vaccination</a> and self-isolation address before applying.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers departing from <b>Qatar, Saudi Arabia and the United Arab Emirates</b> may only submit their applications from <b>29 Nov 2021, 1000hrs SGT</b></li>
 	</ol>
