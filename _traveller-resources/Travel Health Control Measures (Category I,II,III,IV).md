@@ -204,8 +204,9 @@ This page provides a summary of the four categories of travel health control mea
 	</tr>
 	</tbody>
 	</table>
-	
 
+
+<div id="before"></div>
 
 ### Categories of Travel Health Control measures (for arrivals before 18 Nov 2021, 2359H)
 
