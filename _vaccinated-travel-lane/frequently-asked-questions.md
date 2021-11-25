@@ -944,16 +944,14 @@ Short-term visitors who are VTP (Air) holders may only arrive in Singapore on de
 When checking in at the departure airport, travellers must present the following to the airline staff:
 <ul> 
 	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid VTP (Air) (electronic or physical copy) for the specified period of entry into Singapore;</li>
-<li><i>[not applicable for children aged 12 and below in the calendar year]</i>an accepted proof of vaccination, which can be in the form of:
+<li><i>[not applicable for children aged 12 and below in the calendar year]</i> an accepted proof of vaccination, which can be in the form of:
 <ul style="list-style-type:disc;">
-	<li>proof of vaccination on the TraceTogether, HealthHub, BruHealth, PeduliLindungi, Tawakkalna or Al Hosn app, or</li>
-	<li>an accepted proof of vaccination in English, stating the following:
-			<ul style="list-style-type:lower-roman;">
+	<li>a proof of vaccination on an accepted mobile application, or</li>
+	<li>a vaccination certificate in English, stating the following:
+			<ul style="list-style-type:lower-roman; margin-top:0px;">
 				<li> the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
-				<li>the country/region of issuance must be any <a href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from;
-				</li>
-				<li>the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
-				<li>the date(s) of vacccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
+				<li>the name(s) of vaccine(s) used; and</li>
+				<li>the date(s) of vaccination. The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
 		</ul>
 			</li>
 		</ul>
