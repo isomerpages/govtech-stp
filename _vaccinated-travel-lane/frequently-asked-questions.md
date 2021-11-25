@@ -78,14 +78,14 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 	<thead>
 		<tr>
 			<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#f8f8f8;"><b>I am a...</b></th>
-						<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#f8f8f8;"><b>My proof of vaccination was issued in...</b></th>
+						<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#f8f8f8;"><b>My proof of vaccination was issued...</b></th>
 						<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#f8f8f8;"><b>I will need to present, as a proof of vaccination…</b></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore</td>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">In Singapore</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Either of the following:<br><br>a. a vaccination status on the TraceTogether app or HealthHub app; or <br><br>
 b. vaccination certificate(s) issued by the Singapore Ministry of Health in English.
 			</td>
