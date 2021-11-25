@@ -133,11 +133,11 @@ You may also choose to upload the QR code on your Singapore Vaccination HealthCe
 
 <div id="Q6"></div>
 
-#### 5. I was fully vaccinated in a non-VTL (Air) country/region and have since obtained a vaccination certificate issued by a VTL (Air) country/region / had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
+#### 5. I was fully vaccinated in a non-VTL (Air) country/region and have  an accepted proof of vaccination or had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
 
-Yes, you will fulfill the requirement of having your proof of vaccination issued in any VTL (Air) country/region or Singapore. 
+Yes. 
 
-If you are a short-term visitor or Long-Term Pass holder with your vaccination records ingested into Singapore’s NIR, you may obtain your vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a> and upload the QR code in your application for a Vaccinated Travel Pass (Air) [VTP (Air)].
+If you are a short-term visitor or Long-Term Pass holder with your vaccination records ingested into the NIR, please follow the <a href="https://safetravel.ica.gov.sg/vtl/faq#Q4" target="_blank">instructions here</a>.
 
  
  <div id="Q7"></div>
