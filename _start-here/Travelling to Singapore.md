@@ -91,7 +91,7 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 				</td>
 	</tr>
 		<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Land)</a> <br/><br/> <i>For Arrivals by Land only</i></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl-land/overview">Vaccinated Travel Lane (Land)</a> <br/><br/> <i>For Arrivals by Land only</i></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> including any accompanying unvaccinated children below 12 years old, meeting the following conditions:
 			   <ul style="font-size: 17px; list-style-type: disc;">
 	<li style="line-height:1.5;">Entering Singapore via the Causeway and Second Link from Malaysia; and</li>
