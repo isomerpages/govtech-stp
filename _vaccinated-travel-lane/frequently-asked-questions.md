@@ -630,9 +630,10 @@ Some other reasons you may be unable to upload your QR code include:
 - The number of QR codes you have uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or you are using the wrong method of QR code upload.
 - You are not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
 - Your passport particulars do not match with your vaccination certificate particulars. Where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation..
--You did not replace the special characters in your name as per this <a href="https://safetravel.ica.gov.sg/vtl/faq#mismatch-error">FAQ</a>.
+-You did not replace the special characters in your name as per this <a href="/vtl/faq#mismatch-error">FAQ</a>.
 
 For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
+
 
 <div id="mismatch-error"></div>
 
