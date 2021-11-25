@@ -132,7 +132,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Argentina, Bangladesh, Belarus, Brazil, Colombia, Estonia, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papa New Guinea, Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Thailand, Ukraine</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Argentina, Bangladesh, Belarus, Brazil, Colombia, Estonia, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papua New Guinea, Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Thailand, Ukraine</b></th>
 </tr>
 </thead>
 <tbody>
@@ -204,8 +204,8 @@ This page provides a summary of the four categories of travel health control mea
 	</tr>
 	</tbody>
 	</table>
-	
-	
+
+
 <div id="before"></div>
 
 ### Categories of Travel Health Control measures (for arrivals before 18 Nov 2021, 2359H)
