@@ -38,15 +38,15 @@ This page provides a summary of the four categories of travel health control mea
 
 <b>On this page you will find the following</b>:
 <ol style="list-style-type:lower-latin;">
-	<li><a href="#from">Categories of travel health control measures for arrivals from 18 Nov 2021, 2359 hours</a></li>
-	<li><a href="#before">Categories of travel health control measures for arrivals before 18 Nov 2021, 2359 hours</a></li>
+	<li><a href="#from">Categories of travel health control measures for arrivals from 1 Dec 2021, 2359 hours</a></li>
+	<li><a href="#before">Categories of travel health control measures for arrivals before 1 Dec 2021, 2359 hours</a></li>
 	</ol>
 
 <div id="from"></div>
 
-### Categories of Travel Health Control Measures (for arrivals from 18 Nov 2021, 2359H)
+### Categories of Travel Health Control Measures (for arrivals from 1 Dec 2021, 2359H)
 
-<span style="color:red;"><b>Travellers arriving in Singapore <u>before 18 Nov 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
+<span style="color:red;"><b>Travellers arriving in Singapore <u>before 1 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
@@ -208,9 +208,9 @@ This page provides a summary of the four categories of travel health control mea
 
 <div id="before"></div>
 
-### Categories of Travel Health Control measures (for arrivals before 18 Nov 2021, 2359H)
+### Categories of Travel Health Control measures (for arrivals before 1 Dec 2021, 2359H)
 
-<span style="color:red;"><b>Travellers arriving in Singapore <u>before 18 Nov 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
+<span style="color:red;"><b>Travellers arriving in Singapore <u>before 1 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
@@ -246,7 +246,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Egypt, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, Indonesia, Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, Malaysia, Maldives, Malta, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Samoa, San Marino, Saudi Arabia, Slovakia, South Africa, Spain, Sweden, Switzerland, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</b>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, Malaysia, Maldives, Malta, Myanmar, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Samoa, San Marino, Saudi Arabia, Slovakia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</b>
 	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
@@ -279,8 +279,8 @@ This page provides a summary of the four categories of travel health control mea
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 	</li>
-	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test on Day 7 of SHN.</li></ol>
-	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 2 days before departure from Malaysia</i></p>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
+	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 test within 2 days before departure from Malaysia</i></p>
 	<p></p>
 	</td>
 	</tr>
@@ -296,7 +296,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Argentina, Bangladesh, Belarus, Brazil, Chile, Colombia, Estonia, Ethiopia, India, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Myanmar, Nepal, Oman, Pakistan, Papua New Guinea, Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Sri Lanka, Thailand, Ukraine</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Argentina, Bangladesh, Belarus, Brazil, Colombia, Estonia, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papua New Guinea, Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Thailand, Ukraine</b></th>
 </tr>
 </thead>
 <tbody>
@@ -323,7 +323,7 @@ This page provides a summary of the four categories of travel health control mea
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 	</li>
-	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test on Day 10 of SHN.</li></ol>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
 	<p></p>
 </td>
 	</tr>
@@ -362,7 +362,7 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn#sdf">SHN Dedicated Facility</a>
 	</li>
-	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test on Day 10 of SHN.</li></ol>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
 	
 </td>
 	</tr>
