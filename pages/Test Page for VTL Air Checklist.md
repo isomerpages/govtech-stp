@@ -192,7 +192,7 @@ This travel checklist is for the following travellers who are eligible for the V
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(F) [STVs only: Joyce- Suggest to remove this as LTPHs also have to purchase insurance when entering Singapore.] Purchase COVID-19 Insurance</b>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[STVs]</b>&nbsp; Purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.</p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[STVs]</b>&nbsp; Purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/linsurance-and-treatment" target="_blank">here</a>.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>[LTPHs]</b>&nbsp; Please refer to (<i>insert link to LTPH insurance section</i>) for more information.</p>
 	</p>
 	</div>
@@ -277,14 +277,26 @@ This travel checklist is for the following travellers who are eligible for the V
 
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;">When checking in at the departure airport, travellers must present to the airline staff:</p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(A) Pre-boarding document checks</b>
+	<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top: 0px;">When checking in at the departure airport, travellers must present to the airline staff all the documents listed below, except the following groups of travellers.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;"><b>[SC/PRs]: </b> Present only (ii) and (iv) above.</p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;"><b>[LTPHs]: </b> Present only (i), (ii) and (iv) above.</p>
+<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be denied boarding if they do not provide all the documents required.</b></p>
+
 <ol style="list-style-type:lower-roman;">
-		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Physical or electronic copy of the Vaccinated Travel Pass (Air) [VTP (Air)] for the specified period of entry;</li>
-		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Valid pre-departure COVID-19 PCR test or Antigen Rapid Test (ART) for entry into Singapore showing a negative test result;</li>
-				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Valid visa (for visa-required visitors);</li>
-						<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Acceptable proof of vaccination (same proof as at Stage 1A).</li>
-	</ol>	
+		<li style="line-height:1.3; margin-bottom:10px; font-size:18px;">Physical or electronic copy of the Vaccinated Travel Pass (Air) [VTP (Air)] for the specified period of entry;</li>
+		<li style="line-height:1.3; margin-bottom:10px; font-size:18px;">Valid pre-departure COVID-19 PCR test or Antigen Rapid Test (ART) for entry into Singapore showing a negative test result;</li>
+				<li style="line-height:1.3; margin-bottom:10px; font-size:18px;">Valid visa (for visa-required visitors);</li>
+						<li style="line-height:1.3; margin-bottom:10px; font-size:18px;">Acceptable proof of vaccination (same proof as at <a href="#proof">Stage 1A</a>).</li>
+	</ol>
 	</p>
 	</div>
+	
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
+
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+  <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
+
+  </p>
+  </div>
