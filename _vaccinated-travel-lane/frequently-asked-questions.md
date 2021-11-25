@@ -626,7 +626,7 @@ Switzerland</td>
 Please try to reupload your QR code in a high-resolution, .png or .pdf format. Please also ensure you have keyed in your date of birth in the correct format (DD/MM/YYYY).
 
 Some other reasons you may be unable to upload your QR code include:
-- Traveller does not have a proof vaccination issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a>
+- Your proof of vaccination was not issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a>
 - Not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
 - Number of QR codes uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or <a href="/vtl/faq#verify">wrong method of QR code upload</a>.
 - Traveller is not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
