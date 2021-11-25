@@ -243,6 +243,7 @@ input:checked + label + .content {
 				</ol>		
 			</li>	
 			</ol>
+<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.35;">For entry into Singapore from 28 Nov 2021, 2359hrs:</p>
 		</li>
 	</ol>
 	<p></p>
