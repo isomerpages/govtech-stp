@@ -63,11 +63,24 @@ If pass holders are departing from a Vaccinated Travel Lane country/region and i
 
 Different pass holders will have different application requirements. Please read the requirements below carefully. 
 
-Please note that:
-•	Application window is 3 to 60 days before planned date of arrival in Singapore.
-•	Approval is valid for +/- 1 day from the planned date of arrival to accommodate possible flight changes.
+<b>Please note that:</b>
+- <b>Application window is 3 to 60 days before planned date of arrival in Singapore.</b>
+- <b>Approval is valid for +/- 1 day from the planned date of arrival to accommodate possible flight changes.</b>
 
-Type 1: Specific Passes
+
+<table>
+	<thead>
+		<tr>
+			<th style="border-left: 0px #D8D8D8;border-top: 0px #D8D8D8;border-right: 0px #D8D8D8;">Type 1: Specific Passes</th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr>
+	</tr>
+	</tbody>
+	</table>
+	
+
 
 The following types of workers should apply for entry directly via MOM’s website.
 a)	Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
