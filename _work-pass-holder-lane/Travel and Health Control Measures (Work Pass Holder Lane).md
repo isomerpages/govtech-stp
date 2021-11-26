@@ -268,13 +268,14 @@ input:checked + label + .content {
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (III) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
 </tr>
 	<tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle;"><b>Argentina, Bangladesh, Belarus, Brazil, Chile, Colombia, Estonia, Ethiopia, India, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Myanmar, Nepal, Oman, Pakistan, Papua New Guinea, the Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Sri Lanka, Thailand and Ukraine</b></td>
-</tr>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle;"><b>Austria, Bangladesh, Belarus, Belgium, Belize, Brazil, Colombia, Costa Rica, Croatia, Czech Republic, Estonia, Laos, Latvia, Liechtenstein, Lithuania, Mauritius, Panama, Papua New Guinea, Peru, Philippines, Russia, Serbia, Seychelles, Slovakia, Slovenia, Ukraine and Uruguay</b></td>
+</tr><tr>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Click to expand the health measures by Pass Type</b></td></tr>
 	<tr>
 	<td>
 <!--Cat3 Helpers and CNs-->
 <input type="checkbox" id="CountryListCat3" />
-<label for="CountryListCat3" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies</b></label>
+<label for="CountryListCat3" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -298,14 +299,15 @@ input:checked + label + .content {
 </li>
 </ol>
 </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint immediately to their <a href="/health/shn" target="_blank">SHN</a> accommodation.</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at one of the following:
 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments).</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer's house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b> If the household has vulnerable individuals, the helper is strongly encouraged to isolate herself in a separate room and minimise contact with these vulnerable household members. If this is not possible, please look for another accommodation. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Note: For submitters who have paid for the stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.]</p>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels, serviced apartments, hostels or Employment Agencies' residential units. Please ensure these places can accommodate persons on SHN). <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If the employer allows, submitters can arrange for the helper/CN to share a room with another helper/CN with the same travel history. They should remain isolated during the SHN and not mingle, or share facilities such as toilets, with other residents.</p></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer's house. <b>The helper/CN must isolate herself in her room and minimise contact with household members. If this is not possible or there are <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>, please look for another accommodation. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Note: For submitters who have paid for the stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.]</p>
 		</li>
 		</ol>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</li>
 </ol>
 </div>
@@ -333,13 +335,14 @@ input:checked + label + .content {
 		</li>
 	</ol>	
 </li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint immediately to their <a href="/health/shn" target="_blank">SHN</a> accommodation.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> in one of the following:
 <ol style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g hotels or serviced apartments);</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. If the household has vulnerable individuals, the pass holder is strongly encouraged to isolate themselves in a separate room and minimise contact with these vulnerable household members. If this is not possible, please look for another accommodation.  <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Note: For submitters who have paid for the stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.]</p></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. . The pass holder must isolate themselves in their room and minimise contact with household members, especially <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>. If this is not possible, please look for another accommodation. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Note: For submitters who have paid for the stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.]</p></li>
 				</ol>
 	</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">			<b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests. </li>
 			</ol>
 </div>
@@ -354,8 +357,10 @@ input:checked + label + .content {
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (IV) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
 </tr>
 	<tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle;"><b>All Other Countries/Regions</b></td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle;"><b>All Other Countries/Regions (except Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe)</b><br><p style="font-size:16px; color:red;"><b><u>Note</u></b>: Pass Holders with travel/transit history in the past 14 days to Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe will not be allowed to enter or transit Singapor ewith effect from 27 Nov 2021, 2359hrs until further notice.</p></td>
 </tr>
+	<tr>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Click to expand the health measures by Pass Type</b></td></tr>
 	<tr>
 	<td>
 <!--Cat4 Helpers and CNs-->
