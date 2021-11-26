@@ -774,7 +774,11 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 
 At this point in time, there are no designated VTL (Air) flights operating from Category I countries/regions to Singapore. You will not be eligible for the VTL (Air) as you do not fulfill the requirement to arrive in Singapore on a designated VTL (Air) flight.
 
+#### 8. I have an EU Digital COVID Cetificate (EU DCC) issued in a non-VTL (Air) country/region. Can I have travel history to non-VTL(Air) and non-Category I countries/regions.
 
+No, travellers may not have travel history to non-VTL (Air) country/region and non-Category I countries/regions.
+
+With effect from <b>6 December 2021, 2359hrs</b>,
 <div id="PDT"></div>
 
  
