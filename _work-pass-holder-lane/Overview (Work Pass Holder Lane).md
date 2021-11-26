@@ -103,7 +103,7 @@ Please note that:
 Work pass holders who are immediate family members of Singapore Citizens or Permanent Residents of Singapore (SCs/PRs) can consider the following options:
 		<ol style="list-style-type:disc;">
 			<li style="font-size:18px; margin-top:10px; line-height:1.5;"><a href="/scpr-familial-ties-lane/overview" target="_blank">SC/PR Familial Ties Lane</a> applied by SC/PR family member</li>
-			<li style="font-size:18px; margin-top:10px; line-height:1.5;">Work Pass Holder Lane (WPHL) applied by employer</li>
+			<li style="font-size:18px; margin-top:10px; line-height:1.5;"><a href="https://eservices.ica.gov.sg/STO/" target="_blank">Work Pass Holder Lane (WPHL)</a> applied by employer</li>
 			</ol>
 		</td>
 	</tr>
