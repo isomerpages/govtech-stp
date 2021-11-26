@@ -28,7 +28,7 @@ This page provides a summary of the four categories of travel health control mea
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
-							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><!--<b>&#10114;</b>--><span style="color:red;"><b><sup>New!</sup></b>From 27 Nov 2021, 2359hrs, travellers whose 14-day travel history includes Botswana, Eswatini, Lesotho, Nambia, South Africa and Zimbabwe are disallowed from entry into Singapore. This, however, excludes Singapore Citizens and Permanent Residents, who may continue to return to Singapore but be subjected to the Cat (IV) protocols.</p>
+							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><!--<b>&#10114;</b>--><span style="color:red;"><b><sup>New!</sup></b></span>From 27 Nov 2021, 2359hrs, travellers whose 14-day travel history includes Botswana, Eswatini, Lesotho, Nambia, South Africa and Zimbabwe are disallowed from entry into Singapore. This, however, excludes Singapore Citizens and Permanent Residents, who may continue to return to Singapore but be subjected to the Cat (IV) protocols.</p>
 			</td>
     </tr>
 	</tbody>
