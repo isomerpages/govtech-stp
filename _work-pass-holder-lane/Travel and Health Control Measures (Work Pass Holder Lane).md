@@ -40,8 +40,11 @@ For all other pass holders (work pass holders and their dependants), this page e
 On this page you will find the following:
 <ol style="padding-left:20px; font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-latin;">
 	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#from">from 1 Dec 2021, 2359 hours</a></li> 
-	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#before-1">before 1 Dec 2021, 2359 hours</a></li>
+	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#before">before 1 Dec 2021, 2359 hours</a></li>
 	</ol>
+
+
+---
 
 
 <div id="from"></div>
@@ -428,6 +431,9 @@ input:checked + label + .content {
 	</tr>
 	</table>
 <br>
+
+
+---
 
 
 <div id="before"></div>
