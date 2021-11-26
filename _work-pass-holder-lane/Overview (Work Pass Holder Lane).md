@@ -67,20 +67,18 @@ Different pass holders will have different application requirements. Please read
 - <b>Application window is 3 to 60 days before planned date of arrival in Singapore.</b>
 - <b>Approval is valid for +/- 1 day from the planned date of arrival to accommodate possible flight changes.</b>
 
-
 <table>
-	<thead>
-		<tr>
-			<th style="border-left: 0px #D8D8D8;border-top: 0px #D8D8D8;border-right: 0px #D8D8D8;">Type 1: Specific Passes</th>
-		</tr>
-	</thead>
-	<tbody>
+<thead>
+<tr>
+<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 1: Specific Passes</b></th>
+</tr>
+</thead>
+<tbody>
 	<tr>
+		<td style="font-size:16px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
+		</td>
 	</tr>
 	</tbody>
-	</table>
-	
-
 
 The following types of workers should apply for entry directly via MOM’s website.
 a)	Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
