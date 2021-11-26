@@ -6,13 +6,16 @@ description: Requirements for transiting through Singapore
 
 #### Eligibility
 
-Travellers from all countries/regions can transit through Changi Airport (Singapore), if they are travelling with an airline whose transfer route via Singapore has been approved by the Civil Aviation Authority of Singapore (CAAS). Details on transit arrangements can and should be obtained directly from the airline before a flight ticket is purchased. 
+Travellers can transit through Changi Airport (Singapore), if they are travelling with an airline whose transfer route via Singapore has been approved by the Civil Aviation Authority of Singapore (CAAS). **With effect from 27 Nov 2021, 2359hrs**, travellers (a) arriving on a transit flight from, and/or (b) whose 14-day travel history includes the following countries/regions, are disallowed from transiting in Singapore:
+- Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe. 
+
+The transit suspension will continue until further notice. Details on transit arrangements can and should be obtained directly from the airline before a flight ticket is purchased. 
 
 <div id="PDT"></div>
 
 #### Pre-Departure COVID-19 Test
 
-Transit travellers with a 14-day travel history to any <a href="/shn-and-swab-summary" target="_blank">Category(I) countries/regions</a> are <b>not</b> required to take a pre-departure COVID-19 test. 
+Transit travellers with a 14-day travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (I) countries/regions</a> are <b>not</b> required to take a pre-departure COVID-19 test. 
 
 All other transit travellers must take a COVID-19 test <b>within 2 days before departure for Singapore.</b> Travellers without a valid negative COVID-19 test will not be allowed to board their connecting flight or ferry our of Singapore. See table below for permitted COVID-19 tests by 14-day travel history.
 
@@ -36,9 +39,9 @@ All other transit travellers must take a COVID-19 test <b>within 2 days before d
 </td>
 	</tr>
   	<tr>
-	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Category (IV) countries/regions
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Category (IV) countries/regions <br><br> <i>(Excluding Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe, where transits are suspended w.e.f. 27 Nov 2021, 2359hrs until further notice)</i>
 </td>
-    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;">COVID-19 Polymerase Chain Reaction Test;</td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;">COVID-19 Polymerase Chain Reaction Test</td>
 	</tr>
 	</tbody>
 	</table>

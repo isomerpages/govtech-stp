@@ -29,30 +29,32 @@ Travellers can check the box **(&#9744;)** for completed activities.
 
 You must obtain any of the following acceptable proofs of vaccination, or you will not be eligible for travel on the VTL (Air). Other non-VTL  lanes are available on the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if you are not eligible for the VTL (Air). Eligibility for the vaccination proof below will vary depending on where you took your vaccination and your location, as detailed <a href="/vtl/faq#QRcode" target="_blank">here</a>. All travellers should, where possible, self-verify their vaccination certificates by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.
 
-<p style="line-height:1.3; font-size:18px;">
+<p style="line-height:1.3; margin-top:25px; font-size:18px;">
 	<ol style="margin-top:0px; list-style-type: disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Australia:</b> <a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Brunei:</b> Proof of vaccination on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Canada:</b> <a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by any Canadian province</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Denmark, France, Germany, Italy, Netherlands, Spain, Switzerland, Finland, Sweden:</b> <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). </li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Qatar:</b> COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Republic of Korea:</b> Static vaccination certificate QR code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA) downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="blank">KDCA website</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination on the <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Arab Emirates:</b> Proof of vaccination on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a> </li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Kingdom (any of the following):</b> <ol style="list-style-type:lower-alpha; ">
-			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination; or</li>
-			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”) app</a>)</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a target="_blank" href="https://www.notarise.gov.sg/">Notarise portal</a> with a QR code, or proof of vaccination on the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether</a> or <a target="_blank" href="https://www.healthhub.sg/">HealthHub app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Australia:</b> <a target="_blank" href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof">International COVID-19 Vaccination Certificate</a> (QR code in <a target="_blank" href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a target="_blank" href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Brunei:</b> Proof of vaccination on the <a target="_blank" href="http://www.moh.gov.bn/SitePages/bruhealth.aspx">BruHealth app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Canada:</b> <a target="_blank" href="https://smarthealth.cards/en/faq.html">SMART Health Cards (SHC)</a> issued by any Canadian province</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Denmark, France, Germany, Italy, Netherlands, Spain, Switzerland:</b> <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> of vaccination issued by any <a href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). </li>
+		<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> International Travel Certificate in the <a target="_blank" href="https://divoc.egov.org.in/">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a target="_blank" href="https://www.pedulilindungi.id/">PeduliLindungi app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a target="_blank" href="https://mysejahtera.malaysia.gov.my/intro_en/">MySejahtera app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Qatar:</b> COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a target="_blank" href="https://cert-covid19.moph.gov.qa/Home/Index">website</a></li>-->
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Republic of Korea:</b> Static vaccination certificate QR code on the <a target="_blank" href="https://ncv.kdca.go.kr/coov">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA) downloaded from the <a target="blank" href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&amp;MnLv2=3">KDCA website</a></li>
+		<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination on the <a target="_blank" href="https://ta.sdaia.gov.sa/en/index">Tawakkalna app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Arab Emirates:</b> Proof of vaccination on the <a target="_blank" href="https://alhosnapp.ae/en/home">AlHosn app</a> </li>-->
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Kingdom:</b> 
+			<ol style="list-style-type:lower-alpha;">
+			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a target="_blank" href="https://www.gov.uk/guidance/nhs-covid-pass">National Health Service (“NHS”) COVID Pass</a> of vaccination; or</li>
+			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Northern Ireland COVID certificate issued by <a target="_blank" href="http://online.hscni.net/">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a target="_blank" href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents">COVIDCert Northern Ireland (“NI”) app</a>)</li>
 			<p style="margin-top:10px; font-size:18px; line-height:1.3;">One QR code per dose; or</p>
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><b>[For children aged 13 to 15]</b> Digital vaccination record retrieved from the public health database of the local health authority.</li>
-			</ol></li>
+			</ol>
+		</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United States of America (any of the following):</b> 
-			<ol style="list-style-type:lower-alpha; ">
-			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by CommonTrust Network issuers (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>) or <a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><a href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html" target="_blank">Digital vaccination record retrieved from the public health database of the state or the local health authority</a></li>
+			<ol style="list-style-type:lower-alpha;">
+			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a target="_blank" href="https://smarthealth.cards/faq.html">SMART Health Cards (SHC)</a> issued by CommonTrust Network issuers (listed <a target="_blank" href="https://www.commontrustnetwork.org/verifier-list">here</a> and <a target="_blank" href="https://www.commonhealth.org/smart-health-cards">here</a>) or <a target="_blank" href="https://vci.org/issuers">Vaccination Credential Initiative issuers</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><a target="_blank" href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html">Digital vaccination record retrieved from the public health database of the state or the local health authority</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to the passenger’s vaccination status. The attestation letter should contain:
 			<ol style="list-style-type:lower-roman;">
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">the passenger’s name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the passenger’s passport used for entry into Singapore; </li>
@@ -61,11 +63,42 @@ You must obtain any of the following acceptable proofs of vaccination, or you wi
 				</ol>		
 			</li>	
 			</ol>
-		</li>		
+		</li>
+	</ol>
+	<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 28 Nov 2021, 2359hrs:</b></p>
+	<ol style="margin-top:0px; list-style-type: disc;">
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Finland, Sweden:</b> <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> of vaccination issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> International Travel Certificate in the <a target="_blank" href="https://divoc.egov.org.in/">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.</li>	
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
+	</ol>
+	<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 5 Dec 2021, 2359hrs:</b></p>
+	<ol style="margin-top:0px; list-style-type: disc;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Qatar:</b> COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a> </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Arab Emirates:</b> Proof of vaccination (e.g. COVID-19 Vaccination Card) on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a></li>
+	</ol>
+	<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 6 Dec 2021, 2359hrs:</b></p>
+	<ol style="margin-top:0px; list-style-type: disc;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>All other European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>):</b> <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> of vaccination</li>
+	</ol>
+	<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35; color:red;"><i>*Travellers must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including travel history requirements, and must arrive in Singapore on a designated VTL flight.</i></p>
+<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 13 Dec 2021, 2359hrs:</b></p>
+	<ol style="margin-top:0px; list-style-type: disc;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Thailand:</b> International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</li>
+	</ol>
+	<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 15 Dec 2021, 2359hrs:</b></p>
+	<ol style="margin-top:0px; list-style-type: disc;">
+		<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Bahrain:</b> COVID-19 Vaccination Certificate issued by the Ministry of Health, Kingdom of Bahrain</li>-->
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Cambodia:</b> COVID-19 Vaccination Card issued by the Ministry of Health / Ministry of Defence in Cambodia</li>
+		<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Egypt:</b> COVID-19 Vaccine Certificate issued by the Ministry of Health & Population, Arab Republic of Egypt</li>-->
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Fiji:</b> COVID-19 Vaccination Certificate issued by Republic of Fiji</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Maldives:</b> COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a></li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Sri Lanka:</b> Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health</li>
 	</ol>
 </p>
 
-Other frequently asked questions regarding vaccination proof can be found <a href="/vtl/faq#VacReq" target="_blank">here</a>.
+<p style="font-size:20px; margin-top:25px; margin-bottom:15px; line-height:1.35;">Other frequently asked questions regarding vaccination proof can be found <a href="/vtl/faq#VacReq" target="_blank">here</a>.</p>
 
 &#9744;  <i><b>B) [Short-Term Visitors and Long-Term Pass Holders only] Apply for Vaccinated Travel Pass (Air) [VTP(Air)] </b></i>
 
@@ -83,7 +116,7 @@ To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, trav
 			      
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL (Air) countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL (Air) flight  Please check the websites of the respective airlines for details of the VTL (Air) flights available.</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL (Air) flight. Please check the websites of the respective airlines for details of the VTL (Air) flights available.</li>
 			      </ol>
 <table>
 <thead>
@@ -109,6 +142,14 @@ To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, trav
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://flyasiana.com/C/SG/EN/customer/notice/detail?id=CM202110120001515786" target="_blank">Asiana Airlines</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Republic of Korea</td>
 </tr>
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.emirates.com/sg/english/" target="_blank">Emirates</a></td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">United Arab Emirates</td>
+</tr>
+				<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.etihad.com/en-sg/" target="_blank">Etihad Airways</a></td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">United Arab Emirates</td>
+</tr>
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.finnair.com/gb-en/flight-information/travel-updates/travelling-via-singapore-2424534" target="_blank">Finnair</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Finland</td>
@@ -118,7 +159,7 @@ To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, trav
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Indonesia</td>
 </tr>	
 				<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.goindigo.in/" target="_blank">InterGlobe Aviation (IndiGo)</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.goindigo.in/" target="_blank">IndiGo</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">India</td>
 </tr>	
 	<tr>
@@ -157,9 +198,17 @@ To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, trav
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.qantas.com/sg/en/coronavirus/international-travel/singapore-flights.html" target="_blank">Qantas</a></td>
 			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia</td>
 </tr>
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.qatarairways.com/en-sg/homepage.html" target="_blank">Qatar Airways</a></td>
+			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Qatar</td>
+</tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.flyroyalbrunei.com/singapore/en/help-support/frequently-asked-questions/vaccinated-travel-lane-vtl/" target="_blank">Royal Brunei Airlines</a></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Brunei Darussalam</td>
+</tr>
+		<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.saudia.com/" target="_blank">Saudia</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Saudi Arabia</td>
 </tr>
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.flyscoot.com/en/announcements/vaccinated-travel-lane-flights" target="_blank">Scoot</a></td>
@@ -174,7 +223,7 @@ To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, trav
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Switzerland</td>
 </tr>
 				<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://airvistara.com/" target="_blank">TATA SIA (Vistara)</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://airvistara.com/" target="_blank">Vistara</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">India</td>
 </tr>
 	<tr>
@@ -295,7 +344,7 @@ Travellers who test positive for COVID-19 are required to receive <a href="/heal
 
 ### Stage 5: Stay in Singapore
 
-&#9744;  <i><b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></i>
+&#9744;  <i><b>COVID-19 Safe Management Measures and Proof of Vaccination</b></i>
 
 As part of Singapore’s Vaccination-differentiated Safe Management Measures (VDS), you must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). Travellers must also comply with all other <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL (Air) travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.
 

@@ -55,7 +55,7 @@ permalink: /vtl/faq
 
 #### 1. Are unvaccinated children allowed to travel under the VTL (Air)?
 
-Unvaccinated children aged 12 and below in the calendar year may enter Singapore on the VTL (Air) (e.g. a child turning 12 in the current calendar year is allowed). They do not need to apply for a Vaccinated Travel Pass (Air) [VTP (Air)]. However, they must comply with all other VTL (Air) <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL (Air) traveller. 
+Unvaccinated children aged 12 and below in the calendar year may enter Singapore on the VTL (Air) (e.g. a child turning 12 in the current calendar year is allowed). Such travellers, **including Long-Term Pass holders and short-term visitors**, do not need to apply for a Vacxinated Travel Pass (Air) [VTP (Air)]. However, they must comply with all other VTL (Air) <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL (Air) traveller. 
 
 #### 2. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL (Air)?
 
@@ -78,38 +78,38 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 	<thead>
 		<tr>
 			<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#f8f8f8;"><b>I am a...</b></th>
-						<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#f8f8f8;"><b>My proof of vaccination was issued in...</b></th>
+						<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#f8f8f8;"><b>My proof of vaccination was issued...</b></th>
 						<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#f8f8f8;"><b>I will need to present, as a proof of vaccination…</b></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore</td>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">In Singapore</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Either of the following:<br><br>a. a vaccination status on the TraceTogether app or HealthHub app; or <br><br>
 b. vaccination certificate(s) issued by the Singapore Ministry of Health in English.
 			</td>
 		</tr>
 		<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></td>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/vtl/faq#QRcode" target="_blank">Overseas</a></td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">One of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>, which may include your overseas-issued vaccination certificate</td>
 		</tr>
 				<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A valid Vaccinated Travel Pass (Air) [VTP (Air)], which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>*.
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">In Singapore</td>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A valid Vaccinated Travel Pass (Air) [VTP (Air)], which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>*, and an <a href="/vtl/travel-checklist#proof" target="_blank">accepted proof of vaccination</a>, if necessary.
 
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;"> Please select ‘Yes’ when prompted if you have a 'Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal. Your vaccination status will be verified against MOH’s records.</p>
 
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">You may also upload a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, if you have one. Please refer to <a href="/vtl/faq#Q4">Q4</a> below for more details.^</p>
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">You may also upload a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, if you have one. Please refer <a href="/vtl/faq#Q4">here</a> for more details.^</p>
 </td>
 		</tr>
 				<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">A valid Vaccinated Travel Pass (Air) [VTP (Air)], which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>*.</p>
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">On the VTP (Air) application portal, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’. Please proceed to upload your vaccination certificate QR code, which should be one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>^.</p>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/vtl/faq#QRcode" target="_blank">Overseas</a></td>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">A valid Vaccinated Travel Pass (Air) [VTP (Air)], which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>*, and an <a href="/vtl/travel-checklist#proof" target="_blank">accepted proof of vaccination</a>, if necessary.</p>
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">Please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal. Please proceed to upload your vaccination certificate QR code, which should be one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>^.</p>
 </td>
 		</tr>
 	</tbody>
@@ -119,52 +119,49 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health in Engl
 <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOM Long-Term Pass Holder</b> if you are an Employment Pass, Work Pass or Dependent’s Pass holder; or</li>
 <li  style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOE Long-Term Pass Holder</b> if you are a Student Pass holder</li>
 	</ol>
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">^If you are still encountering issues, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued or your overseas-issued vaccination certificate, and other details and screenshots of the errors faced.</p>
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">If your Singapore vaccination records are tagged to an older identification (e.g. passport/FIN/IC) number, please click <a href="https://go.gov.sg/vax-status-query" target="_blank">here</a> to retag your records to your newer identification number. Once retagging is complete, please proceed to re-submit your VTP (Air) application.</p>
+<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">^Please check if your Singapore vaccination records are valid through <a href="https://go.gov.sg/vax-status-query" target="_blank">this link</a> and, if necessary, retag your records to your most updated identification (e.g. passport/FIN/IC) number. Once retagging is complete, please proceed to re-submit your VTP (Air) application.</p>
 
 
 <div id="Q4"></div>
  
-#### 4. The VTP (Air) application portal tells me that my vaccination records cannot be retrieved from the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR), but I have a Notarise HealthCert QR code. Can I upload that QR code on the VTP portal?
+#### 4. The VTP (Air) application portal tells me that my vaccination records cannot be retrieved from the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR). What should I do?
  
-Yes, you may. If you have a Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code obtained from the Notarise portal. If you are still encountering issues, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore MOH-issued vaccination certificate, and other details and screenshots of the errors faced.
+Please check if your Singapore vaccination records are valid through <a href="https://go.gov.sg/vax-status-query" target="_blank">this link</a> and, if necessary, re-tag your records to your most updated identification (e.g. passport/FIN/IC) number. Once retagging is complete, please proceed to re-submit your VTP (Air) application.
 
-If your Singapore vaccination records are tagged to an older identification (e.g. passport/FIN/IC) number, please click <a href="https://go.gov.sg/vax-status-query" target="_blank">here</a> to retag your records to your newer identification number. Once retagging is complete, please proceed to re-submit your VTP (Air) application.
+You may also choose to upload the QR code on your Singapore Vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, if you have one. Please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code.
+
 
 <div id="Q6"></div>
 
-#### 5. I was fully vaccinated in a non-VTL (Air) country/region and have since obtained a vaccination certificate issued by a VTL (Air) country/region / had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
+#### 5. I was fully vaccinated in a non-VTL (Air) country/region and have  an accepted proof of vaccination or had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
 
-Yes, you will fulfill the requirement of having your proof of vaccination issued in any VTL (Air) country/region or Singapore. 
-
-If you are a short-term visitor or Long-Term Pass holder with your vaccination records ingested into Singapore’s NIR, you may obtain your vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a> and upload the QR code in your application for a Vaccinated Travel Pass (Air) [VTP (Air)].
+Yes. If you are a short-term visitor or Long-Term Pass holder with your vaccination records ingested into the NIR, please follow the <a href="https://safetravel.ica.gov.sg/vtl/faq#Q4" target="_blank">instructions here</a>.
 
  
  <div id="Q7"></div>
 
 #### 6. What information does the vaccination certificates need to contain?
 
-The electronic or physical vaccination certificate(s) should be in English and clearly state the following:
-- the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
-- the country/region of issuance must be any [VTL (Air) country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL (Air) country/region](/vtl/requirements-and-process#countries) the traveller departs from;
+The electronic or physical vaccination certificate(s) must be an accepted proof of vaccination, and clearly state the following in English:
+- your name, and at least one other personal identifier such as your date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;
 - the name(s) of vaccine(s) used; and
-- the date(s) of vaccination. The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. 
+- the date(s) of vaccination. The date of the last dose should be administered at least 14 days before your arrival in Singapore. 
 
 #### 7. How may I benefit from Vaccination-Differentiated Safe Management Measures (VDS) (e.g. dine-in at F&B establishments, enter shopping malls, etc.)?
 
-As part of Singapore’s Vaccination-differentiated Safe Management Measures (VDS), you must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL (Air) travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.
+You must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). Some activities in Singapore may require you to show your proof of vaccination.
 
-To be eligible for VDS, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, if you are unable to upload your vaccination certificate successfully during SG Arrival Card submission. Your status will be updated on your TraceTogether app.
+To be eligible for VDS, please upload your vaccination certificate successfully during SG Arrival Card submission, or present your overseas vaccination certificates at the immigration counter for verification and processing. Your status will be updated on your TraceTogether app around 1 day after arrival in Singapore.
 
-Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for more FAQs on inland public health measures.
+Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for more FAQs on these measures.
 
 #### 8. I was diagnosed with COVID-19 and have since recovered. I have been administered only one vaccine dose of a typically two-dose regimen. Am I eligible to travel under the VTL (Air)?
 
 Yes, if the date of your vaccine dose is at least 14 days before the date of your intended arrival into Singapore, and you are holding one of the following proofs of vaccination:
 
 <ol style="list-style-type:disc;">
-			<li style="line-height:1.3; margin-bottom:15px;">EU Digital COVID Certificate (EU DCC) of vaccination, NHS COVID Pass of vaccination, a Northern Ireland COVID certificate issued by any VTL (Air) country/region showing the final dose in the series (i.e. “1/1”). If you are required to apply for a Vaccinated Travel Pass (Air) [VTP (Air)], you need only upload the QR code found on your vaccination certificate; or</li>
-<li style="line-height:1.3; margin-bottom:15px;">Singapore Ministry of Health-issued vaccination certificate. This must be accompanied with an EU DCC of recovery, NHS recovery certificate, or Singapore-issued discharge memo stating the date of your first COVID infection. If you are required to apply for a VTP (Air), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo. Singapore Citizens and Permanent Residents must show their recovery certificate or discharge memo along with either of these proofs of vaccination at airlines at check-in and at arrival immigration.</li>
+			<li style="line-height:1.3; margin-bottom:15px;">EU Digital COVID Certificate (EU DCC) of vaccination, NHS COVID Pass of vaccination, a Northern Ireland COVID certificate showing the final dose in the series (i.e. “1/1”). If you are required to apply for a VTP (Air), you need only upload the QR code found on your vaccination certificate; or</li>
+<li style="line-height:1.3; margin-bottom:15px;">Singapore Ministry of Health-issued vaccination certificate, accompanied with an EU DCC of recovery, NHS recovery certificate, or Singapore-issued discharge memo stating the date of your first COVID infection. Singapore Citizens and Permanent Residents must show both their vaccination and recovery certificate to airlines at check-in and at arrival immigration. If you are required to apply for a VTP (Air), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your Singapore-issued proof of vaccination and recovery certificate or discharge memo. </li>
 </ol>
 
 We are currently unable to accept recovery certificates of travellers with proofs of vaccination issued in other countries.
@@ -207,9 +204,19 @@ We are currently unable to accept recovery certificates of travellers with proof
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a> </td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes. Please upload a 1-page PDF of your certificate onto the portal.</td>
 </tr>
+		<!--<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Bahrain<br><i>[For entry into Singapore from 15 Dec 2021, 2359hrs]</i></b></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">COVID-19 Vaccination Certificate issued by the Ministry of Health, Kingdom of Bahrain</td>
+				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
+</tr>-->
 		<tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Brunei</b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">Proof of vaccination on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a></td>
+				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration.</td>
+</tr>
+	<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Cambodia<br><i>[For entry into Singapore from 15 Dec 2021, 2359hrs]</i></b></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">COVID-19 Vaccination Card issued by the Ministry of Health / Ministry of Defence in Cambodia</td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration.</td>
 </tr>
 			<tr>
@@ -217,14 +224,29 @@ We are currently unable to accept recovery certificates of travellers with proof
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; "><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by any Canadian province</td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
 </tr>
+				<!--<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Egypt<br><i>[For entry into Singapore from 15 Dec 2021, 2359hrs]</i></b></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">COVID-19 Vaccine Certificate issued by the Ministry of Health & Population, Arab Republic of Egypt</td>
+				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
+</tr>-->
 				<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Denmark<br/>France<br/>Germany<br/>Italy<br/>Netherlands<br/>Spain<br/>Switzerland<br/><br/><i>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</i><br/>Finland<br/>Sweden
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Denmark<br/>France<br/>Germany<br/>Italy<br/>Netherlands<br/>Spain<br/>Switzerland<br/><br/><i>[For entry into Singapore from 28 Nov 2021, 2359hrs]</i><br/>Finland<br/>Sweden
 </b></td>
-		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2).</td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU DCC</a> of vaccination. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2).</td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
 </tr>
+	<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>All other European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br>*Travellers must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including travel history requirements, and must arrive in Singapore on a designated VTL flight.<br><br><i>[For entry into Singapore from 6 Dec 2021, 2359hrs]</i></b></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU DCC</a> of vaccination. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2).</td>
+				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
+</tr>
+	<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Fiji<br><br><i>[For entry into Singapore from 15 Dec 2021, 2359hrs]</i></b></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">COVID-19 Vaccination Certificate issued by Republic of Fiji</td>
+				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration</td>
+</tr>
 					<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>India<br><br><i>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</i></b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>India<br><br><i>[For entry into Singapore from 28 Nov 2021, 2359hrs]</i></b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.</td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes. Your certificate should contain both ‘Date of Birth’ and ‘Passport Number’. Please request for an International Travel Certificate on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN website</a> if your certificate does not contain these fields.</td>
 </tr>
@@ -234,12 +256,17 @@ We are currently unable to accept recovery certificates of travellers with proof
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration</td>
 </tr>
 							<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; "><b>Malaysia<br><br><i>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</i></b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; "><b>Malaysia<br><br><i>[For entry into Singapore from 28 Nov 2021, 2359hrs]</i></b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
 </tr>
 								<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Qatar<br><br><i>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</i></b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; "><b>Maldives<br><br><i>[For entry into Singapore from 15 Dec 2021, 2359hrs]</i></b></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a></td>
+				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
+</tr>
+								<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Qatar<br><br><i>[For entry into Singapore from 5 Dec 2021, 2359hrs]</i></b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a></td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
 </tr>
@@ -252,13 +279,23 @@ We are currently unable to accept recovery certificates of travellers with proof
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes<br><br>If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</td>
 </tr>
 	<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Saudi Arabia<br><br><i>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</i></b></td>
-		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Proof of vaccination on the <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Saudi Arabia<br><br><i>[For entry into Singapore from 5 Dec 2021, 2359hrs]</i></b></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a></td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration</td>
 </tr>
+		<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Sri Lanka<br><br><i>[For entry into Singapore from 15 Dec 2021, 2359hrs]</i></b></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health</td>
+				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration</td>
+</tr>
+			<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Thailand<br><br><i>[For entry into Singapore from 13 Dec 2021, 2359hrs]</i></b></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</td>
+				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
+</tr>
 	<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>United Arab Emirates<br><br><i>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</i></b></td>
-		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Proof of vaccination on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>United Arab Emirates<br><br><i>[For entry into Singapore from 5 Dec 2021, 2359hrs]</i></b></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Proof of vaccination (e.g. COVID-19 Vaccination Card) on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a></td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration</td>
 </tr>
 		<tr>
@@ -364,6 +401,17 @@ Switzerland</td>
 	</td>
 </tr>
 	<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">All other European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br><i>[For entry into Singapore from 6 Dec 2021, 2359hrs]</i></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">
+	<ol style="margin-top:0px; list-style-type: disc;">
+		<li style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Web App: <a href="https://app.digitalcovidcertchecker.gov.ie/" target="_blank">DCC Checker</a></li>
+		<li style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Android Mobile App: <a href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier" target="_blank">COVID Certificate Check</a> </li>
+		<li style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;">iOS Mobile App: <a href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510" target="_blank">COVID Certificate Check</a> </li>
+	</ol>
+	</td>
+</tr>
+	<tr>
 	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">India</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><a href="https://verify.cowin.gov.in/" target="_blank">Co-Win website</a>
@@ -450,13 +498,27 @@ You may refer to this table below. Please extract (i.e. screen-capture, crop and
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code <br/><br/> <i>Please upload the 1-page PDF file containing your vaccination certificate</i></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>	
+	<!--<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Bahrain<br><br><span style="font-size: 15px; color:red;"><i>[For VTP applications from 9 Dec 2021, 1800hrs]</i></span></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">COVID-19 Vaccination Certificate issued by the Ministry of Health, Kingdom of Bahrain</td>
+    <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/QR_Australia.png" width="54" height="84"></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code <br/></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+</tr> -->
 <tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Canada</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://smarthealth.cards/faq.html" target="_blank">Smart Health Cards (SHC)</a> issued by any Canadian province</td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/QR_Canada.png" width="54" height="84"></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code containing information on both doses</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
-</tr>	
+</tr>
+	<!--<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Egypt<br><br><i>[For VTP applications from 9 Dec 2021, 1800hrs]</i></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">COVID-19 Vaccine Certificate issued by the Ministry of Health & Population, Arab Republic of Egypt</td>
+    <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/QR_India.png" width="54" height="84"></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+</tr> -->
 <tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Denmark<br>
 Finland<br> 
@@ -467,8 +529,15 @@ Netherlands<br>
 Spain<br>
 Sweden<br> 
 Switzerland</td>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u>On physical/PDF copy</u><br><img src="/images/QR_Denmark_1.png" width="57" height="75"> or <br><u>On apps</u><br><img src="/images/QR_Denmark_2.png" width="45" height="85"></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code indicating the final dose (i.e. 1/1 or 2/2)</td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+</tr>
+	<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">All other European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br><i>[For VTP applications from 30 Nov 2021, 0000hrs]</i></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u>On physical/PDF copy</u><br><img src="/images/QR_Denmark_1.png" width="57" height="75"><br><i>[For Turkey-issued certificates:]</i><br><img src="/images/QR_Canada.png" width="54" height="84"><br>or<br><br><u>On apps</u><br><img src="/images/QR_Denmark_2.png" width="45" height="85"></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code indicating the final dose (i.e. 1/1 or 2/2)</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>
@@ -489,12 +558,35 @@ Switzerland</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>
 <tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Maldives<br><br><i>[For VTP applications from 9 Dec 2021, 1000hrs]</i></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a></td>
+    <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/QR_Canada.png" width="54" height="84"></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code
+</td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+</tr>
+	<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Qatar</td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a></td>
+    <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/QR_Canada.png" width="54" height="84"></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code
+</td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+</tr>
+<tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Republic of Korea</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Static QR code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a>*</td>
 	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/QR_ROK.png" width="72" height="136"></td>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code containing information on both doses</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
-</tr>	
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+</tr>
+	<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Thailand<br><br><i>[For VTP applications from 7 Dec 2021, 1000hrs]</i></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u>On physical/PDF copy</u><br><img src="/images/QR_Denmark_1.png" width="57" height="75"><br>or<br><br><u>On apps</u><br><img src="/images/QR_Denmark_2.png" width="45" height="85"></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+</tr>
 <tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  ">United Kingdom</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
@@ -522,7 +614,7 @@ Switzerland</td>
 
 <p style="font-size:16px; margin-top:20px; line-height:1.5;"><sup>*</sup>If you are not a national of the Republic of Korea <u>and</u> you are a Singapore short-term visitor or long-term pass holder, you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a>, which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
 
-<p style="font-size:16px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>^</sup>If your vaccination record was issued in the US but is not issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative, please refer to <a href="#Question7">Q7</a> below.</p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>^</sup>If your vaccination record was issued in the US but is not issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative, please refer <a href="#Question7">here</a>.</p>
 
 <p style="font-size:16px; margin-top:20px; margin-bottom:15px; line-height:1.5;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP (Air) application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>, you will not be eligible for travel on the VTL (Air).</p>
 
@@ -532,16 +624,17 @@ Switzerland</td>
 
 #### 4. Why was/were my vaccination QR code(s) not accepted in my VTP (Air) application?
 
-Some possible reasons include:
-- Traveller does not have a proof vaccination issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a>
-- Not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
-- Number of QR codes uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or <a href="/vtl/faq#verify">wrong method of QR code upload</a>.
-- Traveller is not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
-- Traveller’s particulars do not match with particulars in the vaccination certificate. Where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation.
-- <a href="/health/vtsg" target="_blank">Days interval between doses</a> is less than the requirement
-- The QR code has been tampered with
+Please try to reupload your QR code in a high-resolution, .png or .pdf format. Please also ensure you have keyed in your date of birth in the correct format (DD/MM/YYYY).
+
+Some other reasons you may be unable to upload your QR code include:
+- Your proof of vaccination was not issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a>, or is not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
+- The number of QR codes you have uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or you are using the wrong method of QR code upload.
+- You are not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
+- Your passport particulars do not match with your vaccination certificate particulars. Where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation..
+-You did not replace the special characters in your name as per this <a href="/vtl/faq#mismatch-error">FAQ</a>.
 
 For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
+
 
 <div id="mismatch-error"></div>
 
@@ -659,7 +752,7 @@ Yes, you will be eligible for the VTL (Air) so long as your travel history withi
 
 You may be eligible for the VTL (Air) if your travel and transit history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL (Air) countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. 
 
-However, if you were in a non-VTL (Air) and non Category I country/region at any point within the past 14 days, you will not be eligible for the VTL (Air).
+However, if you were in a non-VTL (Air) and non-Category I country/region at any point within the past 14 days, you will not be eligible for the VTL (Air).
 
 #### 5. I am only travelling to [VTL (Air) countries/regions](/vtl/requirements-and-process#countries), but will transit via a non-VTL (Air) and non-Category I country/region in my departing flight from Singapore. Will I be eligible to return to Singapore on the VTL (Air)?
 
@@ -682,6 +775,15 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 
 At this point in time, there are no designated VTL (Air) flights operating from Category I countries/regions to Singapore. You will not be eligible for the VTL (Air) as you do not fulfill the requirement to arrive in Singapore on a designated VTL (Air) flight.
 
+#### 8. I have an EU Digital COVID Cetificate (EU DCC) issued in a non-VTL (Air) country/region. Can I have travel history to non-VTL(Air) and non-Category I countries/regions?
+
+No, travellers may not have travel history to non-VTL (Air) country/region and non-Category I countries/regions.
+
+With effect from <b>6 December 2021, 2359hrs</b>, travellers withe EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all VTL (Air) conditions. This includes:
+<ol style="list-style-type:lower-latin;">
+<li>having only travelled to or transited via one or more of the VTL (Air) countries/regions, Category I countries/regions and/or Singapore, in the last 14 consecutive days prior to departure for Singapore, and;</li>
+<li>arriving in Singapore on a designated VTL (Air) flight from any of the VTL countries/regions.</li>
+</ol>
 
 <div id="PDT"></div>
 
@@ -852,16 +954,14 @@ Short-term visitors who are VTP (Air) holders may only arrive in Singapore on de
 When checking in at the departure airport, travellers must present the following to the airline staff:
 <ul> 
 	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid VTP (Air) (electronic or physical copy) for the specified period of entry into Singapore;</li>
-<li><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid proof of vaccination status, which can be in the form of:
-<ul style="list-style-type:disc;">
-	<li>proof of vaccination on the TraceTogether, HealthHub, BruHealth, PeduliLindungi, Tawakkalna or Al Hosn app, or</li>
-	<li>an accepted proof of vaccination in English, stating the following:
-			<ul style="list-style-type:lower-roman;">
+<li><i>[not applicable for children aged 12 and below in the calendar year]</i> an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>, which can be in the form of:
+<ul style="list-style-type:disc; margin-top:0px;">
+	<li>a proof of vaccination on an accepted mobile application, or</li>
+	<li>a vaccination certificate in English, stating the following:
+			<ul style="list-style-type:lower-roman; margin-top:0px;">
 				<li> the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
-				<li>the country/region of issuance must be any <a href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from;
-				</li>
-				<li>the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
-				<li>the date(s) of vacccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
+				<li>the name(s) of vaccine(s) used; and</li>
+				<li>the date(s) of vaccination. The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
 		</ul>
 			</li>
 		</ul>
@@ -882,19 +982,29 @@ A traveller who does not have any of the above may be refused boarding by the ai
 
 Those unable to use a mobile device due to a certified disability or special needs are eligible to be issued TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport upon arrival in Singapore.
 
-#### 7. What should travellers do if they have already booked themselves onto a non-designated flight?
+#### 7. What should travellers do if they intend to travel to Singapore under VTL, but had booked themselves onto a non-designated flight? 
 
-They should approach their airline for assistance.
+They should approach the airline for assistance to rebook a ticket on a designated VTL flight. 
 
-#### 8. Do travellers need a return flight ticket to enter Singapore?
+#### 8. What should travellers do if they are ineligible for the VTL, but had booked themselves onto a designated VTL flight? 
+
+They should approach the airline for assistance to rebook a ticket on a non-designated VTL flight. 
+
+#### 9. I have an EU Digital COVID Certificate (EU DCC) issued in a non-VTL (Air) country/region. Can I transit via a VTL country/region and take a designated VTL flight to Singapore? 
+
+No, you will not be allowed to board the designated VTL flight, as your would have had travel history to a non-VTL (Air) and non-Category I country/region.
+
+With effect from <b>6 December 2021, 2359hrs</b>, travellers with EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>. 
+
+#### 10. Do travellers need a return flight ticket to enter Singapore?
 
 Travellers under the VTL (Air) do not need a return flight ticket to enter Singapore. However, they are advised to check with the relevant authorities on the entry requirements of the country/region to which they are travelling after Singapore.
 
-#### 9. Are travellers required to take designated VTL flights to depart from Singapore?
+#### 11. Are travellers required to take designated VTL flights to depart from Singapore?
 
 No, the VTL (Air) is meant for travellers who intend to seek entry into Singapore. For travellers flying departing from Singapore, it will depend on the inbound requirements of the destination country/region. Currently, there are no requirements for designated VTL (Air) flights.
 
-#### 10. Can transfer/transit passengers travel on designated VTL (Air) flights?
+#### 12. Can transfer/transit passengers travel on designated VTL (Air) flights?
 
 Transfer/transit passengers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> with WHO EUL vaccines may travel on designated VTL (Air) flights, regardless of where they were issued their vaccination certificate and regardless of their travel history, as long as they are able to show proof of vaccination.
 
@@ -988,13 +1098,13 @@ This is to ensure that short-term visitors will be able to bear the full cost of
 
 Visitors must purchase travel insurance for the entire duration of their stay in Singapore, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. Should their COVID-19 treatment cost go beyond S$30,000, visitors will have to pay for the excess.
 
-#### 3. Do visitors need to show proof of travel insurance purchase when they apply for the VTP?
+#### 3. Do visitors need to show proof of travel insurance purchase when they apply for the VTP (Air)?
 
-Visitors will have to declare, at the point of VTP application, that they will purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
+Visitors will have to declare, at the point of VTP (Air) application, that they will purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
 
 #### 4. What penalties will be imposed on the visitor if he/she did not buy the insurance prior to entering Singapore?
 
-Purchase of travel insurance is a condition of the VTL. Non-compliance with any of the conditions of the VTL may result in refusal of entry into Singapore and/or cancellation of the VTP and/or Visit Pass. In such an event, the VTP holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
+Purchase of travel insurance is a condition of the VTL (Air). Non-compliance with any of the conditions of the VTL (Air) may result in refusal of entry into Singapore and/or cancellation of the VTP (Air) and/or Visit Pass. In such an event, the VTP (Air) holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
 ---
 
@@ -1103,69 +1213,69 @@ The S$50 deposit will be refunded if:
 <div id="application"></div>
 
  
-### Application for the Vaccinated Travel Pass (VTP)
+### Application for the Vaccinated Travel Pass (Air) [VTP (Air)]
 
-<p style="font-size:16px; color:red;line-height:1.5;"><i>Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are not required to apply for a VTP. However they must comply with all other VTL <a href="/vtl/conditions">conditions</a>.</i></p>
+<p style="font-size:16px; color:red;line-height:1.5;"><i>Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are not required to apply for a VTP (Air). However they must comply with all other VTL <a href="/vtl/conditions">conditions</a>.</i></p>
 
-#### 1. How long will it take for a VTP application to be processed?
+#### 1. How long will it take for a VTP (Air) application to be processed?
 
-All travellers who successfully submit their application will be issued with a VTP immediately.
+All travellers who successfully submit their application will be issued with a VTP (Air) immediately.
 
-#### 2. Is there a fee to apply for a VTP?
+#### 2. Is there a fee to apply for a VTP (Air)?
 
-No, there is no fee payable for the application of a VTP.  
+No, there is no fee payable for the application of a VTP (Air).  
 
-#### 3. Do travellers travelling with family members need to apply a VTP for every individual?
+#### 3. Do travellers travelling with family members need to apply a VTP (Air) for every individual?
 
-Yes, each traveller will require a VTP.
+Yes, each traveller will require a VTP (Air).
 
-#### 4. Is there a limit to the number of times travellers can apply for a VTP?
+#### 4. Is there a limit to the number of times travellers can apply for a VTP (Air)?
 
-There is no limit to the number of times travellers can apply for a VTP. Every entry into Singapore requires a new VTP application.
+There is no limit to the number of times travellers can apply for a VTP. Every entry into Singapore requires a new VTP (Air) application.
 
-#### 5. How long is the validity of a VTP?
+#### 5. How long is the validity of a VTP (Air)?
 
-A VTP is valid for single entry into Singapore anytime from the traveller’s intended date of entry and up to six calendar days after.
+A VTP (Air) is valid for single entry into Singapore anytime from the traveller’s intended date of entry and up to six calendar days after.
 
-For example, travellers who hold a valid VTP to enter Singapore on 8 September 2021, have up to 14 September 2021 to do so should they need to make changes to their flight departure date.
+For example, travellers who hold a valid VTP (Air) to enter Singapore on 8 September 2021, have up to 14 September 2021 to do so should they need to make changes to their flight departure date.
 
-#### 6. Once a VTP application is approved, can the relevant authorities change the VTL conditions or even cancel the VTP?
+#### 6. Once a VTP (Air) application is approved, can the relevant authorities change the VTL (Air) conditions or even cancel the VTP (Air)?
 
-Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may introduce new measures or requirements as and when necessary to safeguard public health. This may result in changes to the VTL conditions or cancellation of the VTP at short notice. Applicants will be notified of any such changes or cancellation of their VTP.
+Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may introduce new measures or requirements as and when necessary to safeguard public health. This may result in changes to the VTP (Air) conditions or cancellation of the VTP (Air) at short notice. Applicants will be notified of any such changes or cancellation of their VTP (Air).
 
-#### 7. Do Singapore Citizens and Permanent Residents need to apply for an VTP?
+#### 7. Do Singapore Citizens and Permanent Residents need to apply for an VTP (Air)?
 
 Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click <a href="/vtl/requirements-and-process">here</a> for more information on the requirements.
 
-#### 8. I have an In-Principle Approval (IPA) for a Long-Term Pass or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM). How should I apply for the VTP?
+#### 8. I have an In-Principle Approval (IPA) for a Long-Term Pass or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM). How should I apply for the VTP (Air)?
 
-IPA holders and MOM LTVP holders should apply for the VTP as short-term visitors. They will need to comply with all the [conditions](/vtl/conditions) of the VTP that apply to short-term visitors.
+IPA holders and MOM LTVP holders should apply for the VTP (Air) as short-term visitors. They will need to comply with all the [conditions](/vtl/conditions) of the VTP (Air) that apply to short-term visitors.
 
-#### 9. Why was I unsuccessful in applying for a VTP?
+#### 9. Why was I unsuccessful in applying for a VTP (Air)?
 
 A VTP application may be unsuccessful for reasons such as:
 - <a href="/vtl/faq#invalidcode" target="_blank">Invalid vaccination QR code</a>
 - Incomplete and/or incorrect information submitted
 - Passport validity is less than 6 months
  
-#### 10. How do I change the validity of my VTP?
+#### 10. How do I change the validity of my VTP (Air)?
 
-A VTP is valid for single entry into Singapore anytime from your intended date of entry and up to six calendar days after.
-If your travel plans change and you need to enter before or after the validity period, please submit a new VTP application. 
+A VTP (Air) is valid for single entry into Singapore anytime from your intended date of entry and up to six calendar days after.
+If your travel plans change and you need to enter before or after the validity period, please submit a new VTP (Air) application. 
 
 Should you require assistance to seek urgent entry into Singapore within the next 6 days, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555. Kindly note that all appeals are assessed on a case-by-case basis. 
 
-#### 11. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
+#### 11. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP (Air) application?
 
 If your particulars have changed, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> with your revised particulars.
 
-#### 12. How can I cancel my VTP as I no longer wish to travel to Singapore?
+#### 12. How can I cancel my VTP (Air) as I no longer wish to travel to Singapore?
 
-You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, it will automatically expire.
+You do not need to cancel your VTP (Air). If you do not utilise your VTP (Air) within the validity period, it will automatically expire.
 
-#### 13. Can travellers use the VTP to transit/transfer through Singapore?
+#### 13. Can travellers use the VTP (Air) to transit/transfer through Singapore?
 
-No, the VTP is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
+No, the VTP (Air) is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
 ---
 

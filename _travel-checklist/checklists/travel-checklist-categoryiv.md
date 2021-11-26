@@ -6,7 +6,9 @@ permalink: /travel-checklist/category-4
 
 ### Travel Checklist – Category (IV) Travel History
 
-This checklist is **only** suitable for travellers with travel history to any Category (IV) country/region in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">this list of countries/regions</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
+This checklist is **only** suitable for travellers with travel history to any Category (IV) country/region in the past 14 days before arrival in Singapore. This excludes travellers who are not a Singapore Citizen or Singapore Permanent Resident, and have visited Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe.<sup style="color:red;">[Note]</sup> Return to <a href="/shn-and-swab-summary" target="_blank">this list of countries/regions</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
+
+[<b style="color:red;"><i>Note:</i></b><i> Entries are suspended with effect from 27 Nov 2021, 2359 hrs until further notice.]</i>
 
 Travellers can check the box **(&#9744;)** for completed activities.
 
