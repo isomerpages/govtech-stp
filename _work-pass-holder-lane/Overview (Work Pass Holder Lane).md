@@ -87,7 +87,8 @@ The approval letter will indicate the travel health control measures submitters 
 
 As the control measures are subject to change based on the global situation, the Ministry of Manpower (MOM) will inform submitters whose pass holders have obtained approvals of the changes by email.
 
-5. Frequently Asked Questions
+### 4. Frequently Asked Questions
+
 Click here for the Work Pass Holder Lane FAQs.
 Click on the relevant links to MOM’s website for:
 •	Pass related matters (e.g. IPA extensions, pass issuance or renewals)
