@@ -14,11 +14,16 @@ On this page, you will find the following key information on the WPHL.
 2.	Travel History and Travel Health Control Measures
 3.	Application for Travel under the WPHL
 4.	Frequently Asked Questions
-1. Eligibility
+
+### 1. Eligibility
+
 The following traveller types are eligible to travel under the WPHL. All pass holders and their dependants entering under WPHL, regardless of travel history, must be fully vaccinated before arrival. Please read the vaccination requirements carefully. Ineligible travellers should explore other Safe Travel Lanes at the Travelling to Singapore page.
+
 1.	Confinement nannies
 2.	Helpers
 3.	Foreigners currently on or have in-principle approval (IPA) for any of these passes that are valid for at least 15 days from their planned arrival date:
+
+
 •	Dependant’s Pass
 •	Employment Pass
 •	EntrePass
@@ -29,17 +34,26 @@ The following traveller types are eligible to travel under the WPHL. All pass ho
 •	Training Work Permit
 •	Work Holiday Pass
 •	Work Permit
+
 For passes or IPAs that have less than 15 days of validity, please renew the passes or extend the IPA validities before submitting entry applications.
-2.	Travel History and Travel Health Control Measures 
-CLICK HERE to check the latest travel health control measures (e.g. Stay-Home Notice and COVID-19 tests) set on pass holders using the WPHL, and the costs of the various measures. The measures imposed are based on the pass holder’s 14-day travel history to various countries/regions before arriving in Singapore. 
+
+### 2.	Travel History and Travel Health Control Measures 
+
+CLICK HERE to check the latest travel health control measures (e.g. Stay-Home Notice and COVID-19 tests) set on pass holders using the WPHL, and the costs of the various measures. The measures imposed are based on the pass holder’s 14-day travel history to various countries/regions before arriving in Singapore.
+
 If pass holders are departing from a Vaccinated Travel Lane country/region and intend to return via the Vaccinated Travel Lane instead to enjoy quarantine-free travel, they should apply for a Vaccinated Travel Pass instead. Click the links below for more information on: 
+
 •	Vaccinated Travel Lane (Air)
-•	Vaccinated Travel Lane (Land) 
-3.  Application for Travel under the WPHL
+•	Vaccinated Travel Lane (Land)
+
+### 3.  Application for Travel under the WPHL
+
 Different pass holders will have different application requirements. Please read the requirements below carefully. 
+
 Please note that:
 •	Application window is 3 to 60 days before planned date of arrival in Singapore.
 •	Approval is valid for +/- 1 day from the planned date of arrival to accommodate possible flight changes.
+
 Type 1: Specific Passes
 
 The following types of workers should apply for entry directly via MOM’s website.
@@ -82,6 +96,14 @@ Click on the relevant links to MOM’s website for:
 If your questions are not addressed by the FAQs above, you can submit your question here.
 
 
+
+
+
+
+
+
+
+<!--- TO BE DELETED-->
 The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates the entry of foreigners with passes granted by the Ministry of Manpower (“Pass holders”) into Singapore. 
 
 All pass holders must obtain an entry approval to enter Singapore. This however, excludes pass holders conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea. 
