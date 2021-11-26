@@ -141,6 +141,14 @@ To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, trav
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://flyasiana.com/C/SG/EN/customer/notice/detail?id=CM202110120001515786" target="_blank">Asiana Airlines</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Republic of Korea</td>
 </tr>
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.emirates.com/sg/english/" target="_blank">Emirates</a></td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">United Arab Emirates</td>
+</tr>
+				<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.etihad.com/en-sg/" target="_blank">Etihad Airways</a></td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">United Arab Emirates</td>
+</tr>
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.finnair.com/gb-en/flight-information/travel-updates/travelling-via-singapore-2424534" target="_blank">Finnair</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Finland</td>
@@ -150,7 +158,7 @@ To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, trav
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Indonesia</td>
 </tr>	
 				<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.goindigo.in/" target="_blank">InterGlobe Aviation (IndiGo)</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.goindigo.in/" target="_blank">IndiGo</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">India</td>
 </tr>	
 	<tr>
@@ -189,9 +197,17 @@ To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, trav
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.qantas.com/sg/en/coronavirus/international-travel/singapore-flights.html" target="_blank">Qantas</a></td>
 			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia</td>
 </tr>
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.qatarairways.com/en-sg/homepage.html" target="_blank">Qatar Airways</a></td>
+			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Qatar</td>
+</tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.flyroyalbrunei.com/singapore/en/help-support/frequently-asked-questions/vaccinated-travel-lane-vtl/" target="_blank">Royal Brunei Airlines</a></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Brunei Darussalam</td>
+</tr>
+		<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.saudia.com/" target="_blank">Saudia</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Saudi Arabia</td>
 </tr>
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.flyscoot.com/en/announcements/vaccinated-travel-lane-flights" target="_blank">Scoot</a></td>
@@ -206,7 +222,7 @@ To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, trav
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Switzerland</td>
 </tr>
 				<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://airvistara.com/" target="_blank">TATA SIA (Vistara)</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://airvistara.com/" target="_blank">Vistara</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">India</td>
 </tr>
 	<tr>
