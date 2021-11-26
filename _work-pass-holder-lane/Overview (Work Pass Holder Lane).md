@@ -75,7 +75,7 @@ Please note that:
 </thead>
 <tbody>
 	<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of workers should apply for entry directly via MOM’s website.
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of workers should <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore" target="_blank">apply for entry directly via MOM’s website</a>.
 <ol style="list-style-type:lower-latin;">
 	<li style="font-size:18px; margin-top:0px; line-height:1.5;">Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
 		<ol style="list-style-type:disc;">
