@@ -101,8 +101,10 @@ Please note that:
 	<tr>
 		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
 Work pass holders who are immediate family members of Singapore Citizens or Permanent Residents of Singapore (SCs/PRs) can consider the following options:
-•	SC/PR Familial Ties Lane applied by SC/PR family member
-•	Work Pass Holder Lane (WPHL) applied by employer
+		<ol style="list-style-type:disc;">
+			<li style="font-size:18px; margin-top:10px; line-height:1.5;">SC/PR Familial Ties Lane applied by SC/PR family member</li>
+			<li style="font-size:18px; margin-top:10px; line-height:1.5;">Work Pass Holder Lane (WPHL) applied by employer</li>
+			</ol>
 		</td>
 	</tr>
 	</tbody>
