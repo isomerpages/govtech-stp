@@ -80,11 +80,11 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> <br/><br/> <i>For Arrivals by flight only</i></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> including any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 17px; list-style-type: disc;">
-	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
-	<li style="line-height:1.5; margin-top:10px;">Finland, Indonesia, India, Malaysia and Sweden (for entry into Singapore from 29 Nov 2021)</li>
-					 		<li style="line-height:1.5; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (for entry into Singapore from 6 Dec 2021)</li>
-				   <li style="line-height:1.5; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 14 Dec 2021)</li>
-				   <li style="line-height:1.5; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 16 Dec 2021)</li>
+	<li style="line-height:1.5; font-size: 18px;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
+	<li style="line-height:1.5; margin-top:10px; font-size: 18px;">Finland, Indonesia, India, Malaysia and Sweden (for entry into Singapore from 29 Nov 2021)</li>
+					 		<li style="line-height:1.5; font-size: 18px; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (for entry into Singapore from 6 Dec 2021)</li>
+				   <li style="line-height:1.5; font-size: 18px; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 14 Dec 2021)</li>
+				   <li style="line-height:1.5; font-size: 18px; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 16 Dec 2021)</li>
 				 </ul>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
@@ -98,8 +98,8 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl-land/overview">Vaccinated Travel Lane (Land)</a> <br/><br/> <i>For Arrivals by Land only</i></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> including any accompanying unvaccinated children below 12 years old, meeting the following conditions:
 			   <ul style="font-size: 17px; list-style-type: disc;">
-	<li style="line-height:1.5;">Entering Singapore via the Causeway and Second Link from Malaysia; and</li>
-	<li style="line-height:1.5; margin-top:10px;">Is a resident of Singapore, this includes a Singapore Citizen, Singapore Permanent Resident, and holder of a valid Long-Term Pass issued by Singapore, e.g. Work Pass, S Pass, Student's Pass etc.</li>
+	<li style="line-height:1.5; font-size: 18px;">Entering Singapore via the Causeway and Second Link from Malaysia; and</li>
+	<li style="line-height:1.5;font-size: 18px; margin-top:10px;">Is a resident of Singapore, this includes a Singapore Citizen, Singapore Permanent Resident, and holder of a valid Long-Term Pass issued by Singapore, e.g. Work Pass, S Pass, Student's Pass etc.</li>
 				 </ul>
 			   <p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;">N<i>Note: All In-Principal Approval (IPA) holders (e.g. newly-approved pass holders entering Singapore for the first time) should apply for entry via the available lanes found in this list.</i></p>
 				</td>

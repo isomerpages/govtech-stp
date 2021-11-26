@@ -54,7 +54,7 @@ permalink: /FAQ
       </td>
     </tr>  
 <tr style="border-bottom:1.2px solid #E8E8E8;">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/overview">Singapore Citizen/PR Familial Ties Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/overview">Familial Ties Lane</a></td>
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/faq">FAQ</a> 
       </td>
     </tr>
