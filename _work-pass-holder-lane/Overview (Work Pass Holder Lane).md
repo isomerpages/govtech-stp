@@ -63,25 +63,29 @@ If pass holders are departing from a Vaccinated Travel Lane country/region and i
 
 Different pass holders will have different application requirements. Please read the requirements below carefully. 
 
-<b>Please note that:</b>
-- <b>Application window is 3 to 60 days before planned date of arrival in Singapore.</b>
-- <b>Approval is valid for +/- 1 day from the planned date of arrival to accommodate possible flight changes.</b>
+Please note that:
+- Application window is 3 to 60 days before planned date of arrival in Singapore.
+- Approval is valid for +/- 1 day from the planned date of arrival to accommodate possible flight changes.
 
 <table>
 <thead>
 <tr>
-<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 1: Specific Passes</b></th>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 1: Specific Passes</b></th>
 </tr>
 </thead>
 <tbody>
 	<tr>
 		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of workers should apply for entry directly via MOM’s website.
-a)	Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
-•	Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and
-•	Are entering Singapore without their dependants.
-b)	Work Holiday Pass (WHP) holders
-c)	Personalised Employment Pass (PEP) holders (without employers) and their dependants
-d)	EntrePass holders (without Corppass) and their dependants
+<ol style="list-style-type:lower-latin;">
+	<li style="font-size:18px; margin-top:0px; line-height:1.5;">Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
+		<ol style="list-style-type:disc;">
+<li style="font-size:18px; margin-top:0px; line-height:1.5;">Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and</li>
+<li style="font-size:18px; margin-top:0px; line-height:1.5;">Are entering Singapore without their dependants.</li>
+			</ol></li>
+<li style="font-size:18px; margin-top:10px; line-height:1.5;">Work Holiday Pass (WHP) holders</li>
+<li style="font-size:18px; margin-top:10px; line-height:1.5;">Personalised Employment Pass (PEP) holders (without employers) and their dependants</li>
+<li style="font-size:18px; margin-top:10px; line-height:1.5;">EntrePass holders (without Corppass) and their dependants</li>
+			</ol>
 		</td>
 	</tr>
 	</tbody>
@@ -135,6 +139,7 @@ Work pass holders who are immediate family members of Singapore Citizens or Perm
 <div id="PDEntry"></div>
 
 ### 4. Pre-Departure & Entry Procedures
+
 The approval letter will indicate the travel health control measures submitters (i.e. employers or employment agencies which submitted the entry applications) and their pass holders must comply with.
 
 As the control measures are subject to change based on the global situation, the Ministry of Manpower (MOM) will inform submitters whose pass holders have obtained approvals of the changes by email.
