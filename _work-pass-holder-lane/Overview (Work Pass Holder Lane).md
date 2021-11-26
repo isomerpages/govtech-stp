@@ -30,19 +30,20 @@ The following traveller types are eligible to travel under the WPHL. All pass ho
 <li>Helpers</li>
 <li>Foreigners currently on or have in-principle approval (IPA) for any of these passes that are valid for at least 15 days from their planned arrival date:
 <ol style="list-style-type:disc;">
-<li>Dependant’s Pass</li>
-<li>Employment Pass</li>
-<li>EntrePass</li>
-<li>Long-Term Visit Pass</li>
-<li>Personalised Employment Pass</li>
-<li>S Pass</li>
-<li>Training Employment Pass</li>
-<li>Training Work Permit</li>
-<li>Work Holiday Pass</li>
-<li>Work Permit</li>
+<li style="line-height:1.5;">Dependant’s Pass</li>
+<li style="line-height:1.5;">Employment Pass</li>
+<li style="line-height:1.5;">EntrePass</li>
+<li style="line-height:1.5;">Long-Term Visit Pass</li>
+<li style="line-height:1.5;">Personalised Employment Pass</li>
+<li style="line-height:1.5;">S Pass</li>
+<li style="line-height:1.5;">Training Employment Pass</li>
+<li style="line-height:1.5;">Training Work Permit</li>
+<li style="line-height:1.5;">Work Holiday Pass</li>
+<li style="line-height:1.5;">Work Permit</li>
 	</ol>
 	</li>
 </ol>
+
 For passes or IPAs that have less than 15 days of validity, please renew the passes or extend the <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa" target="_blank">IPA validities</a> before submitting entry applications.
 
 <div id="hcm"></div>
