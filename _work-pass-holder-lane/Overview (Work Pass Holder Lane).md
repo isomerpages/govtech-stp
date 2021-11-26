@@ -25,22 +25,22 @@ On this page, you will find the following key information on the WPHL.
 
 The following traveller types are eligible to travel under the WPHL. All pass holders and their dependants entering under WPHL, regardless of travel history, must be fully vaccinated before arrival. Please read the vaccination requirements carefully. Ineligible travellers should explore other Safe Travel Lanes at the Travelling to Singapore page.
 
-1.	Confinement nannies
-2.	Helpers
-3.	Foreigners currently on or have in-principle approval (IPA) for any of these passes that are valid for at least 15 days from their planned arrival date:
-
-
-•	Dependant’s Pass
-•	Employment Pass
-•	EntrePass
-•	Long-Term Visit Pass
-•	Personalised Employment Pass
-•	S Pass
-•	Training Employment Pass
-•	Training Work Permit
-•	Work Holiday Pass
-•	Work Permit
-
+<ol style="list-style-type:decimal;">
+<li>Confinement nannies</li>
+<li>Helpers</li>
+<li>Foreigners currently on or have in-principle approval (IPA) for any of these passes that are valid for at least 15 days from their planned arrival date:
+<ol style="list-style-type:disc;">
+<li>Dependant’s Pass</li>
+<li>Employment Pass</li>
+<li>EntrePass</li>
+<li>Long-Term Visit Pass</li>
+<li>Personalised Employment Pass</li>
+<li>S Pass</li>
+<li>Training Employment Pass</li>
+<li>Training Work Permit</li>
+<li>Work Holiday Pass</li>
+<li>Work Permit</li>
+</li></ol>
 For passes or IPAs that have less than 15 days of validity, please renew the passes or extend the IPA validities before submitting entry applications.
 
 <div id="hcm"></div>
