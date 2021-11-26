@@ -146,15 +146,16 @@ input:checked + label + .content {
 <ol style="margin-top: 0px; list-style-type: decimal;">
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:  <br><br>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint. If entering Singapore by:
 <ol style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore by air]</b> Register and pay for on-arrival test <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a>.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For entry into Singapore by land or sea]</b>: Register and pay for on-arrival test <a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">here</a>.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Air</b> Register and pay for on-arrival test <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a>.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Land or sea</b>: Register and pay for on-arrival test <a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">here</a>.</li>
 	</ol>
-	<br>
-	Submitters must register and pay for the on-arrival test ($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
+	</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the on-arrival test ($125 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 </li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to self-isolate until they get a negative test result. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their place of isolation. </li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Self-isolate until they get a negative test result. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</li>
 </ol>
