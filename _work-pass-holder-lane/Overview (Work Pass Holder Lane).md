@@ -11,13 +11,13 @@ The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates 
 
 On this page, you will find the following key information on the WPHL. 
 
-<ol>
-	<li>Eligibility</li>
-2.	Travel History and Travel Health Control Measures
-3.	Application for Travel under the WPHL
-4.	Pre-departure and Entry Procedures
-5.	Frequently Asked Questions
-	</ol>
+<ol style="list-style-type=decimal;">
+<li><a href="#eligibility">Eligibility</a></li>
+<li><a href="#hcm">Travel History and Travel Health Control Measures</a></li>
+<li><a href="#application">Application for Travel under the WPHL</a></li>
+<li><a href="#PDEntry">Pre-departure and Entry Procedures</a></li>
+<li><a href="#FAQ">Frequently Asked Questions</a></li>
+</ol>
 
 <div id="eligibility"></div>
 
@@ -91,11 +91,15 @@ Type 4: All other Pass Holders
 Employers to apply via the WPHL Portal (use Corppass to log in)
 
 •	
+<div id="PDEntry"></div>
 
 ### 4. Pre-Departure & Entry Procedures
 The approval letter will indicate the travel health control measures submitters (i.e. employers or employment agencies which submitted the entry applications) and their pass holders must comply with.
 
 As the control measures are subject to change based on the global situation, the Ministry of Manpower (MOM) will inform submitters whose pass holders have obtained approvals of the changes by email.
+
+
+<div id="FAQ"></div>
 
 ### 5. Frequently Asked Questions
 
