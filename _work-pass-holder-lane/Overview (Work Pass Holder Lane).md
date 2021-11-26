@@ -132,7 +132,7 @@ Work pass holders who are immediate family members of Singapore Citizens or Perm
 </thead>
 <tbody>
   <tr>
-    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Employers to apply via the WPHL Portal (use Corppass to log in)</td>
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Employers to apply via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">WPHL Portal</a> (use Corppass to log in)</td>
   </tr>
   </tbody>
   </table>
