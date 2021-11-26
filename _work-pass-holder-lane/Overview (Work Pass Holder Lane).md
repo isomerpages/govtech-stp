@@ -13,7 +13,8 @@ On this page, you will find the following key information on the WPHL.
 1.	Eligibility
 2.	Travel History and Travel Health Control Measures
 3.	Application for Travel under the WPHL
-4.	Frequently Asked Questions
+4.	Pre-departure and Entry Procedures
+5.	Frequently Asked Questions
 
 <div id="eligibility"></div>
 
@@ -88,12 +89,12 @@ Employers to apply via the WPHL Portal (use Corppass to log in)
 
 •	
 
-4. Pre-Departure & Entry Procedures
+### 4. Pre-Departure & Entry Procedures
 The approval letter will indicate the travel health control measures submitters (i.e. employers or employment agencies which submitted the entry applications) and their pass holders must comply with.
 
 As the control measures are subject to change based on the global situation, the Ministry of Manpower (MOM) will inform submitters whose pass holders have obtained approvals of the changes by email.
 
-### 4. Frequently Asked Questions
+### 5. Frequently Asked Questions
 
 Click here for the Work Pass Holder Lane FAQs.
 Click on the relevant links to MOM’s website for:
