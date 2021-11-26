@@ -41,7 +41,7 @@ The following traveller types are eligible to travel under the WPHL. All pass ho
 <li>Work Holiday Pass</li>
 <li>Work Permit</li>
 </li></ol>
-For passes or IPAs that have less than 15 days of validity, please renew the passes or extend the IPA validities before submitting entry applications.
+For passes or IPAs that have less than 15 days of validity, please renew the passes or extend the <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa" target="_blank">IPA validities</a> before submitting entry applications.
 
 <div id="hcm"></div>
 
