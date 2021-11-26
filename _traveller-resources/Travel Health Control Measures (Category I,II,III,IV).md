@@ -28,9 +28,7 @@ This page provides a summary of the four categories of travel health control mea
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
-							<!-- <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>&#10114;</b> Short Term Travellers are defined as those who are not Singapore Citizens, Permanent Residents or Long Term Pass Holders (e.g. Work Pass, Student's Pass, Dependant's Pass, In-Principle Approval Work or Student Pass Holders)
-										</p>-->
+							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><!--<b>&#10114;</b>--><span style="color:red;"><b><sup>New!</sup></b>From 27 Nov 2021, 2359hrs, travellers whose 14-day travel history includes Botswana, Eswatini, Lesotho, Nambia, South Africa and Zimbabwe are disallowed from entry into Singapore. This, however, excludes Singapore Citizens and Permanent Residents, who may continue to return to Singapore but be subjected to the Cat (IV) protocols.</p>
 			</td>
     </tr>
 	</tbody>
@@ -175,7 +173,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions<sup style="color:red;">[Note]</sup></b><br><br><i style="color:red;">[<b>Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Lesotho, Nambia, South Africa and Zimbabwe. Non-SC/PRs with a travel history to the aforementioned countries/regions are barred from entry with effect from 27 Nov 2021, 2359hrs until further notice.]</i></th>
 </tr>
 </thead>
 <tbody>
@@ -199,7 +197,7 @@ This page provides a summary of the four categories of travel health control mea
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn#sdf">SHN Dedicated Facility</a>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
-	<table>
+	<!--<table>
   <thead>
     <tr>
      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Countries/ Regions</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Additional Requirements/ Exceptions </b></th>
@@ -220,7 +218,7 @@ All other travellers disallowed entry, including travellers who have received pr
  </td>
     </tr>
 		</tbody>
-	</table>
+	</table>-->
 </td>
 	</tr>
 	</tbody>
