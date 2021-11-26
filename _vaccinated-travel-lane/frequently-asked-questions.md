@@ -497,13 +497,13 @@ You may refer to this table below. Please extract (i.e. screen-capture, crop and
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code <br/><br/> <i>Please upload the 1-page PDF file containing your vaccination certificate</i></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>	
-	<tr>
+	<!--<tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Bahrain<br><br><span style="font-size: 15px; color:red;"><i>[For VTP applications from 9 Dec 2021, 1800hrs]</i></span></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">COVID-19 Vaccination Certificate issued by the Ministry of Health, Kingdom of Bahrain</td>
     <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/QR_Australia.png" width="54" height="84"></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code <br/></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
-</tr> 
+</tr> -->
 <tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Canada</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://smarthealth.cards/faq.html" target="_blank">Smart Health Cards (SHC)</a> issued by any Canadian province</td>
@@ -511,13 +511,13 @@ You may refer to this table below. Please extract (i.e. screen-capture, crop and
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code containing information on both doses</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>
-	<tr>
+	<!--<tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Egypt<br><br><i>[For VTP applications from 9 Dec 2021, 1800hrs]</i></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">COVID-19 Vaccine Certificate issued by the Ministry of Health & Population, Arab Republic of Egypt</td>
     <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/QR_India.png" width="54" height="84"></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
-</tr> 
+</tr> -->
 <tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Denmark<br>
 Finland<br> 
@@ -774,7 +774,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 
 At this point in time, there are no designated VTL (Air) flights operating from Category I countries/regions to Singapore. You will not be eligible for the VTL (Air) as you do not fulfill the requirement to arrive in Singapore on a designated VTL (Air) flight.
 
-#### 8. I have an EU Digital COVID Cetificate (EU DCC) issued in a non-VTL (Air) country/region. Can I have travel history to non-VTL(Air) and non-Category I countries/regions.
+#### 8. I have an EU Digital COVID Cetificate (EU DCC) issued in a non-VTL (Air) country/region. Can I have travel history to non-VTL(Air) and non-Category I countries/regions?
 
 No, travellers may not have travel history to non-VTL (Air) country/region and non-Category I countries/regions.
 
@@ -981,19 +981,29 @@ A traveller who does not have any of the above may be refused boarding by the ai
 
 Those unable to use a mobile device due to a certified disability or special needs are eligible to be issued TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport upon arrival in Singapore.
 
-#### 7. What should travellers do if they have already booked themselves onto a non-designated flight?
+#### 7. What should travellers do if they intend to travel to Singapore under VTL, but had booked themselves onto a non-designated flight? 
 
-They should approach their airline for assistance.
+They should approach the airline for assistance to rebook a ticket on a designated VTL flight. 
 
-#### 8. Do travellers need a return flight ticket to enter Singapore?
+#### 8. What should travellers do if they are ineligible for the VTL, but had booked themselves onto a designated VTL flight? 
+
+They should approach the airline for assistance to rebook a ticket on a non-esignated VTL flight. 
+
+#### 9. I have an EU Digital COVID Certificate (EU DCC) issued in a non-VTL (Air) country/region. Can I transit via a VTL country/region and take a designated VTL flight to Singapore? 
+
+No, you will not be allowed to board the designated VTL flight, as your would have had travel history to a non-VTL (Air) and non-Category I country/region.
+
+With effect from <b>6 December 2021, 2359hrs</b>, travellers with EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>. 
+
+#### 10. Do travellers need a return flight ticket to enter Singapore?
 
 Travellers under the VTL (Air) do not need a return flight ticket to enter Singapore. However, they are advised to check with the relevant authorities on the entry requirements of the country/region to which they are travelling after Singapore.
 
-#### 9. Are travellers required to take designated VTL flights to depart from Singapore?
+#### 11. Are travellers required to take designated VTL flights to depart from Singapore?
 
 No, the VTL (Air) is meant for travellers who intend to seek entry into Singapore. For travellers flying departing from Singapore, it will depend on the inbound requirements of the destination country/region. Currently, there are no requirements for designated VTL (Air) flights.
 
-#### 10. Can transfer/transit passengers travel on designated VTL (Air) flights?
+#### 12. Can transfer/transit passengers travel on designated VTL (Air) flights?
 
 Transfer/transit passengers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> with WHO EUL vaccines may travel on designated VTL (Air) flights, regardless of where they were issued their vaccination certificate and regardless of their travel history, as long as they are able to show proof of vaccination.
 
