@@ -151,12 +151,14 @@ As the control measures are subject to change based on the global situation, the
 
 ### 5. Frequently Asked Questions
 
-Click here for the Work Pass Holder Lane FAQs.
-Click on the relevant links to MOM’s website for:
-•	Pass related matters (e.g. IPA extensions, pass issuance or renewals)
-•	Entry applications for CMP workers
+Click <a href="/wphl/faq" target="_blank">here</a> for the Work Pass Holder Lane FAQs.
 
-If your questions are not addressed by the FAQs above, you can submit your question here.
+Click on the relevant links to MOM’s website for:
+
+- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">Pass related matters (e.g. IPA extensions, pass issuance or renewals)</a>
+- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">Entry applications for CMP workers</a>
+
+If your questions are not addressed by the FAQs above, you can submit your question <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>.
 
 
 
