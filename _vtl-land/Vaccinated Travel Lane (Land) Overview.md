@@ -120,7 +120,7 @@ input:checked + label + .content {
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Janssen/J&J (Ad26.COV2.S), 1 dose</li>
 	</ol>
 	</p>
-	<p style="line-height:1.4; font-size:18px; ">Unvaccinated travellers who are 12 and below in this calendar year can still travel to Singapore via VTL (Land) if accompanied by a fully vaccinated VTL traveller.</p>
+	<p style="line-height:1.4; font-size:18px; ">Children who are 12 and below in this calendar year and are unvaccinated can still travel to Singapore via VTL (Land) <b>if</b> accompanied by a fully vaccinated VTL traveller. However the child must be a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term Pass.</p>
 	</div>
 	
 <input type="checkbox" id="title3" />
@@ -143,7 +143,7 @@ input:checked + label + .content {
 <div id="criteria" class="content" style="background-color:#edf4fa;">	
 	<p style="line-height:1.4; font-size:18px; ">Travellers must:
 		<ol style="list-style-type:lower-roman">
-			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, any other VTL country as recognised by the Government of Singapore, and/or Singapore in the last 14 consecutive days before departing for Singapore; and </li>
+			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category I country</a> in the last 14 consecutive days before departing for Singapore; and </li>
 			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
 					<ol style="list-style-type:disc;">
 <li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.causewaylink.com.my" target="_blank">Handal Indah</a></li>
