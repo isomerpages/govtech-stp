@@ -41,7 +41,7 @@ All other transit travellers must take a COVID-19 test <b>within 2 days before d
   	<tr>
 	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Category (IV) countries/regions <br><br> <i>(Excluding Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe, where transits are suspended w.e.f. 27 Nov 2021, 2359hrs until further notice)</i>
 </td>
-    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;">COVID-19 Polymerase Chain Reaction Test;</td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;">COVID-19 Polymerase Chain Reaction Test</td>
 	</tr>
 	</tbody>
 	</table>
