@@ -11,7 +11,7 @@ The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates 
 
 On this page, you will find the following key information on the WPHL. 
 
-<ol style="list-style-type=decimal;">
+<ol style="list-style-type:decimal;">
 <li><a href="#eligibility">Eligibility</a></li>
 <li><a href="#hcm">Travel History and Travel Health Control Measures</a></li>
 <li><a href="#application">Application for Travel under the WPHL</a></li>
