@@ -75,7 +75,7 @@ Different pass holders will have different application requirements. Please read
 </thead>
 <tbody>
 	<tr>
-		<td style="font-size:16px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of workers should apply for entry directly via MOM’s website.
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of workers should apply for entry directly via MOM’s website.
 a)	Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
 •	Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and
 •	Are entering Singapore without their dependants.
@@ -90,15 +90,15 @@ d)	EntrePass holders (without Corppass) and their dependants
 <table>
 <thead>
 <tr>
-<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 2: Pass Holders who are Immediate Family Members of Singapore Citizens/PRs </b></th>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 2: Pass Holders who are Immediate Family Members of Singapore Citizens/PRs </b></th>
 </tr>
 </thead>
 <tbody>
 	<tr>
 		<td style="font-size:16px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of workers should apply for entry directly via MOM’s website.
 a)	Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
-•	Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and
-•	Are entering Singapore without their dependants.
+- Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and
+- Are entering Singapore without their dependants.
 b)	Work Holiday Pass (WHP) holders
 c)	Personalised Employment Pass (PEP) holders (without employers) and their dependants
 d)	EntrePass holders (without Corppass) and their dependants
