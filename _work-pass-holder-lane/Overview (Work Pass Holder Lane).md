@@ -82,7 +82,7 @@ Please note that:
 <li style="font-size:18px; margin-top:0px; line-height:1.5;">Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and</li>
 <li style="font-size:18px; margin-top:0px; line-height:1.5;">Are entering Singapore without their dependants.</li>
 			</ol></li>
-<li style="font-size:18px; margin-top:10px; line-height:1.5;">Work Holiday Pass (WHP) holders</li>
+<li style="font-size:18px; margin-top:20px; line-height:1.5;">Work Holiday Pass (WHP) holders</li>
 <li style="font-size:18px; margin-top:10px; line-height:1.5;">Personalised Employment Pass (PEP) holders (without employers) and their dependants</li>
 <li style="font-size:18px; margin-top:10px; line-height:1.5;">EntrePass holders (without Corppass) and their dependants</li>
 			</ol>
