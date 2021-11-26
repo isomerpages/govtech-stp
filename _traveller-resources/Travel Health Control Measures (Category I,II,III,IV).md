@@ -197,28 +197,6 @@ This page provides a summary of the four categories of travel health control mea
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn#sdf">SHN Dedicated Facility</a>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
-	<!--<table>
-  <thead>
-    <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Countries/ Regions</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Additional Requirements/ Exceptions </b></th>
-    </tr>
-  </thead>
-  <tbody>
-		    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">	<ul style="margin-top:0px; list-style-type: disc;">
-						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Botswana</b></li>
-						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Eswatini</b></li>
-						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Lesotho</b></li>
-						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>South Africa</b></li>
-						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Zimbabwe</b></li>
-				</ul></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Only Singapore Citizens, Permanent Residents and travellers under the Death and Critical Illness Emergency Visits Lane are allowed entry. 
-<br><br>
-All other travellers disallowed entry, including travellers who have received prior entry approvals.
- </td>
-    </tr>
-		</tbody>
-	</table>-->
 </td>
 	</tr>
 	</tbody>
