@@ -47,7 +47,7 @@ Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 ye
 	<li style="line-height:1.5; margin-top:10px;">Finland, India, Indonesia, Malaysia, and Sweden (for entry into Singapore from 29 Nov 2021)</li>
 			<li style="line-height:1.5; margin-top:10px;">Qatar, Saudi Arabia and the United Arab Emirates (applications open on 29 Nov 2021, for entry into Singapore from 6 Dec 2021)</li>
 	<li style="line-height:1.5; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 13 Dec 2021)</li>
-	<li style="line-height:1.5; margin-top:10px;">Bahrain, Cambodia, Egypt, Fiji, Israel, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 15 Dec 2021)</li>
+	<li style="line-height:1.5; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 15 Dec 2021)</li>
 	</ol>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
@@ -84,7 +84,7 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 	<li style="line-height:1.5; margin-top:10px;">Finland, Indonesia, India, Malaysia and Sweden (for entry into Singapore from 29 Nov 2021)</li>
 					 		<li style="line-height:1.5; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (for entry into Singapore from 6 Dec 2021)</li>
 				   <li style="line-height:1.5; margin-top:10px;">Thailand (for entry into Singapore from 13 Dec 2021)</li>
-				   <li style="line-height:1.5; margin-top:10px;">Bahrain, Cambodia, Egypt, Fiji, Israel, Maldives, Sri Lanka and Turkey (for entry into Singapore from 15 Dec 2021)</li>
+				   <li style="line-height:1.5; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (for entry into Singapore from 15 Dec 2021)</li>
 				 </ul>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
@@ -177,7 +177,7 @@ Travellers who need to only make a short-term visits to Singapore may use the la
 					 	<li style="line-height:1.5; margin-top:10px;">Finland, Indonesia, India, Malaysia and Sweden (for entry into Singapore from 29 Nov 2021)</li>
 					 		<li style="line-height:1.5; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (for entry into Singapore from 6 Dec 2021)</li>
 				    <li style="line-height:1.5; margin-top:10px;">Thailand (for entry into Singapore from 13 Dec 2021)</li>
-				   <li style="line-height:1.5; margin-top:10px;">Bahrain, Cambodia, Egypt, Fiji, Israel, Maldives, Sri Lanka and Turkey (for entry into Singapore from 15 Dec 2021)</li>
+				   <li style="line-height:1.5; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (for entry into Singapore from 15 Dec 2021)</li>
 				 </ul>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
