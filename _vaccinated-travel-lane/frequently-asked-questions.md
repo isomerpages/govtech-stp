@@ -752,7 +752,7 @@ Yes, you will be eligible for the VTL (Air) so long as your travel history withi
 
 You may be eligible for the VTL (Air) if your travel and transit history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL (Air) countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. 
 
-However, if you were in a non-VTL (Air) and non Category I country/region at any point within the past 14 days, you will not be eligible for the VTL (Air).
+However, if you were in a non-VTL (Air) and non-Category I country/region at any point within the past 14 days, you will not be eligible for the VTL (Air).
 
 #### 5. I am only travelling to [VTL (Air) countries/regions](/vtl/requirements-and-process#countries), but will transit via a non-VTL (Air) and non-Category I country/region in my departing flight from Singapore. Will I be eligible to return to Singapore on the VTL (Air)?
 
