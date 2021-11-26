@@ -988,7 +988,7 @@ They should approach the airline for assistance to rebook a ticket on a designat
 
 #### 8. What should travellers do if they are ineligible for the VTL, but had booked themselves onto a designated VTL flight? 
 
-They should approach the airline for assistance to rebook a ticket on a non-esignated VTL flight. 
+They should approach the airline for assistance to rebook a ticket on a non-designated VTL flight. 
 
 #### 9. I have an EU Digital COVID Certificate (EU DCC) issued in a non-VTL (Air) country/region. Can I transit via a VTL country/region and take a designated VTL flight to Singapore? 
 
