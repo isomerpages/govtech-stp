@@ -505,8 +505,8 @@ input:checked + label + .content {
 	<tr>
 	<td>
 <!--Cat1 Countries-->
-<input type="checkbox" id="CountryListCat1" />
-<label for="CountryListCat1" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
+<input type="checkbox" id="CountryListCat1-before" />
+<label for="CountryListCat1-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -530,8 +530,8 @@ input:checked + label + .content {
 </ol>
 </div>
 	<!--Cat1 Other Work Pass Holders-->
-	<input type="checkbox" id="OtherWorkPassHolders-1" />
-<label for="OtherWorkPassHolders-1" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
+	<input type="checkbox" id="OtherWorkPassHolders-1before" />
+<label for="OtherWorkPassHolders-1before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -574,8 +574,8 @@ input:checked + label + .content {
 	<tr>
 	<td>
 <!--Cat2 Helpers/CNs-->
-<input type="checkbox" id="CountryListCat2" />
-<label for="CountryListCat2" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
+<input type="checkbox" id="CountryListCat2-before" />
+<label for="CountryListCat2-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -611,8 +611,8 @@ input:checked + label + .content {
 </ol>
 </div>
 	<!--Cat2 Other Work Pass Holders-->
-	<input type="checkbox" id="OtherWorkPassHolders-2" />
-<label for="OtherWorkPassHolders-2" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
+	<input type="checkbox" id="OtherWorkPassHolders-2before" />
+<label for="OtherWorkPassHolders-2before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -665,8 +665,8 @@ input:checked + label + .content {
 	<tr>
 	<td>
 <!--Cat3 Helpers and CNs-->
-<input type="checkbox" id="CountryListCat3" />
-<label for="CountryListCat3" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
+<input type="checkbox" id="CountryListCat3-before" />
+<label for="CountryListCat3-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -703,8 +703,8 @@ input:checked + label + .content {
 </ol>
 </div>
 	<!--Cat3 Other Work Pass Holders-->
-	<input type="checkbox" id="OtherWorkPassHolders-3" />
-<label for="OtherWorkPassHolders-3" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
+	<input type="checkbox" id="OtherWorkPassHolders-3before" />
+<label for="OtherWorkPassHolders-3before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> ④ </sup>  before arrival.</b></li>
@@ -755,8 +755,8 @@ input:checked + label + .content {
 	<tr>
 	<td>
 <!--Cat4 Helpers and CNs-->
-<input type="checkbox" id="CountryListCat4" />
-<label for="CountryListCat4" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
+<input type="checkbox" id="CountryListCat4-before" />
+<label for="CountryListCat4-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
@@ -781,8 +781,8 @@ input:checked + label + .content {
 		</ol>
 </div>
 	<!--Cat4 Other Work Pass Holders-->
-	<input type="checkbox" id="OtherWorkPassHolders-4" />
-<label for="OtherWorkPassHolders-4" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
+	<input type="checkbox" id="OtherWorkPassHolders-4before" />
+<label for="OtherWorkPassHolders-4before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> ④ </sup> before arrival.</b></li>
