@@ -208,7 +208,6 @@ This page provides a summary of the four categories of travel health control mea
   <tbody>
 		    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">	<ul style="margin-top:0px; list-style-type: disc;">
-		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>	Bangladesh</b></li>
 						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Botswana</b></li>
 						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Eswatini</b></li>
 						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Lesotho</b></li>
