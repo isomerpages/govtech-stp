@@ -95,24 +95,15 @@ d)	EntrePass holders (without Corppass) and their dependants
 </thead>
 <tbody>
 	<tr>
-		<td style="font-size:16px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of workers should apply for entry directly via MOM’s website.
-a)	Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
-- Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and
-- Are entering Singapore without their dependants.
-b)	Work Holiday Pass (WHP) holders
-c)	Personalised Employment Pass (PEP) holders (without employers) and their dependants
-d)	EntrePass holders (without Corppass) and their dependants
+		<td style="font-size:16px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
+Work pass holders who are immediate family members of Singapore Citizens or Permanent Residents of Singapore (SCs/PRs) can consider the following options:
+•	SC/PR Familial Ties Lane applied by SC/PR family member
+•	Work Pass Holder Lane (WPHL) applied by employer
 		</td>
 	</tr>
 	</tbody>
 	</table>
 
-
-Work pass holders who are immediate family members of Singapore Citizens or Permanent Residents of Singapore (SCs/PRs) can consider the following options:
-•	SC/PR Familial Ties Lane applied by SC/PR family member
-•	Work Pass Holder Lane (WPHL) applied by employer
-
-•	
 
 Type 3: Helpers and Confinement Nannies
 Employers (use Singpass to log in) or Employment Agencies (use Corppass to log in) to apply via the WPHL Portal
