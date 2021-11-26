@@ -47,12 +47,12 @@ For passes or IPAs that have less than 15 days of validity, please renew the pas
 
 ### 2.	Travel History and Travel Health Control Measures 
 
-CLICK HERE to check the latest travel health control measures (e.g. Stay-Home Notice and COVID-19 tests) set on pass holders using the WPHL, and the costs of the various measures. The measures imposed are based on the pass holder’s 14-day travel history to various countries/regions before arriving in Singapore.
+<a href="/wphl/shn-and-swab-summary" target="_blank">CLICK HERE</a> to check the latest travel health control measures (e.g. Stay-Home Notice and COVID-19 tests) set on pass holders using the WPHL, and the costs of the various measures. The measures imposed are based on the pass holder’s 14-day travel history to various countries/regions before arriving in Singapore.
 
 If pass holders are departing from a Vaccinated Travel Lane country/region and intend to return via the Vaccinated Travel Lane instead to enjoy quarantine-free travel, they should apply for a Vaccinated Travel Pass instead. Click the links below for more information on: 
 
-•	Vaccinated Travel Lane (Air)
-•	Vaccinated Travel Lane (Land)
+-	<a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>
+-	<a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a>
 
 <div id="application"></div>
 
