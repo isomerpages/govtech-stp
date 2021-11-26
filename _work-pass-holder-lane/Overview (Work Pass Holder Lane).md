@@ -15,6 +15,8 @@ On this page, you will find the following key information on the WPHL.
 3.	Application for Travel under the WPHL
 4.	Frequently Asked Questions
 
+<div id="eligibility"></div>
+
 ### 1. Eligibility
 
 The following traveller types are eligible to travel under the WPHL. All pass holders and their dependants entering under WPHL, regardless of travel history, must be fully vaccinated before arrival. Please read the vaccination requirements carefully. Ineligible travellers should explore other Safe Travel Lanes at the Travelling to Singapore page.
@@ -37,6 +39,8 @@ The following traveller types are eligible to travel under the WPHL. All pass ho
 
 For passes or IPAs that have less than 15 days of validity, please renew the passes or extend the IPA validities before submitting entry applications.
 
+<div id="hcm"></div>
+
 ### 2.	Travel History and Travel Health Control Measures 
 
 CLICK HERE to check the latest travel health control measures (e.g. Stay-Home Notice and COVID-19 tests) set on pass holders using the WPHL, and the costs of the various measures. The measures imposed are based on the pass holder’s 14-day travel history to various countries/regions before arriving in Singapore.
@@ -45,6 +49,8 @@ If pass holders are departing from a Vaccinated Travel Lane country/region and i
 
 •	Vaccinated Travel Lane (Air)
 •	Vaccinated Travel Lane (Land)
+
+<div id="application"></div>
 
 ### 3.  Application for Travel under the WPHL
 
