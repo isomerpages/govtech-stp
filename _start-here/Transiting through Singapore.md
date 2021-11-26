@@ -6,7 +6,7 @@ description: Requirements for transiting through Singapore
 
 #### Eligibility
 
-Travellers can transit through Changi Airport (Singapore), if they are travelling with an airline whose transfer route via Singapore has been approved by the Civil Aviation Authority of Singapore (CAAS). **With effect from 27 Nov 2021, 2359hrs**, travellers (a) arriving in Singapore, and/or (b) whose 14-day travel history includes the following countries/regions, are disallowed from transiting in Singapore:
+Travellers can transit through Changi Airport (Singapore), if they are travelling with an airline whose transfer route via Singapore has been approved by the Civil Aviation Authority of Singapore (CAAS). **With effect from 27 Nov 2021, 2359hrs**, travellers (a) arriving on a transit flight from, and/or (b) whose 14-day travel history includes the following countries/regions, are disallowed from transiting in Singapore:
 - Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe. 
 
 The transit suspension will continue until further notice. Details on transit arrangements can and should be obtained directly from the airline before a flight ticket is purchased. 
