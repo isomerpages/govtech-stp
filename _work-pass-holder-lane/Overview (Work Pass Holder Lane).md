@@ -23,7 +23,7 @@ On this page, you will find the following key information on the WPHL.
 
 ### 1. Eligibility
 
-The following traveller types are eligible to travel under the WPHL. All pass holders and their dependants entering under WPHL, regardless of travel history, must be fully vaccinated before arrival. Please read the vaccination requirements carefully. Ineligible travellers should explore other Safe Travel Lanes at the Travelling to Singapore page.
+The following traveller types are eligible to travel under the WPHL. All pass holders and their dependants entering under WPHL, regardless of travel history, must be fully vaccinated before arrival. Please read the <a href="wphl/vaccination-requirements" target="_blank">vaccination requirements</a> carefully. Ineligible travellers should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.
 
 <ol style="list-style-type:decimal;">
 <li>Confinement nannies</li>
