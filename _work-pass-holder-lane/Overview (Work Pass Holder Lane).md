@@ -56,6 +56,7 @@ If pass holders are departing from a Vaccinated Travel Lane country/region and i
 -	<a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>
 -	<a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a>
 
+
 <div id="application"></div>
 
 ### 3.  Application for Travel under the WPHL
