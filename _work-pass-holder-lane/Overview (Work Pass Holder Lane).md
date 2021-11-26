@@ -95,7 +95,7 @@ d)	EntrePass holders (without Corppass) and their dependants
 </thead>
 <tbody>
 	<tr>
-		<td style="font-size:16px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
 Work pass holders who are immediate family members of Singapore Citizens or Permanent Residents of Singapore (SCs/PRs) can consider the following options:
 •	SC/PR Familial Ties Lane applied by SC/PR family member
 •	Work Pass Holder Lane (WPHL) applied by employer
@@ -104,17 +104,34 @@ Work pass holders who are immediate family members of Singapore Citizens or Perm
 	</tbody>
 	</table>
 
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 3: Helpers and Confinement Nannies</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Employers (use Singpass to log in) or Employment Agencies (use Corppass to log in) to apply via the WPHL Portal
+		</td>
+	</tr>
+	</tbody>
+	</table>
+	
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 4: All other Pass Holders</td></b></th>
+</tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Employers to apply via the WPHL Portal (use Corppass to log in)</td>
+  </tr>
+  </tbody>
+  </table>
 
-Type 3: Helpers and Confinement Nannies
-Employers (use Singpass to log in) or Employment Agencies (use Corppass to log in) to apply via the WPHL Portal
 
-
-•	
-
-Type 4: All other Pass Holders
-Employers to apply via the WPHL Portal (use Corppass to log in)
-
-•	
 <div id="PDEntry"></div>
 
 ### 4. Pre-Departure & Entry Procedures
