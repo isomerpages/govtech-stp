@@ -3,7 +3,7 @@ layout: landing-page-stp
 title: SafeTravel
 description: Singapore’s latest border measures in response to COVID-19
 permalink: /
-notification: <h6 style="text-align:left;">Beware of <a
+notification: <h6 style="text-align:left;">Scheduled maintenance will be taking place on:<br>&bull; 27 November 2021, from 12am to 2am. During this period, application services for Safe Travel Pass will not be available.<br/><br/>Beware of <a
   href="https://www.scamalert.sg/scam-details/impersonation-scam">impersonation
   scam</a> calls from "+65 6812 5555", which is similar to the SafeTravel
   Enquiries Helpline number. Do not provide your personal information or make
