@@ -181,7 +181,7 @@ input:checked + label + .content {
 <!--Category 2-->
 <table>
 <tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (II) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (II) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits less than 24 hours)</span></td>
 </tr>
 	<tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><p style="font-size:16px; line-height:1.5;text-align:justify;"><b>Argentina, Australia, Bahrain, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Cyprus, Denmark <sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Kuwait, Luxembourg, Malaysia, Maldives, Malta, Mexico, Mongolia, Morocco, Myanmar, Nepal, New Zealand, Norway, Oman, Pakistan, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Romania, Samoa, San Marino, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</b></p>
@@ -259,7 +259,6 @@ input:checked + label + .content {
 </li>
 </ol>
 </li>
-	
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint immediately to their <a href="/health/shn" target="_blank">SHN</a> accommodation.</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
@@ -279,7 +278,7 @@ input:checked + label + .content {
 <!--Cat3 countries-->
 <table>
 <tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (III) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (III) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits less than 24 hours)</span></td>
 </tr>
 	<tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:justify; vertical-align:middle;"><b>Austria, Bangladesh, Belarus, Belgium, Belize, Brazil, Colombia, Costa Rica, Croatia, Czech Republic, Estonia, Kazakhstan, Laos, Latvia, Liechtenstein, Lithuania, Mauritius, Panama, Papua New Guinea, Peru, Philippines, Russia, Serbia, Seychelles, Slovakia, Slovenia, Ukraine and Uruguay</b></td>
@@ -353,7 +352,7 @@ input:checked + label + .content {
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> in one of the following:
 <ol style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g hotels or serviced apartments);</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. . The pass holder must isolate themselves in their room and minimise contact with household members, especially <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>. If this is not possible, please look for another accommodation. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Note: For submitters who have paid for the stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.]</p></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. The pass holder must isolate themselves in their room and minimise contact with household members, especially <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>. If this is not possible, please look for another accommodation. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Note: For submitters who have paid for the stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.]</p></li>
 				</ol>
 	</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
@@ -368,10 +367,10 @@ input:checked + label + .content {
 <!--Cat4 countries-->
 <table>
 <tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (IV) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (IV) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits less than 24 hours)</span></td>
 </tr>
 	<tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:justify; vertical-align:middle;"><b>All Other Countries/Regions (<u>except</u> Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe)</b><br><p style="font-size:16px;line-height:1.5; text-align:left;"><b><u>Note</u></b>: Pass Holders with travel/transit history in the past 14 days to Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe will not be allowed to enter or transit Singapore with effect from 27 Nov 2021, 2359hrs until further notice. This applies even if pass holders had obtained an entry approval earlier on.</p></td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:left; vertical-align:middle;"><b>All Other Countries/Regions (<u>except</u> Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe)</b><br><p style="font-size:16px;line-height:1.5; text-align:left;"><b><u>Note</u></b>: Pass Holders with travel/transit history in the past 14 days to Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe will not be allowed to enter or transit Singapore with effect from 27 Nov 2021, 2359hrs until further notice. This applies even if pass holders had obtained an entry approval earlier on.</p></td>
 </tr>
 	<tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Click to expand the health measures by Pass Type</b></td></tr>
@@ -570,10 +569,10 @@ input:checked + label + .content {
 <!--Category 2-->
 <table>
 <tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (II) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (II) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits less than 24 hours)</span></td>
 </tr>
 	<tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><p style="font-size:16px; line-height:1.5;text-align:justify;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, Malaysia, Maldives, Malta, Myanmar, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Samoa, San Marino, Saudi Arabia, Slovakia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States of America<sup>5</sup>, Vatican City, Vietnam</b></p>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><p style="font-size:16px; line-height:1.5;text-align:justify;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, Malaysia, Maldives, Malta, Myanmar, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Samoa, San Marino, Saudi Arabia, Slovakia, Spain, Sri Lanka, Sweden, Switzerland, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States of America<sup>5</sup>, Vatican City, Vietnam</b></p>
 	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5; color:white;text-align:justify;"><sup>1</sup> Including the Faroe Islands and Greenland.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5; color:white;text-align:justify;"><sup>2</sup> Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5; color:white; text-align:justify;"><sup>3</sup> Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
@@ -668,7 +667,7 @@ input:checked + label + .content {
 <!--Cat3 countries-->
 <table>
 <tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (III) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (III) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits less than 24 hours)</span></td>
 </tr>
 	<tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:justify; vertical-align:middle;"><b>Argentina, Bangladesh, Belarus, Brazil, Colombia, Estonia, Kuwait, Laos, Latvia, Lithuania, Mexico, Mongolia, Morocco, Nepal, Oman, Pakistan, Papua New Guinea, the Philippines, Romania, Russia, Serbia, Seychelles, Slovenia, Thailand and Ukraine</b></td>
@@ -742,7 +741,7 @@ input:checked + label + .content {
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> in one of the following:
 <ol style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g hotels or serviced apartments);</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. . The pass holder must isolate themselves in their room and minimise contact with household members, especially <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>. If this is not possible, please look for another accommodation. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Note: For submitters who have paid for the stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.]</p></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. The pass holder must isolate themselves in their room and minimise contact with household members, especially <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>. If this is not possible, please look for another accommodation. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[Note: For submitters who have paid for the stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.]</p></li>
 				</ol>
 	</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
@@ -757,10 +756,10 @@ input:checked + label + .content {
 <!--Cat4 countries-->
 <table>
 <tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (IV) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits)</span></td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (IV) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits less than 24 hours)</span></td>
 </tr>
 	<tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle;"><b>All Other Countries/Regions</b> <!--(<u>except</u> Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe)</b><br>--><!--<p style="font-size:16px;line-height:1.5; text-align:left;"><b><u>Note</u></b>: Pass Holders with travel/transit history in the past 14 days to Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe will not be allowed to enter or transit Singapore with effect from 27 Nov 2021, 2359hrs until further notice. This applies even if pass holders had obtained an entry approval earlier on.</p>--></td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle;"><b>All Other Countries/Regions (<u>except</u> Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe)</b><br><p style="font-size:16px;line-height:1.5; text-align:left;"><b><u>Note</u></b>: Pass Holders with travel/transit history in the past 14 days to Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe will not be allowed to enter or transit Singapore with effect from 27 Nov 2021, 2359hrs until further notice. This applies even if pass holders had obtained an entry approval earlier on.</p></td>
 </tr>
 	<tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Click to expand the health measures by Pass Type</b></td></tr>
