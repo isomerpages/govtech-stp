@@ -259,7 +259,6 @@ input:checked + label + .content {
 </li>
 </ol>
 </li>
-	
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint immediately to their <a href="/health/shn" target="_blank">SHN</a> accommodation.</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
