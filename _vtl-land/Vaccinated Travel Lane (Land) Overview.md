@@ -287,7 +287,7 @@ input:checked + label + .content {
 Travellers who are eligible for VTL (Land) and have already obtained their bus tickets and Vaccinated Travel Pass (Land) if needed should refer to this <a target="_blank" href="/vtl-land/travel-checklist">traveller checklist</a> for the full list of requirements to complete VTL (Land) travel. This includes:
 <ol style="font-size:18px; list-style-type:disc;">
 	<li style="font-size:18px; line-height:1.4;">Negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) taken within 2 days before departure for Singapore;</li>
-	<li style="font-size:18px; line-height:1.4;">Filling up the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a>(replaces the physical "White Card"). Travellers are advised to fill this up up to 72 hours before arrival in Singapore to avoid delays at the checkpoint; and</li>
+	<li style="font-size:18px; line-height:1.4;">Filling up the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> (replaces the physical "White Card"). Travellers must complete this up to 72 hours before arrival in Singapore to avoid delays at the checkpoint; and</li>
 	<li style="font-size:18px; line-height:1.4;">On-arrival COVID-19 test upon arriving in Singapore.</li>
 </ol>	
 
