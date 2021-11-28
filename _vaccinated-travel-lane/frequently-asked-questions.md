@@ -111,15 +111,14 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health.
 	</table>
 <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">*On the VTP (Air) application portal, please select one of the following options depending on your pass type:</p>
 <ol style="list-style-type:lower-alpha;">
-<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOM Long-Term Pass Holder</b> if you are an Employment Pass, Work Pass or Dependent’s Pass holder; or</li>
+<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOM Long-Term Pass Holder</b> if you are an Employment Pass, Work Pass, Dependent’s Pass, MOM Long-Term Visit Pass, etc. holder; or</li>
 <li  style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOE Long-Term Pass Holder</b> if you are a Student Pass holder</li>
 	</ol>
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">^Please check if your Singapore vaccination records are valid through <a href="https://go.gov.sg/vax-status-query" target="_blank">this link</a> and, if necessary, retag your records to your most updated identification (e.g. passport/FIN/IC) number. Once retagging is complete, please proceed to re-submit your VTP (Air) application.</p>
 
 
 <div id="Q4"></div>
  
-#### 4. The VTP (Air) application portal tells me that my vaccination records cannot be retrieved from the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR). What should I do?
+#### 4. I am a Long-Term Pass Holder or Short-Term Visitor with Singapore-issued vaccination records. How do I prove my vaccination status when applying for a VTP (Air)?
  
 Please check if your Singapore vaccination records are valid through <a href="https://go.gov.sg/vax-status-query" target="_blank">this link</a> and, if necessary, re-tag your records to your most updated identification (e.g. passport/FIN/IC) number. Once retagging is complete, please proceed to re-submit your VTP (Air) application.
 
