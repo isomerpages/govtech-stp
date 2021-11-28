@@ -90,12 +90,12 @@ You must obtain any of the following acceptable proofs of vaccination, or you wi
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Maldives:</b> COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a></li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Sri Lanka:</b> Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health</li>
 	</ol>
-<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>Deferred until further notice:</b></p>
+<!--<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>Deferred until further notice:</b></p>
 	<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Qatar:</b> COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a> </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Arab Emirates:</b> Proof of vaccination (e.g. COVID-19 Vaccination Card) on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a></li>
-	</ol>
+	</ol>-->
 </p>
 
 <p style="font-size:20px; margin-top:25px; margin-bottom:15px; line-height:1.35;">Other frequently asked questions regarding vaccination proof can be found <a href="/vtl/faq#VacReq" target="_blank">here</a>.</p>
