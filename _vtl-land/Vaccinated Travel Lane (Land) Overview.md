@@ -14,7 +14,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 <ol style="font-size:18px;">
 	<li style="font-size:18px; line-height:1.4;"><a href="#Eligibility">Eligibility</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="#Application">Application for Vaccinated Travel Pass (Land)</a></li>
-		<li style="font-size:18px; line-height:1.4;"><a href="#Douments">COVID-19 Tests and Documents Required</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="#Documents">COVID-19 Tests and Documents Required</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
