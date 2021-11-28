@@ -84,6 +84,7 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 	<li style="line-height:1.5; margin-top:10px; font-size: 18px;">Finland, Indonesia, India, Malaysia and Sweden (for entry into Singapore from 29 Nov 2021)</li>
 				   <li style="line-height:1.5; font-size: 18px; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 14 Dec 2021)</li>
 				   <li style="line-height:1.5; font-size: 18px; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 16 Dec 2021)</li>
+					 	<li style="line-height:1.5; font-size: 18px; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (deferred until further notice)</li>
 				 </ul>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
