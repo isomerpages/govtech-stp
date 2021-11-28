@@ -5,7 +5,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>IMPORTANT UPDATE</u></b></p>
-	<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">The commencement of the VTLs for Qatar, Saudi Arabia and the United Arab Emirates, originally planned for 6 December 2021, will be <b><u>deferred until further notice</u></b>. If you have paid for your on-arrival COVID-19 PCR test and wish to obtain a refund, please refer to the instructions <a href="/health/faq#refunds" target="_blank">here</a>.
+	<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">The commencement of the VTLs for Qatar, Saudi Arabia and the United Arab Emirates, originally planned for 6 December 2021, will be <b><u>deferred until further notice</u></b>. If you have already booked your flight and wish to change your itinerary, please approach your airline for assistance. If you have paid for your on-arrival COVID-19 PCR test and wish to obtain a refund, please refer to the instructions <a href="/health/faq#refunds" target="_blank">here</a>.
 	</p>
 	</div>
 
