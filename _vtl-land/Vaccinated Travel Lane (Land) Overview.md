@@ -5,10 +5,10 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 ---
 
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;"><b><span style="color:red;">NOTE:</span> Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the <a href="/vtl/requirements-and-process" target="_blank">“Vaccinated Travel Lane (Air)”</a> page instead for more details. Please note that the Vaccinated Travel Pass (Air) and Vaccinated Travel Pass (Land) <u>are not</u> interchangable. A separate application for VTP (Air) is required if travelling by Air</b></p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;"><b><span style="color:red;">NOTE:</span> Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the <a href="/vtl/requirements-and-process" target="_blank">“Vaccinated Travel Lane (Air)”</a> page instead for more details. Please note that the Vaccinated Travel Pass (Air) and Vaccinated Travel Pass (Land) <u>are not</u> interchangable. A separate application for VTP (Air) is required if travelling by Air.</b></p>
 	</div>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] facilitates quarantine-free travel for fully vaccinated travellers commuting between Singapore and Malaysia, via the Causeway only from 29 Nov 2021. You can download the infographics <a href="/files/Singapore-Malaysia Vaccinated Travel Lane (Land)_v5.pdf" target="_blank">here</a> for an overview of VTL (Land) requirements.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] facilitates quarantine-free travel for fully vaccinated travellers commuting between Singapore and Malaysia, via the Causeway only from 29 Nov 2021. <!--You can download the infographics <a href="/files/Singapore-Malaysia Vaccinated Travel Lane (Land)_v5.pdf" target="_blank">here</a> for an overview of VTL (Land) requirements.--></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">On this page, you will find the following details on VTL (Land):</p>
 <ol style="font-size:18px;">
@@ -138,12 +138,13 @@ input:checked + label + .content {
 </div>
 	
 <input type="checkbox" id="title4" />
-<label for="title4">Criterion 4: Fulfil Travel History & Designated VTL (Land) Bus Requirements</label>
+<label for="title4">Criterion 4: Fulfil Pre-Departure Test, Travel History & Designated VTL (Land) Bus Requirements</label>
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">	
 	<p style="line-height:1.4; font-size:18px; ">Travellers must:
 		<ol style="list-style-type:lower-roman">
-			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category I country</a> in the last 14 consecutive days before departing for Singapore; and </li>
+			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Test negative for a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) taken <b>within 2 days</b> before departure for Singapore;</li>
+			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category (I) country</a> in the last 14 consecutive days before departing for Singapore; and </li>
 			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
 					<ol style="list-style-type:disc;">
 <li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.causewaylink.com.my" target="_blank">Handal Indah</a></li>
@@ -266,8 +267,8 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px; ">Long-Term Pass Holders should <b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (LAND) (VTP LAND)</b>.</p>
 	<p style="line-height:1.4; margin-top:20px; font-size:18px; ">Please note the following before applying:
 		<ol style="margin-top:0px; list-style-type:disc;">
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> <b>Applications open on 25 Nov 2021, 8am. Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTP applications will initially open for travellers entering from <b><u>29 Nov to 5 Dec</u></b>, and VTPs are <b>valid for up to 14 calendar days</b> from the traveller’s chosen date of entry. Travellers not travelling during this date range can apply for a VTP later.</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> <b>Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTP applications will initially open for travellers entering Singapore between <b><u>1 Dec 2021 and 7 Dec 2021</u></b>, and VTPs are <b>valid for up to 14 calendar days</b> from the traveller’s chosen date of entry. Travellers not travelling during this date range can apply for a VTP later.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Accompanying children aged 12 and below and are unvaccinated do <b><u>not</u></b> need to apply. </li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Travellers must comply with the <a href="/vtl-land/conditions" target="_blank">VTL (Land) conditions</a>, details can be found this <a href="/vtl-land/travel-checklist" target="_blank">travel checklist</a>. Failing which, they may be denied entry to Singapore.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTP (Land) and VTP (Air) are not interchangeable, a separate application for VTP (Air) is required if travelling by air.</li>
@@ -290,7 +291,9 @@ input:checked + label + .content {
 	<li style="font-size:18px; line-height:1.4;"><a href="/health/vtsg" target="_blank">Definition of Fully Vaccinated</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#travel-history" target="_blank">Travel History</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="" target="/vtl-land/travel-checklist#pdt" target="_blank">Pre-departure test for travel to Singapore</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#OAT" target="_blank">On-arrival Test</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#DesignatedBus" target="_blank">Bus Services</a></li>
+		<li style="font-size:18px; line-height:1.4;"><a href="/files/VTL-Land-4.pdf" target="_blank">Useful weblinks</a></li>
 </ol>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">Have a question that is not addressed by any of the available resources found in this webpage? <a href="https://go.gov.sg/sto-enquiry" target="_blank">Contact us here</a>.</p>

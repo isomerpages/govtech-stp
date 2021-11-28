@@ -3,8 +3,6 @@ title: VTL (Land) Conditions
 permalink: /vtl-land/conditions
 description: ""
 ---
-
-
 <div style="padding-left: 5px; padding-bottom: 20px; padding:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px; text-align:justify;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>Important Update</u></b></span></p>
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Singapore will launch a joint VTL (Land) with <b>Malaysia</b> for travel between Woodlands Checkpoint and Bangunan Sultan Iskandar (BSI) <b>from 29 November 2021</b>. Vaccinated Travel Pass (VTP) applications for Holders of a Singapore Long-Term Pass will commence on <b>25 November 2021</b>; returning Singapore Citizens and Singapore Permanent Residents who are fully vaccinated will not need to apply.</p>
@@ -21,20 +19,21 @@ description: ""
 	<li>have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, [<a href="/shn-and-swab-summary">Category I countries/regions</a>] and/or Singapore, for the last 14 consecutive days<sup>1</sup> before departing for Singapore;</li>
 <li>travel to Singapore on a designated VTL (Land) bus service;</li>
 <li>undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART), within 2 days<sup>2</sup> before the scheduled departure time of the bus service, at a <a href="https://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_SENARAI_MAKMAL_YANG_MENJALANKAN_UJIAN_RT-PCR_BAGI_COVID-19_21092021.pdf" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> that is accredited or recognised by the Malaysia Ministry of Health, and obtain a test result certificate in English stating the following:
-	<ol style="list-style-type:lower-roman; line-height:1.5; padding-left:10px; padding:bottom:10px;">
+<ol style="list-style-type:lower-roman; line-height:1.5; padding-left:10px; padding:bottom:10px;">
 <li>the VTP traveller's name, and at least one other personal identifier such as the date of birth or passport number or NRIC number corresponding exactly with the information in the traveller’s passport or NRIC used for entry into Singapore;</li>
-		<li>	a negative COVID-19 test result;</li>
+		<li>a negative COVID-19 test result;</li>
 		<li>the date and time when the COVID-19 test was taken; and</li>
 		<li>the name of the testing institution conducting the COVID-19 test.</li>
 	</ol>
-	
+</li>
+	<li style="padding-top:10px;">undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange;</li>
 <li style="padding-top:10px;">download the TraceTogether app on his/her mobile device and:
 <ol style="list-style-type:lower-roman; line-height:1.5;padding-left:10px;">	
 	<li>keep the TraceTogether app activated at all times while in Singapore;</li>
 <li>upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore.</li>
 	</ol>
 </li>
-	<li  style="padding-top:10px;">adhere to all prevailing public health measures while in Singapore; and</li>
+	<li style="padding-top:10px;">adhere to all prevailing public health measures while in Singapore; and</li>
 <li>remain contactable at all times while in Singapore via his/her their declared mobile number and email address.</li>
 	</li>
 	</ol>

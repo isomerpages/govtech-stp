@@ -18,6 +18,7 @@ description: ""
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Application">Application for the Vaccinated Travel Pass (VTP)</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#requirements">VTL (Land) Requirements</a>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure Test Requirement</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Vaccination Requirement
 			<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#proof">Eligibility and Proof of Vaccination</a></li>
@@ -25,6 +26,7 @@ description: ""
 			</ol>
 		</li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#travel-history">Travel History Requirement</a></li>
+				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival Test Requirement</a></li>
 	</ol>
 	</li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#contact-tracing">Contact Tracing </a></li>
@@ -32,7 +34,7 @@ description: ""
 
 <div id="eligibility"></div>
 
-### (a) Eligibility Criteria
+### 1. Eligibility Criteria
 
 #### 1. I have an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass). Am I allowed to travel under the VTL (Land)?
 
@@ -58,7 +60,7 @@ All travellers are required to meet the eligibility criteria and entry requireme
 
 <div id="DesignatedBus"></div>
 
-### (b) Designated VTL (Land) Bus Services
+### 2. Designated VTL (Land) Bus Services
 
 #### 1. Are travellers guaranteed a ticket on a designated VTL (Land) bus service to Singapore if they have a VTP?
 
@@ -104,13 +106,13 @@ Travellers who are allowed to enter Singapore will be subject to <a href="/shn-a
 
 <div id="Application"></div>
 
-### (c) Application for the VTP
+### 3. Application for the VTP
 
 #### 1. Do travellers travelling with family members need to apply a VTP for every individual?
 
 All travellers above the age of 12 years old in this calendar year who are not Singapore Citizens or Singapore Permanent Residents must apply for a VTP. 
 
-Travellers who are aged 12 or below 12 years old in this calendar year are eligible to enter Singapore without a VTP, if they are travelling with an approved VTL (Land) adult and if they satisfy the other <a href="/vtl-land/conditions" target="_blank">VTL (Land) Conditions</a>.
+Children who are 12 and below in this calendar year and are unvaccinated can still travel to Singapore via VTL (Land) if accompanied by a fully vaccinated VTL traveller. However, the child must be a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term Pass and satisfy the other <a href="/vtl-land/conditions" target="_blank">VTL (Land) Conditions</a>.
 
 #### 2. Is there an expiry (i.e. validity period) and limit to the number of times travellers can apply for a VTP?
 
@@ -144,13 +146,28 @@ You do not need to cancel your VTP. If you do not utilise your VTP within the va
 
 <div id="requirements"></div>
 
-### (d) Vaccinated Travel Lane Land (VTL (Land)) Requirements
+### 4. Vaccinated Travel Lane Land (VTL (Land)) Requirements
 
-### (i) Vaccination Requirement
+### (a) Pre-Departure Test Requirement
+
+<div id="PDT"></div>
+
+#### 1. I am entering Malaysia from Singapore and returning to Singapore from Malaysia under the VTL (Land). Can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for entry into Malaysia, to fulfil the pre-departure test requirement for my return leg to Singapore?
+
+You will fulfill the pre-departure test requirement <b>only if the PCR test or ART was taken within 2 days before departure for Singapore.</b>
+
+As an example, a traveller takes a pre-departure ART in Singapore on 1 December 2021 and enters Malaysia on the same day. If he intends to return to Singapore under the VTL (Land) between 1 and 3 December 2021, the ART taken on 1 December will fulfil the pre-departure test requirement for entry into Singapore.
+
+#### 2. I am entering Malaysia from Singapore and returning to Singapore from Malaysia under the VTL (Land). Can I use my negative On-Arrival Test (OAT) taken in Malaysia to fulfil the pre-departure test requirement for my return leg to Singapore, if the OAT was taken within 2 days of my date of departure to Singapore?
+
+The self-administered OAT taken in Malaysia will not fulfil the pre-departure test requirement for entry into Singapore, as (i) Singapore does not accept self-administered tests as pre-departure testing options for entry into Singapore, and (ii) the pre-departure test must be taken at a laboratory or centre accredited/recognised by the Malaysia Ministry of Health.
+
+
+### (b) Vaccination Requirement
 
 <div id="proof"></div>
 
-### (a) Eligibility and Proof of Vaccination
+### (i) Eligibility and Proof of Vaccination
 
 For more information, please click <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a>.
 
@@ -183,7 +200,7 @@ If you are a holder of a Singapore Long-Term Pass with your vaccination records 
 
 <div id="digitalcerts"></div>
 
-### (b) Digitally Verifiable Vaccination Certificate and QR Code Issues
+### (ii) Digitally Verifiable Vaccination Certificate and QR Code Issues
 
 #### 1. What is a digitally verifiable vaccination certificate?
 
@@ -451,7 +468,7 @@ Switzerland</td>
 
 <div id="travel-history"></div>
 
-### (ii) Travel History Requirement
+### (c) Travel History Requirement
 
 #### 1. How is the 14-day travel history determined?
 
@@ -459,9 +476,24 @@ As an example, if the scheduled day of departure to Singapore is 15 December 202
 
 The 14-day travel history may include a combination of (i), (ii), and (iii).
 
+### (d) On-Arrival Test Requirement
+
+<div id="OAT"></div>
+
+#### 1. How much is the on-arrival COVID-19 ART?
+
+The test costs $15, including GST. The traveller will make payment directly to the test provider at the test centre.
+
+#### 2. What should travellers do if they test positive for COVID-19?
+
+Travellers who have tested positive will be required to undergo <a href="https://www.covid.gov.sg/unwell/overview" target="_blank">Protocol 1</a>, i.e. visit a <a href="https://flu.gowhere.gov.sg" target="_blank">Swab and Send Home (SASH) clinic</a> via private transport for a doctor to assess and advise you on your next steps. Please visit this page for information on the recovery procedure.
+
+Please also note that if a traveller’s test result is confirmed to be positive, all persons who identified to be a close contact should follow <a href="https://www.covid.gov.sg/exposed/hrw" target="_blank">MOH’s Protocol 3</a> and may be served with a Health Risk Warning.
+
+
 <div id="contact-tracing"></div>
 
-### (e) Contact Tracing – TraceTogether
+### 5. Contact Tracing – TraceTogether
 
 <i>For the full requirements and conditions governing the use of TraceTogether, please click <a href="/health/tt-for-travellers" target="_blank">here</a></i>.
 
