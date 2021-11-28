@@ -480,7 +480,15 @@ The 14-day travel history may include a combination of (i), (ii), and (iii).
 
 <div id="OAT"></div>
 
+#### 1. How much is the on-arrival COVID-19 ART?
 
+The test costs $15, including GST. The traveller will make payment directly to the test provider at the test centre.
+
+#### 2. What should travellers do if they test positive for COVID-19?
+
+Travellers who have tested positive will be required to undergo <a href="https://www.covid.gov.sg/unwell/overview" target="_blank">Protocol 1</a>, i.e. visit a <a href="https://flu.gowhere.gov.sg" target="_blank">Swab and Send Home (SASH) clinic</a> via private transport for a doctor to assess and advise you on your next steps. Please visit this page for information on the recovery procedure.
+
+Please also note that if a traveller’s test result is confirmed to be positive, all persons who identified to be a close contact should follow MOH’s Protocol 3 and may be served with a Health Risk Warning.
 
 
 <div id="contact-tracing"></div>
