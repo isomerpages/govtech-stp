@@ -158,6 +158,10 @@ You will fulfill the pre-departure test requirement <b>only if the PCR test or A
 
 As an example, a traveller takes a pre-departure ART in Singapore on 1 December 2021 and enters Malaysia on the same day. If he intends to return to Singapore under the VTL (Land) between 1 and 3 December 2021, the ART taken on 1 December will fulfil the pre-departure test requirement for entry into Singapore.
 
+#### 2. I am entering Malaysia from Singapore and returning to Singapore from Malaysia under the VTL (Land). Can I use my negative On-Arrival Test (OAT) taken in Malaysia to fulfil the pre-departure test requirement for my return leg to Singapore, if the OAT was taken within 2 days of my date of departure to Singapore?
+
+The self-administered OAT taken in Malaysia will not fulfil the pre-departure test requirement for entry into Singapore, as (i) Singapore does not accept self-administered tests as pre-departure testing options for entry into Singapore, and (ii) the pre-departure test must be taken at a laboratory or centre accredited/recognised by the Malaysia Ministry of Health.
+
 
 ### (b) Vaccination Requirement
 
