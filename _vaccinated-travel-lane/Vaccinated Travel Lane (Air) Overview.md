@@ -17,7 +17,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 </div>-->
 
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">The Vaccinated Travel Lane (Air) [VTL (Air)] allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL (Air):</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">The Vaccinated Travel Lane (Air) [VTL (Air)] allows quarantine-free travel to Singapore. VTP (Land) Pass holders seeking entry into Singapore by flight should apply for a VTP (Land) Pass; approvals are not interchangeable. On this page, you will find the following key information on the VTL (Air):</p>
 <ol>
 	<li style="line-height:1.35;"><a href="#countries">VTL (Air) Countries/Regions</a></li>
 	<li style="line-height:1.35;"><a href="#Eligibility">Eligibility</a></li>
