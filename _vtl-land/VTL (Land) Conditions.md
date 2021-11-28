@@ -26,14 +26,14 @@ description: ""
 		<li>the name of the testing institution conducting the COVID-19 test.</li>
 	</ol>
 </li>
-	<li>undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange;</li>
+	<li style="padding-top:10px;"i>undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange;</li>
 <li style="padding-top:10px;">download the TraceTogether app on his/her mobile device and:
 <ol style="list-style-type:lower-roman; line-height:1.5;padding-left:10px;">	
 	<li>keep the TraceTogether app activated at all times while in Singapore;</li>
 <li>upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore.</li>
 	</ol>
 </li>
-	<li  style="padding-top:10px;">adhere to all prevailing public health measures while in Singapore; and</li>
+	<li style="padding-top:10px;">adhere to all prevailing public health measures while in Singapore; and</li>
 <li>remain contactable at all times while in Singapore via his/her their declared mobile number and email address.</li>
 	</li>
 	</ol>
