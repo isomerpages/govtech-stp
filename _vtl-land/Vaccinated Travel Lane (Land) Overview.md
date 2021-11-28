@@ -14,7 +14,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 <ol style="font-size:18px;">
 	<li style="font-size:18px; line-height:1.4;"><a href="#Eligibility">Eligibility</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="#Application">Application for Vaccinated Travel Pass (Land)</a></li>
-		<li style="font-size:18px; line-height:1.4;"><a href="#douments">COVID-19 Tests and Documents Required</a></li>
+		<li style="font-size:18px; line-height:1.4;"><a href="#Douments">COVID-19 Tests and Documents Required</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
@@ -308,4 +308,4 @@ Travellers who are eligible for VTL (Land) and have already obtained their bus t
 	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/files/VTL-Land-4.pdf">Useful weblinks</a></li>
 </ol>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">Have a question that is not addressed by any of the available resources found in this webpage? <a target="_blank" href="https://go.gov.sg/sto-enquiry">Contact us here</a>.</p></ol>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">Have a question that is not addressed by any of the available resources found in this webpage? <a target="_blank" href="https://go.gov.sg/sto-enquiry">Contact us here</a>.</p>
