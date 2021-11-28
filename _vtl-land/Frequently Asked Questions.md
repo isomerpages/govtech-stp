@@ -112,7 +112,7 @@ Travellers who are allowed to enter Singapore will be subject to <a href="/shn-a
 
 All travellers above the age of 12 years old in this calendar year who are not Singapore Citizens or Singapore Permanent Residents must apply for a VTP. 
 
-Travellers who are aged 12 or below 12 years old in this calendar year are eligible to enter Singapore without a VTP, if they are travelling with an approved VTL (Land) adult and if they satisfy the other <a href="/vtl-land/conditions" target="_blank">VTL (Land) Conditions</a>.
+Children who are 12 and below in this calendar year and are unvaccinated can still travel to Singapore via VTL (Land) if accompanied by a fully vaccinated VTL traveller. However, the child must be a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term Pass and satisfy the other <a href="/vtl-land/conditions" target="_blank">VTL (Land) Conditions</a>.
 
 #### 2. Is there an expiry (i.e. validity period) and limit to the number of times travellers can apply for a VTP?
 
