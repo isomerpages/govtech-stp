@@ -4,7 +4,15 @@ permalink: /vtl/requirements-and-process
 description: Requirements for using the Vaccinated Travel Lane to travel to Singapore by air
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.3;"><b><span style="color:red;">NOTE:</span> </b><b><span style="color:black;">Travellers intending to utilise the Vaccinated Travel Lane (Land) to travel from Malaysia to Singapore via the Causeway should <a href="/vtl-land/overview">refer to this page instead.</a> Please note that the Vaccinated Travel Pass (Air) and Vaccinated Travel Pass (Land) <u>are not</u> interchangable. A separate application for VTP (Air) is required if travelling by Air<br><br>If you hold an existing valid entry approval letter under other SafeTravel Lanes but wish to apply to enter under the Vaccinated Travel Lane (Air) [VTL (Air)], please write in via the <a target="_blank" href="http://go.gov.sg/sto-enquiry">SafeTravel Enquiry Form</a> for assistance. All short-term visitors and long-term pass holders are required to have a Vaccinated Travel Pass and fulfil VTL conditions in order to qualify for quarantine-free travel under the VTL.</span></b></p>
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>IMPORTANT UPDATE</u></b></p>
+	<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">The commencement of the VTLs for Qatar, Saudi Arabia and the United Arab Emirates, originally planned for 6 December 2021, will be <b><u>deferred until further notice</u></b>. If you have already booked your flight and wish to change your itinerary, please approach your airline for assistance. If you have paid for your on-arrival COVID-19 PCR test and wish to obtain a refund, please refer to the instructions <a href="/health/faq#refunds" target="_blank">here</a>.
+	</p>
+	</div>
+
+<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:10px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.3;"></p>
+	<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;"><b><span style="color:red;">NOTE:</span> </b><span style="color:black;">Travellers intending to utilise the Vaccinated Travel Lane (Land) to travel from Malaysia to Singapore via the Causeway should <a href="/vtl-land/overview">refer to the VTL (Land) page instead.</a> Please note that the Vaccinated Travel Pass (Air) and Vaccinated Travel Pass (Land) <b><u>are not</u></b> interchangable. A separate application for VTP (Air) is required if travelling by Air.</span></p>
+	<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;"><span style="color:black;">If you hold an existing valid entry approval letter under other SafeTravel Lanes but wish to apply to enter under the Vaccinated Travel Lane (Air) [VTL (Air)], please write in via the <a target="_blank" href="http://go.gov.sg/sto-enquiry">SafeTravel Enquiry Form</a> for assistance. All short-term visitors and long-term pass holders are required to have a Vaccinated Travel Pass and fulfil VTL conditions in order to qualify for quarantine-free travel under the VTL.</span></p>
 	</div>
 
 <!--<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; background-color:#f8f8f8; border-style: solid; border-width: 1px; margin-bottom:20px;">
@@ -17,7 +25,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 </div>-->
 
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">The Vaccinated Travel Lane (Air) [VTL (Air)] allows quarantine-free travel to Singapore. On this page, you will find the following key information on the VTL (Air):</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">The Vaccinated Travel Lane (Air) [VTL (Air)] allows quarantine-free travel to Singapore. VTP (Land) Pass holders seeking entry into Singapore by flight should apply for a VTP (Land) Pass; approvals <b><u>are not</u></b> interchangeable. On this page, you will find the following key information on the VTL (Air):</p>
 <ol>
 	<li style="line-height:1.35;"><a href="#countries">VTL (Air) Countries/Regions</a></li>
 	<li style="line-height:1.35;"><a href="#Eligibility">Eligibility</a></li>
@@ -64,17 +72,6 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 <table>
 <tbody>
 	<tr>
-<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>For entry into Singapore from 5 Dec 2021, 2359hrs, SGT</b></td>
-		</tr>
-	<tr>
-	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Qatar, Saudi Arabia and the United Arab Emirates</td>
-	</tr>
-	</tbody>
-	</table>
-<p style="margin-top:20px;"></p>
-<table>
-<tbody>
-	<tr>
 <td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>For entry into Singapore from 13 Dec 2021, 2359hrs, SGT</b></td>
 		</tr>
 	<tr>
@@ -93,7 +90,17 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	</tr>
 	</tbody>
 	</table>
-	
+<p style="margin-top:20px;"></p>
+<table>
+<tbody>
+	<tr>
+<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Deferred until further notice</b></td>
+		</tr>
+	<tr>
+	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Qatar, Saudi Arabia and the United Arab Emirates</td>
+	</tr>
+	</tbody>
+	</table>
 <p style="margin-top:20px;"></p>
 <!--<table>
 <tbody>
@@ -252,12 +259,6 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
 	</ol>
-	<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 5 Dec 2021, 2359hrs:</b></p>
-	<ol style="margin-top:0px; list-style-type: disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Qatar:</b> COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a> </li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Arab Emirates:</b> Proof of vaccination (e.g. COVID-19 Vaccination Card) on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a></li>
-	</ol>
 	<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 6 Dec 2021, 2359hrs:</b></p>
 	<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>All other European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>):</b> <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> of vaccination</li>
@@ -276,6 +277,12 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Maldives:</b> COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Sri Lanka:</b> Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health</li>
 	</ol>
+	<!--<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>Deferred until further notice:</b></p>
+	<ol style="margin-top:0px; list-style-type: disc;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Qatar:</b> COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a> </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Arab Emirates:</b> Proof of vaccination (e.g. COVID-19 Vaccination Card) on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a></li>
+	</ol>-->
 </div>
 
 <input id="title3" type="checkbox">
@@ -394,10 +401,6 @@ input:checked + label + .content {
 <td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>VTL (Air) Country/Region</b></td>
 		<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Commencement of VTP (Air) Application</b></td>
 		</tr>
-	<tr>
-	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Qatar, Saudi Arabia and the United Arab Emirates </td>
-		<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">29 Nov 2021, 1000hrs, SGT</td>
-	</tr>
 		<tr>
 	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Thailand </td>
 		<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">7 Dec 2021, 1000hrs, SGT</td>
@@ -405,6 +408,10 @@ input:checked + label + .content {
 			<tr>
 	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey </td>
 		<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">9 Dec 2021, 1000hrs, SGT</td>
+	</tr>
+	<tr>
+	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Qatar, Saudi Arabia and the United Arab Emirates </td>
+		<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Deferred until further notice</td>
 	</tr>
 	</tbody>
 	</table>	
