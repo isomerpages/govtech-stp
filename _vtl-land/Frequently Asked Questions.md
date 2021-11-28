@@ -34,7 +34,7 @@ description: ""
 
 <div id="eligibility"></div>
 
-### (a) Eligibility Criteria
+### 1. Eligibility Criteria
 
 #### 1. I have an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass). Am I allowed to travel under the VTL (Land)?
 
@@ -60,7 +60,7 @@ All travellers are required to meet the eligibility criteria and entry requireme
 
 <div id="DesignatedBus"></div>
 
-### (b) Designated VTL (Land) Bus Services
+### 2. Designated VTL (Land) Bus Services
 
 #### 1. Are travellers guaranteed a ticket on a designated VTL (Land) bus service to Singapore if they have a VTP?
 
@@ -106,7 +106,7 @@ Travellers who are allowed to enter Singapore will be subject to <a href="/shn-a
 
 <div id="Application"></div>
 
-### (c) Application for the VTP
+### 3. Application for the VTP
 
 #### 1. Do travellers travelling with family members need to apply a VTP for every individual?
 
@@ -146,18 +146,18 @@ You do not need to cancel your VTP. If you do not utilise your VTP within the va
 
 <div id="requirements"></div>
 
-### (d) Vaccinated Travel Lane Land (VTL (Land)) Requirements
+### 4. Vaccinated Travel Lane Land (VTL (Land)) Requirements
 
-### (i) Pre-Departure Test Requirement
+### (a) Pre-Departure Test Requirement
 
 <div id="PDT"></div>
 
 
-### (ii) Vaccination Requirement
+### (b) Vaccination Requirement
 
 <div id="proof"></div>
 
-### (a) Eligibility and Proof of Vaccination
+### (i) Eligibility and Proof of Vaccination
 
 For more information, please click <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a>.
 
@@ -190,7 +190,7 @@ If you are a holder of a Singapore Long-Term Pass with your vaccination records 
 
 <div id="digitalcerts"></div>
 
-### (b) Digitally Verifiable Vaccination Certificate and QR Code Issues
+### (ii) Digitally Verifiable Vaccination Certificate and QR Code Issues
 
 #### 1. What is a digitally verifiable vaccination certificate?
 
@@ -458,13 +458,20 @@ Switzerland</td>
 
 <div id="travel-history"></div>
 
-### (ii) Travel History Requirement
+### (c) Travel History Requirement
 
 #### 1. How is the 14-day travel history determined?
 
 As an example, if the scheduled day of departure to Singapore is 15 December 2021, the traveller must have remained in (i) Malaysia, (ii) Singapore, and/or (iii) any other country that Singapore has a VTL with for all 14 days before the day of departure (i.e. 1 to 15 December 2021). 
 
 The 14-day travel history may include a combination of (i), (ii), and (iii).
+
+### (d) On-Arrival Test Requirement
+
+<div id="OAT"></div>
+
+
+
 
 <div id="contact-tracing"></div>
 
