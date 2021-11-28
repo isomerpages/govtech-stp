@@ -26,7 +26,7 @@ description: ""
 			</ol>
 		</li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#travel-history">Travel History Requirement</a></li>
-				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#travel-history">On-Arrival Test Requirement</a></li>
+				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival Test Requirement</a></li>
 	</ol>
 	</li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#contact-tracing">Contact Tracing </a></li>
