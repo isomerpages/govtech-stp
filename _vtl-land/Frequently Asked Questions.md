@@ -488,7 +488,7 @@ The test costs $15, including GST. The traveller will make payment directly to t
 
 Travellers who have tested positive will be required to undergo <a href="https://www.covid.gov.sg/unwell/overview" target="_blank">Protocol 1</a>, i.e. visit a <a href="https://flu.gowhere.gov.sg" target="_blank">Swab and Send Home (SASH) clinic</a> via private transport for a doctor to assess and advise you on your next steps. Please visit this page for information on the recovery procedure.
 
-Please also note that if a traveller’s test result is confirmed to be positive, all persons who identified to be a close contact should follow MOH’s Protocol 3 and may be served with a Health Risk Warning.
+Please also note that if a traveller’s test result is confirmed to be positive, all persons who identified to be a close contact should follow <a href="https://www.covid.gov.sg/exposed/hrw" target="_blank">MOH’s Protocol 3</a> and may be served with a Health Risk Warning.
 
 
 <div id="contact-tracing"></div>
