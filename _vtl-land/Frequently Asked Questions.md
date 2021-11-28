@@ -152,6 +152,12 @@ You do not need to cancel your VTP. If you do not utilise your VTP within the va
 
 <div id="PDT"></div>
 
+#### 1. I am entering Malaysia from Singapore and returning to Singapore from Malaysia under the VTL (Land). Can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for entry into Malaysia, to fulfil the pre-departure test requirement for my return leg to Singapore?
+
+You will fulfill the pre-departure test requirement <b>only if the PCR test or ART was taken within 2 days before departure for Singapore.</b>
+
+As an example, a traveller takes a pre-departure ART in Singapore on 1 December 2021 and enters Malaysia on the same day. If he intends to return to Singapore under the VTL (Land) between 1 and 3 December 2021, the ART taken on 1 December will fulfil the pre-departure test requirement for entry into Singapore.
+
 
 ### (b) Vaccination Requirement
 
