@@ -148,7 +148,12 @@ You do not need to cancel your VTP. If you do not utilise your VTP within the va
 
 ### (d) Vaccinated Travel Lane Land (VTL (Land)) Requirements
 
-### (i) Vaccination Requirement
+### (i) Pre-Departure Test Requirement
+
+<div id="PDT"></div>
+
+
+### (ii) Vaccination Requirement
 
 <div id="proof"></div>
 
