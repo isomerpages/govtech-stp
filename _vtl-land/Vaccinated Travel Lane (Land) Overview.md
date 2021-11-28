@@ -297,7 +297,7 @@ Travellers who are eligible for VTL (Land) and have already obtained their bus t
 	
 ### 4.  Frequently Asked Questions
 
-<span style="font-size:18px;">Click <a target="_blank" href="/vtl-land/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
+<span style="font-size:18px;">Click <a target="_blank" href="/vtl-land/faq">here</a> for the full list of FAQs, or the links below for specific info on the following topics:</span>
 
 <ol style="font-size:18px; list-style-type:disc;">
 	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/vtl-land/faq#digitalcerts">Recognised Vaccination Certificates for VTL</a></li>
