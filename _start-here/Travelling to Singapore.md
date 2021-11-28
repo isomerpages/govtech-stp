@@ -45,7 +45,6 @@ Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 ye
 <ol style="list-style-type:disc;">
 	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 	<li style="line-height:1.5; margin-top:10px;">Finland, India, Indonesia, Malaysia, and Sweden (for entry into Singapore from 29 Nov 2021)</li>
-			<li style="line-height:1.5; margin-top:10px;">Qatar, Saudi Arabia and the United Arab Emirates (applications open on 29 Nov 2021, for entry into Singapore from 6 Dec 2021)</li>
 	<li style="line-height:1.5; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 14 Dec 2021)</li>
 	<li style="line-height:1.5; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 16 Dec 2021)</li>
 	</ol>
