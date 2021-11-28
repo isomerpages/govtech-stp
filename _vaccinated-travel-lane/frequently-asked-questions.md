@@ -688,7 +688,6 @@ Please refer to the table below.
 If you are still facing name mismatch errors, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
 
-
 #### 6. Why are only SMART Health Cards by certain issuers accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
@@ -950,7 +949,7 @@ When checking in at the departure airport, travellers must present the following
 <li><i>[not applicable for children aged 12 and below in the calendar year]</i> an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>, which can be in the form of:
 <ul style="list-style-type:disc; margin-top:0px;">
 	<li>a proof of vaccination on an accepted mobile application, or</li>
-	<li>a vaccination certificate in English, stating the following:
+	<li>a vaccination certificate, stating the following:
 			<ul style="list-style-type:lower-roman; margin-top:0px;">
 				<li> the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
 				<li>the name(s) of vaccine(s) used; and</li>
