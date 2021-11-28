@@ -24,7 +24,7 @@ description: ""
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Frequently asked questions regarding vaccination proof can be found <a href="/vtl-land/faq#requirements" target="_blank">here</a>.</p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>B) Secure Tickets for a Designated VTL (Land) Bus Service </b></i></u></p>
-<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated VTL (Land) bus service offered by the operators below. Tickets for designated VTL (Land) bus services must be purchased at least 3 days before arrival.
+<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated VTL (Land) bus service offered by the operators below. Tickets for designated VTL (Land) bus services must be purchased at least 1 day before arrival.
 <ol style="list-style-type:lower-roman; padding-left:25px;">
 			<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, any other VTL country as recognised by the Government of Singapore, and/or Singapore in the last 14 consecutive days before departing for Singapore; and </li>
 			<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
