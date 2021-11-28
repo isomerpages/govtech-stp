@@ -138,12 +138,30 @@ input:checked + label + .content {
 </div>
 	
 <input type="checkbox" id="title4" />
-<label for="title4">Criterion 4: Fulfil Travel History & Designated VTL (Land) Bus Requirements</label>
+<label for="title4">Criterion 4: Fulfil Pre-Departure Test, Travel History & Designated VTL (Land) Bus Requirements</label>
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">	
 	<p style="line-height:1.4; font-size:18px; ">Travellers must:
 		<ol style="list-style-type:lower-roman">
-			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Test negative for a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (Art) taken within 2 days before departure for Singapore:</li>
+			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Test negative for a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (Art) taken <b>within 2 days</b> before departure for Singapore;</li>
+			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category I country</a> in the last 14 consecutive days before departing for Singapore; and </li>
+			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
+					<ol style="list-style-type:disc;">
+<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.causewaylink.com.my" target="_blank">Handal Indah</a></li>
+<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><a href="https://www.transtar.travel/" target="_blank">Transtar Travel</a></li>
+				</ol>
+			</li>
+	</ol>
+	</p>
+	</div>
+
+<input type="checkbox" id="title5" />
+<label for="title5">Criterion 5: Fulfil Travel History & Designated VTL (Land) Bus Requirements</label>
+
+<div id="criteria" class="content" style="background-color:#edf4fa;">	
+	<p style="line-height:1.4; font-size:18px; ">Travellers must:
+		<ol style="list-style-type:lower-roman">
+			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Test negative for a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (Art) taken <b>within 2 days</b> before departure for Singapore;</li>
 			<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category I country</a> in the last 14 consecutive days before departing for Singapore; and </li>
 			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
 					<ol style="list-style-type:disc;">
