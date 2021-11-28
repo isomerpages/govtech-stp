@@ -128,7 +128,7 @@ description: ""
 	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Singapore NRIC or Re-Entry Permit (only applicable for Singapore Permanent Residents);</li>
 	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Physical or electronic copy of the VTP for the specified period of entry (per <a href="#stage1c">Stage 1C</a>, not applicable for Singapore Citizens and Singapore Permanent Residents);</li>
 	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per <a href="#stage1a">Stage 1A</a>); and</li>
-	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#pdt">stage 1D</a>).</li>
+	<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#pdt">Stage 1D</a>).</li>
 </ol>
 
 <div style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 3: Arrival in Singapore</b></div>
@@ -138,7 +138,7 @@ description: ""
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Follow the instructions provided by the officers and signages on arrival.</p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#stage2">Stage 2</a>. Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA). Those who have successfully cleared immigration may leave the checkpoint via any available transport, including the same bus used to commute to Singapore or public transport.</p>
 
-<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>B) On-Arrival COVID-19 ART</b></i></u></p>
+<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744; <u><i><b>B) On-Arrival COVID-19 Antigen Rapid Test</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Travellers aged two and below in this calendar year are exempted from this requirement. All other travellers must take an on-arrival COVID-19 Antigen Rapid Test at Queen Street Terminal or Woodlands Temporary Bus Interchange. The test costs $15 including GST, and travellers can make e-payment for the test on the spot.</p>
 
