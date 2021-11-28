@@ -115,7 +115,6 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health.
 <li  style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOE Long-Term Pass Holder</b> if you are a Student Pass holder.</li>
 	</ol>
 
-
 <div id="Q4"></div>
  
 #### 4. I am a Long-Term Pass Holder or Short-Term Visitor with Singapore-issued vaccination records. How do I prove my vaccination status when applying for a VTP (Air)?
