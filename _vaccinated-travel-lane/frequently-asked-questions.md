@@ -135,7 +135,7 @@ Yes. If you are a Short-Term Visitor or Long-Term Pass holder with your vaccinat
 
 #### 6. What information does the vaccination certificates need to contain?
 
-The electronic or physical vaccination certificate(s) must be an accepted proof of vaccination, and clearly state the following in English:
+The electronic or physical vaccination certificate(s) must be an accepted proof of vaccination, and clearly state the following:
 - your name, and at least one other personal identifier such as your date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;
 - the name(s) of vaccine(s) used; and
 - the date(s) of vaccination. The date of the last dose should be administered at least 14 days before your arrival in Singapore. 
