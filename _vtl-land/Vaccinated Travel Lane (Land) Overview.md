@@ -8,7 +8,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;"><b><span style="color:red;">NOTE:</span> Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the <a href="/vtl/requirements-and-process" target="_blank">“Vaccinated Travel Lane (Air)”</a> page instead for more details. Please note that the Vaccinated Travel Pass (Air) and Vaccinated Travel Pass (Land) <u>are not</u> interchangable. A separate application for VTP (Air) is required if travelling by Air</b></p>
 	</div>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] facilitates quarantine-free travel for fully vaccinated travellers commuting between Singapore and Malaysia, via the Causeway only from 29 Nov 2021. You can download the infographics <a href="/files/Singapore-Malaysia Vaccinated Travel Lane (Land)_v5.pdf" target="_blank">here</a> for an overview of VTL (Land) requirements.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] facilitates quarantine-free travel for fully vaccinated travellers commuting between Singapore and Malaysia, via the Causeway only from 29 Nov 2021. <!--You can download the infographics <a href="/files/Singapore-Malaysia Vaccinated Travel Lane (Land)_v5.pdf" target="_blank">here</a> for an overview of VTL (Land) requirements.--></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">On this page, you will find the following details on VTL (Land):</p>
 <ol style="font-size:18px;">
@@ -291,6 +291,7 @@ input:checked + label + .content {
 	<li style="font-size:18px; line-height:1.4;"><a href="/health/vtsg" target="_blank">Definition of Fully Vaccinated</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#travel-history" target="_blank">Travel History</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="" target="/vtl-land/travel-checklist#pdt" target="_blank">Pre-departure test for travel to Singapore</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#travel-history" target="_blank">On-arrival Test</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#DesignatedBus" target="_blank">Bus Services</a></li>
 </ol>
 
