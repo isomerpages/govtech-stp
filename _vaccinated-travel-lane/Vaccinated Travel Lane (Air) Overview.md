@@ -11,7 +11,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 		<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.35;"><b><i>[If you do not have an account]</i></b> Email <a href="mailto:swabtest.refund@changiairport.com">swabtest.refund@changiairport.com</a> to request for assistance in cancellation and refunds.</li>
 	</ol>
 	</p>
-	<p style="font-size:16px; margin-top:20px; margin-bottom:0px;line-height:1.3; color:black;">Travellers who have travel history (including transits) to Qaatar, Saudi Arabia and the United Arab Emirates within the last 14 days prior to departure for Singapore will not be eligible for quarantine-free travel, until the commencement of the VTLs.</p>
+	<p style="font-size:16px; margin-top:20px; margin-bottom:0px;line-height:1.3; color:black;">Travellers who have travel history (including transits) to Qatar, Saudi Arabia and the United Arab Emirates within the last 14 days prior to departure for Singapore will not be eligible for quarantine-free travel, until the commencement of the VTLs.</p>
 	</div>
 
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
