@@ -154,14 +154,6 @@ input:checked + label + .content {
 	</ol>
 	</p>
 	</div>
-
-<input type="checkbox" id="title5" />
-<label for="title5">Criterion 5: Undergo On-Arrival COVID-19 Test in Singapore</label>
-
-<div id="criteria" class="content" style="background-color:#edf4fa;">	
-	<p style="line-height:1.4; font-size:18px; ">After going through immigration clearance, travellers must undergo an on-arrival COVID-19 ART at a Quick Test Centre located at Queen Street Terminal or Woodlands Temporary Bus Interchange.
-	</p>
-	</div>
 </body>
 </html>
 	
