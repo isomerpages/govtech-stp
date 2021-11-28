@@ -18,7 +18,7 @@ description: ""
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Application">Application for the Vaccinated Travel Pass (VTP)</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#requirements">VTL (Land) Requirements</a>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Pre-Departure Test Requirement</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure Test Requirement</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Vaccination Requirement
 			<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#proof">Eligibility and Proof of Vaccination</a></li>
