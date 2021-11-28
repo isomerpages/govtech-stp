@@ -475,7 +475,7 @@ The 14-day travel history may include a combination of (i), (ii), and (iii).
 
 <div id="contact-tracing"></div>
 
-### (e) Contact Tracing – TraceTogether
+### 5. Contact Tracing – TraceTogether
 
 <i>For the full requirements and conditions governing the use of TraceTogether, please click <a href="/health/tt-for-travellers" target="_blank">here</a></i>.
 
