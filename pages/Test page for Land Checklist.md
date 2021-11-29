@@ -154,8 +154,8 @@ published: true
 
 <div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label for="3B">&nbsp;&nbsp;<b>(3B) On-Arrival COVID-19 Antigen Rapid Test</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Follow the instructions provided by the officers and signages on arrival. Travellers must present the same set of documentation listed in <a href="#2A">Stage 2</a> for immigration clearance.</p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA).</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Travellers will be transported to take an on-arrival COVID-19 Antigen Rapid Test at Queen Street Terminal or Woodlands Temporary Bus Interchange. The test costs $15 including GST, and travellers can make e-payment for the test on the spot.</p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.5;"><span style="color:red;">&#10060;</span>&nbsp;<b>Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require a PDT.</b></p>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.5;">&#128653; Travellers must board the same bus after clearing immigration, to be transported to the On-Arrival Test location.</p>
 </div>
 
