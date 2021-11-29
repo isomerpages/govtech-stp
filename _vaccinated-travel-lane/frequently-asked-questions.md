@@ -617,7 +617,7 @@ Switzerland</td>
 
 Please attempt re-uploading your QR code, and ensure that:
 
-- If you have an India-issued vaccination certificate, that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'</b>. If not, please request for one from the <a href="https://www.cowin.gov.in/" target="_blank">Co-Win website</a>. Please <a href="#mismatch-error">click here</a> for more details.
+- If you have an India-issued vaccination certificate, that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'</b>. If not, please request for one from the <a href="https://www.cowin.gov.in/" target="_blank">Co-Win website</a>. Please <a href="#india">click here</a> for more details.
 - Your QR code was uploaded in a high-resolution, .png or .pdf format.
 - Your date of birth was keyed in the correct format (DD/MM/YYYY)
 -  Your proof of vaccination is an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
@@ -629,9 +629,16 @@ Please attempt re-uploading your QR code, and ensure that:
 For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
 
+<div id="india"></div>
+
+#### 5. My vaccination certificate was issued in India, but I am having issues uploading the QR code. What's going wrong?
+
+Please attempt re-uploading your QR code and ensure that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'.</b> A sample is as below. If not, please request fopr one form the Co-WIN website, as per the steps also listed below.
+
+
 <div id="mismatch-error"></div>
 
-#### 5. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP (Air)?
+#### 6. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP (Air)?
 
 Please refer to the table below. 
 <table>
