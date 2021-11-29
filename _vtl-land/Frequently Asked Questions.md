@@ -12,7 +12,7 @@ description: ""
 
 <div id="top"></div>
 
-<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha">
+<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:alpha">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#eligibility">Eligibility Criteria</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#DesignatedBus">Designated VTL (Land) Bus Services</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Application">Application for the Vaccinated Travel Pass (VTP)</a></li>
@@ -20,7 +20,7 @@ description: ""
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure Test Requirement</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Vaccination Requirement
-			<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-disc;">
+			<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
 				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#proof">Eligibility and Proof of Vaccination</a></li>
 							<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#digitalcerts">Digitally Verifiable Vaccination Certificate and QR Code Issues</a></li>
 			</ol>
