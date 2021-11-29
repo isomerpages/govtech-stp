@@ -2,7 +2,7 @@
 title: Test page for Land Checklist
 permalink: /land-checklist
 description: ""
-published: true
+published: false
 ---
 <!--<span style="font-size:32px; color:red;">&#9888;</span> This step-by-step checklist is for all VTL (Land) travellers, including Singapore Citizens (SC) and Singapore Permanent Residents (PR), entering Singapore via a designated VTL (Land) bus through the Causeway.-->
 
