@@ -91,7 +91,41 @@ published: true
 	
 <div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1F"><label for="1F">&nbsp;&nbsp;<b>(1F) Submit Health Declaration</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;"></p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;">To enjoy automated immigration clearance at Woodlands Checkpoint, travellers may follow the following steps:</p>
+
+<table>
+<thead>
+<tr>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#153855; text-align:center; width:400px; color:white;"><b>Traveller Profile</b></th>
+	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#153855; text-align:center; vertical-align:middle; color:white;"><b>Instructions</b></th>
+</tr>
+</thead>
+<tbody>
+		<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Permanent Residents</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Perform a transfer of Re-Entry Permit to the new Passport using the weblink in <a href="https://ica.gov.sg" target="_blank">MyICA</a></td>
+</tr>
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">MOM Work Permit, S Pass, Employment Pass, Dependant Pass, Long-Term Pass Holder</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Update Passport particulars through the “Notify MOM” option after selecting the relevant pass type in the <a href="https://www.mom.gov.sg/" target="_blank">MOM Website</a></td>
+</tr>
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">ICA Long-Term Visit Pass Holder</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">To report a change in Passport particulars, you will need to:
+				<ol style="list-style-type:disc;">
+				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:16px;">Email <a href="mailto:ICA_Visit_Pass@ica.gov.sg">ICA_Visit_Pass@ica.gov.sg</a> with the subject title: <b>Change of Passport Particulars for LTVP Holder (FIN No: XXXXXXXXXX)</b>; and </li>
+				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Attach the following documents in your email:
+					<ol>
+						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Passport biodata page</li>
+						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Long-Term Visit Pass card</li>
+						<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;">Sponsor's Identity Card</li>
+					</ol>
+					</li>
+				</ol>
+				</td>
+</tr>
+	</tbody>
+	</table>
 	</div>
 
 <div id="stage2"></div>
