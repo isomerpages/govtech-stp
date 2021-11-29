@@ -77,8 +77,11 @@ published: false
 	
 <div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label for="1E">&nbsp;&nbsp;<b>(1E) Submit Health Declaration</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;">&#9200; &nbsp; <b>Within <u>3 days</u> before arriving in Singapore</b></p>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;">&#9200; &nbsp; <b>Submit the SG Arrival Card health and travel history declaration up to <u>3 days</u> before arriving in Singapore.</b></p>
+	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
+<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.</li>
+<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.</li>
+	</ol>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><span style="color:red;">&#128681;</span>&nbsp;<b>Defer travel</b> if you:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Have <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
