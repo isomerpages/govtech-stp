@@ -104,7 +104,14 @@ Visitors entering Singapore before 26 October 2021, 2359hrs (Singapore time) may
 
 When checking in at the departure airport, visitors must present the following to the airline staff:
 - a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore; and
-- a valid visa (for visa-required visitors).
+- a valid visa (for visa-required visitors); and
+- <b>[From 2 December 2021, 2359 hrs, SGT]</b> a valif pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) test result certificate (electronic or physical copy) in Engish stating the following:
+<ol>
+	<li>the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the ATP holder's passport used for entry into Singapore;</li>
+	<li>a negative COVID-19 test result;</li>
+	<li>the date and time when the COVID-19 test was taken, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
+	<li></li>
+	</ol>
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
