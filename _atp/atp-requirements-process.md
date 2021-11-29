@@ -153,8 +153,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Check-in at departure airport</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> When checking in at the departure airport, visitors must present to the airline staff:
     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors).</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors); and</li>
+			          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"><b>[For entry into Singapore from 2 Dec 2021, 2359hrs, SGT]</b> a valid pre-departure COVID-19 PCR or ART test certificate showing a negative test result.</li>
     </ol> 
  </td>
  </tr>
