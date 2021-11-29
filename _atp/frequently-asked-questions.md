@@ -170,6 +170,9 @@ The pre-departure COVID-19 test must be taken at an <a href="https://www.moh.gov
 				 <li>the name of the testing institution conducting the COVID-19 test;</li>
 				 </ol>
 
+Travellers are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 test. They must also bear the cost of their pre-departure COVID-19 test. Please check with the listed testing institutions for the cost of the test.
+
+Travellers who are unable to produce a valid pre-departure COVID-19 test result certificate during check-in at the departure airport will be refused boarding by the airline.
 
 <div id="insurance"></div>
 
