@@ -55,7 +55,7 @@ Travellers who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><b>[For Travellers arriving from 2 Dec 2021, 2359 hours only]</b> Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here</a> if you are arriving via air (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshenton/" target="_blank">Register here</a>, if arriving by sea or land (each test costs S$160)</li>
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing.</li>
 	</ol>
 
 ### Stage 2: Departure for Singapore
@@ -113,7 +113,7 @@ During the SHN period, randomised in-person or phone/video compliance check(s) w
 	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
 	<ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
-		<li style="font-size:16px; margin-top:5px; margin-bottom:0px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
+		<li style="font-size:16px; margin-top:5px; margin-bottom:10px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
 		<li style="font-size:16px; margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation.</li>
 	</ol>
 	</div>
