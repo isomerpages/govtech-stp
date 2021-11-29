@@ -122,8 +122,15 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>
  </tr>
 	<tr>
-		<td><b>Pre-Departure COVID-19 Test</b><br><br><b>[For entry into Singapore from 2 Dec 2021, 2359hrs, SGT]</b></td>
-				<td></td>
+		<td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-Departure COVID-19 Test</b><br><br><b>[For entry into Singapore from 2 Dec 2021, 2359hrs, SGT]</b></td>
+				<td style="font-size:16px;border-right:1px solid #D8D8D8;">All travellers, except those aged 2 and below in the calendar year (i.e.a child who turns 2 in this calendar year will be exempted), must take either a professionally administered COVID-19 Antigen Rapid Test (ART), or a COVID-19 PCR test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a> in their country/region of departure, within 2 days* before departure for Singapore. Self-swabs are not allowed. Please also ensure that the test report:
+<ol style="margin-top:0px; list-style-type: disc;">
+					 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Is in English (or accompanied with an English translation);</li>
+				 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Contains the traveller's name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
+				 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Reflects the date and time the test was taken, the name of the testing institution, and a negative test result; and</li>
+				 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Is not handwritten</li>
+					</ol>
+					<p style="font-size:14px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*If the pre-departure test is taken on 1 December 2021, it will be valid for departures up to 3 December 2021, 2359 hours.</p></td>
 	</tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether</b> </td>
