@@ -179,7 +179,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present the following to the ICA officer or entry may be denied:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid visa (for visa-required passport holders);</li>
+					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"><b>[For entry into Singapore from 2 Dec 2021, 2359hrs, SGT]</b> a valid pre-departure COVID-19 PCR or ART test certificate showing a negative test result; and</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
          </ol>
 		<b>Eligible travellers vaccinated overseas should also inform the immigration officer to temporarily register their vaccination details in their TraceTogether app</b>, in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>.  <br><br>
