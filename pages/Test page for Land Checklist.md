@@ -87,7 +87,6 @@ published: true
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
 		<li style="padding-left:10px; margin-bottom:0px; padding-bottom:10px; line-height:1.5; font-size:18px;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 	</ol>
-	</p>
 	</div>
 
 <div id="stage2"></div>
