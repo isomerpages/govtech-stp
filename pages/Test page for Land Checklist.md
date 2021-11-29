@@ -140,7 +140,7 @@ published: true
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Ticket for designated VTL (Land) bus services; </li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Passport;</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><b><span style="color:red;">[Only applicable for Singapore Permanent Residents]</span></b> Singapore NRIC or Re-Entry Permit</li>
-<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><b><span style="color:red;">[Not applicable for Singapore Citizens and Singapore Permanent Residents]</span></b> Physical or electronic copy of the VTP for the specified period of entry (per <a href="1C">Stage 1C</a>)</li>
+<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><b><span style="color:red;">[Not applicable for Singapore Citizens and Singapore Permanent Residents]</span></b> Physical or electronic copy of the VTP for the specified period of entry (per <a href="#1C">Stage 1C</a>)</li>
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per Stage 1A); and</li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per stage 1E).</li>
 	</ol>
