@@ -141,7 +141,7 @@ published: false
 	</tr>
   	<tr>
 	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; vertical-align:middle; line-height:1.4;">Cost (S$) for additional suite-sharing person</td>
-    	<td rowspan="4" style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; vertical-align:middle; line-height:1.4;">600 per pax who is:<br>
+    	<td colspan="4" style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; vertical-align:middle; line-height:1.4;">600 per pax who is:<br>
         <ol style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;list-style-type:lower-alpha;">
         <li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Aged 4 and above; or</li>
                   <li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Aged 3 and under but who require food from the SDF.</li>
@@ -149,14 +149,14 @@ published: false
 	</tr>
     	<tr>
 	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; vertical-align:middle; line-height:1.4;">Miscellaneous Cost (S$)</td>
-    	<td rowspan="4" style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; vertical-align:middle; line-height:1.4;">Applicable only to travellers who transfer between hotels during the SHN period:<br>
+    	<td colspan="4" style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; vertical-align:middle; line-height:1.4;">Applicable only to travellers who transfer between hotels during the SHN period:<br>
         <ol style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;list-style-type:lower-alpha;">
         <li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">300 for cleaning </li>
                   <li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">45 for transport</li>
         </ol></td>
 	</tr>
       	<tr>
-	<td rowspan="5" style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; vertical-align:middle; line-height:1.4; background-color:#153855;color:white;">SDF Operators with Suite Options</td>
+	<td colspan="5" style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; vertical-align:middle; line-height:1.4; background-color:#153855;color:white;">SDF Operators with Suite Options</td>
 	</tr>
       	<tr>
 	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; vertical-align:middle; line-height:1.4;"><a href="mailto:SDFsuite.sts@swissotel.com" target="_blank;">Swissotel the Stamford</a></td>
