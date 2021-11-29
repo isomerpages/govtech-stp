@@ -134,12 +134,13 @@ published: true
 <div style="padding:10px 10px 5px 10px; margin-bottom: 10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A">
 	<label for="2A">&nbsp;&nbsp;<b>(A) Pre-departure document checks</b></label></p>
-<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers who fail to comply may be denied boarding.</b></p>
+
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Present the following documents to transport operators for verification:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f0f0f0;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Ticket for designated VTL (Land) bus services; </li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Passport;</li>
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Physical or electronic copy of the VTP for the specified period of entry (per Stage 1B);</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><b><span style="color:red;">[Only applicable for Singapore Permanent Residents]</span></b> Singapore NRIC or Re-Entry Permit</li>
+<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><b><span style="color:red;">[Not applicable for Singapore Citizens and Singapore Permanent Residents]</span></b> Physical or electronic copy of the VTP for the specified period of entry (per <a href="1C">Stage 1C</a>)</li>
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per Stage 1A); and</li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per stage 1E).</li>
 	</ol>
