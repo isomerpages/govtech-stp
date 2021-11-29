@@ -30,7 +30,7 @@ permalink: /atp/conditions
      </ol>
   </li>
   <br/>
-    <li style="font-size:20px; list-style-type:decimal;"> The requirement in Condition 1(c) to undergo a COVID-19 PCR test at the airport upon arrival in Singapore does not apply to an Air Travel Pass holder who is below 3 years of age in that calendar year.</li>
+    <li style="font-size:20px; list-style-type:decimal;"> The requirements in Condition 1(b) and 1(c) do not apply to an Air Travel Pass holder who is below 3 years of age in that calendar year.</li>
   <br/>
    <li style="font-size:20px; list-style-type:decimal;"> Condition 1(e) does not apply to an Air Travel Pass holder who is 6 years of age or younger in that calendar year. Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the airport upon arrival in Singapore. They must carry the TraceTogether token issued to them while in Singapore and return their token at any checkpoint prior to their departure from Singapore. 
   </li>
