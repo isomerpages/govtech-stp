@@ -633,10 +633,10 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 
 #### 5. My vaccination certificate was issued in India, but I am having issues uploading the QR code. What's going wrong?
 
-Please attempt re-uploading your QR code and ensure that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'.</b> A sample is as below. If not, please request fopr one form the Co-WIN website, as per the steps also listed below.
+Please attempt re-uploading your QR code and ensure that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'.</b> A sample is as below. If not, please request for one from the Co-WIN website, as per the steps also listed below.
 <img src="/images/IndiaVaxCert.png" width="765" height="372">
 
-To obtain an 'International Travel Certificate':
+To obtain an <b>'International Travel Certificate'</b>:
 - Visit https://www.cowin.gov.in/
 - Login using the "Register/Sign In' option on top right.
 - Once logged in, tap on the 'International Travel Certificate' option right next to the 'Certificate' option.
