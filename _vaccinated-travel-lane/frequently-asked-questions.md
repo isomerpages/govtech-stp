@@ -615,21 +615,38 @@ Switzerland</td>
 
 #### 4. Why was/were my vaccination QR code(s) not accepted in my VTP (Air) application?
 
-Please try to reupload your QR code in a high-resolution, .png or .pdf format. Please also ensure you have keyed in your date of birth in the correct format (DD/MM/YYYY).
+Please attempt re-uploading your QR code, and ensure that:
 
-Some other reasons you may be unable to upload your QR code include:
-- Your proof of vaccination was not issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a>, or is not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
-- The number of QR codes you have uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or you are using the wrong method of QR code upload.
-- You are not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
-- Your passport particulars do not match with your vaccination certificate particulars. Where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation..
--You did not replace the special characters in your name as per this <a href="/vtl/faq#mismatch-error">FAQ</a>.
+- If you have an India-issued vaccination certificate, that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'</b>. If not, please request for one from the <a href="https://www.cowin.gov.in/" target="_blank">Co-Win website</a>. Please <a href="#india">click here</a> for more details.
+- Your QR code was uploaded in a high-resolution, .png or .pdf format.
+- Your date of birth was keyed in the correct format (DD/MM/YYYY)
+-  Your proof of vaccination is an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
+- You have uploaded the <a href="#numberofcodes">correct number of QR codes</a>, and you are using the correct method of QR code upload
+- You are fully vaccinated, based on <a href="/health/vtsg" target="_blank">this criteria</a>
+- Your passport particulars match with your vaccination certificate. If not, where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation.
+- You replaced the special characters in your name as per this <a href="/vtl/faq#mismatch-error">FAQ</a>.
 
 For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
 
+<div id="india"></div>
+
+#### 5. My vaccination certificate was issued in India, but I am having issues uploading the QR code. What's going wrong?
+
+Please attempt re-uploading your QR code and ensure that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'.</b> A sample is as below. If not, please request for one from the Co-WIN website, as per the steps also listed below.<br><br>
+<img src="/images/IndiaVaxCert.png" width="765" height="372">
+
+To obtain an <b>'International Travel Certificate'</b>:
+- Visit https://www.cowin.gov.in/
+- Login using the "Register/Sign In' option on top right.
+- Once logged in, tap on the 'International Travel Certificate' option right next to the 'Certificate' option.
+- Now, enter all the required details such as your passport number and DOB.
+- Click on the 'Submit Request' option to get your 'International Travel Certificate'.
+
+
 <div id="mismatch-error"></div>
 
-#### 5. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP (Air)?
+#### 6. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP (Air)?
 
 Please refer to the table below. 
 <table>
@@ -686,7 +703,7 @@ Please refer to the table below.
 If you are still facing name mismatch errors, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
 
-#### 6. Why are only SMART Health Cards by certain issuers accepted?
+#### 7. Why are only SMART Health Cards by certain issuers accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
 
@@ -696,7 +713,7 @@ We are currently working on accepting digitally verifiable vaccination certifica
 
 <div id="Question7"></div>
 
-#### 7. I was issued a vaccination certificate in the United States but it is not a SMART Health Card issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative. Is there any alternative to showing my vaccination status for VTL travel?
+#### 8. I was issued a vaccination certificate in the United States but it is not a SMART Health Card issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative. Is there any alternative to showing my vaccination status for VTL travel?
 
 You can provide either 
 <ol style="list-style-type:lower-alpha;">
