@@ -109,8 +109,8 @@ When checking in at the departure airport, visitors must present the following t
 <ol style="list-style-type:disc;">
 	<li>the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the ATP holder's passport used for entry into Singapore;</li>
 	<li>a negative COVID-19 test result;</li>
-	<li>the date and time when the COVID-19 test was taken, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
-	<li></li>
+	<li>the date and time when the COVID-19 test was taken, which must be within 2 days before departure for Singapore; and </a></li>
+	<li>the name of the testng institution conducting the COVID-19 test, which must be from the list of <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratories, clinics, or medical facilities</a></li>
 	</ol>
 
 A visitor who does not have any of the above may be refused boarding by the airline.
