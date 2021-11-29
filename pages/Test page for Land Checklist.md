@@ -34,7 +34,7 @@ published: false
 
 <div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B"><label for="1B">&nbsp;&nbsp;<b>(1B) Secure Tickets for a Designated VTL (Land) Bus Service</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">&#9200; &nbsp; <b><span style="color:red">Purchase tickets at least 1 day before arrival in Singapore</span></b></p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">&#9200; &nbsp; <b>Purchase tickets <u>at least 1 day</u> before arrival in Singapore</b></p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated bus service offered by the operators below.</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.5; margin-top:10px;">The latest list of designated VTL (Land) bus operators are as follows*:</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
@@ -49,7 +49,7 @@ published: false
 		<label for="1C">&nbsp;&nbsp;<b>(1C) <span style="color:red;">[Singapore Long-Term Pass Holders Only]</span> Apply for Vaccinated Travel Pass (VTP) </b></label></div>
 <div style="padding:30px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 	<div style="vertical-align:middle; text-align:center; font-size:18px; line-height:1.5; "><a style="padding:10px 10px 10px 10px; background-color:#D8D8D8;" href="https://go.gov.sg/vtl-portal" target="_blank"><b>Long Term Pass Holders Click Here To Apply For a VTP</b></a></div>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9200; &nbsp; <b><span style="color:red">Apply at least 3 calendar days before the intended date of entry.</span></b></p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9200; &nbsp; <b>Apply <u>at least 3 calendar days</u> before the intended date of entry.</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><span style="color:red; font-size:24px;">&#10060;</span>&nbsp; Unvaccinated children aged 12 and below in this calendar year do not need to apply. However, they must comply with all other VTL (Land) conditions, including being accompanied by a fully vaccinated VTL (Land) traveller.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>Please note the following while making the application on the VTP application portal:</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
@@ -63,7 +63,7 @@ published: false
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D"><label for="1D">&nbsp;&nbsp;<b>(1D) Pre-departure COVID-19 Test (PDT)</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9200; &nbsp; <b><span style="color:red">Take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.</span></b></p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9200; &nbsp; <b>Take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) <u>within 2 days</u> before departure for Singapore.</b></p>
 		<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">The test must be taken at a <a href="" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> accredited or recognised by the Malaysia Ministry of Health. Travellers should obtain a test report that:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Is in English (or accompanied with an English translation);</li>
@@ -77,7 +77,7 @@ published: false
 	
 <div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label for="1E">&nbsp;&nbsp;<b>(1E) Submit Health Declaration</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">&#128433;&#65039; &nbsp;<b>Within <u>3 days</u> before arriving in Singapore</b></p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;">&#9200; &nbsp; <b>Within <u>3 days</u> before arriving in Singapore</b></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><span style="color:red;">&#128681;</span>&nbsp;<b>Defer travel</b> if you:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
