@@ -45,8 +45,8 @@ published: false
 </div>
 
 
-<div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B">
-		<label for="1B">&nbsp;&nbsp;<b>(B) <span style="color:red;">[Only Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label></div>
+<div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C">
+		<label for="1C">&nbsp;&nbsp;<b>(1C) <span style="color:red;">[Only Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">&#128433;&#65039; &nbsp;<b>Between <u>2 and 60 days</u> before intended date of entry into Singapore</b></p>
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">Apply for entry, together with the QR code of the traveller’s vaccination certificate (if available).</p>
