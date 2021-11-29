@@ -80,7 +80,7 @@ published: false
 	<p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;">&#9200; &nbsp; <b>Submit the SG Arrival Card health and travel history declaration up to <u>3 days</u> before arriving in Singapore.</b></p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Travellers must fill the online <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> before arriving in Singapore, otherwise they will be asked to it fill up on the spot and experience delays at the checkpoint. Please refer to the <a href="https://youtu.be/hhq4ffp-qOc" target="_blank">SGAC video guide</a> if you are unsure how to fill it up.</li>
-<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with pre-trip health and travel history declaration.</li>
+<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><b>The SGAC replaces the physical arrival “White Card”, which is no longer in use.</b> SGAC is a free service and travellers should beware of websites offering to fill the SGAC declaration for a fee.</li>
 	</ol>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><span style="color:red;">&#128681;</span>&nbsp;<b>Defer travel</b> if you:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
