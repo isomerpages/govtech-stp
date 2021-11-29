@@ -163,12 +163,13 @@ From <b>2 December 2021, 2359 hrs (Singapore time)</b>, all visitors entering Si
 
 The pre-departure COVID-19 test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>. The test result must be in English and state the following:
 
-<ol style="font-size:18px; list-style-type:lower-roman;">
-				 <li style="font-size:18px; list-style-type:lower-roman;">the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
-				 <li style="font-size:18px; list-style-type:lower-roman;">a negative COVID-19 test result;</li>
-				 <li style="font-size:18px; list-style-type:lower-roman;">the date and time when the COVID-19 test was taken; and</li>
-				 <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 test;</li>
+<ol style="list-style-type:disc;">
+				 <li>the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
+				 <li>a negative COVID-19 test result;</li>
+				 <li>the date and time when the COVID-19 test was taken; and</li>
+				 <li>the name of the testing institution conducting the COVID-19 test;</li>
 				 </ol>
+
 
 <div id="insurance"></div>
 
