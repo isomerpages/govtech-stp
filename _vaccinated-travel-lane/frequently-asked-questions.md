@@ -623,8 +623,8 @@ Please attempt re-uploading your QR code, and ensure that:
 -  Your proof of vaccination is an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
 - You have uploaded the <a href="#numberofcodes">correct number of QR codes</a>, and you are using the correct method of QR code upload
 - You are fully vaccinated, based on <a href="/health/vtsg" target="_blank">this criteria</a>
-- Your passport particulars match with your vaccination certificate. If not, where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation..
--You replaced the special characters in your name as per this <a href="/vtl/faq#mismatch-error">FAQ</a>.
+- Your passport particulars match with your vaccination certificate. If not, where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation.
+- You replaced the special characters in your name as per this <a href="/vtl/faq#mismatch-error">FAQ</a>.
 
 For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
