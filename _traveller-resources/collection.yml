@@ -2,6 +2,7 @@ collections:
   traveller-resources:
     output: true
     order:
+      - Cost, Payments & Refunds.md
       - resources-overview.md
       - Checklists for Inbound Travellers .md
       - Travel Health Control Measures (Category I,II,III,IV).md
