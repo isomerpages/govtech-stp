@@ -121,6 +121,10 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 	    </ol>
     </td>
  </tr>
+	<tr>
+		<td><b>Pre-Departure COVID-19 Test</b><br><br><b>[For entry into Singapore from 2 Dec 2021, 2359hrs, SGT]</b></td>
+				<td></td>
+	</tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"> 
