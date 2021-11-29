@@ -8,7 +8,7 @@ permalink: /atp/conditions
   <li style="font-size:20px; list-style-type:decimal;"> An Air Travel Pass holder must: 
      <ol style="font-size:18px; list-style-type:lower-alpha;">
   <li style="font-size:18px; list-style-type:lower-alpha;">have only been to one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore in the last 14 consecutive days<sup>1</sup> before departing for Singapore;</li>
-			 <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days<sup>1</sup> before the scheduled departure time of his/her flight, at an internationally accredited laboratory, clinic or medical facility, and obtain a test result certificate in English stating the following:
+			 <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days<sup>1</sup> before the scheduled departure time of his/her flight, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited laboratory, clinic or medical facility</a>, and obtain a test result certificate in English stating the following:
 			 <ol style="font-size:18px; list-style-type:lower-roman;">
 				 <li style="font-size:18px; list-style-type:lower-roman;">the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
 				 <li style="font-size:18px; list-style-type:lower-roman;">a negative COVID-19 test result;</li>
