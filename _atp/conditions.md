@@ -41,5 +41,5 @@ permalink: /atp/conditions
 
 
 <p style="margin-top:10px; font-size:16px;"><sup>1</sup> If the scheduled day of departure of the flight is D (e.g. 15 December 2021), the traveller must have only been to one or more of the Category  I countries/regions and/or Singapore from D-14 to D (i.e. 1 December to 15 December 2021, if D is 14 December 2021).</p>
-<p style="margin-top:10px; font-size:16px;"><sup>2</sup> Travellers are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall.</p>
+<p style="margin-top:10px; font-size:16px;"><sup>2</sup> If the pre-departure test is taken on 1 December 2021, it will be valid for departures up to 3 December 2021, 2359 hours.</p>
 <p style="margin-top:10px; font-size:16px;"><sup>3</sup> Travellers are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall.</p>
