@@ -695,7 +695,7 @@ Please refer to the table below.
 If you are still facing name mismatch errors, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
 
-#### 6. Why are only SMART Health Cards by certain issuers accepted?
+#### 7. Why are only SMART Health Cards by certain issuers accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
 
@@ -705,7 +705,7 @@ We are currently working on accepting digitally verifiable vaccination certifica
 
 <div id="Question7"></div>
 
-#### 7. I was issued a vaccination certificate in the United States but it is not a SMART Health Card issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative. Is there any alternative to showing my vaccination status for VTL travel?
+#### 8. I was issued a vaccination certificate in the United States but it is not a SMART Health Card issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative. Is there any alternative to showing my vaccination status for VTL travel?
 
 You can provide either 
 <ol style="list-style-type:lower-alpha;">
