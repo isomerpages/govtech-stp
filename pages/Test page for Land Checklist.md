@@ -61,19 +61,18 @@ published: false
 <p style="padding-left:5px;font-size:18px; padding-bottom:5px;margin-bottom:10px; line-height:1.5;">&#9888;&#65039; &nbsp;<b>Error when uploading vaccination certificate QR code:</b> If you have problem uploading the vaccination certificate QR code even though you have met all requirements above, <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office</a> for help and provide your vaccination certificate.</p>
 </div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D"><label for="1D">&nbsp;&nbsp;<b>(D) Pre-departure Test (PDT)</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D"><label for="1D">&nbsp;&nbsp;<b>(D) Pre-departure COVID-19 Test (PDT)</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><span style="color:red;">&#10060;</span>&nbsp;<b>Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require a PDT.</b></p>
-	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">All other travellers, must take either a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test <b>or</b> Antigen Rapid Test (ART) <b>within 2 days before departure</b> for Singapore.</p>
-		<p style="font-size:18px; margin-bottom:0px; line-height:1.5;"><i>E.g. The earliest pre-departure test date for a traveller entering Singapore on 3 December 2021, is 1 December 2021.</i></p>
-		<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">The test must be taken at a <a href="" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> that is accredited or recognised by the Malaysia Ministry of Health. Travellers should obtain a test report that:</p>
-		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f0f0f0;">
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9200; &nbsp; <b><span style="color:red">Take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.</span></b></p>
+		<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">The test must be taken at a <a href="" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> accredited or recognised by the Malaysia Ministry of Health. Travellers should obtain a test report that:</p>
+		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Is in English (or accompanied with an English translation);</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); </li>
 				<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Reflects the date and time the test was taken, the name of the testing institution; and </li>
 				<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Has a negative test result.</li>
 	</ol>
-	</p>
+		<p style="font-size:18px; margin-bottom:0px; line-height:1.5;"><i><u>Illustration of acceptable 2-day timeline</u>: The earliest date which a traveller entering Singapore on 3 December 2021 should take a pre-departure COVID-19 test, is 1 December 2021.</i></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><span style="color:red;">&#10060;</span>&nbsp;<b>Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require a PDT.</b></p>
 	</div>
 	
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
