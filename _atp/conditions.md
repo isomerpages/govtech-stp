@@ -16,7 +16,7 @@ permalink: /atp/conditions
 				 <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 test;</li>
 				 </ol>
 			 </li>
-       <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test at the airport upon arrival in Singapore, immediately<sup>1</sup> take private transportation, taxi, or private hire car from the airport to the declared place of accommodation and remain isolated at the accommodation until the test result is confirmed to be negative;</li>
+       <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 PCR test at the airport upon arrival in Singapore, immediately<sup>1</sup> take private transportation, taxi, or private hire car from the airport to the declared place of accommodation and remain isolated at the accommodation until the test result is confirmed to be negative;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the medical provider disclosing his/her COVID-19 PCR test result to the relevant Singapore Government authorities for public health purposes;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> download the TraceTogether app on his/her mobile device and:
         <ol style="font-size:18px; list-style-type:lower-roman;">
