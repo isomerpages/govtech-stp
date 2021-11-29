@@ -24,13 +24,13 @@ description: ""
   <li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">Refunds</li>
   </ol>
 </p>
-<p style="font-size:18px; margin-top:15px; margin-bottom:10px;line-height:1.4;">Please note that all cost reflected on this page are in Singapore Dollars (S$).</p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.4;">Please note that all cost reflected on this page are in Singapore Dollars (S$).</p>
 
 ### 1) COVID-19 Test(s)
 
 #### A) Cost of all COVID-19 Test(s) administered in Singapore
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:15px;line-height:1.4;">Depending on scheme of travel, travellers may be required to take a COVID-19 Polymerase Chain Reaction test (PCR test) or Antigen Rapid Test (ART). These tests can be required upon arrival in Singapore and during the Stay-Home Notice (SHN) period. See Table below for the latest cost of the applicable test:</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px;line-height:1.4;">Depending on scheme of travel, travellers may be required to take a COVID-19 Polymerase Chain Reaction test (PCR test) or Antigen Rapid Test (ART). These tests can be required upon arrival in Singapore and during the Stay-Home Notice (SHN) period. See Table below for the latest cost of the applicable test:</p>
 
 <table>
 <tbody>
@@ -56,7 +56,7 @@ description: ""
 
 #### B) Registration and Pre-Payment
 
-<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.4;">To expedite the immigration clearance and testing process at the checkpoints, travellers should register and pay for all the required COVID-19 test before arrival in Singapore. For all COVID-19 tests administered during the Stay-Home Notice (SHN) period, payment would be collected during application for entry approvals. Travellers, however, must separately register and pay for their on-arrival COVID-19 test, if required, using the links below:</p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:20px;line-height:1.4;">To expedite the immigration clearance and testing process at the checkpoints, travellers should register and pay for all the required COVID-19 test before arrival in Singapore. For all COVID-19 tests administered during the Stay-Home Notice (SHN) period, payment would be collected during application for entry approvals. Travellers, however, must separately register and pay for their on-arrival COVID-19 test, if required, using the links below:</p>
 
 <table>
   <thead>
@@ -120,7 +120,7 @@ description: ""
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px;line-height:1.4;">As Singapore becomes COVID-19 resilient, eligible travellers may opt for alternative SDF arrangements. This includes completing the Stay-Home Notice (SHN) in a premium room or suite. Travellers should only book a non-standard SDF room or suite after obtaining approval for entry into Singapore; payments will be made to the SDF operator directly during check-in.</p>
 
-<p style="font-size:18px; margin-top:15px; margin-bottom:0px;line-height:1.4;">Travellers who have successfully booked a premium room or suite before or during their SHN must complete <a href="https://go.gov.sg/sdfsuite" target="_blank">this notification form</a> <b>at least 48 hours before transferring to the hotel from the checkpoint or from an existing SDF</b>. See table below for the indicative suite cost and listings:</p>
+<p style="font-size:18px; margin-top:15px; margin-bottom:20px;line-height:1.4;">Travellers who have successfully booked a premium room or suite before or during their SHN must complete <a href="https://go.gov.sg/sdfsuite" target="_blank">this notification form</a> <b>at least 48 hours before transferring to the hotel from the checkpoint or from an existing SDF</b>. See table below for the indicative suite cost and listings:</p>
 
 <table>
 <tbody>
