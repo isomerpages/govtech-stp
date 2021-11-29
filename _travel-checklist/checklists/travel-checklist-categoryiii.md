@@ -49,9 +49,17 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
-&#9744;  <i><b>E) Installation of Contact Tracing apps</b></i>
+<div id="stage1e"></div>
 
-Install and activate the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications, which will facilitate SHN compliance checks and contact tracing.
+&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+
+Travellers who are fit for travel should:
+
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><b>[For Travellers arriving from 2 Dec 2021, 2359 hours only]</b> Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here</a> if you are arriving via air (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshenton/" target="_blank">Register here</a>, if arriving by sea or land (each test costs S$160)</li>
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing.</li>
+	</ol>
+
 
 ### Stage 2: Departure for Singapore
 
@@ -74,14 +82,18 @@ During immigration clearance, provide all relevant documents and information req
 
 For visitors granted entry, please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport unless arriving by land or sea. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here for more information about the e-Pass</a>.
 
-&#9744;  <i><b>B) Issuance of Stay Home Notice (SHN) </b></i>
+&#9744;  <i><b>B)[For arrivals from 2 Dec 2021, 2359 hours only] On arrival COVID-19 Tests</b></i>
+
+Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you <a href="#stage1e">did not pay for the test ebfore arrival (per Stage 1E)</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint. 
+
+&#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i>
 
 A 10-day <a href="/health/shn" target="_blank">Stay-Home Notice (SHN)</a> will be sent to the email address provided by the traveller in their <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card" target="_blank">
 SGAC declaration</a>. The SHN takes effect immediately on the day of its issuance.
 
 <div id="stage3D"></div>
 
-&#9744;  <i><b>C) Transport to SHN Accommodation</b></i>
+&#9744;  <i><b>D) Transport to SHN Accommodation</b></i>
 
 Travellers with 14-day travel history to Category (III) countries/regions will be able to commute using their own private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). 
 
