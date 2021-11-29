@@ -140,6 +140,14 @@ Please note that the ATP is <b>not</b> an immigration visit pass. It only allows
 
 All applications for extension of visit pass must be submitted online using ICA’s e-service [here](https://eservices.ica.gov.sg/esvclandingpage/extend) at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is no guarantee that an extension will be granted.
 
+
+<div id="PDT"></div>
+
+### Pre-Departure COVID-19 Test
+
+
+
+
 <div id="insurance"></div>
 
 ### Mandatory COVID-19 Travel Insurance Coverage
