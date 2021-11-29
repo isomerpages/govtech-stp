@@ -38,8 +38,8 @@ published: false
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated bus service offered by the operators below.</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.5; margin-top:10px;">The latest list of designated VTL (Land) bus operators are as follows*:</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">XXX</li>
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">XXX</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><a href="https://www.causewaylink.com.my/" target="_blank">Handal Indah</a></li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><a href="https://www.transtar.travel/" target="_blank">Transtar Travel</a></li>
 	</ol>
 	*<i>The list of bus operators and websites will be regularly updated.</i>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers can purchase tickets for the designated VTL (Land) bus services offered by either Singaporean or Malaysian designated operators for travel to Singapore. </p>
