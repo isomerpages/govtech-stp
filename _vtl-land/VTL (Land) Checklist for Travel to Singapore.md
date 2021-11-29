@@ -10,7 +10,7 @@ description: ""
 <p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; For all travellers including Singapore Citizens and Permanent Residents entering Singapore via the Causeway taking designated buses for the VTL (Land)</p>
 
 <p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore by plane &#9992;. Fully vaccinated travellers who intend to fly from Malaysia to Singapore should check the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> for more details. </p>
-<p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers leaving Singapore. Travellers who intend to leave Singapore using the VTL (Land) should visit the "<i><a href="">Vaccinated Travel Lane (Land) for Travel to Malaysia</a></i>" page for more details.</p>
+<p style="font-size:18px; line-height:1.5;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers leaving Singapore. Travellers who intend to leave Singapore using the VTL (Land) should visit the "<a href="/vtl-land/outbound-travel">Vaccinated Travel Lane (Land) for Travel to Malaysia</a>" page for more details.</p>
 
 <p  style="font-size:18px;"><span style="color:black; font-size:32px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>
 
