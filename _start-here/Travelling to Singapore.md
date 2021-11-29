@@ -43,8 +43,7 @@ Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore fro
 Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane (Air) or Vaccinated Travel Lane (Land) to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank"> Vaccinated Travel Lane (Land)</a>.
 
 <ol style="list-style-type:disc;">
-	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
-	<li style="line-height:1.5; margin-top:10px;">Finland, India, Indonesia, Malaysia, and Sweden (for entry into Singapore from 29 Nov 2021)</li>
+	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 	<li style="line-height:1.5; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 14 Dec 2021)</li>
 	<li style="line-height:1.5; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 16 Dec 2021)</li>
 	<li style="line-height:1.5; margin-top:10px;">Qatar, Saudi Arabia and the United Arab Emirates (deferred until further notice)</li>
