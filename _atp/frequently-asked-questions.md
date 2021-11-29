@@ -115,6 +115,8 @@ When checking in at the departure airport, visitors must present the following t
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
+Children who are aged 2 and below in that calendar year (i.e. in the year 2021, those who are born in or after 2019), are not required to undergo a pre-departure COVID-19 test. 
+
 Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport upon arrival in Singapore.
 
 Children aged 6 years or younger in that calendar year are exempted from the TraceTogether requirement.
@@ -153,7 +155,13 @@ All applications for extension of visit pass must be submitted online using ICAâ
 ### Pre-Departure COVID-19 Test
 
 
+<i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 test.</i>
 
+#### 1. Are visitors required to take any pre-departure COVID-19 tests?
+
+From <b>2 December 2021, 2359 hrs (Singapore time)</b>, all visitors entering Singapore, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
+
+The pre-departure COVID-19 test must be taken at an internationally accredited or recognised laboratory, clinic, or medical facility. The test result must be in English and state the following:
 
 <div id="insurance"></div>
 
