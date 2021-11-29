@@ -28,7 +28,7 @@ This page provides a summary of the four categories of travel health control mea
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
-							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b><span style="color:red;"><b><sup>New!</sup></b></span>From 27 Nov 2021, 2359hrs, travellers whose 14-day travel history includes Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe are disallowed from entry into Singapore. This, excludes Singapore Citizens and Permanent Residents, who may continue to return to Singapore but be subjected to the Category (IV) protocols.</p>
+							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b><span style="color:red;"><b><sup>New!</sup></b></span>From 27 Nov 2021, 2359hrs, travellers whose 14-day travel history includes Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe are disallowed from entry into Singapore. This excludes Singapore Citizens and Permanent Residents, who may continue to return to Singapore but be subjected to the Category (IV) protocols.</p>
 			</td>
     </tr>
 	</tbody>
@@ -173,7 +173,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions<sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe. Non-SC/PRs with a travel history to the aforementioned countries/regions are barred from entry with effect from 27 Nov 2021, 2359hrs until further notice.]</i></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions<sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Lesotho, Namibia, South Africa, Mozambique and Zimbabwe. Non-SC/PRs with a travel history to the aforementioned countries/regions are barred from entry with effect from 27 Nov 2021, 2359hrs until further notice.]</i></th>
 </tr>
 </thead>
 <tbody>
@@ -339,7 +339,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions<sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe. Non-SC/PRs with a travel history to the aforementioned countries/regions are barred from entry with effect from 27 Nov 2021, 2359hrs until further notice.]</i></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions<sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe. Non-SC/PRs with a travel history to the aforementioned countries/regions are barred from entry with effect from 27 Nov 2021, 2359hrs until further notice.]</i></th>
 </tr>
 </thead>
 <tbody>
