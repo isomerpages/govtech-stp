@@ -29,7 +29,7 @@ published: false
 		</ol>
 <p style="padding-left:5px; font-size:18px; margin-bottom:0px; line-height:1.5;">Travellers vaccinated overseas are advised to refer to <a href="/vtl/faq#verify" target="_blank">this guide</a> to verify if your vaccination certificate is accepted in Singapore.</p>
 
-<p style="padding-left:5px;font-size:18px; margin-bottom: 10px; line-height:1.5;">&#10067; &nbsp;<b>Frequently Asked Questions:</b> Click <a href="" target="_blank">here</a>.</p>
+<p style="padding-left:5px;font-size:18px; margin-bottom: 10px; line-height:1.5;">&#10067; &nbsp;<b>Frequently asked questions regarding vaccination proof can be found <a href="/vtl-land/faq#requirements" target="_blank">here</a>.</b></p>
 </div>
 
 <div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B">
