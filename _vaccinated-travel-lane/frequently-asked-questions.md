@@ -615,10 +615,10 @@ Switzerland</td>
 
 #### 4. Why was/were my vaccination QR code(s) not accepted in my VTP (Air) application?
 
-Please try to reupload your QR code in a high-resolution, .png or .pdf format. Please also ensure you have keyed in your date of birth in the correct format (DD/MM/YYYY).
+Please attempt re-uploading your QR code, and ensure that:
 
-Some other reasons you may be unable to upload your QR code include:
-- Your proof of vaccination was not issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a>, or is not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
+- If you have an India-issued vaccination certificate, that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'</b>. If not, please request for one from the <a href="https://www.cowin.gov.in/" target="_blank">Co-Win website</a>. Please click here for more details.
+-  Your proof of vaccination was not issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a>, or is not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
 - The number of QR codes you have uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or you are using the wrong method of QR code upload.
 - You are not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
 - Your passport particulars do not match with your vaccination certificate particulars. Where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation..
