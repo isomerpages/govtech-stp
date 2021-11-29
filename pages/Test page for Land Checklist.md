@@ -131,7 +131,7 @@ published: true
 <div id="stage2"></div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
-<div style="padding:10px 10px 5px 10px; margin-top:0px; margin-bottom: 0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A"><label for="2A">&nbsp;&nbsp;<b>(A) Pre-departure document checks</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-top:0px; margin-bottom: 0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A"><label for="2A">&nbsp;&nbsp;<b>Pre-departure document checks</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Present the following documents to transport operators for verification:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Ticket for designated VTL (Land) bus services; </li>
