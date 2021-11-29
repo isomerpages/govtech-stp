@@ -2,7 +2,6 @@
 title: Cost, Payments & Refunds
 permalink: /health/payments
 description: ""
-published: false
 ---
 
 
@@ -181,14 +180,60 @@ published: false
 
 ### 3) Refunds
 
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px;line-height:1.4;">In general, payments made during entry application (i.e. applications submitted to the Safe Travel Office) are non-refundable. Forfeited payments are used to cover the cost incurred to secure and prepare the relevant tests for the traveller. Request for refunds will only be considered if there are strong mitigating factors. This may include last minute flight cancellation by the airline, or changes in border policies that prevent the traveller from leaving for Singapore; see table below on the available refund form/channels. For all other payments paid directly to the test operator or SDF, travellers are advised to liaise directly with these bodies. </p>
 
+<p style="font-size:18px; margin-top:15px; margin-bottom:15px;line-height:1.4;"><u>Available Refund Channels</u></p>
 
-
-
-<ol style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">
-	<li style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">
-
-
-<a href="" target="_blank;">
-
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px;line-height:1.4;"></p>
+<table>
+<tbody>
+	<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.4;"><b>Traveller Type</b></td>
+    <td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.4;"><b>Refund Forms/Channels</b></td>
+		</tr>
+	<tr>
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;"><ol style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Singapore Citizens</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Permanent Residents</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Familial Ties Lane Travellers</li>
+		</ol></td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;"><a href="https://go.gov.sg/sto-enquiry" target="_blank;">Click Here</a></td>
+	</tr>
+		<tr>
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">Work Pass Holder General Lane Travellers, who are:<ol style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Helpers; or</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Confinement Nannies</li>
+		</ol></td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;"><ol style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><a href="https://www.mom.gov.sg/cancel-fdw-entry" target="_blank;">
+			Click Here (For employers)</a></li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea" target="_blank;">Click Here (For employment agents)</a></li>	
+		</ol>
+		<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.4;">[<i><b style="color:red;">Note:</b> Refund request must be submitted <b>at least 5 days before the approved entry date.</b>]</i></p>
+			</td>
+	</tr>
+	<tr>
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">Work Pass Holder General Lane Travellers, who is not a helper or confinement nanny	</td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;"><ol style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><a href="https://www.mom.gov.sg/cancel-entry-approval" target="_blank;">Click Here (For Work Pass holder and/or dependant)</a></li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.mom.gov.sg/cancel-entry-individual" target="_blank;">	Click Here (For Personalised Employer Pass holder without employer, Entrepass and Work Holiday Pass holders and their dependants)</a></li>	
+		</ol>
+		<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.4;">[<i><b style="color:red;">Note:</b> Refund request must be submitted <b>at least 7 days before the approved entry date.</b>]</i></p></td>
+	</tr>
+		<tr>
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">Student’s Pass Holder Lane Travellers</td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;"><a href="https://form.gov.sg/#!/5f6858d80666cb0011cae36e" target="_blank">Click here</a></td>
+	</tr>
+			<tr>
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">Periodic Commuting Arrangement Travellers</td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;"><a href="https://go.gov.sg/sto-enquiry" target="_blank">Click here</a></td>
+	</tr>
+				<tr>
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">Vaccinated Travel Lane (Air) Travellers</td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">XXXXXX</td>
+	</tr>
+					<tr>
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">Vaccinated Travel Lane (Land) Travellers</td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">XXXX</td>
+	</tr>
+	</tbody>
+	</table>
