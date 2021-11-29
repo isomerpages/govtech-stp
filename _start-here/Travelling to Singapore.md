@@ -172,8 +172,7 @@ Travellers who need to only make a short-term visits to Singapore may use the la
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> <br/><br/> <b>For arrivals by flight only. Arrivals by Land are currently not allowed.</b></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 17px; list-style-type: disc;">
-	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
-					 	<li style="line-height:1.5; margin-top:10px;">Finland, Indonesia, India, Malaysia and Sweden (for entry into Singapore from 29 Nov 2021)</li>
+	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 				    <li style="line-height:1.5; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 13 Dec 2021)</li>
 				   <li style="line-height:1.5; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 15 Dec 2021)</li>
 					 					 		<li style="line-height:1.5; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (deferred until further notice)</li>
