@@ -131,20 +131,16 @@ published: true
 <div id="stage2"></div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom: 10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A">
-	<label for="2A">&nbsp;&nbsp;<b>(A) Pre-departure document checks</b></label></p>
-
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Present the following documents to transport operators for verification:</p>
-		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f0f0f0;">
+<div style="padding:10px 10px 5px 10px; margin-top:0px; margin-bottom: 0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A"><label for="2A">&nbsp;&nbsp;<b>(A) Pre-departure document checks</b></label></div>
+<div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;">Present the following documents to transport operators for verification:</p>
+		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Ticket for designated VTL (Land) bus services; </li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Passport;</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><b><span style="color:red;">[Only applicable for Singapore Permanent Residents]</span></b> Singapore NRIC or Re-Entry Permit</li>
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><b><span style="color:red;">[Not applicable for Singapore Citizens and Singapore Permanent Residents]</span></b> Physical or electronic copy of the VTP for the specified period of entry (per <a href="#1C">Stage 1C</a>)</li>
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per <a href="#1A">Stage 1A</a>)</li>
-			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per stage 1E).</li>
+			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#1D">Stage 1D</a>)</li>
 	</ol>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.5;"><b>[Singapore Citizens and Singapore Permanent Residents]</b> Present only <b>(i), (iii) and (iv)</b> above.</p>
 </div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
