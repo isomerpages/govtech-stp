@@ -100,15 +100,15 @@ description: ""
 </thead>
 <tbody>
 		<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#eceeef;">Singapore Permanent Residents</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#eceeef;"><b>Singapore Permanent Residents</b></td>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#eceeef;">Perform a transfer of Re-Entry Permit to the new Passport using the weblink in <a href="https://ica.gov.sg" target="_blank">MyICA</a></td>
 </tr>
 			<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#eceeef;">MOM Work Permit, S Pass, Employment Pass, Dependant Pass, Long-Term Pass Holder</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#eceeef;"><b>MOM Work Permit, S Pass, Employment Pass, Dependant Pass, Long-Term Pass Holder</b></td>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#eceeef;">Update Passport particulars through the “Notify MOM” option after selecting the relevant pass type in the <a href="https://www.mom.gov.sg/" target="_blank">MOM Website</a></td>
 </tr>
 			<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#eceeef;">ICA Long-Term Visit Pass Holder</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#eceeef;"><b>ICA Long-Term Visit Pass Holder</b></td>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#eceeef;">To report a change in Passport particulars, you will need to:
 				<ol style="list-style-type:disc;">
 				<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:16px;">Email <a href="mailto:ICA_Visit_Pass@ica.gov.sg">ICA_Visit_Pass@ica.gov.sg</a> with the subject title: <b>Change of Passport Particulars for LTVP Holder (FIN No: XXXXXXXXXX)</b>; and </li>
