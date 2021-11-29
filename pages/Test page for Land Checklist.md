@@ -20,7 +20,7 @@ published: false
 <div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;">
 <input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A">
 <label for="1A">&nbsp;&nbsp;<b>(1A) Obtain an accepted proof of vaccination</b></label></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+<div style="padding:10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.5;">Obtain any of the following digitally verifiable vaccination certificates accepted by the Singapore Government:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px;">
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; background-color:#f8f8f8; font-size:18px;"><b>Singapore</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
@@ -31,6 +31,20 @@ published: false
 
 <p style="padding-left:5px;font-size:18px; margin-bottom: 10px; line-height:1.5;">&#10067; &nbsp;<b>Frequently asked questions regarding vaccination proof can be found <a href="/vtl-land/faq#requirements" target="_blank">here</a>.</b></p>
 </div>
+
+<div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B"><label for="1B">&nbsp;&nbsp;<b>(1B) Secure Tickets for a Designated VTL (Land) Bus Service</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">To enjoy quarantine-free travel, VTL (Land) travellers must take <b>only</b> the designated bus services from the list below to enter Singapore.</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.5; margin-top:10px;"> The latest list of designated VTL (Land) bus operators are as follows:</p>
+	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">XXX</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">XXX</li>
+	</ol>
+	*<i>The list of bus operators and websites will be regularly updated.</i>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers can purchase tickets for the designated VTL (Land) bus services offered by either Singaporean or Malaysian designated operators for travel to Singapore. </p>
+</p>
+</div>
+
 
 <div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B">
 		<label for="1B">&nbsp;&nbsp;<b>(B) <span style="color:red;">[Only Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label></div>
@@ -46,20 +60,6 @@ published: false
 	</div>
 	<p style="padding-left:5px;font-size:18px; padding-bottom:5px;margin-bottom:10px; line-height:1.5;">&#9888;&#65039; &nbsp;<b>Error when uploading vaccination certificate QR code:</b> If you have problem uploading the vaccination certificate QR code even though you have met all requirements above, <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office</a> for help and provide your vaccination certificate.</p>
 	</p>
-</div>
-
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-bottom:0px; line-height:1.5;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C">
-		<label for="1C">&nbsp;&nbsp;<b>(C) Secure Tickets for a Designated VTL (Land) Bus Service</b></label>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">To enjoy quarantine-free travel, VTL (Land) travellers must take <b>only</b> the designated bus services from the list below to enter Singapore.</p>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.5; margin-top:10px;"> The latest list of designated VTL (Land) bus operators are as follows:</p>
-	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">XXX</li>
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">XXX</li>
-	</ol>
-	*<i>The list of bus operators and websites will be regularly updated.</i>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers can purchase tickets for the designated VTL (Land) bus services offered by either Singaporean or Malaysian designated operators for travel to Singapore. </p>
-</p>
 </div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
