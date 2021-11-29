@@ -157,7 +157,7 @@ Click here to [Go Back To Top](#top).
 
 Travellers approved for entry into Singapore <b>will be informed via a condition stipulated in the Entry Approval Letter or SafeTravel Pass on whether they need to be tested for COVID-19 before arrival</b>. Alternatively, travellers who are planning to visit Singapore may refer to the [specific safe travel lanes](/arriving/overview) to check if he/she needs to be tested before arrival.
 
-To test for COVID-19, travellers bound for Singapore may be required to take a COVID-19 Polymerase Chain Reaction (PCR) test within **2 days** before departing for Singapore. Category II and/or III travellers arriving in or transiting through Singapore can take either a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) to fulfil the pre-departure test requirement. Category IV travellers will still be required to take a COVID-19 PCR test. 
+To test for COVID-19, travellers bound for Singapore may be required to take a COVID-19 Polymerase Chain Reaction (PCR) test within **2 days** before departing for Singapore. Category II and/or III travellers arriving in or transiting through Singapore can take either a professionally administered COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) to fulfil the pre-departure test requirement. <b>From 2 December 2021, 2359 hours</b>, Category I travellers arriving in or transiting through Singapore must also take a professionally administered PCR or ART within <b>2 days</b> of their departure for Singapore and obtain a negative result. Category II/III/IV travellers will still be required to take a COVID-19 pre-departure test as usual. 
 
 Singapore currently only accepts pre-departure COVID-19 PCR tests taken at an accredited or authorised testing facility, or Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional. Self-swabs are not allowed. Travellers should ask for a copy of their negative test result as it will be considered by the airline and immigration officer as proof that the traveller has been tested for COVID-19. The documentary proof should:
 <ul style="list-style-type: disc;">
@@ -204,9 +204,9 @@ Travellers will be denied boarding by their airline or ferry if they are:
 
 <div id="testresult"></div>
 
-#### 6. How will I be informed of my COVID-19 test result?
+#### 6. How will I be informed of my COVID-19 test result at the end of SHN?
 
-Hardcopy/softcopy of the COVID-19 test result will not be issued. Travellers who are Work Pass Holders (and their dependants) will receive their results via SMS or email. All other travellers will be informed of their swab test results verbally by phone or in person. 
+Hardcopy/softcopy of the COVID-19 test result will not be issued. Travellers who are Work Pass Holders (and their dependants) will receive their results via SMS or email. All other travellers will receive their swab test results via email. However, travellers who test positive will be informed via phone call and further assistance will be provided. 
 
 Travellers with a SingPass account may login to [HealthHub](https://www.healthhub.sg/HealtheServices) to view their swab test results once available.
 
