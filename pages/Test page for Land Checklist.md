@@ -17,7 +17,7 @@ published: true
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
-<div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;">
 <input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A">
 <label for="1A">&nbsp;&nbsp;<b>(1A) Obtain an accepted proof of vaccination</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
@@ -32,7 +32,7 @@ published: true
 <p style="padding-left:5px;font-size:18px; margin-bottom: 10px; line-height:1.5;">&#10067; &nbsp;<b>Frequently asked questions regarding vaccination proof can be found <a href="/vtl-land/faq#requirements" target="_blank">here</a>.</b></p>
 </div>
 
-<div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B"><label for="1B">&nbsp;&nbsp;<b>(1B) Secure Tickets for a Designated VTL (Land) Bus Service</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B"><label for="1B">&nbsp;&nbsp;<b>(1B) Secure Tickets for a Designated VTL (Land) Bus Service</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">&#9200; &nbsp; <b>Purchase tickets <u>at least 1 day</u> before arrival in Singapore</b></p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated bus service offered by the operators below.</p>
@@ -45,7 +45,7 @@ published: true
 </div>
 
 
-<div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C">
 		<label for="1C">&nbsp;&nbsp;<b>(1C) <span style="color:red;">[Singapore Long-Term Pass Holders Only]</span> Apply for Vaccinated Travel Pass (VTP) </b></label></div>
 <div style="padding:30px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 	<div style="vertical-align:middle; text-align:center; font-size:18px; line-height:2.2; "><a style="padding:10px 10px 10px 10px; background-color:#D8D8D8;" href="https://go.gov.sg/vtl-portal" target="_blank"><b>Long Term Pass Holders<br>Click Here To Apply For a VTP</b></a></div>
