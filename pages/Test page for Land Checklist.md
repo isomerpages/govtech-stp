@@ -76,12 +76,12 @@ published: true
 	
 <div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label for="1E">&nbsp;&nbsp;<b>(1E) Submit Health Declaration</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;">&#9200; &nbsp; <b>Submit the SG Arrival Card health and travel history declaration up to <u>3 days</u> before arriving in Singapore.</b></p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">&#9200; &nbsp; <b>Submit the SG Arrival Card health and travel history declaration up to <u>3 days</u> before arriving in Singapore.</b></p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Travellers must fill the online <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> before arriving in Singapore, otherwise they will be asked to it fill up on the spot and experience delays at the checkpoint. Please refer to the <a href="https://youtu.be/hhq4ffp-qOc" target="_blank">SGAC video guide</a> if you are unsure how to fill it up.</li>
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;"><b>The SGAC replaces the physical arrival “White Card”, which is no longer in use.</b> SGAC is a free service and travellers should beware of websites offering to fill the SGAC declaration for a fee.</li>
 	</ol>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>&nbsp;<b>Defer travel</b> if you:</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>&nbsp;<b>Defer travel</b> if you:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Have <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
