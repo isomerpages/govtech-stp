@@ -1,5 +1,5 @@
 collections:
-  vaccinated-travel-lane:
+  vtl-air:
     output: true
     order:
       - Vaccinated Travel Lane (Air) Overview.md
