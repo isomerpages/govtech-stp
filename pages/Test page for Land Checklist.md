@@ -46,8 +46,11 @@ published: false
 
 
 <div style="padding:10px 10px 0px 10px; margin-bottom:0px; line-height:1.5; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C">
-		<label for="1C">&nbsp;&nbsp;<b>(1C) <span style="color:red;">[Only Singapore Long-Term Pass Holders]</span> Apply for Vaccinated Travel Pass (VTP) </b></label></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+		<label for="1C">&nbsp;&nbsp;<b>(1C) <span style="color:red;">[Singapore Long-Term Pass Holders Only]</span> Apply for Vaccinated Travel Pass (VTP) </b></label></div>
+<div style="padding:30px 10px 0px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
+	<div style="vertical-align:middle; text-align:center; font-size:18px; line-height:1.5; "><a style="padding:10px 10px 10px 10px; background-color:#D8D8D8;" href="https://go.gov.sg/vtl-portal" target="_blank"><b>Long Term Pass Holders Click Here To Apply For a VTP</b></a>
+	</div>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">&#9200; &nbsp; <b><span style="color:red">Apply at least 3 calendar days before the intended date of entry.</span></b></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">&#128433;&#65039; &nbsp;<b>Between <u>2 and 60 days</u> before intended date of entry into Singapore</b></p>
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.5;">Apply for entry, together with the QR code of the traveller’s vaccination certificate (if available).</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
@@ -55,9 +58,7 @@ published: false
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.5; font-size:18px;">Successful applicants will receive their approved VTP via email. </li>
 	</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.5;"><span style="color:red; font-size:24px;">&#10060;</span>&nbsp; Unvaccinated children aged 12 and below in this calendar year do not need to apply. However, they must comply with all other VTL (Land) conditions, including being accompanied by a fully vaccinated VTL (Land) traveller.</p>
-<div style="vertical-align:middle; text-align:center; font-size:18px; line-height:1.5; "><a style="padding:10px 10px 10px 10px; background-color:#D8D8D8;" href="https://go.gov.sg/vtl-portal" target="_blank"><b>Click here to apply for a VTP</b></a>
-	</div>
-	<p style="padding-left:5px;font-size:18px; padding-bottom:5px;margin-bottom:10px; line-height:1.5;">&#9888;&#65039; &nbsp;<b>Error when uploading vaccination certificate QR code:</b> If you have problem uploading the vaccination certificate QR code even though you have met all requirements above, <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office</a> for help and provide your vaccination certificate.</p>
+<p style="padding-left:5px;font-size:18px; padding-bottom:5px;margin-bottom:10px; line-height:1.5;">&#9888;&#65039; &nbsp;<b>Error when uploading vaccination certificate QR code:</b> If you have problem uploading the vaccination certificate QR code even though you have met all requirements above, <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office</a> for help and provide your vaccination certificate.</p>
 	</p>
 </div>
 
