@@ -9,11 +9,11 @@ permalink: /atp/conditions
      <ol style="font-size:18px; list-style-type:lower-alpha;">
   <li style="font-size:18px; list-style-type:lower-alpha;">have only been to one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore in the last 14 consecutive days<sup>1</sup> before departing for Singapore;</li>
 			 <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART) within 2 days<sup>1</sup> before the scheduled departure time of his/her flight, at an internationally accredited laboratory, clinic or medical facility, and obtain a test result certificate in English stating the following:
-			 <ol>
-				 <li></li>
-				 <li></li>
-				 <li></li>
-				 <li></li>
+			 <ol style="font-size:18px; list-style-type:lower-roman;">
+				 <li style="font-size:18px; list-style-type:lower-roman;">the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
+				 <li style="font-size:18px; list-style-type:lower-roman;">a negative COVID-19 test result;</li>
+				 <li style="font-size:18px; list-style-type:lower-roman;">the date and time when the COVID-19 test was taken; and</li>
+				 <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 test;</li>
 				 </ol>
 			 </li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test at the airport upon arrival in Singapore, immediately<sup>1</sup> take private transportation, taxi, or private hire car from the airport to the declared place of accommodation and remain isolated at the accommodation until the test result is confirmed to be negative;</li>
