@@ -8,7 +8,14 @@ permalink: /atp/conditions
   <li style="font-size:20px; list-style-type:decimal;"> An Air Travel Pass holder must: 
      <ol style="font-size:18px; list-style-type:lower-alpha;">
   <li style="font-size:18px; list-style-type:lower-alpha;">have only been to one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore in the last 14 consecutive days<sup>1</sup> before departing for Singapore;</li>
-			 <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART) within 2 days<sup>1</sup></li>
+			 <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART) within 2 days<sup>1</sup> before the scheduled departure time of his/her flight, at an internationally accredited laboratory, clinic or medical facility, and obtain a test result certificate in English stating the following:
+			 <ol>
+				 <li></li>
+				 <li></li>
+				 <li></li>
+				 <li></li>
+				 </ol>
+			 </li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test at the airport upon arrival in Singapore, immediately<sup>1</sup> take private transportation, taxi, or private hire car from the airport to the declared place of accommodation and remain isolated at the accommodation until the test result is confirmed to be negative;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the medical provider disclosing his/her COVID-19 PCR test result to the relevant Singapore Government authorities for public health purposes;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> download the TraceTogether app on his/her mobile device and:
