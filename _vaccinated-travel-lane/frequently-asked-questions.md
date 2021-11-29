@@ -619,9 +619,10 @@ Please attempt re-uploading your QR code, and ensure that:
 
 - If you have an India-issued vaccination certificate, that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'</b>. If not, please request for one from the <a href="https://www.cowin.gov.in/" target="_blank">Co-Win website</a>. Please <a href="#mismatch-error">click here</a> for more details.
 - Your QR code was uploaded in a high-resolution, .png or .pdf format.
--  Your proof of vaccination was not issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a>, or is not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
-- The number of QR codes you have uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or you are using the wrong method of QR code upload.
-- You are not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
+- Your date of birth was keyed in the correct format (DD/MM/YYYY)
+-  Your proof of vaccination is an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
+- You have uploaded the <a href="#numberofcodes">correct number of QR codes</a>, and you are using the correct method of QR code upload
+- You are fully vaccinated, based on <a href="/health/vtsg" target="_blank">this criteria</a>
 - Your passport particulars do not match with your vaccination certificate particulars. Where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation..
 -You did not replace the special characters in your name as per this <a href="/vtl/faq#mismatch-error">FAQ</a>.
 
