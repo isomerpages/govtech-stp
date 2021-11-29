@@ -617,7 +617,7 @@ Switzerland</td>
 
 Please attempt re-uploading your QR code, and ensure that:
 
-- If you have an India-issued vaccination certificate, that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'</b>. If not, please request for one from the <a href="https://www.cowin.gov.in/" target="_blank">Co-Win website</a>. Please click here for more details.
+- If you have an India-issued vaccination certificate, that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'</b>. If not, please request for one from the <a href="https://www.cowin.gov.in/" target="_blank">Co-Win website</a>. Please <a href="#mismatch-error">click here</a> for more details.
 -  Your proof of vaccination was not issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a>, or is not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
 - The number of QR codes you have uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or you are using the wrong method of QR code upload.
 - You are not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
