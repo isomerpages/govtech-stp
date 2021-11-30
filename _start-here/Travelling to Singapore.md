@@ -170,7 +170,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 	<tbody>
 		<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> <br/><br/> <b>For arrivals by flight only. Arrivals by Land are currently not allowed.</b></td>
-		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
+		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 17px; list-style-type: disc;">
 	<li style="line-height:1.3;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 				    <li style="line-height:1.3; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 13 Dec 2021)</li>
@@ -186,23 +186,23 @@ Click here to return to the <a href="#lanelist">top</a>.
 				</td>
 	</tr>
 	<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a><br><br><i>(No controlled itinerary within Singapore)</i></td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;"><a href="/atp/requirements-and-process">Air Travel Pass</a><br><br><i>(No controlled itinerary within Singapore)</i></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
 					 <!--<li style="font-size: 18px;">Brunei Darussalam (Suspended with effect from 21 August 2021)</li>-->
-					 <li style="font-size: 18px;">Hong Kong</li>
-					 <li style="font-size: 18px;">Macao</li>
-					  <li style="font-size: 18px;">Mainland China </li>
+					 <li style="font-size: 18px; line-height:1.3;">Hong Kong</li>
+					 <li style="font-size: 18px; line-height:1.3;">Macao</li>
+					  <li style="font-size: 18px; line-height:1.3;">Mainland China </li>
 					 <!--<li style="font-size: 18px;">New Zealand</li>-->
-					 <li style="font-size: 18px;">Taiwan</li>
+					 <li style="font-size: 18px; line-height:1.3;">Taiwan</li>
 				 </ul>
 		</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a><br><br><i>(Controlled itinerary within Singapore, business and official travel only)</i></td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
-					 <li style="font-size: 18px;">	Brunei Darussalam</li>
-					  <li style="font-size: 18px;">Mainland China <i>(Only for travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</i></li>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;"><a href="/rgl/overview">Reciprocal Green Lane</a><br><br><i>(Controlled itinerary within Singapore, business and official travel only)</i></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;"><ul style="font-size: 18px; list-style-type: disc;">
+					 <li style="font-size: 18px; line-height:1.3;">	Brunei Darussalam</li>
+					  <li style="font-size: 18px; line-height:1.3;">Mainland China <i>(Only for travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</i></li>
 				 </ul>
 				</td>
 	</tr>
@@ -219,19 +219,19 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ### d. Death and Critical Illness Emergency Visits
 
-Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane. Only a maximum of <u>two visitors per case</u> is allowed. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore and can be found in the <a href="/dcev/overview" target="_blank">"DCEV overview"</a>.
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane. Only a maximum of <u>two visitors per case</u> is allowed. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore and can be found in the <a href="/dcev/overview" target="_blank">"DCEV overview"</a>.</p>
 
-Applications for urgent emergency entry can be submitted via this <a href="https://go.gov.sg/sto-enquiry">enquiry form</a>, selecting <i>“appeal for entry into Singapore under compassionate reasons”</i> as the enquiry category. 
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Applications for urgent emergency entry can be submitted via this <a href="https://go.gov.sg/sto-enquiry">enquiry form</a>, selecting <i>“appeal for entry into Singapore under compassionate reasons”</i> as the enquiry category. </p>
 
-To expedite the assessment process, travellers who are requesting for emergency entry are strongly encouraged to submit the following supporting documents:
-<ul style="list-style-type: decimal;">
-<li>Death certificate or any other documents as proof of death, or Doctor’s letter/memo proving critical illness of the immediate family member in Singapore;</li>
-<li>Official documents proving familial connection with the deceased or critically ill in Singapore;</li>
-<li>Passport biodata page of all travellers; and</li>
-<li>Any other supporting documents.</li>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">To expedite the assessment process, travellers who are requesting for emergency entry are strongly encouraged to submit the following supporting documents:</p>
+<ul style="list-style-type: decimal; line-height:1.3;">
+<li style="line-height:1.3;">Death certificate or any other documents as proof of death, or Doctor’s letter/memo proving critical illness of the immediate family member in Singapore;</li>
+<li style="line-height:1.3;">Official documents proving familial connection with the deceased or critically ill in Singapore;</li>
+<li style="line-height:1.3;">Passport biodata page of all travellers; and</li>
+<li style="line-height:1.3;">Any other supporting documents.</li>
 </ul>
 
-Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.</p>
 
 ---
 
@@ -245,17 +245,21 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 <b><u>Air Crew</u></b>
 
-Arriving air crew members are not required to apply for entry approval to enter Singapore via Safe Travel Lanes. Flight operators and air crew should instead refer to the <a href="https://www.caas.gov.sg/legislation-regulations/covid-19-publications" target="_blank">latest circulars and directives</a> issued by the Civil Aviation Authority of Singapore concerning border and health control measures.
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Arriving air crew members are not required to apply for entry approval to enter Singapore via Safe Travel Lanes. Flight operators and air crew should instead refer to the <a href="https://www.caas.gov.sg/legislation-regulations/covid-19-publications" target="_blank">latest circulars and directives</a> issued by the Civil Aviation Authority of Singapore concerning border and health control measures.</p>
 
 <b><u>Sea Crew & Pleasure Craft Owners</u></b>
 
-Sea Crew and Pleasure Craft Owners should visit the MPA website for information on the <a href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change" target="_blank"> application of crew changes under various circumstances</a>, and refer to <a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/mpa-news-releases" target="_blank">MPA’s latest circulars and notices</a>.
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Sea Crew and Pleasure Craft Owners should visit the MPA website for information on the <a href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change" target="_blank"> application of crew changes under various circumstances</a>, and refer to <a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/mpa-news-releases" target="_blank">MPA’s latest circulars and notices</a>.</p>
 
-Applications for the following matters can be made via <a href="https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info" target="_blank">ICA’s CREW system</a>:
-- Arrival or departure immigration clearance of vessel
-- Crew sign-on or sign-off
-- Transfer of crew from one vessel to another
-- Extension of stay of crew
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Applications for the following matters can be made via <a href="https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info" target="_blank">ICA’s CREW system</a>:</p>
+
+<ul style="line-height:1.3;">
+	<li style="line-height:1.3;">Arrival or departure immigration clearance of vessel</li>
+	<li style="line-height:1.3;">Crew sign-on or sign-off</li>
+	<li style="line-height:1.3;">Transfer of crew from one vessel to another</li>
+	<li style="line-height:1.3;">Extension of stay of crew</li>
+</ul>
+
 
 ---
 
