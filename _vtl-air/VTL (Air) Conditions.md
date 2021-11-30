@@ -40,7 +40,7 @@ description: ""
 	<br>
 	<li style="font-size:20px; list-style-type:decimal;">The requirement in Condition 2(f) does not apply to travellers whose time of departure<sup>5</sup> from Singapore is before 2130 hours (Singapore time) on Day 3 of their stay in Singapore. Travellers whose time of departure from Singapore is before 2130 hours (Singapore time) on Day 7 of their stay in Singapore are not required to undergo a COVID-19 ART on Day 7.</li>
   <br>
-   <li style="font-size:20px; list-style-type:decimal;"> The requirements in Conditions 2 (g) and 2(h) do not apply to Singapore Citizens, Permanent Residents and Long-Term Pass (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) holders. However, they are encouraged to also download the TraceTogether app on their mobile device and keep the TraceTogether app activated at all times. 
+   <li style="font-size:20px; list-style-type:decimal;"> The requirements in Conditions 2 (h) and 2(i) do not apply to Singapore Citizens, Permanent Residents and Long-Term Pass (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) holders. However, they are encouraged to also download the TraceTogether app on their mobile device and keep the TraceTogether app activated at all times. 
   </li>
   <br>
    <li style="font-size:20px; list-style-type:decimal;"> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL (Air) or cancellation of the VTP (Air) at short notice. </li> <br> 
