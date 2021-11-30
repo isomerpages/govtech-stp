@@ -213,7 +213,7 @@ input:checked + label + .content {
 			<ol style="list-style-type:lower-alpha;">
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Vaccination on the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether</a> or <a target="_blank" href="https://www.healthhub.sg/">HealthHub app</a></li>
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Vaccination certificate(s) issued by the Singapore Ministry of Health; or</li>
-				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">For Long-Term Pass Holders or Short-Term Visitors with records in Singapore's National Immunisation Registry, a successful pinging of their records on the Vaccinated Travel Pass (Air) application portal.</li>
+				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">a.c.	For Long-Term Pass Holders or Short-Term Visitors with records in Singapore’s National Immunisation Registry, successful verification of their records on the Vaccinated Travel Pass (Air) application porta</li>
 			</ol>
 	</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Australia:</b> <a target="_blank" href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof">International COVID-19 Vaccination Certificate</a> (QR code in <a target="_blank" href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a target="_blank" href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a></li>
@@ -431,18 +431,16 @@ input:checked + label + .content {
 
 ### 4. COVID-19 Tests and Documents Required
 
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.35;">Travellers who are eligible for VTL (Air), and have obtained their Vaccinated Travel Pass if needed, should refer to this <a target="_blank" href="/vtl/travel-checklist">VTL (Air) traveller checklist</a> for the full list of requirements to complete VTL (Air) travel. This includes:
+<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.35;">Travellers who are eligible for VTL (Air), and have obtained their Vaccinated Travel Pass if needed, should refer to this <a target="_blank" href="/vtl/travel-checklist">VTL (Air) traveller checklist</a> for the full list of requirements to complete VTL (Air) travel.
+<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">They will need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;"><b>[Foreign short-term visitors only]</b> COVID-19 Travel Insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges.</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><b>[Foreign short-term visitors only]</b> Travel Visa for Visa-required Passport Holders  </li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 test upon arriving in Singapore</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Filling up the SG Arrival Card up to 72 hours before arrival in Singapore to avoid delays at the checkpoint</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><b>[For travellers arriving from 2 Dec 2021, 2359h SGT]</b> Regular COVID-19 tests on Day 3 and 7 of arrival</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or professionally administered Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 PCR test upon arrival at Singapore Changi Airport</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><b>[For entry from 2 Dec 2021, 2359h SGT]</b> Post-arrival COVID-19 tests on Day 3 and 7 of arrival</li>
 	</ol> 
 </p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">Travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. The table below summarises the key documents travellers have to bring along</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">For their journey to Singapore, travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. The table below summarises the key documents travellers have to bring along.</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
