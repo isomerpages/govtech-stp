@@ -21,7 +21,7 @@ description: ""
 </li>
          </ol>
                <li style="font-size:18px; list-style-type:lower-alpha;">undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately<sup>3</sup>  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTL (Air) application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
-			 <li style="font-size:18px; list-style-type:lower-alpha;">undergo COVID-19 ARTs on Day 3 and Day 7 of their arrival in Singapore<sup>4</sup> at a Quick Test Centre before 2130 hours (Singapore time) on the day of each test;</li>
+			 <li style="font-size:18px; list-style-type:lower-alpha;">undergo COVID-19 ARTs on Day 3 and Day 7 of their arrival in Singapore<sup>4</sup> at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre</a> before 2130 hours (Singapore time) on the day of each test;</li>
 			 <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 test results to the relevant Singapore Government authorities for public health purposes;</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;">download the <a href="https://tracetogether.gov.sg" target="_blank">TraceTogether app</a> on his/her mobile device and:
 		<ol style="font-size:18px; list-style-type:lower-roman;">
