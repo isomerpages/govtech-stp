@@ -10,6 +10,7 @@ permalink: /atp/faq
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#requirements">ATP Requirements for Entry into Singapore </a>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
+				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Test</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#pcrtest">On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#contact">Contact Tracing – TraceTogether</a></li>
@@ -103,9 +104,18 @@ Visitors entering Singapore before 26 October 2021, 2359hrs (Singapore time) may
 
 When checking in at the departure airport, visitors must present the following to the airline staff:
 - a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore; and
-- a valid visa (for visa-required visitors).
+- a valid visa (for visa-required visitors); and
+- <b>[From 2 December 2021, 2359 hrs, SGT]</b> a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) test result certificate (electronic or physical copy) in English stating the following:
+<ol style="list-style-type:disc;">
+	<li>the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the ATP holder's passport used for entry into Singapore;</li>
+	<li>a negative COVID-19 test result;</li>
+	<li>the date and time when the COVID-19 test was taken, which must be within 2 days before departure for Singapore; and </a></li>
+	<li>the name of the testng institution conducting the COVID-19 test, which must be from the list of <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratories, clinics, or medical facilities</a></li>
+	</ol>
 
 A visitor who does not have any of the above may be refused boarding by the airline.
+
+Children who are aged 2 and below in that calendar year (i.e. in the year 2021, those who are born in or after 2019), are not required to undergo a pre-departure COVID-19 test. 
 
 Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport upon arrival in Singapore.
 
@@ -138,6 +148,31 @@ Please note that the ATP is <b>not</b> an immigration visit pass. It only allows
 #### 3. Are visitors able to extend their duration of stay in Singapore?
 
 All applications for extension of visit pass must be submitted online using ICA’s e-service [here](https://eservices.ica.gov.sg/esvclandingpage/extend) at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is no guarantee that an extension will be granted.
+
+
+<div id="PDT"></div>
+
+### Pre-Departure COVID-19 Test
+
+
+<i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 test.</i>
+
+#### 1. Are visitors required to take any pre-departure COVID-19 tests?
+
+From <b>2 December 2021, 2359 hrs (Singapore time)</b>, all visitors entering Singapore, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
+
+The pre-departure COVID-19 test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>. The test result must be in English and state the following:
+
+<ol style="list-style-type:disc;">
+				 <li>the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
+				 <li>a negative COVID-19 test result;</li>
+				 <li>the date and time when the COVID-19 test was taken; and</li>
+				 <li>the name of the testing institution conducting the COVID-19 test;</li>
+				 </ol>
+
+Travellers are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 test. They must also bear the cost of their pre-departure COVID-19 test. Please check with the listed testing institutions for the cost of the test.
+
+Travellers who are unable to produce a valid pre-departure COVID-19 test result certificate during check-in at the departure airport will be refused boarding by the airline.
 
 <div id="insurance"></div>
 

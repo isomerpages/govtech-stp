@@ -2,7 +2,7 @@
 title: Travel Checklist - Death and Critical Illness Emergency Visit Lane
 permalink: /travel-checklist/dcev
 ---
-<i>[Readers who have arrived on this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore” </a>page. Travellers who do not meet the entry-requirements will be turned away from Singapore.]</i>
+<i>Readers who have arrived on this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore” </a>page. Travellers who do not meet the entry-requirements will be turned away from Singapore.</i>
 
 ### Travel Checklist – Death & Critical Illness Emergency Visit Lane	
 
@@ -50,15 +50,15 @@ Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arri
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
-&#x2610;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [Category (I) Travellers Only]</b></i>
+<div id="stage1e"></div>
 
-Travellers arriving from Category (I) countries/regions should:
+&#x2610;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+
+Travellers who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction test:<ol style="font-size:18px; list-style-type:disc;">
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via air (<a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a>)</li>
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via sea or land (<a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">register and pay here</a>)</li>
-			</ol></li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><b>[For Category II/III/IV Travellers arriving from 2 Dec 2021, 2359 hours and all Category I travellers]</b> Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here</a> if you are arriving via air (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat/" target="_blank">Register here</a>, if arriving by sea or land (each test costs S$160)</li>
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing.</li>
 </ol>
 
 &#x2610;  <i><b>F) TraceTogether Registration</b></i>
@@ -98,9 +98,9 @@ For visitors granted entry, please note that <b>all foreign visitors arriving in
 	
 Travellers with a 14-day travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (II) to (IV) country/region</a> will also receive their Stay-Home Notice (SHN) via the email address provided in their SGAC declaration.
 
-&#x2610; <i><b>B) COVID-19 Test [Category (I) travellers only]</b></i>
+&#x2610; <i><b>B)[For Category II/III/IV travellers arriving from 2 Dec 2021, 2359 hours and all Category I travellers] On arrival COVID-19 Tests</b></i>
 
-Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you did not <a href="https://safetravel.changiairport.com/#/" target="_blank">pay for the test before arrival</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
+Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you <a href="#stage1e">did not pay for the test ebfore arrival (per Stage 1E)</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint. 
 
 &#x2610;  <i><b>C) Transport to Self-Isolation / Stay-Home Notice accommodation) </b></i>
 

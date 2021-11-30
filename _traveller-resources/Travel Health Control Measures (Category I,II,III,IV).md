@@ -28,7 +28,7 @@ This page provides a summary of the four categories of travel health control mea
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
-							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b><span style="color:red;"><b><sup>New!</sup></b></span>From 27 Nov 2021, 2359hrs, travellers whose 14-day travel history includes Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe are disallowed from entry into Singapore. This excludes Singapore Citizens and Permanent Residents, who may continue to return to Singapore but be subjected to the Category (IV) protocols.</p>
+							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> Travellers whose 14-day travel history includes Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe are disallowed from entry into Singapore. This excludes Singapore Citizens and Permanent Residents, who may continue to return to Singapore but be subjected to the Category (IV) protocols.</p>
 			</td>
     </tr>
 	</tbody>
@@ -36,15 +36,15 @@ This page provides a summary of the four categories of travel health control mea
 
 <b>On this page you will find the following</b>:
 <ol style="list-style-type:lower-latin;">
-	<li><a href="#from">Categories of travel health control measures for arrivals from 1 Dec 2021, 2359 hours</a></li>
-	<li><a href="#before-1">Categories of travel health control measures for arrivals before 1 Dec 2021, 2359 hours</a></li>
+	<li><a href="#from">Categories of travel health control measures for arrivals from 2 Dec 2021, 2359 hours</a></li>
+	<li><a href="#before-1">Categories of travel health control measures for arrivals before 2 Dec 2021, 2359 hours</a></li>
 	</ol>
 
 <div id="from"></div>
 
-### Categories of Travel Health Control Measures (for arrivals from 1 Dec 2021, 2359H)
+### Categories of Travel Health Control Measures (for arrivals from 2 Dec 2021, 2359H)
 
-<span style="color:red;"><b>Travellers arriving in Singapore <u>before 1 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
+<span style="color:red;"><b>Travellers arriving in Singapore <u>before 2 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
@@ -63,6 +63,19 @@ This page provides a summary of the four categories of travel health control mea
 	<tr>
 <td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ul style="margin-top: 0px;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <b>[New]</b> Take a COVID-19 pre-departure test within 2 days before departure and obtain a copy of the negative COVID-19 test report that:
+		<ul style="margin-top: 0px;list-style-type:lower-roman;">
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is an Antigen Rapid Test (ART) administered by a trained professional (self-swabs are not allowed) OR Polymerase Chain Reaction Test taken at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> </li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
+			<ul style="margin-top: 0px;list-style-type:lower-alpha;">
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 test results and date of test;</li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller's name; and</li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per passport used to travel to Singapore)</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.changiairport.com/#/">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”) upon arrival</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 24 hours)</li>
 </ul>
@@ -106,6 +119,7 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[New]</b> Take a <a href="https://safetravel.changiairport.com/#/">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 7-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence*;</li>
@@ -150,6 +164,7 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[New]</b> Take a <a href="https://safetravel.changiairport.com/#/">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
@@ -173,7 +188,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions<sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Lesotho, Namibia, South Africa, Mozambique and Zimbabwe. Non-SC/PRs with a travel history to the aforementioned countries/regions are barred from entry with effect from 27 Nov 2021, 2359hrs until further notice.]</i></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions<sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Lesotho, Namibia, South Africa, Mozambique and Zimbabwe. Non-SC/PRs with a travel history to the specified countries/regions are barred from entry with effect from 27 Nov 2021, 2359hrs until further notice.]</i></th>
 </tr>
 </thead>
 <tbody>
@@ -194,6 +209,7 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[New]</b> Take a <a href="https://safetravel.changiairport.com/#/">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn#sdf">SHN Dedicated Facility</a>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
@@ -208,9 +224,9 @@ This page provides a summary of the four categories of travel health control mea
 
 <div id="before-1"></div>
 
-### Categories of Travel Health Control measures (for arrivals before 1 Dec 2021, 2359H)
+### Categories of Travel Health Control measures (for arrivals before 2 Dec 2021, 2359H)
 
-<span style="color:red;"><b>Travellers arriving in Singapore <u>before 1 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
+<span style="color:red;"><b>Travellers arriving in Singapore <u>before 2 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
@@ -339,7 +355,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions<sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe. Non-SC/PRs with a travel history to the aforementioned countries/regions are barred from entry with effect from 27 Nov 2021, 2359hrs until further notice.]</i></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions<sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe. Non-SC/PRs with a travel history to the specified countries/regions are barred from entry with effect from 27 Nov 2021, 2359hrs until further notice.]</i></th>
 </tr>
 </thead>
 <tbody>

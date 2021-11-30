@@ -26,6 +26,7 @@ permalink: /vtl/faq
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Test</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Flight">Designated VTL (Air) Flights</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test at the Airport and Self-Isolation</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#postarrivaltests">Post-Arrival Day 3 and Day 7 COVID-19 Antigen Rapid Test (ART)</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#AdditionalReq">Additional Requirements for Short-Term Visitors</a>:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
@@ -169,7 +170,7 @@ We are currently unable to accept recovery certificates of travellers with proof
 <p style="line-height:1.5; margin-top:15px;  font-size:18px; color:red;"><b><u>For Singapore Citizens and Permanent Residents</u></b></p>
 <p style="line-height:1.5; font-size:18px;"> If you are a Singapore Citizen or Permanent Resident, you need not apply for a VTP (Air). You will need to show an accepted proof of vaccination to airlines at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. </p>
 <p style="line-height:1.5; font-size:18px; margin-top:15px; color:red;"><b><u>For Short-Term Visitors and Long-Term Pass Holders</u></b></p>
-<p style="line-height:1.5; font-size:18px;">If you are a Long-Term Pass Holder or Short-Term Visitor (LTPH/STV) to Singapore, you need to apply for a VTP (Air). Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP (Air) application portal. You are also strongly encouraged to self-verify your vaccination certificate prior to applying for a VTP (Air) by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. Those who are required to upload a QR code but cannot do so are write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation (e.g. passport) and other supporting documents. </p>
+<p style="line-height:1.5; font-size:18px;">If you are a Long-Term Pass Holder or Short-Term Visitor (LTPH/STV) to Singapore, you need to apply for a VTP (Air). Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP (Air) application portal. You are also strongly encouraged to self-verify your vaccination certificate prior to applying for a VTP (Air) by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. Those who are required to upload a QR code but cannot do so are to write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation (e.g. passport) and other supporting documents. </p>
 <p style="line-height:1.5; font-size:18px; margin-top:20px; color:red;"><b><u>Accepted Proofs of Vaccination</u></b></p>
 <table>
 <thead>
@@ -183,11 +184,11 @@ We are currently unable to accept recovery certificates of travellers with proof
 	<tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Singapore</b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; "><ol style="list-style-type:lower-alpha; ">
-			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> </li>
+			<li style="line-height:1.3; font-size:15px;">Vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
 			<b style="font-size:15px;">OR</b>
-			<li style="line-height:1.3; margin-bottom:15px;  font-size:15px;">Singapore Ministry of Health-issued vaccination certificate without a QR code </li>
+			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">Vaccination certificate issued by the Singapore Ministry of Health </li>
 			<b style="font-size:15px;">OR</b>
-			<li style="line-height:1.3; font-size:15px;">Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
+			<li style="line-height:1.3; margin-bottom:15px;  font-size:15px;"> Vaccination certificate showing one dose of vaccine and a discharge memo issued in Singapore, EU DCC of recovery from COVID-19, or National Health Service (“NHS”) COVID Pass of recovery</li>
 			</ol></td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, as the portal should be able to retrieve your vaccination records from Singapore’s National Immunisation Registry. <br/><br/> If you are facing issues retrieving your vaccination records on the VTP (Air) portal, please refer to our FAQs <a href="/vtl/faq#invalidcode">here</a> for possible workarounds.</td>
 </tr>
@@ -1058,10 +1059,92 @@ Please also note that if a traveller’s test result is confirmed to be positive
 
 ---
  
+ <div id="postarrivaltests"></div>
+ 
+
+### (f) Post-Arrival Day 3 and Day 7 COVID-19 Antigen Rapid Test (ART)
+ 
+<i><span style="color:red;">Note: The following FAQs are applicable to VTL travellers entering Singapore from 2 December 2021, 2359hrs (Singapore time). Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo post-arrival Day 3 and Day 7 ARTs.</span></i>
+
+#### 1. Why do travellers need to undergo Day 3 and Day 7 ARTs?
+
+To better detect and contain the Omicron variant as scientists around the world study its characteristics, we are enhancing our testing protocols and procedures for travellers arriving in Singapore after 2 December 2021, 2359 hours (Singapore time). These enhanced measures will apply for four weeks in the first instance, and will be reviewed and extended if necessary.
+
+#### 2. On which days do travellers need to undergo Day 3 and Day 7 ARTs?
+
+Travellers must undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs)</a> by 2130 hours (Singapore time) Day 3 and Day 7 of their arrival in Singapore.
+
+The day that the traveller clears arrival immigration for entry into Singapore is counted as Day 1. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 3 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 ARTs on 5 December 2021 (i.e. Day 3) and 9 December 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 4 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 ARTs on 6 December 2021 (i.e. Day 3) and 10 December 2021 (i.e. Day 7).
+
+#### 3. How much do the Day 3 and Day 7 ARTs cost?
+
+The cost of each ART is S$15 (inclusive of Goods and Services Tax). Travellers will bear the cost of the tests.
+
+Payment is to be made at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs)</a> through cashless modes such as Mastercard, NETS, PayNow and Visa. Cash will not be accepted.
+
+#### 4. What are the test centres that travellers can go to for their Day 3 and Day 7 ARTs?
+
+They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs)</a>. They are required to undergo their COVID-19 ART by 2130 hours (Singapore time) on Day 3 and Day 7.
+
+#### 5. Can a traveller go to a clinic for their Day 3 and Day 7 ARTs instead of the Quick Test Centres?
+
+No, travellers must only go to the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs)</a>. Otherwise, the traveller’s attendance will not be tracked, and test results will not be captured.
+
+#### 6. How do travellers book their appointments for their Day 3 and Day 7 ARTs?
+
+Travellers with a Singapore mobile number should book an appointment at any of the Quick Test Centres for self-paid ARTs. Those who do not have a local mobile number must still go for their test at any of the Quick Test Centres. They will need to register in-person and can expect additional waiting time.
+
+#### 7. Are children required to undergo Day 3 and Day 7 ARTs?
+
+Children aged 2 and below in this calendar year are not required to undergo Day 3 and Day 7 ARTs. Children aged 3 to 12 must undergo their Day 3 and Day 7 ARTs at the Quick Test Centres and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
+
+#### 8. Do travellers need to self-isolate after their Day 3 and Day 7 ART?
+
+No, travellers are not required to self-isolate after their Day 3 and Day 7 ARTs. Self-isolation is only required pending the results of the on-arrival COVID-19 PCR test at the airport.
+
+#### 9. How soon will the results of the Day 3 and Day 7 ARTs be out?
+
+Travellers can expect to receive their results via their registered mobile number within 1 hour of their test. They are not required to wait for their test results at the Quick Test Centres and may leave immediately after their ART.
+
+#### 10. What should travellers do if they test positive for COVID-19 on their ART?
+
+If tested positive for their ART, travellers will need to go for a confirmatory Polymerase Chain Reaction (PCR) test as soon as possible. The PCR test will be funded by the Ministry of Health (MOH) and can be done at one of the Combined Testing Centres (CTCs).
+
+#### 11. Are travellers allowed to reschedule their Day 3 and Day 7 ARTs to other days?
+
+No, travellers are required to undergo COVID-19 ARTs at a Quick Test Centre by 2130 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. Failure to do so may constitute an offence under the Infectious Diseases Act (IDA).
+
+A traveller who fails to undergo the required COVID-19 PCR tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
+
+#### 12. Should travellers perform their Day 3 and Day 7 ARTs if they are unwell?
+
+Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH)</a> clinic. They should not go for their scheduled ART test if they are unwell, but should remain contactable via their declared mobile number and email address.
+
+#### 13. What if travellers intend to leave Singapore prior to Day 3 or Day 7?
+
+If their time of departure from Singapore is:
+- before 2130 hours on the day of test, they are exempted from taking their scheduled ART.
+- on or after 2130 hours on the day of test, they are still required to take their scheduled ART.
+
+The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
+
+#### 14. What are the penalties if travellers miss their scheduled Day 3 or Day 7 ARTs?
+
+Failure to undergo the required COVID-19 PCR tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
+
+A traveller who fails to undergo the required COVID-19 PCR tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
+
+Further, the traveller’s VTP, and/or Visit Pass or Long-Term Pass, may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
 
 <div id="AdditionalReq"></div> 
 
-### (f) Additional Requirements for Short-Term Visitors
+### (g) Additional Requirements for Short-Term Visitors
 
 ### (i) Visa Application
 

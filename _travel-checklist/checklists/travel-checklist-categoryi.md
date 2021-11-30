@@ -20,7 +20,22 @@ All travellers, except Singapore Citizens and Permanent Residents, must apply fo
 
 Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.
 
-&#9744;  <i><b>C) Submission of Health Declaration</b></i>
+&#9744;  <i><b>C) [For Travellers arriving from 2 Dec 2021, 2359 hours only] Pre-Departure COVID-19 Test (PDT)</b></i>
+
+Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they:
+- Are below the age of three in this calendar year; or
+- Have remained in any <a href="/shn-and-swab-summary" target="_blank">Category(I) country/region</a> in the past 14 consecutive days before departure; or 
+- Are Singapore Citizens entering Singapore via the Causeway or Second Link. 
+
+Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR</b> an Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained profession in the country/region of departure. <b>Self-swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
+- Is in English (or accompanied with an English translation);
+- Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and 
+- Reflects the date and result of the test and;
+- Is not handwritten. 
+
+Travellers with difficulties getting a COVID-19 test ebfore their departure can contact the <a href="https://go.gov.sg/sto-enquiry" target="_blank">Safe Travel Office for assistance</a>. 
+
+&#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
 Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they experience any of the following conditions: 
 
@@ -32,13 +47,13 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 
 <div id="payment"></div>
 
-&#9744;  <i><b>D) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
 
 Travellers who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay</a> for their on-arrival COVID-19 Polymerase Chain Reaction test (S$125)</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><b>[For Travellers arriving from 2 Dec 2021, 2359 hours only]</b><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay</a> for their on-arrival COVID-19 Polymerase Chain Reaction test (S$125)</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
 
 ### Stage 2: Departure for Singapore
@@ -93,7 +108,7 @@ Travellers without a suitable place of residence may self-isolate at a hotel fou
 
 &#9744;  <i><b>A) Release from Self-isolation</b></i>
 
-Travellers may leave their accommodation only **after** receiving a negative result for the COVID-19 test taken on arrival in Singapore. The result could be released to the traveller via a call, email, or SMS. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
+Travellers may leave their accommodation only **after** receiving a negative result for the COVID-19 test taken on arrival in Singapore. The traveller will be informed of the result via email.
 
 Travellers who test positive for COVID-19 must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 

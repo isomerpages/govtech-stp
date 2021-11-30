@@ -25,7 +25,7 @@ Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders mu
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Air Travel Pass application</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Foreigners, who are short-term visitors, may apply for an ATP for entry into Singapore <a href="/atp/apply-now">here</a>. Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. Successful applicants will receive a payment notification email, usually within 2 to 3 days, to pre-pay for their post-arrival COVID-19 PCR test. Applications will only be approved when payment is received by the deadline indicated in the payment notification email. 
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Foreigners, who are short-term visitors, may apply for an ATP for entry into Singapore <a href="/atp/apply-now">here</a>. Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. Successful applicants will receive a payment notification email, usually within 2 to 3 days, to pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test. Applications will only be approved when payment is received by the deadline indicated in the payment notification email. 
 	    <br/> <br/>When an ATP application is approved, an approval letter will be sent to the applicant via email. The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.
      <br/><br/>
 Visitors must comply with the <a href="/atp/conditions"> Conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
@@ -110,7 +110,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 	    Visitors are required to be isolated until they receive a negative on arrival COVID-19 PCR test result. They should secure an accommodation which is a:
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for <a href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation" target="_blank">Private Property</a> and <a href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat" target="_blank">HDB flat / Bedroom</a>); or</li>
-	              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">non-residential accommodation such as hotel or serviced apartment in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
+	              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">non-residential accommodation such as hotel or serviced apartment in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 PCR test result.</li>
      </ol>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Advisory for travellers self-isolating with household members]</b> Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>	    
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
@@ -121,6 +121,17 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 	    </ol>
     </td>
  </tr>
+	<tr>
+		<td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-Departure COVID-19 Test</b><br><br><b>[For entry into Singapore from 2 Dec 2021, 2359hrs, SGT]</b></td>
+				<td style="font-size:16px;border-right:1px solid #D8D8D8;">All travellers, except those aged 2 and below in the calendar year (i.e.a child who turns 2 in this calendar year will be exempted), must take either a professionally administered COVID-19 Antigen Rapid Test (ART), or a COVID-19 PCR test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a> in their country/region of departure, within 2 days* before departure for Singapore. Self-swabs are not allowed. Please also ensure that the test report:
+<ol style="margin-top:0px; list-style-type: disc;">
+					 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Is in English (or accompanied with an English translation);</li>
+				 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Contains the traveller's name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
+				 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Reflects the date and time the test was taken, the name of the testing institution, and a negative test result; and</li>
+				 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Is not handwritten</li>
+					</ol>
+					<p style="font-size:14px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*If the pre-departure test is taken on 1 December 2021, it will be valid for departures up to 3 December 2021, 2359 hours.</p></td>
+	</tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"> 
@@ -142,8 +153,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Check-in at departure airport</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> When checking in at the departure airport, visitors must present to the airline staff:
     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors).</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors); and</li>
+			          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"><b>[For entry into Singapore from 2 Dec 2021, 2359hrs, SGT]</b> a valid pre-departure COVID-19 PCR or ART test certificate showing a negative test result.</li>
     </ol> 
  </td>
  </tr>
@@ -167,7 +179,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present the following to the ICA officer or entry may be denied:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid visa (for visa-required passport holders);</li>
+					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"><b>[For entry into Singapore from 2 Dec 2021, 2359hrs, SGT]</b> a valid pre-departure COVID-19 PCR or ART test certificate showing a negative test result; and</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
          </ol>
 		<b>Eligible travellers vaccinated overseas should also inform the immigration officer to temporarily register their vaccination details in their TraceTogether app</b>, in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>.  <br><br>
