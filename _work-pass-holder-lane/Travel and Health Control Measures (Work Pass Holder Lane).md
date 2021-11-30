@@ -591,7 +591,7 @@ input:checked + label + .content {
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint. If entering Singapore by:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Air</b> Register and pay for on-arrival test <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a>.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Air</b>: Register and pay for on-arrival test <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a>.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Land or Sea</b>: Register and pay for on-arrival test <a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">here</a>.</li>
 	</ol></li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the on-arrival test ($125 including GST) <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
@@ -616,7 +616,7 @@ input:checked + label + .content {
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint. If entering Singapore by:
 <ol style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Air</b> Register and pay for on-arrival test <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a>.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Air</b>: Register and pay for on-arrival test <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a>.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Land or sea</b>: Register and pay for on-arrival test <a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">here</a>.</li>
 	</ol>
 	</li>
