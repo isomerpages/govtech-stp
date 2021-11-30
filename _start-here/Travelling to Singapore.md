@@ -39,7 +39,7 @@ description: Start here to find out the travel requirements, restrictions and
 
 ### a. Returning Singapore Citizens and Permanent Residents
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore from any overseas country without an entry approval. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore. Details related to the entry requirements and Category of travel health measures is available in the <a href="/sc-pr/overview" target="_blank">"Returning SC/PR Lane Overview"</a>.</p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore from any overseas country without an entry approval. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore. Details related to the entry requirements and Category of travel health measures is available in the <a href="/sc-pr/overview" target="_blank">"Returning SC/PR Lane Overview"</a>.</p>
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane (Air) or Vaccinated Travel Lane (Land) to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank"> Vaccinated Travel Lane (Land)</a>.</p>
 
@@ -67,7 +67,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ### b. General Entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs must apply for entry approval to enter Singapore. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore. Details can be found in the lane overview, if applicable.</p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs must apply for entry approval to enter Singapore. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore. Details can be found in the lane overview, if applicable.</p>
 
 <table>
 	<thead>
@@ -159,7 +159,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ### c. Short-Term Visitors
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Travellers who need to only make a short-term visits to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.</p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Travellers who need to only make a short-term visits to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.</p>
 
 <table>
 	<thead>
@@ -220,7 +220,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ### d. Death and Critical Illness Emergency Visits
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane. Only a maximum of <u>two visitors per case</u> is allowed. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore and can be found in the <a href="/dcev/overview" target="_blank">"DCEV overview"</a>.</p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane. Only a maximum of <u>two visitors per case</u> is allowed. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore and can be found in the <a href="/dcev/overview" target="_blank">"DCEV overview"</a>.</p>
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Applications for urgent emergency entry can be submitted via this <a href="https://go.gov.sg/sto-enquiry">enquiry form</a>, selecting <i>“appeal for entry into Singapore under compassionate reasons”</i> as the enquiry category. </p>
 
