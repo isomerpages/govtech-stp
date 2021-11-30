@@ -1059,10 +1059,14 @@ Please also note that if a traveller’s test result is confirmed to be positive
 
 ---
  
+ <div id="postarrivaltests"></div>
+ 
+ ### (f)
+ 
 
 <div id="AdditionalReq"></div> 
 
-### (f) Additional Requirements for Short-Term Visitors
+### (g) Additional Requirements for Short-Term Visitors
 
 ### (i) Visa Application
 
