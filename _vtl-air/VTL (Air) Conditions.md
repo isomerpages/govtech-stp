@@ -21,7 +21,8 @@ description: ""
 </li>
          </ol>
                <li style="font-size:18px; list-style-type:lower-alpha;">undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately<sup>3</sup>  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTL (Air) application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
-	     <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 test results to the relevant Singapore Government authorities for public health purposes;</li>
+			 <li style="font-size:18px; list-style-type:lower-alpha;">undergo COVID-19 ARTs on Day 3 and Day 7 of their arrival in Singapore<sup>4</sup> at a Quick Test Centre before 2130 hours (Singapore time) on the day of each test;</li>
+			 <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 test results to the relevant Singapore Government authorities for public health purposes;</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;">download the <a href="https://tracetogether.gov.sg" target="_blank">TraceTogether app</a> on his/her mobile device and:
 		<ol style="font-size:18px; list-style-type:lower-roman;">
 		<li style="font-size:18px; list-style-type:lower-roman;">keep the TraceTogether app activated at all times while in Singapore;</li>
@@ -36,6 +37,8 @@ description: ""
   <br>
     <li style="font-size:20px; list-style-type:decimal;"> Those unable to use a mobile device due to a certified disability or special needs, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the airport upon arrival in Singapore. They must carry the TraceTogether tokens issued to them at all times while in Singapore and return their respective tokens at any checkpoint prior to their departure from Singapore.
 </li>
+	<br>
+	<li style="font-size:20px; list-style-type:decimal;">The requirement in Condition 2(f) does not apply to travellers whose time of departure<sup>5</sup> from Singapore is before 2130 hours (Singapore time) on Day 3 of their stay in Singapore. Travellers whose time of departure from Singapore is before 2130 hours (Singapore time) on Day 7 of their stay in Singapore are not required to undergo a COVID-19 ART on Day 7.</li>
   <br>
    <li style="font-size:20px; list-style-type:decimal;"> The requirements in Conditions 2 (g) and 2(h) do not apply to Singapore Citizens, Permanent Residents and Long-Term Pass (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) holders. However, they are encouraged to also download the TraceTogether app on their mobile device and keep the TraceTogether app activated at all times. 
   </li>
