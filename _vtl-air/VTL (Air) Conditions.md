@@ -53,8 +53,10 @@ description: ""
 		<li style="font-size:20px; list-style-type:decimal;">For the purpose of determining whether the conditions of the VTL (Air) are being complied with, a public officer, including an officer of the Civil Aviation Authority of Singapore (“CAAS”), or an officer acting on behalf of the CAAS, may request to see the VTP (Air). Upon receipt of such a request, a VTP (Air) holder must show his or her VTP (Air) to the officer.</li>  <br>
 </ol>
 
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>1</sup>If the scheduled day of departure of the flight is D (e.g. 7 October 2021), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL (Air) countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore from D-14 to D (i.e. 23 September to 7 October 2021, if D is 7 October 2021).</p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>1</sup>If the scheduled day of departure of the flight is D (e.g. 15 December 2021), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL (Air) countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore from D-14 to D (i.e. 1 December to 15 December 2021, if D is 14 December 2021).</p>
 
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours.</p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the pre-departure test is taken on 1 December 2021, it will be valid for departures up to 3 December 2021, 2359 hours.</p>
+
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>3</sup>Travellers are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area of the Arrivals Hall.</p>
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>3</sup>Travellers are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area of the Arrivals Hall.</p>
