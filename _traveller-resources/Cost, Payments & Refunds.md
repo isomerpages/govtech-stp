@@ -226,15 +226,15 @@ published: true
 	</tr>
 			<tr>
 	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">Periodic Commuting Arrangement Travellers</td>
-    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;"><a href="https://go.gov.sg/sto-enquiry" target="_blank">Click here</a></td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;"><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg</a></td>
 	</tr>
 				<tr>
 	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">Vaccinated Travel Lane (Air) Travellers</td>
-    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">XXXXXX</td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;"><a href="swabtest.refund@changiairport.com">swabtest.refund@changiairport.com</td>
 	</tr>
 					<tr>
 	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">Vaccinated Travel Lane (Land) Travellers</td>
-    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">XXXX</td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;"><a href="sea.checkpoints.refunds@parkwaypantai.com">sea.checkpoints.refunds@parkwaypantai.com</a> </td>
 	</tr>
 	</tbody>
 	</table>
