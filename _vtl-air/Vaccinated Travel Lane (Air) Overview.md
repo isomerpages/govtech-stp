@@ -289,6 +289,8 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL (Air) flight (list available in the in the <a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller’s Checklist</a>). Travellers should note that <b><u>not all flights departing from the VTL (Air) countries/regions are designated.</u></b> They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
 	</ol>
 </div>
+</body>
+</html>
 
 <!--<input id="title4" type="checkbox">
 <label for="title4">Criterion 4 [Foreign short- term visitors only]: COVID-19 Travel Insurance</label>
@@ -303,8 +305,8 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.3; font-size:18px;">Foreign short term visitors holding travel documents that require a visa to enter Singapore, must apply for a visa. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a target="_blank" href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for more details.</p>
 </div>-->
-	</body>
-</html>
+	
+
 
 <div id="Application"></div>
 
