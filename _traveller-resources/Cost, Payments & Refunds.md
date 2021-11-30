@@ -73,7 +73,7 @@ published: true
     </tr>
         <tr>
       <td style="font-size:18px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints<br><br><i>[Excludes travellers arriving in Singapore via the Vaccinated Travel Lane (Land)]</i></td>
-					<td style="font-size:18px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Click <a href="https://t.2c2p.com/express/parkwayshenton">here</a></td>
+					<td style="font-size:18px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Click <a href="https://t.2c2p.com/express/parkwayshentonoat">here</a></td>
 		</tr>
 		        <tr>
       <td style="font-size:18px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
