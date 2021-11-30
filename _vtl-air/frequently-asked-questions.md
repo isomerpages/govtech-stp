@@ -1083,15 +1083,15 @@ Payment is to be made at the <a href="https://go.gov.sg/QTC-ART-testing" target=
 
 #### 4. What are the test centres that travellers can go to for their Day 3 and Day 7 ARTs?
 
-They can visit any of the Quick Test Centres (QTCs). They are required to undergo their COVID-19 ART by 2130 hours (Singapore time) on Day 3 and Day 7.
+They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs)</a>. They are required to undergo their COVID-19 ART by 2130 hours (Singapore time) on Day 3 and Day 7.
 
 #### 5. Can a traveller go to a clinic for their Day 3 and Day 7 ARTs instead of the Quick Test Centres?
 
-No, travellers must only go to the Quick Test Centres (QTCs). Otherwise, the traveller’s attendance will not be tracked, and test results will not be captured.
+No, travellers must only go to the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs)</a>. Otherwise, the traveller’s attendance will not be tracked, and test results will not be captured.
 
 #### 6. How do travellers book their appointments for their Day 3 and Day 7 ARTs?
 
-Travellers with a Singapore mobile number should book an appointment at any of the Quick Test Centres for self-paid ARTs. Those who do not have a local mobile number must still go for their test at any of the Quick Test Centres. They will need to register in-person and can expect additional waiting time.
+Travellers with a Singapore mobile number should <a href="https://swab.hpb.gov.sg/appointment/login?key=%7b%22iv%22%3a%22696C74644A506D33616C677035645732%22%2c%22content%22%3a%22B3EE30C0FBBB60EF0C3E1C67AF38EA91%22%7d" target="_blank">book an appointment</a> at any of the Quick Test Centres for self-paid ARTs. Those who do not have a local mobile number must still go for their test at any of the Quick Test Centres. They will need to register in-person and can expect additional waiting time.
 
 #### 7. Are children required to undergo Day 3 and Day 7 ARTs?
 
