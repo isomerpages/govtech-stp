@@ -25,16 +25,12 @@ All other transit travellers must take a COVID-19 test <b>within 2 days before d
     <td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>Permitted Test(s)</b></td>
 		</tr>
 	<tr>
-	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Category (II) countries/regions
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Category (I), (II) and (III) countries/regions
 </td>
-    	<td rowspan="2" style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> <ol style="list-style-type:lower-alpha">
+    	<td rowspan="1" style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> <ol style="list-style-type:lower-alpha">
         <li style="line-height:1.5; margin-top:0px; font-size:18px;">COVID-19 Polymerase Chain Reaction Test; <b>OR</b></li>
          <li style="line-height:1.5; margin-top:0px; font-size:18px;">Antigen Rapid Test that is administered by a trained professional, i.e. self-swabs are disallowed.</li>
         </ol>
-</td>
-	</tr>
-  	<tr>
-	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Category (III) countries/regions
 </td>
 	</tr>
   	<tr>
