@@ -1117,7 +1117,7 @@ A traveller who fails to undergo the required COVID-19 PCR tests may also be req
 
 #### 12. Should travellers perform their Day 3 and Day 7 ARTs if they are unwell?
 
-Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest Swab and Send Home (SASH) clinic. They should not go for their scheduled ART test if they are unwell, but should remain contactable via their declared mobile number and email address.
+Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH)</a> clinic. They should not go for their scheduled ART test if they are unwell, but should remain contactable via their declared mobile number and email address.
 
 #### 13. What if travellers intend to leave Singapore prior to Day 3 or Day 7?
 
