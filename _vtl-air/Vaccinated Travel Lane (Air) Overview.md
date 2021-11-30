@@ -286,7 +286,7 @@ input:checked + label + .content {
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any <a href="#countries"> VTL (Air) countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 14 consecutive days before departure for Singapore.
 		</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL (Air) flight (list available in the in the <a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller’s Checklist</a>)</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL (Air) flight (list available in the in the <a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller’s Checklist</a>). Travellers should note that <b>not all flights departing from the VTL (Air) countries/regions are designated.</b> They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
 	</ol>
 </div>
 
@@ -489,5 +489,6 @@ input:checked + label + .content {
 - <a target="_blank" href="/vtl/faq#PDT">Pre-Departure Test</a>
 - <a target="_blank" href="/vtl/faq#Flight">Designated VTL (Air) Flights</a>
 - <a target="_blank" href="/vtl/faq#OAT">On-Arrival Test &amp; Self-Isolation</a>
+- <a target="_blank" href="/vtl/faq#postarrivaltests>Post-Arrival Day 3 and Day 7 Tests</a>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Have a question that is not addressed by any of the available resources found in this webpage? <a target="_blank" href="https://go.gov.sg/sto-enquiry">Contact us here</a>.</p>
