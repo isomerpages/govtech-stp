@@ -38,7 +38,7 @@ On this page, travellers intending to depart from Singapore can find information
  <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.3;">Flight booking details showing the departure timing</li>
 </ol>
 
-<p style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.3;">For details related to the cost and administration of the test, travellers should enquire directly with the clinic. Travellers should note that government subsidies cannot be used to offset the cost of the test, and a test memo will not be issued for any government-paid-for tests.</p>
+<p style="margin-top:20px; margin-bottom:10px; font-size:20px; line-height:1.3;">For details related to the cost and administration of the test, travellers should enquire directly with the clinic. Travellers should note that government subsidies cannot be used to offset the cost of the test, and a test memo will not be issued for any government-paid-for tests.</p>
 
 ---
 
