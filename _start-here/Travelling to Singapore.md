@@ -169,7 +169,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 	</thead>
 	<tbody>
 		<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> <br/><br/> <b>For arrivals by flight only. Arrivals by Land are currently not allowed.</b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> <br/><br/> <b>For arrivals by flight only. Arrivals by Land are currently not allowed.</b></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 17px; list-style-type: disc;">
 	<li style="line-height:1.3;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
