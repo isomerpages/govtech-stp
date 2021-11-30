@@ -4,7 +4,8 @@ permalink: /arriving/overview
 description: Start here to find out the travel requirements, restrictions and
   SafeTravel Lanes available when travelling to Singapore
 ---
-Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangement, and the entry requirements and health controls of each Safe Travel Lane may differ depending on the traveller’s profile and travel history. Travellers can refer to the following sections on this page to determine the most relevant arrangement(s) to enter Singapore:
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.3;">Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangement, and the entry requirements and health controls of each Safe Travel Lane may differ depending on the traveller’s profile and travel history. Travellers can refer to the following sections on this page to determine the most relevant arrangement(s) to enter Singapore:</p>
+
 - [Self Help Tool for Safe Travel Lanes and Entry Requirements](#selfhelptool)
 - [Listing of Safe Travel Lanes by Traveller Profile](#lanelist)
 - [Entry Information for Air/Sea Crew and Pleasure Craft Owners](#crew)
@@ -13,7 +14,7 @@ Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangem
 
 ### 1) Self-Help Tool for Safe Travel Lanes and Entry Requirements
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">This self-help tool will output the most relevant Safe Travel Lanes to use based on the traveller’s profile, and travellers can click on the relevant lane to find out about the specific health requirements (e.g. Stay Home Notice, COVID-19 tests) under that lane. Some lanes use the Category I/II/III/IV health measure framework while others may not.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.3;">This self-help tool will output the most relevant Safe Travel Lanes to use based on the traveller’s profile, and travellers can click on the relevant lane to find out about the specific health requirements (e.g. Stay Home Notice, COVID-19 tests) under that lane. Some lanes use the Category I/II/III/IV health measure framework while others may not.</p>
 
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">No information will be stored by this tool. If the tool below does not work in your browser, try opening it in a <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">separate window</a>, or refer to the list of <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">SafeTravel Lanes</a>. </p>
 
@@ -38,9 +39,9 @@ Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangem
 
 ### a. Returning Singapore Citizens and Permanent Residents
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore from any overseas country without an entry approval. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore. Details related to the entry requirements and Category of travel health measures is available in the <a href="/sc-pr/overview" target="_blank">"Returning SC/PR Lane Overview"</a>.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.3;">Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore from any overseas country without an entry approval. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore. Details related to the entry requirements and Category of travel health measures is available in the <a href="/sc-pr/overview" target="_blank">"Returning SC/PR Lane Overview"</a>.</p>
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane (Air) or Vaccinated Travel Lane (Land) to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank"> Vaccinated Travel Lane (Land)</a>.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.3;">Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane (Air) or Vaccinated Travel Lane (Land) to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank"> Vaccinated Travel Lane (Land)</a>.</p>
 
 <ol style="list-style-type:disc; line-height:1.3">
 	<li style="line-height:1.3;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
@@ -66,7 +67,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ### b. General Entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs must apply for entry approval to enter Singapore. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore. Details can be found in the lane overview, if applicable.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.3;">Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs must apply for entry approval to enter Singapore. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore. Details can be found in the lane overview, if applicable.</p>
 
 <table>
 	<thead>
@@ -158,7 +159,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ### c. Short-Term Visitors
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Travellers who need to only make a short-term visits to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.3;">Travellers who need to only make a short-term visits to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.</p>
 
 <table>
 	<thead>
@@ -171,11 +172,11 @@ Click here to return to the <a href="#lanelist">top</a>.
 		<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> <br/><br/> <b>For arrivals by flight only. Arrivals by Land are currently not allowed.</b></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
-			   <ul style="font-size: 17px; list-style-type: disc;">
-	<li style="line-height:1.3;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
-				    <li style="line-height:1.3; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 13 Dec 2021)</li>
-				   <li style="line-height:1.3; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 15 Dec 2021)</li>
-					 					 		<li style="line-height:1.3; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (deferred until further notice)</li>
+			   <ul style="font-size: 18px; list-style-type: disc;">
+	<li style="line-height:1.3; font-size: 18px;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
+				    <li style="line-height:1.3; margin-top:10px; font-size: 18px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 13 Dec 2021)</li>
+				   <li style="line-height:1.3; margin-top:10px; font-size: 18px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 15 Dec 2021)</li>
+					 					 		<li style="line-height:1.3; margin-top:10px; font-size: 18px;">Qatar, Saudi Arabia, and the United Arab Emirates (deferred until further notice)</li>
 				 </ul>
 <i style="font-size:14px; line-height:1.3;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.3;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
@@ -219,11 +220,11 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ### d. Death and Critical Illness Emergency Visits
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane. Only a maximum of <u>two visitors per case</u> is allowed. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore and can be found in the <a href="/dcev/overview" target="_blank">"DCEV overview"</a>.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.3;">Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane. Only a maximum of <u>two visitors per case</u> is allowed. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore and can be found in the <a href="/dcev/overview" target="_blank">"DCEV overview"</a>.</p>
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Applications for urgent emergency entry can be submitted via this <a href="https://go.gov.sg/sto-enquiry">enquiry form</a>, selecting <i>“appeal for entry into Singapore under compassionate reasons”</i> as the enquiry category. </p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.3;">Applications for urgent emergency entry can be submitted via this <a href="https://go.gov.sg/sto-enquiry">enquiry form</a>, selecting <i>“appeal for entry into Singapore under compassionate reasons”</i> as the enquiry category. </p>
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">To expedite the assessment process, travellers who are requesting for emergency entry are strongly encouraged to submit the following supporting documents:</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.3;">To expedite the assessment process, travellers who are requesting for emergency entry are strongly encouraged to submit the following supporting documents:</p>
 <ul style="list-style-type: decimal; line-height:1.3;">
 <li style="line-height:1.3;">Death certificate or any other documents as proof of death, or Doctor’s letter/memo proving critical illness of the immediate family member in Singapore;</li>
 <li style="line-height:1.3;">Official documents proving familial connection with the deceased or critically ill in Singapore;</li>
