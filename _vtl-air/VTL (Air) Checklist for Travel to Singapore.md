@@ -391,6 +391,7 @@ If you are a Singapore Citizen or Permanent Resident with an overseas-issued vac
 
 Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for more FAQs on inland public health measures.
 
+<div id="postarrivaltests"></div>
 
 &#9744;  <i><b>B) Post-Arrival Day 3 and Day 7 COVID-19 Antigen Rapid Test (ART)</b></i>
 
