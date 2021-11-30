@@ -22,17 +22,14 @@ This step-by-step checklist is for all VTL (Air) travellers entering Singapore, 
 Travellers can check the box **(&#9744;)** for completed activities.
 
 <table>
-<thead>
-<tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width: 300px;vertical-align:middle;"><b>Stage 1: Pre-Departure for Singapore</b></th>
-	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px;"><b>Stage 2: Departure for Singapore</b></th>
-		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px;"><b>Stage 4: Self-isolation</b></th>
-</tr>
-</thead>
 <tbody>
 	<tr>
-<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; padding:10px;">
-&#9744; Obtain an accepted proof of vaccination<br>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#E8E8E8; line-height:1.4;"><b>Stage 1: Pre-Departure for Singapore</b></td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#E8E8E8; line-height:1.4;"><b>Stage 2: Departure for Singapore</b></td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#E8E8E8; line-height:1.4;"><b>Stage 4: Self-isolation</b></td>
+		</tr>
+	<tr>
+	<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">&#9744; Obtain an accepted proof of vaccination<br>
 &#9744; Apply for Vaccinated Travel Pass (VTP) (Air) [STVs and LTPHs only]<br>
 &#9744; Apply for Visa [STVs only, if applicable]<br>
 &#9744; Secure Tickets for a Designated VTL Flight<br>
@@ -41,32 +38,25 @@ Travellers can check the box **(&#9744;)** for completed activities.
 &#9744; Undergo Pre-Departure COVID-19 PCR/ART Test<br>
 &#9744; Submit Health Declaration<br>
 &#9744; Register and Pre-pay for On-Arrival COVID-19 PCR Test<br>
-&#9744; Secure Contact Tracing App/Token<br>
-</td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">&#9744; Present Documents for Pre-Boarding Checks</td>
-				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">&#9744; Self-Isolate Pending OAT-PCR Results<br>
-&#9744; Exit from Self-Isolation
-</td>
-</tr>
-		<tr>
-			<thead>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width: 300px;vertical-align:middle;"><b>Stage 3: Arrival in Singapore</b></th>
-		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; width: 300px;vertical-align:middle;"><b>Stage 5: Stay in Singapore</b></th>
-			</thead>
-</tr>
-		<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left;vertical-align:middle; padding:10px;">&#9744; Clear Arrival Immigration<br>
+&#9744; Secure Contact Tracing App/Token<br></td>
+			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">&#9744; Present Documents for Pre-Boarding Checks</td>
+			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">&#9744; Self-Isolate Pending OAT-PCR Results<br>
+&#9744; Exit from Self-Isolation</td>
+	</tr>
+	<tr>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;background-color:#E8E8E8;  line-height:1.4;">Stage 3: Arrival in Singapore</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;background-color:#E8E8E8;  line-height:1.4;">Stage 5: Stay in Singapore</td>
+	</tr>
+	<tr>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">&#9744; Clear Arrival Immigration<br>
 &#9744; Undergo On-Arrival COVID-19 PCR Test<br>
-&#9744; Travel to Declared Self-Isolation Accommodation<br>
-</td>
-				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">&#9744; Adhere to COVID-19 Safe Management Measures, Prepare Proof of Vaccination<br>
+&#9744; Travel to Declared Self-Isolation Accommodation<br></td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">&#9744; Adhere to COVID-19 Safe Management Measures, Prepare Proof of Vaccination<br>
 &#9744; Undergo Post-Arrival Day 3 and 7 ART Tests<br>
-&#9744; Return TraceTogether Tokens [If applicable]<br>
-</td>
-</tr>	
-</tbody>
-</table>
-
+&#9744; Return TraceTogether Tokens [If applicable]<br></td>
+	</tr>
+	</tbody>
+	</table>
 
 ### Stage 1: Pre-Departure for Singapore
 
