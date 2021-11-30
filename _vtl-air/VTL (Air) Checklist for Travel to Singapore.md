@@ -19,6 +19,8 @@ This step-by-step checklist is for all VTL (Air) travellers entering Singapore, 
 
 *“Short-term visitors” mentioned in this page refers to travellers who are not SC/PR or hold any Singapore-issued Long-Term Pass (e.g. Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration & Checkpoints Authority).*
 
+Travellers may refer to this <a href="/files/CAAS_infographics_guide.pdf" target="_blank">infographic</a> for an overview of the process to travel via VTL (Air).
+
 Travellers can check the box (☐) for completed activities. There are 5 stages for the checklist activities:
 <ol style="list-style-type:disc; padding-left:25px;">
 	<li style="line-height:1.5;"><a href="#stage1">Stage 1: Pre-Departure for Singapore</a></li>	
