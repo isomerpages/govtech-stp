@@ -21,13 +21,13 @@ This step-by-step checklist is for all VTL (Air) travellers entering Singapore, 
 
 Travellers may refer to this <a href="/files/CAAS_infographics_guide.pdf" target="_blank">infographic</a> for an overview of the process to travel via VTL (Air).
 
-Travellers can check the box (☐) for completed activities. There are 5 stages for the checklist activities:
+Travellers can check the box (☐) for completed activities for the various stages below:
 <ol style="list-style-type:disc; padding-left:25px;">
-	<li style="line-height:1.5;"><a href="#stage1">Stage 1: Pre-Departure for Singapore</a></li>	
-	<li style="line-height:1.5;"><a href="#stage2">Stage 2: Departure for Singapore</a></li>	
-	<li style="line-height:1.5;"><a href="#stage3">Stage 3: Arrival in Singapore</a></li>	
-	<li style="line-height:1.5;"><a href="#stage4">Stage 4: Self-Isolation</a></li>	
-	<li style="line-height:1.5;"><a href="#stage5">Stage 5: Stay in Singapore</a></li>	
+	<li style="line-height:1.5;"><a href="#stage1">Stage 1: Pre-Departure for Singapore</a> - Critical documentation, logistics and tests </li>	
+	<li style="line-height:1.5;"><a href="#stage2">Stage 2: Departure for Singapore </a>- Boarding clearances</li>	
+	<li style="line-height:1.5;"><a href="#stage3">Stage 3: Arrival in Singapore</a> - On-arrival checks and tests</li>	
+	<li style="line-height:1.5;"><a href="#stage4">Stage 4: Self-Isolation</a> - Avoiding contact while waiting for test result</li>	
+	<li style="line-height:1.5;"><a href="#stage5">Stage 5: Stay in Singapore</a> - Mandatory regular tests and local COVID-19 management measures</li>	
 </ol>
 
 <div id="stage1"></div>
