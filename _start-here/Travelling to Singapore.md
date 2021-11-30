@@ -43,18 +43,18 @@ Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore fro
 Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane (Air) or Vaccinated Travel Lane (Land) to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank"> Vaccinated Travel Lane (Land)</a>.
 
 <ol style="list-style-type:disc;">
-	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
-	<li style="line-height:1.5; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 14 Dec 2021)</li>
-	<li style="line-height:1.5; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 16 Dec 2021)</li>
-	<li style="line-height:1.5; margin-top:10px;">Qatar, Saudi Arabia and the United Arab Emirates (deferred until further notice)</li>
+	<li style="line-height:1.3;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
+	<li style="line-height:1.3; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 14 Dec 2021)</li>
+	<li style="line-height:1.3; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 16 Dec 2021)</li>
+	<li style="line-height:1.3; margin-top:10px;">Qatar, Saudi Arabia and the United Arab Emirates (deferred until further notice)</li>
 	</ol>
 	
-<i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
-<i style="font-size:14px; line-height:1.5;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>4</sup>Including the Canary Islands</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
+<i style="font-size:14px; line-height:1.3;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
+<i style="font-size:14px; line-height:1.3;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
+<i style="font-size:14px; line-height:1.3;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
+<i style="font-size:14px; line-height:1.3;"><sup>4</sup>Including the Canary Islands</i><br>
+<i style="font-size:14px; line-height:1.3;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
+<i style="font-size:14px; line-height:1.3;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
 
 ---
 
@@ -80,49 +80,49 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> <br/><br/> <i>For Arrivals by flight only</i></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> including any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 17px; list-style-type: disc;">
-	<li style="line-height:1.5; font-size: 18px;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
-				   <li style="line-height:1.5; font-size: 18px; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 14 Dec 2021)</li>
-				   <li style="line-height:1.5; font-size: 18px; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 16 Dec 2021)</li>
-					 	<li style="line-height:1.5; font-size: 18px; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (deferred until further notice)</li>
+	<li style="line-height:1.3; font-size: 18px;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
+				   <li style="line-height:1.3; font-size: 18px; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 14 Dec 2021)</li>
+				   <li style="line-height:1.3; font-size: 18px; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 16 Dec 2021)</li>
+					 	<li style="line-height:1.3; font-size: 18px; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (deferred until further notice)</li>
 				 </ul>
-<i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
-<i style="font-size:14px; line-height:1.5;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>4</sup>Including the Canary Islands</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
+<i style="font-size:14px; line-height:1.3;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
+<i style="font-size:14px; line-height:1.3;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
+<i style="font-size:14px; line-height:1.3;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
+<i style="font-size:14px; line-height:1.3;"><sup>4</sup>Including the Canary Islands</i><br>
+<i style="font-size:14px; line-height:1.3;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
+<i style="font-size:14px; line-height:1.3;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
 				</td>
 	</tr>
 		<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl-land/overview">Vaccinated Travel Lane (Land)</a> <br/><br/> <i>For Arrivals by Land only</i></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> including any accompanying unvaccinated children below 12 years old, meeting the following conditions:
 			   <ul style="font-size: 17px; list-style-type: disc;">
-	<li style="line-height:1.5; font-size: 18px;">Entering Singapore via the Causeway and Second Link from Malaysia; and</li>
-	<li style="line-height:1.5;font-size: 18px; margin-top:10px;">Is a resident of Singapore, this includes a Singapore Citizen, Singapore Permanent Resident, and holder of a valid Long-Term Pass issued by Singapore, e.g. Work Pass, S Pass, Student's Pass etc.</li>
+	<li style="line-height:1.3; font-size: 18px;">Entering Singapore via the Causeway and Second Link from Malaysia; and</li>
+	<li style="line-height:1.3;font-size: 18px; margin-top:10px;">Is a resident of Singapore, this includes a Singapore Citizen, Singapore Permanent Resident, and holder of a valid Long-Term Pass issued by Singapore, e.g. Work Pass, S Pass, Student's Pass etc.</li>
 				 </ul>
-			   <p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;">N<i>Note: All In-Principal Approval (IPA) holders (e.g. newly-approved pass holders entering Singapore for the first time) should apply for entry via the available lanes found in this list.</i></p>
+			   <p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.3;">N<i>Note: All In-Principal Approval (IPA) holders (e.g. newly-approved pass holders entering Singapore for the first time) should apply for entry via the available lanes found in this list.</i></p>
 				</td>
 	</tr>
 	<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/overview">Familial Ties Lane</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
-					 <li style="font-size: 18px; line-height:1.5;">Singapore Permanent Resident In-Principle Approval holders who need to complete long-term immigration formalities  </li>
-					 <li style="font-size: 18px; line-height:1.5;">Are on an ICA-issued Long-Term Visit Pass</li>
-					 <li style="font-size: 18px; line-height:1.5;">Travellers whose immediate family member is an SC/PR based in Singapore</li>
-					 <li style="font-size: 18px; line-height:1.5;">Adopted child of an SC/PR</li>
-					 <li style="font-size: 18px; line-height:1.5;">Fiancé/fiancée of an SC/PR</li>
+					 <li style="font-size: 18px; line-height:1.3;">Singapore Permanent Resident In-Principle Approval holders who need to complete long-term immigration formalities  </li>
+					 <li style="font-size: 18px; line-height:1.3;">Are on an ICA-issued Long-Term Visit Pass</li>
+					 <li style="font-size: 18px; line-height:1.3;">Travellers whose immediate family member is an SC/PR based in Singapore</li>
+					 <li style="font-size: 18px; line-height:1.3;">Adopted child of an SC/PR</li>
+					 <li style="font-size: 18px; line-height:1.3;">Fiancé/fiancée of an SC/PR</li>
 				 </ul>
-				 <p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;"><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> will be given priority to enter under this lane.</p>
+				 <p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.3;"><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> will be given priority to enter under this lane.</p>
 		</td>
 	</tr>
 			<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stpl/overview">Student's Pass Holder Lane</a></td>
 		   <td style="font-size:18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who are:<ul style="font-size: 18px; list-style-type: disc; margin-bottom:5px;">
-					 <li style="font-size: 18px; line-height:1.5;">Student’s Pass (STP) and STP In-Principle Approval Holders (STP-IPA) </li>
-					 <li style="font-size: 18px; line-height:1.5;">Eligible accompanying guardian or family of the STP and STP-IPA holder who is travelling on the same date <sup style="color:red;">[Note]</sup></li>
+					 <li style="font-size: 18px; line-height:1.3;">Student’s Pass (STP) and STP In-Principle Approval Holders (STP-IPA) </li>
+					 <li style="font-size: 18px; line-height:1.3;">Eligible accompanying guardian or family of the STP and STP-IPA holder who is travelling on the same date <sup style="color:red;">[Note]</sup></li>
 				 </ul>
-<p style="font-size:16px; line-height:1.5;"><b style="color:red;">Note(s):</b><br/>STP and STP-IPA holders whose family members hold an MOM-issued pass should apply for entry via the Work Pass Holder General Lane. STP holders who are related to a Singapore Citizen or Permanent Resident should apply for entry via the Familial Ties Lane. 
+<p style="font-size:16px; line-height:1.3;"><b style="color:red;">Note(s):</b><br/>STP and STP-IPA holders whose family members hold an MOM-issued pass should apply for entry via the Work Pass Holder General Lane. STP holders who are related to a Singapore Citizen or Permanent Resident should apply for entry via the Familial Ties Lane. 
 </p>
 				</td>
 	</tr>
@@ -131,9 +131,9 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 		   <td style="font-size:18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who are: 
 				 <ul style="font-size: 18px; list-style-type: disc;"> 
-					 <li style="font-size: 18px; line-height:1.5;">MOM-issued Pass holders, including a Dependant’s Pass, Letter of Consent (except those holding an ICA-issued Long-Term Visit Pass) and In-Principle Approval Holders </li>
-					 <li style="font-size: 18px;  line-height:1.5;">Confinement Nannies</li>
-					 <li style="font-size: 18px;  line-height:1.5;">Helpers</li>
+					 <li style="font-size: 18px; line-height:1.3;">MOM-issued Pass holders, including a Dependant’s Pass, Letter of Consent (except those holding an ICA-issued Long-Term Visit Pass) and In-Principle Approval Holders </li>
+					 <li style="font-size: 18px;  line-height:1.3;">Confinement Nannies</li>
+					 <li style="font-size: 18px;  line-height:1.3;">Helpers</li>
 				 </ul>
 				</td>
 	</tr>
@@ -172,17 +172,17 @@ Travellers who need to only make a short-term visits to Singapore may use the la
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> <br/><br/> <b>For arrivals by flight only. Arrivals by Land are currently not allowed.</b></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 17px; list-style-type: disc;">
-	<li style="line-height:1.5;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
-				    <li style="line-height:1.5; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 13 Dec 2021)</li>
-				   <li style="line-height:1.5; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 15 Dec 2021)</li>
-					 					 		<li style="line-height:1.5; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (deferred until further notice)</li>
+	<li style="line-height:1.3;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
+				    <li style="line-height:1.3; margin-top:10px;">Thailand (applications open on 7 Dec 2021, for entry into Singapore from 13 Dec 2021)</li>
+				   <li style="line-height:1.3; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 15 Dec 2021)</li>
+					 					 		<li style="line-height:1.3; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (deferred until further notice)</li>
 				 </ul>
-<i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
-<i style="font-size:14px; line-height:1.5;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>4</sup>Including the Canary Islands</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
-<i style="font-size:14px; line-height:1.5;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
+<i style="font-size:14px; line-height:1.3;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
+<i style="font-size:14px; line-height:1.3;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
+<i style="font-size:14px; line-height:1.3;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
+<i style="font-size:14px; line-height:1.3;"><sup>4</sup>Including the Canary Islands</i><br>
+<i style="font-size:14px; line-height:1.3;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
+<i style="font-size:14px; line-height:1.3;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
 				</td>
 	</tr>
 	<tr>

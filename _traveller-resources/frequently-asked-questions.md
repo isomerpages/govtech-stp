@@ -336,7 +336,7 @@ Travellers should register and pay for their on-arrival COVID-19 PCR test separa
       <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">To expedite the test procedures at the airport, travellers should register and pay for their on-arrival COVID-19 PCR test, using the relevant links below <b>before</b> arrival.
 				<ul style="list-style-type: disc;">
 					<li style="font-size:16px;">Travellers arriving via air transport, click <a href="https://safetravel.changiairport.com/#/">here</a></li>
-					<li style="font-size:16px;">Travellers arriving via land or sea transport click <a href="https://t.2c2p.com/express/parkwayshenton">here</a>.</li>
+					<li style="font-size:16px;">Travellers arriving via land or sea transport click <a href="https://t.2c2p.com/express/parkwayshentonoat">here</a>.</li>
 				</ul>
 </td>
    </tr> 
