@@ -104,7 +104,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 				</td>
 	</tr>
 	<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/overview">Familial Ties Lane</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;"><a href="/scpr-familial-ties-lane/overview">Familial Ties Lane</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px; line-height:1.3;">Singapore Permanent Resident In-Principle Approval holders who need to complete long-term immigration formalities  </li>
@@ -117,7 +117,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 		</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stpl/overview">Student's Pass Holder Lane</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;"><a href="/stpl/overview">Student's Pass Holder Lane</a></td>
 		   <td style="font-size:18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who are:<ul style="font-size: 18px; list-style-type: disc; margin-bottom:5px;">
 					 <li style="font-size: 18px; line-height:1.3;">Student’s Pass (STP) and STP In-Principle Approval Holders (STP-IPA) </li>
 					 <li style="font-size: 18px; line-height:1.3;">Eligible accompanying guardian or family of the STP and STP-IPA holder who is travelling on the same date <sup style="color:red;">[Note]</sup></li>
@@ -127,7 +127,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 				</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
 		   <td style="font-size:18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who are: 
 				 <ul style="font-size: 18px; list-style-type: disc;"> 
@@ -138,10 +138,10 @@ Click here to return to the <a href="#lanelist">top</a>.
 				</td>
 	</tr>
 		<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.3;"><a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
-					 <li style="font-size: 18px;">Malaysian Citizen or Malaysian Permanent Resident, and hold a valid long-term pass for business and work purposes in Singapore; or</li>
-					 <li style="font-size: 18px;">Malaysian Citizen who is a Singapore Permanent Resident working in Singapore</li>
+					 <li style="font-size: 18px; line-height:1.3;">Malaysian Citizen or Malaysian Permanent Resident, and hold a valid long-term pass for business and work purposes in Singapore; or</li>
+					 <li style="font-size: 18px; line-height:1.3;">Malaysian Citizen who is a Singapore Permanent Resident working in Singapore</li>
 				 </ul>
 				</td>
 	</tr>
@@ -158,7 +158,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ### c. Short-Term Visitors
 
-Travellers who need to only make a short-term visits to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.3;">Travellers who need to only make a short-term visits to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.</p>
 
 <table>
 	<thead>
