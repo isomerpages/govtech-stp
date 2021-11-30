@@ -206,10 +206,16 @@ input:checked + label + .content {
 <label for="title2">Criterion 2: Hold an Accepted Proof of Vaccination</label>
 
 <div style="background-color:#edf4fa;" class="content" id="criteria">
-<p style="line-height:1.3; font-size:18px;">Travellers must obtain vaccination certificates in any of the following formats, depending on what is available in the traveller’s locality. More details can be found in our <a target="_blank" href="/vtl/faq#QRcode">FAQs</a>.</p>
+<p style="line-height:1.3; font-size:18px;">Travellers must hold an accepted proof of vaccination in any of the following formats, depending on what is available in the traveller’s locality. More details can be found in our <a target="_blank" href="/vtl/faq#QRcode">FAQs</a>.</p>
 	<p style="line-height:1.3; font-size:18px;">
 	</p><ol style="margin-top:0px; list-style-type: disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a target="_blank" href="https://www.notarise.gov.sg/">Notarise portal</a> with a QR code, or proof of vaccination on the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether</a> or <a target="_blank" href="https://www.healthhub.sg/">HealthHub app</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b>
+			<ol style="list-style-type:lower-alpha;">
+				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Vaccination on the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether</a> or <a target="_blank" href="https://www.healthhub.sg/">HealthHub app</a></li>
+				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Vaccination certificate(s) issued by the Singapore Ministry of Health; or</li>
+				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">For Long-Term Pass Holders or Short-Term Visitors with records in Singapore's National Immunisation Registry, a successful pinging of their records on the Vaccinated Travel Pass (Air) application portal.</li>
+			</ol>
+	</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Australia:</b> <a target="_blank" href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof">International COVID-19 Vaccination Certificate</a> (QR code in <a target="_blank" href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a target="_blank" href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Brunei:</b> Proof of vaccination on the <a target="_blank" href="http://www.moh.gov.bn/SitePages/bruhealth.aspx">BruHealth app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Canada:</b> <a target="_blank" href="https://smarthealth.cards/en/faq.html">SMART Health Cards (SHC)</a> issued by any Canadian province</li>
