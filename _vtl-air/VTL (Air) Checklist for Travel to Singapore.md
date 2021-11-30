@@ -45,19 +45,24 @@ Travellers can check the box **(&#9744;)** for completed activities.
 </td>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">&#9744; Present Documents for Pre-Boarding Checks</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">&#9744; Self-Isolate Pending OAT-PCR Results<br>
-&#9744;Exit from Self-Isolation
+&#9744; Exit from Self-Isolation
 </td>
 </tr>
 		<tr>
 			<thead>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width: 300px;vertical-align:middle;"><b>Stage 3: Arrival in Singapore</b></th>
-		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width: 300px;vertical-align:middle;"><b>Stage 5: Stay in Singapore</b></th>
+		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; width: 300px;vertical-align:middle;"><b>Stage 5: Stay in Singapore</b></th>
 			</thead>
 </tr>
 		<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left;vertical-align:middle; padding:10px;">3. Valid Vaccinated Travel Pass (VTP)</td>
-				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
-					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left;vertical-align:middle; padding:10px;">&#9744; Clear Arrival Immigration<br>
+&#9744; Undergo On-Arrival COVID-19 PCR Test<br>
+&#9744; Travel to Declared Self-Isolation Accommodation<br>
+</td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">&#9744; Adhere to COVID-19 Safe Management Measures, Prepare Proof of Vaccination<br>
+&#9744; Undergo Post-Arrival Day 3 and 7 ART Tests<br>
+&#9744; Return TraceTogether Tokens [If applicable]<br>
+</td>
 </tr>	
 </tbody>
 </table>
