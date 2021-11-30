@@ -14,7 +14,7 @@ This step-by-step checklist is for all VTL (Air) travellers entering Singapore, 
 
 <ol style="list-style-type:lower-alpha">
 	<li style="line-height:1.5;">Singapore Citizens and Permanent Residents will not be eligible for quarantine-free health protocols.</li>	
-	<li style="line-height:1.5;">Short-Term Visitors and Long-Term Pass Holders may be denied entry into Singapore.</li>	
+	<li style="line-height:1.5;">Short-Term Visitors (STVs) and Long-Term Pass Holders (LTPHs) may be denied entry into Singapore.</li>	
 </ol>
 
 *“Short-term visitors” mentioned in this page refers to travellers who are not SC/PR or hold any Singapore-issued Long-Term Pass (e.g. Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration & Checkpoints Authority).*
