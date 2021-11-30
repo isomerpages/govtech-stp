@@ -1061,8 +1061,18 @@ Please also note that if a traveller’s test result is confirmed to be positive
  
  <div id="postarrivaltests"></div>
  
- ### (f)
+ ### (f) Post-Arrival Day 3 and Day 7 COVID-19 Antigen Rapid Test (ART)
  
+<i><span style="color:red;">Note: The following FAQs are applicable to VTL travellers entering Singapore from 2 December 2021, 2359hrs (Singapore time). Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo post-arrival Day 3 and Day 7 ARTs.</span></i>
+
+#### 1. Why do travellers need to undergo Day 3 and Day 7 ARTs?
+
+To better detect and contain the Omicron variant as scientists around the world study its characteristics, we are enhancing our testing protocols and procedures for travellers arriving in Singapore after 2 December 2021, 2359 hours (Singapore time). These enhanced measures will apply for four weeks in the first instance, and will be reviewed and extended if necessary.
+
+#### 2. On which days do travellers need to undergo Day 3 and Day 7 ARTs?
+
+
+
 
 <div id="AdditionalReq"></div> 
 
