@@ -31,7 +31,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	<li style="line-height:1.35;"><a href="#countries">VTL (Air) Countries/Regions</a></li>
 	<li style="line-height:1.35;"><a href="#Eligibility">Eligibility</a></li>
 	<li style="line-height:1.35;"><a href="#Application">Application for Travel under the VTL (Air)</a></li>
-	<li style="line-height:1.35;"><a href="#Documents">Essential Documents for Your Journey</a></li>
+	<li style="line-height:1.35;"><a href="#Documents">COVID-19 Tests and Documents Required</a></li>
 	<li style="line-height:1.35;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
@@ -286,11 +286,11 @@ input:checked + label + .content {
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any <a href="#countries"> VTL (Air) countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 14 consecutive days before departure for Singapore.
 		</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL (Air) flight (list available in the in the <a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller’s Checklist</a>). Travellers should note that <b>not all flights departing from the VTL (Air) countries/regions are designated.</b> They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL (Air) flight (list available in the in the <a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller’s Checklist</a>). Travellers should note that <b><u>not all flights departing from the VTL (Air) countries/regions are designated.</u></b> They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
 	</ol>
 </div>
 
-<input id="title4" type="checkbox">
+<!--<input id="title4" type="checkbox">
 <label for="title4">Criterion 4 [Foreign short- term visitors only]: COVID-19 Travel Insurance</label>
 
 <div style="background-color:#edf4fa;" class="content">
@@ -302,7 +302,7 @@ input:checked + label + .content {
 
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.3; font-size:18px;">Foreign short term visitors holding travel documents that require a visa to enter Singapore, must apply for a visa. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a target="_blank" href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for more details.</p>
-</div>
+</div>-->
 	</body>
 </html>
 
@@ -377,7 +377,7 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.3; font-size:18px;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. <span style="color:red; font-size:18px;">However, <b>SC/PRs must also comply with all the requirements stated in the</b></span> <b><a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
 	
-<p style="line-height:1.3; font-size:18px;">SC/PRs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore. <b>Please note that the physical arrival card ("white card") is no longer accepted</b>.</p>
+<p style="line-height:1.3; font-size:18px;">SC/PRs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore.</p>
 	
 <p style="line-height:1.3; font-size:18px;">SC/PR travellers will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a target="_blank" href="/vtl/faq#verify">here</a>. Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
 </div>
@@ -427,9 +427,20 @@ input:checked + label + .content {
 
 <div id="Documents"></div>
 
-### 4. Essential Documents for Your Journey
+### 4. COVID-19 Tests and Documents Required
 
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.35;">Travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. Please refer to the detailed requirements in the <a target="_blank" href="/vtl/travel-checklist">travel checklist</a>.</p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.35;">Travellers who are eligible for VTL (Air), and have obtained their Vaccinated Travel Pass if needed, should refer to this <a target="_blank" href="/vtl/travel-checklist">VTL (Air) traveller checklist</a> for the full list of requirements to complete VTL (Air) travel. This includes:
+<ol style="margin-top:0px; list-style-type: disc;">
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;"><b>[Foreign short-term visitors only]</b> COVID-19 Travel Insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><b>[Foreign short-term visitors only]</b> Travel Visa for Visa-required Passport Holders  </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 test upon arriving in Singapore</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Filling up the SG Arrival Card up to 72 hours before arrival in Singapore to avoid delays at the checkpoint</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><b>[For travellers arriving from 2 Dec 2021, 2359h SGT]</b> Regular COVID-19 tests on Day 3 and 7 of arrival</li>
+	</ol> 
+</p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">Travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. The table below summarises the key documents travellers have to bring along</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
