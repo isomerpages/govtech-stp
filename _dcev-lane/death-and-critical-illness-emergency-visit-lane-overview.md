@@ -36,7 +36,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>How to Apply</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Submit a request via this <a href="https://safetravel.ica.gov.sg/contact-us">form</a>.
-Aside from selecting “<i>Appeal for entry into Singapore under Compassionate Reasons</i>” in the form, travellers must also submit the following:
+Aside from selecting “<i>Death and Critical Illness Emergency Visit Lane</i>” under S/N 2 in the form, travellers must also submit the following:
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Death certificate or any other documents as proof of death of the immediate family member (for death cases) or Doctor’s letter to support critically ill cases (for critically ill cases);
 </li>
