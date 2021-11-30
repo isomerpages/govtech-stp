@@ -1092,7 +1092,7 @@ No, travellers must only go to the <a href="https://go.gov.sg/QTC-ART-testing" t
 
 #### 6. How do travellers book their appointments for their Day 3 and Day 7 ARTs?
 
-Travellers with a Singapore mobile number should <a href="https://swab.hpb.gov.sg/appointment/login?key=%7b%22iv%22%3a%22696C74644A506D33616C677035645732%22%2c%22content%22%3a%22B3EE30C0FBBB60EF0C3E1C67AF38EA91%22%7d" target="_blank">book an appointment</a> at any of the Quick Test Centres for self-paid ARTs. Those who do not have a local mobile number must still go for their test at any of the Quick Test Centres. They will need to register in-person and can expect additional waiting time.
+Travellers with a Singapore mobile number should book an appointment at any of the Quick Test Centres for self-paid ARTs. Those who do not have a local mobile number must still go for their test at any of the Quick Test Centres. They will need to register in-person and can expect additional waiting time.
 
 #### 7. Are children required to undergo Day 3 and Day 7 ARTs?
 
