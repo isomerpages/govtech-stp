@@ -19,44 +19,16 @@ This step-by-step checklist is for all VTL (Air) travellers entering Singapore, 
 
 *“Short-term visitors” mentioned in this page refers to travellers who are not SC/PR or hold any Singapore-issued Long-Term Pass (e.g. Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration & Checkpoints Authority).*
 
-Travellers can check the box **(&#9744;)** for completed activities.
+Travellers can check the box (☐) for completed activities. There are 5 stages for the checklist activities:
+<ol style="list-style-type:disc; padding-left:25px;">
+	<li style="line-height:1.5;"><a href="#stage1">Stage 1: Pre-Departure for Singapore</a></li>	
+	<li style="line-height:1.5;"><a href="#stage2">Stage 2: Departure for Singapore</a></li>	
+	<li style="line-height:1.5;"><a href="#stage3">Stage 3: Arrival in Singapore</a></li>	
+	<li style="line-height:1.5;"><a href="#stage4">Stage 4: Self-Isolation</a></li>	
+	<li style="line-height:1.5;"><a href="#stage5">Stage 5: Stay in Singapore</a></li>	
+</ol>
 
-<table>
-<tbody>
-	<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#E8E8E8; line-height:1.4;"><b>Stage 1: Pre-Departure for Singapore</b></td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#E8E8E8; line-height:1.4;"><b>Stage 2: Departure for Singapore</b></td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#E8E8E8; line-height:1.4;"><b>Stage 4: Self-isolation</b></td>
-		</tr>
-	<tr>
-	<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">&#9744; Obtain an accepted proof of vaccination<br>
-&#9744; Apply for Vaccinated Travel Pass (VTP) (Air) [STVs and LTPHs only]<br>
-&#9744; Apply for Visa [STVs only, if applicable]<br>
-&#9744; Secure Tickets for a Designated VTL Flight<br>
-&#9744; Purchase COVID-19 Insurance [STVs only]<br>
-&#9744; Secure Self-Isolation Accommodation<br>
-&#9744; Undergo Pre-Departure COVID-19 PCR/ART Test<br>
-&#9744; Submit Health Declaration<br>
-&#9744; Register and Pre-pay for On-Arrival COVID-19 PCR Test<br>
-&#9744; Secure Contact Tracing App/Token<br></td>
-			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">&#9744; Present Documents for Pre-Boarding Checks</td>
-			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">&#9744; Self-Isolate Pending OAT-PCR Results<br>
-&#9744; Exit from Self-Isolation</td>
-	</tr>
-	<tr>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;background-color:#E8E8E8;  line-height:1.4;"><b>Stage 3: Arrival in Singapore</b></td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;background-color:#E8E8E8;  line-height:1.4;"><b>Stage 5: Stay in Singapore</b></td>
-	</tr>
-	<tr>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">&#9744; Clear Arrival Immigration<br>
-&#9744; Undergo On-Arrival COVID-19 PCR Test<br>
-&#9744; Travel to Declared Self-Isolation Accommodation<br></td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.4;">&#9744; Adhere to COVID-19 Safe Management Measures, Prepare Proof of Vaccination<br>
-&#9744; Undergo Post-Arrival Day 3 and 7 ART Tests<br>
-&#9744; Return TraceTogether Tokens [If applicable]<br></td>
-	</tr>
-	</tbody>
-	</table>
+<div id="stage1"></div>
 
 ### Stage 1: Pre-Departure for Singapore
 
@@ -72,7 +44,7 @@ You should have at least one of the following acceptable proofs of vaccination, 
 			<ol style="margin-top:0px; list-style-type: lower-alpha;">
 				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Vaccination status on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a>;</li>
 				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">	Vaccination certificate(s) issued by the Singapore Ministry of Health; or</li>
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">For Long-Term Pass Holders or Short-Term Visitors with records in Singapore’s National Immunisation Registry, a successful pinging of their records on the Vaccinated Travel Pass (Air) application portal.</li>
+				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">For Long-Term Pass Holders or Short-Term Visitors with records in Singapore’s National Immunisation Registry, a successful verification of their records on the Vaccinated Travel Pass (Air) application portal.</li>
 			</ol>		
 		</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Australia:</b> <a target="_blank" href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof">International COVID-19 Vaccination Certificate</a> (QR code in <a target="_blank" href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a target="_blank" href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a></li>
@@ -329,6 +301,8 @@ All short-term VTL (Air) travellers **must** download the <a href="https://www.t
 
 Travellers aged 7 to 12 in this calendar year [i.e. those born from 2009 to 2014 (inclusive)] and those who are unable to use a mobile device due to a certified disability or special need, are eligible to be issued physical TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport upon arrival in Singapore.
 
+<div id="stage2"></div>
+
 ### Stage 2: Departure for Singapore
 
 <div id="documents"></div>
@@ -347,6 +321,8 @@ When checking in at the departure airport, travellers must present to the airlin
 Singapore Citizens and Permanent Residents need only present (ii) and (iv) above. Travellers who do not fulfil the above may be denied boarding.
 
 Long-Term Pass holders need only present (i), (ii) and (iv) above. Travellers who do not fulfil the above may be denied boarding.
+
+<div id="stage3"></div>
 
 ### Stage 3: Arrival in Singapore
 
@@ -368,6 +344,7 @@ Travellers must commute directly to their declared self-isolation accommodation 
 
 The use of public transport, e.g. trains or buses, is prohibited.
 
+<div id="stage4"></div>
 
 ### Stage 4: Self-Isolation
 
@@ -381,6 +358,8 @@ Travellers can only leave their self-isolation accommodation **after** a negativ
 
 Travellers who test positive for COVID-19 are required to receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>. The prevailing medical treatment charges will apply.
 
+<div id="stage5"></div>
+
 ### Stage 5: Stay in Singapore
 
 &#9744;  <i><b>A) Adhere to COVID-19 Safe Management Measures, Prepare Proof of Vaccination</b></i>
@@ -393,14 +372,13 @@ Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_b
 
 <div id="postarrivaltests"></div>
 
-&#9744;  <i><b>B) Post-Arrival Day 3 and Day 7 COVID-19 Antigen Rapid Test (ART)</b></i>
+&#9744;  <i><b>B) [For Travellers entering from 2 December 2021, 2359hrs SGT] Post-Arrival Day 3 and Day 7 COVID-19 Antigen Rapid Test (ART)</b></i>
 
 Travellers entering Singapore <b>from 2 December 2021, 2359hrs (Singapore time)</b> are required to undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs)</a> by 2130 hours (Singapore time) Day 3 and Day 7 of their arrival in Singapore. Instructions for the dates of tests will be emailed to travellers upon their arrival in Singapore. 
 
 Travellers with a Singapore mobile number should <a href="https://swab.hpb.gov.sg/appointment/login?key=%7b%22iv%22%3a%22696C74644A506D33616C677035645732%22%2c%22content%22%3a%22B3EE30C0FBBB60EF0C3E1C67AF38EA91%22%7d" target="_blank">book an appointment</a> at any of the QTCs for self-paid ARTs. Those who do not have a local mobile number must still go for their test at any of the QTCs. They will need to register in-person and can expect additional waiting time. The test will be self-administered and supervised by an approved COVID-19 test provider. The test will cost $15 (inclusive of GST), with payment to be made at the QTCs through cashless modes such as Mastercard, NETS, PayNow and Visa. 
-Children aged 2 and below in this calendar year are not required to undergo Day 3 and Day 7 ARTs. Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
-The day that the traveller clears arrival immigration for entry into Singapore is counted as Day 1. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 3 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 ARTs on 5 December 2021 (i.e. Day 3) and 9 December 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 4 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 ARTs on 6 December 2021 (i.e. Day 3) and 10 December 2021 (i.e. Day 7).
+Children aged 2 and below in this calendar year are not required to undergo Day 3 and Day 7 ARTs. Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so.
 
 If their time of departure from Singapore is:
 - <b>before 2130 hours on the day of test</b>, they are exempted from taking their scheduled ART.
@@ -408,9 +386,7 @@ If their time of departure from Singapore is:
 
 The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
 
-Failure to undergo the required COVID-19 tests may constitute an offence under the Infectious Diseases Act, and may render the VTP holder liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the VTP holder may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
-
-A VTP holder who fails to undergo the required COVID-19 tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
+<div id="stage6"></div>
 
 ### Stage 6: Departure from Singapore
 
