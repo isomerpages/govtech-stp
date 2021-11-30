@@ -8,11 +8,9 @@ description: ""
 ### VTL Land Travel Checklist 
 
 <p style="font-size:18px; line-height:1.35;"><span style="font-size:25px; color:green;"><b>&#10003;</b></span>&nbsp; For all travellers including Singapore Citizens, Permanent Residents and holders of a Singapore-issued Long-Term Pass entering Singapore via the Causeway taking designated buses for the VTL (Land).</p>
-
-<p style="font-size:18px; line-height:1.35;"><span style="font-size:25px;  color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore by plane &#9992;. Fully vaccinated travellers who intend to fly from Malaysia to Singapore should check the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> for more details. </p>
-<p style="font-size:18px; line-height:1.35;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers leaving Singapore. Travellers who intend to leave Singapore using the VTL (Land) should visit the "<a href="/vtl-land/outbound-travel">Vaccinated Travel Lane (Land) for Travel to Malaysia</a>" page for more details.</p>
-
-<p  style="font-size:18px; line-height:1.35;"><span style="color:black; font-size:25px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>
+<p style="font-size:18px; margin-top:10px; line-height:1.35;"><span style="font-size:25px;  color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore by plane &#9992;. Fully vaccinated travellers who intend to fly from Malaysia to Singapore should check the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> for more details. </p>
+<p style="font-size:18px; margin-top:10px;  line-height:1.35;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers leaving Singapore. Travellers who intend to leave Singapore using the VTL (Land) should visit the "<a href="/vtl-land/outbound-travel">Vaccinated Travel Lane (Land) for Travel to Malaysia</a>" page for more details.</p>
+<p  style="font-size:18px; margin-top:10px;  line-height:1.35;"><span style="color:black; font-size:25px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
