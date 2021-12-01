@@ -1141,6 +1141,7 @@ No, travellers are required to undergo COVID-19 ARTs at a <a href="https://go.go
 
 Failure to do so may constitute an offence under the Infectious Diseases Act (IDA).A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
 
+
 #### 14. Should travellers perform their Day 3 and Day 7 ARTs if they are unwell?
 
 Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH)</a> clinic. They should not go for their scheduled ART test if they are unwell, but should remain contactable via their declared mobile number and email address.
