@@ -389,11 +389,11 @@ The employee is permitted to leave Singapore. However, employers should note tha
 
 #### 1. Do I need to arrange for the end-of-SHN COVID-19 test for my employees? If not, how do I inform my employees of the date and time of their PCR test appointment?
 
-Employers do not have to arrange for the COVID-19 test for their employees as these are automatically scheduled by the relevant authorities. Travellers will be scheduled for a PCR test on the 7th day before they exit their SHN.
+Employers do not have to arrange for the COVID-19 test for their employees as these are automatically scheduled by the relevant authorities. Travellers will be scheduled for a PCR test before they exit their SHN.
 
 While employers do not need to arrange for the tests, they are obligated to inform their employees of the details of their PCR test appointment, e.g. test date and time and location. These details will be sent to the employer as an SMS or email. In general, travellers will be required to take the PCR test toward the end of their [Stay Home Notice](/health/shn).
 
-Employers or employees that do not have the details of the COVID-19 test appointment date, time and designated test site <u>by the 4th day </u> of the SHN period should write in using [SafeTravel Enquiry Form](https://go.gov.sg/sto-enquiry). Please include the employee’s name and FIN (for work pass holder) or NRIC (for Singapore PR), and employer’s mobile number for our follow up.
+Employers or employees that do not have the details of the COVID-19 test appointment date, time and designated test site <u>by the 5th day </u> of the SHN period should write in using [SafeTravel Enquiry Form](https://go.gov.sg/sto-enquiry). Please include the employee’s name and FIN (for work pass holder) or NRIC (for Singapore PR), and employer’s mobile number for our follow up.
 
 #### 2. My employee did not turn up for his/her end-of-SHN COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
