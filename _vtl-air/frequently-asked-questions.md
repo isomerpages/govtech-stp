@@ -1139,7 +1139,7 @@ Failure to do so may constitute an offence under the Infectious Diseases Act (ID
 
 No, travellers are required to undergo COVID-19 ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> by 2130 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. 
 
-Failure to do so may constitute an offence under the Infectious Diseases Act (IDA).A traveller who fails to undergo the required COVID-19 PCR tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
+Failure to do so may constitute an offence under the Infectious Diseases Act (IDA).A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
 
 #### 14. Should travellers perform their Day 3 and Day 7 ARTs if they are unwell?
 
@@ -1149,15 +1149,15 @@ Travellers who are feeling unwell, with symptoms such as fever, cough, or sore t
 
 If their time of departure from Singapore is:
 - before 2130 hours on the day of test, they are exempted from taking their scheduled ART.
-- on or after 2130 hours on the day of test, they are still required to take their scheduled ART.
+- on or after 2130 hours on the day of test, they are still required to take their scheduled ART. They do not need to wait for the test results to be released before departing Singapore.
 
 The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
 
 #### 16. What are the penalties if travellers miss their scheduled Day 3 or Day 7 ARTs?
 
-Failure to undergo the required COVID-19 PCR tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
+Failure to undergo the required COVID-19 tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
 
-A traveller who fails to undergo the required COVID-19 PCR tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
+A traveller who fails to undergo the required COVID-19 tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
 
 Further, the traveller’s VTP, and/or Visit Pass or Long-Term Pass, may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
