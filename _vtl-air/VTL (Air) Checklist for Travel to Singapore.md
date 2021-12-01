@@ -376,17 +376,20 @@ Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_b
 
 &#9744;  <i><b>B) [For Travellers entering from 2 December 2021, 2359hrs SGT] Post-Arrival Day 3 and Day 7 COVID-19 Antigen Rapid Test (ART)</b></i>
 
-Travellers entering Singapore <b>from 2 December 2021, 2359hrs (Singapore time)</b> are required to undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs)</a> by 2130 hours (Singapore time) Day 3 and Day 7 of their arrival in Singapore. Instructions for the dates of tests will be emailed to travellers upon their arrival in Singapore. 
+Travellers entering Singapore <b>from 2 December 2021, 2359hrs (Singapore time)</b> are required to undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) / Combined Test Centres (CTCs)</a> by 2130 hours (Singapore time) Day 3 and Day 7 of their arrival in Singapore. Instructions for the dates of tests and appointment booking will be emailed to travellers upon their arrival in Singapore. 
 
-Travellers with a Singapore mobile number should book an appointment at any of the QTCs for self-paid ARTs. Those who do not have a local mobile number must still go for their test at any of the QTCs. They will need to register in-person and can expect additional waiting time. The test will be self-administered and supervised by an approved COVID-19 test provider. The test will cost $15 (inclusive of GST), with payment to be made at the QTCs through cashless modes such as Mastercard, NETS, PayNow and Visa. 
+The test will be self-administered and supervised by an approved COVID-19 test provider. The test will cost S$15 (inclusive of GST), with payment to be made at the QTCs/CTCs through cashless modes such as Mastercard, NETS, PayNow and Visa. <b><u>Cash will not be accepted</u></b>.
 
 Children aged 2 and below in this calendar year are not required to undergo Day 3 and Day 7 ARTs. Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so.
 
 If their time of departure from Singapore is:
 - <b>before 2130 hours on the day of test</b>, they are exempted from taking their scheduled ART.
-- <b>on or after 2130 hours on the day of test</b>, they are still required to take their scheduled ART.
+- <b>on or after 2130 hours on the day of test</b>, they are still required to take their scheduled ART. They do not need to wait for the test results to be released before departing Singapore.
 
 The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
+
+Please refer to our <a href="/vtl/faq#postarrivaltests" target="_blank">FAQs here</a> for more information.
+
 
 <div id="stage6"></div>
 

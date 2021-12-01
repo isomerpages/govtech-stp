@@ -97,7 +97,7 @@ All travellers are prohibited from taking public transport, e.g. public bus/trai
 
 <b><u>(i) If you are using your own transport</u></b>
 
-Travellers may be picked up from the airport by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller, and the traveller must be ferried directly to their declared place of accommodation.
+Travellers may be picked up from the checkpoint by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller, and the traveller must be ferried directly to their declared place of accommodation.
 
 If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.
 
@@ -170,8 +170,9 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
 - A COVID-19 Antigen Rapid Test ("ART Test") or Polymerase Chain Reaction Test (“PCR Test”) taken within 2 days before departure<b> at a <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>;
+- An on-arrival PCR test at the checkpoint;
 - Serving 7-day Stay-Home Notice (SHN) at a declared SHN accommodation; and
-- Exit PCR test on Day 7 of SHN. 
+- An exit PCR test
 
 Click <a href="/sc-pr/overview">here</a> for more information on the prevailing measures for Singapore Citizens and PRs.
 
@@ -257,7 +258,15 @@ Travellers will be turned away at Singapore's checkpoint if:
 
 In general, as a [condition](/malaysia/pca/terms-and-conditions) for entry into Singapore, all PCA travellers must adhere to the health control measures imposed on the group. This includes the taking of a COVID-19 test at the end of their [Stay Home Notice (SHN)](/health/shn). 
 
+#### 9. How much does it cost to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) on arrival? To whom and how should the payment be made?
+
+Each COVID-19 PCR test administered at the checkpoint costs S$160. To minimise processing time at the checkpoints, travellers are advised to <a href="https://t.2c2p.com/express/parkwayshentonoat">register and pay for the COVID-19 PCR before arrival</a>.
+
+For the exit from <a href="/health/shn">Stay Home Notice (SHN)</a> COVID-19 <a href="/health/covid19-tests/pcrtest">PCR test</a>, payment would already be collected at the point of application.
+
+
 ##### Click here to go to the [top](#top).
+
 
 <div id="EmployerSponsors"></div>
 
@@ -380,11 +389,11 @@ The employee is permitted to leave Singapore. However, employers should note tha
 
 #### 1. Do I need to arrange for the end-of-SHN COVID-19 test for my employees? If not, how do I inform my employees of the date and time of their PCR test appointment?
 
-Employers do not have to arrange for the COVID-19 test for their employees as these are automatically scheduled by the relevant authorities. Travellers will be scheduled for a PCR test on the 7th day before they exit their SHN.
+Employers do not have to arrange for the COVID-19 test for their employees as these are automatically scheduled by the relevant authorities. Travellers will be scheduled for a PCR test before they exit their SHN.
 
 While employers do not need to arrange for the tests, they are obligated to inform their employees of the details of their PCR test appointment, e.g. test date and time and location. These details will be sent to the employer as an SMS or email. In general, travellers will be required to take the PCR test toward the end of their [Stay Home Notice](/health/shn).
 
-Employers or employees that do not have the details of the COVID-19 test appointment date, time and designated test site <u>by the 4th day </u> of the SHN period should write in using [SafeTravel Enquiry Form](https://go.gov.sg/sto-enquiry). Please include the employee’s name and FIN (for work pass holder) or NRIC (for Singapore PR), and employer’s mobile number for our follow up.
+Employers or employees that do not have the details of the COVID-19 test appointment date, time and designated test site <u>by the 5th day </u> of the SHN period should write in using [SafeTravel Enquiry Form](https://go.gov.sg/sto-enquiry). Please include the employee’s name and FIN (for work pass holder) or NRIC (for Singapore PR), and employer’s mobile number for our follow up.
 
 #### 2. My employee did not turn up for his/her end-of-SHN COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
 

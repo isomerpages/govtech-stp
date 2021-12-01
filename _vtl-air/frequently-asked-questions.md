@@ -1068,11 +1068,11 @@ Please also note that if a traveller’s test result is confirmed to be positive
 
 #### 1. Why do travellers need to undergo Day 3 and Day 7 ARTs?
 
-To better detect and contain the Omicron variant as scientists around the world study its characteristics, we are enhancing our testing protocols and procedures for travellers arriving in Singapore after 2 December 2021, 2359 hours (Singapore time). These enhanced measures will apply for four weeks in the first instance, and will be reviewed and extended if necessary.
+To step up detection and containment of the Omicron variant until more information is available, we are enhancing our testing protocols and procedures for travellers arriving in Singapore after <b>2 December 2021, 2359 hours (Singapore time)</b>. These enhanced measures will apply for four weeks in the first instance, and will be reviewed and extended if necessary.
 
 #### 2. On which days do travellers need to undergo Day 3 and Day 7 ARTs?
 
-Travellers must undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs)</a> by 2130 hours (Singapore time) Day 3 and Day 7 of their arrival in Singapore.
+Travellers must undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> by 2130 hours (Singapore time) Day 3 and Day 7 of their arrival in Singapore.
 
 The day that the traveller clears arrival immigration for entry into Singapore is counted as Day 1. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 3 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 ARTs on 5 December 2021 (i.e. Day 3) and 9 December 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 4 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 ARTs on 6 December 2021 (i.e. Day 3) and 10 December 2021 (i.e. Day 7).
 
@@ -1080,59 +1080,85 @@ The day that the traveller clears arrival immigration for entry into Singapore i
 
 The cost of each ART is S$15 (inclusive of Goods and Services Tax). Travellers will bear the cost of the tests.
 
-Payment is to be made at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs)</a> through cashless modes such as Mastercard, NETS, PayNow and Visa. Cash will not be accepted.
+Payment is to be made at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> through cashless modes such as Mastercard, NETS, PayNow and Visa. Cash will not be accepted.
 
-#### 4. What are the test centres that travellers can go to for their Day 3 and Day 7 ARTs?
+#### 4. Can travellers bring their own ART self-test kits to the test centres?
 
-They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs)</a>. They are required to undergo their COVID-19 ART by 2130 hours (Singapore time) on Day 3 and Day 7.
+No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
 
-#### 5. Can a traveller go to a clinic for their Day 3 and Day 7 ARTs instead of the Quick Test Centres?
 
-No, travellers must only go to the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs)</a>. Otherwise, the traveller’s attendance will not be tracked, and test results will not be captured.
+#### 5. What are the test centres that travellers can go to for their Day 3 and Day 7 ARTs?
 
-#### 6. How do travellers book their appointments for their Day 3 and Day 7 ARTs?
+They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. They are required to undergo their COVID-19 ART by 2130 hours (Singapore time) on Day 3 and Day 7.
 
-Travellers with a Singapore mobile number should book an appointment at any of the Quick Test Centres for self-paid ARTs. Those who do not have a local mobile number must still go for their test at any of the Quick Test Centres. They will need to register in-person and can expect additional waiting time.
+#### 6. Can a traveller go to a clinic for their Day 3 and Day 7 ARTs instead of the Quick Test Centres or Combined Test Centres?
 
-#### 7. Are children required to undergo Day 3 and Day 7 ARTs?
+No, travellers must only go to the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. Otherwise, the traveller’s attendance will not be tracked, and test results will not be captured.
+
+
+#### 7. How do travellers book their appointments for their Day 3 and Day 7 ARTs?
+
+Travellers will be provided with a weblink to book their ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC). 
+
+They should schedule an appointment once they have received the instructions from the Safe Travel Office (STO), and take the ARTs at the QTC or CTC on the appropriate dates. They can only book an appointment for their second test (Day 7) <u>after</u> they have attended their first test (Day 3).
+
+
+#### 8. Are children required to undergo Day 3 and Day 7 ARTs?
 
 Children aged 2 and below in this calendar year are not required to undergo Day 3 and Day 7 ARTs. Children aged 3 to 12 must undergo their Day 3 and Day 7 ARTs at the Quick Test Centres and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
-#### 8. Do travellers need to self-isolate after their Day 3 and Day 7 ART?
+#### 9. Do travellers need to self-isolate after their Day 3 and Day 7 ART?
 
 No, travellers are not required to self-isolate after their Day 3 and Day 7 ARTs. Self-isolation is only required pending the results of the on-arrival COVID-19 PCR test at the airport.
 
-#### 9. How soon will the results of the Day 3 and Day 7 ARTs be out?
+However, if tested positive for their ART, travellers must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate immediately. They must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 2130 hours on the day after testing ART positive. If they were planning to depart from Singapore, they should defer their travel plans, attend their confirmatory PCR test, and await their PCR test results.
 
-Travellers can expect to receive their results via their registered mobile number within 1 hour of their test. They are not required to wait for their test results at the Quick Test Centres and may leave immediately after their ART.
 
-#### 10. What should travellers do if they test positive for COVID-19 on their ART?
+#### 10. How soon will the results of the Day 3 and Day 7 ARTs be out?
 
-If tested positive for their ART, travellers will need to go for a confirmatory Polymerase Chain Reaction (PCR) test as soon as possible. The PCR test will be funded by the Ministry of Health (MOH) and can be done at one of the Combined Testing Centres (CTCs).
+Travellers with a registered local mobile number can expect to receive their results via SMS within 2 hours. Those without a local mobile number can expect to receive their results via email within 12 hours. 
 
-#### 11. Are travellers allowed to reschedule their Day 3 and Day 7 ARTs to other days?
+Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
 
-No, travellers are required to undergo COVID-19 ARTs at a Quick Test Centre by 2130 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. Failure to do so may constitute an offence under the Infectious Diseases Act (IDA).
 
-A traveller who fails to undergo the required COVID-19 PCR tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
+#### 11. What should travellers do if they have an invalid ART result?
+	
+Travellers with an invalid ART result will be required to return for a retest. This will be provided free-of-charge.
 
-#### 12. Should travellers perform their Day 3 and Day 7 ARTs if they are unwell?
+
+#### 12. What should travellers do if they test positive for COVID-19 on their ART?
+
+If tested positive for their ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number). 
+
+They must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 2130 hours on the day after testing ART positive. Prior to their appointment, travellers must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate immediately. If they were planning to depart from Singapore, they should defer their travel plans, attend their confirmatory PCR test, and await their PCR test results.
+
+Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
+
+
+#### 13. Are travellers allowed to reschedule their Day 3 and Day 7 ARTs to other days?
+
+No, travellers are required to undergo COVID-19 ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> by 2130 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. 
+
+Failure to do so may constitute an offence under the Infectious Diseases Act (IDA).A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
+
+
+#### 14. Should travellers perform their Day 3 and Day 7 ARTs if they are unwell?
 
 Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH)</a> clinic. They should not go for their scheduled ART test if they are unwell, but should remain contactable via their declared mobile number and email address.
 
-#### 13. What if travellers intend to leave Singapore prior to Day 3 or Day 7?
+#### 15. What if travellers intend to leave Singapore prior to Day 3 or Day 7?
 
 If their time of departure from Singapore is:
 - before 2130 hours on the day of test, they are exempted from taking their scheduled ART.
-- on or after 2130 hours on the day of test, they are still required to take their scheduled ART.
+- on or after 2130 hours on the day of test, they are still required to take their scheduled ART. They do not need to wait for the test results to be released before departing Singapore.
 
 The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
 
-#### 14. What are the penalties if travellers miss their scheduled Day 3 or Day 7 ARTs?
+#### 16. What are the penalties if travellers miss their scheduled Day 3 or Day 7 ARTs?
 
-Failure to undergo the required COVID-19 PCR tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
+Failure to undergo the required COVID-19 tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
 
-A traveller who fails to undergo the required COVID-19 PCR tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
+A traveller who fails to undergo the required COVID-19 tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
 
 Further, the traveller’s VTP, and/or Visit Pass or Long-Term Pass, may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
