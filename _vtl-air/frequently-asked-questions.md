@@ -1135,17 +1135,17 @@ They must book an appointment for a confirmatory PCR test at a <a href="https://
 Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
 
 
-#### 12. Are travellers allowed to reschedule their Day 3 and Day 7 ARTs to other days?
+#### 13. Are travellers allowed to reschedule their Day 3 and Day 7 ARTs to other days?
 
 No, travellers are required to undergo COVID-19 ARTs at a Quick Test Centre by 2130 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. Failure to do so may constitute an offence under the Infectious Diseases Act (IDA).
 
 A traveller who fails to undergo the required COVID-19 PCR tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
 
-#### 13. Should travellers perform their Day 3 and Day 7 ARTs if they are unwell?
+#### 14. Should travellers perform their Day 3 and Day 7 ARTs if they are unwell?
 
 Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH)</a> clinic. They should not go for their scheduled ART test if they are unwell, but should remain contactable via their declared mobile number and email address.
 
-#### 14. What if travellers intend to leave Singapore prior to Day 3 or Day 7?
+#### 15. What if travellers intend to leave Singapore prior to Day 3 or Day 7?
 
 If their time of departure from Singapore is:
 - before 2130 hours on the day of test, they are exempted from taking their scheduled ART.
@@ -1153,7 +1153,7 @@ If their time of departure from Singapore is:
 
 The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
 
-#### 15. What are the penalties if travellers miss their scheduled Day 3 or Day 7 ARTs?
+#### 16. What are the penalties if travellers miss their scheduled Day 3 or Day 7 ARTs?
 
 Failure to undergo the required COVID-19 PCR tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
 
