@@ -73,7 +73,8 @@ description: ""
 #### ADDITIONAL CONDITIONS FOR MALAYSIA WORK PASS HOLDERS APPROVED FOR PCA
 
 <ol>
-  <li style="line-height:1.5;">Pursuant to section 7(4A) of the Employment of Foreign Manpower Act (Cap. 91A), these additional conditions are imposed on a Malaysia employee approved for Periodic Commuting Arrangement (“PCA”), after the foreign employee arrives in Singapore</li>
+	<li style="line-height:1.5;">Pursuant to section 7(4A) of the Employment of Foreign Manpower Act (Cap. 91A), these additional conditions are imposed on a Malaysia employee approved for Periodic Commuting Arrangement (“PCA”), after the foreign employee arrives in Singapore</li>
+  <li style="line-height:1.5;">The foreign employee shall undergo an On-Arrival Testing (“OAT”) at the land checkpoints. Either the Employer or the foreign employee shall bear the cost of the OAT test. Please register and make payment for the COVID-19 PCR test taken on-arrival at the checkpoint at <a href="https://t.2c2p.com/express/parkwayshentonoat">https://t.2c2p.com/express/parkwayshentonoat</a></li>
    <li style="line-height:1.5;">The foreign employee shall comply with the Stay-Home Notice period (“SHN period”) which will commence with immediate effect from the time it is issued to the foreign employee on arrival (day1) and will be effective on that day until:
      <ol style="list-style-type:lower-alpha;">
       <li style="line-height:1.5;">at least 7 days subsequent thereafter; and</li>
