@@ -1105,7 +1105,7 @@ They should schedule an appointment once they have received the instructions fro
 
 #### 8. Are children required to undergo Day 3 and Day 7 ARTs?
 
-Children aged 2 and below in this calendar year are not required to undergo Day 3 and Day 7 ARTs. Children aged 3 to 12 must undergo their Day 3 and Day 7 ARTs at the Quick Test Centres and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
+Children aged 2 and below in this calendar year are not required to undergo Day 3 and Day 7 ARTs. Children aged 3 to 12 must undergo their Day 3 and Day 7 ARTs at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
 #### 9. Do travellers need to self-isolate after their Day 3 and Day 7 ART?
 
