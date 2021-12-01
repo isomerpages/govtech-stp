@@ -388,7 +388,7 @@ If their time of departure from Singapore is:
 
 The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
 
-Please refer to our <a href="/vtl/faq#postarrivaltests">FAQs here</a> for more information.
+Please refer to our <a href="/vtl/faq#postarrivaltests" target="_blank">FAQs here</a> for more information.
 
 
 <div id="stage6"></div>
