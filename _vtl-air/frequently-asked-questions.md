@@ -1139,7 +1139,7 @@ Failure to do so may constitute an offence under the Infectious Diseases Act (ID
 
 No, travellers are required to undergo COVID-19 ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> by 2130 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. 
 
-Failure to do so may constitute an offence under the Infectious Diseases Act (IDA).A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
+Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
 
 
 #### 14. Should travellers perform their Day 3 and Day 7 ARTs if they are unwell?
