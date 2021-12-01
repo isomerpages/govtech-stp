@@ -1116,11 +1116,24 @@ However, if tested positive for their ART, travellers must follow <a href="https
 
 #### 10. How soon will the results of the Day 3 and Day 7 ARTs be out?
 
-Travellers can expect to receive their results via their registered mobile number within 1 hour of their test. They are not required to wait for their test results at the Quick Test Centres and may leave immediately after their ART.
+Travellers with a registered local mobile number can expect to receive their results via SMS within 2 hours. Those without a local mobile number can expect to receive their results via email within 12 hours. 
 
-#### 11. What should travellers do if they test positive for COVID-19 on their ART?
+Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
 
-If tested positive for their ART, travellers will need to go for a confirmatory Polymerase Chain Reaction (PCR) test as soon as possible. The PCR test will be funded by the Ministry of Health (MOH) and can be done at one of the Combined Testing Centres (CTCs).
+
+#### 11. What should travellers do if they have an invalid ART result?
+	
+Travellers with an invalid ART result will be required to return for a retest. This will be provided free-of-charge.
+
+
+#### 12. What should travellers do if they test positive for COVID-19 on their ART?
+
+If tested positive for their ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number). 
+
+They must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 2130 hours on the day after testing ART positive. Prior to their appointment, travellers must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate immediately. If they were planning to depart from Singapore, they should defer their travel plans, attend their confirmatory PCR test, and await their PCR test results.
+
+Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
+
 
 #### 12. Are travellers allowed to reschedule their Day 3 and Day 7 ARTs to other days?
 
