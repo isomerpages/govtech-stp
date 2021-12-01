@@ -384,9 +384,12 @@ Children aged 2 and below in this calendar year are not required to undergo Day 
 
 If their time of departure from Singapore is:
 - <b>before 2130 hours on the day of test</b>, they are exempted from taking their scheduled ART.
-- <b>on or after 2130 hours on the day of test</b>, they are still required to take their scheduled ART.
+- <b>on or after 2130 hours on the day of test</b>, they are still required to take their scheduled ART. They do not need to wait for the test results to be released before departing Singapore.
 
 The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
+
+Please refer to our <a href="/vtl/faq#postarrivaltests">FAQs here</a> for more information.
+
 
 <div id="stage6"></div>
 
