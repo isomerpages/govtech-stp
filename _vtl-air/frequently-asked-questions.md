@@ -1097,7 +1097,10 @@ No, travellers must only go to the <a href="https://go.gov.sg/QTC-ART-testing" t
 
 #### 7. How do travellers book their appointments for their Day 3 and Day 7 ARTs?
 
-Travellers with a Singapore mobile number should book an appointment at any of the Quick Test Centres for self-paid ARTs. Those who do not have a local mobile number must still go for their test at any of the Quick Test Centres. They will need to register in-person and can expect additional waiting time.
+Travellers will be provided with a weblink to book their ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC). 
+
+They should schedule an appointment once they have received the instructions from the Safe Travel Office (STO), and take the ARTs at the QTC or CTC on the appropriate dates. They can only book an appointment for their second test (Day 7) after they have attended their first test (Day 3).
+
 
 #### 8. Are children required to undergo Day 3 and Day 7 ARTs?
 
