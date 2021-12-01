@@ -40,6 +40,7 @@ description: ""
 </ol>
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.5;"><i>After the foreign employee arrives in Singapore</i></p>
  <ol>
+	<li style="line-height:1.5;">The Employer shall ensure that the foreign employee undergoes an On-Arrival Testing (“OAT”) at the land checkpoints. Either the Employer or the foreign employee shall bear the cost of the OAT test. Please register and make payment for the COVID-19 PCR test taken on-arrival at the checkpoint at https://t.2c2p.com/express/parkwayshentonoat.</li>
   <li style="line-height:1.5;">If the foreign employee does not drive/ride their personal vehicles into Singapore, the employer must arrange for transportation for the foreign employee to commute directly: 
    <ol style="list-style-type:lower-alpha;">
      <li style="line-height:1.5;">from Malaysia to Singapore’s immigration land checkpoints; and </li>
