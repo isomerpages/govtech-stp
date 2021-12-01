@@ -1080,7 +1080,7 @@ The day that the traveller clears arrival immigration for entry into Singapore i
 
 The cost of each ART is S$15 (inclusive of Goods and Services Tax). Travellers will bear the cost of the tests.
 
-Payment is to be made at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combines Test Centres (CTCs)</a> through cashless modes such as Mastercard, NETS, PayNow and Visa. Cash will not be accepted.
+Payment is to be made at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> through cashless modes such as Mastercard, NETS, PayNow and Visa. Cash will not be accepted.
 
 #### 4. What are the test centres that travellers can go to for their Day 3 and Day 7 ARTs?
 
