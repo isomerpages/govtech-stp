@@ -500,7 +500,7 @@ The test costs $15, including GST. The traveller will make payment directly to t
 
 #### 2. What should travellers do if they test positive for COVID-19?
 
-Travellers who have tested positive will be required to under go <a href="https://www.covid.gov.sg/unwell/overview" target="_blank">Protocol 1</a>, i.e. take a confirmatory PCR at the test centre and self-isolate until they receive confirmation on their PCR test results. Those who are tested positive for the PCR test will be issued a 10-day Isolation ORder and placed on Home Recovery Programme by default, or if the home environment is not suitable, they can recover at the appropriate care facilities.
+Travellers who have tested positive will be required to undergo <a href="https://www.covid.gov.sg/unwell/overview" target="_blank">Protocol 1</a>, i.e. take a confirmatory PCR at the test centre and self-isolate until they receive confirmation on their PCR test results. Those who are tested positive for the PCR test will be issued a 10-day Isolation ORder and placed on Home Recovery Programme by default, or if the home environment is not suitable, they can recover at the appropriate care facilities.
 
 Please also note that if a traveller's test result is confirmed to be positive, all persons who identified to be a close contact should follow <a href="https://www.covid.gov.sg/exposed/hrw" target="_blank">MOH's Protocol 3</a> and may be served with a Health Risk Warning.
 
