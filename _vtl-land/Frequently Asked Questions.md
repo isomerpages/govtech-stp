@@ -485,7 +485,7 @@ Switzerland</td>
 
 The traveller must have remained in (i) Malaysia, (ii) Singapore, (iii) any other country that Singapore has a VTL with; <b>and/or</b> (iv) any Category I country for all 14 days before the day of departure. 
 
-The traveller will be eligible if he remained in multiple countries, so long as they fall under categories (i), (ii) and (iii).
+The traveller will be eligible if he remained in multiple countries, so long as they fall under categories (i), (ii), (iii) or (iv).
 
 Using the example of a traveller whose date of departure to Singapore is on 15 December, if a traveller was in Singapore from 1 to 7 December, followed by Malaysia from 7 to 15 December, he will be eligible to use the VTL (Land) to enter Singapore on 15 December.
 
