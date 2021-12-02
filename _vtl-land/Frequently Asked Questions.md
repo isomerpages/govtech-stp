@@ -54,13 +54,20 @@ Travellers who use the VTL (Land) to enter Singapore can only return to Malaysia
 
 For more details, travellers should consult the <a href="http://www.myvtl.gov.my/" target="_blank">relevant authorities in Malaysia</a>. 
 
-#### 3. I am a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land). Can my spouse, child or family member who is not a Singapore Citien, Singapore Permnanent Resident or holder of a Singapore Long-Term Pass accompany me to enter Singapore under the VTL (Land)?
+#### 3. I am a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land). Can my spouse, child or family member who is not a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass accompany me to enter Singapore under the VTL (Land)?
 
 No. During the initial phase of the VTL (Land), only citizens, permanent residents and long-term pass holders of the country that they are entering are eligible to travel under this arrangement. Given the high demand for cross-border land travel, we are prioritising workers who have been impacted by COVID-19 and separated from their families for many months during the initial phase.
 
 #### 4. If I am a Malaysia Citizen, Malaysia Permanent Resident or holder of a Malaysia Long-Term Pass entering Malaysia using the VTL (Land), can I use the VTL (Land) to return to Singapore?
 
 All travellers are required to meet the eligibility criteria and entry requirements to enter Singapore under the VTL (Land), regardless of whether they used the VTL (Land) to enter Malaysia previously.
+
+#### 5. Must I stay in Singapore for a minimum period after I enter Singapore under the VTL (Land)?
+
+No. For example, if a traveller uses VTL (Land) to enter Singapore on 1 December 2021, the traveller can leave Singapore for another country/region any time on or after 1 December 2021, subject to meeting the other country/region’s entry requirements.
+
+Similarly, there is no requirement to stay in Malaysia for a minimum period after entering Malaysia under the VTL (Land).  
+
 
 <div id="DesignatedBus"></div>
 
