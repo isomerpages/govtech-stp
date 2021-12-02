@@ -54,13 +54,20 @@ Travellers who use the VTL (Land) to enter Singapore can only return to Malaysia
 
 For more details, travellers should consult the <a href="http://www.myvtl.gov.my/" target="_blank">relevant authorities in Malaysia</a>. 
 
-#### 3. I am a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land). Can my spouse, child or family member who is not a Singapore Citien, Singapore Permnanent Resident or holder of a Singapore Long-Term Pass accompany me to enter Singapore under the VTL (Land)?
+#### 3. I am a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land). Can my spouse, child or family member who is not a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass accompany me to enter Singapore under the VTL (Land)?
 
 No. During the initial phase of the VTL (Land), only citizens, permanent residents and long-term pass holders of the country that they are entering are eligible to travel under this arrangement. Given the high demand for cross-border land travel, we are prioritising workers who have been impacted by COVID-19 and separated from their families for many months during the initial phase.
 
 #### 4. If I am a Malaysia Citizen, Malaysia Permanent Resident or holder of a Malaysia Long-Term Pass entering Malaysia using the VTL (Land), can I use the VTL (Land) to return to Singapore?
 
 All travellers are required to meet the eligibility criteria and entry requirements to enter Singapore under the VTL (Land), regardless of whether they used the VTL (Land) to enter Malaysia previously.
+
+#### 5. Must I stay in Singapore for a minimum period after I enter Singapore under the VTL (Land)?
+
+No. For example, if a traveller uses VTL (Land) to enter Singapore on 1 December 2021, the traveller can leave Singapore for another country/region any time on or after 1 December 2021, subject to meeting the other country/region’s entry requirements.
+
+Similarly, there is no requirement to stay in Malaysia for a minimum period after entering Malaysia under the VTL (Land).  
+
 
 <div id="DesignatedBus"></div>
 
@@ -476,9 +483,12 @@ Switzerland</td>
 
 #### 1. How is the 14-day travel history determined?
 
-As an example, if the scheduled day of departure to Singapore is 15 December 2021, the traveller must have remained in (i) Malaysia, (ii) Singapore, and/or (iii) any other country that Singapore has a VTL with for all 14 days before the day of departure (i.e. 1 to 15 December 2021). 
+The traveller must have remained in (i) Malaysia, (ii) Singapore, (iii) any other country that Singapore has a VTL with; <b>and/or</b> (iv) any Category I country for all 14 days before the day of departure. 
 
-The 14-day travel history may include a combination of (i), (ii), and (iii).
+The traveller will be eligible if he remained in multiple countries, so long as they fall under categories (i), (ii), (iii) or (iv).
+
+For example, if a traveller was in a country with which Singapore has a VTL from 1 to 7 December 2021, and entered Malaysia directly from 7 to 15 December (subject to Malaysia's entry requirements), they will be eligible to use the VTL (Land) to enter Singapore on 15 December 2021.
+
 
 ### (iv) On-Arrival Test Requirement
 
@@ -490,7 +500,9 @@ The test costs $15, including GST. The traveller will make payment directly to t
 
 #### 2. What should travellers do if they test positive for COVID-19?
 
-Travellers who have tested positive will be required to under go <a href="https://www.covid.gov.sg/unwell/overview" target="_blank">Protocol 1</a>, i.e. take a confirmatory PCR at the test centre and self-isolate until they receive confirmation on their PCR test results. Those who are tested positive for the PCR test will be issued a 10-day Isolation ORder and placed on Home Recovery Programme by default, or if the home environment is not suitable, they can recover at the appropriate care facilities. 
+Travellers who have tested positive will be required to undergo <a href="https://www.covid.gov.sg/unwell/overview" target="_blank">Protocol 1</a>, i.e. take a confirmatory PCR at the test centre and self-isolate until they receive confirmation on their PCR test results. Those who are tested positive for the PCR test will be issued a 10-day Isolation Order and placed on Home Recovery Programme by default, or if the home environment is not suitable, they can recover at the appropriate care facilities.
+
+Please also note that if a traveller's test result is confirmed to be positive, all persons who identified to be a close contact should follow <a href="https://www.covid.gov.sg/exposed/hrw" target="_blank">MOH's Protocol 3</a> and may be served with a Health Risk Warning.
 
 <div id="contact-tracing"></div>
 

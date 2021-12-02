@@ -76,7 +76,7 @@ This page provides a summary of the four categories of travel health control mea
 			</li>
 		</ul>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.changiairport.com/#/">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”) upon arrival</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 24 hours)</li>
 </ol>
 </td>
@@ -119,7 +119,7 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[New]</b> Take a <a href="https://safetravel.changiairport.com/#/">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”) upon arrival </li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[New]</b> Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 7-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence*;</li>
@@ -164,7 +164,7 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[New]</b> Take a <a href="https://safetravel.changiairport.com/#/">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”) upon arrival </li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[New]</b> Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
@@ -209,7 +209,7 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[New]</b> Take a <a href="https://safetravel.changiairport.com/#/">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”) upon arrival </li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[New]</b> Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn#sdf">SHN Dedicated Facility</a>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
@@ -245,7 +245,7 @@ This page provides a summary of the four categories of travel health control mea
 	<tr>
 <td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ol style="margin-top: 0px; list-style-type:decimal;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.changiairport.com/#/">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”) upon arrival</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 24 hours)</li>
 </ol>
 </td>
