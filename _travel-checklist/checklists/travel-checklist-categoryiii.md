@@ -83,7 +83,7 @@ For visitors granted entry, please note that <b>all foreign visitors arriving in
 
 &#9744;  <i><b>B)[For arrivals from 2 Dec 2021, 2359 hours only] On arrival COVID-19 Tests</b></i>
 
-Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you <a href="#stage1e">did not pay for the test ebfore arrival (per Stage 1E)</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint. 
+Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you <a href="#stage1e">did not pay for the test before arrival (per Stage 1E)</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint. 
 
 &#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i>
 
