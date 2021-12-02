@@ -476,8 +476,11 @@ Switzerland</td>
 
 #### 1. How is the 14-day travel history determined?
 
-As an example, if the scheduled day of departure to Singapore is 15 December 2021, the traveller must have remained in (i) Malaysia, (ii) Singapore, <b>and/or</b> (iii) any other country that Singapore has a VTL with for all 14 days before the day of departure (i.e. 1 to 15 December 2021). 
+As an example, if the scheduled day of departure to Singapore is 15 December 2021, the traveller must have remained in (i) Malaysia, (ii) Singapore, <b>and/or</b> (iii) any other country that Singapore has a VTL with for all 14 days before the day of departure. 
 
+The traveller will be eligible if he remained in multiple countries, so long as they fall under categories (i). (ii) and (iii).
+
+Using the example of a traveller whose date
 The 14-day travel history may include a combination of (i), (ii), and (iii).
 
 ### (iv) On-Arrival Test Requirement
