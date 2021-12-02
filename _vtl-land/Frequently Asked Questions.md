@@ -483,7 +483,7 @@ Switzerland</td>
 
 #### 1. How is the 14-day travel history determined?
 
-The traveller must have remained in (i) Malaysia, (ii) Singapore, <b>and/or</b> (iii) any other country that Singapore has a VTL with for all 14 days before the day of departure. 
+The traveller must have remained in (i) Malaysia, (ii) Singapore, (iii) any other country that Singapore has a VTL with; <b>and/or</b> (iv) any Category I country for all 14 days before the day of departure. 
 
 The traveller will be eligible if he remained in multiple countries, so long as they fall under categories (i), (ii) and (iii).
 
