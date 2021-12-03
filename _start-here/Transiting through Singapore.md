@@ -41,7 +41,7 @@ description: Requirements for transiting through Singapore
 </td>
 	</tr>
   	<tr>
-	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Category (IV) countries/regions <br><br> <i>(See <a href="#eligibility">"Eligibility"</a> for Category (IV) countries/regions disallowed for transit)</i>
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Category (IV) countries/regions <br><br> <i>(See <a href="#eligibility">"Eligibility"</a> for countries/regions disallowed for transit)</i>
 </td>
     	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;">COVID-19 Polymerase Chain Reaction Test</td>
 	</tr>
