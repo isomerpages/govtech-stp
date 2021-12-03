@@ -382,7 +382,7 @@ Travellers are required to undergo post-arrival COVID-19 ARTs at <a href="https:
 
 The test will be self-administered and supervised by an approved COVID-19 test provider. The test will cost S$15 (inclusive of GST), with payment to be made at the QTCs/CTCs through cashless modes such as Mastercard, NETS, PayNow and Visa. <b><u>Cash will not be accepted</u></b>. Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so. 
 
-Children aged 2 and below in this calendar year are not required to undergo any of the post-arrival ARTs.If the traveller’s day of departure from Singapore is on the day of the test, they are exempted from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
+Children aged 2 and below in this calendar year are not required to undergo any of the post-arrival ARTs.
 
 If the traveller’s day of departure from Singapore is <b>on the day of the test</b>, they are <u>exempted</u> from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
 
