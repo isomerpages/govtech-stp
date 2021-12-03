@@ -1071,9 +1071,10 @@ Travellers who enter Singapore between 3 December 2021 and 6 December 2021 (incl
 </span></i>
 
 
-#### 1. Why do travellers need to undergo Day 3 and Day 7 ARTs?
+#### 1. Why do travellers need to undergo post-arrival ARTs?
 
-To step up detection and containment of the Omicron variant until more information is available, we are enhancing our testing protocols and procedures for travellers arriving in Singapore after <b>2 December 2021, 2359 hours (Singapore time)</b>. These enhanced measures will apply for four weeks in the first instance, and will be reviewed and extended if necessary.
+To step up detection and containment of the Omicron variant until more information is available, we are enhancing our testing protocols and procedures for travellers.
+
 
 #### 2. On which days do travellers need to undergo Day 3 and Day 7 ARTs?
 
