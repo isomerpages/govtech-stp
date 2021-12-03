@@ -826,9 +826,9 @@ input:checked + label + .content {
 </tr>
 	<tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle;"><b>All Other Countries/Regions</b> <p style="font-size:16px;line-height:1.5; text-align:left;"><b><u>Note</u></b>: Pass Holders with travel/transit history in the past 14 days to any of the countries/regions listed below are not allowed to enter Singapore until further notice. This applies even if pass holders had obtained an entry approval earlier on.</p>
-	<ul>
-		<li>Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe</li>
-		<li><b>(From 4 December 2021, 2359 hours)</b> Ghana, Malawi and Nigeria</li>
+		<ul>
+		<li style="font-size:16px;line-height:1.5;text-align:left;">Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe</li>
+		<li style="font-size:16px;line-height:1.5; text-align:left;"><b>(From 4 December 2021, 2359 hours)</b> Ghana, Malawi and Nigeria</li>
 	</ul>
 		</td>
 </tr>
