@@ -376,7 +376,7 @@ Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_b
 
 <div id="postarrivaltests"></div>
 
-&#9744;  <i><b>B) [For Travellers entering from 2 December 2021, 2359hrs SGT] Post-Arrival Day 3 and Day 7 COVID-19 Antigen Rapid Test (ART)</b></i>
+&#9744;  <i><b>B) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</b></i>
 
 Travellers entering Singapore <b>from 2 December 2021, 2359hrs (Singapore time)</b> are required to undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) / Combined Test Centres (CTCs)</a> by 2130 hours (Singapore time) Day 3 and Day 7 of their arrival in Singapore. Instructions for the dates of tests and appointment booking will be emailed to travellers upon their arrival in Singapore. 
 
