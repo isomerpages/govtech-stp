@@ -33,7 +33,7 @@ Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an
 - Reflects the date and result of the test and;
 - Is not handwritten. 
 
-Travellers with difficulties getting a COVID-19 test ebfore their departure can contact the <a href="https://go.gov.sg/sto-enquiry" target="_blank">Safe Travel Office for assistance</a>. 
+Travellers with difficulties getting a COVID-19 test before their departure can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>. 
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
