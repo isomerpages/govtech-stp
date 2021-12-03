@@ -14,7 +14,7 @@ description: Requirements for transiting through Singapore
 <ol style="margin-top:15px; list-style-type:disc">
 	   <li style="font-size:20px; line-height:1.35;">Botswana, Eswatini, Ghana* Lesotho, Malawi*, Mozambique, Namibia, Nigeria*, South Africa and Zimbabwe.</li>
 							</ol> 
-<p style="font-size:20px; line-height:1.35;">[*with effect from 4 Dec 2021, 2359hrs.]</p>							
+<p style="font-size:20px; line-height:1.35;">[*With effect from 4 Dec 2021, 2359hrs.]</p>							
 
 <div id="PDT"></div>
 
