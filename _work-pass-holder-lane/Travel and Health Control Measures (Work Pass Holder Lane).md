@@ -40,8 +40,8 @@ For all other pass holders (work pass holders and their dependants), this page e
 
 On this page you will find the following:
 <ol style="padding-left:20px; font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-latin;">
-	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#from">from 2 Dec 2021, 2359 hours</a></li> 
-	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#before">before 2 Dec 2021, 2359 hours</a></li>
+	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#from">from 6 Dec 2021, 2359 hours</a></li> 
+	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Categories of travel health control measures for arrivals <a href="#before-1">before 6 Dec 2021, 2359 hours</a></li>
 	</ol>
 
 
@@ -50,9 +50,9 @@ On this page you will find the following:
 
 <div id="from"></div>
 
-### Travel Health Control Measures for WPHL-Pass Holders [for arrivals from 2 Dec 2021, 2359 hours]
+### Travel Health Control Measures for WPHL-Pass Holders [for arrivals from 6 Dec 2021, 2359 hours]
 
-<span style="color:red;"><b>Travellers arriving in Singapore before 2 Dec 2021, 2359 hours will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
+<span style="color:red;"><b>Travellers arriving in Singapore before 6 Dec 2021, 2359 hours will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <html>
 <head>
@@ -216,7 +216,7 @@ input:checked + label + .content {
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (II) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits less than 24 hours)</span></td>
 </tr>
 	<tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><p style="font-size:16px; line-height:1.5;text-align:justify;"><b>Argentina, Australia, Bahrain, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Cyprus, Denmark <sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Kuwait, Luxembourg, Malaysia, Maldives, Malta, Mexico, Mongolia, Morocco, Myanmar, Nepal, New Zealand, Norway, Oman, Pakistan, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Romania, Samoa, San Marino, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</b></p>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><p style="font-size:16px; line-height:1.5;text-align:justify;"><b>Argentina, Australia, Bahrain, Bhutan, Brunei, Cambodia, Canada, Chile, Cyprus, Denmark <sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, India, Indonesia, Israel, Italy, Japan, Kuwait, Malaysia, Maldives, Malta, Mexico, Mongolia, Morocco, Myanmar, Nepal, New Zealand, Oman, Pakistan, Portugal, Qatar, Rwanda, The Republic of Korea, Romania, Samoa, San Marino, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</b></p>
 	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5; color:white;text-align:justify;"><sup>1</sup> Including the Faroe Islands and Greenland.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5; color:white;text-align:justify;"><sup>2</sup> Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5; color:white; text-align:justify;"><sup>3</sup> Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
@@ -323,7 +323,7 @@ input:checked + label + .content {
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (III) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits less than 24 hours)</span></td>
 </tr>
 	<tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:justify; vertical-align:middle;"><b>Austria, Bangladesh, Belarus, Belgium, Belize, Brazil, Colombia, Costa Rica, Croatia, Czech Republic, Estonia, Kazakhstan, Laos, Latvia, Liechtenstein, Lithuania, Mauritius, Panama, Papua New Guinea, Peru, Philippines, Russia, Serbia, Seychelles, Slovakia, Slovenia, Ukraine and Uruguay</b></td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:justify; vertical-align:middle;"><b>Austria, Bangladesh, Belarus, Belgium, Belize, Brazil, Bulgaria, Colombia, Costa Rica, Croatia, Czech Republic, Estonia, Hungary, Iceland, Ireland, Kazakhstan, Laos, Latvia, Liechtenstein, Lithuania, Luxembourg, Mauritius, Norway, Panama, Papua New Guinea, Peru, Philippines, Poland, Russia, Serbia, Seychelles, Slovakia, Slovenia, Ukraine and Uruguay</b></td>
 </tr><tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Click to expand the health measures by Pass Type</b></td></tr>
 	<tr>
@@ -501,11 +501,11 @@ input:checked + label + .content {
 ---
 
 
-<div id="before"></div>
+<div id="before-1"></div>
 
-### Travel Health Control Measures for WPHL-Pass Holders (for arrivals before 2 Dec 2021, 2359 hours)
+### Travel Health Control Measures for WPHL-Pass Holders (for arrivals before 6 Dec 2021, 2359 hours)
 
-<span style="color:red;"><b>Travellers arriving in Singapore before 2 Dec 2021, 2359 hours will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
+<span style="color:red;"><b>Travellers arriving in Singapore before 6 Dec 2021, 2359 hours will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <html>
 <head>
