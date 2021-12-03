@@ -420,7 +420,7 @@ In addition, <b style="color:red;">with effect from 6 December 2021, 2359hrs (Si
 	</tbody>
 	</table>
 
-Travellers who have entered Singapore between 3 December 2021 and 6 December 2021 (inclusive) are not required to undergo the self-administered ARTs on Days 2, 4, 5 and 6 of their arrival, but will continue to be required to take the supervised self-administered ARTs at QTCs or CTCs on Days 3 and 7 of their arrival.
+Travellers who enter Singapore between 3 December 2021 and 6 December 2021 (inclusive) are not required to undergo the self-administered ARTs on Days 2, 4, 5 and 6 of their arrival, but will continue to be required to take the supervised self-administered ARTs at QTCs or CTCs on Days 3 and 7 of their arrival.
 
 Please refer to our <a href="/vtl/faq#postarrivaltests" target="_blank">FAQs here</a> for more information.
 
