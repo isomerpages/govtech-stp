@@ -499,6 +499,6 @@ input:checked + label + .content {
 - <a target="_blank" href="/vtl/faq#PDT">Pre-Departure Test</a>
 - <a target="_blank" href="/vtl/faq#Flight">Designated VTL (Air) Flights</a>
 - <a target="_blank" href="/vtl/faq#OAT">On-Arrival Test &amp; Self-Isolation</a>
-- <a target="_blank" href="/vtl/faq#postarrivaltests">Post-Arrival Day 3 and Day 7 Tests</a>
+- <a target="_blank" href="/vtl/faq#postarrivaltests">Post-Arrival COVID-19 ARTs</a>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Have a question that is not addressed by any of the available resources found in this webpage? <a target="_blank" href="https://go.gov.sg/sto-enquiry">Contact us here</a>.</p>
