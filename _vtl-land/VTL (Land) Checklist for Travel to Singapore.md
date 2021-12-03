@@ -188,6 +188,8 @@ description: ""
 								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Supervised ART at QTC or CTC</td>
 </tr>
 	</table>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Self-Administered ART: Days 2, 4, 5 and 6 of arrival in Singapore</b></p>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Supervised ART: Days 3 and 7 of arrival in Singapore</b></p>
 	</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
