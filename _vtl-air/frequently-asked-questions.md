@@ -1004,7 +1004,7 @@ They should approach the airline for assistance to rebook a ticket on a non-desi
 
 No, you will not be allowed to board the designated VTL flight, as your would have had travel history to a non-VTL (Air) and non-Category I country/region.
 
-With effect from <b>6 December 2021, 2359hrs</b>, travellers with EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>. 
+Travellers with EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>. 
 
 #### 10. Do travellers need a return flight ticket to enter Singapore?
 
