@@ -189,7 +189,9 @@ description: ""
 </tr>
 	</table>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Self-Administered ART: Days 2, 4, 5 and 6 of arrival in Singapore</b></p>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">Travellers will administer a COVID-19 ART on Days 2, 4, 5 and 6 of their arrival in Singapore using an ART kit they had purchased in Singapore. All ART results must be submitted online via a link provided in the testing notice. Travellers may only leave their accommodations and continue with their activities if they are tested ART negative.</p>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Supervised ART: Days 3 and 7 of arrival in Singapore</b></p>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">Travellers will take a supervised self-administered COVID-19 ART at a Quick Test Centre (QTC) or Combined Test Centres (CTC). All tests administered at the QTC and CTC will be supervised by an approved COVID-19 test provider, and each test will cost S$15 (including GST). Only cashless payment is accepted, this includes payment using Mastercard, NETS, PayNow and Visa. Cash payments will not be accepted.</p>
 	</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
