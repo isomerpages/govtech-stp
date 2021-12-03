@@ -307,9 +307,9 @@ Travellers who are eligible for VTL (Land) and have already obtained their bus t
 	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/vtl-land/faq#Application">VTP Application Technical Difficulties</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/health/vtsg">Definition of Fully Vaccinated</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/vtl-land/faq#travel-history">Travel History</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a target="/vtl-land/travel-checklist#pdt" href="">Pre-departure test for travel to Singapore</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/vtl-land/travel-checklist#pdt">Pre-departure test for travel to Singapore</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/vtl-land/faq#OAT">On-arrival Test</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/vtl-land/faq#OAT">Post-Arrival COVID-19 ARTs</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/vtl-land/faq#postarrivaltests">Post-Arrival COVID-19 ARTs</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/vtl-land/faq#DesignatedBus">Bus Services</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/files/VTL-Land-4.pdf">Useful weblinks</a></li>
 </ol>
