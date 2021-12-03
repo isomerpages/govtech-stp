@@ -1182,23 +1182,23 @@ No, travellers must use the ART self-test kits provided at the test centres. The
 They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. 
 
 
-#### 6. Can a traveller go to a clinic for their Day 3 and Day 7 ARTs instead of the Quick Test Centres or Combined Test Centres?
+#### 12. Can a traveller go to a clinic for their supervised ARTs instead of the Quick Test Centres or Combined Test Centres?
 
 No, travellers must only go to the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. Otherwise, the traveller’s attendance will not be tracked, and test results will not be captured.
 
 
-#### 7. How do travellers book their appointments for their Day 3 and Day 7 ARTs?
+#### 13. How do travellers book their appointments for their supervised ARTs?
 
 Travellers will be provided with a weblink to book their ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC). 
 
 They should schedule an appointment once they have received the instructions from the Safe Travel Office (STO), and take the ARTs at the QTC or CTC on the appropriate dates. They can only book an appointment for their second test (Day 7) <u>after</u> they have attended their first test (Day 3).
 
 
-#### 8. Are children required to undergo Day 3 and Day 7 ARTs?
+#### 8. Are children required to undergo supervised ARTs?
 
-Children aged 2 and below in this calendar year are not required to undergo Day 3 and Day 7 ARTs. Children aged 3 to 12 must undergo their Day 3 and Day 7 ARTs at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
+Children aged 2 and below in this calendar year are not required to undergo post-arrivals ARTs. Children aged 3 to 12 must undergo their Day 3 and Day 7 ARTs at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
-#### 9. Do travellers need to self-isolate after their Day 3 and Day 7 ART?
+#### 9. Do travellers need to self-isolate after their supervised ART?
 
 No, travellers are not required to self-isolate after their Day 3 and Day 7 ARTs. Self-isolation is only required pending the results of the on-arrival COVID-19 PCR test at the airport.
 
