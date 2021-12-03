@@ -601,7 +601,7 @@ Failure to undergo the required COVID-19 tests may constitute an offence under t
 
 A traveller who fails to undergo the required COVID-19 tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
 
-Further, the traveller’s VTP (Air), and/or Visit Pass or Long-Term Pass, may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP (Air) applications may also be rejected.
+Further, the traveller’s VTP (Land), and/or Visit Pass or Long-Term Pass, may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP (Land) applications may also be rejected.
 
 
 ### UNSUPERVISED ARTS ON DAYS 2, 4, 5 AND 6
