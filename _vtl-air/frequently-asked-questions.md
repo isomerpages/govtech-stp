@@ -1232,13 +1232,13 @@ Failure to do so may constitute an offence under the Infectious Diseases Act (ID
 
 #### 19. Where can travellers obtain ART self-test kits?
 
-Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along ART kits authorised for use in Singapore from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmacy, retailer or e-commerce platform. ART kits will not be provided upon arrival. 
+Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmacy, retailer or e-commerce platform. ART kits will not be provided upon arrival. 
 
 If travellers are serving their self-isolation pending their on-arrival COVID-19 PCR test results, they may obtain ART kits via applications such as Grab and foodpanda which offer 24/7 delivery. Those residing in hotels can also seek their hotel concierge’s assistance to help them obtain ART kits. They should not leave their place of accommodation to purchase ART kits prior to receiving their negative PCR test results on Day 1. They may only leave their place of accommodation after self-administering their ART on Day 2.
 
 #### 20. Are there specific ART kits that travellers may use for self-testing?
 
-Travellers are advised to only purchase and use COVID-19 self-test kits authorised for use in Singapore by the Health Sciences Authority (HSA). As these tests are meant to be used by consumers, no doctor’s prescription is required for their purchase.
+Travellers are advised to only purchase and use <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">COVID-19 self-test kits authorised for use in Singapore</a> by the Health Sciences Authority (HSA). As these tests are meant to be used by consumers, no doctor’s prescription is required for their purchase.
 
 #### 21. How much does an ART kit cost?
 
