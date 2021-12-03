@@ -224,7 +224,7 @@ This page provides a summary of the four categories of travel health control mea
 
 <div id="before-1"></div>
 
-### Categories of Travel Health Control Measures (for arrivals before 6 Dec 2021, 2359H)
+### Categories of Travel Health Control Measures (for arrivals before 6 Dec 2021, 2359h)
 
 <span style="color:red;"><b>Travellers arriving in Singapore <u>before 6 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
@@ -370,7 +370,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions <sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe. Non-SC/PRs with a travel history to the specified countries/regions are barred from entry with effect from 27 Nov 2021, 2359hrs until further notice.]</i></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions <sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe. Non-SC/PRs with a travel history to the specified countries/regions are barred from entry until further notice.]</i></th>
 </tr>
 </thead>
 <tbody>
