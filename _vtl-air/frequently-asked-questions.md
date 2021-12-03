@@ -1066,7 +1066,10 @@ Please also note that if a traveller’s test result is confirmed to be positive
 
 ### (f) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)
  
-<i><span style="color:red;">Note: The following FAQs are applicable to VTL travellers entering Singapore from 2 December 2021, 2359hrs (Singapore time). Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo post-arrival Day 3 and Day 7 ARTs.</span></i>
+<i><span style="color:red;">Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo post-arrival ARTs.<br><br>Travellers entering Singapore with effect from 6 December 2021, 2359hrs, SGT, will also be required to undergo self-administered COVID-19 ARTs using self-procured ART kits on Days 2, 4, 5 and 6 of their arrival in Singapore. This is in addition to the supervised ARTs on Days 3 and 7.<br><br>
+Travellers who enter Singapore between 3 December 2021 and 6 December 2021 (inclusive) are not required to undergo the self-administered ARTs on Days 2, 4, 5 and 6 of their arrival, but will continue to be required to take the supervised self-administered ARTs at Quick Test Centres (QTCs) or Combined Test Centres (CTCs) on Days 3 and 7 of their arrival.
+</span></i>
+
 
 #### 1. Why do travellers need to undergo Day 3 and Day 7 ARTs?
 
