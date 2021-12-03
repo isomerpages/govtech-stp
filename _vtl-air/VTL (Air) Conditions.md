@@ -39,9 +39,11 @@ description: ""
     <li style="font-size:20px; list-style-type:decimal;"> Those unable to use a mobile device due to a certified disability or special needs, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the airport upon arrival in Singapore. They must carry the TraceTogether tokens issued to them at all times while in Singapore and return their respective tokens at any checkpoint prior to their departure from Singapore.
 </li>
 	<br>
-	<li style="font-size:20px; list-style-type:decimal;">The requirement in Condition 2(f) does not apply to travellers whose time of departure<sup>5</sup> from Singapore is before 2130 hours (Singapore time) on Day 3 of their stay in Singapore. Travellers whose time of departure from Singapore is before 2130 hours (Singapore time) on Day 7 of their stay in Singapore are not required to undergo a COVID-19 ART on Day 7.</li>
+	<li style="font-size:20px; list-style-type:decimal;">The requirements in Conditions 2(d), (e), (f) and (g) do not apply to children aged 2 and below in the calendar year.</li>
+	<br>
+	<li style="font-size:20px; list-style-type:decimal;">Travellers whose day of departure<sup>4</sup> from Singapore is on the day of the scheduled test under Condition 2(f) or (g) are exempted from taking their COVID-19 ART on that day.</li>
   <br>
-   <li style="font-size:20px; list-style-type:decimal;"> The requirements in Conditions 2 (h) and 2(i) do not apply to Singapore Citizens, Permanent Residents and Long-Term Pass (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) holders. However, they are encouraged to also download the TraceTogether app on their mobile device and keep the TraceTogether app activated at all times. 
+   <li style="font-size:20px; list-style-type:decimal;"> The requirements in Conditions 2(i) and (j) do not apply to Singapore Citizens, Permanent Residents and Long-Term Pass (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) holders. However, they are encouraged to also download the TraceTogether app on their mobile device and keep the TraceTogether app activated at all times. 
   </li>
   <br>
    <li style="font-size:20px; list-style-type:decimal;"> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL (Air) or cancellation of the VTP (Air) at short notice. </li> <br>
