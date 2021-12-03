@@ -48,7 +48,7 @@ This page provides a summary of the four categories of travel health control mea
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
-<div id="table"></div>
+<div id="table1"></div>
 <table style="overflow: hidden;">
 <thead>
 	<tr>
@@ -83,6 +83,8 @@ This page provides a summary of the four categories of travel health control mea
 	</tr>
 	</tbody>
 	</table>
+
+<div id="table2"></div>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 	
@@ -134,6 +136,9 @@ This page provides a summary of the four categories of travel health control mea
 	</tr>
 	</tbody>
 	</table>
+	
+
+<div id="table3"></div>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 	
@@ -178,7 +183,9 @@ This page provides a summary of the four categories of travel health control mea
 	</tr>
 	</tbody>
 	</table>
-	
+
+<div id="table4"></div>
+
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 	
 <table style="overflow: hidden;">
