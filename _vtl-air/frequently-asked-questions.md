@@ -1248,7 +1248,7 @@ ART kits typically cost less than S$20 and can be obtained from any local clinic
 
 Travellers are strongly encouraged to <a href="https://artbuddy.healthpixel.co/" target="_blank">view the materials here</a> to learn how to self-administer an ART. They can follow the step-by-step instructions while administering their ART.
 
-Traellers may also refer to <a href="https://www.covid.gov.sg/exposed/no-hrw" target="_blank">MOH's guidelines on COVID-19 self-testing</a> to ensure the correct use and appropriate follow-up actions based on the results of the self-testing. MOH’s simple guide to ART self-test kits is available in different languages at the following links:
+Travellers may also refer to <a href="https://www.covid.gov.sg/exposed/no-hrw" target="_blank">MOH's guidelines on COVID-19 self-testing</a> to ensure the correct use and appropriate follow-up actions based on the results of the self-testing. MOH’s simple guide to ART self-test kits is available in different languages at the following links:
 
 - <a href="https://go.gov.sg/bca-self-art-eng" target="_blank">English</a>
 - <a href="https://go.gov.sg/bca-self-art-chi" target="_blank">Chinese</a>
