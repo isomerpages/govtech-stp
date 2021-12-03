@@ -6,7 +6,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>IMPORTANT UPDATE</u></b></p>
 	<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">Travellers entering Singapore with effect from <b>2 December 2021, 2359hrs, SGT</b>, will be required to undergo supervised COVID-19 Antigen Rapid Tests (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC) on Days 3 and 7 of their arrival in Singapore.</p>
-		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">Travellers entering Singapore with effect from <b>6 December 2021, 2359hrs, SGT</b>, will also be required to undergo self-administered COVID-19 ARTs using self-procured ART kits on Days 2, 4, 5 and 6 of their arrival in Singapore. This is in addition to the supervised ARTs on Days 3 and 7.
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">Travellers entering Singapore with effect from <b>6 December 2021, 2359hrs, SGT</b>, will also be required to undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on Days 2, 4, 5 and 6 of their arrival in Singapore. This is in addition to the supervised ARTs on Days 3 and 7.
 	</p>
 	</div>
 
@@ -25,8 +25,11 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	</ol>
 </div>-->
 
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">The Vaccinated Travel Lane (Air) [VTL (Air)] allows quarantine-free travel to Singapore via air. Travellers intending to utilise the Vaccinated Travel Lane (Land) to travel from Malaysia to Singapore via the Causeway should apply for a <a href="/vtl-land/overview">VTP (Land) Pass</a>. <u><b>Approvals are not interchangeable</b></u> . A separate application for VTP (Air) is required if travelling by Air.</p>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">The Vaccinated Travel Lane (Air) [VTL (Air)] allows quarantine-free travel to Singapore. VTP (Land) Pass holders seeking entry into Singapore by flight should apply for a VTP (Land) Pass; approvals <b><u>are not</u></b> interchangeable. On this page, you will find the following key information on the VTL (Air):</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Travellers holding an existing valid entry approval letter under other SafeTravel Lanes but wish to apply for entry under the Vaccinated Travel Lane (Air/Land) should write in via the SafeTravel Enquiry Form for assistance.</p>
+
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">On this page, you will find the following key information on the VTL (Air):</p>
 <ol>
 	<li style="line-height:1.35;"><a href="#countries">VTL (Air) Countries/Regions</a></li>
 	<li style="line-height:1.35;"><a href="#Eligibility">Eligibility</a></li>
