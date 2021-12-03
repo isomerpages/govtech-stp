@@ -3,7 +3,6 @@ title: Transiting through Singapore
 permalink: /transit/overview
 description: Requirements for transiting through Singapore
 ---
-
 <div id="eligibility"></div>
 
 #### Eligibility
@@ -13,7 +12,7 @@ description: Requirements for transiting through Singapore
 <p style="font-size:20px; line-height:1.35;">Travellers with travel history to the following countries/regions within the past 14 days, are disallowed from transiting in Singapore until further notice:</p>
 
 <ol style="margin-top:15px; list-style-type:disc">
-	   <li style="font-size:20px; line-height:1.35;">Botswana, Eswatini, Ghana* Lesotho, Malawi*, Mozambique, Namibia, Nigera*, South Africa and Zimbabwe.</li>
+	   <li style="font-size:20px; line-height:1.35;">Botswana, Eswatini, Ghana* Lesotho, Malawi*, Mozambique, Namibia, Nigeria*, South Africa and Zimbabwe.</li>
 							</ol> 
 <p style="font-size:20px; line-height:1.35;">[*with effect from 4 Dec 2021, 2359hrs.]</p>							
 
