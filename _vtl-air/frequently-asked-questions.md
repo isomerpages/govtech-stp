@@ -1263,12 +1263,14 @@ Travellers are required to self-administer their ART before leaving their place 
 
 Those who do not intend to leave their place of accommodation may perform their ART at any time on Days 2, 4, 5 and 6, and submit their results via the provided webform by 2359 hours on the scheduled day of the test. They must still perform their ARTs even if they are not going out.
 
-23. How do travellers submit their test results?
+#### 23. How do travellers submit their test results?
+
 The weblink for results submission will be provided to travellers after their arrival in Singapore via the email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC).
-24. How long will it take to obtain the results of the self-administered ART?
+
+#### 24. How long will it take to obtain the results of the self-administered ART?
 
 The results should be visible within 15 minutes and should be reflected as follows. If it appears as invalid, please repeat the test and submit a valid (i.e. positive or negative) test result via the webform.
-
+<img src="/images/ARTresults.png" width="820" height="222">
 
 ---
 
