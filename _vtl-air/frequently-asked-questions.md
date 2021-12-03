@@ -1078,9 +1078,11 @@ To step up detection and containment of the Omicron variant until more informati
 
 #### 2. On which days do travellers need to undergo Day 3 and Day 7 ARTs?
 
-Travellers must undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> by 2130 hours (Singapore time) Day 3 and Day 7 of their arrival in Singapore.
+Travellers must undergo post-arrival COVID-19 ARTs at Quick Test Centres (QTCs) or Combined Test Centres (CTCs) on Days 3 and 7 of their arrival in Singapore. With effect from 6 December 2021, 2359hrs, SGT, travellers entering Singapore will also be required to undergo self-administered COVID-19 ARTs using self-procured ART kits on Days 2, 4, 5 and 6 of their arrival in Singapore.
 
-The day that the traveller clears arrival immigration for entry into Singapore is counted as Day 1. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 3 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 ARTs on 5 December 2021 (i.e. Day 3) and 9 December 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 4 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 ARTs on 6 December 2021 (i.e. Day 3) and 10 December 2021 (i.e. Day 7).
+The day that the traveller clears arrival immigration for entry into Singapore is counted as Day 1. To illustrate, if the traveller clears arrival immigration at 0030 hours (Singapore time) on 7 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 tests on the following days:
+
+
 
 #### 3. How much do the Day 3 and Day 7 ARTs cost?
 
