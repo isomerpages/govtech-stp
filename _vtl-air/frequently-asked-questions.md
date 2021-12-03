@@ -1126,20 +1126,61 @@ The day that the traveller clears arrival immigration for entry into Singapore i
 	</table>
 
 
-#### 3. How much do the Day 3 and Day 7 ARTs cost?
+#### 3. Are children required to undergo post-arrival ARTs?
+
+Children aged 2 and below in this calendar year are not required to undergo post-arrival ARTs.
+
+
+#### 4. What if travellers intend to leave Singapore on the day of their scheduled ART?
+
+If the traveller’s day of departure from Singapore is on the day of the test, they are exempted from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
+
+
+#### 5. Should travellers attend or perform their scheduled ARTs if they are unwell?
+
+Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest Swab and Send Home (SASH) clinic. They should take private transport, taxi or private hire car to the SASH clinic, and return to their place of accommodation immediately after their test. Use of public transport is not allowed. They do not need to attend or perform their scheduled ART, but should remain contactable via their declared mobile number and email address.
+
+
+#### 6. What should travellers do if they test positive for COVID-19 on any of their ARTs?
+
+Travellers who test positive for any of their supervised or unsupervised ARTs must book an appointment for a confirmatory PCR test at a Combined Test Centre (CTC) via the booking link provided as soon as possible and undergo the PCR test no later than 1600 hours on the day after testing ART positive. This will be provided free-of-charge. They do not need to attend or perform their scheduled ART if it falls on the same day as their PCR test, but should remain contactable via their declared mobile number and email address.
+
+Prior to their appointment, travellers must follow MOH’s Protocol 2 and self-isolate immediately. They should take private transport, taxi or private hire car to the CTC, and return to their place of accommodation immediately after their test. Use of public transport is not allowed. If they were planning to depart from Singapore, they should defer their travel plans, attend their confirmatory PCR test, and await their PCR test results. They should not leave their place of accommodation other than to undergo the PCR test and until their PCR test result is confirmed to be negative.
+
+Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
+
+
+#### 7. What should travellers do if they test positive for COVID-19 on their PCR test?
+
+If travellers test positive for COVID-19 on a PCR test, further isolation and treatment measures will be imposed on them, in accordance with the Ministry of Health’s protocols. They should remain in their place of accommodation, and not come into close proximity with any other person. The Ministry of Health will contact them with further details on how their case will be managed.
+
+
+#### 8. What are the penalties if travellers miss their scheduled tests?
+
+Failure to undergo the required COVID-19 tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
+
+A traveller who fails to undergo the required COVID-19 tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
+
+Further, the traveller’s VTP (Air), and/or Visit Pass or Long-Term Pass, may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP (Air) applications may also be rejected.
+
+
+### SUPERVISED ARTS ON DAYS 3 AND 7
+
+#### 9. How much do the supervised ARTs cost?
 
 The cost of each ART is S$15 (inclusive of Goods and Services Tax). Travellers will bear the cost of the tests.
 
 Payment is to be made at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> through cashless modes such as Mastercard, NETS, PayNow and Visa. Cash will not be accepted.
 
-#### 4. Can travellers bring their own ART self-test kits to the test centres?
+#### 10. Can travellers bring their own ART self-test kits to the test centres?
 
 No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
 
 
-#### 5. What are the test centres that travellers can go to for their Day 3 and Day 7 ARTs?
+#### 11. What are the test centres that travellers can go to for their supervised ARTs?
 
-They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. They are required to undergo their COVID-19 ART by 2130 hours (Singapore time) on Day 3 and Day 7.
+They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. 
+
 
 #### 6. Can a traveller go to a clinic for their Day 3 and Day 7 ARTs instead of the Quick Test Centres or Combined Test Centres?
 
