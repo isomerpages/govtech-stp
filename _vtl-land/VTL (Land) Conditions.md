@@ -16,9 +16,9 @@ description: ""
 <li>A VTL (Land) Traveller must comply with the following conditions:
 <ol style="font-size:18px; list-style-type:lower-latin; line-height:1.5; padding-bottom:10px;">
 	<li>be <a href="/health/vtsg">fully vaccinated</a>, and have a valid proof of vaccination issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore;</li>
-	<li>have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, [<a href="/shn-and-swab-summary">Category I countries/regions</a>] and/or Singapore, for the last 14 consecutive days<sup>1</sup> before departing for Singapore;</li>
+	<li>have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, [<a href="/shn-and-swab-summary">Category I countries/regions</a>] and/or Singapore, for the last 14 consecutive days before departing for Singapore;</li>
 <li>travel to Singapore on a designated VTL (Land) bus service;</li>
-<li>undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART), within 2 days<sup>2</sup> before the scheduled departure time of the bus service, at a <a href="https://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_SENARAI_MAKMAL_YANG_MENJALANKAN_UJIAN_RT-PCR_BAGI_COVID-19_21092021.pdf" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> that is accredited or recognised by the Malaysia Ministry of Health, and obtain a test result certificate in English stating the following:
+<li>undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART), within 2 days<sup>1</sup> before the scheduled departure time of the bus service, at a <a href="https://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_SENARAI_MAKMAL_YANG_MENJALANKAN_UJIAN_RT-PCR_BAGI_COVID-19_21092021.pdf" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> that is accredited or recognised by the Malaysia Ministry of Health, and obtain a test result certificate in English stating the following:
 <ol style="list-style-type:lower-roman; line-height:1.5; padding-left:10px; padding:bottom:10px;">
 <li>the VTP traveller's name, and at least one other personal identifier such as the date of birth or passport number or NRIC number corresponding exactly with the information in the traveller’s passport or NRIC used for entry into Singapore;</li>
 		<li>a negative COVID-19 test result;</li>
@@ -27,6 +27,8 @@ description: ""
 	</ol>
 </li>
 	<li style="padding-top:10px;">undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange;</li>
+	<li>undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> and submit their results online on Days 2, 4, 5 and 6 of their arrival in Singapore;</li>
+	<li>undergo supervised self-administered COVID-19 ARTs on Days 3 and 7 of their arrival in Singapore at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) / Combined Test Centre (CTC)</a>;</li>
 <li style="padding-top:10px;">download the TraceTogether app on his/her mobile device and:
 <ol style="list-style-type:lower-roman; line-height:1.5;padding-left:10px;">	
 	<li>keep the TraceTogether app activated at all times while in Singapore;</li>
