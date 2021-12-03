@@ -32,7 +32,7 @@ description: Requirements for transiting through Singapore
     <td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>Permitted Test(s)</b></td>
 		</tr>
 	<tr>
-	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;">Countries/regions:<br><br><a href="/shn-and-swab-summary#table1" target="_blank">Category I</a><br>
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"><b>Countries/regions:</b><br><br><a href="/shn-and-swab-summary#table1" target="_blank">Category I</a><br>
 		<a href="/shn-and-swab-summary#table2" target="_blank">Category II</a><br>
 		<a href="/shn-and-swab-summary#table3" target="_blank">Category III</a><br>
 </td>
