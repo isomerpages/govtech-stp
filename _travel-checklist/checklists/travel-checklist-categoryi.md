@@ -37,7 +37,7 @@ Travellers with difficulties getting a COVID-19 test before their departure can 
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
-Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they experience any of the following conditions: 
+Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration. This service is free and ICA does not endorse third party websites claiming to fill the SGAC for a fee. Travellers should **defer their travels** if they experience any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
@@ -93,12 +93,11 @@ While waiting for the on-arrival test result, the traveller is prohibited from l
 </ol>
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="margin-top:0px; margin-bottom:0px; line-height:1.5"><b>[Advisory for travellers self-isolating with household members]</b> Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>
-	<p style=" margin-top:0px; margin-bottom:0px; line-height:1.5">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
+	<p style="margin-top:0px; margin-bottom:0px; line-height:1.5"><b>[Advisory for travellers self-isolating with household members]</b><br><br> Travellers may self-isolate at their residence with other household members, regardless of their vaccination status or travel history. In addition to being in isolation alone in a room, travellers are advised to minimise contact with any household members, and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to: </p>
 	<ol style="list-style-type:lower-roman;">
 	<li>Lower the lid before flushing the toilet; </li>
 	<li>Clean and disinfect contact surfaces after each use; and</li>
-	<li>Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation.</li>
+	<li>Avoid using the toilet for at least 20 minutes.</li>
 	</ol>
 </div>
 
