@@ -380,13 +380,11 @@ Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_b
 
 Travellers are required to undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> on <span style="color:red;">Days 3 and 7</span> of their arrival in Singapore. Instructions for the dates of tests and appointment booking will be emailed to travellers upon their arrival in Singapore. 
 
-The test will be self-administered and supervised by an approved COVID-19 test provider. The test will cost S$15 (inclusive of GST), with payment to be made at the QTCs/CTCs through cashless modes such as Mastercard, NETS, PayNow and Visa. <b><u>Cash will not be accepted</u></b>.
+The test will be self-administered and supervised by an approved COVID-19 test provider. The test will cost S$15 (inclusive of GST), with payment to be made at the QTCs/CTCs through cashless modes such as Mastercard, NETS, PayNow and Visa. <b><u>Cash will not be accepted</u></b>. Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so. 
 
-Children aged 2 and below in this calendar year are not required to undergo Day 3 and Day 7 ARTs. Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so.
+Children aged 2 and below in this calendar year are not required to undergo any of the post-arrival ARTs.If the traveller’s day of departure from Singapore is on the day of the test, they are exempted from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
 
-If their time of departure from Singapore is:
-- <b>before 2130 hours on the day of test</b>, they are exempted from taking their scheduled ART.
-- <b>on or after 2130 hours on the day of test</b>, they are still required to take their scheduled ART. They do not need to wait for the test results to be released before departing Singapore.
+If the traveller’s day of departure from Singapore is <b>on the day of the test</b>, they are <u>exempted</u> from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
 
 The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
 
