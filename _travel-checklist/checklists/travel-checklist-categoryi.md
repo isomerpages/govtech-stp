@@ -24,7 +24,7 @@ Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass
 
 Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they:
 - Are below the age of three in this calendar year; or
-- Have remained in any Category (I) country/region in the past 14 consecutive days before departure; or
+
 - Are Singapore Citizens entering Singapore via the Causeway or Second Link. 
 
 Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR</b> an Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained profession in the country/region of departure. <b>Self-swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
