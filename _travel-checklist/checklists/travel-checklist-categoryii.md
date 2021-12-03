@@ -38,7 +38,9 @@ Travellers with difficulties getting a COVID-19 test before their departure can 
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
-Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) </a> their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they experience any of the following conditions: 
+Up to 72 hours before arrival in Singapore, travellers must submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) </a> including their pre-trip health and travel history declaration. This service is free and ICA does not endorse third party websites claiming to fill the SGAC for a fee. 
+
+Travellers should **defer their travels** if they experience any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
@@ -53,7 +55,7 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 Travellers who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"> Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here</a> if arriving via air (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register here</a>, if arriving by sea or land (each test costs S$160)</li>
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"> Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here if arriving via air</a> (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register here if arriving by sea or land</a> (each test costs S$160)</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing.</li>
 	</ol>
 
