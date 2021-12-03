@@ -1250,10 +1250,11 @@ Travellers are strongly encouraged to <a href="https://artbuddy.healthpixel.co/"
 
 Traellers may also refer to <a href="https://www.covid.gov.sg/exposed/no-hrw" target="_blank">MOH's guidelines on COVID-19 self-testing</a> to ensure the correct use and appropriate follow-up actions based on the results of the self-testing. MOH’s simple guide to ART self-test kits is available in different languages at the following links:
 
-- English
-- Chinese
-- Malay
-- Tamil
+- <a href="https://go.gov.sg/bca-self-art-eng" target="_blank">English</a>
+- <a href="https://go.gov.sg/bca-self-art-chi" target="_blank">Chinese</a>
+- <a href="https://go.gov.sg/bca-self-art-mal" target="_blank">Malay</a>
+- <a href="https://go.gov.sg/bca-self-art-tam" target="_blank">Tamil</a>
+
 
 #### 23. Are there any age restrictions on the use of ART kits?
 
