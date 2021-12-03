@@ -1080,7 +1080,7 @@ To step up detection and containment of the Omicron variant until more informati
 
 #### 2. On which days do travellers need to undergo post-arrival ARTs?
 
-Travellers must undergo post-arrival COVID-19 ARTs at Quick Test Centres (QTCs) or Combined Test Centres (CTCs) on Days 3 and 7 of their arrival in Singapore. With effect from 6 December 2021, 2359hrs, SGT, travellers entering Singapore will also be required to undergo self-administered COVID-19 ARTs using self-procured ART kits on Days 2, 4, 5 and 6 of their arrival in Singapore.
+Travellers must undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> on Days 3 and 7 of their arrival in Singapore. With effect from 6 December 2021, 2359hrs, SGT, travellers entering Singapore will also be required to undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on Days 2, 4, 5 and 6 of their arrival in Singapore.
 
 The day that the traveller clears arrival immigration for entry into Singapore is counted as Day 1. To illustrate, if the traveller clears arrival immigration at 0030 hours (Singapore time) on 7 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 tests on the following days:
 
