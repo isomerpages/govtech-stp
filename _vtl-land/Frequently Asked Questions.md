@@ -687,7 +687,7 @@ Children aged 2 and below in this calendar year are not required to undergo post
 
 #### 23. Do travellers need to self-isolate after their supervised ART?
 
-No, travellers are not required to self-isolate after their Day 3 and Day 7 ARTs. Self-isolation is only required pending the results of the on-arrival COVID-19 PCR test at the airport.
+No, travellers are not required to self-isolate after their Day 3 and Day 7 ARTs. Self-isolation is only required pending the results of the on-arrival COVID-19 PCR test at the Woodlands bus interchange and Queen Street terminal.
 
 However, if tested positive for their ART, travellers must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate immediately. They must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 1600 hours on the day after testing ART positive.
 
