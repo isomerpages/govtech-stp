@@ -1194,18 +1194,20 @@ Travellers will be provided with a weblink to book their ARTs at a <a href="http
 They should schedule an appointment once they have received the instructions from the Safe Travel Office (STO), and take the ARTs at the QTC or CTC on the appropriate dates. They can only book an appointment for their second test (Day 7) <u>after</u> they have attended their first test (Day 3).
 
 
-#### 8. Are children required to undergo supervised ARTs?
+#### 14. Are children required to undergo supervised ARTs?
 
 Children aged 2 and below in this calendar year are not required to undergo post-arrivals ARTs. Children aged 3 to 12 must undergo their Day 3 and Day 7 ARTs at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
-#### 9. Do travellers need to self-isolate after their supervised ART?
+#### 15. Do travellers need to self-isolate after their supervised ART?
 
 No, travellers are not required to self-isolate after their Day 3 and Day 7 ARTs. Self-isolation is only required pending the results of the on-arrival COVID-19 PCR test at the airport.
 
-However, if tested positive for their ART, travellers must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate immediately. They must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 2130 hours on the day after testing ART positive. If they were planning to depart from Singapore, they should defer their travel plans, attend their confirmatory PCR test, and await their PCR test results.
+However, if tested positive for their ART, travellers must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate immediately. They must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 1600 hours on the day after testing ART positive.
 
 
-#### 10. How soon will the results of the Day 3 and Day 7 ARTs be out?
+#### 16. How soon will the results of the supervised ARTs be out?
+
+If tested positive for their supervised ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number).
 
 Travellers with a registered local mobile number can expect to receive their results via SMS within 2 hours. Those without a local mobile number can expect to receive their results via email within 12 hours. 
 
