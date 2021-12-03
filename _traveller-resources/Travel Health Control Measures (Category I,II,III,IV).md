@@ -28,7 +28,7 @@ This page provides a summary of the four categories of travel health control mea
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
-							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> Travellers whose 14-day travel history includes Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe are disallowed from entry into Singapore. From <b>4 Dec 2021, 2359hrs</b>, this restriction is extended to cover travellers whose 14-day travel history includes Ghana<sup style="color:red;">New</sup>, Malawi<sup style="color:red;">New</sup>, and Nigeria<sup style="color:red;">New</sup>. Singapore Citizens and Permanent Residents, may continue to return to Singapore but will be subjected to the Category (IV) protocols.</p>
+							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> Travellers whose 14-day travel history includes Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are disallowed from entering Singapore. From <b>4 Dec 2021, 2359hrs</b>, this restriction is extended to cover travellers whose 14-day travel history includes Ghana, Malawi, and Nigeria. Singapore Citizens and Permanent Residents, may enter Singapore from these countries/regions but will be subject to Category (IV) protocols.</p>
 			</td>
     </tr>
 	</tbody>
