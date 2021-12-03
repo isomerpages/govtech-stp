@@ -224,7 +224,7 @@ This page provides a summary of the four categories of travel health control mea
 
 <div id="before-1"></div>
 
-### Categories of Travel Health Control Measures (for arrivals from 6 Dec 2021, 2359H)
+### Categories of Travel Health Control Measures (for arrivals before 6 Dec 2021, 2359H)
 
 <span style="color:red;"><b>Travellers arriving in Singapore <u>before 6 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
