@@ -390,7 +390,7 @@ If the traveller’s day of departure from Singapore is <b>on the day of the tes
 
 <b><u>Days 2, 4, 5 and 6 of arrival in Singapore</u></b>
 
-In addition, <b style="color:red;">with effect from 6 December 2021, 2359hrs (Singapore time)</b>, all travellers entering Singapore will be required to take a self-administered COVID-19 ART using self-procured ART kits on <b style="color:red;">Days 2, 4, 5 and 6</b> of their arrival in Singapore and submit their results online. They may only leave their house and continue with normal activities for the day if their ART result is negative. This is in addition to the requirement to take a supervised self-administered COVID-19 ART at a QTC or CTC on Days 3 and 7 of their arrival in Singapore. Instructions for the dates of the tests and the weblink for results submission will be emailed to travellers after their arrival in Singapore.
+In addition, <b style="color:red;">with effect from 6 December 2021, 2359hrs (Singapore time)</b>, all travellers entering Singapore will be required to take a self-administered COVID-19 ART using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on <b style="color:red;">Days 2, 4, 5 and 6</b> of their arrival in Singapore and submit their results online. They may only leave their house and continue with normal activities for the day if their ART result is negative. This is in addition to the requirement to take a supervised self-administered COVID-19 ART at a QTC or CTC on Days 3 and 7 of their arrival in Singapore. Instructions for the dates of the tests and the weblink for results submission will be emailed to travellers after their arrival in Singapore.
 
 <table>
 <thead>
