@@ -1214,30 +1214,20 @@ Travellers with a registered local mobile number can expect to receive their res
 Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
 
 
-#### 11. What should travellers do if they have an invalid ART result?
+#### 17. What should travellers do if they have an invalid ART result for their supervised ART?
 	
-Travellers with an invalid ART result will be required to return for a retest. This will be provided free-of-charge.
-
-
-#### 12. What should travellers do if they test positive for COVID-19 on their ART?
-
-If tested positive for their ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number). 
-
-They must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 2130 hours on the day after testing ART positive. Prior to their appointment, travellers must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate immediately. They should take private transport, taxi or private hire car to the CTC, and return to their place of accommodation immediately after their test. Use of public transport is <b><u>not</u></b> allowed. If they were planning to depart from Singapore, they should defer their travel plans, attend their confirmatory PCR test, and await their PCR test results.
-
-Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
+Travellers with an invalid ART result for their supervised ART will be required to return for a retest. This will be provided free-of-charge.
 
 
 #### 13. Are travellers allowed to reschedule their Day 3 and Day 7 ARTs to other days?
 
-No, travellers are required to undergo COVID-19 ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> by 2130 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. 
+No, travellers are required to undergo COVID-19 ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> on Day 3 and Day 7 of their arrival in Singapore. 
 
 Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
 
 
-#### 14. Should travellers perform their Day 3 and Day 7 ARTs if they are unwell?
+### 
 
-Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH)</a> clinic. They should not go for their scheduled ART test if they are unwell, but should remain contactable via their declared mobile number and email address.
 
 #### 15. What if travellers intend to leave Singapore prior to Day 3 or Day 7?
 
