@@ -45,7 +45,7 @@ description: ""
 <br>
 <li>The requirements in Conditions 2(d), (e), (f) and (g) do not apply to children aged 2 and below in the calendar year.</li>
 <br>
-<li>5.	Travellers whose day of departure<sup>2</sup> from Singapore is on the day of the scheduled test under Condition 2(f) or (g) are exempted from taking their COVID-19 ART on that day.</li>
+<li>Travellers whose day of departure<sup>2</sup> from Singapore is on the day of the scheduled test under Condition 2(f) or (g) are exempted from taking their COVID-19 ART on that day.</li>
 <br>
 <li>Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL (Land) or cancellation of the VTP at short notice.</li>
 <br>
