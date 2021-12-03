@@ -6,7 +6,7 @@ permalink: /travel-checklist/category-1
 
 ### Travel Checklist – Category (I) Travel History
 
-This checklist is suitable for travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">this country-listing</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
+This checklist is suitable for travellers with travel history to <b>only</b> <a href="/shn-and-swab-summary" target="_blank"><b>Category (I) countries/regions</b></a> in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">this country-listing</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane (Air/Land) or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
 
 Travellers can check the box **(&#9744;)** for completed activities.
 
@@ -20,10 +20,11 @@ All travellers, except Singapore Citizens and Permanent Residents, must apply fo
 
 Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.
 
-&#9744;  <i><b>C) [For Travellers arriving from 2 Dec 2021, 2359 hours only] Pre-Departure COVID-19 Test (PDT)</b></i>
+&#9744;  <i><b>C) Pre-Departure COVID-19 Test (PDT)</b></i>
 
 Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they:
 - Are below the age of three in this calendar year; or
+
 - Are Singapore Citizens entering Singapore via the Causeway or Second Link. 
 
 Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR</b> an Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained profession in the country/region of departure. <b>Self-swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
@@ -32,11 +33,11 @@ Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an
 - Reflects the date and result of the test and;
 - Is not handwritten. 
 
-Travellers with difficulties getting a COVID-19 test ebfore their departure can contact the <a href="https://go.gov.sg/sto-enquiry" target="_blank">Safe Travel Office for assistance</a>. 
+Travellers with difficulties getting a COVID-19 test before their departure can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>. 
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
-Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they experience any of the following conditions: 
+Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration. This service is free and ICA does not endorse third party websites claiming to fill the SGAC for a fee. Travellers should **defer their travels** if they experience any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
@@ -51,7 +52,7 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 Travellers who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><b>[For Travellers arriving from 2 Dec 2021, 2359 hours only]</b><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay</a> for their on-arrival COVID-19 Polymerase Chain Reaction test (S$125)</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay</a> for their on-arrival COVID-19 Polymerase Chain Reaction test (S$125)</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
 
@@ -92,12 +93,11 @@ While waiting for the on-arrival test result, the traveller is prohibited from l
 </ol>
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="margin-top:0px; margin-bottom:0px; line-height:1.5"><b>[Advisory for travellers self-isolating with household members]</b> Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p>
-	<p style=" margin-top:0px; margin-bottom:0px; line-height:1.5">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
+	<p style="margin-top:0px; margin-bottom:0px; line-height:1.5"><b>Advisory for travellers self-isolating with household members</b><br><br> Travellers may self-isolate at their residence with other household members, regardless of their vaccination status or travel history. In addition to being in isolation alone in a room, travellers are advised to minimise contact with any household members, and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to: </p>
 	<ol style="list-style-type:lower-roman;">
 	<li>Lower the lid before flushing the toilet; </li>
 	<li>Clean and disinfect contact surfaces after each use; and</li>
-	<li>Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation.</li>
+	<li>Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
 	</ol>
 </div>
 

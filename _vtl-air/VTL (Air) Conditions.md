@@ -21,7 +21,8 @@ description: ""
 </li>
          </ol>
                <li style="font-size:18px; list-style-type:lower-alpha;">undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately<sup>3</sup>  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTL (Air) application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
-			 <li style="font-size:18px; list-style-type:lower-alpha;">undergo COVID-19 ARTs on Day 3 and Day 7 of their arrival in Singapore<sup>4</sup> at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) / Combined Test Centre (CTC)</a> before 2130 hours (Singapore time) on the day of each test;</li>
+			 <li style="font-size:18px; list-style-type:lower-alpha;">undergo supervised self-administered COVID-19 ARTs on Days 3 and 7 of their arrival in Singapore at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) / Combined Test Centre (CTC)</a>;</li>
+			 <li style="font-size:18px; list-style-type:lower-alpha;">undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> and submit their results online on Days 2, 4, 5 and 6 of their arrival in Singapore;</li>
 			 <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 test results to the relevant Singapore Government authorities for public health purposes;</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;">download the <a href="https://tracetogether.gov.sg" target="_blank">TraceTogether app</a> on his/her mobile device and:
 		<ol style="font-size:18px; list-style-type:lower-roman;">
@@ -38,9 +39,11 @@ description: ""
     <li style="font-size:20px; list-style-type:decimal;"> Those unable to use a mobile device due to a certified disability or special needs, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the airport upon arrival in Singapore. They must carry the TraceTogether tokens issued to them at all times while in Singapore and return their respective tokens at any checkpoint prior to their departure from Singapore.
 </li>
 	<br>
-	<li style="font-size:20px; list-style-type:decimal;">The requirement in Condition 2(f) does not apply to travellers whose time of departure<sup>5</sup> from Singapore is before 2130 hours (Singapore time) on Day 3 of their stay in Singapore. Travellers whose time of departure from Singapore is before 2130 hours (Singapore time) on Day 7 of their stay in Singapore are not required to undergo a COVID-19 ART on Day 7.</li>
+	<li style="font-size:20px; list-style-type:decimal;">The requirements in Conditions 2(d), (e), (f) and (g) do not apply to children aged 2 and below in the calendar year.</li>
+	<br>
+	<li style="font-size:20px; list-style-type:decimal;">Travellers whose day of departure<sup>4</sup> from Singapore is on the day of the scheduled test under Condition 2(f) or (g) are exempted from taking their COVID-19 ART on that day.</li>
   <br>
-   <li style="font-size:20px; list-style-type:decimal;"> The requirements in Conditions 2 (h) and 2(i) do not apply to Singapore Citizens, Permanent Residents and Long-Term Pass (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) holders. However, they are encouraged to also download the TraceTogether app on their mobile device and keep the TraceTogether app activated at all times. 
+   <li style="font-size:20px; list-style-type:decimal;"> The requirements in Conditions 2(i) and (j) do not apply to Singapore Citizens, Permanent Residents and Long-Term Pass (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) holders. However, they are encouraged to also download the TraceTogether app on their mobile device and keep the TraceTogether app activated at all times. 
   </li>
   <br>
    <li style="font-size:20px; list-style-type:decimal;"> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL (Air) or cancellation of the VTP (Air) at short notice. </li> <br>
@@ -53,12 +56,10 @@ description: ""
 		<li style="font-size:20px; list-style-type:decimal;">For the purpose of determining whether the conditions of the VTL (Air) are being complied with, a public officer, including an officer of the Civil Aviation Authority of Singapore (“CAAS”), or an officer acting on behalf of the CAAS, may request to see the VTP (Air). Upon receipt of such a request, a VTP (Air) holder must show his or her VTP (Air) to the officer.</li>  <br>
 </ol>
 
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>1</sup>If the scheduled day of departure of the flight is D (e.g. 15 December 2021), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL (Air) countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore from D-14 to D (i.e. 1 December to 15 December 2021, if D is 14 December 2021).</p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>1</sup>If the scheduled day of departure of the flight is D (e.g. 15 December 2021), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL (Air) countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore from D-14 to D (i.e. 1 December to 15 December 2021, if D is 15 December 2021).</p>
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the pre-departure test is taken on 1 December 2021, it will be valid for departures up to 3 December 2021, 2359 hours.</p>
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>3</sup>Travellers are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area of the Arrivals Hall.</p>
 
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>4</sup>The day that the traveller clears arrival immigration for entry into Singapore is counted as Day 1. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 3 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 ARTs on 5 December 2021 (i.e. Day 3) and 9 December 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 4 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 ARTs on 6 December 2021 (i.e. Day 3) and 10 December 2021 (i.e. Day 7).</p>
-
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>5</sup>The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.</p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>4</sup>The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.</p>

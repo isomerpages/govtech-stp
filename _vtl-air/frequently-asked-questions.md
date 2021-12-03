@@ -26,7 +26,7 @@ permalink: /vtl/faq
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Test</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Flight">Designated VTL (Air) Flights</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test at the Airport and Self-Isolation</a></li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#postarrivaltests">Post-Arrival Day 3 and Day 7 COVID-19 Antigen Rapid Test (ART)</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#postarrivaltests">Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#AdditionalReq">Additional Requirements for Short-Term Visitors</a>:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
@@ -119,7 +119,7 @@ b. vaccination certificate(s) issued by the Singapore Ministry of Health.
  
 #### 4. I am a Long-Term Pass Holder or Short-Term Visitor with Singapore-issued vaccination records. How do I prove my vaccination status when applying for a VTP (Air)?
  
-Please check if your Singapore vaccination records are valid through <a href="https://go.gov.sg/vax-status-query" target="_blank">this link</a> and, if necessary, re-tag your records to your most updated identification (e.g. passport/FIN/IC) number.  The retagging process is not immediate. Please attempt to resubmit a VTP (Air) application <b>only after</b> receiving confirmation from the Ministry of Health / Health Promotion Board that your records have been successfully retagged.
+Please check if your Singapore vaccination records are valid through <a href="http://go.gov.sg/health-cert-query" target="_blank">this link</a> and, if necessary, re-tag your records to your most updated identification (e.g. passport/FIN/IC) number.  The retagging process is not immediate. Please attempt to resubmit a VTP (Air) application <b>only after</b> receiving confirmation from the Ministry of Health / Health Promotion Board that your records have been successfully retagged.
 
 You may also choose to upload the QR code on your Singapore Vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, if you have one. Please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code.
 
@@ -230,7 +230,7 @@ We are currently unable to accept recovery certificates of travellers with proof
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
 </tr>
 	<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>All other European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br>*Travellers must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including travel history requirements, and must arrive in Singapore on a designated VTL flight.<br><br><i>[For entry into Singapore from 6 Dec 2021, 2359hrs]</i></b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>All other European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br>*Travellers must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including travel history requirements, and must arrive in Singapore on a designated VTL flight.</b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU DCC</a> of vaccination. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2).</td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
 </tr>
@@ -395,7 +395,7 @@ Switzerland</td>
 	</td>
 </tr>
 	<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">All other European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br><i>[For entry into Singapore from 6 Dec 2021, 2359hrs]</i></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">All other European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">
 	<ol style="margin-top:0px; list-style-type: disc;">
@@ -789,7 +789,7 @@ At this point in time, there are no designated VTL (Air) flights operating from 
 
 No, travellers may not have travel history to non-VTL (Air) country/region and non-Category I countries/regions.
 
-With effect from <b>6 December 2021, 2359hrs</b>, travellers withe EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all VTL (Air) conditions. This includes:
+Travellers withe EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all VTL (Air) conditions. This includes:
 <ol style="list-style-type:lower-latin;">
 <li>having only travelled to or transited via one or more of the VTL (Air) countries/regions, Category I countries/regions and/or Singapore, in the last 14 consecutive days prior to departure for Singapore, and;</li>
 <li>arriving in Singapore on a designated VTL (Air) flight from any of the VTL countries/regions.</li>
@@ -1004,7 +1004,7 @@ They should approach the airline for assistance to rebook a ticket on a non-desi
 
 No, you will not be allowed to board the designated VTL flight, as your would have had travel history to a non-VTL (Air) and non-Category I country/region.
 
-With effect from <b>6 December 2021, 2359hrs</b>, travellers with EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>. 
+Travellers with EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>. 
 
 #### 10. Do travellers need a return flight ticket to enter Singapore?
 
@@ -1064,105 +1064,215 @@ Please also note that if a traveller’s test result is confirmed to be positive
  <div id="postarrivaltests"></div>
  
 
-### (f) Post-Arrival Day 3 and Day 7 COVID-19 Antigen Rapid Test (ART)
- 
-<i><span style="color:red;">Note: The following FAQs are applicable to VTL travellers entering Singapore from 2 December 2021, 2359hrs (Singapore time). Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo post-arrival Day 3 and Day 7 ARTs.</span></i>
+### (f) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)
 
-#### 1. Why do travellers need to undergo Day 3 and Day 7 ARTs?
+<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo post-arrival ARTs.<br><br>Travellers entering Singapore with effect from 6 December 2021, 2359hrs, SGT, will also be required to undergo self-administered COVID-19 ARTs using self-procured ART kits on Days 2, 4, 5 and 6 of their arrival in Singapore. This is in addition to the supervised ARTs on Days 3 and 7.<br><br>
+Travellers who enter Singapore between 3 December 2021 and 6 December 2021 (inclusive) are not required to undergo the self-administered ARTs on Days 2, 4, 5 and 6 of their arrival, but will continue to be required to take the supervised self-administered ARTs at Quick Test Centres (QTCs) or Combined Test Centres (CTCs) on Days 3 and 7 of their arrival.</span></i></p>
 
-To step up detection and containment of the Omicron variant until more information is available, we are enhancing our testing protocols and procedures for travellers arriving in Singapore after <b>2 December 2021, 2359 hours (Singapore time)</b>. These enhanced measures will apply for four weeks in the first instance, and will be reviewed and extended if necessary.
-
-#### 2. On which days do travellers need to undergo Day 3 and Day 7 ARTs?
-
-Travellers must undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> by 2130 hours (Singapore time) Day 3 and Day 7 of their arrival in Singapore.
-
-The day that the traveller clears arrival immigration for entry into Singapore is counted as Day 1. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 3 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 ARTs on 5 December 2021 (i.e. Day 3) and 9 December 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 4 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 ARTs on 6 December 2021 (i.e. Day 3) and 10 December 2021 (i.e. Day 7).
-
-#### 3. How much do the Day 3 and Day 7 ARTs cost?
-
-The cost of each ART is S$15 (inclusive of Goods and Services Tax). Travellers will bear the cost of the tests.
-
-Payment is to be made at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> through cashless modes such as Mastercard, NETS, PayNow and Visa. Cash will not be accepted.
-
-#### 4. Can travellers bring their own ART self-test kits to the test centres?
-
-No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
+### GENERAL MATTERS
 
 
-#### 5. What are the test centres that travellers can go to for their Day 3 and Day 7 ARTs?
+#### 1. Why do travellers need to undergo post-arrival ARTs?
 
-They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. They are required to undergo their COVID-19 ART by 2130 hours (Singapore time) on Day 3 and Day 7.
-
-#### 6. Can a traveller go to a clinic for their Day 3 and Day 7 ARTs instead of the Quick Test Centres or Combined Test Centres?
-
-No, travellers must only go to the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. Otherwise, the traveller’s attendance will not be tracked, and test results will not be captured.
+To step up detection and containment of the Omicron variant until more information is available, we are enhancing our testing protocols and procedures for travellers.
 
 
-#### 7. How do travellers book their appointments for their Day 3 and Day 7 ARTs?
+#### 2. On which days do travellers need to undergo post-arrival ARTs?
 
-Travellers will be provided with a weblink to book their ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC). 
+Travellers must undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> on Days 3 and 7 of their arrival in Singapore. With effect from 6 December 2021, 2359hrs, SGT, travellers entering Singapore will also be required to undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on Days 2, 4, 5 and 6 of their arrival in Singapore.
 
-They should schedule an appointment once they have received the instructions from the Safe Travel Office (STO), and take the ARTs at the QTC or CTC on the appropriate dates. They can only book an appointment for their second test (Day 7) <u>after</u> they have attended their first test (Day 3).
+The day that the traveller clears arrival immigration for entry into Singapore is counted as Day 1. To illustrate, if the traveller clears arrival immigration at 0030 hours (Singapore time) on 7 December 2021 (i.e. Day 1), he/she is required to undergo COVID-19 tests on the following days:
+
+<table>
+<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;vertical-align:middle;width:50px;"><b>Day</b></td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;vertical-align:middle;width:100px;"><b>Date (for illustration purposes only)</b></td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;vertical-align:middle;width:200px;"><b>Test</b></td>
+	</tr>
+	<tr>
+	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle; width:50px;"><b>1</b></th>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">7 December 2021</td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">PCR test</td>
+	</tr>
+	<tr>
+		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:50px;"><b>2</b></th>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">8 December 2021</td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ART (unsupervised and self-declared)</td>
+	</tr>
+	<tr>
+		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:50px;"><b>3</b></th>
+										<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">9 December 2021</td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Supervised ART at QTC/CTC</td>
+	</tr>
+	<tr>
+		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:50px;"><b>4</b></th>
+												<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">10 December 2021</td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ART (unsupervised and self-declared)</td>
+	</tr>
+	<tr>
+		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:50px;"><b>5</b></th>
+														<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">11 December 2021</td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ART (unsupervised and self-declared)</td>
+	</tr>
+	<tr>
+		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:50px;"><b> 6</b></th>
+														<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">12 December 2021</td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ART (unsupervised and self-declared)</td>
+</tr>
+	<tr>
+		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:50px;"><b> 7</b></th>
+														<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">13 December 2021</td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Supervised ART at QTC/CTC</td>
+</tr>
+	</table>
 
 
-#### 8. Are children required to undergo Day 3 and Day 7 ARTs?
+#### 3. Are children required to undergo post-arrival ARTs?
 
-Children aged 2 and below in this calendar year are not required to undergo Day 3 and Day 7 ARTs. Children aged 3 to 12 must undergo their Day 3 and Day 7 ARTs at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
-
-#### 9. Do travellers need to self-isolate after their Day 3 and Day 7 ART?
-
-No, travellers are not required to self-isolate after their Day 3 and Day 7 ARTs. Self-isolation is only required pending the results of the on-arrival COVID-19 PCR test at the airport.
-
-However, if tested positive for their ART, travellers must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate immediately. They must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 2130 hours on the day after testing ART positive. If they were planning to depart from Singapore, they should defer their travel plans, attend their confirmatory PCR test, and await their PCR test results.
+Children aged 2 and below in this calendar year are not required to undergo post-arrival ARTs.
 
 
-#### 10. How soon will the results of the Day 3 and Day 7 ARTs be out?
+#### 4. What if travellers intend to leave Singapore on the day of their scheduled ART?
 
-Travellers with a registered local mobile number can expect to receive their results via SMS within 2 hours. Those without a local mobile number can expect to receive their results via email within 12 hours. 
-
-Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
+If the traveller’s day of departure from Singapore is on the day of the test, they are exempted from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
 
 
-#### 11. What should travellers do if they have an invalid ART result?
-	
-Travellers with an invalid ART result will be required to return for a retest. This will be provided free-of-charge.
+#### 5. Should travellers attend or perform their scheduled ARTs if they are unwell?
+
+Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH) clinic</a>. They should take private transport, taxi or private hire car to the SASH clinic, and return to their place of accommodation immediately after their test. Use of public transport is not allowed. They do not need to attend or perform their scheduled ART on that day, but should remain contactable via their declared mobile number and email address.
 
 
-#### 12. What should travellers do if they test positive for COVID-19 on their ART?
+#### 6. What should travellers do if they test positive for COVID-19 on any of their ARTs?
 
-If tested positive for their ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number). 
+Travellers who test positive for any of their supervised or unsupervised ARTs must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 1600 hours on the day after testing ART positive. This will be provided free-of-charge. They do not need to attend or perform their scheduled ART if it falls on the same day as their PCR test, but should remain contactable via their declared mobile number and email address.
 
-They must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 2130 hours on the day after testing ART positive. Prior to their appointment, travellers must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate immediately. They should take private transport, taxi or private hire car to the CTC, and return to their place of accommodation immediately after their test. Use of public transport is <b><u>not</u></b> allowed. If they were planning to depart from Singapore, they should defer their travel plans, attend their confirmatory PCR test, and await their PCR test results.
+Prior to their appointment, travellers must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate immediately. They should take private transport, taxi or private hire car to the CTC, and return to their place of accommodation immediately after their test. Use of public transport is not allowed. If they were planning to depart from Singapore, they should defer their travel plans, attend their confirmatory PCR test, and await their PCR test results. They should not leave their place of accommodation other than to undergo the PCR test and until their PCR test result is confirmed to be negative.
 
 Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
 
 
-#### 13. Are travellers allowed to reschedule their Day 3 and Day 7 ARTs to other days?
+#### 7. What should travellers do if they test positive for COVID-19 on their PCR test?
 
-No, travellers are required to undergo COVID-19 ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> by 2130 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. 
-
-Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
+If travellers test positive for COVID-19 on a PCR test, further isolation and treatment measures will be imposed on them, in accordance with the Ministry of Health’s protocols. They should remain in their place of accommodation, and not come into close proximity with any other person. The Ministry of Health will contact them with further details on how their case will be managed.
 
 
-#### 14. Should travellers perform their Day 3 and Day 7 ARTs if they are unwell?
-
-Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH)</a> clinic. They should not go for their scheduled ART test if they are unwell, but should remain contactable via their declared mobile number and email address.
-
-#### 15. What if travellers intend to leave Singapore prior to Day 3 or Day 7?
-
-If their time of departure from Singapore is:
-- before 2130 hours on the day of test, they are exempted from taking their scheduled ART.
-- on or after 2130 hours on the day of test, they are still required to take their scheduled ART. They do not need to wait for the test results to be released before departing Singapore.
-
-The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
-
-#### 16. What are the penalties if travellers miss their scheduled Day 3 or Day 7 ARTs?
+#### 8. What are the penalties if travellers miss their scheduled tests?
 
 Failure to undergo the required COVID-19 tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
 
 A traveller who fails to undergo the required COVID-19 tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
 
 Further, the traveller’s VTP (Air), and/or Visit Pass or Long-Term Pass, may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP (Air) applications may also be rejected.
+
+
+### SUPERVISED ARTS ON DAYS 3 AND 7
+
+#### 9. How much do the supervised ARTs cost?
+
+The cost of each ART is S$15 (inclusive of Goods and Services Tax). Travellers will bear the cost of the tests.
+
+Payment is to be made at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> through cashless modes such as Mastercard, NETS, PayNow and Visa. Cash will not be accepted.
+
+#### 10. Can travellers bring their own ART self-test kits to the test centres?
+
+No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
+
+
+#### 11. What are the test centres that travellers can go to for their supervised ARTs?
+
+They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. 
+
+
+#### 12. Can a traveller go to a clinic for their supervised ARTs instead of the Quick Test Centres or Combined Test Centres?
+
+No, travellers must only go to the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. Otherwise, the traveller’s attendance will not be tracked, and test results will not be captured.
+
+
+#### 13. How do travellers book their appointments for their supervised ARTs?
+
+Travellers will be provided with a weblink to book their ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC). 
+
+They should schedule an appointment once they have received the instructions from the Safe Travel Office (STO), and take the ARTs at the QTC or CTC on the appropriate dates. They can only book an appointment for their second test (Day 7) <u>after</u> they have attended their first test (Day 3).
+
+
+#### 14. Are children required to undergo supervised ARTs?
+
+Children aged 2 and below in this calendar year are not required to undergo post-arrivals ARTs. Children aged 3 to 12 must undergo their Day 3 and Day 7 ARTs at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
+
+#### 15. Do travellers need to self-isolate after their supervised ART?
+
+No, travellers are not required to self-isolate after their Day 3 and Day 7 ARTs. Self-isolation is only required pending the results of the on-arrival COVID-19 PCR test at the airport.
+
+However, if tested positive for their ART, travellers must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate immediately. They must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 1600 hours on the day after testing ART positive.
+
+
+#### 16. How soon will the results of the supervised ARTs be out?
+
+If tested positive for their supervised ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number).
+
+Travellers with a registered local mobile number can expect to receive their results via SMS within 2 hours. Those without a local mobile number can expect to receive their results via email within 12 hours. 
+
+Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
+
+
+#### 17. What should travellers do if they have an invalid ART result for their supervised ART?
+	
+Travellers with an invalid ART result for their supervised ART will be required to return for a retest. This will be provided free-of-charge.
+
+
+#### 18. Are travellers allowed to reschedule their Day 3 and Day 7 ARTs to other days?
+
+No, travellers are required to undergo COVID-19 ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> on Day 3 and Day 7 of their arrival in Singapore. 
+
+Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
+
+
+### UNSUPERVISED ARTS ON DAYS 2, 4, 5 AND 6
+
+#### 19. Where can travellers obtain ART self-test kits?
+
+Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmacy, retailer or e-commerce platform. ART kits will not be provided upon arrival. 
+
+If travellers are serving their self-isolation pending their on-arrival COVID-19 PCR test results, they may obtain ART kits via applications such as Grab and foodpanda which offer 24/7 delivery. Those residing in hotels can also seek their hotel concierge’s assistance to help them obtain ART kits. They should not leave their place of accommodation to purchase ART kits prior to receiving their negative PCR test results on Day 1. They may only leave their place of accommodation after self-administering their ART on Day 2.
+
+#### 20. Are there specific ART kits that travellers may use for self-testing?
+
+Travellers are advised to only purchase and use <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">COVID-19 self-test kits authorised for use in Singapore</a> by the Health Sciences Authority (HSA). As these tests are meant to be used by consumers, no doctor’s prescription is required for their purchase.
+
+#### 21. How much does an ART kit cost?
+
+ART kits typically cost less than S$20 and can be obtained from any local clinic, pharmacy, retailer or e-commerce platform.
+
+#### 22. How do travellers self-administer an ART?
+
+Travellers are strongly encouraged to <a href="https://artbuddy.healthpixel.co/" target="_blank">view the materials here</a> to learn how to self-administer an ART. They can follow the step-by-step instructions while administering their ART.
+
+Travellers may also refer to <a href="https://www.covid.gov.sg/exposed/no-hrw" target="_blank">MOH's guidelines on COVID-19 self-testing</a> to ensure the correct use and appropriate follow-up actions based on the results of the self-testing. MOH’s simple guide to ART self-test kits is available in different languages at the following links:
+
+- <a href="https://go.gov.sg/bca-self-art-eng" target="_blank">English</a>
+- <a href="https://go.gov.sg/bca-self-art-chi" target="_blank">Chinese</a>
+- <a href="https://go.gov.sg/bca-self-art-mal" target="_blank">Malay</a>
+- <a href="https://go.gov.sg/bca-self-art-tam" target="_blank">Tamil</a>
+
+
+#### 23. Are there any age restrictions on the use of ART kits?
+
+Children under the age of 2 are not required to perform ARTs. Generally, those below 12 years old will require an adult’s assistance to administer the ART self-test.
+
+#### 24. What time do travellers need to perform their ART and submit their test results?
+
+Travellers are required to self-administer their ART before leaving their place of accommodation on Days 2, 4, 5 and 6 of their arrival in Singapore. They should submit their test results immediately after obtaining a valid test result.
+
+Those who do not intend to leave their place of accommodation may perform their ART at any time on Days 2, 4, 5 and 6, and submit their results via the provided webform by 2359 hours on the scheduled day of the test. They must still perform their ARTs even if they are not going out.
+
+#### 25. How do travellers submit their test results?
+
+The weblink for results submission will be provided to travellers after their arrival in Singapore via the email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC).
+
+#### 26. How long will it take to obtain the results of the self-administered ART?
+
+The results should be visible within 15 minutes and should be reflected as follows. If it appears as invalid, please repeat the test and submit a valid (i.e. positive or negative) test result via the webform.
+<img src="/images/ARTresults.png" width="820" height="222">
 
 ---
 

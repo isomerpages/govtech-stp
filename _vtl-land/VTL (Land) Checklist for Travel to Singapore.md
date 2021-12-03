@@ -7,7 +7,7 @@ description: ""
 
 ### VTL Land Travel Checklist 
 
-<p style="font-size:18px; line-height:1.35; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>&#10003;</b></span>&nbsp; For all travellers including Singapore Citizens, Permanent Residents and holders of a Singapore-issued Long-Term Pass entering Singapore via the Causeway taking designated buses for the VTL (Land).</p>
+<p style="font-size:18px; line-height:1.35; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>&#10003;</b></span>&nbsp; For travellers including Singapore Citizens, Permanent Residents and holders of a Singapore-issued Long-Term Pass entering Singapore via the Causeway taking designated buses for the VTL (Land).</p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.35;"><span style="font-size:20px;  color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore by plane &#9992;. Fully vaccinated travellers who intend to fly from Malaysia to Singapore should check the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> for more details. </p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><span style="font-size:20px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers leaving Singapore. Travellers who intend to leave Singapore using the VTL (Land) should visit the "<a href="/vtl-land/outbound-travel">Vaccinated Travel Lane (Land) for Travel to Malaysia</a>" page for more details.</p>
 <p  style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.35;"><span style="color:black; font-size:20px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>
@@ -148,12 +148,60 @@ description: ""
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">&#128653; Travellers must board the same bus after clearing immigration, to be transported to the On-Arrival Test location.</p>
 </div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label for="3B">&nbsp;&nbsp;<b>(3B) On-Arrival COVID-19 Antigen Rapid Test</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label for="3B">&nbsp;&nbsp;<b>(3B) On-Arrival COVID-19 ART</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers will be transported to take an on-arrival COVID-19 Antigen Rapid Test at Queen Street Terminal or Woodlands Temporary Bus Interchange. The test costs $15 including GST, and travellers can make e-payment for the test on the spot.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers will be ferried to Queen Street Terminal or Woodlands Temporary Bus Interchange, where they will take their on-arrival COVID-19 ART. Including GST, the test costs $15 and travellers can make e-payment for the test on the spot.</p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require an on-arrival test.</p>
-	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">&#128653; Travellers can use any transport to leave the On-Arrival test Location, after they have tested negative.</p>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">&#128653; Travellers can use any transport to leave Queen Street Terminal or Woodlands Temporary Bus Interchange if they have tested negative for their on-arrival COVID-19 ART.</p>
 </div>
+
+<div id="postarrivaltests" style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3C"><label for="3C">&nbsp;&nbsp;<b>(3C) [From 6 December 2021, 2359hrs] Post-Arrival Daily COVID-19 ART</b></label></div>
+<div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;Children aged two and below in this calendar year are exempted from this requirement.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">From 6 December 2021, 2359hrs, travellers entering Singapore will take a COVID-19 ART daily, over a six-day period after the day of arrival. General details below, but travellers should refer to their email and testing notice for the detailed testing instructions and schedule.</p>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Mandatory Testing Schedule</b></p>
+<table>
+<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;vertical-align:middle;width:200px;"><b>Day of Arrival in Singapore</b></td>
+			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#153855; border-bottom:1px solid #D8D8D8; color:white;text-align: center;vertical-align:middle;"><b>Test Type</b></td>
+	</tr>
+<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;vertical-align:middle;width:200px;"><b>Day 1</b></td>
+			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;background-color:#eceeef;">On-Arrival PCR test</td>
+	</tr>
+	<tr>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle; width:100px;"><b>Day 2</b></td>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#eceeef;">Self-administered ART</td>
+	</tr>
+	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:100px;"><b>Day 3</b></td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#eceeef;">Supervised ART at QTC or CTC</td>
+	</tr>
+	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:100px;"><b>Day 4</b></td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#eceeef;">Self-administered ART</td>
+	</tr>
+	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:100px;"><b>Day 5</b></td>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#eceeef;">Self-administered ART</td>
+	</tr>
+	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:100px;"><b>Day 6</b></td>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#eceeef;">Self-administered ART</td>
+	</tr>
+	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:100px;"><b>Day 7</b></td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;background-color:#eceeef;">Supervised ART at QTC or CTC</td>
+</tr>
+	</table>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Self-Administered ART: Days 2, 4, 5 and 6 of arrival in Singapore</b></p>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">Travellers will administer a COVID-19 ART on Days 2, 4, 5 and 6 of their arrival in Singapore using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">an ART kit they had purchased in Singapore</a>. All ART results must be submitted online via a link provided in the testing notice. Travellers may only leave their accommodations and continue with their activities if they are tested ART negative.</p>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Supervised ART: Days 3 and 7 of arrival in Singapore</b></p>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">Travellers will take a supervised self-administered COVID-19 ART at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centres (CTC)</a>. All tests administered at the QTC and CTC will be supervised by an approved COVID-19 test provider, and each test will cost S$15 (including GST). Only cashless payment is accepted, this includes payment using Mastercard, NETS, PayNow and Visa. Cash payments will not be accepted.</p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so.</p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b style="color:red;">Note:</b></p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers leaving Singapore any time between Day 2 and 7 (both dates inclusive) of their arrival are exempted from taking the self-administered ART or supervised ART on their day of departure. The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.</p>
+	</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="4A"><label for="4A">&nbsp;&nbsp;<b>COVID-19 Safe Management Measures and Proof of Vaccination</b></label></div>

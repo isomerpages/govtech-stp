@@ -6,9 +6,10 @@ permalink: /travel-checklist/category-4
 
 ### Travel Checklist – Category (IV) Travel History
 
-This checklist is **only** suitable for travellers with travel history to any Category (IV) country/region in the past 14 days before arrival in Singapore. This excludes travellers who are not a Singapore Citizen or Singapore Permanent Resident, and have visited Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe.<sup style="color:red;">[Note]</sup> Return to <a href="/shn-and-swab-summary" target="_blank">this list of countries/regions</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
+This checklist is **only** suitable for travellers with travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (IV) country/region</a>* in the past 14 days before arrival in Singapore. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane (Air/Land) or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
 
-[<b style="color:red;"><i>Note:</i></b><i> Entries are suspended with effect from 27 Nov 2021, 2359 hrs until further notice.]</i>
+*<i>Entry bans apply to non-Singapore Citizen / Singapore Permanent Residents with travel history to Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe.</i>
+
 
 Travellers can check the box **(&#9744;)** for completed activities.
 
@@ -41,7 +42,9 @@ Travellers with difficulties getting a COVID-19 PCR test before their departure 
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
-Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they experience any of the following conditions: 
+Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration. This service is free and ICA does not endorse third party websites claiming to fill the SGAC for a fee. 
+
+Travellers should **defer their travels** if they experience any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
@@ -51,12 +54,12 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 
 <div id="stage1e"></div>
 
-&#9744;  <i><b>E) [Enhanced Measure for arrivals from 2 Dec 2021, 2359hours] Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
 
 Travellers who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><b>[For Travellers arriving from 2 Dec 2021, 2359 hours only]</b> Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here</a> if you are arriving via air (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">Register here</a>, if arriving by sea or land (each test costs S$160)</li>
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here if you are arriving via air</a> (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">Register here if arriving by sea or land</a> (each test costs S$160)</li>
 		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing.</li>
 	</ol>
 
@@ -105,7 +108,7 @@ During immigration clearance, provide all relevant documents and information req
 
 For visitors granted entry, please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport unless arriving by land or sea. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here for more information about the e-Pass</a>.
 
-&#9744;  <i><b>B)[For arrivals from 2 Dec 2021, 2359 hours only] On arrival COVID-19 Tests</b></i>
+&#9744;  <i><b>B) On-arrival COVID-19 Tests</b></i>
 
 Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you <a href="#stage1e">did not pay for the test before arrival (per Stage 1E)</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint. 
 

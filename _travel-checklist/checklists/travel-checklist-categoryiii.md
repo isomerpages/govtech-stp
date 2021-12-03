@@ -6,7 +6,7 @@ permalink: /travel-checklist/category-3
 
 ### Travel Checklist – Category (III) Travel History
 
-This checklist is **only** suitable for travellers with travel history to any Category (III) country/region in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">this list of countries/regions</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
+This checklist is **only** suitable for travellers with travel history to any Category (III) country/region in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">this list of countries/regions</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane (Air/Land) or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
 
 Travellers can check the box **(&#9744;)** for completed activities.
 
@@ -40,7 +40,9 @@ Travellers with difficulties getting a COVID-19 test before their departure can 
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
-Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they experience any of the following conditions: 
+Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration. This service is free and ICA does not endorse third party websites claiming to fill the SGAC for a fee. 
+
+Travellers should **defer their travels** if they experience any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
@@ -55,7 +57,7 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 Travellers who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><b>[For Travellers arriving from 2 Dec 2021, 2359 hours only]</b> Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here</a> if you are arriving via air (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">Register here</a>, if arriving by sea or land (each test costs S$160)</li>
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here if arriving via air</a> (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register here if arriving by sea or land</a> (each test costs S$160)</li>
 		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing.</li>
 	</ol>
 
@@ -81,7 +83,7 @@ During immigration clearance, provide all relevant documents and information req
 
 For visitors granted entry, please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport unless arriving by land or sea. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here for more information about the e-Pass</a>.
 
-&#9744;  <i><b>B)[For arrivals from 2 Dec 2021, 2359 hours only] On arrival COVID-19 Tests</b></i>
+&#9744;  <i><b>B) On-arrival COVID-19 Tests</b></i>
 
 Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you <a href="#stage1e">did not pay for the test before arrival (per Stage 1E)</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint. 
 
@@ -111,18 +113,17 @@ A Stay-Home Notice (SHN) comes into effect immediately upon its issuance. Travel
 
 To calculate the estimated SHN end-date, click here for an <a href="/shn-calculator" target="_blank">SHN calculator</a>.
 
-Travellers may complete their SHN at their own residence, self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel should only secure their bookings after checking and ensuring that the hotel of choice can accommodate guests on SHN. Travellers may refer to <a href="https://sha.org.sg/stay-home-notice" target="_blank">this page</a> for the non-exhaustive list of hotels offering SHN-accommodation.
+Travellers may complete their SHN at their own residence (see advisory below), self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel should only secure their bookings after checking and ensuring that the hotel of choice can accommodate guests on SHN. Travellers may refer to <a href="https://sha.org.sg/stay-home-notice" target="_blank">this page</a> for the non-exhaustive list of hotels offering SHN-accommodation.
 
 
 During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. <a href="/health/shn#shn-compliance-checks" target="_blank">Click here for more information on SHN-related compliance matters</a>.
 
-<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>[Advisory for travellers serving SHN at home]</b> Travellers may serve SHN at their residence, with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members. If this is not feasible, travellers are advised to consider alternative accommodation.</p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
+<div style="padding-left: 5px; padding-bottom: 20px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+<p style="margin-top:15px; margin-bottom:0px; line-height:1.5;"><b>Advisory for travellers serving SHN at home</b><br><br>Travellers may serve SHN at their residence, with other household members, regardless of their vaccination status or travel history. In addition to being in isolation alone in a room, travellers are advised to minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to:</p>
 	<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
-		<li style="font-size:16px; margin-top:5px; margin-bottom:0px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
-		<li style="font-size:16px; margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving SHN.</li>
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
+		<li style="margin-top:5px; margin-bottom:0px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
+		<li style="margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
 	</ol>
 </div>
 
