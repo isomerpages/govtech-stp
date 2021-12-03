@@ -789,7 +789,7 @@ At this point in time, there are no designated VTL (Air) flights operating from 
 
 No, travellers may not have travel history to non-VTL (Air) country/region and non-Category I countries/regions.
 
-With effect from <b>6 December 2021, 2359hrs</b>, travellers withe EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all VTL (Air) conditions. This includes:
+Travellers withe EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all VTL (Air) conditions. This includes:
 <ol style="list-style-type:lower-latin;">
 <li>having only travelled to or transited via one or more of the VTL (Air) countries/regions, Category I countries/regions and/or Singapore, in the last 14 consecutive days prior to departure for Singapore, and;</li>
 <li>arriving in Singapore on a designated VTL (Air) flight from any of the VTL countries/regions.</li>
