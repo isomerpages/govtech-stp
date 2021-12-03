@@ -11,7 +11,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] allows quarantine-free travel to Singapore via the Causeway. Travellers intending to utilise the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> to travel to Singapore via air should apply for a VTP (Air) Pass. <b>Approvals are not interchangeable</b> . A separate application for VTP (Land) is required if entering Singapore by land.
 
-<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.4;">Travellers holding an existing valid entry approval letter under other SafeTravel Lanes but wish to apply for entry under the Vaccinated Travel Lane (Air/Land) should write in via the SafeTravel Enquiry Form for assistance. <!--You can download the infographics <a href="/files/Singapore-Malaysia Vaccinated Travel Lane (Land)_v5.pdf" target="_blank">here</a> for an overview of VTL (Land) requirements.--></p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.4;">Travellers holding an existing valid entry approval letter under other SafeTravel Lanes but wish to apply for entry under the Vaccinated Travel Lane (Air/Land) should write in <a href="http://go.gov.sg/sto-enquiry" target="_blank">via the SafeTravel Enquiry Form</a> for assistance. <!--You can download the infographics <a href="/files/Singapore-Malaysia Vaccinated Travel Lane (Land)_v5.pdf" target="_blank">here</a> for an overview of VTL (Land) requirements.--></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:20px; line-height:1.4;">On this page, you will find the following details on VTL (Land):</p>
 <ol style="font-size:18px;">
@@ -27,7 +27,9 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 
 <!--should check with the <a href="http://www.myvtl.gov.my/" target="_blank">Government of Malaysia</a> on the prevailing entry requirements. For all departure-related advisories including how to obtain pre-departure tests and digital vaccination certificates, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page. Travellers should note that fresh entry applications must be submitted, for those seeking to return to Singapore after leaving for Malaysia via VTL (Land).-->
 
+
 <div id="Eligibility"></div>
+
 
 ### 1. Eligibility
 
