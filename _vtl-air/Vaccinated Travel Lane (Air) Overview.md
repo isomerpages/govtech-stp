@@ -129,6 +129,17 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 ### 2. Eligibility
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic criteria and <a target="_blank" href="/vtl/conditions">conditions</a> of the VTL (Air) to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL (Air) should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>From 4 Dec 2021, 2359 hours</b>, these groups of travellers are not allowed to apply for entry under the Vaccinated Travel Lanes (VTLs):</p>
+<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) sector</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Workers staying in dormitories</li>
+	</ul>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Companies can still bring in such workers under:</p>
+<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">For all other workers- <a href="/wphl/overview" target="_blank">WPHL</a></li>
+	</ul>
+<p style="font-size:18px; margin-top:10px; margin-bottom:30px; line-height:1.35;">Those who had obtained a VTL approval earlier on can still enter Singapore. </p>
 
 
 <html>
