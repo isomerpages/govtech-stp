@@ -10,7 +10,12 @@ description: ""
 
 ### Vaccinated Travel Lane (Air) Checklist
 
-This step-by-step checklist is for all VTL (Air) travellers entering Singapore, including Singapore Citizens (SC) and Permanent Residents (PR). If <b><u>ANY OF</u></b> the requirements below are not met:
+This step-by-step checklist is for all VTL (Air) travellers entering Singapore, excluding:
+-  Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) sector
+- Workers staying in dormitories
+
+
+If <b><u>ANY OF</u></b> the requirements below are not met:
 
 <ol style="list-style-type:lower-alpha">
 	<li style="line-height:1.5;">Singapore Citizens and Permanent Residents will not be eligible for quarantine-free health protocols.</li>	
