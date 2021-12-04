@@ -5,8 +5,9 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
   Singapore by Land
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;"><span style="color:red;">NOTE:</span> Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the <a target="_blank" href="/vtl/requirements-and-process">“Vaccinated Travel Lane (Air)”</a> page instead for more details. Please note that the Vaccinated Travel Pass (Air) and Vaccinated Travel Pass (Land) <u>are not</u> interchangable. A separate application for VTP (Air) is required if travelling by Air.</p>
-		<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">With effect from <b>6 December 2021, 2359hrs</b>, travellers will take a supervised COVID-19 Antigen Rapid Tests (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC) on Days 3 and Day 7 of their arrival in Singapore. Travellers will also self-administer an COVID-19 ART on Days 2, 4, 5 and 6 of arrival in Singapore; ART kits can be purchased in Singapore by the traveller. </p>
+	<p style="font-size:16px; margin-top:20px; margin-bottom:0px; line-height:1.4;"><span style="color:red;">NOTE:</span> Travellers who are fully vaccinated and travelling by flight to Singapore, should visit the <a target="_blank" href="/vtl/requirements-and-process">“Vaccinated Travel Lane (Air)”</a> page instead for more details. Please note that the Vaccinated Travel Pass (Air) and Vaccinated Travel Pass (Land) <u>are not</u> interchangable. A separate application for VTP (Air) is required if travelling by Air.</p>
+		<p style="font-size:16px; margin-top:20px; margin-bottom:0px; line-height:1.4;">With effect from <b>6 December 2021, 2359hrs</b>, travellers will take a supervised COVID-19 Antigen Rapid Tests (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC) on Days 3 and Day 7 of their arrival in Singapore. Travellers will also self-administer an COVID-19 ART on Days 2, 4, 5 and 6 of arrival in Singapore; ART kits can be purchased in Singapore by the traveller. </p>
+<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">S Pass and Work Permit holders in the Construction, Marine Shipyard and Process (CMP) sector will not be allowed to apply for a Vaccinated Travel Pass (Land) [VTP (Land)] with effect from <b>4 December 2021, 2359hrs, SGT</b>. This does not apply to Malaysians and female work pass holders. Those who have obtained prior approval will still be allowed to enter Singapore. Please <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/2911-mom-introduces-new-primary-healthcare-system-for-migrant-workers" target="_blank">click here</a> for more information.</p>
 	</div>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] allows quarantine-free travel to Singapore via the Causeway. Travellers intending to utilise the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> to travel to Singapore via air should apply for a VTP (Air) Pass. <b>Approvals are not interchangeable</b> . A separate application for VTP (Land) is required if entering Singapore by land.</p>
@@ -33,7 +34,19 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 
 ### 1. Eligibility
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>Travellers must fulfil the following basic criteria before applying to travel under VTL (Land)</b>. Travellers who do not satisfy any of these criteria and conditions, should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a>.</p> 
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>Travellers must fulfil the following basic criteria before applying to travel under VTL (Land)</b>. Travellers who do not satisfy any of these criteria and conditions, should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a>.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>From 4 Dec 2021, 2359 hours</b>, these groups of travellers are not allowed to apply for entry under the Vaccinated Travel Lanes (VTLs):</p>
+<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.4;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.4;">Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) sector</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">Workers staying in dormitories</li>
+	</ul>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">Companies can still bring in such workers under:</p>
+<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.4;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.4;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">For all other workers- <a href="/wphl/overview" target="_blank">Work Pass Holder Lane</a></li>
+	</ul>
+<p style="font-size:18px; margin-top:10px; margin-bottom:30px; line-height:1.4;">Those who had obtained a VTL approval earlier on can still enter Singapore. </p>
+
 
 <html>
 

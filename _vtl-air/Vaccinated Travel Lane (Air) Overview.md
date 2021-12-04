@@ -8,6 +8,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">Travellers entering Singapore with effect from <b>2 December 2021, 2359hrs, SGT</b>, will be required to undergo supervised COVID-19 Antigen Rapid Tests (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC) on Days 3 and 7 of their arrival in Singapore.</p>
 		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">Travellers entering Singapore with effect from <b>6 December 2021, 2359hrs, SGT</b>, will also be required to undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on Days 2, 4, 5 and 6 of their arrival in Singapore. This is in addition to the supervised ARTs on Days 3 and 7.
 	</p>
+<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">S Pass and Work Permit holders in the Construction, Marine Shipyard and Process (CMP) sector will not be allowed to apply for a Vaccinated Travel Pass (Air) [VTP (Air)] with effect from <b>4 December 2021, 2359hrs, SGT</b>. This does not apply to Malaysians and female work pass holders. Those who have obtained prior approval will still be allowed to enter Singapore. Please <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/2911-mom-introduces-new-primary-healthcare-system-for-migrant-workers" target="_blank">click here</a> for more information.</p>
 	</div>
 
 <!--<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; background-color:#f8f8f8; border-style: solid; border-width: 1px; margin-bottom:20px;">
@@ -128,6 +129,17 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 ### 2. Eligibility
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic criteria and <a target="_blank" href="/vtl/conditions">conditions</a> of the VTL (Air) to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL (Air) should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>From 4 Dec 2021, 2359 hours</b>, these groups of travellers are not allowed to apply for entry under the Vaccinated Travel Lanes (VTLs):</p>
+<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) sector</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Workers staying in dormitories</li>
+	</ul>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Companies can still bring in such workers under:</p>
+<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">For all other workers- <a href="/wphl/overview" target="_blank">Work Pass Holder Lane</a></li>
+	</ul>
+<p style="font-size:18px; margin-top:10px; margin-bottom:30px; line-height:1.35;">Those who had obtained a VTL approval earlier on can still enter Singapore. </p>
 
 
 <html>
