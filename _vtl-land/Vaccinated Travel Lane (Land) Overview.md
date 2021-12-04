@@ -43,7 +43,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">Companies can still bring in such workers under:</p>
 <ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.4;">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.4;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
-	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">For all other workers- <a href="/wphl/overview" target="_blank">WPHL</a></li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">For all other workers- <a href="/wphl/overview" target="_blank">Work Pass Holder Lane</a></li>
 	</ul>
 <p style="font-size:18px; margin-top:10px; margin-bottom:30px; line-height:1.4;">Those who had obtained a VTL approval earlier on can still enter Singapore. </p>
 
