@@ -28,7 +28,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For all other workers- <a href="/wphl/overview">WPHL</a></li>
 	</ol>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Those who had obtained a VTL approval before 4 Dec 2021, 2359hours can still enter Singapore. </p>	
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Those who had obtained a VTL approval before 4 Dec 2021, 2359 hours can still enter Singapore. </p>	
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> All pass holders need to take these tests:</p> 
 <ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 Antigen Rapid Test (ART) or PCR test <b>within 2 days</b> before departure. Self-swabs are <b>not allowed</b>.</li>
