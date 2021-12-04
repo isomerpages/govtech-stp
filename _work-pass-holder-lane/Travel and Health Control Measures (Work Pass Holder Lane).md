@@ -18,15 +18,15 @@ For all other pass holders (work pass holders and their dependants), this page e
 <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes</u></b></span>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➀</b> If the pass holder has visited multiple countries in the past 14 days before arriving in Singapore, <b>the most stringent category out of all the countries/regions visited (excluding transits less than 24 hours) will apply</b>.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><i>Example: A traveller with travel history to both Categories (I) and (II) countries/regions before departure, and transited through a Category (IV) country/region on the flight to Singapore, will be subject to Category (II) measures.</i></p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➁</b> <b>From 4 Dec 2021, 2359 hours</b>, these groups of workers are not allowed to apply for entry under the Vaccinated Travel Lanes (VTLs):</p> 
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➁</b> <b>From 4 Dec 2021, 2359 hours</b>, these groups of workers are not allowed to apply for entry under the Vaccinated Travel Lanes (<a href="/vtl/requirements-and-process" target="_blank">Air</a>/<a href="/vtl-land/overview" target="_blank">Land</a>):</p> 
 	<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Non-Malaysian male Work Permit or S Pass workers in the CMP sector</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Workers staying in dormitories</li>
 	</ol>
 	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Companies can still bring in such workers under: </p>
 	<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For CMP workers-MOM’s entry approval or ongoing industry initiatives for the CMP sectors</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For all other workers-WPHL</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For all other workers- <a href="/wphl/overview">WPHL</a></li>
 	</ol>
 	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Those who had obtained a VTL approval earlier on can still enter Singapore. </p>	
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> All pass holders need to take these tests:</p> 
