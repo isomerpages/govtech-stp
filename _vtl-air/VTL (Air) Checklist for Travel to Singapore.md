@@ -11,7 +11,7 @@ description: ""
 ### Vaccinated Travel Lane (Air) Checklist
 
 This step-by-step checklist is for all VTL (Air) travellers entering Singapore, excluding:
--  Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) sector
+- Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) sector
 - Workers staying in dormitories
 
 
