@@ -84,7 +84,6 @@ This travel checklist is for the following travellers who are eligible for the V
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(A) Obtain an accepted proof of vaccination</b>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers <u>must</u> obtain any of the following acceptable proofs of vaccination to be eligible for the VTL.</p>
-
 <input type="checkbox" id="proof" />
 <label for="proof" style="background:#D8D8D8;color:black;"><b>(Click Here) Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></label>
 
