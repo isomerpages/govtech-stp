@@ -58,6 +58,9 @@ description: Requirements for transiting through Singapore
 	</tbody>
 	</table>
 
+<p style="font-size:20px; line-height:1.35;">Travellers transiting through Singapore will not be subject to COVID-19 tests upon arrival.</p>
+
+
 
 #### Entry Visas
 
