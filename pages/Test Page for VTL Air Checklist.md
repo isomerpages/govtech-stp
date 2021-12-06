@@ -66,7 +66,7 @@ input:checked + label + .content {
 
   
 </style>
-	<style>
+<style>
    .iframe-container {
        display: block;
        position: absolute;
