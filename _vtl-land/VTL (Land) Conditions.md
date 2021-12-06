@@ -50,7 +50,7 @@ description: ""
 <li>A VTP traveller’s entry and stay in Singapore are subject to compliance with the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (“ICA”), including compliance with the conditions of the VTL (Land). Non-compliance with any of the prevailing immigration requirements or conditions of the VTL (Land) may result in refusal of entry into Singapore and/or cancellation of the VTP, and/or Long-Term Pass. In such an event, the VTP traveller may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.</li>
 <br>
 <li>For the purpose of determining whether the conditions of the VTL (Land) are being complied with, a public officer, including an officer of the ICA, or an officer acting on behalf of the ICA, may request to see the VTP. Upon receipt of such a request, a VTP traveller must show his or her VTP to the officer.</li>
-</ol>	
+</ol>
 	
 
 <p style="font-size:16px; line-height:1.5;"><sup>1</sup> If the pre-departure test is taken on 1 December 2021, it will be valid for departures up to 3 December 2021, 2359 hours.</p>
