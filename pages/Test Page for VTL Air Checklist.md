@@ -66,6 +66,24 @@ input:checked + label + .content {
 
   
 </style>
+	<style>
+   .iframe-container {
+       display: block;
+       position: absolute;
+       /*change position as you need*/
+       bottom: 0;
+       left: 0;
+       right: 0;
+       top: 0;
+   }
+   iframe {
+       margin: 0;
+       padding: 0;
+       border: 0;
+       width: 100%;
+       background-color: #fff;
+   }
+ </style>
 </head>
 </html>
 
@@ -84,10 +102,14 @@ This travel checklist is for the following travellers who are eligible for the V
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(A) Obtain an accepted proof of vaccination</b>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers <u>must</u> obtain any of the following acceptable proofs of vaccination to be eligible for the VTL.</p>
+</div>
 
 <input type="checkbox" id="proof" />
 <label for="proof" style="background:#D8D8D8;color:black;"><b>(Click Here) Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></label>
 
+ <div class="iframe-container">
+     <iframe src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" style="width:100%;height:500px"></iframe>
+ </div>
 <div class="content" style="background-color:#e5e5e5;">
 <p style="line-height:1.3; font-size:18px;">
 	<ol style="margin-top:0px; list-style-type: disc;">
