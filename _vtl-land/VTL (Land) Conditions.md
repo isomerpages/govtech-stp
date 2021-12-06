@@ -11,10 +11,10 @@ description: ""
 ### Conditions of the Vaccinated Travel Lane Land [VTL (Land)]
 
 
-<ol style="font-size:18px; line-height:1.5; padding-bottom:10px;">
-<li style="font-size:18px; margin-bottom:10px;">A VTP is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li>
-<li style="font-size:18px; line-height:1.5;">A VTL (Land) Traveller must comply with the following conditions:
-<ol style="font-size:18px; list-style-type:lower-latin; line-height:1.5; padding-bottom:10px;">
+<ol style="line-height:1.5; padding-bottom:10px;">
+<li style="margin-bottom:10px;">A VTP is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li>
+<li style="line-height:1.5;">A VTL (Land) Traveller must comply with the following conditions:
+<ol style="list-style-type:lower-latin; line-height:1.5; padding-bottom:10px;">
 	<li>be <a href="/health/vtsg">fully vaccinated</a>, and have a valid proof of vaccination issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore;</li>
 	<li>have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, [<a href="/shn-and-swab-summary">Category I countries/regions</a>] and/or Singapore, for the last 14 consecutive days before departing for Singapore;</li>
 <li>travel to Singapore on a designated VTL (Land) bus service;</li>
