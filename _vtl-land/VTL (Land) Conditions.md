@@ -11,10 +11,10 @@ description: ""
 ### Conditions of the Vaccinated Travel Lane Land [VTL (Land)]
 
 
-<ol style="font-size:18px; line-height:1.5; padding-bottom:10px;">
-<li>A VTP is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li><br>
-<li>A VTL (Land) Traveller must comply with the following conditions:
-<ol style="font-size:18px; list-style-type:lower-latin; line-height:1.5; padding-bottom:10px;">
+<ol style="line-height:1.5; padding-bottom:10px;">
+<li style="margin-bottom:10px;">A VTP is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li>
+<li style="line-height:1.5;">A VTL (Land) Traveller must comply with the following conditions:
+<ol style="list-style-type:lower-latin; line-height:1.5; padding-bottom:10px;">
 	<li>be <a href="/health/vtsg">fully vaccinated</a>, and have a valid proof of vaccination issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore;</li>
 	<li>have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, [<a href="/shn-and-swab-summary">Category I countries/regions</a>] and/or Singapore, for the last 14 consecutive days before departing for Singapore;</li>
 <li>travel to Singapore on a designated VTL (Land) bus service;</li>
@@ -25,7 +25,7 @@ description: ""
 		<li>the date and time when the COVID-19 test was taken; and</li>
 		<li>the name of the testing institution conducting the COVID-19 test.</li>
 	</ol>
-</li>
+	</li>
 	<li style="padding-top:10px;">undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange;</li>
 	<li>undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> and submit their results online on Days 2, 4, 5 and 6 of their arrival in Singapore;</li>
 	<li>undergo supervised self-administered COVID-19 ARTs on Days 3 and 7 of their arrival in Singapore at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) / Combined Test Centre (CTC)</a>;</li>
@@ -34,12 +34,11 @@ description: ""
 	<li>keep the TraceTogether app activated at all times while in Singapore;</li>
 <li>upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore.</li>
 	</ol>
-</li>
+	</li>
 	<li style="padding-top:10px;">adhere to all prevailing public health measures while in Singapore; and</li>
 <li>remain contactable at all times while in Singapore via his/her their declared mobile number and email address.</li>
+</ol>
 	</li>
-	</ol>
-</li>
 <br>
 <li>Those unable to use a mobile device due to a certified disability or special needs, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at Woodlands Checkpoint upon arrival in Singapore. They must carry the TraceTogether tokens issued to them at all times while in Singapore and return their respective tokens at any checkpoint prior to their departure from Singapore.</li>
 <br>
@@ -52,7 +51,7 @@ description: ""
 <li>A VTP traveller’s entry and stay in Singapore are subject to compliance with the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (“ICA”), including compliance with the conditions of the VTL (Land). Non-compliance with any of the prevailing immigration requirements or conditions of the VTL (Land) may result in refusal of entry into Singapore and/or cancellation of the VTP, and/or Long-Term Pass. In such an event, the VTP traveller may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.</li>
 <br>
 <li>For the purpose of determining whether the conditions of the VTL (Land) are being complied with, a public officer, including an officer of the ICA, or an officer acting on behalf of the ICA, may request to see the VTP. Upon receipt of such a request, a VTP traveller must show his or her VTP to the officer.</li>
-</ol>	
+</ol>
 	
 
 <p style="font-size:16px; line-height:1.5;"><sup>1</sup> If the pre-departure test is taken on 1 December 2021, it will be valid for departures up to 3 December 2021, 2359 hours.</p>
