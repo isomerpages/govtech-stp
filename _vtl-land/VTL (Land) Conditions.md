@@ -37,8 +37,7 @@ description: ""
 	</li>
 	<li style="padding-top:10px;">adhere to all prevailing public health measures while in Singapore; and</li>
 <li>remain contactable at all times while in Singapore via his/her their declared mobile number and email address.</li>
-	</li>
-	</ol>
+</ol>
 <br>
 <li>Those unable to use a mobile device due to a certified disability or special needs, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at Woodlands Checkpoint upon arrival in Singapore. They must carry the TraceTogether tokens issued to them at all times while in Singapore and return their respective tokens at any checkpoint prior to their departure from Singapore.</li>
 <br>
