@@ -34,7 +34,7 @@ description: ""
 	<li>keep the TraceTogether app activated at all times while in Singapore;</li>
 <li>upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore.</li>
 	</ol>
-</li>
+	</li>
 	<li style="padding-top:10px;">adhere to all prevailing public health measures while in Singapore; and</li>
 <li>remain contactable at all times while in Singapore via his/her their declared mobile number and email address.</li>
 	</li>
