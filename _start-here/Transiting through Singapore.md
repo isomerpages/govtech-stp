@@ -34,8 +34,8 @@ description: Requirements for transiting through Singapore
 	<tr>
 	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"><b>Countries/regions:</b>
 <ol style="list-style-type:disc; font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;">	
-	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35; margin-bottom:0px;"><b>Category I</b><p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;">Hong Kong, Macao, Mainland China, Taiwan</p></li>
-		<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;"><a href="/shn-and-swab-summary#table2" target="_blank">Category II</a></li>
+	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;"><b>Category I</b><p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;">Hong Kong, Macao, Mainland China, Taiwan</p></li>
+		<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;"><b>Category II</b><p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;"></p></li>
 	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;"><a href="/shn-and-swab-summary#table3" target="_blank">Category III</a></li>
 		</ol>
 </td>
