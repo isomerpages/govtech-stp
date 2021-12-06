@@ -18,7 +18,7 @@ description: Requirements for transiting through Singapore
 
 <div id="PDT"></div>
 
-#### Pre-Departure COVID-19 Test
+#### COVID-19 Test
 
 <!-- <p style="font-size:20px; line-height:1.35;">Transit travellers with a 14-day travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (I) countries/regions</a> are <b>not</b> required to take a pre-departure COVID-19 test, 
 	<b>only if their scheduled time of arrival is before 2 Dec 2359h SGT.</b></p>-->
