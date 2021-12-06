@@ -40,7 +40,7 @@ description: Requirements for transiting through Singapore
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>4</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p></li>
-	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;"><b>Category III</b></li>
+	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;"><b>Category III</b><p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;">Austria, Bangladesh, Belarus, Belgium, Belize, Brazil, Bulgaria, Colombia, Costa Rica, Croatia, Czech Republic, Estonia, Hungary, Iceland, Ireland, Kazakhstan, Laos, Latvia, Liechtenstein, Lithuania, Luxembourg, Mauritius, Norway, Panama, Papua New Guinea, Peru, Philippines, Poland, Russia, Serbia, Seychelles, Slovakia, Slovenia, Ukraine and Uruguay</p></li>
 		</ol>
 </td>
     	<td rowspan="1" style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> <ol style="list-style-type:lower-alpha">
@@ -50,7 +50,8 @@ description: Requirements for transiting through Singapore
 </td>
 	</tr>
   	<tr>
-	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"><a href="/shn-and-swab-summary#table4" target="_blank">Category (IV) countries/regions</a> <br><br> <i>(See <a href="#eligibility">"Eligibility"</a> for countries/regions disallowed for transit)</i>
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"><b>Category (IV) countries/regions</b><p style="margin-top: 20px; font-size: 18px; text-align: left; line-height:1.35;"><b>All other countries or regions <sup>[Note]</sup></b> </p>
+<p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;"><i>[Note: Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe. Non-SC/PRs with a travel history to the specified countries/regions are barred from entry until further notice.</i>]</p>
 </td>
     	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;">COVID-19 Polymerase Chain Reaction Test</td>
 	</tr>
