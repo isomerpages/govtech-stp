@@ -381,20 +381,6 @@ Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_b
 
 &#9744;  <i><b>B) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</b></i>
 
-<b><u>Days 3 and 7 of arrival in Singapore</u></b>
-
-Travellers are required to undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> on <span style="color:red;">Days 3 and 7</span> of their arrival in Singapore. Instructions for the dates of tests and appointment booking will be emailed to travellers upon their arrival in Singapore. 
-
-The test will be self-administered and supervised by an approved COVID-19 test provider. The test will cost S$15 (inclusive of GST), with payment to be made at the QTCs/CTCs through cashless modes such as Mastercard, NETS, PayNow and Visa. <b><u>Cash will not be accepted</u></b>. Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so. 
-
-Children aged 2 and below in this calendar year are not required to undergo any of the post-arrival ARTs.
-
-If the traveller’s day of departure from Singapore is <b>on the day of the test</b>, they are <u>exempted</u> from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
-
-<b><u>Days 2, 4, 5 and 6 of arrival in Singapore</u></b>
-
-In addition, <b style="color:red;">with effect from 6 December 2021, 2359hrs (Singapore time)</b>, all travellers entering Singapore will be required to take a self-administered COVID-19 ART using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on <b style="color:red;">Days 2, 4, 5 and 6</b> of their arrival in Singapore and submit their results online. They may only leave their house and continue with normal activities for the day if their ART result is negative. This is in addition to the requirement to take a supervised self-administered COVID-19 ART at a QTC or CTC on Days 3 and 7 of their arrival in Singapore. Instructions for the dates of the tests and the weblink for results submission will be emailed to travellers after their arrival in Singapore.
-
 <table>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;vertical-align:middle;width:200px;"><b>Day 1 (Arrival)</b></td>
@@ -429,7 +415,19 @@ In addition, <b style="color:red;">with effect from 6 December 2021, 2359hrs (Si
 	</tr>
 	</table>
 
-Travellers who enter Singapore between 3 December 2021 and 6 December 2021 (inclusive) are not required to undergo the self-administered ARTs on Days 2, 4, 5 and 6 of their arrival, but will continue to be required to take the supervised self-administered ARTs at QTCs or CTCs on Days 3 and 7 of their arrival.
+<b><u>Days 2, 4, 5 and 6 of arrival in Singapore</u></b>
+
+Travellers will be required to take a self-administered COVID-19 ART using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on <b style="color:red;">Days 2, 4, 5 and 6</b> of their arrival in Singapore and submit their results online. They may only leave their place of accommodation and continue with normal activities for the day if their ART result is negative. This is in addition to the requirement to take a supervised self-administered COVID-19 ART at a QTC or CTC on Days 3 and 7 of their arrival in Singapore. Instructions for the dates of the tests and the weblink for results submission will be emailed to travellers after their arrival in Singapore.
+
+<b><u>Days 3 and 7 of arrival in Singapore</u></b>
+
+Travellers are required to undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> on <span style="color:red;">Days 3 and 7</span> of their arrival in Singapore. Instructions for the dates of tests and appointment booking will be emailed to travellers upon their arrival in Singapore. 
+
+The test will be self-administered and supervised by an approved COVID-19 test provider. The test will cost S$15 (inclusive of GST), with payment to be made at the QTCs/CTCs through cashless modes such as Mastercard, NETS, PayNow and Visa. <b><u>Cash will not be accepted</u></b>. Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so. 
+
+Children aged 2 and below in this calendar year are not required to undergo any of the post-arrival ARTs.
+
+If the traveller’s day of departure from Singapore is <b>on the day of the test</b>, they are <u>exempted</u> from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
 
 Please refer to our <a href="/vtl/faq#postarrivaltests" target="_blank">FAQs here</a> for more information.
 
