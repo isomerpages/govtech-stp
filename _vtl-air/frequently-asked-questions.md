@@ -657,17 +657,17 @@ To obtain an <b>'International Travel Certificate'</b>:
 Please attempt re-uploading your QR code and ensure that you have the <b>'International'</b> version. A sample is as below. if not, please obtain one on the Mor Prom app by selecting 'International Certificat'.
 
 <table>
-	<tbody>
+<tbody>
 <tr>
-	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#f16566; color:white;"><b>NOT Valid for Travel</b></td>
-	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#153855; color:white;"><b>Valid for Travel</b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#f16566; color:white;"><b>NOT Valid for Travel</b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#153855; color:white;"><b>Valid for Travel</b></td>
 		</tr>
-		<tr>
-	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><img src="/images/ThaiVaxCert_1.png" width="auto" height="auto"></td>
-			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><img src="/images/ThaiVaxCert_2.png" width="auto" height="auto"><br><br> <img src="/images/ThaiVaxCert_3.png" width="auto" height="auto"></td>
-			<tr>
-	</tbody>
-	</table>
+<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><img src="/images/ThaiVaxCert_1.png" width="auto" height="auto"></td>
+	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><img src="/images/ThaiVaxCert_2.png" width="auto" height="auto"><br><br><img src="/images/ThaiVaxCert_3.png" width="auto" height="auto"></td>
+			</tr>
+</tbody>
+</table>
 
 
 <div id="mismatch-error"></div>
