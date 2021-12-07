@@ -42,13 +42,13 @@ description: Start here to find out the travel requirements, restrictions and
 <body>
 
 <div class="iframe-container">
-  <iframe src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" loading="lazy" title="Responsive iframe example" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
+  <iframe src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" loading="lazy" title="Responsive iframe example" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen /></iframe>
 </div>
 </body>
+</html>
+
 
 <!--<iframe width="100%" height="2600px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-	
-</html>
 
 <div id="lanelist"></div>
 
