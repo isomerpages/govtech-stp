@@ -25,7 +25,7 @@ description: Start here to find out the travel requirements, restrictions and
 	
 .iframe-container {
   overflow: hidden;
-  padding-top: 100%;
+  padding-top: 75%;
   position: relative;
 }
 	
