@@ -443,7 +443,7 @@ input:checked + label + .content {
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or professionally administered Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 PCR test upon arrival at Singapore Changi Airport</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival supervised COVID-19 ARTs on Days 3 and 7</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><b>[For entry from 6 Dec 2021, 2359hrs, SGT]</b> Post-arrival self-administered COVID-19 ARTs on Days 2, 4, 5 and 6</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><b>[For arrivals from 6 Dec 2021, 2359hrs, SGT]</b> Post-arrival self-administered COVID-19 ARTs on Days 2, 4, 5 and 6</li>
 	</ol> 
 </p>
 
