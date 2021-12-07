@@ -659,8 +659,8 @@ Please attempt re-uploading your QR code and ensure that you have the <b>'Intern
 <table>
 <tbody>
 <tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#f16566; color:white;"><b>NOT Valid for Travel</b></td>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#153855; color:white;"><b>Valid for Travel</b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#f16566; color:white; text-align:center;"><b>NOT Valid for Travel</b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#153855; color:white; text-align:center;"><b>Valid for Travel</b></td>
 		</tr>
 <tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/ThaiVaxCert_1.png" width="auto" height="auto"></td>
