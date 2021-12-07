@@ -654,7 +654,7 @@ To obtain an <b>'International Travel Certificate'</b>:
 
 #### 6. My vaccination certificate was issued in Thailand, but I am having issues uploading the QR code. What's going wrong?
 
-Please attempt re-uploading your QR code and ensure that you have the <b>'International'</b> version. A sample is as below. if not, please obtain one on the Mor Prom app by selecting 'International Certificat'.
+Please attempt re-uploading your QR code and ensure that you have the <b>'International'</b> version. A sample is as below. If not, please obtain one on the Mor Prom app by selecting 'International Certificate'.
 
 <table>
 <tbody>
