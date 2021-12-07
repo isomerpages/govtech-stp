@@ -69,14 +69,22 @@ input:checked + label + .content {
 </head>
 </html>
 
-This travel checklist is for the following travellers who are eligible for the VTL and will be arriving in Singapore on a designated VTL flight:
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><b>For all travellers arriving in Singapore via designated VTL flights including the following:</b></p>
 
-<p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>Singapore Citizens and Singapore Permanent Residents ("SC/PRs")</b></p>
-<p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; Singapore <b>Long Term Pass Holders ("LTPHs")</b> (i.e. Holders of Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration & Checkpoints Authority)</p>
-<p style="font-size:18px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>Short-term Visitors ("STVs")</b> (i.e. travellers who are not SC/PRs or LTPHs)</p>
-<p style="font-size:18px;"><span style="color:red; font-size:32px;">&#9888;</span>&nbsp; <b>[If ALL applicable requirements below are not met]</b> SC/PRs will be subjected to prevailing Stay-Home Notice and testing requirements. All other travellers may be denied entry into Singapore. If you are not eligible for the VTL, refer to the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page for the available non-VTL lanes.</p>
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px; color:green;"><b>&#10003;</b></span>&nbsp;<b>Singapore Citizens</b> and <b>Permanent Residents ("SC/PRs")</b></p>
 
-<!--<p style="font-size:18px;"><span style="color:black; font-size:32px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>-->
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px; color:green;"><b>&#10003;</b></span>&nbsp; <b>Holders of a Singapore-issued Long-Term Pass ("LTPHs")</b> (<i>i.e. Holders of Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration & Checkpoints Authority</i>)</p>
+
+<p style="font-size:18px; margin-top:10px; margin-bottom:30px;"><span style="font-size:25px; color:green;"><b>&#10003;</b></span>&nbsp; <b>Short-term Visitors ("STVs")</b> (i.e. travellers who are not SC/PRs or LTPHs)</p>
+
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><b>Not allowed to enter Singapore via VTL (Air):</b></p>
+
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px;  color:red;"><b>&#10005;</b></span> &nbsp; Travellers arriving in Singapore by bus via the Causeway. Fully vaccinated travellers who intend to enter Singapore from Malaysia via the Causeway should check the <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> for more details.</p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) Sector</p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Workers staying in dormitories</p>
+<p style="font-size:18px;margin-top:10px;margin-bottom:0px; line-height:1.4;"><span style="color:red; font-size:30px;">&#9888;</span>&nbsp; <b>[If ALL applicable requirements below are not met]</b> SC/PRs will be subjected to prevailing Stay-Home Notice and testing requirements. All other travellers may be denied entry into Singapore. If you are not eligible for the VTL, refer to the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page for the available non-VTL lanes.</p>
+<p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4;"><span style="color:black; font-size:25px;"><b>&#9997;</b></span> &nbsp; Travellers may check against the box (&#9744;) for completed actions.</p>
+
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 

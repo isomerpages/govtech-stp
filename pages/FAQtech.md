@@ -11,8 +11,8 @@ permalink: /FAQ/tech
 3. [Receipts and Approval Letters](#receiptandapproval)
 4. [Traveller Details](#TravellerDetails) 
 5. [Document Uploads](#upload)
-6. [[VTL (Air)] Digitally Verifiable Vaccination Certificate and QR Code Issues](/vtl/faq#vaxcert)
-7. [[VTL (Land) Digitally Verifiable Vaccination Certificate and QR Code Issues](/vtl/faq#vaxcert)
+6. [VTL (Air) Digitally Verifiable Vaccination Certificate and QR Code Issues](/vtl/faq#vaxcert)
+7. [VTL (Land) Digitally Verifiable Vaccination Certificate and QR Code Issues](/vtl/faq#vaxcert)
 8. [Other General Application Issues](#GenAppIssues) 
 
 <div id="entrydates"></div>
@@ -21,9 +21,11 @@ permalink: /FAQ/tech
 
 #### 1. I am unable to select my desired entry date during application. Why?
 
-Prospective travellers/applicants will only be able to select entry dates between 3 to 60 days from the date of application.
+Please note the following application windows for **Vaccinated Travel Passes (VTP)**. Travellers not entering Singapore during the following date ranges should come back on a later date to apply:
+- VTP (Land) applications are open for travellers intending to enter Singapore **3-9 days after today**. To cater for unforeseen circumstances, a VTP (Land) is valid for entry up to 14 calendar days after the traveller’s chosen date of entry.
+- VTP (Air) applications are open for travellers intending to enter Singapore **7-13 days after today**. To cater for unforeseen circumstances, a VTP (Air) is valid for entry up to 6 calendar days after the traveller’s chosen date of entry.
 
-Entry into Singapore is staggered to manage COVID-19 importation risk. If there are no available entry dates, please try applying again one week later. If the alternative entry dates remain unavailable, you may wish to defer your travel plans until the situation has stabilised.
+**For other entry approval and Safe Travel Pass applications**, prospective travellers/applicants will only be able to select entry dates **3 to 60 days** after today. Entry into Singapore is staggered to manage COVID-19 importation risk. If there are no available entry dates, please try applying again one week later. If the alternative entry dates remain unavailable, you may wish to defer your travel plans until the situation has stabilised.
 
 <div id="amendment"></div>
 
