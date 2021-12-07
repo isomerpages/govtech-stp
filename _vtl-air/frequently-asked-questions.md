@@ -663,7 +663,7 @@ Please attempt re-uploading your QR code and ensure that you have the <b>'Intern
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#153855; color:white;"><b>Valid for Travel</b></td>
 		</tr>
 <tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><img src="/images/ThaiVaxCert_1.png" width="auto" height="auto"></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/ThaiVaxCert_1.png" width="auto" height="auto"></td>
 	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><img src="/images/ThaiVaxCert_2.png" width="auto" height="auto"><br><br><img src="/images/ThaiVaxCert_3.png" width="auto" height="auto"></td>
 			</tr>
 </tbody>
