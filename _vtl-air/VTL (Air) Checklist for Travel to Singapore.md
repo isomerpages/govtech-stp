@@ -57,7 +57,10 @@ You should have at least one of the following acceptable proofs of vaccination, 
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Australia:</b> <a target="_blank" href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof">International COVID-19 Vaccination Certificate</a> (QR code in <a target="_blank" href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a target="_blank" href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Brunei:</b> Proof of vaccination on the <a target="_blank" href="http://www.moh.gov.bn/SitePages/bruhealth.aspx">BruHealth app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Canada:</b> <a target="_blank" href="https://smarthealth.cards/en/faq.html">SMART Health Cards (SHC)</a> issued by any Canadian province</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Denmark, Finland, France, Germany, Italy, Netherlands, Spain, Sweden, Switzerland:</b> <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> of vaccination issued by any <a href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>):</b> <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> of vaccination. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
+		<p style="line-height:1.3; margin-top:15px; font-size:18px; color:red;">* Travellers must continue to fulfill all <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including travel history requirements, and must arrive in Singapore on a designated VTL flight.</p>
+	</li>
+		<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Denmark, Finland, France, Germany, Italy, Netherlands, Spain, Sweden, Switzerland:</b> <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> of vaccination issued by any <a href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). </li>-->
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> International Travel Certificate in the <a target="_blank" href="https://divoc.egov.org.in/">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.</li>	
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
@@ -90,11 +93,6 @@ You should have at least one of the following acceptable proofs of vaccination, 
 			</ol>
 		</li>
 	</ol>
-<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 6 Dec 2021, 2359hrs:</b></p>
-	<ol style="margin-top:0px; list-style-type: disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>All other European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>):</b> <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> of vaccination</li>
-	</ol>
-	<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35; color:red;"><i>*Travellers must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including travel history requirements, and must arrive in Singapore on a designated VTL flight.</i></p>
 <p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 13 Dec 2021, 2359hrs:</b></p>
 	<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Thailand:</b> International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</li>
@@ -383,20 +381,6 @@ Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_b
 
 &#9744;  <i><b>B) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</b></i>
 
-<b><u>Days 3 and 7 of arrival in Singapore</u></b>
-
-Travellers are required to undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> on <span style="color:red;">Days 3 and 7</span> of their arrival in Singapore. Instructions for the dates of tests and appointment booking will be emailed to travellers upon their arrival in Singapore. 
-
-The test will be self-administered and supervised by an approved COVID-19 test provider. The test will cost S$15 (inclusive of GST), with payment to be made at the QTCs/CTCs through cashless modes such as Mastercard, NETS, PayNow and Visa. <b><u>Cash will not be accepted</u></b>. Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so. 
-
-Children aged 2 and below in this calendar year are not required to undergo any of the post-arrival ARTs.
-
-If the traveller’s day of departure from Singapore is <b>on the day of the test</b>, they are <u>exempted</u> from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
-
-<b><u>Days 2, 4, 5 and 6 of arrival in Singapore</u></b>
-
-In addition, <b style="color:red;">with effect from 6 December 2021, 2359hrs (Singapore time)</b>, all travellers entering Singapore will be required to take a self-administered COVID-19 ART using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on <b style="color:red;">Days 2, 4, 5 and 6</b> of their arrival in Singapore and submit their results online. They may only leave their house and continue with normal activities for the day if their ART result is negative. This is in addition to the requirement to take a supervised self-administered COVID-19 ART at a QTC or CTC on Days 3 and 7 of their arrival in Singapore. Instructions for the dates of the tests and the weblink for results submission will be emailed to travellers after their arrival in Singapore.
-
 <table>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;vertical-align:middle;width:200px;"><b>Day 1 (Arrival)</b></td>
@@ -431,7 +415,19 @@ In addition, <b style="color:red;">with effect from 6 December 2021, 2359hrs (Si
 	</tr>
 	</table>
 
-Travellers who enter Singapore between 3 December 2021 and 6 December 2021 (inclusive) are not required to undergo the self-administered ARTs on Days 2, 4, 5 and 6 of their arrival, but will continue to be required to take the supervised self-administered ARTs at QTCs or CTCs on Days 3 and 7 of their arrival.
+<b><u>Days 2, 4, 5 and 6 of arrival in Singapore</u></b>
+
+Travellers will be required to take a self-administered COVID-19 ART using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on <b style="color:red;">Days 2, 4, 5 and 6</b> of their arrival in Singapore and submit their results online. They may only leave their place of accommodation and continue with normal activities for the day if their ART result is negative. This is in addition to the requirement to take a supervised self-administered COVID-19 ART at a QTC or CTC on Days 3 and 7 of their arrival in Singapore. Instructions for the dates of the tests and the weblink for results submission will be emailed to travellers after their arrival in Singapore.
+
+<b><u>Days 3 and 7 of arrival in Singapore</u></b>
+
+Travellers are required to undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> on <span style="color:red;">Days 3 and 7</span> of their arrival in Singapore. Instructions for the dates of tests and appointment booking will be emailed to travellers upon their arrival in Singapore. 
+
+The test will be self-administered and supervised by an approved COVID-19 test provider. The test will cost S$15 (inclusive of GST), with payment to be made at the QTCs/CTCs through cashless modes such as Mastercard, NETS, PayNow and Visa. <b><u>Cash will not be accepted</u></b>. Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so. 
+
+Children aged 2 and below in this calendar year are not required to undergo any of the post-arrival ARTs.
+
+If the traveller’s day of departure from Singapore is <b>on the day of the test</b>, they are <u>exempted</u> from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
 
 Please refer to our <a href="/vtl/faq#postarrivaltests" target="_blank">FAQs here</a> for more information.
 

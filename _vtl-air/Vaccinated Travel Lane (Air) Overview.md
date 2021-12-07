@@ -8,7 +8,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">Travellers entering Singapore with effect from <b>2 December 2021, 2359hrs, SGT</b>, will be required to undergo supervised COVID-19 Antigen Rapid Tests (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC) on Days 3 and 7 of their arrival in Singapore.</p>
 		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">Travellers entering Singapore with effect from <b>6 December 2021, 2359hrs, SGT</b>, will also be required to undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on Days 2, 4, 5 and 6 of their arrival in Singapore. This is in addition to the supervised ARTs on Days 3 and 7.
 	</p>
-<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">S Pass and Work Permit holders in the Construction, Marine shipyard or Process (CMP) sector will not be allowed to apply for a Vaccinated Travel Pass (Air) [VTP (Air)]. This does not apply to Malaysians and female work pass holders. Those who have obtained prior approval will still be allowed to enter Singapore. Please <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/1204-ceasing-of-entry-of-cmp-workers-and-other-dormitory-bound-workers-via-vtls" target="_blank">click here</a> for more information.</p>
+<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">S Pass and Work Permit holders in the Construction, Marine shipyard or Process (CMP) sector, or who will be staying in dormitories will not be allowed to apply for a Vaccinated Travel Pass (Air) [VTP (Air)]. This does not apply to Malaysians and female work pass holders. Those who have obtained prior approval will still be allowed to enter Singapore. Please <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/1204-ceasing-of-entry-of-cmp-workers-and-other-dormitory-bound-workers-via-vtls" target="_blank">click here</a> for more information.</p>
 	</div>
 
 <!--<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; background-color:#f8f8f8; border-style: solid; border-width: 1px; margin-bottom:20px;">
@@ -38,6 +38,8 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 <div id="countries"></div>
 
 ### 1. VTL (Air) Countries/Regions
+
+Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions" within the past 14 days, based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. For instance, travellers entering Singapore on or after 14 December can have travel history to Thailand within the past 14 days. Those entering Singapore prior to 14 December may not have travel history to Thailand.
 
 <table>
 <tbody>
@@ -139,8 +141,6 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
 	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">For all other workers- <a href="/wphl/overview" target="_blank">Work Pass Holder Lane</a></li>
 	</ul>
-<p style="font-size:18px; margin-top:10px; margin-bottom:30px; line-height:1.35;">Those who had obtained a VTL approval <b>before 4 Dec 2021, 2359h</b> can still enter Singapore. </p>
-
 
 <html>
 
@@ -228,7 +228,10 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Australia:</b> <a target="_blank" href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof">International COVID-19 Vaccination Certificate</a> (QR code in <a target="_blank" href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a target="_blank" href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Brunei:</b> Proof of vaccination on the <a target="_blank" href="http://www.moh.gov.bn/SitePages/bruhealth.aspx">BruHealth app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Canada:</b> <a target="_blank" href="https://smarthealth.cards/en/faq.html">SMART Health Cards (SHC)</a> issued by any Canadian province</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Denmark, Finland, France, Germany, Italy, Netherlands, Spain, Sweden, Switzerland:</b> <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> of vaccination issued by any <a href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). </li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>):</b> <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> of vaccination. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
+		<p style="line-height:1.3; margin-top:15px; font-size:18px; color:red;">* Travellers must continue to fulfill all <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including travel history requirements, and must arrive in Singapore on a designated VTL flight.</p>
+	</li>
+	<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Denmark, Finland, France, Germany, Italy, Netherlands, Spain, Sweden, Switzerland:</b> <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> of vaccination issued by any <a href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). </li>-->
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> International Travel Certificate in the <a target="_blank" href="https://divoc.egov.org.in/">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.</li>	
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
@@ -261,11 +264,6 @@ input:checked + label + .content {
 			</ol>
 		</li>
 	</ol>
-	<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 6 Dec 2021, 2359hrs:</b></p>
-	<ol style="margin-top:0px; list-style-type: disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>All other European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>):</b> <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> of vaccination</li>
-	</ol>
-	<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35; color:red;"><i>*Travellers must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including travel history requirements, and must arrive in Singapore on a designated VTL flight.</i></p>
 <p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>For entry into Singapore from 13 Dec 2021, 2359hrs:</b></p>
 	<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Thailand:</b> International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</li>
@@ -405,10 +403,6 @@ input:checked + label + .content {
 <td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>VTL (Air) Country/Region</b></td>
 		<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Commencement of VTP (Air) Application</b></td>
 		</tr>
-		<tr>
-	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Thailand </td>
-		<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">7 Dec 2021, 1000hrs, SGT</td>
-	</tr>
 			<tr>
 	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey </td>
 		<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">9 Dec 2021, 1000hrs, SGT</td>
@@ -420,7 +414,8 @@ input:checked + label + .content {
 	</tbody>
 	</table>	
 	<ol style="margin-top:0px; list-style-type:disc;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">There is <u><b>no quota</b></u> on VTPs issued for air travel. Due to the high volume of VTP (Air) applications, only those who are entering Singapore between <b>14 Dec 2021 and 20 Dec 2021 (both dates inclusive)</b> may apply at this point in time.</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTP (Air) applications are open for travellers intending to enter Singapore <b>7-13 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers do not need to rush to apply as there is no limit on VTPs issued per day.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Get ready your passport, <a target="_blank" href="/vtl/faq#QRcode">proof of vaccination</a> and self-isolation address before applying.</li>
 	</ol>
 	<p></p>
@@ -447,7 +442,7 @@ input:checked + label + .content {
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or professionally administered Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 PCR test upon arrival at Singapore Changi Airport</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival supervised COVID-19 ARTs on Days 3 and 7</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><b>[For entry from 6 Dec 2021, 2359hrs, SGT]</b> Post-arrival self-administered COVID-19 ARTs on Days 2, 4, 5 and 6</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival self-administered COVID-19 ARTs on Days 2, 4, 5 and 6</li>
 	</ol> 
 </p>
 
