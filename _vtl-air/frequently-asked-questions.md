@@ -652,9 +652,27 @@ To obtain an <b>'International Travel Certificate'</b>:
 - Click on the 'Submit Request' option to get your 'International Travel Certificate'.
 
 
+#### 6. My vaccination certificate was issued in Thailand, but I am having issues uploading the QR code. What's going wrong?
+
+Please attempt re-uploading your QR code and ensure that you have the <b>'International'</b> version. A sample is as below. if not, please obtain one on the Mor Prom app by selecting 'International Certificat'.
+
+<table>
+	<tbody>
+<tr>
+	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#f16566; color:white;"><b>NOT Valid for Travel</b></td>
+	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#153855; color:white;"><b>Valid for Travel</b></td>
+		</tr>
+		<tr>
+	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><img src="/images/ThaiVaxCert_1.png" width="auto" height="auto"></td>
+			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><img src="/images/ThaiVaxCert_2.png" width="auto" height="auto"><br><br> <img src="/images/ThaiVaxCert_3.png" width="auto" height="auto"></td>
+			<tr>
+	</tbody>
+	</table>
+
+
 <div id="mismatch-error"></div>
 
-#### 6. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP (Air)?
+#### 7. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP (Air)?
 
 Please refer to the table below. 
 <table>
@@ -711,7 +729,7 @@ Please refer to the table below.
 If you are still facing name mismatch errors, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
 
-#### 7. Why are only SMART Health Cards by certain issuers accepted?
+#### 8. Why are only SMART Health Cards by certain issuers accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
 
@@ -721,7 +739,7 @@ We are currently working on accepting digitally verifiable vaccination certifica
 
 <div id="Question7"></div>
 
-#### 8. I was issued a vaccination certificate in the United States but it is not a SMART Health Card issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative. Is there any alternative to showing my vaccination status for VTL travel?
+#### 9. I was issued a vaccination certificate in the United States but it is not a SMART Health Card issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative. Is there any alternative to showing my vaccination status for VTL travel?
 
 You can provide either 
 <ol style="list-style-type:lower-alpha;">
