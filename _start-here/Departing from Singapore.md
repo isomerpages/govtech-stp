@@ -67,9 +67,13 @@ On this page, travellers intending to depart from Singapore can find information
 
 ### 4) Digitally Authenticated Vaccination Certificate
 
-<p style="margin-top:20px; margin-bottom:20px; font-size:20px; line-height:1.35;">All hardcopy vaccination cards/ slips issued in Singapore, as well as vaccination records found on mobile applications such as <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> are <b>not</b> meant for overseas use. Travellers who are vaccinated in Singapore and are required by  foreign authorities to show digitally authenticated proof of vaccination, should digitally authenticate their vaccination records using <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise</a>. Upon authentication, a digital vaccination certificate and QR code will be sent by Notαrise to the traveller’s email and/or Singpass mobile application.</p>
+<p style="margin-top:20px; margin-bottom:20px; font-size:20px; line-height:1.35;">All hardcopy vaccination cards/ slips issued in Singapore, as well as vaccination records found on mobile applications such as TraceTogether and HealthHub may not be accepted for use overseas where digital verification might be required i.e. scanning the QR codes on your digital vaccination certificate.</p>
 
-<p style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;">Have a technical question that is unanswered? Write to <a href="mailto:support@notarise.gov.sg">support@notarise.gov.sg</a> for assistance.</p>
+<p style="margin-top:20px; margin-bottom:20px; font-size:20px; line-height:1.35;">Travellers who are vaccinated in Singapore and are required by foreign authorities to show digitally verifiable proof of vaccination should obtain a digitally verifiable vaccination certificate (‘Vaccination HealthCert’) at Notαrise. Upon successful application, the Vaccination HealthCert will be sent by Notαrise to the traveller’s email and/or Singpass app (for users who logged in using Singpass app/ credentials). Foreign authorities will be able to scan the QR codes on the certificate to digitally verify that the certificate is authentic.</p>
+
+<p style="margin-top:20px; margin-bottom:20px; font-size:20px; line-height:1.35;">Travellers who had previously obtained their Vaccination HealthCert before 7 Dec 2021 should visit Notαrise again to obtain a new Vaccination HealthCert which will now include additional offline verification QRs. These additional QRs will ease the digital verification of their Vaccination HealthCert within the European Union (EU) or in countries/regions which recognise Singapore’s EU Digital COVID certificate.</p>
+
+<p style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;">For further details on obtaining a digital vaccination certificate and how to use your digital vaccination certificate, please visit <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise</a> or write to <a href="mailto:support@notarise.gov.sg">support@notarise.gov.sg</a> for assistance.</p>
 
 ---
 
