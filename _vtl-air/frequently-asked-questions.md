@@ -87,8 +87,13 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 		<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">In Singapore</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Either of the following:<br><br>a. a vaccination status on the TraceTogether app or HealthHub app; or <br><br>
-b. vaccination certificate(s) issued by the Singapore Ministry of Health.
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Any of the following: <ol style="list-style-type:lower-alpha; margin-top:10px;">
+			<li style="line-height:1.3; font-size:15px;">Vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
+			<b style="font-size:15px;">OR</b>
+			<li style="line-height:1.3; margin-bottom:15px; font-size:15px;">Vaccination certificate issued by the Singapore Ministry of Health </li>
+			<b style="font-size:15px;">OR</b>
+			<li style="line-height:1.3; margin-bottom:15px;  font-size:15px;"> Vaccination certificate showing one dose of vaccine and a discharge memo issued in Singapore, EU DCC of recovery from COVID-19, or National Health Service (“NHS”) COVID Pass of recovery</li>
+			</ol>
 			</td>
 		</tr>
 		<tr>
@@ -223,14 +228,14 @@ We are currently unable to accept recovery certificates of travellers with proof
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Egypt<br><i>[For entry into Singapore from 15 Dec 2021, 2359hrs]</i></b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">COVID-19 Vaccine Certificate issued by the Ministry of Health & Population, Arab Republic of Egypt</td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
-</tr>-->
+</tr>
 				<tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Denmark<br/>Finland<br/>France<br/>Germany<br/>Italy<br/>Netherlands<br/>Spain<br/>Sweden<br/>Switzerland</b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU DCC</a> of vaccination. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2).</td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
-</tr>
+</tr>-->
 	<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>All other European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br>*Travellers must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including travel history requirements, and must arrive in Singapore on a designated VTL flight.</b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br>*Travellers must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including travel history requirements, and must arrive in Singapore on a designated VTL flight.</b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU DCC</a> of vaccination. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2).</td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
 </tr>
@@ -285,7 +290,7 @@ We are currently unable to accept recovery certificates of travellers with proof
 			<tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Thailand<br><br><i>[For entry into Singapore from 13 Dec 2021, 2359hrs]</i></b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</td>
-				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
+				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes. This can be retrieved by selecting 'International Certificate' on the Mor Prom app.</td>
 </tr>
 <!--	<tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>United Arab Emirates<br><br><i>[Deferred until further notice]</i></b></td>
@@ -375,7 +380,7 @@ Depending on the vaccination certificate you hold, you are encouraged to check i
 	</ol>
 	</td>
 </tr>
-	<tr>
+	<!--<tr>
 	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Denmark<br>
 Finland<br> 
 France<br>
@@ -393,9 +398,9 @@ Switzerland</td>
 		<li style="font-size:15px; margin-top:10px; margin-bottom:0px; line-height:1.5;">iOS Mobile App: <a href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510" target="_blank">COVID Certificate Check</a> </li>
 	</ol>
 	</td>
-</tr>
+</tr>-->
 	<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">All other European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">
 	<ol style="margin-top:0px; list-style-type: disc;">
@@ -513,7 +518,7 @@ You may refer to this table below. Please extract (i.e. screen-capture, crop and
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr> -->
-<tr>
+<!--<tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Denmark<br>
 Finland<br> 
 France<br>
@@ -527,9 +532,9 @@ Switzerland</td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u>On physical/PDF copy</u><br><img src="/images/QR_Denmark_1.png" width="57" height="75"> or <br><u>On apps</u><br><img src="/images/QR_Denmark_2.png" width="45" height="85"></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code indicating the final dose (i.e. 1/1 or 2/2)</td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
-</tr>
+</tr>-->
 	<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">All other European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br><i>[For VTP applications from 30 Nov 2021, 0000hrs]</i></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)<br><br><i>[For VTP applications from 30 Nov 2021, 0000hrs]</i></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u>On physical/PDF copy</u><br><img src="/images/QR_Denmark_1.png" width="57" height="75"><br><i>[For Turkey-issued certificates:]</i><br><img src="/images/QR_Canada.png" width="54" height="84"><br>or<br><br><u>On apps</u><br><img src="/images/QR_Denmark_2.png" width="45" height="85"></td>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code indicating the final dose (i.e. 1/1 or 2/2)</td>
