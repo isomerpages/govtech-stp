@@ -52,7 +52,7 @@ Travellers who use the VTL (Land) to enter Singapore can only return to Malaysia
 	<li style="line-height:1.5;">Arrives in Malaysia on a designated VTL (Land) bus service.</li>
 	</ol>
 
-For more details, travellers should consult the <a href="http://www.myvtl.gov.my/" target="_blank">relevant authorities in Malaysia</a>. 
+For more details, travellers should consult the <a href="https://mysafetravel.gov.my/" target="_blank">relevant authorities in Malaysia</a>. 
 
 #### 3. I am a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land). Can my spouse, child or family member who is not a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass accompany me to enter Singapore under the VTL (Land)?
 
