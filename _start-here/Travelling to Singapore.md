@@ -24,8 +24,8 @@ description: Start here to find out the travel requirements, restrictions and
 <style>
 .myIframe {
   position: relative;
-  padding-bottom: 58%;
-  padding-top: 58%;
+  padding-bottom: 60%;
+  padding-top: 60%;
   height: 0;
   overflow: auto;
 }
