@@ -20,6 +20,7 @@ description: Start here to find out the travel requirements, restrictions and
 
 <html>
 <head>
+<meta charset="utf-8">
 <script>
 	
 .iframe-container {
