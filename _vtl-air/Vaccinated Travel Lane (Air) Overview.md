@@ -414,7 +414,8 @@ input:checked + label + .content {
 	</tbody>
 	</table>	
 	<ol style="margin-top:0px; list-style-type:disc;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">There is <u><b>no quota</b></u> on VTPs issued for air travel. Due to the high volume of VTP (Air) applications, only those who are entering Singapore between <b>14 Dec 2021 and 20 Dec 2021 (both dates inclusive)</b> may apply at this point in time.</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTP (Air) applications are open for travellers intending to enter Singapore <b>7-13 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers do not need to rush to apply as there is no limit on VTPs issued per day.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Get ready your passport, <a target="_blank" href="/vtl/faq#QRcode">proof of vaccination</a> and self-isolation address before applying.</li>
 	</ol>
 	<p></p>
