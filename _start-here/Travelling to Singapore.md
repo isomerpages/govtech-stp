@@ -42,7 +42,7 @@ description: Start here to find out the travel requirements, restrictions and
 <body>
 
 <div class="myIframe"> 
- <iframe scrolling="no" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 </body>
