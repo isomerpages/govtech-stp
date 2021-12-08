@@ -41,6 +41,8 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 
 Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions" within the past 14 days, based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. For instance, travellers entering Singapore on or after 14 December can have travel history to Thailand within the past 14 days. Those entering Singapore prior to 14 December may not have travel history to Thailand.
 
+SC/PRs with travel history to countries that are not listed within the "Active VTL (Air) Countries/Regions" will be subject to the <a href="/shn-and-swab-summary" target="_blank">prevailing health measures</a>. All other travellers will be denied entry into Singapore. 
+
 <table>
 <tbody>
 	<tr>
@@ -53,7 +55,8 @@ Travellers may only have travelled to or transited via "Active VTL (Air) Countri
 <p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
 <p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>4</sup>Including the Canary Islands</p>
 <p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>5</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>6</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>6</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>		
+		<p style="font-size:14px; margin-top:20px; margin-bottom:0px; line-height:1.35;"><b>Note: The Vatican City is an independent city state and is not considered part of Italy.</b></p>	
 </td>
 	</tr>
 	</tbody>
