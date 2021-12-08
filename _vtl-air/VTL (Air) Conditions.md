@@ -7,7 +7,7 @@ description: ""
 
 <ol style="font-size:20px;">
 	<li style="font-size:20px; list-style-type:decimal;"> A Vaccinated Travel Pass (Air) [VTP (Air)] is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP (Air) approval.
-		<ol style="font-size:20px; list-style-type:alpha;">
+		<ol style="font-size:20px; list-style-type:upper-alpha;">
 			<li style="font-size:20px;">The VTP (Air) shall not be valid for a non-Malaysian male who is:
 			<ol style="font-size:20px; list-style-type:lower-roman;">
 				<li style="font-size:20px;">a Work Permit Holder;</li>
