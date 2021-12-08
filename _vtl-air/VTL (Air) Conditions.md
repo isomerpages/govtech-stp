@@ -6,7 +6,17 @@ description: ""
 ### Conditions of the Vaccinated Travel Lane (Air) [VTL (Air)]
 
 <ol style="font-size:20px;">
-	<li style="font-size:20px; list-style-type:decimal;"> A Vaccinated Travel Pass (Air) [VTP (Air)] is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP (Air) approval.</li>
+	<li style="font-size:20px; list-style-type:decimal;"> A Vaccinated Travel Pass (Air) [VTP (Air)] is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP (Air) approval.
+		<ol style="font-size:20px; list-style-type:alpha;">
+			<li style="font-size:20px;">The VTP (Air) shall not be valid for a non-Malaysian male who is:
+			<ol style="font-size:20px; list-style-type:lower-roman;">
+				<li style="font-size:20px;">a Work Permit Holder;</li>
+				<li style="font-size:20px;">an S Pass holder; or</li>
+				<li style="font-size:20px;">a holder of an In-Principle Approval for Work Permit or S Pass, if he is staying in a Dormitory<sup>1</sup> or if he is working in the Construction, Marine or Process sector.</li>
+				</ol>
+			</li>
+		</ol>
+	</li>
   <li style="font-size:20px; list-style-type:decimal;"> A VTL (Air) traveller must comply with the following conditions:
      <ol style="font-size:18px; list-style-type:lower-alpha;">
 	      <li style="font-size:18px; list-style-type:lower-alpha;">be <a href="/health/vtsg">fully vaccinated</a>, and have an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>;</li>	      
