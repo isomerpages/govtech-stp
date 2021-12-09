@@ -400,22 +400,6 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (AIR) [VTP(AIR)]</b>
 	</p>
-	<table>
-<tbody>
-	<tr>
-<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>VTL (Air) Country/Region</b></td>
-		<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Commencement of VTP (Air) Application</b></td>
-		</tr>
-			<tr>
-	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey </td>
-		<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">9 Dec 2021, 1000hrs, SGT</td>
-	</tr>
-	<tr>
-	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Qatar, Saudi Arabia and the United Arab Emirates </td>
-		<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Deferred until further notice</td>
-	</tr>
-	</tbody>
-	</table>	
 	<ol style="margin-top:0px; list-style-type:disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTP (Air) applications are open for travellers intending to enter Singapore <b>7-13 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers do not need to rush to apply as there is no limit on VTPs issued per day.</li>
