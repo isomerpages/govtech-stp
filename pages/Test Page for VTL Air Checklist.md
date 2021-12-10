@@ -15,11 +15,11 @@ published: true
 
 <style>
 	
-input.old {
+input.accordion {
     display: none;
 }
 
-label.old {
+label.accordion {
     display: block;    
     padding: 10px 30px;
     margin: 0 0 1px 0;
@@ -31,11 +31,11 @@ label.old {
 	position: relative;
 }
 
-label.old:hover {
+label.accordion:hover {
     background: #346f9e;
 }
 
-label.old::after {
+label.accordion::after {
 	font-family: "Font Awesome 5 Free";
 	content: '\271A';
 	font-weight: bold;
@@ -45,7 +45,7 @@ label.old::after {
 	top: 6px;
 }
 
-input.old:checked + label.old::after {
+input.accordion:checked + label.old::after {
 	content: '\2716';
 }
 
@@ -56,24 +56,24 @@ input.old:checked + label.old::after {
     border-radius: 3px;
 }
 
-input.old + label.old + .content {
+input.accordion + label.accordion + .content {
     display: none;
 }
 
-input.old:checked + label.old + .content {
+input.accordion:checked + label.accordion + .content {
     display: block;
 }
 	
-input.new {display:block;}	
+input.box {display:block;}	
 	
-	label.new { 
+	label.box { 
 	    display: block;    
     padding: 10px 30px;
     margin: 0 0 1px 0;
     cursor: pointer;
-    background: #FF3855;
+    background: #d5d5d5;
     border-radius: 3px;
-    color: #FFFFFF;
+    color: #000000;
     transition: ease .5s;
 	position: relative;
 	}
@@ -103,11 +103,7 @@ input.new {display:block;}
 
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="new" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A">
-<label class="new" for="1A">&nbsp;&nbsp;<b>(1A) Obtain an accepted proof of vaccination</b></label></div>
-
-
-
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>(1A) Obtain an accepted proof of vaccination</b></label></div>
 
 
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
@@ -128,8 +124,8 @@ input.new {display:block;}
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(A) Obtain an accepted proof of vaccination</b>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers <u>must</u> obtain any of the following acceptable proofs of vaccination to be eligible for the VTL.</p>
-<input class="old" type="checkbox" id="proof" />
-<label class="old" for="proof" style="background:#D8D8D8;color:black;"><b>(Click Here) Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></label>
+<input class="accordion" type="checkbox" id="proof" />
+<label class="accordion" for="proof" style="background:#D8D8D8;color:black;"><b>(Click Here) Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></label>
 
 <div class="content" style="background-color:#e5e5e5;">
 <p style="line-height:1.3; font-size:18px;">
