@@ -91,7 +91,7 @@ input:checked + label + .content {
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(A) Obtain an accepted proof of vaccination</b></p>
 </div>
-<div style="position: relative;width: 100%;overflow: hidden;padding-top: 185%; margin-bottom:20px;"> 
+<div style="position: relative;width: 100%;overflow: hidden;padding-top: 56.25%; margin-bottom:20px;"> 
   <iframe style="position: absolute;top: 0;left: 0;bottom: 0;right: 0; width: 100%; height: 100%; border: none;" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16"></iframe>
 </div>
 
