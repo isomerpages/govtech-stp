@@ -155,6 +155,8 @@ Yes, if the date of your vaccine dose is at least 14 days before the date of you
 
 If you are required to apply for a VTP (Air), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo. 
 
+VTL (Air) travellers will still need to undergo all pre- and post-arrival tests as required in the <a href="/vtl/conditions" target="_blank">VTL (Air) Conditions</a>, including the pre-departure PCR/ART test, and ART tests on Days 2,3,4,5,6,7 after arrival. 
+
 You <u>do not</u> need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination, NHS COVID Pass of vaccination, or Northern Ireland COVID certificate showing the final dose in the series (i.e. "1/1"). IF you are required to apply for a VTP (Air), you need only upload the QR code found on your vaccination certificate. 
 
 
@@ -982,13 +984,13 @@ Those arriving in Singapore on a non-designated flight will be subject to the <a
 
 #### 4. What flights may Long-Term Pass holders take in order to enter Singapore?
 
-Long-Term Pass holders holding a VTP (Air) may only arrive in Singapore on a designated VTL (Air) flight. Otherwise, they may be denied entry into Singapore.
+Long-Term Pass holders holding a VTP (Air) may only arrive in Singapore on a designated VTL (Air) flight within the validity period of the VTP (Air) issued. Otherwise, they may be denied entry into Singapore.
 
 Long-Term Pass holders holding a Approval Letter of Entry (ALE) via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/overview">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a> may only travel to Singapore on a non-designated flight and will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
 #### 5. What flights may short-term visitors take in order to enter Singapore?
 
-Short-term visitors who are VTP (Air) holders may only arrive in Singapore on designated VTL (Air) flights. Otherwise, they will be denied entry into Singapore.
+Short-term visitors who are VTP (Air) holders may only arrive in Singapore on designated VTL (Air) flights within the validity period of the VTP (Air) issued. Otherwise, they will be denied entry into Singapore.
 
 #### 6. What must travellers present to airline staff during check-in at the departure airport for Singapore?
 
