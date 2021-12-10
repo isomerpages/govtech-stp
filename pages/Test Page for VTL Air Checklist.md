@@ -66,7 +66,7 @@ input:checked + label + .content {
 
 .iframe-container {
   overflow: visible;
-  padding-top: 200%;
+  padding-top: 180%;
   /* 16:9*/
   position: relative;
 }
@@ -101,17 +101,15 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4;"><span style="color:black; font-size:25px;"><b>&#9997;</b></span> &nbsp; Travellers may check against the box (&#9744;) for completed actions.</p>
 
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(A) Obtain an accepted proof of vaccination</b></p>
-
-<div class="iframe-container">
+</div>
+<div class="iframe-container" style="background-color:#f8f8f8; margin-bottom:20px;">
 <iframe src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16"></iframe>
 	</div>
-</div>
-
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
