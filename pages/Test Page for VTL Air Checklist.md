@@ -63,22 +63,6 @@ input + label + .content {
 input:checked + label + .content {
     display: block;
 }
-
-.iframe-container {
-  overflow: visible;
-  padding-top: 180%;
-  /* 16:9*/
-  position: relative;
-}
-
-.iframe-container iframe {
-   border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;
-}
   
 </style>
 </head>
@@ -101,15 +85,16 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4;"><span style="color:black; font-size:25px;"><b>&#9997;</b></span> &nbsp; Travellers may check against the box (&#9744;) for completed actions.</p>
 
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(A) Obtain an accepted proof of vaccination</b></p>
 </div>
-<div class="iframe-container" style="background-color:#f8f8f8; margin-bottom:20px;">
-<iframe src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16"></iframe>
-	</div>
+<div style="position: relative;width: 100%;overflow: hidden;padding-top: 185%; margin-bottom:20px;"> 
+  <iframe style="position: absolute;top: 0;left: 0;bottom: 0;right: 0; width: 100%; height: 100%; border: none;" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16"></iframe>
+</div>
+
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
