@@ -106,10 +106,18 @@ input.box {display:block;}
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>(1A) Obtain an accepted proof of vaccination</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proofs of vaccination to be eligible for the VTL. <br><br>You may check for the acceptable proofs of vaccination based on their countries/regions of issuance below. The upload instructions for STVs and LTVPs will be required for <b>Stage 1C</b>.</p>
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></u></p>
+<input class="accordion" type="checkbox" id="Singapore-cert" />
+<label class="accordion" for="Singapore-cert" style="background:#D8D8D8;color:black;"><b>Singapore</b></label>
+	<div class="content" style="background-color:#ededed;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li></div>
+	<input class="accordion" type="checkbox" id="Australia-cert" />
+<label class="accordion" for="Australia-cert" style="background:#D8D8D8;color:black;"><b>Australia</b></label>
+		<div class="content" style="background-color:#ededed;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Australia:</b> <a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></li></div>
+		<input class="accordion" type="checkbox" id="Brunei-cert" />
+<label class="accordion" for="Brunei-cert" style="background:#D8D8D8;color:black;"><b>Brunei Darussalam</b></label>
+		<div class="content" style="background-color:#ededed;">		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Brunei:</b> Proof of vaccination on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a></li></div>
 
-<input class="accordion" type="checkbox" id="proof" />
-<label class="accordion" for="proof" style="background:#D8D8D8;color:black;"><b>(Click Here) Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></label>
-
+	
 <div class="content" style="background-color:#e5e5e5;">
 <p style="line-height:1.3; font-size:18px;">
 	<ol style="margin-top:0px; list-style-type: disc;">
