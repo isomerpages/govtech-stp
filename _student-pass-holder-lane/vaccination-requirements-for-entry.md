@@ -2,17 +2,23 @@
 title: Vaccination Requirements for Entry
 permalink: /stpl/vaccination-requirements
 ---
-### For arrivals from 1 November 2021, 0001hrs, travellers entering Singapore under the Student's Pass Holder Lane must be [fully vaccinated](#vaccinated) before arrival
+### For arrivals from 1 November 2021, 0001hrs, travellers entering Singapore under the Student's Pass Holder Lane must be [fully vaccinated](#vaccinated) before arrival, except for the following groups:
+
+<ol style="margin-top:0px; font-size: 18px; margin-bottom:0px; list-style-type:disc; ">
+	<li style="margin-top:0px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">Travellers who are below 18 years old on date of entry. <br/><br/> Unvaccinated travellers who are 12 years old to below 18 years old on date of entry will need to complete the full vaccination regime within 2 months of arrival. You may visit <a href="https://www.vaccine.gov.sg">https://www.vaccine.gov.sg</a> for information on the COVID-19 vaccination programme in Singapore.
+	</li>
+		<li style="margin-top:10px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">Travellers who cannot be vaccinated due to medical conditions <br/><br/> To be considered for exemption, travellers must <a href="https://go.gov.sg/moe-vaccination-exemption">submit a request</a> and upload a doctor's memo. This should be done at least 3 weeks before the intended date of entry.</li>
+</ol>
 
 <div id="vaccinated"></div>
 
 ### To be considered fully vaccinated, travellers must: 
 
 <ol style="margin-top:0px; font-size: 18px; margin-bottom:0px; list-style-type:disc; ">
-	<li style="margin-top:0px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">Have receive the full regimen of <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a> (refer to "COVID-19 Vaccine EUL issued" section) at least 14 days before arriving in Singapore. Vaccines requiring 2 doses must be completed either using the <a href="/health/vtsg">same or different brands</a> and taken based on recommended intervals between each dose. 
-	<br/><br/>Example: if the traveller received the full regimen on 1 Sep, the earliest he/she can enter Singapore is <b>15 Sep</b>. 
+	<li style="margin-top:0px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">Have received the full regimen of WHO EUL vaccines at least 14 days before arriving in Singapore. Vaccines requiring 2 doses must be completed either using the <a href="/health/vtsg">same or different brands</a> and taken based on recommended intervals between each dose. The list of vaccinations accepted by Singapore can be found <a href="/health/vtsg" target="_blank">here</a>.
+	<br/><br/>Example: If the traveller received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is <b>15 Sep</b>. 
 	</li>
-		<li style="margin-top:10px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">Have received 1 dose of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> if they had earlier recovered from a COVID-19 infection. The vaccination should be taken no earlier than 3 months from the date of their diagnosis, if they had not already completed vaccination previously. <b>[Note: These travellers should submit an entry application <a href="https://go.gov.sg/moe-vaccination-exemption">here</a>]</b></li>
+		<li style="margin-top:10px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">Have received 1 dose of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> if they had earlier recovered from COVID-19. This vaccination must be done at least 3 months from the date of their COVID-19 diagnosis.<b>[Note: These travellers should submit an entry application <a href="https://go.gov.sg/moe-vaccination-exemption">here</a>]</b></li>
 		<li style="margin-top:10px; font-size: 18px;margin-bottom:0px; list-style-type:disc; line-height:1.5">Be able to <a href="#documents">produce documents to prove their vaccination status</a> before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry.</li>
 		<li style="margin-top:10px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">(Only applicable to those who were vaccinated overseas) Take a serology test at a <a href="https://flu.gowhere.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing their self-isolation or Stay-Home Notice (SHN) in Singapore. Please call in advance to check that the clinic is able to support the serology test. <br/><br/>If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. (Their vaccination status can then be viewed on the <a href="https://www.healthhub.sg/">HealthHub</a> and <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> apps, which they may present to enjoy vaccination-differentiated safe management measures in Singapore.)<br/><br/> If the serology test results are negative, they will have to take 2 doses of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> in Singapore within 2 months of the negative serology test result.</li>
 </ol>
@@ -57,14 +63,6 @@ permalink: /stpl/vaccination-requirements
 		</tbody>
 	</table>
 	
-	
-### Groups of travellers who do not need to be vaccinated before entering Singapore
-
-<ol style="margin-top:0px; font-size: 18px; margin-bottom:0px; list-style-type:disc; ">
-	<li style="margin-top:0px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">Travellers who are below 18 years old on date of entry. <br/><br/> Unvaccinated travellers who are 12 years old to below 18 years old on date of entry will need to complete the full vaccination regime within 2 months of arrival. You may visit <a href="https://www.vaccine.gov.sg">https://www.vaccine.gov.sg</a> for information on the COVID-19 vaccination programme in Singapore.
-	</li>
-		<li style="margin-top:10px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">Travellers who cannot be vaccinated due to medical conditions <br/><br/> To be considered for exemption, travellers must <a href="https://go.gov.sg/moe-vaccination-exemption">submit a request</a> and upload a doctor's memo. This should be done at least 3 weeks before the intended date of entry.</li>
-</ol>
 
 ### Penalties for non-compliance
 

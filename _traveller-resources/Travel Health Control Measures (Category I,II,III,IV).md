@@ -124,13 +124,13 @@ This page provides a summary of the four categories of travel health control mea
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 7-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence*;</li>
-<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel; or</li>
+<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
+<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel*; or</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
-	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 test within 2 days before departure from Malaysia</i></p>
+	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Before a room booking is made, travellers must inform the hotel that they are serving a SHN and ensure that the hotel can accommodate them</i></p>
 	<p></p>
 	</td>
 	</tr>
@@ -173,12 +173,12 @@ This page provides a summary of the four categories of travel health control mea
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
-<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel; or</li>
+<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel*; or</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
-	<p></p>
+		<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Before a room booking is made, travellers must inform the hotel that they are serving a SHN and ensure that the hotel can accommodate them</i></p>
 </td>
 	</tr>
 	</tbody>

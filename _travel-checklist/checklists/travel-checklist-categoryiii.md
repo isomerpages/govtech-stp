@@ -113,7 +113,7 @@ A Stay-Home Notice (SHN) comes into effect immediately upon its issuance. Travel
 
 To calculate the estimated SHN end-date, click here for an <a href="/shn-calculator" target="_blank">SHN calculator</a>.
 
-Travellers may complete their SHN at their own residence (see advisory below), self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel should only secure their bookings after checking and ensuring that the hotel of choice can accommodate guests on SHN. Travellers may refer to <a href="https://sha.org.sg/stay-home-notice" target="_blank">this page</a> for the non-exhaustive list of hotels offering SHN-accommodation.
+Travellers may complete their SHN at their own residence (see advisory below), self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel must inform the hotel that they are serving a SHN and ensure that the hotel can accommodate them, before securing their bookings. Travellers may refer to <a href="https://sha.org.sg/stay-home-notice" target="_blank">this page</a> for the non-exhaustive list of hotels offering SHN-accommodation.
 
 
 During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. <a href="/health/shn#shn-compliance-checks" target="_blank">Click here for more information on SHN-related compliance matters</a>.
