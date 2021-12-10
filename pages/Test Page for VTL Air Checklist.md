@@ -115,8 +115,16 @@ input.box {display:block;}
 		<div class="content" style="background-color:#ededed;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Australia:</b> <a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a></li></div>
 		<input class="accordion" type="checkbox" id="Brunei-cert" />
 <label class="accordion" for="Brunei-cert" style="background:#D8D8D8;color:black;"><b>Brunei Darussalam</b></label>
-		<div class="content" style="background-color:#ededed;">		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Brunei:</b> Proof of vaccination on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a></li></div>
-
+		<div class="content" style="background-color:#ededed;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Brunei:</b> Proof of vaccination on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a></li></div>
+		<input class="accordion" type="checkbox" id="Canada-cert" />
+<label class="accordion" for="Canada-cert" style="background:#D8D8D8;color:black;"><b>Canada</b></label>
+		<div class="content" style="background-color:#ededed;">		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Canada:</b> <a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by any Canadian province</li></div>
+			<input class="accordion" type="checkbox" id="eudcc-cert" />
+<label class="accordion" for="eudcc-cert" style="background:#D8D8D8;color:black;"><b>European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)</b></label>
+		<div class="content" style="background-color:#ededed;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). </div>
+			<input class="accordion" type="checkbox" id="India-cert" />
+<label class="accordion" for="India-cert" style="background:#D8D8D8;color:black;"><b>India</b></label>
+		<div class="content" style="background-color:#ededed;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.</li></div>
 	
 <div class="content" style="background-color:#e5e5e5;">
 <p style="line-height:1.3; font-size:18px;">
