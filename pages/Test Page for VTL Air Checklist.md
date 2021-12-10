@@ -15,11 +15,11 @@ published: true
 
 <style>
 	
-input {
+input.old {
     display: none;
 }
 
-label {
+label.old {
     display: block;    
     padding: 10px 30px;
     margin: 0 0 1px 0;
@@ -31,11 +31,11 @@ label {
 	position: relative;
 }
 
-label:hover {
+label.old:hover {
     background: #346f9e;
 }
 
-label::after {
+label.old::after {
 	font-family: "Font Awesome 5 Free";
 	content: '\271A';
 	font-weight: bold;
@@ -45,7 +45,7 @@ label::after {
 	top: 6px;
 }
 
-input:checked + label::after {
+input.old:checked + label.old::after {
 	content: '\2716';
 }
 
@@ -56,13 +56,27 @@ input:checked + label::after {
     border-radius: 3px;
 }
 
-input + label + .content {
+input.old + label.old + .content {
     display: none;
 }
 
-input:checked + label + .content {
+input.old:checked + label.old + .content {
     display: block;
 }
+	
+input.new {display:block;}	
+	
+	label.new { 
+	    display: block;    
+    padding: 10px 30px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #FF3855;
+    border-radius: 3px;
+    color: #FFFFFF;
+    transition: ease .5s;
+	position: relative;
+	}
 
   
 </style>
@@ -86,9 +100,16 @@ input:checked + label + .content {
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
+
+
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input type="checkbox-1" style="width:20px; height:20px; vertical-align:middle;" id="1A">
-<label for="1A">&nbsp;&nbsp;<b>(1A) Obtain an accepted proof of vaccination</b></label></div>
+<input class="new" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A">
+<label class="new" for="1A">&nbsp;&nbsp;<b>(1A) Obtain an accepted proof of vaccination</b></label></div>
+
+
+
+
+
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Obtain any of the following digitally verifiable vaccination certificates accepted by the Singapore Government:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px;">
@@ -107,8 +128,8 @@ input:checked + label + .content {
 	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(A) Obtain an accepted proof of vaccination</b>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers <u>must</u> obtain any of the following acceptable proofs of vaccination to be eligible for the VTL.</p>
-<input type="checkbox" id="proof" />
-<label for="proof" style="background:#D8D8D8;color:black;"><b>(Click Here) Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></label>
+<input class="old" type="checkbox" id="proof" />
+<label class="old" for="proof" style="background:#D8D8D8;color:black;"><b>(Click Here) Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></label>
 
 <div class="content" style="background-color:#e5e5e5;">
 <p style="line-height:1.3; font-size:18px;">
@@ -151,8 +172,8 @@ input:checked + label + .content {
 &#9744;&nbsp;<b>(B) Verify your proof of vaccination</b>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Some QR codes/vaccination certificates can be verified by travellers themselves before application. Travellers are strongly encouraged to verify these using the verification tools below.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Once you have verified them to be valid, proceed to the next step (Step C).</p>
-<input type="checkbox" id="verify" />
-	<label for="verify" style="background:#D8D8D8;color:black;"><b>(Click Here) Verification Tools for Proof of Vaccinations based on Countries/Regions of Issuance</b></label>
+<input class="old" type="checkbox" id="verify" />
+	<label class="old" for="verify" style="background:#D8D8D8;color:black;"><b>(Click Here) Verification Tools for Proof of Vaccinations based on Countries/Regions of Issuance</b></label>
 	<div class="content" style="background-color:#e7e7e7;">
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px; color:#d36363;"><u><b>Singapore</b></u></p>
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Self-Verifiable Proofs of Vaccination</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a></p>
