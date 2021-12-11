@@ -167,14 +167,7 @@ input.box {display:block;}
 			</ol>
 	</div>	
 
-	
-Thailand: International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand
-For entry into Singapore from 15 Dec 2021, 2359hrs:
 
-Cambodia: COVID-19 Vaccination Card issued by the Ministry of Health / Ministry of Defence in Cambodia
-Fiji: COVID-19 Vaccination Certificate issued by Republic of Fiji
-Maldives: COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ website
-Sri Lanka: Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health
 	
 	
 <div class="content" style="background-color:#e5e5e5;">
