@@ -125,6 +125,12 @@ input.box {display:block;}
 			<input class="accordion" type="checkbox" id="India-cert" />
 <label class="accordion" for="India-cert" style="background:#D8D8D8;color:black;"><b>India</b></label>
 		<div class="content" style="background-color:#ededed;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.</li></div>
+				<input class="accordion" type="checkbox" id="Indonesia-cert" />
+<label class="accordion" for="Indonesia-cert" style="background:#D8D8D8;color:black;"><b>Indonesia</b></label>
+		<div class="content" style="background-color:#ededed;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li></div>
+					<input class="accordion" type="checkbox" id="Malaysia-cert" />
+<label class="accordion" for="Malaysia-cert" style="background:#D8D8D8;color:black;"><b>Malaysia</b></label>
+		<div class="content" style="background-color:#ededed;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li></div>
 	
 <div class="content" style="background-color:#e5e5e5;">
 <p style="line-height:1.3; font-size:18px;">
