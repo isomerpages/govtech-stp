@@ -263,21 +263,18 @@ input.box {display:block;}
 &#9201;&#65039; &nbsp; Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation. Clean and disinfect contact surfaces after each use.</p>
   </div>
 	
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
-	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">
-&#9744;&nbsp;<b>(H) Pre-Departure COVID-19 Test (PDT)</b>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:20px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. turns 2 in this calendar year) do not require a PDT</b>.</p>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Self-swabs are not allowed.</b>.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Take a pre-departure COVID-19 PCR test, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure, or a professionally-administered Antigen Rapid Test (ART) within 2 days* before departure for Singapore.</p>
-<p style="font-size:16px; margin-bottom:25px; line-height:1.5; margin-top:0px;"><i>*E.g. If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours.</i></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Ensure that the test report:</p>
-	<ol style="list-style-type:lower-roman;">
-		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Is in English (or accompanied with an English translation);</li>
-		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
-				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Reflects the date and time the test was taken, the name of the testing institution, and a negative test result; and</li>
-						<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Is not handwritten.</li>
-	</ol>	
-	</p>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1H"><label for="1H">&nbsp;&nbsp;<b>Stage 1H: Take Pre-departure COVID-19 Test (PDT)</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">&#9200; &nbsp; <b>Take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a>, or a professionally-administered Antigen Rapid Test (ART) <u>within 2 days</u> before departure for Singapore.</b></p>
+		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">Travellers should obtain a test report that:</p>
+		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Is in English (or accompanied with an English translation);</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); </li>
+				<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Reflects the date and time the test was taken, the name of the testing institution; and </li>
+				<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Has a negative test result.</li>
+	</ol>
+		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;"><i><u>Illustration of acceptable 2-day timeline</u>: The earliest date which a traveller entering Singapore on 3 December 2021 should take a pre-departure COVID-19 test, is 1 December 2021.</i></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;<b>Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require a PDT.</b></p>
 	</div>
 	
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
