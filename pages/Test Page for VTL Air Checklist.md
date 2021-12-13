@@ -169,7 +169,7 @@ input.box {display:block;}
 	</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>Stage 1B: Obtain an accepted proof of vaccination</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B"><label class="box" for="1B">&nbsp;&nbsp;<b>Stage 1B: Obtain an accepted proof of vaccination</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">The QR codes of certain vaccination certificates can be verified by travellers themselves before application. Travellers are strongly encouraged to verify these using the verification tools below.</p>
 	<input class="accordion" type="checkbox" id="selfverify">
 <label class="accordion" for="selfverify" style="background:#D8D8D8;color:black;"><b>(Click Here to Expand) Verification Tools for Proof of Vaccination based on Countries/Regions of Issuance</b></label>
@@ -204,31 +204,23 @@ input.box {display:block;}
 </div>
 </div>
 
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C"><label class="box" for="1C">&nbsp;&nbsp;<b>Stage 1C: [For STV/LTPHs only] Apply for Vaccination Travel Pass</b></label></div>
+<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://go.gov.sg/vtl-portal" target="_blank"><b>Short-Term Visitors/Long Term Pass Holders<br>Click Here To Apply For a VTP</b></a></div><p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">&#9200; &nbsp; <b>Apply <u>between 7 and 60 calendar days</u> before the intended date of entry.</b></p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>&#10067;</b>&nbsp; Refer to FAQs here if you have issues with uploading your QR code.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="color:red; font-size:18px;">&#10060;</span>&nbsp; <b>Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) Sector, or workers staying in dormitories</b> are not allowed to use VTL (Air) and should apply for entry via the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a>.</p>
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="color:red; font-size:18px;">&#10060;</span>&nbsp; No application is required for Singapore Citizens and Permanent Residents.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="color:red; font-size:18px;">&#10060;</span>&nbsp; Unvaccinated children aged 12 and below in this calendar year (e.g. a child turning 12 this year) do not need to apply. However, they must comply with all other VTL (Air) conditions, including being a Singapore resident and being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL (Air) traveller.</p>
+</div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
-	<p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
-&#9744;&nbsp;<b>(B) Verify your proof of vaccination</b>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Some QR codes/vaccination certificates can be verified by travellers themselves before application. Travellers are strongly encouraged to verify these using the verification tools below.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Once you have verified them to be valid, proceed to the next step (Step C).</p>
-<input class="old" type="checkbox" id="verify" />
-	<label class="old" for="verify" style="background:#D8D8D8;color:black;"><b>(Click Here) Verification Tools for Proof of Vaccinations based on Countries/Regions of Issuance</b></label>
-	<div class="content" style="background-color:#e7e7e7;">
-		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px; color:#d36363;"><u><b>Singapore</b></u></p>
-		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Self-Verifiable Proofs of Vaccination</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a></p>
-				<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Available Self-Verification Tools</b>: <a href="https://www.verify.gov.sg/" target="_blank">Verify.gov.sg</a> or regular QR code scanner on your mobile device</p>
-				<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px; color:#d36363;"><u><b>Australia</b></u></p>
-			<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Self-Verifiable Proofs of Vaccination</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a></p>
-	</div>
-	</p>
-	</div>
-	
+
+
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
   <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">
 &#9744;&nbsp;<b>(C) [For STV/LTPHs only] Apply for Vaccination Travel Pass</b>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:red;"><b>&#10005;</b></span> &nbsp;<b>[SC/PRs]</b> No application is required. Produce accepted proofs of vaccination at check-in and arrival immigration.</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top:0px;"><span style="font-size:32px; color:green;"><b>&#10003;</b></span>&nbsp; <b>[STVs/LTPHs]</b> Note the requirements of each vaccination proof during application.</p>
-
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">The submission requirements during application depends on the <a href="/health/vtsg#acceptedvaccines" target="_blank">full vaccination regimen</a> and the types of vaccination certificates issued.</p>
 <p style="font-size:14px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><i>"Full Vaccination Regimen"= The no. of required doses of a particular type/mixture of vaccines in order for the traveller to be considered fully vaccinated.</i></p><br>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><b>Click on the country of issuance for your vaccination certificate below to find out the submission requirements in the VTL portal.</b></p>
