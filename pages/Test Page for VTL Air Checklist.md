@@ -220,6 +220,17 @@ input.box {display:block;}
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b style="color:red">&#10067;</b>&nbsp; Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.</p>
 </div>
 
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label class="box" for="1E">&nbsp;&nbsp;<b>Stage 1E: Check Travel/Transit History & Secure Tickets for a Designated VTL (Air) Flight</b></label></div>
+<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers MUST:</p>
+<ol style="list-style-type:lower-roman;">
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Have <B>only</B> travelled to / transited via any VTL (Air) countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Air) flight. <u><b>Not all flights departing from the VTL (Air) countries/regions are designated.</b></u> Travellers are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
+	</ol>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><a href="https://www.checkfirst.gov.sg/c/408ebe0e-d0e6-4d12-8221-136f5ff4ee68" target="_blank">Click here to find out which airlines are offering VTL flights to Singapore based on your country/region of departure.</a>
+</p>
+</div>
 
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
