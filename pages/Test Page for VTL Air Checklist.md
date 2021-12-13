@@ -100,9 +100,7 @@ input.box {display:block;}
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
-
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<div id="1A" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proofs of vaccination to be eligible for the VTL. <br><br>You may check for the acceptable proofs of vaccination based on their countries/regions of issuance below. The upload instructions for STVs and LTVPs will be required for <b>Stage 1C</b>.</p>
@@ -236,8 +234,7 @@ input.box {display:block;}
 </p>
 </div>
 
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<div id="1F" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1F"><label class="box" for="1F">&nbsp;&nbsp;<b>Stage 1F: [Short Term Visitors and Long Term Pass Holders] Purchase COVID-19 Insurance</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Short Term Visitors]</b> Purchase travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment" target="_blank">here</a>.</p>
@@ -245,7 +242,6 @@ input.box {display:block;}
 </p>
 </div>
 
-	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1F"><label class="box" for="1F">&nbsp;&nbsp;<b>Stage 1G: Secure self-isolation accommodation</b></label></div>	
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
@@ -285,7 +281,7 @@ input.box {display:block;}
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;"><b>The SGAC replaces the physical arrival “White Card”, which is no longer in use.</b> SGAC is a free service and travellers should beware of websites offering to fill the SGAC declaration for a fee.</li>
 	</ol>
 <p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35; color:red;"><b><u>Note during submission</u></b>:</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; SC/PRs who are not vaccinated in Singapore: You are strongly encouraged to submit your overseas vaccination certificate in your health declaration as part of the SG Arrival Card submission.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; SC/PRs who are not vaccinated in Singapore: You are strongly encouraged to submit your overseas vaccination certificate in your health declaration as part of the SG Arrival Card submission.</p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="color:red; font-size:18px;">&#10060;</span>&nbsp;SC/PRs who are vaccinated in Singapore: You are not required to upload your vaccination certificates as your records are already captured in the Singapore Ministry of Health (MOH) database.
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="color:red; font-size:18px;">&#10060;</span>&nbsp;Long-term pass holders and short-term visitors: You do not need to upload your vaccination certificates they will be verified as part of the VTP application.
 
@@ -316,33 +312,70 @@ input.box {display:block;}
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
 
-
-<div id="check" style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
-	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">
-&#9744;&nbsp;<b>(A) Pre-boarding document checks</b>
-	<p style="font-size:18px; margin-bottom:20px; line-height:1.5; margin-top: 0px;">When checking in at the departure airport, travellers must present to the airline staff all the documents listed below, except the following groups of travellers.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;"><b>[SC/PRs]: </b> Present only (ii) and (iv) above.</p>
-		<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:10px;"><b>[LTPHs]: </b> Present only (i), (ii) and (iv) above.</p>
-<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be denied boarding if they do not provide all the required documentations.</b></p>
-
+<div id="2A" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A"><label class="box" for="2A">&nbsp;&nbsp;<b>Stage 2A: Pre-boarding document checks</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be denied boarding if they do not provide all the required documentations.</b></p>
+	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top: 0px;">When checking in at the departure airport, travellers must present to the airline staff all the documents listed below, except the following groups of travellers.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Singapore Citizens/Permanent Residents:</b> Present (ii) and (iv) below.</p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Long Term Pass Holders and Short Term Visitors:</b> Present (i), (ii) and (iv) below.</p>
 <ol style="list-style-type:lower-roman;">
-		<li style="line-height:1.3; margin-bottom:10px; font-size:18px;">Physical or electronic copy of the Vaccinated Travel Pass (Air) [VTP (Air)] for the specified period of entry;</li>
-		<li style="line-height:1.3; margin-bottom:10px; font-size:18px;">Valid pre-departure COVID-19 PCR test or Antigen Rapid Test (ART) for entry into Singapore showing a negative test result;</li>
-				<li style="line-height:1.3; margin-bottom:10px; font-size:18px;">Valid visa (for visa-required visitors);</li>
-						<li style="line-height:1.3; margin-bottom:10px; font-size:18px;">Acceptable proof of vaccination (same proof as at <a href="#proof">Stage 1A</a>).</li>
+		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Physical or electronic copy of the Vaccinated Travel Pass (Air) [VTP (Air)] for the specified period of entry;</li>
+		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Valid pre-departure COVID-19 PCR test or Antigen Rapid Test (ART) for entry into Singapore showing a negative test result;</li>
+				<li style="line-height:1.35 margin-bottom:10px; font-size:18px;">Valid visa (for visa-required visitors);</li>
+						<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Acceptable proof of vaccination (same proof as at <a href="#1A">Stage 1A</a>).</li>
 	</ol>
-	</p>
 	</div>
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.5;">
-&#9744;&nbsp;<b>(A) Clear Arrival Immigration</b>
-  <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">Follow the instructions provided by the officers and signages on arrival.</p>
- <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#check">Stage 2A</a>. </p>
- <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;"><b>Short-term visitors must also present a physical or electronic copy of their travel insurance policy.</b></p>
-	<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.5;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA) if they do not provide all the required documentations.</b></p>
- <p style="font-size:18px; margin-bottom: 10px; line-height:1.5;">Travellers may only procure goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall.</p>
-  </p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3A"><label class="box" for="3A">&nbsp;&nbsp;<b>Stage 3A: Clear Arrival Immigration</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="color:red; font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA) if they do not provide all the required documentations.</b></p>
+  <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Follow the instructions provided by the officers and signages on arrival.</p>
+ <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#2A">Stage 2A</a>. </p>
+ <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><b>Short-term visitors must also present a physical or electronic copy of their travel insurance policy.</b></p>
+ <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Travellers may only procure goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall.</p>
+  </div>
+	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label class="box" for="3B">&nbsp;&nbsp;<b>Stage 3B: Undergo On-Arrival COVID-19 PCR Test (OAT-PCR)</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Take an <a href="https://safetravel.changiairport.com/#/" target="_blank">on-arrival COVID-19 PCR test</a>. Travellers who did not pay for the test before arrival will pay on the spot for the test.</p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require an on-arrival test.</b>.</p>
+  </div>
+	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3C"><label class="box" for="3C">&nbsp;&nbsp;<b>Stage 3C: Undergo On-Arrival COVID-19 PCR Test (OAT-PCR)</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Commute directly to your declared self-isolation accommodation immediately upon completion of your on-arrival COVID-19 PCR test. You may do so using private transport, taxi, or private hire cars (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps).</p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px; color:red;"><span style="font-size:22px; color:red;"><b>&#10005;</b>&nbsp;</span><b>Using public transport (e.g. trains or public buses) is prohibited.</b></p>
+  </div>
+	
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Self-isolation</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="4A"><label class="box" for="4A">&nbsp;&nbsp;<b>Stage 4A: Self-Isolate Pending OAT-PCR Results</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">All travellers <b>must</b> self-isolate at their declared accommodation (per <a href="#1F">Stage 1F</a>) until they receive a negative COVID-19 PCR test result (likely within 24 hours).</p>
+  </div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="4B"><label class="box" for="4B">&nbsp;&nbsp;<b>Stage 4B: Exit from Self-Isolation</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers can only leave their self-isolation accommodation <b>after</b> a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. </p>
+	    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">The result could be released to the traveller via email or call, around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.</p>
+	 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers who test positive for COVID-19 are required to receive <a href="/health/insurance-and-treatment#cost" target="_blank">medical treatment</a>. The prevailing medical treatment charges will apply.</p>
+  </div>
+	
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 5: Stay in Singapore</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="5A"><label class="box" for="5A">&nbsp;&nbsp;<b>Stage 5A: Self-Isolate Pending OAT-PCR Results</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">As part of Singapore’s Vaccination-differentiated Safe Management Measures (VDS), you must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). Travellers must also comply with all other <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in).</p>
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">The vaccination status of all fully vaccinated VTL (Air) travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.</p>
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>[SC/PRs with an overseas-issued vaccination certificate]</b> If you are unable to upload your vaccination certificate successfully during SG Arrival Card submission, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, to be eligible for VDS, Your status will be updated on your TraceTogether app.</p>
+	    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for more FAQs on inland public health measures.</p>
   </div>
