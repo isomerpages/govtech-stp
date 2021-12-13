@@ -26,11 +26,10 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 <table>
   <thead>
 		    <tr>
-      <th colspan="5" style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED"><b>Note: Only travellers who do not have travel history to Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, and Zimbabwe in the last 14 days prior to entering Singapore are eligible to book a suite.</b></th>
+      <th colspan="4" style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED"><b>Note: Only travellers who do not have travel history to Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, and Zimbabwe in the last 14 days prior to entering Singapore are eligible to book a suite.</b></th>
     </tr>
     <tr>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">&nbsp;</th>
-        <th style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Junior (&lt;80sqm)<sup>#</sup></th>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Standard (80-100sqm)
 </th>
        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Large (100-200sqm)
@@ -41,25 +40,16 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
   <tbody>
     <tr>
       <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost (for 1<sup>st</sup> person, for 10-day SDF stay)^</td>
-         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$3,600</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$5,350</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$9,300</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$14,300</td>
     </tr>
         <tr>
-      <td colspan="4" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Cost for additional persons sharing the suite (for food):<br> Additional S$450 for every sharing person aged 4 and above.<br> Children aged 3 years and under who require the SDF to provide food will be charged S$450.
+      <td colspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Cost for additional persons sharing the suite (for food):<br> Additional S$450 for every sharing person aged 4 and above.<br> Children aged 3 years and under who require the SDF to provide food will be charged S$450.
 </td>
-    </tr>
-    <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:SDFsuite.sts@swissotel.com">Swissotel the Stamford</a></td>
-       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:reservations@regentsingapore.com.sg">The Regent</a></td>
-          <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
