@@ -103,7 +103,7 @@ input.box {display:block;}
 
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>(1A) Obtain an accepted proof of vaccination</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proofs of vaccination to be eligible for the VTL. <br><br>You may check for the acceptable proofs of vaccination based on their countries/regions of issuance below. The upload instructions for STVs and LTVPs will be required for <b>Stage 1C</b>.</p>
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></u></p>
@@ -167,6 +167,41 @@ input.box {display:block;}
 			</ol>
 	</div>	
 	</div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>Stage 1B: Obtain an accepted proof of vaccination</b></label></div>
+<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">The QR codes of certain vaccination certificates can be verified by travellers themselves before application. Travellers are strongly encouraged to verify these using the verification tools below.</p>
+	<input class="accordion" type="checkbox" id="selfverify">
+<label class="accordion" for="selfverify" style="background:#D8D8D8;color:black;"><b>(Click Here to Expand) Verification Tools for Proof of Vaccination based on Countries/Regions of Issuance</b></label>
+		<div class="content" style="background-color:#ededed;"><p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>Singapore</b></u></p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proof of Vaccination:</b> Singapore Vaccination HealthCerts issued via the Notarise portal</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> Verify.gov.sg or regular QR code scanner on your mobile device</p>
+			<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>Australia</b></u></p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proof of Vaccination:</b> Singapore Vaccination HealthCerts issued via the Notarise portal</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> VDS-NC Checker (Android) or VDS-NC Checker (iOS)</p>
+			<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>Canada</b></u></p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proof of Vaccination:</b> Smart Health Cards (SHC) issued by any Canadian province</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> SMART Health Card Verifier (Android) or SMART Health Card Verifier (iOS)</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed here)</b></u></p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proof of Vaccination:</b> EU Digital COVID Certificates (EU DCC) issued by any VTL (Air) country/region</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> DCC Checker (Web App), COVID Certificate Check (Android) or COVID Certificate Check (iOS)</p>
+			<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>India</b></u></p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proof of Vaccination:</b> International Travel Certificate in the Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard, available on the Co-WIN platform.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> Co-Win website</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>Malaysia</b></u></p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proofs of Vaccination:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the MySejahtera app</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> Vaccine Certificate Verifier (Android) or Vaccine Certificate Verifier (iOS)</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>Republic of Korea</b></u></p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proofs of Vaccination:</b> COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the KDCA website</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> KDCA website</p>
+			<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>United Kingdom</b></u></p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proofs of Vaccination:</b> National Health Service ("NHS") COVID Pass of vaccination or Northern Ireland COVID certificate issued by Health and Social Care (HSC) in Northern Ireland (e.g. found on the COVIDCert Northern Ireland ("NI") app)</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> DCC Checker (Web App) COVID Certificate Check (Android) or iOS Mobile App: COVID Certificate Check (iOS)</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>United States of America</b></u></p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verifiable Proofs of Vaccination:</b> Smart Health Cards (SHC) issued by CommonTrust Network issuers (listed here and here); or Vaccination Credential Initiative issuers</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Available Self-Verification Tools:</b>  SMART Health Card Verifier (Android) or SMART Health Card Verifier (iOS)</p>
+</div>
+</div>
 
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.5; background-color:#f0f0f0; font-size:18px;">
