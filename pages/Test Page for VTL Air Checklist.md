@@ -113,7 +113,7 @@ input.box {display:block;}
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><span style="font-size:18px; color:red;"><b>&#10005;</b></span> &nbsp;<b>LTPHs/STVs who have received their vaccination in Singapore do not need to upload their vaccination QR code during application. The portal should be able to retrieve the vaccination records from Singapore’s National Immunisation Registry.</b></p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Should experience issues with the retrieval, and you hold the proof of vaccination at (a), please refer to the instructions below to upload your vaccination certificate during application.</p>
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR Codes required for upload</b>: One QR code</p>
-				<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_SG.png" style="width:49px; height:98px;"></p></div>
+				<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_SG.png" style="width:44px; height:97px;"></p></div>
 	<input class="accordion" type="checkbox" id="Australia-cert">
 <label class="accordion" for="Australia-cert" style="background:#D8D8D8;color:black;"><b>Australia</b></label>
 		<div class="content" style="background-color:#ededed;"><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
@@ -122,7 +122,7 @@ input.box {display:block;}
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: One QR code (Please upload a 1-page PDF of your certificate onto the portal during application.).</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_Australia.png" style="width:49px; height:98px;"></p>	
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_Australia.png" style="width:54px; height:84px;"></p>	
 </div>
 		<input class="accordion" type="checkbox" id="Brunei-cert">
 <label class="accordion" for="Brunei-cert" style="background:#D8D8D8;color:black;"><b>Brunei Darussalam</b></label>
@@ -143,7 +143,7 @@ input.box {display:block;}
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: One QR code (containing information on both doses).</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
-				<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR code</b>:<br><img src="/images/QR_Canada.png" style="width:49px; height:98px;"></p></div>
+				<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR code</b>:<br><img src="/images/QR_Canada.png" style="width:54px; height:84px;"></p></div>
 			<input class="accordion" type="checkbox" id="eudcc-cert">
 <label class="accordion" for="eudcc-cert" style="background:#D8D8D8;color:black;"><b>European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)</b></label>
 		<div class="content" style="background-color:#ededed;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
@@ -155,9 +155,9 @@ input.box {display:block;}
 				<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR codes</b>:</p>
 <table>
 <tr>
-	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
-	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
-	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
+	<td><img src="/images/QR_Denmark_1.png" style="width:57px; height:75px; vertical-align:middle;"></td>
+	<td><img src="/images/QR_Canada.png" style="width:54px; height:84px; vertical-align:middle;"></td>
+	<td><img src="/images/QR_Denmark_2.png" style="width:45px; height:85px; vertical-align:middle;"></td>
 			</tr>
 	<tr>
 	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On physical/PDF copy</td>
@@ -175,11 +175,11 @@ input.box {display:block;}
 <label class="accordion" for="India-cert" style="background:#D8D8D8;color:black;"><b>India</b></label>
 		<div class="content" style="background-color:#ededed;">International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Your certificate should contain both ‘Date of Birth’ and ‘Passport Number’. Please request for an <u>International Travel Certificate</u> on the Co-WIN website if your certificate does not contain these fields.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Your certificate should contain both ‘Date of Birth’ and ‘Passport Number’. Please request for an <u>International Travel Certificate</u> on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN website</a> if your certificate does not contain these fields.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: One QR code indicating the final dose (i.e. 2/2).</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_India.png" style="width:49px; height:98px;"></p>	
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_India.png" style="width:69px; height:90px;"></p>	
 </div>
 				<input class="accordion" type="checkbox" id="Indonesia-cert">
 <label class="accordion" for="Indonesia-cert" style="background:#D8D8D8;color:black;"><b>Indonesia</b></label>
@@ -198,8 +198,8 @@ input.box {display:block;}
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:</p>
 <table>
 <tr>
-	<td><img src="/images/QR_Malaysia.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
-	<td><img src="/images/QR_Malaysia_1.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
+	<td><img src="/images/QR_Malaysia.png" style="width:80px; height:69px;" style="vertical-align:middle"></td>
+	<td><img src="/images/QR_Malaysia_1.png" style="width:55px; height:108px; vertical-align:middle;"></td>
 			</tr>
 	<tr>
 	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On physical/PDF copy</td>
@@ -209,11 +209,11 @@ input.box {display:block;}
 </div>
 					<input class="accordion" type="checkbox" id="Maldives-cert">
 <label class="accordion" for="Maldives-cert" style="background:#D8D8D8;color:black;"><b>Maldives</b></label>
-		<div class="content" style="background-color:#ededed;"><b>[For entry into Singapore from 15 Dec 2021, 2359hrs]</b><br><br>COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ website
+		<div class="content" style="background-color:#ededed;"><b>[For entry into Singapore from 15 Dec 2021, 2359hrs]</b><br><br>COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b> One QR code</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR code</b>:<br><img src="/images/QR_Maldives.png" style="width:49px; height:98px;"></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR code</b>:<br><img src="/images/QR_Canada.png" style="width:54px; height:84px;"></p>
 </div>
 					<input class="accordion" type="checkbox" id="ROK-cert">
 <label class="accordion" for="ROK-cert" style="background:#D8D8D8;color:black;"><b>Republic of Korea</b></label>
@@ -225,7 +225,7 @@ input.box {display:block;}
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate at (a) during application. If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b> One QR code</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_ROK.png" style="width:49px; height:98px;"></p>	
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_ROK.png" style="width:72px; height:136px;"></p>	
 </div>
 					<input class="accordion" type="checkbox" id="SriLanka-cert">
 <label class="accordion" for="SriLanka-cert" style="background:#D8D8D8;color:black;"><b>Sri Lanka</b></label>
@@ -242,8 +242,8 @@ input.box {display:block;}
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code:</b></p>
 <table>
 <tr>
-	<td><img src="/images/QR_Malaysia.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
-	<td><img src="/images/QR_Malaysia_1.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
+	<td><img src="/images/QR_Denmark_1.png" style="width:57px; height:75px;" style="vertical-align:middle"></td>
+	<td><img src="/images/QR_Denmark_2.png" style="width:45px; height:85px;" style="vertical-align:middle"></td>
 			</tr>
 	<tr>
 	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On physical/PDF copy</td>
@@ -265,7 +265,7 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: 	Two QR codes (one for each dose). Please extract (i.e. crop and upload) each of the QR codes on your NHS COVID Pass at each point of upload</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR code</b>:<br><img src="/images/QR_India.png" style="width:49px; height:98px;"></p>		
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR code</b>:<br><img src="/images/QR_UK.png" style="width:111px; height:81px;"></p>		
 </div>	
 					<input class="accordion" type="checkbox" id="USA-cert">
 <label class="accordion" for="USA-cert" style="background:#D8D8D8;color:black;"><b>United States of America</b></label>
@@ -283,7 +283,7 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate at (a) during application. If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b> One QR code</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_ROK.png" style="width:49px; height:98px;"></p>		
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_USA.png" style="width:68px; height:104px;"></p>		
 	</div>	
 	</div>
 
