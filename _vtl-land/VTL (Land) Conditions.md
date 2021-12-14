@@ -26,7 +26,7 @@ description: ""
 		<li>the name of the testing institution conducting the COVID-19 test.</li>
 	</ol>
 	</li>
-	<li style="padding-top:10px;">Purchase medical and/or travel insurance, with a minimum coverage of S$30,000 for covid-19-related medical treatment and hospitalisation costs in Singapore, prior to travelling to Singapore.</li>
+	<li style="padding-top:10px;">purchase medical and/or travel insurance, with a minimum coverage of S$30,000 for covid-19-related medical treatment and hospitalisation costs in Singapore, prior to travelling to Singapore.</li>
 	<li style="padding-top:10px;">undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange;</li>
 	<li>undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> and submit their results online on Days 2, 4, 5 and 6 of their arrival in Singapore;</li>
 	<li>undergo supervised self-administered COVID-19 ARTs on Days 3 and 7 of their arrival in Singapore at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) / Combined Test Centre (CTC)</a>;</li>
