@@ -240,7 +240,7 @@ input.box {display:block;}
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Your can retrieve can your certificate by selecting 'International Certificate' on the Mor Prom app.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload</b>: One QR code</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code:</b></p>
 <table>
 <tr>
 	<td><img src="/images/QR_Malaysia.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
@@ -254,7 +254,14 @@ input.box {display:block;}
 	</div>
 					<input class="accordion" type="checkbox" id="UK-cert">
 <label class="accordion" for="UK-cert" style="background:#D8D8D8;color:black;"><b>United Kingdom</b></label>
-		<div class="content" style="background-color:#ededed;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination or Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”) app</a>). One QR code per dose.</div>	
+		<div class="content" style="background-color:#ededed;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination or Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”) app</a>). One QR code per dose.
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Your certificate should contain both ‘Date of Birth’ and ‘Passport Number’. Please request for an <u>International Travel Certificate</u> on the Co-WIN website if your certificate does not contain these fields.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: 	2 QR codes (one for each dose). Please extract (i.e. crop and upload) each of the QR codes on your NHS COVID Pass at each point of upload</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR code</b>:<br><img src="/images/QR_India.png" style="width:49px; height:98px;"></p>		
+</div>	
 					<input class="accordion" type="checkbox" id="USA-cert">
 <label class="accordion" for="USA-cert" style="background:#D8D8D8;color:black;"><b>United States of America (any of the following)</b></label>
 		<div class="content" style="background-color:#ededed;"><ol style="list-style-type:lower-alpha; ">
