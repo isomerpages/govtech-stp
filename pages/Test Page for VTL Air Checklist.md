@@ -230,10 +230,28 @@ input.box {display:block;}
 </div>
 					<input class="accordion" type="checkbox" id="SriLanka-cert">
 <label class="accordion" for="SriLanka-cert" style="background:#D8D8D8;color:black;"><b>Sri Lanka</b></label>
-		<div class="content" style="background-color:#ededed;"><b>[For entry into Singapore from 15 Dec 2021, 2359hrs]</b><br><br> Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health</div>
+		<div class="content" style="background-color:#ededed;"><b>[For entry into Singapore from 15 Dec 2021, 2359hrs]</b><br><br> Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health
+	<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">	You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
+	</div>
 					<input class="accordion" type="checkbox" id="Thailand-cert">
 <label class="accordion" for="Thailand-cert" style="background:#D8D8D8;color:black;"><b>Thailand</b></label>
-		<div class="content" style="background-color:#ededed;">International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</div>
+		<div class="content" style="background-color:#ededed;">International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Your can retrieve can your certificate by selecting 'International Certificate' on the Mor Prom app.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload</b>: One QR code</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b></p>
+<table>
+<tr>
+	<td><img src="/images/QR_Malaysia.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
+	<td><img src="/images/QR_Malaysia_1.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
+			</tr>
+	<tr>
+	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On physical/PDF copy</td>
+	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On apps</td>
+	</tr>
+			</table>
+	</div>
 					<input class="accordion" type="checkbox" id="UK-cert">
 <label class="accordion" for="UK-cert" style="background:#D8D8D8;color:black;"><b>United Kingdom</b></label>
 		<div class="content" style="background-color:#ededed;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination or Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”) app</a>). One QR code per dose.</div>	
