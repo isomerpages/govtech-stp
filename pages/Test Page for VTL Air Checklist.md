@@ -198,7 +198,7 @@ input.box {display:block;}
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:</p>
 <table>
 <tr>
-	<td><img src="/images/QR_Malaysia.png" style="width:80px; height:69px;" style="vertical-align:middle"></td>
+	<td><img src="/images/QR_Malaysia.png" style="width:80px; height:69px; vertical-align:middle;"></td>
 	<td><img src="/images/QR_Malaysia_1.png" style="width:55px; height:108px; vertical-align:middle;"></td>
 			</tr>
 	<tr>
@@ -242,8 +242,8 @@ input.box {display:block;}
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code:</b></p>
 <table>
 <tr>
-	<td><img src="/images/QR_Denmark_1.png" style="width:57px; height:75px;" style="vertical-align:middle"></td>
-	<td><img src="/images/QR_Denmark_2.png" style="width:45px; height:85px;" style="vertical-align:middle"></td>
+	<td><img src="/images/QR_Denmark_1.png" style="width:57px; height:75px; vertical-align:middle;"></td>
+	<td><img src="/images/QR_Denmark_2.png" style="width:45px; height:85px; vertical-align:middle;"></td>
 			</tr>
 	<tr>
 	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On physical/PDF copy</td>
