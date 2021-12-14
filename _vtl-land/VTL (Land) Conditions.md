@@ -5,7 +5,7 @@ description: ""
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; padding:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px; text-align:justify;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>Important Update</u></b></span></p>
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Singapore will launch a joint VTL (Land) with <b>Malaysia</b> for travel between Woodlands Checkpoint and Bangunan Sultan Iskandar (BSI) <b>from 29 November 2021</b>. Vaccinated Travel Pass (VTP) applications for Holders of a Singapore Long-Term Pass will commence on <b>25 November 2021</b>; returning Singapore Citizens and Singapore Permanent Residents who are fully vaccinated will not need to apply.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> With effect from <b>19 December 2021, 2359hrs</b>, all Malaysia Citizens, including those who are not Singapore Permanent Residents or holders of Singapore-issued Long-Term Passes, will be allowed to enter Singapore via the VTL (Land). Travellers who are Malaysia Citizens and are not Singapore Permanent Residents or holders of Singapore-issued Long-Term Passes can apply for a Vaccinated Travel Pass (Land) [VTP (Land)] with effect from <b>17 December 2021, 0800hrs.</b></p>
 </div>
 
 ### Conditions of the Vaccinated Travel Lane Land [VTL (Land)]
@@ -26,6 +26,7 @@ description: ""
 		<li>the name of the testing institution conducting the COVID-19 test.</li>
 	</ol>
 	</li>
+	<li style="padding-top:10px;">purchase medical and/or travel insurance, with a minimum coverage of S$30,000 for covid-19-related medical treatment and hospitalisation costs in Singapore, prior to travelling to Singapore.</li>
 	<li style="padding-top:10px;">undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange;</li>
 	<li>undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> and submit their results online on Days 2, 4, 5 and 6 of their arrival in Singapore;</li>
 	<li>undergo supervised self-administered COVID-19 ARTs on Days 3 and 7 of their arrival in Singapore at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) / Combined Test Centre (CTC)</a>;</li>
@@ -42,13 +43,15 @@ description: ""
 <br>
 <li>Those unable to use a mobile device due to a certified disability or special needs, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at Woodlands Checkpoint upon arrival in Singapore. They must carry the TraceTogether tokens issued to them at all times while in Singapore and return their respective tokens at any checkpoint prior to their departure from Singapore.</li>
 <br>
-<li>The requirements in Conditions 2(d), (e), (f) and (g) do not apply to children aged 2 and below in the calendar year.</li>
+	<li>The requirements in <b>Conditions 2(d), (e), (f) and (g)</b> do not apply to children aged 2 and below in the calendar year.</li>
 <br>
-<li>Travellers whose day of departure<sup>2</sup> from Singapore is on the day of the scheduled test under Condition 2(f) or (g) are exempted from taking their COVID-19 ART on that day.</li>
+	<li>the requirements in <b>Conditions 2(e)</b> do not apply to singapore citizens, permanent residents or long-term pass holders (i.e. Long-term visit pass, Student's pass, work pass or Dependant's pass)</li>
+<br>
+<li>Travellers whose day of departure<sup>2</sup> from Singapore is on the day of the scheduled test under <b>Condition 2(f) or (g)</b> are exempted from taking their COVID-19 ART on that day.</li>
 <br>
 <li>Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL (Land) or cancellation of the VTP at short notice.</li>
 <br>
-<li>A VTP traveller’s entry and stay in Singapore are subject to compliance with the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (“ICA”), including compliance with the conditions of the VTL (Land). Non-compliance with any of the prevailing immigration requirements or conditions of the VTL (Land) may result in refusal of entry into Singapore and/or cancellation of the VTP, and/or Long-Term Pass. In such an event, the VTP traveller may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.</li>
+<li>A VTP traveller’s entry and stay in Singapore are subject to compliance with the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (“ICA”), including compliance with the conditions of the VTL (Land). Non-compliance with any of the prevailing immigration requirements or conditions of the VTL (Land) may result in refusal of entry into Singapore and/or cancellation of the VTP, and/or visit pass or Long-Term Pass. In such an event, the VTP traveller may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.</li>
 <br>
 <li>For the purpose of determining whether the conditions of the VTL (Land) are being complied with, a public officer, including an officer of the ICA, or an officer acting on behalf of the ICA, may request to see the VTP. Upon receipt of such a request, a VTP traveller must show his or her VTP to the officer.</li>
 </ol>

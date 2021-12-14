@@ -12,7 +12,7 @@ TraceTogether is a technological solution to combat the spread of COVID-19 via c
 
 Prior to arriving in Singapore, travellers should check that their mobile devices are compatible with the TraceTogether app, download it on their mobile devices, and register their mobile number and profile on the app. Travellers must register their profile on the app with the same identification number, nationality and date of birth as those shown in the passport that they are using to enter Singapore. A TraceTogether (TT) App setup guide for travellers can be found [here](https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-). 
 
-<b>For visitors arriving via Changi Airport and are unable to download the TraceTogether App on their mobile devices, but do not fall into the groups eligible for TraceTogether tokens issuance in section B below, they are required to rent a mobile device from <a href="https://www.changirecommends.com/findus.aspx">Changi Recommends</a>.</b>
+<!--<b>For visitors arriving via Changi Airport and are unable to download the TraceTogether App on their mobile devices, but do not fall into the groups eligible for TraceTogether tokens issuance in section B below, they are required to rent a mobile device from <a href="https://www.changirecommends.com/findus.aspx">Changi Recommends</a>.</b>-->
 
 Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.
 
@@ -37,7 +37,7 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
 				<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
 				<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Children who are aged 7 to 12 years in the current calendar year;</li>
 								<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Those unable to use a mobile device due to a certified disability or special need</li>
-				</ol><br/><i>Note: Those who are unable to download or register for the TraceTogether app are required to <a href="https://www.changirecommends.com/findus.aspx">rent a mobile device from Changi Recommends</a>.</i></td>
+				</ol><!--<br/><i>Note: Those who are unable to download or register for the TraceTogether app are required to <a href="https://www.changirecommends.com/findus.aspx">rent a mobile device from Changi Recommends</a>.</i>--></td>
 			<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">	<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
 	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Children who are aged 7 to 12 years in the current calendar year;</li>
 					<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Those unable to use a mobile device due to a certified disability or special need;</li>

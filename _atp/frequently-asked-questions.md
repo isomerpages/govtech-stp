@@ -117,11 +117,6 @@ A visitor who does not have any of the above may be refused boarding by the airl
 
 Children who are aged 2 and below in that calendar year (i.e. in the year 2021, those who are born in or after 2019), are not required to undergo a pre-departure COVID-19 test. 
 
-Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport upon arrival in Singapore.
-
-Children aged 6 years or younger in that calendar year are exempted from the TraceTogether requirement.
-
-For visitors who do not have mobile devices to download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 5 and 6 under <a href="#contact">Contact Tracing – TraceTogether</a>.
 
 #### 4. Do visitors need a return flight ticket to enter Singapore?
 
@@ -276,7 +271,7 @@ Visitors must be transported directly to their declared place of accommodation t
 
 Yes. All visitors to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, visitors must activate and use the app (see questions 2 and 3 for app activation queries) for the duration of their stay in Singapore.
 
-Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+Travellers may also obtaion a TraceTogether token after arriving in Singapore. More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
 
 Children aged 6 years or younger in that calendar year are exempted from the TraceTogether requirement.
 

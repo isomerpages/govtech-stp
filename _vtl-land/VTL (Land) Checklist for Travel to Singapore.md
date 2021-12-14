@@ -7,10 +7,10 @@ description: ""
 
 ### VTL Land Travel Checklist 
 
-<p style="font-size:18px; line-height:1.35; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>&#10003;</b></span>&nbsp; For travellers including Singapore Citizens, Permanent Residents and holders of a Singapore-issued Long-Term Pass entering Singapore via the Causeway taking designated buses for the VTL (Land).</p>
+<p style="font-size:18px; line-height:1.35; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>&#10003;</b></span>&nbsp; For travellers including Singapore Citizens, Permanent Residents, and holders of a Singapore-issued Long-Term Pass entering Singapore via the Causeway taking designated buses for the VTL (Land).</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>&#10003;</b></span>&nbsp; For travellers who are Malaysia Citizens entering Singapore from 19 Dec 2021, 2359hours, via the Causeway taking designated buses for the VTL (Land).</p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.35;"><span style="font-size:20px;  color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore by plane &#9992;. Fully vaccinated travellers who intend to fly from Malaysia to Singapore should check the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> for more details. </p>
-<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><span style="font-size:20px; color:red;"><b>&#10005;</b></span> &nbsp; Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) Sector</p>
-<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><span style="font-size:20px; color:red;"><b>&#10005;</b></span> &nbsp; Workers staying in dormitories</p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><span style="font-size:20px; color:red;"><b>&#10005;</b></span> &nbsp; Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine Shipyard or Process (CMP) Sector and workers staying in dormitories</p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><span style="font-size:20px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers leaving Singapore. Travellers who intend to leave Singapore using the VTL (Land) should visit the "<a href="/vtl-land/outbound-travel">Vaccinated Travel Lane (Land) for Travel to Malaysia</a>" page for more details.</p>
 <p  style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.35;"><span style="color:black; font-size:20px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>
 
@@ -42,23 +42,26 @@ description: ""
 	*<i>The list of bus operators and websites will be regularly updated.</i>
 </div>
 
-
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C">
-		<label for="1C">&nbsp;&nbsp;<b>(1C) <span style="color:red;">[Singapore Long-Term Pass Holders Only]</span> Apply for Vaccinated Travel Pass (VTP) </b></label></div>
+		<label for="1C">&nbsp;&nbsp;<b>(1C) <span style="color:red;">[Short-term Visitors Only]</span> COVID-19 Travel and/or Medical Insurance </b></label></div>
+<div style="padding:20px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">All short-term visitors (i.e. Malaysian citizens who are not Singapore Permanent Residents or holders of Singapore-issued long term passes),  travelling to Singapore under VTL (Land), must purchase a suitable COVID-19 travel and/or medical insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available insurance products offered in Singapore, click <a href="/health/insurance-and-treatment#insurance" target="_blank">here</a>.</p></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D">
+		<label for="1D">&nbsp;&nbsp;<b>(1D) Apply for Vaccinated Travel Pass (VTP) </b></label></div>
 <div style="padding:20px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://go.gov.sg/vtl-portal" target="_blank"><b>Long Term Pass Holders<br>Click Here To Apply For a VTP</b></a></div>
+<div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://go.gov.sg/vtl-portal" target="_blank"><b>Long Term Pass Holders<br>Click Here To Apply For a VTP</b></a><p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35; text-align:left;"><i style="color:#871212;"><b>Note: Applications for Malaysia Citizens who are not Singapore Permanent Residents or holders of a Singapore-issued long term pass, will commence from 17 Dec 2021, 0800hrs</b></i></p></div>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">&#9200; &nbsp; <b>Apply <u>at least 3 calendar days</u> before the intended date of entry.</b></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;"><span style="color:red; font-size:18px;">&#10060;</span>&nbsp; Unvaccinated children aged 12 and below in this calendar year do not need to apply. However, they must comply with all other VTL (Land) conditions, including being a Singapore resident and being accompanied by a fully vaccinated VTL (Land) traveller.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>Please note the following while making the application on the VTP application portal:</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">If your intended date of entry is not reflected in the portal, come back on another day to apply as VTP dates are made available in the system on a rolling basis.</li>
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Travellers who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</li>
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Applicants not vaccinated in Singapore whose vaccination certificate contains multiple QR codes should ensure that they crop each QR code and upload them separately in order to avoid upload errors. Travellers who still experience issues uploading the QR code to the VTP application portal, should <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office</a> for help and provide their vaccination certificate. </li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Applicants not vaccinated in Singapore whose vaccination certificate contains multiple QR codes should ensure that they crop each QR code and upload them separately to avoid upload errors. Travellers who still experience issues uploading the QR code to the VTP application portal, should <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office</a> for help and provide their vaccination certificate. </li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">VTP is valid for 14 calendar days from the chosen date of entry. <br><br><i>(<u>Example</u>: A traveller holding a VTP (Land) for entry into Singapore on 1 December 2021 may enter Singapore on a designated VTL (Land) bus service on any day from 1 December to 14 December 2021. The traveller should apply for a new VTP if he is unable to enter Singapore from 1 December to 14 December.)</i></li>
 	</ol>
 </div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D"><label for="1D">&nbsp;&nbsp;<b>(1D) Pre-departure COVID-19 Test (PDT)</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label for="1E">&nbsp;&nbsp;<b>(1E) Pre-departure COVID-19 Test (PDT)</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">&#9200; &nbsp; <b>Take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) <u>within 2 days</u> before departure for Singapore.</b></p>
 		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">The test must be taken at a <a href="https://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_SENARAI_MAKMAL_YANG_MENJALANKAN_UJIAN_RT-PCR_BAGI_COVID-19_21092021.pdf" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> accredited or recognised by the Malaysia Ministry of Health. Travellers should obtain a test report that:</p>
@@ -72,7 +75,7 @@ description: ""
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;<b>Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require a PDT.</b></p>
 	</div>
 	
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label for="1E">&nbsp;&nbsp;<b>(1E) Submit Health Declaration</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1F"><label for="1F">&nbsp;&nbsp;<b>(1F) Submit Health Declaration</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35;">&#9200; &nbsp; <b>Submit the SG Arrival Card health and travel history declaration up to <u>3 days</u> before arriving in Singapore.</b></p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
@@ -87,7 +90,7 @@ description: ""
 	</ol>
 	</div>
 	
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1F"><label for="1F">&nbsp;&nbsp;<b>(1F) Passport Updates for Automated Immigration Clearance</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1G"><label for="1G">&nbsp;&nbsp;<b>(1G) Passport Updates for Automated Immigration Clearance</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">To enjoy automated immigration clearance at Woodlands Checkpoint, travellers may follow the following steps:</p>
 
@@ -134,10 +137,10 @@ description: ""
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Ticket for designated VTL (Land) bus services; </li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Passport;</li>
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;"><b><span style="color:red;">[Only applicable for Singapore Permanent Residents]</span></b> Singapore NRIC or Re-Entry Permit</li>
-<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;"><b><span style="color:red;">[Only applicable for holders of a Singapore-issued Long-Term Pass]</span></b> Physical or electronic copy of the VTP for the specified period of entry (per <a href="#1C">Stage 1C</a>)</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;"><b><span style="color:red;">[Singapore Permanent Residents only]</span></b> Singapore NRIC or Re-Entry Permit</li>
+<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;"><b><span style="color:red;">[All non-Singapore Citizens and non-Singapore Permanent Residents]</span></b> Physical or electronic copy of the VTP for the specified period of entry (per <a href="#1D">Stage 1D</a>)</li>
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per <a href="#1A">Stage 1A</a>)</li>
-			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#1D">Stage 1D</a>)</li>
+			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#1E">Stage 1E</a>)</li>
 	</ol>
 </div>
 
@@ -157,7 +160,9 @@ description: ""
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">&#128653; Travellers can use any transport to leave Queen Street Terminal or Woodlands Temporary Bus Interchange if they have tested negative for their on-arrival COVID-19 ART.</p>
 </div>
 
-<div id="postarrivaltests" style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3C"><label for="3C">&nbsp;&nbsp;<b>(3C) [From 6 December 2021, 2359hrs] Post-Arrival Daily COVID-19 ART</b></label></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
+
+<div id="postarrivaltests" style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="4A"><label for="4A">&nbsp;&nbsp;<b>(4A) [From 6 December 2021, 2359hrs] Post-Arrival Daily COVID-19 ART</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;Children aged two and below in this calendar year are exempted from this requirement.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">From 6 December 2021, 2359hrs, travellers entering Singapore will take a COVID-19 ART daily, over a six-day period after the day of arrival. General details below, but travellers should refer to their email and testing notice for the detailed testing instructions and schedule.</p>
@@ -205,8 +210,8 @@ description: ""
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers leaving Singapore any time between Day 2 and 7 (both dates inclusive) of their arrival are exempted from taking the self-administered ART or supervised ART on their day of departure. The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.</p>
 	</div>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="4A"><label for="4A">&nbsp;&nbsp;<b>COVID-19 Safe Management Measures and Proof of Vaccination</b></label></div>
+
+<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="4B"><label for="4B">&nbsp;&nbsp;<b>COVID-19 Safe Management Measures and Proof of Vaccination</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">The vaccination status of all fully vaccinated VTL (Land) travellers vaccinated outside Singapore will be automatically reflected on their <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> <b>1 day</b> after arrival in Singapore.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">All travellers must comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Please visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for details on the prevailing measures.</p>
