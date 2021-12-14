@@ -344,9 +344,11 @@ No, visitors must keep mobile devices and the Bluetooth function switched on at 
 
 #### 8. Will my vaccination status show on my TraceTogether app? What should I do if my vaccination status expires?
 
-If you were fully vaccinated in Singapore, you should be able to see your vaccination status on your TraceTogether and HealthHub apps. Your vaccination status will not expire.
-If you were fully vaccinated overseas, please upload your vaccination certificate on your SG Arrival Card submission, or present your overseas vaccination certificate at the immigration counter on-arrival. Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for 30 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. 
-If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: https://go.gov.sg/vax-status-query. You may also wish to refer to this FAQ for more information.
+If you were <a href="/health/vtsg" target="_blank">fully vaccinated</a> in <b>Singapore</b>, you should be able to see your vaccination status on your TraceTogether and HealthHub apps. Your vaccination status will not expire.
+
+If you were <a href="/health/vtsg" target="_blank">fully vaccinated</a> <b>overseas</b>, please upload your vaccination certificate on your SG Arrival Card submission, or present your overseas vaccination certificate at the immigration counter on-arrival. Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for 30 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. 
+
+If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: https://go.gov.sg/vax-status-query. You may also wish to refer to this <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">FAQ</a> for more information.
 
 
 #### 9. Where do visitors return their TraceTogether tokens?
