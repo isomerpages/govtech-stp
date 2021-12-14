@@ -12,7 +12,7 @@ TraceTogether is a technological solution to combat the spread of COVID-19 via c
 
 Prior to arriving in Singapore, travellers should check that their mobile devices are compatible with the TraceTogether app, download it on their mobile devices, and register their mobile number and profile on the app. Travellers must register their profile on the app with the same identification number, nationality and date of birth as those shown in the passport that they are using to enter Singapore. A TraceTogether (TT) App setup guide for travellers can be found [here](https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-). 
 
-<!--<b>For visitors arriving via Changi Airport and are unable to download the TraceTogether App on their mobile devices, but do not fall into the groups eligible for TraceTogether tokens issuance in section B below, they are required to rent a mobile device from <a href="https://www.changirecommends.com/findus.aspx">Changi Recommends</a>.</b>-->
+<b>Visitors who are unable to download the TraceTogether App on their mobile devices, but do not fall into the groups eligible for TraceTogether tokens issuance in section B below should consider renting a TraceTogether-compatible mobile device once they have entered Singapore.</b>
 
 Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.
 
@@ -66,7 +66,8 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
     </tr>
   </tbody>
   </table>
-	
+
+
 	
 ### 2.	Using TraceTogether
 
@@ -78,7 +79,7 @@ To facilitate contact tracing, travellers must keep the TraceTogether app activa
 
 To facilitate contact tracing, visitors are required to carry their own tokens with them wherever they go, and not exchange their tokens with others. Each token is uniquely tagged to the individual that registered for it.
 
-Just before departing Singapore, visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore. Details on where the tokens return booths/counters can be found [here](https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674823-Do-Short-Term-Visitors-need-to-return-their-TraceTogether-TT-Tokens-before-leaving-Singapore-). Visitors who do not return their tokens in-person prior to their departure from Singapore will have their S$50 deposit forfeited.
+<b>[Until 31 Dec 2021, 2359hrs]</b> Just before departing Singapore, visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore. Details on where the tokens return booths/counters can be found [here](https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674823-Do-Short-Term-Visitors-need-to-return-their-TraceTogether-TT-Tokens-before-leaving-Singapore-). Visitors who do not return their tokens in-person prior to their departure from Singapore will have their S$50 deposit forfeited.
 
 The S$50 deposit will be refunded if:
 - the TraceTogether token the visitor is returning belongs to him/her; and

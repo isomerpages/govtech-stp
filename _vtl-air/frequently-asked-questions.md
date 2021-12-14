@@ -1023,7 +1023,6 @@ In addition, visa-required short-term visitors must present a valid visa.
 
 A traveller who does not have any of the above may be refused boarding by the airline.
 
-Those unable to use a mobile device due to a certified disability or special needs are eligible to be issued TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport upon arrival in Singapore.
 
 #### 7. What should travellers do if they intend to travel to Singapore under VTL, but had booked themselves onto a non-designated flight? 
 
@@ -1414,9 +1413,10 @@ Purchase of travel insurance is a condition of the VTL (Air). Non-compliance wit
 
 Yes. All visitors to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, visitors must activate and use the app for the duration of their stay in Singapore.
 
-Children who are aged 7 to 12 in the calendar year [i.e. in the year 2021, those born from 2009 to 2014 (inclusive)] and those unable to use a mobile device due to a certified disability or special needs are eligible to be issued TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+Travellers may also obtain a TraceTogether token after arriving in Singapore. More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
 
 Children aged 6 and below in the calendar year (i.e. in the year 2021, those born in or after 2015) are exempted from the TraceTogether requirement.
+
 
 #### 2. After downloading the TraceTogether app, how do I activate it?
 
@@ -1482,7 +1482,26 @@ Visitors who can download the TraceTogether app but are unable to obtain an SMS 
 
 No, visitors must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
 
-#### 8. Where do visitors return their TraceTogether tokens?
+
+#### 8. Will my vaccination status show on my TraceTogether app? What should I do if my vaccination status expires?
+
+If you were fully vaccinated in <b>Singapore</b>, you should be able to see your vaccination status on your TraceTogether and HealthHub apps. Your vaccination status will not expire.
+
+If you were fully vaccinated <b>overseas</b>, please ensure that you complete one of the following:
+
+<ol style="list-style-type:lower-roman;">
+	<li><b>[For LTPH/STVs only]</b> upload your vaccination QR code in your VTP (Air) application (if required);</li>
+	<li><b>[For SC/PRs only]</b> upload your vaccination certificate on your SG Arrival Card submission; or </li>
+<li>present your overseas vaccination certificate at the immigration counter on-arrival.
+Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for 180 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services.</li>
+	</ol>
+
+If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: https://go.gov.sg/vax-status-query. 
+
+You may also wish to refer to this <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">FAQ</a> for more information.
+
+
+#### 9. [Valid until 31 Dec 2021, 2359hrs] Where do visitors return their TraceTogether tokens?
 
 Visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore.
 
@@ -1493,13 +1512,17 @@ The S$50 deposit will be refunded if:
 </li><li>the TraceTogether token is not faulty or damaged.
 </li></ol>
 
-#### 9. Will my vaccination status show on my TraceTogether app? what should i do if my vaccination status expires?
 
-If you were <a href="/health/vtsg" target="_blank">fully vaccinated</a> in <b>Singapore</b>, you should be able to see your vaccination status on your TraceTogether and HealthHub apps. Your vaccination status will not expire. 
+#### 10.  [On or after 1 Jan 2022] I paid a S$50 deposit when I rented my TraceTogether token. Do I need to return my token, and how will I be refunded my deposit?
 
-If you were <a href="/health/vtsg" target="_blank">fully vaccinated</a> <b>overseas</b>, please upload your vaccination certificate successfully during SG Arrival Card submission, or present your overseas vaccination certificates at the immigration counter on-arrival. Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for 30 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at a <a href="https://phpc.gov.sg/" target="_blank">participating clinics</a> in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services.
+You do not need to return your token.
 
-Please click <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for more FAQs on vaccination statuses appearing on the TraceTogether app. 
+If you paid for your deposit by cash, please proceed to the location where you obtained your token, which may be any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to your departure from Singapore. You will be refunded your S$50 in cash.
+
+If you paid for your deposit via credit card, the S$50 deposit will automatically be refunded to the credit card that was used to pay for the deposit, by the end of February 2022. 
+
+More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>.
+
 
 ---
 

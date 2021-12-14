@@ -138,7 +138,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitors are required to download and register their profile on the TraceTogether app to aid contact tracing.
 			</li>
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens.</li>
+			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers may also obtain a TraceTogether token after arriving in Singapore. More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a></li>
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">		Children below 6 years of age in that calendar year are exempted from the TraceTogether requirement.</li>
      </ol>
 						<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For the full requirements and conditions governing the use of TraceTogether, please click <a href="https://safetravel.ica.gov.sg/health/tt-for-travellers">here</a>.</p>
