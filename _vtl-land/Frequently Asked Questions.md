@@ -26,6 +26,7 @@ description: ""
 			</ol>
 		</li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#travel-history">Travel History Requirement</a></li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
 				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival Test Requirement</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#postarrivaltests">Post-Arrival Test Requirement</a></li>
 	</ol>
@@ -65,7 +66,7 @@ Otherwise, your family member will not be allowed to accompany you. During the i
 
 With effect from <b>19 December 2021, 2359hrs</b>, Malaysia Citizens can enter Singapore under VTL (Land).
 
-All travellers are required to meet the eligibility criteria and entry requirements to enter Singapore under the VTL (Land), regardless of whether they used the VTL (Land) to enter Malaysia previously.
+Malaysia Permanent Residents and holders of a Malaysia Long-Term Pass are required to meet the eligibility criteria and entry requirements to enter Singapore under the VTL (Land), regardless of whether they used the VTL (Land) to enter Malaysia previously.
 
 #### 5. Must I stay in Singapore for a minimum period after I enter Singapore under the VTL (Land)?
 
@@ -498,8 +499,28 @@ The traveller will be eligible if he remained in multiple countries, so long as 
 
 For example, if a traveller was in a country with which Singapore has a VTL from 1 to 7 December 2021, and entered Malaysia directly from 7 to 15 December (subject to Malaysia's entry requirements), they will be eligible to use the VTL (Land) to enter Singapore on 15 December 2021.
 
+<div id="insurance"></div>
 
-### (iv) On-Arrival Test Requirement
+### (iv) Mandatory COVID-19 Medical/Travel Insurance Coverage
+
+#### 1. Why is there a need for visitors to purchase COVID-19 medical and/or travel insurance?
+
+This is to ensure that short-term visitors will be able to bear the full cost of medical treatment, tests and isolation imposed on them for public health reasons, should they be suspected of being infected with COVID-19, or require medical treatment for COVID-19 while in Singapore. Those who test positive for COVID-19 typically receive care in private hospitals. 
+
+#### 2. What is the minimum coverage for COVID-19 medical and/or travel insurance?
+
+Visitors must purchase travel insurance for the entire duration of their stay in Singapore, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. Should their COVID-19 treatment cost go beyond S$30,000, visitors will have to pay for the excess.
+
+#### 3. Do visitors need to show proof of medical and/or travel insurance purchase when they apply for the VTP (Land)?
+
+Visitors will have to declare, at the point of VTP Land application, that they will purchase medical and/or travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
+
+#### 4. What penalties will be imposed on the visitor if he/she did not buy the insurance prior to entering Singapore?
+
+Purchase of medical and/or travel insurance is a condition of the VTL (Land), Non-compliance with any of the conditions of the VTL (Land) may result in refusal of entry into Singapore and/or cacnellation of the vTP (Land) and/or Visit Pass. In such an event, the VTP (Land) holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP (land) applications may also be rejected.
+
+
+### (v) On-Arrival Test Requirement
 
 <div id="OAT"></div>
 
@@ -516,7 +537,7 @@ Please also note that if a traveller's test result is confirmed to be positive, 
 
  <div id="postarrivaltests"></div>
  
-### (v) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)
+### (vi) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)
 
 ### GENERAL MATTERS
 
