@@ -156,9 +156,9 @@ input.box {display:block;}
 				<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR codes</b>:</p>
 <table>
 <tr>
-	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;" style="vertical-align:middle;"></td>
-	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;" style="vertical-align:middle;"></td>
-	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;" style="vertical-align:middle;"></td>
+	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
+	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
+	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
 			</tr>
 	<tr>
 	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On physical/PDF copy</td>
@@ -169,10 +169,19 @@ input.box {display:block;}
 </div>
 			<input class="accordion" type="checkbox" id="Fiji-cert">
 <label class="accordion" for="Fiji-cert" style="background:#D8D8D8;color:black;"><b>Fiji</b></label>
-		<div class="content" style="background-color:#ededed;"><b>[For entry into Singapore from 15 Dec 2021, 2359hrs]</b><br><br>COVID-19 Vaccination Certificate issued by Republic of Fiji</div>
+		<div class="content" style="background-color:#ededed;"><b>[For entry into Singapore from 15 Dec 2021, 2359hrs]</b><br><br>COVID-19 Vaccination Certificate issued by Republic of Fiji
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">	You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
 			<input class="accordion" type="checkbox" id="India-cert">
 <label class="accordion" for="India-cert" style="background:#D8D8D8;color:black;"><b>India</b></label>
-		<div class="content" style="background-color:#ededed;">International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.</div>
+		<div class="content" style="background-color:#ededed;">International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Your certificate should contain both ‘Date of Birth’ and ‘Passport Number’. Please request for an <u>International Travel Certificate</u> on the Co-WIN website if your certificate does not contain these fields.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: One QR code indicating the final dose (i.e. 2/2).</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_India.png" style="width:49px; height:98px;"></p>	
+</div>
 				<input class="accordion" type="checkbox" id="Indonesia-cert">
 <label class="accordion" for="Indonesia-cert" style="background:#D8D8D8;color:black;"><b>Indonesia</b></label>
 		<div class="content" style="background-color:#ededed;">Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></div>
