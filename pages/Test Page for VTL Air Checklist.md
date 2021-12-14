@@ -176,7 +176,7 @@ input.box {display:block;}
 <label class="accordion" for="India-cert" style="background:#D8D8D8;color:black;"><b>India</b></label>
 		<div class="content" style="background-color:#ededed;">International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
-		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Your certificate should contain both ‘Date of Birth’ and ‘Passport Number’. Please request for an <u>International Travel Certificate</u> on the Co-WIN website if your certificate does not contain these fields.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Your certificate should contain both ‘Date of Birth’ and ‘Passport Number’. Please request for an <u>International Travel Certificate</u> on the Co-WIN website if your certificate does not contain these fields.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: One QR code indicating the final dose (i.e. 2/2).</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
@@ -190,7 +190,24 @@ input.box {display:block;}
 </div>
 					<input class="accordion" type="checkbox" id="Malaysia-cert">
 <label class="accordion" for="Malaysia-cert" style="background:#D8D8D8;color:black;"><b>Malaysia</b></label>
-		<div class="content" style="background-color:#ededed;">Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></div>
+		<div class="content" style="background-color:#ededed;">Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: 2 QR codes, one for each dose. Please extract (i.e. crop and upload) each of the QR codes at each point of upload.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:</p>
+<table>
+<tr>
+	<td><img src="/images/QR_Malaysia.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
+	<td><img src="/images/QR_Malaysia_1.png" style="width:49px; height:98px;" style="vertical-align:middle"></td>
+			</tr>
+	<tr>
+	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On physical/PDF copy</td>
+	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On apps</td>
+	</tr>
+			</table>
+</div>
 					<input class="accordion" type="checkbox" id="Maldives-cert">
 <label class="accordion" for="Maldives-cert" style="background:#D8D8D8;color:black;"><b>Maldives</b></label>
 		<div class="content" style="background-color:#ededed;"><b>[For entry into Singapore from 15 Dec 2021, 2359hrs]</b><br><br>COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ website</div>
