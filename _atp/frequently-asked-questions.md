@@ -342,7 +342,14 @@ Upon purchase, visitors are to activate the Singapore SIM card and immediately r
 
 No, visitors must keep mobile devices and the Bluetooth function switched on at all times while in Singapore.
 
-#### 8. Where do visitors return their TraceTogether tokens?
+#### 8. Will my vaccination status show on my TraceTogether app? What should I do if my vaccination status expires?
+
+If you were fully vaccinated in Singapore, you should be able to see your vaccination status on your TraceTogether and HealthHub apps. Your vaccination status will not expire.
+If you were fully vaccinated overseas, please upload your vaccination certificate on your SG Arrival Card submission, or present your overseas vaccination certificate at the immigration counter on-arrival. Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for 30 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. 
+If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: https://go.gov.sg/vax-status-query. You may also wish to refer to this FAQ for more information.
+
+
+#### 9. Where do visitors return their TraceTogether tokens?
 
 Visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore.
 
