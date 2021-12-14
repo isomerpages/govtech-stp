@@ -13,8 +13,7 @@ published: true
 <meta charset="utf-8">
 <title>Test Accordion</title>
 
-<style>
-	
+<style>	
 input.accordion {
     display: none;
 }
@@ -28,7 +27,7 @@ label.accordion {
     border-radius: 3px;
     color: #FFFFFF;
     transition: ease .5s;
-	position: relative;
+		position: relative;
 }
 
 label.accordion:hover {
@@ -64,10 +63,15 @@ input.accordion:checked + label.accordion + .content {
     display: block;
 }
 	
-input.box {display:block;}	
+input.box {
+		display: inline;
+		width: 20px;
+		height: 20px;
+		vertical-align:middle; 
+}	
 	
-	label.box { 
-	  display: block;    
+label.box { 
+	  display: inline;    
     padding: 0px;
     margin: 0 0 0 0;
     cursor: pointer;
@@ -75,8 +79,8 @@ input.box {display:block;}
     border-radius: 3px;
     color: #000000;
     transition: ease .5s;
-	position: relative;
-	}
+	  position: relative;
+}
 
   
 </style>
@@ -101,7 +105,7 @@ input.box {display:block;}
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
 <div id="1A" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></label></div>
+<input class="box" type="checkbox" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proofs of vaccination to be eligible for the VTL. <br><br>You may check for the acceptable proofs of vaccination based on their countries/regions of issuance below. The upload instructions for STVs and LTVPs will be required for <b>Stage 1C</b>.</p>
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></u></p>
