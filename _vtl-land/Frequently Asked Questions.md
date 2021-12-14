@@ -62,11 +62,11 @@ With effect from <b>19 December 2021, 2359hrs</b>, your family member can accomp
 
 Otherwise, your family member will not be allowed to accompany you. During the initial phase of the VTL (Land), only citizens of both countries, along with permanent residents and long-term pass holders of the country that they are entering are eligible to travel under this arrangement. Given the high demand for cross-border land travel, we are prioritising persons who have been impacted by COVID-19 and separated from their families for many months during the initial phase.
 
-#### 4. If I am a Malaysia Citizen, Malaysia Permanent Resident or holder of a Malaysia Long-Term Pass entering Malaysia using the VTL (Land), can I use the VTL (Land) to return to Singapore?
+#### 4. If I am a Malaysia Citizen, Malaysia Permanent Resident or holder of a Malaysia Long-Term Pass entering Malaysia using the VTL (Land), can I use the VTL (Land) to re-enter to Singapore?
 
 With effect from <b>19 December 2021, 2359hrs</b>, Malaysia Citizens can enter Singapore under VTL (Land).
 
-Malaysia Permanent Residents and holders of a Malaysia Long-Term Pass are required to meet the eligibility criteria and entry requirements to enter Singapore under the VTL (Land), regardless of whether they used the VTL (Land) to enter Malaysia previously.
+Malaysia permanent residents or holder of a Malaysia long term pass are not allowed to enter singapore under vtl (land) unless they are a singapore citizen, Singapore permanent resident or holder of a singapore issued long term pass.
 
 #### 5. Must I stay in Singapore for a minimum period after I enter Singapore under the VTL (Land)?
 
@@ -163,7 +163,7 @@ You do not need to cancel your VTP. If you do not utilise your VTP within the va
 
 #### 7. From when can Malaysia Citizens apply for a VTP?
 
-Travellers entering Singapore who are not Singapore Citizens nor Permanent Residents will need to apply for a Vaccinated Travel Pass (VTP). Holders of Singapore-issued Long-Term Passes can already apply for a VTP, while Malaysia Citizens who are not holders of Singapore-issued Long-Term Passes can do so <b>from 17 December 2021</b>.
+Travellers entering Singapore who are not Singapore Citizens nor Singapore Permanent Residents will need to apply for a Vaccinated Travel Pass (VTP). Holders of Singapore-issued Long-Term Passes can already apply for a VTP, while Malaysia Citizens who are not holders of Singapore-issued Long-Term Passes can do so <b>from 17 December 2021</b>.
 
 <div id="requirements"></div>
 
