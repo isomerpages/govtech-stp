@@ -7,9 +7,10 @@ description: ""
 
 ### VTL Land Travel Checklist 
 
-<p style="font-size:18px; line-height:1.35; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>&#10003;</b></span>&nbsp; For travellers including Singapore Citizens, Permanent Residents and holders of a Singapore-issued Long-Term Pass entering Singapore via the Causeway taking designated buses for the VTL (Land).</p>
+<p style="font-size:18px; line-height:1.35; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>&#10003;</b></span>&nbsp; For travellers including Singapore Citizens, Permanent Residents, and holders of a Singapore-issued Long-Term Pass entering Singapore via the Causeway taking designated buses for the VTL (Land).</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>&#10003;</b></span>&nbsp; For travellers who are Malaysia Citizens and Malaysian Permanent Residents entering Singapore from 20 Dec 2021, via the Causeway taking designated buses for the VTL (Land).</p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.35;"><span style="font-size:20px;  color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore by plane &#9992;. Fully vaccinated travellers who intend to fly from Malaysia to Singapore should check the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> for more details. </p>
-<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><span style="font-size:20px; color:red;"><b>&#10005;</b></span> &nbsp; Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) Sector</p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><span style="font-size:20px; color:red;"><b>&#10005;</b></span> &nbsp; Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine Shipyard or Process (CMP) Sector and;</p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><span style="font-size:20px; color:red;"><b>&#10005;</b></span> &nbsp; Workers staying in dormitories</p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><span style="font-size:20px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers leaving Singapore. Travellers who intend to leave Singapore using the VTL (Land) should visit the "<a href="/vtl-land/outbound-travel">Vaccinated Travel Lane (Land) for Travel to Malaysia</a>" page for more details.</p>
 <p  style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.35;"><span style="color:black; font-size:20px;"><b>&#9997;</b></span> &nbsp;Travellers may mark "&#9745;" against the box (&#9744;) for completed actions.</p>
@@ -42,9 +43,12 @@ description: ""
 	*<i>The list of bus operators and websites will be regularly updated.</i>
 </div>
 
-
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C">
-		<label for="1C">&nbsp;&nbsp;<b>(1C) <span style="color:red;">[Singapore Long-Term Pass Holders Only]</span> Apply for Vaccinated Travel Pass (VTP) </b></label></div>
+		<label for="1C">&nbsp;&nbsp;<b>(1C) <span style="color:red;">[Short-term Visitors Only]</span> COVID-19 Insurance </b></label></div>
+<div style="padding:20px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">All short-term visitors travelling to Singapore under VTL (Land), must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment#insurance" target="_blank">here</a>.</p></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D">
+		<label for="1D">&nbsp;&nbsp;<b>(1D) <span style="color:red;">[Singapore Long-Term Pass Holders Only]</span> Apply for Vaccinated Travel Pass (VTP) </b></label></div>
 <div style="padding:20px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://go.gov.sg/vtl-portal" target="_blank"><b>Long Term Pass Holders<br>Click Here To Apply For a VTP</b></a></div>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">&#9200; &nbsp; <b>Apply <u>at least 3 calendar days</u> before the intended date of entry.</b></p>
