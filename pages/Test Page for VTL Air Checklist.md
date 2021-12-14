@@ -156,14 +156,14 @@ input.box {display:block;}
 				<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR codes</b>:</p>
 <table>
 <tr>
-	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;"></td>
+	<td style="align:center;"><img src="/images/QR_Canada.png" style="width:49px; height:98px;"></td>
 	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;"></td>
 	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;"></td>
 			</tr>
 	<tr>
-	<td>On physical/PDF copy</td>
-	<td>Turkey-issued Certificates</td>
-	<td>On apps</td>
+	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On physical/PDF copy</td>
+	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">Turkey-issued Certificates</td>
+	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On apps</td>
 	</tr>
 			</table>
 </div>
