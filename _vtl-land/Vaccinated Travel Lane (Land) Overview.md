@@ -337,7 +337,7 @@ Travellers who are eligible for VTL (Land) and have already obtained their bus t
 	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/vtl-land/faq#OAT">On-arrival Test</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/vtl-land/faq#postarrivaltests">Post-Arrival COVID-19 ARTs</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/vtl-land/faq#DesignatedBus">Bus Services</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/files/VTL-Land-4.pdf">Useful weblinks</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a target="_blank" href="/files/VTL-Land-4.PNG">Useful weblinks</a></li>
 </ol>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">Have a question that is not addressed by any of the available resources found in this webpage? <a target="_blank" href="https://go.gov.sg/sto-enquiry">Contact us here</a>.</p>
