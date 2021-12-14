@@ -43,8 +43,8 @@ description: ""
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C">
-		<label for="1C">&nbsp;&nbsp;<b>(1C) <span style="color:red;">[Short-term Visitors Only]</span> COVID-19 Insurance </b></label></div>
-<div style="padding:20px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">All short-term visitors travelling to Singapore under VTL (Land), must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment#insurance" target="_blank">here</a>.</p></div>
+		<label for="1C">&nbsp;&nbsp;<b>(1C) <span style="color:red;">[Short-term Visitors Only]</span> COVID-19 Travel and/or Medical Insurance </b></label></div>
+<div style="padding:20px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">All short-term visitors travelling to Singapore under VTL (Land), must purchase a suitable COVID-19 travel and/or medical insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment#insurance" target="_blank">here</a>.</p></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D">
 		<label for="1D">&nbsp;&nbsp;<b>(1D) Apply for Vaccinated Travel Pass (VTP) </b></label></div>
