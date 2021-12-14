@@ -26,6 +26,7 @@ description: ""
 		<li>the name of the testing institution conducting the COVID-19 test.</li>
 	</ol>
 	</li>
+	<li style="padding-top:10px;">Purchase medical and/or travel insurance, with a minimum coverage of S$30,000 for covid-19-related medical treatment and hospitalisation costs in Singapore, prior to travelling to Singapore.</li>
 	<li style="padding-top:10px;">undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange;</li>
 	<li>undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> and submit their results online on Days 2, 4, 5 and 6 of their arrival in Singapore;</li>
 	<li>undergo supervised self-administered COVID-19 ARTs on Days 3 and 7 of their arrival in Singapore at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) / Combined Test Centre (CTC)</a>;</li>
@@ -44,7 +45,7 @@ description: ""
 <br>
 <li>The requirements in Conditions 2(d), (e), (f) and (g) do not apply to children aged 2 and below in the calendar year.</li>
 <br>
-<li>Travellers whose day of departure<sup>2</sup> from Singapore is on the day of the scheduled test under Condition 2(f) or (g) are exempted from taking their COVID-19 ART on that day.</li>
+<li>Travellers whose day of departure<sup>2</sup> from Singapore is on the day of the scheduled test under <b>Condition 2(f) or (g)</b> are exempted from taking their COVID-19 ART on that day.</li>
 <br>
 <li>Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL (Land) or cancellation of the VTP at short notice.</li>
 <br>
