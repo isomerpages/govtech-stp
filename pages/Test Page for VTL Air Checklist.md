@@ -343,7 +343,7 @@ input.box {display:block;}
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label class="box" for="3B">&nbsp;&nbsp;<b>Stage 3B: Undergo On-Arrival COVID-19 PCR Test (OAT-PCR)</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Take an <a href="https://safetravel.changiairport.com/#/" target="_blank">on-arrival COVID-19 PCR test</a>. Travellers who did not pay for the test before arrival will pay on the spot for the test.</p>
-		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require an on-arrival test.</b>.</p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require an on-arrival test.</b></p>
   </div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
@@ -373,9 +373,16 @@ input.box {display:block;}
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="5A"><label class="box" for="5A">&nbsp;&nbsp;<b>Stage 5A: Self-Isolate Pending OAT-PCR Results</b></label></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
     <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">As part of Singapore’s Vaccination-differentiated Safe Management Measures (VDS), you must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). Travellers must also comply with all other <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in).</p>
     <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">The vaccination status of all fully vaccinated VTL (Air) travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.</p>
     <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>[SC/PRs with an overseas-issued vaccination certificate]</b> If you are unable to upload your vaccination certificate successfully during SG Arrival Card submission, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, to be eligible for VDS, Your status will be updated on your TraceTogether app.</p>
 	    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for more FAQs on inland public health measures.</p>
   </div>
+
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="5B"><label class="box" for="5B">&nbsp;&nbsp;<b>Stage 5B: Self-Isolate Pending OAT-PCR Results</b></label></div>
+<div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require any post-arrival ARTs.</b></p>
+</div>
