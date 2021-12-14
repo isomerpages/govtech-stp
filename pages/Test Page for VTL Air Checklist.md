@@ -2,7 +2,7 @@
 title: Test Page for VTL Air Checklist
 permalink: /vtl-air/checklist
 description: ""
-published: false
+published: true
 ---
 
 ### Vaccinated Travel Lane (Air) Travel Checklist
@@ -67,9 +67,9 @@ input.accordion:checked + label.accordion + .content {
 input.box {display:block;}	
 	
 	label.box { 
-	    display: block;    
-    padding: 10px 30px;
-    margin: 0 0 1px 0;
+	  display: block;    
+    padding: 0px;
+    margin: 0 0 0 0;
     cursor: pointer;
     background: #d5d5d5;
     border-radius: 3px;
