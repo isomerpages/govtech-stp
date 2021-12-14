@@ -303,7 +303,8 @@ All travellers, except those aged two and below in this calendar year (i.e. a ch
 
 All short-term VTL (Air) travellers **must** download the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phone and register their profile for contact tracing. Only children aged 6 and below in this calendar year are exempted from this requirement (e.g. a child who turns 6 this calendar year will be exempted).
 
-Travellers aged 7 to 12 in this calendar year [i.e. those born from 2009 to 2014 (inclusive)] and those who are unable to use a mobile device due to a certified disability or special need, are eligible to be issued physical TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport upon arrival in Singapore.
+Travellers may also obtain a TraceTogether token after arriving in Singapore. More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>.
+
 
 <div id="stage2"></div>
 
