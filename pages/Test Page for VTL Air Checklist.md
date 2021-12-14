@@ -184,7 +184,10 @@ input.box {display:block;}
 </div>
 				<input class="accordion" type="checkbox" id="Indonesia-cert">
 <label class="accordion" for="Indonesia-cert" style="background:#D8D8D8;color:black;"><b>Indonesia</b></label>
-		<div class="content" style="background-color:#ededed;">Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></div>
+		<div class="content" style="background-color:#ededed;">Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
+</div>
 					<input class="accordion" type="checkbox" id="Malaysia-cert">
 <label class="accordion" for="Malaysia-cert" style="background:#D8D8D8;color:black;"><b>Malaysia</b></label>
 		<div class="content" style="background-color:#ededed;">Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></div>
