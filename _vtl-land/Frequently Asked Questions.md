@@ -66,7 +66,7 @@ Otherwise, your family member will not be allowed to accompany you. During the i
 
 With effect from <b>19 December 2021, 2359hrs</b>, Malaysia Citizens can enter Singapore under VTL (Land).
 
-Malaysia permanent residents or holder of a Malaysia long term pass are not allowed to enter singapore under vtl (land) unless they are a singapore citizen, Singapore permanent resident or holder of a singapore issued long term pass.
+Malaysia Permanent Residents or holder of a Malaysia Long-Term pass are not allowed to enter Singapore under VTL (land) unless they are a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term pass.
 
 #### 5. Must I stay in Singapore for a minimum period after I enter Singapore under the VTL (Land)?
 
