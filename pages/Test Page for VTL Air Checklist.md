@@ -156,9 +156,9 @@ input.box {display:block;}
 				<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR codes</b>:</p>
 <table>
 <tr>
-	<td style="align:center;"><img src="/images/QR_Canada.png" style="width:49px; height:98px;"></td>
-	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;"></td>
-	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px;"></td>
+	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px; vertical-align:middle;"></td>
+	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px; vertical-align:middle;"></td>
+	<td><img src="/images/QR_Canada.png" style="width:49px; height:98px; vertical-align:middle;"></td>
 			</tr>
 	<tr>
 	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On physical/PDF copy</td>
