@@ -145,9 +145,9 @@ You must be vaccinated to participate in certain activities in Singapore (e.g. d
 
 If you were <a href="/health/vtsg" target="_blank">fully vaccinated</a> in <b>Singapore</b>, you should be able to see your vaccination status on your TraceTogether and HealthHub apps. Your vaccination status will not expire. 
 
-If you were <a href="/health/vtsg" target="_blank">fully vaccinated</a> <b>overseas</b>, please upload your vaccination certificate successfully during SG Arrival Card submission, or present your overseas vaccination certificates at the immigration counter on-arrival. Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for 30 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at a <a href="https://phpc.gov.sg/" target="_blank">participating clinics</a> in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services.
+If you were <a href="/health/vtsg" target="_blank">fully vaccinated</a> <b>overseas</b>, please upload your vaccination certificate successfully during SG Arrival Card submission, or present your overseas vaccination certificates at the immigration counter on-arrival. Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for at least 30 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at a <a href="https://phpc.gov.sg/" target="_blank">participating clinics</a> in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services.
 
-Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for more FAQs on these measures.
+Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministy of Health's FAQs on these measures.
 
 #### 8. I was diagnosed with COVID-19 and have since recovered. I have been administered only one vaccine dose of a typically two-dose regimen. Am I eligible to travel under the VTL (Air)?
 
@@ -637,7 +637,7 @@ Please attempt re-uploading your QR code and ensure that you have the <b>'Intern
 <img src="/images/IndiaVaxCert.png" width="765" height="372">
 
 To obtain an <b>'International Travel Certificate'</b>:
-- Visit https://www.cowin.gov.in/
+- Visit <https://www.cowin.gov.in/>
 - Login using the "Register/Sign In' option on top right.
 - Once logged in, tap on the 'International Travel Certificate' option right next to the 'Certificate' option.
 - Now, enter all the required details such as your passport number and DOB.
@@ -1208,16 +1208,20 @@ Travellers should take private transport, taxi or private hire car to the CTC, a
 
 Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
 
+#### 7. How will travellers receive their confirmatory PCR test results? 
 
-#### 7. What should travellers do if they test positive for COVID-19 on their PCR test?
+Travellers will be able to view their confirmatory PCR test results on their TraceTogether app. If it is shown as negative, they may proceed with their daily activities and continue undergoing daily scheduled ARTs up to Day 7. Do note that data from test providers may take time to update. If the results are not updated after 48 hours, please contact <support@tracetogether.gov.sg>.
+
+
+#### 8. What should travellers do if they test positive for COVID-19 on their PCR test?
 
 If travellers test positive for COVID-19 on a PCR test, further isolation and treatment measures will be imposed on them, in accordance with the Ministry of Health’s protocols. They should remain in their place of accommodation, and not come into close proximity with any other person. The Ministry of Health will contact them with further details on how their case will be managed.
 
-#### 8. Do travellers need to undergo post-arrival ARTs if they will be going onboard a "Cruise to Nowhere"?
+#### 9. Do travellers need to undergo post-arrival ARTs if they will be going onboard a "Cruise to Nowhere"?
 
 Travellers are require to comply with the conditions of the VTL (Air), including undergoing post-arrival ARTs on the scheduled dates. They should postpone thier plans such that they can comply with the testing regime.
 
-#### 9. What are the penalties if travellers miss their scheduled tests?
+#### 10. What are the penalties if travellers miss their scheduled tests?
 
 Failure to undergo the required COVID-19 tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
 
@@ -1228,46 +1232,46 @@ Further, the traveller’s VTP (Air), and/or Visit Pass or Long-Term Pass, may b
 
 ### SUPERVISED ARTS ON DAYS 3 AND 7
 
-#### 10. How much do the supervised ARTs cost?
+#### 11. How much do the supervised ARTs cost?
 
 The cost of each ART is S$15 (inclusive of Goods and Services Tax). Travellers will bear the cost of the tests.
 
 Payment is to be made at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> through cashless modes such as Mastercard, NETS, PayNow and Visa. Cash will not be accepted.
 
-#### 11. Can travellers bring their own ART self-test kits to the test centres?
+#### 12. Can travellers bring their own ART self-test kits to the test centres?
 
 No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
 
 
-#### 12. What are the test centres that travellers can go to for their supervised ARTs?
+#### 13. What are the test centres that travellers can go to for their supervised ARTs?
 
 They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. 
 
 
-#### 13. Can a traveller go to a clinic for their supervised ARTs instead of the Quick Test Centres or Combined Test Centres?
+#### 14. Can a traveller go to a clinic for their supervised ARTs instead of the Quick Test Centres or Combined Test Centres?
 
 No, travellers must only go to the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. Otherwise, the traveller’s attendance will not be tracked, and test results will not be captured.
 
 
-#### 14. How do travellers book their appointments for their supervised ARTs?
+#### 15. How do travellers book their appointments for their supervised ARTs?
 
 Travellers will be provided with a weblink to book their ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC). 
 
 They should schedule an appointment once they have received the instructions from the Safe Travel Office (STO), and take the ARTs at the QTC or CTC on the appropriate dates. They can only book an appointment for their second test (Day 7) <u>after</u> they have attended their first test (Day 3).
 
 
-#### 15. Are children required to undergo supervised ARTs?
+#### 16. Are children required to undergo supervised ARTs?
 
 Children aged 2 and below in this calendar year are not required to undergo post-arrivals ARTs. Children aged 3 to 12 must undergo their Day 3 and Day 7 ARTs at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
-#### 16. Do travellers need to self-isolate after their supervised ART?
+#### 17. Do travellers need to self-isolate after their supervised ART?
 
 No, travellers are not required to self-isolate after their Day 3 and Day 7 ARTs. Self-isolation is only required pending the results of the on-arrival COVID-19 PCR test at the airport.
 
 However, if tested positive for their ART, travellers must self-isolate immediately. They must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 1600 hours on the day after testing ART positive.
 
 
-#### 17. How soon will the results of the supervised ARTs be out?
+#### 18. How soon will the results of the supervised ARTs be out?
 
 If tested positive for their supervised ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number).
 
@@ -1276,12 +1280,12 @@ Travellers with a registered local mobile number can expect to receive their res
 Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
 
 
-#### 18. What should travellers do if they have an invalid ART result for their supervised ART?
+#### 19. What should travellers do if they have an invalid ART result for their supervised ART?
 	
 Travellers with an invalid ART result for their supervised ART will be required to return for a retest. This will be provided free-of-charge.
 
 
-#### 19. Are travellers allowed to reschedule their Day 3 and Day 7 ARTs to other days?
+#### 20. Are travellers allowed to reschedule their Day 3 and Day 7 ARTs to other days?
 
 No, travellers are required to undergo COVID-19 ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> on Day 3 and Day 7 of their arrival in Singapore. 
 
@@ -1290,21 +1294,21 @@ Failure to do so may constitute an offence under the Infectious Diseases Act (ID
 
 ### UNSUPERVISED ARTS ON DAYS 2, 4, 5 AND 6
 
-#### 20. Where can travellers obtain ART self-test kits?
+#### 21. Where can travellers obtain ART self-test kits?
 
 Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmacy, retailer or e-commerce platform. ART kits will not be provided upon arrival. 
 
 If travellers are serving their self-isolation pending their on-arrival COVID-19 PCR test results, they may obtain ART kits via applications such as Grab and foodpanda which offer 24/7 delivery. Those residing in hotels can also seek their hotel concierge’s assistance to help them obtain ART kits. They should not leave their place of accommodation to purchase ART kits prior to receiving their negative PCR test results on Day 1. They may only leave their place of accommodation after self-administering their ART on Day 2.
 
-#### 21. Are there specific ART kits that travellers may use for self-testing?
+#### 22. Are there specific ART kits that travellers may use for self-testing?
 
 Travellers are advised to only purchase and use <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">COVID-19 self-test kits authorised for use in Singapore</a> by the Health Sciences Authority (HSA). As these tests are meant to be used by consumers, no doctor’s prescription is required for their purchase.
 
-#### 22. How much does an ART kit cost?
+#### 23. How much does an ART kit cost?
 
 ART kits typically cost less than S$15 and can be obtained from any local clinic, pharmacy, retailer or e-commerce platform.
 
-#### 23. How do travellers self-administer an ART?
+#### 24. How do travellers self-administer an ART?
 
 Travellers are strongly encouraged to <a href="https://artbuddy.healthpixel.co/" target="_blank">view the materials here</a> to learn how to self-administer an ART. They can follow the step-by-step instructions while administering their ART.
 
@@ -1316,21 +1320,21 @@ Travellers may also refer to <a href="https://www.covid.gov.sg/exposed/no-hrw" t
 - <a href="https://go.gov.sg/bca-self-art-tam" target="_blank">Tamil</a>
 
 
-#### 24. Are there any age restrictions on the use of ART kits?
+#### 25. Are there any age restrictions on the use of ART kits?
 
 Children under the age of 2 are not required to perform ARTs. Generally, those below 12 years old will require an adult’s assistance to administer the ART self-test.
 
-#### 25. What time do travellers need to perform their ART and submit their test results?
+#### 26. What time do travellers need to perform their ART and submit their test results?
 
 Travellers are required to self-administer their ART before leaving their place of accommodation on Days 2, 4, 5 and 6 of their arrival in Singapore. They should submit their test results immediately after obtaining a valid test result.
 
 Those who do not intend to leave their place of accommodation may perform their ART at any time on Days 2, 4, 5 and 6, and submit their results via the provided webform by 2359 hours on the scheduled day of the test. They must still perform their ARTs even if they are not going out.
 
-#### 26. How do travellers submit their test results?
+#### 27. How do travellers submit their test results?
 
 The weblink for results submission will be provided to travellers after their arrival in Singapore via the email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC).
 
-#### 27. How long will it take to obtain the results of the self-administered ART?
+#### 28. How long will it take to obtain the results of the self-administered ART?
 
 The results should be visible within 15 minutes and should be reflected as follows. If it appears as invalid, please repeat the test and submit a valid (i.e. positive or negative) test result via the webform.
 <img src="/images/ARTresults.png" width="820" height="222">
@@ -1492,13 +1496,14 @@ If you were fully vaccinated <b>overseas</b>, please ensure that you complete on
 <ol style="list-style-type:lower-roman;">
 	<li><b>[For LTPH/STVs only]</b> upload your vaccination QR code in your VTP (Air) application (if required);</li>
 	<li><b>[For SC/PRs only]</b> upload your vaccination certificate on your SG Arrival Card submission; or </li>
-<li>present your overseas vaccination certificate at the immigration counter on-arrival.
-Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for 180 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services.</li>
+<li>present your overseas vaccination certificate at the immigration counter on-arrival.</li>
 	</ol>
+
+Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for at least 30 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministy of Health's FAQs on these measures.
 
 If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: https://go.gov.sg/vax-status-query. 
 
-You may also wish to refer to this <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">FAQ</a> for more information.
+You may also wish to refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">TraceTogether FAQs</a> for more information.
 
 
 #### 9. [Valid until 31 Dec 2021, 2359hrs] Where do visitors return their TraceTogether tokens?
