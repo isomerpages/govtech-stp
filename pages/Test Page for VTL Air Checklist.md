@@ -89,16 +89,16 @@ label.box {
 
 <p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><b>The following types of travellers are eligible for VTL (Air) but must fulfil the requirements in this checklist</b>. If requirements are not followed, SC/PRs will be subjected to prevailing Stay-Home Notice and testing requirements, and all other travellers may be denied entry into Singapore:</p>
 
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px; color:green;"><b>&#10003;</b></span>&nbsp; Singapore Citizens and Permanent Residents ("SC/PRs")</p>
+<p style="padding-left:20px; font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px; color:green;"><b>&#10003;</b></span>&nbsp; Singapore Citizens and Permanent Residents ("SC/PRs")</p>
 
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px; color:green;"><b>&#10003;</b></span>&nbsp; Holders of a Singapore-issued Long-Term Pass ("LTPHs") (<i>i.e. Holders of Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration & Checkpoints Authority</i>)</p>
+<p style="padding-left:20px;font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px; "><span style="font-size:25px; color:green;"><b>&#10003;</b></span>&nbsp; Holders of a Singapore-issued Long-Term Pass ("LTPHs") (<i>i.e. Holders of Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration & Checkpoints Authority</i>)</p>
 
-<p style="font-size:18px; margin-top:10px; margin-bottom:30px;"><span style="font-size:25px; color:green;"><b>&#10003;</b></span>&nbsp; Short-term Visitors ("STVs") (i.e. travellers who are not SC/PRs or LTPHs)</p>
+<p style="padding-left:20px; font-size:18px; margin-top:10px; margin-bottom:30px;"><span style="font-size:25px; color:green;"><b>&#10003;</b></span>&nbsp; Short-term Visitors ("STVs") (i.e. travellers who are not SC/PRs or LTPHs)</p>
 
 <p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><b>The following travellers are not allowed to enter Singapore via VTL (Air) and should check the requirements of other lanes for entry to Singapore:</b></p>
 
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px;  color:red;"><b>&#10005;</b></span> &nbsp; Travellers arriving in Singapore by bus via the Causeway. Fully vaccinated travellers who intend to enter Singapore from Malaysia via the Causeway should check the <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> for more details.</p>
-<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) Sector, or workers staying in dormitories should apply for entry via the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a>.</p>
+<p style="padding-left:20px; font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px;  color:red;"><b>&#10005;</b></span> &nbsp; Travellers arriving in Singapore by bus via the Causeway. Fully vaccinated travellers who intend to enter Singapore from Malaysia via the Causeway should check the <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> for more details.</p>
+<p style="padding-left:20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) Sector, or workers staying in dormitories should apply for entry via the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a>.</p>
 <p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4;"><span style="color:black; font-size:25px;"><b>&#9997;</b></span> &nbsp; Travellers may check against the box (&#9744;) for completed actions.</p>
 
 
