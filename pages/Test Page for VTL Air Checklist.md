@@ -424,7 +424,7 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1J"><label class="box" for="1J">&nbsp;&nbsp;<b>Stage 1J: Register and Pre-pay for On-Arrival COVID-19 PCR Test</b></label></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f0f0f0; font-size:18px;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay for on-arrival COVID-19 PCR test here</a>. The test costs <b>$125 including GST</b>. </p>
 	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp;Does not apply to children aged two and below in this calendar year (i.e. turns 2 in this calendar year).</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="color:red; font-size:20px;">&#9888;</span>&nbsp; Travellers who did not do so will pay for their tests on the spot during arrival, and may experience delays in the administration of the tests and departure from the checkpoint.</p>
