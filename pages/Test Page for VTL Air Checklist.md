@@ -375,7 +375,7 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1G"><label class="box" for="1G">&nbsp;&nbsp;<b>Stage 1G: Secure self-isolation accommodation</b></label></div>	
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers can self-isolate at any of the following locations::</p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp;Travellers can self-isolate at any of the following locations::</p>
 	<ol style="padding-left: 20px; list-style-type:disc;">
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for Private Property and HDB flat / Bedroom); or</li>
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Non-residential accommodation, such as hotel or serviced apartment in this non-exhaustive list. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
@@ -412,9 +412,8 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 	</ol>
 <p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35; color:red;"><b><u>Note during submission</u></b>:</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; SC/PRs who are not vaccinated in Singapore: You are strongly encouraged to submit your overseas vaccination certificate in your health declaration as part of the SG Arrival Card submission.</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="color:red; font-size:18px;">&#10060;</span>&nbsp;SC/PRs who are vaccinated in Singapore: You are not required to upload your vaccination certificates as your records are already captured in the Singapore Ministry of Health (MOH) database.
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="color:red; font-size:18px;">&#10060;</span>&nbsp;Long-term pass holders and short-term visitors: You do not need to upload your vaccination certificates they will be verified as part of the VTP application.
-
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="color:red; font-size:18px;">&#10060;</span>&nbsp;SC/PRs who are vaccinated in Singapore: You are not required to upload your vaccination certificates as your records are already captured in the Singapore Ministry of Health (MOH) database.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="color:red; font-size:18px;">&#10060;</span>&nbsp;Long-term pass holders and short-term visitors: You do not need to upload your vaccination certificates they will be verified as part of the VTP application.</p>
 <p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>&nbsp;<b>Defer travel</b> if you:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Have <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
@@ -429,8 +428,7 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay for on-arrival COVID-19 PCR test here</a>. The test costs <b>$125 including GST</b>. </p>
 	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp;Does not apply to children aged two and below in this calendar year (i.e. turns 2 in this calendar year).</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="color:red; font-size:20px;">&#9888;</span>&nbsp; Travellers who did not do so will pay for their tests on the spot during arrival, and may experience delays in the administration of the tests and departure from the checkpoint.</p>
-	</p>
-	</div>
+</div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1K"><label class="box" for="1K">&nbsp;&nbsp;<b>Stage 1K: [Short term visitors only] Contact Tracing App/Token</b></label></div>
@@ -462,7 +460,7 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3A"><label class="box" for="3A">&nbsp;&nbsp;<b>Stage 3A: Clear Arrival Immigration</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="color:red; font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA) if they do not provide all the required documentations.</b></p>
+	<p style="color:red; font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA) if they do not provide all the required documentation.</b></p>
   <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Follow the instructions provided by the officers and signages on arrival.</p>
  <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#2A">Stage 2A</a>. </p>
  <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><b>Short-term visitors must also present a physical or electronic copy of their travel insurance policy.</b></p>
