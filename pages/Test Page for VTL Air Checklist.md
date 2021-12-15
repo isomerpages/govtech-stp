@@ -125,7 +125,7 @@ label.box {
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: One QR code (Please upload a 1-page PDF of your certificate onto the portal during application.).</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_Australia.png" style="width:54px; height:84px;"></p>	
 </div>
 		<input class="accordion" type="checkbox" id="Brunei-cert">
@@ -191,7 +191,7 @@ label.box {
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Your certificate should contain both ‘Date of Birth’ and ‘Passport Number’. Please request for an <u>International Travel Certificate</u> on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN website</a> if your certificate does not contain these fields.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: One QR code indicating the final dose (i.e. 2/2).</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_India.png" style="width:69px; height:90px;"></p>	
 </div>
 				<input class="accordion" type="checkbox" id="Indonesia-cert">
@@ -207,11 +207,11 @@ label.box {
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: Two QR codes, one for each dose. Please extract (i.e. crop and upload) each of the QR codes at each point of upload.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:</p>
 <table>
 <tr>
-	<td><img src="/images/QR_Malaysia.png" style="width:80px; height:69px; vertical-align:middle;"></td>
+	<td style="padding-top:40px;"><img src="/images/QR_Malaysia.png" style="width:80px; height:69px; vertical-align:middle;"></td>
 	<td><img src="/images/QR_Malaysia_1.png" style="width:55px; height:108px; vertical-align:middle;"></td>
 			</tr>
 	<tr>
@@ -255,7 +255,7 @@ label.box {
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code:</b></p>
 <table>
 <tr>
-	<td><img src="/images/QR_Denmark_1.png" style="width:57px; height:75px; vertical-align:middle;"></td>
+	<td style="padding-top:20px;"><img src="/images/QR_Denmark_1.png" style="width:57px; height:75px; vertical-align:middle;"></td>
 	<td><img src="/images/QR_Denmark_2.png" style="width:45px; height:85px; vertical-align:middle;"></td>
 			</tr>
 	<tr>
