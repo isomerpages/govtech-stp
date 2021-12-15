@@ -373,19 +373,19 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1F"><label class="box" for="1F">&nbsp;&nbsp;<b>Stage 1G: Secure self-isolation accommodation</b></label></div>	
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1G"><label class="box" for="1G">&nbsp;&nbsp;<b>Stage 1G: Secure self-isolation accommodation</b></label></div>	
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Travellers can self-isolate at any of the following locations::</p>
-	<ol style="list-style-type:disc;">
-		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for Private Property and HDB flat / Bedroom); or</li>
-		<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Non-residential accommodation, such as hotel or serviced apartment in this non-exhaustive list. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
+	<ol style="padding-left: 20px; list-style-type:disc;">
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for Private Property and HDB flat / Bedroom); or</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Non-residential accommodation, such as hotel or serviced apartment in this non-exhaustive list. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
 	</ol>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp;Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; Travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in isolation in a room and minimise contact. If this is not feasible, please consider alternative accommodation.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; Designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#128701; &nbsp; Lower the lid before flushing the toilet;</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#129533; &nbsp; Clean and disinfect contact surfaces after each use; and</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">
+<p style="padding-left: 25px; font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#128701; &nbsp; Lower the lid before flushing the toilet;</p>
+<p style="padding-left: 25px; font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">&#129533; &nbsp; Clean and disinfect contact surfaces after each use; and</p>
+<p style="padding-left: 25px; font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">
 &#9201;&#65039; &nbsp; Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation. Clean and disinfect contact surfaces after each use.</p>
   </div>
 	
@@ -445,7 +445,7 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 <div id="2A" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A"><label class="box" for="2A">&nbsp;&nbsp;<b>Stage 2A: Pre-boarding document checks</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be denied boarding if they do not provide all the required documentations.</b></p>
+	<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be denied boarding if they do not provide all the required documentation.</b></p>
 	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top: 0px;">When checking in at the departure airport, travellers must present to the airline staff all the documents listed below, except the following groups of travellers.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Singapore Citizens/Permanent Residents:</b> Present (ii) and (iv) below.</p>
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Long Term Pass Holders and Short Term Visitors:</b> Present (i), (ii) and (iv) below.</p>
