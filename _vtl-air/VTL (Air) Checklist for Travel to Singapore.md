@@ -125,7 +125,7 @@ Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens
 
 &#9744;  <i><b>D) Secure Tickets for a Designated VTL Flight </b></i>
 			      
-To qualify for the VTL  VTL (Air)  quarantine-free travel health protocols, travellers must do the following:
+To qualify for the VTL (Air) quarantine-free travel health protocols, travellers must do the following:
 			      
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL (Air) countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
