@@ -937,7 +937,7 @@ Please refer to the respective airlines’ websites below for details of the des
 
 #### 1. What are the designated VTL (Air) flights?
 
-The list of airlines approved to operate designated VTL (Air) flights is available in the <a href="" target="_blank">VTL (Air) Traveller’s Checklist</a>.
+The list of airlines approved to operate designated VTL (Air) flights is available in the <a href="/vtl/travel-checklist#flights" target="_blank">VTL (Air) Traveller’s Checklist</a>.
 
 Please check the websites of the respective airlines for the date of commencement of VTL (Air) flights and the flight details. Travellers should note that not all flights departing from VTL (Air) countries/regions and operated by the approved airlines are designated. They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.
 
