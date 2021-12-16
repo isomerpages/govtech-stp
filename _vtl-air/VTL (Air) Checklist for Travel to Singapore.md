@@ -98,6 +98,7 @@ You should have at least one of the following acceptable proofs of vaccination, 
 			</ol>
 		</li>
 	</ol>
+	</p>
 
 <p style="font-size:20px; margin-top:25px; margin-bottom:15px; line-height:1.35;">Other frequently asked questions regarding vaccination proof can be found <a href="/vtl/faq#VacReq" target="_blank">here</a>.</p>
 
