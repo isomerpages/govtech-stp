@@ -123,6 +123,9 @@ Unvaccinated children aged 12 and below in this calendar year are eligible to en
 
 Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.
 
+
+<div id="flights"></div>
+
 &#9744;  <i><b>D) Secure Tickets for a Designated VTL Flight </b></i>
 			      
 To qualify for the VTL (Air) quarantine-free travel health protocols, travellers must do the following:
