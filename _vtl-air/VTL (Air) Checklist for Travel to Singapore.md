@@ -98,24 +98,18 @@ You should have at least one of the following acceptable proofs of vaccination, 
 			</ol>
 		</li>
 	</ol>
-<!--	<ol style="margin-top:0px; list-style-type: disc;">-->
-		<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Bahrain:</b> COVID-19 Vaccination Certificate issued by the Ministry of Health, Kingdom of Bahrain</li>-->
-		<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Egypt:</b> COVID-19 Vaccine Certificate issued by the Ministry of Health & Population, Arab Republic of Egypt</li>-->
-<!--	</ol>-->
-<!--<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>Deferred until further notice:</b></p>
-	<ol style="margin-top:0px; list-style-type: disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Qatar:</b> COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a> </li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Arab Emirates:</b> Proof of vaccination (e.g. COVID-19 Vaccination Card) on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a></li>
-	</ol>-->
+	</p>
 
 <p style="font-size:20px; margin-top:25px; margin-bottom:15px; line-height:1.35;">Other frequently asked questions regarding vaccination proof can be found <a href="/vtl/faq#VacReq" target="_blank">here</a>.</p>
+
 
 &#9744;  <i><b>B) [Short-Term Visitors and Long-Term Pass Holders only] Apply for Vaccinated Travel Pass (Air) [VTP(Air)] </b></i>
 
 All short-term visitors and long-term pass holders must apply for a VTP. The VTP can only be used for travel on designated VTL (Air) flights. Applications must be made between 7 and 60 calendar days before the intended date of entry, together with the QR code of the traveller’s vaccination certificate (if available). Applications are free of charge. Successful applicants will receive their approved VTP via email. <b><a href="https://go.gov.sg/vtl-portal" target="_blank">Click here to apply for a VTP.</a></b>
 
 Unvaccinated children aged 12 and below in this calendar year are eligible to enter Singapore on the VTL (Air) without applying for a VTP (e.g. a child turning 12 this year is eligible). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL (Air) traveller.
+
+
 
 &#9744;  <i><b>C) [For Short-Term Visitors, and if travel document is issued by a country/region that requires an entry visa] Application for Entry Visas for Short Term Visitors</b></i>
 
@@ -131,7 +125,8 @@ To qualify for the VTL (Air) quarantine-free travel health protocols, travellers
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL (Air) countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL (Air) flight. Please check the websites of the respective airlines for the date of commencement of VTL (Air) flights and the flight details. Travellers should note that <u><b>not all flights departing from VTL (Air) countries/regions and operated by the approved airlines below are designated</b></u>. They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
-			      </ol>
+</ol>
+
 <table>
 <thead>
 <tr>
@@ -161,7 +156,7 @@ To qualify for the VTL (Air) quarantine-free travel health protocols, travellers
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">United Kingdom</td>
 </tr>
 		<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.britishairways.com/en-gb/information/incident/coronavirus/entry-requirements#singapore" target="_blank">Fiji Airways</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.fijiairways.com/en-sg/book/travel-ready-hub/destination-ready" target="_blank">Fiji Airways</a></td>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Fiji</td>
 </tr>
 		<tr>
@@ -176,11 +171,11 @@ To qualify for the VTL (Air) quarantine-free travel health protocols, travellers
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.goindigo.in/" target="_blank">IndiGo</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">India</td>
 </tr>	
-			<tr>
+<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.jetstar.com/sg/en/travel-alerts#Vaccinated%20Travel%20Lanes" target="_blank">Jetstar Airways</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia</td>
 </tr>	
-				<tr>
+	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.jetstar.com/sg/en/travel-alerts#Vaccinated%20Travel%20Lanes" target="_blank">Jetstar Asia</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Cambodia, Malaysia, Thailand</td>
 </tr>	
@@ -221,7 +216,7 @@ To qualify for the VTL (Air) quarantine-free travel health protocols, travellers
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark, France, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands, Republic of Korea, Spain, Sri Lanka, Switzerland, Thailand, Turkey, United Kingdom, United States of America</td>
 </tr>
 			<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/" target="_blank">SriLankan Airlines</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.srilankan.com/en_uk/coporate/emergency-news-detail/524" target="_blank">SriLankan Airlines</a></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Sri Lanka</td>
 </tr>
 			<tr>
@@ -241,7 +236,7 @@ To qualify for the VTL (Air) quarantine-free travel health protocols, travellers
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Thailand</td>
 </tr>
 				<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.swiss.com/sg/en/ch-sg-vtl" target="_blank">Turkish Airlines</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.turkishairlines.com/en-int/announcements/coronavirus-outbreak/coronavirus-announcements/index.html" target="_blank">Turkish Airlines</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Turkey</td>
 </tr>
 	<tr>
