@@ -214,11 +214,11 @@ To qualify for the VTL (Air) quarantine-free travel health protocols, travellers
 </tr>
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.flyscoot.com/en/announcements/vaccinated-travel-lane-flights" target="_blank">Scoot</a></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Germany, Malaysia, Republic of Korea, Saudi Arabia</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Germany, Malaysia, Republic of Korea, Thailand</td>
 </tr>
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/" target="_blank">Singapore Airlines</a></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Brunei Darussalam, Canada, Denmark, France, Germany, India, Indonesia, Italy, Malaysia, Republic of Korea, Spain,  Switzerland, The Netherlands, United Arab Emirates, The United Kingdom, The United States of America</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark, France, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands, Republic of Korea, Spain, Sri Lanka, Switzerland, Thailand, Turkey, United Kingdom, United States of America</td>
 </tr>
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.swiss.com/sg/en/ch-sg-vtl" target="_blank">SWISS</a></td>
