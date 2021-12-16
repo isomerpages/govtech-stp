@@ -946,7 +946,7 @@ Please check the websites of the respective airlines for the date of commencemen
 
 Having a VTP (Air) does not guarantee travellers a ticket on a designated VTL (Air) flight to Singapore. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL (Air) flight to Singapore does not guarantee a VTP (Air).
 
-#### 2. I have a VTP (Air) and I meet all the requirements under the VTL (Air). However, I did not manage to get a ticket on a designated VTL (Air) flight to Singapore. Will I still be allowed to enter Singapore?
+#### 3. I have a VTP (Air) and I meet all the requirements under the VTL (Air). However, I did not manage to get a ticket on a designated VTL (Air) flight to Singapore. Will I still be allowed to enter Singapore?
 
 As required under the VTL (Air) <a href="/vtl/conditions">Conditions</a>, a VTP (Air) holder must arrive in Singapore on a designated VTL (Air) flight. Short-term visitors and long-term pass holders who did not arrive on a designated VTL (Air) flight to Singapore may be denied entry into Singapore.
 
@@ -984,23 +984,23 @@ To be eligible to take a designated VTL flight, they are required to:
 
 Travellers are responsible for <a href="/departing/overview" target="_blank">making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test</a>. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.-->
 
-#### 3. What flights may Singapore Citizens and Permanent Residents take in order to enter Singapore?
+#### 4. What flights may Singapore Citizens and Permanent Residents take in order to enter Singapore?
 
 Singapore Citizens and Permanent Residents may only arrive in Singapore on a designated VTL (Air) flight in order not to serve a Stay-Home Notice (SHN). Instead, they will undergo a COVID-19 PCR test on-arrival at the airport. They must meet the requirements to be eligible for a designated VTL (Air) flight. Upon the completion of their on-arrival COVID-19 PCR test, travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.
 
 Those arriving in Singapore on a non-designated flight will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
-#### 4. What flights may Long-Term Pass holders take in order to enter Singapore?
+#### 5. What flights may Long-Term Pass holders take in order to enter Singapore?
 
 Long-Term Pass holders holding a VTP (Air) may only arrive in Singapore on a designated VTL (Air) flight within the validity period of the VTP (Air) issued. Otherwise, they may be denied entry into Singapore.
 
 Long-Term Pass holders holding a Approval Letter of Entry (ALE) via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/overview">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a> may only travel to Singapore on a non-designated flight and will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
-#### 5. What flights may short-term visitors take in order to enter Singapore?
+#### 6. What flights may short-term visitors take in order to enter Singapore?
 
 Short-term visitors who are VTP (Air) holders may only arrive in Singapore on designated VTL (Air) flights within the validity period of the VTP (Air) issued. Otherwise, they will be denied entry into Singapore.
 
-#### 6. What must travellers present to airline staff during check-in at the departure airport for Singapore?
+#### 7. What must travellers present to airline staff during check-in at the departure airport for Singapore?
 
 When checking in at the departure airport, travellers must present the following to the airline staff:
 <ul> 
@@ -1032,29 +1032,29 @@ In addition, visa-required short-term visitors must present a valid visa.
 A traveller who does not have any of the above may be refused boarding by the airline.
 
 
-#### 7. What should travellers do if they intend to travel to Singapore under VTL, but had booked themselves onto a non-designated flight? 
+#### 8. What should travellers do if they intend to travel to Singapore under VTL, but had booked themselves onto a non-designated flight? 
 
 They should approach the airline for assistance to rebook a ticket on a designated VTL flight. 
 
-#### 8. What should travellers do if they are ineligible for the VTL, but had booked themselves onto a designated VTL flight? 
+#### 9. What should travellers do if they are ineligible for the VTL, but had booked themselves onto a designated VTL flight? 
 
 They should approach the airline for assistance to rebook a ticket on a non-designated VTL flight. 
 
-#### 9. I have an EU Digital COVID Certificate (EU DCC) issued in a non-VTL (Air) country/region. Can I transit via a VTL country/region and take a designated VTL flight to Singapore? 
+#### 10. I have an EU Digital COVID Certificate (EU DCC) issued in a non-VTL (Air) country/region. Can I transit via a VTL country/region and take a designated VTL flight to Singapore? 
 
 No, you will not be allowed to board the designated VTL flight, as your would have had travel history to a non-VTL (Air) and non-Category I country/region.
 
 Travellers with EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>. 
 
-#### 10. Do travellers need a return flight ticket to enter Singapore?
+#### 11. Do travellers need a return flight ticket to enter Singapore?
 
 Travellers under the VTL (Air) do not need a return flight ticket to enter Singapore. However, they are advised to check with the relevant authorities on the entry requirements of the country/region to which they are travelling after Singapore.
 
-#### 11. Are travellers required to take designated VTL flights to depart from Singapore?
+#### 12. Are travellers required to take designated VTL flights to depart from Singapore?
 
 No, the VTL (Air) is meant for travellers who intend to seek entry into Singapore. For travellers flying departing from Singapore, it will depend on the inbound requirements of the destination country/region. Currently, there are no requirements for designated VTL (Air) flights.
 
-#### 12. Can transfer/transit passengers travel on designated VTL (Air) flights?
+#### 13. Can transfer/transit passengers travel on designated VTL (Air) flights?
 
 Transfer/transit passengers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> with WHO EUL vaccines may travel on designated VTL (Air) flights, regardless of where they were issued their vaccination certificate and regardless of their travel history, as long as they are able to show proof of vaccination.
 
@@ -1509,7 +1509,7 @@ If you were fully vaccinated <b>overseas</b>, please ensure that you complete on
 
 Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for at least 30 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministy of Health's FAQs on these measures.
 
-If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: https://go.gov.sg/vax-status-query. 
+If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: <a href ="mailto: https://go.gov.sg/vax-status-query">https://go.gov.sg/vax-status-query</a>. 
 
 You may also wish to refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">TraceTogether FAQs</a> for more information.
 
