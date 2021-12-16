@@ -130,7 +130,7 @@ To qualify for the VTL (Air) quarantine-free travel health protocols, travellers
 			      
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL (Air) countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL (Air) flight. Please check the websites of the respective airlines for details of the VTL (Air) flights available. Travellers should note that <u><b>not all flights departing from the VTL (Air) countries/regions are designated</b></u>. They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Arrive in Singapore on a designated VTL (Air) flight. Please check the websites of the respective airlines for the date of commencement of VTL (Air) flights and the flight details. Travellers should note that <u><b>not all flights departing from VTL (Air) countries/regions and operated by the approved airlines below are designated</b></u>. They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
 			      </ol>
 <table>
 <thead>
