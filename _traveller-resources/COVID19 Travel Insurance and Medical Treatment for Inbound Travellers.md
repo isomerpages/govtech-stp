@@ -6,17 +6,17 @@ description: ""
 This page contains information on the following issues:
 
 1. [COVID-19 Travel Insurance](#insurance)
-2. [Medical Treatment Facilities for COVID-19](#treatment)
-3. [Cost of Medical Treatment](#cost)
+2. [Recovery Protocols for COVID-19](#treatment)
+3. [Costs Associated with Medical Treatment and Recovery ](#cost)
 
 
 <div id="insurance"></div>
 
-### COVID-19 Travel Insurance
+### 1. COVID-19 Travel Insurance
 
 #### Mandatory Insurance for Short-term Visitors
 
-All short-term visitors applying to enter Singapore via the [Air Travel Pass (ATP)](/atp/overview),  [Reciprocal Green Lanes (RGLs)](/rgl/overview) and [Vaccinated Travel Lane (Air)](/vtl/requirements-and-process) will need to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore, with a minimum coverage of S$30,000 (based on COVID-19 bill sizes at private hospitals). This is a requirement regardless of the traveller's vaccination or recovery status, as there is still a risk that these travellers can get a COVID-19 infection and require medical attention.
+All short-term visitors applying to enter Singapore via the [Air Travel Pass (ATP)](/atp/overview),  [Reciprocal Green Lanes (RGLs)](/rgl/overview) and [Vaccinated Travel Lane (Air)](/vtl/requirements-and-process) will need to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore, with a minimum coverage of S$30,000 (based on COVID-19 bill sizes at private hospitals). This is a requirement regardless of the traveller’s vaccination or recovery status, as there is still a risk that these travellers can get a COVID-19 infection and require medical attention.
 
 The travel insurance will help with the costs of their medical treatment in Singapore. Please ensure sufficient coverage as travellers will have to pay for their own treatment costs beyond their insurance coverage.
 
@@ -63,7 +63,13 @@ For all other pass holders (e.g. Employment Pass holders or dependants), they ar
 
 <div id="treatment"></div>
 
-### Medical Treatment Facilities for COVID-19
+### 2. Recovery Protocols for COVID-19
+
+#### Home Recovery Programme / In-situ Recovery 
+
+Travellers who test positive for COVID-19 will either enrol into the Home Recovery Programme (if they have a place of residence in Singapore) or in-situ recovery (if residing in hotels) by default. They will have access to telemedicine services if they require medical advice. Travellers will continue to be responsible for any costs associated with their testing, treatment and recovery, including any necessary extensions to their stay at their accommodation. Please visit MOH’s website on <a href="https://www.covid.gov.sg/travellers" target="_blank">in-situ recovery at hotels</a> and the related <a href="https://ask.gov.sg/agency/moh" target="_blank">FAQs</a> for more information.
+
+#### Medical Treatment Facilities for COVID-19
 
 COVID-19-positive patients who are assessed to be ineligible for home recovery may be conveyed to and accorded the necessary medical treatment at a suitable COVID-19 care facility. These facilities can be public and private hospitals, COVID-19 Treatment Facilities (CTFs) and/or Community Isolation Facilities (CIFs), depending on the patient’s condition.
 
@@ -76,17 +82,17 @@ Patients who deliberately refuse treatment or leave the facility before a formal
 
 <div id="cost"></div>
 
-### Cost of Medical Treatment
+### 3. Costs Associated with Medical Treatment and Recovery
 
-Under the prevailing policy, the following groups of individuals are <b>responsible for all charges on their medical bills</b>:
+The following groups of individuals are <b>responsible for all costs associated with COVID-19 treatment and recovery</b>:
 
 <ol style="list-style-type:lower-roman;">
-<li style="padding-left:10px; line-height:1.5;">Singapore Citizens (SCs), Permanent Residents (PRs), Long Term Pass Holders (LTPHs) travellers, if they test positive for COVID-19 or have onset of symptoms within 14 days of their arrival to Singapore.</li>
-	<li style="padding-left:10px; line-height:1.5;"><b>(From 8 December 2021)</b> All SCs/PRs/LTPHs who are unvaccinated by choice – specifically, those aged 12 years and above who have not been medically exempted from COVID-19 vaccines on the National Vaccination Programme.</li>
-<li style="padding-left:10px; line-height:1.5;">All Short-Term Visit Pass Holders, throughout their stay in Singapore</li>
+<li style="padding-left:10px; line-height:1.5;">All Short-Term Pass Holders, throughout their stay in Singapore</li>
+	<li style="padding-left:10px; line-height:1.5;">Travellers who are Singapore Citizens (SCs), Permanent Residents (PRs) or Long Term Pass Holders (LTPHs), if they test positive for COVID-19 or have onset of symptoms within 14 days of their arrival to Singapore.</li>
+<li style="padding-left:10px; line-height:1.5;">SCs/PRs/LTPHs who are unvaccinated by choice – specifically, those aged 12 years and above who are not medically ineligible for COVID-19 vaccines on the National Vaccination Programme</li>
 </ol>
 
-SCs and PRs may use Government subsidies, MediSave and MediShield Life/Integrated Shield Plans to help pay for their bills where applicable. LTPHs and STVPs may tap on private insurance, if applicable. There are no subsidies available to LTPHs and STVPs and they will have to rely on their <a href="#insurance">private insurance</a> if any, to cover their medical costs.
+SCs and PRs may access Government subsidies, MediSave and MediShield Life/Integrated Shield Plans, where applicable. LTPHs and STVPs may tap on private insurance, if applicable. There are no subsidies available to LTPHs and STVPs and they will have to rely on their <a href="#insurance">private insurance</a> if any, to cover their medical costs.
 
 Charges for hospitals and community facilities are billed separately. All paying patients may enquire about the relevant charges during financial counselling at the point of admission to the hospital or CCF.
 
