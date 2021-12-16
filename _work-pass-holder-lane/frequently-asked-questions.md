@@ -222,7 +222,7 @@ Employers may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-ques
 		 	 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Left Singapore for personal reasons</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Employers and employees should come to a mutual agreement on who bears the costs or how to share them.  <br><br>
-This also applies to employees coming in under the <a href="/pca/overview">Periodic Commuting Arrangement (PCA) scheme.</a>
+This also applies to employees coming in under the <a href="/pca/requirements-and-process">Periodic Commuting Arrangement (PCA) scheme.</a>
 </td>
     </tr>
 		  <tr>
