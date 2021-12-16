@@ -934,7 +934,15 @@ Please refer to the respective airlines’ websites below for details of the des
 </table>
 <sup>*</sup>The list of airlines and websites will be regularly updated-->
 
-#### 1. Are travellers guaranteed a ticket on a designated VTL (Air) flight to Singapore if they have a VTP (Air)?
+
+#### 1. What are the designated VTL (Air) flights?
+
+The list of airlines approved to operate designated VTL (Air) flights is available in the <a href="" target="_blank">VTL (Air) Traveller’s Checklist</a>.
+
+Please check the websites of the respective airlines for the date of commencement of VTL (Air) flights and the flight details. Travellers should note that not all flights departing from VTL (Air) countries/regions and operated by the approved airlines are designated. They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.
+
+
+#### 2. Are travellers guaranteed a ticket on a designated VTL (Air) flight to Singapore if they have a VTP (Air)?
 
 Having a VTP (Air) does not guarantee travellers a ticket on a designated VTL (Air) flight to Singapore. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL (Air) flight to Singapore does not guarantee a VTP (Air).
 
