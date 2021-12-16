@@ -1580,12 +1580,15 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 
 Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click <a href="/vtl/requirements-and-process">here</a> for more information on the requirements.
 
-#### 8. I have an In-Principle Approval (IPA) for a Long-Term Pass or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM). How should I apply for the VTP (Air)?
+#### 8. I have an In-Principle Approval (IPA) for a Long-Term Pass. How should I apply for the VTP (Air)?
 
-IPA holders and MOM LTVP holders should apply for the VTP (Air) as short-term visitors. They will need to comply with all the [conditions](/vtl/conditions) of the VTP (Air) that apply to short-term visitors.
+Travellers with IPA for Long-Term Passes issued by the Ministry of Education (MOE) or the Immigration & Checkpoints Authority (ICA) should submit their VTP (Air) application under the ‘Short-Term Visitor’ traveller type. They will need to comply with all the <A href="/vtl/conditions" target="_blank">conditions</a> of the VTP (Air) that apply to short-term visitors.
 
+Those with IPA for Long-Term Passes or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM) should submit their VTP (Air) application under the ‘Singapore Long-Term Pass Holder’ traveller type.
+
+	
 #### 9. Why was I unsuccessful in applying for a VTP (Air)?
-
+	
 A VTP application may be unsuccessful for reasons such as:
 - <a href="/vtl/faq#invalidcode" target="_blank">Invalid vaccination QR code</a>
 - Incomplete and/or incorrect information submitted
