@@ -67,7 +67,7 @@ For all other pass holders (e.g. Employment Pass holders or dependants), they ar
 
 #### Home Recovery Programme / In-situ Recovery 
 
-Travellers who test positive for COVID-19 will either enrol into the Home Recovery Programme (if they have a place of residence in Singapore) or in-situ recovery (if residing in hotels) by default. They will have access to telemedicine services if they require medical advice. Travellers will continue to be responsible for any costs associated with their testing, treatment and recovery, including any necessary extensions to their stay at their accommodation. Please visit MOH’s website on <a href="https://www.covid.gov.sg/travellers" target="_blank">in-situ recovery at hotels</a> and the related <a href="" target="_blank">FAQs</a> for more information.
+Travellers who test positive for COVID-19 will either enrol into the Home Recovery Programme (if they have a place of residence in Singapore) or in-situ recovery (if residing in hotels) by default. They will have access to telemedicine services if they require medical advice. Travellers will continue to be responsible for any costs associated with their testing, treatment and recovery, including any necessary extensions to their stay at their accommodation. Please visit MOH’s website on <a href="https://www.covid.gov.sg/travellers" target="_blank">in-situ recovery at hotels</a> and the related <a href="https://ask.gov.sg/agency/moh" target="_blank">FAQs</a> for more information.
 
 #### Medical Treatment Facilities for COVID-19
 
