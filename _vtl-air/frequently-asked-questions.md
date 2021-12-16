@@ -207,7 +207,7 @@ You <u>do not</u> need to present a separate recovery certificate or discharge m
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration.</td>
 </tr>
 	<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Cambodia<br><i>[For entry into Singapore from 15 Dec 2021, 2359hrs]</i></b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Cambodia</b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">COVID-19 Vaccination Card (in English or Khmer) issued by the Cambodian Government (e.g. Ministry of Health or the Ministry of Defence in Cambodia)</td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration.</td>
 </tr>
@@ -232,7 +232,7 @@ You <u>do not</u> need to present a separate recovery certificate or discharge m
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
 </tr>
 	<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Fiji<br><br><i>[For entry into Singapore from 15 Dec 2021, 2359hrs]</i></b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Fiji</b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">COVID-19 Vaccination Certificate issued by Republic of Fiji</td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration</td>
 </tr>
@@ -252,7 +252,7 @@ You <u>do not</u> need to present a separate recovery certificate or discharge m
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
 </tr>
 								<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; "><b>Maldives<br><br><i>[For entry into Singapore from 15 Dec 2021, 2359hrs]</i></b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; "><b>Maldives</b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a></td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Yes</td>
 </tr>
@@ -275,7 +275,7 @@ You <u>do not</u> need to present a separate recovery certificate or discharge m
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration</td>
 </tr>-->
 		<tr>
-<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Sri Lanka<br><br><i>[For entry into Singapore from 15 Dec 2021, 2359hrs]</i></b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Sri Lanka</b></td>
 		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health</td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration</td>
 </tr>
@@ -934,11 +934,19 @@ Please refer to the respective airlines’ websites below for details of the des
 </table>
 <sup>*</sup>The list of airlines and websites will be regularly updated-->
 
-#### 1. Are travellers guaranteed a ticket on a designated VTL (Air) flight to Singapore if they have a VTP (Air)?
+
+#### 1. What are the designated VTL (Air) flights?
+
+The list of airlines approved to operate designated VTL (Air) flights is available in the <a href="/vtl/travel-checklist#flights" target="_blank">VTL (Air) Traveller’s Checklist</a>.
+
+Please check the websites of the respective airlines for the date of commencement of VTL (Air) flights and the flight details. Travellers should note that not all flights departing from VTL (Air) countries/regions and operated by the approved airlines are designated. They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.
+
+
+#### 2. Are travellers guaranteed a ticket on a designated VTL (Air) flight to Singapore if they have a VTP (Air)?
 
 Having a VTP (Air) does not guarantee travellers a ticket on a designated VTL (Air) flight to Singapore. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL (Air) flight to Singapore does not guarantee a VTP (Air).
 
-#### 2. I have a VTP (Air) and I meet all the requirements under the VTL (Air). However, I did not manage to get a ticket on a designated VTL (Air) flight to Singapore. Will I still be allowed to enter Singapore?
+#### 3. I have a VTP (Air) and I meet all the requirements under the VTL (Air). However, I did not manage to get a ticket on a designated VTL (Air) flight to Singapore. Will I still be allowed to enter Singapore?
 
 As required under the VTL (Air) <a href="/vtl/conditions">Conditions</a>, a VTP (Air) holder must arrive in Singapore on a designated VTL (Air) flight. Short-term visitors and long-term pass holders who did not arrive on a designated VTL (Air) flight to Singapore may be denied entry into Singapore.
 
@@ -976,23 +984,23 @@ To be eligible to take a designated VTL flight, they are required to:
 
 Travellers are responsible for <a href="/departing/overview" target="_blank">making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test</a>. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.-->
 
-#### 3. What flights may Singapore Citizens and Permanent Residents take in order to enter Singapore?
+#### 4. What flights may Singapore Citizens and Permanent Residents take in order to enter Singapore?
 
 Singapore Citizens and Permanent Residents may only arrive in Singapore on a designated VTL (Air) flight in order not to serve a Stay-Home Notice (SHN). Instead, they will undergo a COVID-19 PCR test on-arrival at the airport. They must meet the requirements to be eligible for a designated VTL (Air) flight. Upon the completion of their on-arrival COVID-19 PCR test, travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.
 
 Those arriving in Singapore on a non-designated flight will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
-#### 4. What flights may Long-Term Pass holders take in order to enter Singapore?
+#### 5. What flights may Long-Term Pass holders take in order to enter Singapore?
 
 Long-Term Pass holders holding a VTP (Air) may only arrive in Singapore on a designated VTL (Air) flight within the validity period of the VTP (Air) issued. Otherwise, they may be denied entry into Singapore.
 
 Long-Term Pass holders holding a Approval Letter of Entry (ALE) via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/overview">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a> may only travel to Singapore on a non-designated flight and will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
-#### 5. What flights may short-term visitors take in order to enter Singapore?
+#### 6. What flights may short-term visitors take in order to enter Singapore?
 
 Short-term visitors who are VTP (Air) holders may only arrive in Singapore on designated VTL (Air) flights within the validity period of the VTP (Air) issued. Otherwise, they will be denied entry into Singapore.
 
-#### 6. What must travellers present to airline staff during check-in at the departure airport for Singapore?
+#### 7. What must travellers present to airline staff during check-in at the departure airport for Singapore?
 
 When checking in at the departure airport, travellers must present the following to the airline staff:
 <ul> 
@@ -1024,29 +1032,29 @@ In addition, visa-required short-term visitors must present a valid visa.
 A traveller who does not have any of the above may be refused boarding by the airline.
 
 
-#### 7. What should travellers do if they intend to travel to Singapore under VTL, but had booked themselves onto a non-designated flight? 
+#### 8. What should travellers do if they intend to travel to Singapore under VTL, but had booked themselves onto a non-designated flight? 
 
 They should approach the airline for assistance to rebook a ticket on a designated VTL flight. 
 
-#### 8. What should travellers do if they are ineligible for the VTL, but had booked themselves onto a designated VTL flight? 
+#### 9. What should travellers do if they are ineligible for the VTL, but had booked themselves onto a designated VTL flight? 
 
 They should approach the airline for assistance to rebook a ticket on a non-designated VTL flight. 
 
-#### 9. I have an EU Digital COVID Certificate (EU DCC) issued in a non-VTL (Air) country/region. Can I transit via a VTL country/region and take a designated VTL flight to Singapore? 
+#### 10. I have an EU Digital COVID Certificate (EU DCC) issued in a non-VTL (Air) country/region. Can I transit via a VTL country/region and take a designated VTL flight to Singapore? 
 
 No, you will not be allowed to board the designated VTL flight, as your would have had travel history to a non-VTL (Air) and non-Category I country/region.
 
 Travellers with EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>. 
 
-#### 10. Do travellers need a return flight ticket to enter Singapore?
+#### 11. Do travellers need a return flight ticket to enter Singapore?
 
 Travellers under the VTL (Air) do not need a return flight ticket to enter Singapore. However, they are advised to check with the relevant authorities on the entry requirements of the country/region to which they are travelling after Singapore.
 
-#### 11. Are travellers required to take designated VTL flights to depart from Singapore?
+#### 12. Are travellers required to take designated VTL flights to depart from Singapore?
 
 No, the VTL (Air) is meant for travellers who intend to seek entry into Singapore. For travellers flying departing from Singapore, it will depend on the inbound requirements of the destination country/region. Currently, there are no requirements for designated VTL (Air) flights.
 
-#### 12. Can transfer/transit passengers travel on designated VTL (Air) flights?
+#### 13. Can transfer/transit passengers travel on designated VTL (Air) flights?
 
 Transfer/transit passengers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> with WHO EUL vaccines may travel on designated VTL (Air) flights, regardless of where they were issued their vaccination certificate and regardless of their travel history, as long as they are able to show proof of vaccination.
 
@@ -1501,7 +1509,7 @@ If you were fully vaccinated <b>overseas</b>, please ensure that you complete on
 
 Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for at least 30 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministy of Health's FAQs on these measures.
 
-If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: https://go.gov.sg/vax-status-query. 
+If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: <a href ="mailto: https://go.gov.sg/vax-status-query" target="_blank">https://go.gov.sg/vax-status-query</a>. 
 
 You may also wish to refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">TraceTogether FAQs</a> for more information.
 
@@ -1572,12 +1580,15 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 
 Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click <a href="/vtl/requirements-and-process">here</a> for more information on the requirements.
 
-#### 8. I have an In-Principle Approval (IPA) for a Long-Term Pass or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM). How should I apply for the VTP (Air)?
+#### 8. I have an In-Principle Approval (IPA) for a Long-Term Pass. How should I apply for the VTP (Air)?
 
-IPA holders and MOM LTVP holders should apply for the VTP (Air) as short-term visitors. They will need to comply with all the [conditions](/vtl/conditions) of the VTP (Air) that apply to short-term visitors.
+Travellers with IPA for Long-Term Passes issued by the Ministry of Education (MOE) or the Immigration & Checkpoints Authority (ICA) should submit their VTP (Air) application under the ‘Short-Term Visitor’ traveller type. They will need to comply with all the <A href="/vtl/conditions" target="_blank">conditions</a> of the VTP (Air) that apply to short-term visitors.
 
+Those with IPA for Long-Term Passes or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM) should submit their VTP (Air) application under the ‘Singapore Long-Term Pass Holder’ traveller type.
+
+	
 #### 9. Why was I unsuccessful in applying for a VTP (Air)?
-
+	
 A VTP application may be unsuccessful for reasons such as:
 - <a href="/vtl/faq#invalidcode" target="_blank">Invalid vaccination QR code</a>
 - Incomplete and/or incorrect information submitted
