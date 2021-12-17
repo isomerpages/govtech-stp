@@ -7,7 +7,7 @@ description: Requirements for transiting through Singapore
 
 #### Eligibility
 
-<p style="font-size:20px; line-height:1.35;">Travellers can transit through Changi Airport (Singapore), if they are travelling with an airline whose transfer route via Singapore has been approved by the Civil Aviation Authority of Singapore (CAAS). <b>Travellers do not need to obtain approvals for transit.</b> Travellers are advised to obtain details on the transit arrangements directly from the airline before purchasing flight tickets.</p>
+<p style="font-size:20px; line-height:1.35;">Travellers can transit through Changi Airport (Singapore), if they are travelling with an airline whose transfer route via Singapore has been approved by the Civil Aviation Authority of Singapore (CAAS). <b>CAAS does not provide approvals for transfer directly to travellers</b> Travellers are advised to obtain details on the transit arrangements directly from the airline before purchasing flight tickets.</p>
 
 <p style="font-size:20px; line-height:1.35;">Travellers with travel history to the following countries/regions within the past 14 days, are disallowed from transiting in Singapore until further notice:</p>
 
@@ -63,8 +63,4 @@ description: Requirements for transiting through Singapore
 
 #### Entry Visas
 
-<p style="font-size:20px; line-height:1.35;">Foreign travellers transiting in Singapore will not require entry visas if they can complete their transit by staying within the transit area of Changi Airport (Terminals 1, 2, 3 and 4) without clearing immigration.</p>
-
-<p style="font-size:20px; line-height:1.35;">Some airlines may require travellers to pass through Singapore Immigration to transit as they do not have the necessary transfer facilities in the transit area of the airport. In such cases, the traveller should check the  <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">ICA main website</a> on whether they need to apply for an entry visa.</p>
-
-<p style="font-size:20px; line-height:1.35;">Please check with your airline on whether your transit requires you to clear immigration.</p>
+<p style="font-size:20px; line-height:1.35;">Foreign travellers transiting in Singapore will not require entry visa. Transit passengers need to be through-checked to their onward destination. They will <b><u>not</u></b> be allowed to clear arrival immigration or collect their baggage.</p>
