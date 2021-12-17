@@ -190,14 +190,14 @@ label.box {
 <label class="accordion" for="Indonesia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Indonesia</b></label>
 		<div class="content" style="background-color:#ededed;">Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
+			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
 </div>
 					<input class="accordion" type="checkbox" id="Malaysia-cert">
 <label class="accordion" for="Malaysia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Malaysia</b></label>
 		<div class="content" style="background-color:#ededed;">Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload:</b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: Two QR codes, one for each dose. Please extract (i.e. crop and upload) each of the QR codes at each point of upload.</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:</p>
@@ -217,7 +217,7 @@ label.box {
 		<div class="content" style="background-color:#ededed;">COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b> One QR code</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload:</b> One</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR code</b>:<br><img src="/images/QR_Canada.png" style="width:54px; height:84px;"></p>
 </div>
 					<input class="accordion" type="checkbox" id="ROK-cert">
@@ -228,22 +228,23 @@ label.box {
 				<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA) downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">KDCA website</a></li>
 	</ol>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate at (a) during application. If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b> One QR code</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate at (a) during application.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b> One</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_ROK.png" style="width:72px; height:136px;"></p>	
 </div>
 					<input class="accordion" type="checkbox" id="SriLanka-cert">
 <label class="accordion" for="SriLanka-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Sri Lanka</b></label>
 		<div class="content" style="background-color:#ededed;">Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">	You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
+			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
 	</div>
 					<input class="accordion" type="checkbox" id="Thailand-cert">
 <label class="accordion" for="Thailand-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Thailand</b></label>
 		<div class="content" style="background-color:#ededed;">International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Your can retrieve can your certificate by selecting 'International Certificate' on the Mor Prom app.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload</b>: One QR code</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. You can retrieve can your certificate by selecting 'International Certificate' on the Mor Prom app.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload</b>: One QR code</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code:</b></p>
 <table>
 <tr>
@@ -267,7 +268,7 @@ label.box {
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Please screen-capture one QR code at a time, and upload each QR code into the portal accordingly.
 If you have a proof of vaccination in (c), please write to the SafeTravel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with your documents attached for verification.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload:</b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>two</b> doses: 	Two QR codes (one for each dose). Please extract (i.e. crop and upload) each of the QR codes on your NHS COVID Pass at each point of upload</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a href="/health/vtsg" target="_blank">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR code</b>:<br><img src="/images/QR_UK.png" style="width:111px; height:81px;"></p>		
@@ -287,7 +288,7 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 			</ol>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate at (a) during application. If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b> One QR code</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload:</b> One QR code</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_USA.png" style="width:68px; height:104px;"></p>		
 	</div>	
 	</div>
