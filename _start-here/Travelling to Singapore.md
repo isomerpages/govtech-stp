@@ -79,7 +79,6 @@ Click here to return to the <a href="#lanelist">top</a>.
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> including any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 17px; list-style-type: disc;">
 	<li style="line-height:1.35; font-size: 18px;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
-				   <li style="line-height:1.35; font-size: 18px; margin-top:10px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 16 Dec 2021)</li>
 					 	<li style="line-height:1.35; font-size: 18px; margin-top:10px;">Qatar, Saudi Arabia, and the United Arab Emirates (deferred until further notice)</li>
 				 </ul>
 <i style="font-size:14px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
@@ -169,8 +168,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> <br/><br/> <b>For arrivals by flight only. Arrivals by Land are currently not allowed.</b></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 18px; list-style-type: disc;">
-	<li style="line-height:1.35; font-size: 18px;">Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sweden, Switzerland, Thailand, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
-				   <li style="line-height:1.35; margin-top:10px; font-size: 18px;">Cambodia, Fiji, Maldives, Sri Lanka and Turkey (applications open on 9 Dec 2021, for entry into Singapore from 15 Dec 2021)</li>
+	<li style="line-height:1.35; font-size: 18px;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
 					 					 		<li style="line-height:1.35; margin-top:10px; font-size: 18px;">Qatar, Saudi Arabia, and the United Arab Emirates (deferred until further notice)</li>
 				 </ul>
 <i style="font-size:14px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
