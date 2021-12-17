@@ -18,7 +18,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes</u></b></span>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➀</b> If the pass holder has visited multiple countries in the past 14 days before arriving in Singapore, <b>the most stringent category out of all the countries/regions visited (excluding transits less than 24 hours) will apply</b>.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><i>Example: A traveller with travel history to both Categories (I) and (II) countries/regions before departure, and transited through a Category (IV) country/region on the flight to Singapore, will be subject to Category (II) measures.</i></p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➁</b> These groups of workers are <b>not allowed</b> to apply for entry under the Vaccinated Travel Lanes (<a href="/vtl/requirements-and-process" target="_blank">Air</a>/<a href="/vtl-land/overview" target="_blank">Land</a>):</p> 
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➁</b> These workers are <b>not allowed</b> to apply for entry into Singapore under the Vaccinated Travel Lanes (<a href="/vtl/requirements-and-process" target="_blank">Air</a>/<a href="/vtl-land/overview" target="_blank">Land</a>):</p> 
 	<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Non-Malaysian male Work Permit or S Pass workers in the CMP sector</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Workers staying in dormitories</li>
@@ -28,7 +28,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For all other workers- <a href="/wphl/overview">WPHL</a></li>
 	</ol>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Those who had obtained a VTL approval before 4 Dec 2021, 2359 hours can still enter Singapore. </p>	
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Those who had obtained a VTL approval before 4 Dec 2021, 2359 hours can still enter Singapore. <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/2911-mom-introduces-new-primary-healthcare-system-for-migrant-workers" target="_blank">Find out more</a>.<br><br> Workers can <a href="/departing/overview" target="_blank">depart Signapore</a> using VTLs.</p>	
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> All pass holders need to take these tests:</p> 
 <ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 Antigen Rapid Test (ART) or PCR test <b>within 2 days</b> before departure. Self-swabs are <b>not allowed</b>.</li>
@@ -170,7 +170,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their place of isolation. <br><br> Submitters must arrange to pick them up <b>within 2 hours of arrival</b> at the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car). Public transport (e.g. public bus or train) is <b>not allowed</b>.</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their place of isolation. <br><br> Submitters must arrange to pick them up <b>within 2 hours of arrival</b> at the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car) to go to the place of isolation. Public transport (e.g. public bus or train) is <b>not allowed</b>.</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Self-isolate in one of the following accommodation until they get a negative test result:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments, hostels or Employment Agencies' residential units. Please ensure these places can accommodate persons on SHN). </li>
@@ -270,7 +270,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn" target="_blank">SHN</a> accommodation. <br><br> Submitters must arrange to pick them up <b>within 2 hours of arrival</b> at the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car). Public transport (e.g. public bus or train) is <b>not allowed</b>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn" target="_blank">SHN</a> accommodation. <br><br> Submitters must arrange to pick them up <b>within 2 hours of arrival</b> at the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car) to go to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>
  </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
@@ -371,7 +371,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn" target="_blank">SHN</a> accommodation. <br><br> Submitters must arrange to pick them up <b>within 2 hours of arrival</b> at the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car). Public transport (e.g. public bus or train) is <b>not allowed</b>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn" target="_blank">SHN</a> accommodation. <br><br> Submitters must arrange to pick them up <b>within 2 hours of arrival</b> at the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car) to go to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>
 </li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at one of the following:
 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
@@ -467,7 +467,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn">SHN</a> accommodation. <br><br> Submitters must arrange to pick them up <b>within 2 hours of arrival</b> at the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car). Public transport (e.g. public bus or train) is <b>not allowed</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to the <a href="/health/shn">SHN dedicated facility (SDF)</a> accommodation. <br><br> Transport from the airport to SDFs will be provided</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 10-day SHN at the SDF ($1,050 including GST)
 	</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN. </li>
@@ -499,7 +499,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn/">SHN</a> accommodation. <br><br> Pass holders must depart for the SHN accommodation <b>within 2 hours of arrival</b> at the checkpoint. Submitters must inform them to take private transport (e.g. pass holder's own vehicle, taxi, private hire car) to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to the <a href="/health/shn/">SHN dedicated facility</a> accommodation. <br><br> Transport from the airport to SDFs will be provided</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day SHN at an <a href="/health/shn#sdf">SHN dedicated facility (SDF) </a>($1,450 including GST) </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests.</li>
