@@ -467,7 +467,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to the <a href="/health/shn">SHN dedicated facility (SDF)</a>. <br> Transport from the airport to SDFs will be provided</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to the <a href="/health/shn">SHN dedicated facility (SDF)</a>.<br>Transport from the airport to SDFs will be provided</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 10-day SHN at the SDF ($1,050 including GST)
 	</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN. </li>
