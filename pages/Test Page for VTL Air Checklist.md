@@ -2,7 +2,7 @@
 title: Test Page for VTL Air Checklist
 permalink: /vtl-air/checklist
 description: ""
-published: false
+published: true
 ---
 
 ### Vaccinated Travel Lane (Air) Travel Checklist
@@ -137,7 +137,7 @@ label.box {
 	</div>
 		<input class="accordion" type="checkbox" id="Cambodia-cert">
 <label class="accordion" for="Cambodia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Cambodia</b></label>
-		<div class="content" style="background-color:#ededed;"><b>[For entry into Singapore from 15 Dec 2021, 2359hrs]</b><br><br>COVID-19 Vaccination Card issued by the Ministry of Health / Ministry of Defence in Cambodia
+		<div class="content" style="background-color:#ededed;">COVID-19 Vaccination Card issued by the Ministry of Health / Ministry of Defence in Cambodia
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">	You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
 		<input class="accordion" type="checkbox" id="Canada-cert">
@@ -181,7 +181,7 @@ label.box {
 </div>
 			<input class="accordion" type="checkbox" id="Fiji-cert">
 <label class="accordion" for="Fiji-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Fiji</b></label>
-		<div class="content" style="background-color:#ededed;"><b>[For entry into Singapore from 15 Dec 2021, 2359hrs]</b><br><br>COVID-19 Vaccination Certificate issued by Republic of Fiji
+		<div class="content" style="background-color:#ededed;">COVID-19 Vaccination Certificate issued by Republic of Fiji
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
 			<input class="accordion" type="checkbox" id="India-cert">
@@ -222,7 +222,7 @@ label.box {
 </div>
 					<input class="accordion" type="checkbox" id="Maldives-cert">
 <label class="accordion" for="Maldives-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Maldives</b></label>
-		<div class="content" style="background-color:#ededed;"><b>[For entry into Singapore from 15 Dec 2021, 2359hrs]</b><br><br>COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a>
+		<div class="content" style="background-color:#ededed;">COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes required during upload:</b> One QR code</p>
@@ -242,7 +242,7 @@ label.box {
 </div>
 					<input class="accordion" type="checkbox" id="SriLanka-cert">
 <label class="accordion" for="SriLanka-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Sri Lanka</b></label>
-		<div class="content" style="background-color:#ededed;"><b>[For entry into Singapore from 15 Dec 2021, 2359hrs]</b><br><br> Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health
+		<div class="content" style="background-color:#ededed;">Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">	You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
 	</div>
@@ -358,7 +358,7 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers MUST:</p>
 <ol style="list-style-type:lower-roman;">
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Have <B>only</B> travelled to / transited via any VTL (Air) countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
-		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Air) flight. <u><b>Not all flights departing from the VTL (Air) countries/regions are designated.</b></u> Travellers are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Air) flight. Please check the websites of the respective airlines for the date of commencement of VTL (Air) flights and the flight details. <u><b>Not all flights departing from the VTL (Air) countries/regions and operated by the approved airlines are designated.</b></u> Travellers are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
 	</ol>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><a href="https://www.checkfirst.gov.sg/c/408ebe0e-d0e6-4d12-8221-136f5ff4ee68" target="_blank">Click here to find out which airlines are offering VTL flights to Singapore based on your country/region of departure.</a>
 </p>
@@ -552,7 +552,7 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">⚠ This is in addition to the requirement to take a supervised self-administered COVID-19 ART at a QTC or CTC on Days 3 and 7 of your arrival in Singapore.</p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Days 3 and 7 of arrival in Singapore</u></b></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> on <b style="color:red;">Days 3 and 7</b> of your arrival in Singapore. The test will be self-administered and supervised by an approved COVID-19 test provider. Instructions for the dates of tests and appointment booking will be emailed to you after your arrival in Singapore.</p> 
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Each test costs <b>S$15 (inclusive of GST)</b>, with payment to be made at the QTCs or CTCs through cashless modes such as Mastercard, NETS, PayNow and Visa. <b><u>Cash will not be accepted.</u></b></p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Each test costs <b>S$15 (inclusive of GST)</b>, with payment to be made online. The electronic receipt must be shown during registration as proof of payment. <b><u>Cash will not be accepted.</u></b></p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><span style="color:red; font-size:26px;">&#9888;&nbsp;</span>&nbsp;Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so. </p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><span style="color:red; font-size:26px;">&#9888;&nbsp;</span>&nbsp;If the traveller’s day of departure* from Singapore is <b>on the day of the test</b>, they are <u>exempted</u> from taking their scheduled ART on that day. </p>

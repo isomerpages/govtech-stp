@@ -43,11 +43,11 @@ description: ""
 <br>
 <li>Those unable to use a mobile device due to a certified disability or special needs, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at Woodlands Checkpoint upon arrival in Singapore. They must carry the TraceTogether tokens issued to them at all times while in Singapore and return their respective tokens at any checkpoint prior to their departure from Singapore.</li>
 <br>
-	<li>The requirements in <b>Conditions 2(d), (e), (f) and (g)</b> do not apply to children aged 2 and below in the calendar year.</li>
+	<li>The requirements in <b>Conditions 2(d), (f), (g) and (h)</b> do not apply to children aged 2 and below in the calendar year.</li>
 <br>
-	<li>the requirements in <b>Conditions 2(e)</b> do not apply to singapore citizens, permanent residents or long-term pass holders (i.e. Long-term visit pass, Student's pass, work pass or Dependant's pass)</li>
+	<li>The requirements in <b>Conditions 2(e)</b> do not apply to Singapore citizens, Permanent residents or Long-term pass holders (i.e. Long-term visit pass, Student's pass, work pass or Dependant's pass)</li>
 <br>
-<li>Travellers whose day of departure<sup>2</sup> from Singapore is on the day of the scheduled test under <b>Condition 2(f) or (g)</b> are exempted from taking their COVID-19 ART on that day.</li>
+<li>Travellers whose day of departure<sup>2</sup> from Singapore is on the day of the scheduled test under <b>Condition 2(g) or (h)</b> are exempted from taking their COVID-19 ART on that day.</li>
 <br>
 <li>Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL (Land) or cancellation of the VTP at short notice.</li>
 <br>

@@ -54,7 +54,9 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 </tr>
 	</tbody>
 	</table>
-<p style="margin-top:0px; margin-bottom:20px; "></p>
+<p style="margin-top:20px; margin-bottom:20px; "></p>
+
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">Malaysian male Work Permit or S Pass CMP workers can enter Singapore via the VTL (Land), but cannot be isolated in a dormitory if they test positive for their on-arrival COVID-19 Antigen Rapid Test and are awaiting their confirmatory Polymerase Chain Reaction (PCR) test results.</p>
 
 <html>
 

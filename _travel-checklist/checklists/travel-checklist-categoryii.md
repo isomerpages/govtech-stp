@@ -55,7 +55,7 @@ Travellers should **defer their travels** if they experience any of the followin
 Travellers who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"> Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here if arriving via air</a> (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register here if arriving by sea or land</a> (each test costs S$160)</li>
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"> Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here if arriving via air</a> (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register here if arriving by sea or land</a> (each test costs S$160). Travellers are required to book for the test before arrival. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoints.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing.</li>
 	</ol>
 
@@ -82,7 +82,7 @@ For visitors granted entry, please note that <b>all foreign visitors arriving in
 
 &#9744;  <i><b>B) On arrival COVID-19 Tests</b></i>
 
-Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you <a href="#stage1e">did not pay for the test before arrival (per Stage 1E)</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint. 
+Take an on-arrival COVID-19 Polymerase Chain Reaction test at Changi Airport. Travellers are required to <a href="https://safetravel.changiairport.com/#/" target="_blank">book and pre-pay</a> for the test before arrival. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
 
 &#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i>
 

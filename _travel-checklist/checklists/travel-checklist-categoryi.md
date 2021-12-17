@@ -52,7 +52,8 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 Travellers who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay</a> for their on-arrival COVID-19 Polymerase Chain Reaction test (S$125)</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Pre-register and pre-pay</a> for their on-arrival COVID-19 Polymerase Chain Reaction test (S$125) at Changi Airport. Travellers are required to book for the test before arrival. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoints.
+</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
 
@@ -74,7 +75,7 @@ For visitors granted entry, please note that <b>all foreign visitors arriving in
 
 &#9744;  <i><b>B) On-arrival COVID-19 Tests</b></i>
 
-Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you did not <a href="#payment" target="_blank">pay for the test before arrival</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
+Take an on-arrival COVID-19 Polymerase Chain Reaction test at Changi Airport. Travellers are required to <a href="https://safetravel.changiairport.com/#/" target="_blank">book and pre-pay</a> for the test before arrival. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
 
 &#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
 
