@@ -28,7 +28,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For all other workers- <a href="/wphl/overview">WPHL</a></li>
 	</ol>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Those who had obtained a VTL approval before 4 Dec 2021, 2359 hours can still enter Singapore. <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/2911-mom-introduces-new-primary-healthcare-system-for-migrant-workers" target="_blank">Find out more</a>.<br><br> Workers can <a href="/departing/overview" target="_blank">depart Signapore</a> using VTLs.</p>	
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Those who had obtained a VTL approval before 4 Dec 2021, 2359 hours can still enter Singapore. <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/1204-ceasing-of-entry-of-cmp-workers-and-other-dormitory-bound-workers-via-vtls" target="_blank">Find out more</a>.<br><br> Workers can <a href="/departing/overview" target="_blank">depart Singapore</a> using VTLs.</p>	
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> All pass holders need to take these tests:</p> 
 <ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 Antigen Rapid Test (ART) or PCR test <b>within 2 days</b> before departure. Self-swabs are <b>not allowed</b>.</li>
@@ -467,7 +467,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to the <a href="/health/shn">SHN dedicated facility (SDF)</a> accommodation. <br><br> Transport from the airport to SDFs will be provided</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to the <a href="/health/shn">SHN dedicated facility (SDF)</a>.<br>Transport from the airport to SDFs will be provided</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 10-day SHN at the SDF ($1,050 including GST)
 	</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN. </li>
@@ -499,7 +499,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to the <a href="/health/shn/">SHN dedicated facility</a> accommodation. <br><br> Transport from the airport to SDFs will be provided</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to the <a href="/health/shn/">SHN dedicated facility</a> accommodation. <br>Transport from the airport to SDFs will be provided</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day SHN at an <a href="/health/shn#sdf">SHN dedicated facility (SDF) </a>($1,450 including GST) </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests.</li>
