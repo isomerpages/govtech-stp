@@ -94,8 +94,10 @@ Click here to return to the <a href="#lanelist">top</a>.
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.35;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> including any accompanying unvaccinated children below 12 years old, meeting the following conditions:
 			   <ul style="font-size: 17px; list-style-type: disc; line-height:1.35;">
 	<li style="line-height:1.3; font-size: 18px;">Entering Singapore via the Causeway and Second Link from Malaysia; and</li>
-	<li style="line-height:1.3;font-size: 18px; margin-top:10px; line-height:1.35;">Is a resident of Singapore, this includes a Singapore Citizen, Singapore Permanent Resident, and holder of a valid Long-Term Pass issued by Singapore, e.g. Work Pass, S Pass, Student's Pass etc. or;</li>
-					 	<li style="line-height:1.3;font-size: 18px; margin-top:10px; line-height:1.35;">Is a Malaysia Citizen</li>
+					 <ul style="font-size: 17px; list-style-type: lower-roman; line-height:1.35;">
+						 	<li style="line-height:1.3;font-size: 18px; margin-top:10px; line-height:1.35;">Is a resident of Singapore, this includes a Singapore Citizen, Singapore Permanent Resident, and holder of a valid Long-Term Pass issued by Singapore, e.g. Work Pass, S Pass, Student's Pass etc. or;</li>
+					 	<li style="line-height:1.3;font-size: 18px; margin-top:10px; line-height:1.35;">A Malaysia Citizen</li>
+					 </ul>
 				 </ul>
 			   <p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;"><i>Note: All In-Principal Approval (IPA) holders (e.g. newly-approved pass holders entering Singapore for the first time) should apply for entry via the available lanes found in this list.</i></p>
 				</td>
