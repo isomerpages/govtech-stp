@@ -2,7 +2,7 @@
 title: Test Page for VTL Air Checklist
 permalink: /vtl-air/checklist
 description: ""
-published: true
+published: false
 ---
 
 ### Vaccinated Travel Lane (Air) Travel Checklist
@@ -350,7 +350,7 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers MUST:</p>
 <ol style="list-style-type:lower-roman;">
-		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Have <B>only</B> travelled to / transited via any VTL (Air) countries/regions listed below, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Have <B>only</B> travelled to / transited via any VTL (Air) countries/regions, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Air) flight. Please check the websites of the respective airlines for the date of commencement of VTL (Air) flights and the flight details. <u><b>Not all flights departing from the VTL (Air) countries/regions and operated by the approved airlines are designated.</b></u> Travellers are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
 	</ol>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><a href="https://www.checkfirst.gov.sg/c/408ebe0e-d0e6-4d12-8221-136f5ff4ee68" target="_blank">Click here to find out which airlines are offering VTL flights to Singapore based on your country/region of departure.</a>
@@ -428,7 +428,7 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1K"><label class="box" for="1K">&nbsp;&nbsp;<b>Stage 1K: [Short term visitors only] Contact Tracing App/Token</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">All short-term VTL (Air) travellers <b>must</b> download the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phone and register their profile for contact tracing.</p>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">Travellers aged 7 to 12 in this calendar year [i.e. those born from 2009 to 2014 (inclusive)] and those who are unable to use a mobile device due to a certified disability or special need, are eligible to be issued physical TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport upon arrival in Singapore.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><i>[Until 31 Dec 2359hrs]</i> Travellers who are unable to use the TraceTogether app can obtain a TraceTogether token upon arrival in Singapore from the Changi Recommends booth at Changi Airport upon arrival in Singapore – the traveller must be a child between 7 and 12 years old inclusive that calendar year, or have a certified medical disability.</p>
 		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged 6 and below in this calendar year are exempted from this requirement (e.g. a child who turns 6 this calendar year)</b>.</p>
   </div>
 
@@ -440,9 +440,9 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 	<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;</span> <b>Travellers may be denied boarding if they do not provide all the required documentation.</b></p>
 	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top: 0px;">When checking in at the departure airport, travellers must present to the airline staff all the documents listed below, except the following groups of travellers.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Singapore Citizens/Permanent Residents:</b> Present (ii) and (iv) below.</p>
-		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Long Term Pass Holders and Short Term Visitors:</b> Present (i), (ii) and (iv) below.</p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Long Term Pass Holders and Short Term Visitors:</b> Present (i), (ii) and (iv) below, in physical/hard-copy or electronic/soft-copy format:</p>
 <ol style="list-style-type:lower-roman;">
-		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Physical or electronic copy of the Vaccinated Travel Pass (Air) [VTP (Air)] for the specified period of entry;</li>
+		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Vaccinated Travel Pass (Air) [VTP (Air)] for the specified period of entry;</li>
 		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Valid pre-departure COVID-19 PCR test or Antigen Rapid Test (ART) for entry into Singapore showing a negative test result;</li>
 				<li style="line-height:1.35 margin-bottom:10px; font-size:18px;">Valid visa (for visa-required visitors);</li>
 						<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Acceptable proof of vaccination (same proof as at <a href="#1A">Stage 1A</a>).</li>
@@ -496,11 +496,10 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="5A"><label class="box" for="5A">&nbsp;&nbsp;<b>Stage 5A: Self-Isolate Pending OAT-PCR Results</b></label></div>
 <div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">As part of Singapore’s Vaccination-differentiated Safe Management Measures (VDS), you must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). Travellers must also comply with all other <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in).</p>
-    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">The vaccination status of all fully vaccinated VTL (Air) travellers will be automatically reflected on their TraceTogether app around 1 day after arrival in Singapore.</p>
-    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>[SC/PRs with an overseas-issued vaccination certificate]</b> If you are unable to upload your vaccination certificate successfully during SG Arrival Card submission, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, to be eligible for VDS, Your status will be updated on your TraceTogether app.</p>
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">You must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). You must also comply with all other <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>. Some activities in Singapore may require you to present a proof of vaccination.</p>
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>[SC/PRs with an overseas-issued vaccination certificate]</b> If you are unable to upload your vaccination certificate successfully during SG Arrival Card submission, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, to be eligible for VDS, Your vaccination status will be updated on your TraceTogether app.</p>
 	    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b style="color:red">&#10067;</b>&nbsp; Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and VDS and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for more FAQs on inland public health measures.</p>
-  </div>
+</div>
 
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
@@ -556,5 +555,5 @@ If you have a proof of vaccination in (c), please write to the SafeTravel Office
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 6: Departure from Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="6A"><label class="box" for="6A">&nbsp;&nbsp;<b>[Only if applicable] Return TraceTogether Tokens</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="6A"><label class="box" for="6A">&nbsp;&nbsp;<b>[Only if applicable; Until 31 Dec 2359hrs] Return TraceTogether Tokens</b></label></div>
 <div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Short term visitors issued with a physical TraceTogether token when arriving in Singapore must return the tokens in-person at a designated <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007675263" target="_blank">TraceTogether token return booth</a> at the checkpoint.</p></div>
