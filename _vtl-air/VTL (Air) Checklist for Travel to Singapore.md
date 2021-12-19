@@ -105,7 +105,7 @@ You should have at least one of the following acceptable proofs of vaccination, 
 
 &#9744;  <i><b>B) [Short-Term Visitors and Long-Term Pass Holders only] Apply for Vaccinated Travel Pass (Air) [VTP(Air)] </b></i>
 
-All short-term visitors and long-term pass holders must apply for a VTP. The VTP can only be used for travel on designated VTL (Air) flights. Applications must be made between 7 and 60 calendar days before the intended date of entry, together with the QR code of the traveller’s vaccination certificate (if available). Applications are free of charge. Successful applicants will receive their approved VTP via email. <b><a href="https://go.gov.sg/vtl-portal" target="_blank">Click here to apply for a VTP.</a></b>
+All short-term visitors and long-term pass holders must apply for a VTP. The VTP can only be used for travel on designated VTL (Air) flights. Applications must be made between 3 and 60 calendar days before the intended date of entry, together with the QR code of the traveller’s vaccination certificate (if available). Applications are free of charge. Successful applicants will receive their approved VTP via email. <b><a href="https://go.gov.sg/vtl-portal" target="_blank">Click here to apply for a VTP.</a></b>
 
 Unvaccinated children aged 12 and below in this calendar year are eligible to enter Singapore on the VTL (Air) without applying for a VTP (e.g. a child turning 12 this year is eligible). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL (Air) traveller.
 
