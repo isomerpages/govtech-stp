@@ -381,7 +381,7 @@ label.box {
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Have <B>only</B> travelled to / transited via any VTL (Air) countries/regions, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days before departure for Singapore; and</li>
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Air) flight. Please check the websites of the respective airlines for the date of commencement of VTL (Air) flights and the flight details. <u><b>Not all flights departing from the VTL (Air) countries/regions and operated by the approved airlines are designated.</b></u> Travellers are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
 	</ol>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><a href="https://www.checkfirst.gov.sg/c/408ebe0e-d0e6-4d12-8221-136f5ff4ee68" target="_blank">Click here to find out which airlines are offering VTL flights to Singapore based on your country/region of departure.</a>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><a href="https://www.checkfirst.gov.sg/c/6d3a5c9b-5f7f-4991-86b2-522da4e517cb" target="_blank">Click here to find out which airlines are offering VTL flights to Singapore based on your country/region of departure.</a>
 </p>
 </div>
 
