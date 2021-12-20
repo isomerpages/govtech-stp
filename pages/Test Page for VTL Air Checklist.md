@@ -342,50 +342,20 @@ label.box {
 			</li>	
 			</ol>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate at (a) during application. If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload:</b> One QR code</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_USA.png" style="width:68px; height:104px;"></p>		
+<ol style="list-style-type: lower-roman;">
+  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">If you hold the proof of vaccination at (a), self-verify your QR code using the following tools: <a href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier" target="_blank">SMART Health Card Verifier</a> (Android) or <a href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390" target="_blank">SMART Health Card Verifier</a> (iOS)</li>
+  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate at (a) during application. <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"> If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the enquiry form here and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
+  <ol style="list-style-type:disc;">
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_USA.png" style="width:68px; height:104px;"></li>
+    </ol>
+  </li>
+    </ol>
 	</div>	
 	</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B"><label class="box" for="1B">&nbsp;&nbsp;<b>Stage 1B: Obtain an accepted proof of vaccination</b></label></div>
-<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">The QR codes of certain vaccination certificates can be verified by travellers themselves before application. Travellers are strongly encouraged to verify these using the verification tools below.</p>
-	<input class="accordion" type="checkbox" id="selfverify">
-<label class="accordion" for="selfverify" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>(Click Here to Expand) Verification Tools for Proof of Vaccination based on Countries/Regions of Issuance</b></label>
-		<div class="content" style="background-color:#ededed;"><p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>Singapore</b></u></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proof of Vaccination:</b> Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> <a href="https://www.verify.gov.sg/" target="_blank">Verify.gov.sg</a> or regular QR code scanner on your mobile device</p>
-			<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>Australia</b></u></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proof of Vaccination:</b><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> <a href="https://play.google.com/store/apps/details?id=au.gov.dfat.vdsncchecker" target="
-	_blank">VDS-NC Checker (Android)</a> or <a href="https://apps.apple.com/sg/app/vds-nc-checker/id1582587862" target="_blank">VDS-NC</a> Checker (iOS)</p>
-			<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>Canada</b></u></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proof of Vaccination:</b> <a href="https://smarthealth.cards/faq" target="_blank">Smart Health Cards (SHC)</a> issued by any Canadian province</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> <a href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier" target="_blank">SMART Health Card Verifier</a> (Android) or <a href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390" target="_blank">SMART Health Card Verifier</a> (iOS)</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)</b></u></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proof of Vaccination:</b> <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL (Air) country/region</a></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> <a href="https://app.digitalcovidcertchecker.gov.ie/" target="_blank">DCC Checker</a> (Web App), <a href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier" target="_blank">COVID Certificate Check</a> (Android) or <a href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510" target="_blank">COVID Certificate Check</a> (iOS)</p>
-			<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>India</b></u></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proof of Vaccination:</b> International Travel Certificate in the Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> <a href="https://verify.cowin.gov.in/" target="_blank">Co-Win website</a></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>Malaysia</b></u></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proofs of Vaccination:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> <a href="https://play.google.com/store/apps/details?id=my.gov.onegovappstore.healthcertverifier" target="_blank">Vaccine Certificate Verifier</a> (Android) or <a href="https://apps.apple.com/sg/app/vaccine-certificate-verifier/id1564237499" target="_blank">Vaccine Certificate Verifier</a> (iOS)</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>Republic of Korea</b></u></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proofs of Vaccination:</b> COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA), downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?mnlv1=2&mnlv2=3" target="_blank">KDCA website</a></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">KDCA website</a></p>
-			<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>United Kingdom</b></u></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Proofs of Vaccination:</b> <a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service ("NHS") COVID Pass of vaccination</a> or Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland ("NI") app</a>)</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verification Tools:</b> <a href="https://app.digitalcovidcertchecker.gov.ie/" target="_blank">DCC Checker</a> (Web App) <a href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier" target="_blank">COVID Certificate Check</a> (Android) or <a href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510" target="_blank">COVID Certificate Check</a> (iOS)</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35; color:#d36363;"><u><b>United States of America</b></u></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Self-Verifiable Proofs of Vaccination:</b> <a href="https://smarthealth.cards/faq" target="_blank">Smart Health Cards (SHC)</a> issued by CommonTrust Network issuers (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>); or <a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Available Self-Verification Tools:</b>  <a href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier" target="_blank">SMART Health Card Verifier</a> (Android) or <a href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390" target="_blank">SMART Health Card Verifier</a> (iOS)</p>
-</div>
-</div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C"><label class="box" for="1C">&nbsp;&nbsp;<b>Stage 1C: [For STV/LTPHs only] Apply for Vaccination Travel Pass</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B"><label class="box" for="1B">&nbsp;&nbsp;<b>Stage 1B: [For STV/LTPHs only] Apply for Vaccination Travel Pass</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://go.gov.sg/vtl-portal" target="_blank"><b>Short-Term Visitors/Long Term Pass Holders<br>Click Here To Apply For a VTP</b></a></div><p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">&nbsp; <img src="/images/calendar.png" style="float:left; width:30px; height:30px; padding-top:0px;"><b>Apply <u>between 7 and 60 calendar days</u> before the intended date of entry.</b></p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b style="color:red">&#10067;</b>&nbsp; Refer to <a href="/vtl/faq#invalidcode" target="_blank">FAQs</a> here if you have issues with uploading your QR code.</p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span>&nbsp; <b>Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) Sector, or workers staying in dormitories</b> are not allowed to use VTL (Air) and should apply for entry via the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a>.</p>
@@ -394,14 +364,14 @@ label.box {
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D"><label class="box" for="1D">&nbsp;&nbsp;<b>Stage 1D: [If required] Apply for Entry Visa</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C"><label class="box" for="1C">&nbsp;&nbsp;<b>Stage 1C: [If required] Apply for Entry Visa</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers who hold passports and travel documents issued by via-required countries/regions must apply for an entry visa. Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore.</p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b style="color:red">&#10067;</b>&nbsp; Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.</p>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label class="box" for="1E">&nbsp;&nbsp;<b>Stage 1E: Check Travel/Transit History & Secure Tickets for a Designated VTL (Air) Flight</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D"><label class="box" for="1D">&nbsp;&nbsp;<b>Stage 1D: Check Travel/Transit History & Secure Tickets for a Designated VTL (Air) Flight</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers MUST:</p>
 <ol style="list-style-type:lower-roman;">
@@ -412,8 +382,8 @@ label.box {
 </p>
 </div>
 
-<div id="1F" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1F"><label class="box" for="1F">&nbsp;&nbsp;<b>Stage 1F: [Short Term Visitors and Long Term Pass Holders] Purchase COVID-19 Insurance</b></label></div>
+<div id="1E" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label class="box" for="1E">&nbsp;&nbsp;<b>Stage 1E: [Short Term Visitors and Long Term Pass Holders] Purchase COVID-19 Insurance</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Short Term Visitors]</b> Purchase travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment" target="_blank">here</a>.</p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Long Term Pass Holders]</b> Please click <a href="/health/insurance-and-treatment" target="_blank">here</a> for more information.
@@ -421,7 +391,7 @@ label.box {
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1G"><label class="box" for="1G">&nbsp;&nbsp;<b>Stage 1G: Secure self-isolation accommodation</b></label></div>	
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1F"><label class="box" for="1F">&nbsp;&nbsp;<b>Stage 1F: Secure self-isolation accommodation</b></label></div>	
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp;Travellers can self-isolate at any of the following locations::</p>
 	<ol style="padding-left: 20px; list-style-type:disc;">
@@ -438,7 +408,7 @@ label.box {
 	</ol>
 </div>
 	
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1H"><label for="1H">&nbsp;&nbsp;<b>Stage 1H: Take Pre-departure COVID-19 Test (PDT)</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1G"><label for="1G">&nbsp;&nbsp;<b>Stage 1G: Take Pre-departure COVID-19 Test (PDT)</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;"><!--&#9200; &nbsp;--> <b>Take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a>, or a professionally-administered Antigen Rapid Test (ART) <u>within 2 days</u> before departure for Singapore.</b></p>
 		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">Travellers should obtain a test report that:</p>
@@ -452,7 +422,7 @@ label.box {
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span>&nbsp;<b> Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require a PDT.</b></p>
 	</div>
 	
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1I"><label for="1I">&nbsp;&nbsp;<b>Stage 1I: Submit Health Declaration</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1H"><label for="1H">&nbsp;&nbsp;<b>Stage 1H: Submit Health Declaration</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35;"><!--&#9200; &nbsp; --><b>Submit the SG Arrival Card health and travel history declaration up to <u>3 days</u> before arriving in Singapore.</b></p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
@@ -472,7 +442,7 @@ label.box {
 	</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1J"><label class="box" for="1J">&nbsp;&nbsp;<b>Stage 1J: Register and Pre-pay for On-Arrival COVID-19 PCR Test</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1I"><label class="box" for="1I">&nbsp;&nbsp;<b>Stage 1I: Register and Pre-pay for On-Arrival COVID-19 PCR Test</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register and pre-pay for on-arrival COVID-19 PCR test here</a>. The test costs <b>$125 including GST</b>. </p>
 	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp;Does not apply to children aged two and below in this calendar year (i.e. turns 2 in this calendar year).</p>
@@ -480,7 +450,7 @@ label.box {
 </div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1K"><label class="box" for="1K">&nbsp;&nbsp;<b>Stage 1K: [Short term visitors only] Contact Tracing App/Token</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1J"><label class="box" for="1J">&nbsp;&nbsp;<b>Stage 1J: [Short term visitors only] Contact Tracing App/Token</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">All short-term VTL (Air) travellers <b>must</b> download the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phone and register their profile for contact tracing.</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><i>[Until 31 Dec 2359hrs]</i> Travellers who are unable to use the TraceTogether app can obtain a TraceTogether token upon arrival in Singapore from the Changi Recommends booth at Changi Airport upon arrival in Singapore – the traveller must be a child between 7 and 12 years old inclusive that calendar year, or have a certified medical disability.</p>
