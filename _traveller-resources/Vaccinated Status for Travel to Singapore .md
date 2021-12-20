@@ -141,11 +141,60 @@ From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/S
 					<p style="line-height:1.5;"><b>Three-Dose Combinations involving Sinovac-CoronaVac or Sinopharm to be Considered to be Fully Vaccinated</b></p>
 					<p style="line-height:1.5;font-size:14px; margin-top:10px;"><b>S:</b> <i>Refers to either the Sinovac-Coronavac or Sinopharm vaccine</i></p>
 					<p style="line-height:1.5;font-size:14px; margin-top:10px;"><b>W:</b> <i>Refers to a WHO- EUL vaccine excluding Sinovac-Coronavac, Sinopharm, and Johnson & Johnson/Janssen single-dose COVID-19 vaccine</i></p>
-					<p style="line-height:1.5;font-size:14px; margin-top:10px;">(A full list of accepted 3-dose combinations including for those recovered from COVID-19 can be found <a href="https://go.gov.sg/sinovac-mixed-vac-combi" target="_blank">here</a>)</p>
+					<p style="line-height:1.5;font-size:14px; margin-top:10px;"><b>(A full list of accepted 3-dose combinations including for those recovered from COVID-19 can be found <a href="https://go.gov.sg/sinovac-mixed-vac-combi" target="_blank">here</a>)</b></p>
 	    </td>
 	</tr>
 	</tbody>
 	</table>
 
+<p style="margin-top:20px;"></p>
+
+<table>
+	<thead>
+		<tr>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#f5f5f5"><b>First Dose - Second Dose – Third Dose</b></th>
+				<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#f5f5f5"><b>Interval between Doses</b></th>
+		</tr>
+	</thead>
+	<tbody>
+		 <tr>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><ol style="list-style-type:disc;">
+					<li>S – W – W </li>
+					<li>W – S – W</li>
+					</ol></td>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; ">The interval between the two <b>W</b> doses should be that recommended for the <b>W</b> vaccine or greater.</td>
+		</tr>
+					 <tr>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><ol style="list-style-type:disc;">
+					<li>S – S – W </li>
+					<li>S – S – S</li>
+					</ol></td>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><b>Interval between 1st and 2nd doses</b>
+			 <ol style="list-style-type:square;">
+					<li>Sinovac-Coronavac vaccines: 28 days</li>
+					<li>Sinopharm vaccine: 21 days</li>
+				 <li>Sinova-Coronavac and Sinopharm mixed: 17 days</li>
+					</ol>
+					<br><b>Interval between 2nd and 3rd doses:</b> At least 90 days
+			 </td>
+		</tr>
+			 	 <tr>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><ol style="list-style-type:disc;">
+					<li>W – S – S</li>
+					</ol></td>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><b>Interval between 1st and 2nd doses: </b> No less than 17 days <p style="line-height:1.5 margin-top:13px;"><b>Interval between 2nd and 3rd doses</b><ol style="list-style-type:square;">
+					<li>If 2nd dose is Sinovac-Coronavac vaccine: 28 days</li>
+					<li>If 2nd dose is Sinopharm vaccines: 21 days</li>
+					</ol>
+					</p></td>
+		</tr>
+		 <tr>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><ol style="list-style-type:disc;">
+					<li>S – W – S</li>
+					</ol></td>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><b>Interval between 1st and 2nd doses:</b>  No less than 17 days<p style="line-height:1.5 margin-top:13px;"><b>Interval between 2nd and 3rd doses:</b> No less than 28 days</p></td>
+		</tr>
+		</tbody>
+		</table>
 
 For more information, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH FAQ </a>.
