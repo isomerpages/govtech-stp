@@ -170,7 +170,7 @@ label.box {
     </ol>
 	</div>
 			<input class="accordion" type="checkbox" id="eudcc-cert">
-<label class="accordion" for="eudcc-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)</b></label>
+<label class="accordion" for="eudcc-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)</b></label>
 		<div class="content" style="background-color:#ededed;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
@@ -575,8 +575,8 @@ label.box {
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Each test costs <b>S$15 (inclusive of GST)</b>, with payment to be made online. The electronic receipt must be shown during registration as proof of payment. <b><u>Cash will not be accepted.</u></b></p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><span style="color:red; font-size:26px;">&#9888;&nbsp;</span>&nbsp;Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so. </p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><span style="color:red; font-size:26px;">&#9888;&nbsp;</span>&nbsp;If the traveller’s day of departure* from Singapore is <b>on the day of the test</b>, they are <u>exempted</u> from taking their scheduled ART on that day. </p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">*<i>Day of departure from Singapore is defined as the scheduled day of departure of the traveller’s flight or ferry, or the day they clear departure immigration if they depart by land.</i></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><span style="color:red; font-size:26px;">&#9888;&nbsp;</span>&nbsp;If the traveller’s day of departure from Singapore is <b>on the day of the test</b>, they are <u>exempted</u> from taking their scheduled ART on that day. </p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><i>Day of departure from Singapore is defined as the scheduled day of departure of the traveller’s flight or ferry, or the day they clear departure immigration if they depart by land.</i></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b style="color:red">&#10067;</b>&nbsp; Please refer to our <a href="/vtl/faq#postarrivaltests" target="_blank">FAQs here</a> for more information.</p>
 </div>
 
