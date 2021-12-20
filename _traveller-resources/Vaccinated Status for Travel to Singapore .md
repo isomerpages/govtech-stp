@@ -132,7 +132,7 @@ If your serology test is positive, the private healthcare provider will enter yo
 
 #### Maintaining vaccination status beyond 30 days after arrival for those who have taken SinoVac/SinoPharm
 
-From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/SinoPharm as part of their vaccination, or had 1 Sinovac/SinoPharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of three vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 31 Dec 2021, or 4 months from the date of their 2nd dose, whichever is later.The 3rd vaccination dose can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
+From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/SinoPharm as part of their vaccination, or had 1 Sinovac/SinoPharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of three vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 31 Dec 2021, or 4 months from the date of their 2nd dose, whichever is later. The 3rd vaccination dose can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
 
 <table style="background-color:#f5f5f5">
 <tbody>
@@ -146,9 +146,6 @@ From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/S
 	</tr>
 	</tbody>
 	</table>
-
-<p style="margin-top:20px;"></p>
-
 <table>
 	<thead>
 		<tr>
