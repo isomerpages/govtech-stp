@@ -110,7 +110,7 @@ If you do not meet any of the above requirements, you are <b>not</b> considered 
 
 As part of <a href="https://go.gov.sg/moh-smm" target="_blank">Singapore’s Vaccination-Differentiated Safe Management Measures (VDS)</a>, you must be vaccinated to participate in certain activities in Singapore, such as dining, entering shopping malls or attending performances.
 
-#### Obtaining temporary vaccinated status for 30 days after arrival
+#### 2a. Obtaining temporary vaccinated status for 30 days after arrival
 
 <b>Travellers who are vaccinated overseas should present your vaccination certificate(s) to the ICA officer at immigration clearance at the manual clearance counters </b> in order to get the overseas vaccination records reflected electronically in their [HealthHub](https://www.healthhub.sg/) or [TraceTogether](https://www.tracetogether.gov.sg/) apps to show on demand to be eligible for VDS. Travellers need to:
 
@@ -124,13 +124,13 @@ If your vaccination certificate(s) are valid, you will be granted <b>temporary v
 
 <div id="sinovaccines"></div>
 
-#### Maintaining vaccination status beyond 30 days after arrival for those who have taken non-SinoVac/SinoPharm vaccines
+#### 2b. Maintaining vaccination status beyond 30 days after arrival for those who have taken non-SinoVac/SinoPharm vaccines
 
 The temporary vaccinated status on the TraceTogether app may expire 30 days after your arrival in Singapore. If you require your vaccination status for longer than 30 days, please visit a private healthcare provider or <a href="https://phpc.gov.sg" target="_blank">Public Health Preparedness Clinics</a>for a serology test. Please call in advance to check if the service is available, and bring along your personal identification documents, vaccination certificate(s), as well as translated copies if necessary. 
 
 If your serology test is positive, the private healthcare provider will enter your vaccination records into the National Immunisation Registry (NIR). Your vaccinated status will be updated in the TraceTogether app within 24 hours and you will continue to be eligible for VDS.
 
-#### Maintaining vaccination status beyond 30 days after arrival for those who have taken SinoVac/SinoPharm
+#### 2c. Maintaining vaccination status beyond 30 days after arrival for those who have taken SinoVac/SinoPharm
 
 From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/SinoPharm as part of their vaccination, or had 1 Sinovac/SinoPharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of three vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 31 Dec 2021, or 4 months from the date of their 2nd dose, whichever is later. The 3rd vaccination dose can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
 
@@ -138,7 +138,7 @@ From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/S
 <tbody>
     <tr>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; ">
-					<p style="line-height:1.5;"><b>Three-Dose Combinations involving Sinovac-CoronaVac or Sinopharm to be Considered to be Fully Vaccinated</b></p>
+					<p style="line-height:1.5;"><b>Three-Dose Combinations involving Sinovac-CoronaVac or Sinopharm to be Considered Fully Vaccinated</b></p>
 					<p style="line-height:1.5;font-size:14px; margin-top:10px;"><b>S:</b> <i>Refers to either the Sinovac-Coronavac or Sinopharm vaccine</i></p>
 					<p style="line-height:1.5;font-size:14px; margin-top:10px;"><b>W:</b> <i>Refers to a WHO- EUL vaccine excluding Sinovac-Coronavac, Sinopharm, and Johnson & Johnson/Janssen single-dose COVID-19 vaccine</i></p>
 					<p style="line-height:1.5;font-size:14px; margin-top:10px;"><b>(A full list of accepted 3-dose combinations including for those recovered from COVID-19 can be found <a href="https://go.gov.sg/sinovac-mixed-vac-combi" target="_blank">here</a>)</b></p>
