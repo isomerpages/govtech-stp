@@ -162,7 +162,7 @@ From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/S
 					<li>S – W – W </li>
 					<li>W – S – W</li>
 					</ol></td>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; ">The interval between the two <b>W</b> doses should be that recommended for the <b>W</b> vaccine or greater.</td>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; ">The interval between the two <b>W</b> doses should be <a href="#acceptedvaccines">that recommended for the W vaccine or greater</a>.</td>
 		</tr>
 					 <tr>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><ol style="list-style-type:disc;">
