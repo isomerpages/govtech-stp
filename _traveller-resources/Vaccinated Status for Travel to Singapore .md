@@ -64,13 +64,13 @@ Travellers are considered fully vaccinated if they meet the following conditions
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">NA</td>
 		</tr>
 				<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Sinopharm <span style="color:red;">[see note on vaccination status within Singapore]</span></td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Sinopharm <span style="color:red;">[<a href="#sinovaccines">see note on vaccination status within Singapore</a>]</span></td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">17 days</td>
 		</tr>
 						<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Sinovac <span style="color:red;">[see note on vaccination status within Singapore]</span></td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Sinovac <span style="color:red;">[<a href="#sinovaccines">see note on vaccination status within Singapore</a>]</span></td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">2</td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">13 days</td>
@@ -137,7 +137,7 @@ From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/S
 <table style="background-color:#f5f5f5">
 <tbody>
     <tr>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; text-align:center;">
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; ">
 					<p style="line-height:1.5;"><b>Three-Dose Combinations involving Sinovac-CoronaVac or Sinopharm to be Considered to be Fully Vaccinated</b></p>
 					<p style="line-height:1.5;font-size:14px; margin-top:10px;"><b>S:</b> <i>Refers to either the Sinovac-Coronavac or Sinopharm vaccine</i></p>
 					<p style="line-height:1.5;font-size:14px; margin-top:10px;"><b>W:</b> <i>Refers to a WHO- EUL vaccine excluding Sinovac-Coronavac, Sinopharm, and Johnson & Johnson/Janssen single-dose COVID-19 vaccine</i></p>
