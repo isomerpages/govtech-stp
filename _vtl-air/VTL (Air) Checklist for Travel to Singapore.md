@@ -112,7 +112,7 @@ label.box {
 <input class="box" type="checkbox" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proofs of vaccination to be eligible for the VTL. <br><br>You may check for the acceptable proofs of vaccination based on their countries/regions of issuance below. The upload instructions for STVs and LTVPs will be required for <b>Stage 1B</b>. The QR codes of certain vaccination certificates can be verified by travellers themselves before application. Travellers are strongly encouraged to verify these using the verification tools provided. </p>
-	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proofs of Vaccination by Countries/Regions of Issuance</b></u></p>
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proofs of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u> </p>
 <input class="accordion" type="checkbox" id="Singapore-cert">
 <label class="accordion" for="Singapore-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Singapore</b></label>
 	<div class="content" style="background-color:#ededed;"><ol style="list-style-type:lower-alpha;"><li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code; or</li>
