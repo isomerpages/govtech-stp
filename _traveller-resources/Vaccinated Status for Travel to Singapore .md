@@ -172,7 +172,7 @@ From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/S
 					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinopharm vaccine: 21 days</li>
 				 <li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinova-Coronavac and Sinopharm mixed: 17 days</li>
 					</ol>
-					<br><b>Interval between 2nd and 3rd doses:</b> At least 90 days
+					<p style="line-height:1.5; margin-top:13px; font-size:18px;"><b>Interval between 2nd and 3rd doses:</b> At least 90 days</p>
 			 </td>
 		</tr>
 			 	 <tr>
