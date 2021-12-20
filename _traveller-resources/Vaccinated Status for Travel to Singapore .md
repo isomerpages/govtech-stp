@@ -168,9 +168,9 @@ From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/S
 					</ol></td>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><b>Interval between 1st and 2nd doses</b>
 			 <ol style="list-style-type:square;">
-					<li>Sinovac-Coronavac vaccines: 28 days</li>
-					<li>Sinopharm vaccine: 21 days</li>
-				 <li>Sinova-Coronavac and Sinopharm mixed: 17 days</li>
+					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinovac-Coronavac vaccines: 28 days</li>
+					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinopharm vaccine: 21 days</li>
+				 <li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinova-Coronavac and Sinopharm mixed: 17 days</li>
 					</ol>
 					<br><b>Interval between 2nd and 3rd doses:</b> At least 90 days
 			 </td>
@@ -189,7 +189,7 @@ From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/S
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><ol style="list-style-type:disc;">
 					<li>S – W – S</li>
 					</ol></td>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><b>Interval between 1st and 2nd doses:</b>  No less than 17 days<p style="line-height:1.5; margin-top:13px;"><b>Interval between 2nd and 3rd doses:</b> No less than 28 days</p></td>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><b>Interval between 1st and 2nd doses:</b>  No less than 17 days<p style="line-height:1.5; margin-top:13px; font-size:18px;"><b>Interval between 2nd and 3rd doses:</b> No less than 28 days</p></td>
 		</tr>
 		</tbody>
 		</table>
