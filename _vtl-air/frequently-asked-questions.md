@@ -1603,23 +1603,39 @@ A VTP application may be unsuccessful for reasons such as:
 - <a href="/vtl/faq#invalidcode" target="_blank">Invalid vaccination QR code</a>
 - Incomplete and/or incorrect information submitted
 - Passport validity is less than 6 months
+
+
+#### 10. I have made a booking on a designated VTL (Air) flight and meet the requirements under VTL (Air). However, I am unable to obtain a VTP (Air) for my intended date of entry. Can I still travel to Singapore under the VTL (Air) on the designated VTL flight? 
+
+Short-Term Visitors and Long-Term Pass Holders must obtain a VTP (Air) to travel to Singapore under the VTL (Air), even if they meet the conditions of the VTL (Air). They will not be allowed to board a designated VTL (Air) flight if they are unable to present a valid VTP (Air).
+
+Singapore Citizens and Permanent Residents do not need to apply for a VTP (Air) to travel to Singapore under the VTL (Air), as they can return to Singapore on a VTL (Air) flight without the need for entry approval, provided they meet the VTL (Air) conditions.
+
  
-#### 10. How do I change the validity of my VTP (Air)?
+#### 11. How do I change the validity of my VTP (Air)?
 
 A VTP (Air) is valid for single entry into Singapore anytime from your intended date of entry and up to six calendar days after.
 If your travel plans change and you need to enter before or after the validity period, please submit a new VTP (Air) application. 
 
 Should you require assistance to seek urgent entry into Singapore within the next 6 days, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555. Kindly note that all appeals are assessed on a case-by-case basis. 
 
-#### 11. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP (Air) application?
+#### 12. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP (Air) application?
 
 If your particulars have changed, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> with your revised particulars.
 
-#### 12. How can I cancel my VTP (Air) as I no longer wish to travel to Singapore?
+#### 13. How can I change my passport number on my VTP (Air)?
+
+You will not be able to change the passport number on an existing VTP (Air). Please submit a new application with the correct details reflected. Do note that travellers with an inaccurate passport number on their VTP (Air) may be denied boarding and entry into Singapore.
+
+If your intended date of entry is no longer available on the VTP (Air) application portal, please adjust your travel plans. You will not be allowed to board a designated VTL (Air) flight if you are unable to present a valid VTP (Air).
+
+
+#### 14. How can I cancel my VTP (Air) as I no longer wish to travel to Singapore?
 
 You do not need to cancel your VTP (Air). If you do not utilise your VTP (Air) within the validity period, it will automatically expire.
 
-#### 13. Can travellers use the VTP (Air) to transit/transfer through Singapore?
+
+#### 15. Can travellers use the VTP (Air) to transit/transfer through Singapore?
 
 No, the VTP (Air) is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
