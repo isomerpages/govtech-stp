@@ -127,18 +127,21 @@ To assist you better, please refer to the table below for the most appropriate s
 </td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px; ">
-<li style="font-size:18px; line-height:1.4; margin-top:0px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
-	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
-<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.</li>
+<li style="font-size:18px; line-height:1.4; margin-top:0px; margin-bottom:10px;">COVID-19 Test Scheduling Issues</li>
+	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
+<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Clarification on Lane-specific Entry Requirements</li>
 				 </ol>
 </td>
   </tr>
 	 <tr>
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">SafeTravel Enquiry Form with supporting documents </td>
-		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">Click Here for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
-<ol style="list-style-type:disc;">
+		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
+<ol style="list-style-type:disc; margin-top: 0px;">
 <li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
 <li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.</li>
+	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
+	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
+	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
 				 </ol>
 </td>
   </tr>	
