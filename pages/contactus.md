@@ -107,11 +107,6 @@ For reference, the list of lanes/passes covered by the checker tool are the foll
 	</table>
 
 
-If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, or if you are encountering technical issues with the SafeTravel application portals, you may wish to either:
-- Call our SafeTravel Enquiries Helpline at **6812 5555** for assistance; or
-- Write to us using our SafeTravel Enquiry form<!--<a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>--> below.
-
-
 ### SafeTravel Enquiry Form
 
 If the form below does not load or scroll properly on your mobile device, you can try opening it in a separate window [here](https://form.gov.sg/60e693e777fd6b00111885d5). If that still does not work, please ensure that your web browser and operating system are updated to the latest version.
