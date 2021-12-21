@@ -39,7 +39,7 @@ If you have already applied for entry into Singapore under any of the following 
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Suspension of new Vaccinated Travel Lane (VTL) designated bus and flight ticket sales</b></td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">New ticket sales for VTL flights arriving in Singapore from 23 Dec 2021 - 20 Jan 2022 (inclusive) will be suspended from 22 Dec 2021, 2359hrs (SGT). Travellers may still book tickets for flights arriving in Singapore from 21 Jan 2022 onwards.</p>
 
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">New ticket sales for VTL buses arriving in Singapore from 23 Dec 2021 - <i>insert date</i> will be suspended from 23 Nov 2021, 5pm. Travellers may still book tickets for buses arriving in Singapore from <i>insert date plus 1 day</i> onwards.</p>
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">New ticket sales for VTL buses arriving in Singapore from 23 Dec 2021 - 20 Jan 2022 (inclusive) will be suspended from 22 Dec 2021, 2359hrs (SGT). Travellers may still book tickets for buses arriving in Singapore from 21 Jan 2022 onwards.</p>
 
 <p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">All travellers who already hold a ticket for a VTL flight or bus can continue to travel under the VTL, and can continue to <a href="https://eservices.ica.gov.sg/STO1/VTL" target="_blank">apply for a Vaccinated Travel Pass if they do not already have one</a>.</p>   
 
