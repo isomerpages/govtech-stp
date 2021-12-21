@@ -41,9 +41,9 @@ If you have already applied for entry into Singapore under any of the following 
 
 <p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">New ticket sales for VTL buses arriving in Singapore from 23 Dec 2021 - <i>insert date</i> will be suspended from 23 Nov 2021, 5pm. Travellers may still book tickets for buses arriving in Singapore from <i>insert date plus 1 day</i> onwards.</p>
 
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">All travellers who already hold a ticket for a VTL flight or bus can continue to travel under the VTL, and can continue to <a href="" target="_blank">apply for a Vaccinated Travel Pass if they do not already have one</a>.</p>   
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">All travellers who already hold a ticket for a VTL flight or bus can continue to travel under the VTL, and can continue to <a href="https://eservices.ica.gov.sg/STO1/VTL" target="_blank">apply for a Vaccinated Travel Pass if they do not already have one</a>.</p>   
 
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">Travellers who are unable to secure designated VTL flights or buses to arrive in Singapore, should check the <a href="" target="_blank">Travelling to Singapore</a> page for alternative Safe Travel Lanes to use to enter Singapore. Prevailing border health measures such as Stay Home Notice will apply.</p>
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">Travellers who are unable to secure designated VTL flights or buses to arrive in Singapore, should check the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page for alternative Safe Travel Lanes to use to enter Singapore. Prevailing border health measures such as Stay Home Notice will apply.</p>
 </td>
  </tr>
 	 <tr>
