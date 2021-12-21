@@ -6,6 +6,8 @@ permalink: /vtl/faq
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>
 		This page contains FAQs for travellers who already understand the entry requirements into Singapore via the Vaccinated Travel Lane (Air) [VTL (Air)]. Singapore time (SGT) is used for all dates and times shown on this page. If you are not clear on the VTL (Air) requirements, please refer to the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air) Overview page here</a> before reading this FAQ Page.<br/><br/> Travellers intending to travel out of Singapore to a VTL (Air) country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.
 		</b></span></p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>Important Update: With effect from 22 December 2021 1700 hours, ticket sales on Vaccinated Travel Lane (Air) flights will be suspended. Vaccinated Travel Pass (Air) applications will also be suspended with effect from 22 December 2021 1700 hours. Travellers who have booked a ticket on a Vaccinated Travel Lane (Air) flight and obtained a Vaccinated Travel Pass (Air) (applicable to Long-Term Pass Holders and Short-Term Visitors), before 22 December 2021 1700 hours will not be affected and will continue to be allowed to enter Singapore under the Vaccinated Travel Lane (Air).</b></span></p>
 </div>
 
 
