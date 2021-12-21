@@ -102,7 +102,7 @@ For reference, the list of lanes/passes covered by the checker tool are the foll
 		</td>
   </tr>
 	<tr>
-		<td colspan="2"><i>*Please contact MOM for assistance if an entry application was made directly with MOM.>/i>
+		<td colspan="2"><i>*Please contact MOM for assistance if an entry application was made directly with MOM.</i>
 		</td>
 	</tr>
 	</table>
