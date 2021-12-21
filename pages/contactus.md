@@ -20,7 +20,7 @@ You can find the following forms of commonly requested support on this page:
 3)	<a href="">SafeTravel Office Helpline Number and Enquiry Form</a>
 
 
-### Enquiries on Application Status
+### 1) Latest Travel Notices and Answers to Top FAQ
 
 If you have already applied for entry into Singapore under any of the following lanes, you should check your application status using the links below.
 
