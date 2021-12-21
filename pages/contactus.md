@@ -4,7 +4,7 @@ permalink: /contact-us
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-top:20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><u>Advisory on Scam Calls Impersonating Government Officials</u></p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px; font-weight:900;"><u>Advisory on Scam Calls Impersonating Government Officials</u></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">ICA has received reports of calls made using the number “+65 6812 5555” by callers claiming to be government officials. This number is similar to the SafeTravel Enquiry Helpline. Recipients of these calls have reported being accused of committing various COVID-19 related offence, e.g. spreading fake news or breaking COVID-19 rules, and asked to pay a penalty or risk having further reports made against them.</p>
 
@@ -32,8 +32,8 @@ If you have already applied for entry into Singapore under any of the following 
 <table>
 <thead>
   <tr>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Safe Travel Lane</th>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">Check application status</a></th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Safe Travel Lane</th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Check application status</th>
   </tr>
 </thead>
 <tbody>
