@@ -17,7 +17,7 @@ description: Requirements for transiting through Singapore
 
 <div id="PDT"></div>
 
-#### COVID-19 Test
+#### COVID-19 Pre-Departure Test
 
 <!-- <p style="font-size:20px; line-height:1.35;">Transit travellers with a 14-day travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (I) countries/regions</a> are <b>not</b> required to take a pre-departure COVID-19 test, 
 	<b>only if their scheduled time of arrival is before 2 Dec 2359h SGT.</b></p>-->
@@ -63,4 +63,4 @@ description: Requirements for transiting through Singapore
 
 #### Entry Visas
 
-<p style="font-size:20px; line-height:1.35;">Foreign travellers transiting in Singapore will not require entry visa. Transit passengers need to be through-checked to their onward destination. They will <b><u>not</u></b> be allowed to clear arrival immigration or collect their baggage.</p>
+<p style="font-size:20px; line-height:1.35;">Foreign travellers transiting in Singapore do not require entry visas. Transit passengers need to be through-checked to their onward destination. They will <b><u>not</u></b> be allowed to clear arrival immigration or collect their baggage.</p>
