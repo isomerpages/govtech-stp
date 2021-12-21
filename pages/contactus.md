@@ -2,20 +2,13 @@
 title: Contact Us
 permalink: /contact-us
 ---
-
-<!--<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>The Application Service for Safe Travel Pass is experiencing high volume. Please <u>try again later</u> if you are unable to log in.</b> </p>
-	</div>-->
-
 <div style="padding-left: 5px; padding-bottom: 20px; margin-top:20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE </b><br/> Public Advisory On Scam Calls From ICA</p>
-<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.2;">ICA is aware that members of the public have received calls from the number “+65 6812 5555” that is similar to our SafeTravel Enquiries Helpline. The callers claimed to be officers from government agencies. They accused the recipients of either spreading fake news related to COVID-19 or breaking COVID-19 rules, further saying that a report would be made against them or they had to pay a penalty.</p>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">ICA would like to clarify that such calls were not made by officers from ICA or any other government agencies. ICA does not call members of the public to request money in any form over the phone. Members of the public are advised to take precautions when they receive such calls. For details, visit <a href="https://www.ica.gov.sg/news-and-publications/media-releases/media-release/public-advisory-on-scam-calls-from-ica-sto">this page</a>.</p><br/>
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;">Entry Approvals and Availability of Entry Dates</p>
-<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.2;">New entry approvals have been reduced until further notice for short term visitors and long term pass holders with travel history to higher-risk countries/regions. <b>If you are unable to select an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised</b>.</p>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">Work Pass in-principle approval (IPA) holders who are unable to enter Singapore will have their IPA validities extended. The Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</p>
-<!--<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</p>-->	
-<!--<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">For approved travellers who have not yet arrived in Singapore, please check the webpages of the <a href="/arriving/overview">Safe Travel Lane</a> you are utilising, to confirm the latest health prevailing health measures that apply to you.</p>-->
+
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><u>Advisory on Scam Calls Impersonating Government Officials</u></p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">ICA has received reports of calls made using the number “+65 6812 5555” by callers claiming to be government officials. This number is similar to the SafeTravel Enquiry Helpline. Recipients of these calls have reported being accused of committing various COVID-19 related offence, e.g. spreading fake news or breaking COVID-19 rules, and asked to pay a penalty or risk having further reports made against them.</p>
+
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">ICA does not request for payments in any form over the phone, or solicit for personal and credit card details. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
 </div>
 
 ### Enquiries on How to Enter Singapore
