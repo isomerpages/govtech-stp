@@ -84,11 +84,30 @@ For reference, the list of lanes/passes covered by the checker tool are the foll
 
 <table>
   <tr>
-    <td></td>
-		    <td></td>
+		<td>
+			<ul>
+				<li>Air Travel Pass</li>
+				<li>Familial Ties Lane</li>
+				<li>Periodic Commuting Arrangement</li>
+				<li>Reciprocal Green Lane</li>
+				<li>Student's Pass Holder Lane</li>
+			</ul>
+		</td>
+		    <td>
+					<ul>
+				<li>Vaccinated Travel Lane (Air)</li>
+				<li>Vaccinated Travel Lane (Land)</li>
+				<li>Work Pass Holder General Lane*</li>
+			</ul>
+		</td>
   </tr>
+	<tr>
+		<td colspan="2"><i>*Please contact MOM for assistance if an entry application was made directly with MOM.>/i>
+		</td>
+	</tr>
 	</table>
-	
+
+
 If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, or if you are encountering technical issues with the SafeTravel application portals, you may wish to either:
 - Call our SafeTravel Enquiries Helpline at **6812 5555** for assistance; or
 - Write to us using our SafeTravel Enquiry form<!--<a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>--> below.
