@@ -48,7 +48,7 @@ If you have already applied for entry into Singapore under any of the following 
  </tr>
 	 <tr>
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading QR codes to VTL application portal</b></td>
-		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;"><a href="">Click Here</a> for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
+		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;"><a href="/vtl/faq#invalidcode">Click Here</a> for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
 <ol style="list-style-type:disc;">
 <li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
 <li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.</li>
