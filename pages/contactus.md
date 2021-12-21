@@ -82,7 +82,7 @@ You can use the STO Application Status Checker below to check for the status of 
 
 For reference, the list of lanes/passes covered by the checker tool are the following: 
 
-<table>
+<table style="margin-bottom:0px;">
   <tr>
 		<td>
 			<ul>
@@ -101,10 +101,9 @@ For reference, the list of lanes/passes covered by the checker tool are the foll
 			</ul>
 		</td>
   </tr>
-	<tr>
-		<td colspan="2"><i>*Please contact MOM for assistance if an entry application was made directly with MOM.</i></td>
-	</tr>
 	</table>
+
+<p style="margin-top:0px;"><i>*Please contact MOM for assistance if an entry application was made directly with MOM.</i></p>
 
 
 ### SafeTravel Enquiry Form
