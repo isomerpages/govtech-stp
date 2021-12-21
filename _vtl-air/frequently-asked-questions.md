@@ -872,7 +872,7 @@ The total transit duration comprises ground time <u>only</u> and does not includ
  
 ### (d) Designated VTL (Air) Flights
 
-<p style="font-size:20px; color:red;line-height:1.4;"><i>Note: With effect from 22 December 2021, 2359hrs (SGT), there will be no new ticket sales on designated VTL (Air) flights for entry into Singapore from all VTL countries until 20 January 2022, 2359hrs (SGT). Travellers who have booked a ticket on a VTL (Air) flight before 22 December 2021, 2359hrs (SGT) will continue to be allowed to enter Singapore under the VTL (Air), provided they meet all VTL (Air) conditions.</i></p>
+<p style="font-size:16px; color:red;line-height:1.4;"><i>Note: With effect from 22 December 2021, 2359hrs (SGT), there will be no new ticket sales on designated VTL (Air) flights for entry into Singapore from all VTL countries until 20 January 2022, 2359hrs (SGT). Travellers who have booked a ticket on a VTL (Air) flight before 22 December 2021, 2359hrs (SGT) will continue to be allowed to enter Singapore under the VTL (Air), provided they meet all VTL (Air) conditions.</i></p>
 
 <!--#### 1. What are the designated VTL flights?
 
@@ -1143,7 +1143,7 @@ Please also note that if a traveller’s test result is confirmed to be positive
 
 ### (f) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)
 
-<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo post-arrival ARTs.<br><br>Travellers entering Singapore with effect from 6 December 2021, 2359hrs, SGT, will also be required to undergo self-administered COVID-19 ARTs using self-procured ART kits on Days 2, 4, 5 and 6 of their arrival in Singapore. This is in addition to the supervised ARTs on Days 3 and 7.</span></i></p>
+<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo post-arrival ARTs.</span></i></p>
 
 ### GENERAL MATTERS
 
