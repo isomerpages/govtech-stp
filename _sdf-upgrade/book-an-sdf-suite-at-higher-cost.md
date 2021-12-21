@@ -26,7 +26,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 <table>
   <thead>
 		    <tr>
-      <th colspan="4" style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED"><b>Note: Only travellers who do not have travel history to Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, and Zimbabwe in the last 14 days prior to entering Singapore are eligible to book a suite.</b></th>
+      <th colspan="4" style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED"><b>Note: Only travellers who do not have travel history to Botswana, Eswatini, Ghana, Lesotho, Mozambique, Namibia, South Africa, and Zimbabwe in the last 14 days prior to entering Singapore are eligible to book a suite.</b></th>
     </tr>
     <tr>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">&nbsp;</th>
