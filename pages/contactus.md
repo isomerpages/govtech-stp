@@ -45,25 +45,28 @@ If you have already applied for entry into Singapore under any of the following 
  </tr>
 	 <tr>
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading QR codes to VTL application portal</b></td>
-		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click Here for solutions to common QR Code upload errors. Some common mistakes reported include:
-
--	Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand
--	For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.
+		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">Click Here for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
+<ol style="list-style-type:disc;">
+<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
+<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.</li>
+				 </ol>
 </td>
   </tr>	
 	<tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>No entry dates available in Application Portal</b></td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">There is no limit on the number of Vaccinated Travel Passes issued daily, and each pass is valid for a specific period from the chosen entry date. Interested applicants can refer to this notice for the current application window.
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">There is no limit on the number of Vaccinated Travel Passes issued daily, and each pass is valid for a specific period from the chosen entry date. Interested applicants can refer to this notice for the current application window.</p>
 
-If you are unable to select an entry date for all other Safe Travel Lanes, you may consider applying for entry on another day or defer your travels.
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">If you are unable to select an entry date for all other Safe Travel Lanes, you may consider applying for entry on another day or defer your travels.</p>
 </td>
  </tr>
 		   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Specified work pass holders not allowed to use Vaccinated Travel Lane</b> </td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">From 4 Dec 2021, 2359, the following groups of travellers are disallowed from applying for entry via the Vaccinated Travel Lane (Air)/(Land). Employers may secure the entry of these workers using the alternative lanes stated below:
 
-•	Non-Malaysian S Pass and Work Permit holders in the Construction, Marine Shipyard and Process (CMP) sector to use MOM’s entry approval or ongoing industry initiatives for the CMP sectors
-•	Workers staying in dormitories to apply for entry under the Work Pass Holder General Lane
+<ol>
+<li>Non-Malaysian S Pass and Work Permit holders in the Construction, Marine Shipyard and Process (CMP) sector to use MOM’s entry approval or ongoing industry initiatives for the CMP sectors</li>
+	<li>Workers staying in dormitories to apply for entry under the Work Pass Holder General Lane</li>
+</ol>
 
 All Vaccinated Travel Passes issued before 4 Dec 2359h, even for travel after 4 Dec 2359h, will be honored, and no further clarification is needed with the Safe Travel Office or MOM.
 </td>
