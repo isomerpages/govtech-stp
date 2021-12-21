@@ -54,6 +54,8 @@ description: Start here to find out the travel requirements, restrictions and
 <i style="font-size:14px; line-height:1.35;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
 <i style="font-size:14px; line-height:1.35;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
 
+<!--<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;"><b>With effect from 22 December 2021, 1700 hours (Singapore time), ticket sales on Vaccinated Travel Lane (Air) flights will be suspended. Travellers who have booked a ticket on a Vaccinated Travel Lane (Air) flight before 22 December 2021, 1700 hours will not be affected and will continue to be allowed to enter Singapore under the Vaccinated Travel</b></p>-->
+
 ---
 
 Click here to return to the <a href="#lanelist">top</a>.
