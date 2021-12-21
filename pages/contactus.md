@@ -123,7 +123,7 @@ To assist you better, please refer to the table below for the most appropriate s
 	 <tr>
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Call SafeTravel Enquiry Helpline Number: <br> 
 		<b>+65 6812 5555*</b><br> 
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><i>(* Regular call charges apply)</i></p>
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;"><i>(* Regular call charges apply)</i></p>
 </td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px; ">
@@ -134,7 +134,7 @@ To assist you better, please refer to the table below for the most appropriate s
 </td>
   </tr>
 	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">SafeTravel Enquiry Form with supporting documents </td>
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;">SafeTravel Enquiry Form with supporting documents </td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px;">
 <li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Refund or fee waiver requests</li>
