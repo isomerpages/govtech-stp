@@ -44,7 +44,7 @@ If you have already applied for entry into Singapore under any of the following 
 </td>
  </tr>
 	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Errors uploading QR codes to VTL application portal</td>
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading QR codes to VTL application portal</b></td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click Here for solutions to common QR Code upload errors. Some common mistakes reported include:
 
 -	Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand
@@ -52,14 +52,14 @@ If you have already applied for entry into Singapore under any of the following 
 </td>
   </tr>	
 	<tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">No entry dates available in Application Portal</td>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>No entry dates available in Application Portal</b></td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">There is no limit on the number of Vaccinated Travel Passes issued daily, and each pass is valid for a specific period from the chosen entry date. Interested applicants can refer to this notice for the current application window.
 
 If you are unable to select an entry date for all other Safe Travel Lanes, you may consider applying for entry on another day or defer your travels.
 </td>
  </tr>
 		   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Specified work pass holders not allowed to use Vaccinated Travel Lane </td>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Specified work pass holders not allowed to use Vaccinated Travel Lane</b> </td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">From 4 Dec 2021, 2359, the following groups of travellers are disallowed from applying for entry via the Vaccinated Travel Lane (Air)/(Land). Employers may secure the entry of these workers using the alternative lanes stated below:
 
 •	Non-Malaysian S Pass and Work Permit holders in the Construction, Marine Shipyard and Process (CMP) sector to use MOM’s entry approval or ongoing industry initiatives for the CMP sectors
