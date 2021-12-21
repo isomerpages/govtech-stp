@@ -14,9 +14,6 @@ permalink: /vtl/faq
 </div>
 
 
-
-
-
 ### Click to jump to the following sections:
 
 <div id="top"></div>
