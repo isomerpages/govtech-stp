@@ -78,6 +78,7 @@ Travelers can also check the common FAQs for other frequently asked questions an
 
 You can use the STO Application Status Checker below to check for the status of your entry approval application if you have previously applied using the Safe Travel Portal. However, you will not be able to retrieve your entry approval letters from this checker. All entry approval letters would have been sent to you via email upon completion of your application. If you did not receive the approval letter, you can write to the Safe Travel Office for assistance.
 
+<div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank"><b>Application status checker</b></a></div>
 
 
 
