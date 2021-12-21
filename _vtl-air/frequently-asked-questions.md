@@ -824,6 +824,7 @@ Travellers withe EU DCCs issued in any European Union Member States or non-EU co
 
 <p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 test.</i></p>
 
+
 #### 1. Are travellers under the VTL (Air) required to take any pre-departure COVID-19 tests?
 
 All travellers, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
@@ -870,6 +871,8 @@ The total transit duration comprises ground time <u>only</u> and does not includ
 
  
 ### (d) Designated VTL (Air) Flights
+
+<p style="font-size:20px; color:red;line-height:1.4;"><i>Note: With effect from 22 December 2021, 2359hrs (SGT), there will be no new ticket sales on designated VTL (Air) flights for entry into Singapore from all VTL countries until 20 January 2022, 2359hrs (SGT). Travellers who have booked a ticket on a VTL (Air) flight before 22 December 2021, 2359hrs (SGT) will continue to be allowed to enter Singapore under the VTL (Air), provided they meet all VTL (Air) conditions.</i></p>
 
 <!--#### 1. What are the designated VTL flights?
 
