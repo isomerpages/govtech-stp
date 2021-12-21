@@ -20,11 +20,6 @@ You can find the following forms of commonly requested support on this page:
 3)	<a href="">SafeTravel Office Helpline Number and Enquiry Form</a>
 
 
-
-### Enquiries on How to Enter Singapore
-
-As our Contact Centre is experiencing a high volume of enquiries, we strongly encourage you to use our self-help tool at the [Travelling to Singapore page](/arriving/overview#selfhelptool) first to determine what Safe Travel Lane you should use to enter Singapore, and read about the corresponding requirements under that lane.
-
 ### Enquiries on Application Status
 
 If you have already applied for entry into Singapore under any of the following lanes, you should check your application status using the links below.
@@ -32,89 +27,50 @@ If you have already applied for entry into Singapore under any of the following 
 <table>
 <thead>
   <tr>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Safe Travel Lane</th>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Check application status</th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Issue</b></th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Answer</b></th>
   </tr>
 </thead>
 <tbody>
    <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Air Travel Pass</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/atpsg">here</a></td>
- </tr>
-	  <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Periodic Commuting Arrangement</td>
-   <td rowspan ="3" style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Click <a href="https://eservices.ica.gov.sg/STO">here</a>
-     </td>
- </tr>
-	 <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Reciprocal Green Lane</td>
- </tr>
-	      <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Singaporean Citizen/Permanent Resident Familial Ties Lane</td>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Suspension of new Vaccinated Travel Lane (VTL) designated bus and flight ticket sales</b></td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">New ticket sales for VTL flights arriving in Singapore from 23 Dec 2021 -15 Jan 2022 will be suspended from 23 Nov 2021, 5pm. Travellers may still book tickets for flights arriving in Singapore from 16 Jan 2022 onwards.</p>
+
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">New ticket sales for VTL buses arriving in Singapore from 23 Dec 2021 - <i>insert date</i> will be suspended from 23 Nov 2021, 5pm. Travellers may still book tickets for buses arriving in Singapore from <i>insert date plus 1 day</i> onwards.</p>
+
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">All travellers who already hold a ticket for a VTL flight or bus can continue to travel under the VTL, and can continue to apply for a Vaccinated Travel Pass if they do not already have one.</p>   
+
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">Travellers who are unable to secure designated VTL flights or buses to arrive in Singapore, should check the Travelling to Singapore page for alternative Safe Travel Lanes to use to enter Singapore. Prevailing border health measures such as Stay Home Notice will apply.</p>
+</td>
  </tr>
 	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Student’s Pass Holder Lane</td>
-		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/stphl-application">here</a></td>
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Errors uploading QR codes to VTL application portal</td>
+		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click Here for solutions to common QR Code upload errors. Some common mistakes reported include:
+
+-	Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand
+-	For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.
+</td>
   </tr>	
 	<tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Vaccinated Travel Lane (Air)</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/vtl-portal">here</a></td>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">No entry dates available in Application Portal</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">There is no limit on the number of Vaccinated Travel Passes issued daily, and each pass is valid for a specific period from the chosen entry date. Interested applicants can refer to this notice for the current application window.
+
+If you are unable to select an entry date for all other Safe Travel Lanes, you may consider applying for entry on another day or defer your travels.
+</td>
  </tr>
 		   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Vaccinated Travel Lane (Land)</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/vtl-portal">here</a></td>
- </tr>
-	<tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Work Pass Holder General Lane</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">If you applied for entry via the SafeTravel Portal, please check <a href="https://eservices.ica.gov.sg/STO">here</a>. If you applied with MOM, please write to MOM directly.</td>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Specified work pass holders not allowed to use Vaccinated Travel Lane </td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">From 4 Dec 2021, 2359, the following groups of travellers are disallowed from applying for entry via the Vaccinated Travel Lane (Air)/(Land). Employers may secure the entry of these workers using the alternative lanes stated below:
+
+•	Non-Malaysian S Pass and Work Permit holders in the Construction, Marine Shipyard and Process (CMP) sector to use MOM’s entry approval or ongoing industry initiatives for the CMP sectors
+•	Workers staying in dormitories to apply for entry under the Work Pass Holder General Lane
+
+All Vaccinated Travel Passes issued before 4 Dec 2359h, even for travel after 4 Dec 2359h, will be honored, and no further clarification is needed with the Safe Travel Office or MOM.
+</td>
  </tr>
   </tbody>
   </table>
 
-
-
-
-<table>
-<thead>
-  <tr>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Safe Travel Lane</th>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">Check application status</a></th>
-  </tr>
-</thead>
-<tbody>
-   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Air Travel Pass</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/atpsg">here</a></td>
- </tr>
-	  <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Periodic Commuting Arrangement</td>
-   <td rowspan ="3" style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Click <a href="https://eservices.ica.gov.sg/STO">here</a>
-     </td>
- </tr>
-	 <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Reciprocal Green Lane</td>
- </tr>
-	      <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Singaporean Citizen/Permanent Resident Familial Ties Lane</td>
- </tr>
-	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Student’s Pass Holder Lane</td>
-		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/stphl-application">here</a></td>
-  </tr>	
-	<tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Vaccinated Travel Lane (Air)</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/vtl-portal">here</a></td>
- </tr>
-		   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Vaccinated Travel Lane (Land)</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/vtl-portal">here</a></td>
- </tr>
-	<tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Work Pass Holder General Lane</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">If you applied for entry via the SafeTravel Portal, please check <a href="https://eservices.ica.gov.sg/STO">here</a>. If you applied with MOM, please write to MOM directly.</td>
- </tr>
-  </tbody>
-  </table>
 
 
 ### Contact Points 
