@@ -5,8 +5,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>IMPORTANT UPDATE</u></b></p>
-		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;"><b>With effect from 22 December 2021, 1700 hours (SGT), ticket sales on Vaccinated Travel Lane (Air) flights will be suspended. Travellers who have booked a ticket on a Vaccinated Travel Lane (Air) flight and obtained a Vaccinated Travel Pass (Air) (applicable to Long-Term Pass Holders and Short-Term Visitors flight), before 22 December 2021, 1700 hours (SGT) will not be affected and will continue to be allowed to enter Singapore under the Vaccinated Travel Lane (Air)</b>
-	</p>
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">With effect from <b>22 December 2021, 2359hrs (SGT)</b>, there will be no new ticket sales for designated VTL (Air) flights for entry into Singapore from all VTL countries until 20 January 2022, 2359hrs (SGT). Travellers who have booked a ticket on a VTL (Air) flight before 22 December 2021, 2359hrs (SGT) will continue to be allowed to enter Singapore under the VTL (Air), provided they meet all VTL (Air) conditions.</p>
 	</div>
 
 <!--<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; background-color:#f8f8f8; border-style: solid; border-width: 1px; margin-bottom:20px;">
