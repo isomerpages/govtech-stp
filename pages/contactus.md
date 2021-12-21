@@ -11,7 +11,18 @@ permalink: /contact-us
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">ICA does not request for payments in any form over the phone, or solicit for personal and credit card details. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
 </div>
 
+The SafeTravel website is designed to provide prospective travellers with the latest information and tools to plan their journey to and from Singapore. Readers who have landed on this page without browsing the rest of this website should begin their journey from the <a href="https://safetravel.ica.gov.sg/" target="_blank">SafeTravel Home Page</a>.
+
+You can find the following forms of commonly requested support on this page:
+
+1)	<a href="">Latest Travel Notices and Answers to Top FAQ</a> 
+2)	<a href="">Application Status Checker</a>
+3)	<a href="">SafeTravel Office Helpline Number and Enquiry Form</a>
+
+
+
 ### Enquiries on How to Enter Singapore
+
 As our Contact Centre is experiencing a high volume of enquiries, we strongly encourage you to use our self-help tool at the [Travelling to Singapore page](/arriving/overview#selfhelptool) first to determine what Safe Travel Lane you should use to enter Singapore, and read about the corresponding requirements under that lane.
 
 ### Enquiries on Application Status
