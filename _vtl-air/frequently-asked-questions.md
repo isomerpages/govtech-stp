@@ -8,6 +8,12 @@ permalink: /vtl/faq
 		</b></span></p>
 </div>
 
+<div style=" font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
+
+</div>
+IMPORTANT UPDATE
+With effect from 22 December 2021, 2359hrs (SGT), there will be no new ticket sales for designated VTL (Air) flights for entry into Singapore from all VTL countries until 20 January 2022, 2359hrs (SGT). Travellers who have booked a ticket on a VTL (Air) flight before 22 December 2021, 2359hrs (SGT) will continue to be allowed to enter Singapore under the VTL (Air), provided they meet all VTL (Air) conditions.
+
 
 ### Click to jump to the following sections:
 
