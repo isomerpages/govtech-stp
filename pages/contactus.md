@@ -106,7 +106,44 @@ For reference, the list of lanes/passes covered by the checker tool are the foll
 <p style="margin-top:0px;"><i>*Please contact MOM for assistance if an entry application was made directly with MOM.</i></p>
 
 
-### SafeTravel Enquiry Form
+### SafeTravel Office Helpline and Query Form
+
+You can contact the SafeTravel Office for assistance you have application issues or are unable to find the relevant information on the SafeTravel website (including common FAQs and notices above).
+
+To assist you better, please refer to the table below for the most appropriate support channel.
+
+<table>
+<thead>
+  <tr>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Issue</b></th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Answer</b></th>
+  </tr>
+</thead>
+<tbody>
+	 <tr>
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Call SafeTravel Enquiry Helpline Number: <br> 
+		<b>+65 6812 5555*</b><br> 
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><i>(* Regular call charges apply)</i></p>
+</td>
+		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
+<ol style="list-style-type:disc; margin-top: 0px; ">
+<li style="font-size:18px; line-height:1.4; margin-top:0px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
+	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
+<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.</li>
+				 </ol>
+</td>
+  </tr>
+	 <tr>
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">SafeTravel Enquiry Form with supporting documents </td>
+		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">Click Here for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
+<ol style="list-style-type:disc;">
+<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
+<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.</li>
+				 </ol>
+</td>
+  </tr>	
+	</tbody>
+	</table>
 
 If the form below does not load or scroll properly on your mobile device, you can try opening it in a separate window [here](https://form.gov.sg/60e693e777fd6b00111885d5). If that still does not work, please ensure that your web browser and operating system are updated to the latest version.
 
