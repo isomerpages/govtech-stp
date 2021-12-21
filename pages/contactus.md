@@ -15,9 +15,12 @@ The SafeTravel website is designed to provide prospective travellers with the la
 
 You can find the following forms of commonly requested support on this page:
 
-1)	<a href="">Latest Travel Notices and Answers to Top FAQ</a> 
-2)	<a href="">Application Status Checker</a>
-3)	<a href="">SafeTravel Office Helpline Number and Enquiry Form</a>
+1)	<a href="#FAQ">Latest Travel Notices and Answers to Top FAQ</a> 
+2)	<a href="#checker">Application Status Checker</a>
+3)	<a href="#enquiry">SafeTravel Office Helpline Number and Enquiry Form</a>
+
+
+<div id="FAQ"></div>
 
 
 ### 1) Latest Travel Notices and Answers to Top FAQ
@@ -74,6 +77,10 @@ If you have already applied for entry into Singapore under any of the following 
 
 Travelers can also check the common FAQs for other frequently asked questions and use the self-help tool for determining which Safe Travel Lanes to use to enter Singapore.
 
+
+<div id="checker"></div>
+
+
 ### 2) Application Status Checker
 
 You can use the STO Application Status Checker below to check for the status of your entry approval application if you have previously applied using the Safe Travel Portal. However, you will not be able to retrieve your entry approval letters from this checker. All entry approval letters would have been sent to you via email upon completion of your application. If you did not receive the approval letter, you can write to the Safe Travel Office for assistance.
@@ -104,6 +111,9 @@ For reference, the list of lanes/passes covered by the checker tool are the foll
 	</table>
 
 <p style="margin-top:0px;"><i>*Please contact MOM for assistance if an entry application was made directly with MOM.</i></p>
+
+
+<div id="enquiry"></div>
 
 
 ### SafeTravel Office Helpline and Query Form
