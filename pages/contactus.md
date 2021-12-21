@@ -72,9 +72,14 @@ If you have already applied for entry into Singapore under any of the following 
   </tbody>
   </table>
 
+Travelers can also check the common FAQs for other frequently asked questions and use the self-help tool for determining which Safe Travel Lanes to use to enter Singapore.
+
+### 2) Application Status Checker
+
+You can use the STO Application Status Checker below to check for the status of your entry approval application if you have previously applied using the Safe Travel Portal. However, you will not be able to retrieve your entry approval letters from this checker. All entry approval letters would have been sent to you via email upon completion of your application. If you did not receive the approval letter, you can write to the Safe Travel Office for assistance.
 
 
-### Contact Points 
+
 
 If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, or if you are encountering technical issues with the SafeTravel application portals, you may wish to either:
 - Call our SafeTravel Enquiries Helpline at **6812 5555** for assistance; or
