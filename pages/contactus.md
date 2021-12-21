@@ -118,7 +118,7 @@ For reference, the list of lanes/passes covered by the checker tool are the foll
 
 ### SafeTravel Office Helpline and Query Form
 
-You can contact the SafeTravel Office for assistance you have application issues or are unable to find the relevant information on the SafeTravel website (including common FAQs and notices above).
+You can contact the SafeTravel Office for assistance you have application issues or are unable to find the relevant information on the SafeTravel website (including <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> and notices above).
 
 To assist you better, please refer to the table below for the most appropriate support channel.
 
@@ -139,7 +139,7 @@ To assist you better, please refer to the table below for the most appropriate s
 <ol style="list-style-type:disc; margin-top: 0px; ">
 <li style="font-size:18px; line-height:1.4; margin-top:0px; margin-bottom:10px;">COVID-19 Test Scheduling Issues</li>
 	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
-<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Clarification on Lane-specific Entry Requirements</li>
+<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Clarification on <a href="/arriving/overview#lanelist" target="_blank">Lane-specific Entry Requirements</a></li>
 				 </ol>
 </td>
   </tr>
