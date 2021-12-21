@@ -134,89 +134,17 @@ To assist you better, please refer to the table below for the most appropriate s
 </td>
   </tr>
 	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;">SafeTravel Enquiry Form with supporting documents </td>
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;"><a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">SafeTravel Enquiry Form</a> with supporting documents </td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px;">
 <li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Refund or fee waiver requests</li>
 <li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Entry Appeals into Singapore </li>
 	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Technical issues during application submission, e.g. Vaccination QR Code rejection</li>
 	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Submission of proof of vaccination as part of the Vaccinated Travel Pass (Air) application for travellers arriving from the United States</li>
-	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
+	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Stay-Home Notice Dedicated Facility (SDF) special request</li>
+		<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Difficulties getting a COVID-19 test before departure</li>
 				 </ol>
 </td>
   </tr>	
 	</tbody>
 	</table>
-
-If the form below does not load or scroll properly on your mobile device, you can try opening it in a separate window [here](https://form.gov.sg/60e693e777fd6b00111885d5). If that still does not work, please ensure that your web browser and operating system are updated to the latest version.
-
-
-<iframe width="100%" height="6000px" scrolling="no" src="https://form.gov.sg/60e693e777fd6b00111885d5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!--<iframe width="100%" height="1900" src="https://webform-sto.plexure.com.sg/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-
-
-
-<!--<ol style="font-size:18px; list-style-type:disc;">
-<li>Periodic Commuting Arrangement</li>
-<li>Reciprocal Green Lane</li>
-<li>Appeals to enter Singapore for essential travel for business or official purpose</li>
-<li>SHN-related matters</li>
-</ol>-->
-
-<!--For the matters below, you can also enquire with the following contact points, if applicable: -->
-
-<!--<table>
-<thead>
-  <tr>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Nature of Enquiries</th>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Online contact</th>
-       <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Phone Number</th>
-       <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Agency</th>
-  </tr>
-</thead>
-<tbody>
-   <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">General Immigration Requirements</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Email to: <a href="mailto:ICA_SHNQ@ica.gov.sg"> ICA_SHNQ@ica.gov.sg  </a>
-     </td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">6391 6100</td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">ICA</td>
- </tr>
-   <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; word-wrap: break-word;">Work Pass Holders and IPA holders travelling to Singapore under the Work Pass Holder General Lane</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Click <a href="https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx">here</a> for Feedback/Enquiry Form
-     </td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">6438 5122</td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">MOM</td>
- </tr>
-    <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Periodic Commuting Arrangement and Reciprocal Green Lane issues </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Email to: <a href="mailto:COVID_SafeTravelEnquiries@mti.gov.sg "> COVID_SafeTravelEnquiries@mti.gov.sg  </a>
-     </td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">-</td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">MTI</td>
- </tr>
-    <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Appeals to enter Singapore for essential business not covered by existing Safe Travel Lanes</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Email to: <a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg"> COVID_SafeTravelAppeals@mti.gov.sg   </a>
-     </td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">-</td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">MTI</td>
- </tr>
-  <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Air Travel Pass</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Email to: <a href="mailto:COVID_ATP_Enquiries@caas.gov.sg"> COVID_ATP_Enquiries@caas.gov.sg</a>
-     </td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">-</td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">CAAS</td>
- </tr>
-    <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">General enquiries on COVID-19 health control measures (e.g. SHN, PDT) while in Singapore</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">-
-     </td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">1800 333 9999</td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">MOH Emergency Line</td>
- </tr>
-  </tbody>
-  </table>-->
