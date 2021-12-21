@@ -115,8 +115,8 @@ To assist you better, please refer to the table below for the most appropriate s
 <table>
 <thead>
   <tr>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Issue</b></th>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Answer</b></th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Contact Point</b></th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Query/Assistance Request Type</b></th>
   </tr>
 </thead>
 <tbody>
@@ -137,10 +137,10 @@ To assist you better, please refer to the table below for the most appropriate s
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">SafeTravel Enquiry Form with supporting documents </td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px;">
-<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
-<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.</li>
-	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
-	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
+<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Refund or fee waiver requests</li>
+<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Entry Appeals into Singapore </li>
+	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Technical issues during application submission, e.g. Vaccination QR Code rejection</li>
+	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Submission of proof of vaccination as part of the Vaccinated Travel Pass (Air) application for travellers arriving from the United States</li>
 	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
 				 </ol>
 </td>
