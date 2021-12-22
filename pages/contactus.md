@@ -6,9 +6,9 @@ permalink: /contact-us
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; font-weight:900;"><u>Advisory on Scam Calls Impersonating Government Officials</u></p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">ICA has received reports of calls made using the number “+65 6812 5555” by callers claiming to be government officials. This number is similar to the SafeTravel Enquiry Helpline. Recipients of these calls have reported being accused of committing various COVID-19 related offence, e.g. spreading fake news or breaking COVID-19 rules, and asked to pay a penalty or risk having further reports made against them.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">ICA has received reports of calls made using the number “+65 6812 5555” by callers claiming to be government officials. This number is similar to the SafeTravel Enquiry Helpline. Recipients of these calls have reported being accused of committing various COVID-19 related offence, e.g. spreading fake news or breaking COVID-19 rules, and asked to pay a penalty or risk having further reports made against them.</p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">ICA does not request for payments in any form over the phone, or solicit for personal and credit card details. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">ICA does not request for payments in any form over the phone, or solicit for personal and credit card details. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
 </div>
 
 The SafeTravel website is designed to provide prospective travellers with the latest information and tools to plan their journey to and from Singapore. Readers who have landed on this page without browsing the rest of this website should begin their journey from the <a href="https://safetravel.ica.gov.sg/" target="_blank">SafeTravel Home Page</a>.
@@ -27,7 +27,7 @@ You can find the following forms of commonly requested support on this page:
 
 ### 1) Latest Travel Notices and Answers to Top FAQ
 
-If you have already applied for entry into Singapore under any of the following lanes, you should check your application status using the links below.
+<p style="line-height:1.35;"> If you have already applied for entry into Singapore under any of the following lanes, you should check your application status using the links below.</p>
 
 <table>
 <thead>
@@ -39,43 +39,43 @@ If you have already applied for entry into Singapore under any of the following 
 <tbody>
    <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Suspension of new Vaccinated Travel Lane (VTL) designated bus and flight ticket sales</b></td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">New ticket sales are suspended for designated VTL flights and buses arriving in Singapore from 23 Dec 2021 - 20 Jan 2022 (inclusive). Travellers may still book tickets for designated VTL flights/buses arriving in Singapore from 21 Jan 2022 onwards.</p>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">New ticket sales are suspended for designated VTL flights and buses arriving in Singapore from 23 Dec 2021 - 20 Jan 2022 (inclusive). Travellers may still book tickets for designated VTL flights/buses arriving in Singapore from 21 Jan 2022 onwards.</p>
 
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">All travellers who already hold a ticket for a VTL flight or bus can continue to travel under the VTL, and can continue to <a href="https://eservices.ica.gov.sg/STO1/VTL" target="_blank">apply for a Vaccinated Travel Pass if they do not already have one</a>. <b>There is no need to rush to apply as there is no limit on VTPs issued.</b></p>   
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:20px;">All travellers who already hold a ticket for a VTL flight or bus can continue to travel under the VTL, and can continue to <a href="https://eservices.ica.gov.sg/STO1/VTL" target="_blank">apply for a Vaccinated Travel Pass if they do not already have one</a>. <b>There is no need to rush to apply as there is no limit on VTPs issued.</b></p>   
 
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">Travellers who are unable to secure designated VTL flights or buses to arrive in Singapore, should check the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page for alternative Safe Travel Lanes to use to enter Singapore. Prevailing border health measures such as Stay Home Notice will apply.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:20px;">Travellers who are unable to secure designated VTL flights or buses to arrive in Singapore, should check the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page for alternative Safe Travel Lanes to use to enter Singapore. Prevailing border health measures such as Stay Home Notice will apply.</p>
 </td>
  </tr>
 	 <tr>
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading QR codes to VTL application portal</b></td>
-		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;"><a href="/vtl/faq#invalidcode">Click Here</a> for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
+		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;"><a href="/vtl/faq#invalidcode">Click Here</a> for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
 <ol style="list-style-type:disc;">
-<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
-<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.</li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.</li>
 				 </ol>
 </td>
   </tr>	
 	<tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>No entry dates available in Application Portal</b></td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:20px;">There is no limit on the number of Vaccinated Travel Passes issued daily, and each pass is valid for a specific period from the chosen entry date. Interested applicants can refer to <a href="https://eservices.ica.gov.sg/STO1/VTL" target="_blank">this notice</a> for the current application window.</p>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">There is no limit on the number of Vaccinated Travel Passes issued daily, and each pass is valid for a specific period from the chosen entry date. Interested applicants can refer to <a href="https://eservices.ica.gov.sg/STO1/VTL" target="_blank">this notice</a> for the current application window.</p>
 
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">If you are unable to select an entry date for all other Safe Travel Lanes, you may consider applying for entry on another day or defer your travels.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">If you are unable to select an entry date for all other Safe Travel Lanes, you may consider applying for entry on another day or defer your travels.</p>
 </td>
  </tr>
 		   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Specified work pass holders not allowed to use Vaccinated Travel Lane</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">From<b> 4 Dec 2021, 2359h</b>, the following groups of travellers are disallowed from applying for entry via the Vaccinated Travel Lane (Air)/(Land). Employers may secure the entry of these workers using the alternative lanes stated below:</p>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">From<b> 4 Dec 2021, 2359h</b>, the following groups of travellers are disallowed from applying for entry via the Vaccinated Travel Lane (Air)/(Land). Employers may secure the entry of these workers using the alternative lanes stated below:</p>
 <ol style="list-style-type:disc;">
-<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Non-Malaysian S Pass and Work Permit holders in the Construction, Marine Shipyard and Process (CMP) sector to use <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
-	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Workers staying in dormitories to apply for entry under the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a></li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Non-Malaysian S Pass and Work Permit holders in the Construction, Marine Shipyard and Process (CMP) sector to use <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
+	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Workers staying in dormitories to apply for entry under the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a></li>
 </ol>
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">All Vaccinated Travel Passes issued before 4 Dec 2359h, even for travel after 4 Dec 2359h, will be honored, and no further clarification is needed with the Safe Travel Office or MOM.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">All Vaccinated Travel Passes issued before 4 Dec 2359h, even for travel after 4 Dec 2359h, will be honored, and no further clarification is needed with the Safe Travel Office or MOM.</p>
 </td>
  </tr>
   </tbody>
   </table>
 
-Travelers can also check the <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> for other frequently asked questions and use the <a href="/arriving/overview#selfhelptool" target="_blank">self-help tool</a> for determining which Safe Travel Lanes to use to enter Singapore.
+<p style="font-size:18px; line-height:1.35;"> Travelers can also check the <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> for other frequently asked questions and use the <a href="/arriving/overview#selfhelptool" target="_blank">self-help tool</a> for determining which Safe Travel Lanes to use to enter Singapore.</p>
 
 
 <div id="checker"></div>
