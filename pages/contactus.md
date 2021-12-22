@@ -11,14 +11,14 @@ permalink: /contact-us
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">ICA does not request for payments in any form over the phone, or solicit for personal and credit card details. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
 </div>
 
-The SafeTravel website is designed to provide prospective travellers with the latest information and tools to plan their journey to and from Singapore. Readers who have landed on this page without browsing the rest of this website should begin their journey from the <a href="https://safetravel.ica.gov.sg/" target="_blank">SafeTravel Home Page</a>.
+<p style="line-height:1.35;">The SafeTravel website is designed to provide prospective travellers with the latest information and tools to plan their journey to and from Singapore. Readers who have landed on this page without browsing the rest of this website should begin their journey from the <a href="https://safetravel.ica.gov.sg/" target="_blank">SafeTravel Home Page</a>.</p>
 
 You can find the following forms of commonly requested support on this page:
 
-<ol style="list-style-type: decimal;">
-	<li><a href="#FAQ">Latest Travel Notices and Answers to Top FAQ</a></li> 
-	<li><a href="#checker">Application Status Checker</a></li>
-	<li><a href="#enquiry">SafeTravel Office Helpline Number and Enquiry Form</a></li>
+<ol style="list-style-type: decimal; line-height:1.35;">
+	<li style="line-height:1.35;"><a href="#FAQ">Latest Travel Notices and Answers to Top FAQ</a></li> 
+	<li style="line-height:1.35;"><a href="#checker">Application Status Checker</a></li>
+	<li style="line-height:1.35;"><a href="#enquiry">SafeTravel Office Helpline Number and Enquiry Form</a></li>
 </ol>
 
 
