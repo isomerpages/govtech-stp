@@ -528,7 +528,7 @@ label.box {
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 5: Stay in Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="5A"><label class="box" for="5A">&nbsp;&nbsp;<b>Stage 5A: Self-Isolate Pending OAT-PCR Results</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="5A"><label class="box" for="5A">&nbsp;&nbsp;<b>Stage 5A: Adhere to COVID-19 Safe Management Measures, Prepare Proof of Vaccination</b></label></div>
 <div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
     <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">You must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&B establishments, entering shopping malls, attending certain events etc.). You must also comply with all other <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">public health measures</a>. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>. Some activities in Singapore may require you to present a proof of vaccination.</p>
     <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>[SC/PRs with an overseas-issued vaccination certificate]</b> If you are unable to upload your vaccination certificate successfully during SG Arrival Card submission, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, to be eligible for VDS, Your vaccination status will be updated on your TraceTogether app.</p>
@@ -538,7 +538,7 @@ label.box {
 
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="5B"><label class="box" for="5B">&nbsp;&nbsp;<b>Stage 5B: Self-Isolate Pending OAT-PCR Results</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="5B"><label class="box" for="5B">&nbsp;&nbsp;<b>Stage 5B: Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</b></label></div>
 <div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require any post-arrival ARTs.</b></p>
 <table>
