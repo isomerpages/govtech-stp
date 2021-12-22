@@ -80,8 +80,9 @@ Similarly, there is no requirement to stay in Malaysia for a minimum period afte
 ### (b) Designated VTL (Land) Bus Services
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px; text-align:justify;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.5;">Notice:</p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Travellers intending to travel out of Singapore are advised to check the prevailing entry requirements of the destination. For the general advisory on all departures from Singapore, please visit the "<a href="/departing/overview">Departing from Singapore</a>" page.</p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.5;"><span style="color:red;"><b><u>Notice</u></b>:</span></p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours. </p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours. </p>
 </div>
 
 
