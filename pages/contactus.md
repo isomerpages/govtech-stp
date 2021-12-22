@@ -75,7 +75,7 @@ You can find the following forms of commonly requested support on this page:
   </tbody>
   </table>
 
-<p style="font-size:18px; line-height:1.35;"> Travelers can also check the <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> for other frequently asked questions and use the <a href="/arriving/overview#selfhelptool" target="_blank">self-help tool</a> for determining which Safe Travel Lanes to use to enter Singapore.</p>
+<p style="line-height:1.35;"> Travelers can also check the <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> for other frequently asked questions and use the <a href="/arriving/overview#selfhelptool" target="_blank">self-help tool</a> for determining which Safe Travel Lanes to use to enter Singapore.</p>
 
 
 <div id="checker"></div>
