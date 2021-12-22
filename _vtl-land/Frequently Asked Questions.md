@@ -40,7 +40,7 @@ description: ""
 
 #### 1. I have an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass). Am I allowed to travel under the VTL (Land)?
 
-IPA holders are not eligible to utilise the VTL (Land) for travel to Singapore, unless they are Malaysia citizens. However, they may still travel to Singapore with necessary approvals under the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a> and will be subject to the prevailing border measures upon entry into Singapore, including any Stay-Home Notice (SHN) and COVID-19 test requirements.
+IPA holders are not eligible to utilise the VTL (Land) for travel to Singapore, unless they are Malaysia Citizens. However, they may still travel to Singapore with necessary approvals under the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a> and will be subject to the prevailing border measures upon entry into Singapore, including any Stay-Home Notice (SHN) and COVID-19 test requirements.
 
 #### 2. If I am a Singapore Citizen, Singapore Permanent Resident or Holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land), can I use the VTL (Land) to return to Malaysia?
 
@@ -64,9 +64,9 @@ Otherwise, your family member will not be allowed to accompany you. During the i
 
 #### 4. If I am a Malaysia Citizen, Malaysia Permanent Resident or holder of a Malaysia Long-Term Pass entering Malaysia using the VTL (Land), can I use the VTL (Land) to re-enter to Singapore?
 
-With effect from <b>19 December 2021, 2359hrs</b>, Malaysia Citizens can enter Singapore under VTL (Land).
+Malaysia Citizens can enter Singapore under VTL (Land).
 
-Malaysia Permanent Residents or holder of a Malaysia Long-Term pass are not allowed to enter Singapore under VTL (land) unless they are a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term pass.
+Malaysia Permanent Residents or holder of a Malaysia-issued long-term pass are not allowed to enter Singapore under VTL (land) unless they are a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term pass.
 
 #### 5. Must I stay in Singapore for a minimum period after I enter Singapore under the VTL (Land)?
 
