@@ -276,7 +276,7 @@ No, travellers should seek assistance from their Host to make the purchases on t
 
 #### 29. What happens if I do not comply with the terms and conditions for the SafeTravel Pass? 
 
-The Singapore Government takes a serious view of non-compliance with SafeTravel terms and conditions and prevailing health measures. Non-compliance with any of the conditions of the SafeTravel Pass may result in refusal of entry into Singapore and/or cancellation of the SafeTravel Pass. The traveller and the Host shall be jointly liable for and bear all costs incurred for the cost of repatriation, as well as cost of custody and care pending repatriation. Furture SafeTravel Pass aplications may also be rejected. 
+The Singapore Government takes a serious view of non-compliance with SafeTravel terms and conditions and prevailing health measures. Non-compliance with any of the conditions of the SafeTravel Pass may result in refusal of entry into Singapore and/or cancellation of the SafeTravel Pass. The traveller and the Host shall be jointly liable for and bear all costs incurred for the cost of repatriation, as well as cost of custody and care pending repatriation. Future SafeTravel Pass applications may also be rejected. 
 
 <div id="return"></div>
 
