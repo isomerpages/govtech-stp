@@ -118,9 +118,9 @@ You can find the following forms of commonly requested support on this page:
 
 ### SafeTravel Office Helpline and Query Form
 
-You can contact the SafeTravel Office for assistance you have application issues or are unable to find the relevant information on the SafeTravel website (including <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> and notices above).
+<p style="line-height:1.35;">You can contact the SafeTravel Office for assistance you have application issues or are unable to find the relevant information on the SafeTravel website (including <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> and notices above).</p>
 
-To assist you better, please refer to the table below for the most appropriate support channel.
+<p style="line-height:1.35;">To assist you better, please refer to the table below for the most appropriate support channel.</p>
 
 <table>
 <thead>
@@ -131,28 +131,28 @@ To assist you better, please refer to the table below for the most appropriate s
 </thead>
 <tbody>
 	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Call SafeTravel Enquiry Helpline Number: <br> 
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;  line-height:1.35; ">Call SafeTravel Enquiry Helpline Number: <br> 
 		<b>+65 6812 5555*</b><br> 
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;"><i>(* Regular call charges apply)</i></p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i>(* Regular call charges apply)</i></p>
 </td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px; ">
-<li style="font-size:18px; line-height:1.4; margin-top:0px; margin-bottom:10px;">COVID-19 Test Scheduling Issues</li>
-	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
-<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Clarification on <a href="/arriving/overview#lanelist" target="_blank">Lane-specific Entry Requirements</a></li>
+<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">COVID-19 Test Scheduling Issues</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Clarification on <a href="/arriving/overview#lanelist" target="_blank">Lane-specific Entry Requirements</a></li>
 				 </ol>
 </td>
   </tr>
 	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;"><a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">SafeTravel Enquiry Form</a> with supporting documents </td>
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;  line-height:1.35; "><a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">SafeTravel Enquiry Form</a> with supporting documents </td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px;">
-<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Refund or fee waiver requests</li>
-<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Entry Appeals into Singapore </li>
-	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Technical issues during application submission, e.g. Vaccination QR Code rejection</li>
-	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Submission of proof of vaccination as part of the Vaccinated Travel Pass (Air) application for travellers arriving from the United States</li>
-	<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Stay-Home Notice Dedicated Facility (SDF) special request</li>
-		<li style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:10px;">Difficulties getting a COVID-19 test before departure</li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Refund or fee waiver requests</li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals into Singapore </li>
+	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Technical issues during application submission, e.g. Vaccination QR Code rejection</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Submission of proof of vaccination as part of the Vaccinated Travel Pass (Air) application for travellers arriving from the United States</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Stay-Home Notice Dedicated Facility (SDF) special request</li>
+		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Difficulties getting a COVID-19 test before departure</li>
 				 </ol>
 </td>
   </tr>	
