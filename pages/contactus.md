@@ -87,30 +87,30 @@ You can find the following forms of commonly requested support on this page:
 
 <div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:20px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank"><b>Application status checker</b></a></div>
 
-For reference, the list of lanes/passes covered by the checker tool are the following: 
+<p style="line-height:1.35;">For reference, the list of lanes/passes covered by the checker tool are the following: </p>
 
 <table style="margin-bottom:0px;">
   <tr>
 		<td>
 			<ul>
-				<li>Air Travel Pass</li>
-				<li>Familial Ties Lane</li>
-				<li>Periodic Commuting Arrangement</li>
-				<li>Reciprocal Green Lane</li>
-				<li>Student's Pass Holder Lane</li>
+				<li style="line-height:1.35;">Air Travel Pass</li>
+				<li style="line-height:1.35;">Familial Ties Lane</li>
+				<li style="line-height:1.35;">Periodic Commuting Arrangement</li>
+				<li style="line-height:1.35;">Reciprocal Green Lane</li>
+				<li style="line-height:1.35;">Student's Pass Holder Lane</li>
 			</ul>
 		</td>
 		    <td>
 					<ul>
-				<li>Vaccinated Travel Lane (Air)</li>
-				<li>Vaccinated Travel Lane (Land)</li>
-				<li>Work Pass Holder General Lane*</li>
+				<li style="line-height:1.35;">Vaccinated Travel Lane (Air)</li>
+				<li style="line-height:1.35;">Vaccinated Travel Lane (Land)</li>
+				<li style="line-height:1.35;">Work Pass Holder General Lane*</li>
 			</ul>
 		</td>
   </tr>
 	</table>
 
-<p style="margin-top:0px;"><i>*Please contact MOM for assistance if an entry application was made directly with MOM.</i></p>
+<p style="margin-top:0px; line-height:1.35;"><i>*Please contact MOM for assistance if an entry application was made directly with MOM.</i></p>
 
 
 <div id="enquiry"></div>
