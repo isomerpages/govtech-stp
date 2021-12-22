@@ -184,6 +184,7 @@ input:checked + label + .content {
 			</li>
 	</ol>
 	</p>
+<p style="line-height:1.4; font-size:18px;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia <b> from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours.</b> Travellers who have already secured a VTL (Land) bus ticket are unaffected and will be allowed to enter Singapore via VTL (Land) </p>
 	</div>
 </body>
 </html>
@@ -296,7 +297,6 @@ input:checked + label + .content {
 
 <div id="ltph" class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.4; font-size:18px; ">Singapore-issued Long-Term Pass Holders should <b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (LAND) (VTP LAND)</b>.</p>
-	<p style="line-height:1.4; font-size:18px; ">Malaysian Citizens who do not hold a Singapore-issued long-term pass or are not Singapore PRs may only apply for a VTP Land from <b>17 December 2021, 0800hrs</b></p>
 	<p style="line-height:1.4; margin-top:20px; font-size:18px; ">Please note the following before applying:
 		<ol style="margin-top:0px; list-style-type:disc;">
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> <b>Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
