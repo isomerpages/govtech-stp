@@ -40,14 +40,14 @@ description: ""
 
 #### 1. I have an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass). Am I allowed to travel under the VTL (Land)?
 
-IPA holders are not eligible to utilise the VTL (Land) for travel to Singapore, unless they are Malaysia Citizens. However, they may still travel to Singapore with necessary approvals under the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a> and will be subject to the prevailing border measures upon entry into Singapore, including any Stay-Home Notice (SHN) and COVID-19 test requirements.
+IPA holders are not eligible to utilise the VTL (Land) for travel to Singapore, unless they are Malaysia citizens. However, they may still travel to Singapore with necessary approvals under the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a> and will be subject to the prevailing border measures upon entry into Singapore, including any Stay-Home Notice (SHN) and COVID-19 test requirements.
 
 #### 2. If I am a Singapore Citizen, Singapore Permanent Resident or Holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land), can I use the VTL (Land) to return to Malaysia?
 
 Travellers who use the VTL (Land) to enter Singapore can only return to Malaysia under the VTL (Land) if they meet the entry requirements for Malaysia, as follows:
 
 <ol style="list-style-type:lower-alpha; padding-left:25px;">
-	<li style="line-height:1.5;">Malaysia Citizen, <!--Malaysia Permanent Resident-->holder of a Malaysia Long-Term Pass or (with effect from <b>19 December 2021, 2359hrs</b>) Singapore Citizen;</li>
+	<li style="line-height:1.5;">Malaysia Citizen, <!--Malaysia Permanent Resident-->holder of a Malaysia Long-Term Pass or Singapore Citizen;</li>
 <li style="line-height:1.5;">Fully vaccinated with a vaccine recognised by the Malaysia Ministry of Health;</li>
 	<li style="line-height:1.5;">Holds a proof of vaccination accepted by the Government of Malaysia;</li>
 	<li style="line-height:1.5;">Remains in Singapore and/or Malaysia for the last 14 consecutive days before departing for Malaysia; and</li>
@@ -58,7 +58,7 @@ For more details, travellers should consult the <a href="https://mysafetravel.go
 
 #### 3. I am a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land). Can my spouse, child or family member who is not a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass accompany me to enter Singapore under the VTL (Land)?
 
-With effect from <b>19 December 2021, 2359hrs</b>, your family member can accompany you to enter Singapore under the VTL (Land), only if he or she is a Malaysia Citizen.
+Your family member can accompany you to enter Singapore under the VTL (Land), only if he or she is a Malaysia Citizen.
 
 Otherwise, your family member will not be allowed to accompany you. During the initial phase of the VTL (Land), only citizens of both countries, along with permanent residents and long-term pass holders of the country that they are entering are eligible to travel under this arrangement. Given the high demand for cross-border land travel, we are prioritising persons who have been impacted by COVID-19 and separated from their families for many months during the initial phase.
 
