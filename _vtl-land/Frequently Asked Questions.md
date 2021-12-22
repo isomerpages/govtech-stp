@@ -79,6 +79,7 @@ Similarly, there is no requirement to stay in Malaysia for a minimum period afte
 
 ### (b) Designated VTL (Land) Bus Services
 
+
 <div style="padding-left: 5px; padding-bottom: 20px; padding:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px; text-align:justify;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.5;"><span style="color:red;"><b><u>Notice</u></b>:</span></p>
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.5;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia <b>from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours.</b></p>
@@ -168,9 +169,7 @@ If your particulars have changed, please write to the Safe Travel Office using t
 
 You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, it will automatically expire.
 
-#### 7. From when can Malaysia Citizens apply for a VTP?
 
-Travellers entering Singapore who are not Singapore Citizens nor Singapore Permanent Residents will need to apply for a Vaccinated Travel Pass (VTP). Holders of Singapore-issued Long-Term Passes can already apply for a VTP, while Malaysia Citizens who are not holders of Singapore-issued Long-Term Passes can do so <b>from 17 December 2021</b>.
 
 <div id="requirements"></div>
 
