@@ -75,7 +75,7 @@ If you have already applied for entry into Singapore under any of the following 
   </tbody>
   </table>
 
-Travelers can also check the <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> for other frequently asked questions and use the self-help tool for determining which Safe Travel Lanes to use to enter Singapore.
+Travelers can also check the <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> for other frequently asked questions and use the <a href="" target="_blank">self-help tool</a> for determining which Safe Travel Lanes to use to enter Singapore.
 
 
 <div id="checker"></div>
