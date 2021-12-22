@@ -8,10 +8,13 @@ description: ""
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>Travellers intending to travel <u>out</u> of Singapore to a VTL (Air) country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For useful information regarding preparing to depart from Singapore (e.g. obtaining pre-departure tests, vaccination certificates), please visit the, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</b></span></p>
 </div>
 
-<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b><u>IMPORTANT UPDATE</u></b></span></p>
-		<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">With effect from 22 December 2021, 2359hrs (SGT), there will be no new ticket sales for designated VTL (Air) flights for entry into Singapore from all VTL countries until 20 January 2022, 2359hrs (SGT). Travellers who have booked a ticket on a VTL (Air) flight before 22 December 2021, 2359hrs (SGT) will continue to be allowed to enter Singapore under the VTL (Air), provided they meet all VTL (Air) conditions.</p>
-</div>
+<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>IMPORTANT UPDATE</u></b></p>
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">
+			From <b>22 December 2021, 2359hrs (SGT)</b>, there will be no new ticket sales for all designated VTL (Air) flights for entry into Singapore until 20 January 2022, 2359hrs (SGT). Ticket sales for entry from 21 January 2022 will also be temporarily reduced.</p>
+<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">Travellers who already hold a ticket for a VTL flight can continue to enter Singapore under the VTL (Air) on their originally planned date, provided they meet all VTL (Air) conditions. Applications for the Vaccinated Travel Pass (Air) will remain open.</p>
+<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;"><b>VTL (Air) travellers are reminded to adhere to the requirements of the 7-day mandatory daily testing regime outlined in the <a href="/vtl/travel-checklist" target="_blank">VTL (Air) Checklist</a> after arrival</b>, otherwise they will face enforcement actions under the Infectious Diseases Act.</p>
+	</div>
 
 ### Vaccinated Travel Lane (Air) Travel Checklist
 

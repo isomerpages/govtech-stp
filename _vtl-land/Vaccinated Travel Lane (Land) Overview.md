@@ -10,7 +10,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 	<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.4;color:black;">Travellers who have already booked a Vaccinated Travel Lane (Land) bus tickets are unaffected and will be allowed to enter Singapore under the VTL (Land). Applications for <a href="https://go.gov.sg/vtl-portal" target="_blank">Vaccinated Travel Passes</a> will remain open during this period, and travellers do not need to rush to apply.</p>
 	</div>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] allows quarantine-free travel to Singapore via the Causeway. Travellers intending to utilise the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> to travel to Singapore via air should apply for a VTP (Air) Pass. <b>Approvals are not interchangeable</b> . A separate application for VTP (Land) is required if entering Singapore by land.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] allows quarantine-free travel to Singapore via the Causeway. Travellers intending to utilise the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> to travel to Singapore via air should apply for a VTP (Air) Pass. <b>Approvals are not interchangeable</b>.</p>
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.4;">Travellers holding an existing valid entry approval letter under other SafeTravel Lanes but wish to apply for entry under the Vaccinated Travel Lane (Air/Land) should write in <a href="http://go.gov.sg/sto-enquiry" target="_blank">via the SafeTravel Enquiry Form</a> for assistance. You can download the infographics <a href="/files/Singapore-Malaysia Vaccinated Travel Lane_Land.pdf" target="_blank">here</a> for an overview of VTL (Land) requirements.</p>
 
@@ -184,7 +184,7 @@ input:checked + label + .content {
 			</li>
 	</ol>
 	</p>
-<p style="line-height:1.4; font-size:18px;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia <b> from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours.</b> Travellers who have already secured a VTL (Land) bus ticket are unaffected and will be allowed to enter Singapore via VTL (Land) </p>
+<p style="line-height:1.4; font-size:18px;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia <b> from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours.</b> Travellers who have already secured a VTL (Land) bus ticket are unaffected and will be allowed to enter Singapore via VTL (Land).</p>
 	</div>
 </body>
 </html>
@@ -285,7 +285,7 @@ input:checked + label + .content {
 </head>
 <body>
 <input class="test1" type="checkbox" id="title6" />
-<label class="test2" for="title6">Singapore Citizens (SC) / Permanent Residents (PR)</label>
+<label class="test2" for="title6">Singapore Citizens (SC) & Permanent Residents (PR)</label>
 
 <div id="scpr" class="content" style="background-color:#edf4fa;">	
 	<p style="line-height:1.4; font-size:18px; ">SC/PRs and unvaccinated children aged 12 and below in this calendar year do not need to apply for entry via VTL (Land). </p>
@@ -293,10 +293,10 @@ input:checked + label + .content {
 	</div>
 	
 <input class="test1" type="checkbox" id="title7"/>
-<label class="test2" for="title7">Holders of a Singapore Long-Term Pass, Non-Singapore Citizens (SCs) and Non-Singapore Permanent Residents (PRs)</label>
+<label class="test2" for="title7">Singapore-issued Long-Term Pass Holders & Malaysian Citizens</label>
 
 <div id="ltph" class="content" style="background-color:#edf4fa;">
-	<p style="line-height:1.4; font-size:18px; ">Singapore-issued Long-Term Pass Holders should <b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (LAND) (VTP LAND)</b>.</p>
+	<p style="line-height:1.4; font-size:18px; "><b><a href="https://go.gov.sg/vtl-portal" target="_blank">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (LAND) (VTP LAND)</b>.</p>
 	<p style="line-height:1.4; margin-top:20px; font-size:18px; ">Please note the following before applying:
 		<ol style="margin-top:0px; list-style-type:disc;">
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> <b>Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
