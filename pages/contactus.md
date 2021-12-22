@@ -16,9 +16,9 @@ The SafeTravel website is designed to provide prospective travellers with the la
 You can find the following forms of commonly requested support on this page:
 
 <ol>
-1)	<a href="#FAQ">Latest Travel Notices and Answers to Top FAQ</a> 
-2)	<a href="#checker">Application Status Checker</a>
-3)	<a href="#enquiry">SafeTravel Office Helpline Number and Enquiry Form</a>
+	<li><a href="#FAQ">Latest Travel Notices and Answers to Top FAQ</a></li> 
+	<li><a href="#checker">Application Status Checker</a></li>
+	<li><a href="#enquiry">SafeTravel Office Helpline Number and Enquiry Form</a></li>
 </ol>
 
 <div id="FAQ"></div>
