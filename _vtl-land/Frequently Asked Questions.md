@@ -81,7 +81,7 @@ Similarly, there is no requirement to stay in Malaysia for a minimum period afte
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px; text-align:justify;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.5;"><span style="color:red;"><b><u>Notice</u></b>:</span></p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.5;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours. </p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.5;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia <b>from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours.</b></p>
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Travellers who have already booked a VTL (Land) Designated bus ticket are unaffected and will be allowed to enter Singapore under VTL (Land). Applications for <A href="https://go.gov.sg/vtl-portal" target="_blank">Vaccinated Travel Passes</a> will remain open during this period, and travellers do not need to rush to apply.</p>
 </div>
 
