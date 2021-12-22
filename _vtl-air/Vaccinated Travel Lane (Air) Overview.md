@@ -5,9 +5,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>IMPORTANT UPDATE</u></b></p>
-		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">Travellers entering Singapore with effect from <b>6 December 2021, 2359hrs, SGT</b>, will also be required to undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on Days 2, 4, 5 and 6 of their arrival in Singapore. This is in addition to the supervised ARTs on Days 3 and 7.
-	</p>
-<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">S Pass and Work Permit holders in the Construction, Marine shipyard or Process (CMP) sector, or who will be staying in dormitories will not be allowed to apply for a Vaccinated Travel Pass (Air) [VTP (Air)]. This does not apply to Malaysians and female work pass holders. Those who have obtained prior approval will still be allowed to enter Singapore. Please <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/1204-ceasing-of-entry-of-cmp-workers-and-other-dormitory-bound-workers-via-vtls" target="_blank">click here</a> for more information.</p>
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">With effect from <b>22 December 2021, 2359hrs (SGT)</b>, there will be no new ticket sales for designated VTL (Air) flights for entry into Singapore from all VTL countries until 20 January 2022, 2359hrs (SGT). Travellers who have booked a ticket on a VTL (Air) flight before 22 December 2021, 2359hrs (SGT) will continue to be allowed to enter Singapore under the VTL (Air), provided they meet all VTL (Air) conditions.</p>
 	</div>
 
 <!--<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; background-color:#f8f8f8; border-style: solid; border-width: 1px; margin-bottom:20px;">
@@ -48,14 +46,15 @@ SC/PRs with travel history to countries that are not listed within the "Active V
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>Active VTL (Air) Countries/Regions</b></td>
 		</tr>
 	<tr>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>5</sup> and the United States<sup>6</sup>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, the Republic of Korea, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>6</sup> and the United States<sup>7</sup>
 		<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 <p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>4</sup>Including the Canary Islands</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>5</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>6</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>		
-		<p style="font-size:14px; margin-top:20px; margin-bottom:0px; line-height:1.35;"><b>Note: The Vatican City is an independent city state and is not considered part of Italy.</b></p>	
+		<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>3</sup>The Vatican City is an independent city state and is not considered part of Italy.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>4</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>5</sup>Including the Canary Islands</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>6</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>7</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>		
+		<!--<p style="font-size:14px; margin-top:20px; margin-bottom:0px; line-height:1.35;"><b>Note: The Vatican City is an independent city state and is not considered part of Italy.</b></p>-->	
 </td>
 	</tr>
 	</tbody>
@@ -265,7 +264,7 @@ input:checked + label + .content {
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any <a href="#countries"> VTL (Air) countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 14 consecutive days before departure for Singapore.
 		</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL (Air) flight (list of airlines approved to operate designated VTL (Air) flights is available in the in the <a target="_blank" href="/vtl/travel-checklist#flights">VTL (Air) Traveller’s Checklist</a>). Travellers should note that <b><u>not all flights departing from the VTL (Air) countries/regions and operated by the approved airlines are designated.</u></b> They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL (Air) flight (please click <a href="https://go.gov.sg/vtl-airlines" target="_blank">here</a> to check list of airlines approved to operate designated VTL (Air) flights). Travellers should note that <u><b>not all flights departing from the VTL (Air) countries/regions and operated by the approved airlines are designated</b></u>. They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights. With effect from <b>22 December 2021, 2359hrs (SGT)</b>, there will be no new ticket sales for designated VTL (Air) flights for entry into Singapore from all VTL countries until 20 January 2022, 2359hrs (SGT). Travellers who have booked a ticket on a VTL (Air) flight before 22 December 2021, 2359hrs (SGT) will continue to be allowed to enter Singapore under the VTL (Air), provided they meet all VTL (Air) conditions.</li>
 	</ol>
 </div>
 </body>
@@ -396,8 +395,8 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">They will need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or professionally administered Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 PCR test upon arrival at Singapore Changi Airport</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival supervised COVID-19 ARTs on Days 3 and 7</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 PCR test upon arrival at Singapore Changi Airport (S$125, <a href="https://safetravel.changiairport.com/" target="_blank">payment here</a>)</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival supervised COVID-19 ARTs on Days 3 and 7 (S$15 each)</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival self-administered COVID-19 ARTs on Days 2, 4, 5 and 6</li>
 	</ol> 
 </p>

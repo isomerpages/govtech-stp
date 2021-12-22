@@ -3,13 +3,8 @@ title: VTL (Land) Conditions
 permalink: /vtl-land/conditions
 description: ""
 ---
-<div style="padding-left: 5px; padding-bottom: 20px; padding:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px; text-align:justify;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b><u>Important Update</u></b></span></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> With effect from <b>19 December 2021, 2359hrs</b>, all Malaysia Citizens, including those who are not Singapore Permanent Residents or holders of Singapore-issued Long-Term Passes, will be allowed to enter Singapore via the VTL (Land). Travellers who are Malaysia Citizens and are not Singapore Permanent Residents or holders of Singapore-issued Long-Term Passes can apply for a Vaccinated Travel Pass (Land) [VTP (Land)] with effect from <b>17 December 2021, 0800hrs.</b></p>
-</div>
 
 ### Conditions of the Vaccinated Travel Lane Land [VTL (Land)]
-
 
 <ol style="line-height:1.5; padding-bottom:10px;">
 <li style="margin-bottom:10px;">A VTP is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li>

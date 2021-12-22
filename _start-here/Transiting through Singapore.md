@@ -7,9 +7,9 @@ description: Requirements for transiting through Singapore
 
 #### Eligibility
 
-<p style="font-size:20px; line-height:1.35;">Travellers can transit through Changi Airport (Singapore), if they are travelling with an airline whose transfer route via Singapore has been approved by the Civil Aviation Authority of Singapore (CAAS). <b>CAAS does not provide approvals for transfers directly to travellers.</b> Travellers are advised to obtain details on the transit arrangements directly from the airline before purchasing flight tickets.</p>
+<p style="font-size:20px; line-height:1.35;">Travellers are advised to check with their airlines if it has an approved transfer route through Singapore before purchasing tickets. <b>Travellers do not need to obtain approvals under any Safe Travel Lane (e.g. Vaccinated Travel Lane) to transit in Singapore.</b></p>
 
-<p style="font-size:20px; line-height:1.35;">Travellers with travel history to the following countries/regions within the past 14 days, are disallowed from transiting in Singapore until further notice:</p>
+<p style="font-size:20px; line-height:1.35;">Travellers with travel history to the following countries/regions within the past 14 days, are not allowed to transit via Singapore until further notice:</p>
 
 <ol style="margin-top:15px; list-style-type:disc">
 	   <li style="font-size:20px; line-height:1.35;">Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe.</li>
@@ -17,7 +17,7 @@ description: Requirements for transiting through Singapore
 
 <div id="PDT"></div>
 
-#### COVID-19 Test
+#### COVID-19 Pre-Departure Test
 
 <!-- <p style="font-size:20px; line-height:1.35;">Transit travellers with a 14-day travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (I) countries/regions</a> are <b>not</b> required to take a pre-departure COVID-19 test, 
 	<b>only if their scheduled time of arrival is before 2 Dec 2359h SGT.</b></p>-->
@@ -63,4 +63,4 @@ description: Requirements for transiting through Singapore
 
 #### Entry Visas
 
-<p style="font-size:20px; line-height:1.35;">Foreign travellers transiting in Singapore will not require entry visa. Transit passengers need to be through-checked to their onward destination. They will <b><u>not</u></b> be allowed to clear arrival immigration or collect their baggage.</p>
+<p style="font-size:20px; line-height:1.35;">Foreign travellers transiting in Singapore do not require entry visas. Transit passengers need to be through-checked to their onward destination. They will <b><u>not</u></b> be allowed to clear arrival immigration or collect their baggage.</p>

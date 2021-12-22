@@ -8,6 +8,11 @@ permalink: /vtl/faq
 		</b></span></p>
 </div>
 
+<div style="padding-left: 5px; padding-bottom: 20px; margin-top:20px; font-size:16px; line-height:1.0; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px; color:red;"><u><b>IMPORTANT UPDATE</b></u></p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.4;">With effect from 22 December 2021, 2359hrs (SGT), there will be no new ticket sales for designated VTL (Air) flights for entry into Singapore from all VTL countries until 20 January 2022, 2359hrs (SGT). Travellers who have booked a ticket on a VTL (Air) flight before 22 December 2021, 2359hrs (SGT) will continue to be allowed to enter Singapore under the VTL (Air), provided they meet all VTL (Air) conditions.</p>
+</div>
+
 
 ### Click to jump to the following sections:
 
@@ -146,6 +151,8 @@ You must be vaccinated to participate in certain activities in Singapore (e.g. d
 If you were <a href="/health/vtsg" target="_blank">fully vaccinated</a> in <b>Singapore</b>, you should be able to see your vaccination status on your TraceTogether and HealthHub apps. Your vaccination status will not expire. 
 
 If you were <a href="/health/vtsg" target="_blank">fully vaccinated</a> <b>overseas</b>, please upload your vaccination certificate successfully during SG Arrival Card submission, or present your overseas vaccination certificates at the immigration counter on-arrival. Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for at least 30 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at a <a href="https://phpc.gov.sg/" target="_blank">participating clinics</a> in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services.
+
+In view of the recent rise in Omicron cases globally, travellers should exercise personal responsibility, minimise their social interactions, and refrain from high-risk mask off activities (such as dining in F&B establishments, exercising in gyms and attending fitness classes), as well as avoid large gatherings and crowded places for 7 days from arrival, even if they have a negative daily ART result. Travellers who are unwell, including those showing early/mild symptoms should be socially responsible and seek medical attention immediately.
 
 Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministy of Health's FAQs on these measures.
 
@@ -817,6 +824,7 @@ Travellers withe EU DCCs issued in any European Union Member States or non-EU co
 
 <p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 test.</i></p>
 
+
 #### 1. Are travellers under the VTL (Air) required to take any pre-departure COVID-19 tests?
 
 All travellers, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
@@ -863,6 +871,8 @@ The total transit duration comprises ground time <u>only</u> and does not includ
 
  
 ### (d) Designated VTL (Air) Flights
+
+<p style="font-size:16px; color:red;line-height:1.4;"><i>Note: With effect from 22 December 2021, 2359hrs (SGT), there will be no new ticket sales on designated VTL (Air) flights for entry into Singapore from all VTL countries until 20 January 2022, 2359hrs (SGT). Travellers who have booked a ticket on a VTL (Air) flight before 22 December 2021, 2359hrs (SGT) will continue to be allowed to enter Singapore under the VTL (Air), provided they meet all VTL (Air) conditions.</i></p>
 
 <!--#### 1. What are the designated VTL flights?
 
@@ -1133,7 +1143,7 @@ Please also note that if a traveller’s test result is confirmed to be positive
 
 ### (f) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)
 
-<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo post-arrival ARTs.<br><br>Travellers entering Singapore with effect from 6 December 2021, 2359hrs, SGT, will also be required to undergo self-administered COVID-19 ARTs using self-procured ART kits on Days 2, 4, 5 and 6 of their arrival in Singapore. This is in addition to the supervised ARTs on Days 3 and 7.</span></i></p>
+<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo post-arrival ARTs.</span></i></p>
 
 ### GENERAL MATTERS
 
@@ -1593,23 +1603,39 @@ A VTP application may be unsuccessful for reasons such as:
 - <a href="/vtl/faq#invalidcode" target="_blank">Invalid vaccination QR code</a>
 - Incomplete and/or incorrect information submitted
 - Passport validity is less than 6 months
+
+
+#### 10. I have made a booking on a designated VTL (Air) flight and meet the requirements under VTL (Air). However, I am unable to obtain a VTP (Air) for my intended date of entry. Can I still travel to Singapore under the VTL (Air) on the designated VTL flight? 
+
+Short-Term Visitors and Long-Term Pass Holders must obtain a VTP (Air) to travel to Singapore under the VTL (Air), even if they meet the conditions of the VTL (Air). They will not be allowed to board a designated VTL (Air) flight if they are unable to present a valid VTP (Air).
+
+Singapore Citizens and Permanent Residents do not need to apply for a VTP (Air) to travel to Singapore under the VTL (Air), as they can return to Singapore on a VTL (Air) flight without the need for entry approval, provided they meet the VTL (Air) conditions.
+
  
-#### 10. How do I change the validity of my VTP (Air)?
+#### 11. How do I change the validity of my VTP (Air)?
 
 A VTP (Air) is valid for single entry into Singapore anytime from your intended date of entry and up to six calendar days after.
 If your travel plans change and you need to enter before or after the validity period, please submit a new VTP (Air) application. 
 
 Should you require assistance to seek urgent entry into Singapore within the next 6 days, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555. Kindly note that all appeals are assessed on a case-by-case basis. 
 
-#### 11. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP (Air) application?
+#### 12. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP (Air) application?
 
 If your particulars have changed, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> with your revised particulars.
 
-#### 12. How can I cancel my VTP (Air) as I no longer wish to travel to Singapore?
+#### 13. How can I change my passport number on my VTP (Air)?
+
+You will not be able to change the passport number on an existing VTP (Air). Please submit a new application with the correct details reflected. Do note that travellers with an inaccurate passport number on their VTP (Air) may be denied boarding and entry into Singapore.
+
+If your intended date of entry is no longer available on the VTP (Air) application portal, please adjust your travel plans. You will not be allowed to board a designated VTL (Air) flight if you are unable to present a valid VTP (Air).
+
+
+#### 14. How can I cancel my VTP (Air) as I no longer wish to travel to Singapore?
 
 You do not need to cancel your VTP (Air). If you do not utilise your VTP (Air) within the validity period, it will automatically expire.
 
-#### 13. Can travellers use the VTP (Air) to transit/transfer through Singapore?
+
+#### 15. Can travellers use the VTP (Air) to transit/transfer through Singapore?
 
 No, the VTP (Air) is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
