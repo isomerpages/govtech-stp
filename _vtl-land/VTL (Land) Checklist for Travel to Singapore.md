@@ -3,12 +3,16 @@ title: VTL (Land) Checklist for Travel to Singapore
 permalink: /vtl-land/travel-checklist
 description: ""
 ---
-<!--<span style="font-size:32px; color:red;">&#9888;</span> This step-by-step checklist is for all VTL (Land) travellers, including Singapore Citizens (SC) and Singapore Permanent Residents (PR), entering Singapore via a designated VTL (Land) bus through the Causeway.-->
+
+<div id="notice" style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red;"><b><u>NOTICE</u></b></p>
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.4;color:black;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia <b> from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours.</b></p>
+	<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.4;color:black;">Travellers who have already booked a Vaccinated Travel Lane (Land) bus tickets are unaffected and will be allowed to enter Singapore under the VTL (Land). Applications for <a href="https://go.gov.sg/vtl-portal" target="_blank">Vaccinated Travel Passes</a> will remain open during this period, and travellers do not need to rush to apply.</p>
+	</div>
 
 ### VTL Land Travel Checklist 
 
-<p style="font-size:18px; line-height:1.35; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>&#10003;</b></span>&nbsp; For travellers including Singapore Citizens, Permanent Residents, and holders of a Singapore-issued Long-Term Pass entering Singapore via the Causeway taking designated buses for the VTL (Land).</p>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>&#10003;</b></span>&nbsp; For travellers who are Malaysia Citizens entering Singapore from 19 Dec 2021, 2359hours, via the Causeway taking designated buses for the VTL (Land).</p>
+<p style="font-size:18px; line-height:1.35; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>&#10003;</b></span>&nbsp; For travellers including Singapore Citizens, Permanent Residents, holders of a Singapore-issued Long-Term Pass and Malaysia Citizens entering Singapore via the Causeway taking designated buses for the VTL (Land).</p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.35;"><span style="font-size:20px;  color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers arriving in Singapore by plane &#9992;. Fully vaccinated travellers who intend to fly from Malaysia to Singapore should check the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> for more details. </p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><span style="font-size:20px; color:red;"><b>&#10005;</b></span> &nbsp; Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine Shipyard or Process (CMP) Sector and workers staying in dormitories</p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><span style="font-size:20px; color:red;"><b>&#10005;</b></span> &nbsp; Not for travellers leaving Singapore. Travellers who intend to leave Singapore using the VTL (Land) should visit the "<a href="/vtl-land/outbound-travel">Vaccinated Travel Lane (Land) for Travel to Malaysia</a>" page for more details.</p>
@@ -33,6 +37,9 @@ description: ""
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B"><label for="1B">&nbsp;&nbsp;<b>(1B) Secure Tickets for a Designated VTL (Land) Bus Service</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; background-color:#f5f5f5; border-style: solid; border-width: 1px; text-align:center;">
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red; text-algin:center;"><b><u><a href="#notice">SEE NOTICE</a></u></b></p>
+	</div>	
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">&#9200; &nbsp; <b>Purchase tickets <u>at least 1 day</u> before arrival in Singapore</b></p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated bus service offered by the operators below*.</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
