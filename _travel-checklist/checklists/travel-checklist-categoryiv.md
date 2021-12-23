@@ -2,16 +2,15 @@
 title: Travel Checklist - Category(IV)
 permalink: /travel-checklist/category-4
 ---
-<i>Readers who have arrived on this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page. Travellers who do not meet the entry requirements may be turned away from Singapore. </i>
 
-### Travel Checklist – Category (IV) Travel History
+### Instructions for the use of the Category (IV) Travel History Checklist 
 
-This checklist is **only** suitable for travellers with travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (IV) country/region</a>* in the past 14 days before arrival in Singapore. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane (Air/Land) or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
+This checklist covers the pre-departure to post-arrival process for travellers who(se):
 
-*<i>Entry bans apply to non-Singapore Citizen / Singapore Permanent Residents with travel history to Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe.</i>
+<span style="margin-left:20px;"> ☐ i.</span> Are travelling to Singapore via the Returning Singapore Citizens/Permanent Residents Lane, Familial Ties Lane, or Student’s Pass Holder Lane; <b>AND</b>
+<span style="margin-left:20px;"> ☐ ii.</span> 14-day travel history, excluding transits less than 24 hours, includes <a href="/shn-and-swab-summary" target="_blank">any Category (IV) country/region in the past 14 days before arrival in Singapore</a>. <i>[<b style="color:red;">Note:</b> Entry bans for non-Singapore Citizen/Singapore Permanent Residents with a travel history to Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe will cease <b>from 26 Dec 2021, 2359h</b>.]</i>
 
-
-Travellers can check the box **(&#9744;)** for completed activities.
+Travellers who do not meet the above conditions should refer to the checklist specific to their travel arrangement or approval letters for travel instructions. To use this checklist, travellers should check the box **(&#9744;)** for completed activities.
 
 ### Stage 1: Pre-Departure for Singapore
 
