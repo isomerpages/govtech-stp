@@ -34,22 +34,22 @@ Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, 
 <table>
   <tbody>
     <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Direct Flights</b></td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;"><b>Direct Flights</b></td>
 	  </tr>
 	      <tr>
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller A is scheduled to depart for Singapore on 3 Nov 2021. The earliest he should take his PDT is on 1 Nov 2021. <br><br> In other words, all PDTs taken on 1 Nov 2021 is valid for departures up to 3 Nov 2021, 2359h.</td>
 	  </tr>
 	      <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Flights with a less than 24-hour Transit Period to Singapore</b></td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a less than 24-hour Transit Period to Singapore</b></td>
 	  </tr>
 	  	      <tr>
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller B is scheduled for departure from the Los Angeles International Airport (LAX) on 3 Nov 2021. He will transit to Singapore via Narita Airport (NRT) for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from LAX. <br><br> His PDT taken on 1 Nov 2021 at LAX will be valid for departures up to 3 Nov 2021, 2359h.</td>
 	  </tr>	  
 	  	      <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Flights with a Transit Period exceeding 24 hours</b></td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a Transit Period exceeding 24 hours</b></td>
 	  </tr>
 	  	  	      <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller C is scheduled for departure from the Los Angeles International Airport (LAX) on 3 Nov 2021. He will transit to Singapore via Narita Airport (NRT) for a period lasting more than 24 hours. In this scenario, he will take his PDT at NRT, within 2 days before his connecting flight to Singapore.</td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller C is scheduled for departure from the Los Angeles International Airport (LAX) on 3 Nov 2021. He will transit to Singapore via Narita Airport (NRT) for a period lasting more than 24 hours. In this scenario, he will take his PDT at NRT, within 2 days before his connecting flight to Singapore.</td>
 	  </tr>	  
   </tbody>
 	</table>
