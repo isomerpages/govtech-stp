@@ -23,7 +23,7 @@ On this page, you will find the following key information on the WPHL.
 
 ### 1. Eligibility
 
-The following traveller types are eligible to travel under the WPHL. All pass holders and their dependants entering under WPHL, regardless of travel history, must be fully vaccinated before arrival. Please read the <a href="wphl/vaccination-requirements" target="_blank">vaccination requirements</a> carefully. Ineligible travellers should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.
+The following traveller types are eligible to travel under the WPHL. All pass holders entering under WPHL, regardless of travel history, must be fully vaccinated before arrival. Please read the <a href="wphl/vaccination-requirements" target="_blank">vaccination requirements</a> carefully. Ineligible travellers should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.
 
 <ol style="list-style-type:decimal;">
 <li style="line-height:1.5;">Confinement nannies</li>
@@ -67,6 +67,16 @@ Different pass holders will have different application requirements. Please read
 Please note that:
 - Application window is 3 to 60 days before planned date of arrival in Singapore.
 - Approval is valid for +/- 1 day from the planned date of arrival to accommodate possible flight changes.
+
+Pass holders who are serving their Stay-Home Notice (SHN) or self-isolation from 20 Dec 2021, must recover or self-isolate at their current accommodation, if any of the following happens: 
+- COVID-19 Polymerase Chain Reaction (PCR) test result is positive.
+- COVID-19 Antigen Rapid Test (ART) result is positive
+- They are identified as close contacts of a COVID-19 case and have received a Health Risk Warning (HRW).
+
+For confirmed or suspected cases of Omicron and their close contacts, a differentiated approach will be adopted. 
+
+Please refer to <a href="https://www.stb.gov.sg/content/stb/en/media-centre/media-releases/REVISED-PROTOCOLS-FOR-TRAVELLERS-RESIDING-IN-HOTELS-WHO-TEST-POSITIVE-FOR-COVID-19-OR-ARE-IDENTIFIED-AS-CLOSE-CONTACTS-OF-COVID-19-CASES.html" target="_blank">STB webstie</a> for more details. 
+
 
 <table>
 <thead>
@@ -159,4 +169,4 @@ Click on the relevant links to MOM’s website for:
 - <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">Pass related matters (e.g. IPA extensions, pass issuance or renewals)</a>
 - <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">Entry applications for CMP workers</a>
 
-If your questions are not addressed by the FAQs above, you can submit your question <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>.
+<!--If you have applied for entry via the Work Pass Holder Lane with the Safe Travel Office, you may check the status of your application <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">here</a>.--> All applications submitted to MOM should be enquired with the Ministry directly. If your questions are not addressed by the FAQs above, you can submit your question <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>.
