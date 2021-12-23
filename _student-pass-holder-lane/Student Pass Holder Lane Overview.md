@@ -37,7 +37,7 @@ The table below provides a quick overview of the key STPHL features, requirement
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 14-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed, except Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe.</p>
+			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed.  <br><br> Entry bans for arrival from Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe, will be lifted from 26 Dec 2021, 2359hrs.</p>
 		 </td>
  </tr>
 </tbody><thead>
@@ -47,7 +47,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </thead>
 <tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Applicant</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers themselves
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers themselves <br><br><i>[<b>Note:</b>Fully vaccinated travellers may opt for entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank">(Land)</a>, if eligible, to enjoy quarantine-free entry.]</i>
 </td>
 </tr>
 <tr>
@@ -114,21 +114,21 @@ The table below provides a quick overview of the key STPHL features, requirement
 </thead>
 <tbody>
 	<tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, swabs to be taken)</td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.<br/><br/><span style="font-size:25px;">⚠</span><i> Travellers with <a href="shn-and-swab-summary" target="_blank">Category (II) or (III) travel history</a> are required to source for their own accommodation to serve a Stay Home Notice (SHN). Those who plan to book a self-sourced hotel are reminded to inform the hotel that they are serving a SHN and ensure that the hotel can accommodate them, before making a booking.</i>
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, tests needed)</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.<br/><br/><span style="font-size:25px;">⚠</span><i> Travellers with <a href="shn-and-swab-summary" target="_blank">Category (II) or (III) travel history</a> must source for their own accommodation to complete their Stay Home Notice (SHN). Those who plan to serve their SHN at a hotel should only make a booking after confirming with the hotel that it can accommodate SHN-serving guests. </i>
 		
 		</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller's Checklist</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">These checklists provide a step-by-step guide to help the traveller prepare for the various administrative and travel/health-related protocols that the traveller wil be subject to <b>before and during the traveller's stay</b> in Singapore:
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">These checklists will guide travellers through the pre-departure to post-arrival administrative and health-related processes required by Singapore:
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/travel-checklist/category-1">Category (I) travel history</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/travel-checklist/category-2">Category (II) travel history</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/travel-checklist/category-3">Category (III) travel history</a></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/travel-checklist/category-4">Category (IV) travel history</a></li>
 </ol>
-<p style="font-size:16px; line-height:1.5;">Please read only after determining the <a href="/shn-and-swab-summary">travel health control measures</a> (as per row above) the traveller will be subject to.</p>
+<p style="font-size:16px; line-height:1.5;">Travellers should refer to the checklist after determining which <a href="/shn-and-swab-summary" target="_blank">travel health control measures</a> they are subject to.</p>
 	</td>
 </tr>
 	<tr>
@@ -139,7 +139,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#pcrtest">COVID-19 PCR test</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/vtsg">Travellers Vaccinated Overseas</a></li>
 </ul>	
-<p style="font-size:16px; line-height: 1.5;">Click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for information on Visas and Visit Pass validity, <a href="https://www.ica.gov.sg/reside/STP/apply">here</a> for information on Student’s Passes, or <a href="https://www.ica.gov.sg/enter-depart/extend_short_stay">here</a> for information on short-term passes.</p>
+<p style="font-size:16px; line-height: 1.5;">Click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for information on Visas and Visit Pass validity, <a href="https://www.ica.gov.sg/reside/STP/apply">here</a> for information on Student’s Passes, or <a href="https://www.ica.gov.sg/enter-depart/extend_short_stay">here</a> for information on short-term passes. To check the status of your application <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
  </td>
 </tr>
 <tr>
