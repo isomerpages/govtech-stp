@@ -7,7 +7,7 @@ permalink: /travel-checklist/category-4
 
 This checklist covers the pre-departure to post-arrival process for travellers who(se):
 
-<p style="margin-left:20px;margin-bottom:20px; line-height:1.5;"> ☐ i. Are travelling to Singapore via the Returning Singapore Citizens/Permanent Residents Lane, Familial Ties Lane, or Student’s Pass Holder Lane; <b>AND</b></p>
+<p style="margin-left:20px;margin-bottom:10px; line-height:1.5;"> ☐ i. Are travelling to Singapore via the Returning Singapore Citizens/Permanent Residents Lane, Familial Ties Lane, or Student’s Pass Holder Lane; <b>AND</b></p>
 <p style="margin-left:20px; line-height:1.5;"> ☐ ii. 14-day travel history, excluding transits less than 24 hours, includes <a href="/shn-and-swab-summary" target="_blank">any Category (IV) country/region in the past 14 days before arrival in Singapore</a>. <i>[<b style="color:red;">Note:</b> Entry bans for non-Singapore Citizen/Singapore Permanent Residents with a travel history to Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe will cease <b>from 26 Dec 2021, 2359h</b>.]</i></p>
 
 Travellers who do not meet the above conditions should refer to the checklist specific to their travel arrangement or approval letters for travel instructions. To use this checklist, travellers should check the box **(&#9744;)** for completed activities.
@@ -56,34 +56,39 @@ Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, 
 An acceptable PDT includes only a COVID-19 Polymerase Chain Reaction (PCR) test that must take a PDT at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure. As proof of compliance, i.e. traveller had taken a PDT, travellers must obtain a copy of the negative PCR test result that meets the following conditions:
 
 <p style="font-size:14px;margin-bottom:15px;">(Tick if completed)</p>
-<p style="margin-left:20px;margin-bottom:20px; line-height:1.5;">☐ i.	Is in English (or accompanied with an English translation);</p>
-<p style="margin-left:20px; margin-bottom:20px; line-height:1.5;">☐ ii.	Contains the traveller’s name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</p>
-<p style="margin-left:20px;">☐ iii.	Reflects the date and result of the test.</p>
+<p style="margin-left:20px;margin-bottom:10px; line-height:1.5;">☐ i.	Is in English (or accompanied with an English translation);</p>
+<p style="margin-left:20px; margin-bottom:10px; line-height:1.5;">☐ ii.	Contains the traveller’s name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</p>
+<p style="margin-left:20px;line-height:1.5;">☐ iii.	Reflects the date and result of the test.</p>
 
 All handwritten copies of the report will be rejected. Travellers with difficulties getting their PDT can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
-Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration. This service is free and ICA does not endorse third party websites claiming to fill the SGAC for a fee. 
+Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>. Travellers managing a medical condition using a nebuliser should also declare their condition the link provided in their entry approval letter.
 
-Travellers should **defer their travels** if they experience any of the following conditions: 
+All SCAG submissions are free-of-charge, and <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> should also upload their digitally-verifiable vaccination certificate, i.e. certificate with a QR code. Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccinated-differentiated settings</a>.
+
+Travellers should **defer their travels** if they:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Are showing COVID-19 symptoms;</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient (“patient”) in the last 7 days before departing for Singapore. Being in close contact includes, caring for a patient in a healthcare or family/social setting, staying in the same location as the patient, or had been in close (i.e. less than two meters) contact with a patient for more than 15 minutes.</li>
 </ol>
 
 <div id="stage1e"></div>
 
 &#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
 
-Travellers who are fit for travel should:
+Travellers who are fit for travel and have completed Stages 1A to D, should:
 
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here if you are arriving via air</a> (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">Register here if arriving by sea or land</a> (each test costs S$160). Travellers are required to book for the test before arrival. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoints.</li>
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing.</li>
-	</ol>
+<p style="font-size:14px;margin-bottom:15px;">(Tick if completed)</p>
+<p style="margin-left:20px;margin-bottom:10px; line-height:1.5;">☐ i. Register and pay for an on-arrival COVID-19 PCR test:</p>
+<p style="margin-left:30px; margin-bottom:10px; line-height:1.5;">a. Arrivals by Air, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test) </p>
+<p style="margin-left:30px; margin-bottom:20px; line-height:1.5;">b.Arrivals by Sea or Land, <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register and pay here</a> (S$160/test)</p>
+<p style="margin-left:20px;margin-bottom:20px; line-height:1.5;">☐ ii.	Activate the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones, which will facilitate contact tracing. <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> whose vaccination status is reflected in TraceTogether may also use the application as proof to qualify for <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-Differentiated Safe Management Measures</a> in Singapore; AND</p>
+<p style="margin-left:20px;margin-bottom:20px; line-height:1.5;">☐ iii.	Activate <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> on their mobile phones which will facilitate SHN compliance checks and contact tracing.</p>
+
 
 <div id="1F"></div>
 
