@@ -32,7 +32,7 @@ Long-Term Pass holders and non-Singapore Citizens/Permanent Residents holding pa
 Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they are below the age of three  in this calendar year (i.e. born after 2018). See examples below for when a PDT must be taken:
 
 <table>
-  <tbody>>
+  <tbody>
     <tr>
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Direct Flights</b></td>
 	  </tr>
