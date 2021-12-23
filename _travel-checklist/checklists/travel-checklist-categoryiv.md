@@ -14,11 +14,15 @@ Travellers who do not meet the above conditions should refer to the checklist sp
 
 ### Stage 1: Pre-Departure for Singapore
 
+<div id="stage1a"></div>
+
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
 All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.
 
 Unsure which lanes to enter Singapore? Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.
+
+<div id="stage1b"></div>
 
 &#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
@@ -61,6 +65,9 @@ An acceptable PDT includes only a COVID-19 Polymerase Chain Reaction (PCR) test 
 <p style="margin-left:20px; margin-top:0px;line-height:1.5;">☐ iii.	Reflects the date and result of the test.</p>
 
 All handwritten copies of the report will be rejected. Travellers with difficulties getting their PDT can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
+
+
+<div id="stage1d"></div>
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
@@ -134,6 +141,8 @@ Travellers without the above may be denied boarding.
 
 ### Stage 3: Arrival in Singapore
 
+<div id="stage3a"></div>
+	
 &#9744;  <i><b>A) Immigration Clearance</b></i>
 
 During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, air travellers will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> <b>which will reflect the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to receive to have their passport physically endorsed. 
@@ -147,6 +156,8 @@ During immigration clearance, provide all documents, including proof of tests, a
 </ol>
 
 Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
+
+<div id="stage3b"></div>
 
 &#9744;  <i><b>B) On-arrival COVID-19 Tests</b></i>
 
