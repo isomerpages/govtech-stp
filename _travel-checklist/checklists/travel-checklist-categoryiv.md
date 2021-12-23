@@ -7,9 +7,9 @@ permalink: /travel-checklist/category-4
 
 This checklist covers the pre-departure to post-arrival process for travellers who(se):
 
-<span style="margin-left:20px;"> ☐ i.</span> Are travelling to Singapore via the Returning Singapore Citizens/Permanent Residents Lane, Familial Ties Lane, or Student’s Pass Holder Lane; <b>AND</b>
+<span style="margin-left:20px;"> ☐ i. Are travelling to Singapore via the Returning Singapore Citizens/Permanent Residents Lane, Familial Ties Lane, or Student’s Pass Holder Lane; <b>AND</b></span>
 
-<span style="margin-left:20px;"> ☐ ii.</span> 14-day travel history, excluding transits less than 24 hours, includes <a href="/shn-and-swab-summary" target="_blank">any Category (IV) country/region in the past 14 days before arrival in Singapore</a>. <i>[<b style="color:red;">Note:</b> Entry bans for non-Singapore Citizen/Singapore Permanent Residents with a travel history to Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe will cease <b>from 26 Dec 2021, 2359h</b>.]</i>
+<span style="margin-left:20px;"> ☐ ii. 14-day travel history, excluding transits less than 24 hours, includes <a href="/shn-and-swab-summary" target="_blank">any Category (IV) country/region in the past 14 days before arrival in Singapore</a>. <i>[<b style="color:red;">Note:</b> Entry bans for non-Singapore Citizen/Singapore Permanent Residents with a travel history to Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe will cease <b>from 26 Dec 2021, 2359h</b>.]</i></span>
 
 Travellers who do not meet the above conditions should refer to the checklist specific to their travel arrangement or approval letters for travel instructions. To use this checklist, travellers should check the box **(&#9744;)** for completed activities.
 
@@ -17,7 +17,9 @@ Travellers who do not meet the above conditions should refer to the checklist sp
 
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
-All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.
+All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.
+
+Unsure which lanes to enter Singapore? Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.
 
 &#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
