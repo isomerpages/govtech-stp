@@ -19,7 +19,7 @@ This page provides a summary of the four categories of travel health control mea
 <table style="background-color:#f5f5f5">
 <tbody>
     <tr>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes before referring to the THCM Categories:</u></b></span><br><br>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Instructions before referring to the THCM Categories:</u></b></span><br><br>
 					<b> ➀</b> If you have visited or transited in multiple countries in the past 14 days before arriving in Singapore, note that:
 					<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
 					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The most stringent category out of all the countries/regions you have visited (excluding transits less than 24 hours) will apply. For example, a traveller who had travel history to both Category (I) and (II) countries/regions before departure, but transited in a Category (IV) country/region on the way to Singapore, will be subject to Category (II) measures; and</li>
@@ -28,7 +28,7 @@ This page provides a summary of the four categories of travel health control mea
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
-							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> Travellers whose 14-day travel history includes Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe are disallowed from entering Singapore. Singapore Citizens and Permanent Residents, may enter Singapore from these countries/regions but will be subject to Category (IV) protocols.</p>
+							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> The travel ban on all travellers whose 14-day travel history includes Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe will be lifted from 26 Dec 2021, 2359hrs. Between now and 26 Dec, only Singapore Citizens and Permanent Residents with a travel history involving these countries/regions may enter Singapore, but will be subject to Category (IV) protocols.</p>
 			</td>
     </tr>
 	</tbody>
@@ -36,15 +36,15 @@ This page provides a summary of the four categories of travel health control mea
 
 <b>On this page you will find the following</b>:
 <ol style="list-style-type:lower-latin;">
-	<li><a href="#from">Categories of travel health control measures for arrivals from 6 Dec 2021, 2359 hours</a></li>
-	<li><a href="#before-1">Categories of travel health control measures for arrivals before 6 Dec 2021, 2359 hours</a></li>
+	<li><a href="#from">Categories of travel health control measures for arrivals from 26 Dec 2021, 2359 hours</a></li>
+	<li><a href="#before-1">Categories of travel health control measures for arrivals before 26 Dec 2021, 2359 hours</a></li>
 	</ol>
 
 <div id="from"></div>
 
-### Categories of Travel Health Control Measures (for arrivals from 6 Dec 2021, 2359h)
+### Categories of Travel Health Control Measures (for arrivals from 26 Dec 2021, 2359h)
 
-<span style="color:red;"><b>Travellers arriving in Singapore <u>before 6 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
+<span style="color:red;"><b>Travellers arriving in Singapore <u>before 26 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
@@ -231,13 +231,13 @@ This page provides a summary of the four categories of travel health control mea
 
 <div id="before-1"></div>
 
-### Categories of Travel Health Control Measures (for arrivals before 6 Dec 2021, 2359h)
+### Categories of Travel Health Control Measures (for arrivals before 26 Dec 2021, 2359h)
 
-<span style="color:red;"><b>Travellers arriving in Singapore <u>before 6 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
+<span style="color:red;"><b>Travellers arriving in Singapore <u>before 26 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
-<div id="table"></div>
+<div id="table1"></div>
 <table style="overflow: hidden;">
 <thead>
 	<tr>
@@ -252,7 +252,7 @@ This page provides a summary of the four categories of travel health control mea
 	<tr>
 <td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ol style="margin-top: 0px; list-style-type:decimal;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <b>[New]</b> Take a COVID-19 pre-departure test within 2 days before departure and obtain a copy of the negative COVID-19 test report that:
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Take a COVID-19 pre-departure test within 2 days before departure and obtain a copy of the negative COVID-19 test report that:
 		<ul style="margin-top: 0px;list-style-type:lower-roman;">
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is an Antigen Rapid Test (ART) administered by a trained professional (self-swabs are not allowed) OR Polymerase Chain Reaction Test taken at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> </li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
@@ -273,6 +273,8 @@ This page provides a summary of the four categories of travel health control mea
 	</tbody>
 	</table>
 
+<div id="table2"></div>
+
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 	
 <table style="overflow: hidden;">
@@ -282,7 +284,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Argentina, Australia, Bahrain, Bhutan, Brunei, Bulgaria, Cambodia, Canada, Chile, Cyprus, Denmark<sup>1</sup> , Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Kuwait, Luxembourg, Malaysia, Maldives, Malta, Mexico, Mongolia, Morocco, Myanmar, Nepal, New Zealand, Norway, Oman, Pakistan, Poland, Portugal, Qatar, Rwanda, The Republic of Korea, Romania, Samoa, San Marino, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</b>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Argentina, Australia, Bahrain, Bhutan, Brunei, Cambodia, Canada, Chile, Cyprus, Denmark<sup>1</sup>, Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, India, Indonesia, Israel, Italy, Japan, Kuwait, Malaysia, Maldives, Malta, Mexico, Mongolia, Morocco, Myanmar, Nepal, New Zealand, Oman, Pakistan, Portugal, Qatar, Rwanda, The Republic of Korea, Romania, Samoa, San Marino, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</b>
 	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
@@ -308,21 +310,24 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[New]</b> Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 7-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence*;</li>
-<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel; or</li>
+<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
+<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel*; or</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
-	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 test within 2 days before departure from Malaysia</i></p>
+	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Before a room booking is made, travellers must inform the hotel that they are serving a SHN and ensure that the hotel can accommodate them</i></p>
 	<p></p>
 	</td>
 	</tr>
 	</tbody>
 	</table>
+	
+
+<div id="table3"></div>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 	
@@ -333,7 +338,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Austria, Bangladesh, Belarus, Belgium, Belize, Brazil, Colombia, Costa Rica, Croatia, Czech Republic, Estonia, Kazakhstan, Laos, Latvia, Liechtenstein, Lithuania, Mauritius, Panama, Papua New Guinea, Peru, Philippines, Russia, Serbia, Seychelles, Slovakia, Slovenia, Ukraine and Uruguay</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Austria, Bangladesh, Belarus, Belgium, Belize, Brazil, Bulgaria, Colombia, Costa Rica, Croatia, Czech Republic, Estonia, Hungary, Iceland, Ireland, Kazakhstan, Laos, Latvia, Liechtenstein, Lithuania, Luxembourg, Mauritius, Norway, Panama, Papua New Guinea, Peru, Philippines, Poland, Russia, Serbia, Seychelles, Slovakia, Slovenia, Ukraine and Uruguay</b></th>
 </tr>
 </thead>
 <tbody>
@@ -353,21 +358,23 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[New]</b> Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
-<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel; or</li>
+<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel*; or</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
-	<p></p>
+		<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Before a room booking is made, travellers must inform the hotel that they are serving a SHN and ensure that the hotel can accommodate them</i></p>
 </td>
 	</tr>
 	</tbody>
 	</table>
-	
+
+<div id="table4"></div>
+
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 	
 <table style="overflow: hidden;">
@@ -398,7 +405,7 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[New]</b> Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn#sdf">SHN Dedicated Facility</a>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
