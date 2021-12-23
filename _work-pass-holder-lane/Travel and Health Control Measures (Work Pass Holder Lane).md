@@ -170,7 +170,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their place of isolation. <br><br> Submitters must arrange to pick them up <b>within 2 hours of arrival</b> at the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car) to go to the place of isolation. Public transport (e.g. public bus or train) is <b>not allowed</b>.</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their place of isolation. <br><br> Submitters must arrange to pick them up <b>within 1 hour of arrival</b> from the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car) to go to the place of isolation. Public transport (e.g. public bus or train) is <b>not allowed</b>.</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Self-isolate in one of the following accommodation until they get a negative test result:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments, hostels or Employment Agencies' residential units. Please ensure these places can accommodate persons on SHN). </li>
@@ -211,7 +211,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their place of isolation.<br><br> Pass holders must depart for the place of isolation <b>within 2 hours of arrival</b> at the checkpoint. Submitters must inform them to take private transport (e.g. pass holder's own vehicle, taxi, private hire car) to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>. </li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their place of isolation.<br><br> Pass holders must depart for the place of isolation <b>within 1 hour of arrival</b> at the checkpoint. Submitters must inform them to take private transport (e.g. company vehicle, pass holder's own vehicle, taxi, private hire car) to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>. </li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Self-isolate until they get a negative test result. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</li>
@@ -270,7 +270,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn" target="_blank">SHN</a> accommodation. <br><br> Submitters must arrange to pick them up <b>within 2 hours of arrival</b> at the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car) to go to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn" target="_blank">SHN</a> accommodation. <br><br> Submitters must arrange to pick them up <b>within 1 hour of arrival</b> from the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car) to go to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>
  </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
@@ -313,7 +313,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn" target="_blank">SHN</a> accommodation. <br><br> Pass holders must depart for the SHN accommodation <b>within 2 hours of arrival</b> at the checkpoint. Submitters must inform them to take private transport (e.g. pass holder's own vehicle, taxi, private hire car) to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn" target="_blank">SHN</a> accommodation. <br><br> Pass holders must depart for the SHN accommodation <b>within 1 hour of arrival</b> at the checkpoint. Submitters must inform them to take private transport (e.g. company vehicle, pass holder's own vehicle, taxi, private hire car) to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>.</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments).</li>
@@ -371,7 +371,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn" target="_blank">SHN</a> accommodation. <br><br> Submitters must arrange to pick them up <b>within 2 hours of arrival</b> at the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car) to go to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn" target="_blank">SHN</a> accommodation. <br><br> Submitters must arrange to pick them up <b>within 1 hour of arrival</b> from the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car) to go to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>
 </li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at one of the following:
 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
@@ -413,7 +413,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
 	</ol>
 </li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn" target="_blank">SHN</a> accommodation. <br><br> Pass holders must depart for the SHN accommodation <b>within 2 hours of arrival</b> at the checkpoint. Submitters must inform them to take private transport (e.g. pass holder's own vehicle, taxi, private hire car) to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>.</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their <a href="/health/shn" target="_blank">SHN</a> accommodation. <br><br> Pass holders must depart for the SHN accommodation <b>within 1 hour of arrival</b> at the checkpoint. Submitters must inform them to take private transport (e.g. company vehicle, pass holder's own vehicle, taxi, private hire car) to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> in one of the following:
 <ol style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g hotels or serviced apartments);</li>
