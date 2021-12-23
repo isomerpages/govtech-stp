@@ -168,4 +168,4 @@ To qualify for vaccination-differentiated safe management measures (VDS) in Sing
 
 ☐ <i><b>A) Return of TraceTogether Tokens (If applicable)</b></i>
 
-Travellers issued with a physical TraceTogether token upon arrival in Singapore must return the tokens in-person at the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674823-Do-Short-Term-Visitors-need-to-return-their-TraceTogether-TT-Tokens-before-leaving-Singapore-" target="_blank">designated TraceTogether token return booth</a> found the checkpoint.
+Travellers issued with a physical TraceTogether token upon arrival in Singapore must return the tokens in-person at the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674823-Do-Short-Term-Visitors-need-to-return-their-TraceTogether-TT-Tokens-before-leaving-Singapore-" target="_blank">designated TraceTogether token return booth</a> found at the checkpoint.
