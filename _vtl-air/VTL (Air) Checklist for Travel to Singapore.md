@@ -506,7 +506,7 @@ label.box {
   </div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3C"><label class="box" for="3C">&nbsp;&nbsp;<b>Stage 3C: Undergo On-Arrival COVID-19 PCR Test (OAT-PCR)</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3C"><label class="box" for="3C">&nbsp;&nbsp;<b>Stage 3C: Travel to Declared Self-Isolation Accommodation</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Commute directly to your declared self-isolation accommodation immediately upon completion of your on-arrival COVID-19 PCR test. You may do so using private transport, taxi, or private hire cars (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps).</p>
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px; color:red;"><span style="font-size:22px; color:red;"><b>&#10005;</b>&nbsp;</span><b>Using public transport (e.g. trains or public buses) is prohibited.</b></p>
