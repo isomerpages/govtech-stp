@@ -55,13 +55,10 @@ Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, 
 
 An acceptable PDT includes only a COVID-19 Polymerase Chain Reaction (PCR) test that must take a PDT at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure. As proof of compliance, i.e. traveller had taken a PDT, travellers must obtain a copy of the negative PCR test result that meets the following conditions:
 
-<span style="font-size:14px;">(Tick if completed)</span>
-
-<span style="margin-left:20px;">☐ i.	Is in English (or accompanied with an English translation);</span>
-
-<span style="margin-left:20px;">☐ ii.	Contains the traveller’s name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</span>
-
-<span style="margin-left:20px;">☐ iii.	Reflects the date and result of the test.</span>
+<p style="font-size:14px;margin-bottom:15px;">(Tick if completed)</p>
+<p style="margin-left:20px;margin-bottom:20px; line-height:1.5;">☐ i.	Is in English (or accompanied with an English translation);</p>
+<p style="margin-left:20px; margin-bottom:20px; line-height:1.5;">☐ ii.	Contains the traveller’s name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</p>
+<p style="margin-left:20px;">☐ iii.	Reflects the date and result of the test.</p>
 
 All handwritten copies of the report will be rejected. Travellers with difficulties getting their PDT can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
 
