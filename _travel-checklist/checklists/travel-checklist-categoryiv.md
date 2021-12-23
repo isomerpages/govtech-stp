@@ -97,28 +97,37 @@ Travellers who are fit for travel and have completed Stages 1A to D, should:
 Travellers will, by default, serve their 10-day Stay-Home Notice (SHN) at an assigned hotel, i.e. an SHN-Dedicated Facility (SDF). Payment for a 10-day SHN stay at an SDF, inclusive of food-related costs, is collected during entry approval (see Stage 1A; indicative costs below). Due to fast-changing SDF demands, travellers will not be informed of their assigned hotel before arrival. Travellers may request for inter-connecting rooms or suites. All additional lodging cost will be communicated and collected from the traveller directly by the SDF operator.
 
 <table>
-  <thead>
-    <tr>
-    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Conditions</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Application</b></th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Traveller suffers from a critical illness, special medical condition or has mobility issues</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds" target="_blank">Click Here</a></td>
-    </tr>
-  </tbody>
-  </table>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;"><b>Occupants per standard SDF room (25 sqm)</b></td>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;"><b>Accommodation and Food Cost per Person (S$)</b></td>
+	  </tr>
+	      <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Single adult traveller </td>
+		         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">1,450</td>
+	  </tr>
+	  	      <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Two adult travellers who are family members <br> <i>Example: Grandparents, parents, spouse, parents-in-law, siblings, or children above 12 years of age</i></td>
+		         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">950</td>
+	  </tr>
+	  	      <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Single traveller who is 12 years and below this calendar year (i.e. minors)</td>
+		         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Varies depending on traveller’s age</td>
+	  </tr>
+	</tbody>
+	</table>
 
-Travellers should note that any prior approvals given to complete the SHN at a place of residence may be rescinded should the public health risk assessment change. In such an event, the prevailing travel health control measures would apply, i.e. serving SHN at an SDF.
+Travellers suffering from a critical illness or have a mobility issue or special medical, making the completion of SHN at an SDF difficult, may seek approval to complete their SHN at a place of residence. <a href="https://go.gov.sg/shnhotelneeds" target="_blank">Approvals must be sought</a> at least three working days before arrival in Singapore. If the domestic public health risk assessment changes, all prior approvals can be rescinded, and the traveller will complete their SHN at an SDF.
 
 ### Stage 2: Departure for Singapore
 
 &#9744;  <i><b>A) Pre-boarding Document Checks</b></i>
 
-As part of the airline or transport operator’s pre-boarding checks, travellers may be asked for the following:
-- Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and
-- Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result (per [Stage 1C](#stage1c))
+To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline or transport operator to produce the following during pre-boarding checks:
+
+<p style="font-size:14px;margin-bottom:15px;">(Tick if completed)</p>
+<p style="margin-left:20px;margin-bottom:10px; margin-top:0px; line-height:1.5;">☐ i. Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and
+<p style="margin-left:20px;margin-bottom:10px; margin-top:0px; line-height:1.5;">☐ ii. Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result (per [Stage 1C](#stage1c))
 
 Travellers without the above may be denied boarding.
 
