@@ -7,8 +7,8 @@ permalink: /travel-checklist/category-4
 
 This checklist covers the pre-departure to post-arrival process for travellers who(se):
 
-<span style="margin-left:20px;margin-bottom:20px;"> ☐ i. Are travelling to Singapore via the Returning Singapore Citizens/Permanent Residents Lane, Familial Ties Lane, or Student’s Pass Holder Lane; <b>AND</b></span>
-<span style="margin-left:20px;"> ☐ ii. 14-day travel history, excluding transits less than 24 hours, includes <a href="/shn-and-swab-summary" target="_blank">any Category (IV) country/region in the past 14 days before arrival in Singapore</a>. <i>[<b style="color:red;">Note:</b> Entry bans for non-Singapore Citizen/Singapore Permanent Residents with a travel history to Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe will cease <b>from 26 Dec 2021, 2359h</b>.]</i></span>
+<p style="margin-left:20px;margin-bottom:20px; line-height:1.5;"> ☐ i. Are travelling to Singapore via the Returning Singapore Citizens/Permanent Residents Lane, Familial Ties Lane, or Student’s Pass Holder Lane; <b>AND</b></p>
+<p style="margin-left:20px; line-height:1.5;"> ☐ ii. 14-day travel history, excluding transits less than 24 hours, includes <a href="/shn-and-swab-summary" target="_blank">any Category (IV) country/region in the past 14 days before arrival in Singapore</a>. <i>[<b style="color:red;">Note:</b> Entry bans for non-Singapore Citizen/Singapore Permanent Residents with a travel history to Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe will cease <b>from 26 Dec 2021, 2359h</b>.]</i></p>
 
 Travellers who do not meet the above conditions should refer to the checklist specific to their travel arrangement or approval letters for travel instructions. To use this checklist, travellers should check the box **(&#9744;)** for completed activities.
 
