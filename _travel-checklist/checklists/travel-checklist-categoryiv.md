@@ -23,24 +23,48 @@ Unsure which lanes to enter Singapore? Return to the <a href="/arriving/overview
 
 &#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
-Travellers who are not Singapore Citizens, Permanent Residents or Long-Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.
+Long-Term Pass holders and non-Singapore Citizens/Permanent Residents holding passports issued by visa-required countries/regions should apply for an <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">entry visa</a>. 
 
 <div id="stage1c"></div>
 
 &#9744;  <i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
-Travellers must take a PDT **within 2 days before departure** for Singapore, unless they:
-- Below the age of three in this calendar year; or
-- Are Singapore Citizens entering Singapore via the Causeway or Second Link.
+Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they are below the age of three  in this calendar year (i.e. born after 2018). See examples below for when a PDT must be taken:
 
-Travellers are required to take their PDT at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the PDT:
-- Is a Polymerase Chain Reaction (PCR) test (Antigen Rapid Test <b>not allowed</b>);
-- Is in English (or accompanied with an English translation);
-- Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore);
-- Reflects the date and result of the PCR test and;
-- Is not handwritten.
+<table>
+  <tbody>>
+    <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Direct Flights</b></td>
+	  </tr>
+	      <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller A is scheduled to depart for Singapore on 3 Nov 2021. The earliest he should take his PDT is on 1 Nov 2021. <br><br> In other words, all PDTs taken on 1 Nov 2021 is valid for departures up to 3 Nov 2021, 2359h.</td>
+	  </tr>
+	      <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Flights with a less than 24-hour Transit Period to Singapore</b></td>
+	  </tr>
+	  	      <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller B is scheduled for departure from the Los Angeles International Airport (LAX) on 3 Nov 2021. He will transit to Singapore via Narita Airport (NRT) for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from LAX. <br><br> His PDT taken on 1 Nov 2021 at LAX will be valid for departures up to 3 Nov 2021, 2359h.</td>
+	  </tr>	  
+	  	      <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Flights with a Transit Period exceeding 24 hours</b></td>
+	  </tr>
+	  	  	      <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller C is scheduled for departure from the Los Angeles International Airport (LAX) on 3 Nov 2021. He will transit to Singapore via Narita Airport (NRT) for a period lasting more than 24 hours. In this scenario, he will take his PDT at NRT, within 2 days before his connecting flight to Singapore.</td>
+	  </tr>	  
+  </tbody>
+	</table>
 
-Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the <a href="/contact-us" target="_blank">Safe Travel Office</a>.
+An acceptable PDT includes only a COVID-19 Polymerase Chain Reaction (PCR) test that must take a PDT at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure. As proof of compliance, i.e. traveller had taken a PDT, travellers must obtain a copy of the negative PCR test result that meets the following conditions:
+
+<span style="font-size:14px;">(Tick if completed)</span>
+
+<span style="margin-left:20px;">☐ i.	Is in English (or accompanied with an English translation);</span>
+
+<span style="margin-left:20px;">☐ ii.	Contains the traveller’s name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</span>
+
+<span style="margin-left:20px;">☐ iii.	Reflects the date and result of the test.</span>
+
+All handwritten copies of the report will be rejected. Travellers with difficulties getting their PDT can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
