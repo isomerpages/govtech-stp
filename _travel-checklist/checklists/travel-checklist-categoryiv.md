@@ -147,7 +147,7 @@ Travellers without the above may be denied boarding.
 
 During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, air travellers will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> <b>which will reflect the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to receive to have their passport physically endorsed. 
 	
-	During immigration clearance, <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> who meet the following conditions may seek the assistance of the immigration officer to register their vaccination details in their TraceTogether App (see <a href="#stage1e">Stage 1E</a>):
+During immigration clearance, <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> who meet the following conditions may seek the assistance of the immigration officer to register their vaccination details in their TraceTogether App (see <a href="#stage1e">Stage 1E</a>):
 
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.5;">Aged 12 and above;</li>
