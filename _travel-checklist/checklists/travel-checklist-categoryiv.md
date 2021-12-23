@@ -84,8 +84,8 @@ Travellers who are fit for travel and have completed Stages 1A to D, should:
 
 <p style="font-size:14px;margin-bottom:15px;">(Tick if completed)</p>
 <p style="margin-left:20px;margin-bottom:10px; margin-top:0px; line-height:1.5;">☐ i. Register and pay for an on-arrival COVID-19 PCR test:</p>
-<p style="margin-left:30px; margin-bottom:10px;  margin-top:0px;line-height:1.5;">a. Arrivals by Air, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test) </p>
-<p style="margin-left:30px; margin-bottom:20px; margin-top:0px; line-height:1.5;">b.Arrivals by Sea or Land, <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register and pay here</a> (S$160/test)</p>
+<p style="margin-left:40px; margin-bottom:10px;  margin-top:0px;line-height:1.5;">a. Arrivals by Air, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test) </p>
+<p style="margin-left:40px; margin-bottom:20px; margin-top:0px; line-height:1.5;">b.Arrivals by Sea or Land, <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register and pay here</a> (S$160/test)</p>
 <p style="margin-left:20px;margin-bottom:20px; margin-top:0px; line-height:1.5;">☐ ii.	Activate the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones, which will facilitate contact tracing. <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> whose vaccination status is reflected in TraceTogether may also use the application as proof to qualify for <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-Differentiated Safe Management Measures</a> in Singapore; AND</p>
 <p style="margin-left:20px;margin-bottom:20px; margin-top:0px; line-height:1.5;">☐ iii.	Activate <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> on their mobile phones which will facilitate SHN compliance checks and contact tracing.</p>
 
@@ -111,8 +111,8 @@ Travellers will, by default, serve their 10-day Stay-Home Notice (SHN) at an ass
 		         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">950</td>
 	  </tr>
 	  	      <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Single traveller who is 12 years and below this calendar year (i.e. minors)</td>
-		         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Varies depending on traveller’s age</td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Single traveller who is 12 years and below this calendar year (i.e. minors)</td>
+		         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Varies depending on traveller’s age</td>
 	  </tr>
 	</tbody>
 	</table>
@@ -136,30 +136,40 @@ Travellers without the above may be denied boarding.
 
 &#9744;  <i><b>A) Immigration Clearance</b></i>
 
-During immigration clearance, provide all relevant documents and information required by the immigration officer, including proof of tests taken if necessary. 
+During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, air travellers will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> <b>which will reflect the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to receive to have their passport physically endorsed. 
+	
+	During immigration clearance, <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> who meet the following conditions may seek the assistance of the immigration officer to register their vaccination details in their TraceTogether App (see <a href="#stage1e">Stage 1E</a>):
 
-<b>Eligible travellers vaccinated overseas should also inform the immigration officer to temporarily register their vaccination details in their TraceTogether app</b>, in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>. 
+<ol style="list-style-type:lower-roman;">
+	<li style="line-height:1.5;">Aged 12 and above;</li>
+	<li style="line-height:1.5;">Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification; and</li>
+	<li style="line-height:1.5;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance.</li>
+</ol>
 
-For visitors granted entry, please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport unless arriving by land or sea. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here for more information about the e-Pass</a>.
+Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
 
 &#9744;  <i><b>B) On-arrival COVID-19 Tests</b></i>
 
-Take an on-arrival COVID-19 Polymerase Chain Reaction test at Changi Airport. Travellers are required to <a href="#stage1e">book and pre-pay</a> for the test before arrival. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
+Follow the instructions of officers on the ground and take an on-arrival COVID-19 Polymerase Chain Reaction test. 
+
+Travellers who did not pay for the test before arrival (see <a href="#stage1e">Stage 1E</a>), will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.
 
 &#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i>
 
-A 10-day <a href="/health/shn" target="_blank">Stay-Home Notice (SHN)</a> will be sent to the email address provided by the traveller in their <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card" target="_blank">SGAC declaration</a>. The SHN takes effect immediately on the day of its issuance.
+A 10-day Stay-Home Notice (SHN) which takes effect immediately on the day of issuance, will be sent to the email address provided by the traveller in their SGAC declaration (see <a href="#stage1d">Stage 1D</a>). 
+
+<div id="stage3d"></div>
 
 &#9744;  <i><b>D) Transport to SHN Accommodation</b></i>
 
-Travellers who are serving their SHN at an **SHN Dedicated Facility (SDF)** will take the government-provided transport. 
+The use of public transport (e.g. trains, buses, street-hailed taxis) is strictly prohibited. Travellers serving their SHN at an **SHN Dedicated Facility (SDF)** will commute using the government-provided transport. 
 
-Travellers who have obtained approval to serve SHN at their own accommodation must make a <a href="/health/faq#transport" target="_blank">transport booking</a> with the transport provider, Strides Transportation (Tel: 6477 5977). The following costs will apply, which will be borne by the traveller.
+Those approved to complete their SHN at their own accommodation (see <a href="#stage1f">Stage 1F</a>), will commute Strides Transportation. All <a href="/health/faq#transport" target="_blank">transport booking</a> must be made directly with Strides Transportation (Tel: 6477 5977), and the following costs will apply:
 
 <table>
   <thead>
     <tr>
-   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Trip</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Cost ($SGD; Excludes 10% credit card charge)</b></th>
+   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Trip</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Cost borne by Traveller <br><br> ($SGD; Excludes 10% credit card charge)</b></th>
     </tr>
   </thead>
   <tbody>
@@ -182,45 +192,50 @@ Travellers who have obtained approval to serve SHN at their own accommodation mu
     </tr>
   </tbody>
   </table>
-  
-Travellers must rely on the same transport options they used for commuting from their SHN accommodation, when commuting to the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN.
-
-The use of public transport (e.g. trains, buses, street-hailed taxis) is strictly prohibited.
-
 
 ### Stage 4: Stay-Home Notice and COVID-19 Tests
 
 &#9744;  <i><b>A) Serve Stay-Home Notice (SHN)</b></i>
 
-A Stay-Home Notice (SHN) comes into effect immediately upon its issuance. Travellers must remain in the SHN accommodation for the period specified in their SHN, unless they have/have been:
+A Stay-Home Notice (SHN) comes into effect immediately upon its issuance, and travellers must remain in their declared SHN accommodation per the period specified in the SHN. To calculate the estimated SHN end-date, click here for an <a href="/shn-calculator" target="_blank">SHN calculator</a>.
+
+The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA to ensure compliance. For subsequent breaches, the errant traveller can be fined, imprisoned, and/or have their residency/work permits revoked. During the SHN period, <a href="/health/shn#shn-compliance-checks" target="_blank">randomised in-person or phone/video compliance check(s) will be conducted</a> (see advisory below), and travellers may only leave their SHN accommodation when the following scenarios occur:
 - Directed by the relevant authorities to do so;
 - Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or
 - Received a negative PCR test result for the test taken before the end of the SHN.
 
-To calculate the estimated SHN end-date, click here for an <a href="/shn-calculator" target="_blank">SHN calculator</a>.
+The commuting arrangement stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance
 
-During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. <a href="/health/shn#shn-compliance-checks" target="_blank">Click here for more information on SHN-related compliance matters</a>.
+<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.5; color:red;"><b><u>Anti-Scam Advisory:</u></b></p>
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.5;color:black;">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam.
+			</p>
+			<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.5;color:black;">If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.
+			</p>
+	</div>
+	
+&#9744;  <i><b>B) Tele-consultation for Nebuliser-using Travellers</b></i>
 
-&#9744;  <i><b>B) End-of-SHN COVID-19 Test</b></i>
+Travellers using a nebuliser to manage a medical condition must arrange for a tele-consultation upon arrival at the SHN, where they will be assessed for their suitability to use an inhaler/spacer.
 
-Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
+&#9744;  <i><b>C) End-of-SHN COVID-19 Test</b></i>
 
-The test costs SGD$125 (including GST). Returning Singapore Citizens and Permanent Residents will be advised on payment details after arrival. All other travellers would have paid for the test at the point of entry application.
+Travellers are scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of their SHN. Payment for the test (S$125/test, including GST) for travellers who are not a Singapore Citizen (SC) or Singapore Permanent Resident (PR) is already collected during entry approval (see <a href="#stage1a">Stage 1A</a>). For SC/PRs, the test payment details will be communicated separately after arrival in Singapore.
+
+The test is compulsory, and travellers who fail to receive their test appointment details a day before the end of their SHN should seek for assistance using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers who are unwell on the day of the test should remain in their accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant agencies</a>.
 
 ### Stage 5: End of Stay-Home Notice
 
 &#9744;  <i><b>A) Release from Stay-Home Notice(SHN)</b></i>
 
-For travellers serving SHN at an SHN Dedicated Facility (SDF), the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. 
+Travellers serving SHN at an SDF will be informed of the checkout timing by the SDF operator.
 
-Travellers serving SHN at a place of residence may end their SHN arrangements upon receipt of a negative test result or when they complete the 10-day SHN period, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
+For travellers serving SHN at a place of residence, the SHN will end after the traveller receives a negative test result (see Stage 4B) or upon completion of the 10-day SHN, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
 
 Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
 &#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
 
-After SHN, travellers may go about their activities but <b>must</b> comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures.</a> 
+Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures.</a> This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.
 
-Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a> 
-
-Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
+For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see <a href="#stage3a">Stage 3A</a>).
