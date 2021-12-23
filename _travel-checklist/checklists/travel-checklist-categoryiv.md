@@ -133,8 +133,8 @@ Travellers suffering from a critical illness or have a mobility issue or special
 To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline or transport operator to produce the following during pre-boarding checks:
 
 <p style="font-size:14px;margin-bottom:15px;">(Tick if completed)</p>
-<p style="margin-left:20px;margin-bottom:10px; margin-top:0px; line-height:1.5;">☐ i. Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and
-<p style="margin-left:20px;margin-bottom:10px; margin-top:0px; line-height:1.5;">☐ ii. Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result (per [Stage 1C](#stage1c))
+<p style="margin-left:20px;margin-bottom:10px; margin-top:0px; line-height:1.5;">☐ i. Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and</p>
+<p style="margin-left:20px;margin-bottom:10px; margin-top:0px; line-height:1.5;">☐ ii. Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result (per <a href="#stage1c">Stage 1C</a>)</p>
 
 Travellers without the above may be denied boarding.
 
