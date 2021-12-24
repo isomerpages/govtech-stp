@@ -9,7 +9,7 @@ description: Requirements for transiting through Singapore
 
 <p style="font-size:20px; line-height:1.35;">Travellers are advised to check with their airlines if it has an approved transfer route through Singapore before purchasing tickets. <b>Travellers do not need to obtain approvals under any Safe Travel Lane (e.g. Vaccinated Travel Lane) to transit in Singapore.</b></p>
 
-<p style="font-size:20px; line-height:1.35;">Travellers with travel history to the following countries/regions within the past 14 days, are not allowed to transit via Singapore until <b>after 26 Dec2021, 2359hrs:</b>:</p>
+<p style="font-size:20px; line-height:1.35;">Travellers with travel history to the following countries/regions within the past 14 days, are not allowed to transit via Singapore until <b>after 26 Dec 2021, 2359hrs:</b>:</p>
 
 <ol style="margin-top:15px; list-style-type:disc">
 	   <li style="font-size:20px; line-height:1.35;">Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe.</li>
