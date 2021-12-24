@@ -527,7 +527,7 @@ input:checked + label + .content {
 
 ### Travel Health Control Measures for WPHL-Pass Holders [for arrivals before 26 Dec 2021, 2359 hours]
 
-<span style="color:red;"><b>Travellers arriving in Singapore before 6 Dec 2021, 2359 hours will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
+<span style="color:red;"><b>Travellers arriving in Singapore before 26 Dec 2021, 2359 hours will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <html>
 <head>
