@@ -2,7 +2,6 @@
 title: Travel Checklist - Category(IV)
 permalink: /travel-checklist/category-4
 ---
-
 ### Instructions for the use of the Category (IV) Travel History Checklist 
 
 This checklist covers the pre-departure to post-arrival process for travellers who(se):
@@ -101,7 +100,7 @@ Travellers who are fit for travel and have completed Stages 1A to D, should:
 
 &#9744;  <i><b>F) Request for alternative Stay-Home Notice (SHN) arrangements</b></i>
 
-Travellers will, by default, serve their 10-day Stay-Home Notice (SHN) at an assigned hotel, i.e. an SHN-Dedicated Facility (SDF). Payment for a 10-day SHN stay at an SDF, inclusive of food-related costs, is collected during entry approval (see Stage 1A; indicative costs below). Due to fast-changing SDF demands, travellers will not be informed of their assigned hotel before arrival. Travellers may request for inter-connecting rooms or suites. All additional lodging cost will be communicated and collected from the traveller directly by the SDF operator.
+Travellers will, by default, serve their 10-day Stay-Home Notice (SHN) at an assigned hotel, i.e. an SHN-Dedicated Facility (SDF). Payment for a 10-day SHN stay at an SDF, inclusive of food-related costs, is collected during entry approval (see Stage 1A; indicative costs below). Due to fast-changing SDF demands, travellers will not be informed of their assigned hotel before arrival. Travellers may request for inter-connecting rooms or <a href="/health/shn/sdfupgrade" target="_blank">suites</a>. All additional lodging cost will be communicated and collected from the traveller directly by the SDF operator.
 
 <table>
   <tbody>
