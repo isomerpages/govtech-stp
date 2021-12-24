@@ -116,7 +116,6 @@ The table below provides a quick overview of the key STPHL features, requirement
 	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, tests needed)</td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.<br/><br/><span style="font-size:25px;">⚠</span><i> Travellers with <a href="shn-and-swab-summary" target="_blank">Category (II) or (III) travel history</a> must source for their own accommodation to complete their Stay Home Notice (SHN). Those who plan to serve their SHN at a hotel should only make a booking after confirming with the hotel that it can accommodate SHN-serving guests. </i>
-		
 		</td>
 </tr>
 <tr>
