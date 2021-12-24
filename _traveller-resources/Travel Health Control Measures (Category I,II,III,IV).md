@@ -96,7 +96,7 @@ This page provides a summary of the four categories of travel health control mea
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Argentina, Australia, Bahrain, Bhutan, Brunei, Cambodia, Canada, Chile, Cyprus, Denmark<sup>1</sup>, Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, India, Indonesia, Israel, Italy, Japan, Kuwait, Malaysia, Maldives, Malta, Mexico, Mongolia, Morocco, Myanmar, Nepal, New Zealand, Oman, Pakistan, Portugal, Qatar, Rwanda, The Republic of Korea, Romania, Samoa, San Marino, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</b>
-	<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b style="color:red;">NOTE:</b>For arrivals before 29 Dec 2021,2359hrs:<br> Cyprus, Denmark<sup>1</sup>, France<sup>2</sup>, Greece, the Netherlands<sup>3</sup>, Portugal, Spain, Sri Lanka, the United Kingdom<sup>4</sup>, the United States<sup>5</sup> <i>(See Category III for arrivals after 29 Dec 2021, 2359hrs)</i></p>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b style="color:red;">NOTE:</b> For arrivals before 29 Dec 2021,2359hrs:<br> Cyprus, Denmark<sup>1</sup>, France<sup>2</sup>, Greece, the Netherlands<sup>3</sup>, Portugal, Spain, Sri Lanka, the United Kingdom<sup>4</sup>, the United States<sup>5</sup> <i>(See Category III for arrivals after 29 Dec 2021, 2359hrs)</i></p>
 	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
@@ -150,7 +150,9 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Austria, Bangladesh, Belarus, Belgium, Belize, Brazil, Bulgaria, Colombia, Costa Rica, Croatia, Czech Republic, Estonia, Hungary, Iceland, Ireland, Kazakhstan, Laos, Latvia, Liechtenstein, Lithuania, Luxembourg, Mauritius, Norway, Panama, Papua New Guinea, Peru, Philippines, Poland, Russia, Serbia, Seychelles, Slovakia, Slovenia, Ukraine and Uruguay</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Austria, Bangladesh, Belarus, Belgium, Belize, Brazil, Bulgaria, Colombia, Costa Rica, Croatia, Czech Republic, Estonia, Hungary, Iceland, Ireland, Kazakhstan, Laos, Latvia, Liechtenstein, Lithuania, Luxembourg, Mauritius, Norway, Panama, Papua New Guinea, Peru, Philippines, Poland, Russia, Serbia, Seychelles, Slovakia, Slovenia, Ukraine and Uruguay</b>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b style="color:red;">NOTE:</b> For arrivals from 29 Dec 2021,2359hrs:<br> Cyprus, Denmark, France, Greece, the Netherlands, Portugal, Spain, Sri Lanka, the United Kingdom, the United States</p>
+	</th>
 </tr>
 </thead>
 <tbody>
@@ -196,7 +198,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions <sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe. Non-SC/PRs with a travel history to the specified countries/regions are barred from entry until further notice.]</i></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions</th>
 </tr>
 </thead>
 <tbody>
@@ -385,7 +387,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions <sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe. Non-SC/PRs with a travel history to the specified countries/regions are barred from entry until further notice.]</i></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions <sup style="color:#ff695e">[Note]</sup></b><br><br><i style="text-align:left;">[<b style="color:#ff695e">Note:</b> Includes Singapore Citizens (SC) and Singapore Permanent Residents (PR) returning from Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe. Non-SC/PRs with a travel history to the specified countries/regions are barred from entry until 26 Dec 2021, 2359hrs.]</i></th>
 </tr>
 </thead>
 <tbody>
