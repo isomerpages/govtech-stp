@@ -443,7 +443,7 @@ input:checked + label + .content {
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (IV) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits less than 24 hours)</span></td>
 </tr>
 	<tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle;"><b>All Other Countries/Regions</td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle;"><b>All Other Countries/Regions</b></td>
 </tr>
 	<tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Click to expand the health measures by Pass Type</b></td></tr>
@@ -516,10 +516,13 @@ input:checked + label + .content {
 	</td>
 	</tr>
 	</table>
-<br>
+
+
+
 
 
 <div id="before-1"></div>
+
 
 
 ### Travel Health Control Measures for WPHL-Pass Holders [for arrivals before 26 Dec 2021, 2359 hours]
