@@ -70,7 +70,7 @@ Please note that:
 
 Pass holders who are serving their Stay-Home Notice (SHN) or self-isolation <b>from 20 Dec 2021</b>, must recover or self-isolate at their current accommodation, if any of the following happens: 
 - COVID-19 Polymerase Chain Reaction (PCR) test result is positive.
-- COVID-19 Antigen Rapid Test (ART) result is positive
+- COVID-19 Antigen Rapid Test (ART) result is positive.
 - They are identified as close contacts of a COVID-19 case and have received a Health Risk Warning (HRW).
 
 For confirmed or suspected cases of Omicron and their close contacts, a differentiated approach will be adopted. 
