@@ -198,7 +198,7 @@ This page provides a summary of the four categories of travel health control mea
 	
 <table style="overflow: hidden;">
 <thead>
-	<tr>
+<tr>
 <th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (IV) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-4">Click here</a> for step-by-step Category (IV) Traveller’s Checklist]</i></span></th>
 </tr>
 <tr>
@@ -207,7 +207,7 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 </thead>
 <tbody>
-	<tr>
+<tr>
 <td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ol style="margin-top:0px; list-style-type: decimal;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days</b> before departure and obtain a copy of the negative COVID-19 test report that: 
@@ -224,14 +224,14 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn#sdf">SHN Dedicated Facility</a>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
 </td>
-	</tr>
-	</tbody>
-	</table>
+</tr>
+</tbody>
+</table>
 
 
 <div id="before-1"></div>
