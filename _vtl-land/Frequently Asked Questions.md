@@ -215,9 +215,12 @@ The electronic or physical vaccination certificate(s) should be in English and c
 
 #### 3. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL (Land)?
 
-If you have an EU Digital COVID Certificate (EU DCC) issued by any VTL country/region showing the final dose in the series (i.e. “1/1” or “2/2”), you will fulfill the vaccination requirement under the VTL (Land). Holders of a Singapore Long-Term Pass may proceed to apply for a <a href="https://go.gov.sg/vtl-portal" target="_blank">Vaccinated Travel Pass (VTP) here</a> and upload the QR code found on their EU DCC of vaccination on the VTP application portal.
+Yes, if the date of your vaccine dose is at least 14 days before the date of your intended arrival into Singapore and at least 28 days after the date of your first positive COVID-19 test. You must present a recovery certificate or discharge memo, which shows the date of your first positive COVID-19 test, to prove your recovery from COVID-19, in addition to your vaccination certificate showing 1 dose of vaccine. 
 
-For all other travellers, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form</a> and provide your proof of vaccination and recovery certificate.
+If you are required to apply for a VTP (Land), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form</a> here and provide your proof of vaccination and recovery certificate and discharge memo. 
+
+You do not need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination, NHS COVID Pass of vaccination, or Northern Ireland COVID certificate showing the final dose in the series (i.e. “1/1”). If you are required to apply for a VTP(Land), you need only upload the QR code found on your vaccination certificate 
+
 
 #### 4. I was fully vaccinated in a non-VTL country/region and have since obtained a vaccination certificate issued by a VTL country/region / had my vaccination records ingested into Singapore’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
 
