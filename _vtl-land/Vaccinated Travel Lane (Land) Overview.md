@@ -132,7 +132,7 @@ input:checked + label + .content {
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Malaysia Citizen</li>
 	</ol>
 	</p>
-<p style="line-height:1.4; font-size:18px; "><i>*Holders of an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass) are not allowed to enter Singapore under the VTL (Land). These travellers should apply for entry under the Work Pass Holder General Lane instead.</i></p>
+<p style="line-height:1.4; font-size:18px; "><i>*Holders of an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass) who are Malaysia citizens should apply as "Short-Term Visitors" for thier Vaccinated Travel Pass. Those who are not Malaysia Citizens are not allowed to enter Singapore under the VTL (Land).</i></p>
 </div>
 
 <input type="checkbox" id="title2" />
