@@ -899,7 +899,7 @@ input:checked + label + .content {
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (IV) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 14-day Travel History (excluding transits less than 24 hours)</span></td>
 </tr>
 	<tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:left; vertical-align:middle;"><b>All Other Countries/Regions (<u>except</u> Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe)</b><br><p style="font-size:16px;line-height:1.5; text-align:left;"><b><u>Note</u></b>: Pass Holders with travel/transit history in the past 14 days to Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe will not be allowed to enter or transit Singapore until further notice. This applies even if pass holders had obtained an entry approval earlier on.</p></td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:left; vertical-align:middle;"><b>All Other Countries/Regions (<u>except</u> Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe)</b><br><p style="font-size:16px;line-height:1.5; text-align:left;"><b><u>Note</u></b>: Pass Holders with travel/transit history in the past 14 days to Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe will not be allowed to enter or transit Singapore until further notice. This applies even if pass holders had obtained an entry approval earlier on.</p></td>
 </tr>
 	<tr>
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Click to expand the health measures by Pass Type</b></td></tr>
@@ -939,8 +939,8 @@ input:checked + label + .content {
 		</ol>
 </div>
 	<!--Cat4 Other Work Pass Holders-->
-	<input type="checkbox" id="OtherWorkPassHolders-4" />
-<label for="OtherWorkPassHolders-4" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
+	<input type="checkbox" id="OtherWorkPassHolders-4-before" />
+<label for="OtherWorkPassHolders-4-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival.</b></li>
