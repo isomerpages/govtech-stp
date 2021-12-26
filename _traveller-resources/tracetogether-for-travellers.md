@@ -69,7 +69,7 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
   </tbody>
   </table>
 
-<b>Token Collection [Until 31 Dec 2021 Only]</b>
+<b>Token Collection [From 1 Jan 2022]</b>
 
 Starting from 1 Jan 2022, Short-Term Visitors can obtain TT tokens with a payment of S$13 per token, from the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> (open from 10am-7pm daily), or any of the TT Token collection booths found at the community centres. The community centre booths and their operating hours can be found at <A href="https://token.gowhere.gov.sg" target="_blank">https://token.gowhere.gov.sg</a>.
 
