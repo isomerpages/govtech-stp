@@ -90,7 +90,7 @@ To facilitate contact tracing, travellers are required to carry their own tokens
 
 Tokens will be replaced free-of-charge if they stop working due to (1) battery lifespan, (2) manufacturing defect or (3) damage not due to visitor’s negligence. Otherwise, replacements are subject to the same fee.
 
-<i><b>Returning TraceTogether Token – departures until 31 Dec 2021, 2359hrs</b></i><br><br>
+<i><b>Returning TraceTogether Token – Departures until 31 Dec 2021, 2359hrs</b></i><br><br>
 Just before departing Singapore, visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore. Details on where the tokens return booths/counters can be found [here](https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674823-Do-Short-Term-Visitors-need-to-return-their-TraceTogether-TT-Tokens-before-leaving-Singapore-). Visitors who do not return their tokens in-person prior to their departure from Singapore will have their S$50 deposit forfeited.
 
 The S$50 deposit will be refunded if:
@@ -99,7 +99,7 @@ The S$50 deposit will be refunded if:
 -	the visitor is returning the token in-person.
 
 
-<i><b>Returning TraceTogether Token – departures from 1 Jan 2022</b></i>
+<i><b>Returning TraceTogether Token – Departures from 1 Jan 2022</b></i>
 <br><br>
 Travellers who obtained a TraceTogether Token from 1 Jan 2022 onwards do not need to return their TraceTogether Tokens after departure from Singapore.
 
