@@ -14,7 +14,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 **Step 2:** Travellers should contact the SDFs listed under the [Suite Options](#options) section below to directly enquire and book their preferred suite, if available. Travellers should check their eligibility based on their travel history before booking their suite.
 
-**Step 3:** After booking a suite with their preferred SDF, travellers should immediately inform government agencies of the booking at [https://go.gov.sg/sdfsuite](https://go.gov.sg/sdfsuite) . This is to ensure that conveyance to the right SDF (where the suite was booked) is arranged. <u>The submission must be made at least 48 hours before the traveller’s arrival in Singapore. Travellers who fail to submit their booking details on time may be assigned to a standard room at any SDF upon arrival.</u> The charge for a subsequent transfer to another SDF is at least S$345 (S$300 for specialised cleaning costs for the vacated room; S$45/vehicle for transport to the next SDF).
+**Step 3:** After booking a suite with their preferred SDF, travellers should immediately inform government agencies of the booking at [https://go.gov.sg/sdfsuite](https://go.gov.sg/sdfsuite). This is to ensure that conveyance to the right SDF (where the suite was booked) is arranged. <u>The submission must be made at least 48 hours before the traveller’s arrival in Singapore. Travellers who fail to submit their booking details on time may be assigned to a standard room at any SDF upon arrival.</u> The charge for a subsequent transfer to another SDF is at least S$345 (S$300 for specialised cleaning costs for the vacated room; S$45/vehicle for transport to the next SDF).
  
 **Step 4:** Travellers (including Singapore Citizens and Permanent Residents) will pay for the full cost of the suite directly to the SDF during check-in. Travellers who have already paid the default SDF cost when applying for entry approval or a SafeTravel Pass will pay the difference in cost directly to the SDF during check-in. 
 
@@ -25,9 +25,6 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
   
 <table>
   <thead>
-		    <tr>
-      <th colspan="4" style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED"><b>Note: Only travellers who do not have travel history to Botswana, Eswatini, Ghana, Lesotho, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe in the last 14 days prior to entering Singapore are eligible to book a suite.</b></th>
-    </tr>
     <tr>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">&nbsp;</th>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Standard (80-100sqm)
@@ -66,6 +63,6 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 **Step 2:** Travellers should contact the SDFs listed under [Suite Options](#options) section above to directly enquire and book their preferred suite, if available.
 
-**Step 3:**  After booking a suite with their preferred SDF, travellers must submit their booking details and confirmation at . <u>The submission must be made at least 48 hours prior to the intended stay at the suite.</u>
+**Step 3:**  After booking a suite with their preferred SDF, travellers must submit their booking details and confirmation at <a href="https://go.gov.sg/sdfsuite" target="_blank">https://go.gov.sg/sdfsuite</a>. This is to ensure that conveyance to the right SDF (where the suite was booked) is arranged. <u>The submission must be made at least 48 hours prior to the intended stay at the suite.</u>
 
 **Step 4:** Your existing SDF will contact you about the transport arrangements to the selected SDF and will collect payment for the additional costs at check-out. The cost of the suite will be pro-rated according to the number of remaining SHN days left to serve.

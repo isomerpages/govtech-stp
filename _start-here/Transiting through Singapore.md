@@ -9,7 +9,7 @@ description: Requirements for transiting through Singapore
 
 <p style="font-size:20px; line-height:1.35;">Travellers are advised to check with their airlines if it has an approved transfer route through Singapore before purchasing tickets. <b>Travellers do not need to obtain approvals under any Safe Travel Lane (e.g. Vaccinated Travel Lane) to transit in Singapore.</b></p>
 
-<p style="font-size:20px; line-height:1.35;">Travellers with travel history to the following countries/regions within the past 14 days, are not allowed to transit via Singapore until further notice:</p>
+<p style="font-size:20px; line-height:1.35;">Travellers with travel history to the following countries/regions within the past 14 days, are not allowed to transit via Singapore until <b>after 26 Dec 2021, 2359hrs:</b>:</p>
 
 <ol style="margin-top:15px; list-style-type:disc">
 	   <li style="font-size:20px; line-height:1.35;">Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe.</li>
@@ -50,7 +50,7 @@ description: Requirements for transiting through Singapore
 	</tr>
   	<tr>
 	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"><b><u>Category (IV)</u></b>:<p style="margin-top: 20px; font-size: 18px; text-align: left; line-height:1.35;"><b>All other countries or regions not in Category I, II, III<sup>*</sup></b> </p>
-<p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;"><i>[*Non-Singapore Citizens/Permanent Residents with a travel history to Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe are barred from transit until further notice.]</i></p>
+<p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;"><i>[*Non-Singapore Citizens/Permanent Residents with a travel history to Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe are barred from transit until <b>after 26 Dec 2021, 2359hrs.</b>]</i></p>
 </td>
     	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;">COVID-19 Polymerase Chain Reaction Test</td>
 	</tr>

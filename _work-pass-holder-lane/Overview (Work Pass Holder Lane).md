@@ -3,9 +3,9 @@ title: Overview (Work Pass Holder Lane)
 permalink: /wphl/overview
 description: ""
 ---
-<div style="padding-left: 5px; padding-bottom: 20px; padding-top: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<!--<div style="padding-left: 5px; padding-bottom: 20px; padding-top: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red;">NOTE:</span> </b><b><span style="color:black;">If you hold a valid entry approval letter under the Work Pass Holder Lane but wish to apply to enter under the Vaccinated Travel Lane (VTL), please write in via the <a href="http://go.gov.sg/sto-enquiry" target="_blank">SafeTravel Enquiry Form</a> for assistance. All short-term visitors and long-term pass holders are required to have a Vaccinated Travel Pass and fulfil VTL conditions in order to qualify for quarantine-free travel under the VTL. Click for more information on the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a>.</span></b></p>
-	</div>
+	</div>-->
 	
 The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates the entry of foreigners with passes granted by the Ministry of Manpower (“Pass holders”). All pass holders must obtain an entry approval to enter Singapore. This however, excludes pass holders conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea.
 
@@ -169,4 +169,4 @@ Click on the relevant links to MOM’s website for:
 - <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">Pass related matters (e.g. IPA extensions, pass issuance or renewals)</a>
 - <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">Entry applications for CMP workers</a>
 
-<!--If you have applied for entry via the Work Pass Holder Lane with the Safe Travel Office, you may check the status of your application <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">here</a>.--> All applications submitted to MOM should be enquired with the Ministry directly. If your questions are not addressed by the FAQs above, you can submit your question <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>.
+If you have applied for entry via the Work Pass Holder Lane with the Safe Travel Office, you may check the status of your application <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">here</a>. All applications submitted to MOM should be enquired with the Ministry directly. If your questions are not addressed by the FAQs above, you can submit your question <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>.
