@@ -342,7 +342,7 @@ Travellers should register and pay for their on-arrival COVID-19 PCR test separa
    </tr> 
       <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:16px;border-right:2px solid #E0E0E0;"><a href="/stpl/overview">Student’s Pass Holder Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">PayPal payment link for SDF stay and COVID-19 PCR tests during SHN will be provided upon provisional approval of application.<br><br>To expedite clearance at the airport, travellers should register and pay for their on-arrival COVID-19 PCR tests <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a>. The PCR test will cost SGD$125 including GST.
+      <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">To expedite clearance at the airport, travellers should register and pay for their on-arrival COVID-19 PCR tests <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a>. The PCR test will cost SGD$125 including GST.
 </td>
    </tr> 
       <tr style="border-bottom:1.2px solid #E8E8E8">
@@ -406,7 +406,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
     </tr>
       <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/overview">Student’s Pass Holder Lane user</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://form.gov.sg/#!/5f6858d80666cb0011cae36e">Refund Form</a>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://form.gov.sg/#!/5f6858d80666cb0011cae36e">Refund Form</a><br/><br/> Refund requests must be submitted within <b><u>3 months</u></b> from the end of SHN or the end of the SafeTravel Pass validity period, whichever is later. Late requests will <b><u>not</u></b> be considered
 </td>
    </tr> 
   </tbody>
