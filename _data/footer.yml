@@ -1,9 +1,9 @@
 contact_us: /contact-us/
-feedback: 
-faq: 
+feedback: null
+faq: null
 copyright_agency: Immigration & Checkpoints Authority
 social_media:
   facebook: https://www.facebook.com/Immigration.Checkpoints.Authority/
   twitter: https://twitter.com/ICA_Singapore
   youtube: https://www.youtube.com/user/ICAOutreach
-
+show_reach: false
