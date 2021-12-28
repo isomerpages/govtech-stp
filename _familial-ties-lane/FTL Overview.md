@@ -49,7 +49,7 @@ The table below is a quick overview of the key FTL features and requirements.
 </thead>
 <tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Applicant</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">SC/PR with a Singpass account to apply on behalf of the traveller<br><br><i>[<b>Note:</b>Fully vaccinated travellers may opt for entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank">(Land)</a>, if eligible, to enjoy quarantine-free entry.]</i>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">SC/PR with a Singpass account to apply on behalf of the traveller <br><br><i>[<b>Note:</b>Fully vaccinated travellers may opt for entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank">(Land)</a>, if eligible, to enjoy quarantine-free entry.]</i>
 </td>
 </tr>
 <tr>
