@@ -8,12 +8,12 @@ permalink: /health/FAQ
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN) and Dedicated SHN Facility</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#transport">Transport arrangements during SHN</a></li>
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#transport">Transport Advisories</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#outboundPDT">Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#vaccinated">Vaccinated Travellers intending to travel to Singapore</a>
-	</li>
+	<!--<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#vaccinated">Vaccinated Travellers intending to travel to Singapore</a>
+	</li>-->
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#nebuliser">Travellers who require the use of Nebuliser</a></li>
 </ol>
 
@@ -23,7 +23,7 @@ Can’t find what you’re looking for? Please check [here](https://www.moh.gov.
 
 ## Stay Home Notice (SHN) and Dedicated SHN Facility
 
-#### 1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?
+<!--#### 1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?
 
 The duration of your SHN, if required, depends on your travel history prior to arrival in Singapore, and Safe Travel Lane used. Please check the page [here](/arriving/overview) on the Safe Travel Lanes available depending on your traveller profile and travel history.
 
@@ -49,42 +49,42 @@ The SHN commences from the time the notice is issued to the traveller on arrival
 
 Travellers who are serving SHN at their own place of residence may end their SHN after they have received confirmation of a **negative** result for the SHN exit PCR tests.
 
-Travellers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.
+Travellers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.-->
 
-#### 5. What should I do if I need to attend to an emergency before checking into my Stay-Home Notice Dedicated Facility (SDF)?
+#### 1. What should I do if I need to attend to an emergency before checking into my Stay-Home Notice Dedicated Facility (SDF)?
 
 As a condition for entry into Singapore, all travellers must commute directly to their SHN accommodation or SDF **immediately** after clearing immigration. The failure to do so constitutes a breach of the SHN requirements which is punishable under Singapore’s laws.
 
 In the event of an emergency, travellers may contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
-#### 6. Am I permitted to serve my Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF) of my choice?
+#### 2. Am I permitted to serve my Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF) of my choice?
 
 Due to the fast-changing demands for SDFs, travellers will be assigned to an available SDF upon arrival. Travellers who wish to book an SDF suite at a specific hotel at an additional cost may [click here](/health/shn/sdfupgrade) for more information.
 
-#### 7. Due to the circumstances of my travel, e.g. I’m travelling with my extended family, I have some specific room requirements. How do I request for room adjustments?
+#### 3. I’m travelling with my extended family and have some specific lodging needs. Can I ask for room adjustments?
 
 Travellers already in SDF may contact the concierge at the Stay-Home Notice Dedicated Facility (SDF) first for help. 
 
 For travellers who are not yet in Singapore or for request that the SDF is unable to facilitate, e.g. caregiver support, SDF opt-out, travellers may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for more details. Travellers may also contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice
 
 
-#### 8. I previously received approval to serve my SHN at my own place of residence instead of at an SHN Dedicated Facility. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should i do? 
+#### 4. I previously received approval to serve my SHN at my own place of residence instead of at an SHN Dedicated Facility. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should i do? 
 
 Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) for more details, or contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
 <div id="transport"></div>
 
-## Transport Arrangements During SHN
+## Transport Advisories
 
 <div id="transportQ2"></div>
 
-#### 1. [For Travellers with Category (I), (II) or  (III) travel history] I am on self-isolation or serving Stay Home Notice at my own accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
+#### 1. What are the transport advisories for Travellers with Category (I), (II) or  (III) travel history, and are self-isolating or completing their Stay Home Notice at their accommodation?
 
-All travellers with a 14-day travel history (excluding transit) to only Categories (I), (II), and (III) countries/regions, will be able to serve SHN at self-sourced accommodation and commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps.    
+Travellers of these categorycan commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps. 
 
 <div id="note1"></div>
 	
-(i) <u><b>If you are using your own transport</b></u>
+(i) <u><b>Private Transport Use</b></u>
 
 Travellers may be picked up from the airport by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller, and the traveller must be ferried directly to their declared place of accommodation.
 
@@ -101,7 +101,7 @@ All persons in the vehicle must wear face masks throughout the journey. In addit
 
 <div id="note2"></div>
 
-(ii) <u><b>Booking taxi/private-hire vehicles</b></u>
+(ii) <u><b>Taxi/private-hire vehicles</b></u>
 
 When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
 
@@ -109,7 +109,7 @@ Only travellers with the same travel history and heading to the same declared pl
 
 All travellers are prohibited from taking public transport, e.g. public buses/trains.
 
-<div id="transportQ3"></div>
+<!--<div id="transportQ3"></div>
 
 #### 2. [For travellers with Category (IV) travel history] Due to personal circumstances, I have obtained approval to serve SHN at my place of residence/hotel/ serviced apartment. What are the types of transport that I can take?
 
@@ -144,7 +144,7 @@ Travellers who have obtained approval to serve SHN at their own accommodation **
   
 Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN.   
   
-The use of public transport (e.g. trains, buses and street-hailed taxis) is prohibited. 
+The use of public transport (e.g. trains, buses and street-hailed taxis) is prohibited. -->
 
 	
 Click here to [Go Back To Top](#top).
@@ -153,36 +153,25 @@ Click here to [Go Back To Top](#top).
 
 ## COVID-19 Tests
 
-#### 1. I have an upcoming flight to Singapore. Do I need to be tested for COVID-19 before travelling? What test should I take and how long before my departure should I be tested?
+#### 1. I have an upcoming flight to Singapore. Do I need to be tested for COVID-19 before travelling and how long before my departure should I be tested?
 
-Travellers approved for entry into Singapore <b>will be informed via a condition stipulated in the Entry Approval Letter or SafeTravel Pass on whether they need to be tested for COVID-19 before arrival</b>. Alternatively, travellers who are planning to visit Singapore may refer to the [specific safe travel lanes](/arriving/overview) to check if he/she needs to be tested before arrival.
+The testing requirement will be stated in the traveller's <b>Entry Approval Letter or SafeTravel Pass.</b> As these requirements are determined based on the traveller's travel schemes, prospective travellers should visit the <a href="/arriving/overview" target="_blank">"Travelling to Singapore"</a> page for details. 
 
-To test for COVID-19, travellers bound for Singapore may be required to take a COVID-19 Polymerase Chain Reaction (PCR) test within **2 days** before departing for Singapore. Category II and/or III travellers arriving in or transiting through Singapore can take either a professionally administered COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) to fulfil the pre-departure test requirement. <b>From 2 December 2021, 2359 hours</b>, Category I travellers arriving in or transiting through Singapore must also take a professionally administered PCR or ART within <b>2 days</b> of their departure for Singapore and obtain a negative result. Category II/III/IV travellers will still be required to take a COVID-19 pre-departure test as usual. 
+In general, travellers required to be tested before their flight will be required to do so <u>within 2 days before departure to Singapore</u> and produce documentary proof of having been tested. Failing which, they may be denied boarding or turned away. See examples below on the acceptable duration for which a test should be taken: 
 
-Singapore currently only accepts pre-departure COVID-19 PCR tests taken at an accredited or authorised testing facility, or Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional. Self-swabs are not allowed. Travellers should ask for a copy of their negative test result as it will be considered by the airline and immigration officer as proof that the traveller has been tested for COVID-19. The documentary proof should:
-<ul style="list-style-type: disc;">
-	<li>Be in English (or accompanied with an English translation);</li>
-	<li>Contain the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-	<li>Reflect the date and result of the test</li>
-</ul>	
+<b>Direct Flights:</b> If the PDT is taken on <b>1 November 2021</b>, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoints) <b>up to 3 November 2021, 2359 hours.</b>
 
-Handwritten negative PDT results are not accepted.
+<b>Connecting Flights to Singapore:</b> If the passenger's flight itinerary is LAX-NRT-SIN and the transit period at NRT is <u>less than 24 hours</u>, he must take his COVID-19 test within <u>2 days</u> before the scheduled departure of his flight from LAX. Should he remain at NRT for <u>more than 24 hours</u> for his connecting flight to Singapore, he will take a pre-departure test at NRT.
 
-Travellers who fail to produce the required documentary proof of having taken the COVID-19 test within the stipulated time before arrival in Singapore may be denied boarding or turned away.
+<!--#### 2. I am transiting via Singapore. Do I still need to have a valid negative COVID-19 test result?
 
-In general, travellers who are required to take a COVID-19 test must do so <u>within 2 days before departure to Singapore</u>. For passengers on <b>direct flights</b> to Singapore, the <u>2 days</u> will be counted from the scheduled departure day of the flight to Singapore. For example, if the PDT is taken on <b>1 November 2021</b>, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoints) <b>up to 3 November 2021, 2359 hours</b>.
+Click <a href="/transit/overview#PDT">here</a> for the relevant details.-->
 
-For passengers who are taking a <b>connecting flight</b> to Singapore, the <u>2 days</u> will be counted from the scheduled departure of his flight from his first embarkation point of his journey to Singapore. For example, if the passenger’s flight itinerary is LAX-NRT-SIN, the COVID-19 test must be taken within <u>2 days</u> before the scheduled departure of his flight from LAX.
+#### 3. Can I travel to Singapore if I do not have a valid negative Covid-19 test certificate?
 
-#### 2. I am transiting via Singapore. Do I still need to have a valid negative COVID-19 test result?
+As a condition to enter Singapore, travellers must produce a negative COVID-19 test result. This may be enforced by the airline/transport operator during pre-boarding checks. Unless there are other compelling reasons, travellers failing to meet this condition will be denied entry into Singapore.
 
-Click <a href="/transit/overview#PDT">here</a> for the relevant details.
-
-#### 3. What will happen if I arrive in Singapore and do not have a valid negative Covid-19 test certificate?
-
-As a condition to enter Singapore, travellers may be required to produce a negative COVID-19 test result. This may be enforced by the airline during pre-boarding checks. Unless there are other compelling reasons, travellers failing to meet this condition will be denied entry into Singapore.
-
-Travellers who present falsified COVID-19 test certificates will be dealt with accordingly, and may be barred from future applications for entry into or stay in Singapore.
+Travellers may only enter if there are compelling reasons. Individuals who present falsified COVID-19 test certificates will be dealt with accordingly, and may be barred from future entry applications.
 
 <div id="recovered"></div>
 
@@ -202,7 +191,7 @@ Travellers will be denied boarding by their airline or ferry if they are:
 - diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or
 - tested positive on the COVID-19 test within <u>2 days</u> before departure for Singapore.
 
-<div id="testresult"></div>
+<!--<div id="testresult"></div>
 
 #### 6. How will I be informed of my COVID-19 test result at the end of SHN?
 
@@ -218,23 +207,23 @@ Action will be taken against travellers who fail to comply with any of the stipu
 
 #### 8. Do I have to complete my Stay-Home Notice (SHN) if I have been tested negative for COVID-19 before departing to Singapore?
 
-Yes, travellers must complete their SHN even after they are tested negative for their COVID-19 test before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
+Yes, travellers must complete their SHN even after they are tested negative for their COVID-19 test before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.-->
 
-#### 9. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
+#### 6. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
 Travellers arriving from countries that require a COVID-19 test must do so if they are three years old and above in that calendar year (i.e. born in and before 2018) and departing for Singapore from their first point of embarkation. Travellers whose children are below three years old in that calendar year, i.e. born after 2018, are exempted.
 
-#### 10. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
+#### 7. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
 Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.gov.sg/covid-19/faqs) to other members of the community if undetected. As part of border health control measures to detect cases early and minimise the public health risk of community transmission, COVID-19 testing is extended to inbound travellers aged 3 and above (in that calendar year). 
 
-#### 11. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
+#### 8. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
 
 In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
-#### 12. I am unwell. Can I postpone my COVID-19 Polymerase Chain Reaction test (“PCR test”) appointment?
+<!--#### 12. I am unwell. Can I postpone my COVID-19 Polymerase Chain Reaction test (“PCR test”) appointment?
 
-Travellers who are due to take their PCR test but are feeling unwell should remain in their [Stay-Home Notice (SHN)](/health/shn) accommodation, e.g. own residence or [SHN-Dedicated Facility (SDF)](/health/shn#sdf), and alert the relevant agencies listed in this [page](https://go.gov.sg/tc).
+Travellers who are due to take their PCR test but are feeling unwell should remain in their [Stay-Home Notice (SHN)](/health/shn) accommodation, e.g. own residence or [SHN-Dedicated Facility (SDF)](/health/shn#sdf), and alert the relevant agencies listed in this [page](https://go.gov.sg/tc).-->
 
 Click here to [Go Back To Top](#top).
 
@@ -249,39 +238,39 @@ Travellers who have been vaccinated in Singapore should check with the authoriti
 
 No, the traveller should digitally authenticate and endorse their HealthCerts themselves at https://www.notarise.gov.sg . When issuing the HealthCerts to them, clinics, labs and/or the tech provider should also highlight the requirement to the traveller. In the event that the tech providers are already performing digital authentication and endorsement via Application Programming Interfaces (API), travellers will receive an endorsed document without having to transact on the Notαrise portal.
 
-#### 3. The PRC embassy stipulates both PCR and serology IgM tests for all travellers entering China. Since the HealthCert is currently only for PCR tests, how will travellers meet the entry requirements?
+<!--#### 3. The PRC embassy stipulates both PCR and serology IgM tests for all travellers entering China. Since the HealthCert is currently only for PCR tests, how will travellers meet the entry requirements?
 
-The combined PCR and IgM HealthCert will be available soon. In the meantime, travellers should highlight to the clinic if their PDT is for the purposes of entry to China, in which case they should be issued with an additional paper certificate in accordance with the PRC embassy’s requirements. [This page](/departing/overview#PDT) will be updated accordingly when the combined schema is available.
+The combined PCR and IgM HealthCert will be available soon. In the meantime, travellers should highlight to the clinic if their PDT is for the purposes of entry to China, in which case they should be issued with an additional paper certificate in accordance with the PRC embassy’s requirements. [This page](/departing/overview#PDT) will be updated accordingly when the combined schema is available.-->
 
-#### 4. The country/region I am travelling to requires a test other than a PCR test. Since the HealthCert is currently only for PCR tests, how will travellers show their test results to the relevant authorities?
+#### 3. The country/region I am travelling to requires a test other than a PCR test. Since the HealthCert is currently only for PCR tests, how will travellers show their test results to the relevant authorities?
 
 In such a case, the traveller may request for a hardcopy test result from the doctor to show to the airlines and immigration authorities of the arrival country/region.
 
-#### 5. How will travellers receive their Pre-Departure Test (PDT) certificate?
+#### 4. How will travellers receive their Pre-Departure Test (PDT) certificate?
 
 The test results will be sent to the traveller by either the clinic where the PDT was taken, or by their partnering clinical laboratory. This will be in the form of a digital certificate in accordance with the HealthCerts schema and standards. In the event the traveller does not have the ability to show the digital certificate on arrival at the destination country/region, the traveller may request for a hardcopy from the doctor.
 
-#### 6. Can travellers still use digital certificates without a SingPass account (e.g. foreign citizen who is a short-stay traveller)?
+#### 5. Can travellers still use digital certificates without a SingPass account (e.g. foreign citizen who is a short-stay traveller)?
 
 Travellers may still digitally authenticate and endorse their test certificate on www.notarise.gov.sg without signing in to SingPass. However, please note that the traveller will only be receive the endorsed HealthCert via email, with no additional copy stored in the SingPass mobile app.
 
-#### 7. What if the digitally authenticated and endorsed certificate was not sent to the traveller?
+#### 6. What if the digitally authenticated and endorsed certificate was not sent to the traveller?
 
 Please check the email spam folder. If the email is still not there, please contact . 
 
-#### 8. Can a third party transact on behalf of a traveller who requires the assistance to digitally authenticate and endorse their PDT certificate?
+#### 7. Can a third party transact on behalf of a traveller who requires the assistance to digitally authenticate and endorse their PDT certificate?
 
 Yes, a third party may do so if they have the digital certificate of the traveller(s) that they will be transacting on behalf of.
 
-#### 9. Where can GP clinics find out more about digital certificate capabilities and providing PDTs?
+#### 8. Where can GP clinics find out more about digital certificate capabilities and providing PDTs?
 
 Clinics may refer to the following circulars on the MOH website: [Mandating Digital Health Certificates for COVID-19 Pre-Departure Testing](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/mandating-digital-health-certificates-for-covid-19-predeparture-testing), and [Extension of Deadline for Digital Health Certificates for COVID-19 Pre-Departure Testing](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/extension-of-deadline-for-digital-health-certificates-for-covid19-pre-departure-testing)
 
-#### 10. Where can I see my vaccination records? 
+#### 9. Where can I see my vaccination records? 
 
 Vaccination records are kept electronically in the National Immunisation Registry, as well as on apps such as TraceTogether and HealthHub. You can also refer to your physical vaccination card that is given to all vaccinated individuals. These are for your own reference, to check if you are vaccinated.
 
-#### 11. Can I use my physical vaccination card for travel purposes? 
+<!--#### 11. Can I use my physical vaccination card for travel purposes? 
 
 The physical vaccination card that is given to all vaccinated individuals is not meant to be used for travel purposes. We are actively engaging international counterparts and monitoring global developments on the development and recognition of digital vaccination certificates for travel purposes. Travellers should also take note of the latest travel advisory for Singaporeans and residents of Singapore published by <a href="https://www.moh.gov.sg/covid-19">MOH</a>.
 
@@ -289,7 +278,7 @@ The physical vaccination card that is given to all vaccinated individuals is not
 
 The physical vaccination card that is given to all vaccinated individuals is not meant to be used for travel purposes/ proof of vaccination. For purposes of travel, you can request for a digital vaccination certificate from <a href="https://www.notarise.gov.sg">Notαrise</a>. This will be sent to your email and/or Singpass app, and can also be printed out. Please be aware that the use of this digital vaccination certificate is subject to the prevailing entry requirements of your destination country. 
 
-Travellers should check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to">MFA website</a> for the latest travel advisories to other countries/ regions, as well as the immigration authority or embassy of the destination country/ region on the relevant health requirements imposed on travellers from Singapore. Travellers should also take note of the latest travel advisory for Singaporeans and residents of Singapore published by <a href="https://www.moh.gov.sg/covid-19">MOH</a> .
+Travellers should check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to">MFA website</a> for the latest travel advisories to other countries/ regions, as well as the immigration authority or embassy of the destination country/ region on the relevant health requirements imposed on travellers from Singapore. Travellers should also take note of the latest travel advisory for Singaporeans and residents of Singapore published by <a href="https://www.moh.gov.sg/covid-19">MOH</a> .-->
 
 Click here to [Go Back To Top](#top).
 
@@ -302,7 +291,7 @@ Click here to [Go Back To Top](#top).
 
 Yes, all travellers serving their Stay-Home Notice at an [SDF](/health/shn#sdf) are required to pay for the cost of the accommodation.
 
-#### 2. When and how should I pay for my COVID-19 Polymerase Chain Reaction test (“PCR test”) and Stay-Home Notice Dedicated Facility (SDF)?
+<!--#### 2. When and how should I pay for my COVID-19 Polymerase Chain Reaction test (“PCR test”) and Stay-Home Notice Dedicated Facility (SDF)?
 
 All arriving travellers are required to pay for their Covid-19 test and [SDF](/health/shn#sdf). Travellers who are sponsored may work out the payment arrangement with their application sponsors.
 
@@ -363,10 +352,10 @@ Travellers should register and pay for their on-arrival COVID-19 PCR test separa
 </td>
    </tr> 
       </tbody>
-  </table>
+  </table>-->
 
 
-#### 3. How do I request a refund for my COVID-19 Polymerase Chain Reaction test (“PCR test’) as well as stay at the Stay-Home Notice (SHN) dedicated facility (SDF)?
+#### 2. How do I request a refund for my COVID-19 Polymerase Chain Reaction test (“PCR test’) as well as stay at the Stay-Home Notice (SHN) dedicated facility (SDF)?
 
 Pre-payments made for relevant costs such as [SDF](/health/shn#sdf) and COVID-19 test fees during the entry application process are non-refundable for drop-outs and last minute cancellations. All forfeited pre-payments will go toward covering the relevant costs have been incurred to secure and prepare the accommodation for the traveller.
  
@@ -436,10 +425,10 @@ Requests for refunds will only be considered if there are strong mitigating fact
 Click here to [Go Back To Top](#top).
 
 
-<div id="vaccinated"></div>
+<!--<div id="vaccinated"></div>
 
 
-## Vaccinated Travellers intending to travel to Singapore
+## Vaccinated Travellers intending to travel to Singapore-->
 
 <!--#### 1. Who are "fully vaccinated travellers"?
 
@@ -536,11 +525,11 @@ Tozinameran (INN)</li>
 For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">click here</a> and refer to <i>"COVID-19 Vaccine EUL issued"</i> section.-->
 
 
-#### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
+<!--#### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
 [Fully vaccinated travellers](/health/vtsg) utilising the Vaccinated Travel Lane via flight and land are not be required to serve a Stay-Home Notice. Please refer to the <a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air) [VTL (Air)]</a> and <a href="/vtl-land/overview">Vaccinated Travel Lane (Land) [VTL (Land)]</a> for more information.
 
-Click here to [Go Back To Top](#top).
+Click here to [Go Back To Top](#top).-->
 
 
 <div id="nebuliser"></div>
