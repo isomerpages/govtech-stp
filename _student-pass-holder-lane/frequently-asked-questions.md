@@ -11,6 +11,8 @@ permalink: /stpl/faq
    <li style="line-height:1.5;"><a href="#vtl">Student's Pass Holders who are considering travel under the Vaccinated Travel Lanes (VTL)</a></li>
   </ol>
   
+Can't find what you are looking for? Please check <a href="/health/faq" target="_blank">here</a> for more information.   
+  
 <div id="requirements"></div>
 
 ### Requirements and process for the Student's Pass Holder Lane (STPHL)
@@ -94,7 +96,7 @@ Fully Vaccinated STP/STP-IPA holders from a VTL (Air/Land) country can enter Sin
 <ol>
   <li style="line-height:1.5;">Under the vaccinated Travel Lanes (<a href="/vtl/requirements-and-process" target="_blank">Air</a> / <a href="/vtl-land/overview" target="_blank">Land</a>): Obtain a valid Vaccinated Travel Pass (VTP) <b>at least 7 days before </b>planned arrival. <br><br> To be eligible for the VTLs, the traveller must only have travel history to Singapore, <a href="/vtl/requirements-and-process#countries" target="_blank">VTL countries</a> or <a href="/shn-and-swab-summary" target="_blank"> Category I countries/regions</a>, can only arrive in Singapore on a designated VTL flight/bus, and must satisfy all conditions under the VTL (Air / Land).</li>
   <p style="margin-top:10px; margin-bottom:10px;"><b>OR</b></p>
-  <li style="line-height:1.5;">Under the <a href="/stpl/overview" target="_blank">Student's Pass Holder Lane (STPHL)</a>: Obtain a valid entry approval (“SafeTravel Pass”) at least 2 weeks before your planned arrival. Applications can be made <a href="https://eservices.ica.gov.sg/STO1/STPHL" target="_blank">here</a>.<br/><br/>The STP/STP-IPA holder will be subject to the prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a>. <br/><br/> Please also note that all payments made for entry applications under the STPHL are non-refundable. </li>
+  <li style="line-height:1.5;">Under the <a href="/stpl/overview" target="_blank">Student's Pass Holder Lane (STPHL)</a>: Obtain a valid entry approval (“SafeTravel Pass”) at least 2 weeks before your planned arrival. Applications can be made <a href="https://eservices.ica.gov.sg/STO1/STPHL" target="_blank">here</a>.<br/><br/>The STP/STP-IPA holder will be subject to the prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a>. <br/><br/> Please also note that all payments made for entry applications under the STPHL are <b>non-refundable</b>, and also <b>cannot be transferred</b> to offset payments required under the VTL </li>
   </ol> 
   
 STP/STP-IPA holders who do not fulfil the requirements of the respective travel lanes on arrival will be denied entry into Singapore.
@@ -110,11 +112,11 @@ If you enter Singapore using the entry approval (“SafeTravel Pass”) obtained
 
 If you wish to enter Singapore without having to serve SHN, you will need to obtain a Vaccinated Travel Pass (VTP) under the Vaccinated Travel Lane. You must also enter Singapore on a designated VTL flight or bus service. For more information, please refer to the webpages for the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> and <a href="/vtl-land/overview" target="_blank">VTL (Land)</a>.
 
-Please also note that payments made for the entry application under the STPHL are non-refundable. However, if you obtained your entry approval under the STPHL before the announcement of the VTL, and later enter Singapore under the VTL, you may be eligible for a refund.
+Please also note that payments made for the entry application under the STPHL are non-refundable, and also cannot be transferred to offset payments required under the VTL. However, if you obtained your entry approval under the STPHL before the announcement of the VTL, and later enter Singapore under the VTL, you may be eligible for a refund.
 
 #### 12. Can I apply for both an entry approval (“SafeTravel Pass”) under the Student’s Pass Holder Lane (STPHL) and a Vaccinated Travel Pass (VTP) under the Vaccinated Travel Lane (VTL)?
 
-You may apply for both a SafeTravel Pass under the STPHL and a VTP under the VTL for the same travel period. However, please note that if you had applied for the SafeTravel Pass after the announcement of the VTL, the fees you have paid under the STPHL will be non-refundable. 
+You may apply for both a SafeTravel Pass under the STPHL and a VTP under the VTL for the same travel period. However, please note that if you had applied for the SafeTravel Pass after the announcement of the VTL, the fees you have paid under the STPHL will be non-refundable, and also cannot be transferred to offset payments required under the VTL. 
 
 
 #### 13. If I am unable to secure a seat on a designated flight under the Vaccinated Travel Lane (VTL), can I apply for an entry approval (“SafeTravel Pass”) under the Student’s Pass Holder Lane (STPHL)?

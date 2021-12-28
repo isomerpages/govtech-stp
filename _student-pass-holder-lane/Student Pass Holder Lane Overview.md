@@ -4,7 +4,7 @@ permalink: /stpl/overview
 description: Overview of the Student Pass Holder Lane
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red;">NOTE:</span> </b><b><span style="color:black;"> Student's Pass Holders who wish to enter Singapore under the Vaccinated Travel Lane (VTL) will need to apply for a Vaccinated Travel Pass (VTP) and fulfil VTL conditions to qualify for quarantine-free travel. This includes arriving on a designated VTL flight/bus service. Click for more information on the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a>. If you already hold an entry approval under the Student's Pass Holder lane, please refer to the <a href="/stpl/faq" target="_blank">FAQs</a></span></b></p>
+	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red;">NOTE:</span> </b><b><span style="color:black;"> Travellers are reminded that they will be responsible for all costs associated with COVID-19 treatment and recovery, including any necessary extensions to their stay at their accommodation, if they test positive for COVID-19. Travellers should ensure that they have sufficient funds or insurance coverage for these costs. Please <a href="/health/insurance-and-treatment" target="_blank">click here</a> for more information. </span></b></p>
 	</div>
 
 The Student’s Pass Holder Lane (STPHL) is a Safe Travel lane that facilitates the entry of Student’s Pass (STP) holders and their eligible family members into Singapore. STP holders who are related to a Singapore Citizen or Permanent Resident (SC/PR), e.g. immediate family member, relative or fiancé/fiancée, should apply for entry via the [Familial Ties Lane](/scpr-familial-ties-lane/overview). Foreign students holding a Dependent’s Pass and family members holding MOM-issued passes should apply for entry via the [Work Pass Holder General Lane](/wphl/overview).
@@ -37,7 +37,7 @@ The table below provides a quick overview of the key STPHL features, requirement
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 14-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed.  <br><br> Entry bans for arrival from Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe, will be lifted from 26 Dec 2021, 2359hrs.</p>
+			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed. </p>
 		 </td>
  </tr>
 </tbody><thead>
@@ -47,7 +47,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </thead>
 <tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Applicant</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers themselves <br><br><i>[<b>Note:</b>Fully vaccinated travellers may opt for entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank">(Land)</a>, if eligible, to enjoy quarantine-free entry.]</i>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers themselves
 </td>
 </tr>
 <tr>
