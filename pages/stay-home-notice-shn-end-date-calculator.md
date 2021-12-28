@@ -2,19 +2,19 @@
 title: Stay-Home Notice (SHN)  End-date Calculator
 permalink: /shn-calculator
 ---
-<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTE</b></p>
-<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.2;">Please note that the following calculators are meant for the calculation of expected end dates of SHN, <u>for those  who already know the SHN duration imposed on them.</u></p>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">Travellers who want to find out the specific health control measures (including SHN duration and swab requirements) applicable to them by their profile and country/region of travel, should refer <a href="/arriving/overview">here</a> for the list of Safe Travel Lanes available. The duration of SHN imposed will vary depending on the Safe Travel Lane used to enter Singapore, and the traveller's travel history.</p>
-</div>
 
-## Overview
+## Instructions Before Use: 
 
-The following [SHN](/health/shn) end-date calculators will only provide the indicative SHN-end date. A definitive SHN end date and time cannot be provided as travellers can only leave their SHN accommodation when the result of the end-of-SHN COVID-19 Polymerase Chain Reaction test is released or when the SHN duration has been completed, whichever is later. 
+Travellers entering Singapore via the following travel lanes/arrangements and are aware of their <a href="/health/shn" target="_blank">Stay-Home Notice (SHN)</a> duration may use these calculators to obtain the indicative (a) exit from SHN COVID-19 Polymerase Chain Reaction (PCR) Test date, and (b) SHN end date. 
+- Returning Singapore Citizen / Permanent Resident Lane
+- Familial Ties Lane
+- Periodic Commuting Arrangement 
+- Student's Pass Holder Lane
+- Work Pass Holder General Lane
 
-This result can be conveyed to the traveller via a call, SMS or email. 
+If you are unsure which lane you will be using to enter Singapore, return to the "<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>" page for help.
 
-For travellers serving SHN in an [SHN Dedicated Facility (SDF)](/health/shn#sdf), the SDF will inform the traveller of the check-out time once it receives confirmation of the negative COVID-19 test result from the relevant government agencies. The traveller will only be allowed to leave the SDF thereafter.
+These calculators <u><b>cannot</b></u> provide a definitive SHN end date/time as these are determined based on the traveller's exit-from-SHN test result. Results are conveyed via call, SMS or email. Only travellers who test negative for their exit-fromn-SHN PCR test, or have completed the required SHN period, whichever is later, are permitted to leave their SHN accommodation. Travellers serving their SHN at an <a href="/health/shn/sdf" target="_blank">SHN Dedicated Facility (SDF)</a> will be informed of their check-out time by the SDF operator, who would receive the traveller's exit-from-SHN result from the relevant government agencies. 
 
 
 -----
@@ -23,9 +23,30 @@ For travellers serving SHN in an [SHN Dedicated Facility (SDF)](/health/shn#sdf)
 
 ## 10-day SHN Calculator
 
+### Estimated COVID-19 Exit PCR Test Date
+
+Date of arrival + 8 days 
+
+This is a compulsory test. Travellers who do not receive their test appointment details a day before this date should seek <a href="https://go.gov.sg/sto-enquiry" target="_blank">immediate assistance</a>. 
+
+### Estimated 10-Day SHN End Date
+
+Date of arrival + 10 days (inclusive)
+
 <iframe width="100%" height="620" src="https://www.checkfirst.gov.sg/c/d0561e7d-ec2d-4575-83a9-274d5629bb8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 7-day SHN Calculator
+
+### Estimated COVID-19 Exit PCR Test Date
+
+Date of arrival + 5 days 
+
+This is a compulsory test. Travellers who do not receive their test appointment details a day before this date should seek <a href="https://go.gov.sg/sto-enquiry" target="_blank">immediate assistance</a>. 
+
+
+### Estimated 7-Day SHN End Date
+
+Date of arrival + 7 days (inclusive)
 
 <iframe width="100%" height="620" src="https://www.checkfirst.gov.sg/c/shn-date-calculator-2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
