@@ -4,12 +4,12 @@ permalink: /sc-pr/overview
 ---
 All Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore under the Returning SC/PR Lane <b>without</b> the need to apply for an entry approval, but prevailing measures outlined on this page will apply.
 
-<div style="padding-left: 5px; padding-bottom: 20px; padding-top: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red; font-size:16px;">Note before reading:</span> </b><br><br><span style="color:black;"><ol style="font-size:16px; line-height:1.5;">
-		<li style="line-height:1.5; font-size:16px;">If you are fully vaccinated and are returning from a country/region with an Vaccinated Travel Lane (VTL) arrangement, you may do so via <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a>. To qualify for quarantine-free entry under VTL, travellers <b>must</b> fulfil all VTL conditions  </li>
-		<li style="line-height:1.5; font-size:16px; margin-top:10px;">PR-In-Principle Approval holders must apply for an entry approval under the <a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a>.</li>
-		<li style="line-height:1.5; font-size:16px;margin-top:10px;">Non-SC/PR family members of SC/PRs must apply for an entry approval under a suitable Safe Travel Lane listed in the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a></li>
-		</ol></span></p>
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red; font-size:16px;">Note before reading:</span> </b><br><br><ol style="font-size:16px; line-height:1.5;">
+		<li style="line-height:1.5; font-size:16px; color:black;">If you are fully vaccinated and are returning from a country/region with an Vaccinated Travel Lane (VTL) arrangement, you may do so via <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a>. To qualify for quarantine-free entry under VTL, travellers <b>must</b> fulfil all VTL conditions  </li>
+		<li style="line-height:1.5; font-size:16px; color:black; margin-top:10px;">PR-In-Principle Approval holders must apply for an entry approval under the <a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a>.</li>
+		<li style="line-height:1.5; color:black; font-size:16px;margin-top:10px;">Non-SC/PR family members of SC/PRs must apply for an entry approval under a suitable Safe Travel Lane listed in the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a></li>
+		</ol></p>
 	</div>
 
 The table below summarises the key lane features and requirements for SCs and PRs returning to Singapore under the Returning SC/PR Lane. 
