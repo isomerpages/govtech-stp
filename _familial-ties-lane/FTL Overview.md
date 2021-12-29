@@ -39,7 +39,7 @@ The table below is a quick overview of the key FTL features and requirements.
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 14-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed. <br><br> Entry bans for arrivals from Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe, will be lifted <b>from 26 Dec 2021, 2359hrs</b>.</p>
+			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed.</p>
 		 </td>
  </tr>
 </tbody><thead>
@@ -49,12 +49,12 @@ The table below is a quick overview of the key FTL features and requirements.
 </thead>
 <tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Applicant</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">SC/PR with a Singpass account to apply on behalf of the traveller<br><br><i>[<b>Note:</b>Fully vaccinated travellers may opt for entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank">(Land)</a>, if eligible, to enjoy quarantine-free entry.]</i>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">SC/PR with a Singpass account to apply on behalf of the traveller
 </td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
-	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">4 to 63 days from the date of application (60-day window period)<br/><br/>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">4 to 63 days from the date of application (60-day window period)<br/>
 <p style="font-size:16px; line-height:1.5;">&#9888; <i>Travellers who are unable to select a date of entry should defer their travels or attempt another application at a later date when more entry dates are available.</i></p><br/>
 	</td>
 </tr>
@@ -64,7 +64,7 @@ The table below is a quick overview of the key FTL features and requirements.
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  background-color:#EDEDED;"><b>Where To Apply</b></td>
-	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="https://go.gov.sg/scpr-ftl-application">Click here to apply via Singpass</a> 
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="https://go.gov.sg/scpr-ftl-application">Click here to apply via Singpass</a> <br><br><b style="color:red;">NOTE:</b> Travellers <b>cannot</b> use an entry approval under the FTL to travel under the Vaccinated Travel Lane to enjoy quarantine-free travel. If travellers are interested in utilising the VTL, they must apply for entry under <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a> instead.
 </td>
 </tr>
 </tbody>

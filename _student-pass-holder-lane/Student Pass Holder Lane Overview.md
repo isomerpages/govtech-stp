@@ -37,8 +37,7 @@ The table below provides a quick overview of the key STPHL features, requirement
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 14-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed. </p>
-		 </td>
+			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed.</p>		 </td>
  </tr>
 </tbody><thead>
 <tr>
@@ -53,7 +52,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
 	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"> <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">2 to 9 weeks before the planned date of entry</p>
-		<p style="font-size:16px; line-height:1.5;">&#9888; <i>Travellers who are unable to select a date of entry should defer their travels or attempt another application at a later date when more entry dates are available.</i></p></td>
+		<p style="font-size:16px; line-height:1.5; margin-top:20px;">&#9888; <i>Travellers who are unable to select a date of entry should defer their travels or attempt another application at a later date when more entry dates are available.</i></p></td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Entry Period</b></td>
@@ -61,7 +60,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  background-color:#EDEDED;"><b>How and Where To Apply</b></td>
-	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b style="color:red;">NOTE:</b> Travellers <b>cannot</b> use an entry approval under the STPHL to travel under the Vaccinated Travel Lane to enjoy quarantine-free travel. If travellers are interested in utilising the VTL, they must apply for entry under <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a> instead.<br><br>
 <table>
 	<thead>
 		<tr>
@@ -115,7 +114,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 <tbody>
 	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, tests needed)</td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.<br/><br/><span style="font-size:25px;">⚠</span><i> Travellers with <a href="shn-and-swab-summary" target="_blank">Category (II) or (III) travel history</a> must source for their own accommodation to complete their Stay Home Notice (SHN). Those who plan to serve their SHN at a hotel should only make a booking after confirming with the hotel that it can accommodate SHN-serving guests. </i>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are applied based on the traveller's 14-day travel history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.<br/><br/><span style="font-size:25px;">⚠</span><i> Travellers with <a href="shn-and-swab-summary" target="_blank">Category (II) or (III) travel history</a> must source for their own accommodation to complete their Stay Home Notice (SHN). Those who plan to serve their SHN at a hotel should only make a booking after confirming with the hotel that it can accommodate SHN-serving guests. </i>
 		</td>
 </tr>
 <tr>
