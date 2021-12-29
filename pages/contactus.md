@@ -148,7 +148,7 @@ You can find the following forms of commonly requested support on this page:
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px;">
 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Refund or fee waiver requests</li>
-<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals for <a href="/dcev/overview" target="_blank">Death and Critical Illness Emergency Visit Lane.</a> </li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals for <a href="/dcev/overview" target="_blank">Death and Critical Illness Emergency Visit Lane</a> </li>
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Technical issues during application submission, e.g. Vaccination QR Code rejection</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Submission of proof of vaccination as part of the Vaccinated Travel Pass (Air) application for travellers arriving from the United States</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Stay-Home Notice Dedicated Facility (SDF) special request</li>
