@@ -31,7 +31,7 @@ Long-Term Pass holders and non-Singapore Citizens/Permanent Residents holding pa
 
 &#9744;  <i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
-Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they are below the age of three  in this calendar year (i.e. born after 2018). See examples below for when a PDT must be taken:
+Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they are below the age of three in this calendar year . See examples below for when a PDT must be taken:
 
 <table>
   <tbody>
@@ -89,7 +89,7 @@ Travellers should **defer their travels** if they:
 Travellers who are fit for travel and have completed Stages 1A to D, should:
 
 <p style="font-size:14px;margin-bottom:15px;">(Tick if completed)</p>
-<p style="margin-left:20px;margin-bottom:10px; margin-top:0px; line-height:1.5;">☐ i. Register and pay for an on-arrival COVID-19 PCR test:</p>
+<p style="margin-left:20px;margin-bottom:10px; margin-top:0px; line-height:1.5;">☐ i. Register and pay for an on-arrival COVID-19 PCR test for travellers aged 3 and above this calendar year:</p>
 <p style="margin-left:40px; margin-bottom:10px;  margin-top:0px;line-height:1.5;">a. Arrivals by Air, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test) </p>
 <p style="margin-left:40px; margin-bottom:20px; margin-top:0px; line-height:1.5;">b.Arrivals by Sea or Land, <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register and pay here</a> (S$160/test)</p>
 <p style="margin-left:20px;margin-bottom:20px; margin-top:0px; line-height:1.5;">☐ ii.	Activate the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones, which will facilitate contact tracing. <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> whose vaccination status is reflected in TraceTogether may also use the application as proof to qualify for <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-Differentiated Safe Management Measures</a> in Singapore; AND</p>
