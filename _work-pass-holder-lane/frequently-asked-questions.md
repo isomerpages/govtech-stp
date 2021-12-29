@@ -247,7 +247,7 @@ You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/
 
 #### 1. Who will the vaccination entry requirement apply to?
 
-All pass holders entering under WPHL, regardless of travel history, must be <a href="#vaccinated">fully vaccinated</a> before arrival except for the following groups:
+All pass holders entering under WPHL, regardless of travel history, must be <a href="/wphl/vaccination-requirements" target="_blank">fully vaccinated</a> before arrival except for the following groups:
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
   <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who are below 18 years old on date of entry.
