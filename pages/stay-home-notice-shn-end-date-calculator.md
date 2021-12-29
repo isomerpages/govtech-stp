@@ -24,7 +24,7 @@ These calculators <u><b>cannot</b></u> provide a definitive SHN end date/time as
 
 <b>Estimated 10-Day SHN End Date:</b> Date of arrival + 10 days (inclusive)
 
-<b>Estimated COVID-19 Exit PCR Test Date</b>: Date of arrival + 8 days 
+<b>Estimated COVID-19 Exit PCR Test Date</b>*: Date of arrival + 8 days 
 
 <i>*This is a compulsory test before travellers can leave SHN. Travellers who do not receive their test appointment details a day before this date should seek <a href="https://go.gov.sg/sto-enquiry" target="_blank">immediate assistance</a>. </i>
 
@@ -36,7 +36,7 @@ These calculators <u><b>cannot</b></u> provide a definitive SHN end date/time as
 
 <b>Estimated COVID-19 Exit PCR Test Date</b>*: Date of arrival + 5 days 
 
-This is a compulsory test. Travellers who do not receive their test appointment details a day before this date should seek <a href="https://go.gov.sg/sto-enquiry" target="_blank">immediate assistance</a>. 
+*This is a compulsory test. Travellers who do not receive their test appointment details a day before this date should seek <a href="https://go.gov.sg/sto-enquiry" target="_blank">immediate assistance</a>. 
 
 <iframe width="100%" height="620" src="https://www.checkfirst.gov.sg/c/shn-date-calculator-2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
