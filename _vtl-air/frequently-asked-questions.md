@@ -1167,6 +1167,9 @@ Please also note that if a traveller’s test result is confirmed to be positive
 
 <p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo post-arrival ARTs.</span></i></p>
 
+<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Recovered travellers are not exempted from any of the post-arrival COVID-19 ARTs.</span></i></p>
+
+
 ### GENERAL MATTERS
 
 
