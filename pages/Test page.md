@@ -426,4 +426,3 @@ This page provides a summary of the four categories of travel health control mea
 
 
 ## Cat 1 checklist
-
