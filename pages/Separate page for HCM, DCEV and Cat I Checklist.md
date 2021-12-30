@@ -6,8 +6,6 @@ layout: post
 description: ""
 published: false
 ---
-
-
 <i>[<span style="color:red;">!!</span> Readers who have arrived at this page directly from a search engine or are new to the entry requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page, as not all SafeTravel Lanes use this Category I/II/III/IV framework. Travellers who do not meet the entry requirements may be disallowed from entering Singapore.]</i>
 
 ### Overview
@@ -503,7 +501,7 @@ Up to 72 hours before arrival in Singapore, travellers must submit their pre-tri
 Travellers should **defer their travels** if they meet any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last or 14 days before departing for Singapore; or</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
@@ -749,7 +747,7 @@ All SCAG submissions are free-of-charge, and <a href="/health/vtsg" target="_bla
 Travellers should <b>defer their travels</b> if they:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Are showing COVID-19 symptoms</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Are showing <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have been in close contact with a COVID-19 positive patient (“patient”) in the last 7 days before departing for Singapore. Being in close contacts includes, caring for a patient in a healthcare or family/social setting, staying in the same location as the patient, or having been in close (i.e. less than two meters) contact with a patient for more than 15 minutes.</li>
 </ol>
