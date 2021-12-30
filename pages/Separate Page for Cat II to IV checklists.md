@@ -106,9 +106,10 @@ Travellers must install and activate <a href="https://www.tracetogether.gov.sg/"
 
 &#9744;  <i><b>G) Secure Accommodation for Stay-Home Notice</b></i>
 
-Travellers are required to remain in self-isolation at a declared accommodation until they receive a negative COVID-19 test result, which includes:
+Travellers must complete their 7-day Stay Home Notice (SHN) at a declared accommodation, which includes:
 
-- Place of residence; or
+- Place of residence; 
+- Serviced apartment; or
 - Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. 
 
 For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving self-isolation for the on-arrival test.
