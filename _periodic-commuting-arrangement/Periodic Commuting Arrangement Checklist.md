@@ -109,11 +109,11 @@ description: ""
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Following immigration clearance, travellers will receive a digital Visit Pass (“e-Pass”), which will indicate the permissible period of stay granted; traveller’s passport will no longer be stamped. Travellers will receive their e-Pass via the email indicated in their SG Arrival Card.</p>
 
-<p id="stage3b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) COVID-19 On Arrival Polymerase Chain Reaction Test (“PCR Test”)</b></i></u></p>
+<!--<p id="stage3b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) COVID-19 On Arrival Polymerase Chain Reaction Test (“PCR Test”)</b></i></u></p>
 
-<p style="font-size:18px; margin-top:30px; margin-bottom:20px; line-height:1.5;">Immediately after clearing immigration, travellers will take an on-arrival COVID-19 PCR test. To minimise processing time at the checkpoints, please <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register and pay for the test</a> before arrival in Singapore.</p>
+<p style="font-size:18px; margin-top:30px; margin-bottom:20px; line-height:1.5;">Immediately after clearing immigration, travellers will take an on-arrival COVID-19 PCR test. To minimise processing time at the checkpoints, please <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register and pay for the test</a> before arrival in Singapore.</p>-->
 
-<p id="stage3b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>C) Transport to Declared SHN Accommodation</b></i></u></p>
+<p id="stage3b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) Transport to Declared SHN Accommodation</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:20px; line-height:1.5;">Travellers must commute directly to their declared accommodation for the completion of their 7-day Stay Home Notice. They may do so using private transport, taxi, or private hire cars (see advisories below). The use of public transport, e.g. trains or buses, is prohibited.</p>
 
