@@ -666,19 +666,19 @@ A 10-day Stay-Home Notice (SHN) comes into effect immediately upon its issuance,
 
 Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA to ensure compliance. For subsequent breaches, travellers can be fined, imprisoned, and/or have their residency/work permits revoked. During the SHN period, <a href="/health/shn#shn-compliance-checks" target="_blank">randomised in-person or phone/video compliance check(s) will be conducted</a> (see advisory below), and travellers may only leave their SHN accommodation in the following cases:
 
-- Directed by the relevant authorities to do so;
-- Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or
-- Received a negative PCR test result for the test taken before the end of the SHN.
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Directed by the relevant authorities to do so;</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; OR</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Received a negative PCR test result for the test taken before the end of the SHN.</li>
+</ol>
 
-The commuting arrangement stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance
+The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance. 
 
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.5; color:red;"><b><u>Anti-Scam Advisory:</u></b></p>
-		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.5;color:black;">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam.
-			</p>
-			<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.5;color:black;">If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.
-			</p>
-	</div>
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="margin-top:0px; margin-bottom:20px; line-height:1.5; color:red;"><b>Anti-Scam Advisory</b></p> 
+<p style="margin-top:0px; margin-bottom:0px; line-height:1.5">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
+</div>
+
 	
 &#9744;  <i><b>B) Tele-consultation for Nebuliser-using Travellers</b></i>
 
