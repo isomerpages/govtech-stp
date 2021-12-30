@@ -513,7 +513,7 @@ Travellers should **defer their travels** if they meet any of the following cond
 Travellers who are fit for travel should register and pay for an on-arrival COVID-19 PCR test:
 
 <ol style="font-size:20px; margin-bottom:0px; list-style-type:lower-latin;">
-	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Arrivals by <b>Air</b>, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test)</li>
+	<li style="font-size:20px; margin-top:0px; margin-bottom:10px; line-height:1.5;">Arrivals by <b>Air</b>, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test)</li>
 	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Arrivals by <b>Sea</b> or <b>Land</b>, <a href="https://t.2c2p.com/express/parkwayshentonoat/" target="_blank">register and pay here</a> (S$160/test)</li>
 </ol>
 
