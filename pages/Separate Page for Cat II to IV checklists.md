@@ -627,9 +627,9 @@ A 10-day Stay-Home Notice (SHN), which takes effect immediately on the day of is
 
 &#9744;  <i><b>D) Transport to SHN Accommodation</b></i>
 
-The use of public transport (e.g. trains, buses, street-hailed taxis) is strictly prohibited. Travellers serving their SHN at an **SHN Dedicated Facility (SDF)** will commute using the government-provided transport. 
+Travellers serving their SHN at an <b>SHN Dedicated Facility (SDF)</b> will commute using the government-provided transport. 
 
-Those approved to complete their SHN at their own accommodation (see <a href="#stage1f">Stage 1F</a>), will commute Strides Transportation. All <a href="/health/faq#transport" target="_blank">transport booking</a> must be made directly with Strides Transportation (Tel: 6477 5977), and the following costs will apply:
+Those approved to complete their SHN at their own accommodation (see Stage 1F), will commute Strides Transportation. The use of public transport (e.g. trains, buses, street-hailed taxis) is strictly prohibited. Travellers need to book their transport directly with Strides Transportation (Tel: 6477 5977, or <a href="/files/stridesbooking.pdf" target="_blank">via email with these instructions</a>), and the following costs will apply:
 
 <table>
   <thead>
