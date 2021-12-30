@@ -794,6 +794,18 @@ Travellers who fail to produce these documents may be denied boarding.
 
 &#9744;  <i><b>A) Immigration Clearance</b></i>
 
+
+
+
+
+
+
+
+
+
+
+
+
 During immigration clearance, provide all relevant documents and information required by the immigration officer, including proof of tests taken if necessary. 
 
 <b>Eligible travellers vaccinated overseas should also inform the immigration officer to temporarily register their vaccination details in their TraceTogether app</b>, in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>. 
