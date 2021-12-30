@@ -496,7 +496,9 @@ Travellers must obtain a copy of the negative test result that meets all the fol
 
 &#x2610;  <i><b>D) Submission of Health Declaration</b></i>
 
-Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/) (SGAC) with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they meet any of the following conditions: 
+Up to 72 hours before arrival in Singapore, travellers must submit their pre-trip health and travel history declaration via <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>. All SGAC submissions are free-of-charge, and <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> should also upload their digitally-verifiable vaccination certificate, i.e. certificate with a QR code. Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccinated-differentiated settings</a>. 
+
+Travellers should **defer their travels** if they meet any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
@@ -506,13 +508,13 @@ Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arri
 
 <div id="stage1e"></div>
 
-&#x2610;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+&#x2610;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test</b></i>
 
-Travellers who are fit for travel should:
+Travellers who are fit for travel should register and pay for an on-arrival COVID-19 PCR test:
 
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here</a> if you are arriving via air (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat/" target="_blank">Register here</a>, if arriving by sea or land (each test costs S$160)</li>
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing.</li>
+<ol style="font-size:20px; margin-bottom:0px; list-style-type:lower-latin;">
+	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Arrivals by <b>Air</b>, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test)</li>
+	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Arrivals by <b>Sea</b> or <b>Land</b>, <a href="https://t.2c2p.com/express/parkwayshentonoat/" target="_blank">register and pay here</a> (S$160/test)</li>
 </ol>
 
 &#x2610;  <i><b>F) TraceTogether Registration</b></i>
