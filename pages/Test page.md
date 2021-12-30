@@ -519,6 +519,8 @@ Travellers who are fit for travel should register and pay for an on-arrival COVI
 
 The on-arrival test is only required for those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
 
+<span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions and are arriving from <b>3 Jan 2022, 2359h</b>, do not need to take an on-arrival test and do not need to make this registration/prepayment.
+
 &#x2610;  <i><b>F) TraceTogether Registration</b></i>
 
 Travellers must download and create a user profile on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> on their mobile device. The application must be used by the traveller for the duration of the trip for the purpose of aiding contact tracing.
