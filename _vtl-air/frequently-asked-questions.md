@@ -1119,7 +1119,7 @@ No, travellers are required to undergo the on-arrival COVID-19 PCR test at the a
 
 #### 6. Will ART kits for the unsupervised self-administered COVID-19 ARTs on Day 2,4,5 and 6 be provided on arrival?
 
-ART kits will <u>not</u> be provided upon arrival. Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmancy, retailer or e-commerce platform.
+ART kits will <u>not</u> be provided upon arrival. Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along a maximum of 20 <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> per individual from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmancy, retailer or e-commerce platform.
 
 If travellers are serving their self-isolation pending their on-arrival COVID-19 PCR test results, they may obtain ART kits via applications such as Grab and foodpanda which offer 24/7 delivery. Those residing in hotels can also seek their hotel concierge's assistance to help them obtain ART kits. They should <u>not</u> leave their place of accommodation to purchase ART kits prior to receiving their negative PCR test results on Day 1. They may only leave their place of accommodation <u>after</u> self-administering their ART on Day 2.
 
