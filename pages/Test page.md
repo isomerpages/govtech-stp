@@ -517,6 +517,8 @@ Travellers who are fit for travel should register and pay for an on-arrival COVI
 	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Arrivals by <b>Sea</b> or <b>Land</b>, <a href="https://t.2c2p.com/express/parkwayshentonoat/" target="_blank">register and pay here</a> (S$160/test)</li>
 </ol>
 
+The on-arrival test is only required for those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
+
 &#x2610;  <i><b>F) TraceTogether Registration</b></i>
 
 Travellers must download and create a user profile on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> on their mobile device. The application must be used by the traveller for the duration of the trip for the purpose of aiding contact tracing.
