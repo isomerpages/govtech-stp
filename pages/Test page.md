@@ -528,7 +528,7 @@ Travellers must install and activate <a href="https://www.tracetogether.gov.sg/"
 
 ### Stage 2: Departure for Singapore
 
-&#x2610;  <i><b>A) Pre-boarding Document Checks (for travellers arriving by air or sea)</b></i>
+&#x2610;  <i><b>Pre-boarding Document Checks (for travellers arriving by air or sea)</b></i>
 
 As part of the airline or transport operator’s pre-boarding checks, travellers may be asked for the following:
 
@@ -541,7 +541,15 @@ Travellers without the above may be denied boarding. Travellers who are exempted
 
 ### Stage 3: Arrival in Singapore
 
-&#x2610;  <i><b>A) Immigration Clearance</b></i>
+&#x2610;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i>
+
+During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <b><a href="" target="_blank">e-Pass (i.e. Visit Pass)</a></b> <b>which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.
+
+<a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who meet the following conditions <b>must clear immigration at the manual counters and request the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1E):
+
+
+
+
 
 Travellers will be asked to produce the following documents as part of the immigration process:
 
