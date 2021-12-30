@@ -1279,11 +1279,11 @@ Further, the traveller’s VTP (Air), and/or Visit Pass or Long-Term Pass, may b
 
 The cost of each ART is S$15 (inclusive of Goods and Services Tax). Travellers will bear the cost of the tests.
 
-Payment is to be made at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> through cashless modes such as Mastercard, NETS, PayNow and Visa. Cash will not be accepted.
+Payment is to be made online via the payment link provided. The electronic receipt must be shown during registration as proof of payment.  Cash will not be accepted.
 
-#### 12. Can travellers bring their own ART self-test kits to the test centres?
+#### 12. How do travellers obtain a refund for the supervised ART if they no longer need to attend their test?
 
-No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
+Please email <a href="mailto: testingops@hpb.gov.sg">testingops@hpb.gov.sg</a> to obtain a refund.
 
 
 #### 13. What are the test centres that travellers can go to for their supervised ARTs?
