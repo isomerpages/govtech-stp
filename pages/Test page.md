@@ -36,17 +36,16 @@ This page provides a summary of the four categories of travel health control mea
 	</tbody>
 		</table>
 
-<!--<b>On this page you will find the following</b>:
+<b>On this page you will find the following</b>:
 <ol style="list-style-type:lower-latin;">
 	<li><a href="#from">Categories of travel health control measures for arrivals from 26 Dec 2021, 2359 hours</a></li>
 	<li><a href="#before-1">Categories of travel health control measures for arrivals before 26 Dec 2021, 2359 hours</a></li>
-	</ol>-->
+	</ol>
 
 <div id="from"></div>
 
 ### Categories of Travel Health Control Measures (for arrivals from 26 Dec 2021, 2359h)
 
-<span style="color:red;"><b>Travellers arriving in Singapore <u>before 26 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
