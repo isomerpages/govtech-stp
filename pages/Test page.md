@@ -792,35 +792,35 @@ Travellers who fail to produce these documents may be denied boarding.
 
 ### Stage 3: Arrival in Singapore
 
-&#9744;  <i><b>A) Immigration Clearance</b></i>
+&#9744;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i>
 
+During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <b><a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.
 
+<a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who meet the following conditions <b>must clear immigration at the manual counters and request the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1E):
 
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Aged 12 and above; </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification; and</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance. </li>
+</ol>
 
+Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
 
-
-
-
-
-
-
-
-
-During immigration clearance, provide all relevant documents and information required by the immigration officer, including proof of tests taken if necessary. 
-
-<b>Eligible travellers vaccinated overseas should also inform the immigration officer to temporarily register their vaccination details in their TraceTogether app</b>, in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>. 
-
-For visitors granted entry, please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport unless arriving by land or sea. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here for more information about the e-Pass</a> .
 
 &#9744;  <i><b>B) On-arrival COVID-19 Tests</b></i>
 
-Take an on-arrival COVID-19 Polymerase Chain Reaction test at Changi Airport. Travellers are required to <a href="https://safetravel.changiairport.com/#/" target="_blank">book and pre-pay</a> for the test before arrival. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
+Follow the instructions of officers on the ground, and take an on-arrival COVID-19 Polymerase Chain Reaction test.
+
+Travellers who did not <a href="#payment">pay for the test before arrival (see Stage 1E)</a>, will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.
+
 
 &#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
 
-Travellers are required to commute directly to the declared SHN accommodation using their own private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). 
+Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a href="" target="_blank">Click here for the latest transport advisory</a>.
 
-The use of public transport (e.g. trains, buses) is strictly prohibited. 
+The use of public transport (e.g. trains, buses) is prohibited.
+
+
 
 ### Stage 4: Self-isolation
 
