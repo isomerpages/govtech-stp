@@ -167,6 +167,8 @@ Travellers who did not <a href="#stage1e" >pay for the test before arrival</a> (
 
 A 7-day Stay-Home Notice (SHN), which takes effect immediately on the day of issuance, will be sent to the email address provided by the traveller in their <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card" target="_blank">SGAC declaration</a> (see Stage 1D).
 
+<div id="stage3d"></div>
+
 &#9744; <i><b>D) Transport to Declared SHN Accommodation</b></i>
 
 Travellers must commute directly to their declared Stay-Home Notice (SHN) accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.
@@ -178,10 +180,18 @@ The use of public transport (e.g. trains, buses) is prohibited.
 
 &#9744;  <i><b>A) Serve Stay-Home Notice (SHN)</b></i>
 
-A Stay-Home Notice (SHN) comes into effect immediately upon its issuance. Travellers **must** remain in the SHN accommodation for the period specified in their SHN, **unless** they have/have been:
-- Directed by the relevant authorities to do so;
-- Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or
-- Received a negative PCR test result for the test taken before the end of the SHN.
+A 7-day Stay-Home Notice (SHN) takes effect immediately upon its issuance, and travellers <b>must</b> remain in their declared SHN accommodation for the period specified in the SHN. To calculate the estimated SHN end date, click <a href="/shn-calculator" target="_blank">here</a> for an SHN calculator.
+
+Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA to ensure compliance. For subsequent breaches, travellers can be fined, imprisoned, and/or have their residency/work permits revoked. During the SHN period, <a href="/health/shn#shn-compliance-checks" target="_blank">randomised in-person or phone/video compliance check(s) will be conducted</a> (see advisory below), and travellers may only leave their SHN accommodation in the following cases:
+
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Directed by the relevant authorities to do so;</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; OR</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Received a negative PCR test result for the test taken before the end of the SHN.</li>
+</ol>
+
+The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance. 
+
 
 To calculate the estimated SHN end-date, click <a href="/shn-calculator" target="_blank">here</a> for an SHN calculator. Travellers may complete their SHN at their own residence (see advisory below), self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel must inform the hotel that they are serving a SHN and ensure that the hotel can accommodate them, before securing their bookings. Travellers may refer to this page for the <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list of hotels</a> offering SHN-accommodation.
 
