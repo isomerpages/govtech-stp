@@ -104,7 +104,26 @@ Travellers who are fit for travel should <a href="https://safetravel.changiairpo
 
 Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.
 
-&#9744;  <i><b>F) Installation of TraceTogether app</b></i>
+&#9744;  <i><b>G) Secure Accommodation for Stay-Home Notice</b></i>
+
+Travellers are required to remain in self-isolation at a declared accommodation until they receive a negative COVID-19 test result, which includes:
+
+- Place of residence; or
+- Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. 
+
+For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving self-isolation for the on-arrival test.
+
+Travellers may serve SHN at their residence with other household members, regardless of their household members' vaccination status or travel history. However, the following precautions are strongly advised:  
+	<ol style="margin-top:0px; list-style-type: lower-latin;">
+	<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Isolate in their own room during the 7-day period;</li>
+	<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+	<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
+		<li style="margin-top:5px; margin-bottom:10px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
+		<li style="margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
+	</ol>
+	</li>
+	</ol>
 
 
 ### Stage 2: Departure for Singapore
@@ -157,14 +176,7 @@ To calculate the estimated SHN end-date, click <a href="/shn-calculator" target=
 
 During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. <a href="/health/shn#shn-compliance-checks" target="_blank">Click here for more information on SHN-related compliance matters</a>.
 
-<div style="padding-left: 5px; padding-bottom: 20px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-<p style="margin-top:15px; margin-bottom:0px; line-height:1.5;"><b>Advisory for travellers serving SHN at home</b><br><br>Travellers may serve SHN at their residence with other household members, regardless of their vaccination status or travel history. In addition to being in isolation alone in a room, travellers are advised to minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to:</p>
-	<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
-		<li style="margin-top:5px; margin-bottom:10px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
-		<li style="margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
-	</ol>
-	</div>
+
 
 &#9744;  <i><b>B) End-of-SHN COVID-19 Test</b></i>
 
