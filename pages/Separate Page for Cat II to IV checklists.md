@@ -37,9 +37,9 @@ Foreign short term visitors holding passports or travel documents issued by visa
 
 &#9744;  <i><b>C) Pre-Departure COVID-19 Test (PDT)</b></i>
 
-Travellers must take a PDT **within 2 days before departure** for Singapore, unless they:
-- Are below the age of three in this calendar year; or
-- Are Singapore Citizens entering Singapore via the Causeway or Second Link.
+Travellers must take a PDT **within 2 days before departure** for Singapore, unless they are below the age of three in this calendar year. See examples below for when a PDT must be taken:
+
+
 
 Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR</b> an Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
 - Is in English (or accompanied with an English translation);
