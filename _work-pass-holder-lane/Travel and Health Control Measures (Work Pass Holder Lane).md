@@ -36,7 +36,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 </ol>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><i>Example: If the pre-departure test was taken on 5 Dec 2021, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoint) up to 7 Dec 2021, 2359 hours.</i></p>
 <p style="margin-top: 10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-<b>➃</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed in the tables below.</p>
+<b>➃</b> Pass holders below three years of age in this calendar year are not required to take the COVID-19 tests listed in the tables below.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10116;</b> All pass holders are not allowed to serve SHN or self-isolation in dormitories. Submitter may refer to this <a href="https://sha.org.sg/stay-home-notice">list</a> (non-exhaustive) to book a hotel or serviced apartment for the pass holder. Please check if they can accommodate guests on SHN or self-isolation.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10117;</b> All pass holders entering under WPHL, regardless of travel history, must be <a href="/wphl/vaccination-requirements#vaccinated">fully vaccinated</a> before arrival except for the following groups:
 <ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
