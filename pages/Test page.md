@@ -765,6 +765,16 @@ Travellers who are fit for travel should <a href="https://safetravel.changiairpo
 Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.
 
 
+&#9744;  <i><b>G) Secure Self-isolation Accommodation</b></i>
+
+Travellers are required to remain in self-isolation at a declared accommodation until they receive a negative COVID-19 test result, which includes:
+
+•	Place of residence; or
+•	Hotel of choice from this non-exhaustive list. 
+For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving self-isolation for the on-arrival test.
+
+
+
 ### Stage 2: Departure for Singapore
 
 &#9744;  <i><b>A) Pre-boarding Document Checks</b></i>
