@@ -487,15 +487,12 @@ Travellers must take a PDT **within 2 days before departure** for Singapore, unl
 	</tbody>
 	</table>
 
-
-Travellers are required to take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR [For Category II and III]</b> an Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure, if necessary. <b>Self-swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
+Travellers must obtain a copy of the negative test result that meets all the following conditions:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test.
 
-Handwritten negative PDT results are not accepted.
-
-Travellers with difficulties obtaining a COVID-19 test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office here for assistance</a>.
+<b>Handwritten reports will be rejected.</b> Handwritten negative PDT results are not accepted. Travellers with difficulties obtaining a COVID-19 test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
 
 &#x2610;  <i><b>D) Submission of Health Declaration</b></i>
 
