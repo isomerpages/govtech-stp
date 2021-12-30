@@ -25,7 +25,8 @@ Travellers can check the box **(&#9744;)** for completed activities.
 
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
-All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.
+All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.
+
 
 &#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
