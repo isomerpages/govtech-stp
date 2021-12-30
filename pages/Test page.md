@@ -746,7 +746,7 @@ All SCAG submissions are free-of-charge, and <a href="/health/vtsg" target="_bla
 
 Travellers should <b>defer their travels</b> if they:
 
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Are showing COVID-19 symptoms</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have been in close contact with a COVID-19 positive patient (“patient”) in the last 7 days before departing for Singapore. Being in close contacts includes, caring for a patient in a healthcare or family/social setting, staying in the same location as the patient, or having been in close (i.e. less than two meters) contact with a patient for more than 15 minutes.</li>
@@ -769,17 +769,26 @@ Travellers must install and activate <a href="https://www.tracetogether.gov.sg/"
 
 Travellers are required to remain in self-isolation at a declared accommodation until they receive a negative COVID-19 test result, which includes:
 
-•	Place of residence; or
-•	Hotel of choice from this non-exhaustive list. 
+- Place of residence; or
+- Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. 
+
 For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving self-isolation for the on-arrival test.
 
 
 
 ### Stage 2: Departure for Singapore
 
-&#9744;  <i><b>A) Pre-boarding Document Checks</b></i>
+&#9744;  <i><b>Pre-boarding Document Checks</b></i>
 
-As part of the airline or transport operator’s pre-boarding checks, travellers who are not a Singapore Citizen or Permanent Resident may be asked to produce their valid Entry Approval Letter. This is to ensure that the traveller has been approved for entry into Singapore.
+To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline to produce the following during pre-boarding checks:
+
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid Pre-Departure Test showing a negative COVID-19 result (see Stage 1C)</li>
+</ol>
+
+Travellers who fail to produce these documents may be denied boarding.
+
 
 ### Stage 3: Arrival in Singapore
 
