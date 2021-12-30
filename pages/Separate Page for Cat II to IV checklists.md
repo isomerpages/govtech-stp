@@ -429,16 +429,16 @@ Travellers who do not receive their test appointment details a day before the en
 
 ### Stage 5: End of Stay-Home Notice
 
-&#9744;  <i><b>A) Release from Stay-Home Notice(SHN)</b></i>
+&#9744;  <i><b>A) Release from Stay-Home Notice (SHN)</b></i>
 
-Travellers may end their SHN arrangements upon receipt of a negative test result or when they complete the 10-day SHN period, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered.. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
+The SHN will end after the traveller receives a negative test result (per Stage 4B) or upon completion of the 10-day SHN, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.
 
-Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
+Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges will apply.
+
 
 &#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
 
-After SHN, travellers may go about their activities but <b>must</b> comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures.</a> 
+Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.
 
-Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a> 
-
-Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
+For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A). Travellers who require vaccinated status beyond 30 days after arrival, should visit 
+<a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
