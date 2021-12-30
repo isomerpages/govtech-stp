@@ -1347,15 +1347,15 @@ Travellers may use their own self-test kits to administer their ART. If they do 
 
 If travellers are serving their self-isolation pending their on-arrival COVID-19 PCR test results, they may obtain ART kits via applications such as Grab and foodpanda which offer 24/7 delivery. Those residing in hotels can also seek their hotel concierge’s assistance to help them obtain ART kits. They should not leave their place of accommodation to purchase ART kits prior to receiving their negative PCR test results on Day 1. They may only leave their place of accommodation after self-administering their ART on Day 2.
 
-#### 22. Are there specific ART kits that travellers may use for self-testing?
+#### 23. Are there specific ART kits that travellers may use for self-testing?
 
 Travellers are advised to only purchase and use <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">COVID-19 self-test kits authorised for use in Singapore</a> by the Health Sciences Authority (HSA). As these tests are meant to be used by consumers, no doctor’s prescription is required for their purchase.
 
-#### 23. How much does an ART kit cost?
+#### 24. How much does an ART kit cost?
 
 ART kits typically cost less than S$15 and can be obtained from any local clinic, pharmacy, retailer or e-commerce platform.
 
-#### 24. How do travellers self-administer an ART?
+#### 25. How do travellers self-administer an ART?
 
 Travellers are strongly encouraged to <a href="https://artbuddy.healthpixel.co/" target="_blank">view the materials here</a> to learn how to self-administer an ART. They can follow the step-by-step instructions while administering their ART.
 
@@ -1367,21 +1367,21 @@ Travellers may also refer to <a href="https://www.covid.gov.sg/exposed/no-hrw" t
 - <a href="https://go.gov.sg/bca-self-art-tam" target="_blank">Tamil</a>
 
 
-#### 25. Are there any age restrictions on the use of ART kits?
+#### 26. Are there any age restrictions on the use of ART kits?
 
 Children under the age of 2 are not required to perform ARTs. Generally, those below 12 years old will require an adult’s assistance to administer the ART self-test.
 
-#### 26. What time do travellers need to perform their ART and submit their test results?
+#### 27. What time do travellers need to perform their ART and submit their test results?
 
 Travellers are required to self-administer their ART before leaving their place of accommodation on Days 2, 4, 5 and 6 of their arrival in Singapore. They should submit their test results immediately after obtaining a valid test result.
 
 Those who do not intend to leave their place of accommodation may perform their ART at any time on Days 2, 4, 5 and 6, and submit their results via the provided webform by 2359 hours on the scheduled day of the test. They must still perform their ARTs even if they are not going out.
 
-#### 27. How do travellers submit their test results?
+#### 28. How do travellers submit their test results?
 
 The weblink for results submission will be provided to travellers after their arrival in Singapore via the email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC).
 
-#### 28. How long will it take to obtain the results of the self-administered ART?
+#### 29. How long will it take to obtain the results of the self-administered ART?
 
 The results should be visible within 15 minutes and should be reflected as follows. If it appears as invalid, please repeat the test and submit a valid (i.e. positive or negative) test result via the webform.
 <img src="/images/ARTresults.png" width="820" height="222">
