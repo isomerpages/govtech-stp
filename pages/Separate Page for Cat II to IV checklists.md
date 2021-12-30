@@ -402,33 +402,29 @@ The use of public transport (e.g. trains, buses) is prohibited.
 
 &#9744;  <i><b>A) Serve Stay-Home Notice (SHN)</b></i>
 
-A Stay-Home Notice (SHN) comes into effect immediately upon its issuance. Travellers must remain in the SHN accommodation for the period specified in their SHN, unless they have/have been:
-- Directed by the relevant authorities to do so;
-- Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or
-- Received a negative PCR test result for the test taken before the end of the SHN.
+A 10-day Stay-Home Notice (SHN) takes effect immediately upon its issuance, and travellers <b>must</b> remain in their declared SHN accommodation for the period specified in the SHN. To calculate the estimated SHN end date, click <a href="/shn-calculator" target="_blank">here</a> for an SHN calculator.
 
-To calculate the estimated SHN end-date, click here for an <a href="/shn-calculator" target="_blank">SHN calculator</a>.
+Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA to ensure compliance. For subsequent breaches, travellers can be fined, imprisoned, and/or have their residency/work permits revoked. During the SHN period, <a href="/health/shn#shn-compliance-checks" target="_blank">randomised in-person or phone/video compliance check(s) will be conducted</a> (see advisory below), and travellers may only leave their SHN accommodation in the following cases:
 
-Travellers may complete their SHN at their own residence (see advisory below), self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel must inform the hotel that they are serving a SHN and ensure that the hotel can accommodate them, before securing their bookings. Travellers may refer to <a href="https://sha.org.sg/stay-home-notice" target="_blank">this page</a> for the non-exhaustive list of hotels offering SHN-accommodation.
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Directed by the relevant authorities to do so;</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; OR</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Received a negative PCR test result for the test taken before the end of the SHN.</li>
+</ol>
 
+The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance. 
 
-During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. <a href="/health/shn#shn-compliance-checks" target="_blank">Click here for more information on SHN-related compliance matters</a>.
-
-<div style="padding-left: 5px; padding-bottom: 20px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-<p style="margin-top:15px; margin-bottom:0px; line-height:1.5;"><b>Advisory for travellers serving SHN at home</b><br><br>Travellers may serve SHN at their residence, with other household members, regardless of their vaccination status or travel history. In addition to being in isolation alone in a room, travellers are advised to minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to:</p>
-	<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
-		<li style="margin-top:5px; margin-bottom:0px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
-		<li style="margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
-	</ol>
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="margin-top:0px; margin-bottom:20px; line-height:1.5; color:red;"><b>Anti-Scam Advisory</b></p> 
+<p style="margin-top:0px; margin-bottom:0px; line-height:1.5">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
 </div>
-
 
 &#9744;  <i><b>B) End-of-SHN COVID-19 Test</b></i>
 
-Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
+Travellers will be scheduled to take a mandatory COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of their SHN. Payment for the test (S$125/test, including GST) for travellers who are not a Singapore Citizen (SC) or Singapore Permanent Resident (PR) is already collected during entry approval (see Stage 1A). For SC/PRs, the test payment details will be communicated separately after arrival in Singapore.
 
-The test costs SGD$125 (including GST). Returning Singapore Citizens and Permanent Residents will be advised on payment details after arrival. All other travellers would have paid for the test at the point of entry application.
+Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers who are unwell on the day of the test should remain in their accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant agencies</a>.
+
 
 
 ### Stage 5: End of Stay-Home Notice
