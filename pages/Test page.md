@@ -723,16 +723,16 @@ Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, 
 
 An acceptable PDT includes either of the following:
 
-<ol style="list-style-type:lower-roman;">
-<li>COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li> 
-<li>Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-swabs are not allowed</b>.</li> 
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li> 
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-swabs are not allowed</b>.</li> 
 </ol>
 
 Travellers must obtain a copy of the negative test result that meets all the following conditions:
-<ol style="list-style-type:lower-roman;">
-<li>Is in English (or accompanied with an English translation);</li> 
-<li>Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-	<li>Reflects the date and result of the test.</li>
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li> 
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the test.</li>
 </ol>
 
 <b>Handwritten reports will be rejected</b>. Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.
