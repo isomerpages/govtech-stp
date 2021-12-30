@@ -148,7 +148,7 @@ The approval letter will indicate the travel health control measures submitters 
 
 As the control measures are subject to change based on the global situation, the Ministry of Manpower (MOM) will inform submitters whose pass holders have obtained approvals of the changes by email.
 
-Pass holders who are serving their Stay-Home Notice (SHN) or self-isolation <b>from 20 Dec 2021</b>, must recover or self-isolate at their current accommodation, if any of the following happens: 
+Pass holders who are serving their Stay-Home Notice (SHN) or self-isolation must recover or self-isolate at their current accommodation, if any of the following happens: 
 - COVID-19 Polymerase Chain Reaction (PCR) test result is positive.
 - COVID-19 Antigen Rapid Test (ART) result is positive.
 - They are identified as close contacts of a COVID-19 case and have received a Health Risk Warning (HRW).
