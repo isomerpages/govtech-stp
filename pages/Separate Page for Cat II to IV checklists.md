@@ -225,13 +225,19 @@ For vaccination-differentiated settings, e.g. attendance at large scale events, 
 ## CAT 3 Checklist
 
 
-<i>Readers who have arrived on this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page. Travellers who do not meet the entry requirements may be turned away from Singapore. </i>
+### Instructions for the use of the Category (III) Travel History Checklist
 
-### Travel Checklist – Category (III) Travel History
+This checklist covers the pre-departure to post-arrival process for travellers who:
 
-This checklist is **only** suitable for travellers with travel history to any Category (III) country/region in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">this list of countries/regions</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane (Air/Land) or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
+<ol style="list-style-type: lower-roman;">
+<li>Are travelling to Singapore via the Returning Singapore Citizen/Permanent Resident Lane, Familial Ties Lane, or Student’s Pass Lane; <b>AND</b></li>
+<li>Have visited any Category (III) country/region in the past 14 days before arrival in Singapore, and have not visited any Category (IV) countries/regions in the past 14 days or transited in such countries/regions for more than 24 hours.</li>
+</ol>
+
+Travellers who do not meet the above conditions should refer to the <a href="/travel-checklist/overview" target="_blank">checklist specific to their travel arrangement/travel history</a> or their approval letters for travel instructions. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore.
 
 Travellers can check the box **(&#9744;)** for completed activities.
+
 
 ### Stage 1: Pre-Departure for Singapore
 
@@ -239,27 +245,58 @@ Travellers can check the box **(&#9744;)** for completed activities.
 
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
-All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.
+All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.
 
 &#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
-Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.
+Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Click here to check if a visa is required and to apply if needed</a>.
+
 
 <div id="stage1c"></div>
 
 &#9744;  <i><b>C) Pre-Departure COVID-19 Test (PDT)</b></i>
 
-Travellers must take a PDT **within 2 days before departure** for Singapore, unless they:
-- Are below the age of three in this calendar year; or
-- Are Singapore Citizens entering Singapore via the Causeway or Second Link.
+Travellers must take a PDT **within 2 days before departure** for Singapore, unless they are below the age of three in this calendar year. See examples below for when a PDT must be taken:
 
-Travellers can take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR</b> an Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
-- Is in English (or accompanied with an English translation);
-- Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore);
-- Reflects the date and result of the test; and
-- Is not handwritten.
+<table>
+  <tbody>
+    <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;"><b>Direct Flights</b></td>
+    </tr>
+        <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h.</td>
+    </tr>
+        <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a less than 24-hour Transit Period to Singapore</b></td>
+    </tr>
+            <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller B is scheduled for departure on 3 Nov 2021 from Airport A. He will transit at Airport B for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from Airport A.</td>
+    </tr>   
+            <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a Transit Period exceeding 24 hours</b></td>
+    </tr>
+                <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller C is scheduled for departure from Airport A on 3 Nov 2021. He will transit in Airport B for a period lasting more than 24 hours. In this scenario, he will take his PDT at Airport B, within 2 days before his connecting flight to Singapore.</td>
+    </tr>   
+  </tbody>
+  </table>
 
-Travellers with difficulties getting a COVID-19 test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
+An acceptable PDT includes <b>either</b> of the following:
+
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.5;">COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li> 
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-swabs are not allowed</b>.</li> 
+</ol>
+
+Travellers must obtain a copy of the negative test result that meets all the following conditions:
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li> 
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the test.</li>
+</ol>
+
+<b>Handwritten reports will be rejected</b>. Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.
+
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
