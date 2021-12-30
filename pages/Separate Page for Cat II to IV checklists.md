@@ -691,9 +691,9 @@ Travellers who do not receive their test appointment details a day before the en
 
 Travellers serving SHN at an SDF will be informed of the checkout timing by the SDF operator.
 
-For travellers serving SHN at a place of residence, the SHN will end after the traveller receives a negative test result (see Stage 4B) or upon completion of the 10-day SHN, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
+For travellers serving SHN at a place of residence, the SHN will end after the traveller receives a negative test result (see Stage 4B) <b>or</b> upon completion of the 10-day SHN, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
 
-Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
+Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges will apply.
 
 &#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
 
