@@ -662,9 +662,10 @@ Those approved to complete their SHN at their own accommodation (see Stage 1F), 
 
 &#9744;  <i><b>A) Serve Stay-Home Notice (SHN)</b></i>
 
-A Stay-Home Notice (SHN) comes into effect immediately upon its issuance, and travellers must remain in their declared SHN accommodation per the period specified in the SHN. To calculate the estimated SHN end-date, click here for an <a href="/shn-calculator" target="_blank">SHN calculator</a>.
+A 10-day Stay-Home Notice (SHN) comes into effect immediately upon its issuance, and travellers must remain in their declared SHN accommodation per the period specified in the SHN. To calculate the estimated SHN end-date, click here for an <a href="/shn-calculator" target="_blank">SHN calculator</a>.
 
-The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA to ensure compliance. For subsequent breaches, the errant traveller can be fined, imprisoned, and/or have their residency/work permits revoked. During the SHN period, <a href="/health/shn#shn-compliance-checks" target="_blank">randomised in-person or phone/video compliance check(s) will be conducted</a> (see advisory below), and travellers may only leave their SHN accommodation when the following scenarios occur:
+Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA to ensure compliance. For subsequent breaches, travellers can be fined, imprisoned, and/or have their residency/work permits revoked. During the SHN period, <a href="/health/shn#shn-compliance-checks" target="_blank">randomised in-person or phone/video compliance check(s) will be conducted</a> (see advisory below), and travellers may only leave their SHN accommodation in the following cases:
+
 - Directed by the relevant authorities to do so;
 - Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or
 - Received a negative PCR test result for the test taken before the end of the SHN.
