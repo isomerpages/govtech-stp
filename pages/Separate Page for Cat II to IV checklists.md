@@ -486,76 +486,80 @@ Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, 
   <tbody>
     <tr>
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;"><b>Direct Flights</b></td>
-	  </tr>
-	      <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller A is scheduled to depart for Singapore on 3 Nov 2021. The earliest he should take his PDT is on 1 Nov 2021. <br><br> In other words, all PDTs taken on 1 Nov 2021 is valid for departures up to 3 Nov 2021, 2359h.</td>
-	  </tr>
-	      <tr>
+    </tr>
+        <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h.</td>
+    </tr>
+        <tr>
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a less than 24-hour Transit Period to Singapore</b></td>
-	  </tr>
-	  	      <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller B is scheduled for departure from the Los Angeles International Airport (LAX) on 3 Nov 2021. He will transit to Singapore via Narita Airport (NRT) for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from LAX. <br><br> His PDT taken on 1 Nov 2021 at LAX will be valid for departures up to 3 Nov 2021, 2359h.</td>
-	  </tr>	  
-	  	      <tr>
+    </tr>
+            <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller B is scheduled for departure on 3 Nov 2021 from Airport A. He will transit at Airport B for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from Airport A.</td>
+    </tr>   
+            <tr>
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a Transit Period exceeding 24 hours</b></td>
-	  </tr>
-	  	  	      <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller C is scheduled for departure from the Los Angeles International Airport (LAX) on 3 Nov 2021. He will transit to Singapore via Narita Airport (NRT) for a period lasting more than 24 hours. In this scenario, he will take his PDT at NRT, within 2 days before his connecting flight to Singapore.</td>
-	  </tr>	  
+    </tr>
+                <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller C is scheduled for departure from Airport A on 3 Nov 2021. He will transit in Airport B for a period lasting more than 24 hours. In this scenario, he will take his PDT at Airport B, within 2 days before his connecting flight to Singapore.</td>
+    </tr>   
   </tbody>
-	</table>
+  </table>
 
-An acceptable PDT includes only a COVID-19 Polymerase Chain Reaction (PCR) test that must take a PDT at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure. As proof of compliance, i.e. traveller had taken a PDT, travellers must obtain a copy of the negative PCR test result that meets the following conditions:
+An acceptable PDT includes <b>either</b> of the following:
 
-<p style="font-size:14px;margin-bottom:15px;">(Tick if completed)</p>
-<p style="margin-left:20px;margin-bottom:10px; margin-top:0px; line-height:1.5;">☐ i.	Is in English (or accompanied with an English translation);</p>
-<p style="margin-left:20px; margin-bottom:10px;margin-top:0px; line-height:1.5;">☐ ii.	Contains the traveller’s name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</p>
-<p style="margin-left:20px; margin-top:0px;line-height:1.5;">☐ iii.	Reflects the date and result of the test.</p>
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.5;">COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li> 
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-swabs are not allowed</b>.</li> 
+</ol>
 
-All handwritten copies of the report will be rejected. Travellers with difficulties getting their PDT can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
+Travellers must obtain a copy of the negative test result that meets all the following conditions:
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li> 
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the test.</li>
+</ol>
 
+<b>Handwritten reports will be rejected</b>. Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.
 
-<div id="stage1d"></div>
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
-Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>. Travellers managing a medical condition using a nebuliser should also declare their condition the link provided in their entry approval letter.
+Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>.
 
-All SCAG submissions are free-of-charge, and <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> should also upload their digitally-verifiable vaccination certificate, i.e. certificate with a QR code. Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccinated-differentiated settings</a>.
+All SCAG submissions are free-of-charge, and <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> should also upload their digitally-verifiable vaccination certificate if they have one, i.e. certificate with a QR code. Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings</a>.
 
-Travellers should **defer their travels** if they:
+Travellers should <b>defer their travels</b> if they:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Are showing COVID-19 symptoms;</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient (“patient”) in the last 7 days before departing for Singapore. Being in close contact includes, caring for a patient in a healthcare or family/social setting, staying in the same location as the patient, or had been in close (i.e. less than two meters) contact with a patient for more than 15 minutes.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
+
 
 <div id="stage1e"></div>
 
-&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [only for arrivals before 3 Jan 2022, 2359h]</b></i>
 
-Travellers who are fit for travel and have completed Stages 1A to D, should:
-
-<p style="font-size:14px;margin-bottom:15px;">(Tick if completed)</p>
-<p style="margin-left:20px;margin-bottom:10px; margin-top:0px; line-height:1.5;">☐ i. Register and pay for an on-arrival COVID-19 PCR test for travellers aged 3 and above this calendar year:</p>
-<p style="margin-left:40px; margin-bottom:10px;  margin-top:0px;line-height:1.5;">a. Arrivals by Air, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test) </p>
-<p style="margin-left:40px; margin-bottom:20px; margin-top:0px; line-height:1.5;">b.Arrivals by Sea or Land, <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register and pay here</a> (S$160/test)</p>
-<p style="margin-left:20px;margin-bottom:20px; margin-top:0px; line-height:1.5;">☐ ii.	Activate the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones, which will facilitate contact tracing. <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> whose vaccination status is reflected in TraceTogether may also use the application as proof to qualify for <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-Differentiated Safe Management Measures</a> in Singapore; AND</p>
-<p style="margin-left:20px;margin-bottom:20px; margin-top:0px; line-height:1.5;">☐ iii.	Activate <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> on their mobile phones which will facilitate SHN compliance checks and contact tracing.</p>
+Travellers who are fit for travel should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
 
 
-<div id="1F"></div>
+&#9744;  <i><b>F) Installation of TraceTogether app</b></i>
 
-&#9744;  <i><b>F) Request for alternative Stay-Home Notice (SHN) arrangements</b></i>
+Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.
 
-Travellers will, by default, serve their 10-day Stay-Home Notice (SHN) at an assigned hotel, i.e. an SHN-Dedicated Facility (SDF). Payment for a 10-day SHN stay at an SDF, inclusive of food-related costs, is collected during entry approval (see Stage 1A; indicative costs below). Due to fast-changing SDF demands, travellers will not be informed of their assigned hotel before arrival. Travellers may request for inter-connecting rooms or <a href="/health/shn/sdfupgrade" target="_blank">suites</a>. All additional lodging cost will be communicated and collected from the traveller directly by the SDF operator.
+
+<div id="1G"></div>
+
+&#9744;  <i><b>G) Request for alternative Stay-Home Notice (SHN) arrangements</b></i>
+
+Travellers will, <b>by default</b>, serve their 10-day Stay-Home Notice (SHN) at an assigned hotel, i.e. an SHN-Dedicated Facility (SDF). Payment for a 10-day SHN stay at an SDF, inclusive of food-related costs, is collected during entry approval (see Stage 1A; indicative costs below). Due to fast-changing SDF demands, travellers will not be informed of their assigned hotel before arrival. 
 
 <table>
   <tbody>
     <tr>
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;"><b>Occupants per standard SDF room (25 sqm)</b></td>
-	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;"><b>Accommodation and Food Cost per Person (S$)</b></td>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;"><b>Estimated Accommodation and Food Cost per Person (S$)</b></td>
 	  </tr>
 	      <tr>
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Single adult traveller </td>
@@ -566,13 +570,15 @@ Travellers will, by default, serve their 10-day Stay-Home Notice (SHN) at an ass
 		         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">950</td>
 	  </tr>
 	  	      <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Single traveller who is 12 years and below this calendar year (i.e. minors)</td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Single traveller who is 12 years and below this calendar year</td>
 		         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Varies depending on traveller’s age</td>
 	  </tr>
 	</tbody>
 	</table>
 
-Travellers suffering from a critical illness or have a mobility issue or special medical, making the completion of SHN at an SDF difficult, may seek approval to complete their SHN at a place of residence. <a href="https://go.gov.sg/shnhotelneeds" target="_blank">Approvals must be sought</a> at least three working days before arrival in Singapore. If the domestic public health risk assessment changes, all prior approvals can be rescinded, and the traveller will complete their SHN at an SDF.
+Travellers may request for inter-connecting rooms or <a href="/health/shn/sdfupgrade" target="_blank">suites</a>. All additional costs will be communicated and collected from the traveller directly by the SDF operator.
+
+Travellers suffering from a critical illness or have a mobility issue or special medical, making the completion of SHN at an SDF difficult, may seek approval to complete their SHN at a place of residence. <a href="https://go.gov.sg/shnhotelneeds" target="_blank">Approvals must be sought</a> <b>at least three working days before arrival</b> in Singapore. If the domestic public health risk assessment changes, all prior approvals can be rescinded, and the traveller will complete their SHN at an SDF.
 
 ### Stage 2: Departure for Singapore
 
