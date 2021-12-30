@@ -1106,9 +1106,9 @@ Note: Bookings not cancelled up to 7 days after the scheduled booking date will 
 
 To cancel and request for a refund of your booking:
 
-- Login to your Safe Travel Concierge (STC) account, navigate to ‘My Trips’ and choose the specific trip that you wish to cancel.
+- Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a>, navigate to ‘My Trips’ and choose the specific trip that you wish to cancel.
 
-- If you do not have a STC account, please request for assistance to cancel and refund your booking by emailing swabtest.refund@changiairport.com.
+- If you do not have a STC account, please request for assistance to cancel and refund your booking by emailing <a href="mailto: swabtest.datechange@changiairport.com">swabtest.datechange@changiairport.com</a>.
 
 Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
 
