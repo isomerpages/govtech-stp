@@ -258,11 +258,6 @@ Travellers will be turned away at Singapore's checkpoint if:
 
 In general, as a [condition](/malaysia/pca/terms-and-conditions) for entry into Singapore, all PCA travellers must adhere to the health control measures imposed on the group. This includes the taking of a COVID-19 test at the end of their [Stay Home Notice (SHN)](/health/shn). 
 
-#### 9. How much does it cost to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) on arrival? To whom and how should the payment be made?
-
-Each COVID-19 PCR test administered at the checkpoint costs S$160. To minimise processing time at the checkpoints, travellers are advised to <a href="https://t.2c2p.com/express/parkwayshentonoat">register and pay for the COVID-19 PCR before arrival</a>.
-
-For the exit from <a href="/health/shn">Stay Home Notice (SHN)</a> COVID-19 <a href="/health/covid19-tests/pcrtest">PCR test</a>, payment would already be collected at the point of application.
 
 
 ##### Click here to go to the [top](#top).
