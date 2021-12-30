@@ -192,6 +192,10 @@ Failure to comply with any SHN-related requirement is an offence under the Infec
 
 The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance. 
 
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="margin-top:0px; margin-bottom:20px; line-height:1.5; color:red;"><b>Anti-Scam Advisory</b></p> 
+<p style="margin-top:0px; margin-bottom:0px; line-height:1.5">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
+</div>
 
 To calculate the estimated SHN end-date, click <a href="/shn-calculator" target="_blank">here</a> for an SHN calculator. Travellers may complete their SHN at their own residence (see advisory below), self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel must inform the hotel that they are serving a SHN and ensure that the hotel can accommodate them, before securing their bookings. Travellers may refer to this page for the <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list of hotels</a> offering SHN-accommodation.
 
