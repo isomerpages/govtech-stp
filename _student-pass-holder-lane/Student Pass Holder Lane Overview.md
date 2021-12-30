@@ -137,7 +137,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#pcrtest">COVID-19 PCR test</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/vtsg">Travellers Vaccinated Overseas</a></li>
 </ul>	
-<p style="font-size:16px; line-height: 1.5;">Click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for information on Visas and Visit Pass validity, <a href="https://www.ica.gov.sg/reside/STP/apply">here</a> for information on Student’s Passes, or <a href="https://www.ica.gov.sg/enter-depart/extend_short_stay">here</a> for information on short-term passes. To check the status of your application <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
+<p style="font-size:16px; line-height: 1.5;">Click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for information on Visas and Visit Pass validity, <a href="https://www.ica.gov.sg/reside/STP/apply">here</a> for information on Student’s Passes, or <a href="https://www.ica.gov.sg/enter-depart/extend_short_stay">here</a> for information on short-term passes. To check the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
  </td>
 </tr>
 <tr>
