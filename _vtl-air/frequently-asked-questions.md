@@ -1093,22 +1093,42 @@ The on-arrival COVID-19 PCR tst will be conducted at a testing facility within t
 
 Each test costs S$125 (including Goods and Services Tax). You are strongly encouraged to <a href="https://safetravel.changiairport.com" target="_blank"> book and make payment</a> for the test before you arrive in Singapore.
 
-#### 3. Can travellers choose to undergo the on-arrival COVID-19 PCR test in clinics or hospitals in Singapore?
+#### 3. If my travel plans have changed, how do I edit the booking for my on-arrival COVID-19 PCR test?
+
+To edit a booking:
+
+- Login to your Safe Travel Concierge (STC) account, navigate to ‘My Trips’ and choose the specific trip that you wish to change.
+- If you do not have a STC account, please request for assistance to change your trip details by emailing swabtest.datechange@changiairport.com.
+
+Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
+
+#### 4. If I need to cancel my trip, how do I obtain a refund for my on-arrival COVID-19 PCR test?
+
+To cancel and request for a refund of your booking:
+
+- Login to your Safe Travel Concierge (STC) account, navigate to ‘My Trips’ and choose the specific trip that you wish to cancel.
+
+- If you do not have a STC account, please request for assistance to cancel and refund your booking by emailing swabtest.refund@changiairport.com.
+
+Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
+
+
+#### 5. Can travellers choose to undergo the on-arrival COVID-19 PCR test in clinics or hospitals in Singapore?
 
 No, travellers are required to undergo the on-arrival COVID-19 PCR test at the airport. A testing facility has been set up within the airport with a safe management process in place to enable travellers to undergo the test as smoothly and quickly as possible after disembarkation from their flight and arrival immigration clearance. 
 
-#### 4. Will ART kits for the unsupervised self-administered COVID-19 ARTs on Day 2,4,5 and 6 be provided on arrival?
+#### 6. Will ART kits for the unsupervised self-administered COVID-19 ARTs on Day 2,4,5 and 6 be provided on arrival?
 
 ART kits will <u>not</u> be provided upon arrival. Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmancy, retailer or e-commerce platform.
 
 If travellers are serving their self-isolation pending their on-arrival COVID-19 PCR test results, they may obtain ART kits via applications such as Grab and foodpanda which offer 24/7 delivery. Those residing in hotels can also seek their hotel concierge's assistance to help them obtain ART kits. They should <u>not</u> leave their place of accommodation to purchase ART kits prior to receiving their negative PCR test results on Day 1. They may only leave their place of accommodation <u>after</u> self-administering their ART on Day 2.
 
-#### 5. What happens if travellers refuse to undergo the on-arrival COVID-19 PCR test?
+#### 7. What happens if travellers refuse to undergo the on-arrival COVID-19 PCR test?
 
 Among other measures which may be taken. if travellers refuse to undergo the on-arrival COVID-19 PCR test, they may have their VTP (Air) cancelled and be refused entry into Singapore. In such an event, travellers may also be liable for all cost incurred for their repatriation, including custody and maintenance pending repatriation.
 
 
-#### 6. What are the requirements for transportation from the airport to the declared place of accommodation, after taking the on-arrival COVID-19 PCR test?
+#### 8. What are the requirements for transportation from the airport to the declared place of accommodation, after taking the on-arrival COVID-19 PCR test?
 
 After taking the COVID-19 PCR test, travellers are to immediately take private transportation, taxi, or private hire car (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps) from the airport to their declared place of accommodation.
 
@@ -1120,15 +1140,15 @@ Travellers must be transported directly to their declared place of accommodation
 - The vehicle windows should be wound down and the air-conditioning turned off, where practical.
 - After the traveller has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/cleaning-and-disinfection/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19" target="_blank">National Environment Agency (NEA) guidelines</a> for surface cleaning and disinfection.
 
-#### 7.  What should travellers do if their flight arrives earlier than their hotel check-in time?
+#### 9.  What should travellers do if their flight arrives earlier than their hotel check-in time?
 
 Travellers must proceed immediately to their place of accommodation for self-isolation. They are <b><u>not allowed</u></b> to stay in the airport or wait in the hotel lobby prior to check-in. They should seek their hotel's assistance to arrange for early check-in. If this is not possible, they can cancel or modify their reservation and arrange a booking at another hotel for self-isolation.
 
-#### 8. What should travellers do if they do not receive their on-arrival COVID-19 PCR test results after 24 hours?
+#### 10. What should travellers do if they do not receive their on-arrival COVID-19 PCR test results after 24 hours?
 
 Please email <airborder@rafflesmedical.com> for enquiries related to on-arrival COVID-19 PCR test results.
 
-#### 9. What should travellers do if they test positive for COVID-19?
+#### 11. What should travellers do if they test positive for COVID-19?
 
 Travellers who have tested positive should expect to receive an Isolation Order (IO). Please visit <a href="https://www.covid.gov.sg/unwell/hrp" target="_blank">this page</a> for information on the recovery procedure.
 
