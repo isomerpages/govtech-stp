@@ -96,14 +96,14 @@ Travellers should <b>defer their travels</b> if they:
 
 <div id="stage1e"></div>
 
-&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [only for arrivals before 3 Jan 2022, 2359h]</b></i>
 
-Travellers who are fit for travel should:
+Travellers who are fit for travel should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
 
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"> Register and pre-pay for an on-arrrival COVID-19 PCR test for those aged 3 and above this calendar year. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here if arriving via air</a> (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register here if arriving by sea or land</a> (each test costs S$160). Travellers are required to book for the test before arrival. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoints.</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing.</li>
-	</ol>
+&#9744;  <i><b>F) Installation of TraceTogether app</b></i>
+
+Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.
+
 
 ### Stage 2: Departure for Singapore
 
