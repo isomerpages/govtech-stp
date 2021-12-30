@@ -816,7 +816,7 @@ Travellers who did not <a href="#payment">pay for the test before arrival (see S
 
 &#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
 
-Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a href="" target="_blank">Click here for the latest transport advisory</a>.
+Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.
 
 The use of public transport (e.g. trains, buses) is prohibited.
 
@@ -826,32 +826,29 @@ The use of public transport (e.g. trains, buses) is prohibited.
 
 &#9744;  <i><b>A) Serve self-isolation period</b></i>
 
-While waiting for the on-arrival test result, the traveller is prohibited from leaving the self-isolation accommodation, which can be a
-<ol style="list-style-type:disc;">
-	<li>Place of residence; or </li>
-	<li>Hotel of choice including hotels in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before a booking is made, travellers should check and ensure that the hotel can accommodate guests who are self-isolating while waiting for their COVID-19 Polymerase Chain Reaction Test ("PCR Test") result.</li>
-</ol>
+Traveller are <b>prohibited</b> from leaving their self-isolation accommodation while waiting for the on-arrival test result (per Stage 3B).
 
-<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="margin-top:0px; margin-bottom:0px; line-height:1.5"><b>Advisory for travellers self-isolating with household members</b><br><br> Travellers may self-isolate at their residence with other household members, regardless of their vaccination status or travel history. In addition to being in isolation alone in a room, travellers are advised to minimise contact with any household members, and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to: </p>
-	<ol style="list-style-type:lower-roman;">
+Travellers who are self-isolating at their residence may do so with other household members, regardless of their vaccination status or travel history. However, they should be isolated in a room, minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to:
+<ol style="list-style-type:lower-roman;">
 	<li>Lower the lid before flushing the toilet; </li>
 	<li>Clean and disinfect contact surfaces after each use; and</li>
 	<li>Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
 	</ol>
-</div>
+
+&#9744;  <i><b>B) [If applicable] Tele-consultation for Nebuliser-using Travellers</b></i>
+
+Travellers using a nebuliser to manage a medical condition must arrange for a tele-consultation upon arrival at the self-isolation accomodation, where they will be assessed for their suitability to use an inhaler/spacer during SHN.
 
 
 ### Stage 5: End of Self-isolation period
 
 &#9744;  <i><b>A) Release from Self-isolation</b></i>
 
-Travellers may leave their accommodation only **after** receiving a negative result for the COVID-19 test taken on arrival in Singapore. The traveller will be informed of the result via email.
+Travellers may leave their accommodation only <b>after</b> receiving a negative result via email for their on-arrival COVID-19 test (see Stage 3B). Travellers should contact <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> if they do not receive their results within 24 hours of the test. Those who test positive for COVID-19 must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges will apply.
 
-Travellers who test positive for COVID-19 must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
 &#9744;  <i><b>B) Abide by Local COVID-19 Safe Management Measures</b></i>
 
-After SHN, travellers may go about their activities but <b>must</b> comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a> including using the TraceTogether app, which aids contact-tracing for COVID-19. 
+Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.
 
-Some activities in Singapore may require proof of vaccination. If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a>
+For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A).
