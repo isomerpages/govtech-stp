@@ -167,7 +167,7 @@ In general, travellers required to be tested before their flight will be require
 
 Click <a href="/transit/overview#PDT">here</a> for the relevant details.-->
 
-#### 3. Can I travel to Singapore if I do not have a valid negative Covid-19 test certificate?
+#### 2. Can I travel to Singapore if I do not have a valid negative Covid-19 test certificate?
 
 As a condition to enter Singapore, travellers must produce a negative COVID-19 test result. This may be enforced by the airline/transport operator during pre-boarding checks. Unless there are other compelling reasons, travellers failing to meet this condition will be denied entry into Singapore.
 
@@ -175,7 +175,7 @@ Travellers may only enter if there are compelling reasons. Individuals who prese
 
 <div id="recovered"></div>
 
-#### 4. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
+#### 3. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
 
 Travellers who are unwell or recently diagnosed with [COVID-19](https://www.moh.gov.sg/covid-19/faqs) should defer their travels. 
 
@@ -183,7 +183,7 @@ To prevent the spread of COVID-19, airlines will deny travellers from boarding a
 
 <div id="pcrtestQ5"></div>
 
-#### 5. I have recovered from COVID-19. Am I required to be tested for COVID-19 before departure for Singapore?
+#### 4. I have recovered from COVID-19. Am I required to be tested for COVID-19 before departure for Singapore?
 
 If a COVID-19 test is required to be taken <u>2 days</u> before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
 
@@ -209,15 +209,15 @@ Action will be taken against travellers who fail to comply with any of the stipu
 
 Yes, travellers must complete their SHN even after they are tested negative for their COVID-19 test before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.-->
 
-#### 6. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
+#### 5. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
 Travellers arriving from countries requiring a COVID-19 test must do so if they are three years old and above this calendar year. Individuals below the age of three this calendar year are, by default, exempted from this testing requirement. 
 
-#### 7. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
+#### 6. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
 Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.gov.sg/covid-19/faqs) to other members of the community if undetected. As part of border health control measures to detect cases early and minimise the public health risk of community transmission, COVID-19 testing is extended to inbound travellers aged 3 and above (in that calendar year). 
 
-#### 8. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
+#### 7. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
 
 In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
