@@ -7,7 +7,7 @@ description: Overview of the Familial Ties Lane
 	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red;">NOTE:</span> </b><b><span style="color:black;">If you hold a valid entry approval letter under the Familial Ties Lane but now wish to apply to enter under the Vaccinated Travel Lane (VTL), please write in via the <a href="http://go.gov.sg/sto-enquiry" target="_blank">SafeTravel Enquiry Form</a> for assistance. All short-term visitors and long-term pass holders are required to have a Vaccinated Travel Pass and fulfil VTL conditions in order to qualify for quarantine-free travel under the VTL. Click here for more information on the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a>.</span></b></p>
 	</div>-->
 
-<i>The <b>Familial Ties Lane (FTL)</b> is a Safe Travel Lane that facilitates entry of immediate family members of Singapore Citizens (SC) / Permanent Residents (PR), and PR in-principle approval holders into Singapore. </i>
+<i>The <b>Familial Ties Lane (FTL)</b> is a Safe Travel Lane that facilitates entry of immediate family members of Singapore Citizens (SC) / Permanent Residents (PR), and PR in-principle approval holders into Singapore. Prevailing health measures apply under the FTL, even if travelling from a Vaccinated Travel Lane country/region.</i>
 
 <i>SC/PRs may return to Singapore without the need for any Entry Approvals and should refer to [this page](/sc-pr/overview) instead for more information. If you are ineligible for entry via FTL, return to <a href="/arriving/overview">this menu</a> to explore other Safe Travel Lane options. </i>
 
