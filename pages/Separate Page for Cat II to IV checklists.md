@@ -468,13 +468,13 @@ Travellers should check the box **(&#9744;)** for completed activities.
 
 All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.
 
-Unsure which lanes to enter Singapore? Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.
 
 <div id="stage1b"></div>
 
 &#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
-Long-Term Pass holders and non-Singapore Citizens/Permanent Residents holding passports issued by visa-required countries/regions should apply for an <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">entry visa</a>. 
+Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Click here to check if a visa is required and to apply if needed</a>.
+
 
 <div id="stage1c"></div>
 
