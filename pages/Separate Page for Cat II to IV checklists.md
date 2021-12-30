@@ -679,16 +679,11 @@ The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply 
 <p style="margin-top:0px; margin-bottom:0px; line-height:1.5">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
 </div>
 
-	
-&#9744;  <i><b>B) Tele-consultation for Nebuliser-using Travellers</b></i>
+&#9744;  <i><b>B) End-of-SHN COVID-19 Test</b></i>
 
-Travellers using a nebuliser to manage a medical condition must arrange for a tele-consultation upon arrival at the SHN, where they will be assessed for their suitability to use an inhaler/spacer.
+Travellers will be scheduled to take a mandatory COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of their SHN. Payment for the test (S$125/test, including GST) for travellers who are not a Singapore Citizen (SC) or Singapore Permanent Resident (PR) is already collected during entry approval (see Stage 1A). For SC/PRs, the test payment details will be communicated separately after arrival in Singapore.
 
-&#9744;  <i><b>C) End-of-SHN COVID-19 Test</b></i>
-
-Travellers are scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of their SHN. Payment for the test (S$125/test, including GST) for travellers who are not a Singapore Citizen (SC) or Singapore Permanent Resident (PR) is already collected during entry approval (see <a href="#stage1a">Stage 1A</a>). For SC/PRs, the test payment details will be communicated separately after arrival in Singapore.
-
-The test is compulsory, and travellers who fail to receive their test appointment details a day before the end of their SHN should seek for assistance using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers who are unwell on the day of the test should remain in their accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant agencies</a>.
+Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers who are unwell on the day of the test should remain in their accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant agencies</a>.
 
 ### Stage 5: End of Stay-Home Notice
 
