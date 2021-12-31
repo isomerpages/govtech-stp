@@ -75,10 +75,10 @@ Up to 72 hours before arrival in Singapore, travellers must submit their pre-tri
 
 Travellers should **defer their travels** if they meet any of the following conditions: 
 
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last or 14 days before departing for Singapore; or</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last or 14 days before departing for Singapore; or</li>
+		<li style="padding-left: 20px;font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
 <div id="stage1e"></div>
@@ -87,9 +87,9 @@ Travellers should **defer their travels** if they meet any of the following cond
 
 Travellers who are fit for travel should register and pay for an on-arrival COVID-19 PCR test:
 
-<ol style="font-size:20px; margin-bottom:0px; list-style-type:lower-latin;">
-	<li style="font-size:20px; margin-top:0px; margin-bottom:10px; line-height:1.5;">Arrivals by <b>Air</b>, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test)</li>
-	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Arrivals by <b>Sea</b> or <b>Land</b>, <a href="https://t.2c2p.com/express/parkwayshentonoat/" target="_blank">register and pay here</a> (S$160/test)</li>
+<ol style="padding-left: 20px; font-size:20px; margin-bottom:0px; list-style-type:lower-latin;">
+	<li style="padding-left: 20px; font-size:20px; margin-top:0px; margin-bottom:10px; line-height:1.5;">Arrivals by <b>Air</b>, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test)</li>
+	<li style="padding-left: 20px; font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Arrivals by <b>Sea</b> or <b>Land</b>, <a href="https://t.2c2p.com/express/parkwayshentonoat/" target="_blank">register and pay here</a> (S$160/test)</li>
 </ol>
 
 The on-arrival test is only required for those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
@@ -108,8 +108,8 @@ Travellers must install and activate <a href="https://www.tracetogether.gov.sg/"
 As part of the airline or transport operator’s pre-boarding checks, travellers may be asked for the following:
 
 <ul style="list-style-type:lower-roman;">
-<li>Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and</li>
-<li>	Valid Pre-Departure COVID-19 Test certificate showing a negative result (if required)</li>
+<li style="padding-left: 20px; line-height: 1.5;">Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and</li>
+<li style="padding-left: 20px; line-height:1.5;">	Valid Pre-Departure COVID-19 Test certificate showing a negative result (if required)</li>
 </ul>
 
 Travellers without the above may be denied boarding. Travellers who are exempted from (ii) should produce their proof of exemption to the transport operator instead.
@@ -122,10 +122,10 @@ During immigration clearance, provide all documents, including proof of tests, a
 
 <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who meet the following conditions <b>must clear immigration at the manual counters and request the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1E):
 
-<ol style="list-style-type:lower-roman; margin-top:30px;">
-		<li>Aged 12 and above;</li>
-	<li>Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification; and</li>
-	<li>Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance. </li>
+<ol style="padding-left: 20px; list-style-type:lower-roman; margin-top:30px;">
+		<li style="padding-left: 20px;">Aged 12 and above;</li>
+	<li  style="padding-left: 20px;">Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification; and</li>
+	<li  style="padding-left: 20px;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance. </li>
 	</ol>
 
 Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
