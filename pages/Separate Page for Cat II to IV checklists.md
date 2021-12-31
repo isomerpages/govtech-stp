@@ -96,7 +96,7 @@ Travellers should <b>defer their travels</b> if they:
 
 <div id="stage1e"></div>
 
-&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [only for arrivals before 3 Jan 2022, 2359h]</b></i>
+&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [only for arrivals before 7 Jan 2022, 2359h]</b></i>
 
 Travellers who are fit for travel should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
 
@@ -157,7 +157,7 @@ During immigration clearance, provide all documents, including proof of tests, a
 
 Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
 
-&#9744;  <i><b>B) On arrival COVID-19 Tests [only for arrivals before 3 Jan 2022, 2359h]</b></i>
+&#9744;  <i><b>B) On arrival COVID-19 Tests [only for arrivals before 7 Jan 2022, 2359h]</b></i>
 
 Follow the instructions of officers on the ground and take an on-arrival COVID-19 Polymerase Chain Reaction test.
 
@@ -316,7 +316,7 @@ Travellers should <b>defer their travels</b> if they:
 
 <div id="stage1e"></div>
 
-&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [only for arrivals before 3 Jan 2022, 2359h]</b></i>
+&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [only for arrivals before 7 Jan 2022, 2359h]</b></i>
 
 Travellers who are fit for travel should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
 
@@ -378,7 +378,7 @@ During immigration clearance, provide all documents, including proof of tests, a
 Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
 
 
-&#9744;  <i><b>B) On-arrival COVID-19 Tests [only for arrivals before 3 Jan 2022, 2359h]</b></i>
+&#9744;  <i><b>B) On-arrival COVID-19 Tests [only for arrivals before 7 Jan 2022, 2359h]</b></i>
 
 Follow the instructions of officers on the ground and take an on-arrival COVID-19 Polymerase Chain Reaction test.
 
@@ -539,7 +539,7 @@ Travellers should <b>defer their travels</b> if they:
 
 <div id="stage1e"></div>
 
-&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [only for arrivals before 3 Jan 2022, 2359h]</b></i>
+&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [only for arrivals before 7 Jan 2022, 2359h]</b></i>
 
 Travellers who are fit for travel should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
 
@@ -611,7 +611,7 @@ During immigration clearance, provide all documents, including proof of tests, a
 Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
 
 
-&#9744;  <i><b>B) On-arrival COVID-19 Tests [only for arrivals before 3 Jan 2022, 2359h]</b></i>
+&#9744;  <i><b>B) On-arrival COVID-19 Tests [only for arrivals before 7 Jan 2022, 2359h]</b></i>
 
 Follow the instructions of officers on the ground and take an on-arrival COVID-19 Polymerase Chain Reaction test.
 
