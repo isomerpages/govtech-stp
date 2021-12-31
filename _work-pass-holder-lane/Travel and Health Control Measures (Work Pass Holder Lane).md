@@ -35,9 +35,9 @@ For all other pass holders (work pass holders and their dependants), this page e
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">On-arrival COVID-19 PCR test in Singapore</li>
 </ol>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><i>Example: If the pre-departure test was taken on 5 Dec 2021, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoint) up to 7 Dec 2021, 2359 hours.</i></p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Workers with travel history to Category II, III or IV countries/regions and entering Singapore <b>from 7 Jan 2022, 2359 hours,</b> do not need to take an on-arrival COVID-19 test. For refunds of this test, please refer to the table below.</p>
-<br>	
-<table>
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Workers with travel history to Category II, III or IV countries/regions and entering Singapore <b>from 7 Jan 2022, 2359 hours,</b> do not need to take an on-arrival COVID-19 test. For refunds of this test, please refer to the FAQ <a href="/health/faq#refunds" target="_blank">here</a> for more information.</p>
+
+<!--<table>
 	<thead>
 		<th style="font-size:18px; line-height:1.5; border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8;border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;"><b>Test paid using</b></th>
 		<th style="font-size:18px; line-height:1.5; border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;"><b>How is the refund processed</b></th>
@@ -52,7 +52,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 			<td style="font-size:18px; line-height:1.5; border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">Please email <a href="mailto: sea.checkpoints.refunds@parkwaypantai.com">sea.checkpoints.refunds@parkwaypantai.com</a> for refund or cancellation requests.</td>
 		</tr>
 	</tbody>
-	</table>
+	</table>-->
 
 	
 <p style="margin-top: 10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
