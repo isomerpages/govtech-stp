@@ -114,11 +114,11 @@ Travellers may serve SHN at their residence with other household members, regard
 	<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 	<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
-		<li style="margin-top:5px; margin-bottom:10px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
-		<li style="margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
-	</ol>
-	</li>
-	</ol>
+<li style="margin-top:5px; margin-bottom:10px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
+<li style="margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
+</ol>
+</li>
+</ol>
 
 
 ### Stage 2: Departure for Singapore
