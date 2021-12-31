@@ -129,9 +129,9 @@ Travellers may serve SHN at their residence with other household members, regard
 
 To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline to produce the following during pre-boarding checks:
 
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid Pre-Departure Test showing a negative COVID-19 result (see Stage 1C)</li>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid Pre-Departure Test showing a negative COVID-19 result (see Stage 1C)</li>
 </ol>
 
 Travellers who fail to produce these documents may be denied boarding.
@@ -145,10 +145,10 @@ During immigration clearance, provide all documents, including proof of tests, a
 
 <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who meet the following conditions <b>must clear immigration at the manual counters and request the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1E):
 
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Aged 12 and above; </li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification; and</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance. </li>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Aged 12 and above; </li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification; and</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance. </li>
 </ol>
 
 Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
@@ -182,10 +182,10 @@ A 10-day Stay-Home Notice (SHN) takes effect immediately upon its issuance, and 
 
 Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA to ensure compliance. For subsequent breaches, travellers can be fined, imprisoned, and/or have their residency/work permits revoked. During the SHN period, <a href="/health/shn#shn-compliance-checks" target="_blank">randomised in-person or phone/video compliance check(s) will be conducted</a> (see advisory below), and travellers may only leave their SHN accommodation in the following cases:
 
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Directed by the relevant authorities to do so;</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; OR</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Received a negative PCR test result for the test taken before the end of the SHN.</li>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Directed by the relevant authorities to do so;</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; OR</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Received a negative PCR test result for the test taken before the end of the SHN.</li>
 </ol>
 
 The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance. 
