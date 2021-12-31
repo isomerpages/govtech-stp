@@ -519,7 +519,7 @@ Travellers who are fit for travel should register and pay for an on-arrival COVI
 
 The on-arrival test is only required for those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
 
-<span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions and are arriving from <b>3 Jan 2022, 2359h</b>, do not need to take an on-arrival test and do not need to make this registration/prepayment.
+<span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions and are arriving from <b>7 Jan 2022, 2359h</b>, do not need to take an on-arrival test and do not need to make this registration/prepayment.
 
 &#x2610;  <i><b>F) Installation of TraceTogether app</b></i>
 
@@ -560,7 +560,7 @@ Once registered, the traveller will be able to show proof of their vaccination s
 
 Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you are required to do so and <a href="#stage1e">did not pay for the test before arrival (per Stage 1E)</a>, you will pay on the spot and expect additional delays in the administration of the test and departure from the checkpoint. 
 
-<span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions and are arriving from <b>3 Jan 2022, 2359h</b>, do not need to take an on-arrival test.
+<span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions and are arriving from <b>7 Jan 2022, 2359h</b>, do not need to take an on-arrival test.
 
 &#x2610;  <i><b>C) Transport to Self-Isolation / Stay-Home Notice accommodation) </b></i>
 
