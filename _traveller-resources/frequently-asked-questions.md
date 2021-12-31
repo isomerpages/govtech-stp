@@ -400,8 +400,10 @@ Requests for refunds will only be considered if there are strong mitigating fact
    </tr> 
   </tbody>
   </table>
+
 <div id="refunds"></div>
- Travellers who have paid for their on-arrival COVID-19 PCR test separately at the airport or land/sea checkpoints, please refer to the following:
+
+Travellers who have paid for their on-arrival COVID-19 PCR test separately at the airport or land/sea checkpoints, please refer to the following:
  
 <table>
 <tbody>
