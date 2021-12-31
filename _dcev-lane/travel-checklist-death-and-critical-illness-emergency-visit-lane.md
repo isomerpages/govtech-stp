@@ -6,9 +6,9 @@ permalink: /travel-checklist/dcev
 
 ### Travel Checklist – Death & Critical Illness Emergency Visit Lane	
 
-This checklist is **only** suitable for travellers who have been approved for entry on an urgent basis via the Death and Critical Illness Emergency Visit Lane (DCEV). Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Reciprocal Green Lane, Vaccinated Travel Lane or travellers who had left Singapore for Malaysia via DCEV should refer to the lane specific requirements or refer to their approval letters for instructions. Return to “Travelling to Singapore” for more details. 
+This checklist is **only** suitable for travellers who have been approved for entry on an urgent basis via the Death and Critical Illness Emergency Visit Lane (DCEV). Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Reciprocal Green Lane, Vaccinated Travel Lane should refer to the lane specific requirements or refer to their approval letters for instructions. Return to “Travelling to Singapore” for more details on the other lanes. 
 
-Given the nature of the visit, arrangements will be made to allow travellers to make short and safe visits to the medical facility and/or funeral. Otherwise, scroll-down or click on the links for health-related protocols applicable based on the relevant stage of your journey.
+Under the DCEV, arrangements will be made to allow travellers to make short and safe visits to the medical facility and/or funeral. Otherwise, scroll-down or click on the links for health-related protocols applicable based on the relevant stage of your journey.
 
 Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#x2610;)** for completed activities.
 
@@ -30,45 +30,80 @@ Travellers must take a PDT **within 2 days before departure** for Singapore, unl
 - Are below the age of three in this calendar year; or
 - Are Singapore Citizens entering Singapore via the Causeway or Second Link.
 
-Travellers are required to take either a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> <b>OR [For Category II and III]</b> an Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure, if necessary. <b>Self-swabs are not allowed</b>. They should also obtain a copy of the negative test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
+<table>
+<tbody>
+	<tr>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>14-day Travel History</b></td>
+    <td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>Permitted Test(s)</b></td>
+		</tr>
+	<tr>
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;">
+<ol style="list-style-type:disc; font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;">	
+	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;"><b><u>Category I</u></b>:<p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;">Hong Kong, Macao, Mainland China, Taiwan</p></li>
+		<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35; margin-bottom:20px;"><b><u>Category II</u></b>:<p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;">Argentina, Australia, Bahrain, Bhutan, Brunei, Cambodia, Canada, Chile, Cyprus, Denmark<sup>1</sup>, Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, India, Indonesia, Israel, Italy, Japan, Kuwait, Malaysia, Maldives, Malta, Mexico, Mongolia, Morocco, Myanmar, Nepal, New Zealand, Oman, Pakistan, Portugal, Qatar, Rwanda, The Republic of Korea, Romania, Samoa, San Marino, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</p><p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>4</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p></li>
+	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;"><b><u>Category III</u></b>:<p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;">Austria, Bangladesh, Belarus, Belgium, Belize, Brazil, Bulgaria, Colombia, Costa Rica, Croatia, Czech Republic, Estonia, Hungary, Iceland, Ireland, Kazakhstan, Laos, Latvia, Liechtenstein, Lithuania, Luxembourg, Mauritius, Norway, Panama, Papua New Guinea, Peru, Philippines, Poland, Russia, Serbia, Seychelles, Slovakia, Slovenia, Ukraine and Uruguay</p></li>
+		</ol>
+</td>
+    	<td rowspan="1" style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:top; line-height:1.35;"> <ol style="list-style-type:lower-alpha">
+        <li style="line-height:1.35; margin-top:0px; font-size:18px;">COVID-19 Polymerase Chain Reaction Test; <b>OR</b></li>
+         <li style="line-height:1.35; margin-top:0px; font-size:18px;">Antigen Rapid Test that is administered by a trained professional, i.e. self-swabs are disallowed.</li>
+        </ol>
+</td>
+	</tr>
+  	<tr>
+	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"><b><u>Category (IV)</u></b>:<p style="margin-top: 20px; font-size: 18px; text-align: left; line-height:1.35;"><b>All other countries or regions not in Category I, II, III<sup>*</sup></b> </p>
+</td>
+    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;">COVID-19 Polymerase Chain Reaction Test</td>
+	</tr>
+	</tbody>
+	</table>
+
+Travellers must obtain a copy of the negative test result that meets all the following conditions:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test.
 
-Handwritten negative PDT results are not accepted.
-
-Travellers with difficulties obtaining a COVID-19 test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office here for assistance</a>.
+<b>Handwritten reports will be rejected.</b> Handwritten negative PDT results are not accepted. Travellers with difficulties obtaining a COVID-19 test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.
 
 &#x2610;  <i><b>D) Submission of Health Declaration</b></i>
 
-Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/) (SGAC) with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they meet any of the following conditions: 
+Up to 72 hours before arrival in Singapore, travellers must submit their pre-trip health and travel history declaration via <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>. All SGAC submissions are free-of-charge, and <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> should also upload their digitally-verifiable vaccination certificate, i.e. certificate with a QR code. Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccinated-differentiated settings</a>. 
+
+Travellers should **defer their travels** if they meet any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last or 14 days before departing for Singapore; or</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
 <div id="stage1e"></div>
 
-&#x2610;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+&#x2610;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test</b></i>
 
-Travellers who are fit for travel should:
+Travellers who are fit for travel should register and pay for an on-arrival COVID-19 PCR test:
 
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for an on-arrrival COVID-19 PCR test. <a href="https://safetravel.changiairport.com/#/" target="_blank">Register here</a> if you are arriving via air (each test costs S$125),  <a href="https://t.2c2p.com/express/parkwayshentonoat/" target="_blank">Register here</a>, if arriving by sea or land (each test costs S$160)</li>
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/" target="_blank">Whatsapp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing.</li>
+<ol style="font-size:20px; margin-bottom:0px; list-style-type:lower-latin;">
+	<li style="font-size:20px; margin-top:0px; margin-bottom:10px; line-height:1.5;">Arrivals by <b>Air</b>, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test)</li>
+	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Arrivals by <b>Sea</b> or <b>Land</b>, <a href="https://t.2c2p.com/express/parkwayshentonoat/" target="_blank">register and pay here</a> (S$160/test)</li>
 </ol>
 
-&#x2610;  <i><b>F) TraceTogether Registration</b></i>
+The on-arrival test is only required for those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.
 
-Travellers must download and create a user profile on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> on their mobile device. The application must be used by the traveller for the duration of the trip for the purpose of aiding contact tracing.
+<span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions and are arriving from <b>7 Jan 2022, 2359h</b>, do not need to take an on-arrival test and do not need to make this registration/prepayment.
 
-Children who are aged 6 years or below in this calendar year are exempted from this requirement. Travellers who are 7 to 12 yrs of age in the current calendar year, and those who are unable to use a mobile device due to a certified disability or special need, will receive a TraceTogether token on arrival in Singapore. For more details on the use of TraceTogether, click [here](/health/tt-for-travellers).
+&#x2610;  <i><b>F) Installation of TraceTogether app</b></i>
+
+Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile application</a> on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.
+
 
 ### Stage 2: Departure for Singapore
 
-&#x2610;  <i><b>A) Pre-boarding Document Checks (for travellers arriving by air or sea)</b></i>
+&#x2610;  <i><b>Pre-boarding Document Checks (for travellers arriving by air or sea)</b></i>
 
 As part of the airline or transport operator’s pre-boarding checks, travellers may be asked for the following:
 
@@ -81,25 +116,26 @@ Travellers without the above may be denied boarding. Travellers who are exempted
 
 ### Stage 3: Arrival in Singapore
 
-&#x2610;  <i><b>A) Immigration Clearance</b></i>
+&#x2610;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i>
 
-Travellers will be asked to produce the following documents as part of the immigration process:
+During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <b><a href="" target="_blank">e-Pass (i.e. Visit Pass)</a></b> <b>which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.
 
-<ul style="list-style-type:lower-roman;">
-		<li>Negative PDT report, if required</li>
-	<li>	Valid entry approval letter (electronic or physical copy)</li>
-	<li>Valid visa (only visa-required passport holders)</li>
-	</ul>
+<a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who meet the following conditions <b>must clear immigration at the manual counters and request the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1E):
 
-<b>Eligible travellers vaccinated overseas should also inform the immigration officer to have your vaccination details temporarily registered in your TraceTogether app</b> in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure to get your vaccination status registered</a>. 
+<ol style="list-style-type:lower-roman; margin-top:30px;">
+		<li>Aged 12 and above;</li>
+	<li>Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification; and</li>
+	<li>Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance. </li>
+	</ol>
 
-For visitors granted entry, please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport unless arriving by land or sea. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here for more information about the e-Pass</a>.
-	
-Travellers with a 14-day travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (II) to (IV) country/region</a> will also receive their Stay-Home Notice (SHN) via the email address provided in their SGAC declaration.
+Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
 
-&#x2610; <i><b>B) On arrival COVID-19 Tests</b></i>
 
-Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you <a href="#stage1e">did not pay for the test before arrival (per Stage 1E)</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint. 
+&#x2610; <i><b>B) On arrival COVID-19 Tests (if required)</b></i>
+
+Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you are required to do so and <a href="#stage1e">did not pay for the test before arrival (per Stage 1E)</a>, you will pay on the spot and expect additional delays in the administration of the test and departure from the checkpoint. 
+
+<span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions and are arriving from <b>7 Jan 2022, 2359h</b>, do not need to take an on-arrival test.
 
 &#x2610;  <i><b>C) Transport to Self-Isolation / Stay-Home Notice accommodation) </b></i>
 
@@ -194,14 +230,12 @@ Travellers who wish to leave Singapore before the end of the SHN period **due to
 
 <b>For travellers serving SHN at an SHN Dedicated Facility (SDF)</b>, the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. 
 
-<b>Travellers serving SHN at a place of residence </b> will be scheduled to take a COVID-19 Polymerase Chain Reaction ("PCR test") before the end of the SHN. Travellers who do nto receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers may end their SHN arrangements upon receipt of a negative test result or when they complete the 7 -day or 10-day SHN period applicable to them, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank"> HealthHub App</a> .
+<b>Travellers serving SHN at a place of residence </b> will be scheduled to take a COVID-19 Polymerase Chain Reaction ("PCR test") before the end of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers may end their SHN arrangements upon receipt of a negative test result or when they complete the 7 -day or 10-day SHN period applicable to them, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank"> HealthHub App</a> .
 
 Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
 &#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
 
-After SHN, travellers may go about their activities but <b>must</b> comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures.</a> 
+After SHN, travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.
 
-Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a> 
-
-Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
+For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A). Travellers who require vaccinated status beyond 30 days after arrival, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
