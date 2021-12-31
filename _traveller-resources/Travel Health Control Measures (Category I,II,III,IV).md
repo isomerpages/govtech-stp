@@ -36,8 +36,8 @@ This page provides a summary of the four categories of travel health control mea
 
 <!--<b>On this page you will find the following</b>:
 <ol style="list-style-type:lower-latin;">
-	<li><a href="#from">Categories of travel health control measures for arrivals from 26 Dec 2021, 2359 hours</a></li>
-	<li><a href="#before-1">Categories of travel health control measures for arrivals before 26 Dec 2021, 2359 hours</a></li>
+	<li><a href="#from">Categories of travel health control measures for arrivals from 26 Jan 2021, 2359 hours</a></li>
+	<li><a href="#before-1">Categories of travel health control measures for arrivals before 26 Jan 2021, 2359 hours</a></li>
 	</ol>-->
 
 <div id="from"></div>
@@ -122,7 +122,7 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 7-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
@@ -177,7 +177,7 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
