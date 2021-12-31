@@ -108,7 +108,8 @@ Travellers must complete their 7-day Stay Home Notice (SHN) at a declared accomm
 
 For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving self-isolation for the on-arrival test.
 
-Travellers may serve SHN at their residence with other household members, regardless of their household members' vaccination status or travel history. However, the following precautions are strongly advised:  
+Travellers may serve SHN at their residence with other household members, regardless of their household members' vaccination status or travel history. However, the following precautions are strongly advised: 
+
 <ol style="padding-left: 30px; margin-top:20px; list-style-type: lower-latin;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Isolate in their own room during the 7-day period;</li>
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
