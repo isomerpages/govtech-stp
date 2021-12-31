@@ -38,13 +38,13 @@ This page provides a summary of the four categories of travel health control mea
 
 <b>On this page you will find the following</b>:
 <ol style="list-style-type:lower-latin;">
-	<li><a href="#from">Categories of travel health control measures for arrivals from 3 Jan 2022, 2359 hours</a></li>
-	<li><a href="#before-1">Categories of travel health control measures for arrivals before 3 Jan 2022, 2359 hours</a></li>
+	<li><a href="#from">Categories of travel health control measures for arrivals from 7 Jan 2022, 2359 hours</a></li>
+	<li><a href="#before-1">Categories of travel health control measures for arrivals before 7 Jan 2022, 2359 hours</a></li>
 	</ol>
 
 <div id="from"></div>
 
-### Categories of Travel Health Control Measures (for arrivals from 3 Jan 2022, 2359h)
+### Categories of Travel Health Control Measures (for arrivals from 7 Jan 2022, 2359h)
 
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
@@ -235,7 +235,7 @@ This page provides a summary of the four categories of travel health control mea
 
 <div id="before-1"></div>
 
-### Categories of Travel Health Control Measures (for arrivals before 3 Jan 2022, 2359h)
+### Categories of Travel Health Control Measures (for arrivals before 7 Jan 2022, 2359h)
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
