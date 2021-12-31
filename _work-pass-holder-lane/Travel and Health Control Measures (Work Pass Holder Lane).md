@@ -35,6 +35,26 @@ For all other pass holders (work pass holders and their dependants), this page e
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">On-arrival COVID-19 PCR test in Singapore</li>
 </ol>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><i>Example: If the pre-departure test was taken on 5 Dec 2021, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoint) up to 7 Dec 2021, 2359 hours.</i></p>
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Workers with travel history to Category II, III or IV countries/regions and entering Singapore <b>from 7 Jan 2022, 2359 hours,</b> do not need to take an on-arrival COVID-19 test. For refunds of this test, please refer to the table below.</p>
+<br>	
+<table>
+	<thead>
+		<th style="font-size:18px; line-height:1.5; border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8;border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;"><b>Test paid using</b></th>
+		<th style="font-size:18px; line-height:1.5; border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;"><b>How is the refund processed</b></th>
+	</thead>
+	<tbody>
+		<tr>
+		<td style="font-size:18px; line-height:1.5;border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;"><a href="https://changiairport.com/safetravel" target="_blank">Changi Airport e-Service</a></td>
+			<td style="font-size:18px; line-height:1.5;border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8;border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">Changi Airport Group will automatically refund the test fees 7 working days after the booked arrival date.<br>For any queries, please email <a href="mailto: swabtest.refund@changiairport.com">swabtest.refund@changiairport.com</a></td>
+		</tr>
+		<tr>
+			<td style="font-size:18px; line-height:1.5;border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8;border-bottom:3px solid #D8D8D8;"><a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">Parkway Shenton eService</a></td>
+			<td style="font-size:18px; line-height:1.5; border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">Please email <a href="mailto: sea.checkpoints.refunds@parkwaypantai.com">sea.checkpoints.refunds@parkwaypantai.com</a> for refund or cancellation requests.</td>
+		</tr>
+	</tbody>
+	</table>
+
+	
 <p style="margin-top: 10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 <b>➃</b> Pass holders below three years of age in this calendar year are not required to take the COVID-19 tests listed in the tables below.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10116;</b> All pass holders are not allowed to serve SHN or self-isolation in dormitories. Submitter may refer to this <a href="https://sha.org.sg/stay-home-notice">list</a> (non-exhaustive) to book a hotel or serviced apartment for the pass holder. Please check if they can accommodate guests on SHN or self-isolation.</p>
