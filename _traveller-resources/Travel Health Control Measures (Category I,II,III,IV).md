@@ -34,17 +34,16 @@ This page provides a summary of the four categories of travel health control mea
 	</tbody>
 		</table>
 
-<!--<b>On this page you will find the following</b>:
+<b>On this page you will find the following</b>:
 <ol style="list-style-type:lower-latin;">
-	<li><a href="#from">Categories of travel health control measures for arrivals from 26 Jan 2021, 2359 hours</a></li>
-	<li><a href="#before-1">Categories of travel health control measures for arrivals before 26 Jan 2021, 2359 hours</a></li>
-	</ol>-->
+	<li><a href="#from">Categories of travel health control measures for arrivals from 7 Jan 2022, 2359 hours</a></li>
+	<li><a href="#before-1">Categories of travel health control measures for arrivals before 7 Jan 2022, 2359 hours</a></li>
+	</ol>
 
 <div id="from"></div>
 
-### Categories of Travel Health Control Measures (for arrivals from 26 Dec 2021, 2359h)
+### Categories of Travel Health Control Measures (for arrivals from 7 Jan 2022, 2359h)
 
-<span style="color:red;"><b>Travellers arriving in Singapore <u>before 26 Dec 2021, 2359h</u> will be subject to the measures stipulated in their approval letters and Stay Home Notices (SHN).</b></span>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
@@ -122,7 +121,6 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 7-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
@@ -177,7 +175,198 @@ This page provides a summary of the four categories of travel health control mea
 </li>
 </ol>
 </li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
+<ol style="margin-top:0px; list-style-type: lower-latin;">
+<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
+<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel*; or</li>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
+</ol>
+	</li>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
+		<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Before a room booking is made, travellers must inform the hotel that they are serving a SHN and ensure that the hotel can accommodate them</i></p>
+</td>
+	</tr>
+	</tbody>
+	</table>
+
+<div id="table4"></div>
+
+<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
+	
+<table style="overflow: hidden;">
+<thead>
+<tr>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (IV) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-4">Click here</a> for a printable Category (IV) Traveller’s Checklist, with guides for all documentation, tests and payments needed]</i></span></th>
+</tr>
+<tr>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
+<ol style="margin-top:0px; list-style-type: decimal;">
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days</b> before departure and obtain a copy of the negative COVID-19 test report that: 
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is a COVID-19 Polymerase Chain Reaction Test ("PCR test") taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a>. Antigen Rapid Tests are not allowed.
+	</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
+<ol style="margin-top:0px; list-style-type: lower-latin;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">PCR test results and date of test;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
+</ol>
+</li>
+</ol>
+</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn#sdf">SHN Dedicated Facility</a>
+	</li>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
+</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<div id="before-1"></div>
+
+### Categories of Travel Health Control Measures (for arrivals before 7 Jan 2022, 2359h)
+
+<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
+
+<div id="table1"></div>
+<table style="overflow: hidden;">
+<thead>
+	<tr>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (I) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-1">Click here</a> for a printable Category (I) Traveller’s Checklist, with guides for all documentation, tests and payments needed]</i></span></th>
+</tr>
+<tr>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Hong Kong, Macao, Mainland China, Taiwan</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+<td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
+<ol style="margin-top: 0px; list-style-type:decimal;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Take a COVID-19 pre-departure test within 2 days before departure and obtain a copy of the negative COVID-19 test report that:
+		<ul style="margin-top: 0px;list-style-type:lower-roman;">
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is an Antigen Rapid Test (ART) administered by a trained professional (self-swabs are not allowed) OR Polymerase Chain Reaction Test taken at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> </li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
+			<ul style="margin-top: 0px;list-style-type:lower-alpha;">
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 test results and date of test;</li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller's name; and</li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per passport used to travel to Singapore)</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 24 hours)</li>
+</ol>
+</td>
+	</tr>
+	</tbody>
+	</table>
+
+<div id="table2"></div>
+
+<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
+	
+<table style="overflow: hidden;">
+<thead>
+	<tr>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (II) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2">Click here</a> for a printable Category (II) Traveller’s Checklist, with guides for all documentation, tests and payments needed]</i></span></th>
+</tr>
+<tr>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Argentina, Australia, Bahrain, Bhutan, Brunei, Cambodia, Canada, Chile, Cyprus, Denmark<sup>1</sup> Egypt, Ethiopia, Fiji, Finland, France<sup>2</sup>, Germany, Greece, India, Indonesia, Israel, Italy, Japan, Kuwait, Malaysia, Maldives, Malta, Mexico, Mongolia, Morocco, Myanmar, Nepal, New Zealand, the Netherlands<sup>3</sup> Oman, Pakistan, Portugal, Qatar, Rwanda, The Republic of Korea, Romania, Samoa, San Marino, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Tonga, Turkey, The United Arab Emirates, the United Kingdom<sup>4</sup>, the United States<sup>5</sup> Vatican City, Vietnam</b>
+	<!--<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b style="color:#ff695e">NOTE:</b> For arrivals before 29 Dec 2021,2359hrs:<br> Denmark<sup>1</sup>, France<sup>2</sup>, the Netherlands<sup>3</sup>, the United Kingdom<sup>4</sup>, the United States<sup>5</sup> <i>(See Category III for arrivals after 29 Dec 2021, 2359hrs)</i></p>-->
+	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>4</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
+	</th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+<td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
+<ol style="margin-top:0px; list-style-type: decimal;">
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days before departure</b> <!-- at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> --> and obtain a copy of the negative COVID-19 test report that:
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is an Antigen Rapid Test (ART) administered by a trained professional (self-swabs not allowed) OR Polymerase Chain Reaction Test taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
+<ol style="margin-top:0px; list-style-type: lower-latin;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 test results and date of test;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore).</li>
+</ol>
+</li>
+</ol>
+</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 7-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
+<ol style="margin-top:0px; list-style-type: lower-latin;">
+<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
+<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel*; or</li>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
+</ol>
+	</li>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
+	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Before a room booking is made, travellers must inform the hotel that they are serving a SHN and ensure that the hotel can accommodate them</i></p>
+	<p></p>
+	</td>
+	</tr>
+	</tbody>
+	</table>
+	
+
+<div id="table3"></div>
+
+<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
+	
+<table style="overflow: hidden;">
+<thead>
+	<tr>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (III) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-3">Click here</a> for a printable Category (III) Traveller’s Checklist, with guides for all documentation, tests and payments needed]</i></span></th>
+</tr>
+<tr>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Austria, Bangladesh, Belarus, Belgium, Belize, Brazil, Bulgaria, Colombia, Costa Rica, Croatia, Czech Republic, Estonia, Hungary, Iceland, Ireland, Kazakhstan, Laos, Latvia, Liechtenstein, Lithuania, Luxembourg, Mauritius, Norway, Panama, Papua New Guinea, Peru, Philippines, Poland, Russia, Serbia, Seychelles, Slovakia, Slovenia, Ukraine and Uruguay</b>
+	<!--<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b style="color:#ff695e">NOTE:</b> For arrivals from 29 Dec 2021,2359hrs:<br> Denmark<sup>1</sup>, France<sup>2</sup>, the Netherlands<sup>3</sup>, the United Kingdom<sup>4</sup>, the United States<sup>5</sup></p>
+	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>4</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>-->
+	</th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+<td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
+<ol style="margin-top:0px; list-style-type: decimal;">
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 pre-departure test <b>within 2 days before departure</b> and obtain a copy of the negative COVID-19 test report that: 
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is an Antigen Rapid Test (ART) administered by a trained professional (self-swabs not allowed) OR Polymerase Chain Reaction Test taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
+<ol style="margin-top:0px; list-style-type: lower-latin;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 test results and date of test;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore).</li>
+</ol>
+</li>
+</ol>
+</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) upon arrival </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
@@ -232,7 +421,3 @@ This page provides a summary of the four categories of travel health control mea
 </tr>
 </tbody>
 </table>
-
----
-
-<div id="before-1"></div>

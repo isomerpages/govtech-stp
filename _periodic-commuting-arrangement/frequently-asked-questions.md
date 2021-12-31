@@ -170,7 +170,7 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
 - A COVID-19 Antigen Rapid Test ("ART Test") or Polymerase Chain Reaction Test (“PCR Test”) taken within 2 days before departure<b> at a <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>;
-- An on-arrival PCR test at the checkpoint;
+- [For travellers arriving before 7 Jan 2022, 2359h]An on-arrival PCR test at the checkpoint;
 - Serving 7-day Stay-Home Notice (SHN) at a declared SHN accommodation; and
 - An exit PCR test
 
@@ -259,6 +259,8 @@ Travellers will be turned away at Singapore's checkpoint if:
 In general, as a [condition](/malaysia/pca/terms-and-conditions) for entry into Singapore, all PCA travellers must adhere to the health control measures imposed on the group. This includes the taking of a COVID-19 test at the end of their [Stay Home Notice (SHN)](/health/shn). 
 
 #### 9. How much does it cost to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) on arrival? To whom and how should the payment be made?
+
+<i><b>NOTE:</b> An on-arrival PCR test is only required for travellers arriving before 7 Jan 2022, 2359h. Travellers arriving from 7 Jan 2022, 2359h who have already paid for their on-arrival test can seek a refund by contactingsea.checkpoints.refunds@parkwaypantai.com </i>
 
 Each COVID-19 PCR test administered at the checkpoint costs S$160. To minimise processing time at the checkpoints, travellers are advised to <a href="https://t.2c2p.com/express/parkwayshentonoat">register and pay for the COVID-19 PCR before arrival</a>.
 
