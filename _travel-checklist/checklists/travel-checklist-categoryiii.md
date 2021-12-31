@@ -6,9 +6,9 @@ permalink: /travel-checklist/category-3
 
 This checklist covers the pre-departure to post-arrival process for travellers who:
 
-<ol style="list-style-type: lower-roman;">
-<li>Are travelling to Singapore via the Returning Singapore Citizen/Permanent Resident Lane, Familial Ties Lane, or Student’s Pass Lane; <b>AND</b></li>
-<li>Have visited <a href="/shn-and-swab-summary" target="_blank">any Category (III) country/region in the past 14 days before arrival in Singapore</a>, and have not visited any Category (IV) countries/regions in the past 14 days or transited in such countries/regions for more than 24 hours.</li>
+<ol style="padding-left: 20px; list-style-type: lower-roman;">
+<li style="padding-left: 20px; line-height:1.5;">Are travelling to Singapore via the Returning Singapore Citizen/Permanent Resident Lane, Familial Ties Lane, or Student’s Pass Lane; <b>AND</b></li>
+<li style="padding-left: 20px; line-height:1.5;">Have visited <a href="/shn-and-swab-summary" target="_blank">any Category (III) country/region in the past 14 days before arrival in Singapore</a>, and have not visited any Category (IV) countries/regions in the past 14 days or transited in such countries/regions for more than 24 hours.</li>
 </ol>
 
 Travellers who do not meet the above conditions should refer to the <a href="/travel-checklist/overview" target="_blank">checklist specific to their travel arrangement/travel history</a> or their approval letters for travel instructions. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore.
@@ -60,16 +60,16 @@ Travellers must take a PDT **within 2 days before departure** for Singapore, unl
 
 An acceptable PDT includes <b>either</b> of the following:
 
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.5;">COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li> 
-<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-swabs are not allowed</b>.</li> 
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.5;">COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li> 
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-swabs are not allowed</b>.</li> 
 </ol>
 
 Travellers must obtain a copy of the negative test result that meets all the following conditions:
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li> 
-<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the test.</li>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li> 
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the test.</li>
 </ol>
 
 <b>Handwritten reports will be rejected</b>. Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.
@@ -83,10 +83,10 @@ All SCAG submissions are free-of-charge, and <a href="/health/vtsg" target="_bla
 
 Travellers should <b>defer their travels</b> if they:
 
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Are showing <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Are showing <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
 
@@ -112,14 +112,14 @@ For hotel bookings, travellers should check and ensure that the hotel can accomm
 
 Travellers may serve SHN at their residence with other household members, regardless of their household members' vaccination status or travel history. However, the following precautions are strongly advised:  
 
-<ol style="padding-left: 30px; margin-top:20px; list-style-type: lower-latin;">
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Isolate in their own room during the 7-day period;</li>
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
+<ol style="padding-left: 20px; margin-top:20px; list-style-type: lower-latin;">
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Isolate in their own room during the 7-day period;</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
 </ol>
-<ol style="padding-left: 50px; margin-top:20px; list-style-type: lower-roman;">
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
-<li style="margin-top:5px; margin-bottom:10px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
-<li style="margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
+<ol style="padding-left: 60px; margin-top:20px; list-style-type: lower-roman;">
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
+<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
+<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
 </ol>
 
 
