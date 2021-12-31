@@ -160,7 +160,7 @@ The use of public transport (e.g. trains, buses) is prohibited.
 
 &#9744;  <i><b>A) Serve self-isolation period</b></i>
 
-Traveller are <b>prohibited</b> from leaving their self-isolation accommodation while waiting for the on-arrival test result (per Stage 3B).
+Travellers are <b>prohibited</b> from leaving their self-isolation accommodation while waiting for the on-arrival test result (per Stage 3B).
 
 Travellers who are self-isolating at their residence may do so with other household members, regardless of their vaccination status or travel history. However, they should be isolated in a room, minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to:
 <ol style="list-style-type:lower-roman;">
@@ -168,10 +168,6 @@ Travellers who are self-isolating at their residence may do so with other househ
 	<li>Clean and disinfect contact surfaces after each use; and</li>
 	<li>Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
 	</ol>
-
-&#9744;  <i><b>B) [If applicable] Tele-consultation for Nebuliser-using Travellers</b></i>
-
-Travellers using a nebuliser to manage a medical condition must arrange for a tele-consultation upon arrival at the self-isolation accomodation, where they will be assessed for their suitability to use an inhaler/spacer during SHN.
 
 
 ### Stage 5: End of Self-isolation period
@@ -185,4 +181,5 @@ Travellers may leave their accommodation only <b>after</b> receiving a negative 
 
 Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.
 
-For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A).
+For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A). Travellers who require vaccinated status beyond 30 days after arrival, should visit 
+<a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
