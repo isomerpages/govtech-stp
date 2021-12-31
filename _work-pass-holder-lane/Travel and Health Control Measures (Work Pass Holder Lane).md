@@ -45,7 +45,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 	<tbody>
 		<tr>
 		<td style="font-size:18px; line-height:1.5;border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;"><a href="https://changiairport.com/safetravel" target="_blank">Changi Airport e-Service</a></td>
-			<td style="font-size:18px; line-height:1.5;border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8;border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">Changi Airport Group will automatically refund the test fees 7 working days after the booked arrival date.<br>For any queries, please email <a href="mailto: swabtest_refund@changiairport.com">swabtest.refund@changiairport.com</a></td>
+			<td style="font-size:18px; line-height:1.5;border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8;border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">Changi Airport Group will automatically refund the test fees 7 working days after the booked arrival date.<br>For any queries, please email <a href="mailto: swabtest.refund@changiairport.com">swabtest.refund@changiairport.com</a></td>
 		</tr>
 		<tr>
 			<td style="font-size:18px; line-height:1.5;border-left:3px solid #D8D8D8; border-right:3px solid #D8D8D8;border-bottom:3px solid #D8D8D8;"><a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">Parkway Shenton eService</a></td>
