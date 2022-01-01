@@ -188,7 +188,6 @@ Travellers may end their SHN upon the receipt of a negative COVID-19 PCR test re
 
 <div id="stage6" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 6: Departure from Singapore</b></div>
 
-<p id="stage6a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>A) Upload of TraceTogether Data & Return of TraceTogether Tokens (If applicable)</b></i></u></p>
+<p id="stage6a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>A) Collect refunds for TraceTogether Tokens (if applicable)</b></i></u></p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers who test positive for COVID-19 upon their return to Malaysia, may be asked by the Singapore Ministry of Health to upload their TraceTogether mobile application data. As such, travellers are strongly advised to retain their TraceTogether mobile application for 14 days following their departure from Singapore.</p>
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers issued with a physical TraceTogether token upon arrival in Singapore must return the tokens in-person at the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674823-Do-Short-Term-Visitors-need-to-return-their-TraceTogether-TT-Tokens-before-leaving-Singapore-" target="_blank">designated TraceTogether token return booth</a> found at the checkpoint.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers who have paid a S$50 deposit during token rental before 1 Jan 2022 may have their deposit refunded between 1 Jan and 31 Jan 2022. Click <a href="/health/tt-for-travellers#token-return" target="_blank">here</a> for more details.</p>
