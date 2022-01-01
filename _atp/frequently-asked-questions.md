@@ -352,7 +352,7 @@ If your vaccination status has not been updated on your TraceTogether app. Kindl
 
 You do not need to return your token.
 
-If you paid for your deposit by cash, please bring your passport to the Singapore Visitor Centre at Orchard Gateway to claim your deposit between 1 Jan and 31 Jan 2022. <b>Cash deposits not claimed by 31 Jan 2022, 2359hrs, will be forfeited</b>.
+If you paid for your deposit by cash, please bring your passport to the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> to claim your deposit between 1 Jan and 31 Jan 2022. <b>Cash deposits not claimed by 31 Jan 2022, 2359hrs, will be forfeited</b>.
 
 If you paid for your deposit via credit card, the S$50 deposit will automatically be refunded to the credit card that was used to pay for the deposit, by the end of February 2022.
 
