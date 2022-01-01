@@ -1553,23 +1553,11 @@ If your vaccination status has not been updated on your TraceTogether app. Kindl
 You may also wish to refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">TraceTogether FAQs</a> for more information.
 
 
-#### 9. [Valid until 31 Dec 2021, 2359hrs] Where do visitors return their TraceTogether tokens?
-
-Visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore.
-
-The S$50 deposit will be refunded if:
-<ol style="list-style-type:lower-roman;">
-<li>the TraceTogether token the visitor is returning belongs to him/her; and
-</li><li>the visitor had made a deposit for the TraceTogether token being returned; and
-</li><li>the TraceTogether token is not faulty or damaged.
-</li></ol>
-
-
-#### 10.  [On or after 1 Jan 2022] I paid a S$50 deposit when I rented my TraceTogether token. Do I need to return my token, and how will I be refunded my deposit?
+#### 9. I paid a S$50 deposit when I rented my TraceTogether token before 1 Jan 2022. Do I need to return my token, and how will I be refunded my deposit?
 
 You do not need to return your token.
 
-If you paid for your deposit by cash, please proceed to the location where you obtained your token, which may be any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to your departure from Singapore. You will be refunded your S$50 in cash.
+If you paid for your deposit by cash, please bring your passport to the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> to claim your deposit between 1 Jan and 31 Jan 2022. <b>Cash deposits not claimed by 31 Jan 2022, 2359hrs, will be forfeited</b>.
 
 If you paid for your deposit via credit card, the S$50 deposit will automatically be refunded to the credit card that was used to pay for the deposit, by the end of February 2022. 
 
