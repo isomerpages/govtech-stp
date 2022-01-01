@@ -47,7 +47,7 @@ description: ""
      </ol>
   </li>
   <br>
-    <li style="font-size:20px; list-style-type:decimal;"> Those unable to use a mobile device due to a certified disability or special needs, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the airport upon arrival in Singapore. They must carry the TraceTogether tokens issued to them at all times while in Singapore and return their respective tokens at any checkpoint prior to their departure from Singapore.
+    <li style="font-size:20px; list-style-type:decimal;"> Those unable to use a mobile device due to a certified disability or special need and those who are unable to download/register for the TraceTogether app may <a href="/health/tt-for-travellers#token" target="_blank">obtain a TraceTogether token</a>. They must carry the TraceTogether token issued to them while in Singapore and return their token at any checkpoint prior to their departure from Singapore.
 </li>
 	<br>
 	<li style="font-size:20px; list-style-type:decimal;">The requirements in Conditions 2(d), (e), (f) and (g) do not apply to children aged 2 and below in the calendar year.</li>
