@@ -220,8 +220,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>For TraceTogether app users:</b><br/>To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore.  A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore. <br/><br/>
 			<b>For TraceTogether token users:</b><br/>
 As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others. <br/><br/>
-<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Visitors must return their own TraceTogether tokens in-person at the designated TraceTogether token return booths/counters set up at checkpoints, prior to their departure from Singapore.</p><br/>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For the full requirements and conditions governing the use of TraceTogether, please click <a href="https://safetravel.ica.gov.sg/health/tt-for-travellers">here</a>.</p>
+<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Travellers who have paid for a S$50 deposit for token rental before 1 Jan 2022 may obtain a refund of their deposit between 1 Jan - 31 Jan 2022.</p><br/>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please click <a href="https://safetravel.ica.gov.sg/health/tt-for-travellers">here</a>.</p>
     </td>
   </tr>
  </tbody>
