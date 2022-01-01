@@ -21,7 +21,7 @@ Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app 
 
 #### B)	TraceTogether Token
 
-Short-Term Visitors can obtain TT tokens with a payment of S$13 per token, from the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> (open from 10am-7pm daily), or any of the TT Token collection booths found at the community centres. The community centre booths and their operating hours can be found at <A href="https://token.gowhere.gov.sg" target="_blank">https://token.gowhere.gov.sg</a>.
+Short-Term Visitors can obtain TT tokens with a payment of S$13 per token, from the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> (open from 10am-7pm daily), or any of the TT Token collection booths found at community centres. The community centre booths and their operating hours can be found at <A href="https://token.gowhere.gov.sg" target="_blank">https://token.gowhere.gov.sg</a>.
 
 Payment can be made via PayNow, EZ-link, Nets Flashpay, Mastercard, VISA, JCB, and Union Pay. Cash payments are not accepted.
 
@@ -47,7 +47,7 @@ Tokens will be replaced free-of-charge if they stop working due to (1) battery l
 <br><br>
 <b>Travellers who obtained a TraceTogether Token from 1 Jan 2022 onwards </b>do not need to return their TraceTogether Tokens after departure from Singapore.
 
-<b>Travellers who rented their token before 1 Jan 2022</b> and paid a S$50 deposit can obtain a refund of their deposit , anytime between 1 Jan – 31 Jan 2022 via the following modes:
+<b>Travellers who rented their token before 1 Jan 2022</b> and paid a S$50 deposit</b> can obtain a refund of their deposit , anytime between 1 Jan – 31 Jan 2022 via the following modes:
 <ol style="list-style-type:lower-roman;">
 <li>If you paid for your deposit via credit card, the S$50 deposit will automatically be refunded to the credit card that was used to pay for the deposit, by the end of January 2022. </li>
 <li>If you paid for your deposit by cash, please proceed to the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> to claim your deposit between 1 Jan – 31 Jan 2022. Cash deposits not claimed by 31 Jan 2022, 2359hrs, will be forfeited.</li>
