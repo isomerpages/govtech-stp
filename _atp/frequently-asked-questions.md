@@ -324,13 +324,10 @@ Please ensure that you keep your mobile device’s Bluetooth function turned on 
 
 #### 5. What happens if visitors do not have a mobile device to download the TraceTogether app?
 
-All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace) and Huawei App Gallery.
+Visitors with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is TraceTogether-compatible. Alternatively, they may obtain a TraceTogether token (S$13/token) at designated locations in Singapore. Click <a href="/health/tt-for-travellers#token" target="_blank">here</a> for more details.
 
-Visitors with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is compatible.
+Visitors must carry their rented mobile device or TraceTogether token with them at all times during their stay in Singapore. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
 
-Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore.
-
-Visitors, who have rented a mobile device must carry it with them at all times during their stay in Singapore until it is returned. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
 
 #### 6. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
 
@@ -351,21 +348,12 @@ If you were <a href="/health/vtsg" target="_blank">fully vaccinated</a> <b>overs
 If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: https://go.gov.sg/vax-status-query. You may also wish to refer to this <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">FAQ</a> for more information.
 
 
-#### 9. [Valid until 31 Dec 2021, 2359hrs] Where do visitors return their TraceTogether tokens?
-
-Visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore.
-
-The S$50 deposit will be refunded if:
-- the TraceTogether token the visitor is returning belongs to him/her; and
-- the visitor had made a deposit for the TraceTogether token being returned; and
-- the TraceTogether token is not faulty or damaged.
-
-#### 10. [On or after 1 Jan 2022] I paid a S$50 deposit when I rented my TraceTogether token. Do I need to return my token, and how will I be refunded my deposit?
+#### 9. I paid a S$50 deposit when I rented my TraceTogether token before 1 Jan 2022. Do I need to return my token, and how will I be refunded my deposit?
 
 You do not need to return your token.
 
-If you paid for your deposit by cash, please proceed to the location where you obtained your token, which may be any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to your departure from Singapore. You will be refunded your S$50 in cash.
+If you paid for your deposit by cash, please bring your passport to the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> to claim your deposit between 1 Jan and 31 Jan 2022. <b>Cash deposits not claimed by 31 Jan 2022, 2359hrs, will be forfeited</b>.
 
 If you paid for your deposit via credit card, the S$50 deposit will automatically be refunded to the credit card that was used to pay for the deposit, by the end of February 2022.
 
-More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>.
+More details can be found <a href="/health/tt-for-travellers#token-return" target="_blank">here</a>.

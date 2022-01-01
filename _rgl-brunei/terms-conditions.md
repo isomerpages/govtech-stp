@@ -60,7 +60,7 @@ permalink: /brunei/rgl/terms-and-conditions
 
 6. For those travelling by air, the traveller is only allowed to travel to Singapore via a non-stop flight from the exit country. Transit through other countries are prohibited. 
 
-7. The traveller must download and install in advance the TraceTogether app on his/her mobile phone or alternatively, secure in advance the rental of a TraceTogether-compatible device if his/her mobile phone is not TraceTogether-compatible. 
+7. The traveller must download and install in advance the TraceTogether app on his/her mobile phone or alternatively, secure in advance the rental of a TraceTogether-compatible device if his/her mobile phone is not TraceTogether-compatible. If this is not possible, the traveller may obtain a TraceTogether token (click <a href="/health/tt-for-travellers#token" target="_blank">here</a> for more information).
 
 8. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
@@ -94,11 +94,6 @@ permalink: /brunei/rgl/terms-and-conditions
   : ii. Travellers shall not hold meetings with more than 10 attendees (inclusive of the traveller).
 : f. remain contactable for the duration of his/her stay in Singapore.
 
-#### Post-Departure from Singapore
-
-1. The traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 21 days after his/her departure from Singapore.
-
-2. The traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 21 days after returning to Brunei Darussalam.
 
 ### **C. Terms & Conditions for Host**
 

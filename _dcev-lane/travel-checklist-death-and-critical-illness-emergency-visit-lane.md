@@ -98,7 +98,7 @@ The on-arrival test is only required for those aged 3 and above this calendar ye
 
 &#x2610;  <i><b>F) Installation of TraceTogether app</b></i>
 
-Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile application</a> on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.
+Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile application</a> on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers#token" target="_blank">TraceTogether token</a> after arrival in Singapore.
 
 
 ### Stage 2: Departure for Singapore

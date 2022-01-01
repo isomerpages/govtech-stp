@@ -237,7 +237,7 @@ If you still face issues, please email <support@tracetogether.gov.sg> with your 
 
 #### 22. If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
 
-If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 21 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration, as set out in the RGL [Terms and Condition](/rgl/terms-and-conditions) 1(e)(ii).
+If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app.
 
 If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
 
@@ -245,18 +245,17 @@ Please ensure that you keep your mobile device's Bluetooth function turned on so
 
 #### 23. What happens if travellers do not have mobile devices to download the TraceTogether app?
 
-All travellers must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app. The TraceTogether App can be downloaded from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace) and Huawei App Gallery.
+All travellers must have a mobile device to download the TraceTogether app from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace) and Huawei App Gallery. Travellers should consider renting a TraceTogether-compatible mobile device if they do not have one.
+
+Alternatively, travellers may also obtain a TraceTogether token. Click <a href="/health/tt-for-travellers#token" target="_blank">here</a> for more information. 
 
 
 #### 24. Can travellers switch off their mobile devices while in Singapore?
 
 No, travellers must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
 
-#### 25. Can travellers uninstall the TraceTogether app upon departing from Singapore?
 
-Travellers must retain the TraceTogether app with the data on their mobile devices for 21 consecutive days after departing from Singapore. This is to facilitate contact tracing if travellers are tested positive for COVID-19.
-
-#### 26. What is SafeEntry?
+#### 25. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FIN and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
@@ -266,17 +265,19 @@ Alternatively, some venues allow you to complete SafeEntry by presenting your pa
 
 More information on the system can be found [here](https://www.safeentry.gov.sg/).
 
-#### 27. I was identified as a close contact of a confirmed COVID-19 case. What does it mean?
+
+#### 26. I was identified as a close contact of a confirmed COVID-19 case. What does it mean?
 
 Close contacts of an active COVID-19 case will be identified by MOH through contact tracing. Individuals assess to be a close contact of an active COVID-19 case may be issued a quarantine order (QO) under the Infectious Diseases Act. Click [here](https://www.gov.sg/article/everything-you-need-to-know-about-quarantine-orders) for more on the QO. Affected travellers should extend their visit pass, if duration of the QO exceeds the visit pass’ validity period. 
 
-#### 28. Can I visit the convenient store/shopping mall/supermarket to purchase daily necessity or business-related items?
+#### 27. Can I visit the convenient store/shopping mall/supermarket to purchase daily necessity or business-related items?
 
 No, travellers should seek assistance from their Host to make the purchases on their behalf to limit the contact with the local community. Any deviation from controlled itinerary may result in the cancellation of Visit Pass.
 
-#### 29. What happens if I do not comply with the terms and conditions for the SafeTravel Pass? 
+#### 28. What happens if I do not comply with the terms and conditions for the SafeTravel Pass? 
 
 The Singapore Government takes a serious view of non-compliance with SafeTravel terms and conditions and prevailing health measures. Non-compliance with any of the conditions of the SafeTravel Pass may result in refusal of entry into Singapore and/or cancellation of the SafeTravel Pass. The traveller and the Host shall be jointly liable for and bear all costs incurred for the cost of repatriation, as well as cost of custody and care pending repatriation. Future SafeTravel Pass applications may also be rejected. 
+
 
 <div id="return"></div>
 

@@ -3,7 +3,6 @@ title: VTL (Land) Conditions
 permalink: /vtl-land/conditions
 description: ""
 ---
-
 ### Conditions of the Vaccinated Travel Lane Land [VTL (Land)]
 
 <ol style="line-height:1.5; padding-bottom:10px;">
@@ -36,7 +35,7 @@ description: ""
 </ol>
 	</li>
 <br>
-<li>Those unable to use a mobile device due to a certified disability or special needs, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at Woodlands Checkpoint upon arrival in Singapore. They must carry the TraceTogether tokens issued to them at all times while in Singapore and return their respective tokens at any checkpoint prior to their departure from Singapore.</li>
+<li>Those unable to use a mobile device due to a certified disability or special needs, or are unable download/register for a TraceTogether app may <a href="/health/tt-for-travellers#token" target="_blank">obtain a TraceTogether Token at designated locations in Singapore</a>. They must carry the TraceTogether tokens issued to them at all times while in Singapore.</li>
 <br>
 	<li>The requirements in <b>Conditions 2(d), (f), (g) and (h)</b> do not apply to children aged 2 and below in the calendar year.</li>
 <br>

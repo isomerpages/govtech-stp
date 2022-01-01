@@ -16,62 +16,12 @@ Prior to arriving in Singapore, travellers should check that their mobile device
 
 Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.
 
+
+<div id="token"></div>
+
 #### B)	TraceTogether Token
 
-Depending on the traveller’s mode of entry, the eligible groups for TraceTogether tokens issuance, payment modes for the tokens, collection and return of the tokens differ:
-
-<b>Token Collection [Until 31 Dec 2021 Only]</b>
-
-<table>
-  <thead>
-    <tr>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#bababa;" ><b>Airports (Changi Airport and Seletar Airport)</b></th>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#bababa;"><b>Land and Sea Checkpoints (Woodlands Checkpoint, Tuas Checkpoint and Tanah Merah Ferry Terminal)</b></th>
-    </tr>
-  </thead>
-  <tbody>
-		<tr>
-      <td colspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; background-color:#EDEDED;">
-			<b>Eligible groups for tokens</b> (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded)</td>
-		</tr>
-    <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">
-				<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
-				<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Children who are aged 7 to 12 years in the current calendar year;</li>
-								<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Those unable to use a mobile device due to a certified disability or special need</li>
-				</ol><!--<br/><i>Note: Those who are unable to download or register for the TraceTogether app are required to <a href="https://www.changirecommends.com/findus.aspx">rent a mobile device from Changi Recommends</a>.</i>--></td>
-			<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">	<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
-	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Children who are aged 7 to 12 years in the current calendar year;</li>
-					<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Those unable to use a mobile device due to a certified disability or special need;</li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Those who are unable to download or register for the TraceTogether app</li>
-				</ol></td>
-    </tr>
-		  <tr>
-         <td colspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0; background-color:#EDEDED"><b>Payment modes (for payment of S$50 deposit)</b> </td></tr>
-		    <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">
-				<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
-				<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Credit card</li>
-								<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Cash payment in Singapore or foreign currency</li>
-				</ol></td>
-			<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">		<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
-				<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Credit card</li>
-								<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Cash payment in Singapore or foreign currency</li>
-				</ol></td>
-    </tr>
-		   <tr>
-         <td colspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0; background-color:#EDEDED"><b>Payment and collection location (Token collection booth/counter locations can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674443-Where-can-Short-Term-Visitors-collect-their-TraceTogether-TT-Tokens-from-the-checkpoints-">here</a>.)</b> </td></tr>
-				    <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport on arrival in Singapore.
-			</td>
-			<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">TraceTogether Counters at the Land and Sea Checkpoints.</td>
-    </tr>
-  </tbody>
-  </table>
-
-<b>Token Collection [From 1 Jan 2022]</b>
-
-Starting from 1 Jan 2022, Short-Term Visitors can obtain TT tokens with a payment of S$13 per token, from the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> (open from 10am-7pm daily), or any of the TT Token collection booths found at the community centres. The community centre booths and their operating hours can be found at <A href="https://token.gowhere.gov.sg" target="_blank">https://token.gowhere.gov.sg</a>.
+Short-Term Visitors can obtain TT tokens with a payment of S$13 per token, from the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> (open from 10am-7pm daily), or any of the TT Token collection booths found at community centres. The community centre booths and their operating hours can be found at <A href="https://token.gowhere.gov.sg" target="_blank">https://token.gowhere.gov.sg</a>.
 
 Payment can be made via PayNow, EZ-link, Nets Flashpay, Mastercard, VISA, JCB, and Union Pay. Cash payments are not accepted.
 
@@ -90,23 +40,17 @@ To facilitate contact tracing, travellers are required to carry their own tokens
 
 Tokens will be replaced free-of-charge if they stop working due to (1) battery lifespan, (2) manufacturing defect or (3) damage not due to visitor’s negligence. Otherwise, replacements are subject to the same fee.
 
-<i><b>Returning TraceTogether Token – Departures until 31 Dec 2021, 2359hrs</b></i><br><br>
-Just before departing Singapore, visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore. Details on where the tokens return booths/counters can be found [here](https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674823-Do-Short-Term-Visitors-need-to-return-their-TraceTogether-TT-Tokens-before-leaving-Singapore-). Visitors who do not return their tokens in-person prior to their departure from Singapore will have their S$50 deposit forfeited.
 
-The S$50 deposit will be refunded if:
-- the TraceTogether token the visitor is returning belongs to him/her; and
--	the visitor had made a deposit for the TraceTogether token being returned; and
--	the visitor is returning the token in-person.
+<div id="token-return"></div>
 
-
-<i><b>Returning TraceTogether Token – Departures from 1 Jan 2022</b></i>
+<i><b>Returning TraceTogether Token</b></i>
 <br><br>
-Travellers who obtained a TraceTogether Token from 1 Jan 2022 onwards do not need to return their TraceTogether Tokens after departure from Singapore.
+<b>Travellers who obtained a TraceTogether Token from 1 Jan 2022 onwards </b>do not need to return their TraceTogether Tokens after departure from Singapore.
 
-Travellers who rented their token prior to 1 Jan 2022 and had paid a S$50 deposit can obtain a refund of their deposit , anytime between 1 Jan – 31 Jan 2022 via the following modes:
+<b>Travellers who rented their token before 1 Jan 2022 and paid a S$50 deposit</b> can obtain a refund of their deposit , anytime between 1 Jan – 31 Jan 2022 via the following modes:
 <ol style="list-style-type:lower-roman;">
 <li>If you paid for your deposit via credit card, the S$50 deposit will automatically be refunded to the credit card that was used to pay for the deposit, by the end of January 2022. </li>
-<li><b>If you paid for your deposit by cash, please proceed to the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> to claim your deposit between 1 Jan – 31 Jan 2022. Cash deposits not claimed by 31 Jan 2022, 2359hrs, will be forfeited.</b></li>
+<li>If you paid for your deposit by cash, please proceed to the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> to claim your deposit between 1 Jan – 31 Jan 2022. Cash deposits not claimed by 31 Jan 2022, 2359hrs, will be forfeited.</li>
 </ol>
 
 

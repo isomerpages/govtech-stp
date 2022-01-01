@@ -763,9 +763,9 @@ Failure to do so may constitute an offence under the Infectious Diseases Act (ID
 
 Yes. All visitors to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, visitors must activate and use the app for the duration of their stay in Singapore.
 
-Children who are aged 7 to 12 in the calendar year [i.e. in the year 2021, those born from 2009 to 2014 (inclusive)] and those unable to use a mobile device due to a certified disability or special needs are eligible to be issued TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded). TraceTogether tokens can be collected at Woodlands Checkpoint. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+Visitors who are unable to download/register for a TraceTogether app or use a mobile device due to a certified disability or special needs may <a href="/health/tt-for-travellers#token" target="_blank">obtain a TraceTogether token</a> at S$13/token. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
 
-Children aged 6 and below in the calendar year (i.e. in the year 2021, those born in or after 2015) are exempted from the TraceTogether requirement.
+Children aged 6 and below in this calendar year are exempted from the TraceTogether requirement.
 
 
 #### 2. After downloading the TraceTogether app, how do I activate it?
@@ -817,11 +817,9 @@ Please ensure that you keep your mobile device’s Bluetooth function turned on 
 
 #### 5. What happens if visitors do not have a mobile device to download the TraceTogether app?
 
-Only children who are aged 7 to 12 in the calendar year [i.e. in the year 2021, those born from 2009 to 2014 (inclusive)] and those unable to use a mobile device due to a certified disability or special needs are eligible to be issued TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded). TraceTogether tokens can be collected at Woodlands Checkpoint. 
+Visitors with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is TraceTogether-compatible. Visitors who are unable to use the app may obtain a TraceTogether token (S$13/token) at designated locations. Click <a href="/health/tt-for-travellers#token" target="_blank">here</a> for more details.
 
-All other visitors must have a mobile device to download the TraceTogether app. Visitors with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is compatible. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport used to enter Singapore.
-
-Visitors who have rented a mobile device must carry it with them at all times during their stay in Singapore until it is returned. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
+Visitors, must carry their rented mobile device or TraceTogether token with them at all times during their stay in Singapore. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
 
    
 #### 6. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
@@ -832,16 +830,16 @@ Visitors who can download the TraceTogether app but are unable to obtain an SMS 
 
 No, visitors must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
 
-#### 8. Where do visitors return their TraceTogether tokens?
+#### 8. I paid a S$50 deposit when I rented my TraceTogether token before 1 Jan 2022. Do I need to return my token, and how will I be refunded my deposit?
 
-Visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore.
+You do not need to return your token.
 
-The S$50 deposit will be refunded if:
-<ol style="list-style-type:lower-roman;padding-left:25px;">
-<li>the TraceTogether token the visitor is returning belongs to him/her; and
-</li><li>the visitor had made a deposit for the TraceTogether token being returned; and
-</li><li>the TraceTogether token is not faulty or damaged.
-</li></ol>
+If you paid for your deposit by cash please bring your passport to the Singapore Visitor Centre at Orchard Gateway to claim your deposit between 1 Jan and 31 Jan 2022. <b>Cash deposits not claimed by 31 Jan 2022, 2359hrs, will be forfeited</b>.
+
+If you paid for your deposit via credit card, the S$50 deposit will automatically be refunded to the credit card that was used to pay for the deposit, by the end of February 2022.
+
+More details can be found <a href="/health/tt-for-travellers#token-return" target="_blank">here</a>.
+
 
 
 ---

@@ -410,6 +410,8 @@ Travellers who have paid for their on-arrival COVID-19 PCR test separately at th
   <tr>
     <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>For bookings made at the airport</b></td>
 		<td style="border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">
+			<p style="font-size:18px;"><span style="color:red;"><b>Note</b>:</span> <b>[For travellers who have travel history to Category II, III or IV countries/regions and are <u>arriving from 7 Jan 2022, 2359h</u>]</b> Changi Airport will automatically refund the test fees 7 working days after the booked arrival date. </p>
+			<p style="font-size:18px;">Travellers who wish to cancel their trips or have other queries, please refer to the following instructions:</p>
 			<ol style="font-size:18px; list-style-type: lower-roman;">
 				<li style="font-size:18px;">If they have a Safe Travel Concierge account with CAG: Login to the account, navigate to  ‘My Trips’ and choose the trip that they wish to cancel;</li>
 			<li style="font-size:18px;">If they do not have an account, they may wish to email to <a href="mailto:swabtest.refund@changiairport.com">swabtest.refund@changiairport.com</a> to request for assistance in cancellation and refunds.</li>

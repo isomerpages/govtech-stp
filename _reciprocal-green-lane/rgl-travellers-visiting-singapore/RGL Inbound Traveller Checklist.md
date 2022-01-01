@@ -19,7 +19,7 @@ Travellers may print out this page and indicate with a “&#9745;” in the box 
 
 ☐ <i><b>A) Apply for Entry Approval</b></i>
 
-All RGL travellers <b>must</b> be sponsored by a Singapore-based company or Singapore Government agency for entry. Entry applications must be submitted by the sponsor between 2 to 5 weeks before the traveller’s intended week of entry; applications submitted less than 8 days from the intended date of entry will not be accepted. Successful applicants will receive an alert via email. Thereafter, they must submit a 14-day controlled itinerary, which the traveller will adhere for the duration of their stay in Singapore. <b>For the applicable RGL conditions, <a href="#conditions">click here</a>. To apply, <a href="https://go.gov.sg/vtl-portal" target="_blank">click here</a></b>.
+All RGL travellers <b>must</b> be sponsored by a Singapore-based company or Singapore Government agency for entry. Entry applications must be submitted by the sponsor between 2 to 5 weeks before the traveller’s intended week of entry; applications submitted less than 8 days from the intended date of entry will not be accepted. Successful applicants will receive an alert via email. Thereafter, they must submit a 14-day controlled itinerary, which the traveller will adhere for the duration of their stay in Singapore. <b>For the applicable RGL conditions, <a href="/rgl/overview#conditions">click here</a>. To apply, <a href="https://go.gov.sg/vtl-portal" target="_blank">click here</a></b>.
 
 <div id="1B"></div>
 
@@ -166,6 +166,6 @@ To qualify for vaccination-differentiated safe management measures (VDS) in Sing
 
 ### Stage 6: Departure from Singapore
 
-☐ <i><b>A) Return of TraceTogether Tokens (If applicable)</b></i>
+☐ <i><b>A) Collect refund for TraceTogether Token deposit (if applicable)</b></i>
 
-Travellers issued with a physical TraceTogether token upon arrival in Singapore must return the tokens in-person at the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674823-Do-Short-Term-Visitors-need-to-return-their-TraceTogether-TT-Tokens-before-leaving-Singapore-" target="_blank">designated TraceTogether token return booth</a> found at the checkpoint.
+Travellers who have paid a S$50 deposit during token rental before 1 Jan 2022 may have their deposit refunded between 1 Jan and 31 Jan 2022. Click <a href="/health/tt-for-travellers#token-return" target="_blank">here</a> for more details.
