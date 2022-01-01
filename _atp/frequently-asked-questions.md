@@ -324,7 +324,7 @@ Please ensure that you keep your mobile device’s Bluetooth function turned on 
 
 #### 5. What happens if visitors do not have a mobile device to download the TraceTogether app?
 
-Visitors with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is TraceTogether-compatible. Alternatively, they may obtain a TraceTogether token (S$13/token) at designated locations in Singapore. Click <a href="/health/tt-for-travellers" target="_blank">here</a> for more details.
+Visitors with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is TraceTogether-compatible. Alternatively, they may obtain a TraceTogether token (S$13/token) at designated locations in Singapore. Click <a href="/health/tt-for-travellers#token" target="_blank">here</a> for more details.
 
 Visitors, must carry their rented mobile device or TraceTogether token with them at all times during their stay in Singapore. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
 
@@ -356,4 +356,4 @@ If you paid for your deposit by cash, please bring your passport to the Singapor
 
 If you paid for your deposit via credit card, the S$50 deposit will automatically be refunded to the credit card that was used to pay for the deposit, by the end of February 2022.
 
-More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>.
+More details can be found <a href="/health/tt-for-travellers#token-return" target="_blank">here</a>.
