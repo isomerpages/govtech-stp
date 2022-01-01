@@ -763,9 +763,10 @@ Failure to do so may constitute an offence under the Infectious Diseases Act (ID
 
 Yes. All visitors to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, visitors must activate and use the app for the duration of their stay in Singapore.
 
-Children who are aged 7 to 12 in the calendar year [i.e. in the year 2021, those born from 2009 to 2014 (inclusive)] and those unable to use a mobile device due to a certified disability or special needs are eligible to be issued TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded). TraceTogether tokens can be collected at Woodlands Checkpoint. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+Visitors who are unable to download/register for a TraceTogether app or use a mobile device due to a certified disability or special needs may <a href="/health/tt-for-travellers#token" target="_blank">obtain a TraceTogether token</a> at S$13/token. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
 
 Children aged 6 and below in the calendar year (i.e. in the year 2021, those born in or after 2015) are exempted from the TraceTogether requirement.
+
 
 
 #### 2. After downloading the TraceTogether app, how do I activate it?
