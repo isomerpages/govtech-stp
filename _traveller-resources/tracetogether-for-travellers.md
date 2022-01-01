@@ -21,7 +21,7 @@ Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app 
 
 #### B)	TraceTogether Token
 
-Starting from 1 Jan 2022, Short-Term Visitors can obtain TT tokens with a payment of S$13 per token, from the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> (open from 10am-7pm daily), or any of the TT Token collection booths found at the community centres. The community centre booths and their operating hours can be found at <A href="https://token.gowhere.gov.sg" target="_blank">https://token.gowhere.gov.sg</a>.
+Short-Term Visitors can obtain TT tokens with a payment of S$13 per token, from the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> (open from 10am-7pm daily), or any of the TT Token collection booths found at the community centres. The community centre booths and their operating hours can be found at <A href="https://token.gowhere.gov.sg" target="_blank">https://token.gowhere.gov.sg</a>.
 
 Payment can be made via PayNow, EZ-link, Nets Flashpay, Mastercard, VISA, JCB, and Union Pay. Cash payments are not accepted.
 
