@@ -32,7 +32,7 @@ permalink: /atp/conditions
   <br/>
     <li style="font-size:20px; list-style-type:decimal;"> The requirements in Condition 1(b) and 1(c) do not apply to an Air Travel Pass holder who is below 3 years of age in that calendar year.</li>
   <br/>
-   <li style="font-size:20px; list-style-type:decimal;"> Condition 1(e) does not apply to an Air Travel Pass holder who is 6 years of age or younger in that calendar year. Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the airport upon arrival in Singapore. They must carry the TraceTogether token issued to them while in Singapore and return their token at any checkpoint prior to their departure from Singapore. 
+   <li style="font-size:20px; list-style-type:decimal;"> Condition 1(e) does not apply to an Air Travel Pass holder who is 6 years of age or younger in that calendar year. Those unable to use a mobile device due to a certified disability or special need and those who are unable to download/register for the TraceTogether app may obtain a TraceTogether token. They must carry the TraceTogether token issued to them while in Singapore.
   </li>
   <br/>
   <li style="font-size:20px; list-style-type:decimal;"> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions or cancellation of the Air Travel Pass at short notice. </li><br/>
