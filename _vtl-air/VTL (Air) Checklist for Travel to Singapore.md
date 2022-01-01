@@ -593,5 +593,5 @@ label.box {
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 6: Departure from Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="6A"><label class="box" for="6A">&nbsp;&nbsp;<b>[Only if applicable] Collect refund for TraceTogether deposit</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="6A"><label class="box" for="6A">&nbsp;&nbsp;<b>[Only if applicable] Collect Refund for TraceTogether Token Deposit</b></label></div>
 <div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Travellers who have paid a S$50 deposit during token rental before 1 Jan 2022 may have their deposit refunded between 1 Jan and 31 Jan 2022. Click <a href="/health/tt-for-travellers#token-return" target="_blank">here</a> for more details.</p></div>
