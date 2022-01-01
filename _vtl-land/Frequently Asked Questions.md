@@ -765,7 +765,7 @@ Yes. All visitors to Singapore must download the TraceTogether app prior to thei
 
 Visitors who are unable to download/register for a TraceTogether app or use a mobile device due to a certified disability or special needs may <a href="/health/tt-for-travellers#token" target="_blank">obtain a TraceTogether token</a> at S$13/token. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
 
-Children aged 6 and below in the calendar year (i.e. in the year 2021, those born in or after 2015) are exempted from the TraceTogether requirement.
+Children aged 6 and below in this calendar year are exempted from the TraceTogether requirement.
 
 
 #### 2. After downloading the TraceTogether app, how do I activate it?
