@@ -166,6 +166,6 @@ To qualify for vaccination-differentiated safe management measures (VDS) in Sing
 
 ### Stage 6: Departure from Singapore
 
-☐ <i><b>A) Collect refund for TraceTogether deposit (if applicable)</b></i>
+☐ <i><b>A) Collect refund for TraceTogether Token deposit (if applicable)</b></i>
 
 Travellers who have paid a S$50 deposit during token rental before 1 Jan 2022 may have their deposit refunded between 1 Jan and 31 Jan 2022. Click <a href="/health/tt-for-travellers#token-return" target="_blank">here</a> for more details.
