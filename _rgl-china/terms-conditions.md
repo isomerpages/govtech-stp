@@ -97,11 +97,6 @@ permalink: /china/rgl/terms-and-conditions
   : ii. Travellers shall not hold meetings with more than 10 attendees (inclusive of the traveller).
 : f. remain contactable for the duration of his/her stay in Singapore.
 
-#### Post-Departure from Singapore
-
-1. The traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 21 days after his/her departure from Singapore.
-
-2. The traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 21 days after returning to People’s Republic of China.
 
 ### **C. Terms & Conditions for Host**
 
