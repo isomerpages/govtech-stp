@@ -16,6 +16,9 @@ Prior to arriving in Singapore, travellers should check that their mobile device
 
 Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.
 
+
+<div id="token"></div>
+
 #### B)	TraceTogether Token
 
 Starting from 1 Jan 2022, Short-Term Visitors can obtain TT tokens with a payment of S$13 per token, from the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> (open from 10am-7pm daily), or any of the TT Token collection booths found at the community centres. The community centre booths and their operating hours can be found at <A href="https://token.gowhere.gov.sg" target="_blank">https://token.gowhere.gov.sg</a>.
@@ -37,6 +40,8 @@ To facilitate contact tracing, travellers are required to carry their own tokens
 
 Tokens will be replaced free-of-charge if they stop working due to (1) battery lifespan, (2) manufacturing defect or (3) damage not due to visitor’s negligence. Otherwise, replacements are subject to the same fee.
 
+
+<div id="token-return"></div>
 
 <i><b>Returning TraceTogether Token – Departures from 1 Jan 2022</b></i>
 <br><br>
