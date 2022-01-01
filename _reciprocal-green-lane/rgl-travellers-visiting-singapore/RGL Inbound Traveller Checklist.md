@@ -19,7 +19,7 @@ Travellers may print out this page and indicate with a “&#9745;” in the box 
 
 ☐ <i><b>A) Apply for Entry Approval</b></i>
 
-All RGL travellers <b>must</b> be sponsored by a Singapore-based company or Singapore Government agency for entry. Entry applications must be submitted by the sponsor between 2 to 5 weeks before the traveller’s intended week of entry; applications submitted less than 8 days from the intended date of entry will not be accepted. Successful applicants will receive an alert via email. Thereafter, they must submit a 14-day controlled itinerary, which the traveller will adhere for the duration of their stay in Singapore. <b>For the applicable RGL conditions, <a href="#conditions">click here</a>. To apply, <a href="https://go.gov.sg/vtl-portal" target="_blank">click here</a></b>.
+All RGL travellers <b>must</b> be sponsored by a Singapore-based company or Singapore Government agency for entry. Entry applications must be submitted by the sponsor between 2 to 5 weeks before the traveller’s intended week of entry; applications submitted less than 8 days from the intended date of entry will not be accepted. Successful applicants will receive an alert via email. Thereafter, they must submit a 14-day controlled itinerary, which the traveller will adhere for the duration of their stay in Singapore. <b>For the applicable RGL conditions, <a href="/rgl/overview#conditions">click here</a>. To apply, <a href="https://go.gov.sg/vtl-portal" target="_blank">click here</a></b>.
 
 <div id="1B"></div>
 
