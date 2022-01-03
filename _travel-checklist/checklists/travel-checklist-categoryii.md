@@ -7,31 +7,32 @@ permalink: /travel-checklist/category-2
 This checklist covers the pre-departure to post-arrival process for travellers who:
 
 <ol style="padding-left: 20px; list-style-type: lower-roman;">
-<li style="padding-left: 20px; line-height: 1.5;">Are travelling to Singapore via the Returning Singapore Citizen/Permanent Resident Lane, Familial Ties Lane, or Student’s Pass Lane; <b>AND</b></li>
-<li style="padding-left: 20px; line-height:1.5;">Have visited <a href="/shn-and-swab-summary" target="_blank">any Category (II) country/region in the past 14 days before arrival in Singapore</a>, and have not visited any Category (III) or (IV) countries/regions in the past 14 days or transited in such countries/regions for more than 24 hours.</li>
+<li style="padding-left: 20px; line-height: 1.35;">Are travelling to Singapore via the Returning Singapore Citizen/Permanent Resident Lane, Familial Ties Lane, or Student’s Pass Lane; <b>AND</b></li>
+<li style="padding-left: 20px; line-height:1.35;">Have visited <a href="/shn-and-swab-summary" target="_blank">any Category (II) country/region in the past 14 days before arrival in Singapore</a>, and have not visited any Category (III) or (IV) countries/regions in the past 14 days or transited in such countries/regions for more than 24 hours.</li>
 </ol>
 
-Travellers who do not meet the above conditions should refer to the <a href="/travel-checklist/overview" target="_blank">checklist specific to their travel arrangement/travel history</a> or their approval letters for travel instructions. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore.
+<p style="line-height:1.35;">Travellers who do not meet the above conditions should refer to the <a href="/travel-checklist/overview" target="_blank">checklist specific to their travel arrangement/travel history</a> or their approval letters for travel instructions. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore.</p>
 
-Travellers can check the box **(&#9744;)** for completed activities.
+<p style="line-height:1.35;">Travellers can check the box **(&#9744;)** for completed activities.</p>
+
 
 ### Stage 1: Pre-Departure for Singapore
 
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
-All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.
+<p style="line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
 
 
 &#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
-Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Click here to check if a visa is required and to apply if needed</a>.
+<p style="line-height:1.35;">Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Click here to check if a visa is required and to apply if needed</a>.</p>
 
 
 <div id="stage1c"></div>
 
 &#9744;  <i><b>C) Pre-Departure COVID-19 Test (PDT)</b></i>
 
-Travellers must take a PDT **within 2 days before departure** for Singapore, unless they are below the age of three in this calendar year. See examples below for when a PDT must be taken:
+<p style="line-height:1.35;">Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they are below the age of three in this calendar year. See examples below for when a PDT must be taken:</p>
 
 <table>
   <tbody>
@@ -39,7 +40,7 @@ Travellers must take a PDT **within 2 days before departure** for Singapore, unl
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;"><b>Direct Flights</b></td>
     </tr>
         <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h.</td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; line-height:1.35;">Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h.</td>
     </tr>
         <tr>
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a less than 24-hour Transit Period to Singapore</b></td>
