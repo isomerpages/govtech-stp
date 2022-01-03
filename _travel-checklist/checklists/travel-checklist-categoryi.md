@@ -8,11 +8,10 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 
 <ol style="padding-left: 20px; font-size:20px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="padding-left: 20px; font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Are travelling to Singapore via the Returning Singapore Citizens/Permanent Residents Lane, Familial Ties Lane, or Student’s Pass Holder Lane; AND</li>
-		<li style="padding-left: 20px; font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 14 days before arrival in Singapore</a>, and not transited in any Category (II), (III) or (IV) countries/regions for more than 24 hours.</li>
+		<li style="padding-left: 20px; font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Have only visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 14 days before arrival in Singapore</a>, and not transited in any Category (II), (III) or (IV) countries/regions for more than 24 hours.</li>
 </ol>
 
-
-Travellers who do not meet the above conditions should refer to the <a href="/travel-checklist/overview">checklist specific to their travel arrangement/travel history</a> or their approval letters for travel instructions. Return to the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page if unsure which SafeTravel Lane to use to enter Singapore.
+<p style="font-size:20px; margin-top:20px; line-height:1.35;">Travellers who do not meet the above conditions should refer to the <a href="/travel-checklist/overview">checklist specific to their travel arrangement/travel history</a> or their approval letters for travel instructions. Return to the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page if unsure which SafeTravel Lane to use to enter Singapore.</p>
 
 Travellers should check the box **(&#9744;)** for completed activities.
 
