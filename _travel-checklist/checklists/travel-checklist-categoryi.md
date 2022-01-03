@@ -7,7 +7,7 @@ permalink: /travel-checklist/category-1
 This checklist covers the pre-departure to post-arrival process for travellers who:
 
 <ol style="padding-left: 20px; font-size:20px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="padding-left: 20px; font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Are travelling to Singapore via the Returning Singapore Citizens/Permanent Residents Lane, Familial Ties Lane, or Student’s Pass Holder Lane; AND</li>
+	<li style="padding-left: 20px; font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Are travelling to Singapore via the Returning Singapore Citizens/Permanent Residents Lane, Familial Ties Lane, or Student’s Pass Holder Lane; AND</li>
 		<li style="padding-left: 20px; font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 14 days before arrival in Singapore</a>, and not transited in any Category (II), (III) or (IV) countries/regions for more than 24 hours.</li>
 </ol>
 
