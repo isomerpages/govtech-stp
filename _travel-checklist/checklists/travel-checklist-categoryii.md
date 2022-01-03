@@ -94,7 +94,16 @@ An acceptable PDT includes <b>either</b> of the following:
 
 &#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [only for arrivals before 7 Jan 2022, 2359h]</b></i>
 
-<p style="line-height:1.35;">Travellers who are fit for travel should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.</p>
+<p style="line-height:1.35;">Travellers who are fit for travel should register and pay for the on-arrival COVID-19 Polymerase Chain Reaction test required of those aged 3 and above this calendar year.</p>
+
+<ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;">
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register here if arriving via air</a> (each test costs S$125)</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;"><a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register here if arriving by sea or land</a> (each test costs S$160)</li>
+</ol>
+
+<p style="line-height:1.35;">Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.</p>
+
+
 
 &#9744;  <i><b>F) Installation of TraceTogether app</b></i>
 
