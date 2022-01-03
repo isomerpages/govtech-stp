@@ -115,11 +115,11 @@ Travellers should <b>defer their travels</b> if they:
 
 &#9744;  <i><b>Pre-boarding Document Checks</b></i>
 
-To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline to produce the following during pre-boarding checks:
+<p style="line-height:1.35;">To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline to produce the following during pre-boarding checks:</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid Pre-Departure Test showing a negative COVID-19 result (see Stage 1C)</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Valid Pre-Departure Test showing a negative COVID-19 result (see Stage 1C)</li>
 </ol>
 
 Travellers who fail to produce these documents may be denied boarding.
@@ -129,31 +129,31 @@ Travellers who fail to produce these documents may be denied boarding.
 
 &#9744;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i>
 
-During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <b><a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.
+<p style="line-height:1.35;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <b><a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
 
-<a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who meet the following conditions <b>must clear immigration at the manual counters and request the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1E):
+<p style="line-height:1.35;"><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who meet the following conditions <b>must clear immigration at the manual counters and request the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1E):</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Aged 12 and above; </li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification; and</li>
-			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance. </li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Aged 12 and above; </li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification; and</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance. </li>
 </ol>
 
-Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
+<p style="line-height:1.35;">Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
 
 
 &#9744;  <i><b>B) On-arrival COVID-19 Tests</b></i>
 
-Follow the instructions of officers on the ground, and take an on-arrival COVID-19 Polymerase Chain Reaction test.
+<p style="line-height:1.35;">Follow the instructions of officers on the ground, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
 
-Travellers who did not <a href="#payment">pay for the test before arrival (see Stage 1E)</a>, will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.
+<p style="line-height:1.35;">Travellers who did not <a href="#payment">pay for the test before arrival (see Stage 1E)</a>, will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.</p>
 
 
 &#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
 
-Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.
+<p style="line-height:1.35;">Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
 
-The use of public transport (e.g. trains, buses) is prohibited.
+<p style="line-height:1.35;">The use of public transport (e.g. trains, buses) is prohibited.</p>
 
 
 
@@ -161,13 +161,14 @@ The use of public transport (e.g. trains, buses) is prohibited.
 
 &#9744;  <i><b>A) Serve self-isolation period</b></i>
 
-Travellers are <b>prohibited</b> from leaving their self-isolation accommodation while waiting for the on-arrival test result (per Stage 3B).
+<p style="line-height:1.35;">Travellers are <b>prohibited</b> from leaving their self-isolation accommodation while waiting for the on-arrival test result (per Stage 3B).</p>
 
-Travellers who are self-isolating at their residence may do so with other household members, regardless of their vaccination status or travel history. However, they should be isolated in a room, minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to:
+<p style="line-height:1.35;">Travellers who are self-isolating at their residence may do so with other household members, regardless of their vaccination status or travel history. However, they should be isolated in a room, minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to:</p>
+
 <ol style="padding-left: 20px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px;">Lower the lid before flushing the toilet; </li>
-	<li style="padding-left: 20px;">Clean and disinfect contact surfaces after each use; and</li>
-	<li style="padding-left: 20px;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
+	<li style="padding-left: 20px; margin-bottom:10px;">Lower the lid before flushing the toilet; </li>
+	<li style="padding-left: 20px; margin-bottom:10px;">Clean and disinfect contact surfaces after each use; and</li>
+	<li style="padding-left: 20px; margin-bottom:10px;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
 	</ol>
 
 
@@ -175,12 +176,12 @@ Travellers who are self-isolating at their residence may do so with other househ
 
 &#9744;  <i><b>A) Release from Self-isolation</b></i>
 
-Travellers may leave their accommodation only <b>after</b> receiving a negative result via email for their on-arrival COVID-19 test (see Stage 3B). Travellers should contact <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> if they do not receive their results within 24 hours of the test. Those who test positive for COVID-19 must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges will apply.
+<p style="line-height:1.35;">Travellers may leave their accommodation only <b>after</b> receiving a negative result via email for their on-arrival COVID-19 test (see Stage 3B). Travellers should contact <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> if they do not receive their results within 24 hours of the test. Those who test positive for COVID-19 must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges will apply.</p>
 
 
 &#9744;  <i><b>B) Abide by Local COVID-19 Safe Management Measures</b></i>
 
-Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.
+<p style="line-height:1.35;">Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
 
-For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A). Travellers who require vaccinated status beyond 30 days after arrival, should visit 
-<a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
+<p style="line-height:1.35;">For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A). Travellers who require vaccinated status beyond 30 days after arrival, should visit 
+<a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
