@@ -158,43 +158,43 @@ An acceptable PDT includes <b>either</b> of the following:
 
 &#9744;  <i><b>B) On arrival COVID-19 Tests [only for arrivals before 7 Jan 2022, 2359h]</b></i>
 
-Follow the instructions of officers on the ground and take an on-arrival COVID-19 Polymerase Chain Reaction test.
+<p style="line-height:1.35;">Follow the instructions of officers on the ground and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
 
-Travellers who did not <a href="#stage1e" >pay for the test before arrival</a> (see Stage 1E), will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.
+<p style="line-height:1.35;">Travellers who did not <a href="#stage1e" >pay for the test before arrival</a> (see Stage 1E), will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.</p>
 
 
 &#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i>
 
-A 7-day Stay-Home Notice (SHN), which takes effect immediately on the day of issuance, will be sent to the email address provided by the traveller in their SGAC declaration (see Stage 1D).
+<p style="line-height:1.35;">A 7-day Stay-Home Notice (SHN), which takes effect immediately on the day of issuance, will be sent to the email address provided by the traveller in their SGAC declaration (see Stage 1D).</p>
 
 <div id="stage3d"></div>
 
 &#9744; <i><b>D) Transport to Declared SHN Accommodation</b></i>
 
-Travellers must commute directly to their declared Stay-Home Notice (SHN) accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.
+<p style="line-height:1.35;">Travellers must commute directly to their declared Stay-Home Notice (SHN) accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
 
-The use of public transport (e.g. trains, buses) is prohibited.
+<p style="line-height:1.35;">The use of public transport (e.g. trains, buses) is prohibited.</p>
 
 
 ### Stage 4: Stay-Home Notice and COVID-19 Tests
 
 &#9744;  <i><b>A) Serve Stay-Home Notice (SHN)</b></i>
 
-A 7-day Stay-Home Notice (SHN) takes effect immediately upon its issuance, and travellers <b>must</b> remain in their declared SHN accommodation for the period specified in the SHN. To calculate the estimated SHN end date, click <a href="/shn-calculator" target="_blank">here</a> for an SHN calculator.
+<p style="line-height:1.35;">A 7-day Stay-Home Notice (SHN) takes effect immediately upon its issuance, and travellers <b>must</b> remain in their declared SHN accommodation for the period specified in the SHN. To calculate the estimated SHN end date, click <a href="/shn-calculator" target="_blank">here</a> for an SHN calculator.</p>
 
-Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA to ensure compliance. For subsequent breaches, travellers can be fined, imprisoned, and/or have their residency/work permits revoked. During the SHN period, <a href="/health/shn#shn-compliance-checks" target="_blank">randomised in-person or phone/video compliance check(s) will be conducted</a> (see advisory below), and travellers may only leave their SHN accommodation in the following cases:
+<p style="line-height:1.35;">Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA to ensure compliance. For subsequent breaches, travellers can be fined, imprisoned, and/or have their residency/work permits revoked. During the SHN period, <a href="/health/shn#shn-compliance-checks" target="_blank">randomised in-person or phone/video compliance check(s) will be conducted</a> (see advisory below), and travellers may only leave their SHN accommodation in the following cases:</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Directed by the relevant authorities to do so;</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; OR</li>
-			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Received a negative PCR test result for the test taken before the end of the SHN.</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Directed by the relevant authorities to do so;</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; OR</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Received a negative PCR test result for the test taken before the end of the SHN.</li>
 </ol>
 
-The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance. 
+<p style="line-height:1.35;">The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance. </p>
 
-<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="margin-top:0px; margin-bottom:20px; line-height:1.5; color:red;"><b>Anti-Scam Advisory</b></p> 
-<p style="margin-top:0px; margin-bottom:0px; line-height:1.5">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.35; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="margin-top:0px; margin-bottom:20px; line-height:1.35; color:red;"><b>Anti-Scam Advisory</b></p> 
+<p style="margin-top:0px; margin-bottom:0px; line-height:1.35">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
 </div>
 
 &#9744;  <i><b>B) End-of-SHN COVID-19 Test</b></i>
