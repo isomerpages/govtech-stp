@@ -33,7 +33,7 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 
 &#9744;  <i><b>C) Pre-Departure COVID-19 Test (PDT)</b></i>
 
-<p style="line-height:1.35;">Travellers must take a PDT **within 2 days before departure** for Singapore, unless they are below the age of three in this calendar year. See examples below for when a PDT must be taken:</p>
+<p style="line-height:1.35;">Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they are below the age of three in this calendar year. See examples below for when a PDT must be taken:</p>
 
 <table>
   <tbody>
