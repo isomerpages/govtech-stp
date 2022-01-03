@@ -22,18 +22,18 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
-All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.
+<p style="line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
 
 &#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
-Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Click here to check if a visa is required and to apply if needed</a>.
+<p style="line-height:1.35;">Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Click here to check if a visa is required and to apply if needed</a>.</p>
 
 
 <div id="stage1c"></div>
 
 &#9744;  <i><b>C) Pre-Departure COVID-19 Test (PDT)</b></i>
 
-Travellers must take a PDT **within 2 days before departure** for Singapore, unless they are below the age of three in this calendar year. See examples below for when a PDT must be taken:
+<p style="line-height:1.35;">Travellers must take a PDT **within 2 days before departure** for Singapore, unless they are below the age of three in this calendar year. See examples below for when a PDT must be taken:</p>
 
 <table>
   <tbody>
@@ -41,19 +41,19 @@ Travellers must take a PDT **within 2 days before departure** for Singapore, unl
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;"><b>Direct Flights</b></td>
     </tr>
         <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h.</td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; line-height:1.35;">Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h.</td>
     </tr>
         <tr>
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a less than 24-hour Transit Period to Singapore</b></td>
     </tr>
             <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller B is scheduled for departure on 3 Nov 2021 from Airport A. He will transit at Airport B for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from Airport A.</td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; line-height:1.35;">Traveller B is scheduled for departure on 3 Nov 2021 from Airport A. He will transit at Airport B for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from Airport A.</td>
     </tr>   
             <tr>
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a Transit Period exceeding 24 hours</b></td>
     </tr>
                 <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Traveller C is scheduled for departure from Airport A on 3 Nov 2021. He will transit in Airport B for a period lasting more than 24 hours. In this scenario, he will take his PDT at Airport B, within 2 days before his connecting flight to Singapore.</td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; line-height:1.35;">Traveller C is scheduled for departure from Airport A on 3 Nov 2021. He will transit in Airport B for a period lasting more than 24 hours. In this scenario, he will take his PDT at Airport B, within 2 days before his connecting flight to Singapore.</td>
     </tr>   
   </tbody>
   </table>
@@ -61,18 +61,19 @@ Travellers must take a PDT **within 2 days before departure** for Singapore, unl
 An acceptable PDT includes <b>either</b> of the following:
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.5;">COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li> 
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-swabs are not allowed</b>.</li> 
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li> 
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) administered by a trained professional, including a medical professional or government-recognised trained professional in the country/region of departure. <b>Self-swabs are not allowed</b>.</li> 
 </ol>
 
-Travellers must obtain a copy of the negative test result that meets all the following conditions:
+<p style="line-height:1.35;">Travellers must obtain a copy of the negative test result that meets all the following conditions:</p>
+
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li> 
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the test.</li>
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Is in English (or accompanied with an English translation);</li> 
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the test.</li>
 </ol>
 
-<b>Handwritten reports will be rejected</b>. Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.
+<p style="line-height:1.35;"><b>Handwritten reports will be rejected</b>. Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.</p>
 
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
