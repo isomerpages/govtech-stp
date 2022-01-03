@@ -112,16 +112,16 @@ An acceptable PDT includes <b>either</b> of the following:
 
 <p style="line-height:1.35;">For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving self-isolation for the on-arrival test.</p>
 
-Travellers may serve SHN at their residence with other household members, regardless of their household members' vaccination status or travel history. However, the following precautions are strongly advised: 
+<p style="line-height:1.35;">Travellers may serve SHN at their residence with other household members, regardless of their household members' vaccination status or travel history. However, the following precautions are strongly advised:</p> 
 
 <ol style="padding-left: 20px; padding-left: 30px; margin-top:20px; list-style-type: lower-latin;">
-<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Isolate in their own room during the 7-day period;</li>
-<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Isolate in their own room during the 7-day period;</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
 </ol>
 <ol style="padding-left: 70px; margin-top:20px; list-style-type: lower-roman;">
-<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
-<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
-<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.5;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Lower the lid before flushing the toilet;</li>
+<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Clean and disinfect contact surfaces after each use; and</li>
+<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
 </ol>
 
 
@@ -130,14 +130,14 @@ Travellers may serve SHN at their residence with other household members, regard
 
 &#9744;  <i><b>Pre-boarding Document Checks</b></i>
 
-To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline to produce the following during pre-boarding checks:
+<p style="line-height:1.35;">To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline to produce the following during pre-boarding checks:</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid Pre-Departure Test showing a negative COVID-19 result (see Stage 1C)</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Valid Pre-Departure Test showing a negative COVID-19 result (see Stage 1C)</li>
 </ol>
 
-Travellers who fail to produce these documents may be denied boarding.
+<p style="line-height:1.35;">Travellers who fail to produce these documents may be denied boarding.</p>
 
 
 ### Stage 3: Arrival in Singapore
