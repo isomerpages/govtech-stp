@@ -105,9 +105,11 @@ An acceptable PDT includes <b>either</b> of the following:
 
 <p style="line-height:1.35;">Travellers must complete their 10-day Stay Home Notice (SHN) at a declared accommodation, which includes:</p>
 
-- Place of residence; 
-- Serviced apartment; or
-- Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. 
+<ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;">
+<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Place of residence;</li> 
+<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Serviced apartment; or</li>
+<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>.</li>
+</ol>	
 
 For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving self-isolation for the on-arrival test.
 
