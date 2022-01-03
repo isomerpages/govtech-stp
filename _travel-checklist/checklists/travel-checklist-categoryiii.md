@@ -186,23 +186,23 @@ Travellers who fail to produce these documents may be denied boarding.
 <p style="line-height:1.35;">Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA to ensure compliance. For subsequent breaches, travellers can be fined, imprisoned, and/or have their residency/work permits revoked. During the SHN period, <a href="/health/shn#shn-compliance-checks" target="_blank">randomised in-person or phone/video compliance check(s) will be conducted</a> (see advisory below), and travellers may only leave their SHN accommodation in the following cases:</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Directed by the relevant authorities to do so;</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; OR</li>
-			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Received a negative PCR test result for the test taken before the end of the SHN.</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Directed by the relevant authorities to do so;</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; OR</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Received a negative PCR test result for the test taken before the end of the SHN.</li>
 </ol>
 
-The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance. 
+<p style="line-height:1.35;">The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance.</p> 
 
-<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="margin-top:0px; margin-bottom:20px; line-height:1.5; color:red;"><b>Anti-Scam Advisory</b></p> 
-<p style="margin-top:0px; margin-bottom:0px; line-height:1.5">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.35; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="margin-top:0px; margin-bottom:20px; line-height:1.35; color:red;"><b>Anti-Scam Advisory</b></p> 
+<p style="margin-top:0px; margin-bottom:0px; line-height:1.35;">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
 </div>
 
 &#9744;  <i><b>B) End-of-SHN COVID-19 Test</b></i>
 
-Travellers will be scheduled to take a mandatory COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of their SHN. Payment for the test (S$125/test, including GST) for travellers who are not a Singapore Citizen (SC) or Singapore Permanent Resident (PR) is already collected during entry approval (see Stage 1A). For SC/PRs, the test payment details will be communicated separately after arrival in Singapore.
+<p style="line-height:1.35;">Travellers will be scheduled to take a mandatory COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of their SHN. Payment for the test (S$125/test, including GST) for travellers who are not a Singapore Citizen (SC) or Singapore Permanent Resident (PR) is already collected during entry approval (see Stage 1A). For SC/PRs, the test payment details will be communicated separately after arrival in Singapore.</p>
 
-Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers who are unwell on the day of the test should remain in their accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant agencies</a>.
+<p style="line-height:1.35;">Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers who are unwell on the day of the test should remain in their accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant agencies</a>.</p>
 
 
 
@@ -210,14 +210,14 @@ Travellers who do not receive their test appointment details a day before the en
 
 &#9744;  <i><b>A) Release from Stay-Home Notice (SHN)</b></i>
 
-The SHN will end after the traveller receives a negative test result (per Stage 4B) or upon completion of the 10-day SHN, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.
+<p style="line-height:1.35;">The SHN will end after the traveller receives a negative test result (per Stage 4B) or upon completion of the 10-day SHN, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.</p>
 
-Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges will apply.
+<p style="line-height:1.35;">Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges will apply.</p>
 
 
 &#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
 
-Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.
+<p style="line-height:1.35;">Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
 
-For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A). Travellers who require vaccinated status beyond 30 days after arrival, should visit 
-<a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.
+<p style="line-height:1.35;">For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A). Travellers who require vaccinated status beyond 30 days after arrival, should visit 
+<a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
