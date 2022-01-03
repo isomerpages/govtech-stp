@@ -120,7 +120,7 @@ An acceptable PDT includes <b>either</b> of the following:
 <li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
 </ol>
 <ol style="padding-left: 60px; margin-top:20px; list-style-type: lower-roman;">
-<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Lower the lid before flushing the toilet;</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Lower the lid before flushing the toilet;</li>
 <li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Clean and disinfect contact surfaces after each use; and</li>
 <li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
 </ol>
