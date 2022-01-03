@@ -73,7 +73,7 @@ An acceptable PDT includes <b>either</b> of the following:
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the test.</li>
 </ol>
 
-<p style="line-height:1.35;"><b>Handwritten reports will be rejected</b>. Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.</p>
+<p style="line-height:1.35; margin-bottom:50px;"><b>Handwritten reports will be rejected</b>. Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.</p>
 
 
 &#9744;  <i><b>D) Submission of Health Declaration</b></i>
