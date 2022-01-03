@@ -98,7 +98,7 @@ An acceptable PDT includes <b>either</b> of the following:
 
 <ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;">
 <li style="padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;"><a href="https://safetravel.changiairport.com/#/" target="_blank">Register here if arriving via air</a> (each test costs S$125)</li>
-<li style="padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;"><a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register here if arriving by sea or land</a> (each test costs S$160)</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;"><a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">Register here if arriving by sea or land</a> (each test costs S$160)</li>
 </ol>
 
 <p style="line-height:1.35;">Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.</p>
