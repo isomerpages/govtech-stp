@@ -7,13 +7,14 @@ permalink: /travel-checklist/category-4
 This checklist covers the pre-departure to post-arrival process for travellers who:
 
 <ol style="padding-left: 20px; list-style-type: lower-roman;">
-<li style="padding-left: 20px; line-height:1.5;">Are travelling to Singapore via the Returning Singapore Citizen/Permanent Resident Lane, Familial Ties Lane, or Student’s Pass Lane; <b>AND</b></li>
-<li style="padding-left: 20px; line-height:1.5;">Have visited <a href="/shn-and-swab-summary" target="_blank">any Category (IV) country/region in the past 14 days before arrival in Singapore</a>.</li>
+<li style="padding-left: 20px; line-height:1.35;">Are travelling to Singapore via the Returning Singapore Citizen/Permanent Resident Lane, Familial Ties Lane, or Student’s Pass Lane; <b>AND</b></li>
+<li style="padding-left: 20px; line-height:1.35;">Have visited <a href="/shn-and-swab-summary" target="_blank">any Category (IV) country/region in the past 14 days before arrival in Singapore</a>.</li>
 </ol>
 
-Travellers who do not meet the above conditions should refer to the <a href="/travel-checklist/overview" target="_blank">checklist specific to their travel arrangement/travel history</a> or their approval letters for travel instructions. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore.
+<p style="line-height:1.35;">Travellers who do not meet the above conditions should refer to the <a href="/travel-checklist/overview" target="_blank">checklist specific to their travel arrangement/travel history</a> or their approval letters for travel instructions. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore.</p>
 
-Travellers should check the box **(&#9744;)** for completed activities.
+<p style="line-height:1.35;">Travellers should check the box **(&#9744;)** for completed activities.</p>
+
 
 ### Stage 1: Pre-Departure for Singapore
 
