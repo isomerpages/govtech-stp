@@ -10,7 +10,7 @@ permalink: /travel-checklist/dcev
 
 <p style="line-height:1.35;">Under the DCEV, arrangements will be made to allow travellers to make short and safe visits to the medical facility and/or funeral. Otherwise, scroll-down or click on the links for health-related protocols applicable based on the relevant stage of your journey.</p>
 
-<p style="line-height:1.35;">Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#x2610;)** for completed activities.</p>
+<p style="line-height:1.35;">Travellers may print out this page and indicate with a <b>"&#9745;"</b> in the box <b>(&#x2610;)</b> for completed activities.</p>
 
 ### Stage 1: Pre-Departure for Singapore
 
