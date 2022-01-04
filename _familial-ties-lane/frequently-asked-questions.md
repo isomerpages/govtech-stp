@@ -83,6 +83,6 @@ Travel insurance covering COVID-19 is not mandatory for travellers entering Sing
 
 Please refer to the FAQ on vaccinated travellers [here](https://safetravel.ica.gov.sg/health/faq#vaccinated).
 
-#### 12. I was recently diagnosed with COVID-19 but am scheduled to travel to Singapore. Can i still visit Singapore? 
+#### 12. I was recently diagnosed with COVID-19 but am scheduled to travel to Singapore. Can I still visit Singapore? 
 
 Please refer to the FAQ on recovered travellers [here](https://safetravel.ica.gov.sg/health/faq#pcrtestQ5). Individuals would be advised acccordingly on the need to fulfil the SHN requirements.

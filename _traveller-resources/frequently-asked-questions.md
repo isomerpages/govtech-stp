@@ -549,7 +549,7 @@ The declaration would not affect your entry approval status/application for entr
 
 Travellers would be required to arrange for a tele-consultation upon arrival at their SHN location for assessment on conversion to an inhaler/spacer. 
 
-#### 2. I require to use a nebuliser to manage my medical condition, would i be allowed entry into Singapore? 
+#### 2. I require to use a nebuliser to manage my medical condition, would I be allowed entry into Singapore? 
 
 Yes, travellers who require to use a nebuliser would be allowed to enter Singapore. However, travellers are required to declare the usage before arrival into Singapore.
 
