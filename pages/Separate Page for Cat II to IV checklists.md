@@ -22,9 +22,9 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 
 ### Stage 1: Pre-Departure for Singapore
 
-&#9744;  <i><b>A) Application for Entry Approval</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Application for Entry Approval</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore. To check for the status of your application, click <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">here</a>.</p></div>
 
-<p style="line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore. To check for the status of your application, click <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">here</a>.</p>
 
 &#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
