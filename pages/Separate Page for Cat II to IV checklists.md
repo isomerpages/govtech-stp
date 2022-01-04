@@ -118,9 +118,9 @@ Travellers should <b>defer their travels</b> if they:
 
 ### Stage 2: Departure for Singapore
 
-&#9744;  <i><b>Pre-boarding Document Checks</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>Pre-boarding Document Checks</b></i></div>
 
-<p style="line-height:1.35;">To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline to produce the following during pre-boarding checks:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline to produce the following during pre-boarding checks:</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
@@ -128,7 +128,7 @@ Travellers should <b>defer their travels</b> if they:
 </ol>
 
 Travellers who fail to produce these documents may be denied boarding.
-
+</div>
 
 ### Stage 3: Arrival in Singapore
 
