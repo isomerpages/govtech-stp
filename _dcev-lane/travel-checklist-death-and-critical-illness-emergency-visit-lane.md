@@ -29,9 +29,11 @@ permalink: /travel-checklist/dcev
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they:</p>
 
-- Are below the age of three in this calendar year; or
-- Are Singapore Citizens entering Singapore via the Causeway or Second Link.
-
+<ol style="margin-top: 10px; padding-left:20px; list-style-type: disc;">
+	<li style="margin-bottom:10px; line-height:1.35;">Are below the age of three in this calendar year; or</li>
+	<li style="margin-bottom:10px; line-height:1.35;">Are Singapore Citizens entering Singapore via the Causeway or Second Link.</li>
+	</ol>
+	
 <table>
 <tbody>
 	<tr>
@@ -66,9 +68,12 @@ permalink: /travel-checklist/dcev
 
 <p style="line-height:1.35;">Travellers must obtain a copy of the negative test result that meets all the following conditions:</p>
 
-- Is in English (or accompanied with an English translation);
-- Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
-- Reflects the date and result of the PCR test.
+<ol style="margin-top: 10px; padding-left:20px; list-style-type: disc;">
+	<li style="margin-bottom:10px; line-height:1.35;">Is in English (or accompanied with an English translation);</li>
+	<li style="margin-bottom:10px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+	<li style="margin-bottom:10px; line-height:1.35;">Reflects the date and result of the PCR test.</li>
+</ol>
+	
 
 <p style="line-height:1.35;"><b>Handwritten reports will be rejected.</b> Handwritten negative PDT results are not accepted. Travellers with difficulties obtaining a COVID-19 test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.</p>
 </div>
