@@ -18,19 +18,19 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 
 ### Stage 1: Pre-Departure for Singapore
 
-&#9744;  <i><b>A) Application for Entry Approval</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Application for Entry Approval</b></i></div>
 
 <p style="line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
 
 
-&#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i></div>
 
 <p style="line-height:1.35;">Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Click here to check if a visa is required and to apply if needed</a>.</p>
 
 
 <div id="stage1c"></div>
 
-&#9744;  <i><b>C) Pre-Departure COVID-19 Test (PDT)</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>C) Pre-Departure COVID-19 Test (PDT)</b></i></div>
 
 <p style="line-height:1.35;">Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they are below the age of three in this calendar year. See examples below for when a PDT must be taken:</p>
 
@@ -75,7 +75,7 @@ An acceptable PDT includes <b>either</b> of the following:
 <p style="line-height:1.35;"><b>Handwritten reports will be rejected</b>. Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.</p>
 
 
-&#9744;  <i><b>D) Submission of Health Declaration</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>D) Submission of Health Declaration</b></i></div>
 
 <p style="line-height:1.35;">Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>.</p>
 
@@ -92,7 +92,7 @@ An acceptable PDT includes <b>either</b> of the following:
 
 <div id="stage1e"></div>
 
-&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [only for arrivals before 7 Jan 2022, 2359h]</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [only for arrivals before 7 Jan 2022, 2359h]</b></i></div>
 
 <p style="line-height:1.35;">Travellers who are fit for travel should register and pay for the on-arrival COVID-19 Polymerase Chain Reaction test required of those aged 3 and above this calendar year.</p>
 
@@ -105,11 +105,12 @@ An acceptable PDT includes <b>either</b> of the following:
 
 
 
-&#9744;  <i><b>F) Installation of TraceTogether app</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>F) Installation of TraceTogether app</b></i></div>
 
 <p style="line-height:1.35;">Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p>
 
-&#9744;  <i><b>G) Secure Accommodation for Stay-Home Notice</b></i>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>G) Secure Accommodation for Stay-Home Notice</b></i></div>
 
 <p style="line-height:1.35;">Travellers must complete their 7-day Stay Home Notice (SHN) at a declared accommodation, which includes:</p>
 
