@@ -256,7 +256,7 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 
 ### Stage 5: End of Stay-Home Notice
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Release from Stay-Home Notice(SHN)</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Release from Stay-Home Notice (SHN)</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers serving SHN at an SDF will be informed of the checkout timing by the SDF operator.</p>
 
