@@ -133,9 +133,9 @@ Travellers who fail to produce these documents may be denied boarding.
 
 ### Stage 3: Arrival in Singapore
 
-&#9744;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i></div>
 
-<p style="line-height:1.35;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <b><a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <b><a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
 
 <p style="line-height:1.35;"><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who meet the following conditions <b>must clear immigration at the manual counters and request the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1E):</p>
 
@@ -146,20 +146,23 @@ Travellers who fail to produce these documents may be denied boarding.
 </ol>
 
 <p style="line-height:1.35;">Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
+</div>
 
 
-&#9744;  <i><b>B) On-arrival COVID-19 Tests</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) On-arrival COVID-19 Tests</b></i></div>
 
-<p style="line-height:1.35;">Follow the instructions of officers on the ground, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Follow the instructions of officers on the ground, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
 
 <p style="line-height:1.35;">Travellers who did not <a href="#payment">pay for the test before arrival (see Stage 1E)</a>, will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.</p>
+</div>
 
 
-&#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i></div>
 
-<p style="line-height:1.35;">Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
 
 <p style="line-height:1.35;">The use of public transport (e.g. trains, buses) is prohibited.</p>
+</div>
 
 
 
