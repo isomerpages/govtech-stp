@@ -168,9 +168,9 @@ Travellers who fail to produce these documents may be denied boarding.
 
 ### Stage 4: Self-isolation
 
-&#9744;  <i><b>A) Serve self-isolation period</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Serve self-isolation period</b></i></div>
 
-<p style="line-height:1.35;">Travellers are <b>prohibited</b> from leaving their self-isolation accommodation while waiting for the on-arrival test result (per Stage 3B).</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers are <b>prohibited</b> from leaving their self-isolation accommodation while waiting for the on-arrival test result (per Stage 3B).</p>
 
 <p style="line-height:1.35;">Travellers who are self-isolating at their residence may do so with other household members, regardless of their vaccination status or travel history. However, they should be isolated in a room, minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to:</p>
 
@@ -179,18 +179,20 @@ Travellers who fail to produce these documents may be denied boarding.
 	<li style="padding-left: 20px; margin-bottom:10px;">Clean and disinfect contact surfaces after each use; and</li>
 	<li style="padding-left: 20px; margin-bottom:10px;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
 	</ol>
+	</div>
 
 
 ### Stage 5: End of Self-isolation period
 
-&#9744;  <i><b>A) Release from Self-isolation</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Release from Self-isolation</b></i></div>
 
-<p style="line-height:1.35;">Travellers may leave their accommodation only <b>after</b> receiving a negative result via email for their on-arrival COVID-19 test (see Stage 3B). Travellers should contact <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> if they do not receive their results within 24 hours of the test. Those who test positive for COVID-19 must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges will apply.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers may leave their accommodation only <b>after</b> receiving a negative result via email for their on-arrival COVID-19 test (see Stage 3B). Travellers should contact <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> if they do not receive their results within 24 hours of the test. Those who test positive for COVID-19 must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges will apply.</p></div>
 
 
-&#9744;  <i><b>B) Abide by Local COVID-19 Safe Management Measures</b></i>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) Abide by Local COVID-19 Safe Management Measures</b></i></div>
 
-<p style="line-height:1.35;">Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
 
 <p style="line-height:1.35;">For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A). Travellers who require vaccinated status beyond 30 days after arrival, should visit 
 <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
+</div>
