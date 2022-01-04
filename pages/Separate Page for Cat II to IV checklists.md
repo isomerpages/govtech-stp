@@ -130,6 +130,7 @@ Travellers should <b>defer their travels</b> if they:
 Travellers who fail to produce these documents may be denied boarding.
 </div>
 
+
 ### Stage 3: Arrival in Singapore
 
 &#9744;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i>
