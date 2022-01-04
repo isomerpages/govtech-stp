@@ -113,7 +113,7 @@ permalink: /travel-checklist/dcev
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>Pre-boarding Document Checks (for travellers arriving by air or sea)</b></i></div>
 
-<p style="line-height:1.35;">As part of the airline or transport operator’s pre-boarding checks, travellers may be asked for the following:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">As part of the airline or transport operator’s pre-boarding checks, travellers may be asked for the following:</p>
 
 <ul style="list-style-type:lower-roman;">
 <li style="padding-left: 20px; line-height: 1.35;">Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and</li>
@@ -121,13 +121,14 @@ permalink: /travel-checklist/dcev
 </ul>
 
 <p style="line-height:1.35;">Travellers without the above may be denied boarding. Travellers who are exempted from (ii) should produce their proof of exemption to the transport operator instead.</p>
+</div>
 
 
 ### Stage 3: Arrival in Singapore
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i></div>
 
-During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <b><a href="" target="_blank">e-Pass (i.e. Visit Pass)</a></b> <b>which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <b><a href="" target="_blank">e-Pass (i.e. Visit Pass)</a></b> <b>which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.
 
 <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who meet the following conditions <b>must clear immigration at the manual counters and request the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1E):
 
@@ -138,17 +139,18 @@ During immigration clearance, provide all documents, including proof of tests, a
 	</ol>
 
 <p style="line-height:1.35;">Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
-
+</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610; <i><b>B) On arrival COVID-19 Tests (if required)</b></i></div>
 
-<p style="line-height:1.35;">Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you are required to do so and <a href="#stage1e">did not pay for the test before arrival (per Stage 1E)</a>, you will pay on the spot and expect additional delays in the administration of the test and departure from the checkpoint. </p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you are required to do so and <a href="#stage1e">did not pay for the test before arrival (per Stage 1E)</a>, you will pay on the spot and expect additional delays in the administration of the test and departure from the checkpoint. </p>
 
 <p style="line-height:1.35;"><span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions and are arriving from <b>7 Jan 2022, 2359h</b>, do not need to take an on-arrival test.</p>
-
+</div>
+	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>C) Transport to Self-Isolation / Stay-Home Notice accommodation) </b></i></div>
 
-<p style="line-height:1.35;">Depending on your 14-day travel history before arriving in Singapore, you may be required to self-isolate or serve a Stay Home Notice with the following transport options which will apply throughout the SHN period:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Depending on your 14-day travel history before arriving in Singapore, you may be required to self-isolate or serve a Stay Home Notice with the following transport options which will apply throughout the SHN period:</p>
 
 <i>(Mobile users scroll right &#9755; to view the table)</i>
 <table>
@@ -210,44 +212,51 @@ During immigration clearance, provide all documents, including proof of tests, a
 	  </tr>
   </tbody>
   </table>
+</div>
 	
 	
 ### Stage 4: Self-Isolation, Stay-Home Notice and COVID-19 Tests
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>A) Serve Self-isolation / Stay-Home Notice (SHN))</b></i></div>
 
-<p style="line-height:1.35;">SHN-serving travellers will be required to take additional COVID-19 tests during the SHN period. Where applicable, the test requirements will be communicated to the traveller.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">SHN-serving travellers will be required to take additional COVID-19 tests during the SHN period. Where applicable, the test requirements will be communicated to the traveller.</p>
 
 <p style="line-height:1.35;">Travellers who wish to leave their self-isolation/SHN accommodation, or SDF for facilitated visits to funerals/wakes or hospitals must have a negative PCR result within the last 72 hours of the visit,  before they can leave their SHN/SDF location. The cost of the tests will be borne by the travellers and paid directly to the test providers. Those who are unable to comply with the pre-visiting testing requirement will not be allowed to leave their SHN/SDF location.</p>
 
 <p style="line-height:1.35;">Travellers who test positive for COVID-19 will receive the necessary <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges would apply.</p>
+</div>
+
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610; <i><b>B) Visits to Medical Facility / Funeral</b></i></div>
 
-<p style="line-height:1.35;">For travellers who received approval to leave their SHN location for short visitations (details of visitation conditions will be conveyed to the travellers separately), the following transport arrangements apply:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">For travellers who received approval to leave their SHN location for short visitations (details of visitation conditions will be conveyed to the travellers separately), the following transport arrangements apply:</p>
 
 <ol style="font-size:18px; margin-bottom:0px; margin-top:10px; list-style-type:lower-roman; line-height:1.35;">
 <li style="font-size:18px; margin-bottom:20px; margin-top:0px; list-style-type:lower-roman; line-height:1.35;"><b>Travellers who are serving SHN at SDFs</b> are to make transport arrangements at their own cost from Strides Transportation Pte Ltd. Refer to Stage 3C above, for details.</li>
 <li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.35;"><b>Travellers who are serving SHN at other SHN locations</b> (i.e. self-sourced accommodation, place of residence) may self-drive using their own private vehicles or be driven by the same family member who picked them up from the airport. These travellers may also book private hire vehicles. Refer to Stage 3C above for details.</li>
 </ol>
+</div>
 
 
 ### Stage 5: End of Stay-Home Notice
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>A1) Early release from Stay-Home Notice (SHN) (if applicable)</b></i></div>
 
-<p style="line-height:1.35;">Travellers who wish to leave Singapore before the end of the SHN period **due to exceptional circumstances**, please submit a request via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>, with the category “Stay Home Notice Accommodation” and sub-category “Appeal to leave SHN for Exceptional Reasons”. An exit COVID-19 Polymerase Chain Reaction test will be required.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers who wish to leave Singapore before the end of the SHN period **due to exceptional circumstances**, please submit a request via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>, with the category “Stay Home Notice Accommodation” and sub-category “Appeal to leave SHN for Exceptional Reasons”. An exit COVID-19 Polymerase Chain Reaction test will be required.</p></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610; <i><b>A2) Regular release from Self-isolation / Stay-Home Notice (if applicable)</b></i></div>
 
-<p style="line-height:1.35;"><b>For travellers serving SHN at an SHN Dedicated Facility (SDF)</b>, the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. </p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;"><b>For travellers serving SHN at an SHN Dedicated Facility (SDF)</b>, the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. </p>
 
 <p style="line-height:1.35;"><b>Travellers serving SHN at a place of residence </b> will be scheduled to take a COVID-19 Polymerase Chain Reaction ("PCR test") before the end of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers may end their SHN arrangements upon receipt of a negative test result or when they complete the 7 -day or 10-day SHN period applicable to them, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank"> HealthHub App</a> .</p>
 
 <p style="line-height:1.35;">Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.</p>
+</div>
+
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i></div>
 
-<p style="line-height:1.35;">After SHN, travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">After SHN, travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
 
 <p style="line-height:1.35;">For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A). Travellers who require vaccinated status beyond 30 days after arrival, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
+</div>
