@@ -112,7 +112,7 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>.</li>
 </ol>	
 
-<p style="line-height:1.35;">For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving self-isolation for the on-arrival test.</p>
+<p style="line-height:1.35;">For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving SHN for the on-arrival test.</p>
 
 <p style="line-height:1.35;">Travellers may serve SHN at their residence with other household members, regardless of their household members' vaccination status or travel history. However, the following precautions are strongly advised:</p>  
 
