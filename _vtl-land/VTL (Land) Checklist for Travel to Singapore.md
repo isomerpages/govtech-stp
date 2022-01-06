@@ -3,7 +3,6 @@ title: VTL (Land) Checklist for Travel to Singapore
 permalink: /vtl-land/travel-checklist
 description: ""
 ---
-
 <div id="notice" style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red;"><b><u>NOTICE</u></b></p>
 		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.4;color:black;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia <b> from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours.</b></p>
@@ -57,7 +56,7 @@ description: ""
 		<label for="1D">&nbsp;&nbsp;<b>(1D) Apply for Vaccinated Travel Pass (VTP) </b></label></div>
 <div style="padding:20px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://go.gov.sg/vtl-portal" target="_blank"><b>Long Term Pass Holders and Short-Term Visitors<br>Click Here To Apply For a VTP</b></a></div>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">&#9200; &nbsp; <b>Apply <u>at least 3 calendar days</u> before the intended date of entry.</b></p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">&#9200; &nbsp; <b>Apply <u>between 3 and 60 calendar days</u> before the intended date of entry.</b></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;"><span style="color:red; font-size:18px;">&#10060;</span>&nbsp; Unvaccinated children aged 12 and below in this calendar year do not need to apply. However, they must comply with all other VTL (Land) conditions, including being a Singapore resident and being accompanied by a fully vaccinated VTL (Land) traveller.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>Please note the following while making the application on the VTP application portal:</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
