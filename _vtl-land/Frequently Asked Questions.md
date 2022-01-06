@@ -66,7 +66,7 @@ Otherwise, your family member will not be allowed to accompany you. During the i
 
 Malaysia Citizens can enter Singapore under VTL (Land).
 
-Malaysia Permanent Residents or holder of a Malaysia-issued long-term pass are not allowed to enter Singapore under VTL (land) unless they are a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term pass.
+Malaysia Permanent Residents or holders of a Malaysia-issued long-term pass are not allowed to enter Singapore under VTL (land) unless they are a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term pass.
 
 #### 5. Must I stay in Singapore for a minimum period after I enter Singapore under the VTL (Land)?
 
@@ -188,6 +188,12 @@ As an example, a traveller takes a pre-departure ART in Singapore on 1 December 
 #### 2. I am entering Malaysia from Singapore and returning to Singapore from Malaysia under the VTL (Land). Can I use my negative On-Arrival Test (OAT) taken in Malaysia to fulfil the pre-departure test requirement for my return leg to Singapore, if the OAT was taken within 2 days of my date of departure to Singapore?
 
 The self-administered OAT taken in Malaysia will not fulfil the pre-departure test requirement for entry into Singapore, as (i) Singapore does not accept self-administered tests as pre-departure testing options for entry into Singapore, and (ii) the pre-departure test must be taken at a laboratory or centre accredited/recognised by the Malaysia Ministry of Health.
+
+#### 3. What if I am diagnosed or a suspect case of COVID-19?
+
+Travellers who were diagnosed or suspected to have a COVID-19 infection in the last <b>10</b> days and are fully vaccinated with a WHO-EUL vaccine (i.e. 14 days after second dose) <u>are not allowed to travel to Singapore under the VTL (Land)</u>. Unvaccinated or partially vaccinated children who are 12 and below in this calendar year and were diagnosed or suspected to have a COVID-19 infection in the last <b>14</b> days are not allowed to travel to Singapore under the VTL (Land).
+
+Travellers who are close contacts of persons who were diagnosed or suspected to have a COVID-19 infection must wait out 7 days from the <u>last exposure</u> to the person with the COVID-19 infection, before they can enter Singapore under the VTL (Land).
 
 
 ### (ii) Vaccination Requirement
