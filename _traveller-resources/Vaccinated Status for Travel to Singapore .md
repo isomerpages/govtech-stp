@@ -131,15 +131,15 @@ If your vaccination certificate(s) are valid, you will be granted <b>temporary v
 
 <div id="sinovaccines"></div>
 
-#### 2b. Maintaining vaccination status beyond the temporary status granted for those who have taken non-SinoVac/SinoPharm vaccines
+#### 2b. Maintaining vaccination status beyond the temporary status granted for those who have taken non-Sinovac/Sinopharm vaccines
 
-The temporary vaccinated status on the TraceTogether app may expire 30 days after your arrival in Singapore. If you require your vaccination status for longer than 30 days, please visit a private healthcare provider or <a href="https://phpc.gov.sg" target="_blank">Public Health Preparedness Clinics</a>for a serology test. Please call in advance to check if the service is available, and bring along your personal identification documents, vaccination certificate(s), as well as translated copies if necessary. 
+The temporary vaccinated status on the TraceTogether app may expire 30 days or 180 days (only for travellers who uploaded their QR codes while applying for the Vaccinated Travel Pass) after your arrival in Singapore. If you require your vaccination status beyond the temporary status granted, please visit a private healthcare provider or <a href="https://phpc.gov.sg" target="_blank">Public Health Preparedness Clinics</a>for a serology test. Please call in advance to check if the service is available, and bring along your personal identification documents, vaccination certificate(s), as well as translated copies if necessary. 
 
 If your serology test is positive, the private healthcare provider will enter your vaccination records into the National Immunisation Registry (NIR). Your vaccinated status will be updated in the TraceTogether app within 24 hours and you will continue to be eligible for VDS.
 
 #### 2c. Maintaining vaccination status beyond the temporary status granted for those who have taken Sinovac/Sinopharm vaccines
 
-From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/SinoPharm as part of their vaccination, or had 1 Sinovac/SinoPharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of three vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 31 Dec 2021, or 4 months from the date of their 2nd dose, whichever is later. The 3rd vaccination dose can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
+Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part of their vaccination, or had 1 Sinovac/Sinopharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of 3 vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 4 months from the date of their 2nd dose. The 3rd vaccination dose can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
 
 <table style="background-color:#f5f5f5">
 <tbody>
