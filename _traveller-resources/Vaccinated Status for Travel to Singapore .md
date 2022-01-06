@@ -9,8 +9,8 @@ Travellers may be required to be fully vaccinated with WHO Emergency Use Listing
 	<li style="line-height:1.5;"><a href="#VDSMM">Vaccinated status for activities within Singapore</a>
 	<ol style="list-style-type:lower-alpha;">
 		<li style="line-height:1.5;">Obtaining temporary vaccinated status after arrival</li>
-		<li style="line-height:1.5;">Maintaining vaccination status beyond the temporary status granted for those who have taken non-SinoVac/SinoPharm vaccines</li>
-		<li style="line-height:1.5;">Maintaining vaccination status beyond the temporary status granted for those who have taken SinoVac/SinoPharm vaccines</li>
+		<li style="line-height:1.5;">Maintaining vaccination status beyond the temporary status granted for those who have taken non-Sinovac/Sinopharm vaccines</li>
+		<li style="line-height:1.5;">Maintaining vaccination status beyond the temporary status granted for those who have taken Sinovac/Sinopharm vaccines</li>
 		</ol>
 	</li>
 	</ol> 
@@ -137,7 +137,7 @@ The temporary vaccinated status on the TraceTogether app may expire 30 days afte
 
 If your serology test is positive, the private healthcare provider will enter your vaccination records into the National Immunisation Registry (NIR). Your vaccinated status will be updated in the TraceTogether app within 24 hours and you will continue to be eligible for VDS.
 
-#### 2c. Maintaining vaccination status beyond the temporary status granted for those who have taken SinoVac/SinoPharm
+#### 2c. Maintaining vaccination status beyond the temporary status granted for those who have taken Sinovac/Sinopharm vaccines
 
 From 1 Jan 2022, travellers who entered Singapore with only 2 doses of Sinovac/SinoPharm as part of their vaccination, or had 1 Sinovac/SinoPharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of three vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 31 Dec 2021, or 4 months from the date of their 2nd dose, whichever is later. The 3rd vaccination dose can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
 
