@@ -358,9 +358,16 @@ Switzerland</td>
 
 <p style="font-size:16px; margin-top:20px; margin-bottom:15px; line-height:1.5;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>, you will not be eligible for travel on the VTL.</p>
 
+<b>You do not need to upload QR codes for boosters.</b>
+
+
 #### 4. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
-Some possible reasons include:
+You may encounter errors upon uploading your vaccination QR code(s) for reasons such as:
+- QR code is not cropped from the vaccination certificate document when uploaded
+- [For International COVID-19 Vaccination Certificate] Full 1-page PDF file was not uploaded
+- QR code is not in an acceptable format and by specific issuers
+- Traveller’s particulars do not match with particulars in the vaccination certificate. - please contact your healthcare provider or certificate issuerget your certificate re-issued with your full name as it appears on your travel documentation.
 - Traveller does not have a proof vaccination issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
 - Not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
 - Number of QR codes uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or <a href="/vtl/faq#verify">wrong method of QR code upload</a>.
