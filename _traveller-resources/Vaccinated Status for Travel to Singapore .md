@@ -10,7 +10,7 @@ Travellers may be required to be fully vaccinated with WHO Emergency Use Listing
 	<ol style="list-style-type:lower-alpha;">
 		<li style="line-height:1.5;">Obtaining temporary vaccinated status after arrival</li>
 		<li style="line-height:1.5;">Maintaining vaccination status beyond the temporary status granted for those who have taken non-SinoVac/SinoPharm vaccines</li>
-		<li style="line-height:1.5;">Maintaining vaccination status beyond the temporary status granted for those who have taken SinoVac/SinoPharm</li>
+		<li style="line-height:1.5;">Maintaining vaccination status beyond the temporary status granted for those who have taken SinoVac/SinoPharm vaccines</li>
 		</ol>
 	</li>
 	</ol> 
@@ -108,7 +108,7 @@ If you do not meet any of the above requirements, you are <b>not</b> considered 
 
 ### 2.	Vaccinated Status for Activities Within Singapore
 
-As part of <a href="https://go.gov.sg/moh-smm" target="_blank">Singapore’s Vaccination-Differentiated Safe Management Measures (VDS)</a>, you must be vaccinated to participate in certain activities in Singapore, such as dining, entering shopping malls or attending performances.
+As part of <a href="https://go.gov.sg/moh-smm" target="_blank">Singapore’s Vaccination-Differentiated Safe Management Measures (VDS)</a>, travellers should also display proof of their vaccinated status on TraceTogether to participate in certain activities in Singapore, such as dining, entering shopping malls or attending performances.
 
 #### 2a. Obtaining temporary vaccinated status for 30 days after arrival
 
