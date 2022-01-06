@@ -8,9 +8,9 @@ Travellers may be required to be fully vaccinated with WHO Emergency Use Listing
 	<li style="line-height:1.5;">Accepted COVID-19 <a href="#acceptedvaccines">Vaccines for Entry to Singapore</a></li>
 	<li style="line-height:1.5;"><a href="#VDSMM">Vaccinated status for activities within Singapore</a>
 	<ol style="list-style-type:lower-alpha;">
-		<li style="line-height:1.5;">Obtaining temporary vaccinated status for 30 days after arrival</li>
-		<li style="line-height:1.5;">Maintaining vaccination status beyond 30 days after arrival for those who have taken non-SinoVac/SinoPharm vaccines</li>
-		<li style="line-height:1.5;">Maintaining vaccination status beyond 30 days after arrival for those who have taken SinoVac/SinoPharm</li>
+		<li style="line-height:1.5;">Obtaining temporary vaccinated status after arrival</li>
+		<li style="line-height:1.5;">Maintaining vaccination status beyond the temporary status granted for those who have taken non-SinoVac/SinoPharm vaccines</li>
+		<li style="line-height:1.5;">Maintaining vaccination status beyond the temporary status granted for those who have taken SinoVac/SinoPharm</li>
 		</ol>
 	</li>
 	</ol> 
