@@ -66,7 +66,7 @@ Otherwise, your family member will not be allowed to accompany you. During the i
 
 Malaysia Citizens can enter Singapore under VTL (Land).
 
-Malaysia Permanent Residents or holder of a Malaysia-issued long-term pass are not allowed to enter Singapore under VTL (land) unless they are a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term pass.
+Malaysia Permanent Residents or holders of a Malaysia-issued long-term pass are not allowed to enter Singapore under VTL (land) unless they are a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term pass.
 
 #### 5. Must I stay in Singapore for a minimum period after I enter Singapore under the VTL (Land)?
 
@@ -189,6 +189,12 @@ As an example, a traveller takes a pre-departure ART in Singapore on 1 December 
 
 The self-administered OAT taken in Malaysia will not fulfil the pre-departure test requirement for entry into Singapore, as (i) Singapore does not accept self-administered tests as pre-departure testing options for entry into Singapore, and (ii) the pre-departure test must be taken at a laboratory or centre accredited/recognised by the Malaysia Ministry of Health.
 
+#### 3. What if I am diagnosed or a suspect case of COVID-19?
+
+Travellers who were diagnosed or suspected to have a COVID-19 infection in the last <b>10</b> days and are fully vaccinated with a WHO-EUL vaccine (i.e. 14 days after second dose) <u>are not allowed to travel to Singapore under the VTL (Land)</u>. Unvaccinated or partially vaccinated children who are 12 and below in this calendar year and were diagnosed or suspected to have a COVID-19 infection in the last <b>14</b> days are not allowed to travel to Singapore under the VTL (Land).
+
+Travellers who are close contacts of persons who were diagnosed or suspected to have a COVID-19 infection must wait out 7 days from the <u>last exposure</u> to the person with the COVID-19 infection, before they can enter Singapore under the VTL (Land).
+
 
 ### (ii) Vaccination Requirement
 
@@ -236,7 +242,7 @@ If you are a holder of a Singapore Long-Term Pass with your vaccination records 
 
 Digitally verifiable vaccination certificates should contain QR code(s) that can be scanned to read and authenticate that the QR code was issued by a trusted issuer and that the QR code belongs to the individual presenting it.
 
-Non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that we can scan to read and authenticate the traveller’s vaccination status) will not be accepted.
+Non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that we can scan to read and authenticate the traveller’s vaccination status) will <b>not</b> be accepted.
 
 #### 2. What are the accepted forms of digitally verifiable vaccination certificates?
 
@@ -358,16 +364,24 @@ Switzerland</td>
 
 <p style="font-size:16px; margin-top:20px; margin-bottom:15px; line-height:1.5;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>, you will not be eligible for travel on the VTL.</p>
 
+<b>You do not need to upload QR codes for boosters.</b>
+
+
 #### 4. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
-Some possible reasons include:
-- Traveller does not have a proof vaccination issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
-- Not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
-- Number of QR codes uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or <a href="/vtl/faq#verify">wrong method of QR code upload</a>.
+You may encounter errors upon uploading your vaccination QR code(s) for reasons such as:
+
+- QR code is not cropped from the vaccination certificate document when uploaded
+- [For International COVID-19 Vaccination Certificate] Full 1-page PDF file was not uploaded
+- QR code is not in an acceptable format and by specific issuers
+- Traveller’s particulars do not match with particulars in the vaccination certificate. - Please contact your healthcare provider or certificate issuerget your certificate re-issued with your full name as it appears on your travel documentation.
 - Traveller is not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
-- Traveller’s particulars do not match with particulars in the vaccination certificate. Where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation.
 - <a href="/health/vtsg" target="_blank">Days interval between doses</a> is less than the requirement
+- Number of QR codes uploaded does not meet the <a href="#numberofcodes">criteria</a>
 - The QR code has been tampered with
+- Travelleris not vaccinated in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
+- QR codes for boosters need not be included.
+
 
 For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
@@ -376,7 +390,7 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 
 #### 5. Can I self-verify my vaccination certificate?
 
-Depending on the vaccination certificate you hold, you are encouraged to check if your QR code(s) or vaccination certificate(s) is/are valid before uploading them to the portal. You may wish to use the following non-exhaustive list of applications / websites for self-verification.
+Yes, you can. You may wish to use the following non-exhaustive list of applications / websites for self-verification.
 
 
 <table>
@@ -612,12 +626,12 @@ Children aged 2 and below in this calendar year are not required to undergo post
 
 #### 4. What if travellers intend to leave Singapore on the day of their scheduled ART?
 
-If the traveller’s day of departure from Singapore is on the day of the test, they are exempted from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
+If the traveller’s day of departure from Singapore is <b>on the day of the test</b>, they are <u>exempted</u> from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
 
 
 #### 5. Should travellers attend or perform their scheduled ARTs if they are unwell?
 
-Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH) clinic</a>. They should take private transport, taxi or private hire car to the SASH clinic, and return to their place of accommodation immediately after their test. Use of public transport is not allowed. They do not need to attend or perform their scheduled ART on that day, but should remain contactable via their declared mobile number and email address.
+Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH) clinic</a>. They should take private transport, taxi or private hire car to the SASH clinic, and return to their place of accommodation immediately after their test. Use of public transport is <u>not</u> allowed. They do not need to attend or perform their scheduled ART on that day, but should remain contactable via their declared mobile number and email address.
 
 
 #### 6. What should travellers do if they test positive for COVID-19 on any of their ARTs?
@@ -647,9 +661,9 @@ Further, the traveller’s VTP (Land), and/or Visit Pass or Long-Term Pass, may 
 
 #### 9. Where can travellers obtain ART self-test kits?
 
-Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmacy, retailer or e-commerce platform. ART kits will not be provided upon arrival. 
+Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmacy, retailer or e-commerce platform. ART kits will <u>not</u> be provided upon arrival. 
 
-If travellers are serving their self-isolation pending their on-arrival COVID-19 PCR test results, they may obtain ART kits via applications such as Grab and foodpanda which offer 24/7 delivery. Those residing in hotels can also seek their hotel concierge’s assistance to help them obtain ART kits. They should not leave their place of accommodation to purchase ART kits prior to receiving their negative PCR test results on Day 1. They may only leave their place of accommodation after self-administering their ART on Day 2.
+If travellers are serving their self-isolation pending their on-arrival COVID-19 PCR test results, they may obtain ART kits via applications such as Grab and foodpanda which offer 24/7 delivery. Those residing in hotels can also seek their hotel concierge’s assistance to help them obtain ART kits. They should <u>not</u> leave their place of accommodation to purchase ART kits prior to receiving their negative PCR test results on Day 1. They may only leave their place of accommodation <u>after</u> self-administering their ART on Day 2.
 
 #### 10. Are there specific ART kits that travellers may use for self-testing?
 
@@ -677,7 +691,7 @@ Children under the age of 2 are not required to perform ARTs. Generally, those b
 
 #### 14. What time do travellers need to perform their ART and submit their test results?
 
-Travellers are required to self-administer their ART before leaving their place of accommodation on Days 2, 4, 5 and 6 of their arrival in Singapore. They should submit their test results immediately after obtaining a valid test result.
+Travellers are required to self-administer their ART <b><u>before</u></b> leaving their place of accommodation on Days 2, 4, 5 and 6 of their arrival in Singapore. They should submit their test results immediately after obtaining a valid test result.
 
 Those who do not intend to leave their place of accommodation may perform their ART at any time on Days 2, 4, 5 and 6, and submit their results via the provided webform by 2359 hours on the scheduled day of the test. They must still perform their ARTs even if they are not going out.
 
