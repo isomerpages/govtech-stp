@@ -691,7 +691,7 @@ Children under the age of 2 are not required to perform ARTs. Generally, those b
 
 #### 14. What time do travellers need to perform their ART and submit their test results?
 
-Travellers are required to self-administer their ART before leaving their place of accommodation on Days 2, 4, 5 and 6 of their arrival in Singapore. They should submit their test results immediately after obtaining a valid test result.
+Travellers are required to self-administer their ART <b><u>before</u></b> leaving their place of accommodation on Days 2, 4, 5 and 6 of their arrival in Singapore. They should submit their test results immediately after obtaining a valid test result.
 
 Those who do not intend to leave their place of accommodation may perform their ART at any time on Days 2, 4, 5 and 6, and submit their results via the provided webform by 2359 hours on the scheduled day of the test. They must still perform their ARTs even if they are not going out.
 
