@@ -368,10 +368,10 @@ You may encounter errors upon uploading your vaccination QR code(s) for reasons 
 - QR code is not cropped from the vaccination certificate document when uploaded
 - [For International COVID-19 Vaccination Certificate] Full 1-page PDF file was not uploaded
 - QR code is not in an acceptable format and by specific issuers
-- Traveller’s particulars do not match with particulars in the vaccination certificate. -- Please contact your healthcare provider or certificate issuerget your certificate re-issued with your full name as it appears on your travel documentation.
+- Traveller’s particulars do not match with particulars in the vaccination certificate. - Please contact your healthcare provider or certificate issuerget your certificate re-issued with your full name as it appears on your travel documentation.
 - Traveller is not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
 - <a href="/health/vtsg" target="_blank">Days interval between doses</a> is less than the requirement
-- Number of QR codes uploaded does not meet the <a href="#numberofcodes">criteria 
+- Number of QR codes uploaded does not meet the <a href="#numberofcodes">criteria</a>
 - The QR code has been tampered with
 - Travelleris not vaccinated in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
 - QR codes for boosters need not be included.
