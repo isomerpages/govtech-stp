@@ -364,17 +364,18 @@ Switzerland</td>
 #### 4. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
 You may encounter errors upon uploading your vaccination QR code(s) for reasons such as:
+
 - QR code is not cropped from the vaccination certificate document when uploaded
 - [For International COVID-19 Vaccination Certificate] Full 1-page PDF file was not uploaded
 - QR code is not in an acceptable format and by specific issuers
-- Traveller’s particulars do not match with particulars in the vaccination certificate. - please contact your healthcare provider or certificate issuerget your certificate re-issued with your full name as it appears on your travel documentation.
-- Traveller does not have a proof vaccination issued in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
-- Not an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
-- Number of QR codes uploaded does not meet the <a href="#numberofcodes">criteria mentioned</a>, or <a href="/vtl/faq#verify">wrong method of QR code upload</a>.
+- Traveller’s particulars do not match with particulars in the vaccination certificate. -- Please contact your healthcare provider or certificate issuerget your certificate re-issued with your full name as it appears on your travel documentation.
 - Traveller is not <a href="/health/vtsg" target="_blank">fully vaccinated</a> yet
-- Traveller’s particulars do not match with particulars in the vaccination certificate. Where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation.
 - <a href="/health/vtsg" target="_blank">Days interval between doses</a> is less than the requirement
+- Number of QR codes uploaded does not meet the <a href="#numberofcodes">criteria 
 - The QR code has been tampered with
+- Travelleris not vaccinated in a <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
+- QR codes for boosters need not be included.
+
 
 For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
