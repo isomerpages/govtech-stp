@@ -181,11 +181,11 @@ Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part 
 					</ol></td>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><b>Interval between 1st and 2nd doses</b>
 			 <ol style="list-style-type:square;">
-					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinovac-Coronavac vaccines: 28 days</li>
-					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinopharm vaccine: 21 days</li>
+					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinovac-Coronavac vaccines: 17 days</li>
+					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinopharm vaccine: 17 days</li>
 				 <li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinova-Coronavac and Sinopharm mixed: 17 days</li>
 					</ol>
-					<p style="line-height:1.5; margin-top:13px; font-size:18px;"><b>Interval between 2nd and 3rd doses:</b> At least 90 days</p>
+					<p style="line-height:1.5; margin-top:13px; font-size:18px;"><b>Interval between 2nd and 3rd doses:</b> At least 86 days</p>
 			 </td>
 		</tr>
 			 	 <tr>
@@ -193,8 +193,8 @@ Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part 
 					<li>W – S – S</li>
 					</ol></td>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><b>Interval between 1st and 2nd doses: </b> No less than 17 days <p style="line-height:1.5; margin-top:13px; font-size:18px;"><b>Interval between 2nd and 3rd doses</b><ol style="list-style-type:square;">
-					<li style="line-height:1.5; margin-top:13px; font-size:18px;">If 2nd dose is Sinovac-Coronavac vaccine: 28 days</li>
-					<li style="line-height:1.5; margin-top:13px; font-size:18px;">If 2nd dose is Sinopharm vaccines: 21 days</li>
+					<li style="line-height:1.5; margin-top:13px; font-size:18px;">If 2nd dose is Sinovac-Coronavac vaccine: 17 days</li>
+					<li style="line-height:1.5; margin-top:13px; font-size:18px;">If 2nd dose is Sinopharm vaccines: 17 days</li>
 					</ol>
 					</p></td>
 		</tr>
