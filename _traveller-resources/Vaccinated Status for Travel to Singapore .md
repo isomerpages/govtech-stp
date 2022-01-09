@@ -82,6 +82,12 @@ Travellers are considered fully vaccinated if they meet the following conditions
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">24 days</td>
 		</tr>
 		<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Novavax</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">NVX-CoV2373/Covovax/Nuvaxovid</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">17 days</td>
+		</tr>
+		<tr>
 			<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>Any</b> WHO EUL vaccine (mixed):
 			<ol style="font-size: 16px; list-style-type: disc;">
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; line-height:1.5;">BNT162b2/COMIRNATY
@@ -100,6 +106,8 @@ Tozinameran (INN)</li>
 		</tr>
 	</tbody>
 	</table>
+	
+
 
 If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated with WHO EUL vaccines.
 
@@ -139,7 +147,10 @@ If your serology test is positive, the private healthcare provider will enter yo
 
 #### 2c. Maintaining vaccination status beyond the temporary status granted for those who have taken Sinovac/Sinopharm vaccines
 
-Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part of their vaccination, or had 1 Sinovac/Sinopharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of 3 vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 4 months from the date of their 2nd dose. The 3rd vaccination dose can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
+Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part of their vaccination, or had 1 Sinovac/Sinopharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of 3 vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 4 months from the date of their 2nd dose. The 3rd vaccination dose<b>*</b> can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
+
+<b>* Note: Travellers wiill be considered to be fully vaccinated immediately after their 3rd vaccination dose. (i.e. they do not have to wait for 14 days to be considered fully vaccinated after their 3rd dose.)</b>
+
 
 <table style="background-color:#f5f5f5">
 <tbody>
@@ -175,11 +186,11 @@ Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part 
 					</ol></td>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><b>Interval between 1st and 2nd doses</b>
 			 <ol style="list-style-type:square;">
-					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinovac-Coronavac vaccines: 28 days</li>
-					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinopharm vaccine: 21 days</li>
+					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinovac-Coronavac vaccines: 17 days</li>
+					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinopharm vaccine: 17 days</li>
 				 <li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinova-Coronavac and Sinopharm mixed: 17 days</li>
 					</ol>
-					<p style="line-height:1.5; margin-top:13px; font-size:18px;"><b>Interval between 2nd and 3rd doses:</b> At least 90 days</p>
+					<p style="line-height:1.5; margin-top:13px; font-size:18px;"><b>Interval between 2nd and 3rd doses:</b> At least 86 days</p>
 			 </td>
 		</tr>
 			 	 <tr>
@@ -187,8 +198,8 @@ Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part 
 					<li>W – S – S</li>
 					</ol></td>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><b>Interval between 1st and 2nd doses: </b> No less than 17 days <p style="line-height:1.5; margin-top:13px; font-size:18px;"><b>Interval between 2nd and 3rd doses</b><ol style="list-style-type:square;">
-					<li style="line-height:1.5; margin-top:13px; font-size:18px;">If 2nd dose is Sinovac-Coronavac vaccine: 28 days</li>
-					<li style="line-height:1.5; margin-top:13px; font-size:18px;">If 2nd dose is Sinopharm vaccines: 21 days</li>
+					<li style="line-height:1.5; margin-top:13px; font-size:18px;">If 2nd dose is Sinovac-Coronavac vaccine: 17 days</li>
+					<li style="line-height:1.5; margin-top:13px; font-size:18px;">If 2nd dose is Sinopharm vaccine: 17 days</li>
 					</ol>
 					</p></td>
 		</tr>
@@ -196,7 +207,7 @@ Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part 
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><ol style="list-style-type:disc;">
 					<li>S – W – S</li>
 					</ol></td>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><b>Interval between 1st and 2nd doses:</b>  No less than 17 days<p style="line-height:1.5; margin-top:13px; font-size:18px;"><b>Interval between 2nd and 3rd doses:</b> No less than 28 days</p></td>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; "><b>Interval between 1st and 2nd doses:</b>  No less than 17 days<p style="line-height:1.5; margin-top:13px; font-size:18px;"><b>Interval between 2nd and 3rd doses:</b> No less than 17 days</p></td>
 		</tr>
 		</tbody>
 		</table>
