@@ -106,6 +106,8 @@ Tozinameran (INN)</li>
 		</tr>
 	</tbody>
 	</table>
+	
+
 
 If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated with WHO EUL vaccines.
 
@@ -145,7 +147,10 @@ If your serology test is positive, the private healthcare provider will enter yo
 
 #### 2c. Maintaining vaccination status beyond the temporary status granted for those who have taken Sinovac/Sinopharm vaccines
 
-Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part of their vaccination, or had 1 Sinovac/Sinopharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of 3 vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 4 months from the date of their 2nd dose. The 3rd vaccination dose can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
+Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part of their vaccination, or had 1 Sinovac/Sinopharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of 3 vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 4 months <b>*</b> from the date of their 2nd dose. The 3rd vaccination dose can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
+
+<b>* Note: Travellers wiill be considered to be fully vaccinated immediately after their 3rd vaccination dose. (i.e. they do not have to wait for 14 days to be considered fully vaccinated after their 3rd dose.)</b>
+
 
 <table style="background-color:#f5f5f5">
 <tbody>
