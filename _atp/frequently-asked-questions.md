@@ -105,7 +105,7 @@ Visitors entering Singapore before 26 October 2021, 2359hrs (Singapore time) may
 When checking in at the departure airport, visitors must present the following to the airline staff:
 - a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore; and
 - a valid visa (for visa-required visitors); and
-- <b>[From 2 December 2021, 2359 hrs, SGT]</b> a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) test result certificate (electronic or physical copy) in English stating the following:
+- a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) test result certificate (electronic or physical copy) in English stating the following:
 <ol style="list-style-type:disc;">
 	<li>the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the ATP holder's passport used for entry into Singapore;</li>
 	<li>a negative COVID-19 test result;</li>
@@ -115,7 +115,7 @@ When checking in at the departure airport, visitors must present the following t
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
-Children who are aged 2 and below in that calendar year (i.e. in the year 2021, those who are born in or after 2019), are not required to undergo a pre-departure COVID-19 test. 
+Children who are aged 2 and below in that calendar year, are not required to undergo a pre-departure COVID-19 test. 
 
 
 #### 4. Do visitors need a return flight ticket to enter Singapore?
@@ -150,11 +150,11 @@ All applications for extension of visit pass must be submitted online using ICAâ
 ### Pre-Departure COVID-19 Test
 
 
-<i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 test.</i>
+<i>Note: Children aged 2 and below in the calendar year are not required to undergo a pre-departure COVID-19 test.</i>
 
 #### 1. Are visitors required to take any pre-departure COVID-19 tests?
 
-From <b>2 December 2021, 2359 hrs (Singapore time)</b>, all visitors entering Singapore, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
+All visitors entering Singapore, except those aged 2 and below in the calendar year, must undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
 
 The pre-departure COVID-19 test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>. The test result must be in English and state the following:
 

@@ -824,12 +824,12 @@ Travellers withe EU DCCs issued in any European Union Member States or non-EU co
  
 ### (c) Pre-Departure COVID-19 Test
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 test.</i></p>
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year are not required to undergo a pre-departure COVID-19 test.</i></p>
 
 
 #### 1. Are travellers under the VTL (Air) required to take any pre-departure COVID-19 tests?
 
-All travellers, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
+All travellers, except those aged 2 and below in the calendar year, must undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
 
 If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours
 
@@ -1083,7 +1083,7 @@ At this point in time, travellers will only be able to transfer through Singapor
  
 ### (e) On-Arrival COVID-19 PCR Test at the Airport and Self-Isolation
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19 PCR test.</i></p>
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year are not required to undergo an on-arrival COVID-19 PCR test.</i></p>
 
 #### 1. Where is the on-arrival COVID-19 PCR test conducted?
 
@@ -1165,7 +1165,7 @@ Please also note that if a traveller’s test result is confirmed to be positive
 
 ### (f) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)
 
-<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo post-arrival ARTs.</span></i></p>
+<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Children aged 2 and below in the calendar year are not required to undergo post-arrival ARTs.</span></i></p>
 
 <p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Recovered travellers are not exempted from any of the post-arrival COVID-19 ARTs.</span></i></p>
 
@@ -1466,7 +1466,7 @@ Yes. All visitors to Singapore must download the TraceTogether app prior to thei
 
 Travellers may also obtain a TraceTogether token after arriving in Singapore. More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
 
-Children aged 6 and below in the calendar year (i.e. in the year 2021, those born in or after 2015) are exempted from the TraceTogether requirement.
+Children aged 6 and below in the calendar year are exempted from the TraceTogether requirement.
 
 
 #### 2. After downloading the TraceTogether app, how do I activate it?
@@ -1575,7 +1575,7 @@ More details can be found <a href="/health/tt-for-travellers" target="_blank">he
  
 ### Application for the Vaccinated Travel Pass (Air) [VTP (Air)]
 
-<p style="font-size:16px; color:red;line-height:1.5;"><i>Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are not required to apply for a VTP (Air). However they must comply with all other VTL <a href="/vtl/conditions">conditions</a>.</i></p>
+<p style="font-size:16px; color:red;line-height:1.5;"><i>Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in the calendar year are not required to apply for a VTP (Air). However they must comply with all other VTL <a href="/vtl/conditions">conditions</a>.</i></p>
 
 #### 1. How long will it take for a VTP (Air) application to be processed?
 
