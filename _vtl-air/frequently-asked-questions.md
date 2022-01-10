@@ -63,7 +63,7 @@ permalink: /vtl/faq
 
 #### 1. Are unvaccinated children allowed to travel under the VTL (Air)?
 
-Unvaccinated children aged 12 and below in the calendar year may enter Singapore on the VTL (Air) (e.g. a child turning 12 in the current calendar year is allowed). Such travellers, **including Long-Term Pass holders and short-term visitors**, do not need to apply for a Vaccinated Travel Pass (Air) [VTP (Air)]. However, they must comply with all other VTL (Air) <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL (Air) traveller. 
+Unvaccinated children aged 12 and below in this calendar year may enter Singapore on the VTL (Air) (e.g. a child turning 12 in the current calendar year is allowed). Such travellers, **including Long-Term Pass holders and short-term visitors**, do not need to apply for a Vaccinated Travel Pass (Air) [VTP (Air)]. However, they must comply with all other VTL (Air) <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL (Air) traveller. 
 
 #### 2. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL (Air)?
 
@@ -824,12 +824,12 @@ Travellers withe EU DCCs issued in any European Union Member States or non-EU co
  
 ### (c) Pre-Departure COVID-19 Test
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year are not required to undergo a pre-departure COVID-19 test.</i></p>
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year are not required to undergo a pre-departure COVID-19 test.</i></p>
 
 
 #### 1. Are travellers under the VTL (Air) required to take any pre-departure COVID-19 tests?
 
-All travellers, except those aged 2 and below in the calendar year, must undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
+All travellers, except those aged 2 and below in this calendar year, must undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
 
 If the pre-departure test is taken on 1 November 2021, it will be valid for departures up to 3 November 2021, 2359 hours
 
@@ -968,9 +968,9 @@ Singapore Citizens and Permanent Residents may return home to Singapore regardle
 To be eligible to take a designated VTL flight, they are required to:
 
 <ul>
-	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> be <a href="/health/vtsg">fully vaccinated</a>, and have a vaccination certificate issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from.
+	<li><i>[not applicable for children aged 12 and below in this calendar year]</i> be <a href="/health/vtsg">fully vaccinated</a>, and have a vaccination certificate issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from.
 		</li>
-	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> have a valid proof of vaccination status, which can be in the form of:
+	<li><i>[not applicable for children aged 12 and below in this calendar year]</i> have a valid proof of vaccination status, which can be in the form of:
 		<ul style="list-style-type:disc;">
 	<li>proof of vaccination on the TraceTogether, HealthHub, BruHealth, PeduliLindungi, Tawakkalna or Al Hosn app, or</li>
 	<li>an accepted proof of vaccination in English, stating the following:
@@ -985,7 +985,7 @@ To be eligible to take a designated VTL flight, they are required to:
 		</li>
 		<li>have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, and/or Singapore, in the last 14 consecutive days before departing for Singapore.
 	</li>
-		<li style="margin-top:15px;"><i>[not applicable for children aged 2 and below in the calendar year]</i> undergo a COVID-19 polymerase chain reaction (PCR) test within 2 days before departure for Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
+		<li style="margin-top:15px;"><i>[not applicable for children aged 2 and below in this calendar year]</i> undergo a COVID-19 polymerase chain reaction (PCR) test within 2 days before departure for Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
 <ul>
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
 <li>a negative COVID-19 PCR test result;</li>
@@ -1016,8 +1016,8 @@ Short-term visitors who are VTP (Air) holders may only arrive in Singapore on de
 
 When checking in at the departure airport, travellers must present the following to the airline staff:
 <ul> 
-	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid VTP (Air) (electronic or physical copy) for the specified period of entry into Singapore;</li>
-<li><i>[not applicable for children aged 12 and below in the calendar year]</i> an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>, which can be in the form of:
+	<li><i>[not applicable for children aged 12 and below in this calendar year]</i> a valid VTP (Air) (electronic or physical copy) for the specified period of entry into Singapore;</li>
+<li><i>[not applicable for children aged 12 and below in this calendar year]</i> an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>, which can be in the form of:
 <ul style="list-style-type:disc; margin-top:0px;">
 	<li>a proof of vaccination on an accepted mobile application, or</li>
 	<li>a vaccination certificate, stating the following:
@@ -1029,7 +1029,7 @@ When checking in at the departure airport, travellers must present the following
 			</li>
 		</ul>
 	</li>
-<li><i>[not applicable for children aged 2 and below in the calendar year]</i> a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) test result certificate (electronic or physical copy) in English stating the following:
+<li><i>[not applicable for children aged 2 and below in this calendar year]</i> a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) test result certificate (electronic or physical copy) in English stating the following:
 <ol style="list-style-type: circle">
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP (Air) holder’s passport used for entry into Singapore;</li>
 <li>a negative COVID-19 test result;</li>
@@ -1083,7 +1083,7 @@ At this point in time, travellers will only be able to transfer through Singapor
  
 ### (e) On-Arrival COVID-19 PCR Test at the Airport and Self-Isolation
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year are not required to undergo an on-arrival COVID-19 PCR test.</i></p>
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year are not required to undergo an on-arrival COVID-19 PCR test.</i></p>
 
 #### 1. Where is the on-arrival COVID-19 PCR test conducted?
 
@@ -1165,7 +1165,7 @@ Please also note that if a traveller’s test result is confirmed to be positive
 
 ### (f) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)
 
-<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Children aged 2 and below in the calendar year are not required to undergo post-arrival ARTs.</span></i></p>
+<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Children aged 2 and below in this calendar year are not required to undergo post-arrival ARTs.</span></i></p>
 
 <p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Recovered travellers are not exempted from any of the post-arrival COVID-19 ARTs.</span></i></p>
 
@@ -1466,7 +1466,7 @@ Yes. All visitors to Singapore must download the TraceTogether app prior to thei
 
 Travellers may also obtain a TraceTogether token after arriving in Singapore. More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
 
-Children aged 6 and below in the calendar year are exempted from the TraceTogether requirement.
+Children aged 6 and below in this calendar year are exempted from the TraceTogether requirement.
 
 
 #### 2. After downloading the TraceTogether app, how do I activate it?
@@ -1575,7 +1575,7 @@ More details can be found <a href="/health/tt-for-travellers" target="_blank">he
  
 ### Application for the Vaccinated Travel Pass (Air) [VTP (Air)]
 
-<p style="font-size:16px; color:red;line-height:1.5;"><i>Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in the calendar year are not required to apply for a VTP (Air). However they must comply with all other VTL <a href="/vtl/conditions">conditions</a>.</i></p>
+<p style="font-size:16px; color:red;line-height:1.5;"><i>Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in this calendar year are not required to apply for a VTP (Air). However they must comply with all other VTL <a href="/vtl/conditions">conditions</a>.</i></p>
 
 #### 1. How long will it take for a VTP (Air) application to be processed?
 
