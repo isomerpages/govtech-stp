@@ -27,6 +27,8 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
   <thead>
     <tr>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">&nbsp;</th>
+			      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Junior (<80 sqm)
+</th>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Standard (80-100sqm)
 </th>
        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Large (100-200sqm)
@@ -37,12 +39,13 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
   <tbody>
     <tr>
       <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost (for 1<sup>st</sup> person, for 10-day SDF stay)^</td>
+			      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$3,600</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$5,350</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$9,300</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$14,300</td>
     </tr>
         <tr>
-      <td colspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Cost for additional persons sharing the suite (for food):<br> Additional S$450 for every sharing person aged 4 and above.<br> Children aged 3 years and under who require the SDF to provide food will be charged S$450.
+      <td colspan="4" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Cost for additional persons sharing the suite (for food):<br> Additional S$450 for every sharing person aged 4 and above.<br> Children aged 3 years and under who require the SDF to provide food will be charged S$450.
 </td>
     </tr>
 <tr>
