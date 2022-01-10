@@ -61,7 +61,7 @@ This checklist covers the pre-departure to post-arrival process for travellers w
   </tbody>
   </table>
 
-<p style="line-height:1.35;">Travellers are to take a COVID-19 Polymerase Chain Reaction (PCR) test at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the negative test result that meets all the following conditions:</p>
+<p style="line-height:1.35;">Travellers are to take a <b>COVID-19 Polymerase Chain Reaction (PCR) test</b> at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the negative test result that meets all the following conditions:</p>
 
 <!--<p style="line-height:1.35;">Travellers must obtain a copy of the negative test result that meets all the following conditions:</p>-->
 
