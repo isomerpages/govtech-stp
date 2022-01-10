@@ -71,7 +71,7 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Reflects the date and result of the test.</li>
 </ol>
 
-<p style="line-height:1.35;"><b>Handwritten reports will be rejected</b>. Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.</p>
+<p style="line-height:1.35;"><b>Handwritten reports will be rejected. Antigen Rapid Tests are not allowed.</b> Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.</p>
 </div>
 
 
