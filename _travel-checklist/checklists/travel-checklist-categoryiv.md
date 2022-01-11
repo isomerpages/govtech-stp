@@ -91,14 +91,14 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 </div>
 
 
-<div id="stage1e"></div>
+<!--<div id="stage1e"></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [only for arrivals before 7 Jan 2022, 2359h]</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers who are fit for travel should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.</p></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers who are fit for travel should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.</p></div>-->
 
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>F) Installation of TraceTogether app</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>E) Installation of TraceTogether app</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p>
 </div>
@@ -106,7 +106,7 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 
 <div id="1G"></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>G) Request for alternative Stay-Home Notice (SHN) arrangements</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>F) Request for alternative Stay-Home Notice (SHN) arrangements</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers will, <b>by default</b>, serve their 10-day Stay-Home Notice (SHN) at an assigned hotel, i.e. an SHN-Dedicated Facility (SDF). Payment for a 10-day SHN stay at an SDF, inclusive of food-related costs, is collected during entry approval (see Stage 1A; indicative costs below). Due to fast-changing SDF demands, travellers will not be informed of their assigned hotel before arrival, and no bookings are required. Standard SDF costs are indicated below, and would have been collected at the point of entry approval. Singapore citizens and PRs will be contacted separately regarding their SDF charges after their arrival.</p>
 
@@ -169,14 +169,14 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 <p style="line-height:1.35;">Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) On-arrival COVID-19 Tests [only for arrivals before 7 Jan 2022, 2359h]</b></i></div>
+<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) On-arrival COVID-19 Tests [only for arrivals before 7 Jan 2022, 2359h]</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Follow the instructions of officers on the ground and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
 
 <p style="line-height:1.35;">Travellers who did not <a href="#stage1e" >pay for the test before arrival</a> (see Stage 1E), will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.</p>
-</div>
+</div>-->
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) Issuance of Stay Home Notice (SHN) </b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">A 10-day Stay-Home Notice (SHN), which takes effect immediately on the day of issuance, will be sent to the email address provided by the traveller in their SGAC declaration (see Stage 1D).</p>
 </div>
@@ -184,7 +184,7 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 
 <div id="stage3d"></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>D) Transport to SHN Accommodation</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>C) Transport to SHN Accommodation</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers serving their SHN at an <b>SHN Dedicated Facility (SDF)</b> will commute using the government-provided transport.</p> 
 
