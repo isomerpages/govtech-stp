@@ -174,15 +174,15 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 </div>
 
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) On arrival COVID-19 Tests [only for arrivals before 7 Jan 2022, 2359h]</b></i></div>
+<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) On arrival COVID-19 Tests [only for arrivals before 7 Jan 2022, 2359h]</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Follow the instructions of officers on the ground and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
 
 <p style="line-height:1.35;">Travellers who did not <a href="#stage1e" >pay for the test before arrival</a> (see Stage 1E), will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.</p>
-</div>
+</div>-->
 
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) Issuance of Stay Home Notice (SHN) </b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">A 7-day Stay-Home Notice (SHN), which takes effect immediately on the day of issuance, will be sent to the email address provided by the traveller in their SGAC declaration (see Stage 1D).</p>
 </div>
@@ -190,7 +190,7 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 	
 <div id="stage3d"></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744; <i><b>D) Transport to Declared SHN Accommodation</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744; <i><b>C) Transport to Declared SHN Accommodation</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers must commute directly to their declared Stay-Home Notice (SHN) accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
 
