@@ -159,7 +159,7 @@ In view of the recent rise in Omicron cases globally, travellers should exercise
 
 Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministy of Health's FAQs on these measures.
 
-#### 8. I was diagnosed with COVID-19 and have since recovered. I have been administered only one vaccine dose of a typically two-dose regimen. Am I eligible to travel under the VTL (Air)?
+#### 8. I was diagnosed with COVID-19 and have since recovered. I have been administered <u>only one vaccine dose</u> of a typically two-dose regimen. Am I eligible to travel under the VTL (Air)?
 
 Yes, if the date of your vaccine dose is at least 14 days before the date of your intended arrival into Singapore and at least 14 days after the date of your first positive COVID-19 test. You must present a recovery certificate or discharge memo, which shows the date of your first positive COVID-19 test, to prove your recovery from COVID-19, in addition to your vaccination certificate showing 1 dose of vaccine. 
 
