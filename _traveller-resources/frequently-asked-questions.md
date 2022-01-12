@@ -72,6 +72,13 @@ For travellers who are not yet in Singapore or for request that the SDF is unabl
 
 Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) for more details, or contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
+---
+	
+Click here to [Go Back To Top](#top).
+
+---
+
+
 <div id="transport"></div>
 
 ## Transport Advisories
