@@ -125,7 +125,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
  
 #### 4. How do I prove my vaccination status when applying for a VTP (Air) if: 
 
-<ol style="list-style-type: lower-latin;"><li style="line-height:1.35; font-size:24px; color:blue;">I am a Long-Term Pass Holder or Short-Term Visitor with Singapore-issued vaccination records; or</li><li style="line-height:1.35; font-size:24px; color: #153855;">I was fully vaccinated in a non-VTL (Air) country/region and had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR)?</li></ol>
+<ol style="list-style-type: lower-latin;"><li style="line-height:1.35; font-size:24px; color:darkslategray;">I am a Long-Term Pass Holder or Short-Term Visitor with Singapore-issued vaccination records; or</li><li style="line-height:1.35; font-size:24px; color: #153855;">I was fully vaccinated in a non-VTL (Air) country/region and had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR)?</li></ol>
  
 Please check if your Singapore vaccination records are valid through <a href="http://go.gov.sg/health-cert-query" target="_blank">this link</a> and, if necessary, re-tag your records to your most updated identification (e.g. passport/FIN/IC) number.  The retagging process is not immediate. Please attempt to resubmit a VTP (Air) application <b>only after</b> receiving confirmation from the Ministry of Health / Health Promotion Board that your records have been successfully retagged.
 
