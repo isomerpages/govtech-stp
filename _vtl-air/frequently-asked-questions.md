@@ -1160,7 +1160,10 @@ Please email <airborder@rafflesmedical.com> for enquiries related to on-arrival 
 
 Travellers who have tested positive should expect to receive an Isolation Order (IO). Please visit <a href="https://www.covid.gov.sg/unwell/hrp" target="_blank">this page</a> for information on the recovery procedure.
 
-Please also note that if a traveller’s test result is confirmed to be positive, all persons who had shared the same room with the traveller, as well as those identified to be a close contact, should follow <a href="https://www.covid.gov.sg/" target="_blank">MOH’s Protocol 3</a> and may be served with a Health Risk Warning (HRW).
+Please also note that if a traveller’s test result is confirmed to be positive, all persons who had shared the same room with the traveller, as well as those identified to be a close contact, may be served with a Health Risk Warning (HRW).
+ 
+VTL (Air) travellers issued a HRW after being identified as a close contact of a COVID-19 case are still required to comply with the daily post-arrival testing requirements, in addition to the requirements of the HRW.  Their self-administered and self-declared ARTs results may also be used to fulfil any HRW testing requirements, and they are required to upload their ARTs results on both the website for the submission of unsupervised self-administered ART results (specified in the Legal Notice issued upon arrival), as well as the website specified in the HRW.
+
  
 ---
 
