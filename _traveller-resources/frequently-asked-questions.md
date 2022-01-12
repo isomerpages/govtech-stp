@@ -288,8 +288,11 @@ The physical vaccination card that is given to all vaccinated individuals is not
 The physical vaccination card that is given to all vaccinated individuals is not meant to be used for travel purposes/ proof of vaccination. For purposes of travel, you can request for a digital vaccination certificate from <a href="https://www.notarise.gov.sg">Notαrise</a>. This will be sent to your email and/or Singpass app, and can also be printed out. Please be aware that the use of this digital vaccination certificate is subject to the prevailing entry requirements of your destination country. 
 
 Travellers should check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to">MFA website</a> for the latest travel advisories to other countries/ regions, as well as the immigration authority or embassy of the destination country/ region on the relevant health requirements imposed on travellers from Singapore. Travellers should also take note of the latest travel advisory for Singaporeans and residents of Singapore published by <a href="https://www.moh.gov.sg/covid-19">MOH</a> .-->
+---
 
 Click here to [Go Back To Top](#top).
+
+---
 
 
 <div id="payments"></div>
@@ -434,9 +437,12 @@ Travellers who have paid for their on-arrival COVID-19 PCR test separately at th
   </tr>
  </tbody>
  </table>
+ 
+ ---
 
 Click here to [Go Back To Top](#top).
 
+---
 
 <!--<div id="vaccinated"></div>
 
@@ -562,5 +568,8 @@ Travellers would be required to arrange for a tele-consultation upon arrival at 
 
 Yes, travellers who require to use a nebuliser would be allowed to enter Singapore. However, travellers are required to declare the usage before arrival into Singapore.
 
+---
 
 Click here to [Go Back To Top](#top).
+
+---
