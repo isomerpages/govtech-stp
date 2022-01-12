@@ -33,7 +33,8 @@ permalink: /travel-checklist/dcev
 	<li style="margin-bottom:10px; line-height:1.35;">Are below the age of three in this calendar year; or</li>
 	<li style="margin-bottom:10px; line-height:1.35;">Are Singapore Citizens entering Singapore via the Causeway or Second Link.</li>
 	</ol>
-	
+<div style="padding: 5px; margin-top:20px; border-style: solid; border-width: 1px;"><p style="font-size:20px; line-height:1.35;"><i><u>Illustration of acceptable 2-day timeline</u>: A traveller departing for Singapore on 3 December 2021 should take a pre-departure COVID-19 test no earlier than 1 December 2021.</i></p></div>
+<br>
 <table>
 <tbody>
 	<tr>
