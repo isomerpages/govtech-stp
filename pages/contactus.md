@@ -63,7 +63,7 @@ You can find the following forms of commonly requested support on this page:
 </td>
  </tr>
 		   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Specified work pass holders not allowed to use Vaccinated Travel Lane</b> </td>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>End of Stay-Home Notice (SHN) and exit from SHN accommodation</b> </td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">From<b> 4 Dec 2021, 2359h</b>, the following groups of travellers are disallowed from applying for entry via the Vaccinated Travel Lane (Air)/(Land). Employers may secure the entry of these workers using the alternative lanes stated below:</p>
 <ol style="list-style-type:disc;">
 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Non-Malaysian S Pass and Work Permit holders in the Construction, Marine Shipyard and Process (CMP) sector to use <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
