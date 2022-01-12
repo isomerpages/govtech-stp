@@ -18,7 +18,7 @@ description: Requirements for transiting through Singapore
 
 <p style="font-size:20px; line-height:1.35;">All transit travellers must take a COVID-19 test <b>within 2 days before departure for Singapore.</b></p>
 
-<p style="font-size:20px; line-height:1.35;"><i><u>Illustration of acceptable 2-day timeline</u>: A traveller departing for Singapore on 3 December 2021 should take a pre-departure COVID-19 test no earlier than 1 December 2021.</i></p>
+<div style="padding: 5px; margin-top:20px; border-style: solid; border-width: 1px;"><p style="font-size:20px; line-height:1.35;"><i><u>Illustration of acceptable 2-day timeline</u>: A traveller departing for Singapore on 3 December 2021 should take a pre-departure COVID-19 test no earlier than 1 December 2021.</i></p></div>
 
 <p style="font-size:20px; line-height:1.35;">Travellers without a valid negative COVID-19 test will not be allowed to board their connecting flight or ferry out of Singapore. See the table below for the permitted COVID-19 tests to be taken, depending on the traveller's 14-day travel history before their scheduled transit in Singapore.</p>
 
