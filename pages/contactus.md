@@ -37,11 +37,21 @@ You can find the following forms of commonly requested support on this page:
   </tr>
 </thead>
 <tbody>
+			   <tr>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>End of Stay-Home Notice (SHN) and exit from SHN accommodation</b> </td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">A Stay-Home Notice (SHN) takes effect immediately on the day of its issuance and travellers must remain in their SHN accommodation for the period specified in the notice. An SHN ends <b>after</b> the traveller receives a negative exit COVID-19 Polymerase Chain Reaction Test ("exit PCR test"), or completes the specified SHN period, <b>whichever is later</b>. See illustration below and use the SHN end date calculator <a href="/shn-calculator" target="_blank">here</a>.</p>
+<div style="padding-left: 5px; padding-bottom: 20px; margin-top:20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;"><p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Travellers Y and Z were issued a 7-day SHN on 1 January 2022. Their SHN period will stretch from 1 to 8 January 2022. Both travellers have gone for their exit PCR test.</p>
+<ol style="padding-left:20px; list-style-type:disc; margin-top:10px; margin-bottom:0px;">
+	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Traveller Y had received his negative exit PCR test result on 7 January 2022, but can only leave his SHN accommodation on 8 January 2022. </li>
+		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Traveller Z had only received her negative exit PCR test result on 9 January 2022 (day after 7-day SHN was supposed to end). Traveller Z can only leave SHN accommodation on 9 January 2022.</li>
+	</ol>
+		 </div>
+</td>
+ </tr>
    <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Suspension of new Vaccinated Travel Lane (VTL) designated bus and flight ticket sales</b></td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">New ticket sales are suspended for designated VTL flights and buses arriving in Singapore from 23 Dec 2021 - 20 Jan 2022 (inclusive). Travellers may still book tickets for designated VTL flights/buses arriving in Singapore from 21 Jan 2022 onwards.</p>
-
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:20px;">All travellers who already hold a ticket for a VTL flight or bus can continue to travel under the VTL, and can continue to <a href="https://eservices.ica.gov.sg/STO1/VTL" target="_blank">apply for a Vaccinated Travel Pass if they do not already have one</a>. <b>There is no need to rush to apply as there is no limit on VTPs issued.</b></p>   
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:20px;">All travellers who already hold a ticket for a VTL flight or bus can continue to travel under the VTL, and can continue to <a href="https://eservices.ica.gov.sg/STO1/VTL" target="_blank">apply for a Vaccinated Travel Pass if they do not already have one</a>.</p>   
 
 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:20px;">Travellers who are unable to secure designated VTL flights or buses to arrive in Singapore, should check the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page for alternative Safe Travel Lanes to use to enter Singapore. Prevailing border health measures such as Stay Home Notice will apply.</p>
 </td>
@@ -57,19 +67,9 @@ You can find the following forms of commonly requested support on this page:
   </tr>	
 	<tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>No entry dates available in Application Portal</b></td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">There is no limit on the number of Vaccinated Travel Passes issued daily, and each pass is valid for a specific period from the chosen entry date. Interested applicants can refer to <a href="https://eservices.ica.gov.sg/STO1/VTL" target="_blank">this notice</a> for the current application window.</p>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">There is no limit on the number of Vaccinated Travel Passes issued daily, and each pass is valid for a specific period from the chosen entry date.</p>
 
 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">If you are unable to select an entry date for all other Safe Travel Lanes, you may consider applying for entry on another day or defer your travels.</p>
-</td>
- </tr>
-		   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Specified work pass holders not allowed to use Vaccinated Travel Lane</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">From<b> 4 Dec 2021, 2359h</b>, the following groups of travellers are disallowed from applying for entry via the Vaccinated Travel Lane (Air)/(Land). Employers may secure the entry of these workers using the alternative lanes stated below:</p>
-<ol style="list-style-type:disc;">
-<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Non-Malaysian S Pass and Work Permit holders in the Construction, Marine Shipyard and Process (CMP) sector to use <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
-	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Workers staying in dormitories to apply for entry under the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a></li>
-</ol>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">All Vaccinated Travel Passes issued before 4 Dec 2359h, even for travel after 4 Dec 2359h, will be honored, and no further clarification is needed with the Safe Travel Office or MOM.</p>
 </td>
  </tr>
   </tbody>

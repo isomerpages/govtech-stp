@@ -9,7 +9,7 @@ permalink: /health/FAQ
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN) and Dedicated SHN Facility</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#transport">Transport Advisories</a></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers (including COVID-19 Recovered Travellers)</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#outboundPDT">Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
 	<!--<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#vaccinated">Vaccinated Travellers intending to travel to Singapore</a>
@@ -71,6 +71,13 @@ For travellers who are not yet in Singapore or for request that the SDF is unabl
 #### 4. I previously received approval to serve my SHN at my own place of residence instead of at an SHN Dedicated Facility. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should i do? 
 
 Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) for more details, or contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
+
+---
+	
+Click here to [Go Back To Top](#top).
+
+---
+
 
 <div id="transport"></div>
 
@@ -146,12 +153,16 @@ Travellers must rely on the same transport options when commuting from their SHN
   
 The use of public transport (e.g. trains, buses and street-hailed taxis) is prohibited. -->
 
+---
 	
 Click here to [Go Back To Top](#top).
 
+---
+
+
 <div id="pcrtest"></div>
 
-## COVID-19 Tests
+## COVID-19 Tests for Travellers (including COVID-19 Recovered Travellers)
 
 #### 1. I have an upcoming flight to Singapore. Do I need to be tested for COVID-19 before travelling and how long before my departure should I be tested?
 
@@ -221,11 +232,20 @@ Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.
 
 In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
+#### 8. I did not receive my on-arrival COVID-19 PCR test results after 24 hours. What should I do?
+
+Please email <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
+
+---
+
 <!--#### 12. I am unwell. Can I postpone my COVID-19 Polymerase Chain Reaction test (“PCR test”) appointment?
 
 Travellers who are due to take their PCR test but are feeling unwell should remain in their [Stay-Home Notice (SHN)](/health/shn) accommodation, e.g. own residence or [SHN-Dedicated Facility (SDF)](/health/shn#sdf), and alert the relevant agencies listed in this [page](https://go.gov.sg/tc).-->
 
 Click here to [Go Back To Top](#top).
+
+---
+
 
 <div id="outboundPDT"></div>
 
@@ -279,8 +299,11 @@ The physical vaccination card that is given to all vaccinated individuals is not
 The physical vaccination card that is given to all vaccinated individuals is not meant to be used for travel purposes/ proof of vaccination. For purposes of travel, you can request for a digital vaccination certificate from <a href="https://www.notarise.gov.sg">Notαrise</a>. This will be sent to your email and/or Singpass app, and can also be printed out. Please be aware that the use of this digital vaccination certificate is subject to the prevailing entry requirements of your destination country. 
 
 Travellers should check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to">MFA website</a> for the latest travel advisories to other countries/ regions, as well as the immigration authority or embassy of the destination country/ region on the relevant health requirements imposed on travellers from Singapore. Travellers should also take note of the latest travel advisory for Singaporeans and residents of Singapore published by <a href="https://www.moh.gov.sg/covid-19">MOH</a> .-->
+---
 
 Click here to [Go Back To Top](#top).
+
+---
 
 
 <div id="payments"></div>
@@ -425,9 +448,12 @@ Travellers who have paid for their on-arrival COVID-19 PCR test separately at th
   </tr>
  </tbody>
  </table>
+ 
+ ---
 
 Click here to [Go Back To Top](#top).
 
+---
 
 <!--<div id="vaccinated"></div>
 
@@ -553,5 +579,8 @@ Travellers would be required to arrange for a tele-consultation upon arrival at 
 
 Yes, travellers who require to use a nebuliser would be allowed to enter Singapore. However, travellers are required to declare the usage before arrival into Singapore.
 
+---
 
 Click here to [Go Back To Top](#top).
+
+---
