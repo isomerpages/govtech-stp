@@ -124,7 +124,7 @@ Travellers should <b>defer their travels</b> if they:
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Valid Pre-Departure Test showing a negative COVID-19 result (see Stage 1C)</li>
 </ol>
 
-Travellers who fail to produce these documents may be denied boarding.
+<p style="margin-top: 20px; line-height:1.35;">Travellers who fail to produce these documents may be denied boarding.</p>
 </div>
 
 
