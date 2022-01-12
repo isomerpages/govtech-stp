@@ -67,7 +67,7 @@ You can find the following forms of commonly requested support on this page:
   </tr>	
 	<tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>No entry dates available in Application Portal</b></td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">There is no limit on the number of Vaccinated Travel Passes issued daily, and each pass is valid for a specific period from the chosen entry date. Interested applicants can refer to <a href="https://eservices.ica.gov.sg/STO1/VTL" target="_blank">this notice</a> for the current application window.</p>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">There is no limit on the number of Vaccinated Travel Passes issued daily, and each pass is valid for a specific period from the chosen entry date.</p>
 
 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">If you are unable to select an entry date for all other Safe Travel Lanes, you may consider applying for entry on another day or defer your travels.</p>
 </td>
