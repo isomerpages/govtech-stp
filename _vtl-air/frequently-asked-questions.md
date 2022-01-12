@@ -135,7 +135,7 @@ You may also choose to upload the QR code on your Singapore Vaccination HealthCe
 <div id="Q6"></div>
 
 
-#### 5. I was fully vaccinated in a non-VTL (Air) country/region and have an [accepted proof of vaccination] (/vtl/faq#QRcode). Do I satisfy the vaccination requirement?
+#### 5. I was fully vaccinated in a non-VTL (Air) country/region and have an <a href="/vtl/faq#QRcode">accepted proof of vaccination</a>. Do I satisfy the vaccination requirement?
 
 Yes. Please refer to the instructions <a href="/vtl/faq#vaxcert" target="_blank">here</a> for the accepted proofs of vaccination.
 
