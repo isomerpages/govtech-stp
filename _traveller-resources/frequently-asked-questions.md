@@ -146,8 +146,12 @@ Travellers must rely on the same transport options when commuting from their SHN
   
 The use of public transport (e.g. trains, buses and street-hailed taxis) is prohibited. -->
 
+---
 	
 Click here to [Go Back To Top](#top).
+
+---
+
 
 <div id="pcrtest"></div>
 
