@@ -9,7 +9,7 @@ permalink: /health/FAQ
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN) and Dedicated SHN Facility</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#transport">Transport Advisories</a></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers (including COVID-19 Recovered Travellers)</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#outboundPDT">Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
 	<!--<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#vaccinated">Vaccinated Travellers intending to travel to Singapore</a>
@@ -151,7 +151,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="pcrtest"></div>
 
-## COVID-19 Tests
+## COVID-19 Tests for Travellers (including COVID-19 Recovered Travellers)
 
 #### 1. I have an upcoming flight to Singapore. Do I need to be tested for COVID-19 before travelling and how long before my departure should I be tested?
 
