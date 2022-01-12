@@ -248,7 +248,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 <b><u>Sea Crew & Pleasure Craft Owners</u></b>
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Sea Crew and Pleasure Craft Owners should visit the MPA website for information on the <a href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change" target="_blank"> application of crew changes under various circumstances</a>, and refer to <a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/mpa-news-releases" target="_blank">MPA’s latest circulars and notices</a>.</p>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Sea Crew and Pleasure Craft Owners should visit the MPA website for information on the <a href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change" target="_blank"> application of crew changes under various circumstances</a>, and refer to <a href="https://www.mpa.gov.sg/web/portal/home/maritime-singapore/what-maritime-singapore-offers/covid-19_for_maritime_community" target="_blank">MPA’s latest circulars and notices</a>.</p>
 
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Applications for the following matters can be made via <a href="https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info" target="_blank">ICA’s CREW system</a>:</p>
 
