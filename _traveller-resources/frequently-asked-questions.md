@@ -225,7 +225,7 @@ In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR te
 
 Please email <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
 
-
+---
 
 <!--#### 12. I am unwell. Can I postpone my COVID-19 Polymerase Chain Reaction test (“PCR test”) appointment?
 
@@ -233,6 +233,7 @@ Travellers who are due to take their PCR test but are feeling unwell should rema
 
 Click here to [Go Back To Top](#top).
 
+---
 
 
 <div id="outboundPDT"></div>
