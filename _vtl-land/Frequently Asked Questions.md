@@ -221,7 +221,12 @@ The electronic or physical vaccination certificate(s) should be in English and c
 
 #### 3. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL (Land)?
 
-Yes, if the date of your vaccine dose is at least 14 days before the date of your intended arrival into Singapore and at least 14 days after the date of your first positive COVID-19 test. You must present a recovery certificate or discharge memo, which shows the date of your first positive COVID-19 test, to prove your recovery from COVID-19, in addition to your vaccination certificate showing 1 dose of vaccine. 
+Yes, if the date of your vaccine dose is:
+
+- at least 14 days before the date of your intended arrival into Singapore; and
+- at least 28 days after the date of your first positive COVID-19 test. 
+
+You must present a recovery certificate or discharge memo, which shows the date of your first positive COVID-19 test, to prove your recovery from COVID-19, <u>in addition</u> to your vaccination certificate showing 1 dose of vaccine. 
 
 If you are required to apply for a VTP (Land), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form</a> here and provide your proof of vaccination and recovery certificate and discharge memo. 
 
