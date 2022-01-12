@@ -221,11 +221,19 @@ Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.
 
 In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
+#### 8. I did not receive my on-arrival COVID-19 PCR test results after 24 hours. What should I do?
+
+Please email <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
+
+
+
 <!--#### 12. I am unwell. Can I postpone my COVID-19 Polymerase Chain Reaction test (“PCR test”) appointment?
 
 Travellers who are due to take their PCR test but are feeling unwell should remain in their [Stay-Home Notice (SHN)](/health/shn) accommodation, e.g. own residence or [SHN-Dedicated Facility (SDF)](/health/shn#sdf), and alert the relevant agencies listed in this [page](https://go.gov.sg/tc).-->
 
 Click here to [Go Back To Top](#top).
+
+
 
 <div id="outboundPDT"></div>
 
