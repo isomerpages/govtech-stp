@@ -109,6 +109,7 @@ Travellers should <b>defer their travels</b> if they:
 </ol>
 
 <p style="line-height:1.35;">For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving self-isolation for the on-arrival test.</p>
+<p style="line-height:1.35;">Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. Travellers residing with unvaccinated vulnerable household members, are strongly encouraged to isolate themselves in a room and minimise contact. They should also designate a specific bathroom to be used by themselves, if possible.</p>
 </div>
 
 
