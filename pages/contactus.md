@@ -131,8 +131,8 @@ You can find the following forms of commonly requested support on this page:
 </thead>
 <tbody>
 	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;  line-height:1.35; ">Call SafeTravel Enquiry Helpline Number: <br> 
-		<b>+65 6812 5555*</b><br> 
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;  line-height:1.35; ">Call SafeTravel Enquiry Helpline Number: 
+		<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">&#9742;&nbsp;<b>+65 6812 5555*</b></p> 
 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i>(* Regular call charges apply)</i></p>
 </td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
