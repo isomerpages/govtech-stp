@@ -36,8 +36,8 @@ The table below provides a quick overview of the key STPHL features, requirement
 	</tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 14-day travel history before arrival in Singapore)</i></td>
-		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed.</p>		 </td>
+		 <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">
+			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed.</p></td>
  </tr>
 </tbody><thead>
 <tr>
