@@ -16,7 +16,7 @@ permalink: /travel-checklist/dcev
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>A) Application for Entry Approval</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must write to Safe Travel Office with the relevant supporting documents for approval to enter Singapore via DCEV. Click [here](/dcev/overview) for more details.</p></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must write to Safe Travel Office with the relevant supporting documents for approval to enter Singapore via DCEV. Click <a href="/dcev/overview" target="_blank">here</a> for more details.</p></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>B) Application for Entry Visas</b></i></div>
 
@@ -97,7 +97,7 @@ permalink: /travel-checklist/dcev
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">Travellers who are fit for travel should register and pay for an on-arrival COVID-19 PCR test:
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">Travellers who have travel history to Category (I) countries/regions and are fit for travel should register and pay for an on-arrival COVID-19 PCR test:
 
 <ol style="padding-left: 20px; font-size:20px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Arrivals by <b>Air</b>, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test)</li>
@@ -106,7 +106,7 @@ permalink: /travel-checklist/dcev
 
 <p style="line-height:1.35;">The on-arrival test is only required for those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.</p>
 
-<p style="line-height:1.35;"><span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions and are arriving from <b>7 Jan 2022, 2359h</b>, do not need to take an on-arrival test and do not need to make this registration/prepayment.</p>
+<p style="line-height:1.35;"><span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions do not need to take an on-arrival test and do not need to make this registration/prepayment.</p>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>F) Installation of TraceTogether app</b></i></div>
@@ -151,7 +151,7 @@ permalink: /travel-checklist/dcev
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you are required to do so and <a href="#stage1e">did not pay for the test before arrival (per Stage 1E)</a>, you will pay on the spot and expect additional delays in the administration of the test and departure from the checkpoint. </p>
 
-<p style="line-height:1.35;"><span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions and are arriving from <b>7 Jan 2022, 2359h</b>, do not need to take an on-arrival test.</p>
+<p style="line-height:1.35;"><span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions do not need to take an on-arrival test.</p>
 </div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>C) Transport to Self-Isolation / Stay-Home Notice accommodation) </b></i></div>

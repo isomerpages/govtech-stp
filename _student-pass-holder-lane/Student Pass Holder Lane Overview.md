@@ -4,7 +4,7 @@ permalink: /stpl/overview
 description: Overview of the Student Pass Holder Lane
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red;">NOTE:</span> </b><b><span style="color:black;"> Travellers are reminded that they will be responsible for all costs associated with COVID-19 treatment and recovery, including any necessary extensions to their stay at their accommodation, if they test positive for COVID-19. Travellers should ensure that they have sufficient funds or insurance coverage for these costs. Please <a href="/health/insurance-and-treatment" target="_blank">click here</a> for more information. </span></b></p>
+	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red;">NOTE:</span></b></p><p style="font-size:16px; margin-top:10px; margin-bottom:20px;line-height:1.5;"><b><span style="color:black;">This page is for travellers who wish to enter Singapore under the Student's Pass Holder Lane (STPHL), subject to prevailing <a href="/shn-and-swab-summary" target="_blank">Stay-Home Notice (SHN) and testing requirements</a>. Those who wish to enter under the Vaccinated Travel Lane (VTL) must apply for a Vaccinated Travel Pass (VTP) instead. Click for <a href="/stpl/faq#vtl" target="_blank">FAQs</a> and more information on the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a>.</span></b></p><p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:black;"> Travellers are reminded that they will be responsible for all costs associated with COVID-19 treatment and recovery, including any necessary extensions to their stay at their accommodation, if they test positive for COVID-19. Travellers should ensure that they have sufficient funds or insurance coverage for these costs. Please <a href="/health/insurance-and-treatment" target="_blank">click here</a> for more information. </span></b></p>
 	</div>
 
 The Student’s Pass Holder Lane (STPHL) is a Safe Travel lane that facilitates the entry of Student’s Pass (STP) holders and their eligible family members into Singapore. STP holders who are related to a Singapore Citizen or Permanent Resident (SC/PR), e.g. immediate family member, relative or fiancé/fiancée, should apply for entry via the [Familial Ties Lane](/scpr-familial-ties-lane/overview). Foreign students holding a Dependent’s Pass and family members holding MOM-issued passes should apply for entry via the [Work Pass Holder General Lane](/wphl/overview).
@@ -36,8 +36,8 @@ The table below provides a quick overview of the key STPHL features, requirement
 	</tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 14-day travel history before arrival in Singapore)</i></td>
-		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed.</p>		 </td>
+		 <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">
+			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed.</p></td>
  </tr>
 </tbody><thead>
 <tr>
@@ -60,7 +60,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  background-color:#EDEDED;"><b>How and Where To Apply</b></td>
-	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b style="color:red;">NOTE:</b> Travellers <b>cannot</b> use an entry approval under the STPHL to travel under the Vaccinated Travel Lane to enjoy quarantine-free travel. If travellers are interested in utilising the VTL, they must apply for entry under <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a> instead.<br><br>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b style="color:red;">NOTE:</b> Travellers <b>cannot</b> use an entry approval ("SafeTravel Pass") under the STPHL to travel under the Vaccinated Travel Lane (VTL). If travellers are interested in utilising the VTL to enjoy quarantine-free travel, they must apply for entry under <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a> instead. Otherwise, check the table below to apply.<br><br>
 <table>
 	<thead>
 		<tr>
@@ -114,7 +114,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 <tbody>
 	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, tests needed)</td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are applied based on the traveller's 14-day travel history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.<br/><br/><span style="font-size:25px;">⚠</span><i> Travellers with <a href="shn-and-swab-summary" target="_blank">Category (II) or (III) travel history</a> must source for their own accommodation to complete their Stay Home Notice (SHN). Those who plan to serve their SHN at a hotel should only make a booking after confirming with the hotel that it can accommodate SHN-serving guests. </i>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are applied based on the traveller's 14-day travel history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.<br/><br/><span style="font-size:25px;">⚠</span><i> Travellers with <a href="shn-and-swab-summary" target="_blank">Category (II) or (III) travel history</a> must source for their own accommodation to complete their Stay Home Notice (SHN). Those who plan to serve their SHN at a hotel should only make a booking <b>after</b> confirming with the hotel that it can accommodate SHN-serving guests. During booking, they should indicate that they are serving SHN. </i>
 		</td>
 </tr>
 <tr>
