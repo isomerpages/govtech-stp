@@ -377,7 +377,7 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C"><label class="box" for="1C">&nbsp;&nbsp;<b>Stage 1C: [If required] Apply for Entry Visa</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers who hold passports and travel documents issued by via-required countries/regions must apply for an entry visa. Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers who hold passports and travel documents issued by visa-required countries/regions must apply for an entry visa. Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore.</p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b style="color:red">&#10067;</b>&nbsp; Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">here</a> for more details.</p>
 </div>
 
