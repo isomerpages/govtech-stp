@@ -54,7 +54,9 @@ On this page, travellers intending to depart from Singapore can find information
 
 <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">For PCR tests, travellers will receive a digitally authenticated and endorsed test result via email with the help of the clinic. No further action is required on the traveller's part to get the result digitally endorsed. You may use the QR code within the digital certificate to support checks during boarding and immigration clearance.</p>
 
-<p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Travellers who do not receive their QR code or encounter any technical difficulties while authenticating their digital result certificate may write to <a href="mailto:support@notarise.gov.sg">support@notarise.gov.sg</a> for assistance, or refer to <a href="https://www.notarise.gov.sg/faq" target="_blank">this FAQ</a>.</p>
+<p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Should you require a digitally endorsed ART result for travel, check with the clinic administering the test whether they are able to support the issuance.</p>
+
+<p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">For more information, please visit <a href="https://www.notarise.gov.sg/" target="_blank">https://www.notarise.gov.sg/</a>.</p>
 
 
 ---
