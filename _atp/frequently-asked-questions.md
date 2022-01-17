@@ -96,7 +96,7 @@ Visitors must comply with the ATP Conditions [here](/atp/conditions).
 
 #### 2. Are visitors allowed to make any transit stops prior to arrival in Singapore?
 
-Visitors entering Singapore may travel to Singapore on flights with transit stops. 
+Visitors entering Singapore on ATP may travel to Singapore on flights with transit stops of less than 24 hours.
 
 #### 3. What must visitors present to airline staff during check-in at the departure airport for Singapore?
 
