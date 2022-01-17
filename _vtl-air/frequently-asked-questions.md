@@ -1279,7 +1279,7 @@ VTL (Air) travellers issued a HRW after being identified as a close contact of a
 
 #### 10. Do travellers need to undergo post-arrival ARTs if they will be going onboard a "Cruise to Nowhere"?
 
-Travellers are require to comply with the conditions of the VTL (Air), including undergoing post-arrival ARTs on the scheduled dates. They should postpone thier plans such that they can comply with the testing regime.
+Travellers are require to comply with the conditions of the VTL (Air), including undergoing post-arrival ARTs on the scheduled dates. They should postpone their plans such that they can comply with the testing regime.
 
 
 #### 11. What are the penalties if travellers miss their scheduled tests?
