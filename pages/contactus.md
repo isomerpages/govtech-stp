@@ -116,7 +116,7 @@ You can find the following forms of commonly requested support on this page:
 <div id="enquiry"></div>
 
 
-### SafeTravel Office Helpline and Query Form
+### 3) SafeTravel Office Helpline and Query Form
 
 <p style="line-height:1.35;">You can contact the SafeTravel Office for assistance you have application issues or are unable to find the relevant information on the SafeTravel website (including <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> and notices above).</p>
 
