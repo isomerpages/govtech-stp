@@ -55,7 +55,7 @@ The RGL is only for short-term essential business and official travel. Traveller
 
 #### 8.	I was recently diagnosed with COVID-19 but am scheduled to travel to Singapore. Can I still visit Singapore?
 
-In general, travellers who are unwell should seek for immediate medical attention and defer their travels. Travellers diagnosed with <a href="https://safetravel.ica.gov.sg/health/covid19-symptoms">COVID-19</a> less than 21 days before the scheduled date of arrival in Singapore will not be permitted travel to Singapore; airlines will deny such travellers from boarding.
+In general, travellers who are unwell should seek for immediate medical attention and defer their travels. Travellers diagnosed with COVID-19 less than 21 days before the scheduled date of arrival in Singapore will not be permitted travel to Singapore; airlines will deny such travellers from boarding.
 
 #### 9.	I was approved to travel to Singapore under the RGL. Can I transit through a second country to get to Singapore? What should my travel route look like?
 
