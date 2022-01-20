@@ -27,7 +27,7 @@ Applicants should note that all applications will only be processed after paymen
 
 #### 2. My employee plans to leave Singapore for a short personal trip. How should I advise them?
 
-Employers may highlight to their employees that the travel restrictions implemented worldwide to curb the spread of [COVID-19](/health/covid19-symptoms) could affect flight availability and their ability to return to Singapore for work promptly. They will also be subject to the prevailing health measures on return. Additionally, the Singapore Government no longer covers the relevant medical costs for all new and existing pass holders who develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore (press release [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers)).
+Employers may highlight to their employees that the travel restrictions implemented worldwide to curb the spread of COVID-19 could affect flight availability and their ability to return to Singapore for work promptly. They will also be subject to the prevailing health measures on return. Additionally, the Singapore Government no longer covers the relevant medical costs for all new and existing pass holders who develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore (press release [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers)).
 
 #### 3. My employee has been approved for entry into Singapore under the Work Pass Holder General Lane (WPHL). However, he/she is unable to enter Singapore on the date specified in the application, or I no longer wish to bring them in. What should I do? 
 
@@ -154,7 +154,7 @@ If their serology test results are positive, their vaccination records will be u
 
 #### 4. My employee claims to be unwell while serving their Stay-Home Notice (SHN). What should I do?
 
-Travellers who are [ill or unwell](/health/covid19-symptoms) while serving their SHN should alert MOM using the [FWMOMCare app](https://www.mom.gov.sg/eservices/fwmomcare) and remain in their accommodation. In the event of a medical emergency, please advise your employee to alert the SHN-Dedicated Facility (SDF) operator and call 995 for assistance.
+Travellers who are ill or unwell while serving their SHN should alert MOM using the [FWMOMCare app](https://www.mom.gov.sg/eservices/fwmomcare) and remain in their accommodation. In the event of a medical emergency, please advise your employee to alert the SHN-Dedicated Facility (SDF) operator and call 995 for assistance.
 
 ##### For information on the Rostered Routine Testing (RRT) requirement imposed on workers that are in Singapore, click [here](https://mom.gov.sg/covid-19/frequently-asked-questions/rostered-routine-testing). 
 
