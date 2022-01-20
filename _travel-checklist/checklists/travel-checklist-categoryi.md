@@ -80,7 +80,7 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 Travellers should <b>defer their travels</b> if they:
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Are showing <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Are showing COVID-19 symptoms;</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Have been in close contact with a COVID-19 positive patient (“patient”) in the last 7 days before departing for Singapore. Being in close contacts includes, caring for a patient in a healthcare or family/social setting, staying in the same location as the patient, or having been in close (i.e. less than two meters) contact with a patient for more than 15 minutes.</li>
 </ol>
