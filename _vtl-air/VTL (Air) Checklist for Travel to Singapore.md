@@ -447,7 +447,7 @@ label.box {
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span>&nbsp; Long-term pass holders and short-term visitors: You do not need to upload your vaccination certificates they will be verified as part of the VTP application.</p>
 <p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>&nbsp;<b>Defer travel</b> if you:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Have <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Have COVID-19 symptoms;</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
 		<li style="padding-left:10px; margin-bottom:0px; padding-bottom:10px; line-height:1.35; font-size:18px;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 	</ol>
