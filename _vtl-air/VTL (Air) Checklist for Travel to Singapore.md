@@ -625,15 +625,14 @@ label.box {
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;"> Unsupervised ART* </td>
 </tr>
 	<tr>
-<td colspan="2" style="font-size: 16px; border-top:1px solid #D8D8D8; text-align: left;">*Self-administered, with results to be submitted at the link sent to travellers.</td>
+<td colspan="3" style="font-size: 16px; border-top:1px solid #D8D8D8; text-align: left;">*Self-administered, with results to be submitted at the link sent to travellers.</td>
 	</tr>
 	</table>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Days 2, 4, 5 and 6 of arrival in Singapore</u></b></p>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Take a self-administered COVID-19 ART using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on <b style="color:red;">Days 2, 4, 5 and 6</b> of arrival in Singapore and submit your test results online. Instructions for the dates of the tests and the weblink for results submission will be emailed to you after your arrival in Singapore.</p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Unsupervised ARTs</u></b></p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Take a self-administered COVID-19 ART using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a>.</p>
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><span style="color:red; font-size:26px;">⚠</span> Travellers must test negative on their self-administered ART before going out for activities on that day.</p>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><span style="color:red; font-size:26px;">⚠</span> This is in addition to the requirement to take a supervised self-administered COVID-19 ART at a QTC or CTC on Days 3 and 7 of your arrival in Singapore.</p>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Days 3 and 7 of arrival in Singapore</u></b></p>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a> on <b style="color:red;">Days 3 and 7</b> of your arrival in Singapore. The test will be self-administered and supervised by an approved COVID-19 test provider. Instructions for the dates of tests and appointment booking will be emailed to you after your arrival in Singapore.</p> 
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Supervised ARTs (for travellers entering Singapore before 23 Jan 2022, 2359hrs)</u></b></p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Undergo post-arrival COVID-19 ARTs at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. The test will be self-administered and supervised by an approved COVID-19 test provider. Instructions for the dates of tests and appointment booking will be emailed to you after your arrival in Singapore.</p> 
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Each test costs <b>S$15 (inclusive of GST)</b>, with payment to be made online. The electronic receipt must be shown during registration as proof of payment. <b><u>Cash will not be accepted.</u></b></p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><span style="color:red; font-size:26px;">&#9888;&nbsp;</span>&nbsp;Children aged 3 to 12 must be accompanied by a caregiver, aged 21 years old and above. The caregiver may be required to help administer the test if the child is unable to do so. </p>
@@ -641,7 +640,7 @@ label.box {
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b style="color:red">&#10067;</b>&nbsp; Please refer to our <a href="/vtl/faq#postarrivaltests" target="_blank">FAQs here</a> for more information.</p>
 </div>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 6: Departure from Singapore</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>[Only if applicable] Collect Refund for TraceTogether Token Deposit</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="6A"><label class="box" for="6A">&nbsp;&nbsp;<b>[Only if applicable] Collect Refund for TraceTogether Token Deposit</b></label></div>
