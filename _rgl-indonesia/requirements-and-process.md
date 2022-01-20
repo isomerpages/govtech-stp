@@ -82,7 +82,7 @@ An approval letter will be issued to the applicant and sponsoring company or gov
 </thead>
   <tr>
     <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Health Declarations and Payment for Arrival Swab</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers should <a href="/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. Otherwise, they should:
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers should monitor their health and avoid travelling if feeling unwell. Otherwise, they should:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a> for arrivals by air. For arrivals by sea, travellers will make payment for the post-arrival COVD-19 PCR test via credit card or NETS upon arrival at Tanah Merah Ferry Terminal.</li>
