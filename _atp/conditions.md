@@ -30,9 +30,11 @@ permalink: /atp/conditions
      </ol>
   </li>
   <br/>
-    <li style="font-size:20px; list-style-type:decimal;"> The requirements in Condition 1(b) and 1(c) do not apply to an Air Travel Pass holder who is below 3 years of age in that calendar year.</li>
+    <li style="font-size:20px; list-style-type:decimal;"> The requirements in Condition 1(b) and 1(c) do not apply to children aged 2 and below in the calendar year as well as fully vaccinated recovered travellers entering Singapore from 23 Jan 2022, 2359 hrs.</li>
+  <br/>  
+	<li style="font-size:20px; list-style-type:decimal;"> The requirement in Condition 1(b) does not apply to unvaccinated and non-fully vaccinated recovered travellers entering Singapore from 23 Jan 2022, 2359hrs.</li>
   <br/>
-   <li style="font-size:20px; list-style-type:decimal;"> Condition 1(e) does not apply to an Air Travel Pass holder who is 6 years of age or younger in that calendar year. Those unable to use a mobile device due to a certified disability or special need and those who are unable to download/register for the TraceTogether app may obtain a TraceTogether token. They must carry the TraceTogether token issued to them while in Singapore.
+   <li style="font-size:20px; list-style-type:decimal;"> Condition 1(e) does not apply children aged 6 and below in the calendar year. Those unable to use a mobile device due to a certified disability or special need and those who are unable to download/register for the TraceTogether app may obtain a TraceTogether token. They must carry the TraceTogether token issued to them while in Singapore.
   </li>
   <br/>
   <li style="font-size:20px; list-style-type:decimal;"> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions or cancellation of the Air Travel Pass at short notice. </li><br/>
