@@ -12,7 +12,7 @@ Please refer to the VTL (Air) Conditions applicable to you based on your date of
 			<li style="font-size:20px; list-style-type:disc;"><a href="#from">From 23 January 2022, 2359hrs (SGT)</a></li>
 	</ol>
 
-<div id="from"></div>
+<div id="before_1"></div>
 <ol style="font-size:20px;">
 	<li style="font-size:20px; list-style-type:decimal;"> A Vaccinated Travel Pass (Air) [VTP (Air)] is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP (Air) approval.
 		<ol style="font-size:20px; list-style-type:upper-alpha;">
@@ -86,7 +86,7 @@ Please refer to the VTL (Air) Conditions applicable to you based on your date of
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>5</sup>The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.</p>
 
-<div id="before_1"></div>
+<div id="from"></div>
 <ol style="font-size:20px;">
 	<li style="font-size:20px; list-style-type:decimal;"> A Vaccinated Travel Pass (Air) [VTP (Air)] is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP (Air) approval.
 		<ol style="font-size:20px; list-style-type:upper-alpha;">
