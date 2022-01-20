@@ -71,7 +71,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitors must have been to only one or more <a href="/shn-and-swab-summary">Category I countries/regions</a> and/ or Singapore for the last 14 consecutive days before departing for Singapore.</li>
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Monitor their health status before departure; Visitors should not travel to Singapore if they:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Have symptoms of COVID-19;</li>
  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Are diagnosed or suspected to have COVID-19 infection in the last 14 days before departing for Singapore; or</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Had close contact with any person with COVID-19 in the last 7 days before departing for Singapore. Close contact means:
   <ul style="margin-top:0px;">
