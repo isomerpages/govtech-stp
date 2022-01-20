@@ -8,8 +8,8 @@ description: ""
 Please refer to the VTL (Air) Conditions applicable to you based on your date of entry into Singapore:
 
 <ol style="font-size:20px;">
-	<li style="font-size:20px; list-style-type:disc;"><a href="before_1">Before 23 January 2022, 2359hrs (SGT)</a></li>
-			<li style="font-size:20px; list-style-type:disc;"><a href="from">From 23 January 2022, 2359hrs (SGT)</a></li>
+	<li style="font-size:20px; list-style-type:disc;"><a href="#before_1">Before 23 January 2022, 2359hrs (SGT)</a></li>
+			<li style="font-size:20px; list-style-type:disc;"><a href="#from">From 23 January 2022, 2359hrs (SGT)</a></li>
 	</ol>
 
 <div id="from"></div>
