@@ -11,6 +11,8 @@ Please refer to the VTL (Air) Conditions applicable to you based on your date of
 	<li style="font-size:20px; list-style-type:disc;"><a href="#before_1">Before 23 January 2022, 2359hrs (SGT)</a></li>
 			<li style="font-size:20px; list-style-type:disc;"><a href="#from">From 23 January 2022, 2359hrs (SGT)</a></li>
 	</ol>
+	
+### Before 23 January 2022, 2359hrs (SGT)
 
 <div id="before_1"></div>
 <ol style="font-size:20px;">
@@ -85,6 +87,9 @@ Please refer to the VTL (Air) Conditions applicable to you based on your date of
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>4</sup>Travellers are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area of the Arrivals Hall.</p>
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>5</sup>The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.</p>
+
+
+### From 23 January 2022, 2359hrs (SGT)
 
 <div id="from"></div>
 <ol style="font-size:20px;">
