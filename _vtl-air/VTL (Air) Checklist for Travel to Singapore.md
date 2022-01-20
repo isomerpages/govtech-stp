@@ -449,7 +449,7 @@ label.box {
 			<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px; list-style-type:lower-roman;">between 14 – 90 days before the date of departure for Singapore for non-fully vaccinated persons (e.g. children aged 12 and below); or</li>
 			</ol>
 		</li>
-		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px; list-style-type:alpha;">b)	Discharge memo that: 
+		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px; list-style-type:alpha;">	Discharge memo that: 
 		<ol style="font-size:18px; list-style-type:lower-roman;">
 			<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px; list-style-type:lower-roman;">states your date of infection or the discharge date, which must be within 7 – 90 days before the date of departure for Singapore for fully vaccinated persons, and 14 – 90 days before the date of departure for Singapore for non-fully vaccinated persons; and</li>
 			<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px; list-style-type:lower-roman;">is issued by a relevant state authority or licensed medical professional.</li>
@@ -475,6 +475,13 @@ label.box {
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
 		<li style="padding-left:10px; margin-bottom:0px; padding-bottom:10px; line-height:1.35; font-size:18px;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 	</ol>
+<p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>&nbsp;<b>[For travellers entering Singapore after 23 Jan 2022, 2359hrs] Defer travel if you:</b> </p>
+	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Have COVID-19 symptoms;</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19* in the last 7 days (for fully vaccinated persons) or 14 days (for non-fully vaccinated persons, e.g. children aged 12 and below) before departing for Singapore; or</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes. [Not applicable for recovered travellers with proof of recovery]</li>
+	</ol>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:10px; line-height:1.35;"><i>* If you test positive for COVID-19 in the last 7 days (for fully vaccinated persons) or 14 days (for non-fully vaccinated persons, e.g. children aged 12 and below) before departing for Singapore, you are required to obtain a new negative COVID-19 PCR test or professionally-administered ART result more than 72 hours after the positive test in order to proceed with your travel.</i></p>
 	</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
