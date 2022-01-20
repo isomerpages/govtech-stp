@@ -1049,9 +1049,9 @@ When checking in at the departure airport, travellers must present the following
 <li>a negative COVID-19 test result;</li>
 <li>the date and time when the COVID-19 test was taken, which must be within 2 days before departure for Singapore; and</li>
 <li>the name of the testing institution conducting the COVID-19 test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
-	<li>[for recovered travellers only] a valid proof of recovery</li>
 </ol>
 	</li>
+	<li><i>[for recovered travellers only]</i> a valid proof of recovery</li>
 	</ul>
 
 In addition, visa-required short-term visitors must present a valid visa.
