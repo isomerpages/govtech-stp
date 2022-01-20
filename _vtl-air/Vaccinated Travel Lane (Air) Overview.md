@@ -9,7 +9,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 			<ol style="font-size:16px; margin-top:0px; margin-bottom:0px; color:black;">
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">All travellers will only be required to undergo unsupervised self-administered ARTs on Days 3 and 7 of their arrival, in addition to fulfilling pre-departure and on-arrival testing requirements.</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Those who test positive on the unsupervised self-administered ARTs on Days 3 and 7 no longer need to undergo a confirmatory PCR test but should instead abide by the relevant <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank">COVID-19 recovery protocol.</a></li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to this page for more information.</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="vaccinated-recovered" target="_blank">this page</a> for more information.</li>
 	</ol>
 			</p>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;color:black;">VTL travellers who enter Singapore before 23 January 2022, 2359hrs (SGT) are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
@@ -409,6 +409,12 @@ input:checked + label + .content {
 	</ol> 
 </p>
 
+<p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">For those entering Singapore after 23 January 2022, 2359hrs (SGT):</p>
+<ol style="margin-top:0px; list-style-type: disc;">
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">All travellers will only be required to undergo unsupervised self-administered ARTs on Days 3 and 7 of their arrival, in addition to fulfilling their pre-departure and on-arrival testing requirements.</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="vaccinated-recovered" target="_blank">this page</a> for more information.</li>
+	</ol>
+
 <p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">For their journey to Singapore, travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. The table below summarises the key documents travellers have to bring along.</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
@@ -430,7 +436,7 @@ input:checked + label + .content {
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
 </tr>
 		<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; padding:10px; vertical-align:middle;">2. Negative Pre-Departure COVID-19 Test</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; padding:10px; vertical-align:middle;">2. Negative Pre-Departure COVID-19 Test or <a href="" target="_blank">Proof of Recovery</a> (for recovered travellers)</td>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
 					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
 					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
