@@ -6,10 +6,10 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>IMPORTANT UPDATES</u></b></p>
 		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">The following measures are applicable for VTL (Air) travellers entering Singapore after 23 January 2022, 2359hrs (SGT):
-			<ol style="font-size:16px; margin-top:0px; margin-bottom:0px;">
-				<li style="font-size:16px; margin-top:0px; margin-bottom:8px; line-height:1.3;">All travellers will only be required to undergo unsupervised self-administered ARTs on Days 3 and 7 of their arrival, in addition to fulfilling pre-departure and on-arrival testing requirements.</li>
-				<li style="font-size:16px; margin-top:0px; margin-bottom:8px; line-height:1.3;">Those who test positive on the unsupervised self-administered ARTs on Days 3 and 7 no longer need to undergo a confirmatory PCR test but should instead abide by the relevant <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank">COVID-19 recovery protocol.</a></li>
-				<li style="font-size:16px; margin-top:0px; margin-bottom:8px; line-height:1.3;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to this page for more information.</li>
+			<ol style="font-size:16px; margin-top:0px; margin-bottom:0px; color:black;">
+				<li style="font-size:16px; margin-top:0px; margin-bottom:8px; line-height:1.3;  color:black;">All travellers will only be required to undergo unsupervised self-administered ARTs on Days 3 and 7 of their arrival, in addition to fulfilling pre-departure and on-arrival testing requirements.</li>
+				<li style="font-size:16px; margin-top:0px; margin-bottom:8px; line-height:1.3;  color:black;">Those who test positive on the unsupervised self-administered ARTs on Days 3 and 7 no longer need to undergo a confirmatory PCR test but should instead abide by the relevant <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank">COVID-19 recovery protocol.</a></li>
+				<li style="font-size:16px; margin-top:0px; margin-bottom:8px; line-height:1.3;  color:black;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to this page for more information.</li>
 	</ol>
 			</p>
 <p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">VTL travellers who enter Singapore before 23 January 2022, 2359hrs (SGT) are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
