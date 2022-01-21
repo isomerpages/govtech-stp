@@ -23,77 +23,91 @@ permalink: /travel-checklist/dcev
 
 <div id="stage1c"></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610; <i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>C) Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they:</p>
-
-<ol style="margin-top: 10px; padding-left:20px; list-style-type: disc;">
-	<li style="margin-bottom:10px; line-height:1.35;">Are below the age of three in this calendar year; or</li>
-	<li style="margin-bottom:10px; line-height:1.35;">Are Singapore Citizens entering Singapore via the Causeway or Second Link.</li>
-	</ol>
-<div style="padding: 5px; margin-top:20px; border-style: solid; border-width: 1px;"><p style="font-size:20px; line-height:1.35;"><i><u>Illustration of acceptable 2-day timeline</u>: A traveller departing for Singapore on 3 December 2021 should take a pre-departure COVID-19 test no earlier than 1 December 2021.</i></p></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Monitor your health status. You should defer travel if you:</p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:disc;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Are feeling unwell (e.g. fever, cough, runny nose, sore throat, loss of taste or smell)</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
+</ol>
+	<p style="line-height:1.35;"><b>From 23 Jan 2022, 2359hrs</b>, travellers recently tested positive for COVID-19 may qualify for a waiver of COVID-19 pre-departure test and other border measures prescribed under the Vaccinated-Recovered (VR) traveller protocol. Travellers who qualify, should refer to the protocols stipulated on the <a href="/vaccinated-recovered" target="_blank">VR Protocol page</a> instead of this checklist. Use this <a href="https://www.checkfirst.gov.sg/c/527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-checker tool</a> to determine if you qualify for VR protocol. </p>
+	<p style="line-height:1.35;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:decimal;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Is not a handwritten document;</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Is in English or accompanied with an English translation;</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the COVID-19 test</li>
+</ol>
 <br>
-<table>
-<tbody>
+	<table>
 	<tr>
-<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>14-day Travel History</b></td>
-    <td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>Permitted Test(s)</b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b>A)</b></td>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Any of the following showing a positive COVID-19 infection <b>between 14 and 90 days before the date of departure for Singapore</b>:
+<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Antigen Rapid Test (ART) result administered by a trained professional (self-swabs are disallowed)</li>
+	</ol>
+	</td>
+	</tr>
+<tr>
+		<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b> OR </b></td>
 		</tr>
-	<tr>
-	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;">
-<ol style="list-style-type:disc; font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;">	
-	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;"><b><u>Category I</u></b>:<p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;">Hong Kong, Macao, Mainland China, Taiwan</p></li>
-		<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35; margin-bottom:20px;"><b><u>Category II</u></b>:<p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;">Argentina, Australia, Bahrain, Bhutan, Brunei, Cambodia, Canada, Chile, Cyprus, Denmark<sup>1</sup>, Egypt, Ethiopia, Fiji, France<sup>2</sup> , Finland, Germany, Greece, India, Indonesia, Israel, Italy, Japan, Kuwait, Malaysia, Maldives, Malta, Mexico, Mongolia, Morocco, Myanmar, Nepal, New Zealand, Oman, Pakistan, Portugal, Qatar, Rwanda, The Republic of Korea, Romania, Samoa, San Marino, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Tonga, Turkey, The Netherlands<sup>3</sup>, The United Arab Emirates, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City, Vietnam</p><p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>4</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p></li>
-	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;"><b><u>Category III</u></b>:<p style="margin-top: 10px; font-size: 18px; text-align: left; line-height:1.35;">Austria, Bangladesh, Belarus, Belgium, Belize, Brazil, Bulgaria, Colombia, Costa Rica, Croatia, Czech Republic, Estonia, Hungary, Iceland, Ireland, Kazakhstan, Laos, Latvia, Liechtenstein, Lithuania, Luxembourg, Mauritius, Norway, Panama, Papua New Guinea, Peru, Philippines, Poland, Russia, Serbia, Seychelles, Slovakia, Slovenia, Ukraine and Uruguay</p></li>
-		</ol>
-</td>
-    	<td rowspan="1" style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:top; line-height:1.35;"> <ol style="list-style-type:lower-alpha">
-        <li style="line-height:1.35; margin-top:0px; font-size:18px;">COVID-19 Polymerase Chain Reaction Test; <b>OR</b></li>
-         <li style="line-height:1.35; margin-top:0px; font-size:18px;">Antigen Rapid Test that is administered by a trained professional, i.e. self-swabs are disallowed.</li>
-        </ol>
-</td>
-	</tr>
-  	<tr>
-	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"><b><u>Category (IV)</u></b>:<p style="margin-top: 20px; font-size: 18px; text-align: left; line-height:1.35;"><b>All other countries or regions not in Category I, II, III<sup>*</sup></b> </p>
-</td>
-    	<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;">COVID-19 Polymerase Chain Reaction Test</td>
-	</tr>
-	</tbody>
+			<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;vertical-align:middle;"><b>B)</b></td>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Medical discharge memo issued by the relevant state authority or licensed medical professional, showing:
+	<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Name (per travel document used to enter Singapore);</li>
+				<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
+				<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Date of infection which must fall <b>within 14 to 90 days (inclusive)</b> before the date of departure for Singapore.</li>
+	</ol>
+	</td>
+		</tr>
 	</table>
-
-<p style="line-height:1.35;">Travellers must obtain a copy of the negative test result that meets all the following conditions:</p>
-
-<ol style="margin-top: 10px; padding-left:20px; list-style-type: disc;">
-	<li style="margin-bottom:10px; line-height:1.35;">Is in English (or accompanied with an English translation);</li>
-	<li style="margin-bottom:10px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-	<li style="margin-bottom:10px; line-height:1.35;">Reflects the date and result of the PCR test.</li>
-</ol>
-	
-
-<p style="line-height:1.35;"><b>Handwritten reports will be rejected.</b> Handwritten negative PDT results are not accepted. Travellers with difficulties obtaining a COVID-19 test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance</a>.</p>
+		<p style="line-height:1.35;">If you are well or ineligible for <a href="/vaccinated-recovered" target="_blank">VR Protocol</a>, the rest of this checklist remains applicable to you.</p>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>D) Submission of Health Declaration</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Up to 72 hours before arrival in Singapore, travellers must submit their pre-trip health and travel history declaration via <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>. All SGAC submissions are free-of-charge, and <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> should also upload their digitally-verifiable vaccination certificate, i.e. certificate with a QR code. Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccinated-differentiated settings</a>. </p>
+<div id="stage1d"></div>
 
-<p style="line-height:1.35;">Travellers should **defer their travels** if they meet any of the following conditions: </p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>D) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i></div>
 
-<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Showing COVID-19 symptoms;</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Are diagnosed or suspected to have contracted COVID-19 in the last or 14 days before departing for Singapore; or</li>
-		<li style="padding-left: 20px;font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
-</ol>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">All travellers, except the groups listed below, <b>must</b> take a Pre-Departure Test (PDT) <b>within 2 days before departure</b> for Singapore:</p>
+	
+<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Below the age of three in this calendar year; OR</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; "><b>[For travellers arriving from 23 Jan 2022, 2359h]</b> Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this self-checker tool, and can show relevant proof of recovery outlined at Stage 1C.</li>
+	</ol>
+<p style="line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">at an internationally accredited or recognised lab/clinic/medical facility</a>. The PDT result must not be a handwritten document, and fulfil the following:</p>
+
+<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:decimal;">
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Is in English (or accompanied with an English translation);</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Reflects the date and result of the PCR test.</li>
+	</ol>
+<p style="line-height:1.35;">Click on (+) below for illustrations for when a PDT must be taken.</p>	
+<input class="accordion" type="checkbox" id="pdt-illustration">
+<label class="accordion" for="pdt-illustration"><b>Illustrations for when a PDT must be taken:</b></label>
+	<div class="content" style="background-color:#ededed;"><ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Direct Flights</b> - Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h. </li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Flights with a less than 24-hour Transit Period to Singapore</b> - Traveller B is scheduled for departure on 3 Nov 2021 from Airport A. He will transit at Airport B for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from Airport A.</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Flights with a Transit Period exceeding 24 hours</b> - Traveller C is scheduled for departure from Airport A on 3 Nov 2021. He will transit in Airport B for a period lasting more than 24 hours. In this scenario, he will take his PDT at Airport B, within 2 days before his connecting flight to Singapore.</li>
+	</ol>
+</div>
+</div>
+
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>E) Submission of Health Declaration and Digital Vaccination Certificate</b></i></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>.</p>
+
+<p style="line-height:1.35;">All SGAC submissions are free-of-charge, and <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> should also upload their digitally-verifiable vaccination certificate if they have one, i.e. certificate with a QR code. Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings</a>.</p>
 </div>
 
 	
-<div id="stage1e"></div>
+<div id="stage1f"></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>F) Registration and Pre-payment for On-Arrival COVID-19 Test</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">Travellers who have travel history to Category (I) countries/regions and are fit for travel should register and pay for an on-arrival COVID-19 PCR test:
 
@@ -107,7 +121,7 @@ permalink: /travel-checklist/dcev
 <p style="line-height:1.35;"><span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions do not need to take an on-arrival test and do not need to make this registration/prepayment.</p>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>F) Installation of TraceTogether app</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>G) Installation of TraceTogether app</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile application</a> on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers#token" target="_blank">TraceTogether token</a> after arrival in Singapore.</p></div>
 
