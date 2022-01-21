@@ -29,13 +29,14 @@ For all other pass holders (work pass holders and their dependants), this page e
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For all other workers- <a href="/wphl/overview">WPHL</a></li>
 	</ol>
 	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Those who had obtained a VTL approval before 4 Dec 2021, 2359 hours can still enter Singapore. <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/1204-ceasing-of-entry-of-cmp-workers-and-other-dormitory-bound-workers-via-vtls" target="_blank">Find out more</a>.<br><br> Workers can <a href="/departing/overview" target="_blank">depart Singapore</a> using VTLs.</p>	
-<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> All pass holders need to take these tests:</p> 
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> <b>From 23 Jan 2022, 2359 hours</b>, pass holders who <b>meet both conditions</b> below are exempted from COVID-19 tests and SHN requirements. <a href="/vaccinated-recovered" target="_blank">Eligible pass holders must present documentary proof</a> before departure and upon arrival in Singapore.</p> 
 <ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 Antigen Rapid Test (ART) or PCR test <b>within 2 days</b> before departure. Self-swabs are <b>not allowed</b>.</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">On-arrival COVID-19 PCR test in Singapore</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Fully vaccinated</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Recently-recovered within 90 days from COVID-19</li>
 </ol>
-<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><i>Example: If the pre-departure test was taken on 5 Dec 2021, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoint) up to 7 Dec 2021, 2359 hours.</i></p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Workers with travel history to Category II, III or IV countries/regions and entering Singapore <b>from 7 Jan 2022, 2359 hours,</b> do not need to take an on-arrival COVID-19 test. For refunds of this test, please refer to the FAQ <a href="/health/faq#refunds" target="_blank">here</a> for more information.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Submitters who have paid for the entry applications, please refer to MOM’s email for more information.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">All other pass holders need to follow the health measures below.</p>
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Pass holders with travel history to Category II, III or IV countries/regions and entering Singapore <b>from 7 Jan 2022, 2359 hours,</b> do not need to take an on-arrival COVID-19 test. For refunds of this test, please refer to the FAQ <a href="/health/faq#refunds" target="_blank">here</a> for more information.</p>
 
 <!--<table>
 	<thead>
