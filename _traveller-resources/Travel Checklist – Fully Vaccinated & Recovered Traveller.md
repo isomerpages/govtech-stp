@@ -100,9 +100,9 @@ You may also rely on this self-check tool to determine if you qualify as a VR tr
 		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">During immigration clearance, provide all documents, including medical proof of recent COVID-19 infection, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see <a href="#1D">Stage 1D</a>), of their <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> <b>which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
 		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers should also ask the immigration officer to register temporary vaccinated status in the TraceTogether app for use in Singapore’s  <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a> for the next 30 days, if they:</p>
 	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">i.	Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification;</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; "></li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; "></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification;</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Are aged 12 and above; and</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance.</li>
 	</ol>
 	</div>
 	
