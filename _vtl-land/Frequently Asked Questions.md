@@ -629,7 +629,7 @@ Travellers who are feeling unwell, with symptoms such as fever, cough, or sore t
 
 Travellers who test positive and are well must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate at their place of residence or accommodation for the first 72 hours. After 72 hours, they may resume normal activities if they test negative for a self-administered ART. If the ART is positive, the traveller must continue to self-isolate and self-test until they test negative.
 
-Travellers who test positive and are medically high-risk or severely symptomatic should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target"_blank">Swab and Send Home (SASH) clinic</a>. 
+Travellers who test positive and are medically high-risk or severely symptomatic should seek medical attention at their nearest <a href="https://flugowhere.gov.sg" target="_blank">Swab and Send Home (SASH) clinic</a>. 
 
 
 #### 7. Where can travellers obtain ART self-test kits?
