@@ -72,7 +72,7 @@ On this page, you will find the following information regarding transiting in Si
 
 #### 3. Requirements for Recently-Recovered Travellers
 
-<p style="font-size:20px; line-height:1.35;">With effect from <b>23 Jan 2022, 2359hrs</b>, travellers who have recently recovered from COVID-19 may produce any of the following to their airline/transport operator as proof of their recovery status to be exempted from the pre-departure testing requirement.</p>
+<p style="font-size:20px; line-height:1.35;">Travellers who are scheduled to arrive in Singapore <b>from 23 Jan 2022, 2359h (SGT)</b>, and have have recently recovered from COVID-19, may produce any of the following to their airline/transport operator as proof of their recovery status to be exempted from the pre-departure testing requirement.</p>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:20px;"><b>A) Fully Vaccinated Persons</b></div>
 
