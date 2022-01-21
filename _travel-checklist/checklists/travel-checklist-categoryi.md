@@ -84,7 +84,6 @@ permalink: /travel-checklist/category-1
 	
 	
 	
-	
 
 Travellers should <b>defer their travels</b> if they:
 
