@@ -6,8 +6,8 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red;"><b><u>NOTICE</u></b></p>
-		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.4;color:black;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia <b> from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours.</b></p>
-	<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.4;color:black;">Travellers who have already booked a Vaccinated Travel Lane (Land) bus tickets are unaffected and will be allowed to enter Singapore under the VTL (Land). Applications for <a href="https://go.gov.sg/vtl-portal" target="_blank">Vaccinated Travel Passes (VTP)</a> will remain open during this period, and <b>non-Singapore Citizens and non-Permanent Residents are require d to apply for a VTP between 3 and 60 calendar days before their date of departure</b>.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px; color:black;">Travellers arriving in Singapore <b>before 23 Jan 2022, 2359h</b>, via VTL (Land) will be subject to an on-arrival test,  unsupervised self-administered antigen Rapid Test (ART) on Days 2, 4, 5 and 6 with submission of results online, and supervised ART on Days 3 and 7 from their arrival.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px; color:black;">Travellers arriving in Singapore <b>from 23 Jan 2022, 2359h</b>, via VTL (Land) will perform an on-arrival test, and self-administered ART from Day 2 to 7 of their arrival.</p>
 	</div>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] allows quarantine-free travel to Singapore via the Causeway. Travellers intending to utilise the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> to travel to Singapore via air should apply for a VTP (Air) Pass. <b>Approvals are not interchangeable</b>.</p>
@@ -35,7 +35,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 ### 1. Eligibility
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>Travellers must fulfil the following eligibility criteria found in this section before applying to travel under VTL (Land)</b>. Travellers who do not satisfy any of these criteria and conditions, should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a>.</p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>From 4 Dec 2021, 2359 hours</b>, the following groups of travellers are disallowed from applying for entry under the VTL (Land) or VTL (Air). They may instead enter Singapore via alternative travel arrangements (see table below). Those who have obtained a VTL approval <b>before 4 Dec 2021, 2359hrs</b> can still enter Singapore.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>From 4 Dec 2021, 2359 hours</b>, the following groups of travellers are disallowed from applying for entry under the VTL (Land) or VTL (Air). They may instead enter Singapore via alternative travel arrangements (see table below). </p>
 
 <table>
 <thead>
@@ -184,7 +184,6 @@ input:checked + label + .content {
 			</li>
 	</ol>
 	</p>
-<p style="line-height:1.4; font-size:18px;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia <b> from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours.</b> Travellers who have already secured a VTL (Land) bus ticket are unaffected and will be allowed to enter Singapore via VTL (Land).</p>
 	</div>
 </body>
 </html>
@@ -321,8 +320,7 @@ Travellers who are eligible for VTL (Land) and have already obtained their bus t
 	<li style="font-size:18px; line-height:1.4;">Negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) taken within 2 days before departure for Singapore;</li>
 	<li style="font-size:18px; line-height:1.4;">Filling up the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> (replaces the physical "White Card"). Travellers must complete this up to 72 hours before arrival in Singapore to avoid delays at the checkpoint; and</li>
 	<li style="font-size:18px; line-height:1.4;">On-arrival COVID-19 test upon arriving in Singapore.</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival supervised COVID-19 ARTs on Days 3 and 7</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival self-administered COVID-19 ARTs on Days 2, 4, 5 and 6</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival self-administered COVID-19 ARTs on Days 2 to 7</li>
 </ol>	
 
 <div id="FAQ"></div>

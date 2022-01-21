@@ -2,21 +2,96 @@
 title: Travel Checklist - Category(IV)
 permalink: /travel-checklist/category-4
 ---
+
 ### Instructions for the use of the Category (IV) Travel History Checklist 
 
-This checklist covers the pre-departure to post-arrival process for travellers who:
+<p style="line-height:1.35;">This checklist is for individuals travelling via the Returning Singapore Citizens/Permanent Residents Lane or have obtained an Entry Approval issued under the Familial Ties Lane, or Student’s Pass Holder Lane.</p> 
 
-<ol style="padding-left: 20px; list-style-type: lower-roman;">
-<li style="padding-left: 20px; line-height:1.35;">Are travelling to Singapore via the Returning Singapore Citizen/Permanent Resident Lane, Familial Ties Lane, or Student’s Pass Lane; <b>AND</b></li>
-<li style="padding-left: 20px; line-height:1.35;">Have visited <a href="/shn-and-swab-summary" target="_blank">any Category (IV) country/region in the past 14 days before arrival in Singapore</a>.</li>
-</ol>
+<p style="line-height:1.35;">Travellers will need to have only visited <a href="/shn-and-swab-summary" target="_blank">any Category (IV) country/region in the past 14 days before arrival in Singapore</a>. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore. </p>
 
-<p style="line-height:1.35;">Travellers who do not meet the above conditions should refer to the <a href="/travel-checklist/overview" target="_blank">checklist specific to their travel arrangement/travel history</a> or their approval letters for travel instructions. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore.</p>
-
-<p style="line-height:1.35;">Travellers should check the box <b>(&#9744;)</b> for completed activities.</p>
+<p style="line-height:1.35;">Travellers may print out this page and indicate with a "&#9745;" in the box (&#9744;) for completed activities.</p>
 
 
 ### Stage 1: Pre-Departure for Singapore
+
+<html>
+<head>
+<meta charset="utf-8">
+<title>Test Accordion</title>
+
+<style>	
+input.accordion {
+    display: none;
+}
+
+label.accordion {
+    display: block;    
+    padding: 10px 30px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #153855;
+    border-radius: 3px;
+    color: #FFFFFF;
+    transition: ease .5s;
+		position: relative;
+}
+
+label.accordion:hover {
+    background: #346f9e;
+}
+
+label.accordion::after {
+	font-family: "Font Awesome 5 Free";
+	content: '\271A';
+	font-weight: bold;
+	font-size: 22px;
+	position: absolute;
+	right: 10px;
+	top: 6px;
+}
+
+input.accordion:checked + label.old::after {
+	content: '\2716';
+}
+
+.content {
+    background: #FFFFFF;
+    padding: 10px 25px;
+    margin: 0 0 1px 0;
+    border-radius: 3px;
+}
+
+input.accordion + label.accordion + .content {
+    display: none;
+}
+
+input.accordion:checked + label.accordion + .content {
+    display: block;
+}
+	
+input.box {
+		display: inline;
+		width: 20px;
+		height: 20px;
+		vertical-align:middle; 
+}	
+	
+label.box { 
+	  display: inline;    
+    padding: 0px;
+    margin: 0 0 0 0;
+    cursor: pointer;
+    background: #d5d5d5;
+    border-radius: 3px;
+    color: #000000;
+    transition: ease .5s;
+	  position: relative;
+}
+
+
+</style>
+</head>
+</html>
 
 <div id="stage1a"></div>
 
@@ -34,60 +109,85 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 
 <div id="stage1c"></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>C) Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they are below the age of three in this calendar year . See examples below for when a PDT must be taken:</p>
-
-<table>
-  <tbody>
-    <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;"><b>Direct Flights</b></td>
-    </tr>
-        <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; line-height:1.35;">Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h.</td>
-    </tr>
-        <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a less than 24-hour Transit Period to Singapore</b></td>
-    </tr>
-            <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; line-height:1.35;">Traveller B is scheduled for departure on 3 Nov 2021 from Airport A. He will transit at Airport B for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from Airport A.</td>
-    </tr>   
-            <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a Transit Period exceeding 24 hours</b></td>
-    </tr>
-                <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; line-height:1.35;">Traveller C is scheduled for departure from Airport A on 3 Nov 2021. He will transit in Airport B for a period lasting more than 24 hours. In this scenario, he will take his PDT at Airport B, within 2 days before his connecting flight to Singapore.</td>
-    </tr>   
-  </tbody>
-  </table>
-
-<p style="line-height:1.35;">Travellers are to take a <b>COVID-19 Polymerase Chain Reaction (PCR) test</b> at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the negative test result that meets all the following conditions:</p>
-
-<!--<p style="line-height:1.35;">Travellers must obtain a copy of the negative test result that meets all the following conditions:</p>-->
-
-<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Is in English (or accompanied with an English translation);</li> 
-<li style="padding-left: 20px; ont-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Reflects the date and result of the test.</li>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Monitor your health status. You should defer travel if you:</p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:disc;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Are feeling unwell (e.g. fever, cough, runny nose, sore throat, loss of taste or smell)</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
-
-<p style="line-height:1.35;"><b>Handwritten reports will be rejected. Antigen Rapid Tests are not allowed.</b> Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.</p>
+	<p style="line-height:1.35;">Travellers arriving in Singapore from 23 Jan 2022, 2359h who have recently tested positive for COVID-19, may qualify for exemption from the COVID-19 pre-departure test and other border measures prescribed under the Vaccinated-Recovered (VR) traveller protocol. Use this <a href="https://www.checkfirst.gov.sg/c/527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-checker tool</a> to determine if you qualify for VR protocol. Travellers who qualify, should refer to the protocols stipulated on the <a href="/vaccinated-recovered" target="_blank">VR Protocol page</a> instead of this checklist.</p>
+	<p style="line-height:1.35;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:decimal;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Is not a handwritten document;</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Is in English or accompanied with an English translation;</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Reflects the date and result of the COVID-19 test</li>
+</ol>
+<br>
+	<table>
+	<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b>A)</b></td>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Any of the following showing a positive COVID-19 infection <b>between 14 and 90 days before the date of departure for Singapore</b>:
+<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Antigen Rapid Test (ART) result administered by a trained professional (self-swabs are disallowed)</li>
+	</ol>
+	</td>
+	</tr>
+<tr>
+		<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b> OR </b></td>
+		</tr>
+			<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;vertical-align:middle;"><b>B)</b></td>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Medical discharge memo issued by the relevant state authority or licensed medical professional, showing:
+	<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Name (per travel document used to enter Singapore);</li>
+				<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
+				<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Date of infection which must fall <b>within 14 to 90 days (inclusive)</b> before the date of departure for Singapore.</li>
+	</ol>
+	</td>
+		</tr>
+	</table>
+		<p style="line-height:1.35;">If you are well or ineligible for the <a href="/vaccinated-recovered" target="_blank">VR Protocol</a>, the rest of this checklist remains applicable to you.</p>
 </div>
 
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>D) Submission of Health Declaration</b></i></div>
+<div id="stage1d"></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>D) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">All travellers, except the groups listed below, <b>must</b> take a Pre-Departure Test (PDT) <b>within 2 days before departure</b> for Singapore:</p>
+	
+<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Below the age of three in this calendar year; OR</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; "><b>[For travellers arriving from 23 Jan 2022, 2359h]</b> Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this <a href="https://www.checkfirst.gov.sg/c/527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-checker tool</a>, and can show relevant proof of recovery outlined at Stage 1C.</li>
+	</ol>
+<p style="line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">at an internationally accredited or recognised lab/clinic/medical facility</a>. The PDT result must not be a handwritten document, and fulfil the following:</p>
+
+<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:decimal;">
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Is in English (or accompanied with an English translation);</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Reflects the date and result of the PCR test.</li>
+	</ol>
+<p style="line-height:1.35;">Click on (+) below for illustrations for when a PDT must be taken.</p>	
+<input class="accordion" type="checkbox" id="pdt-illustration">
+<label class="accordion" for="pdt-illustration"><b>Illustrations for when a PDT must be taken:</b></label>
+	<div class="content" style="background-color:#ededed;"><ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Direct Flights</b> - Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h. </li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Flights with a less than 24-hour Transit Period to Singapore</b> - Traveller B is scheduled for departure on 3 Nov 2021 from Airport A. He will transit at Airport B for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from Airport A.</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Flights with a Transit Period exceeding 24 hours</b> - Traveller C is scheduled for departure from Airport A on 3 Nov 2021. He will transit in Airport B for a period lasting more than 24 hours. In this scenario, he will take his PDT at Airport B, within 2 days before his connecting flight to Singapore.</li>
+	</ol>
+</div>
+</div>
+
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>E) Submission of Health Declaration and Digital Vaccination Certificate</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>.</p>
 
 <p style="line-height:1.35;">All SGAC submissions are free-of-charge, and <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> should also upload their digitally-verifiable vaccination certificate if they have one, i.e. certificate with a QR code. Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings</a>.</p>
-
-<p style="line-height:1.35;">Travellers should <b>defer their travels</b> if they:</p>
-
-<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Are showing <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
-</ol>
 </div>
 
 
@@ -98,7 +198,7 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers who are fit for travel should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.</p></div>-->
 
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>E) Installation of TraceTogether app</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>F) Installation of TraceTogether app</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p>
 </div>
@@ -106,7 +206,7 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 
 <div id="1G"></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>F) Request for alternative Stay-Home Notice (SHN) arrangements</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>G) Request for alternative Stay-Home Notice (SHN) arrangements</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers will, <b>by default</b>, serve their 10-day Stay-Home Notice (SHN) at an assigned hotel, i.e. an SHN-Dedicated Facility (SDF). Payment for a 10-day SHN stay at an SDF, inclusive of food-related costs, is collected during entry approval (see Stage 1A; indicative costs below). Due to fast-changing SDF demands, travellers will not be informed of their assigned hotel before arrival, and no bookings are required. Standard SDF costs are indicated below, and would have been collected at the point of entry approval. Singapore citizens and PRs will be contacted separately regarding their SDF charges after their arrival.</p>
 
@@ -145,7 +245,7 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Valid Pre-Departure Test showing a negative COVID-19 result (see Stage 1C)</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">PDT reports and proof of recovery documentation (per Stages <a href="#stage1c">1C</a> and <a href="#stage1d">1D</a>)</li>
 </ol>
 
 <p style="line-height:1.35;">Travellers who fail to produce these documents may be denied boarding.</p>
@@ -156,9 +256,9 @@ This checklist covers the pre-departure to post-arrival process for travellers w
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <b><a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1E), of their <b><a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
 
-<p style="line-height:1.35;"><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who meet the following conditions <b>must clear immigration at the manual counters and request the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1E):</p>
+<p style="line-height:1.35;"><b><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> can ask the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1F):</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Aged 12 and above; </li>

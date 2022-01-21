@@ -41,6 +41,18 @@ description: ""
 </p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><i>*Includes the following MOM-issued work passes: Employment Pass, Entre Pass, Personalised Employment Pass, S Pass, Work Permit, Training Employment Pass, Training Work Permit and Work Holiday Pass. <b>Work Pass in-principal approval holders are ineligible for PCA and should obtain their <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore" target="_blank">entry approvals from MOM.</a></b></i></p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><b><u>From 23 January 2022, 2359 hrs<u></b>, fully vaccinated and recently-recovered within 90 days of their last infection will be exempted from all testing and SHN requirements if they are able to provide appropriate documentary proof. Travellers should refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for the list of documentation that travellers should present at arrival immigration to qualify for this exemption. </p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Non-fully vaccinated and recently-recovered travellers within 90 days of their last infection will be exempted from pre-departure testing requirements, but will be subjected to all other prevailing border measures. Travellers may present the following documentation to depart for/enter Singapore without a valid Pre-Departure Test (PDT) result:</p>	
+	 <ol style="list-style-type:lower-alpha; padding-left:25px;">
+		 <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Positive COVID-19 PCR test or professionally-administered ART result between 14 – 90 days before date of departure for Singapore for non-fully vaccinated persons; and </li>
+		 <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Discharge memo, with: 
+		  <ol style="list-style-type:lower-roman; padding-left:25px;">
+			   <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Name and Identification number/Date Of Birth;</li>
+			    <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Date of infection (either directly stated, or inferable from the discharge date) within 14 – 90 days before date of departure for Singapore for non-fully vaccinated persons; and</li>
+			    <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Issued by relevant state authority or licensed medical professional</li>
+			 </ol>
+		 </li>
+	</ol>
 
 
 <p id="stage1b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>B) Secure Self-Isolation Accommodation</b></i></u></p>
@@ -77,8 +89,8 @@ description: ""
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers should <b>defer their travels</b> if they:
 <ol style="list-style-type:lower-roman; padding-left:25px;">
-	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Have <a href="/health/covid19-symptoms" target="_blank">COVID-19 symptoms</a>;</li>
-		<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
+	<li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;">Have COVID-19 symptoms;</li>
+		<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19 in the last 7 day for fully vaccinated travellers and 14 days for non-fully vaccinated travellers before departing for Singapore; or</li>
 		<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 	</ol>
 </p>

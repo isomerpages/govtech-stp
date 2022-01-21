@@ -208,7 +208,7 @@ Entries into Singapore under the PCA must be sponsored by a Singapore-based comp
 
 #### 1. What should I do if I feel unwell on or before the date of my end-of-SHN COVID-19 test appointment?
 
-Travellers who are [unwell](/health/covid19-symptoms) should inform the relevant agencies immediately and should also not leave their accommodation for the COVID-19 test. Click [here](https://go.gov.sg/tc) for more details.
+Travellers who are unwell should inform the relevant agencies immediately and should also not leave their accommodation for the COVID-19 test. Click [here](https://go.gov.sg/tc) for more details.
 
 #### 2. Can I defer or change the appointment date/time of my end-of-SHN COVID-19 test?
 
@@ -237,7 +237,7 @@ The latest cost of the test is S$125. Payment would already be collected at the 
 
 #### 6. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
 
-Travellers who are unwell or recently diagnosed with [COVID-19](/health/covid19-symptoms) should defer their travels. 
+Travellers who are unwell or recently diagnosed with COVID-19 should defer their travels. 
 
 Those diagnosed with COVID-19 should only schedule their trip to Singapore 14 days after the first diagnosis, <u>and</u> after they have fully recovered from COVID-19.
 
@@ -401,7 +401,7 @@ Employers or employees that do not have the details of the COVID-19 test appoint
 
 All PCA travellers <b>must</b> adhere to their appointment timing for their COVID-19 test. Should an employee miss their first test appointment, a second test appointment will be scheduled; these details would be sent to the employer/employee. Employers should ensure that their employees turn up for their test appointment. Travellers who refuse to or continue to miss their COVID-19 PCR tests may be charged under the Infectious Diseases Act and have their work passes revoked.
 
-Travellers should not turn up for their COVID-19 PCR test <u>if</u> they are [unwell](/health/covid19-symptoms) while serving their [Stay-Home Notice (SHN)](/health/shn). Such travellers should alert the relevant agencies immediately and remain in their accommodation. [Click here](https://go.gov.sg/tc) for the list of contact points on SHN and PCR test related issues. 
+Travellers should not turn up for their COVID-19 PCR test <u>if</u> they are unwell while serving their [Stay-Home Notice (SHN)](/health/shn). Such travellers should alert the relevant agencies immediately and remain in their accommodation. [Click here](https://go.gov.sg/tc) for the list of contact points on SHN and PCR test related issues. 
 
 #### 3. How will I and/or my employee be informed of his/her COVID-19 test result?
 

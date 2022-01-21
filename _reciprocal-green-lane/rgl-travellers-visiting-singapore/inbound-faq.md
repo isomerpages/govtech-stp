@@ -42,7 +42,7 @@ You can check [here](/arriving/overview) for the available SafeTravel lanes to v
 
 #### 4. I was recently diagnosed with COVID-19 but am scheduled to travel to Singapore. Can I still visit Singapore?
 
-In general, travellers who are unwell should seek for immediate medical attention and defer their travels. Travellers diagnosed with [COVID-19](/health/covid19-symptoms) less than 21 days before the scheduled date of arrival in Singapore will not be permitted travel to Singapore; airlines will deny such travellers from boarding.
+In general, travellers who are unwell should seek for immediate medical attention and defer their travels. Travellers diagnosed with COVID-19 less than 21 days before the scheduled date of arrival in Singapore will not be permitted travel to Singapore; airlines will deny such travellers from boarding.
 
 
 <div id="Applicationprocess"></div>

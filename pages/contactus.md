@@ -37,6 +37,20 @@ You can find the following forms of commonly requested support on this page:
   </tr>
 </thead>
 <tbody>
+	   <tr>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Vaccinated Travel Lane (VTL) Tests and Protocols for a Positive Antigen Rapid Test (ART)</b> </td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers arriving in Singapore <b>before 23 Jan 2022, 2359h</b>, via VTL (Air) or (Land) will be subject to an on-arrival test,  unsupervised self-administered antigen Rapid Test (ART) on Days 2, 4, 5 and 6 with submission of results online, and supervised ART on Days 3 and 7 from their arrival.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers arriving in Singapore <b>from 23 Jan 2022, 2359h</b>, via VTL (Air) or (Land) will perform an on-arrival test, and self-administered ART from Day 2 to 7 of their arrival.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travelers who test positive on their ART do not need to undergo a confirmatory PCR test. However, they must self-isolate for 72 hours and take an ART at the end of the period. Self-isolation ends if the traveller tests negative on their ART. Otherwise, take another ART 24 hours later. Visit <a href="https://covid.gov.sg/travellers" target="_blank">https://covid.gov.sg/travellers</a> for more details on recovery protocols for travellers.</p>
+</td>
+ </tr>
+		   <tr>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Travel for recently-recovered travellers</b> </td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers arriving in Singapore <b>from 23 Jan 2022, 2359h</b>, who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore will be waived of all testing and Stay-Home Notice requirements. Refer to the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Protocol</a> for details.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Non-fully vaccinated travellers who produce credible proof of having contracted COVID-19 between 14 and 90 days before departure for Singapore will be exempted from their pre-departure tests. No appeal is required.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">This <a href="https://www.checkfirst.gov.sg/c527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-check tool</a> can help advise if you qualify for any pre-departure test or border measure exemptions resulting from your vaccinated or recovered status. Except for Singapore Citizens and PRs, entry approval under your respective Safe Travel Lane is still required.</p>
+</td>
+ </tr>
 			   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>End of Stay-Home Notice (SHN) and exit from SHN accommodation</b> </td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">A Stay-Home Notice (SHN) takes effect immediately on the day of its issuance and travellers must remain in their SHN accommodation for the period specified in the notice. An SHN ends <b>after</b> the traveller receives a negative exit COVID-19 Polymerase Chain Reaction Test ("exit PCR test"), or completes the specified SHN period, <b>whichever is later</b>. See illustration below, and use the SHN end date calculator <a href="/shn-calculator" target="_blank">here</a>.</p>

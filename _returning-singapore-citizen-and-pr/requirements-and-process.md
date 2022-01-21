@@ -37,7 +37,7 @@ Please note that travellers who have received COVID-19 vaccination or recovered 
 
 ### 4. Pre-Departure Preparation (within 72 hours before Departure)
 
-Travellers should <a href="https://safetravel.ica.gov.sg/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
+Travellers should monitor their health and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
 
 <ul style="margin-top:0px; list-style-type: decimal;">
 	<li style="font-size:18px;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;</li> 

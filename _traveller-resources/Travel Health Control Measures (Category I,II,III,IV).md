@@ -28,7 +28,8 @@ This page provides a summary of the four categories of travel health control mea
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
-							<!--<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> The travel ban on all travellers whose 14-day travel history includes Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe will be lifted <b>from 26 Dec 2021, 2359hrs</b>. Between now and 26 Dec, only Singapore Citizens and Permanent Residents with a travel history involving these countries/regions may enter Singapore, but will be subject to Category (IV) protocols.</p>-->
+					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
+						<b>➂</b> Travellers arriving in Singapore <b>from 23 Jan 2022, 2359h</b> who have recently recovered from COVID-19 can be exempted from some or all of the border measures below. Details of eligibility and documentation required for such recovered travellers can be found via the respective Category (I) – (IV) travel checklists, which can be accessed via the tables below after you determine the appropriate category. </p>
 			</td>
     </tr>
 	</tbody>
@@ -42,7 +43,7 @@ This page provides a summary of the four categories of travel health control mea
 
 <div id="from"></div>
 
-### Categories of Travel Health Control Measures (for arrivals from 7 Jan 2022, 2359h)
+### Categories of Travel Health Control Measures
 
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
@@ -51,7 +52,7 @@ This page provides a summary of the four categories of travel health control mea
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (I) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-1">Click here</a> for a printable Category (I) Traveller’s Checklist, with guides for all documentation, tests and payments needed]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (I) Travel and Health Control Measures Summary</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-1">Click here</a> for a printable Category (I) Traveller’s Checklist, with detailed guides for all documentation, tests and payments needed]</i></span></th>
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
@@ -90,7 +91,7 @@ This page provides a summary of the four categories of travel health control mea
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (II) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2">Click here</a> for a printable Category (II) Traveller’s Checklist, with guides for all documentation, tests and payments needed]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (II) Travel and Health Control Measures Summary</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2">Click here</a> for a printable Category (II) Traveller’s Checklist, with detailed guides for all documentation, tests and payments needed]</i></span></th>
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
@@ -145,7 +146,7 @@ This page provides a summary of the four categories of travel health control mea
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (III) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-3">Click here</a> for a printable Category (III) Traveller’s Checklist, with guides for all documentation, tests and payments needed]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (III) Travel and Health Control Measures Summary </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-3">Click here</a> for a printable Category (III) Traveller’s Checklist, with detailed guides for all documentation, tests and payments needed]</i></span></th>
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
@@ -197,7 +198,7 @@ This page provides a summary of the four categories of travel health control mea
 <table style="overflow: hidden;">
 <thead>
 <tr>
-<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (IV) Travel and Health Control Measures </b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-4">Click here</a> for a printable Category (IV) Traveller’s Checklist, with guides for all documentation, tests and payments needed]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (IV) Travel and Health Control Measures Summary</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-4">Click here</a> for a printable Category (IV) Traveller’s Checklist, with detailed guides for all documentation, tests and payments needed]</i></span></th>
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
