@@ -10,15 +10,6 @@ permalink: /travel-checklist/category-4
 
 <p style="line-height:1.35;">Travellers may print out this page and indicate with a "&#9745;" in the box (&#9744;) for completed activities.</p>
 
-<ol style="padding-left: 20px; list-style-type: lower-roman;">
-<li style="padding-left: 20px; line-height:1.35;">Are travelling to Singapore via the Returning Singapore Citizen/Permanent Resident Lane, Familial Ties Lane, or Student’s Pass Lane; <b>AND</b></li>
-<li style="padding-left: 20px; line-height:1.35;">Have visited .</li>
-</ol>
-
-<p style="line-height:1.35;">Travellers who do not meet the above conditions should refer to the <a href="/travel-checklist/overview" target="_blank">checklist specific to their travel arrangement/travel history</a> or their approval letters for travel instructions. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore.</p>
-
-<p style="line-height:1.35;">Travellers should check the box <b>(&#9744;)</b> for completed activities.</p>
-
 
 ### Stage 1: Pre-Departure for Singapore
 
