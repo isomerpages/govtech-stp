@@ -17,7 +17,7 @@ On this page, you will find the following information regarding transiting in Si
 
 #### Eligibility
 
-<p style="font-size:20px; line-height:1.35;">Travellers are advised to check with their airlines if it has an approved transfer route through Singapore before purchasing tickets. <b>Travellers do not need to obtain approvals under any Safe Travel Lane (e.g. Vaccinated Travel Lane) to transit in Singapore.</b></p>				
+<p style="font-size:20px; line-height:1.35;">Travellers are advised to check with their airline if it has an approved transfer route through Singapore before purchasing tickets. <b>Travellers do not need to obtain approvals under any Safe Travel Lane (e.g. Vaccinated Travel Lane) to transit in Singapore.</b></p>				
 
 
 <div id="PDT"></div>
