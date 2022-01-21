@@ -91,7 +91,7 @@ description: ""
 	</ol>
 <p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>&nbsp;<b>Defer travel</b> if you:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Have COVID-19 symptoms;</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Have COVID-19 symptoms; or</li>
 		<li style="padding-left:10px; margin-bottom:0px; padding-bottom:10px; line-height:1.35; font-size:18px;">Are diagnosed or suspected to have COVID-19 infection in the last 7 days before departing for Singapore and test positive for COVID-19 on a PCR test or professionally administered ART at least 72 hours after your initial diagnosis.</li>
 	</ol>
 	</div>
