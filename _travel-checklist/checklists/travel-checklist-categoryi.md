@@ -94,10 +94,10 @@ label.box {
 
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Application for Entry Approval</b></i></div>
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore. To check for the status of your application, click <a target="_blank" href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry">here</a>.</p></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore. To check for the status of your application, click <a target="_blank" href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry">here</a>.</p></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Application for Entry Visa (if applicable)</b></i></div>
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a target="_blank" href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">Click here to check if a visa is required and to apply if needed</a>. </p></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a target="_blank" href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">Click here to check if a visa is required and to apply if needed</a>. </p></div>
 
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></i></div>
 
@@ -240,7 +240,7 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a target="_blank" href="/health/faq#transport">Click here for the latest transport advisory</a>.</p>
 
-<p style="line-height:1.35;">The use of public transport (e.g. trains, buses) is prohibited.</p>
+<p style="font-size:18px;line-height:1.35;">The use of public transport (e.g. trains, buses) is prohibited.</p>
 </div>
 
 
