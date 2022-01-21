@@ -65,7 +65,7 @@ permalink: /travel-checklist/category-4
 	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
 		<li style="padding-left: 20px; font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Name (per travel document used to enter Singapore);</li>
 				<li style="padding-left: 20px; font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
-				<li style="padding-left: 20px; font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Date of infection which must fall within 14 to 90 days (inclusive) before the date of departure for Singapore.</li>
+				<li style="padding-left: 20px; font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Date of infection which must fall <b>within 14 to 90 days (inclusive)</b> before the date of departure for Singapore.</li>
 	</ol>
 	</b></td>
 		</tr>
