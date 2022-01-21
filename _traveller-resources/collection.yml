@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - resources-overview.md
-      - Travel Checklist – Fully Vaccinated & Recovered Traveller.md
       - Checklists for Inbound Travellers .md
       - Travel Health Control Measures (Category I,II,III,IV).md
       - Vaccinated Status for Travel to Singapore .md
