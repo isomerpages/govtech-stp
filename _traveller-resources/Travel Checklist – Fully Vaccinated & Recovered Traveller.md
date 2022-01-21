@@ -10,7 +10,7 @@ This checklist applies only to Vaccinated-Recovered Travellers who are:
 		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Certified positive for COVID-19 between 7- 90 days (inclusive) before departure for Singapore</li>
 	</ol>
 	
-You may also rely on this self-check tool to determine if you qualify as a VR traveller.
+You may also rely on this <a href="https://www.checkfirst.gov.sg/c/527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-check tool</a> to determine if you qualify as a VR traveller.
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
