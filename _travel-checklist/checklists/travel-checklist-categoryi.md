@@ -145,7 +145,6 @@ permalink: /travel-checklist/category-1
 <p style="line-height:1.35;">Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a target="_blank" href="https://go.gov.sg/moh-smm">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a target="_blank" href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
 </div>
 
-
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) On-arrival COVID-19 Test</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Follow the instructions of at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
@@ -160,7 +159,6 @@ permalink: /travel-checklist/category-1
 
 <p style="line-height:1.35;">The use of public transport (e.g. trains, buses) is prohibited.</p>
 </div>
-
 
 
 ### Stage 4: Self-isolation
