@@ -168,39 +168,49 @@ Click here to [Go Back To Top](#top).
 
 The testing requirement will be stated in the traveller's <b>Entry Approval Letter or SafeTravel Pass.</b> As these requirements are determined based on the traveller's travel schemes, prospective travellers should visit the <a href="/arriving/overview" target="_blank">"Travelling to Singapore"</a> page for details. 
 
-In general, travellers required to be tested before their flight will be required to do so <u>within 2 days before departure to Singapore</u> and produce documentary proof of having been tested. Failing which, they may be denied boarding or turned away. See examples below on the acceptable duration for which a test should be taken: 
+In general, travellers required to be tested before their flight will be required to do so <u>within 2 days before departure to Singapore</u> and produce documentary proof of a negative test result. Unless there are other compelling reasons, travellers failing to meet this condition will be denied boarding or turned away. 
 
+See examples below on the acceptable duration for which a test should be taken:
+
+<div style="padding: 5px; margin-top:20px; border-style: solid; border-width: 1px;"><p style="font-size:20px; line-height:1.35;">
 <b>Direct Flights:</b> If the PDT is taken on <b>1 November 2021</b>, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoints) <b>up to 3 November 2021, 2359 hours.</b>
 
 <b>Connecting Flights to Singapore:</b> If the passenger's flight itinerary is LAX-NRT-SIN and the transit period at NRT is <u>less than 24 hours</u>, he must take his COVID-19 test within <u>2 days</u> before the scheduled departure of his flight from LAX. Should he remain at NRT for <u>more than 24 hours</u> for his connecting flight to Singapore, he will take a pre-departure test at NRT.
+</div>
 
-<!--#### 2. I am transiting via Singapore. Do I still need to have a valid negative COVID-19 test result?
+With effect <b>from 23 Jan 2022, 2359hrs</b>, travellers who have recently recovered from COVID-19 may produce any of the following as proof of their recovery status to be exempted from the pre-departure testing requirement. Individuals who present falsified COVID-19 test certificates will be dealt with accordingly, and may be barred from future entry applications.
 
-Click <a href="/transit/overview#PDT">here</a> for the relevant details.-->
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:20px;"><b>A) Fully Vaccinated Persons</b></div>
 
-#### 2. Can I travel to Singapore if I do not have a valid negative Covid-19 test certificate?
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:20px;">	<ol style="list-style-type:lower-roman; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">	
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Positive COVID-19 Polymerase Chain Reaction (PCR) test or professionally-administered Antigen Rapid Test (ART) result between 7 – 90 days before your date of departure for Singapore; </li>
+		<p style="font-size:20px; line-height:1.35;">OR</p>
+<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Discharge memo that:
+<ol style="list-style-type:disc; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
+<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your date of infection or the discharge date, which must be within 7 – 90 days before date of departure; and</li>
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">is issued by a relevant state authority or licensed medical professional.</li>
+	</ol>
+	</li>
+	</ol>
+</div>
 
-As a condition to enter Singapore, travellers must produce a negative COVID-19 test result. This may be enforced by the airline/transport operator during pre-boarding checks. Unless there are other compelling reasons, travellers failing to meet this condition will be denied entry into Singapore.
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:20px;"><b>B) Non-Fully Vaccinated Persons</b></div>
 
-Travellers may only enter if there are compelling reasons. Individuals who present falsified COVID-19 test certificates will be dealt with accordingly, and may be barred from future entry applications.
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:20px;"><ol style="list-style-type:lower-roman; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
+			<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Positive COVID-19 PCR test or professionally-administered ART result between 14 – 90 days before your date of departure for Singapore for non-fully vaccinated persons (e.g. children aged 12 and below); </li>
+		<p style="font-size:20px; line-height:1.35;">OR</p>
+						<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Discharge memo that:
+<ol style="list-style-type:disc; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
+<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your date of infection or the discharge date, which must be within 14 – 90 days before date of departure; and</li>
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">is issued by a relevant state authority or licensed medical professional.</li>
+	</ol>
+		</li>
+		</ol>
+</div>
 
-<div id="recovered"></div>
 
-#### 3. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
-
-Travellers who are unwell or recently diagnosed with [COVID-19](https://www.moh.gov.sg/covid-19/faqs) should defer their travels. 
-
-To prevent the spread of COVID-19, airlines will deny travellers from boarding an aircraft if they have a recent diagnosis of COVID-19, i.e. first diagnosis made 14 days or fewer from date of travel. Travellers should only schedule their trip to Singapore 14 days after the first diagnosis and after they have fully recovered from COVID-19. 
-
-<div id="pcrtestQ5"></div>
-
-#### 4. I have recovered from COVID-19. Am I required to be tested for COVID-19 before departure for Singapore?
-
-If a COVID-19 test is required to be taken <u>2 days</u> before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
-
-Travellers will be denied boarding by their airline or ferry if they are:
-- diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or
-- tested positive on the COVID-19 test within <u>2 days</u> before departure for Singapore.
 
 <!--<div id="testresult"></div>
 
@@ -220,19 +230,19 @@ Action will be taken against travellers who fail to comply with any of the stipu
 
 Yes, travellers must complete their SHN even after they are tested negative for their COVID-19 test before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.-->
 
-#### 5. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
+#### 2. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
 Travellers arriving from countries requiring a COVID-19 test must do so if they are three years old and above this calendar year. Individuals below the age of three this calendar year are, by default, exempted from this testing requirement. 
 
-#### 6. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
+#### 3. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
 Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.gov.sg/covid-19/faqs) to other members of the community if undetected. As part of border health control measures to detect cases early and minimise the public health risk of community transmission, COVID-19 testing is extended to inbound travellers aged 3 and above (in that calendar year). 
 
-#### 7. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
+#### 4. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
 
 In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
-#### 8. I did not receive my on-arrival COVID-19 PCR test results after 24 hours. What should I do?
+#### 5. I did not receive my on-arrival COVID-19 PCR test results after 24 hours. What should I do?
 
 Please email <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
 
