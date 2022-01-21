@@ -20,7 +20,7 @@ You may also rely on this self-check tool to determine if you qualify as a VR tr
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
   </div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3A"><label class="box" for="3A">&nbsp;&nbsp;<b>B) Obtain Medical Proof of COVID-19 infection detected 7 – 90 days before date of departure</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">As proof of a past COVID-19 infection, Vaccinated-Recovered Travellers must obtain either of the following medical documents, which must be in English or translated to English. Handwritten documents will be rejected.</p>
@@ -50,8 +50,8 @@ You may also rely on this self-check tool to determine if you qualify as a VR tr
 	</table>
   </div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3A"><label class="box" for="3A">&nbsp;&nbsp;<b>B) Obtain Medical Proof of COVID-19 infection detected 7 – 90 days before date of departure</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3A"><label class="box" for="3A">&nbsp;&nbsp;<b>C) [Short-Term visitors and Long-term Pass holders] Purchase COVID-19 Insurance</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-
-	
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Purchase travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. <a href="/health/insurance-and-treatment" target="_blank">Click here</a> for the list of available travel insurance products offered in Singapore.</p>
+	</div>
