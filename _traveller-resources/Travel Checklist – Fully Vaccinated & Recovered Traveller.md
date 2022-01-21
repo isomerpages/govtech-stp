@@ -34,9 +34,18 @@ You may also rely on this self-check tool to determine if you qualify as a VR tr
 	</ol>
 	</b></td>
 	</tr>
+<tr>
+		<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;vertical-align:middle;"><b> OR </b></td>
+		</tr>
 			<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;vertical-align:middle;"><b>B)</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; vertical-align:middle;"><b></b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; vertical-align:middle;"><b>Medical discharge memo issued by the relevant state authority or licensed medical professional, showing:
+	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">i)	Name (per travel document used to enter Singapore);</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">ii)	ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; "></li>
+	</ol>
+	</b></td>
 		</tr>
 	</table>
 		
