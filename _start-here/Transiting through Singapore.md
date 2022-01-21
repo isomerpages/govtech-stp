@@ -15,14 +15,14 @@ On this page, you will find the following information regarding transiting in Si
 
 <div id="eligibility"></div>
 
-#### Eligibility
+#### 1. Eligibility
 
 <p style="font-size:20px; line-height:1.35;">Travellers are advised to check with their airline if it has an approved transfer route through Singapore before purchasing tickets. <b>Travellers do not need to obtain approvals under any Safe Travel Lane (e.g. Vaccinated Travel Lane) to transit in Singapore.</b></p>				
 
 
 <div id="PDT"></div>
 
-#### COVID-19 Pre-Departure Test
+#### 2. COVID-19 Pre-Departure Test
 
 <!-- <p style="font-size:20px; line-height:1.35;">Transit travellers with a 14-day travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (I) countries/regions</a> are <b>not</b> required to take a pre-departure COVID-19 test, 
 	<b>only if their scheduled time of arrival is before 2 Dec 2359h SGT.</b></p>-->
@@ -70,7 +70,7 @@ On this page, you will find the following information regarding transiting in Si
 
 <div id="recovered"></div>
 
-#### Requirements for Recently-Recovered Travellers
+#### 3. Requirements for Recently-Recovered Travellers
 
 <p style="font-size:20px; line-height:1.35;">With effect from <b>23 Jan 2022, 2359hrs</b>, travellers who have recently recovered from COVID-19 may produce any of the following to their airline/transport operator as proof of their recovery status to be exempted from the pre-departure testing requirement.</p>
 
@@ -108,6 +108,6 @@ On this page, you will find the following information regarding transiting in Si
 
 <div id="visa"></div>
 
-#### Entry Visas
+#### 4. Entry Visas
 
 <p style="font-size:20px; line-height:1.35;">Foreign travellers transiting in Singapore do not require entry visas. Transit passengers need to be through-checked to their onward destination. They will <b><u>not</u></b> be allowed to clear arrival immigration or collect their baggage.</p>
