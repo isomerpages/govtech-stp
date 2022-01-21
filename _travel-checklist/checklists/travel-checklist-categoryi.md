@@ -139,7 +139,7 @@ label.box {
 	</b></td>
 		</tr>
 	</tbody></table>
-	<p style="font-size:18px;line-height:1.35;">If you are well or ineligible for <a target="_blank" href="/vaccinated-recovered">VR Protocol</a>, the rest of this checklist remains applicable to you.</p>
+	<p style="font-size:18px;line-height:1.35;">If you are well or ineligible for the <a target="_blank" href="/vaccinated-recovered">VR Protocol</a>, the rest of this checklist remains applicable to you.</p>
 </div>
 
 <div id="1D" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) COVID-19 Pre-Departure Tests (PDT)</b></i></div>
