@@ -5,7 +5,12 @@ description: Requirements for transiting through Singapore
 ---
 On this page, you will find the following information regarding transiting in Singapore:
 
-
+<ol style="margin-top:10px; margin-bottom:10px; font-size:20px;">
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#advisories">Eligibility</a> </li>
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#PDT">COVID-19 Pre-Departure Test</a></li>
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#Digital">Requirements for Recently-Recovered Travellers</a></li>
+    <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#Proof">Entry Visas</a></li>
+</ol>
 
 
 <div id="eligibility"></div>
@@ -21,11 +26,11 @@ On this page, you will find the following information regarding transiting in Si
 <!-- <p style="font-size:20px; line-height:1.35;">Transit travellers with a 14-day travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (I) countries/regions</a> are <b>not</b> required to take a pre-departure COVID-19 test, 
 	<b>only if their scheduled time of arrival is before 2 Dec 2359h SGT.</b></p>-->
 
-<p style="font-size:20px; line-height:1.35;">All transit travellers must take a COVID-19 test <b>within 2 days before departure for Singapore.</b></p>
+<p style="font-size:20px; line-height:1.35;">In general, all transit travellers must take a COVID-19 test <b>within 2 days before departure for Singapore and obtain a negative test result</b>. Travellers who have recently tested positive for COVID-19 may be <a href="">exempted from pre-departure tests under certain conditions</a>.</p>
 
 <div style="padding: 5px; margin-top:20px; border-style: solid; border-width: 1px;"><p style="font-size:20px; line-height:1.35;"><i><u>Illustration of acceptable 2-day timeline</u>: A traveller departing for Singapore on 3 December 2021 should take a pre-departure COVID-19 test no earlier than 1 December 2021.</i></p></div>
 
-<p style="font-size:20px; line-height:1.35;">Travellers without a valid negative COVID-19 test will not be allowed to board their connecting flight or ferry out of Singapore. See the table below for the permitted COVID-19 tests to be taken, depending on the traveller's 14-day travel history before their scheduled transit in Singapore.</p>
+<p style="font-size:20px; line-height:1.35;">See the table below for the permitted COVID-19 tests to be taken, depending on the traveller's 14-day travel history before their scheduled transit in Singapore.</p>
 
 <table>
 <tbody>
@@ -61,7 +66,7 @@ On this page, you will find the following information regarding transiting in Si
 
 <p style="font-size:20px; line-height:1.35;">Travellers transiting through Singapore will not be subject to COVID-19 tests upon arrival.</p>
 
-
+#### Requirements for Recently-Recovered Travellers
 
 #### Entry Visas
 
