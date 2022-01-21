@@ -70,15 +70,23 @@ On this page, you will find the following information regarding transiting in Si
 
 <p style="font-size:20px; line-height:1.35;">With effect from <b>23 Jan 2022, 2359hrs</b>, travellers who have recently recovered from COVID-19 may produce any of the following to their airline/transport operator as proof of their recovery status to be exempted from the pre-departure testing requirement.</p>
 
-<ol style="list-style-type:lower-latin; font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;">
-		<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">
-	<ol style="list-style-type:lower-roman; font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;">	
-	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;"></li>
+<ol style="list-style-type:lower-latin; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
+		<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;"><b>Fully Vaccinated Persons</b>
+	<ol style="list-style-type:lower-roman; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">	
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Positive COVID-19 Polymerase Chain Reaction (PCR) test or professionally-administered Antigen Rapid Test (ART) result between 7 – 90 days before your date of departure for Singapore; </li>
+		<p style="font-size:20px; line-height:1.35;">OR</p>
+<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Discharge memo that:
+<ol style="list-style-type:disc; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
+<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your date of infection or the discharge date, which must be within 7 – 90 days before date of departure; and</li>
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">is issued by a relevant state authority or licensed medical professional.</li>
 	</ol>
 	</li>
-	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">
-		<ol style="list-style-type:lower-roman; font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;">
-			<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;"></li>
+	</ol>
+	</li>
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">
+		<ol style="list-style-type:lower-roman; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
+			<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;"></li>
 		</ol>
 	</li>
 	</ol>
