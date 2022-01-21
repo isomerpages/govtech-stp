@@ -6,7 +6,7 @@ permalink: /travel-checklist/dcev
 
 <p style="line-height:1.35;">This checklist sets out the general health-related protocols for travellers <b>already approved</b> for entry via the Death and Critical Illness Emergency Visit Lane (DCEV) and meet the conditions below. Under this lane, arrangements deviating from the prevailing health protocols, e.g. making short and safe visits to a medical facility and/or funeral, will be arranged.</p> 
 
-<p style="line-height:1.35;">Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Reciprocal Green Lane, Vaccinated Travel Lane, or are fully vaccinated and recovered from COVID-19 should refer to the lane specific requirements or refer to their approval letters for instructions. Return to “Travelling to Singapore” for more details on the other lanes.</p>
+<p style="line-height:1.35;">Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Reciprocal Green Lane, Vaccinated Travel Lane, or are fully vaccinated and recovered from COVID-19 should refer to the <a href="/travel-checklist/overview" target="_blank">“lane specific requirements</a> or refer to their approval letters for instructions. Return to <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> for more details on the other lanes.</p>
 
 <p style="line-height:1.35;">Travellers may print out this page and indicate with a <b>"&#9745;"</b> in the box <b>(&#x2610;)</b> for completed activities.</p>
 
