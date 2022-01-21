@@ -631,7 +631,6 @@ Travellers who test positive and are well must follow <a href="https://covid.gov
 
 Travellers who test positive and are medically high-risk or severely symptomatic should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target"_blank">Swab and Send Home (SASH) clinic</a>. 
 
-### UNSUPERVISED ARTS ON DAYS 2, 4, 5 AND 6
 
 #### 7. Where can travellers obtain ART self-test kits?
 
