@@ -43,11 +43,13 @@ permalink: /travel-checklist/category-4
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Is not a handwritten document;</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Is in English or accompanied with an English translation;</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the COVID-19 test</li>
 </ol>
+<br>
 	<table>
 	<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b>A)</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;"><b>Any of the following showing a positive COVID-19 infection between 7 and 90 days before the date of departure for Singapore:
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Any of the following showing a positive COVID-19 infection <b>between 14 and 90 days before the date of departure for Singapore:
 <ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">	Antigen Rapid Test (ART) result administered by a trained professional (self-swabs are disallowed)</li>
