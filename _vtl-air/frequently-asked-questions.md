@@ -12,9 +12,9 @@ permalink: /vtl/faq
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>IMPORTANT UPDATES</u></b></p>
 		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">The following measures are applicable for VTL (Air) travellers entering Singapore after 23 January 2022, 2359hrs (SGT):
 			<ol style="font-size:16px; margin-top:0px; margin-bottom:0px; color:black;">
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">All travellers will only be required to undergo unsupervised self-administered ARTs on Days 3 and 7 of their arrival, in addition to fulfilling pre-departure and on-arrival testing requirements.</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">All travellers will only be required to daily unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival, in addition to fulfilling pre-departure and on-arrival testing requirements.</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Those who test positive on the unsupervised self-administered ARTs on Days 3 and 7 no longer need to undergo a confirmatory PCR test but should instead abide by the relevant <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank">COVID-19 recovery protocol.</a></li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="vaccinated-recovered" target="_blank">this page</a> for more information.</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</li>
 	</ol>
 			</p>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;color:black;">VTL travellers who enter Singapore before 23 January 2022, 2359hrs (SGT) are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
@@ -838,7 +838,7 @@ Travellers withe EU DCCs issued in any European Union Member States or non-EU co
  
 ### (c) Pre-Departure COVID-19 Test
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year are not required to undergo a pre-departure COVID-19 test. Recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the pre-departure COVID-19 test. They must present a valid proof of recovery.</i></p>
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year are not required to undergo a pre-departure COVID-19 test. Recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the pre-departure COVID-19 test. They must present a valid <a href="/vaccinated-recovered" target="_blank">proof of recovery</a>.</i></p>
 
 
 #### 1. Are travellers under the VTL (Air) required to take any pre-departure COVID-19 tests?
@@ -1051,7 +1051,7 @@ When checking in at the departure airport, travellers must present the following
 <li>the name of the testing institution conducting the COVID-19 test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
 </ol>
 	</li>
-	<li><i>[for recovered travellers only]</i> a valid proof of recovery</li>
+	<li><i>[for recovered travellers only]</i> a valid <a href="/vaccinated-recovered" target="_blank">proof of recovery</a></li>
 	</ul>
 
 In addition, visa-required short-term visitors must present a valid visa.
@@ -1098,7 +1098,7 @@ At this point in time, travellers will only be able to transfer through Singapor
  
 ### (e) On-Arrival COVID-19 PCR Test at the Airport and Self-Isolation
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year are not required to undergo an on-arrival COVID-19 PCR test. Fully vaccinated recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the on-arrival COVID-19 PCR test. Please refer to this page for more information.</i></p>
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year are not required to undergo an on-arrival COVID-19 PCR test. Fully vaccinated recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the on-arrival COVID-19 PCR test. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</i></p>
 
 #### 1. Where is the on-arrival COVID-19 PCR test conducted?
 
@@ -1183,9 +1183,9 @@ VTL (Air) travellers issued a HRW after being identified as a close contact of a
 
 ### (f) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)
 
-<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: All travellers entering Singapore after 23 Jan 2022, 2359hrs will only be required to undergo unsupervised self-administered ARTs on Days 3 and 7 of their arrival. Those who test positive on the unsupervised self-administered ARTs on Days 3 and 7 no longer need to undergo a confirmatory PCR test but should instead abide by the relevant <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor " target="_blank">COVID-19 recovery protocol</a>.</span></i></p>
+<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: All travellers entering Singapore after 23 Jan 2022, 2359hrs will only be required to undergo daily unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival. Those who test positive on the unsupervised self-administered ARTs on Days 3 and 7 no longer need to undergo a confirmatory PCR test but should instead abide by the relevant <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor " target="_blank">COVID-19 recovery protocol</a>.</span></i></p>
 
-<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Recovered travellers are not exempted from any of the post-arrival COVID-19 ARTs. Fully vaccinated recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the post-arrival COVID-19 ARTs. Please refer to this page for more information.</span></i></p>
+<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Recovered travellers are not exempted from any of the post-arrival COVID-19 ARTs. Fully vaccinated recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the post-arrival COVID-19 ARTs. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</span></i></p>
 
 
 ### GENERAL MATTERS
@@ -1212,37 +1212,37 @@ The day that the traveller clears arrival immigration for entry into Singapore i
 	</tr>
 	<tr>
 	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle; width:100px;"><b>Day 2</b></td>
-						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;">Unsupervised ART*</td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;"> - </td>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;">Unsupervised ART</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;"> Unsupervised ART</td>
 	</tr>
 	<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:100px;"><b>Day 3</b></td>
 								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;">Supervised ART at QTC or CTC</td>
-			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;">Unsupervised ART*</td>
+			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;">Unsupervised ART</td>
 	</tr>
 	<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:100px;"><b>Day 4</b></td>
-								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;background-color:#FFFFFF;">Unsupervised ART*</td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;"> - </td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;background-color:#FFFFFF;">Unsupervised ART</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;">Unsupervised ART </td>
 	</tr>
 	<tr> 
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:100px;"><b>Day 5</b></td>
-						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;background-color:#FFFFFF;">Unsupervised ART*</td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;"> - </td>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;background-color:#FFFFFF;">Unsupervised ART</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;">Unsupervised ART </td>
 	</tr>
 	<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:100px;"><b>Day 6</b></td>
-						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;background-color:#FFFFFF;">Unsupervised ART*</td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;"> - </td>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;background-color:#FFFFFF;">Unsupervised ART</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;"> Unsupervised ART </td>
 	</tr>
 	<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:100px;"><b>Day 7</b></td>
 								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;background-color:#FFFFFF;">Supervised ART at QTC or CTC</td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;"> Unsupervised ART* </td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; background-color:#FFFFFF;"> Unsupervised ART </td>
 </tr>
-	<tr>
+	<!--<tr>
 <td colspan="3" style="font-size: 16px; border-top:1px solid #D8D8D8; text-align: left;">*Self-administered, with results to be submitted at the link sent to travellers.</td>
-	</tr>
+	</tr>-->
 	</table>
 
 Supervised self-administered COVID-19 ARTs must be performed at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. Unsupervised self-administered COVID-19 ARTs can be performed at one’s place of accommodation using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a>.
@@ -1268,7 +1268,7 @@ Travellers who test positive for any of their supervised or unsupervised ARTs mu
 
 Travellers should take private transport, taxi or private hire car to the CTC, and return to their place of accommodation immediately after their test. Use of public transport is not allowed. If they were planning to depart from Singapore, they should defer their travel plans, attend their confirmatory PCR test, and await their PCR test results. They should not leave their place of accommodation other than to undergo the PCR test and until their PCR test result is confirmed to be negative.
 
-Travellers who enter Singapore after 23 January 2022, 2359hrs, and test positive on the unsupervised self-administered ARTs on Days 3 and 7 will no longer need to undergo a confirmatory PCR test. Should you test positive, you must abide by the relevant COVID-19 recovery protocol immediately. You may refer to <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank"> this link</a> for more details on Protocol 2. You should self-isolate for 72 hours at your place of accommodation, which will allow you to safely recover, monitor your health and avoid spreading the virus further. If you were planning to depart from Singapore, you are required to defer your travel plans until you complete self-isolation and obtain a negative ART result. For more information on what to do if you feel unwell while in Singapore, please refer to <a href="https://www.covid.gov.sg/travellers" target="_blank"> this link</a>.
+Travellers who enter Singapore after 23 January 2022, 2359hrs, and test positive on the unsupervised self-administered ARTs will no longer need to undergo a confirmatory PCR test. Should you test positive, you must abide by the relevant COVID-19 recovery protocol immediately. You may refer to <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank"> this link</a> for more details on Protocol 2. You should self-isolate for 72 hours at your place of accommodation, which will allow you to safely recover, monitor your health and avoid spreading the virus further. If you were planning to depart from Singapore, you are required to defer your travel plans until you complete self-isolation and obtain a negative ART result. For more information on what to do if you feel unwell while in Singapore, please refer to <a href="https://www.covid.gov.sg/travellers" target="_blank"> this link</a>.
 
 Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
 
