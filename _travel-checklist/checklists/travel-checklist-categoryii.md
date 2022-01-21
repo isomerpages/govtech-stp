@@ -143,7 +143,7 @@ label.box {
 	</b></td>
 		</tr>
 	</tbody></table>
-	<p style="font-size:18px;line-height:1.35;">If you are well or ineligible for <a target="_blank" href="/vaccinated-recovered">VR Protocol</a>, the rest of this checklist remains applicable to you.</p>
+	<p style="font-size:18px;line-height:1.35;">If you are well or ineligible for the <a target="_blank" href="/vaccinated-recovered">VR Protocol</a>, the rest of this checklist remains applicable to you.</p>
 </div>
 
 <div id="stage1d"></div>
