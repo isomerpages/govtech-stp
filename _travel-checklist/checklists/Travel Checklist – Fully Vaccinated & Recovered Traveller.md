@@ -2,7 +2,6 @@
 title: Travel Checklist – Fully Vaccinated & Recovered Traveller
 permalink: /vaccinated-recovered
 description: ""
-third_nav_title: Checklists
 ---
 
 <p style="line-height:1.3; font-size: 18px;">This checklist applies only to Vaccinated-Recovered Travellers who are:</p>
