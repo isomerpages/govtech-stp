@@ -2,9 +2,9 @@ collections:
   travel-checklist:
     output: true
     order:
-      - checklists/Travel Checklist – Fully Vaccinated & Recovered Traveller.md
       - checklists/.keep
       - checklists/travel-checklist-categoryi.md
       - checklists/travel-checklist-categoryii.md
       - checklists/travel-checklist-categoryiii.md
       - checklists/travel-checklist-categoryiv.md
+      - checklists/Travel Checklist – Fully Vaccinated & Recovered Traveller.md
