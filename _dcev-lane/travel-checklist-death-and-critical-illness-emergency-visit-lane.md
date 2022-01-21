@@ -109,16 +109,11 @@ permalink: /travel-checklist/dcev
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>F) Registration and Pre-payment for On-Arrival COVID-19 Test</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">Travellers who have travel history to Category (I) countries/regions and are fit for travel should register and pay for an on-arrival COVID-19 PCR test:
-
-<ol style="padding-left: 20px; font-size:20px; margin-bottom:0px; list-style-type:lower-latin;">
-	<li style="padding-left: 20px; font-size:20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Arrivals by <b>Air</b>, <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a> (S$125/test)</li>
-	<li style="padding-left: 20px; font-size:20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Arrivals by <b>Sea</b> or <b>Land</b>, <a href="https://t.2c2p.com/express/parkwayshentonoat/" target="_blank">register and pay here</a> (S$160/test)</li>
-</ol>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">Travellers who have travel history to Category (I) countries/regions and are fit for travel should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay for an on-arrival COVID-19 PCR test</a> (S$125/test).
 
 <p style="line-height:1.35;">The on-arrival test is only required for those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.</p>
 
-<p style="line-height:1.35;"><span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions do not need to take an on-arrival test and do not need to make this registration/prepayment.</p>
+<p style="line-height:1.35;"><span style="color:red;">NOTE</span>: Travellers with a travel history to Category II, III or IV countries/regions do not need to take an on-arrival test and do not need to make this registration/prepayment.</p>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>G) Installation of TraceTogether app</b></i></div>
