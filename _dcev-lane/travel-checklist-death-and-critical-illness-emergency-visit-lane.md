@@ -18,7 +18,7 @@ permalink: /travel-checklist/dcev
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>B) Application for Entry Visas</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">check the main ICA site</a> for more information.</p></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers who are not Singapore Citizens, Permanent Residents or Long-Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Click here to check if a visa is required and to apply if needed</a>.</p></div>
 
 
 <div id="stage1c"></div>
