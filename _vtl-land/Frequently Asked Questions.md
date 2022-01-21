@@ -200,7 +200,7 @@ With effect from 23 January 2022, 2359 hours, <a href="/vaccinated-recovered" ta
 
 <ol style="list-style-type:lower-alpha;">
 	<li style="line-height:1.5;">Travellers who are fully vaccinated with a WHO-EUL vaccine (i.e. 14 days after second dose) and tested positive for COVID-19 between 7 to 90 days before their date of departure; and</li>
-		<li style="line-height:1.5;">b.	Travellers who are non-fully vaccinated (i.e. children aged 12 years or below) and tested positive for COVID-19 between 14 to 90 days before their date of departure.</li>
+		<li style="line-height:1.5;">Travellers who are non-fully vaccinated (i.e. children aged 12 years or below) and tested positive for COVID-19 between 14 to 90 days before their date of departure.</li>
 	</ol>
 
 These travellers must present the following documentation (in English, or with an English translation) to the bus operator before boarding:
@@ -620,7 +620,7 @@ With effect from 23 January 2022, 2359 hours, <a href="/vaccinated-recovered" ta
 Recovered travellers who are not fully vaccinated (i.e. children of age 12 or below) are required to undergo post-arrival ARTs.
 
 
-#### 5. Should travellers attend or perform their scheduled ARTs if they are unwell?
+#### 5. Should travellers who feel unwell undergo a self-administered ART?
 
 Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH) clinic</a>. They should take private transport, taxi or private hire car to the SASH clinic, and return to their place of accommodation immediately after their test. Use of public transport is <u>not</u> allowed. They do not need to attend or perform their scheduled ART on that day, but should remain contactable via their declared mobile number and email address.
 
@@ -629,9 +629,8 @@ Travellers who are feeling unwell, with symptoms such as fever, cough, or sore t
 
 Travellers who test positive and are well must follow <a href="https://covid.gov.sg/well-but-positive" target="_blank">MOH’s Protocol 2</a> and self-isolate at their place of residence or accommodation for the first 72 hours. After 72 hours, they may resume normal activities if they test negative for a self-administered ART. If the ART is positive, the traveller must continue to self-isolate and self-test until they test negative.
 
-Travellers who test positive and are medically high-risk or severely symptomatic should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target"_blank">Swab and Send Home (SASH) clinic</a>. 
+Travellers who test positive and are medically high-risk or severely symptomatic should seek medical attention at their nearest <a href="https://flugowhere.gov.sg" target="_blank">Swab and Send Home (SASH) clinic</a>. 
 
-### UNSUPERVISED ARTS ON DAYS 2, 4, 5 AND 6
 
 #### 7. Where can travellers obtain ART self-test kits?
 
