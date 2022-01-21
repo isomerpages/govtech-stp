@@ -130,7 +130,7 @@ permalink: /travel-checklist/dcev
 
 <ul style="list-style-type:lower-roman;">
 <li style="padding-left: 20px; line-height: 1.35;">Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and</li>
-<li style="padding-left: 20px; line-height:1.35;">	Valid Pre-Departure COVID-19 Test certificate showing a negative result (if required)</li>
+<li style="padding-left: 20px; line-height:1.35;">PDT reports and proof of recovery documentation (per Stages <a href="#stage1c">1C</a> and <a href="#stage1d">1D</a>) </li>
 </ul>
 
 <p style="line-height:1.35;">Travellers without the above may be denied boarding. Travellers who are exempted from (ii) should produce their proof of exemption to the transport operator instead.</p>
