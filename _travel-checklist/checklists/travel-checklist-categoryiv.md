@@ -63,9 +63,9 @@ permalink: /travel-checklist/category-4
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;vertical-align:middle;"><b>B)</b></td>
 <td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Medical discharge memo issued by the relevant state authority or licensed medical professional, showing:
 	<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Name (per travel document used to enter Singapore);</li>
-				<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
-				<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Date of infection which must fall <b>within 14 to 90 days (inclusive)</b> before the date of departure for Singapore.</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Name (per travel document used to enter Singapore);</li>
+				<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
+				<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Date of infection which must fall <b>within 14 to 90 days (inclusive)</b> before the date of departure for Singapore.</li>
 	</ol>
 	</b></td>
 		</tr>
@@ -78,7 +78,12 @@ permalink: /travel-checklist/category-4
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>D) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers must take a PDT <b>within 2 days before departure</b> for Singapore, unless they are below the age of three in this calendar year . See examples below for when a PDT must be taken:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">All travellers, except the groups listed below, <b>must</b> take a Pre-Departure Test (PDT) <b>within 2 days before departure</b> for Singapore:</p>
+	
+<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Below the age of three in this calendar year; OR</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; "><b>[For travellers arriving from 23 Jan 2022, 2359h]</b> Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this self-checker tool, and can show relevant proof of recovery outlined at Stage 1C.</li>
+	</ol>
 
 <table>
   <tbody>
