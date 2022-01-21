@@ -69,20 +69,13 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitors must have been to only one or more <a href="/shn-and-swab-summary">Category I countries/regions</a> and/ or Singapore for the last 14 consecutive days before departing for Singapore.</li>
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Monitor their health status before departure; Visitors should not travel to Singapore if they:
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Have symptoms of COVID-19;</li>
- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Are diagnosed or suspected to have COVID-19 infection in the last 14 days before departing for Singapore; or</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Had close contact with any person with COVID-19 in the last 7 days before departing for Singapore. Close contact means:
-  <ul style="margin-top:0px;">
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"> Providing care for a COVID-19 patient, including in healthcare or family/social setting; </li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Staying in the same place as a person with COVID-19 (e.g. household members); or</li>
-     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Close (i.e. less than 2 metres) and prolonged contact (15 minutes or more) with a person with COVID-19 (e.g. shared a meal).</li>
-  </ul> 
-  </li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Monitor their health status before departure;</li>
+	     <p style="font-size:16px; margin-top:15px; margin-bottom:0px;  line-height:1.0;"><b>[For travellers entering Singapore after 23 Jan 2022, 2359hrs] Defer travel</b> if you:</p>
+	     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Have COVID-19 symptoms;</li>
+	     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Are diagnosed or suspected to have contracted COVID-19* in the last 7 days (for fully vaccinated persons) or 14 days (for non-fully vaccinated persons, e.g. children aged 12 and below) before departing for Singapore; or</li>
+	     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes. <b>[Not applicable for recovered travellers with proof of recovery]</b></li>
   </ol>
-  </li>
-  </ol>
+<p style="font-size:16px; margin-top:15px; margin-bottom:0px;  line-height:1.0;"> <i>* If you test positive for COVID-19 in the last 7 days (for fully vaccinated persons) or 14 days (for non-fully vaccinated persons) before departing for Singapore, you are required to obtain a new negative COVID-19 PCR test or professionally-administered ART result more than 72 hours after the positive test in order to proceed with your travel.</i></p>
   </td>
  </tr>
                <tr>
@@ -123,14 +116,33 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </tr>
 	<tr>
 		<td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-Departure COVID-19 Test</b></td>
-				<td style="font-size:16px;border-right:1px solid #D8D8D8;">All travellers, except those aged 2 and below in the calendar year (i.e.a child who turns 2 in this calendar year will be exempted), must take either a professionally administered COVID-19 Antigen Rapid Test (ART), or a COVID-19 PCR test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a> in their country/region of departure, within 2 days* before departure for Singapore. Self-swabs are not allowed. Please also ensure that the test report:
+				<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travellers must take either a professionally administered COVID-19 Antigen Rapid Test (ART), or a COVID-19 PCR test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a> in their country/region of departure, within 2 days* before departure for Singapore. Self-swabs are not allowed. Please also ensure that the test report:
 <ol style="margin-top:0px; list-style-type: disc;">
 					 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Is in English (or accompanied with an English translation);</li>
 				 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Contains the traveller's name, and either date of birth or passport number (per the passport used to travel to Singapore); and</li>
 				 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Reflects the date and time the test was taken, the name of the testing institution, and a negative test result; and</li>
 				 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Is not handwritten</li>
 					</ol>
-					<p style="font-size:14px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*If the pre-departure test is taken on 1 December 2021, it will be valid for departures up to 3 December 2021, 2359 hours.</p></td>
+					<p style="font-size:14px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*If the pre-departure test is taken on 1 December 2021, it will be valid for departures up to 3 December 2021, 2359 hours.</p>
+		<p style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><span style="font-size:25px;  color:red;"><b>&#10005;</b></span> &nbsp; Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require a pre-departure COVID-19 test.</p>
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;  line-height:1.5;"><span style="font-size:25px;  color:red;"><b>&#10005;</b></span> &nbsp; Recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the pre-departure COVID-19 test. 
+					</p>
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">You must present any of the following proofs of recovery (in English, or with an English translation, which states your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore) to the airline staff at check-in and to the Immigration & Checkpoints Authority officer upon arrival, to (i) depart for and enter Singapore without a pre-departure test, and (ii) be exempted from all inland measures, including all on-arrival and post-arrival tests (if you are fully vaccinated):</p>
+				<ol style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:lower-alpha;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:lower-alpha;">Positive COVID-19 PCR test or professionally-administered ART result stating the date the test was taken, which must be:
+		<ol style="font-size:16px; list-style-type:lower-roman;">
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:lower-roman;">between 7 – 90 days before the date of departure for Singapore for fully vaccinated persons; </li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:lower-roman;">between 14 – 90 days before the date of departure for Singapore for non-fully vaccinated persons (e.g. children aged 12 and below); or</li>
+			</ol>
+		</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:lower-alpha;">	Discharge memo that: 
+		<ol style="font-size:16px; list-style-type:lower-roman;">
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;list-style-type:lower-roman;">states your date of infection or the discharge date, which must be within 7 – 90 days before the date of departure for Singapore for fully vaccinated persons, and 14 – 90 days before the date of departure for Singapore for non-fully vaccinated persons; and</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:lower-roman;">is issued by a relevant state authority or licensed medical professional.</li>
+			</ol>
+		</li>
+	</ol>	
+		</td>
 	</tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether</b> </td>
@@ -155,7 +167,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors); and</li>
-			          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid pre-departure COVID-19 PCR or ART test certificate showing a negative test result.</li>
+			          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid proof of recovery (for recovered travellers).</li>
     </ol> 
  </td>
  </tr>
@@ -181,7 +193,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid visa (for visa-required passport holders);</li>
 					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid pre-departure COVID-19 PCR or ART test certificate showing a negative test result; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs; and</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid proof of recovery (for recovered travellers).</li>
          </ol>
 		<b>Eligible travellers vaccinated overseas should also inform the immigration officer to temporarily register their vaccination details in their TraceTogether app</b>, in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>.  <br><br>
 			Please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here</a> for more information about the e-Pass.
@@ -189,7 +202,11 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </tr>
 	  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8;background-color:#EDEDED"><b>Transport from airport to accommodation</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Visitors, who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must immediately take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.<br/><br/> Visitors are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Visitors, who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must immediately take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.<br/><br/>
+	    <p style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><span style="font-size:25px;  color:red;"><b>&#10005;</b></span> &nbsp; Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require an on-arrival test.</p>
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;  line-height:1.5;"><span style="font-size:25px;  color:red;"><b>&#10005;</b></span> &nbsp; Fully vaccinated recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the on-arrival COVID-19 PCR test. Please refer to this page for more information.
+					</p>
+	    <br/><br/> Visitors are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall.
          </td>
  </tr>
 	<tr>
