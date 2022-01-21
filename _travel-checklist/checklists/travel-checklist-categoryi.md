@@ -137,7 +137,7 @@ permalink: /travel-checklist/category-1
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1E), of their <b><a target="_blank" href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
 
-	<p style="line-height:1.35;"><b><a target="_blank" href="/health/vtsg">Fully vaccinated</a> travellers can request the immigration officer to register their vaccination details in their TraceTogether App (see Stage 1G)</b>:</p>
+<p style="line-height:1.35;"><b><a target="_blank" href="/health/vtsg">Fully vaccinated</a> travellers can request the immigration officer to register their vaccination details in their TraceTogether App (see Stage 1G)</b>:</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Aged 12 and above; </li>
