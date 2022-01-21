@@ -2,6 +2,86 @@
 title: Travel Checklist - Category(IV)
 permalink: /travel-checklist/category-4
 ---
+<html>
+<head>
+<meta charset="utf-8">
+<title>Test Accordion</title>
+
+<style>	
+input.accordion {
+    display: none;
+}
+
+label.accordion {
+    display: block;    
+    padding: 10px 30px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #153855;
+    border-radius: 3px;
+    color: #FFFFFF;
+    transition: ease .5s;
+		position: relative;
+}
+
+label.accordion:hover {
+    background: #346f9e;
+}
+
+label.accordion::after {
+	font-family: "Font Awesome 5 Free";
+	content: '\271A';
+	font-weight: bold;
+	font-size: 22px;
+	position: absolute;
+	right: 10px;
+	top: 6px;
+}
+
+input.accordion:checked + label.old::after {
+	content: '\2716';
+}
+
+.content {
+    background: #FFFFFF;
+    padding: 10px 25px;
+    margin: 0 0 1px 0;
+    border-radius: 3px;
+}
+
+input.accordion + label.accordion + .content {
+    display: none;
+}
+
+input.accordion:checked + label.accordion + .content {
+    display: block;
+}
+	
+input.box {
+		display: inline;
+		width: 20px;
+		height: 20px;
+		vertical-align:middle; 
+}	
+	
+label.box { 
+	  display: inline;    
+    padding: 0px;
+    margin: 0 0 0 0;
+    cursor: pointer;
+    background: #d5d5d5;
+    border-radius: 3px;
+    color: #000000;
+    transition: ease .5s;
+	  position: relative;
+}
+
+
+</style>
+</head>
+</html>
+
+
 ### Instructions for the use of the Category (IV) Travel History Checklist 
 
 <p style="line-height:1.35;">This checklist is for individuals travelling via the Returning Singapore Citizens/Permanent Residents Lane or have obtained an Entry Approval issued under the Familial Ties Lane, or Student’s Pass Holder Lane.</p> 
