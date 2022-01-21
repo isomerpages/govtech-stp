@@ -38,6 +38,36 @@ permalink: /travel-checklist/category-4
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 	<p style="line-height:1.35;"><b>From 23 Jan 2022, 2359hrs</b>, travellers recently tested positive for COVID-19 may qualify for a waiver of COVID-19 pre-departure test and other border measures prescribed under the Vaccinated-Recovered (VR) traveller protocol. Travellers who qualify, should refer to the protocols stipulated on the <a href="/vaccinated-recovered" target="_blank">VR Protocol page</a> instead of this checklist. Use this self-checker tool to determine if you qualify for VR protocol. </p>
+	<p style="line-height:1.35;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:decimal;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Is not a handwritten document;</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Is in English or accompanied with an English translation;</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+</ol>
+	<table>
+	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b>A)</b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;"><b>Any of the following showing a positive COVID-19 infection between 7 and 90 days before the date of departure for Singapore:
+<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">	Antigen Rapid Test (ART) result administered by a trained professional (self-swabs are disallowed)</li>
+	</ol>
+	</b></td>
+	</tr>
+<tr>
+		<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b> OR </b></td>
+		</tr>
+			<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;vertical-align:middle;"><b>B)</b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;"><b>Medical discharge memo issued by the relevant state authority or licensed medical professional, showing:
+	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Name (per travel document used to enter Singapore);</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Date of infection which must fall within 7 to 90 days (inclusive) before the date of departure for Singapore.</li>
+	</ol>
+	</b></td>
+		</tr>
+	</table>
 </div>
 
 
