@@ -29,7 +29,7 @@ This page provides a summary of the four categories of travel health control mea
 										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>➂</b> Travellers arriving in Singapore from 23 Jan 2022, 2359h who have recently recovered from COVID-19 can be exempted from some or all of the border measures below. Details of eligibility and documentation required for such recovered travellers can be found via the respective Category (I) – (IV) travel checklists, which can be accessed via the tables below after you determine the appropriate category. </p>
+						<b>➂</b> Travellers arriving in Singapore <b>from 23 Jan 2022, 2359h</b> who have recently recovered from COVID-19 can be exempted from some or all of the border measures below. Details of eligibility and documentation required for such recovered travellers can be found via the respective Category (I) – (IV) travel checklists, which can be accessed via the tables below after you determine the appropriate category. </p>
 			</td>
     </tr>
 	</tbody>
