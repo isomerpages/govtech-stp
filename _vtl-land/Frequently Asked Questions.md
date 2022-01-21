@@ -200,7 +200,7 @@ With effect from 23 January 2022, 2359 hours, <a href="/vaccinated-recovered" ta
 
 <ol style="list-style-type:lower-alpha;">
 	<li style="line-height:1.5;">Travellers who are fully vaccinated with a WHO-EUL vaccine (i.e. 14 days after second dose) and tested positive for COVID-19 between 7 to 90 days before their date of departure; and</li>
-		<li style="line-height:1.5;">b.	Travellers who are non-fully vaccinated (i.e. children aged 12 years or below) and tested positive for COVID-19 between 14 to 90 days before their date of departure.</li>
+		<li style="line-height:1.5;">Travellers who are non-fully vaccinated (i.e. children aged 12 years or below) and tested positive for COVID-19 between 14 to 90 days before their date of departure.</li>
 	</ol>
 
 These travellers must present the following documentation (in English, or with an English translation) to the bus operator before boarding:
