@@ -68,6 +68,10 @@ On this page, you will find the following information regarding transiting in Si
 
 #### Requirements for Recently-Recovered Travellers
 
+<p style="font-size:20px; line-height:1.35;">With effect from 23 Jan 2022, 2359hrs, travellers who have recently recovered from COVID-19 may produce any of the following to their airline/transport operator as proof of their recovery status to be exempted from the pre-departure testing requirement.</p>
+
+<p style="font-size:20px; line-height:1.35;">Travellers who are diagnosed or suspected to be infected with COVID-19 within 7 days (for fully vaccinated travellers) or 14 days (for non-fully vaccinated travellers) before their departure for Singapore, may be permitted to depart for Singapore if they test negative for COVID-19 on a COVID-19 PCR test or professionally-administered ART at least 72 hours after their initial diagnosis.</p>
+
 #### Entry Visas
 
 <p style="font-size:20px; line-height:1.35;">Foreign travellers transiting in Singapore do not require entry visas. Transit passengers need to be through-checked to their onward destination. They will <b><u>not</u></b> be allowed to clear arrival immigration or collect their baggage.</p>
