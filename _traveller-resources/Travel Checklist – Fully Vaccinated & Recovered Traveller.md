@@ -43,7 +43,7 @@ You may also rely on this self-check tool to determine if you qualify as a VR tr
 	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
 		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">i)	Name (per travel document used to enter Singapore);</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">ii)	ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; "></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">iii)	Date of infection which must fall within 7 to 90 days (inclusive) before the date of departure for Singapore.</li>
 	</ol>
 	</b></td>
 		</tr>
