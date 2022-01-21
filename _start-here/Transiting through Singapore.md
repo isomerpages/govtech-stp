@@ -3,6 +3,11 @@ title: Transiting through Singapore
 permalink: /transit/overview
 description: Requirements for transiting through Singapore
 ---
+On this page, you will find the following information regarding transiting in Singapore:
+
+
+
+
 <div id="eligibility"></div>
 
 #### Eligibility
