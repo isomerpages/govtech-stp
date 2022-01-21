@@ -84,7 +84,14 @@ permalink: /travel-checklist/category-4
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Below the age of three in this calendar year; OR</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; "><b>[For travellers arriving from 23 Jan 2022, 2359h]</b> Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this self-checker tool, and can show relevant proof of recovery outlined at Stage 1C.</li>
 	</ol>
+<p style="line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">at an internationally accredited or recognised lab/clinic/medical facility</a>. The PDT result must not be a handwritten document, and fulfil the following:</p>
 
+<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:decimal;">
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Is in English (or accompanied with an English translation);</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Reflects the date and result of the PCR test.</li>
+	</ol>
+<p style="line-height:1.35;">Click on (+) below for illustrations for when a PDT must be taken.</p>	
 <table>
   <tbody>
     <tr>
