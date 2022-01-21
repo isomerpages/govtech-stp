@@ -17,6 +17,8 @@ If you have yet to identify a suitable Safe Travel Lane for entry, return to the
 	</li>
 		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/connectsg/overview">Connect@Singapore</a>
 	</li>
+			<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a>
+	</li>
 		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/rgl/travel-checklist">Reciprocal Green Lane</a>
 	</li>
 		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/dcev">Death and Critical Illness Emergency Visit Lane</a>
