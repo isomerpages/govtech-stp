@@ -2,6 +2,7 @@
 title: Travel Checklist - Category(III)
 permalink: /travel-checklist/category-3
 ---
+
 ### Instructions for the use of the Category (III) Travel History Checklist
 
 <p style="line-height:1.35;">This checklist is for individuals travelling via the Returning Singapore Citizens/Permanent Residents Lane or have obtained an Entry Approval issued under the Familial Ties Lane, or Student’s Pass Holder Lane.</p>
