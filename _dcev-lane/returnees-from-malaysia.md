@@ -54,6 +54,7 @@ Singapore <b>Long Term Pass Holders (e.g. Work Pass, Student’s Pass)</b> will 
 	</li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN</li>
 </ol>
+<p>Note: Travellers arriving in Singapore from 23 Jan 2022, 2359h who have recently recovered from COVID-19 can be exempted from some or all of the border measures above. Use this self-checker tool to determine if you qualify for the Vaccinated-Recovered protocol.</p>
 </td>
 </tr>
 </tbody>
