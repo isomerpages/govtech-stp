@@ -6,7 +6,8 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red;"><b><u>NOTICE</u></b></p>
-		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.4;color:black;">Travellers entering Singapore after <b>23 January 2022, 2359 hours</b> will be required to undergo <b>unsupervised self-administered ARTs on Days 2 to 7 of their arrival</b>. </p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px; color:black;">Travellers arriving in Singapore <b>before 23 Jan 2022, 2359h</b>, via VTL (Land) will be subject to an on-arrival test,  unsupervised self-administered antigen Rapid Test (ART) on Days 2, 4, 5 and 6 with submission of results online, and supervised ART on Days 3 and 7 from their arrival.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px; color:black;">Travellers arriving in Singapore <b>from 23 Jan 2022, 2359h</b>, via VTL (Land) will perform an on-arrival test, and self-administered ART from Day 2 to 7 of their arrival.</p>
 	</div>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] allows quarantine-free travel to Singapore via the Causeway. Travellers intending to utilise the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> to travel to Singapore via air should apply for a VTP (Air) Pass. <b>Approvals are not interchangeable</b>.</p>
