@@ -74,9 +74,9 @@ On this page, you will find the following information regarding transiting in Si
 
 <p style="font-size:20px; line-height:1.35;">With effect from <b>23 Jan 2022, 2359hrs</b>, travellers who have recently recovered from COVID-19 may produce any of the following to their airline/transport operator as proof of their recovery status to be exempted from the pre-departure testing requirement.</p>
 
-<ol style="list-style-type:lower-latin; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
-		<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;"><b>Fully Vaccinated Persons</b>
-	<ol style="list-style-type:lower-roman; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><b>A) Fully Vaccinated Persons</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">	<ol style="list-style-type:lower-roman; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">	
 	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Positive COVID-19 Polymerase Chain Reaction (PCR) test or professionally-administered Antigen Rapid Test (ART) result between 7 – 90 days before your date of departure for Singapore; </li>
 		<p style="font-size:20px; line-height:1.35;">OR</p>
 <li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Discharge memo that:
@@ -87,9 +87,11 @@ On this page, you will find the following information regarding transiting in Si
 	</ol>
 	</li>
 	</ol>
-	</li>
-	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;"><b>Non-Fully Vaccinated Persons</b>
-		<ol style="list-style-type:lower-roman; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
+</div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><b>B) Non-Fully Vaccinated Persons</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><ol style="list-style-type:lower-roman; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
 			<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Positive COVID-19 PCR test or professionally-administered ART result between 14 – 90 days before your date of departure for Singapore for non-fully vaccinated persons (e.g. children aged 12 and below); </li>
 		<p style="font-size:20px; line-height:1.35;">OR</p>
 						<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Discharge memo that:
@@ -100,8 +102,7 @@ On this page, you will find the following information regarding transiting in Si
 	</ol>
 		</li>
 		</ol>
-	</li>
-	</ol>
+</div>
 
 <p style="font-size:20px; line-height:1.35;">Travellers who are diagnosed or suspected to be infected with COVID-19 within 7 days (for fully vaccinated travellers) or 14 days (for non-fully vaccinated travellers) before their departure for Singapore, may be permitted to depart for Singapore if they test negative for COVID-19 on a COVID-19 PCR test or professionally-administered ART at least 72 hours after their initial diagnosis.</p>
 
