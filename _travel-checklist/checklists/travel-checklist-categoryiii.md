@@ -151,7 +151,7 @@ permalink: /travel-checklist/category-3
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Valid Pre-Departure Test showing a negative COVID-19 result (see Stage 1C)</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">PDT reports and proof of recovery documentation (per Stages 1C and 1D)</li>
 </ol>
 
 Travellers who fail to produce these documents may be denied boarding.
