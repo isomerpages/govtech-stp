@@ -84,14 +84,23 @@ On this page, you will find the following information regarding transiting in Si
 	</li>
 	</ol>
 	</li>
-	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;"><b>Non-Fully Vaccinated Persons</b>
 		<ol style="list-style-type:lower-roman; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
-			<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;"></li>
+			<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Positive COVID-19 PCR test or professionally-administered ART result between 14 – 90 days before your date of departure for Singapore for non-fully vaccinated persons (e.g. children aged 12 and below); </li>
+		<p style="font-size:20px; line-height:1.35;">OR</p>
+						<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Discharge memo that:
+<ol style="list-style-type:disc; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
+<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your date of infection or the discharge date, which must be within 7 – 90 days before date of departure; and</li>
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">is issued by a relevant state authority or licensed medical professional.</li>
+	</ol>
+		</li>
 		</ol>
 	</li>
 	</ol>
 
 <p style="font-size:20px; line-height:1.35;">Travellers who are diagnosed or suspected to be infected with COVID-19 within 7 days (for fully vaccinated travellers) or 14 days (for non-fully vaccinated travellers) before their departure for Singapore, may be permitted to depart for Singapore if they test negative for COVID-19 on a COVID-19 PCR test or professionally-administered ART at least 72 hours after their initial diagnosis.</p>
+
 
 #### Entry Visas
 
