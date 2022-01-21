@@ -174,9 +174,9 @@ See examples below on the acceptable duration for which a test should be taken:
 
 <div style="padding: 5px; margin-top:20px; border-style: solid; border-width: 1px;"><p style="font-size:20px; line-height:1.35;">
 <b>Direct Flights:</b> If the PDT is taken on <b>1 November 2021</b>, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoints) <b>up to 3 November 2021, 2359 hours.</b>
-
+<br><br>
 <b>Connecting Flights to Singapore:</b> If the passenger's flight itinerary is LAX-NRT-SIN and the transit period at NRT is <u>less than 24 hours</u>, he must take his COVID-19 test within <u>2 days</u> before the scheduled departure of his flight from LAX. Should he remain at NRT for <u>more than 24 hours</u> for his connecting flight to Singapore, he will take a pre-departure test at NRT.
-</div>
+</p></div>
 
 With effect <b>from 23 Jan 2022, 2359hrs</b>, travellers who have recently recovered from COVID-19 may produce any of the following as proof of their recovery status to be exempted from the pre-departure testing requirement. Individuals who present falsified COVID-19 test certificates will be dealt with accordingly, and may be barred from future entry applications.
 
