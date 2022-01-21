@@ -91,7 +91,7 @@ On this page, you will find the following information regarding transiting in Si
 						<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Discharge memo that:
 <ol style="list-style-type:disc; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
 <li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
-	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your date of infection or the discharge date, which must be within 7 – 90 days before date of departure; and</li>
+	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your date of infection or the discharge date, which must be within 14 – 90 days before date of departure; and</li>
 	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">is issued by a relevant state authority or licensed medical professional.</li>
 	</ol>
 		</li>
