@@ -92,6 +92,8 @@ permalink: /travel-checklist/category-4
 			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Reflects the date and result of the PCR test.</li>
 	</ol>
 <p style="line-height:1.35;">Click on (+) below for illustrations for when a PDT must be taken.</p>	
+
+	
 <table>
   <tbody>
     <tr>
