@@ -620,7 +620,7 @@ With effect from 23 January 2022, 2359 hours, <a href="/vaccinated-recovered" ta
 Recovered travellers who are not fully vaccinated (i.e. children of age 12 or below) are required to undergo post-arrival ARTs.
 
 
-#### 5. Should travellers attend or perform their scheduled ARTs if they are unwell?
+#### 5. Should travellers who feel unwell undergo a self-administered ART?
 
 Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH) clinic</a>. They should take private transport, taxi or private hire car to the SASH clinic, and return to their place of accommodation immediately after their test. Use of public transport is <u>not</u> allowed. They do not need to attend or perform their scheduled ART on that day, but should remain contactable via their declared mobile number and email address.
 
