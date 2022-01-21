@@ -39,8 +39,7 @@ You can find the following forms of commonly requested support on this page:
 <tbody>
 	   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Vaccinated Travel Lane (VTL) Tests and Protocols for a Positive Antigen Rapid Test (ART)</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">A Stay-Home Notice (SHN) takes effect immediately on the day of its issuance and travellers must remain in their SHN accommodation for the period specified in the notice. An SHN ends <b>after</b> the traveller receives a negative exit COVID-19 Polymerase Chain Reaction Test ("exit PCR test"), or completes the specified SHN period, <b>whichever is later</b>. See illustration below, and use the SHN end date calculator <a href="/shn-calculator" target="_blank">here</a>.</p>
-
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers arriving in Singapore <b>before 23 Jan 2022, 2359h</b>,</p>
 </td>
  </tr>
 			   <tr>
