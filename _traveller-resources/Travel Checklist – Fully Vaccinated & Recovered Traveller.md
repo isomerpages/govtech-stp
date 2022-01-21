@@ -106,3 +106,12 @@ You may also rely on this self-check tool to determine if you qualify as a VR tr
 	</ol>
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
 	</div>
+	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label class="box" for="3B">&nbsp;&nbsp;<b>B) Abide by Local COVID-19 Safe Management Measures</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">After leaving the checkpoint, Vaccinated-Recovered Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
+		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">For vaccination-differentiated settings (e.g. malls, dining out), travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application during immigration clearance or via SGAC may do so using the app. </p>
+		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers who require longer term vaccinated status beyond 30 days, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
+		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">If you feel unwell, please refer to the <a href="https://covid.gov.sg" target="_blank">MOH traveller recovery protocol</a>.</p>
+	</div>
