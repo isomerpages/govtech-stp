@@ -181,7 +181,7 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>E) Submission of Health Declaration and Digital Vaccination Certificate</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>. Travellers who had contracted COVID-19 in any of the past 14 to 90 days before departure for Singapore, should indicate in the declaration that they had been “diagnosed or suspected to have a COVID-19 infection in the past 90 days”.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>.</p>
 
 <p style="line-height:1.35;">All SGAC submissions are free-of-charge, and <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> should also upload their digitally-verifiable vaccination certificate if they have one, i.e. certificate with a QR code. Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings</a>.</p>
 </div>
@@ -231,7 +231,7 @@ label.box {
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">PDT reports and proof of recovery documentation (per Stages 1C and 1D)</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">PDT reports and proof of recovery documentation (per Stages <a href="#stage1c">1C</a> and <a href="#stage1d">1D</a>)</li>
 </ol>
 
 Travellers who fail to produce these documents may be denied boarding.
