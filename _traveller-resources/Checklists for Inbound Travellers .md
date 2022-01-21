@@ -23,6 +23,8 @@ If you have yet to identify a suitable Safe Travel Lane for entry, return to the
 	</li>
 		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/dcev">Death and Critical Illness Emergency Visit Lane</a>
 	</li>
+			<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vaccinated-recovered">Protocol for Fully Vaccinated & COVID-19 Recovered Traveller</a>
+	</li>
 </ol>
 
 ### 2)	Checklist based on 14-day travel history for Safe Travel Lanes <u>not</u> specified above
