@@ -117,14 +117,14 @@ permalink: /travel-checklist/category-1
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>Pre-boarding Document Checks</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline to produce the following during pre-boarding checks:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline to produce the following during pre-boarding checks:</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">PDT reports or proof of recovery (per Stages <a href="#1C">1C</a> and <a href="#1D">1D</a>) </li>
 </ol>
 
-<p style="margin-top: 20px; line-height:1.35;">Travellers who fail to produce these documents may be denied boarding.</p>
+<p style="margin-top: 20px; line-height:1.35; font-size:18px;">Travellers who fail to produce these documents may be denied boarding.</p>
 </div>
 
 
@@ -132,7 +132,7 @@ permalink: /travel-checklist/category-1
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1E), of their <b><a target="_blank" href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1E), of their <b><a target="_blank" href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
 
 <p style="line-height:1.35;"><b><a target="_blank" href="/health/vtsg">Fully vaccinated</a> travellers can request the immigration officer to register their vaccination details in their TraceTogether App (see Stage 1G)</b>:</p>
 
@@ -142,20 +142,20 @@ permalink: /travel-checklist/category-1
 			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance. </li>
 </ol>
 
-<p style="line-height:1.35;">Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a target="_blank" href="https://go.gov.sg/moh-smm">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a target="_blank" href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
+<p style="line-height:1.35; font-size:18px;">Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a target="_blank" href="https://go.gov.sg/moh-smm">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a target="_blank" href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) On-arrival COVID-19 Test</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Follow the instructions of at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Follow the instructions of at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
 
-<p style="line-height:1.35;">Travellers who did not <a href="#payment">pay for the test before arrival (see Stage 1F)</a>, will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.</p>
+<p style="line-height:1.35;font-size:18px;">Travellers who did not <a href="#payment">pay for the test before arrival (see Stage 1F)</a>, will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.</p>
 </div>
 
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a target="_blank" href="/health/faq#transport">Click here for the latest transport advisory</a>.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a target="_blank" href="/health/faq#transport">Click here for the latest transport advisory</a>.</p>
 
 <p style="line-height:1.35;">The use of public transport (e.g. trains, buses) is prohibited.</p>
 </div>
@@ -165,14 +165,14 @@ permalink: /travel-checklist/category-1
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Serve self-isolation period</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers are <b>prohibited</b> from leaving their self-isolation accommodation while waiting for the on-arrival test result (per Stage 3B).</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Travellers are <b>prohibited</b> from leaving their self-isolation accommodation while waiting for the on-arrival test result (per Stage 3B).</p>
 
-<p style="line-height:1.35;">Travellers who are self-isolating at their residence may do so with other household members, regardless of their vaccination status or travel history. However, they should be isolated in a room, minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to:</p>
+<p style="line-height:1.35;font-size:18px;">Travellers who are self-isolating at their residence may do so with other household members, regardless of their vaccination status or travel history. However, they should be isolated in a room, minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to:</p>
 
 <ol style="padding-left: 20px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px; margin-bottom:10px;">Lower the lid before flushing the toilet; </li>
-	<li style="padding-left: 20px; margin-bottom:10px;">Clean and disinfect contact surfaces after each use; and</li>
-	<li style="padding-left: 20px; margin-bottom:10px;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
+	<li style="padding-left: 20px; margin-bottom:10px;font-size:18px;">Lower the lid before flushing the toilet; </li>
+	<li style="padding-left: 20px; margin-bottom:10px;font-size:18px;">Clean and disinfect contact surfaces after each use; and</li>
+	<li style="padding-left: 20px; margin-bottom:10px;font-size:18px;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
 	</ol>
 	</div>
 
@@ -181,14 +181,14 @@ permalink: /travel-checklist/category-1
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Release from Self-isolation</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers may leave their accommodation only <b>after</b> receiving a negative result via email for their on-arrival COVID-19 test (see Stage 3B). Travellers should contact <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> if they do not receive their results within 24 hours of the test. <br>Those who test positive for COVID-19 must follow the relevant recovery protocols and receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a> as necessary, and the prevailing treatment charges will apply.
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">Travellers may leave their accommodation only <b>after</b> receiving a negative result via email for their on-arrival COVID-19 test (see Stage 3B). Travellers should contact <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> if they do not receive their results within 24 hours of the test. <br>Those who test positive for COVID-19 must follow the relevant recovery protocols and receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a> as necessary, and the prevailing treatment charges will apply.
 
 </p></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Abide by Local COVID-19 Safe Management Measures</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers may go about their activities while complying with the <a target="_blank" href="https://moh.gov.sg/covid-19-phase-advisory">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">Travellers may go about their activities while complying with the <a target="_blank" href="https://moh.gov.sg/covid-19-phase-advisory">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
 
-<p style="line-height:1.35;">For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A). Travellers who require vaccinated status beyond 30 days after arrival, should visit 
+<p style="line-height:1.35;font-size:18px;">For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A). Travellers who require vaccinated status beyond 30 days after arrival, should visit 
 <a target="_blank" href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
 </div>
