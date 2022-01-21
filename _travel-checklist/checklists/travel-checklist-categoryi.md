@@ -5,9 +5,8 @@ permalink: /travel-checklist/category-1
 ### Instructions for the use of the Category (I) Travel History Checklist
 
 <p style="font-size:20px; margin-top:20px; line-height:1.35;">This checklist is for individuals travelling via the Returning Singapore Citizens/Permanent Residents Lane or have obtained an Entry Approval issued under the Familial Ties Lane, or Student’s Pass Holder Lane. </p>
-<p style="font-size:20px; margin-top:20px; line-height:1.35;">Travellers will need to have only visited any <a target="_blank" href="/shn-and-swab-summary">Category (I) country/region in the past 14 days before arrival in Singapore</a>, and not transited in any Category (II), (III) or (IV) countries/regions for more than 24 hours. Return to the <a target="_blank" href="/arriving/overview">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore. </p>
 
-<p style="font-size:20px; margin-top:20px; margin-bottom:10px; line-height:1.35;">Travellers who do not meet the above conditions should refer to the <a href="/travel-checklist/overview">checklist specific to their travel arrangement/travel history</a> or their approval letters for travel instructions. Return to the “<a target="_blank" href="/arriving/overview">Travelling to Singapore</a>” page if unsure which SafeTravel Lane to use to enter Singapore.</p>
+<p style="font-size:20px; margin-top:20px; margin-bottom:10px; line-height:1.35;">Travellers will need to have only visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 14 days before arrival in Singapore</a>, and have not visited any Category (II) , (III) and (IV) countries/regions in the past 14 days or transited in such countries/regions for more than 24 hours. Return to the “Travelling to Singapore” page if unsure which SafeTravel Lane to use to enter Singapore.</p>
 
 <p style="font-size:18px; margin-top:20px; line-height:1.35;">Travellers may print out this page and indicate with a "☑" in the box (☐) for completed activities.</p>
 
