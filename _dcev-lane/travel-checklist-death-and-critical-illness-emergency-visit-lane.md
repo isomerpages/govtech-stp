@@ -133,7 +133,7 @@ permalink: /travel-checklist/dcev
 <li style="padding-left: 20px; line-height:1.35;">PDT reports and proof of recovery documentation (per Stages <a href="#stage1c">1C</a> and <a href="#stage1d">1D</a>) </li>
 </ul>
 
-<p style="line-height:1.35;">Travellers without the above may be denied boarding. Travellers who are exempted from (ii) should produce their proof of exemption to the transport operator instead.</p>
+<p style="line-height:1.35;">Travellers without the above may be denied boarding.</p>
 </div>
 
 
@@ -141,12 +141,11 @@ permalink: /travel-checklist/dcev
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1D), of their <b><a href="" target="_blank">e-Pass (i.e. Visit Pass)</a></b> <b>which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1E), of their <b><a href="" target="_blank">e-Pass (i.e. Visit Pass)</a></b> <b>which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.
 
-<a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who meet the following conditions <b>must clear immigration at the manual counters and request the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1E):
+<a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who meet the following conditions <b>must clear immigration at the manual counters and request the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1G):
 
 <ol style="padding-left: 20px; list-style-type:lower-roman; margin-top:30px;">
-		<li style="padding-left: 20px; line-height:1.35;">Aged 12 and above;</li>
 	<li  style="padding-left: 20px; line-height:1.35;">Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification; and</li>
 	<li  style="padding-left: 20px; line-height:1.35;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance. </li>
 	</ol>
@@ -156,7 +155,7 @@ permalink: /travel-checklist/dcev
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#x2610; <i><b>B) On arrival COVID-19 Tests (if required)</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you are required to do so and <a href="#stage1e">did not pay for the test before arrival (per Stage 1E)</a>, you will pay on the spot and expect additional delays in the administration of the test and departure from the checkpoint. </p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you are required to do so and <a href="#stage1f">did not pay for the test before arrival (per Stage 1F)</a>, you will pay on the spot and expect additional delays in the administration of the test and departure from the checkpoint. </p>
 
 <p style="line-height:1.35;"><span style="color:red;">NOTE</span>: Travellers who have travel history to Category II, III or IV countries/regions do not need to take an on-arrival test.</p>
 </div>
