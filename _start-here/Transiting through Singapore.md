@@ -68,7 +68,20 @@ On this page, you will find the following information regarding transiting in Si
 
 #### Requirements for Recently-Recovered Travellers
 
-<p style="font-size:20px; line-height:1.35;">With effect from 23 Jan 2022, 2359hrs, travellers who have recently recovered from COVID-19 may produce any of the following to their airline/transport operator as proof of their recovery status to be exempted from the pre-departure testing requirement.</p>
+<p style="font-size:20px; line-height:1.35;">With effect from <b>23 Jan 2022, 2359hrs</b>, travellers who have recently recovered from COVID-19 may produce any of the following to their airline/transport operator as proof of their recovery status to be exempted from the pre-departure testing requirement.</p>
+
+<ol style="list-style-type:lower-latin; font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;">
+		<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">
+	<ol style="list-style-type:lower-roman; font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;">	
+	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;"></li>
+	</ol>
+	</li>
+	<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">
+		<ol style="list-style-type:lower-roman; font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;">
+			<li style="font-size: 18px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;"></li>
+		</ol>
+	</li>
+	</ol>
 
 <p style="font-size:20px; line-height:1.35;">Travellers who are diagnosed or suspected to be infected with COVID-19 within 7 days (for fully vaccinated travellers) or 14 days (for non-fully vaccinated travellers) before their departure for Singapore, may be permitted to depart for Singapore if they test negative for COVID-19 on a COVID-19 PCR test or professionally-administered ART at least 72 hours after their initial diagnosis.</p>
 
