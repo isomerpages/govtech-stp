@@ -6,11 +6,11 @@ description: ""
 <p style="line-height:1.3; font-size: 18px;">This checklist applies only to Vaccinated-Recovered Travellers who are:</p>
 
 <ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;"><a href="/health/vtsg" target="_blank">Fully vaccinated;</a> AND</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Fully vaccinated; AND</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Certified positive for COVID-19 between 7- 90 days (inclusive) before departure for Singapore</li>
 	</ol>
 	
-<p style="line-height:1.3; font-size: 18px;">You may also rely on this <a href="https://www.checkfirst.gov.sg/c/527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-check tool</a> to determine if you qualify as a Vaccinated-Recovered traveller.</p>
+<p style="line-height:1.3; font-size: 18px;">You may use this <a href="https://www.checkfirst.gov.sg/c/527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-check tool</a> to determine if you qualify as a Vaccinated-Recovered traveller. If you do not qualify, please refer to the prevailing requirements under your Safe Travel Lane or return to the <a href="/arriving/overview">Travelling to Singapore</a> page if you are unsure which Safe Travel Lane to use.</p>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
