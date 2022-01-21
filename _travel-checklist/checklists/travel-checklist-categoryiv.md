@@ -134,7 +134,7 @@ label.box {
 	<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Antigen Rapid Test (ART) result administered by a trained professional (self-swabs are disallowed)</li>
 	</ol>
-	</b></td>
+	</td>
 	</tr>
 <tr>
 		<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b> OR </b></td>
@@ -147,7 +147,7 @@ label.box {
 				<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
 				<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Date of infection which must fall <b>within 14 to 90 days (inclusive)</b> before the date of departure for Singapore.</li>
 	</ol>
-	</b></td>
+	</td>
 		</tr>
 	</table>
 		<p style="line-height:1.35;">If you are well or ineligible for <a href="/vaccinated-recovered" target="_blank">VR Protocol</a>, the rest of this checklist remains applicable to you.</p>
