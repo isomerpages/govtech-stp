@@ -75,3 +75,16 @@ You may also rely on this self-check tool to determine if you qualify as a VR tr
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p>
 	</div>
+
+
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A"><label class="box" for="2A">&nbsp;&nbsp;<b>Pre-boarding Document Checks</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">To ensure that the traveller is approved for entry into Singapore, travellers will be asked by the airline to produce the following during pre-boarding checks:<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; "></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; "></li>
+	</ol>
+	</p>
+	</div>
