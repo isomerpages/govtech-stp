@@ -89,3 +89,20 @@ You may also rely on this self-check tool to determine if you qualify as a VR tr
 	</p>
 	  <p style=" font-size:18px; margin-top: 0px; margin-bottom:0px; line-height:1.35;">Travellers who fail to produce these documents may be denied boarding.</p>
 	</div>
+	
+	
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3A"><label class="box" for="3A">&nbsp;&nbsp;<b>A) Immigration Clearance and Registering Proof of Vaccination</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Vaccinated-Recovered Travellers <b>must clear immigration at the manual counters</b>. Clearance at the automated gates is disallowed.</p>
+		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">During immigration clearance, provide all documents, including medical proof of recent COVID-19 infection, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see <a href="#1D">Stage 1D</a>), of their <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> <b>which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
+		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers should also ask the immigration officer to register temporary vaccinated status in the TraceTogether app for use in Singapore’s  <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a> for the next 30 days, if they:</p>
+	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">i.	Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification;</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; "></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; "></li>
+	</ol>
+	</div>
+	
