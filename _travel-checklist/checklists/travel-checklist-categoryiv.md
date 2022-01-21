@@ -173,29 +173,6 @@ label.box {
 	</ol>
 <p style="line-height:1.35;">Click on (+) below for illustrations for when a PDT must be taken.</p>	
 
-	
-<table>
-  <tbody>
-    <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;"><b>Direct Flights</b></td>
-    </tr>
-        <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; line-height:1.35;">Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h.</td>
-    </tr>
-        <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a less than 24-hour Transit Period to Singapore</b></td>
-    </tr>
-            <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; line-height:1.35;">Traveller B is scheduled for departure on 3 Nov 2021 from Airport A. He will transit at Airport B for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from Airport A.</td>
-    </tr>   
-            <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;text-align:center;"><b>Flights with a Transit Period exceeding 24 hours</b></td>
-    </tr>
-                <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; line-height:1.35;">Traveller C is scheduled for departure from Airport A on 3 Nov 2021. He will transit in Airport B for a period lasting more than 24 hours. In this scenario, he will take his PDT at Airport B, within 2 days before his connecting flight to Singapore.</td>
-    </tr>   
-  </tbody>
-  </table>
 </div>
 
 
