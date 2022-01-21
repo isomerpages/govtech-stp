@@ -74,6 +74,10 @@ No. For example, if a traveller uses VTL (Land) to enter Singapore on 1 December
 
 Similarly, there is no requirement to stay in Malaysia for a minimum period after entering Malaysia under the VTL (Land).  
 
+#### 6. I recently recovered from COVID-19. Can I enter Singapore under the VTL (Land)?
+
+Travellers who test positive for COVID-19 within 7 days from their date of departure and subsequently test negative in a PCR test or professionally administered ART at least 72 hours after their COVID-19 diagnosis are allowed to enter Singapore under the VTL (Land).
+Otherwise, such travellers are not allowed to enter Singapore under the VTL (Land).
 
 <div id="DesignatedBus"></div>
 
@@ -105,9 +109,10 @@ The list of designated VTL (Land) bus services is as follows:
 
 #### 3. Should I apply for a VTP first or should I book my bus tickets first? What happens if I do not require a VTP?
 
-Travellers who require a VTP may wish to check on the availability of bus tickets for their preferred dates, before applying for a VTP. 
+Travellers who require a VTP may wish to check on the availability of bus tickets for their preferred dates, before applying for a VTP. Travellers must apply for a VTP at least 3 days before their date of departure.
 
 Those who do not require a VTP and meet the eligibility criteria can simply book a bus ticket to travel under the VTL (Land).
+
 
 #### 4. Where are the boarding and disembarkation points for VTL (Land) bus services from Malaysia to Singapore, and from Singapore to Malaysia?
 
@@ -191,10 +196,27 @@ The self-administered OAT taken in Malaysia will not fulfil the pre-departure te
 
 #### 3. What if I am diagnosed or a suspect case of COVID-19?
 
-Travellers who were diagnosed or suspected to have a COVID-19 infection in the last <b>10</b> days and are fully vaccinated with a WHO-EUL vaccine (i.e. 14 days after second dose) <u>are not allowed to travel to Singapore under the VTL (Land)</u>. Unvaccinated or partially vaccinated children who are 12 and below in this calendar year and were diagnosed or suspected to have a COVID-19 infection in the last <b>14</b> days are not allowed to travel to Singapore under the VTL (Land).
+With effect from 23 January 2022, 2359 hours, recovered travellers are exempted from the pre-departure test requirement, and are defined as follows:
 
-Travellers who are close contacts of persons who were diagnosed or suspected to have a COVID-19 infection must wait out 7 days from the <u>last exposure</u> to the person with the COVID-19 infection, before they can enter Singapore under the VTL (Land).
+<ol style="list-style-type:lower-alpha;">
+	<li style="line-height:1.5;">Travellers who are fully vaccinated with a WHO-EUL vaccine (i.e. 14 days after second dose) and tested positive for COVID-19 between 7 to 90 days before their date of departure; and</li>
+		<li style="line-height:1.5;">b.	Travellers who are non-fully vaccinated (i.e. children aged 12 years or below) and tested positive for COVID-19 between 14 to 90 days before their date of departure.</li>
+	</ol>
 
+These travellers must present the following documentation (in English, or with an English translation) to the bus operator before boarding:
+
+<ol style="list-style-type:lower-alpha;">
+	<li style="line-height:1.5;">Positive COVID-19 Polymerase Chain Reaction (PCR) test or professionally-administered Antigen Rapid Test (ART) result between 7 – 90 days before date of departure for Singapore for fully vaccinated persons, and 14 – 90 days before date of departure for Singapore for non-fully vaccinated persons; or </li>
+		<li style="line-height:1.5;">Discharge memo, with: 
+			<ol style="list-style-type:lower-roman;">
+				<li style="line-height:1.5;">Name and ID number/Date of Birth;</li>
+				<li style="line-height:1.5;">Date of infection (either directly stated, or inferable from the discharge date) within 7 – 90 days before date of departure for Singapore; and</li>
+				<li style="line-height:1.5;">Issued by relevant state authority or licensed medical professional.</li>
+			</ol>
+	</li>
+	</ol>
+	
+All other travellers, except children aged 2 or below, are not exempted from the pre-departure test requirement.
 
 ### (ii) Vaccination Requirement
 
