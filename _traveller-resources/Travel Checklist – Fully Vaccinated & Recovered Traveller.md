@@ -104,5 +104,5 @@ You may also rely on this self-check tool to determine if you qualify as a VR tr
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Are aged 12 and above; and</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance.</li>
 	</ol>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
 	</div>
-	
