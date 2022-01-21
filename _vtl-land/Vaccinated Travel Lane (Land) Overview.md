@@ -183,7 +183,6 @@ input:checked + label + .content {
 			</li>
 	</ol>
 	</p>
-<p style="line-height:1.4; font-size:18px;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia <b> from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours.</b> Travellers who have already secured a VTL (Land) bus ticket are unaffected and will be allowed to enter Singapore via VTL (Land).</p>
 	</div>
 </body>
 </html>
