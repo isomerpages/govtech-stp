@@ -39,7 +39,9 @@ You can find the following forms of commonly requested support on this page:
 <tbody>
 	   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Vaccinated Travel Lane (VTL) Tests and Protocols for a Positive Antigen Rapid Test (ART)</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers arriving in Singapore <b>before 23 Jan 2022, 2359h</b>,</p>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers arriving in Singapore <b>before 23 Jan 2022, 2359h</b>, via VTL (Air) or (Land) will be subject to an on-arrival test,  unsupervised self-administered antigen Rapid Test (ART) on Days 2, 4, 5 and 6 with submission of results online, and supervised ART on Days 3 and 7 from their arrival.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers arriving in Singapore <b>from 23 Jan 2022, 2359h</b>, via VTL (Air) or (Land) will perform an on-arrival test, and self-administered ART from Day 2 to 7 of their arrival.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travelers who test positive on their ART do not need to undergo a confirmatory PCR test. However, they must self-isolate for 72 hours and take an ART at the end of the period. Self-isolation ends if the traveller tests negative on their ART. Otherwise, take another ART 24 hours later. Visit https://covid.gov.sg/travellers  for more details on recovery protocols for travellers.</p>
 </td>
  </tr>
 			   <tr>
