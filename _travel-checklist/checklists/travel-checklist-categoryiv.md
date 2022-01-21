@@ -116,22 +116,10 @@ permalink: /travel-checklist/category-4
     </tr>   
   </tbody>
   </table>
-
-<p style="line-height:1.35;">Travellers are to take a <b>COVID-19 Polymerase Chain Reaction (PCR) test</b> at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the negative test result that meets all the following conditions:</p>
-
-<!--<p style="line-height:1.35;">Travellers must obtain a copy of the negative test result that meets all the following conditions:</p>-->
-
-<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Is in English (or accompanied with an English translation);</li> 
-<li style="padding-left: 20px; ont-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Reflects the date and result of the test.</li>
-</ol>
-
-<p style="line-height:1.35;"><b>Handwritten reports will be rejected. Antigen Rapid Tests are not allowed.</b> Travellers with difficulties getting their PDT can <a href="https://go.gov.sg/sto-enquiry" target="_blank">contact the Safe Travel Office for assistance</a>.</p>
 </div>
 
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>D) Submission of Health Declaration</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>E) Submission of Health Declaration and Digital Vaccination Certificate</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>.</p>
 
@@ -154,7 +142,7 @@ permalink: /travel-checklist/category-4
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers who are fit for travel should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.</p></div>-->
 
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>E) Installation of TraceTogether app</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>F) Installation of TraceTogether app</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p>
 </div>
@@ -162,7 +150,7 @@ permalink: /travel-checklist/category-4
 
 <div id="1G"></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>F) Request for alternative Stay-Home Notice (SHN) arrangements</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>G) Request for alternative Stay-Home Notice (SHN) arrangements</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;">Travellers will, <b>by default</b>, serve their 10-day Stay-Home Notice (SHN) at an assigned hotel, i.e. an SHN-Dedicated Facility (SDF). Payment for a 10-day SHN stay at an SDF, inclusive of food-related costs, is collected during entry approval (see Stage 1A; indicative costs below). Due to fast-changing SDF demands, travellers will not be informed of their assigned hotel before arrival, and no bookings are required. Standard SDF costs are indicated below, and would have been collected at the point of entry approval. Singapore citizens and PRs will be contacted separately regarding their SDF charges after their arrival.</p>
 
