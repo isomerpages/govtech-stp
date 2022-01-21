@@ -2,7 +2,6 @@
 title: Frequently Asked Questions
 permalink: /stpl/faq
 ---
-
 ## Click to jump to the following sections
 
 <ol>
@@ -94,7 +93,7 @@ However, to ensure smooth boarding and immigration clearance, such travellers wi
 Fully Vaccinated STP/STP-IPA holders from a VTL (Air/Land) country can enter Singapore either: 
 
 <ol>
-  <li style="line-height:1.5;">Under the vaccinated Travel Lanes (<a href="/vtl/requirements-and-process" target="_blank">Air</a> / <a href="/vtl-land/overview" target="_blank">Land</a>): Obtain a valid Vaccinated Travel Pass (VTP) <b>at least 7 days before </b>planned arrival. <br><br> To be eligible for the VTLs, the traveller must only have travel history to Singapore, <a href="/vtl/requirements-and-process#countries" target="_blank">VTL countries</a> or <a href="/shn-and-swab-summary" target="_blank"> Category I countries/regions</a>, can only arrive in Singapore on a designated VTL flight/bus, and must satisfy all conditions under the VTL (Air / Land).</li>
+  <li style="line-height:1.5;">Under the vaccinated Travel Lanes (<a href="/vtl/requirements-and-process" target="_blank">Air</a> / <a href="/vtl-land/overview" target="_blank">Land</a>): Obtain a valid Vaccinated Travel Pass (VTP) <b>at least 3 days before </b>planned arrival. <br><br> To be eligible for the VTLs, the traveller must only have travel history to Singapore, <a href="/vtl/requirements-and-process#countries" target="_blank">VTL countries</a> or <a href="/shn-and-swab-summary" target="_blank"> Category I countries/regions</a>, can only arrive in Singapore on a designated VTL flight/bus, and must satisfy all conditions under the VTL (Air / Land).</li>
   <p style="margin-top:10px; margin-bottom:10px;"><b>OR</b></p>
   <li style="line-height:1.5;">Under the <a href="/stpl/overview" target="_blank">Student's Pass Holder Lane (STPHL)</a>: Obtain a valid entry approval (“SafeTravel Pass”) at least 2 weeks before your planned arrival. Applications can be made <a href="https://eservices.ica.gov.sg/STO1/STPHL" target="_blank">here</a>.<br/><br/>The STP/STP-IPA holder will be subject to the prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a>. <br/><br/> Please also note that all payments made for entry applications under the STPHL are <b>non-refundable</b>, and also <b>cannot be transferred</b> to offset payments required under the VTL </li>
   </ol> 
@@ -123,4 +122,3 @@ You may apply for both a SafeTravel Pass under the STPHL and a VTP under the VTL
 
 Yes, you may apply for an entry approval under the STPHL. However, this must be done <b>at least two weeks before your intended period of travel</b>. Appeals for travel periods that not available on the <a href="https://eservices.ica.gov.sg/STO1/STPHL" target="_blank">STPHL application portal</a> will not be accepted. 
 Travellers who enter under the STPHL will be subject to the prevailing <a href="/shn-and-swab-summary" target="_blank">border measures</a>, including having to serve a Stay-Home Notice.
-
