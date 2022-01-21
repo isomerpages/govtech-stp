@@ -157,9 +157,9 @@ label.box {
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the PCR test.</li>
 	</ol>
-	<p style="font-size:18px; line-height:1.35;">Please refer to the illustrations below for when a PDT must be taken.</p>
-<input class="accordion" type="checkbox" id="Singapore-cert">
-<label class="accordion" for="Singapore-cert"><b>Singapore</b></label>
+	<p style="font-size:18px; line-height:1.35;">Click on (+) below for illustrations for when a PDT must be taken.</p>
+<input class="accordion" type="checkbox" id="pdt-illustration">
+<label class="accordion" for="pdt-illustration"><b>Illustrations for when a PDT must be taken:</b></label>
 	<div class="content" style="background-color:#ededed;"><ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Direct Flights</b> - Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h. </li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Flights with a less than 24-hour Transit Period to Singapore</b> - Traveller B is scheduled for departure on 3 Nov 2021 from Airport A. He will transit at Airport B for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from Airport A.</li>
