@@ -156,7 +156,7 @@ label.box {
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Is in English (or accompanied with an English translation);</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the PCR test.</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the COVID-19 test.</li>
 	</ol>
 	<p style="font-size:18px; line-height:1.35;">Click on (+) below for illustrations for when a PDT must be taken.</p>
 <input class="accordion" type="checkbox" id="pdt-illustration">
@@ -200,26 +200,26 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>G) Secure Accommodation for Stay-Home Notice</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Travellers must complete their 7-day Stay Home Notice (SHN) at a declared accommodation, which includes:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; line-height:1.35;">Travellers must complete their 7-day Stay Home Notice (SHN) at a declared accommodation, which includes:</p>
 
 <ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;">
-	<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Place of residence;</li> 
-	<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Serviced apartment; or</li>
-	<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>.</li>
+	<li style="font-size:18px; padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Place of residence;</li> 
+	<li style="font-size:18px; padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Serviced apartment; or</li>
+	<li style="font-size:18px; padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>.</li>
 </ol>
 
-<p style="line-height:1.35;font-size:18px;">For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving SHN for the on-arrival test.</p>
+<p style="line-height:1.35; font-size:18px;">For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving SHN for the on-arrival test.</p>
 
 <p style="line-height:1.35;font-size:18px;">Travellers may serve SHN at their residence with other household members, regardless of their household members' vaccination status or travel history. However, the following precautions are strongly advised:</p> 
 
 <ol style="padding-left: 20px; padding-left: 30px; margin-top:20px; list-style-type: lower-latin;">
-<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Isolate in their own room during the 7-day period;</li>
-<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Isolate in their own room during the 7-day period;</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
 </ol>
 <ol style="padding-left: 70px; margin-top:20px; list-style-type: lower-roman;">
-<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Lower the lid before flushing the toilet;</li>
-<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Clean and disinfect contact surfaces after each use; and</li>
-<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Lower the lid before flushing the toilet;</li>
+<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35; font-size:18px;">Clean and disinfect contact surfaces after each use; and</li>
+<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35; font-size:18px;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
 </ol>
 </div>
 
@@ -228,7 +228,7 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>Pre-boarding Document Checks</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline to produce the following during pre-boarding checks:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the transport operator (e.g. airline) to produce the following during pre-boarding checks:</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
@@ -298,8 +298,8 @@ label.box {
 <p style="line-height:1.35;font-size:18px;">The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance. </p>
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.35; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="margin-top:0px; margin-bottom:20px; line-height:1.35; color:red;"><b>Anti-Scam Advisory</b></p> 
-<p style="margin-top:0px; margin-bottom:0px; line-height:1.35">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
+	<p style="margin-top:0px; margin-bottom:20px; line-height:1.35; color:red; font-size:18px;"><b>Anti-Scam Advisory</b></p> 
+<p style="margin-top:0px; margin-bottom:0px; line-height:1.35; font-size:18px;">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
 </div>
 </div>
 
