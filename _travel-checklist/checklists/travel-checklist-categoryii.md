@@ -4,8 +4,8 @@ permalink: /travel-checklist/category-2
 ---
 ### Instructions for the use of the Category (II) Travel History Checklist
 
-<p style="font-size:20px; margin-top:20px; line-height:1.35;">This checklist is for individuals travelling via the Returning Singapore Citizens/Permanent Residents Lane or have obtained an Entry Approval issued under the Familial Ties Lane, or Student’s Pass Holder Lane.  </p>
-<p style="font-size:20px; margin-top:20px; line-height:1.35;">Travellers will need to have only visited <a href="/shn-and-swab-summary" target="_blank">any Category (II) country/region in the past 14 days before arrival in Singapore</a>, and have not visited any Category (III) or (IV) countries/regions in the past 14 days or transited in such countries/regions for more than 24 hours. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore. </p>
+<p style="font-size:18px; margin-top:20px; line-height:1.35;">This checklist is for individuals travelling via the Returning Singapore Citizens/Permanent Residents Lane or have obtained an Entry Approval issued under the Familial Ties Lane, or Student’s Pass Holder Lane.  </p>
+<p style="font-size:18px; margin-top:20px; line-height:1.35;">Travellers will need to have only visited <a href="/shn-and-swab-summary" target="_blank">any Category (II) country/region in the past 14 days before arrival in Singapore</a>, and have not visited any Category (III) or (IV) countries/regions in the past 14 days or transited in such countries/regions for more than 24 hours. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore. </p>
 
 <p style="font-size:18px; margin-top:20px; line-height:1.35;">Travellers may print out this page and indicate with a "☑" in the box (☐) for completed activities.</p>
 
@@ -105,13 +105,8 @@ label.box {
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. You should defer travel if you:</p>
-<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Are feeling unwell (e.g. fever, cough, runny nose, sore throat, loss of taste or smell)</li> 
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li> 
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
-</ol>
-	<p style="font-size:18px; line-height:1.35;">Travellers arriving in Singapore from 23 Jan 2022, 2359h who have recently tested positive for COVID-19, may qualify for exemption from the COVID-19 pre-departure test and other border measures prescribed under the Vaccinated-Recovered (VR) traveller protocol. Use this <a href="https://www.checkfirst.gov.sg/c/527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-checker tool</a> to determine if you qualify for VR protocol. Travellers who qualify, should refer to the protocols stipulated on the <a target="_blank" href="/vaccinated-recovered">VR Protocol page</a> instead of this checklist. </p>
+<p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers should defer travel if feeling unwell (e.g. fever, cough, runny nose, sore throat, loss of taste or smell).</p>
+	<p style="font-size:18px; line-height:1.35;">Travellers who recently tested positive for COVID-19 before their travel should use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-checker tool</a> to determine their next steps in order to continue with their travel, including whether they qualify for the Vaccinated-Recovered (VR) traveller protocol. Travellers who qualify should refer to the protocols stipulated on the <a target="_blank" href="/vaccinated-recovered">VR Protocol page</a> instead of this checklist.</p>
 <p style="font-size:18px;line-height:1.35;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Is not a handwritten document;</li>
@@ -119,31 +114,32 @@ label.box {
 <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Reflects the date and result of the test.</li>
 </ol>
+	<br>
 	<table>
 	<tbody><tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b>A)</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;"><b>Any of the following showing a positive COVID-19 infection between 7 - 90 days (fully vaccinated travellers) or 14-90 days (non-fully vaccinated travellers) before the date of departure for Singapore:
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b>A)</b></td>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Any of the following showing a positive COVID-19 infection <b>between 7 to 90 days (fully vaccinated travellers) or 14 to 90 days (non-fully vaccinated travellers) before the date of departure for Singapore</b>:
 <ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a target="_blank" href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Antigen Rapid Test (ART) result administered by a trained professional (self-swabs are disallowed)</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a target="_blank" href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Antigen Rapid Test (ART) result administered by a trained professional (self-swabs are disallowed)</li>
 	</ol>
-	</b></td>
+</td>
 	</tr>
 <tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;" colspan="2"><b> OR </b></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;" colspan="2"><b> OR </b></td>
 		</tr>
 			<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;vertical-align:middle;"><b>B)</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;"><b>Medical discharge memo issued by the relevant state authority or licensed medical professional, showing:
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;vertical-align:middle;"><b>B)</b></td>
+<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Medical discharge memo issued by the relevant state authority or licensed medical professional, showing:
 	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Name (per travel document used to enter Singapore);</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Date of infection which must fall within 7 - 90 days (fully vaccinated travellers) or 14-90 days (non-fully vaccinated travellers) before the date of departure for Singapore.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Name (per travel document used to enter Singapore);</li>
+				<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
+				<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Date of infection must fall <b>within 7 to 90 days (fully vaccinated travellers) or 14 to 90 days (non-fully vaccinated travellers)</b> before the date of departure for Singapore.</li>
 	</ol>
-	</b></td>
+</td>
 		</tr>
 	</tbody></table>
-	<p style="font-size:18px;line-height:1.35;">If you are well or ineligible for the <a target="_blank" href="/vaccinated-recovered">VR Protocol</a>, the rest of this checklist remains applicable to you.</p>
+	<p style="font-size:18px;line-height:1.35;">If you are well or ineligible for the <a target="_blank" href="/vaccinated-recovered">VR Protocol</a>, the rest of this checklist remains applicable to you. Travellers who are well and not eligible for the VR protocol should also ensure that you have not had close contact with any COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two metres) contact with a COVID-19 patient for more than 15 minutes.</p>
 </div>
 
 <div id="stage1d"></div>
@@ -153,14 +149,14 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">All travellers, except the groups listed below, <b>must</b> take a Pre-Departure Test (PDT) <b>within 2 days before departure for Singapore</b>: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Below the age of three in this calendar year; OR</li>
-			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[For travellers arriving from 23 Jan 2022, 2359h]</b> Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this <a href="https://www.checkfirst.gov.sg/c/527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-checker tool</a>, and can show relevant proof of recovery outlined at <a href="#1C">Stage 1C</a>.</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this self-checker tool</a>, and can show relevant proof of recovery outlined at <a href="#1C">Stage 1C</a>.</li>
 	</ol>
 	
 <p style="font-size:18px; line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) <a target="_blank" href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing">at an internationally accredited or recognised lab/clinic/medical facility</a>, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). The PDT result must not be a handwritten document, and fulfil the following: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Is in English (or accompanied with an English translation);</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the PCR test.</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the COVID-19 test.</li>
 	</ol>
 	<p style="font-size:18px; line-height:1.35;">Click on (+) below for illustrations for when a PDT must be taken.</p>
 <input class="accordion" type="checkbox" id="pdt-illustration">
@@ -204,26 +200,26 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>G) Secure Accommodation for Stay-Home Notice</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Travellers must complete their 7-day Stay Home Notice (SHN) at a declared accommodation, which includes:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; line-height:1.35;">Travellers must complete their 7-day Stay Home Notice (SHN) at a declared accommodation, which includes:</p>
 
 <ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;">
-	<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Place of residence;</li> 
-	<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Serviced apartment; or</li>
-	<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>.</li>
+	<li style="font-size:18px; padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Place of residence;</li> 
+	<li style="font-size:18px; padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Serviced apartment; or</li>
+	<li style="font-size:18px; padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>.</li>
 </ol>
 
-<p style="line-height:1.35;font-size:18px;">For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving SHN for the on-arrival test.</p>
+<p style="line-height:1.35; font-size:18px;">For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving SHN for the on-arrival test.</p>
 
 <p style="line-height:1.35;font-size:18px;">Travellers may serve SHN at their residence with other household members, regardless of their household members' vaccination status or travel history. However, the following precautions are strongly advised:</p> 
 
 <ol style="padding-left: 20px; padding-left: 30px; margin-top:20px; list-style-type: lower-latin;">
-<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Isolate in their own room during the 7-day period;</li>
-<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Isolate in their own room during the 7-day period;</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
 </ol>
 <ol style="padding-left: 70px; margin-top:20px; list-style-type: lower-roman;">
-<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Lower the lid before flushing the toilet;</li>
-<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Clean and disinfect contact surfaces after each use; and</li>
-<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
+<li style="padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Lower the lid before flushing the toilet;</li>
+<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35; font-size:18px;">Clean and disinfect contact surfaces after each use; and</li>
+<li style="padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35; font-size:18px;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
 </ol>
 </div>
 
@@ -232,7 +228,7 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>Pre-boarding Document Checks</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the airline to produce the following during pre-boarding checks:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the transport operator (e.g. airline) to produce the following during pre-boarding checks:</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
@@ -302,8 +298,8 @@ label.box {
 <p style="line-height:1.35;font-size:18px;">The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance. </p>
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.35; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="margin-top:0px; margin-bottom:20px; line-height:1.35; color:red;"><b>Anti-Scam Advisory</b></p> 
-<p style="margin-top:0px; margin-bottom:0px; line-height:1.35">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
+	<p style="margin-top:0px; margin-bottom:20px; line-height:1.35; color:red; font-size:18px;"><b>Anti-Scam Advisory</b></p> 
+<p style="margin-top:0px; margin-bottom:0px; line-height:1.35; font-size:18px;">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
 </div>
 </div>
 
