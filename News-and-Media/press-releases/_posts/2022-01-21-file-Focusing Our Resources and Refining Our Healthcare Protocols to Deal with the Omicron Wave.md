@@ -1,5 +1,5 @@
 ---
-title: Focusing Our Resources and Refining Our Healthcare Protocols to Deal with
+title: MOH - Focusing Our Resources and Refining Our Healthcare Protocols to Deal with
   the Omicron Wave
 date: 2022-01-21
 layout: file
