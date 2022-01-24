@@ -134,7 +134,7 @@ label.box {
 	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Name (per travel document used to enter Singapore);</li>
 				<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
-				<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Date of infection must fall <b>within 7 to 90 days (fully vaccinated travellers) or 14 to 90 days (non-fully vaccinated travellers)</b>.</li>
+				<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Date of infection must fall <b>within 7 to 90 days (fully vaccinated travellers) or 14 to 90 days (non-fully vaccinated travellers)</b> before the date of departure for Singapore.</li>
 	</ol>
 </td>
 		</tr>
