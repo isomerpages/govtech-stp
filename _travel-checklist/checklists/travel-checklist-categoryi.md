@@ -103,36 +103,37 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers should defer travel if feeling unwell (e.g. fever, cough, runny nose, sore throat, loss of taste or smell).</p>
-	<p style="font-size:18px; line-height:1.35;">Travellers who recently tested positive for COVID-19 before their travel should use this <a href="https://www.checkfirst.gov.sg/c/527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-checker tool</a> to determine their next steps in order to continue with their travel, including whether they qualify for the Vaccinated-Recovered (VR) traveller protocol.  Travellers who qualify should refer to the protocols stipulated on the <a target="_blank" href="/vaccinated-recovered">VR Protocol page</a> instead of this checklist.</p>
+<p style="font-size:18px; line-height:1.35;">Travellers who recently tested positive for COVID-19 before their travel should use this <a href="https://www.checkfirst.gov.sg/c/527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-checker tool</a> to determine their next steps in order to continue with their travel, including whether they qualify for the Vaccinated-Recovered (VR) traveller protocol.  Travellers who qualify should refer to the protocols stipulated on the <a target="_blank" href="/vaccinated-recovered">VR Protocol page</a> instead of this checklist.</p>
 <p style="font-size:18px;line-height:1.35;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Is not a handwritten document;</li>
 <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Is in English (or accompanied with an English translation);</li> 
 <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Reflects the date and result of the test.</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Reflects the date and result of the COVID-19 test.</li>
 </ol>
+	<br>
 	<table>
 	<tbody><tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b>A)</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;"><b>Any of the following showing a positive COVID-19 infection between 7 - 90 days (fully vaccinated travellers) or 14-90 days (non-fully vaccinated travellers) before the date of departure for Singapore:
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Any of the following showing a positive COVID-19 infection <b>between 7 to 90 days (fully vaccinated travellers) or 14 to 90 days (non-fully vaccinated travellers) before the date of departure for Singapore</b>:
 <ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a target="_blank" href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">	Antigen Rapid Test (ART) result administered by a trained professional (self-swabs are disallowed)</li>
 	</ol>
-	</b></td>
+	</td>
 	</tr>
 <tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;" colspan="2"><b> OR </b></td>
 		</tr>
 			<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;vertical-align:middle;"><b>B)</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;"><b>Medical discharge memo issued by the relevant state authority or licensed medical professional, showing:
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Medical discharge memo issued by the relevant state authority or licensed medical professional, showing:
 	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
 		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Name (per travel document used to enter Singapore);</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Date of infection which must fall within 7 - 90 days (fully vaccinated travellers) or 14-90 days (non-fully vaccinated travellers) before the date of departure for Singapore.</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Date of infection which must fall <b>within 7 to 90 days (fully vaccinated travellers) or 14 to 90 days (non-fully vaccinated travellers)</b> before the date of departure for Singapore.</li>
 	</ol>
-	</b></td>
+</td>
 		</tr>
 	</tbody></table>
 	<p style="font-size:18px;line-height:1.35;">If you are well or ineligible for the <a target="_blank" href="/vaccinated-recovered">VR Protocol</a>, the rest of this checklist remains applicable to you.</p>
