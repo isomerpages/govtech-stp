@@ -270,7 +270,7 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">Travellers must commute directly to their declared Stay-Home Notice (SHN) accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
 
-<p style="line-height:1.35;">The use of public transport (e.g. trains, buses) is prohibited.</p>
+<p style="line-height:1.35; font-size:18px;">The use of public transport (e.g. trains, buses) is prohibited.</p>
 </div>
 
 
