@@ -46,7 +46,7 @@ You can find the following forms of commonly requested support on this page:
  </tr>
 		   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Travel for recently-recovered travellers</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers arriving in Singapore <b>from 23 Jan 2022, 2359h</b>, who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore will be waived of all testing and Stay-Home Notice requirements. Refer to the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Protocol</a> for details.</p>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore will be waived of all testing and Stay-Home Notice requirements. Refer to the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Protocol</a> for details.</p>
 <p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Non-fully vaccinated travellers who produce credible proof of having contracted COVID-19 between 14 and 90 days before departure for Singapore will be exempted from their pre-departure tests. No appeal is required.</p>
 <p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">This <a href="https://www.checkfirst.gov.sg/c527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-check tool</a> can help advise if you qualify for any pre-departure test or border measure exemptions resulting from your vaccinated or recovered status. Except for Singapore Citizens and PRs, entry approval under your respective Safe Travel Lane is still required.</p>
 </td>
@@ -60,14 +60,6 @@ You can find the following forms of commonly requested support on this page:
 		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Traveller Z only received her negative exit PCR test result on 9 January 2022 (day after 7-day SHN was supposed to end). Traveller Z can only leave SHN accommodation on 9 January 2022.</li>
 	</ol>
 		 </div>
-</td>
- </tr>
-   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Suspension of new Vaccinated Travel Lane (VTL) designated bus and flight ticket sales</b></td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">New ticket sales are suspended for designated VTL flights and buses arriving in Singapore from 23 Dec 2021 - 20 Jan 2022 (inclusive). Travellers may still book tickets for designated VTL flights/buses arriving in Singapore from 21 Jan 2022 onwards.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:20px;">All travellers who already hold a ticket for a VTL flight or bus can continue to travel under the VTL, and can continue to <a href="https://eservices.ica.gov.sg/STO1/VTL" target="_blank">apply for a Vaccinated Travel Pass if they do not already have one</a>.</p>   
-
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:20px;">Travellers who are unable to secure designated VTL flights or buses to arrive in Singapore, should check the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page for alternative Safe Travel Lanes to use to enter Singapore. Prevailing border health measures such as Stay Home Notice will apply.</p>
 </td>
  </tr>
 	 <tr>
