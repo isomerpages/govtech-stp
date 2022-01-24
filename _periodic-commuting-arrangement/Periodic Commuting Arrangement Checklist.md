@@ -34,16 +34,16 @@ description: ""
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Singapore-based companies (i.e. application sponsors) must <a href="https://go.gov.sg/pcamsia" target="_blank">apply for a PCA Pass on behalf of employees via the application portal here.</a></p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">The employees must spend <b>at least 90 days in Singapore for work upon entry</b>. Applications must be submitted at least 7 calendar days before the planned date of entry. Eligible employees must be:
- <ol style="list-style-type:lower-alpha; padding-left:25px;">
+<ol style="list-style-type:lower-alpha; padding-left:25px;">
     <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Malaysian Citizen or Malaysian Permanent Resident holding a long-term pass* for business and work purposes in Singapore that is valid for at least 15 days from the date of entry; or</li>
 	 <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Malaysian Citizen who is a Singapore Permanent Resident working in Singapore. </li>
 	 </ol>
 </p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><i>*Includes the following MOM-issued work passes: Employment Pass, Entre Pass, Personalised Employment Pass, S Pass, Work Permit, Training Employment Pass, Training Work Permit and Work Holiday Pass. <b>Work Pass in-principal approval holders are ineligible for PCA and should obtain their <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore" target="_blank">entry approvals from MOM.</a></b></i></p>
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><b><u>From 23 January 2022, 2359 hrs<u></b>, fully vaccinated and recently-recovered within 90 days of their last infection will be exempted from all testing and SHN requirements if they are able to provide appropriate documentary proof. Travellers should refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for the list of documentation that travellers should present at arrival immigration to qualify for this exemption. </p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Non-fully vaccinated and recently-recovered travellers within 90 days of their last infection will be exempted from pre-departure testing requirements, but will be subjected to all other prevailing border measures. Travellers may present the following documentation to depart for/enter Singapore without a valid Pre-Departure Test (PDT) result:</p>	
-	 <ol style="list-style-type:lower-alpha; padding-left:25px;">
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><b><u>From 23 January 2022, 2359 hrs</u></b>, fully vaccinated and recently-recovered within 90 days of their last infection will be exempted from all testing and SHN requirements if they are able to provide appropriate documentary proof. Travellers should refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for the list of documentation that travellers should present at arrival immigration to qualify for this exemption. </p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Non-fully vaccinated and recently-recovered travellers within 90 days of their last infection will be exempted from pre-departure testing requirements, but will be subjected to all other prevailing border measures. Travellers may present the following documentation to depart for/enter Singapore without a valid Pre-Departure Test (PDT) result:</p>
+<ol style="list-style-type:lower-alpha; padding-left:25px;">
 		 <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Positive COVID-19 PCR test or professionally-administered ART result between 14 – 90 days before date of departure for Singapore for non-fully vaccinated persons; and </li>
 		 <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Discharge memo, with: 
 		  <ol style="list-style-type:lower-roman; padding-left:25px;">
@@ -54,17 +54,16 @@ description: ""
 		 </li>
 	</ol>
 
-
 <p id="stage1b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>B) Secure Self-Isolation Accommodation</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Travellers will be placed on 7-day Stay-Home Notice (SHN), which they must complete before going about with their activities in Singapore. They may complete their SHN at a place of residence (see advisory below), self-sourced hotel, or serviced apartment. For hotel bookings, travellers may refer to this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive hotel list</a>. </p>
 
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding:15px; font-size:18px; margin-top:20px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px; text-align:justify;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><b><u>General advisory for travellers opting to serve their SHN at their place of residence:</u></b></p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers may serve SHN at their residence, with household members not sharing the same travel history, regardless of vaccination status. However, if travellers are residing with unvaccinated vulnerable household members, they are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members.</p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">If sharing a place of residence with others, travellers should designate a specific bathroom to be used by themselves. If a single bathroom must be shared, all individuals in the location should practise good hygiene habits, below, and disinfect the bathroom after each use:
-	<ol style="list-style-type:lower-roman; padding-left:25px;">
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><b><u>General advisory for travellers opting to serve their SHN at their place of residence:</u></b></p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers may serve SHN at their residence, with household members not sharing the same travel history, regardless of vaccination status. However, if travellers are residing with unvaccinated vulnerable household members, they are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">If sharing a place of residence with others, travellers should designate a specific bathroom to be used by themselves. If a single bathroom must be shared, all individuals in the location should practise good hygiene habits, below, and disinfect the bathroom after each use:
+<ol style="list-style-type:lower-roman; padding-left:25px;">
 		<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Lower the lid before flushing the toilet;</li>
 				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Clean and disinfect contact surfaces after each use; and</li>
 				<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving SHN.</li>
