@@ -888,7 +888,6 @@ The total transit duration comprises ground time <u>only</u> and does not includ
  
 ### (d) Designated VTL (Air) Flights
 
-<p style="font-size:16px; color:red;line-height:1.4;"><i>Note: With effect from 22 December 2021, 2359hrs (SGT), there will be no new ticket sales on designated VTL (Air) flights for entry into Singapore from all VTL countries until 20 January 2022, 2359hrs (SGT). Travellers who have booked a ticket on a VTL (Air) flight before 22 December 2021, 2359hrs (SGT) will continue to be allowed to enter Singapore under the VTL (Air), provided they meet all VTL (Air) conditions.</i></p>
 
 <!--#### 1. What are the designated VTL flights?
 
