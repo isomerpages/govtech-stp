@@ -136,7 +136,7 @@ label.box {
 </td>
 		</tr>
 	</tbody></table>
-	<p style="font-size:18px;line-height:1.35;">If you are well or ineligible for the <a target="_blank" href="/vaccinated-recovered">VR Protocol</a>, the rest of this checklist remains applicable to you.</p>
+	<p style="font-size:18px;line-height:1.35;">If you are well or ineligible for the <a target="_blank" href="/vaccinated-recovered">VR Protocol</a>, the rest of this checklist remains applicable to you. Travellers who are well and not eligible for the VR protocol should also ensure that you have not had close contact with any COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two metres) contact with a COVID-19 patient for more than 15 minutes.</p>
 </div>
 
 <div id="1D" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) COVID-19 Pre-Departure Tests (PDT)</b></i></div>
@@ -144,7 +144,7 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">All travellers, except the groups listed below, <b>must</b> take a Pre-Departure Test (PDT) <b>within 2 days before departure for Singapore</b>: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Below the age of three in this calendar year; OR</li>
-			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[For travellers arriving from 23 Jan 2022, 2359h]</b> Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this <a href="https://www.checkfirst.gov.sg/c/527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">self-checker tool</a>, and can show relevant proof of recovery outlined at <a href="#1C">Stage 1C</a>.</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in <a href="https://www.checkfirst.gov.sg/c/527f7439-ec71-4505-b243-ed978c18bd21" target="_blank">this self-checker tool</a>, and can show relevant proof of recovery outlined at <a href="#1C">Stage 1C</a>.</li>
 	</ol>
 	
 <p style="font-size:18px; line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) <a target="_blank" href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing">at an internationally accredited or recognised lab/clinic/medical facility</a>, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). The PDT result must not be a handwritten document, and fulfil the following: </p>
