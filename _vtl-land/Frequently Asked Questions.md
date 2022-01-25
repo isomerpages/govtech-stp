@@ -367,27 +367,7 @@ input.accordion:checked + label.accordion + .content {
     display: block;
 }
 	
-input.box {
-		display: inline;
-		width: 20px;
-		height: 20px;
-		vertical-align:middle; 
-}	
-	
-label.box { 
-	  display: inline;    
-    padding: 0px;
-    margin: 0 0 0 0;
-    cursor: pointer;
-    background: #d5d5d5;
-    border-radius: 3px;
-    color: #000000;
-    transition: ease .5s;
-	  position: relative;
-}
 
-
-  
 </style>
 </head>
 </html>
