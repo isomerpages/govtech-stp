@@ -312,6 +312,7 @@ Non-digitally verifiable vaccination certificates (i.e. those that do not contai
 <div id="digitalcertsQ3"></div>
 
 #### 3. What are the accepted proofs of vaccination?
+
 <html>
 <head>
 <meta charset="utf-8">
