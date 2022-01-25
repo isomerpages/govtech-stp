@@ -326,7 +326,7 @@ Travellers are strongly encouraged to self-verify your vaccination certificate p
 
 <b style="color:red;"><u>For STVs and LTPHs:</u></b> <i>If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL (Land).</i>
 
-#### 3. How do I know if I need to upload (1) or (2) vaccination QR codes?
+#### 4. How do I know if I need to upload (1) or (2) vaccination QR codes?
 	
 You may refer to this table below:
 
@@ -434,7 +434,7 @@ Switzerland</td>
 <b>You do not need to upload QR codes for boosters.</b>
 
 
-#### 4. Why was/were my vaccination QR code(s) not accepted in my VTP application?
+#### 5. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
 You may encounter errors upon uploading your vaccination QR code(s) for reasons such as:
 
