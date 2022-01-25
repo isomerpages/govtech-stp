@@ -377,8 +377,8 @@ input:checked + label + .content {
 
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proofs of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u> </p>
 
-<input class="accordion" type="checkbox" id="Singapore-cert">
-<label class="accordion" for="Singapore-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Singapore</b></label>
+<input type="checkbox" id="Singapore-cert">
+<label for="Singapore-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Singapore</b></label>
 	<div class="content" style="background-color:#ededed;"><ol style="list-style-type:lower-alpha;"><li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code; or</li>
 <li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
 		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Vaccination certificate issued by the Singapore Ministry of Health</li>
@@ -396,8 +396,8 @@ input:checked + label + .content {
 	</li>
 		</ol>
 </div>
-	<input class="accordion" type="checkbox" id="Australia-cert">
-<label class="accordion" for="Australia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Australia</b></label>
+	<input type="checkbox" id="Australia-cert">
+<label for="Australia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Australia</b></label>
 		<div class="content" style="background-color:#ededed;"><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
@@ -410,19 +410,19 @@ input:checked + label + .content {
   </li>
     </ol>
 </div>
-		<input class="accordion" type="checkbox" id="Brunei-cert">
-<label class="accordion" for="Brunei-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Brunei Darussalam</b></label>
+		<input type="checkbox" id="Brunei-cert">
+<label for="Brunei-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Brunei Darussalam</b></label>
 		<div class="content" style="background-color:#ededed;">Proof of vaccination on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
 	</div>
-		<input class="accordion" type="checkbox" id="Cambodia-cert">
-<label class="accordion" for="Cambodia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Cambodia</b></label>
+		<input type="checkbox" id="Cambodia-cert">
+<label for="Cambodia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Cambodia</b></label>
 		<div class="content" style="background-color:#ededed;">COVID-19 Vaccination Card issued by the Ministry of Health / Ministry of Defence in Cambodia
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
-		<input class="accordion" type="checkbox" id="Canada-cert">
-<label class="accordion" for="Canada-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Canada</b></label>
+		<input type="checkbox" id="Canada-cert">
+<label for="Canada-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Canada</b></label>
 		<div class="content" style="background-color:#ededed;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by any Canadian province
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
@@ -435,8 +435,8 @@ input:checked + label + .content {
   </li>
     </ol>
 	</div>
-			<input class="accordion" type="checkbox" id="eudcc-cert">
-<label class="accordion" for="eudcc-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)</b></label>
+			<input type="checkbox" id="eudcc-cert">
+<label for="eudcc-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)</b></label>
 		<div class="content" style="background-color:#ededed;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
@@ -468,13 +468,13 @@ input:checked + label + .content {
   </li>
     </ol>
 </div>
-			<input class="accordion" type="checkbox" id="Fiji-cert">
-<label class="accordion" for="Fiji-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Fiji</b></label>
+			<input type="checkbox" id="Fiji-cert">
+<label for="Fiji-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Fiji</b></label>
 		<div class="content" style="background-color:#ededed;">COVID-19 Vaccination Certificate issued by Republic of Fiji
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
-			<input class="accordion" type="checkbox" id="India-cert">
-<label class="accordion" for="India-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>India</b></label>
+			<input type="checkbox" id="India-cert">
+<label for="India-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>India</b></label>
 		<div class="content" style="background-color:#ededed;">International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
@@ -487,14 +487,14 @@ input:checked + label + .content {
   </li>
     </ol>
 </div>
-<input class="accordion" type="checkbox" id="Indonesia-cert">
-<label class="accordion" for="Indonesia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Indonesia</b></label>
+<input type="checkbox" id="Indonesia-cert">
+<label for="Indonesia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Indonesia</b></label>
 		<div class="content" style="background-color:#ededed;">Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
 </div>
-					<input class="accordion" type="checkbox" id="Malaysia-cert">
-<label class="accordion" for="Malaysia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Malaysia</b></label>
+					<input type="checkbox" id="Malaysia-cert">
+<label for="Malaysia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Malaysia</b></label>
 		<div class="content" style="background-color:#ededed;">Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
@@ -522,16 +522,16 @@ input:checked + label + .content {
   </li>
     </ol>
 </div>
-					<input class="accordion" type="checkbox" id="Maldives-cert">
-<label class="accordion" for="Maldives-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Maldives</b></label>
+					<input type="checkbox" id="Maldives-cert">
+<label for="Maldives-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Maldives</b></label>
 		<div class="content" style="background-color:#ededed;">COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload:</b> One</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR code</b>:<br><img src="/images/QR_Canada.png" style="width:54px; height:84px;"></p>
 </div>
-					<input class="accordion" type="checkbox" id="ROK-cert">
-<label class="accordion" for="ROK-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Republic of Korea</b></label>
+					<input type="checkbox" id="ROK-cert">
+<label for="ROK-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Republic of Korea</b></label>
 		<div class="content" style="background-color:#ededed;">
 			<ol style="list-style-type:lower-latin;">
 				<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Static vaccination certificate QR code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or;</li> 
@@ -548,14 +548,14 @@ input:checked + label + .content {
   </li>
     </ol>
 </div>
-					<input class="accordion" type="checkbox" id="SriLanka-cert">
-<label class="accordion" for="SriLanka-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Sri Lanka</b></label>
+					<input type="checkbox" id="SriLanka-cert">
+<label for="SriLanka-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Sri Lanka</b></label>
 		<div class="content" style="background-color:#ededed;">Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
 	</div>
-					<input class="accordion" type="checkbox" id="Thailand-cert">
-<label class="accordion" for="Thailand-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Thailand</b></label>
+					<input type="checkbox" id="Thailand-cert">
+<label for="Thailand-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Thailand</b></label>
 		<div class="content" style="background-color:#ededed;">International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. You can retrieve can your certificate by selecting 'International Certificate' on the Mor Prom app.</p>
@@ -572,8 +572,8 @@ input:checked + label + .content {
 	</tr>
 			</table>
 	</div>
-					<input class="accordion" type="checkbox" id="UK-cert">
-<label class="accordion" for="UK-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>United Kingdom</b></label>
+					<input type="checkbox" id="UK-cert">
+<label for="UK-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>United Kingdom</b></label>
 		<div class="content" style="background-color:#ededed;">
 			<ol style="list-style-type:lower-alpha; ">
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination; <br><br>or</li>
@@ -597,8 +597,8 @@ input:checked + label + .content {
   </li>
     </ol>
 </div>	
-					<input class="accordion" type="checkbox" id="USA-cert">
-<label class="accordion" for="USA-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>United States of America</b></label>
+					<input type="checkbox" id="USA-cert">
+<label for="USA-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>United States of America</b></label>
 		<div class="content" style="background-color:#ededed;"><ol style="list-style-type:lower-alpha; ">
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by CommonTrust Network issuers (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>) or <a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><a href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html" target="_blank">Digital vaccination record retrieved from the public health database of the state or the local health authority</a></li>
