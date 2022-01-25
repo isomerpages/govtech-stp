@@ -207,7 +207,7 @@ label.box {
 <p style="line-height:1.35; font-size:18px;">Travellers may serve SHN at their residence with other household members, regardless of their household members' vaccination status or travel history. However, the following precautions are strongly advised:</p>  
 
 <ol style="padding-left: 20px; margin-top:20px; list-style-type: lower-latin;">
-<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Isolate in their own room during the 7-day period;</li>
+<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Isolate in their own room during the 10-day period;</li>
 <li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
 </ol>
 <ol style="padding-left: 60px; margin-top:20px; list-style-type: lower-roman;">
