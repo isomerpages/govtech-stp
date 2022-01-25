@@ -311,7 +311,7 @@ Non-digitally verifiable vaccination certificates (i.e. those that do not contai
 
 <div id="digitalcertsQ3"></div>
 
-#### 3. What are the accepted forms of digitally verifiable vaccination certificates?
+#### 3. What are the accepted proofs of vaccination?
 
 Please click the links below for more information on accepted digitally verifiable vaccination certificates If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL (Land):
 
