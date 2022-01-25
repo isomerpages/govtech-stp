@@ -318,12 +318,13 @@ Non-digitally verifiable vaccination certificates (i.e. those that do not contai
 <meta charset="utf-8">
 <title>Test Accordion</title>
 
-<style>	
-input.accordion {
+<style>
+	
+input {
     display: none;
 }
 
-label.accordion {
+label {
     display: block;    
     padding: 10px 30px;
     margin: 0 0 1px 0;
@@ -332,14 +333,14 @@ label.accordion {
     border-radius: 3px;
     color: #FFFFFF;
     transition: ease .5s;
-		position: relative;
+	position: relative;
 }
 
-label.accordion:hover {
+label:hover {
     background: #346f9e;
 }
 
-label.accordion::after {
+label::after {
 	font-family: "Font Awesome 5 Free";
 	content: '\271A';
 	font-weight: bold;
@@ -349,7 +350,7 @@ label.accordion::after {
 	top: 6px;
 }
 
-input.accordion:checked + label.old::after {
+input:checked + label::after {
 	content: '\2716';
 }
 
@@ -360,23 +361,22 @@ input.accordion:checked + label.old::after {
     border-radius: 3px;
 }
 
-input.accordion + label.accordion + .content {
+input + label + .content {
     display: none;
 }
 
-input.accordion:checked + label.accordion + .content {
+input:checked + label + .content {
     display: block;
 }
-	
-
+ 
 </style>
 </head>
 </html>
 
-
-You may check for the acceptable proofs of vaccination based on their countries/regions of issuance below.
+<p style="font-size: 20px; line-height:1.35;">You may check for the acceptable proofs of vaccination based on their countries/regions of issuance below.</p>
 
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proofs of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u> </p>
+
 <input class="accordion" type="checkbox" id="Singapore-cert">
 <label class="accordion" for="Singapore-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Singapore</b></label>
 	<div class="content" style="background-color:#ededed;"><ol style="list-style-type:lower-alpha;"><li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code; or</li>
