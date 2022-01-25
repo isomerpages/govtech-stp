@@ -271,6 +271,7 @@ Digitally verifiable vaccination certificates should contain QR code(s) that can
 
 Non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that we can scan to read and authenticate the traveller’s vaccination status) will <b>not</b> be accepted.
 
+<div id="digitalcertsQ2"></div>
 
 #### 2. What must travellers present as their proof of vaccination at check-in and arrival immigration?
 <br>
@@ -308,9 +309,9 @@ Non-digitally verifiable vaccination certificates (i.e. those that do not contai
 	</tbody>
 	</table>
 
+<div id="digitalcertsQ3"></div>
 
-
-#### 2. What are the accepted forms of digitally verifiable vaccination certificates?
+#### 3. What are the accepted forms of digitally verifiable vaccination certificates?
 
 Please click the links below for more information on accepted digitally verifiable vaccination certificates If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL (Land):
 
