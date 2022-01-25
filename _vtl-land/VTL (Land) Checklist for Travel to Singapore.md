@@ -27,7 +27,7 @@ description: ""
 		<ol style="padding:0px 10px 0px 10px; font-size:18px;">
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Singapore</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Malaysia</b>: Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
-						<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Other VTL countries</b>: <a href="/vtl-land/faq#digitalcerts" target="_blank">Click here</a> for full list of vaccination certificates recognised. </li>
+						<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Overseas</b>: Please refer to <a href="/vtl-land/faq#digitalcertsQ2" target="_blank">this guide</a> for acceptable proofs of vaccination. </li>
 		</ol>
 <p style="padding-left:5px; font-size:18px; margin-bottom:0px; line-height:1.35;">Travellers vaccinated overseas are advised to refer to <a href="/vtl/faq#verify" target="_blank">this guide</a> to verify if your vaccination certificate is accepted in Singapore.</p>
 

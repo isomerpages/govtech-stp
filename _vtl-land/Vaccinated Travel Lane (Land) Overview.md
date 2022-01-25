@@ -4,6 +4,7 @@ permalink: /vtl-land/overview
 description: Requirements for using the Vaccinated Travel Lane to travel to
   Singapore by Land
 ---
+
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red;"><b><u>NOTICE</u></b></p>
 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px; color:black;">Travellers arriving in Singapore <b>before 23 Jan 2022, 2359h</b>, via VTL (Land) will be subject to an on-arrival test,  unsupervised self-administered antigen Rapid Test (ART) on Days 2, 4, 5 and 6 with submission of results online, and supervised ART on Days 3 and 7 from their arrival.</p>
@@ -159,14 +160,7 @@ input:checked + label + .content {
 <label for="title3">Criterion 3: Hold an Accepted Proof of Vaccination</label>
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">	
-	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated in the following locations, must obtain a digitally verifiable vaccination certificates in any of the following formats for application, pre-departure checks and immigration clearance:
-	  <ol style="list-style-type:disc">
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">  <b>Singapore:</b> Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
-    <li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
-		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Other VTL countries:</b> <a href="/vtl-land/faq#digitalcerts" target="_blank">Click here</a> to see full list of other accepted certificates</li>	
-	</ol>
-	</p>
-	<p style="line-height:1.4; font-size:18px; ">Travellers vaccinated overseas are advised to refer to <a href="/vtl-land/faq#verify" target="_blank">this guide</a> to verify if their vaccination certificate is accepted in Singapore.</p>
+	<p style="line-height:1.4; font-size:18px; ">Travellers must obtain a digitally verifiable vaccination certificate for application, pre-departure checks and immigration clearance. Please refer to <a href="/vtl-land/faq#digitalcertsQ2" target="_blank">this guide</a> for acceptable proofs of vaccination.</p>
 </div>
 	
 <input type="checkbox" id="title4" />
