@@ -647,7 +647,6 @@ label.box {
 	</div>	
 	</div>	
 
-<br>
 <b style="color:red; font-size:20px;"><u>For STVs and LTPHs:</u></b> <i style="font-size:20px;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL (Land).</i>
 
 
