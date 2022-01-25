@@ -5,7 +5,7 @@ permalink: /health/vtsg
 Travellers may be required to be fully vaccinated with WHO Emergency Use Listing (EUL) COVID-19 vaccines in order to be eligible for certain travel lanes to travel to Singapore, and domestic health measures requiring vaccinated status. This page outlines:
 
 <ol style="padding-left: 20px;">
-	<li style="padding-left:10px; line-height:1.5;">Accepted COVID-19 <a href="#acceptedvaccines">Vaccines for Entry to Singapore</a></li>
+	<li style="padding-left:10px; line-height:1.5;"><a href="#acceptedvaccines">Accepted COVID-19 Vaccines for Entry to Singapore</a></li>
 	<li style="padding-left:10px; line-height:1.5;"><a href="#VDSMM">Vaccinated status for activities within Singapore</a>
 	<ol style="padding-left: 20px; list-style-type:lower-alpha;">
 		<li style="padding-left:10px; line-height:1.5;">Obtaining temporary vaccinated status after arrival</li>
