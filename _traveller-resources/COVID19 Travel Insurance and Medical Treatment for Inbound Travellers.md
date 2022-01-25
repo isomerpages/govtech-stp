@@ -56,7 +56,7 @@ The mandatory travel insurance <u>does not</u> apply to Singapore Citizens/Perma
 
 #### Insurance for Long-Term Pass Holders
 
-Employers must buy COVID-19 medical insurance for all (both new and existing) Work Permit, Training Work Permit and S Pass holders, before they enter Singapore. Please refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-for-foreign-employees-and-shn-requirements#what-are-the-covid-19-insurance-requirements-for-workers-entering-singapore" target="_blank">MOM’s website</a> to check the coverage required or <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">where to buy</a> the insurance from.
+Employers must buy COVID-19 medical insurance for all (both new and existing) Work Permit, Training Work Permit and S Pass holders, before they enter Singapore. Please refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-and-shn-requirements-for-foreign-employees#what-are-the-covid-19-insurance-requirements-for-workers-entering-singapore" target="_blank">MOM’s website</a> to check the coverage required or <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">where to buy</a> the insurance from.
 
 For all other pass holders (e.g. Employment Pass holders or dependants), they are encouraged to buy medical insurance with the appropriate coverage <b>before entering Singapore</b>. They are responsible for their own medical expenses if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.
 
