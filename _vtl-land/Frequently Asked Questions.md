@@ -312,8 +312,88 @@ Non-digitally verifiable vaccination certificates (i.e. those that do not contai
 <div id="digitalcertsQ3"></div>
 
 #### 3. What are the accepted proofs of vaccination?
+<html>
+<head>
+<meta charset="utf-8">
+<title>Test Accordion</title>
 
-You may check for the acceptable proofs of vaccination based on their countries/regions of issuance below. 
+<style>	
+input.accordion {
+    display: none;
+}
+
+label.accordion {
+    display: block;    
+    padding: 10px 30px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #153855;
+    border-radius: 3px;
+    color: #FFFFFF;
+    transition: ease .5s;
+		position: relative;
+}
+
+label.accordion:hover {
+    background: #346f9e;
+}
+
+label.accordion::after {
+	font-family: "Font Awesome 5 Free";
+	content: '\271A';
+	font-weight: bold;
+	font-size: 22px;
+	position: absolute;
+	right: 10px;
+	top: 6px;
+}
+
+input.accordion:checked + label.old::after {
+	content: '\2716';
+}
+
+.content {
+    background: #FFFFFF;
+    padding: 10px 25px;
+    margin: 0 0 1px 0;
+    border-radius: 3px;
+}
+
+input.accordion + label.accordion + .content {
+    display: none;
+}
+
+input.accordion:checked + label.accordion + .content {
+    display: block;
+}
+	
+input.box {
+		display: inline;
+		width: 20px;
+		height: 20px;
+		vertical-align:middle; 
+}	
+	
+label.box { 
+	  display: inline;    
+    padding: 0px;
+    margin: 0 0 0 0;
+    cursor: pointer;
+    background: #d5d5d5;
+    border-radius: 3px;
+    color: #000000;
+    transition: ease .5s;
+	  position: relative;
+}
+
+
+  
+</style>
+</head>
+</html>
+
+
+You may check for the acceptable proofs of vaccination based on their countries/regions of issuance below.
 
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proofs of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u> </p>
 <input class="accordion" type="checkbox" id="Singapore-cert">
@@ -560,12 +640,9 @@ You may check for the acceptable proofs of vaccination based on their countries/
   </li>
     </ol>
 	</div>
+<br>
+<b style="color:red; font-size:20px;"><u>For STVs and LTPHs:</u></b> <i style="font-size:20px;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL (Land).</i>
 
-If your vaccination certificate is not listed above, you can reference the full list of accepted vaccination certificates <a href="/vtl/faq#vaxcert" target="_blank">here</a>. Travellers not vaccinated in Singapore are strongly encouraged to self-verify that your vaccination certificate is accepted by Singapore by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.
-
-Travellers are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="/vtl/faq#verify" target="_blank">here</a>.
-
-<b style="color:red;"><u>For STVs and LTPHs:</u></b> <i>If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL (Land).</i>
 
 #### 4. How do I know if I need to upload (1) or (2) vaccination QR codes?
 	
