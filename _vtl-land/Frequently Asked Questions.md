@@ -420,12 +420,10 @@ label.box {
 	</li>
 		</ol>
 </div>
-	
-	
-<input class="accordion" type="checkbox" id="Australia-cert">
-<label for="Australia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Australia</b></label>
-<div class="content" style="background-color:#ededed;"><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
+	<input class="accordion" type="checkbox" id="Australia-cert">
+<label class="accordion" for="Australia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Australia</b></label>
+		<div class="content" style="background-color:#ededed;"><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate</a> (QR code in <a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using these tools: <a href="https://play.google.com/store/apps/details?id=au.gov.dfat.vdsncchecker" target="_blank">VDS-NC Checker (Android)</a> or <a href="https://apps.apple.com/sg/app/vds-nc-checker/id1582587862" target="_blank">VDS-NC</a> Checker (iOS)</li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
@@ -436,22 +434,21 @@ label.box {
   </li>
     </ol>
 </div>
-<input class="accordion" type="checkbox" id="Brunei-cert">
-<label for="Brunei-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Brunei Darussalam</b></label>
-<div class="content" style="background-color:#ededed;">Proof of vaccination on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
-</div>
-<input class="accordion" type="checkbox" id="Cambodia-cert">
-<label for="Cambodia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Cambodia</b></label>
-<div class="content" style="background-color:#ededed;">COVID-19 Vaccination Card issued by the Ministry of Health / Ministry of Defence in Cambodia
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
-</div>
-<input class="accordion" type="checkbox" id="Canada-cert">
-<label for="Canada-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Canada</b></label>
-<div class="content" style="background-color:#ededed;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by any Canadian province
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
+		<input class="accordion" type="checkbox" id="Brunei-cert">
+<label class="accordion" for="Brunei-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Brunei Darussalam</b></label>
+		<div class="content" style="background-color:#ededed;">Proof of vaccination on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
+	</div>
+		<input class="accordion" type="checkbox" id="Cambodia-cert">
+<label class="accordion" for="Cambodia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Cambodia</b></label>
+		<div class="content" style="background-color:#ededed;">COVID-19 Vaccination Card issued by the Ministry of Health / Ministry of Defence in Cambodia
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
+		<input class="accordion" type="checkbox" id="Canada-cert">
+<label class="accordion" for="Canada-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Canada</b></label>
+		<div class="content" style="background-color:#ededed;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by any Canadian province
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using these tools: <a href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier" target="_blank">SMART Health Card Verifier</a> (Android) or <a href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390" target="_blank">SMART Health Card Verifier</a> (iOS)</li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
@@ -462,10 +459,10 @@ label.box {
   </li>
     </ol>
 	</div>
-<input class="accordion" type="checkbox" id="eudcc-cert">
-<label for="eudcc-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)</b></label>
-<div class="content" style="background-color:#ededed;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
+			<input class="accordion" type="checkbox" id="eudcc-cert">
+<label class="accordion" for="eudcc-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)</b></label>
+		<div class="content" style="background-color:#ededed;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using these tools: <a href="https://app.digitalcovidcertchecker.gov.ie/" target="_blank">DCC Checker</a> (Web App), <a href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier" target="_blank">COVID Certificate Check</a> (Android) or <a href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510" target="_blank">COVID Certificate Check</a> (iOS)</li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
@@ -495,15 +492,15 @@ label.box {
   </li>
     </ol>
 </div>
-<input class="accordion" type="checkbox" id="Fiji-cert">
-<label for="Fiji-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Fiji</b></label>
-<div class="content" style="background-color:#ededed;">COVID-19 Vaccination Certificate issued by Republic of Fiji
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
-<input class="accordion" type="checkbox" id="India-cert">
-<label for="India-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>India</b></label>
-<div class="content" style="background-color:#ededed;">International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
+			<input class="accordion" type="checkbox" id="Fiji-cert">
+<label class="accordion" for="Fiji-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Fiji</b></label>
+		<div class="content" style="background-color:#ededed;">COVID-19 Vaccination Certificate issued by Republic of Fiji
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
+			<input class="accordion" type="checkbox" id="India-cert">
+<label class="accordion" for="India-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>India</b></label>
+		<div class="content" style="background-color:#ededed;">International Travel Certificate in the <a href="https://divoc.egov.org.in/" target="_blank">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a href="https://www.cowin.gov.in/" target="_blank">Co-WIN</a> platform.
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using the tool on the <a href="https://verify.cowin.gov.in/" target="_blank">Co-Win website</a></li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
@@ -515,15 +512,15 @@ label.box {
     </ol>
 </div>
 <input class="accordion" type="checkbox" id="Indonesia-cert">
-<label for="Indonesia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Indonesia</b></label>
-<div class="content" style="background-color:#ededed;">Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
+<label class="accordion" for="Indonesia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Indonesia</b></label>
+		<div class="content" style="background-color:#ededed;">Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
 </div>
-<input class="accordion" type="checkbox" id="Malaysia-cert">
-<label for="Malaysia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Malaysia</b></label>
-<div class="content" style="background-color:#ededed;">Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
+					<input class="accordion" type="checkbox" id="Malaysia-cert">
+<label class="accordion" for="Malaysia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Malaysia</b></label>
+		<div class="content" style="background-color:#ededed;">Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using the following tools: <a href="https://play.google.com/store/apps/details?id=my.gov.onegovappstore.healthcertverifier" target="_blank">Vaccine Certificate Verifier</a> (Android) or <a href="https://apps.apple.com/sg/app/vaccine-certificate-verifier/id1564237499" target="_blank">Vaccine Certificate Verifier</a> (iOS)</li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
@@ -549,22 +546,22 @@ label.box {
   </li>
     </ol>
 </div>
-<input type="checkbox" id="Maldives-cert">
-<label for="Maldives-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Maldives</b></label>
-<div class="content" style="background-color:#ededed;">COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
+					<input class="accordion" type="checkbox" id="Maldives-cert">
+<label class="accordion" for="Maldives-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Maldives</b></label>
+		<div class="content" style="background-color:#ededed;">COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload:</b> One</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR code</b>:<br><img src="/images/QR_Canada.png" style="width:54px; height:84px;"></p>
 </div>
-<input type="checkbox" id="ROK-cert">
-<label for="ROK-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Republic of Korea</b></label>
-<div class="content" style="background-color:#ededed;">
+					<input class="accordion" type="checkbox" id="ROK-cert">
+<label class="accordion" for="ROK-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Republic of Korea</b></label>
+		<div class="content" style="background-color:#ededed;">
 			<ol style="list-style-type:lower-latin;">
 				<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Static vaccination certificate QR code on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> or;</li> 
 				<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA) downloaded from the <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">KDCA website</a></li>
 	</ol>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">If you hold the proof of vaccination at (b), self-verify your QR code using the tool on the <a href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&MnLv2=3" target="_blank">KDCA website</a></li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate at (a) during application. <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"> If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the enquiry form here and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
@@ -575,16 +572,16 @@ label.box {
   </li>
     </ol>
 </div>
-<input type="checkbox" id="SriLanka-cert">
-<label for="SriLanka-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Sri Lanka</b></label>
-<div class="content" style="background-color:#ededed;">Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
+					<input class="accordion" type="checkbox" id="SriLanka-cert">
+<label class="accordion" for="SriLanka-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Sri Lanka</b></label>
+		<div class="content" style="background-color:#ededed;">Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health
+	<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
 	</div>
-<input type="checkbox" id="Thailand-cert">
-<label for="Thailand-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Thailand</b></label>
-<div class="content" style="background-color:#ededed;">International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
+					<input class="accordion" type="checkbox" id="Thailand-cert">
+<label class="accordion" for="Thailand-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Thailand</b></label>
+		<div class="content" style="background-color:#ededed;">International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. You can retrieve can your certificate by selecting 'International Certificate' on the Mor Prom app.</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload</b>: One</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code:</b></p>
@@ -599,15 +596,15 @@ label.box {
 	</tr>
 			</table>
 	</div>
-<input type="checkbox" id="UK-cert">
-<label for="UK-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>United Kingdom</b></label>
-<div class="content" style="background-color:#ededed;">
-<ol style="list-style-type:lower-alpha; ">
+					<input class="accordion" type="checkbox" id="UK-cert">
+<label class="accordion" for="UK-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>United Kingdom</b></label>
+		<div class="content" style="background-color:#ededed;">
+			<ol style="list-style-type:lower-alpha; ">
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (“NHS”) COVID Pass</a> of vaccination; <br><br>or</li>
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Northern Ireland COVID certificate issued by <a href="http://online.hscni.net/" target="_blank">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents" target="_blank">COVIDCert Northern Ireland (“NI”) app</a>).<br><br>One QR code per dose; <br><br>or</li>
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><b>[For children aged 13 to 15]</b> Digital vaccination record retrieved from the public health database of the local health authority.</li>
 			</ol>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">If you hold the proof of vaccination at (a) or (b), self-verify your QR code using the following tools: <a href="https://app.digitalcovidcertchecker.gov.ie/" target="_blank">DCC Checker</a> (Web App) <a href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier" target="_blank">COVID Certificate Check</a> (Android) or <a href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510" target="_blank">COVID Certificate Check</a> (iOS)</li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Please screen-capture one QR code at a time, and upload each QR code into the portal accordingly.</p>
@@ -624,9 +621,9 @@ label.box {
   </li>
     </ol>
 </div>	
-<input type="checkbox" id="USA-cert">
-<label for="USA-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>United States of America</b></label>
-<div class="content" style="background-color:#ededed;"><ol style="list-style-type:lower-alpha;">
+					<input class="accordion" type="checkbox" id="USA-cert">
+<label class="accordion" for="USA-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>United States of America</b></label>
+		<div class="content" style="background-color:#ededed;"><ol style="list-style-type:lower-alpha; ">
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC)</a> issued by CommonTrust Network issuers (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>) or <a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><a href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html" target="_blank">Digital vaccination record retrieved from the public health database of the state or the local health authority</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to the passenger’s vaccination status. The attestation letter should contain:
@@ -637,17 +634,19 @@ label.box {
 				</ol>		
 			</li>	
 			</ol>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Land) Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">If you hold the proof of vaccination at (a), self-verify your QR code using the following tools: <a href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier" target="_blank">SMART Health Card Verifier</a> (Android) or <a href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390" target="_blank">SMART Health Card Verifier</a> (iOS)</li>
-  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate at (a) during application. <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"> If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the enquiry form here and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Land) application.</p>
+  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate at (a) during application. <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"> If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the enquiry form here and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
   <ol style="list-style-type:disc;">
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_USA.png" style="width:68px; height:104px;"></li>
     </ol>
   </li>
     </ol>
-	</div>
+	</div>	
+	</div>	
+
 <br>
 <b style="color:red; font-size:20px;"><u>For STVs and LTPHs:</u></b> <i style="font-size:20px;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL (Land).</i>
 
