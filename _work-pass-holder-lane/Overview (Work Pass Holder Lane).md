@@ -13,7 +13,7 @@ On this page, you will find the following key information on the WPHL.
 
 <ol style="list-style-type:decimal;">
 <li><a href="#eligibility">Eligibility</a></li>
-<li><a href="#hcm">Travel History and Travel Health Control Measures</a></li>
+<li><a href="#hcm">Travel History and Travel Health Control Measures</a> (e.g. Stay-Home Notice and COVID-19 Tests)</li>
 <li><a href="#application">Application for Travel under the WPHL</a></li>
 <li><a href="#PDEntry">Pre-departure and Entry Procedures</a></li>
 <li><a href="#FAQ">Frequently Asked Questions</a></li>
