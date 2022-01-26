@@ -194,7 +194,7 @@ input:checked + label + .content {
 <label for="title1">Criterion 1: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
 
 <div style="background-color:#edf4fa;" class="content">
-<p style="line-height:1.3; font-size:18px;">Travellers must be fully vaccinated with WHO EUL vaccines (<a target="_blank" href="/health/vtsg">click here for definition</a> of fully vaccinated) at least two weeks before arrival in Singapore. </p>
+<p style="line-height:1.3; font-size:18px;">Travellers are considered fully vaccinated (<a target="_blank" href="/health/vtsg">click here for definition</a>) if they received the full regimen of WHO EUL vaccines at least two weeks before arrival in Singapore. </p>
 <p style="line-height:1.3; font-size:18px;">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL (Air) if accompanied by a fully vaccinated VTL (Air) traveller.</p>
 </div>
 
