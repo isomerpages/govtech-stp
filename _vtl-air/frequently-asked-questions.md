@@ -1398,8 +1398,6 @@ Children under the age of 2 are not required to perform ARTs. Generally, those b
 
 Travellers are required to self-administer their ART before leaving their place of accommodation.
 
-Those who do not intend to leave their place of accommodation may perform their ART at any time. They must still perform their ARTs even if they are not going out.
-
 #### 28. How long will it take to obtain the results of the self-administered ART?
 
 The results should be visible within 15 minutes and should be reflected as follows. If it appears as invalid, please repeat the test and submit a valid (i.e. positive or negative) test result via the webform.
