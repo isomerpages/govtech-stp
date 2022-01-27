@@ -405,7 +405,7 @@ label.box {
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label class="box" for="1E">&nbsp;&nbsp;<b>Stage 1E: [Short Term Visitors and Long Term Pass Holders] Purchase COVID-19 Insurance</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Short Term Visitors]</b> Purchase travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment" target="_blank">here</a>.</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Long Term Pass Holders]</b> Please click <a href="/health/insurance-and-treatment" target="_blank">here</a> for more information.
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Long Term Pass Holders]</b> Please click <a href="/health/insurance-and-treatment#LTPH" target="_blank">here</a> for more information.
 </p>
 </div>
 
