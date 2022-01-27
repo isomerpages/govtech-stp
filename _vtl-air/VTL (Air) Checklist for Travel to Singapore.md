@@ -405,7 +405,7 @@ label.box {
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label class="box" for="1E">&nbsp;&nbsp;<b>Stage 1E: [Short Term Visitors and Long Term Pass Holders] Purchase COVID-19 Insurance</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Short Term Visitors]</b> Purchase travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment" target="_blank">here</a>.</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Long Term Pass Holders]</b> Please click <a href="/health/insurance-and-treatment" target="_blank">here</a> for more information.
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Long Term Pass Holders]</b> Please click <a href="/health/insurance-and-treatment#LTPH" target="_blank">here</a> for more information.
 </p>
 </div>
 
@@ -470,13 +470,7 @@ label.box {
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; SC/PRs who are not vaccinated in Singapore: You are strongly encouraged to submit your overseas vaccination certificate in your health declaration as part of the SG Arrival Card submission.</p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span>&nbsp; SC/PRs who are vaccinated in Singapore: You are not required to upload your vaccination certificates as your records are already captured in the Singapore Ministry of Health (MOH) database.</p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span>&nbsp; Long-term pass holders and short-term visitors: You do not need to upload your vaccination certificates they will be verified as part of the VTP application.</p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>&nbsp;<b>Defer travel</b> if you:</p>
-		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Have COVID-19 symptoms;</li>
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
-		<li style="padding-left:10px; margin-bottom:0px; padding-bottom:10px; line-height:1.35; font-size:18px;">Had been in close contact with a COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
-	</ol>
-<p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>&nbsp;<b>[For travellers entering Singapore after 23 Jan 2022, 2359hrs] Defer travel if you:</b> </p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>&nbsp;<b>For travellers entering Singapore after 23 Jan 2022, 2359hrs, defer travel if you:</b> </p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Have COVID-19 symptoms;</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Are diagnosed or suspected to have contracted COVID-19* in the last 7 days (for fully vaccinated persons) or 14 days (for non-fully vaccinated persons, e.g. children aged 12 and below) before departing for Singapore; or</li>

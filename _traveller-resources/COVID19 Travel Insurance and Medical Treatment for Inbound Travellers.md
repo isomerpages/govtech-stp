@@ -54,6 +54,8 @@ A list of available Singapore-based travel insurance products* are as follows:
 
 The mandatory travel insurance <u>does not</u> apply to Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to access Government subsidies and MediShield Life / Integrated Shield Plans to help pay for their medical bills, where applicable, should they develop onset of symptoms for COVID-19 within 14 days of their return.
 
+<div id="LTPH"></div>
+
 #### Insurance for Long-Term Pass Holders
 
 Employers must buy COVID-19 medical insurance for all (both new and existing) Work Permit, Training Work Permit and S Pass holders, before they enter Singapore. Please refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-and-shn-requirements-for-foreign-employees#what-are-the-covid-19-insurance-requirements-for-workers-entering-singapore" target="_blank">MOM’s website</a> to check the coverage required or <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">where to buy</a> the insurance from.
