@@ -99,6 +99,7 @@ Tozinameran (INN)</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></li>
 					<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Bharat Biotech BBV152 COVAXIN<sup>&#174;</sup></li>
+									<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">NVX-CoV2373/Covovax/Nuvaxovid</sup></li>
 				</ol>
 			</td>
 										<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">2</td>
@@ -188,7 +189,7 @@ Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part 
 			 <ol style="list-style-type:square;">
 					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinovac-Coronavac vaccines: 17 days</li>
 					<li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinopharm vaccine: 17 days</li>
-				 <li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinova-Coronavac and Sinopharm mixed: 17 days</li>
+				 <li style="line-height:1.5; margin-top:13px; font-size:18px;">Sinovac-Coronavac and Sinopharm mixed: 17 days</li>
 					</ol>
 					<p style="line-height:1.5; margin-top:13px; font-size:18px;"><b>Interval between 2nd and 3rd doses:</b> At least 86 days</p>
 			 </td>
