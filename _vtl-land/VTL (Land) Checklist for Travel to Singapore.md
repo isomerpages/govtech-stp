@@ -5,11 +5,11 @@ description: ""
 ---
 <div id="notice" style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red;"><b><u>NOTICE</u></b></p>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px; color:black;">The following measures are applicable for VTL (Land) travellers entering Singapore after 23 January 2022, 2359hrs (SGT):<ol style="font-size:16px; margin-top:0px; margin-bottom:0px; color:black;">
+<p style="font-size:16px; line-height:1.35; margin-top:10px; margin-bottom:10px; color:black;">The following measures are applicable for VTL (Land) travellers entering Singapore after 23 January 2022, 2359hrs (SGT):<ol style="font-size:16px; margin-top:0px; margin-bottom:0px; color:black;">
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">All travellers will only be required to undergo daily unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival, in addition to fulfilling pre-departure and on-arrival testing requirements.</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">Those who test positive on the unsupervised self-administered ARTs no longer need to undergo a confirmatory PCR test but should instead abide by the relevant <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor " target="_blank">COVID-19 recovery protocol</a>.</li>
 	</ol></p>
-<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px; color:black;">VTL travellers who entered Singapore before 23 January 2022, 2359hrs (SGT) are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
+<p style="font-size:16px; line-height:1.35; margin-top:0px; margin-bottom:10px; color:black;">VTL travellers who entered Singapore before 23 January 2022, 2359hrs (SGT) are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
 	</div>
 
 ### VTL Land Travel Checklist 
@@ -74,13 +74,13 @@ description: ""
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label class="box" for="1E">&nbsp;&nbsp;<b>(1E) Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive </b></label></div>	
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Monitor your health status. Travellers are advised to defer travel if you have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">If you have recently recovered from COVID-19 in the last 90 days before departure:</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">Monitor your health status. Travellers are advised to defer travel if you have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">If you have recently recovered from COVID-19 in the last 90 days before departure:</p>
 	<ol style="padding-left: 20px; list-style-type:disc;">
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-checker tool</a> determine if you are eligible for the Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Traveller Protocol instead</a> for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">To travel on a designated VTL bus, requirements from Stage 1A-1D still apply.</li>
 	</ol>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
 	<ol style="padding-left: 20px;">
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Is not a handwritten document;</li>
 			<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Is in English or accompanied with an English translation;</li>
