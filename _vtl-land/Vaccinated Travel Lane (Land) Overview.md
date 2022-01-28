@@ -160,7 +160,7 @@ input:checked + label + .content {
 <label for="title3">Criterion 3: Hold an Accepted Proof of Vaccination</label>
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">	
-	<p style="line-height:1.4; font-size:18px; ">Travellers must obtain a digitally verifiable vaccination certificate for application, pre-departure checks and immigration clearance. Please refer to <a href="/vtl-land/faq#digitalcertsQ2" target="_blank">this guide</a> for acceptable proofs of vaccination.</p>
+	<p style="line-height:1.4; font-size:18px; ">Travellers must obtain a digitally verifiable vaccination certificate for application, pre-departure checks and immigration clearance. Please refer to <a href="/vtl-land/faq#digitalcertsQ2" target="_blank">this guide</a> for acceptable proof of vaccination.</p>
 </div>
 	
 <input type="checkbox" id="title4" />
