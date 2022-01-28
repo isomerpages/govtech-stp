@@ -270,9 +270,6 @@ If you are a holder of a Singapore Long-Term Pass with your vaccination records 
 
 Digitally verifiable vaccination certificates should contain QR code(s) that can be scanned to read and authenticate that the QR code was issued by a trusted issuer and that the QR code belongs to the individual presenting it.
 
-Non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that we can scan to read and authenticate the traveller’s vaccination status) will <b>not</b> be accepted.
-
-
 <div id="digitalcertsQ2"></div>
 
 
