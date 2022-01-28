@@ -27,8 +27,8 @@ A list of available Singapore-based travel insurance products* are as follows:
 <table>
 <thead>
 <tr>
-<th style="font-size: 20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Insurer</th>
-<th style="font-size: 20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Product Name and Application Page</th>
+<th style="font-size: 20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; background-color:#5e5e5e;">Insurer</th>
+<th style="font-size: 20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;color: white;">Product Name and Application Page</th>
 </tr>
 </thead>
 <tbody>
