@@ -5,8 +5,11 @@ description: ""
 ---
 <div id="notice" style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red;"><b><u>NOTICE</u></b></p>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px; color:black;">Travellers arriving in Singapore <b>before 23 Jan 2022, 2359h</b>, via VTL (Land) will be subject to an on-arrival test,  unsupervised self-administered antigen Rapid Test (ART) on Days 2, 4, 5 and 6 with submission of results online, and supervised ART on Days 3 and 7 from their arrival.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px; color:black;">Travellers arriving in Singapore <b>from 23 Jan 2022, 2359h</b>, via VTL (Land) will perform an on-arrival test, and self-administered ART from Day 2 to 7 of their arrival.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px; color:black;">The following measures are applicable for VTL (Land) travellers entering Singapore after 23 January 2022, 2359hrs (SGT):<ol style="font-size:16px; margin-top:0px; margin-bottom:0px; color:black;">
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">All travellers will only be required to undergo daily unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival, in addition to fulfilling pre-departure and on-arrival testing requirements.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">Those who test positive on the unsupervised self-administered ARTs no longer need to undergo a confirmatory PCR test but should instead abide by the relevant <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor " target="_blank">COVID-19 recovery protocol</a>.</li>
+	</ol></p>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px; color:black;">VTL travellers who entered Singapore before 23 January 2022, 2359hrs (SGT) are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
 	</div>
 
 ### VTL Land Travel Checklist 
@@ -67,38 +70,81 @@ description: ""
 	</ol>
 </div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label for="1E">&nbsp;&nbsp;<b>(1E) Pre-departure COVID-19 Test (PDT)</b></label></div>
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">&#9200; &nbsp; <b>Take a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) <u>within 2 days</u> before departure for Singapore.</b></p>
-		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">The test must be taken at a <a href="https://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/ANNEX_4a_SENARAI_MAKMAL_YANG_MENJALANKAN_UJIAN_RT-PCR_BAGI_COVID-19_13122021.pdf" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> accredited or recognised by the Malaysia Ministry of Health. Travellers should obtain a test report that:</p>
-		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Is in English (or accompanied with an English translation);</li>
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); </li>
-				<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Reflects the date and time the test was taken, the name of the testing institution; and </li>
-				<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Has a negative test result.</li>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label class="box" for="1E">&nbsp;&nbsp;<b>(1E) Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive </b></label></div>	
+<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Monitor your health status. Travellers are advised to defer travel if you have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">If you have recently recovered from COVID-19 in the last 90 days before departure:</p>
+	<ol style="padding-left: 20px; list-style-type:disc;">
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Use this self-checker tool determine if you are eligible for the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the Vaccinated-Recovered Traveller Protocol instead</a> for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">To travel on a VTL flight, requirements from Stage 1A-1D still apply.</li>
 	</ol>
-		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;"><i><u>Illustration of acceptable 2-day timeline</u>: A traveller departing for Singapore on 3 December 2021 should take a pre-departure COVID-19 test no earlier than 1 December 2021.</i></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;<b>Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require a PDT.</b></p>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;<b> <b>[With effect from 23 January 2022, 2359 hours]</b> <a href="/vaccinated-recovered" target="_blank">Recovered travellers</a> do not require a PDT.</b></p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
+	<ol style="padding-left: 20px;">
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Is not a handwritten document;</li>
+			<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Is in English or accompanied with an English translation;</li>
+			<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+			<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Reflects the date and result of the COVID-19 test</li>
+	</ol>
+		<table>
+	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b>A)</b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Any of the following COVID-19 test results showing a positive COVID-19 infection <b>between 7 to 90 days (fully vaccinated travellers) or 14 to 90 days (non-fully vaccinated travellers)</b> before the date of departure for Singapore:
+<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">	Antigen Rapid Test (ART) result administered by a trained professional (self-swabs are disallowed)</li>
+	</ol>
+</td>
+	</tr>
+<tr>
+		<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b> OR </b></td>
+		</tr>
+			<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;vertical-align:middle;"><b>B)</b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Medical discharge memo issued by the relevant state authority or licensed medical professional, showing:
+	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Name (per travel document used to enter Singapore);</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Date of infection which must fall within 7 to 90 days (fully vaccinated travellers) or 14 to 90 days (non-fully vaccinated travellers) before the date of departure for Singapore.</li>
+	</ol>
+</td>
+		</tr>
+	</table>
+	</div>
+
+
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1F"><label for="1F">&nbsp;&nbsp;<b>(1F) Pre-departure COVID-19 Test (PDT)</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+			<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">All travellers, except the groups listed below, must take a Pre-Departure Test (PDT) within 2 days before departure for Singapore:</p>
+		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Below the age of three in this calendar year; OR</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-checker tool</a>, and can show relevant proof of recovery outlined at <a href="#1F">Stage 1F</a>. </li>
+	</ol>
+	<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a>, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). The PDT result must not be a handwritten document, and fulfil the following: </p>
+	<ol style="padding:0px 10px 0px 10px; font-size:18px; background-color:#f8f8f8;">
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Is in English (or accompanied with an English translation);</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Reflects the date and result of the PCR test.</li>
+	</ol>
 	</div>
 	
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1F"><label for="1F">&nbsp;&nbsp;<b>(1F) Submit Health Declaration</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1G"><label for="1G">&nbsp;&nbsp;<b>(1G) Submit Health Declaration</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35;">&#9200; &nbsp; <b>Submit the SG Arrival Card health and travel history declaration up to <u>3 days</u> before arriving in Singapore.</b></p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35;">&#9200; &nbsp; <b>If you are fit for travel, submit the SG Arrival Card health and travel history declaration up to <u>3 days</u> before arriving in Singapore.</b></p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Travellers must fill the online <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> before arriving in Singapore, otherwise they will be asked to it fill up on the spot and experience delays at the checkpoint. Please refer to the <a href="https://youtu.be/hhq4ffp-qOc" target="_blank">SGAC video guide</a> if you are unsure how to fill it up.</li>
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;"><b>The SGAC replaces the physical arrival “White Card”, which is no longer in use.</b> SGAC is a free service and travellers should beware of websites offering to fill the SGAC declaration for a fee.</li>
 	</ol>
-<p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span>&nbsp;<b>Defer travel</b> if you:</p>
-		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Have COVID-19 symptoms; or</li>
-		<li style="padding-left:10px; margin-bottom:0px; padding-bottom:10px; line-height:1.35; font-size:18px;">Are diagnosed or suspected to have COVID-19 infection in the last 7 days before departing for Singapore and test positive for COVID-19 on a PCR test or professionally administered ART at least 72 hours after your initial diagnosis.</li>
-	</ol>
+<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35; color:red;"><b><u>Note during submission</u></b>:</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>&#10003;</b></span>&nbsp; SC/PRs who are not vaccinated in Singapore: You are strongly encouraged to submit your overseas vaccination certificate in your health declaration as part of the SG Arrival Card submission.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span>&nbsp; SC/PRs who are vaccinated in Singapore: You are not required to upload your vaccination certificates as your records are already captured in the Singapore Ministry of Health (MOH) database.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span>&nbsp; Long-term pass holders and short-term visitors: You do not need to upload your vaccination certificates as they have already been verified as part of the VTP application.</p>
 	</div>
 	
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1G"><label for="1G">&nbsp;&nbsp;<b>(1G) Passport Updates for Automated Immigration Clearance</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1H"><label for="1H">&nbsp;&nbsp;<b>(1H) Passport Updates for Automated Immigration Clearance</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">To enjoy automated immigration clearance at Woodlands Checkpoint, travellers may follow the following steps:</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">TTo enjoy automated immigration clearance at Woodlands Checkpoint, travellers may follow the following steps to update their passports:</p>
 
 <table>
 <thead>
@@ -137,7 +183,7 @@ description: ""
 
 <div id="stage2"></div>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>(2A) Departure for Singapore</b></div>
 <div style="padding:10px 10px 5px 10px; margin-top:0px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A"><label for="2A">&nbsp;&nbsp;<b>Pre-departure document checks</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Present the following documents to transport operators for verification:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
@@ -146,11 +192,11 @@ description: ""
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;"><b><span style="color:red;">[Singapore Permanent Residents only]</span></b> Singapore NRIC or Re-Entry Permit</li>
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;"><b><span style="color:red;">[All non-Singapore Citizens and non-Singapore Permanent Residents]</span></b> Physical or electronic copy of the VTP for the specified period of entry (per <a href="#1D">Stage 1D</a>)</li>
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per <a href="#1A">Stage 1A</a>)</li>
-			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#1E">Stage 1E</a>), except for children of and below the age of 2 and , with effect from 23 January 2022, 2359 hours, recovered travellers</li>
+			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#1F">Stage 1F</a>), except for children who turn 2 this calendar year, and <a href="vaccinated-recovered" target="_blank">recovered travellers</a></li>
 	</ol>
 </div>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>(3A) Arrival in Singapore</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3A"><label for="3A">&nbsp;&nbsp;<b>(3A) Immigration Clearance</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
@@ -159,13 +205,13 @@ description: ""
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">&#128653; Travellers must board the same bus after clearing immigration, to be transported to the On-Arrival Test location.</p>
 </div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label for="3B">&nbsp;&nbsp;<b>(3B) On-Arrival COVID-19 ART</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label for="3B">&nbsp;&nbsp;<b>(3B	) On-Arrival COVID-19 ART</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers will be ferried to Queen Street Terminal or Woodlands Temporary Bus Interchange, where they will take their on-arrival COVID-19 ART. Including GST, the test costs $15 and travellers can make e-payment for the test on the spot.</p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;Children aged two and below in this calendar year (i.e. child who has turned two this year) do not require an on-arrival test.</p>
-	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;<b>[With effect from 23 January 2022, 2359 hours]</b> <a href="/vaccinated-recovered" target="_blank">Recovered travellers</a> who are fully vaccinated do not require an on-arrival test.</p>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp; <a href="/vaccinated-recovered" target="_blank">Recently-recovered travellers</a> who are fully vaccinated do not require an on-arrival test.</p>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">&#128653; Travellers can use any transport to leave Queen Street Terminal or Woodlands Temporary Bus Interchange if they have tested negative for their on-arrival COVID-19 ART.</p>
-		<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">&#128653; <b>[With effect from 23 January 2022, 2359 hours]</b> Travellers who have tested positive and are well are required to self-isolate at their place of residence or accommodation for the first 72 hours, and can resume normal activities when tested negative for a self-administered ART. Travellers who have tested positive and are medically high-risk or severely symptomatic should see a doctor.</p>
+		<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">&#128653; Travellers who have tested positive and are well are required to self-isolate at their place of residence or accommodation for the first 72 hours, and can resume normal activities when tested negative for a self-administered ART. Travellers who have tested positive and are medically high-risk or severely symptomatic should see a doctor.</p>
 </div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
@@ -173,8 +219,9 @@ description: ""
 <div id="postarrivaltests" style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="4A"><label for="4A">&nbsp;&nbsp;<b>(4A) Post-Arrival Daily COVID-19 Tests</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;Children aged two and below in this calendar year are exempted from this requirement.</p>
-	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp; <b>[With effect from 23 January 2022, 2359 hours]</b> <a href="/vaccinated-recovered" target="_blank">Recovered travellers</a> who are fully vaccinated are exempted from this requirement.</p>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;  <a href="/vaccinated-recovered" target="_blank">Recently-recovered travellers</a> who are fully vaccinated are exempted from this requirement.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers entering Singapore after 23 January 2022, 2359 hours will take a self-administered COVID-19 ART on Days 2 to 7 of their arrival and must test negative before leaving their place or residence or accommodation for the day. Travellers need not submit their ART results.</p>
+	<p style="font-size:16px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">VTL travellers who entered Singapore before 23 January 2022, 2359 hours are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
 	<!--<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Mandatory Testing Schedule</b></p>
 <table>
 <tr>
