@@ -296,7 +296,7 @@ Non-digitally verifiable vaccination certificates (i.e. those that do not contai
 		<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Overseas</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">One of the <a href="#digitalcertsQ3">accepted proofs of vaccination</a>, which may include your overseas-issued vaccination certificate</td>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">One of the <a href="#digitalcertsQ3">accepted proof of vaccination</a>, which may include your overseas-issued vaccination certificate</td>
 		</tr>
 				<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
@@ -396,10 +396,10 @@ label.box {
 </html>
 
 
-#### 3. What are the accepted proofs of vaccination?
+#### 3. What are the accepted proof of vaccination?
 
-<p style="font-size: 20px; line-height:1.35;">You may check for the acceptable proofs of vaccination based on their countries/regions of issuance below.</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proofs of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u></p>
+<p style="font-size: 20px; line-height:1.35;">You may check for the acceptable proof of vaccination based on their countries/regions of issuance below.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proof of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u></p>
 
 <div id="1A" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; font-size:18px;">
 <input class="accordion" type="checkbox" id="Singapore-cert">
