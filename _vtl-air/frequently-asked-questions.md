@@ -181,6 +181,13 @@ If you are required to apply for a VTP (Air), please write to the Safe Travel Of
 You <u>do not</u> need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination, NHS COVID Pass of vaccination, or Northern Ireland COVID certificate showing the final dose in the series (i.e. "1/1"). IF you are required to apply for a VTP (Air), you need only upload the QR code found on your vaccination certificate. 
 
 
+---
+
+##### Click here to go back to the [top](#top).
+
+---
+
+
 <div id="vaxcert"></div>
 
 ### (ii) Digitally Verifiable Vaccination Certificate and QR Code Issues
@@ -832,6 +839,16 @@ Travellers withe EU DCCs issued in any European Union Member States or non-EU co
 <li>having only travelled to or transited via one or more of the VTL (Air) countries/regions, Category I countries/regions and/or Singapore, in the last 14 consecutive days prior to departure for Singapore, and;</li>
 <li>arriving in Singapore on a designated VTL (Air) flight from any of the VTL countries/regions.</li>
 </ol>
+
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
+
+
+
 
 <div id="PDT"></div>
 
