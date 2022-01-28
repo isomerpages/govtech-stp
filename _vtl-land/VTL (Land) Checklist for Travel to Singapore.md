@@ -122,9 +122,9 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B"><label for="1B">&nbsp;&nbsp;<b>(1B) Secure Tickets for a Designated VTL (Land) Bus Service</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; background-color:#f5f5f5; border-style: solid; border-width: 1px; text-align:center;">
-	<!--<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red; text-algin:center;"><b><u><a href="#notice">SEE NOTICE</a></u></b></p>-->
-	</div>	
+	<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; background-color:#f5f5f5; border-style: solid; border-width: 1px; text-align:center;">
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red; text-algin:center;"><b><u><a href="#notice">SEE NOTICE</a></u></b></p>
+	</div>-->
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">&#9200; &nbsp; <b>Purchase tickets <u>at least 1 day</u> before arrival in Singapore</b></p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated bus service offered by the operators below*.</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
