@@ -106,7 +106,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 		<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/vtl/faq#QRcode" target="_blank">Overseas</a></td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">One of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>, which may include your overseas-issued vaccination certificate</td>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">One of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proof of vaccination</a>, which may include your overseas-issued vaccination certificate</td>
 		</tr>
 				<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
@@ -143,7 +143,7 @@ You may also choose to upload the QR code on your Singapore Vaccination HealthCe
 
 #### 5. I was fully vaccinated in a non-VTL (Air) country/region and have an <a href="/vtl/faq#QRcode">accepted proof of vaccination</a>. Do I satisfy the vaccination requirement?
 
-Yes. Please refer to the instructions <a href="/vtl/faq#vaxcert" target="_blank">here</a> for the accepted proofs of vaccination.
+Yes. Please refer to the instructions <a href="/vtl/faq#vaxcert" target="_blank">here</a> for the accepted proof of vaccination.
 
  
  <div id="Q7"></div>
@@ -202,18 +202,18 @@ Currently, travellers are granted interim 'Vaccinated' status in the TraceTogeth
 
 <div id="QRcode"></div>
 
-#### 1. What are the accepted proofs of vaccination and which can I upload onto the VTP portal?
+#### 1. What are the accepted proof of vaccination and which can I upload onto the VTP portal?
 
 <p style="line-height:1.5; margin-top:15px;  font-size:18px; color:red;"><b><u>For Singapore Citizens and Permanent Residents</u></b></p>
 <p style="line-height:1.5; font-size:18px;"> If you are a Singapore Citizen or Permanent Resident, you need not apply for a VTP (Air). You will need to show an accepted proof of vaccination to airlines at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. </p>
 <p style="line-height:1.5; font-size:18px; margin-top:15px; color:red;"><b><u>For Short-Term Visitors and Long-Term Pass Holders</u></b></p>
 <p style="line-height:1.5; font-size:18px;">If you are a Long-Term Pass Holder or Short-Term Visitor (LTPH/STV) to Singapore, you need to apply for a VTP (Air). Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP (Air) application portal. You should upload the QR code(s) of your <b>primary series</b> only (i.e. first and second doses); regardless of whether you have obtained a booster dose. <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. Those who are required to upload a QR code but cannot do so are to write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation (e.g. passport) and other supporting documents. </p>
-<p style="line-height:1.5; font-size:18px; margin-top:20px; color:red;"><b><u>Accepted Proofs of Vaccination</u></b></p>
+<p style="line-height:1.5; font-size:18px; margin-top:20px; color:red;"><b><u>Accepted Proof of Vaccination</u></b></p>
 <table>
 <thead>
 <tr>
 	<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:100px; line-height:1.3;"><b>Country in which Proof of Vaccination was issued</b></th>
-		<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:300px; line-height:1.3;"><b>Accepted Proofs of Vaccination</b></th>
+		<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:300px; line-height:1.3;"><b>Accepted Proof of Vaccination</b></th>
 		<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px; line-height:1.3;"><b>I am an LTPH/STV. Do I need to upload my vaccination certificate QR code onto the VTP portal?</b></th>
 </tr>
 </thead>
@@ -378,7 +378,7 @@ Depending on the vaccination certificate you hold, you are encouraged to check i
 <thead>
 	<tr>
 <th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8;  vertical-align:middle;"><b>Country in which Proof of Vaccination was issued</b></th>
-<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;  vertical-align:middle;"><b>Self-Verifiable Proofs of Vaccination</b></th>
+<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;  vertical-align:middle;"><b>Self-Verifiable Proof of Vaccination</b></th>
 	<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;  vertical-align:middle;"><b>Available Self-Verification Tools</b></th>
 </tr>
 </thead>
@@ -506,7 +506,7 @@ You should upload the QR code(s) of your <b>primary series</b> only (i.e. first 
 <thead>
 <tr>
 <th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; "><b>Country in which Proof of Vaccination was issued</b></th>
-<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; "><b>Accepted Proofs of Vaccination Containing QR Code(s)</b></th>
+<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; "><b>Accepted Proof of Vaccination Containing QR Code(s)</b></th>
 <th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; "><b>Location of QR Code</b></th>
 <th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; "><b>If <a href="/health/vtsg">full vaccination regimen</a> consists of 2 doses</b></th>
 	<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; "><b>If <a href="/health/vtsg">full vaccination regimen</a> consists of 1 dose</b></th>
@@ -645,7 +645,7 @@ Switzerland</td>
 
 <p style="font-size:16px; margin-top:10px; margin-bottom:15px; line-height:1.5;"><sup>^</sup>If your vaccination record was issued in the US but is not issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative, please refer <a href="#Question7">here</a>.</p>
 
-<p style="font-size:16px; margin-top:20px; margin-bottom:15px; line-height:1.5;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP (Air) application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proofs of vaccination</a>, you will not be eligible for travel on the VTL (Air).</p>
+<p style="font-size:16px; margin-top:20px; margin-bottom:15px; line-height:1.5;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP (Air) application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proof of vaccination</a>, you will not be eligible for travel on the VTL (Air).</p>
 
 
 <div id="invalidcode"></div>
