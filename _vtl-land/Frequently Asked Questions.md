@@ -76,7 +76,8 @@ Similarly, there is no requirement to stay in Malaysia for a minimum period afte
 
 #### 6. I recently recovered from COVID-19. Can I enter Singapore under the VTL (Land)?
 
-Travellers who test positive for COVID-19 within 7 days from their date of departure and subsequently test negative in a PCR test or professionally administered ART at least 72 hours after their COVID-19 diagnosis are allowed to enter Singapore under the VTL (Land).
+Fully vaccinated and recently recovered travellers can be permitted to board the designated VTL (Land) bus even if they have had symptoms emerged within 7 days of their departure if they are able to obtain a valid negative result from a PCR test or professionally administered ART within 2 days before departure. 
+
 Otherwise, such travellers are not allowed to enter Singapore under the VTL (Land).
 
 <div id="DesignatedBus"></div>
