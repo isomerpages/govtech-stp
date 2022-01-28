@@ -4,8 +4,8 @@ permalink: /vtl/travel-checklist
 description: ""
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>This page contains is a checklist for Vaccinated Travel Lane (Air) [VTL (Air)] travellers who already understand the entry requirements into Singapore via the VTL (Air). If you are not clear on the VTL (Air) requirements, please refer to the VTL (Air) Overview page <a href="/vtl/requirements-and-process" target="_blank">here</a>  before reading this checklist.</b></span></p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>Travellers intending to travel <u>out</u> of Singapore to a VTL (Air) country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For useful information regarding preparing to depart from Singapore (e.g. obtaining pre-departure tests, vaccination certificates), please visit the, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</b></span></p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>This page contains a checklist for Vaccinated Travel Lane (Air) [VTL (Air)] travellers who already understand the entry requirements into Singapore via the VTL (Air). If you are not clear on the VTL (Air) requirements, please refer to the VTL (Air) Overview page <a href="/vtl/requirements-and-process" target="_blank">here</a>  before reading this checklist.</b></span></p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>Travellers intending to travel <u>out</u> of Singapore to a VTL (Air) country/region are advised to check the prevailing entry requirements of the destination. For useful information regarding preparing to depart from Singapore (e.g. obtaining pre-departure tests, vaccination certificates), please visit the, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</b></span></p>
 </div>
 
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
@@ -412,13 +412,13 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1F"><label class="box" for="1F">&nbsp;&nbsp;<b>Stage 1F: Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive </b></label></div>	
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Monitor your health status. Travellers are advised to defer travel if you have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">If you have recently recovered from COVID-19 in the last 90 days before departure:</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">Monitor your health status. Travellers are advised to defer travel if you have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">If you have recently recovered from COVID-19 in the last 90 days before departure:</p>
 	<ol style="padding-left: 20px; list-style-type:disc;">
-		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Use this self-checker tool determine if you are eligible for the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the Vaccinated-Recovered Traveller Protocol instead</a> for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-checker tool</a> determine if you are eligible for the Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Traveller Protocol instead</a> for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">To travel on a VTL flight, requirements from Stage 1A-1D still apply.</li>
 	</ol>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
 	<ol style="padding-left: 20px;">
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Is not a handwritten document;</li>
 			<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Is in English or accompanied with an English translation;</li>
