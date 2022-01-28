@@ -230,7 +230,7 @@ description: ""
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;Children aged two and below in this calendar year are exempted from this requirement.</p>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;  <a href="/vaccinated-recovered" target="_blank">Recently-recovered travellers</a> who are fully vaccinated are exempted from this requirement.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers entering Singapore after 23 January 2022, 2359 hours will take a self-administered COVID-19 ART on Days 2 to 7 of their arrival and must test negative before leaving their place or residence or accommodation for the day. Travellers need not submit their ART results.</p>
-	<p style="font-size:16px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">VTL travellers who entered Singapore before 23 January 2022, 2359 hours are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">VTL travellers who entered Singapore before 23 January 2022, 2359 hours are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
 	<!--<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Mandatory Testing Schedule</b></p>
 <table>
 <tr>
