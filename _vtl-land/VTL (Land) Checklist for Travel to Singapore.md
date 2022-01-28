@@ -78,7 +78,7 @@ description: ""
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">If you have recently recovered from COVID-19 in the last 90 days before departure:</p>
 	<ol style="padding-left: 20px; list-style-type:disc;">
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Use this self-checker tool determine if you are eligible for the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the Vaccinated-Recovered Traveller Protocol instead</a> for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
-		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">To travel on a VTL flight, requirements from Stage 1A-1D still apply.</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">To travel on a designated VTL bus, requirements from Stage 1A-1D still apply.</li>
 	</ol>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
 	<ol style="padding-left: 20px;">
