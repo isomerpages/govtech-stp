@@ -30,7 +30,7 @@ description: ""
 		<ol style="padding:0px 10px 0px 10px; font-size:18px;">
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Singapore</b>: Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code, or Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Malaysia</b>: Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
-						<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Overseas</b>: Please refer to <a href="/vtl-land/faq#digitalcertsQ2" target="_blank">this guide</a> for acceptable proofs of vaccination. </li>
+						<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Other countries/regions</b>: Please refer to <a href="/vtl-land/faq#digitalcertsQ2" target="_blank">this guide</a> for acceptable proofs of vaccination. </li>
 		</ol>
 <p style="padding-left:5px; font-size:18px; margin-bottom:0px; line-height:1.35;">Travellers vaccinated overseas are advised to refer to <a href="/vtl/faq#verify" target="_blank">this guide</a> to verify if your vaccination certificate is accepted in Singapore.</p>
 
@@ -40,7 +40,7 @@ description: ""
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B"><label for="1B">&nbsp;&nbsp;<b>(1B) Secure Tickets for a Designated VTL (Land) Bus Service</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; background-color:#f5f5f5; border-style: solid; border-width: 1px; text-align:center;">
-	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red; text-algin:center;"><b><u><a href="#notice">SEE NOTICE</a></u></b></p>
+	<!--<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red; text-algin:center;"><b><u><a href="#notice">SEE NOTICE</a></u></b></p>-->
 	</div>	
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">&#9200; &nbsp; <b>Purchase tickets <u>at least 1 day</u> before arrival in Singapore</b></p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">To qualify for VTL (Land)’s quarantine-free travel health protocols, VTL (Land) travellers must arrive in Singapore on a designated bus service offered by the operators below*.</p>
