@@ -9,7 +9,7 @@ description: ""
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">All travellers will only be required to undergo daily unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival, in addition to fulfilling pre-departure and on-arrival testing requirements.</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">Those who test positive on the unsupervised self-administered ARTs no longer need to undergo a confirmatory PCR test but should instead abide by the relevant <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor " target="_blank">COVID-19 recovery protocol</a>.</li>
 	</ol></p>
-<p style="font-size:16px; line-height:1.35; margin-top:0px; margin-bottom:10px; color:black;">VTL travellers who entered Singapore before 23 January 2022, 2359hrs (SGT) are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
+<p style="font-size:16px; line-height:1.35; margin-top:0px; margin-bottom:5px; color:black;">VTL travellers who entered Singapore before 23 January 2022, 2359hrs (SGT) are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
 	</div>
 
 ### VTL Land Travel Checklist 
