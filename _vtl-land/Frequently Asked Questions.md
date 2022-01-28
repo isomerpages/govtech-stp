@@ -462,7 +462,7 @@ label.box {
 	</div>
 			<input class="accordion" type="checkbox" id="eudcc-cert">
 <label class="accordion" for="eudcc-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)</b></label>
-		<div class="content" style="background-color:#ededed;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
+		<div class="content" style="background-color:#ededed;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any European Union Member States or non-EU countries that have joined the EU DCC system listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using these tools: <a href="https://app.digitalcovidcertchecker.gov.ie/" target="_blank">DCC Checker</a> (Web App), <a href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier" target="_blank">COVID Certificate Check</a> (Android) or <a href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510" target="_blank">COVID Certificate Check</a> (iOS)</li>
@@ -732,9 +732,7 @@ The test costs $15, including GST. The traveller will make payment directly to t
 
 #### 2. What should travellers do if they test positive for COVID-19?
 
-Travellers who have tested positive will be required to undergo <a href="https://www.covid.gov.sg/unwell/overview" target="_blank">Protocol 1</a>, i.e. take a confirmatory PCR at the test centre and self-isolate until they receive confirmation on their PCR test results. Those who are tested positive for the PCR test will be issued a 10-day Isolation Order and placed on Home Recovery Programme by default, or if the home environment is not suitable, they can recover at the appropriate care facilities.
-
-Please also note that if a traveller's test result is confirmed to be positive, all persons who identified to be a close contact should follow <a href="https://www.covid.gov.sg/exposed/hrw" target="_blank">MOH's Protocol 3</a> and may be served with a Health Risk Warning.
+Travellers who have tested positive do not need to undergo a confirmatory PCR test. Instead, they can recover under <a href="http://www.covid.gov.sg/unwell/overview" target="_blank">Protocol 2</a> if they are low-risk individuals with mild symptoms, or are well without symptoms. Those who are potentially at risk should visitor a doctor for medical advice after testing positive even if they feel well. 
 
 #### 3. Are recovered travellers exempted from the on-arrival test requirement?
 
