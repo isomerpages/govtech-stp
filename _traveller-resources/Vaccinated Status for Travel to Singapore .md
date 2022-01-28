@@ -109,9 +109,9 @@ Tozinameran (INN)</li>
 	</table>
 	
 
-Travellers who contracted COVID-19 before getting vaccinated can take one dose of any vaccines listed above at least 28 days after the diagnosis of COVID-19 infection, to be considered fully vaccinated for travel to Singapore. Acceptable proof of the first diagnosis date will be required if the traveller is using Safe Travel Lanes that require vaccination.
+Travellers who contracted COVID-19 before getting vaccinated can take one dose of any vaccines listed above <b>at least 28 days after the diagnosis of COVID-19 infection</b>, to be considered fully vaccinated for travel to Singapore. Acceptable proof of the first diagnosis date will be required if the traveller is using Safe Travel Lanes that require vaccination.
 
-If you do not meet any of the above requirements, you are not considered fully vaccinated for entry into Singapore.
+If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated for entry into Singapore.
 
 <div id="VDSMM"></div>
 
