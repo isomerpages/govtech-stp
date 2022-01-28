@@ -293,8 +293,8 @@ input:checked + label + .content {
 	<p style="line-height:1.4; margin-top:20px; font-size:18px; ">Please note the following before applying:
 		<ol style="margin-top:0px; list-style-type:disc;">
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> <b>Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTP (Land) applications are open for travellers intending to <b>enter Singapore 3-60 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">A VTP is valid for 13 calendar days from the traveller’s chosen date of entry.</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><b>Applicants must apply for VTPs between 3 and 60 calendar days before their date of departure.</b></li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTPs are valid for up to 13 calendar days from the traveller's chosen date of entry. Travellers not travelling during this date range can apply for a VTP later.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Accompanying children aged 12 and below and are unvaccinated do <b><u>not</u></b> need to apply. </li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Travellers must comply with the <a href="/vtl-land/conditions" target="_blank">VTL (Land) conditions</a>, details can be found this <a href="/vtl-land/travel-checklist" target="_blank">travel checklist</a>. Failing which, they may be denied entry to Singapore.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTP (Land) and VTP (Air) are not interchangeable, a separate application for VTP (Air) is required if travelling by air.</li>
@@ -312,7 +312,7 @@ input:checked + label + .content {
 Travellers who are eligible for VTL (Land) and have already obtained their bus tickets and Vaccinated Travel Pass (Land) if needed should refer to this <a target="_blank" href="/vtl-land/travel-checklist">traveller checklist</a> for the full list of requirements to complete VTL (Land) travel. This includes:
 <ol style="font-size:18px; list-style-type:disc;">
 	<li style="font-size:18px; line-height:1.4;">Negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) taken within 2 days before departure for Singapore;</li>
-	<li style="font-size:18px; line-height:1.4;">Filling up the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> (replaces the physical "White Card"). Travellers must complete this up to 72 hours before arrival in Singapore to avoid delays at the checkpoint; and</li>
+	<li style="font-size:18px; line-height:1.4;">Filling up the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> (replaces the physical "White Card"). Travellers must complete this within three (3) days before arrival in Singapore to avoid delays at the checkpoint; and</li>
 	<li style="font-size:18px; line-height:1.4;">On-arrival COVID-19 test upon arriving in Singapore.</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival self-administered COVID-19 ARTs on Days 2 to 7</li>
 </ol>	
