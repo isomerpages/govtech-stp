@@ -2,6 +2,7 @@
 title: Death & Critical Illness Emergency Visit Lane - Overview
 permalink: /dcev/overview
 ---
+
 This Death &amp; Critical Illness Emergency Visit (DCEV) Lane caters to all foreign travellers who are seeking urgent entry into Singapore to attend to the death or critical medical condition of an immediate family member <b>in Singapore</b>. A maximum of two travellers may be granted entry per case. Singapore Citizens (SC) and Permanent Residents (PR) in a similar predicament can return to Singapore <b>without</b> the need to apply for an entry approval via this lane; click <a href="/sc-pr/overview">here</a> for more details.
 
 Summarised below is a quick overview of the key lane features and requirements. Travellers who are ineligible for travel via this lane may refer [here](/arriving/overview) for a list of available Safe Travel options. 
@@ -20,7 +21,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
  </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Required Country/Region of Departure</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">All countries/regions allowed. <br><br> Entry bans for arrivals from Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, and Zimbabwe, will be lifted <b>from 26 December 2021, 2359hrs</b>.</td>
+	   <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">All countries/regions allowed.</td>
  </tr>
 	</tbody>
 <thead>

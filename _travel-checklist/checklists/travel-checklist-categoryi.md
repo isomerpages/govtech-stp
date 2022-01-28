@@ -102,8 +102,12 @@ label.box {
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers should defer travel if feeling unwell (e.g. fever, cough, runny nose, sore throat, loss of taste or smell).</p>
-<p style="font-size:18px; line-height:1.35;">Travellers who recently tested positive for COVID-19 before their travel should use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-checker tool</a> to determine their next steps in order to continue with their travel, including whether they qualify for the Vaccinated-Recovered (VR) traveller protocol.  Travellers who qualify should refer to the protocols stipulated on the <a target="_blank" href="/vaccinated-recovered">VR Protocol page</a> instead of this checklist.</p>
+<p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers are advised to defer travel if they have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
+<p style="line-height:1.35;font-size:18px; margin-top: 20px;">If you have recently recovered from COVID-19 within the last 90 days before departure:</p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: disc;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-checker tool</a> to determine if you are eligible for the <a target="_blank" href="/vaccinated-recovered">Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the Vaccinated-Recovered Traveller Protocol instead</a> for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Entry approval requirements (Stage 1A, 1B) still apply.</li>
+</ol>
 <p style="font-size:18px;line-height:1.35;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Is not a handwritten document;</li>
@@ -136,7 +140,6 @@ label.box {
 </td>
 		</tr>
 	</tbody></table>
-	<p style="font-size:18px;line-height:1.35;">If you are well or ineligible for the <a target="_blank" href="/vaccinated-recovered">VR Protocol</a>, the rest of this checklist remains applicable to you. Travellers who are well and not eligible for the VR protocol should also ensure that you have not had close contact with any COVID-19 positive patient in the last 7 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two metres) contact with a COVID-19 patient for more than 15 minutes.</p>
 </div>
 
 <div id="1D" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) COVID-19 Pre-Departure Tests (PDT)</b></i></div>
