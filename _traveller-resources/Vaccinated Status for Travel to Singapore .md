@@ -27,10 +27,10 @@ Travellers are considered fully vaccinated if they meet the following conditions
 <table>
 	<thead>
 		<tr>
-		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Manufacturer</b></th>
-			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Name of Vaccine</b></th>
-			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Dose(s) Required</b></th>
-			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Minimum Interval between Doses</b></th>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#d5d5d5;"><b>Manufacturer</b></th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#d5d5d5;"><b>Name of Vaccine</b></th>
+			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#d5d5d5;"><b>Dose(s) Required</b></th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#d5d5d5;"><b>Minimum Interval between Doses</b></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -42,7 +42,7 @@ Travellers are considered fully vaccinated if they meet the following conditions
 		</tr>
 		<tr>
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Moderna</td>
-						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">mRNA-1273</td>
+						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">mRNA-1273 / Spikevax</td>
 						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
 						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">24 days</td>
 		</tr>
@@ -109,8 +109,9 @@ Tozinameran (INN)</li>
 	</table>
 	
 
+Travellers who contracted COVID-19 before getting vaccinated can take one dose of any vaccines listed above <b>at least 28 days after the diagnosis of COVID-19 infection</b>, to be considered fully vaccinated for travel to Singapore. Acceptable proof of the first diagnosis date will be required if the traveller is using Safe Travel Lanes that require vaccination.
 
-If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated with WHO EUL vaccines.
+If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated for entry into Singapore.
 
 <div id="VDSMM"></div>
 
@@ -148,7 +149,13 @@ If your serology test is positive, the private healthcare provider will enter yo
 
 #### 2c. Maintaining vaccination status beyond the temporary status granted for those who have taken Sinovac/Sinopharm vaccines
 
-Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part of their vaccination, or had 1 Sinovac/Sinopharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of 3 vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 4 months from the date of their 2nd dose. The 3rd vaccination dose<b>*</b> can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
+Travellers who entered Singapore with Sinovac/Sinopharm as part of their vaccination, will be required to have a minimum number of 3 vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 4 months from the date of their 2nd dose (or 180 days for travellers who uploaded their QR codes while applying for the Vaccinated Travel Pass). 
+
+A full list of accepted 3-dose combinations involving Sinovac/Sinopharm and other WHO EUL vacines, including for those recovered from COVID-19, can be found <a href="https://go.gov.sg/sinovac-mixed-vac-combi" target="_blank">here</a>. Travellers will be considered fully vaccinated immediately after their 3rd vaccination dose (i.e. they do not have to wait for 14 days to be considered fully vaccinated after their 3rd dose).
+
+For more information, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH FAQ </a>.
+
+<!--Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part of their vaccination, or had 1 Sinovac/Sinopharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of 3 vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 4 months from the date of their 2nd dose. The 3rd vaccination dose<b>*</b> can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
 
 <b>* Note: Travellers wiill be considered to be fully vaccinated immediately after their 3rd vaccination dose. (i.e. they do not have to wait for 14 days to be considered fully vaccinated after their 3rd dose.)</b>
 
@@ -213,4 +220,4 @@ Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part 
 		</tbody>
 		</table>
 
-For more information, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH FAQ </a>.
+For more information, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH FAQ </a>.-->

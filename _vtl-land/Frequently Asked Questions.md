@@ -76,7 +76,8 @@ Similarly, there is no requirement to stay in Malaysia for a minimum period afte
 
 #### 6. I recently recovered from COVID-19. Can I enter Singapore under the VTL (Land)?
 
-Travellers who test positive for COVID-19 within 7 days from their date of departure and subsequently test negative in a PCR test or professionally administered ART at least 72 hours after their COVID-19 diagnosis are allowed to enter Singapore under the VTL (Land).
+Fully vaccinated and recently recovered travellers can be permitted to board the designated VTL (Land) bus even if they have had symptoms emerged within 7 days of their departure if they are able to obtain a valid negative result from a PCR test or professionally administered ART within 2 days before departure. 
+
 Otherwise, such travellers are not allowed to enter Singapore under the VTL (Land).
 
 <div id="DesignatedBus"></div>
@@ -146,7 +147,7 @@ Children who are 12 and below in this calendar year and are unvaccinated can sti
 
 #### 2. Is there an expiry (i.e. validity period) and limit to the number of times travellers can apply for a VTP?
 
-No, there is no limit to the number of times a traveller can apply for a VTP. To afford entry flexibility to travellers, a VTP is valid for a period of up to 13 calendar days after the intended date of entry. This means that <b>a traveller holding a VTP for entry into Singapore on 1 December 2021, may book designated VTL (Land) bus service to enter Singapore on any day from 1 December to 14 December 2021. </b> 
+No, there is no limit to the number of times a traveller can apply for a VTP. To afford entry flexibility to travellers, a VTP is valid for a period of up to 14 calendar days after the intended date of entry. This means that <b>a traveller holding a VTP for entry into Singapore on 1 December 2021, may book designated VTL (Land) bus service to enter Singapore on any day from 1 December to 14 December 2021. </b> 
 
 Travellers intending to enter Singapore before or after the 14-day validity period should apply for a new VTP. 
 
@@ -269,9 +270,6 @@ If you are a holder of a Singapore Long-Term Pass with your vaccination records 
 
 Digitally verifiable vaccination certificates should contain QR code(s) that can be scanned to read and authenticate that the QR code was issued by a trusted issuer and that the QR code belongs to the individual presenting it.
 
-Non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that we can scan to read and authenticate the traveller’s vaccination status) will <b>not</b> be accepted.
-
-
 <div id="digitalcertsQ2"></div>
 
 
@@ -295,7 +293,7 @@ Non-digitally verifiable vaccination certificates (i.e. those that do not contai
 		<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Overseas</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">One of the <a href="#digitalcertsQ3">accepted proofs of vaccination</a>, which may include your overseas-issued vaccination certificate</td>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">One of the <a href="#digitalcertsQ3">accepted proof of vaccination</a>, which may include your overseas-issued vaccination certificate</td>
 		</tr>
 				<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
@@ -395,10 +393,10 @@ label.box {
 </html>
 
 
-#### 3. What are the accepted proofs of vaccination?
+#### 3. What are the accepted proof of vaccination?
 
-<p style="font-size: 20px; line-height:1.35;">You may check for the acceptable proofs of vaccination based on their countries/regions of issuance below.</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proofs of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u></p>
+<p style="font-size: 20px; line-height:1.35;">You may check for the acceptable proof of vaccination based on their countries/regions of issuance below.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proof of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u></p>
 
 <div id="1A" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; font-size:18px;">
 <input class="accordion" type="checkbox" id="Singapore-cert">
@@ -461,7 +459,7 @@ label.box {
 	</div>
 			<input class="accordion" type="checkbox" id="eudcc-cert">
 <label class="accordion" for="eudcc-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>)</b></label>
-		<div class="content" style="background-color:#ededed;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
+		<div class="content" style="background-color:#ededed;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificate (EU DCC)</a> issued by any European Union Member States or non-EU countries that have joined the EU DCC system listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using these tools: <a href="https://app.digitalcovidcertchecker.gov.ie/" target="_blank">DCC Checker</a> (Web App), <a href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier" target="_blank">COVID Certificate Check</a> (Android) or <a href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510" target="_blank">COVID Certificate Check</a> (iOS)</li>
@@ -731,9 +729,7 @@ The test costs $15, including GST. The traveller will make payment directly to t
 
 #### 2. What should travellers do if they test positive for COVID-19?
 
-Travellers who have tested positive will be required to undergo <a href="https://www.covid.gov.sg/unwell/overview" target="_blank">Protocol 1</a>, i.e. take a confirmatory PCR at the test centre and self-isolate until they receive confirmation on their PCR test results. Those who are tested positive for the PCR test will be issued a 10-day Isolation Order and placed on Home Recovery Programme by default, or if the home environment is not suitable, they can recover at the appropriate care facilities.
-
-Please also note that if a traveller's test result is confirmed to be positive, all persons who identified to be a close contact should follow <a href="https://www.covid.gov.sg/exposed/hrw" target="_blank">MOH's Protocol 3</a> and may be served with a Health Risk Warning.
+Travellers who have tested positive do not need to undergo a confirmatory PCR test. Instead, they can recover under <a href="http://www.covid.gov.sg/unwell/overview" target="_blank">Protocol 2</a> if they are low-risk individuals with mild symptoms, or are well without symptoms. Those who are potentially at risk should visitor a doctor for medical advice after testing positive even if they feel well. 
 
 #### 3. Are recovered travellers exempted from the on-arrival test requirement?
 

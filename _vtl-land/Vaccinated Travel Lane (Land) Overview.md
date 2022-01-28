@@ -36,7 +36,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to
 ### 1. Eligibility
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>Travellers must fulfil the following eligibility criteria found in this section before applying to travel under VTL (Land)</b>. Travellers who do not satisfy any of these criteria and conditions, should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a>.</p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>From 4 Dec 2021, 2359 hours</b>, the following groups of travellers are disallowed from applying for entry under the VTL (Land) or VTL (Air). They may instead enter Singapore via alternative travel arrangements (see table below). </p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The following groups of travellers are disallowed from applying for entry under the VTL (Land) or VTL (Air). They may instead enter Singapore via alternative travel arrangements (see table below). </p>
 
 <table>
 <thead>
@@ -160,7 +160,7 @@ input:checked + label + .content {
 <label for="title3">Criterion 3: Hold an Accepted Proof of Vaccination</label>
 
 <div id="criteria" class="content" style="background-color:#edf4fa;">	
-	<p style="line-height:1.4; font-size:18px; ">Travellers must obtain a digitally verifiable vaccination certificate for application, pre-departure checks and immigration clearance. Please refer to <a href="/vtl-land/faq#digitalcertsQ2" target="_blank">this guide</a> for acceptable proofs of vaccination.</p>
+	<p style="line-height:1.4; font-size:18px; ">Travellers must obtain a digitally verifiable vaccination certificate for application, pre-departure checks and immigration clearance. Please refer to <a href="/vtl-land/faq#digitalcertsQ2" target="_blank">this guide</a> for acceptable proof of vaccination.</p>
 </div>
 	
 <input type="checkbox" id="title4" />
@@ -293,8 +293,8 @@ input:checked + label + .content {
 	<p style="line-height:1.4; margin-top:20px; font-size:18px; ">Please note the following before applying:
 		<ol style="margin-top:0px; list-style-type:disc;">
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> <b>Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTP (Land) applications are open for travellers intending to <b>enter Singapore 3-60 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">A VTP is valid for 13 calendar days from the traveller’s chosen date of entry.</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><b>Applicants must apply for VTPs between 3 and 60 calendar days before their date of departure.</b></li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTPs are valid for up to 14 calendar days from the traveller's chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. <br><br> <i>(<u>Example</u>: A traveller holding a VTP (Land) for entry into Singapore on 1 December 2021 may enter Singapore on a designated VTL (Land) bus service on any day from 1 December to 14 December 2021. The traveller should apply for a new VTP if he is unable to enter Singapore from 1 December to 14 December.)</i> </li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Accompanying children aged 12 and below and are unvaccinated do <b><u>not</u></b> need to apply. </li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Travellers must comply with the <a href="/vtl-land/conditions" target="_blank">VTL (Land) conditions</a>, details can be found this <a href="/vtl-land/travel-checklist" target="_blank">travel checklist</a>. Failing which, they may be denied entry to Singapore.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTP (Land) and VTP (Air) are not interchangeable, a separate application for VTP (Air) is required if travelling by air.</li>
@@ -312,7 +312,7 @@ input:checked + label + .content {
 Travellers who are eligible for VTL (Land) and have already obtained their bus tickets and Vaccinated Travel Pass (Land) if needed should refer to this <a target="_blank" href="/vtl-land/travel-checklist">traveller checklist</a> for the full list of requirements to complete VTL (Land) travel. This includes:
 <ol style="font-size:18px; list-style-type:disc;">
 	<li style="font-size:18px; line-height:1.4;">Negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) taken within 2 days before departure for Singapore;</li>
-	<li style="font-size:18px; line-height:1.4;">Filling up the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> (replaces the physical "White Card"). Travellers must complete this up to 72 hours before arrival in Singapore to avoid delays at the checkpoint; and</li>
+	<li style="font-size:18px; line-height:1.4;">Filling up the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> (replaces the physical "White Card"). Travellers must complete this within three (3) days before arrival in Singapore to avoid delays at the checkpoint; and</li>
 	<li style="font-size:18px; line-height:1.4;">On-arrival COVID-19 test upon arriving in Singapore.</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival self-administered COVID-19 ARTs on Days 2 to 7</li>
 </ol>	
