@@ -180,6 +180,14 @@ If you are required to apply for a VTP (Air), please write to the Safe Travel Of
 
 You <u>do not</u> need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination, NHS COVID Pass of vaccination, or Northern Ireland COVID certificate showing the final dose in the series (i.e. "1/1"). IF you are required to apply for a VTP (Air), you need only upload the QR code found on your vaccination certificate. 
 
+#### 9. Are travellers required to obtain a booster dose to be eligible for the VTL(Air)?
+
+Currently, VTL (Air) travellers are not required to obtain a booster dose. They are only required to be fully vaccinated with their primary vaccination series to be eligible for entry into Singapore. 
+
+Nonetheless, individuals aged 12 years and older are recommended to receive a booster dose from above five months after the last dose of their primary vaccination series, or as soon as possible thereafter, in order to maintain good protection against COVID-19. For more information, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses" target="_blank">Ministry of Health's FAQs</a>.
+
+Currently, travellers are granted interim 'Vaccinated' status in the TraceTogether application on arrival in Singapore, which travellers can apply to extend by taking a serology test in Singapore. From 14 February 2022, those aged 18 and above will need to take a booster within 270 days (or about nine months) after the dose of their primary vaccination series, to maintain their 'Vaccinated' status in the TraceTogether application beyond the interim period. From 14 March 2022, this requirement will also apply to persons aged 12-17 years who are eligible for boosters. For more information, please refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4414514534681--Booster-I-have-not-taken-my-booster-When-might-my-Vaccinated-status-expire-" target="_blank">TraceTogether FAQs</a>.
+
 
 ---
 
