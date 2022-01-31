@@ -1126,7 +1126,7 @@ At this point in time, travellers will only be able to transfer through Singapor
 
 #### 1. Where is the on-arrival COVID-19 PCR test conducted?
 
-The on-arrival COVID-19 PCR tst will be conducted at a testing facility within the airport, after arrival immigration clearance and baggage collection. Travellers will be guided by airport staff to the testing site. 
+The on-arrival COVID-19 PCR test will be conducted at a testing facility within the airport, after arrival immigration clearance and baggage collection. Travellers will be guided by airport staff to the testing site. 
 
 #### 2. How much does the on-arrival COVID-19 PCR test cost?
 
