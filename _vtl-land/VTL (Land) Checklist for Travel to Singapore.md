@@ -3,14 +3,14 @@ title: VTL (Land) Checklist for Travel to Singapore
 permalink: /vtl-land/travel-checklist
 description: ""
 ---
-<div id="notice" style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<!--<div id="notice" style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red;"><b><u>NOTICE</u></b></p>
 <p style="font-size:16px; line-height:1.35; margin-top:10px; margin-bottom:10px; color:black;">The following measures are applicable for VTL (Land) travellers entering Singapore after 23 January 2022, 2359hrs (SGT):<ol style="font-size:16px; margin-top:0px; margin-bottom:0px; color:black;">
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">All travellers will only be required to undergo daily unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival, in addition to fulfilling pre-departure and on-arrival testing requirements.</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">Those who test positive on the unsupervised self-administered ARTs no longer need to undergo a confirmatory PCR test but should instead abide by the relevant <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor " target="_blank">COVID-19 recovery protocol</a>.</li>
 	</ol></p>
 <p style="font-size:16px; line-height:1.35; margin-top:0px; margin-bottom:5px; color:black;">VTL travellers who entered Singapore before 23 January 2022, 2359hrs (SGT) are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
-	</div>
+	</div>-->
 
 ### VTL Land Travel Checklist 
 
@@ -149,7 +149,7 @@ label.box {
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">If your intended date of entry is not reflected in the portal, come back on another day to apply as VTP dates are made available in the system on a rolling basis.</li>
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Travellers who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Applicants not vaccinated in Singapore whose vaccination certificate contains multiple QR codes should ensure that they crop each QR code and upload them separately to avoid upload errors. Travellers who still experience issues uploading the QR code to the VTP application portal, should <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office</a> for help and provide their vaccination certificate. </li>
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">VTP is valid for 14 calendar days from the chosen date of entry. <br><br><i>(<u>Example</u>: A traveller holding a VTP (Land) for entry into Singapore on 1 December 2021 may enter Singapore on a designated VTL (Land) bus service on any day from 1 December to 14 December 2021. The traveller should apply for a new VTP if he is unable to enter Singapore from 1 December to 14 December.)</i></li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">VTPs are valid for 14 calendar days from the traveller's chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. (e.g. a traveller holding a VTP (Land) for entry into Singapore on 1 Dec 2021 may enter Singapore on a designated VTL (Land) bus service any day from 1- 14 Dec 2021 (inclusive). The traveller should apply for a VTP if he is unable to enter during this period.)</li>
 	</ol>
 </div>
 
@@ -310,10 +310,9 @@ label.box {
 
 <div id="postarrivaltests" style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="4A"><label for="4A">&nbsp;&nbsp;<b>(4A) Post-Arrival Daily COVID-19 Tests</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Travellers are required to take unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival before they leave their place of residence or accommodation for the day, in addiition to fulfilling their pre-departure and on-arrival testing requirements. The ART kits should be <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured</a>. Travellers do not need to submit their ART results.</p>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;Children aged two and below in this calendar year are exempted from this requirement.</p>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">&#10060;</span>&nbsp;  <a href="/vaccinated-recovered" target="_blank">Recently-recovered travellers</a> who are fully vaccinated are exempted from this requirement.</p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers entering Singapore after 23 January 2022, 2359 hours will take a self-administered COVID-19 ART on Days 2 to 7 of their arrival and must test negative before leaving their place or residence or accommodation for the day. Travellers need not submit their ART results.</p>
-	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">VTL travellers who entered Singapore before 23 January 2022, 2359 hours are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
 	<!--<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Mandatory Testing Schedule</b></p>
 <table>
 <tr>
