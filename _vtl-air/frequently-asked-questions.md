@@ -1279,100 +1279,16 @@ Travellers who test positive on the unsupervised self-administered ARTs will no 
 
 Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
 
-#### 6. How will travellers receive their confirmatory PCR test results? 
 
-Travellers will be able to view their confirmatory PCR test results on their TraceTogether app. If it is shown as negative, they may proceed with their daily activities and continue undergoing daily scheduled ARTs up to Day 7. Do note that data from test providers may take time to update. If the results are not updated after 48 hours, please contact <support@tracetogether.gov.sg>.
-
-
-#### 7. What should travellers do if they test positive for COVID-19 on their PCR test?
-
-If travellers test positive for COVID-19 on a PCR test, further isolation and treatment measures will be imposed on them, in accordance with the Ministry of Health’s protocols. They should remain in their place of accommodation, and not come into close proximity with any other person. The Ministry of Health will contact them with further details on how their case will be managed. Those who are issued with an Isolation Order (IO) will be removed from the VTL (Air) enhanced testing regime and will no longer be required to undergo daily ART testing.
-
-
-#### 8. Are travellers who are issued with a Health Risk Warning (HRW) still required to comply with the VTL (Air) post-arrival testing regime?
+#### 3. Are travellers who are issued with a Health Risk Warning (HRW) still required to comply with the VTL (Air) post-arrival testing regime?
 
 VTL (Air) travellers issued a HRW after being identified as a close contact of a COVID-19 case are still required to comply with the post-arrival ART testing requirements, in addition to the requirements of the HRW.  Their self-administered and self-declared ARTs results may also be used to fulfil any HRW testing requirements, and they are required to upload their ARTs results on both the website for the submission of unsupervised self-administered ART results (specified in the Legal Notice issued upon arrival), as well as the website specified in the HRW.
 
 
-#### 9. Do travellers need to undergo post-arrival ARTs if they will be going onboard a "Cruise to Nowhere"?
+#### 4. Do travellers need to undergo post-arrival ARTs if they will be going onboard a "Cruise to Nowhere"?
 
 Travellers are require to comply with the conditions of the VTL (Air), including undergoing post-arrival ARTs on the scheduled dates. They should postpone their plans such that they can comply with the testing regime.
 
-
-#### 10. What are the penalties if travellers miss their scheduled tests?
-
-Failure to undergo the required COVID-19 tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
-
-A traveller who fails to undergo the required COVID-19 tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
-
-Further, the traveller’s VTP (Air), and/or Visit Pass or Long-Term Pass, may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP (Air) applications may also be rejected.
-
-
-### SUPERVISED ARTS (for travellers who entered Singapore before 23 Jan 2022, 2359hrs)
-
-#### 11. How much do the supervised ARTs cost?
-
-The cost of each ART is S$15 (inclusive of Goods and Services Tax). Travellers will bear the cost of the tests.
-
-Payment is to be made online via the payment link provided. The electronic receipt must be shown during registration as proof of payment.  Cash will not be accepted.
-
-#### 12. How do travellers obtain a refund for the supervised ART if they no longer need to attend their test?
-
-Please email <a href="mailto: testingops@hpb.gov.sg">testingops@hpb.gov.sg</a> to obtain a refund.
-
-#### 13. Can travellers bring their own ART self-test kits to the test centres?
-
-No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
-
-
-#### 14. What are the test centres that travellers can go to for their supervised ARTs?
-
-They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. 
-
-
-#### 15. Can a traveller go to a clinic for their supervised ARTs instead of the Quick Test Centres or Combined Test Centres?
-
-No, travellers must only go to the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. Otherwise, the traveller’s attendance will not be tracked, and test results will not be captured.
-
-
-#### 16. How do travellers book their appointments for their supervised ARTs?
-
-Travellers will be provided with a weblink to book their ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC). 
-
-They should schedule an appointment once they have received the instructions from the Safe Travel Office (STO), and take the ARTs at the QTC or CTC on the appropriate dates. They can only book an appointment for their second test (Day 7) <u>after</u> they have attended their first test (Day 3).
-
-
-#### 17. Are children required to undergo supervised ARTs?
-
-Children aged 2 and below in this calendar year are not required to undergo post-arrivals ARTs. Children aged 3 to 12 must undergo their Day 3 and Day 7 ARTs at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
-
-
-#### 18. Do travellers need to self-isolate after their supervised ART?
-
-No, travellers are not required to self-isolate after their Day 3 and Day 7 ARTs. Self-isolation is only required pending the results of the on-arrival COVID-19 PCR test at the airport.
-
-However, if tested positive for their ART, travellers must self-isolate immediately. They must book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 1600 hours on the day after testing ART positive.
-
-
-#### 19. How soon will the results of the supervised ARTs be out?
-
-If tested positive for their supervised ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number).
-
-Travellers with a registered local mobile number can expect to receive their results via SMS within 2 hours. Those without a local mobile number can expect to receive their results via email within 12 hours. 
-
-Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
-
-
-#### 20. What should travellers do if they have an invalid ART result for their supervised ART?
-	
-Travellers with an invalid ART result for their supervised ART will be required to return for a retest. This will be provided free-of-charge.
-
-
-#### 21. Are travellers allowed to reschedule their Day 3 and Day 7 ARTs to other days?
-
-No, travellers are required to undergo COVID-19 ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> on Day 3 and Day 7 of their arrival in Singapore. 
-
-Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
 
 
 ### UNSUPERVISED ARTS
