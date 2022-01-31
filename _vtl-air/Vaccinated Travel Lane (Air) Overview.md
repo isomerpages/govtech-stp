@@ -42,9 +42,9 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 
 ### 1. VTL (Air) Countries/Regions
 
-Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions" within the past 14 days, based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. For instance, travellers entering Singapore on or after 14 December can have travel history to Thailand within the past 14 days. Those entering Singapore prior to 14 December may not have travel history to Thailand.
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions" within the past 14 days, based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. For instance, travellers entering Singapore on or after 14 December can have travel history to Thailand within the past 14 days. Those entering Singapore prior to 14 December may not have travel history to Thailand.</p>
 
-SC/PRs with travel history to countries that are not listed within the "Active VTL (Air) Countries/Regions" will be subject to the <a href="/shn-and-swab-summary" target="_blank">prevailing health measures</a>. All other travellers will be denied entry into Singapore. 
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">SC/PRs with travel history to countries that are not listed within the "Active VTL (Air) Countries/Regions" will be subject to the <a href="/shn-and-swab-summary" target="_blank">prevailing health measures</a>. All other travellers will be denied entry into Singapore. </p>
 
 <table>
 <tbody>
