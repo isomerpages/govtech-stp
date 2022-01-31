@@ -85,13 +85,6 @@ Otherwise, such travellers are not allowed to enter Singapore under the VTL (Lan
 ### (b) Designated VTL (Land) Bus Services
 
 
-<div style="padding-left: 5px; padding-bottom: 20px; padding:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px; text-align:justify;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.5;"><span style="color:red;"><b><u>Notice</u></b>:</span></p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.5;">The sale of new Vaccinated Travel Lane (Land) Designated Bus tickets is suspended, for travel into Singapore or Malaysia <b>from 22 December 2021, 2359 hours to 20 January 2022, 2359 hours.</b></p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Travellers who have already booked a VTL (Land) Designated bus ticket are unaffected and will be allowed to enter Singapore under VTL (Land). Applications for <A href="https://go.gov.sg/vtl-portal" target="_blank">Vaccinated Travel Passes</a> will remain open during this period, and travellers do not need to rush to apply.</p>
-</div>
-
-
 #### 1. Are travellers guaranteed a ticket on a designated VTL (Land) bus service to Singapore if they have a VTP?
 
 <b>Having a VTP does not guarantee travellers a ticket on a designated VTL (Land) bus service to Singapore.</b> Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL (Land) bus service to Singapore does not guarantee a VTP.
@@ -197,7 +190,7 @@ The self-administered OAT taken in Malaysia will not fulfil the pre-departure te
 
 #### 3. What if I am diagnosed or a suspect case of COVID-19?
 
-With effect from 23 January 2022, 2359 hours, <a href="/vaccinated-recovered" target="_blank">recovered travellers</a> are exempted from the pre-departure test requirement, and are defined as follows:
+<a href="/vaccinated-recovered" target="_blank">Recovered travellers</a> are exempted from the pre-departure test requirement, and are defined as follows:
 
 <ol style="list-style-type:lower-alpha;">
 	<li style="line-height:1.5;">Travellers who are fully vaccinated with a WHO-EUL vaccine (i.e. 14 days after second dose) and tested positive for COVID-19 between 7 to 90 days before their date of departure; and</li>
@@ -733,7 +726,7 @@ Travellers who have tested positive do not need to undergo a confirmatory PCR te
 
 #### 3. Are recovered travellers exempted from the on-arrival test requirement?
 
-With effect from 23 January 2022, 2359 hours, <a href="/vaccinated-recovered" target="_blank">recovered travellers</a> who are fully vaccinated are exempted from the on-arrival test requirement.
+<a href="/vaccinated-recovered" target="_blank">Recovered travellers</a> who are fully vaccinated are exempted from the on-arrival test requirement.
 
 Recovered travellers who are non-fully vaccinated (i.e. children of age 12 or below) are not exempted and must do the on-arrival test. 
 
@@ -753,7 +746,7 @@ To step up detection and containment of the Omicron variant until more informati
 
 #### 2. On which days do travellers need to undergo post-arrival ARTs?
 
-Travellers entering Singapore after <b>23 January 2022, 2359hours</b> must undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on Days 2 to 7 of their arrival in Singapore.
+Travellers entering Singapore must undergo self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on Days 2 to 7 of their arrival in Singapore.
 
 The day that the traveller clears arrival immigration for entry into Singapore is counted as Day 1. To illustrate, if the traveller clears arrival immigration at 0030 hours (Singapore time) on 24 January 2022 (i.e. Day 1), he/she is required to undergo COVID-19 tests every day until 30 January 2022 (i.e. Day 7).
 
@@ -763,7 +756,7 @@ Children aged 2 and below in this calendar year are not required to undergo post
 
 #### 4. Are recovered travellers required to undergo post-arrival ARTs?
 
-With effect from 23 January 2022, 2359 hours, <a href="/vaccinated-recovered" target="_blank">recovered travellers</a> who are fully vaccinated are not required to undergo post-arrival ARTs.
+<a href="/vaccinated-recovered" target="_blank">Recovered travellers</a> who are fully vaccinated are not required to undergo post-arrival ARTs.
 Recovered travellers who are not fully vaccinated (i.e. children of age 12 or below) are required to undergo post-arrival ARTs.
 
 
