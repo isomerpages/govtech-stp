@@ -22,7 +22,7 @@ description: ""
 	</li>
 	<li style="padding-top:10px;">purchase medical and/or travel insurance, with a minimum coverage of S$30,000 for covid-19-related medical treatment and hospitalisation costs in Singapore, prior to travelling to Singapore.</li>
 	<li style="padding-top:10px;">undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange;</li>
-	<li><b>[For arrivals after 23 January 2022, 2359 hours]</b> undergo self-administered COVID-19 ARTs using  <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on Days 2 to 7 of their arrival in Singapore;</li>
+	<li>undergo self-administered COVID-19 ARTs using  <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on Days 2 to 7 of their arrival in Singapore;</li>
 <li style="padding-top:10px;">download the TraceTogether app on his/her mobile device and:
 <ol style="list-style-type:lower-roman; line-height:1.5;padding-left:10px;">	
 	<li>keep the TraceTogether app activated at all times while in Singapore;</li>
@@ -36,9 +36,7 @@ description: ""
 <br>
 <li>Those unable to use a mobile device due to a certified disability or special needs, or are unable download/register for a TraceTogether app may <a href="/health/tt-for-travellers#token" target="_blank">obtain a TraceTogether Token at designated locations in Singapore</a>. They must carry the TraceTogether tokens issued to them at all times while in Singapore.</li>
 <br>
-	<li>The requirements in <b>Conditions 2(d), (f), (g) and (h)</b> do not apply to children aged 2 and below in the calendar year and, with effect from 23 January 2022, 2359 hours, <a href="/vaccinated-recovered" target="_blank">recovered travellers</a> who are fully vaccinated.</li>
-<br>
-	<li><b>[With effect from 23 January 2022, 2359 hours]</b> The requirements in <b>Conditions 2(d)</b> do not apply to recovered travellers who are not fully vaccinated.</li>
+	<li>The requirements in <b>Conditions 2(d), (f), (g) and (h)</b> do not apply to children aged 2 and below in the calendar year and <a href="/vaccinated-recovered" target="_blank">recovered travellers</a> who are fully vaccinated.</li>
 <br>
 	<li>The requirements in <b>Conditions 2(e)</b> do not apply to Singapore citizens, Permanent residents or Long-term pass holders (i.e. Long-term visit pass, Student's pass, work pass or Dependant's pass)</li>
 <br>
