@@ -1213,7 +1213,7 @@ VTL (Air) travellers issued a HRW after being identified as a close contact of a
 ### GENERAL MATTERS
 
 
-#### 1. On which days do travellers need to undergo post-arrival ARTs?
+<!--#### 1. On which days do travellers need to undergo post-arrival ARTs?
 
 The day that the traveller clears arrival immigration for entry into Singapore is counted as Day 1. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 23 January 2022 (i.e. Day 1), he/she is required to undergo the COVID-19 tests reflected in the second column below. If the traveller clears arrival immigration at 0030 hours (Singapore time) on 24 January 2022 (i.e. Day 1), he/she is required to undergo the COVID-19 tests based on the third column below.
 
@@ -1257,35 +1257,25 @@ The day that the traveller clears arrival immigration for entry into Singapore i
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:100px;"><b>Day 7</b></td>
 								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;background-color:#FFFFFF;">Supervised ART at QTC or CTC</td>
 </tr>
-	<!--<tr>
+<tr>
 <td colspan="3" style="font-size: 16px; border-top:1px solid #D8D8D8; text-align: left;">*Self-administered, with results to be submitted at the link sent to travellers.</td>
-	</tr>-->
+	</tr>
 	</table>
 
-Supervised self-administered COVID-19 ARTs must be performed at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. Unsupervised self-administered COVID-19 ARTs can be performed at one’s place of accommodation using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a>.
+Supervised self-administered COVID-19 ARTs must be performed at <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>. Unsupervised self-administered COVID-19 ARTs can be performed at one’s place of accommodation using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a>.-->
 
-#### 2. Are children required to undergo post-arrival ARTs?
+#### 1. Are children required to undergo post-arrival ARTs?
 
 Children aged 2 and below in this calendar year are not required to undergo post-arrival ARTs.
 
 
-#### 3. What if travellers intend to leave Singapore on the day of their scheduled ART?
+#### 2. What should travellers do if they test positive for COVID-19 on any of their ARTs?
 
-If the traveller’s day of departure from Singapore is on the day of the test, they are exempted from taking their scheduled ART on that day. The traveller’s day of departure from Singapore is defined as the scheduled day of departure of their flight or ferry, or the day they clear departure immigration if they depart by land.
+<!--Travellers who test positive for any of their supervised or unsupervised ARTs must self-isolate immediately, book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 1600 hours on the day after testing ART positive. This will be provided free-of-charge. They do not need to attend or perform their scheduled ART if it falls on the same day as their PCR test, but should remain contactable via their declared mobile number and email address.
 
+Travellers should take private transport, taxi or private hire car to the CTC, and return to their place of accommodation immediately after their test. Use of public transport is not allowed. If they were planning to depart from Singapore, they should defer their travel plans, attend their confirmatory PCR test, and await their PCR test results. They should not leave their place of accommodation other than to undergo the PCR test and until their PCR test result is confirmed to be negative.-->
 
-#### 4. Should travellers attend or perform their scheduled ARTs if they are unwell?
-
-Travellers who are feeling unwell, with symptoms such as fever, cough, or sore throat, should seek medical attention at their nearest <a href="https://flu.gowhere.gov.sg/" target="_blank">Swab and Send Home (SASH) clinic</a>. They should take private transport, taxi or private hire car to the SASH clinic, and return to their place of accommodation immediately after their test. Use of public transport is not allowed. They do not need to attend or perform their scheduled ART on that day, but should remain contactable via their declared mobile number and email address.
-
-
-#### 5. What should travellers do if they test positive for COVID-19 on any of their ARTs?
-
-Travellers who test positive for any of their supervised or unsupervised ARTs must self-isolate immediately, book an appointment for a confirmatory PCR test at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Combined Test Centre (CTC)</a> via the booking link provided as soon as possible and undergo the PCR test no later than 1600 hours on the day after testing ART positive. This will be provided free-of-charge. They do not need to attend or perform their scheduled ART if it falls on the same day as their PCR test, but should remain contactable via their declared mobile number and email address.
-
-Travellers should take private transport, taxi or private hire car to the CTC, and return to their place of accommodation immediately after their test. Use of public transport is not allowed. If they were planning to depart from Singapore, they should defer their travel plans, attend their confirmatory PCR test, and await their PCR test results. They should not leave their place of accommodation other than to undergo the PCR test and until their PCR test result is confirmed to be negative.
-
-Travellers who enter Singapore after 23 January 2022, 2359hrs, and test positive on the unsupervised self-administered ARTs will no longer need to undergo a confirmatory PCR test. Should you test positive, you must abide by the relevant COVID-19 recovery protocol immediately. You may refer to <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank"> this link</a> for more details on Protocol 2. You should self-isolate for 72 hours at your place of accommodation, which will allow you to safely recover, monitor your health and avoid spreading the virus further. If you were planning to depart from Singapore, you are required to defer your travel plans until you complete self-isolation and obtain a negative ART result. For more information on what to do if you feel unwell while in Singapore, please refer to <a href="https://www.covid.gov.sg/travellers" target="_blank"> this link</a>.
+Travellers who test positive on the unsupervised self-administered ARTs will no longer need to undergo a confirmatory PCR test. Should you test positive, you must abide by the relevant COVID-19 recovery protocol immediately. You may refer to <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank"> this link</a> for more details on Protocol 2. You should self-isolate for 72 hours at your place of accommodation, which will allow you to safely recover, monitor your health and avoid spreading the virus further. If you were planning to depart from Singapore, you are required to defer your travel plans until you complete self-isolation and obtain a negative ART result. For more information on what to do if you feel unwell while in Singapore, please refer to <a href="https://www.covid.gov.sg/travellers" target="_blank"> this link</a>.
 
 Failure to do so may constitute an offence under the Infectious Diseases Act (IDA). A traveller who fails to undergo the required COVID-19 tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order.
 
