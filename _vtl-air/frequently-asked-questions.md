@@ -863,7 +863,7 @@ Travellers withe EU DCCs issued in any European Union Member States or non-EU co
  
 ### (c) Pre-Departure COVID-19 Test
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year are not required to undergo a pre-departure COVID-19 test. Recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the pre-departure COVID-19 test. They must present a valid <a href="/vaccinated-recovered" target="_blank">proof of recovery</a>.</i></p>
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year are not required to undergo a pre-departure COVID-19 test. Recovered travellers entering Singapore may qualify for exemption from the pre-departure COVID-19 test. They must present a valid <a href="/vaccinated-recovered" target="_blank">proof of recovery</a>.</i></p>
 
 
 #### 1. Are travellers under the VTL (Air) required to take any pre-departure COVID-19 tests?
@@ -1122,7 +1122,7 @@ At this point in time, travellers will only be able to transfer through Singapor
  
 ### (e) On-Arrival COVID-19 PCR Test at the Airport and Self-Isolation
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year are not required to undergo an on-arrival COVID-19 PCR test. Fully vaccinated recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the on-arrival COVID-19 PCR test. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</i></p>
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year are not required to undergo an on-arrival COVID-19 PCR test. Fully vaccinated recovered travellers entering Singapore may qualify for exemption from the on-arrival COVID-19 PCR test. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</i></p>
 
 #### 1. Where is the on-arrival COVID-19 PCR test conducted?
 
