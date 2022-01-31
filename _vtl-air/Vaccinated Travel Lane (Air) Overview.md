@@ -3,7 +3,7 @@ title: Vaccinated Travel Lane (Air) Overview
 permalink: /vtl/requirements-and-process
 description: Requirements for using the Vaccinated Travel Lane to travel to Singapore by air
 ---
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>IMPORTANT UPDATES</u></b></p>
 		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">The following measures are applicable for VTL (Air) travellers entering Singapore from 23 January 2022, 2359hrs (SGT):
 			<ol style="font-size:16px; margin-top:0px; margin-bottom:0px; color:black;">
@@ -13,9 +13,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 	</ol>
 			</p>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;color:black;">VTL travellers who enter Singapore before 23 January 2022, 2359hrs (SGT) are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
-<!--<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;"></p>-->
-	</div>
-
+<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;"></p></div>-->
 <!--<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; background-color:#f8f8f8; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>Please note that for Vaccinated Travel Pass (VTP) applications:</b></span></p>
 		<ol style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">
@@ -194,7 +192,7 @@ input:checked + label + .content {
 <label for="title1">Criterion 1: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
 
 <div style="background-color:#edf4fa;" class="content">
-<p style="line-height:1.3; font-size:18px;">Travellers are considered fully vaccinated (<a target="_blank" href="/health/vtsg">click here for definition</a>) if they received the full regimen of WHO EUL vaccines at least two weeks before arrival in Singapore. </p>
+<p style="line-height:1.3; font-size:18px;">Travellers are considered fully vaccinated (<a target="_blank" href="/health/vtsg">click here for definition</a>) if they have received the full regimen of WHO EUL vaccines at least two weeks before arrival in Singapore. </p>
 <p style="line-height:1.3; font-size:18px;">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL (Air) if accompanied by a fully vaccinated VTL (Air) traveller.</p>
 </div>
 
@@ -400,21 +398,14 @@ input:checked + label + .content {
 ### 4. COVID-19 Tests and Documents Required
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.35;">Travellers who are eligible for VTL (Air), and have obtained their Vaccinated Travel Pass if needed, should refer to this <a target="_blank" href="/vtl/travel-checklist">VTL (Air) traveller checklist</a> for the full list of requirements to complete VTL (Air) travel.
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">They will need to undergo the following COVID-19 tests:</p>
+<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers will need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or professionally administered Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 PCR test upon arrival at Singapore Changi Airport (S$125, <a href="https://safetravel.changiairport.com/" target="_blank">payment here</a>)</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival supervised COVID-19 ARTs on Days 3 and 7 (S$15 each)</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Post-arrival self-administered COVID-19 ARTs on Days 2, 4, 5 and 6</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation,  in addition to fulfilling their pre-departure and on-arrival testing requirements.</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</li>
 	</ol> 
 </p>
-
-<p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">For those entering Singapore after 23 January 2022, 2359hrs (SGT):</p>
-<ol style="margin-top:0px; list-style-type: disc;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">All travellers will only be required to undergo daily unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation,  in addition to fulfilling their pre-departure and on-arrival testing requirements.</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</li>
-	</ol>
-
 <p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">For their journey to Singapore, travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. The table below summarises the key documents travellers have to bring along.</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
