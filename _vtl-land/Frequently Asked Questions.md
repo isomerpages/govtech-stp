@@ -889,16 +889,6 @@ Visitors who can download the TraceTogether app but are unable to obtain an SMS 
 
 No, visitors must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
 
-#### 8. I paid a S$50 deposit when I rented my TraceTogether token before 1 Jan 2022. Do I need to return my token, and how will I be refunded my deposit?
-
-You do not need to return your token.
-
-If you paid for your deposit by cash please bring your passport to the Singapore Visitor Centre at Orchard Gateway to claim your deposit between 1 Jan and 31 Jan 2022. <b>Cash deposits not claimed by 31 Jan 2022, 2359hrs, will be forfeited</b>.
-
-If you paid for your deposit via credit card, the S$50 deposit will automatically be refunded to the credit card that was used to pay for the deposit, by the end of February 2022.
-
-More details can be found <a href="/health/tt-for-travellers#token-return" target="_blank">here</a>.
-
 
 
 ---
