@@ -4,7 +4,7 @@ permalink: /connectsg/requirements-and-process
 ---
 ### Important Notice
 
-<p style="line-height:1.5; color:red;"><u><b>The Connect@Singapore initiative is currently suspended until further notice.</b></u> Travellers who have obtained prior approval to enter Singapore under Connect@Singapore will have their approval letters rescinded and not be allowed to enter Singapore. Affected travellers will be notified via email.</p>
+<p style="line-height:1.5; color:red;"><b>The Connect@Singapore initiative is currently suspended until further notice.</b></p>
 
 ### 1. Eligibility
 
