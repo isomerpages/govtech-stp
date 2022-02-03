@@ -148,7 +148,7 @@ All applications for extension of visit pass must be submitted online using ICAâ
 
 ### Pre-Departure COVID-19 Test
 
-<i style="color:red;">Note: Children aged 2 and below in this calendar year are not required to undergo a pre-departure COVID-19 test. Recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the pre-departure COVID-19 test. They must present a valid <a href="" target="_blank">proof of recovery</a>.</i>
+<i style="color:red;">Note: Children aged 2 and below in this calendar year are not required to undergo a pre-departure COVID-19 test. Recovered travellers entering Singapore may qualify for exemption from the pre-departure COVID-19 test. They must present a valid <a href="/atp/requirements-and-process#recovery" target="_blank">proof of recovery</a>.</i>
 
 #### 1. Are visitors required to take any pre-departure COVID-19 tests?
 
