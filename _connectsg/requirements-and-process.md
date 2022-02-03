@@ -4,7 +4,7 @@ permalink: /connectsg/requirements-and-process
 ---
 ### Important Notice
 
-<p style="line-height:1.5; color:red;"><u><b>The Connect@Singapore initiative is currently suspended until further notice.</b></u> Travellers who have obtained prior approval to enter Singapore under Connect@Singapore will have their approval letters rescinded and not be allowed to enter Singapore. Affected travellers will be notified via email.</p>
+<p style="line-height:1.5; color:red;"><b>The Connect@Singapore initiative is currently suspended until further notice.</b></p>
 
 ### 1. Eligibility
 
@@ -14,12 +14,6 @@ An Appointed Facility operator can sponsor and host/apply for a SafeTravel Pass 
 <li>Seeking to make a short-term stay of up to 14 days.</li>
 </ul>
 
-Until further notice, travellers with travel history to the following countries/regions in the past 14 days <u>will not be allowed to enter Singapore under the Connect@SG scheme</u>: 
-- Bangladesh 
-- India 
-- Nepal 
-- Pakistan 
-- Sri Lanka 
 
 ### 2. Submit Approvals for Entry into Singapore
 

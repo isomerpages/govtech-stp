@@ -4,7 +4,7 @@ permalink: /connectsg/overview
 ---
 ### Important Notice
 
-<p style="line-height:1.5; color:red;"><u><b>The Connect@Singapore initiative is currently suspended until further notice.</b></u> Travellers who have obtained prior approval to enter Singapore under Connect@Singapore will have their approval letters rescinded and not be allowed to enter Singapore. Affected travellers will be notified via email.</p>
+<p style="line-height:1.5; color:red;"><b>The Connect@Singapore initiative is currently suspended until further notice.</b></p>
 
 
 ******************************************************************
@@ -17,12 +17,4 @@ Travellers entering Singapore under this initiative will be subject to strict he
 
 For the entire duration of their stay, travellers will be required to stay within a “bubble” at Appointed Facilities, undergo regular PCR testing and strictly observe all prevailing Safe Management Measures (SMMs). Travellers will be able to conduct meetings with local visitors and with other traveller groups (with SMMs in place) while in the facilities. 
 
-A traveller wishing to take part in the Connect@Singapore initiative must submit applications through an Appointed Facility (the latest list of Appointed Facilities can be found [here](https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html)). The Appointed Facility will then apply for a SafeTravel Pass for the traveller on their behalf. A SafeTravel Pass approval letter will be issued to the Appointed Facility and travellers upon approval of the application. Travellers who require a visa to travel to Singapore must separately obtain a valid visa before departing for Singapore. Individuals can check if they require a visa to enter Singapore [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements). 
-
-### Notice - Exclusions
-Until further notice, travellers with travel history to the following countries/regions in the past 14  days <u>will not be allowed to enter Singapore under the Connect@SG scheme</u>: 
-- Bangladesh 
-- India 
-- Nepal 
-- Pakistan 
-- Sri Lanka
+A traveller wishing to take part in the Connect@Singapore initiative must submit applications through an Appointed Facility (the latest list of Appointed Facilities can be found [here](https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html)). The Appointed Facility will then apply for a SafeTravel Pass for the traveller on their behalf. A SafeTravel Pass approval letter will be issued to the Appointed Facility and travellers upon approval of the application. Travellers who require a visa to travel to Singapore must separately obtain a valid visa before departing for Singapore. Individuals can check if they require a visa to enter Singapore [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements).
