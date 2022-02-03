@@ -163,9 +163,3 @@ After self-isolation, travellers may go about their activities but <b>must</b>:
 </ol>
 
 To qualify for vaccination-differentiated safe management measures (VDS) in Singapore, travellers will need to show proof of their vaccination status via the TraceTogether application. <a href="/health/vtsg#VDSMM" target="_blank">Click here for more details on VDS</a>.
-
-### Stage 6: Departure from Singapore
-
-☐ <i><b>A) Collect refund for TraceTogether Token deposit (if applicable)</b></i>
-
-Travellers who have paid a S$50 deposit during token rental before 1 Jan 2022 may have their deposit refunded between 1 Jan and 31 Jan 2022. Click <a href="/health/tt-for-travellers#token-return" target="_blank">here</a> for more details.
