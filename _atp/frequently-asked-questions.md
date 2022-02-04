@@ -148,7 +148,7 @@ All applications for extension of visit pass must be submitted online using ICAâ
 
 ### Pre-Departure COVID-19 Test
 
-<i style="color:red;">Note: Children aged 2 and below in this calendar year are not required to undergo a pre-departure COVID-19 test. Recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the pre-departure COVID-19 test. They must present a valid <a href="" target="_blank">proof of recovery</a>.</i>
+<i style="color:red;">Note: Children aged 2 and below in this calendar year are not required to undergo a pre-departure COVID-19 test. Recovered travellers entering Singapore may qualify for exemption from the pre-departure COVID-19 test. They must present <a href="/atp/requirements-and-process#recovery" target="_blank">valid proof of recovery</a>.</i>
 
 #### 1. Are visitors required to take any pre-departure COVID-19 tests?
 
@@ -195,7 +195,7 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 
 ### On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test
 
-<i style="color:red;">Note: Children aged 2 and below in this calendar year are not required to undergo an on-arrival COVID-19 PCR test. Fully vaccinated recovered travellers entering Singapore after 23 Jan 2022, 2359hrs may qualify for exemption from the on-arrival COVID-19 PCR test. Please refer <a href="" target="_blank">this page </a> for more information.</i>
+<i style="color:red;">Note: Children aged 2 and below in this calendar year are not required to undergo an on-arrival COVID-19 PCR test. Fully vaccinated recovered travellers entering Singapore may qualify for exemption from the on-arrival COVID-19 PCR test. Please refer <a href="/vaccinated-recovered" target="_blank">this page </a> for more information.</i>
 
 #### 1. Are visitors required to take an on-arrival COVID-19 PCR test?
 
@@ -346,14 +346,3 @@ If you were <a href="/health/vtsg" target="_blank">fully vaccinated</a> in <b>Si
 If you were <a href="/health/vtsg" target="_blank">fully vaccinated</a> <b>overseas</b>, please upload your vaccination certificate on your SG Arrival Card submission, or present your overseas vaccination certificate at the immigration counter on-arrival. Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore, and will be valid for 30 days from your date of arrival. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. 
 
 If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: https://go.gov.sg/vax-status-query. You may also wish to refer to this <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">FAQ</a> for more information.
-
-
-#### 9. I paid a S$50 deposit when I rented my TraceTogether token before 1 Jan 2022. Do I need to return my token, and how will I be refunded my deposit?
-
-You do not need to return your token.
-
-If you paid for your deposit by cash, please bring your passport to the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> to claim your deposit between 1 Jan and 31 Jan 2022. <b>Cash deposits not claimed by 31 Jan 2022, 2359hrs, will be forfeited</b>.
-
-If you paid for your deposit via credit card, the S$50 deposit will automatically be refunded to the credit card that was used to pay for the deposit, by the end of February 2022.
-
-More details can be found <a href="/health/tt-for-travellers#token-return" target="_blank">here</a>.

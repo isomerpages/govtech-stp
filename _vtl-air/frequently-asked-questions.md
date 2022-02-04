@@ -1499,17 +1499,6 @@ If your vaccination status has not been updated on your TraceTogether app. Kindl
 You may also wish to refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">TraceTogether FAQs</a> for more information.
 
 
-#### 9. I paid a S$50 deposit when I rented my TraceTogether token before 1 Jan 2022. Do I need to return my token, and how will I be refunded my deposit?
-
-You do not need to return your token.
-
-If you paid for your deposit by cash, please bring your passport to the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> to claim your deposit between 1 Jan and 31 Jan 2022. <b>Cash deposits not claimed by 31 Jan 2022, 2359hrs, will be forfeited</b>.
-
-If you paid for your deposit via credit card, the S$50 deposit will automatically be refunded to the credit card that was used to pay for the deposit, by the end of February 2022. 
-
-More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>.
-
-
 ---
 
 ##### Click here to go back to the [top](#top).
