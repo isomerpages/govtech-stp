@@ -151,7 +151,7 @@ If your serology test is positive, the private healthcare provider will enter yo
 
 Travellers who entered Singapore with Sinovac/Sinopharm as part of their vaccination, will be required to have a minimum number of 3 vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 4 months from the date of their 2nd dose (or 180 days for travellers who uploaded their QR codes while applying for the Vaccinated Travel Pass). 
 
-A full list of accepted 3-dose combinations involving Sinovac/Sinopharm and other WHO EUL vacines, including for those recovered from COVID-19, can be found <a href="https://go.gov.sg/sinovac-mixed-vac-combi" target="_blank">here</a>. Travellers will be considered fully vaccinated immediately after their 3rd vaccination dose (i.e. they do not have to wait for 14 days to be considered fully vaccinated after their 3rd dose).
+A full list of accepted 3-dose combinations involving Sinovac/Sinopharm and other WHO EUL vaccines, including for those recovered from COVID-19, can be found <a href="https://go.gov.sg/sinovac-mixed-vac-combi" target="_blank">here</a>. Travellers will be considered fully vaccinated immediately after their 3rd vaccination dose (i.e. they do not have to wait for 14 days to be considered fully vaccinated after their 3rd dose).
 
 For more information, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH FAQ </a>.
 
