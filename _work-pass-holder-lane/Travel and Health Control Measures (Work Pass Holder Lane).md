@@ -198,7 +198,10 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer’s house. The helper/CN must isolate herself in her room and minimise contact with household members.  If this is not possible or there are <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>, please look for another accommodation.	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p></li>
 	</ol>
 	</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Verify their vaccination records by taking a serology test to get the vaccination records ingested in the National Immunisation Registry (NIR) within 30 days of arrival in Singapore. 
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those with valid digitally-verifiable vaccination certificates may be exempted from serology testing for their vaccinations to be ingested. They must still visit a General Practitioner (GP) clinic, for the clinic to verify their certificates and ingest their vaccination records in the NIR <b>within 30 days</b> of arrival in Singapore. Refer to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> on the types of vaccination certificates which exempt pass holders from serology testing.</p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Please call the clinic to check if they offer serology tests or verification of vaccination records.</p>
+</li>
 </ol>
 </div>
 	<!--Cat1 Other Work Pass Holders-->
