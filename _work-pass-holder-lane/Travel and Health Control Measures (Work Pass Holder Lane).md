@@ -238,7 +238,9 @@ input:checked + label + .content {
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their place of isolation.<br><br> Pass holders must depart for the place of isolation <b>within 1 hour of arrival</b> at the checkpoint. Submitters must inform them to take private transport (e.g. company vehicle, pass holder's own vehicle, taxi, private hire car) to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>. </li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Self-isolate until they get a negative test result. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Verify their vaccination records by taking a serology test to get the vaccination records ingested in the National Immunisation Registry (NIR) within 30 days of arrival in Singapore. 
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those with valid digitally-verifiable vaccination certificates may be exempted from serology testing for their vaccinations to be ingested. They must still visit a General Practitioner (GP) clinic, for the clinic to verify their certificates and ingest their vaccination records in the NIR <b>within 30 days</b> of arrival in Singapore. Refer to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> on the types of vaccination certificates which exempt pass holders from serology testing.</p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Please call the clinic to check if they offer serology tests or verification of vaccination records.</p></li>
 </ol>
 </div>
 	</td>
@@ -304,7 +306,9 @@ input:checked + label + .content {
 	</ol>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
-				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests.</li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Verify their vaccination records by taking a serology test to get the vaccination records ingested in the National Immunisation Registry (NIR) within 30 days of arrival in Singapore. 
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those with valid digitally-verifiable vaccination certificates may be exempted from serology testing for their vaccinations to be ingested. They must still visit a General Practitioner (GP) clinic, for the clinic to verify their certificates and ingest their vaccination records in the NIR <b>within 30 days</b> of arrival in Singapore. Refer to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> on the types of vaccination certificates which exempt pass holders from serology testing.</p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Please call the clinic to check if they offer serology tests or verification of vaccination records.</p></li>
 </ol>
 </div>
 	<!--Cat2 Other Work Pass Holders-->
@@ -346,7 +350,9 @@ input:checked + label + .content {
 	</ol>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests.</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Verify their vaccination records by taking a serology test to get the vaccination records ingested in the National Immunisation Registry (NIR) within 30 days of arrival in Singapore. 
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those with valid digitally-verifiable vaccination certificates may be exempted from serology testing for their vaccinations to be ingested. They must still visit a General Practitioner (GP) clinic, for the clinic to verify their certificates and ingest their vaccination records in the NIR <b>within 30 days</b> of arrival in Singapore. Refer to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> on the types of vaccination certificates which exempt pass holders from serology testing.</p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Please call the clinic to check if they offer serology tests or verification of vaccination records.</p></li>
 </ol>
 </div>
 	</td>
@@ -413,7 +419,9 @@ input:checked + label + .content {
 		</ol>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Verify their vaccination records by taking a serology test to get the vaccination records ingested in the National Immunisation Registry (NIR) within 30 days of arrival in Singapore. 
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those with valid digitally-verifiable vaccination certificates may be exempted from serology testing for their vaccinations to be ingested. They must still visit a General Practitioner (GP) clinic, for the clinic to verify their certificates and ingest their vaccination records in the NIR <b>within 30 days</b> of arrival in Singapore. Refer to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> on the types of vaccination certificates which exempt pass holders from serology testing.</p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Please call the clinic to check if they offer serology tests or verification of vaccination records.</p></li>
 </ol>
 </div>
 	<!--Cat3 Other Work Pass Holders-->
@@ -453,7 +461,9 @@ input:checked + label + .content {
 				</ol>
 	</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">			<b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests. </li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">			<b>[Only for pass holders who were vaccinated overseas]</b> Verify their vaccination records by taking a serology test to get the vaccination records ingested in the National Immunisation Registry (NIR) within 30 days of arrival in Singapore. 
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those with valid digitally-verifiable vaccination certificates may be exempted from serology testing for their vaccinations to be ingested. They must still visit a General Practitioner (GP) clinic, for the clinic to verify their certificates and ingest their vaccination records in the NIR <b>within 30 days</b> of arrival in Singapore. Refer to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> on the types of vaccination certificates which exempt pass holders from serology testing.</p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Please call the clinic to check if they offer serology tests or verification of vaccination records.</p></li>
 			</ol>
 </div>
 	</td>
@@ -503,7 +513,9 @@ input:checked + label + .content {
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 10-day SHN at the SDF ($1,050 including GST)
 	</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN. </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Verify their vaccination records by taking a serology test to get the vaccination records ingested in the National Immunisation Registry (NIR) within 30 days of arrival in Singapore. 
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those with valid digitally-verifiable vaccination certificates may be exempted from serology testing for their vaccinations to be ingested. They must still visit a General Practitioner (GP) clinic, for the clinic to verify their certificates and ingest their vaccination records in the NIR <b>within 30 days</b> of arrival in Singapore. Refer to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> on the types of vaccination certificates which exempt pass holders from serology testing.</p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Please call the clinic to check if they offer serology tests or verification of vaccination records.</p></li>
 		</ol>
 </div>
 	<!--Cat4 Other Work Pass Holders-->
@@ -534,7 +546,9 @@ input:checked + label + .content {
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to the <a href="/health/shn/">SHN dedicated facility</a> accommodation. <br>Transport from the airport to SDFs will be provided</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day SHN at an <a href="/health/shn#sdf">SHN dedicated facility (SDF) </a>($1,450 including GST) </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests.</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Verify their vaccination records by taking a serology test to get the vaccination records ingested in the National Immunisation Registry (NIR) within 30 days of arrival in Singapore. 
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those with valid digitally-verifiable vaccination certificates may be exempted from serology testing for their vaccinations to be ingested. They must still visit a General Practitioner (GP) clinic, for the clinic to verify their certificates and ingest their vaccination records in the NIR <b>within 30 days</b> of arrival in Singapore. Refer to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> on the types of vaccination certificates which exempt pass holders from serology testing.</p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Please call the clinic to check if they offer serology tests or verification of vaccination records.</p></li>
 		</ol>
 </div>
 	</td>
