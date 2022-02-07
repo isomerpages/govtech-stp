@@ -229,7 +229,7 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) On-arrival COVID-19 Test</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Follow the instructions of at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Follow the instructions of officers at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
 
 <p style="line-height:1.35;font-size:18px;">Travellers who did not <a href="#payment">pay for the test before arrival (see Stage 1F)</a>, will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.</p>
 </div>
