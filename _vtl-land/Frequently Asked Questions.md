@@ -78,7 +78,7 @@ Similarly, there is no requirement to stay in Malaysia for a minimum period afte
 
 Fully vaccinated and recently recovered travellers can be permitted to board the designated VTL (Land) bus even if they have had symptoms emerged within 7 days of their departure if they are able to obtain a valid negative result from a PCR test or professionally administered ART within 2 days before departure. 
 
-Otherwise, such travellers are not allowed to enter Singapore under the VTL (Land).
+Otherwise, such travellers are not allowed to enter Singapore under VTL (Land).
 
 <div id="DesignatedBus"></div>
 
