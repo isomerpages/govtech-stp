@@ -1530,9 +1530,9 @@ There is no limit to the number of times travellers can apply for a VTP. Every e
 
 #### 5. How long is the validity of a VTP (Air)?
 
-A VTP (Air) is valid for single entry into Singapore anytime from the traveller’s intended date of entry and up to 14 calendar days after.
+A VTP (Air) is valid for single entry into Singapore anytime from the traveller’s intended date of entry and up to 13 calendar days after.
 
-For example, travellers who hold a valid VTP (Air) to enter Singapore on 1 September 2021, have up to 14 September 2021 to do so should they need to make changes to their flight departure date.
+For example, travellers who hold a valid VTP (Air) to enter Singapore on 1 March 2022, have up to 14 March 2022 to do so should they need to make changes to their flight departure date.
 
 #### 6. Once a VTP (Air) application is approved, can the relevant authorities change the VTL (Air) conditions or even cancel the VTP (Air)?
 
@@ -1566,10 +1566,10 @@ Singapore Citizens and Permanent Residents do not need to apply for a VTP (Air) 
  
 #### 11. How do I change the validity of my VTP (Air)?
 
-A VTP (Air) is valid for single entry into Singapore anytime from your intended date of entry and up to 14 calendar days after.
+A VTP (Air) is valid for single entry into Singapore anytime from your intended date of entry and up to 13 calendar days after.
 If your travel plans change and you need to enter before or after the validity period, please submit a new VTP (Air) application. 
 
-Should you require assistance to seek urgent entry into Singapore within the next 6 days, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555. Kindly note that all appeals are assessed on a case-by-case basis. 
+Should you require assistance to seek urgent entry into Singapore within the next 2 days, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555. Kindly note that all appeals are assessed on a case-by-case basis. 
 
 #### 12. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP (Air) application?
 
