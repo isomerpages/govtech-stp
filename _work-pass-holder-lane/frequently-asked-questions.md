@@ -144,13 +144,8 @@ For the on-arrival COVID-19 test, employers will need to book and pay for them.
 
 #### 3. Is my employee required to take a Serology test in Singapore? How do I arrange for the test and am I also required to pay for this?
 
-All pass holders who were vaccinated overseas must take a serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within:
-- 14 days of arrival; or
-- 14 days of completing self-isolation  or Stay-Home Notice (SHN)
+All pass holders who were vaccinated overseas must get their vaccination records verified by taking a serology test or visiting a General Practitioner (GP) clinic to get their vaccination records accepted in the National Immunisation Registry (NIR). Please refer to <a href="" target="_blank">MOM's website</a> for more information.
 
-Please call the clinic to check if they offer serology tests.
-
-If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take 2 doses of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> in Singapore within 2 months of the negative serology test result.
 
 #### 4. My employee claims to be unwell while serving their Stay-Home Notice (SHN). What should I do?
 
