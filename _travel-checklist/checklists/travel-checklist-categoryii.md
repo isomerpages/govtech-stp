@@ -274,7 +274,7 @@ label.box {
 </div>
 
 	
-<div id="stage3d"></div>
+<div id="stage3c"></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744; <i><b>C) Transport to Declared SHN Accommodation</b></i></div>
 
@@ -298,7 +298,7 @@ label.box {
 			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Received a negative PCR test result for the test taken before the end of the SHN.</li>
 </ol>
 
-<p style="line-height:1.35;font-size:18px;">The transport arrangements stated at <a href="#stage3d">Stage 3D</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance. </p>
+<p style="line-height:1.35;font-size:18px;">The transport arrangements stated at <a href="#stage3c">Stage 3C</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance. </p>
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.35; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="margin-top:0px; margin-bottom:20px; line-height:1.35; color:red; font-size:18px;"><b>Anti-Scam Advisory</b></p> 
