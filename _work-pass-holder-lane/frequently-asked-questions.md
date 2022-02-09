@@ -130,7 +130,7 @@ For existing helpers returning from overseas, you must continue paying them sala
 
 <div id="covidtest"></div>
 
-### Covid-19 Tests
+### COVID-19 Tests
 
 #### 1. My employee has recently recovered from COVID-19. Are they still required to be tested for COVID-19 before entry into Singapore?
 
