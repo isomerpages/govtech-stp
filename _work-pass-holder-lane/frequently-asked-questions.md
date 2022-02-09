@@ -144,7 +144,7 @@ For the on-arrival COVID-19 test, employers will need to book and pay for them.
 
 #### 3. Is my employee required to take a Serology test in Singapore? How do I arrange for the test and am I also required to pay for this?
 
-All pass holders who were vaccinated overseas must get their vaccination records verified by taking a serology test or visiting a General Practitioner (GP) clinic to get their vaccination records accepted in the National Immunisation Registry (NIR). Please refer to <a href="" target="_blank">MOM's website</a> for more information.
+All pass holders who were vaccinated overseas must get their vaccination records verified by taking a serology test or visiting a General Practitioner (GP) clinic to get their vaccination records accepted in the National Immunisation Registry (NIR). Please refer to <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-were-vaccinated-overseas" target="_blank">MOM's website</a> for more information.
 
 
 #### 4. My employee claims to be unwell while serving their Stay-Home Notice (SHN). What should I do?
