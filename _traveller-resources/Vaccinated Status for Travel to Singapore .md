@@ -148,6 +148,18 @@ The temporary vaccinated status on the TraceTogether app may expire 30 days or 1
 
 If your serology test is positive, the private healthcare provider will enter your vaccination records into the National Immunisation Registry (NIR). Your vaccinated status will be updated in the TraceTogether app within 24 hours and you will continue to be eligible for VDS.
 
+Holders of the following types of certificates may be exempted from the serology testing. However, you must still visit a healthcare provider for your vaccination records to be ingested in the NIR. The healthcare provider will scan your certificate to verify its authenticity.
+
+<ol style="padding-left: 20px; list-style-type: disc;">
+<li style="padding-left:10px;">EU Digital COVID Certificate (EU DCC), including formats cross-compatible with the EU DCC system such as the UK’s NHS Covid Pass</li>
+<li style="padding-left:10px;">[Australia] International COVID-19 Vaccination Certificate</li>
+<li style="padding-left:10px;">[India] Co-WIN International Travel Certificate</li>
+<li style="padding-left:10px;">[Malaysia] Digital Certificate for COVID-19 Vaccination from MySejahtera app</li>
+<li style="padding-left:10px;">[Maldives] COVID-19 Digital Certification from the Health Protection Agency Maldives</li>
+<li style="padding-left:10px;">[Republic of Korea] COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency</li>
+<li style="padding-left:10px;">[Thailand] International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health Thailand</li>
+</ol>
+
 
 <div id="sinovaccines"></div>
 
