@@ -246,6 +246,9 @@ input:checked + label + .content {
 	</td>
 	</tr>
 	</table><br>
+	
+
+<div id=cat2></div>
 
 <!--Category 2-->
 <table>
