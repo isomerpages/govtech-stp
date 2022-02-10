@@ -10,7 +10,6 @@ permalink: /health/FAQ
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN) and Dedicated SHN Facility</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#transport">Transport Advisories</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers (including COVID-19 Recovered Travellers)</a></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#outboundPDT">Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
 	<!--<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#vaccinated">Vaccinated Travellers intending to travel to Singapore</a>
 	</li>-->
@@ -251,65 +250,6 @@ Please email <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmed
 <!--#### 12. I am unwell. Can I postpone my COVID-19 Polymerase Chain Reaction test (“PCR test”) appointment?
 
 Travellers who are due to take their PCR test but are feeling unwell should remain in their [Stay-Home Notice (SHN)](/health/shn) accommodation, e.g. own residence or [SHN-Dedicated Facility (SDF)](/health/shn#sdf), and alert the relevant agencies listed in this [page](https://go.gov.sg/tc).-->
-
-Click here to [Go Back To Top](#top).
-
----
-
-
-<div id="outboundPDT"></div>
-
-## Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore
-
-#### 1. I have been vaccinated in Singapore. Am I still required to take a pre-departure test to leave the country?
-Travellers who have been vaccinated in Singapore should check with the authorities of the destination country/region, on whether they are still required to take a pre-departure test before arrival. Non-vaccinated individuals (including children) who intend to travel should likewise check on the prevailing border and health control measures they should abide by in the destination country/region.
-
-#### 2. Do clinics need to help travellers digitally authenticate and endorse their HealthCerts?
-
-No, the traveller should digitally authenticate and endorse their HealthCerts themselves at https://www.notarise.gov.sg . When issuing the HealthCerts to them, clinics, labs and/or the tech provider should also highlight the requirement to the traveller. In the event that the tech providers are already performing digital authentication and endorsement via Application Programming Interfaces (API), travellers will receive an endorsed document without having to transact on the Notαrise portal.
-
-<!--#### 3. The PRC embassy stipulates both PCR and serology IgM tests for all travellers entering China. Since the HealthCert is currently only for PCR tests, how will travellers meet the entry requirements?
-
-The combined PCR and IgM HealthCert will be available soon. In the meantime, travellers should highlight to the clinic if their PDT is for the purposes of entry to China, in which case they should be issued with an additional paper certificate in accordance with the PRC embassy’s requirements. [This page](/departing/overview#PDT) will be updated accordingly when the combined schema is available.-->
-
-#### 3. The country/region I am travelling to requires a test other than a PCR test. Since the HealthCert is currently only for PCR tests, how will travellers show their test results to the relevant authorities?
-
-In such a case, the traveller may request for a hardcopy test result from the doctor to show to the airlines and immigration authorities of the arrival country/region.
-
-#### 4. How will travellers receive their Pre-Departure Test (PDT) certificate?
-
-The test results will be sent to the traveller by either the clinic where the PDT was taken, or by their partnering clinical laboratory. This will be in the form of a digital certificate in accordance with the HealthCerts schema and standards. In the event the traveller does not have the ability to show the digital certificate on arrival at the destination country/region, the traveller may request for a hardcopy from the doctor.
-
-#### 5. Can travellers still use digital certificates without a SingPass account (e.g. foreign citizen who is a short-stay traveller)?
-
-Travellers may still digitally authenticate and endorse their test certificate on www.notarise.gov.sg without signing in to SingPass. However, please note that the traveller will only be receive the endorsed HealthCert via email, with no additional copy stored in the SingPass mobile app.
-
-#### 6. What if the digitally authenticated and endorsed certificate was not sent to the traveller?
-
-Please check the email spam folder. If the email is still not there, please contact . 
-
-#### 7. Can a third party transact on behalf of a traveller who requires the assistance to digitally authenticate and endorse their PDT certificate?
-
-Yes, a third party may do so if they have the digital certificate of the traveller(s) that they will be transacting on behalf of.
-
-#### 8. Where can GP clinics find out more about digital certificate capabilities and providing PDTs?
-
-Clinics may refer to the following circulars on the MOH website: [Mandating Digital Health Certificates for COVID-19 Pre-Departure Testing](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/mandating-digital-health-certificates-for-covid-19-predeparture-testing), and [Extension of Deadline for Digital Health Certificates for COVID-19 Pre-Departure Testing](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/extension-of-deadline-for-digital-health-certificates-for-covid19-pre-departure-testing)
-
-#### 9. Where can I see my vaccination records? 
-
-Vaccination records are kept electronically in the National Immunisation Registry, as well as on apps such as TraceTogether and HealthHub. You can also refer to your physical vaccination card that is given to all vaccinated individuals. These are for your own reference, to check if you are vaccinated.
-
-<!--#### 11. Can I use my physical vaccination card for travel purposes? 
-
-The physical vaccination card that is given to all vaccinated individuals is not meant to be used for travel purposes. We are actively engaging international counterparts and monitoring global developments on the development and recognition of digital vaccination certificates for travel purposes. Travellers should also take note of the latest travel advisory for Singaporeans and residents of Singapore published by <a href="https://www.moh.gov.sg/covid-19">MOH</a>.
-
-#### 12. How can I prove to foreign authorities that I have been vaccinated? 
-
-The physical vaccination card that is given to all vaccinated individuals is not meant to be used for travel purposes/ proof of vaccination. For purposes of travel, you can request for a digital vaccination certificate from <a href="https://www.notarise.gov.sg">Notαrise</a>. This will be sent to your email and/or Singpass app, and can also be printed out. Please be aware that the use of this digital vaccination certificate is subject to the prevailing entry requirements of your destination country. 
-
-Travellers should check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to">MFA website</a> for the latest travel advisories to other countries/ regions, as well as the immigration authority or embassy of the destination country/ region on the relevant health requirements imposed on travellers from Singapore. Travellers should also take note of the latest travel advisory for Singaporeans and residents of Singapore published by <a href="https://www.moh.gov.sg/covid-19">MOH</a> .-->
----
 
 Click here to [Go Back To Top](#top).
 
