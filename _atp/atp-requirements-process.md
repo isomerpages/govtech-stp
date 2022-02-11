@@ -115,6 +115,25 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Purchase travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment" target="_blank">here</a>.</p>
 </div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1G"><label class="box" for="1G">&nbsp;&nbsp;<b>G) Purchase COVID-19 Travel Insurance</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style=" font-size:18px;line-height:1.35;">Visitors are required to be isolated at a declared accommodation until they receive a negative on-arrival COVID-19 PCR test result. They should secure an accommodation which is a:</p>
+<ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;font-size:18px;">
+<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;font-size:18px;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for Private Property and HDB flat / Bedroom); or</li>
+<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;font-size:18px;">Non-residential accommodation such as hotel or serviced apartment in this non-exhaustive list. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 PCR test result. During booking, they should also indicate that they are serving self-isolation for the on-arrival test.</li> 
+</ol>
+<p style="line-height:1.35;font-size:18px;">For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving self-isolation for the on-arrival test.</p>
+<p style="line-height:1.35;font-size:18px;">Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. Travellers residing with unvaccinated vulnerable household members, are strongly encouraged to isolate themselves in a room and minimise contact. They should also designate a specific bathroom to be used by themselves, if possible.</p>
+</div>
+	
+	
+	
+
+	
+	
+	
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1E"><label class="box" for="1E">&nbsp;&nbsp;<b>E) Submission of Health Declaration and Digital Vaccination Certificate</b></label></div>
