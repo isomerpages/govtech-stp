@@ -182,7 +182,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label class="box" for="3B">&nbsp;&nbsp;<b>B) Take On-Arrival COVID-19 Polymerase Chain Reaction (PCR) test</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Not applicable to:</p>
-	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type: disc;">
+	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:10px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Children aged two and below in this calendar year (i.e. child who has turned two this year); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Fully vaccinated recovered travellers</li>
 </ol>
