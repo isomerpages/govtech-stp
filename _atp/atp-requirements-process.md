@@ -196,6 +196,26 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
 	</div>
 
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Self-isolation</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="4A"><label class="box" for="4A">&nbsp;&nbsp;<b>A) Serve Self-isolation Period</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers are <b>prohibited</b> from leaving their self-isolation accommodation (per Stage 1G) while waiting for the on-arrival test result. The results of the on-arrival COVID-19 PCR test will likely be available within 24 hours. </p>
+	</div>
+
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 5: End of Self-isolation period</b></div>
+
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label class="box" for="3B">&nbsp;&nbsp;<b>B) Abide by Local COVID-19 Safe Management Measures</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">After leaving the checkpoint, Vaccinated-Recovered Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
+		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">For vaccination-differentiated settings (e.g. malls, dining out), travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application during immigration clearance or via SGAC may do so using the app. </p>
+		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers who require longer term vaccinated status beyond 30 days, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
+		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">If you feel unwell, please refer to the <a href="https://covid.gov.sg" target="_blank">MOH traveller recovery protocol</a>.</p>
+	</div>
+
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label class="box" for="3B">&nbsp;&nbsp;<b>B) Abide by Local COVID-19 Safe Management Measures</b></label></div>
