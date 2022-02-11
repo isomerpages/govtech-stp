@@ -189,6 +189,12 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Follow the instructions of officers at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
 	</div>
 
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3C"><label class="box" for="3C">&nbsp;&nbsp;<b>C) Transport and Goods & Services from the Airport</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. They may only procure goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall. <b>They are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation (per stage 1G) until the test result is confirmed to be negative.</b></p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
+	</div>
 
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
