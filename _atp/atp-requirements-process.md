@@ -12,6 +12,8 @@ Foreigners who are short-term visitors (including business and official travelle
 
 <span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders must travel via the [Returning SC/PRs lane](/sc-pr/overview), [Work Pass Holder General Lane](/wphl/overview) or [Student’s Pass Holder Lane](/stpl/overview). These travellers should not apply for an ATP to travel to Singapore.
 
+Travellers may print out this page and indicate with a "☑" in the box (☐) for completed activities.
+
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
