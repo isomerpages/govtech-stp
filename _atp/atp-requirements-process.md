@@ -2,7 +2,7 @@
 title: ATP Requirements & Process
 permalink: /atp/requirements-and-process
 ---
-### 1. Eligibility 
+### Eligibility 
 
 Foreigners who are short-term visitors (including business and official travellers) travelling from one of the following countries/regions may apply for an Air Travel Pass (ATP) for travel to Singapore:
 - Hong Kong
