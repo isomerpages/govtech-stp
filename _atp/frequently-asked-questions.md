@@ -34,7 +34,7 @@ The ATP comes with [conditions](/atp/conditions) of travel that the applicant mu
 
 #### 2. How can visitors apply for an ATP?
 
-To apply for an ATP, please go to [apply now](/atp/apply-now). Do note that applications for the ATP must be made between seven and 60 calendar days prior to the intended date of entry into Singapore.
+To apply for an ATP, please [click here](/atp/apply-now). Do note that applications for the ATP must be made between seven and 60 calendar days prior to the intended date of entry into Singapore.
 
 
 #### 3. How long will it take for an ATP application to be processed?
@@ -110,7 +110,7 @@ When checking in at the departure airport, visitors must present the following t
 	<li>the date and time when the COVID-19 test was taken, which must be within 2 days before departure for Singapore; and </li>
 	<li>the name of the testng institution conducting the COVID-19 test, which must be from the list of <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratories, clinics, or medical facilities</a></li>
 	</ol>
-- <b>[for recovered travellers only]</b> a valid <a href="" target="_blank">proof of recovery</a>
+- <b>[for recovered travellers only]</b> a valid <a href="/atp/requirements-and-process#recovery" target="_blank">proof of recovery</a>
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
