@@ -197,11 +197,13 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 
 ### On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test
 
+<div id="OATnote"></div>
+
 <i style="color:red;">Note: Children aged 2 and below in this calendar year are not required to undergo an on-arrival COVID-19 PCR test. Fully vaccinated recovered travellers entering Singapore may qualify for exemption from the on-arrival COVID-19 PCR test. Please refer <a href="/vaccinated-recovered" target="_blank">this page </a> for more information.</i>
 
 #### 1. Are visitors required to take an on-arrival COVID-19 PCR test?
 
-Upon arrival in Singapore, visitors must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport, in lieu of a Stay-Home Notice. The test results will likely be available within 24 hours.
+All visitors except those <a href="#OATnote">listed above</a> must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport, in lieu of a Stay-Home Notice. The test results will likely be available within 24 hours.
 
 After taking the COVID-19 PCR test, visitors are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. After being notified of their negative test results, visitors will be allowed to go about their activities in Singapore.
 
