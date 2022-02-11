@@ -148,11 +148,13 @@ All applications for extension of visit pass must be submitted online using ICAâ
 
 ### Pre-Departure COVID-19 Test
 
+<div id="PDTnote"></div>
+
 <i style="color:red;">Note: Children aged 2 and below in this calendar year are not required to undergo a pre-departure COVID-19 test. Recovered travellers entering Singapore may qualify for exemption from the pre-departure COVID-19 test. They must present <a href="/atp/requirements-and-process#recovery" target="_blank">valid proof of recovery</a>.</i>
 
 #### 1. Are visitors required to take any pre-departure COVID-19 tests?
 
-Visitors entering Singapore, except those aged 2 and below in this calendar year, must undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
+All visitors except those <a href="#PDTnote">listed above</a> must undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
 
 The pre-departure COVID-19 test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>. The test result must be in English and state the following:
 
