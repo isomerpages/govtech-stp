@@ -117,7 +117,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1G"><label class="box" for="1G">&nbsp;&nbsp;<b>G) Purchase COVID-19 Travel Insurance</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1G"><label class="box" for="1G">&nbsp;&nbsp;<b>G) Secure Self-Isolation Accommodation</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px;line-height:1.35;">Visitors are required to be isolated at a declared accommodation until they receive a negative on-arrival COVID-19 PCR test result. They should secure an accommodation which is a:</p>
 <ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;font-size:18px;">
@@ -133,7 +133,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 </div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1H"><label class="box" for="1H">&nbsp;&nbsp;<b>H) Submission of Health Declaration and Digital Vaccination Certificate</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1H"><label class="box" for="1H">&nbsp;&nbsp;<b>H) Submit Health Declaration and Digital Vaccination Certificate</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><b><u>Up to 3 days before arrival</u> in Singapore</b></p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>.</p><p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">All foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email. There will not be any physical endorsement on the visitor's passport. Please ensure that you provide a valid email address when submitting the SGAC to ensure that you receive the e-Pass. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here</a> for more information about the e-Pass.</p>
@@ -141,7 +141,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 	</div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1F"><label class="box" for="1F">&nbsp;&nbsp;<b>F) Installation of TraceTogether app</b></label></div>
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1I"><label class="box" for="1I">&nbsp;&nbsp;<b>F) Install TraceTogether mobile application</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p>
 	</div>
