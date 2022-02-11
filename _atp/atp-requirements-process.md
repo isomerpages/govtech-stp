@@ -40,8 +40,8 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. They need not apply for a visa if it is still valid or if they are eligible for the visa-free transit facility. <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Click here to check if a visa is required and to apply if needed</a>.</p>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B"><label class="box" for="1B">&nbsp;&nbsp;<b>B) Obtain Medical Proof of COVID-19 infection detected 7 – 90 days before date of departure</b></label></div>
+<div id="recovery" style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D"><label class="box" for="1D">&nbsp;&nbsp;<b>D)	Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">As proof of a past COVID-19 infection, Vaccinated-Recovered Travellers must obtain either of the following medical documents, which must be in English or translated to English. Handwritten documents will be rejected.</p>
 	<table>
