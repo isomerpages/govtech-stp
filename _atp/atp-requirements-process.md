@@ -177,7 +177,20 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Check your SGAC-registered email for your e-Pass notification on the period of stay granted and last day of stay allowed.</p>
 	</div>
-	
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label class="box" for="3B">&nbsp;&nbsp;<b>B) Take On-Arrival COVID-19 Polymerase Chain Reaction (PCR) test</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Not applicable to:</p>
+	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type: disc;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Children aged two and below in this calendar year (i.e. child who has turned two this year); and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Fully vaccinated recovered travellers</li>
+</ol>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Follow the instructions of officers at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
+	</div>
+
+
+
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label class="box" for="3B">&nbsp;&nbsp;<b>B) Abide by Local COVID-19 Safe Management Measures</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
