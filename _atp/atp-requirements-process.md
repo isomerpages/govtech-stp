@@ -19,7 +19,8 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>A) Check Travel/Transit History</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Visitors must have been to only one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore within the last 14 consecutive days before departing for Singapore. Transits via other countries with a layover of less than 24 hours are not counted toward travel history. Visitors are not required to travel to Singapore on a direct flight; they may transit via a third country, so long as the transit duration is less than 24 hours.</p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Visitors must have been to only one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore within the last 14 consecutive days before departing for Singapore. </p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Transits via other countries with a layover of less than 24 hours are not counted toward travel history. Visitors are not required to travel to Singapore on a direct flight; they may transit via a third country, so long as the transit duration is less than 24 hours.</p>
   </div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
