@@ -34,7 +34,7 @@ The ATP comes with [conditions](/atp/conditions) of travel that the applicant mu
 
 #### 2. How can visitors apply for an ATP?
 
-To apply for an ATP, please go to [apply now](/atp/apply-now). Do note that applications for the ATP must be made between seven and 60 calendar days prior to the intended date of entry into Singapore.
+To apply for an ATP, please [click here](/atp/apply-now). Do note that applications for the ATP must be made between seven and 60 calendar days prior to the intended date of entry into Singapore.
 
 
 #### 3. How long will it take for an ATP application to be processed?
@@ -110,7 +110,7 @@ When checking in at the departure airport, visitors must present the following t
 	<li>the date and time when the COVID-19 test was taken, which must be within 2 days before departure for Singapore; and </li>
 	<li>the name of the testng institution conducting the COVID-19 test, which must be from the list of <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratories, clinics, or medical facilities</a></li>
 	</ol>
-- <b>[for recovered travellers only]</b> a valid <a href="" target="_blank">proof of recovery</a>
+- <b>[for recovered travellers only]</b> a valid <a href="/atp/requirements-and-process#recovery" target="_blank">proof of recovery</a>
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
@@ -148,11 +148,13 @@ All applications for extension of visit pass must be submitted online using ICAâ
 
 ### Pre-Departure COVID-19 Test
 
+<div id="PDTnote"></div>
+
 <i style="color:red;">Note: Children aged 2 and below in this calendar year are not required to undergo a pre-departure COVID-19 test. Recovered travellers entering Singapore may qualify for exemption from the pre-departure COVID-19 test. They must present <a href="/atp/requirements-and-process#recovery" target="_blank">valid proof of recovery</a>.</i>
 
 #### 1. Are visitors required to take any pre-departure COVID-19 tests?
 
-Visitors entering Singapore, except those aged 2 and below in this calendar year, must undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
+All visitors except those <a href="#PDTnote">listed above</a> must undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days before departure for Singapore.
 
 The pre-departure COVID-19 test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>. The test result must be in English and state the following:
 
@@ -195,11 +197,13 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 
 ### On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test
 
+<div id="OATnote"></div>
+
 <i style="color:red;">Note: Children aged 2 and below in this calendar year are not required to undergo an on-arrival COVID-19 PCR test. Fully vaccinated recovered travellers entering Singapore may qualify for exemption from the on-arrival COVID-19 PCR test. Please refer <a href="/vaccinated-recovered" target="_blank">this page </a> for more information.</i>
 
 #### 1. Are visitors required to take an on-arrival COVID-19 PCR test?
 
-Upon arrival in Singapore, visitors must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport, in lieu of a Stay-Home Notice. The test results will likely be available within 24 hours.
+Upon arrival in Singapore, all visitors except those <a href="#OATnote">listed above</a> must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport, in lieu of a Stay-Home Notice. The test results will likely be available within 24 hours.
 
 After taking the COVID-19 PCR test, visitors are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. After being notified of their negative test results, visitors will be allowed to go about their activities in Singapore.
 
