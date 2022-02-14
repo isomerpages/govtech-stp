@@ -122,7 +122,7 @@ permalink: /stpl/vaccination-requirements
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated with full regimen of WHO Emergency Use Listing (WHO EUL) vaccines at least two weeks before arrival</td>
+      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated with <a href="/health/vtsg" target="_blank">full regimen of WHO Emergency Use Listing (WHO EUL) vaccines</a> at least two weeks before arrival</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated in Singapore</td>
 	     <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">None<br><br><a href="#section3">Update vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival </td>
     </tr>
@@ -139,3 +139,32 @@ permalink: /stpl/vaccination-requirements
     </tr>	  
 	</tbody>
 	</table>
+	
+<p style="font-size:18px; margin-top:15px; line-height:1.5;"><b><u>If you are aged 18 years old and above on the date of entry:</u></b></p>
+
+<table>
+  <thead>
+    <tr>
+     <th colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccination Status</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccination Requirements for Entry under the STPHL</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated with <a href="/health/vtsg" target="_blank">full regimen of WHO Emergency Use Listing (WHO EUL) vaccines</a> at least two weeks before arrival</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated in Singapore</td>
+	     <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Show proof of vaccination at the port of departure/ checkpoint.<br><br><a href="#section3">Update vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival </td>
+    </tr>
+	   <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated overseas</td>
+    </tr>
+	   <tr>
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Medically ineligible for vaccination</td>
+		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">Submit a request</a> for exemption <b>(with doctor’s memo)</b> 3 weeks before arrival.<br><br>Undergo medical review in Singapore within 30 days of arrival and be certified medically ineligible for all COVID-19 vaccines under Singapore’s National Vaccination Programme. Otherwise, complete full vaccination regime within 2 months of arrival.</td>
+    </tr>	
+	    <tr>
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Partially vaccinated/ Unvaccinated</td>
+		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Not allowed entry. <br><br> Those with extenuating reasons for not being fully vaccinated before arrival may submit an entry appeal <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">here</a>, at least 3 weeks before the intended date of entry.</td>
+    </tr>	  
+	</tbody>
+	</table>
+
