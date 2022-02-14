@@ -106,7 +106,7 @@ permalink: /stpl/vaccination-requirements
 
 ### Penalties for non-compliance
 
-Strict enforcement action, including revocation of passes, will be taken for non-compliance or false declaration.
+<p style="font-size:18px; line-height:1.5;">Strict enforcement action, including revocation of passes, will be taken for non-compliance or false declaration.</p>
 
 ### Summary of the vaccination requirements for entry under the Student’s Pass Holder Lane (STPHL)  
 
@@ -129,5 +129,9 @@ Strict enforcement action, including revocation of passes, will be taken for non
 	   <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated overseas</td>
     </tr>
+	   <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Medically ineligible for vaccination</td>
+		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Undergo medical review in Singapore within 30 days of arrival and be certified medically ineligible for all COVID-19 vaccines under Singapore’s National Vaccination Programme. Otherwise, complete full vaccination regime within 2 months of arrival.</td>
+    </tr>	  
 	</tbody>
 	</table>
