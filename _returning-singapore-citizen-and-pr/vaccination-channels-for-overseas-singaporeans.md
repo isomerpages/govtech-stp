@@ -98,7 +98,7 @@ input:checked + label + .content {
 </head>
 <body>
 <input class="test1" type="checkbox" id="title6" />
-<label class="test2" for="title6" style="text-algin:center;><b>Option A<b></label>
+<label class="test2" for="title6" style="text-algin:center;><b>Option A</b></label>
 
 <div id="scpr" class="content" style="background-color:#edf4fa;">	
 <p style="line-height:1.5; font-size:18px; "><b>Multi-trip Vaccination Arrangement:</b><ol style="margin-top:15px;">
@@ -108,7 +108,7 @@ input:checked + label + .content {
 	</div>
 	
 <input class="test1" type="checkbox" id="title7"/>
-<label class="test2" for="title7"><b>Option B<b></label>
+<label class="test2" for="title7"><b>Option B</b></label>
 
 <div id="ltph" class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.5; font-size:18px; "><b>Single Trip Vaccination Arrangement:</b><ol style="margin-top:15px;">
