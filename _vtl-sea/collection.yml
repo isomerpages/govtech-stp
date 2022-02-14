@@ -1,4 +1,5 @@
 collections:
   vtl-sea:
     output: true
-    order: []
+    order:
+      - VTL Sea Overview.md
