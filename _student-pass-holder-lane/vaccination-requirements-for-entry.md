@@ -114,4 +114,20 @@ Strict enforcement action, including revocation of passes, will be taken for non
 
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">The vaccination condition for entry will not apply to you.</p>
 
-
+<table>
+  <thead>
+    <tr>
+     <th colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccination Status</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccination Requirements for Entry under the STPHL</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated with full regimen of WHO Emergency Use Listing (WHO EUL) vaccines at least two weeks before arrival</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated in Singapore</td>
+	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">None<br><br><a href="#section3">Update vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival </td>
+    </tr>
+	   <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated overseas</td>
+    </tr>
+	</tbody>
+	</table>
