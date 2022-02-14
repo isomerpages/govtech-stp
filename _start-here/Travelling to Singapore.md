@@ -4,7 +4,7 @@ permalink: /arriving/overview
 description: Start here to find out the travel requirements, restrictions and
   SafeTravel Lanes available when travelling to Singapore
 ---
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangement, and the entry requirements and health controls of each Safe Travel Lane may differ depending on the traveller’s profile and travel history. Travellers can refer to the following sections on this page to determine the most relevant arrangement(s) to enter Singapore:</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">To manage travel during the COVID-19 pandemic, travellers entering Singapore will be subject to health-related protocols that are calibrated based on the traveller’s vaccination status and travel history. Travellers intending to visit Singapore can determine their entry options and corresponding health protocols using the links, below:</p>
 
 - [Self Help Tool for Safe Travel Lanes and Entry Requirements](#selfhelptool)
 - [Listing of Safe Travel Lanes by Traveller Profile](#lanelist)
@@ -14,7 +14,7 @@ description: Start here to find out the travel requirements, restrictions and
 
 ### 1) Self-Help Tool for Safe Travel Lanes and Entry Requirements
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">This self-help tool will output the most relevant Safe Travel Lanes to use based on the traveller’s profile, and travellers can click on the relevant lane to find out about the specific health requirements (e.g. Stay Home Notice, COVID-19 tests) under that lane. Some lanes use the Category I/II/III/IV health measure framework while others may not.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">This self-help tool will output the most relevant Safe Travel Lanes to use based on the traveller’s profile, and travellers can click on the relevant lane to find out about the specific health requirements (e.g. Stay Home Notice, COVID-19 tests) under that lane.</p>
 
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">No information will be stored by this tool. If the tool below does not work in your browser, try opening it in a <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">separate window</a>, or refer to the list of <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">SafeTravel Lanes</a>. </p>
 
@@ -25,8 +25,8 @@ description: Start here to find out the travel requirements, restrictions and
 ### 2) List of SafeTravel Lanes by Traveller Profile
 
 <ul style="list-style-type: lower-alpha; line-height:1.35;">
-	<li><a href="#ReturningSCPR">Returning Singapore Citizens and Permanent Residents</a></li>
-	<li><a href="#LTPH">General entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs</a></li>
+	<li><a href="#ReturningSCPR">Singapore Citizens and Permanent Residents</a></li>
+	<li><a href="#LTPH">Long Term Pass Holders</a></li>
 	<!--<li><a href="#st-business">Short-term business visits</a></li>-->
 	<li><a href="#social">Short-term visitors</a></li>
 	<li><a href="#DCEV">Death and critical illness emergency visit</a></li>
@@ -38,22 +38,35 @@ description: Start here to find out the travel requirements, restrictions and
 
 ### a. Returning Singapore Citizens and Permanent Residents
 
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore from any overseas country without an entry approval. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore. Details related to the entry requirements and Category of travel health measures is available in the <a href="/sc-pr/overview" target="_blank">"Returning SC/PR Lane Overview"</a>.</p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Singapore Citizens (SC) and Permanent Residents (PRs) can enter Singapore from any overseas country/region without an Entry Approval. However, SC/PRs should read the requirements of the relevant SafeTravel Lanes below, as they will be subject to administrative and health measures corresponding with their travel history and SafeTravel Lane used. </p>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane (Air) or Vaccinated Travel Lane (Land) to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank"> Vaccinated Travel Lane (Land)</a>.</p>
+<ol style="list-style-type:lower-roman;margin-top:10px;">
+	<li style="line-height:1.35;"><a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> – Quarantine-free measures if travelling by flight from a Vaccinated Travel Lane (VTL) country/region (<a href="#vtlcountries">see Table below</a>), is fully vaccinated and able to satisfy the travel conditions such as use of designated VTL flight</li>
+	<li style="line-height:1.35; margin-top:10px;"><a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL bus from Malaysia via the Causeway</li>
+	<li style="line-height:1.35;margin-top:10px;"><a href="" target="_blank">Vaccinated Travel Lane (Sea)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL ferry from Indonesia</li>
+	<li style="line-height:1.35;margin-top:10px;"><a href="/sc-pr/overview" target="_blank">Returning Singapore Citizen and Permanent Resident Lane</a> – Prevailing health measures apply including Stay Home Notice, depending on travel history. Travellers who do not fulfil Vaccinated Travel Lane requirements will be subject to these prevailing measures by default. </li>
+	<li style="line-height:1.35;margin-top:10px;"><a href="/vaccinated-recovered" target="_blank">Vaccinated & Recently Recovered Traveller Protocol</a> - Fully vaccinated and able to prove recovery from a COVID-19 infection between 7 – 90 days before departure for Singapore</li>
+</ol>
 
-<ol style="list-style-type:disc; line-height:1.35;">
-	<li style="line-height:1.35;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
-	<li style="line-height:1.35; margin-top:10px;">Qatar, Saudi Arabia and the United Arab Emirates (deferred until further notice)</li>
-	</ol>
-	
-<i style="font-size:14px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
-<i style="font-size:14px; line-height:1.35;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
-<i style="font-size:14px; line-height:1.35;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
-<i style="font-size:14px; line-height:1.35;"><sup>4</sup>Including the Canary Islands</i><br>
-<i style="font-size:14px; line-height:1.35;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
-<i style="font-size:14px; line-height:1.35;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Non-SC/PR spouse or family members of an SC/PR should refer to the sections for <a href="#LTPH">Long Term Pass Holders</a> or <a href="#social">Short-Term Visitors</a>.</p>
 
+<table>
+  <thead>
+    <tr>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccinated Travel Lane Countries/Regions</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>5</sup> and the United States<sup>6</sup><p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>For arrivals from 25 Feb 2022</b>: Qatar, Saudi Arabia, United Arab Emirates</p><p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><i style="font-size:16px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
+<i style="font-size:16px; line-height:1.35;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
+<i style="font-size:16px; line-height:1.35;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
+<i style="font-size:16px; line-height:1.35;"><sup>4</sup>Including the Canary Islands</i><br>
+<i style="font-size:16px; line-height:1.35;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
+<i style="font-size:16px; line-height:1.35;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i></p></td>
+    </tr>
+	</tbody>
+	</table>
 
 ---
 
@@ -63,7 +76,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 <div id="LTPH"></div>
 
-### b. General Entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs
+### b. Long Term Pass Holders 
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs must apply for entry approval to enter Singapore. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore. Details can be found in the lane overview, if applicable.</p>
 
