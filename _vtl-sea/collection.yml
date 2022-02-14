@@ -2,4 +2,5 @@ collections:
   vtl-sea:
     output: true
     order:
+      - VTL (Sea) Travel Checklist.md
       - Vaccinated Travel Lane (Sea) Overview.md
