@@ -145,7 +145,7 @@ input:checked + label + .content {
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The Returning SC/PR lane does not afford travellers quarantine-free access provided under the Vaccinated Travel Lane (Air), (Land) or (Sea). The prevailing health measures described under Categories I, II, III or IV, will apply depending on the traveller’s travel history.</p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Click here for the travel categories before referring to the checklists below for detailed entry instructions.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Click here for the <a href="/shn-and-swab-summary" target="_blank">travel categories</a> before referring to the checklists below for detailed entry instructions.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><b>Travel checklists for travellers arriving from 21 Feb 2359h SGT:</b></p>
 
