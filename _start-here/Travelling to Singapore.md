@@ -90,8 +90,8 @@ Click here to return to the <a href="#lanelist">top</a>.
 	<li style="line-height:1.35;margin-top:10px;"><a href="/stpl/overview" target="_blank">Student’s Pass Holder Lane </a>– Student’s Pass Holders or their accompanying family members who are unable to fulfil VTL requirements. Vaccination requirements apply. Prevailing health measures apply including Stay Home Notice, depending on travel history.</li>
 	<li style="line-height:1.35;margin-top:10px;"><a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a> – Long-Term Pass Holders with immediate family in Singapore by who are unable to fulfil VTL requirements. Prevailing health measures apply including Stay Home Notice, depending on travel history.</li>
 	<li style="line-height:1.35;margin-top:10px;"><a href="/pca/requirements-and-process" target="_blank">Periodic Commuting Arrangement</a> – For workers travelling from Malaysia via land. Entry approvals and prevailing health measures apply.</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/vaccinated-recovered" target="_blank">Vaccinated & Recently Recovered Traveller Protocol</a> - Fully vaccinated and able to prove recovery from a COVID-19 infection between 7 – 90 days before departure for 
-
+		<li style="line-height:1.35;margin-top:10px;"><a href="/vaccinated-recovered" target="_blank">Vaccinated & Recently Recovered Traveller Protocol</a> - Fully vaccinated and able to prove recovery from a COVID-19 infection between 7 – 90 days before departure for Singapore.</li>
+</ol>
 
 <table id="vtlcountries2">
   <thead>
