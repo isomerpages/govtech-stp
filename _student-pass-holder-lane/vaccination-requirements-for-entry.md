@@ -130,8 +130,12 @@ permalink: /stpl/vaccination-requirements
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated overseas</td>
     </tr>
 	   <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Medically ineligible for vaccination</td>
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Medically ineligible for vaccination</td>
 		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Undergo medical review in Singapore within 30 days of arrival and be certified medically ineligible for all COVID-19 vaccines under Singapore’s National Vaccination Programme. Otherwise, complete full vaccination regime within 2 months of arrival.</td>
+    </tr>	
+	    <tr>
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Partially vaccinated/ Unvaccinated</td>
+		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Complete full vaccination regime within 2 months of arrival</td>
     </tr>	  
 	</tbody>
 	</table>
