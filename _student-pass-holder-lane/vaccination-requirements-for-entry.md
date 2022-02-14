@@ -100,10 +100,18 @@ permalink: /stpl/vaccination-requirements
 	<li style="line-height:1.5; font-size:18px;">Travellers who are below 18 years old on the date of entry.
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">Unvaccinated travellers who are 12 years old to below 18 years old on the date of entry will need to complete the full vaccination regime within 2 months of arrival. You may visit <a href="https://www.vaccine.gov.sg" target="_blank">https://www.vaccine.gov.sg</a> for information on the COVID-19 vaccination programme in Singapore.</p><p style="font-size:18px; margin-top:10px; line-height:1.5;">Travellers who are 12 years old to below 18 years old on the date of entry, and who were fully vaccinated overseas, must <a href="#section3">update their vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival.</p>
 	</li>
-	<li style="line-height:1.5; font-size:18px; margin-top:10px;">Travellers who cannot be vaccinated due to medical conditions <p style="font-size:18px; margin-top:10px; line-height:1.5;">To be considered for exemption, travellers must <a href="https://go.gov.sg/moe-vaccination-exemption" target"_blank">submit a request</a> and upload a doctor's memo. This should be done at least 3 weeks before the intended date of entry.</p> <p style="font-size:18px; margin-top:10px; line-height:1.5;">Such travellers will need to undergo a medical review in Singapore with a Singapore-registered doctor within 30 days of arrival, and <b>be certified to be medically ineligible</b> for all COVID-19 vaccines under Singapore’s National Vaccination Programme. Otherwise, they must complete the full vaccination regime within 2 months of arrival.</p><p style="font-size:18px; margin-top:10px; line-height:1.5;">The exemption request must be approved before the traveller can enter Singapore.</p>
+	<li style="line-height:1.5; font-size:18px; margin-top:10px;">Travellers who cannot be vaccinated due to medical conditions <p style="font-size:18px; margin-top:10px; line-height:1.5;">To be considered for exemption, travellers must <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">submit a request</a> and upload a doctor's memo. This should be done at least 3 weeks before the intended date of entry.</p> <p style="font-size:18px; margin-top:10px; line-height:1.5;">Such travellers will need to undergo a medical review in Singapore with a Singapore-registered doctor within 30 days of arrival, and <b>be certified to be medically ineligible</b> for all COVID-19 vaccines under Singapore’s National Vaccination Programme. Otherwise, they must complete the full vaccination regime within 2 months of arrival.</p><p style="font-size:18px; margin-top:10px; line-height:1.5;">The exemption request must be approved before the traveller can enter Singapore.</p>
 	</li>
 	</ol>
 
 ### Penalties for non-compliance
 
 Strict enforcement action, including revocation of passes, will be taken for non-compliance or false declaration.
+
+### Summary of the vaccination requirements for entry under the Student’s Pass Holder Lane (STPHL)  
+
+<p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged below 12 years old on the date of entry:</u></b></p>
+
+<p style="font-size:18px; margin-top:10px; line-height:1.5;">The vaccination condition for entry will not apply to you.</p>
+
+
