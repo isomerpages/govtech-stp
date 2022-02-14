@@ -284,16 +284,18 @@ input:checked + label + .content {
 
 ### 3. COVID-19 Tests and Documents Required
 
-<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.35;">Travellers who are eligible for VTL (Air), and have obtained their Vaccinated Travel Pass if needed, should refer to this <a target="_blank" href="/vtl/travel-checklist">VTL (Air) traveller checklist</a> for the full list of requirements to complete VTL (Air) travel.
+<p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.35;">Travellers who are eligible for VTL (Sea), and have obtained their Vaccinated Travel Pass if needed, should refer to this <a target="_blank" href="/vtl-sea/travel-checklist">VTL (Sea) traveller checklist</a> for the full list of requirements to complete VTL (Sea) travel.
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers will need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or professionally administered Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 PCR test upon arrival at Singapore Changi Airport (S$125, <a href="https://safetravel.changiairport.com/" target="_blank">payment here</a>)</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation,  in addition to fulfilling their pre-departure and on-arrival testing requirements.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 ART test at Quick Test Centres or Combined Test Centres<sup>1</sup>  within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative. </li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</li>
 	</ol> 
 </p>
-<p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">For their journey to Singapore, travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. The table below summarises the key documents travellers have to bring along.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">For their journey to Singapore, travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to the regional ferry service operator staff and immigration officers. The table below summarises the key documents travellers have to bring along.</p>
+<p style="font-size:16px; margin-top:20px; margin-bottom:15px; line-height:1.35;"><sup>1</sup><i>Please refer to <a href="https://www.gowhere.gov.sg/testcentre" target="_blank">https://www.gowhere.gov.sg/testcentre</a> for more details on the Quick Test Centres and Combined Test Centres.</i></p>
+
+
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
@@ -336,7 +338,19 @@ input:checked + label + .content {
 								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
 													<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
 													<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
-</tr>	
+</tr>
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;">6. Proof of Confirmation and Payment for Hotel Booking for Duration of Stay in Singapore</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+</tr>
+		<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;">7. Proof of Return Ferry Ticket corresponding to Hotel Booking Duration of Stay in Singapore</td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
+</tr>
 </tbody>
 </table>
 
@@ -345,14 +359,14 @@ input:checked + label + .content {
 
 ### 5. Frequently Asked Questions
 
-<span style="font-size:18px;">Click <a target="_blank" href="/vtl/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
-- <a target="_blank" href="/vtl/faq#QRcode">Recognised Vaccination Certificates for VTL (Air)</a>
+<span style="font-size:18px;">Click <a target="_blank" href="/vtl-sea/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
+- <a target="_blank" href="/vtl/faq#QRcode">Recognised Vaccination Certificates for VTL (Sea)</a>
 - <a target="_blank" href="/vtl/faq#invalidcode">VTP Application Technical Difficulties</a>
 - <a target="_blank" href="/health/vtsg">Definition of Fully Vaccinated</a>
 - <a target="_blank" href="/vtl/faq#THReq">Travel History</a>
 - <a target="_blank" href="/vtl/faq#PDT">Pre-Departure Test</a>
-- <a target="_blank" href="/vtl/faq#Flight">Designated VTL (Air) Flights</a>
+- <a target="_blank" href="/vtl/faq#Flight">Designated VTL (Sea) Ferries</a>
 - <a target="_blank" href="/vtl/faq#OAT">On-Arrival Test &amp; Self-Isolation</a>
-- <a target="_blank" href="/vtl/faq#postarrivaltests">Post-Arrival COVID-19 ARTs</a>
+- <a target="_blank" href="/vtl/faq#postarrivaltests">Post-Arrival COVID-19 ART</a>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Have a question that is not addressed by any of the available resources found in this webpage? <a target="_blank" href="https://go.gov.sg/sto-enquiry">Contact us here</a>.</p>
