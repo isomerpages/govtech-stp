@@ -11,9 +11,8 @@ permalink: /FAQ/tech
 3. [Receipts and Approval Letters](#receiptandapproval)
 4. [Traveller Details](#TravellerDetails) 
 5. [Document Uploads](#upload)
-6. [VTL (Air) Digitally Verifiable Vaccination Certificate and QR Code Issues](/vtl/faq#vaxcert)
-7. [VTL (Land) Digitally Verifiable Vaccination Certificate and QR Code Issues](/vtl/faq#vaxcert)
-8. [Other General Application Issues](#GenAppIssues) 
+6. [Digitally Verifiable Vaccination Certificate and QR Code Issues](/vtl/faq#vaxcert)
+7. [Other General Application Issues](#GenAppIssues) 
 
 <div id="entrydates"></div>
 
@@ -21,11 +20,9 @@ permalink: /FAQ/tech
 
 #### 1. I am unable to select my desired entry date during application. Why?
 
-Please note the following application windows for **Vaccinated Travel Passes (VTP)**. Travellers not entering Singapore during the following date ranges should come back on a later date to apply:
-- VTP (Land) applications are open for travellers intending to enter Singapore **3-60 days after today**. To cater for unforeseen circumstances, a VTP (Land) is valid for entry up to 14 calendar days after the traveller’s chosen date of entry.
-- VTP (Air) applications are open for travellers intending to enter Singapore **3-60 days after today**. To cater for unforeseen circumstances, a VTP (Air) is valid for entry up to 14 calendar days after the traveller’s chosen date of entry.
+Prospective travellers/applicants will only be able to select entry dates up to 60 days from the date of application.
 
-**For other entry approval and Safe Travel Pass applications**, prospective travellers/applicants will only be able to select entry dates **3 to 60 days** after today. Entry into Singapore is staggered to manage COVID-19 importation risk. If there are no available entry dates, please try applying again one week later. If the alternative entry dates remain unavailable, you may wish to defer your travel plans until the situation has stabilised.
+Entry into Singapore is staggered to manage COVID-19 importation risk. If there are no available entry dates, please come back another day to try again when more entry dates are available. If the alternative entry dates remain unavailable, you may wish to defer your travel plans until the situation has stabilised.
 
 <div id="amendment"></div>
 
@@ -60,7 +57,7 @@ If the problem persists, please contact us via the enquiry form [here](https://g
 <li>Screenshot of your application status or payment invoice</li>
 <li>(If applicable) FIN and FIN expiry number of your employee(s)</li>
 </ul>
-Requests to have the approval letter sent to a different email address, i.e. not stated in the application, will not be entertained.
+Requests to have the approval letter sent to a different email address, not stated in the application, will not be entertained.
 
 <div id="TravellerDetails"></div>
 
@@ -72,7 +69,7 @@ To facilitate the smooth processing and clearance of your application, please no
 
 - Basic Latin characters (A to Z and a to z)
 
-For applicant’s names with other characters which are not accepted above, please provide the name as reflected in the machine readable zone of the passport. An illustration can be found below to show how to locate the passport’s machine readable zone.
+For applicant’s names with other characters which are not accepted above, please provide the name as reflected in the machine-readable zone of the passport. An illustration can be found below to show how to input your name according to the passport’s machine-readable zone.
 
 <img src="/images/MRZ.png" style="width:auto; height:auto;">
 
@@ -134,7 +131,7 @@ For best user experience, please use Google Chrome (version 84 or later) or Micr
 
 #### 2. Why am I unable to access the Safe Travel Portal despite having a Corppass?
 
-From 11 April 2021, the login process for Corppass will be changed to first verify your identity via Singpass, before you can proceed to access and transact with government digital services.
+The login process for Corppass has been changed to first verify your identity via Singpass, before you can proceed to access and transact with government digital services.
 
 Please ensure that your Singpass ID is linked to your business's Corppass account to log in to the Safe Travel Portal. You may contact your business's Corppass administrator to ensure that you have been added and assigned the <i>‘Safe Travel Portal’</i> e-service to your Corppass e-services and the administrator had assigned you administrative rights to access the Safe Travel Portal.
 
