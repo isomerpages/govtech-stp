@@ -139,6 +139,8 @@ input:checked + label + .content {
 
 ---
 
+<div id="protocols"></div>
+
 ### 3) Health and Administrative Protocols
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The Returning SC/PR lane does not afford travellers quarantine-free access provided under the Vaccinated Travel Lane (Air), (Land) or (Sea). The prevailing health measures described under Categories I, II, III or IV, will apply depending on the traveller’s travel history.</p>
