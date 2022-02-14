@@ -1,6 +1,6 @@
 collections:
   vtl-sea:
-    output: true
+    output: false
     order:
       - Vaccinated Travel Lane (Sea) Overview.md
       - VTL (Sea) Checklist for Travel to Singapore.md
