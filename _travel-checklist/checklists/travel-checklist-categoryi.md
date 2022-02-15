@@ -6,12 +6,12 @@ permalink: /travel-checklist/category-1
 <p style="font-size:18px; line-height:1.35;">This checklist is for travellers who:</p>
 
 <ol>
-	<li style="line-height:1.5; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b style="color:red;">[Arrivals before 21 Feb 2022, 2359H]</b> <b>Have only</b> visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 14 days before arrival in Singapore</a>, and did not transit in any non-Category (I) countries/regions for a period exceeding 24 hours;</li>
-	<li style="line-height:1.5; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b style="color:red;">[Arrivals from 21 Feb 2022, 2359H]</b> <b>Have only</b> visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 7 days before arrival in Singapore</a>, and did not transit in any non-Category (I) countries/regions for a period exceeding 24 hours;</li>
-	<li style="line-height:1.5; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b>Are not</b> entering Singapore via the Vaccinated Travel Lane (Air), (Land), (Sea), Reciprocal Green Lane, Periodic Commuting Arrangement, Work Pass Holder General Lane or Air Travel Pass. <i>(If unsure what these lanes/arrangements are, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page to determine an entry option that best suits your travel needs.)</i></li>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b style="color:red;">[Arrivals before 21 Feb 2022, 2359H]</b> <b>Have only</b> visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 14 days before arrival in Singapore</a>, and did not transit in any non-Category (I) countries/regions for a period exceeding 24 hours;</li>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b style="color:red;">[Arrivals from 21 Feb 2022, 2359H]</b> <b>Have only</b> visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 7 days before arrival in Singapore</a>, and did not transit in any non-Category (I) countries/regions for a period exceeding 24 hours;</li>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b>Are not</b> entering Singapore via the Vaccinated Travel Lane (Air), (Land), (Sea), Reciprocal Green Lane, Periodic Commuting Arrangement, Work Pass Holder General Lane or Air Travel Pass. <i>(If unsure what these lanes/arrangements are, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page to determine an entry option that best suits your travel needs.)</i></li>
 	</ol>
 
-<p style="font-size:18px; margin-top:20px; line-height:1.5;">Travellers who satisfy the above can print and refer to this page for the full set of administrative and health-related protocols. Indicate "☑" in the box (☐) for completed activities.</p>
+<p style="font-size:18px; margin-top:20px; line-height:1.35;">Travellers who satisfy the above can print and refer to this page for the full set of administrative and health-related protocols. Indicate "☑" in the box (☐) for completed activities.</p>
 
 
 ### Stage 1: Pre-Departure for Singapore
@@ -97,7 +97,20 @@ label.box {
 
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Application for Entry Approval</b></i></div>
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore. To check for the status of your application, click <a target="_blank" href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry">here</a>.</p></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">Entry Approvals are needed only for travellers who are:<ol>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;">Long Term Pass Holders (excluding Work Permit Holders) entering Singapore <b>before 21 Feb 2022, 2359H SGT</b></li>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;">Work Permit holders</li>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;">Short term visitors (including family members under the Familial Ties Lane and Student Pass Holder Lane)</li>
+	</ol>	
+	</p>
+<p style=" font-size:18px;line-height:1.35;">Long Term Pass Holders (excluding Work Permit Holders) <b>entering from 21 Feb 2022 2359H</b>, as well as Singapore Citizens and Permanent Residents, <b>do not need to apply or present an entry approval to enter Singapore</b>. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes:
+<ol>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;"><a href="/sc-pr/overview" target="_blank">Returning Singapore Citizen/Permanent Resident Lane</a></li>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;"><a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a></li>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;"><a href="/stpl/overview" target="_blank">Student’s Pass Holder Lane</a></li>
+	</ol>
+</p>
+	</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Application for Entry Visa (if applicable)</b></i></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a target="_blank" href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">Click here to check if a visa is required and to apply if needed</a>. </p></div>
