@@ -5,9 +5,9 @@ permalink: /travel-checklist/category-4
 
 ### Instructions for the use of the Category (IV) Travel History Checklist 
 
-<p style="line-height:1.35; font-size:18px;">This checklist is for individuals travelling via the Returning Singapore Citizens/Permanent Residents Lane or have obtained an Entry Approval issued under the Familial Ties Lane, or Student’s Pass Holder Lane.</p> 
+<p style="line-height:1.35; font-size:18px;">This checklist is for individuals entering Singapore <b>before 21 Feb 2022, 2359h</b> via the Returning Singapore Citizens/Permanent Residents Lane or have obtained an Entry Approval issued under the Familial Ties Lane, or Student’s Pass Holder Lane. Travellers under this category have visited any <a href="/shn-and-swab-summary" target="_blank">Category (IV) country/region</a> in the past 14 days before arrival in Singapore. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore. </p> 
 
-<p style="line-height:1.35; font-size:18px;">Travellers will need to have only visited <a href="/shn-and-swab-summary" target="_blank">any Category (IV) country/region in the past 14 days before arrival in Singapore</a>. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore. </p>
+<p style="font-size:18px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span> Travellers arriving <b>from 21 Feb 2022, 2359h</b> via the lanes mentioned above should refer to the <a href="/travel-checklist/" target="_blank">Category (II)/(III)</a> Checklist instead.</p>
 
 <p style="line-height:1.35; font-size:18px;">Travellers may print out this page and indicate with a "&#9745;" in the box (&#9744;) for completed activities.</p>
 
