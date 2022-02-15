@@ -27,7 +27,7 @@ published: false
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/vtl-portal">here</a></td>
     </tr>
 			         <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl-land/overview">Vaccinated Travel Lane (Sea)</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl-sea/overview">Vaccinated Travel Lane (Sea)</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/vtl-portal">here</a></td>
     </tr>
     <tr>
@@ -35,28 +35,24 @@ published: false
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/atpsg">here</a></td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; vertical-align:middle;"><a href="/connectsg/requirements-and-process ">Connect@Singapore</a></td>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Connect@Singapore is currently suspended until further notice. Otherwise, you may enquire with an Appointed Facility listed <a href="https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html">here</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; vertical-align:middle;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Check <a href="/wphl/overview">here</a> for the various application processes depending on the worker's profile</td>
     </tr>
-      <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="https://eservices.ica.gov.sg/STO">here</a></td>
-    </tr>
-      <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="https://eservices.ica.gov.sg/STO">here</a></td>
+ <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stpl/overview">Student's Pass Holder Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/stphl-application">here</a></td>
     </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/overview"> Familial Ties Lane</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/scpr-ftl-application">here</a></td>
     </tr>
-      <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; vertical-align:middle;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Check <a href="/wphl/overview">here</a> for the various application processes depending on the worker's profile</td>
+		  <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://eservices.ica.gov.sg/STO">here</a></td>
     </tr>
-       <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stpl/overview">Student's Pass Holder Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/stphl-application">here</a></td>
-    </tr>
+<!--<tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="https://eservices.ica.gov.sg/STO">here</a></td>
+    </tr>-->
   </tbody>
   </table>
