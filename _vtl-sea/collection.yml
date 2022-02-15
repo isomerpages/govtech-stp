@@ -1,0 +1,8 @@
+collections:
+  vtl-sea:
+    output: false
+    order:
+      - Vaccinated Travel Lane (Sea) Overview.md
+      - VTL (Sea) Checklist for Travel to Singapore.md
+      - VTL (Sea) Conditions.md
+      - VTL (Sea) Frequently Asked Questions.md
