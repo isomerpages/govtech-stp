@@ -5,10 +5,10 @@ permalink: /travel-checklist/category-3
 
 ### Instructions for the use of the Category (III) Travel History Checklist
 
-<p style="line-height:1.35; font-size:18px;">This checklist is for individuals travelling via the Returning Singapore Citizens/Permanent Residents Lane or have obtained an Entry Approval issued under the Familial Ties Lane, or Student’s Pass Holder Lane.</p>
+<p style="line-height:1.35; font-size:18px;">This checklist is for individuals entering Singapore <b>before 21 Feb 2022, 2359h</b> via the Returning Singapore Citizens/Permanent Residents Lane or have obtained an Entry Approval issued under the Familial Ties Lane, or Student’s Pass Holder Lane. Travellers must not have not visited any Category (IV) countries/regions in the past 14 days or transited in such countries/regions for more than 24 hours, otherwise Category (IV) measures will apply. </p>
 
-<p style="line-height:1.35; font-size:18px;">Travellers will need to have visited <a href="/shn-and-swab-summary" target="_blank">any Category (III) country/region in the past 14 days before arrival in Singapore</a>, and have not visited any Category (IV) countries/regions in the past 14 days or transited in such countries/regions for more than 24 hours. Return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page if unsure which SafeTravel Lane to use to enter Singapore.</p>
-
+<p style="font-size:18px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span> Travellers arriving <b>from 21 Feb 2022, 2359h</b> via the lanes mentioned above should refer to the <a href="/travel-checklist/" target="_blank">Category (II)/(III)</a> Checklist instead.</p>	
+ 	
 <p style="line-height:1.35; font-size:18px;">Travellers may print out this page and indicate with a "&#9745;" in the box (&#9744;) for completed activities.</p>
 
 ### Stage 1: Pre-Departure for Singapore
@@ -111,7 +111,7 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers are advised to defer travel if they have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">If you have recently recovered from COVID-19 within the last 90 days before departure:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: disc;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-checker tool</a> to determine if you are eligible for the <a target="_blank" href="/vaccinated-recovered">Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the Vaccinated-Recovered Traveller Protocol instead</a> for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-checker tool</a> to determine if you are eligible for the Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the <a target="_blank" href="/vaccinated-recovered">Vaccinated-Recovered Traveller Protocol</a>	 instead for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
 <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Entry approval requirements (Stage 1A, 1B) still apply.</li>
 </ol>
 	<p style="line-height:1.35; font-size:18px;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
@@ -127,7 +127,7 @@ label.box {
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b>A)</b></td>
 <td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Any of the following showing a positive COVID-19 infection <b>between 7 to 90 days (fully vaccinated travellers) or 14 to 90 days (non-fully vaccinated travellers) before the date of departure for Singapore</b>:
 <ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Antigen Rapid Test (ART) result administered by a trained professional (self-swabs are disallowed)</li>
 	</ol>
 	</td>
@@ -156,7 +156,7 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">All travellers, except the groups listed below, <b>must</b> take a Pre-Departure Test (PDT) <b>within 2 days before departure</b> for Singapore:</p>
 	
 <ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Below the age of three in this calendar year; OR</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Aged two and below in this calendar year; OR</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this self-checker tool</a>, and can show relevant proof of recovery outlined at Stage 1C.</li>
 	</ol>
 <p style="line-height:1.35; font-size:18px;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">at an internationally accredited or recognised lab/clinic/medical facility</a>, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). The PDT result must not be a handwritten document, and fulfil the following:</p>
