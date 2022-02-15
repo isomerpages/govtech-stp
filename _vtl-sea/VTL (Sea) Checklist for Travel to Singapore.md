@@ -7,7 +7,6 @@ published: false
 <i>[<span style="color:red;">!!</span> Readers who have arrived at this page directly from a search engine or are new to the entry requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page, as not all SafeTravel Lanes use this Category I/II/III/IV framework. Travellers who do not meet the entry requirements may be disallowed from entering Singapore.]</i>
 
 
-
 ### Overview
 
 This page provides a summary of the four categories of travel health control measures (THCMs) that are applicable to travellers entering Singapore via the following lanes:
@@ -20,10 +19,12 @@ This page provides a summary of the four categories of travel health control mea
 
 <b>Click on the following for the THCMs based on your date of arrival in Singapore:</b>
 <ol style="list-style-type:lower-latin;">
-	<li><a href="#from">Categories of travel health control measures for arrivals from 7 Jan 2022, 2359 hours</a></li>
-	<li><a href="#before-1">Categories of travel health control measures for arrivals before 7 Jan 2022, 2359 hours</a></li>
+	<li><a href="#from">Categories of travel health control measures for arrivals from 21 Feb 2022, 2359 hours</a></li>
+	<li><a href="#before-1">Categories of travel health control measures for arrivals before 21 Feb 2022, 2359 hours</a></li>
 	</ol>
 
+
+<div id="from"></div>
 
 ### Categories of Travel Health Control Measures (for arrivals <u>from</u> 21 February 2022, 2359h, SGT)
 
@@ -31,25 +32,20 @@ This page provides a summary of the four categories of travel health control mea
 <tbody>
     <tr>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Instructions before referring to the THCM Categories:</u></b></span><br><br>
-					<b> ➀</b> If you have visited or transited in multiple countries in the past 14 days before arriving in Singapore, note that:
+					<b> ➀</b> If you have visited or transited in multiple countries <b><u>in the past 7 days</u></b> before arriving in Singapore, note that:
 					<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
-					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The most stringent category out of all the countries/regions you have visited (excluding transits less than 24 hours) will apply. For example, a traveller who had travel history to both Category (I) and (II) countries/regions before departure, but transited in a Category (IV) country/region on the way to Singapore, will be subject to Category (II) measures; and</li>
+					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The most stringent category out of all the countries/regions you have visited (excluding transits less than 24 hours) will apply. For example, a traveller who had travel history to a Category (I) country/region before departure, but transited in a Category (II/III) country/region on the way to Singapore, will be subject to Category (II/III) measures; and</li>
 												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	<!--A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 14 consecutive days before departure. <u>or</u> you are a Singapore resident (i.e. Singapore Citizen, Permanent Resident and Long-Term Pass Holder) and have remained in a Category (I), (II), (III) and/or (IV) country/region for at least 14 consecutive days before departure.-->	For transits lasting more than 24 hours, a pre-departure test must be taken within 2 days from the last leg of the journey to Singapore.  </li>
 					</ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
+										<b>➁</b> Travellers aged two and below in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-						<b>➂</b> Travellers who have recently recovered from COVID-19 can be exempted from some or all of the border measures below. Details of eligibility and documentation required for such recovered travellers can be found via the respective Category (I) – (IV) travel checklists, which can be accessed via the tables below after you determine the appropriate category. </p>
+						<b>➂</b> Travellers arriving in Singapore who have recently recovered from COVID-19 can be exempted from some or all of the border measures below. Details of eligibility and documentation required for such recovered travellers can be found via the respective Category (I) or (II/III) travel checklists, which can be accessed via the tables below after you determine the appropriate category. </p>
 			</td>
     </tr>
 	</tbody>
 		</table>
-
-
-<div id="from"></div>
-
-### Categories of Travel Health Control Measures
 
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
