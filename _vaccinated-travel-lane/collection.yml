@@ -2,5 +2,6 @@ collections:
   vaccinated-travel-lane:
     output: true
     order:
+      - VTL Sea/.keep
       - VTL Land/.keep
       - VTL Air/.keep
