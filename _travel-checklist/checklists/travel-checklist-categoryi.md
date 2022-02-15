@@ -270,60 +270,49 @@ label.box {
 
 <p style="line-height:1.35;font-size:18px;"><b><a target="_blank" href="/health/vtsg">Fully vaccinated travellers</a> who are vaccinated overseas and unable to upload their digital vaccination certificates via the SG Arrival Card declaration (per Stage 1E)</b> should clear immigration at a manned counter. Here, the immigration officer will assist with the temporary registration of the traveller’s overseas vaccination status into their TraceTogether mobile application. With this, travellers will be able to show temporary proof of their vaccination status using TraceTogether in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a> for 30 days.</p>
 	
-	<p style="line-height:1.35; margin-top:10px;font-size:18px;">To facilitate the temporary registration of overseas vaccination records into TraceTogether, travellers must (be):	</p>
+<p style="line-height:1.35; margin-top:10px;font-size:18px;">To facilitate the temporary registration of overseas vaccination records into TraceTogether, travellers must (be):	</p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Aged 12 and above; </li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification; and</li>
-			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance. </li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance.</li>
 </ol>
-
-<p style="line-height:1.35; font-size:18px;">Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a target="_blank" href="https://go.gov.sg/moh-smm">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a target="_blank" href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) On-arrival COVID-19 Test</b></i></div>
+### Stage 4: Health Protocols during Stay in Singapore
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Follow the instructions of officers at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A)  Commuting Arrangements</b></i></div>
 
-<p style="line-height:1.35;font-size:18px;">Travellers who did not <a href="#payment">pay for the test before arrival (see Stage 1F)</a>, will do so on the spot and expect additional delays in the administration of the test and departure from the checkpoint.</p>
-</div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">All commutes made before the traveller is tested negative for COVID-19 on their on-arrival test should only be made using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
 
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Travellers can commute using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is strictly prohibited. <a target="_blank" href="/health/faq#transport">Click here for the latest transport advisory</a>.</p>
-
-<p style="font-size:18px;line-height:1.35;">The use of public transport (e.g. trains, buses) is prohibited.</p>
-</div>
-
-
-### Stage 4: Self-isolation
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Serve self-isolation period</b></i></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Travellers are <b>prohibited</b> from leaving their self-isolation accommodation while waiting for the on-arrival test result (per Stage 3B).</p>
-
-<p style="line-height:1.35;font-size:18px;">Travellers who are self-isolating at their residence may do so with other household members, regardless of their vaccination status or travel history. However, they should be isolated in a room, minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household are advised to:</p>
-
-<ol style="padding-left: 20px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px; margin-bottom:10px;font-size:18px;">Lower the lid before flushing the toilet; </li>
-	<li style="padding-left: 20px; margin-bottom:10px;font-size:18px;">Clean and disinfect contact surfaces after each use; and</li>
-	<li style="padding-left: 20px; margin-bottom:10px;font-size:18px;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
-	</ol>
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers may use public transport (e.g. trains, buses) only after they have tested negative on their on-arrival test.	</p>
 	</div>
+	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) [For travellers arriving from 21 Feb 2022, 2359H] 24H Supervised Self-Administered Antigen Rapid Test</b></i></div>
 
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Travellers <b>must take a supervised self-administered Antigen Rapid Test (ART) within 24 hours of arrival in Singapore at a Quick Test Centre (QTC)</a>. Booking links for the test will be sent via SMS and found in the testing notice issued to travellers upon arrival. Payments for the test (S$15/per test) will be collected separately at the QTC.</p>
 
-### Stage 5: End of Self-isolation period
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Upon the completion of the ART, travellers will receive their test result via SMS. Travellers who have yet to take their supervised self-administered ART must be in self-isolation until tested negative. Individuals who test positive for COVID-19 must adhere to the prevailing recovery protocols, including medical treatment as necessary. The prevailing treatment charges will apply.	</p>
+	
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">As a travel requirement stipulated under the Infectious Diseases Act, travellers who fail to take the supervised self-administered ART will be penalised accordingly. This could amount to the revocation of relevant entry passes, and/or fines.</p>
+	</div>
+	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Abide by Local COVID-19 Measures including Vaccination-Differentiated Measures</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Release from Self-isolation</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">While in Singapore, travellers must comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">Travellers may leave their accommodation only <b>after</b> receiving a negative result via email for their on-arrival COVID-19 test (see Stage 3B). Travellers should contact <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> if they do not receive their results within 24 hours of the test. <br>Those who test positive for COVID-19 must follow the relevant recovery protocols and receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a> as necessary, and the prevailing treatment charges will apply.
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">For entries into vaccination-differentiated settings in Singapore, e.g. attendance at large scale events, dining restrictions, travellers may show proof of their vaccination status via the TraceTogether application.</p>
+	
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers fully vaccinated overseas who wish to maintain their vaccinated status beyond the temporary status granted for 30 days on arrival, must register their overseas vaccination records into Singapore’s National Immunisation Registry (NIR) within 30 days of arrival. Registration can be facilitated by a local private healthcare provider or <a href="https://flu.gowhere.gov.sg/" target="_blank">Public Health Preparedness Clinic</a>. In addition to checking if the healthcare provider of choice offers such services, travellers should also have the following documents:
+	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Personal identification documents</li>
+		li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid vaccination certificate (per Stage 1B).
+</li>
+	</ol>
+	</p>
+	
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers whose vaccination status is registered on NIR will be able to retrieve their vaccination records via HealthHub (for Singpass users) and the TraceTogether mobile application. All cost related to the service will be borne by the traveller. For more information, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website for details</a>.</p>
+	</div>	
+	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) [Long Term Pass Holders aged 12-18] Fulfil Vaccination Requirements </b></i></div>
 
-</p></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Abide by Local COVID-19 Safe Management Measures</b></i></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">Travellers may go about their activities while complying with the <a target="_blank" href="https://moh.gov.sg/covid-19-phase-advisory">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
-
-<p style="line-height:1.35;font-size:18px;">For vaccination-differentiated settings, e.g. attendance at large scale events, dining restrictions, travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application may do so using the app (see Stage 3A). Travellers who require vaccinated status beyond 30 days after arrival, should visit 
-<a target="_blank" href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
-</div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">As a condition for entry, unvaccinated or partially vaccinated long term pass holders above 12 years and below 18 years (by date of birth) must complete the full vaccination regimen within two months of arrival. Individuals whose medical condition disallows them from meeting this requirement, must be medically certified in Singapore to be ineligible for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>, within 30 days of arrival.</p>
+	</div>	
