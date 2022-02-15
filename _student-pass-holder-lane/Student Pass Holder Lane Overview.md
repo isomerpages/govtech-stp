@@ -118,7 +118,7 @@ input:checked + label + .content {
 <div id="scpr" class="content" style="background-color:#edf4fa;">	
 	<p style="line-height:1.5; font-size:18px; "><ol style="margin-top:0px; margin-bottom:0px;">
 	<li style="line-height:1.5;font-size:18px; list-style-type:lower-alpha;">Student’s Pass (STP) and Student’s Pass In-Principle Approval (STP-IPA) holders; OR</li>
-	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">b.	Immediate family members of STP and STP-IPA holders seeking entry into Singapore:
+	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Immediate family members of STP and STP-IPA holders seeking entry into Singapore:
 	<ol style="margin-top:10px; margin-bottom:0px;">
 		<li style="line-height:1.5;font-size:18px; list-style-type:disc;">A maximum of one accompanying parent/guardian of an STP/STP-IPA holder aged 19 years and below in this calendar year</li>
 		<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:disc;">Accompanying siblings aged 6 years and below in this calendar year and are not enrolled with any local educational institution</li>
