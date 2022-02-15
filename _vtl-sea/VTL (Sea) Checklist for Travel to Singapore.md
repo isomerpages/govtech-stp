@@ -4,6 +4,54 @@ permalink: /vtl-sea/travel-checklist
 description: ""
 published: false
 ---
+On this page, you will find the following information about the Death & Critical Illness Emergency Visit Lane (DCEV).
+
+<ol style="list-style-type:decimal;">
+	<li>Eligibility</li>
+	<li>Entry Application and Approval</li>
+	<li>Health Protocols</li>
+	<li>Additional Information</li>
+</ol>
+
+---
+
+### 1) Eligibility
+
+All travellers who cannot otherwise enter Singapore on an urgent basis via <a href="/arriving/overview" target="_blank">other SafeTravel Lanes</a> for purposes of attending to the death or critical medical condition of an immediate family member in Singapore.
+
+Only a <b>maximum of two travellers may be granted entry per case</b>.
+
+
+### 2) Entry Application and Approval
+
+Travellers should submit a request via this form. 
+
+Select “<i>Death and Critical Illness Emergency Visit Lane</i>” under S/N 2 (“<i>Enquiry Category</i>”) in the form, and submit the following:-
+
+<ol style="list-style-type:disc;">
+•	Death certificate or any other documents as proof of death of the immediate family member (for death cases) or Doctor’s letter to support critically ill cases (for critically ill cases);
+•	Official documents to prove familial connection;
+•	Passport biodata page of all travellers;
+•	Intended date or period of entry; and
+•	Any other supporting documents.
+</ol>
+
+
+Travellers will be informed of the entry period and other instructions via their assigned liaison officer once entry approval is granted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This Death &amp; Critical Illness Emergency Visit (DCEV) Lane caters to all foreign travellers who are seeking urgent entry into Singapore to attend to the death or critical medical condition of an immediate family member <b>in Singapore</b>. A maximum of two travellers may be granted entry per case. Singapore Citizens (SC) and Permanent Residents (PR) in a similar predicament can return to Singapore <b>without</b> the need to apply for an entry approval via this lane; click <a href="/sc-pr/overview">here</a> for more details.
 
 Summarised below is a quick overview of the key lane features and requirements. Travellers who are ineligible for travel via this lane may refer [here](/arriving/overview) for a list of available Safe Travel options. 
