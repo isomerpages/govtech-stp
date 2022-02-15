@@ -167,15 +167,12 @@ Click here to [Go Back To Top](#top).
 
 Travellers arriving from countries requiring a COVID-19 test must do so if they are three years old and above this calendar year. Individuals below the age of three this calendar year are, by default, exempted from this testing requirement. 
 
-#### 2. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
-Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.gov.sg/covid-19/faqs) to other members of the community if undetected. As part of border health control measures to detect cases early and minimise the public health risk of community transmission, COVID-19 testing is extended to inbound travellers aged 3 and above (in that calendar year). 
-
-#### 4. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
+#### 2. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from COVID-19 Polymerase Chain Reaction Tests (“PCR test”) ?
 
 In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
-#### 5. I did not receive my on-arrival COVID-19 PCR test results after 24 hours. What should I do?
+#### 3. I did not receive my on-arrival COVID-19 PCR test results after 24 hours. What should I do?
 
 Please email <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
 
