@@ -149,7 +149,7 @@ input:checked + label + .content {
 
 ### 2) Entry Application and Approval
 
-<p style="font-size:18px; line-height:1.5;">Entry approvals <b>are not required if the traveller:<ol style="margin-top:0px; margin-bottom:0px;">
+<p style="font-size:18px; line-height:1.5;">Entry approvals <b>are not required</b> if the traveller:<ol style="margin-top:0px; margin-bottom:0px;">
 	<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Is arriving <b>from 21 Feb 2022, 2359h</b> and holds a Singapore-issued long-term pass (including IPA), and can produce a valid long-term pass and proof of vaccination* during entry; OR</li>
 	<li style="line-height:1.5;font-size:18px;margin-top:10px;  list-style-type:lower-roman;">Is unvaccinated/partially vaccinated on medical grounds, and can produce medical proof to be an unsuitable vaccination candidate.</li>
 	</ol>
