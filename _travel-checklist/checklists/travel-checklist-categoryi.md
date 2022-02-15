@@ -111,6 +111,19 @@ label.box {
 	</ol>
 </p>
 	</div>
+	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Obtain Proof of Vaccination</b></i></div>	
+	
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:15px;line-height:1.35;">Travellers may be asked for proof of vaccination for various travel-related declarations, and pre-boarding as well as immigration checks. Depending on where you have received your vaccination, the following documents are considered acceptable vaccination proof:</p>
+	<p style="font-size:18px;margin-bottom:15px;line-height:1.35;">(Click “+” to expand for details)</p>
+</div>	
+	
+	
+	
+	
+	
+	
+	
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Application for Entry Visa (if applicable)</b></i></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a target="_blank" href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">Click here to check if a visa is required and to apply if needed</a>. </p></div>
