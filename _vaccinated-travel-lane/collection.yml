@@ -1,0 +1,4 @@
+collections:
+  vaccinated-travel-lane:
+    output: true
+    order: []
