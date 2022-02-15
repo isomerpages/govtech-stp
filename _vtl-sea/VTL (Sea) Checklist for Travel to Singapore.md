@@ -4,90 +4,411 @@ permalink: /vtl-sea/travel-checklist
 description: ""
 published: false
 ---
-### **Application for the Periodic Commuting Arrangement (“PCA”) Scheme**
+<div id="top"></div>
 
-<ol>
-  <li style="line-height:1.5;">Prior to submitting the entry application on behalf of the Malaysia employee (“<b>foreign employee</b>”), the Employer must obtain an acknowledgement from the foreign employee that he/she:
-  <ol style="list-style-type:lower-alpha;">
-    <li style="line-height:1.5;">has a work pass that is valid for at least 15 days from their expected date of entry into Singapore;</li>
-      <li style="line-height:1.5;">has read and understood the following additional work pass conditions applicable to him/her (in <b>Annex B</b>);</li>
-      <li style="line-height:1.5;">agrees to disclose, and gives consent for medical providers to disclose, his/her COVID-19 Polymerase Chain Reaction (“<b>PCR</b>”) and/or Antigen Rapid Test ("<b>ART</b>") test results to the employer and relevant government authorities in Singapore.</li>
-    </ol> 
-  </li>
-     <li style="line-height:1.5;">If the foreign employee is approved for the Periodic Commuting Arrangement (“PCA”) Scheme, additional work pass conditions in <b>Annexes A and B</b> will be imposed on:
-   <ol style="list-style-type:lower-alpha;">
-       <li style="line-height:1.5;">the Employer of the foreign employee; and</li>
-     <li style="line-height:1.5;">the foreign employee, by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign Manpower Act ("EFMA") (Cap. 91A).</li>
-       </ol>
-  </li>
-   <li style="line-height:1.5;">The Government of Singapore will not hesitate to take enforcement measures against Employers and foreign employees who do not comply with the additional work pass conditions, including commencing criminal proceedings, revoking work passes and withdrawing work pass privileges.</li>
-    <li style="line-height:1.5;">All terms used in the additional work pass conditions below shall have the same meaning as defined in the EFMA and its subsidiary legislation.</li>
-</ol>
+### Contents
 
-### **Annex A - For the Employer**
+#### [A. General Queries](#GenQueries)
+<ul>
+<li><a href="#Background">Background and Feedback</a></li>
+<li><a href="#SDF">Stay-Home Notice Dedicated Facilities</a></li>
+<li><a href="#Transport">Transport Matters</a></li>
+<li><a href="#Payment">Payment Matters</a></li>
+</ul>
 
-#### ADDITIONAL CONDITIONS FOR EMPLOYERS OF MALAYSIA WORK PASS HOLDERS APPROVED FOR PCA
+#### [B. FAQs for Employee(s)/Sponsored Traveller(s)](#EmployeeTravellers)
+<ul>
+<li><a href="#SCPR">Eligibility (Singapore Citizens & Singapore Permanent Residents)</a></li>
+<li><a href="#PassHolders">Eligibility (Work and other MOM and ICA-issued pass holders)</a></li>
+<li><a href="#PCRTraveller">COVID-19 tests</a></li>
+</ul>
 
-<ol>
-  <li style="line-height:1.5;">Pursuant to section 7(4A) of the Employment of Foreign Manpower Act (Cap. 91A), these additional conditions are imposed on an Employer of a Malaysia employee approved for Periodic Commuting Arrangement (“PCA”).</li>
-  </ol>
-  <p style="margin-top:10px; margin-bottom:10px; line-height:1.5;"><i>Before the foreign employee leaves for Singapore</i></p>
-  <ol>
-   <li style="line-height:1.5;">The Employer shall inform the foreign employee that he/she is required to serve a 7-day Stay-Home Notice period (“SHN period”) at declared SHN accommodation once he/she arrives in Singapore.</li>
-   <li style="line-height:1.5;">The Employer shall ensure that the foreign employee is able to fully comply with the additional work pass conditions imposed on him/her for the SHN period.</li>
-   <li style="line-height:1.5;">The Employer shall explain and ensure that the foreign employee understands the additional work pass conditions that he/she has to comply with, and the advisories that he/she has to observe.</li> 
-  <li style="line-height:1.5;">The Employer shall ensure that the foreign employee is in possession of a subscriber identification module (“SIM”) card with a Singapore telephone number to allow the foreign employee to be contactable by the Controller when in Singapore.</li>
-   <li style="line-height:1.5;">The Employer shall ensure that a suitable place of residence has been secured for the foreign employee to serve his SHN. It shall meet the prevailing SHN advisory and guidelines throughout the period of the SHN. The employer shall declare the SHN place of residence in the application to the Safe Travel Office (“STO”) to seek approval for the foreign employee to be placed on the PCA Scheme.</li>
-</ol>
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.5;"><i>After the foreign employee arrives in Singapore</i></p>
- <ol>
-<li style="line-height:1.5;">[For employees arriving before 7 Jan 2022, 2359h] The Employer shall ensure that the foreign employee undergoes an On-Arrival Testing (“OAT”) at the land checkpoints. Either the Employer or the foreign employee shall bear the cost of the OAT test. Please register and make payment for the COVID-19 PCR test taken on-arrival at the checkpoint at <a href="https://t.2c2p.com/express/parkwayshentonoat">https://t.2c2p.com/express/parkwayshentonoat</a>.</li>
-  <li style="line-height:1.5;">If the foreign employee does not drive/ride their personal vehicles into Singapore, the employer must arrange for transportation for the foreign employee to commute directly: 
-   <ol style="list-style-type:lower-alpha;">
-     <li style="line-height:1.5;">from Malaysia to Singapore’s immigration land checkpoints; and </li>
-     <li style="line-height:1.5;">from Singapore’s immigration land checkpoint to the foreign employee’s declared place of residence for the duration of the SHN. </li>
-    </ol>
-  </li>
-   <li style="line-height:1.5;">The Employer shall ensure that the foreign employee is transferred directly from Singapore’s immigration land checkpoint using private vehicle, taxi or private hire car to the foreign employee's SHN place of residence during the SHN period, immediately upon his/her arrival in Singapore. The Employer shall ensure that the foreign employee does not take public trains and buses to his/her declared place of residence for SHN.</li>
-   <li style="line-height:1.5;">The Employer shall ensure that the foreign employee complies with the SHN Period which will commence with immediate effect from the time it is issued to the foreign employee on arrival (day 1) and will be effective on that day until:
-   <ol style="list-style-type:lower-alpha;">
-     <li style="line-height:1.5;">At least 7 days subsequent thereafter; and </li>
-     <li style="line-height:1.5;">the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN will end immediately, if the results are received after the 7th day.  </li>
-    </ol>
-  </li>
-   <li style="line-height:1.5;">The Employer shall arrange a suitable place of residence for his foreign employee to stay during his SHN period.</li>
-   <li style="line-height:1.5;">The Employer/foreign employee shall bear the full costs of the foreign employee’s stay at a declared SHN accommodation during the SHN period; and shall bear the full costs of all COVID-19 tests of the foreign employee.</li>
-   <li style="line-height:1.5;">The Employer/foreign employee shall bear the full costs of the foreign employee’s COVID-19 treatment at unsubsidised rates, if the foreign employee left Singapore from 27 Mar 2020 in disregard of the prevailing travel advisories, and is admitted for suspected COVID-19 and develops symptoms within 14 days of returning to Singapore.</li>
-  <li style="line-height:1.5;">The Employer shall ensure that the foreign employee fully complies with the additional work pass conditions imposed on the foreign employee for the SHN period.</li>
-  <li style="line-height:1.5;">The Employer shall explain and ensure that the foreign employee understands the additional work pass conditions that the foreign employee has to comply with, and the advisories that he/she has to observe.</li>
-   <li style="line-height:1.5;">The Employer shall ensure that a physical copy of the additional work pass conditions is provided to and retained by the foreign employee.</li>
- <li style="line-height:1.5;">The Employer shall ensure that the foreign employee has a mobile phone with internet connectivity (e.g. via WIFI or sufficient mobile data) with him/her at all times during the SHN period; and shall ensure that the foreign employee downloads WhatsApp on his mobile phone and responds within 1 hour when contacted by MOM via phone call, WhatsApp or Short Message Service (SMS).</li> 
-   <li style="line-height:1.5;">The Employer shall ensure that the foreign employee downloads the FWMOMCARE mobile app on his mobile phone, once the foreign employee has received SMS sent by the Government within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to <a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank">user guide</a>). The foreign employee must have a thermometer to take and report his temperature.</li>
-   <li style="line-height:1.5;">The Employer shall ensure that food and other daily essentials are provided to the foreign employee for the SHN period, if his foreign employee is unable to make his/her own arrangements.</li>
- <li style="line-height:1.5;">The Employer shall ensure that the foreign employee undergoes the required COVID-19 test(s) as scheduled. The Employer will be notified of the time/ date/ location of the employee’s scheduled appointment via an email/SMS notification.</li>
- <li style="line-height:1.5;">The Employer shall arrange to send the foreign employee from his/her SHN place of residence to the designated COVID-19 testing facility for the scheduled appointment, and return immediately after the test, using private vehicle, or taxi/private hire car booked via dedicated hotlines or ride-hail applications. Public transport or flagging down of taxi must be avoided. When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a Stay-Home Notice (SHN). Travellers that opt to arrange for transport using a mobile application may key “SHN” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off. Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat Failure to go for the test as scheduled may result in an extension of the SHN period. The foreign employee’s work pass may also be revoked.</li>
- <li style="line-height:1.5;">The Employer shall ensure that they make the necessary arrangements for their employees' non-emergency medical needs (such as arrange a visit to a Public Health Preparedness Clinic (PHPC) or General Practitioner (GP) clinic nearest to the foreign employee's SHN place of residence, re-schedule follow-up visits for chronic conditions, refilling of prescription, etc).</li>
-</ol>
+#### [C. FAQs for Employer/Application Sponsor](#EmployerSponsors)
+<ul>
+<li><a href="#GenIssues">General Issues</a></li>
+<li><a href="#Eligibility">Eligibility</a></li>
+<li><a href="#AppMatters">Application Matters</a></li>
+<li><a href="#PCREmployer">COVID-19 tests</a></li>
+</ul>
 
-### **Annex B - For the Foreign Employee on Stay-Home Notice**
+<div id="GenQueries"></div>
 
-#### ADDITIONAL CONDITIONS FOR MALAYSIA WORK PASS HOLDERS APPROVED FOR PCA
+### **A) General Queries**
 
-<ol>
-	<li style="line-height:1.5;">Pursuant to section 7(4A) of the Employment of Foreign Manpower Act (Cap. 91A), these additional conditions are imposed on a Malaysia employee approved for Periodic Commuting Arrangement (“PCA”), after the foreign employee arrives in Singapore</li>
-<li style="line-height:1.5;">The foreign employee shall undergo an On-Arrival Testing (“OAT”) at the land checkpoints. Either the Employer or the foreign employee shall bear the cost of the OAT test. Please register and make payment for the COVID-19 PCR test taken on-arrival at the checkpoint at <a href="https://t.2c2p.com/express/parkwayshentonoat">https://t.2c2p.com/express/parkwayshentonoat</a></li>
-   <li style="line-height:1.5;">The foreign employee shall comply with the Stay-Home Notice period (“SHN period”) which will commence with immediate effect from the time it is issued to the foreign employee on arrival (day1) and will be effective on that day until:
-     <ol style="list-style-type:lower-alpha;">
-      <li style="line-height:1.5;">at least 7 days subsequent thereafter; and</li>
-        <li style="line-height:1.5;">the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN period will end immediately, if the results are received after the 7th day.</li>
-     </ol>
-  </li>
-   <li style="line-height:1.5;">The foreign employee shall proceed from the Singapore immigration land checkpoint directly to his/her declared SHN accommodation to serve his/her SHN.</li>
-   <li style="line-height:1.5;">The foreign employee shall not leave the SHN place of residence during the SHN period unless permitted to do so by the Controller.</li>
-   <li style="line-height:1.5;">The foreign employee shall ensure that he/she has a mobile phone with internet connectivity (e.g. via WIFI or sufficient mobile date) with him/her at all times during the SHN period. He/she shall download WhatsApp on his mobile phone and shall respond within 1 hour when contacted by MOM via phone calls, WhatsApp video calls or Short Message Service (SMS).</li> 
-   <li style="line-height:1.5;">The foreign employee shall download the FWMOMCARE mobile app on his mobile phone, once he has received MOM’s SMS sent within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to <a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank">user guide</a>). The foreign employee must have a thermometer to take and report his temperature.</li>
-   <li style="line-height:1.5;">The foreign employee shall not have visitors at his/her SHN place of residence, and he/she shall minimise contact with others during the SHN period.</li>
-   <li style="line-height:1.5;">The foreign employee shall maintain a record of persons he/she comes into close contact with, during the SHN period.</li>
-   <li style="line-height:1.5;">The foreign employee shall act responsibly in line with any advisories (as amended from time to time) issued by the Government of Singapore during the SHN period.</li>
-   <li style="line-height:1.5;">The foreign employee shall undergo COVID-19 test(s) as required by the Government of Singapore. The date, time and venue of the COVID-19 test will be made known to the employer at least one day prior to the foreign employee’s COVID-19 test. The foreign employee shall travel from his/her SHN place of residence to the designated testing facility on the scheduled date and arrive punctually, and return to the SHN place of residence immediately after the test, using private vehicle, taxi or private hire car booked via dedicated hotlines or ride-hail applications. Public transport or flagging down of taxi must be avoided. When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a Stay-Home Notice (SHN). Travellers that opt to arrange for transport using a mobile application may key “SHN” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off. Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat. Failure to take the test as scheduled may result in an extension of the SHN period. The foreign employee’s work pass may also be revoked.</li>
-  </ol>
+<div id="Background"></div>
+
+### **Background and Feedback**
+
+#### 1. What is the Periodic Commuting Arrangement?
+
+The Periodic Commuting Arrangement (PCA) is a travel scheme negotiated between Singapore and Malaysia that requires travellers to stay in the destination country of work or business, i.e. Singapore or Malaysia, for a minimum 90-day period. Following the 90-day stay, sponsored travellers can return to their home country for short-term home leave via the Causeway or Second Link.
+
+Entry into Singapore under the Singapore-issued PCA is open only to the following groups of travellers:
+
+(i)	Malaysia Citizens and Malaysia Permanent Residents holding a valid Singapore-issued work pass; or
+(ii)	Malaysia Citizens who are Singapore Permanent Residents.
+
+#### 2. Is there a quota imposed on the number of travellers? Is there a way for me to check if there is available quota for the day of my employee’s planned travel to Singapore?
+
+Yes, the quota serves as a public health safeguard that also ensures smooth checkpoint operations. Sponsors will be alerted during the application process if the quota for a specific day has been fully utilised.
+
+#### 3. My PCA application has been submitted. How do I check my PCA application status?
+
+You can check your PCA application status <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry">here</a>.
+
+#### 4. Who should I contact for feedback or queries?
+
+You may call us at **6812 5555** or submit your query via the webform at <a href="https://go.gov.sg/sto-enquiry">https://go.gov.sg/sto-enquiry</a>. We will endeavour to reply to you within 3-5 working days.
+
+##### Click here to go to the [top](#top).
+
+<div id="SDF"></div>
+
+### **Stay-Home Notice**
+
+#### 1. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
+
+Travellers are allowed to serve SHN at a self-sourced accommodation. This includes one’s place of residence or a suitable hotel. A place of residence is deemed suitable for SHN if travellers have a room to themselves, and a dedicated toilet. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
+
+Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this <a href="https://sha.org.sg/stay-home-notice">list</a>. Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
+
+#### 2. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
+
+The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final COVID-19 test at the end of SHN. The duration of the SHN will be stated on your SHN document, and you can also <a href="/shn-calculator">click here</a> to calculate the end date of your SHN.
+
+Travellers who are serving SHN at their own place of residence may end their SHN once they receive an SMS with their test result.
+
+Travellers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.
+
+<!--#### 3. What is a SHN Electronic Monitoring Device?
+
+An <a href="/health/shn#device">Electronic Monitoring Device</a> (“device”) will be issued to travellers above 12 and are serving their Stay-Home Notice (SHN) outside an SHN-Dedicated Facility (SDF). It is used solely to detect travellers who have illegally left their SHN accommodation before the completion of SHN.
+
+Your personal privacy is protected while using these devices. The device does not have any audio or video recording capabilities. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.-->
+
+
+##### Click here to go to the [top](#top).
+
+<div id="Transport"></div>
+
+### **Transport Matters**
+
+#### 1. [For Travellers with Category (II) travel history or fully vacccinated travellers with Category (III) travel history approved to opt-out of SHN dedicated facilities] I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
+
+All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
+
+<b><u>(i) If you are using your own transport</u></b>
+
+Travellers may be picked up from the checkpoint by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller, and the traveller must be ferried directly to their declared place of accommodation.
+
+If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.
+
+All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
+
+- Vehicle windows must be wound down with air conditioning turned off.
+-	Where practicable, the front passenger seat should be left unoccupied;
+-	The back seat should only be occupied by the traveller(s)
+-	The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19" target="_blank">National Environmental Agency (NEA) guidelines</a> for more information.
+
+<b><u>(ii) Booking taxi/private-hire vehicles</u></b>
+
+When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="/health/shn" target="_blank">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key <i>“SHN”</i> in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
+
+Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
+
+
+##### Click here to go to the [top](#top).
+
+<div id="Payment"></div>
+ 
+### **Payment Matters**
+
+#### 1. My employee is unable to enter Singapore on the date indicated in the application. Can I amend the application and seek a refund for the COVID-19 PCR test?
+
+Employers are strongly encouraged to ensure that their employees can enter Singapore on the date indicated in the application. This is because the pre-payment made for the COVID-19 Polymerase Chain Reaction test (“PCR test”) during application is <u>non-refundable</u>. Forfeited pre-payments will go towards covering the relevant cost incurred to secure and prepare an appointment for a traveller.
+
+Requests for refunds or change in entry date will only be considered if there are unforeseen extenuating factors, e.g. compassionate reasons. For such cases, employers may write to <a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg</a> with the relevant supporting documents.
+
+#### 2. My employee was diagnosed with COVID-19 upon entry into Singapore. Who is responsible for his/her COVID-19 medical treatment?
+
+The cost of the relevant COVID-19 medical treatment will be borne by the Singapore Government if the traveller was diagnosed with COVID-19 14 days <u>after</u> his/her entry into the country.
+
+The cost arrangement for travellers diagnosed with COVID-19 within the first 14 days of his/her entry into Singapore is as follows:
+
+<table>
+<tr>
+<th style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Employee Type</th>
+<th style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Cost Arrangement</th>
+</tr>
+<tr>
+<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Long-Term Work Pass Holders</td>
+<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Employer/employee will bear the costs of the medical treatment, subject to <a href="https://mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits">MOM’s requirements</a>. Employees may tap on prevailing financing arrangements to fund the costs of their medical treatment.</td>
+</tr>
+<tr>
+<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Permanent Residents entering Singapore via the PCA scheme</td>
+<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employee to tap on regular healthcare financing arrangements for their medical bills – Singapore PRs may access Government subsidies and MediShield Life / Integrated Shield Plan (MSHL/IP) to help pay for their bills.</td>
+</tr>
+</table>
+
+#### 3. I am an approved PCA traveller holding the Malaysia-issued MyTravelPass. I am back in Singapore for my short-term home leave and was diagnosed with COVID-19. Who will pay for my medical treatment?
+
+SCs/SPRs holding the Malaysia-issued MyTravelPass may access Government subsidies and MediShield Life / Integrated Shield Plan (MSHL/IP) to help pay for their bills.
+
+##### Click here to go to the [top](#top).
+
+<div id="EmployeeTravellers"></div>
+
+### **B) For Employees/Sponsored Travellers**
+
+<div id="SCPR"></div>
+
+### **Eligibility (Singapore Citizens and Singapore Permanent Residents)**
+
+#### 1. I am a Singapore Citizen presently living/working in Malaysia. Do I need to apply for a PCA pass to return to Singapore?
+
+Singapore citizens <b>do not</b> need any entry approval, including a PCA pass to return to Singapore. Returning Singapore citizens should refer to this <a href="/sc-pr/overview">page</a> for more information on the general return process and latest health control requirements that they will be subject to.
+
+#### 2. I am a Malaysian citizen and a Singapore Permanent Resident (PR) who is presently in Malaysia. Do I need to apply for a PCA pass to enter Singapore?
+
+Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
+- A COVID-19 Antigen Rapid Test ("ART Test") or Polymerase Chain Reaction Test (“PCR Test”) taken within 2 days before departure<b> at a <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>;
+- [For travellers arriving before 7 Jan 2022, 2359h]An on-arrival PCR test at the checkpoint;
+- Serving 7-day Stay-Home Notice (SHN) at a declared SHN accommodation; and
+- An exit PCR test
+
+Click <a href="/sc-pr/overview">here</a> for more information on the prevailing measures for Singapore Citizens and PRs.
+
+Singapore PRs whose employer in Singapore is willing to facilitate their home leave in Malaysia may return to Singapore under the PCA. 
+
+#### 3. I am a Singapore-based Singapore Citizen/Singapore Permanent Resident holding a Malaysia Work Pass. Am I eligible for a PCA pass to return to Malaysia for business/work?
+
+Yes, you are eligible to work in Malaysia under the PCA scheme. However, you are required to apply for entry approval, i.e. MyTravelPass, with the Malaysian authorities. You can reach out to the <a href="https://www.kln.gov.my/" target="_blank">Malaysian Ministry of Foreign Affairs</a>, <a href="https://www.imi.gov.my/" target="_blank">Malaysian Immigration Department</a> or the <a href="https://www.kln.gov.my/web/sgp_singapore" target="_blank">Malaysian High Commission in Singapore</a> for advice.
+
+#### 4. I am a Malaysian citizen and a Singapore PR. I am currently working in Singapore but I wish to return to Malaysia. Do I need to apply for a PCA pass to do so?
+
+For further clarification on entry to Malaysia, you may wish to reach out to the <a href="https://www.kln.gov.my" target="_blank">Malaysian Ministry of Foreign Affairs</a>, the <a href="https://www.imi.gov.my" target="_blank">Malaysian Immigration Department</a> or the <a href="https://www.kln.gov.my/web/sgp_singapore" target="_blank">Malaysian High Commission in Singapore</a> for further advice regarding entry to Malaysia.
+
+##### Click here to go to the [top](#top).
+
+<div id="PassHolders"></div>
+
+### **Eligibility (Work and other MOM and ICA-issued Pass Holders)**
+ 
+#### 5. I am a confinement nanny. Do I apply for a PCA pass to enter Singapore?
+
+No. Confinement nannies can only enter Singapore using a MOM-issued Letter of Entry Approval. Employers will need to apply for entry approval via MOM on behalf of the confinement nannies. Click <a href="/wphl/overview">here</a> for more information.
+
+#### 6. I do not have a FIN number as am an In-Principle Approval (IPA) pass holder. How do I apply for a PCA to fulfil my employment obligation in Singapore?
+
+Entries into Singapore under the PCA must be sponsored by a Singapore-based company. The PCA scheme is not open to IPA holders, and they may be sponsored for an Entry Approval under the <a href="/wphl/overview">Work Pass Holder General Lane</a> instead.
+
+##### Click here to go to the [top](#top).
+
+<div id="PCRTraveller"></div>
+
+### **COVID-19 Tests**
+
+#### 1. What should I do if I feel unwell on or before the date of my end-of-SHN COVID-19 test appointment?
+
+Travellers who are unwell should inform the relevant agencies immediately and should also not leave their accommodation for the COVID-19 test. Click [here](https://go.gov.sg/tc) for more details.
+
+#### 2. Can I defer or change the appointment date/time of my end-of-SHN COVID-19 test?
+
+No. All travellers must turn up for their COVID-19 test at the assigned date, time and site as this is crucial to mitigating the formation of crowds.
+
+#### 3. What should I do if I have a medical condition, e.g. frequent nose bleeds, operations on face or nose area, tumours or cancers of the nose or throat area, that prevents me from providing a nasal swab sample for the COVID-19 test?
+
+Travellers who are unable to take the test due to a medical condition should write in to [COVID_SafeTravelAppeals@mti.gov.sg](mailto:COVID_SafeTravelAppeals@mti.gov.sg) <b>at least</b> 7 working days before entry into Singapore. The employee or application sponsor should indicate in the email, the medical condition and provide the following details:
+<ul>
+<li>Name;</li>
+<li>FIN No. (for work pass holder) or NRIC (for Singapore PR);</li>
+<li>Date of Birth;</li>
+<li>PCA approval letter; and</li>
+<li>Employee and employer’s local contact number.</li>
+</ul>
+	
+#### 4. I do not have my physical work pass. What should use as proof of my identity when I turn up for my end-of-SHN COVID-19 test?
+
+Travellers can bring the [digital copy](https://www.mom.gov.sg/eservices/sgworkpass) of their Singapore-issued work pass and passport for identity verification.
+
+Travellers who have misplaced their work pass should lodge a police report immediately. For identity verification purposes, this group of travellers should bring along their passport and police report (showing the FIN number).
+
+#### 5. How much does it cost to take the end-of-SHN COVID-19 test? To whom and how should the payment be made?
+
+The latest cost of the test is S$125. Payment would already be collected at the point of application. 
+
+#### 6. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
+
+Travellers who are unwell or recently diagnosed with COVID-19 should defer their travels. 
+
+Those diagnosed with COVID-19 should only schedule their trip to Singapore 14 days after the first diagnosis, <u>and</u> after they have fully recovered from COVID-19.
+
+#### 7. I was recently diagnosed with or recovered from COVID-19. Am I exempted from the requirement to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) or Antigen Rapid Test ("ART") within 2 days before departure for Singapore?
+
+As a <a href="/malaysia/pca/terms-and-conditions" target="_blank">condition</a> for entry into Singapore, <u>all</u> travellers arriving from Malaysia under the PCA scheme <u>must</u> take a COVID-19 PCR  or ART test within 2 days before departure for Singapore. The test must be taken at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>. As proof that the required PCR or ART test has been taken, travellers should ask for a copy of the COVID-19 PCR or ART test report that:
+
+-	Is in English (or accompanied with an English translation); and
+-	Contains the (i) Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and (ii) Date of the test.
+ 
+Travellers will be turned away at Singapore's checkpoint if:
+<ol style="list-style-type: lower-latin;">
+	<li>diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or</li>
+	<li>tested positive on the pre-departure COVID-19 PCR or ART test.</li>
+</ol> 
+
+#### 8. I have recovered from COVID-19 and was also tested negative for COVID-19 after taking the COVID-19 Polymerase Chain Reaction test (“PCR test”). Am I exempted from having to take another COVID-19 PCR test in Singapore?
+
+In general, as a [condition](/malaysia/pca/terms-and-conditions) for entry into Singapore, all PCA travellers must adhere to the health control measures imposed on the group. This includes the taking of a COVID-19 test at the end of their [Stay Home Notice (SHN)](/health/shn). 
+
+#### 9. How much does it cost to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) on arrival? To whom and how should the payment be made?
+
+<i><b>NOTE:</b> An on-arrival PCR test is only required for travellers arriving before 7 Jan 2022, 2359h. Travellers arriving from 7 Jan 2022, 2359h who have already paid for their on-arrival test can seek a refund by contactingsea.checkpoints.refunds@parkwaypantai.com </i>
+
+Each COVID-19 PCR test administered at the checkpoint costs S$160. To minimise processing time at the checkpoints, travellers are advised to <a href="https://t.2c2p.com/express/parkwayshentonoat">register and pay for the COVID-19 PCR before arrival</a>.
+
+For the exit from <a href="/health/shn">Stay Home Notice (SHN)</a> COVID-19 PCR test, payment would already be collected at the point of application.
+
+
+##### Click here to go to the [top](#top).
+
+
+<div id="EmployerSponsors"></div>
+
+### **C) For Employers/Application Sponsors**
+
+<div id="GenIssues"></div>
+
+### **General Issues**
+
+#### 1. My employee has been approved for a PCA Pass but he is unable to travel to Singapore. Can I transfer his/her PCA approval to another employee?
+
+No. An approval is given to a specific employee and it cannot be transferred; a separate application must be submitted for a new traveller.
+
+#### 2. How long is my employee permitted to stay in Singapore under the PCA scheme? Am I required to extend the PCA period for my employee?
+PCA approved travellers are permitted to remain in Singapore for as long as their long-term work pass or Singapore PR status is still valid.
+
+Employers are only required to submit a fresh PCA application if an employee had left Singapore. Fresh PCA applications (for re-entry into Singapore), however, can only be submitted <u>90 days after</u> the employee’s entry into Singapore under the previous PCA approval.
+
+#### 3. My employee is approved to travel to Singapore under the PCA scheme; however, he/she is only able to travel to Singapore by air. Can he/she still travel to Singapore? Or do I need to submit another application?
+
+Travellers approved to visit Singapore under the PCA are only permitted to enter the country via the two land crossings, i.e. Second Link and Woodlands Causeway. Travellers entering Singapore from Malaysia via other means, e.g. air, should seek for an entry approval from [MOM](http://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore).
+
+#### 4. Are there any materials I can disseminate to my employees to prepare them for their SHN and COVID-19 test in Singapore?
+
+For more information on the prevailing health control measures, including SHN and COVID-19 tests, you may go to [this page](/health). You may also wish to share with your employees the [additional work pass conditions](/malaysia/pca/terms-and-conditions) imposed on them as a condition for entry into Singapore via the PCA.
+
+##### Click here to go to the [top](#top).
+
+<div id="Eligibility"></div>
+
+### **Eligibility**
+
+#### 1. Can I sponsor a PCA application for an employee who is given in-principle approval (IPA) or Letter of Consent (LOC) to work in Singapore?
+ 
+No. An application for Entry Approval must be submitted under the [Work Pass Holder General Lane](/wphl/overview) for all IPA and LOC holders.
+
+For employees who are concurrently an LOC and ICA-issued Long-Term Visit Pass holder, an application Entry Approval must be submitted under the [Singapore Citizen/Permanent Resident Familial Ties Lane](/scpr-familial-ties-lane/overview).
+
+#### 2. I run a domestic helper agency. Can I apply for a PCA for the domestic helpers on behalf of my clients?
+
+No. Domestic helpers are only permitted to enter Singapore via the [Work Pass Holder General Lane (Helper/CN)](/wphl/overview).
+
+#### 3. I must send an employee to Malaysia for work/business purposes. Do I apply for a PCA pass using the SafeTravel application portal?
+
+No. While the SafeTravel application portal is open to Singapore-based companies, it does not process entry applications for the Malaysian authorities.
+
+Employers who plan on sending their employees to Malaysia for work/business purposes under the PCA scheme should check with the relevant Malaysian authorities, e.g. [Malaysian Immigration Department](https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/), for more information.
+
+#### 4. Can my employee travel to Singapore under the PCA scheme for study, short-term work, or leisure purposes?
+
+No. Employers can only sponsor a PCA application for employees that agree to remain in their country of employment, i.e. Singapore, for at least 90 days; <u>and</u> are:
+
+i)	Holders of a valid MOM-issued long-term pass, e.g. employment pass, EntrePass, personalised employment pass, S pass, Work Permit, Training Employment Pass, Training work Permit and Work holiday pass; or 
+
+ii)	Malaysian citizens who are a Singapore Permanent Residents employed in Singapore
+
+Employees who fail to satisfy conditions (i) or (ii) above, e.g. Long-Term Visit Pass (LTVP), Student’s Pass (STP), In-Principle Approval (IPA) for LTP holders, can consider seeking entry via other [SafeTravel lanes](/arriving/overview).
+
+#### 5. My employee, who has been approved to enter Singapore under the PCA scheme, wishes to bring his/her family to Singapore. Can I sponsor a PCA application for the family member(s) of the said employee? They (family members) presently hold a Dependant’s Pass/Long-Term Visit Pass.
+
+No. The PCA scheme facilitates travel <u>strictly</u> for a work or business purpose.
+
+Approved PCA travellers whose non-Singapore Citizen/Singapore Permanent Resident family members are keen to enter Singapore must apply for Entry Approval under the following schemes (below):
+
+<table>
+<tr>
+<th style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Prospective travellers who are:</th>
+<th style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Agency</th>
+</tr>
+<tr>
+<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Holders of the Ministry of Manpower issued:
+<ul>
+<li style="font-size:16px;">Dependents Pass</li>
+<li style="font-size:16px;">Long-Term Visit Pass</li>
+</ul>
+</td>
+<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
+</tr>
+<tr>
+<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Foreigners with familial ties to a Singapore Citizen/ Singapore Permanent Resident</td>
+<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/overview">Singapore Citizen/Permanent Resident Familial Ties Lane</a></td>
+</tr>
+</table>
+
+##### Click here to go to the [top](#top).
+
+<div id="AppMatters"></div>
+
+### **Application Matters**
+
+#### 1. When should I submit a PCA application and what do I need to prepare for the application?
+
+The steps and general timelines to go about submitting a PCA application are available [here](/pca/requirements-and-process).
+
+Once an application is approved, an email will be sent to the contact person listed in the application. Application sponsors (i.e. the company) can also enquire about the status of the application [here](https://eservices.ica.gov.sg/STO/safeTravel/enquiry).
+
+#### 2. My employee has returned to Malaysia for home leave. Do I need to submit a new application to facilitate his/her return to Singapore?
+
+If the employee had returned to Malaysia <u>with</u> a valid Singapore-issued PCA approval for a <b>future</b> entry date to return to Singapore, the employer <b>does not need to make a new application</b>. 
+
+<b>If the employee had returned to Malaysia <u>without</u> a valid Singapore-issued PCA approval for a future entry date, the employer needs to make a fresh PCA application</b> on behalf of the employee.
+ 
+#### 3. I am unable to submit a fresh PCA application for an employee who was previously approved under the scheme to travel to Singapore. Why is that so?
+ 
+Fresh PCA applications can only be submitted for an entry date <u>90 days after</u> the employee’s previous entry into Singapore.
+
+#### 4. Can I edit the details of my Employee/Sponsor details after my application has been approved?
+
+Yes. From 1 March 2021, employers can update Sponsor's details and employee's passport details through the PCA application website via <https://eservices.ica.gov.sg/STO/> at least 3 days before the approved date of entry. Employers will have to log in with their Corppass. Once the changes have been made, a new PCA confirmation letter will be sent to the Sponsor's email.
+ 
+#### 5. What do I do if my employee needs to return to Malaysia before the 3-month (i.e. 90 days) stay is up?
+
+The employee is permitted to leave Singapore. However, employers should note that they will only be able to apply for another PCA for the employee’s re-entry into Singapore, 90 days after their previous entry into Singapore.
+
+##### Click here to go to the [top](#top).
+
+<div id="PCREmployer"></div>
+
+### **End-of-SHN COVID-19 Test**
+
+#### 1. Do I need to arrange for the end-of-SHN COVID-19 test for my employees? If not, how do I inform my employees of the date and time of their PCR test appointment?
+
+Employers do not have to arrange for the COVID-19 test for their employees as these are automatically scheduled by the relevant authorities. Travellers will be scheduled for a PCR test before they exit their SHN.
+
+While employers do not need to arrange for the tests, they are obligated to inform their employees of the details of their PCR test appointment, e.g. test date and time and location. These details will be sent to the employer as an SMS or email. In general, travellers will be required to take the PCR test toward the end of their [Stay Home Notice](/health/shn).
+
+Employers or employees that do not have the details of the COVID-19 test appointment date, time and designated test site <u>by the 5th day </u> of the SHN period should write in using [SafeTravel Enquiry Form](https://go.gov.sg/sto-enquiry). Please include the employee’s name and FIN (for work pass holder) or NRIC (for Singapore PR), and employer’s mobile number for our follow up.
+
+#### 2. My employee did not turn up for his/her end-of-SHN COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
+
+All PCA travellers <b>must</b> adhere to their appointment timing for their COVID-19 test. Should an employee miss their first test appointment, a second test appointment will be scheduled; these details would be sent to the employer/employee. Employers should ensure that their employees turn up for their test appointment. Travellers who refuse to or continue to miss their COVID-19 PCR tests may be charged under the Infectious Diseases Act and have their work passes revoked.
+
+Travellers should not turn up for their COVID-19 PCR test <u>if</u> they are unwell while serving their [Stay-Home Notice (SHN)](/health/shn). Such travellers should alert the relevant agencies immediately and remain in their accommodation. [Click here](https://go.gov.sg/tc) for the list of contact points on SHN and PCR test related issues. 
+
+#### 3. How will I and/or my employee be informed of his/her COVID-19 test result?
+
+COVID-19 test results will be sent to employers within 2 days of the test. Should there be a need for a second test, employers will be informed. Employers should remind their employees to remain in their accommodation until after being tested negative for COVID-19.
+
+Employers that do not receive a notification of the test result, 2 days from when the test was taken, should either call us at 6812 5555 or submit a webform via <https://go.gov.sg/sto-enquiry>  and provide the employee’s name and FIN (for work pass holders) or NRIC number (for Singapore PRs), as well as the employer’s contact details.
+
+##### Click here to go to the [top](#top).
