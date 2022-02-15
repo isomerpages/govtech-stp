@@ -304,7 +304,7 @@ label.box {
 <p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers fully vaccinated overseas who wish to maintain their vaccinated status beyond the temporary status granted for 30 days on arrival, must register their overseas vaccination records into Singapore’s National Immunisation Registry (NIR) within 30 days of arrival. Registration can be facilitated by a local private healthcare provider or <a href="https://flu.gowhere.gov.sg/" target="_blank">Public Health Preparedness Clinic</a>. In addition to checking if the healthcare provider of choice offers such services, travellers should also have the following documents:
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Personal identification documents</li>
-		li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid vaccination certificate (per Stage 1B).
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid vaccination certificate (per Stage 1B).
 </li>
 	</ol>
 	</p>
