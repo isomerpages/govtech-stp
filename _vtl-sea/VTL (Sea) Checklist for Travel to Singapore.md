@@ -24,25 +24,53 @@ Only a <b>maximum of two travellers may be granted entry per case</b>.
 
 ### 2) Entry Application and Approval
 
-Travellers should submit a request via this form. 
+Travellers should submit a request via this <a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">form</a>. 
 
 Select “<i>Death and Critical Illness Emergency Visit Lane</i>” under S/N 2 (“<i>Enquiry Category</i>”) in the form, and submit the following:-
 
 <ol style="list-style-type:disc;">
-•	Death certificate or any other documents as proof of death of the immediate family member (for death cases) or Doctor’s letter to support critically ill cases (for critically ill cases);
-•	Official documents to prove familial connection;
-•	Passport biodata page of all travellers;
-•	Intended date or period of entry; and
-•	Any other supporting documents.
+	<li>Death certificate or any other documents as proof of death of the immediate family member (for death cases) or Doctor’s letter to support critically ill cases (for critically ill cases);</li>
+	<li>Official documents to prove familial connection;</li>
+	<li>Passport biodata page of all travellers;</li>
+	<li>Intended date or period of entry; and</li>
+	<li>Any other supporting documents.</li>
 </ol>
 
 
 Travellers will be informed of the entry period and other instructions via their assigned liaison officer once entry approval is granted.
 
+### 3) Health and Administrative Protocols
 
+Travellers under DCEV will be subject to the prevailing <a href="/shn-and-swab-summary" target="_blank">travel categories</a> depending on their travel history to various countries/regions before arriving in Singapore. 
 
+Travellers can refer to the checklists below to have a sense of what baseline entry requirements are needed. However, DCEV travellers should note the following differences from the usual checklists, and they can get details from their liaison officers as necessary: 
 
+<ol style="list-style-type:disc;">
+<li>Negative tests for COVID-19 will be required before leaving SHN location for visitations</li>
+	<li><b>Travellers who are serving SHN at SDFs</b> are to make transport arrangements at their own cost from Strides Transportation Pte Ltd.</li>
+	<li><b>Travellers who are serving SHN at other SHN locations</b> (i.e. self-sourced accommodation, place of residence) may self-drive using their own private vehicles or be driven by the same family member who picked them up from the airport. These travellers may also book private hire vehicles.</li> 
+<li>Travellers who wish to leave Singapore before the end of the SHN period due to exceptional circumstances, should please submit a request via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>, with the category “<i>Stay Home Notice Accommodation</i>” and sub-category “<i>Appeal to leave SHN for Exceptional Reasons</i>”. An exit COVID-19 Polymerase Chain Reaction test will be required.</li>
+</ol>
 
+##### Travel checklists for travellers arriving from 21 Feb 2359h SGT:
+
+<ol style="list-style-type:disc;">
+<li>Category (I) travel history checklist</li> 
+<li>Category (II/III) travel history checklist</li>  
+</ol>
+
+##### Travel checklists for travellers arriving before 21 Feb 2359h SGT:
+
+<ol style="list-style-type:disc;">
+<li>Category (I) travel history checklist</li>
+<li>Category (II) travel history checklist</li>
+<li>Category (III) travel history checklist</li> 
+<li>Category (IV) travel history checklist</li>
+</ol>
+
+Fully vaccinated travellers who can produce credible proof of having recovered from COVID-19 in the past 7 – 90 days before departure from Singapore, should refer to the <a href="/vaccinated-recovered" target="_blank">Recovered-Vaccinated Travel Protocol</a> instead.
+
+---
 
 
 
