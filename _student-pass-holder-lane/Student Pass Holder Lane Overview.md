@@ -134,7 +134,7 @@ input:checked + label + .content {
 <label class="test2" for="title7">Mandatory Vaccination Requirement </label>
 
 <div id="ltph" class="content" style="background-color:#edf4fa;">
-	<p style="line-height:1.5; font-size:18px; ">All eligible travellers must be fully vaccinated and have proof of vaccination; details of mandatory vaccination requirements available here. Conditional exceptions, however, are applicable to eligible travellers who are:
+	<p style="line-height:1.5; font-size:18px; ">All eligible travellers must be <a href="/health/vtsg" target="_blank">fully vaccinated</a> and have proof of vaccination; details of mandatory vaccination requirements available <a href="/stpl/vaccination-requirements" target="_blank">here</a>. Conditional exceptions, however, are applicable to eligible travellers who are:
 	<ol style="margin-top:0px; margin-bottom:0px;">
 		<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Below the age of 12 at the point of entry;</li>
 		<li style="line-height:1.5;font-size:18px; margin-top:10px; list-style-type:lower-roman;">Aged 12 to under 18 (by date of birth) at the point of entry and are unvaccinated/partially vaccinated, but will complete the full vaccination regimen within two months of arrival;</li>
