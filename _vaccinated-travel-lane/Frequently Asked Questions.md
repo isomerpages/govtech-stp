@@ -60,7 +60,7 @@ published: false
 
 <div id="VTLReq"></div>
 
-### Vaccinated Travel Lane (Air) [VTL (Air)] Requirements
+### Vaccinated Travel Lane (VTL) Requirements
 ### (a) Vaccination Requirement
 ### (i) Eligibility and Proof of Vaccination
 
