@@ -148,8 +148,8 @@ label.box {
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers are advised to defer travel if they have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">If you have recently recovered from COVID-19 within the last 90 days before departure:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: disc;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Entry approval requirements (Stage 1A, 1B) still apply.</li>
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-checker tool</a> to determine if you are eligible for the <a target="_blank" href="/vaccinated-recovered">Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the Vaccinated-Recovered Traveller Protocol instead</a> for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Entry approval requirements (Stage 1A, 1B) still apply.</li>
 </ol>
 <p style="font-size:18px;line-height:1.35;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
@@ -292,7 +292,7 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Travellers <b>must take a supervised self-administered Antigen Rapid Test (ART) within 24 hours of arrival in Singapore at a Quick Test Centre (QTC)</b>. Booking links for the test will be sent via SMS and found in the testing notice issued to travellers upon arrival. Payments for the test (S$15/per test) will be collected separately at the QTC.</p>
 
-<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Upon the completion of the ART, travellers will receive their test result via SMS. Travellers who have yet to take their supervised self-administered ART must be in self-isolation until tested negative. Individuals who test positive for COVID-19 must adhere to the prevailing recovery protocols, including medical treatment as necessary. The prevailing treatment charges will apply.	</p>
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Upon the completion of the ART, travellers will receive their test result via SMS. Travellers who have yet to take their supervised self-administered ART must be in self-isolation until tested negative. Individuals who test positive for COVID-19 must adhere to the prevailing recovery protocols, including<a href="/health/insurance-and-treatment#treatment" target="_blank"> medical treatment</a> as necessary. The prevailing treatment charges will apply.	</p>
 	
 <p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">As a travel requirement stipulated under the Infectious Diseases Act, travellers who fail to take the supervised self-administered ART will be penalised accordingly. This could amount to the revocation of relevant entry passes, and/or fines.</p>
 	</div>
@@ -303,15 +303,10 @@ label.box {
 
 <p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">For entries into vaccination-differentiated settings in Singapore, e.g. attendance at large scale events, dining restrictions, travellers may show proof of their vaccination status via the TraceTogether application.</p>
 	
-<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers fully vaccinated overseas who wish to maintain their vaccinated status beyond the temporary status granted for 30 days on arrival, must register their overseas vaccination records into Singapore’s National Immunisation Registry (NIR) within 30 days of arrival. Registration can be facilitated by a local private healthcare provider or <a href="https://flu.gowhere.gov.sg/" target="_blank">Public Health Preparedness Clinic</a>. In addition to checking if the healthcare provider of choice offers such services, travellers should also have the following documents:
-	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Personal identification documents</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid vaccination certificate (per Stage 1B).
-</li>
-	</ol>
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers vaccinated overseas who require longer term vaccinated status beyond the temporary 30 day status granted on arrival, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH's website</a> (under "Recognising Overseas Vaccination") for more details. 
 	</p>
 	
-<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers whose vaccination status is registered on NIR will be able to retrieve their vaccination records via HealthHub (for Singpass users) and the TraceTogether mobile application. All cost related to the service will be borne by the traveller. For more information, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website for details</a>.</p>
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">If you feel unwell, please refer to the <a href="https://covid.gov.sg" target="_blank">MOH traveller recovery protocol</a>.</p>
 	</div>	
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) [Long Term Pass Holders aged 12-18] Fulfil Vaccination Requirements </b></i></div>
