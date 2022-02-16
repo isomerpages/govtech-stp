@@ -38,6 +38,8 @@ permalink: /travel-checklist/overview
 				</tbody>
 			</table>			
 	</li>
+	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/wphl/overview" target="_blank">Work Pass Holder Lane</a>
+	</li>
 		<!--<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/rgl/travel-checklist" target="_blank">Reciprocal Green Lane</a>
 	</li>
 		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/dcev" target="_blank">Death and Critical Illness Emergency Visit Lane</a>
