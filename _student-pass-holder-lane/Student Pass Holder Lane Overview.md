@@ -153,12 +153,12 @@ input:checked + label + .content {
 
 ### 2) Entry Application and Approval
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Entry approvals <b>are not required if the traveller arrives from 21 Feb 2022, 2359h</b>, and:<ol style="margin-top:0px; margin-bottom:0px;">
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Entry approvals <b>are not required if the fully vaccinated traveller arrives from 21 Feb 2022, 2359h</b>, and:<ol style="margin-top:0px; margin-bottom:0px;">
 	<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Holds a Student’s Pass (STP) or STP In-Principle Approval (STP-IPA); OR</li>
 	<li style="line-height:1.5;font-size:18px;margin-top:10px;  list-style-type:lower-roman;">Holds a Long-Term Visit Pass (LTVP) or LTVP In-Principle Approval (LTVP-IPA), and is the immediate family member of an STP/STP-IPA holder</li>
 	</ol></p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The traveller must produce a valid long-term pass/ IPA letter and proof of vaccination during entry. Travellers who meet the above-mentioned criteria, but had earlier obtained an entry approval letter issued under the Student’s Pass Lane, will no longer require the entry approval letter.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The traveller must produce a valid long-term pass/ IPA letter and proof of vaccination during onboarding. Travellers who meet the above-mentioned criteria, but had earlier obtained an entry approval letter issued under the Student’s Pass Lane, will no longer require the entry approval letter.</p>
 
 <p style="font-size:18px; margin-bottom:15px; line-height:1.5;">Entry approvals are still required for the following:</p>
 
@@ -172,7 +172,7 @@ input:checked + label + .content {
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">STP and STP-IPA holders entering Singapore <b>before 21 Feb 2022, 2359H (SGT)</b></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">A valid entry approval must be obtained before 13 Feb 2022, 2359H (SGT), via <a href="https://go.gov.sg/stphl-application" target="_blank">this link</a>. <br><br> <span style="color:red; font-size:28px;">&#9888;&nbsp;</span><b style="color:red;"> NOTE:</b> <i> Travellers without a valid entry approval will be denied entry.</i>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">A valid entry approval should have been obtained before 13 Feb 2022, 2359H (SGT). <br><br> <span style="color:red; font-size:28px;">&#9888;&nbsp;</span><b style="color:red;"> NOTE:</b> <i> Travellers without a valid entry approval will be denied entry.</i>
 	    </td>
     </tr>
 	     <tr>
@@ -189,7 +189,7 @@ input:checked + label + .content {
 
 ### 3) Health and Administrative Protocols
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The Student’s Pass Holder Lane does not afford travellers quarantine-free access provided under the Vaccinated Travel Lane (Air) or (Land). The prevailing health measures described under Categories I, II, III or IV, will apply depending on the traveller’s travel history.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The Student’s Pass Holder Lane does not afford travellers quarantine-free access provided under the Vaccinated Travel Lane (Air), (Land) or (Sea). The prevailing health measures described under Categories I, II, III or IV, will apply depending on the traveller’s travel history.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Click here for the <a href="/shn-and-swab-summary" target="_blank">travel categories</a> before referring to the checklists below for detailed entry instructions.</p>
 
@@ -221,7 +221,7 @@ input:checked + label + .content {
 <tbody>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-top:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Click <a href="/health/faq">below</a> for FAQs, and information related to:
+<td style="font-size:16px;border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Click <a href="/stpl/faq">below</a> for FAQs, and information related to:
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">Visas and Pass validity</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.ica.gov.sg/reside/STP/apply">Student’s Passes</a></li>
