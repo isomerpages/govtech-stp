@@ -1,7 +1,8 @@
 ---
 title: VTL (Land) for Travel to Malaysia
-permalink: /vtl-land/outbound-travel
+permalink: /vtl-land/outbound-travel-1
 description: ""
+published: false
 ---
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.4;">This page contains the following brief summary information for using the VTL (Land) to travel to Malaysia:</p>
 <ol style="font-size:18px; padding-left:20px;">
