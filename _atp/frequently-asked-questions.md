@@ -12,7 +12,7 @@ permalink: /atp/faq
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
 				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Test</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#pcrtest">On-Arrival COVID-19 Test and Self-Isolation</a></li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#oat">On-Arrival COVID-19 Test and Self-Isolation</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#contact">Contact Tracing – TraceTogether</a></li>
 		</ol>
 		</li>
@@ -25,10 +25,14 @@ permalink: /atp/faq
 #### 1. What is an ATP?
 
 An ATP allows visitors  travelling from one of the following countries/regions to seek entry into Singapore:
-- Hong Kong
+- Hong Kong*
 - Macao
 - Mainland China
 - Taiwan
+
+<i>With effect from <b>24 Feb 2022, 2359h (SGT)</b>, short-term visitors with travel history to Hong Kong, within the last 7 days before departure for Singapore, will not be allowed to enter Singapore using the ATP. Travellers holding approved ATPs which are valid for entry before 24 Feb 2022, 2359h (SGT), may continue to travel to Singapore via the ATP. Those who have not applied for an ATP before 17 Feb 2022, 2359h(SGT) but need to travel to Singapore before 25 Feb 2022 urgently may write to the Safe Travel Office at <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a>.</i>
+
+<i>Travellers who intend to enter Singapore <b>from 24 Feb 2022, 2359h (SGT)</b>, may be eligible for travel under the <a href="/vtl/travel-checklist" target="_blank">Vaccinated Travel Lane (Air)</a>. Applications for the Vaccinated Travel Pass (Air) will open on <b>22 Feb 2022, 1000hrs (Singapore time)</b>. Travellers must fulfill all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a> to be eligible for entry under the VTL (Air).</i>
 
 The ATP comes with [conditions](/atp/conditions) of travel that the applicant must comply with.
 
