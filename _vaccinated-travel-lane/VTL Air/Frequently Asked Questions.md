@@ -2,25 +2,27 @@
 title: Frequently Asked Questions
 permalink: /vtl/faq
 description: ""
-published: false
+third_nav_title: VTL Air
 ---
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:10px; color:red; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35"><span style="color:red;"><b>This page contains FAQs for travellers who have understood the entry requirements into Singapore via the Vaccinated Travel Lane (Air/Land/Sea). Singapore time (SGT) is used for all dates and times shown on this page. If you are not clear on the VTL (Air/Land/Sea) requirements, please refer to the VTL (Air) Overview page, VTL (Land) Overview page or VTL (Sea) Overview page before reading this FAQ page.</b></span></p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35"><span style="color:red;"><b>Travellers intending to travel out of Singapore to a country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</b></span></p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>
+		This page contains FAQs for travellers who already understand the entry requirements into Singapore via the Vaccinated Travel Lane (Air) [VTL (Air)]. Singapore time (SGT) is used for all dates and times shown on this page. If you are not clear on the VTL (Air) requirements, please refer to the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air) Overview page here</a> before reading this FAQ Page.<br/><br/> Travellers intending to travel out of Singapore to a VTL (Air) country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.
+		</b></span></p>
 </div>
-<br>
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;">
-	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>NOTICE:</u></b></p>
-		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.35;color:black;">The following measures are applicable for VTL travellers <b>entering Singapore from 21 Feb 2022, 2359h (SGT)</b>.</p>
-			<ol style="font-size:16px; margin-top:20px; margin-bottom:0px; color:black;">
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.35;  color:black;">Long-Term Pass holders (excluding Work Permit holders) are no longer required to apply for a Vaccinated Travel Pass (VTP).</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.35;  color:black;">Assessed travel history will be reduced from 14 days to 7 days</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.35;  color:black;">On-arrival Polymerase Chain Reaction (PCR) test at the airport will be replaced with a supervised self-administered Antigen Rapid Test (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC), to be completed within 24 hours of arrival in Singapore. Travellers who have prepaid for the PCR test can expect a refund from the Changi Airport Group (CAG) for their unutilised test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</li>
-								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Unsupervised self-administered ARTs will no longer be required on Days 2 to 7 of arrival in Singapore.</li>
+
+<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; margin-top:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>IMPORTANT UPDATES</u></b></p>
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">The following measures are applicable for VTL (Air) travellers entering Singapore after 23 January 2022, 2359hrs (SGT):
+			<ol style="font-size:16px; margin-top:0px; margin-bottom:0px; color:black;">
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">All travellers will only be required to daily unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation, in addition to fulfilling pre-departure and on-arrival testing requirements.</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Those who test positive on the unsupervised self-administered ARTs no longer need to undergo a confirmatory PCR test but should instead abide by the relevant  <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank">COVID-19 recovery protocol.</a></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</li>
 	</ol>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.35;color:black;">VTL travellers who enter Singapore <b>before 21 Feb 2022, 2359h (SGT)</b> are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7.)</p>
-</div>
+			</p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;color:black;">VTL travellers who enter Singapore before 23 January 2022, 2359hrs (SGT) are required to continue with the existing testing regime (i.e. unsupervised self-administered ART on Days 2, 4, 5 and 6 of their arrival, and supervised ART on Days 3 and 7 of their arrival).</p>
+<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;"></p>
+	</div>-->
 
 
 ### Click to jump to the following sections:
@@ -28,7 +30,7 @@ published: false
 <div id="top"></div>
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:decimal;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VTLReq">Vaccinated Travel Lane (VTL) Requirements</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VTLReq">Vaccinated Travel Lane (Air) [VTL (Air)] Requirements</a></li>
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VacReq">Vaccination Requirement</a>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
@@ -38,19 +40,18 @@ published: false
 	</li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#THReq">Travel History Requirement</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Test</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Flight">Designated VTL (Air) Flights/VTL (Land) Buses/ VTL (Sea) Ferries</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 Test and Self-Isolation</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Flight">Designated VTL (Air) Flights</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test at the Airport and Self-Isolation</a></li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#postarrivaltests">Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#AdditionalReq">Additional Requirements for Short-Term Visitors</a>:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vtlseareq">Additional Requirements for VTL (Sea)</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#TT">Contact Tracing – TraceTogether</a></li>
 </ol>
 </li>
 </ol>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (VTP)</a></li> 
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (Air) [VTP (Air)]</a></li> 
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/departing/overview">Departing from Singapore</a>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-latin;">
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mfa.gov.sg/where-are-you-travelling-to">Travel Requirements for Destination Countries/Regions</a></li>
@@ -61,7 +62,7 @@ published: false
 
 <div id="VTLReq"></div>
 
-### Vaccinated Travel Lane (VTL) Requirements
+### Vaccinated Travel Lane (Air) [VTL (Air)] Requirements
 ### (a) Vaccination Requirement
 ### (i) Eligibility and Proof of Vaccination
 
@@ -71,7 +72,7 @@ published: false
 
 #### 1. Are unvaccinated children allowed to travel under the VTL (Air)?
 
-Unvaccinated children aged 12 and below in this calendar year may enter Singapore on the VTL (Air) (e.g. a child turning 12 in the current calendar year is allowed). Such travellers, **including Long-Term Pass holders and short-term visitors**, do not need to apply for a Vaccinated Travel Pass (VTP). However, they must comply with either the <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>, <a href="/vtl-land/conditions" target="_blank">VTL (Land) conditions</a> or <a href="/vtl-sea/conditions" target="_blank">VTL (Sea) conditions</a> and be accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL traveller. 
+Unvaccinated children aged 12 and below in this calendar year may enter Singapore on the VTL (Air) (e.g. a child turning 12 in the current calendar year is allowed). Such travellers, **including Long-Term Pass holders and short-term visitors**, do not need to apply for a Vaccinated Travel Pass (Air) [VTP (Air)]. However, they must comply with all other VTL (Air) <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL (Air) traveller. 
 
 #### 2. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL (Air)?
 

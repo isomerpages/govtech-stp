@@ -1,8 +1,9 @@
 ---
 title: Apply Now
-permalink: /vtl/testapply-now
+permalink: /vtl/apply-now
 description: ""
 ---
+
 <table>
   <thead>
     <tr>

@@ -1,8 +1,8 @@
 ---
 title: Vaccinated Travel Lane (Land) Overview
-permalink: /vtl-land/overview
-description: Requirements for using the Vaccinated Travel Lane to travel to
-  Singapore by Land
+permalink: /vtl-land/overview-1
+description: Requirements for using the Vaccinated Travel Lane to travel toSingapore by Land
+published: false
 ---
 
 <!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">

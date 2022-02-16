@@ -71,7 +71,7 @@ Travellers will be charged a pro-rated cost for the suite, based on the number o
 
 In addition, travellers will also be charged additional costs of at least $345 ($300 for specialised cleaning costs for the vacated room; $45/vehicle for transport to the next SDF) for their transfers.
 
-For example, total costs for a traveller on 10-day SHN at an SDF: [2/10 * $1,450 at existing SDF] + [8/10 * $5,350 at the standard suite] + $345 = $4,915. Travellers who have already paid the default SDF cost only need to pay the difference.
+For example, total costs for a traveller on 7-day SHN at an SDF: [2/7 * $1,015 at existing SDF] + [5/7 * $3,745 at the standard suite] + $345 = $3,310. Travellers who have already paid the default SDF cost only need to pay the difference.
 
 #### 2. How do I pay for my suite?
 
@@ -83,4 +83,4 @@ Travellers who are transferring to another suite mid-way through their SHN stay 
 
 Travellers who have made pre-payment when obtaining approval to enter Singapore will be required to pay the difference from the higher cost of the SDF suite. This additional amount will be paid to the SDF at check-in.
 
-For example: If traveller has already paid $1,450 to an agency when obtaining approval to enter Singapore, and later decides to book a ‘Standard’ suite at Fairmont Singapore before arrival, the traveller will need to pay the balance of $3,900 to Fairmont Singapore at check-in (assuming a 10-day SDF stay).
+For example: If traveller has already paid $1,015 to an agency when obtaining approval to enter Singapore, and later decides to book a ‘Standard’ suite at Fairmont Singapore before arrival, the traveller will need to pay the balance of $1,950 to Fairmont Singapore at check-in (assuming a 7-day SDF stay and excluding $345 for cleaning and transportation costs).

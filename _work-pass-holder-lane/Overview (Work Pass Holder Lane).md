@@ -7,7 +7,42 @@ description: ""
 	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red;">NOTE:</span> </b><b><span style="color:black;">If you hold a valid entry approval letter under the Work Pass Holder Lane but wish to apply to enter under the Vaccinated Travel Lane (VTL), please write in via the <a href="http://go.gov.sg/sto-enquiry" target="_blank">SafeTravel Enquiry Form</a> for assistance. All short-term visitors and long-term pass holders are required to have a Vaccinated Travel Pass and fulfil VTL conditions in order to qualify for quarantine-free travel under the VTL. Click for more information on the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a>.</span></b></p>
 	</div>-->
 	
-The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates the entry of foreigners with passes granted by the Ministry of Manpower (“Pass holders”). All pass holders must obtain an entry approval to enter Singapore. This however, excludes pass holders conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea.
+The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates the entry of foreigners with passes granted by the Ministry of Manpower (“Pass holders”).
+
+<b>[For arrivals before 21 Feb 2022, 2359 hours]</b> All pass holders must get an entry approval to enter Singapore. This however, excludes pass holders conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea.
+
+<b>[For arrivals from 21 Feb 2022, 2359 hours]</b> Eligible pass holders, including in-principle approval (IPA) holders will not need to apply for or present an entry approval letter to enter Singapore. The summary of changes to entry approval requirements are:
+
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Types of pass holders</b></th>
+	<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Need to apply for entry approval to enter Singapore?</b></th>
+</tr>
+</thead>
+<tbody>
+		<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
+<ol style="list-style-type:disc;">
+	<li style="font-size:18px; margin-top:0px; line-height:1.5;">Work Permit holders (i.e. workers employed by companies, helpers and confinement nannies)</li>
+		<li style="font-size:18px; margin-top:0px; line-height:1.5;">Training Work Permit holders</li>
+			</ol>
+		</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">Yes.</td>
+	</tr>
+		<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">All other pass holders (e.g. Employment Pass, S Pass holders and their dependants)
+		</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">No. But they still need to comply with the prevailing travel health control measures, and show all these documents during departure and upon arrival:
+<ol style="list-style-type:disc;">
+	<li style="font-size:18px; margin-top:0px; line-height:1.5;">MOM passes or IPA letters</li>
+		<li style="font-size:18px; margin-top:0px; line-height:1.5;"><a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes" target="_blank">Proof of vaccination status or exemption</a></li>
+			</ol>
+</td>
+	</tr>
+	</tbody>
+	</table>
+
 
 On this page, you will find the following key information on the WPHL. 
 
@@ -28,7 +63,7 @@ The following traveller types are eligible to travel under the WPHL. All pass ho
 <ol style="list-style-type:decimal;">
 <li style="line-height:1.5;">Confinement nannies</li>
 <li style="line-height:1.5;">Helpers</li>
-<li style="line-height:1.5;">Foreigners currently on or have in-principle approval (IPA) for any of these passes that are valid for at least 15 days from their planned arrival date:
+<li style="line-height:1.5;">Foreigners currently on any of these passes that are valid for at least 15 days from their planned arrival date:
 <ol style="list-style-type:disc;">
 <li style="line-height:1.5;">Dependant’s Pass</li>
 <li style="line-height:1.5;">Employment Pass</li>
@@ -50,13 +85,13 @@ For passes or IPAs that have less than 15 days of validity, please renew the pas
 
 ### 2.	Travel History and Travel Health Control Measures 
 
-<a href="/wphl/shn-and-swab-summary" target="_blank">CLICK HERE</a> to check the latest travel health control measures (e.g. Stay-Home Notice and COVID-19 tests) set on pass holders using the WPHL, and the costs of the various measures. The measures imposed are based on the pass holder’s 14-day travel history to various countries/regions before arriving in Singapore.
+<a href="/wphl/shn-and-swab-summary" target="_blank">CLICK HERE</a> to check the latest travel health control measures (e.g. Stay-Home Notice and COVID-19 tests) for pass holders using the WPHL, and the costs of the various measures. The measures imposed are based on the pass holder’s travel history to various countries/regions before arriving in Singapore.
 
-If pass holders are departing from a Vaccinated Travel Lane country/region and intend to return via the Vaccinated Travel Lane instead to enjoy quarantine-free travel, they should apply for a Vaccinated Travel Pass instead. Click the links below for more information on: 
+If pass holders are departing from a Vaccinated Travel Lane country/region, they should consider returning via the Vaccinated Travel Lane instead to enjoy quarantine-free travel. Click the links below for more information on: 
 
 -	<a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>
 -	<a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a>
-
+-	<a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a>
 
 <div id="application"></div>
 
@@ -68,6 +103,7 @@ Please note that:
 - Application window is 3 to 60 days before planned date of arrival in Singapore.
 - Approval is valid for +/- 1 day from the planned date of arrival to accommodate possible flight changes.
 
+### [For arrivals before 21 Feb 2022, 2359 hours]
 
 <table>
 <thead>
@@ -77,7 +113,7 @@ Please note that:
 </thead>
 <tbody>
 	<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of workers should <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore" target="_blank">apply for entry directly via MOM’s website</a>.
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of pass holders should <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore" target="_blank">apply for entry directly via MOM’s website</a>.
 <ol style="list-style-type:lower-latin;">
 	<li style="font-size:18px; margin-top:0px; line-height:1.5;">Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
 		<ol style="list-style-type:disc;">
@@ -140,11 +176,71 @@ Work pass holders who are immediate family members of Singapore Citizens or Perm
   </table>
 
 
+
+### [For arrivals from 21 Feb 2022, 2359 hours]
+
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 1: Specific Passes</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;"><table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>Types of pass holders</b></th>
+	<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>How and where to apply</b></th>
+</tr>
+</thead>
+<tbody>
+			<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">CMP workers who hold Work Permit or Training Work Permit, or IPA for any of these 2 passes
+		</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Apply for entry on <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore" target="_blank">MOM’s website</a>
+</td>
+	</tr>
+		<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
+<ol style="list-style-type:disc;">
+	<li style="font-size:18px; margin-top:0px; line-height:1.5;">All other Work Permit holders (i.e. workers employed by companies, helpers and confinement nannies)</li>
+		<li style="font-size:18px; margin-top:0px; line-height:1.5;">Training Work Permit holders</li>
+			</ol>
+		</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;"><p style="font-size:18px; margin-top:0px; line-height:1.5;">Employers to apply via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">WPHL Portal</a> (use Corppass to log in).</p>
+<p style="font-size:18px; margin-top:0px; line-height:1.5;">For helpers and confinement nannies, Employment Agencies may also apply via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">WPHL Portal</a> (use Corppass to log in).</p>
+</td>
+	</tr>
+	</tbody>
+	</table>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 2: All other Pass Holders (e.g. Employment Pass, S Pass holders and their dependants)</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
+<p style="font-size:18px; margin-top:0px; line-height:1.5;">No entry application is required. However, pass holders are still required to undergo Category I or II/III/IV travel health control measures depending on their travel history before arrival in Singapore.</p>
+<p style="font-size:18px; margin-top:0px; line-height:1.5;">Please check the <a href="/shn-and-swab-summary" target="_blank">Travel Health Control Measures</a> page to determine what category of health measures they are required to follow.</p>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+
+
 <div id="PDEntry"></div>
 
 ### 4. Pre-Departure & Entry Procedures
 
-The approval letter will indicate the travel health control measures submitters (i.e. employers or employment agencies which submitted the entry applications) and their pass holders must comply with.
+The approval letter <!--, if applicable--> will indicate the travel health control measures submitters (i.e. employers or employment agencies which submitted the entry applications) and their pass holders must comply with.
 
 As the control measures are subject to change based on the global situation, the Ministry of Manpower (MOM) will inform submitters whose pass holders have obtained approvals of the changes by email.
 

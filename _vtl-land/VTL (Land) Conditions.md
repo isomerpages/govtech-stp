@@ -1,7 +1,8 @@
 ---
 title: VTL (Land) Conditions
-permalink: /vtl-land/conditions
+permalink: /vtl-land/conditions-1
 description: ""
+published: false
 ---
 ### Conditions of the Vaccinated Travel Lane Land [VTL (Land)]
 
