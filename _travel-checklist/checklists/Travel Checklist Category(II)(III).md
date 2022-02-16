@@ -139,10 +139,10 @@ label.box {
 </div>	
 </div>	
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Application for Entry Visa (if applicable)</b></i></div>
+<div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Application for Entry Visa (if applicable)</b></i></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a target="_blank" href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">Click here to check if a visa is required and to apply if needed</a>. </p></div>
 
-<div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></i></div>
+<div id="1D" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers are advised to defer travel if they have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
@@ -185,7 +185,7 @@ label.box {
 	</tbody></table>
 </div>
 
-<div id="1D" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>E) COVID-19 Pre-Departure Tests (PDT)</b></i></div>
+<div id="1E" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>E) COVID-19 Pre-Departure Tests (PDT)</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">All travellers, except the groups listed below, <b>must</b> take a Pre-Departure Test (PDT) <b>within 2 days before departure for Singapore</b>: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
@@ -267,20 +267,22 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see Stage 1E), of their <b><a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Immigration Clearance and Proof of Vaccination Registration</b></i></div>
 
-<p style="line-height:1.35; font-size:18px;"><b><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> can ask the immigration officer to register their vaccination details in their TraceTogether App</b> (see Stage 1F) if they satisfied the following:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, air travellers will receive an email, as provided in their SGAC declaration (<a href="#1E">see Stage 1E</a>), of their <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
 
-<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.5;">Aged 12 and above; </li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;">Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification; and</li>
-			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.5;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance. </li>
+<p style="line-height:1.35;font-size:18px;"><b><a target="_blank" href="/health/vtsg">Fully vaccinated travellers</a> who are vaccinated overseas and unable to upload their digital vaccination certificates via the SG Arrival Card declaration (per <a href="#1E">Stage 1E</a>)</b> should clear immigration at a manned counter. Here, the immigration officer will assist with the temporary registration of the traveller’s overseas vaccination status into their TraceTogether mobile application. With this, travellers will be able to show temporary proof of their vaccination status using TraceTogether in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a> for 30 days.</p>
+	
+<p style="line-height:1.35; margin-top:10px;font-size:18px;">To facilitate the temporary registration of overseas vaccination records into TraceTogether, travellers must (be):	</p>
+	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Aged 12 and above; </li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance.</li>
 </ol>
-	</div>
+</div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) Issuance of Stay Home Notice (SHN) </b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">A 10-day Stay-Home Notice (SHN), which takes effect immediately on the day of issuance, will be sent to the email address provided by the traveller in their SGAC declaration (see Stage 1D).</p></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">A 7-day Stay-Home Notice (SHN), which takes effect immediately on the day of issuance, will be sent to the email address provided by the traveller in their SGAC declaration (see <a href="#1E">Stage 1E</a>).</p></div>
 
 <div id="stage3c"></div>
 
@@ -315,7 +317,7 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) End-of-SHN COVID-19 Test</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">Travellers will be scheduled to take a mandatory COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of their SHN. Payment for the test (S$125/test, including GST) for travellers who are not a Singapore Citizen (SC) or Singapore Permanent Resident (PR) is already collected during entry approval (see <a href="#1A">Stage 1A</a>). For SC/PRs, the test payment details will be communicated separately after arrival in Singapore.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">Travellers will be scheduled to take a mandatory COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of their SHN. Payment for the test (S$125/test, including GST) can be made via the payment link found in the Stay-Home Notice (SHN) issued; test priority will be accorded to travellers who have pre-paid for their test. Travellers who fail to pay for their test beforehand may do so at the testing facility and expect a longer wait time.</p>
 
 <p style="line-height:1.35; font-size:18px;">Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers who are unwell on the day of the test should remain in their accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant agencies</a>.</p>
 </div>
@@ -324,25 +326,22 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Release from Stay-Home Notice (SHN)</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">The SHN will end after the traveller receives a negative test result (per Stage 4B) or upon completion of the 10-day SHN, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">The SHN will end after the traveller receives a negative test result (per Stage 4B) or upon completion of the 7-day SHN, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.</p>
 
 <p style="line-height:1.35; font-size:18px;">Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges will apply.</p>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">While in Singapore, travellers must comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">While in Singapore, travellers must comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
 
-<p style="line-height:1.35; font-size:18px;">For entries into vaccination-differentiated settings in Singapore, e.g. attendance at large scale events, dining restrictions, travellers may show proof of their vaccination status via the TraceTogether application.</p>
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">For entries into vaccination-differentiated settings in Singapore, e.g. attendance at large scale events, dining restrictions, travellers may show proof of their vaccination status via the TraceTogether application.</p>
 	
-<p style="line-height:1.35; font-size:18px;">Travellers fully vaccinated overseas who wish to maintain their vaccinated status beyond the temporary status granted for 30 days on arrival, must register their overseas vaccination records into Singapore’s National Immunisation Registry (NIR) within 30 days of arrival. Registration can be facilitated by a local private healthcare provider or <a href="https://flu.gowhere.gov.sg/" target="_blank">Public Health Preparedness Clinic</a>. In addition to checking if the healthcare provider of choice offers such services, travellers should also have the following documents:
-	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Personal identification documents</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid vaccination certificate (per Stage 1B).</li>
-	</ol>
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers vaccinated overseas who require longer term vaccinated status beyond the temporary 30 day status granted on arrival, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH's website</a> (under "Recognising Overseas Vaccination") for more details. 
 	</p>
-<p style="line-height:1.35; font-size:18px;">Travellers whose vaccination status is registered on NIR will be able to retrieve their vaccination records via <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> (for Singpass users) and the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application. All cost related to the service will be borne by the traveller. For more information, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> for details.</p>
-</div>
+	
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">If you feel unwell, please refer to the <a href="https://covid.gov.sg" target="_blank">MOH traveller recovery protocol</a>.</p>
+	</div>	
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) [Long Term Pass Holders aged 12-18] Fulfil Vaccination Requirements </b></i></div>
 
