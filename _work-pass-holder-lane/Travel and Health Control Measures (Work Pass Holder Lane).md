@@ -175,6 +175,8 @@ input:checked + label + .content {
 <ol style="margin-top: 0px; list-style-type: decimal;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival</b>.
 </li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit a health and travel declaration using the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) e-Service</a> <b>within 3 days before arrival</b>.
+</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of these COVID-19 tests <b>within 2 days before departure</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test</b>: Done with an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
@@ -192,19 +194,10 @@ input:checked + label + .content {
 </li>
 </ol>
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the test <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.</p>
-<ol style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Air]</b> Register and pay $125 (including GST) <a href="https://changiairport.com/safetravel" target="_blank">here</a>.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
-	</ol>
-</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their place of isolation. <br><br> Submitters must arrange to pick them up <b>within 1 hour of arrival</b> from the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car) to go to the place of isolation. Public transport (e.g. public bus or train) is <b>not allowed</b>.</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Self-isolate in one of the following accommodation until they get a negative test result:
-	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments, hostels or Employment Agencies' residential units. Please ensure these places can accommodate persons on SHN). </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer’s house. The helper/CN must isolate herself in her room and minimise contact with household members.  If this is not possible or there are <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>, please look for another accommodation.	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p></li>
-	</ol>
-	</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a supervised self-swab (SSS) ART at a <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centre (QTC) or Combined Test Centres (CTCs)</a> <b>within 24 hours</b> of arrival. To book the SSS ART, they can use the weblink in the Testing Notice (issued upon arrival).</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their place of isolation. <br><br> Submitters must arrange to pick them up <b>within 1 hour of arrival</b> from the checkpoint, using private transport (e.g. employer's own vehicle, taxi, private hire car) to go to the place of isolation, and QTC or CTC. Public transport (e.g. public bus or train) is <b>not allowed</b>.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Remain in self-isolation until they get a negative test result.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If they get a negative test result, they can go about their activities in Singapore, without a need to serve SHN.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Verify their vaccination records by taking a serology test to get the vaccination records ingested in the National Immunisation Registry (NIR) <b>within 30 days</b> of arrival in Singapore. 
 <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those with valid digitally-verifiable vaccination certificates may be exempted from serology testing for their vaccinations to be ingested. They must still visit a General Practitioner (GP) clinic, for the clinic to verify their certificates and ingest their vaccination records in the NIR <b>within 30 days</b> of arrival in Singapore. Refer to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> on the types of vaccination certificates which exempt pass holders from serology testing.</p>
 <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Please call the clinic to check if they offer serology tests or verification of vaccination records.</p>
@@ -218,6 +211,8 @@ input:checked + label + .content {
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival</b>.
+</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit a health and travel declaration using the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) e-Service</a> <b>within 3 days before arrival</b>.
 </li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of these COVID-19 tests <b>within 2 days before departure</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
@@ -236,15 +231,10 @@ input:checked + label + .content {
 </li>
 </ol>
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the test <b>before the pass holder arrives in Singapore</b>. Otherwise, the pass holder may be denied entry and submitter’s subsequent entry applications may be rejected.</p>
-<ol style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Air]</b> Register and pay $125 (including GST) <a href="https://changiairport.com/safetravel" target="_blank">here</a>.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
-	</ol>
-</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their place of isolation.<br><br> Pass holders must depart for the place of isolation <b>within 1 hour of arrival</b> at the checkpoint. Submitters must inform them to take private transport (e.g. company vehicle, pass holder's own vehicle, taxi, private hire car) to the SHN accommodation. Public transport (e.g. public bus or train) is <b>not allowed</b>. </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Self-isolate until they get a negative test result. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
-	</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a supervised self-swab (SSS) ART at a <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centre (QTC) or Combined Test Centres (CTCs)</a> <b>within 24 hours</b> of arrival. To book the SSS ART, they can use the weblink in the Testing Notice (issued upon arrival).</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed from the checkpoint <b>immediately</b> to their place of isolation.<br><br> Pass holders must depart for the place of isolation <b>within 1 hour of arrival</b> at the checkpoint. Submitters must inform them to take private transport (e.g. company vehicle, pass holder's own vehicle, taxi, private hire car) to the to the place of isolation, and QTC or CTC. Public transport (e.g. public bus or train) is <b>not allowed</b>. </li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Remain in self-isolation until they get a negative test result.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If they get a negative test result, they can go about their activities in Singapore, without a need to serve SHN.</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Verify their vaccination records by taking a serology test to get the vaccination records ingested in the National Immunisation Registry (NIR) <b>within 30 days</b> of arrival in Singapore. 
 <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those with valid digitally-verifiable vaccination certificates may be exempted from serology testing for their vaccinations to be ingested. They must still visit a General Practitioner (GP) clinic, for the clinic to verify their certificates and ingest their vaccination records in the NIR <b>within 30 days</b> of arrival in Singapore. Refer to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> on the types of vaccination certificates which exempt pass holders from serology testing.</p>
 <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Please call the clinic to check if they offer serology tests or verification of vaccination records.</p></li>
@@ -278,6 +268,8 @@ input:checked + label + .content {
 <ol style="margin-top: 0px; list-style-type: decimal;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival</b>.
 	</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit a health and travel declaration using the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) e-Service</a> <b>within 3 days before arrival</b>.
+</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of these COVID-19 tests <b>within 2 days before departure</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test</b>: Done with an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
@@ -308,6 +300,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels, serviced apartments, hostels or Employment Agencies' residential units. Please ensure these places can accommodate persons on SHN).<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If the employer allows, submitters can arrange for the helper/CN to share a room with another helper/CN with the same travel history. They should remain isolated during the SHN and not mingle, or share facilities such as toilets, with other residents.</p></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer’s house. The helper/CN must isolate herself in her room and minimise contact with household members. If this is not possible or there are <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>, please look for another accommodation.</li>
 	</ol>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters who have paid for the helpers’/CNs’ stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.</p>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Verify their vaccination records by taking a serology test to get the vaccination records ingested in the National Immunisation Registry (NIR) <b>within 30 days</b> of arrival in Singapore. 
@@ -322,6 +315,8 @@ input:checked + label + .content {
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival</b>.
+</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit a health and travel declaration using the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) e-Service</a> <b>within 3 days before arrival</b>.
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of these COVID-19 tests <b>within 2 days before departure</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
@@ -352,6 +347,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments).</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. The pass holder must isolate themselves in their room and minimise contact with household members, especially <a href="https://www.covid.gov.sg/who-is-vulnerable" target="_blank">vulnerable household members</a>. If this is not possible, please look for another accommodation.</li>
 	</ol>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Submitters who have paid for the pass holders’ stay at the SHN dedicated facility (SDF) earlier on, please refer to MOM’s email for more information.</p>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) before the end of the SHN.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Verify their vaccination records by taking a serology test to get the vaccination records ingested in the National Immunisation Registry (NIR) <b>within 30 days</b> of arrival in Singapore. 
@@ -383,6 +379,8 @@ input:checked + label + .content {
 <ol style="margin-top: 0px; list-style-type: decimal;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival</b>.
 </li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit a health and travel declaration using the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) e-Service</a> <b>within 3 days before arrival</b>.
+</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 2 days before departure </b>at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>. ART are <b>not allowed</b>.</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
@@ -395,6 +393,12 @@ input:checked + label + .content {
 	</ol>
 		</li>
 	</ol>	
+</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the test <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.</p>
+<ol style="margin-top: 0px; list-style-type: disc;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Air]</b> Register and pay $125 (including GST) <a href="https://changiairport.com/safetravel" target="_blank">here</a>.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
+	</ol>
 </li>
 <!--	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the test <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.</p>
 <ol style="margin-top: 0px; list-style-type: disc;">
@@ -417,6 +421,8 @@ input:checked + label + .content {
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival.</b></li>
+					<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit a health and travel declaration using the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) e-Service</a> <b>within 3 days before arrival</b>.
+</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 2 days before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab, clinic or medical facility</a>. ART are <b>not allowed</b></li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
@@ -430,6 +436,12 @@ input:checked + label + .content {
 		</li>
 	</ol>
 	</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the test <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.</p>
+<ol style="margin-top: 0px; list-style-type: disc;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Air]</b> Register and pay $125 (including GST) <a href="https://changiairport.com/safetravel" target="_blank">here</a>.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Land/Sea]</b>: Register and pay $160 (including GST) <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">here</a>.</li>
+	</ol>
+</li>
 <!--	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint. <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Submitters must register and pay for the test <b>before the pass holder arrives in Singapore</b>. Otherwise, the pass holder may be denied entry and submitter’s subsequent entry applications may be rejected.</p>
 <ol style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Entry into Singapore by Air]</b> Register and pay $125 (including GST) <a href="https://changiairport.com/safetravel" target="_blank">here</a>.</li>
@@ -531,8 +543,8 @@ input:checked + label + .content {
 	<tr>
 	<td>
 <!--Cat1 Countries-->
-<input type="checkbox" id="CountryListCat1" />
-<label for="CountryListCat1" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
+<input type="checkbox" id="CountryListCat1-before" />
+<label for="CountryListCat1-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -575,8 +587,8 @@ input:checked + label + .content {
 </ol>
 </div>
 	<!--Cat1 Other Work Pass Holders-->
-	<input type="checkbox" id="OtherWorkPassHolders-1" />
-<label for="OtherWorkPassHolders-1" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
+	<input type="checkbox" id="OtherWorkPassHolders-1-before" />
+<label for="OtherWorkPassHolders-1-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -640,8 +652,8 @@ input:checked + label + .content {
 	<tr>
 	<td>
 <!--Cat2 Helpers/CNs-->
-<input type="checkbox" id="CountryListCat2" />
-<label for="CountryListCat2" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
+<input type="checkbox" id="CountryListCat2-before" />
+<label for="CountryListCat2-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -685,8 +697,8 @@ input:checked + label + .content {
 </ol>
 </div>
 	<!--Cat2 Other Work Pass Holders-->
-	<input type="checkbox" id="OtherWorkPassHolders-2" />
-<label for="OtherWorkPassHolders-2" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
+	<input type="checkbox" id="OtherWorkPassHolders-2-before" />
+<label for="OtherWorkPassHolders-2-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -752,8 +764,8 @@ input:checked + label + .content {
 	<tr>
 	<td>
 <!--Cat3 Helpers and CNs-->
-<input type="checkbox" id="CountryListCat3" />
-<label for="CountryListCat3" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
+<input type="checkbox" id="CountryListCat3-before" />
+<label for="CountryListCat3-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
 
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -798,8 +810,8 @@ input:checked + label + .content {
 </ol>
 </div>
 	<!--Cat3 Other Work Pass Holders-->
-	<input type="checkbox" id="OtherWorkPassHolders-3" />
-<label for="OtherWorkPassHolders-3" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
+	<input type="checkbox" id="OtherWorkPassHolders-3-before" />
+<label for="OtherWorkPassHolders-3-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival.</b></li>
@@ -857,8 +869,8 @@ input:checked + label + .content {
 	<tr>
 	<td>
 <!--Cat4 Helpers and CNs-->
-<input type="checkbox" id="CountryListCat4" />
-<label for="CountryListCat4" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
+<input type="checkbox" id="CountryListCat4-before" />
+<label for="CountryListCat4-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for Helpers/Confinement Nannies (CNs)</b></label>
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival</b>.
@@ -892,8 +904,8 @@ input:checked + label + .content {
 		</ol>
 </div>
 	<!--Cat4 Other Work Pass Holders-->
-	<input type="checkbox" id="OtherWorkPassHolders-4" />
-<label for="OtherWorkPassHolders-4" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
+	<input type="checkbox" id="OtherWorkPassHolders-4-before" />
+<label for="OtherWorkPassHolders-4-before" style="background:#D8D8D8; color:#000000;"><b>Health Measures for All Other Pass Holders</b></label>
 <div class="content" style="background-color:#f8f8f8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival.</b></li>
