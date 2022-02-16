@@ -155,7 +155,7 @@ input:checked + label + .content {
 
 <div id="Application"></div>
 
-### 2. Application for Travel under the VTL (Air)
+### 2. Application for Travel under the VTL (Sea)
 
 <html>
 
@@ -333,7 +333,7 @@ input:checked + label + .content {
 
 <div id="FAQ"></div>
 
-### 5. Frequently Asked Questions
+### 4. Frequently Asked Questions
 
 <span style="font-size:18px;">Click <a target="_blank" href="/vtl-sea/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
 - <a target="_blank" href="/vtl/faq#QRcode">Recognised Vaccination Certificates for VTL (Sea)</a>
