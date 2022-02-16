@@ -34,7 +34,10 @@ The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates 
 		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">All other pass holders (e.g. Employment Pass, S Pass holders and their dependants)
 		</td>
 		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">No. But they still need to comply with the prevailing travel health control measures, and show all these documents during departure and upon arrival:
-<p style="padding-left: 10px; font-size:18px; margin-top:10px; line-height:1.5;">•	MOM passes or IPA letters</p>
+<ol style="list-style-type:disc;">
+	<li style="font-size:18px; margin-top:0px; line-height:1.5;">MOM passes or IPA letters</li>
+		<li style="font-size:18px; margin-top:0px; line-height:1.5;"><a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes" target="_blank">Proof of vaccination status or exemption</a></li>
+			</ol>
 </td>
 	</tr>
 	</tbody>
