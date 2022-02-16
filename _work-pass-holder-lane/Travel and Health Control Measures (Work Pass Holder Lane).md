@@ -5,7 +5,9 @@ description: Work Pass Holder Lane travel and health control measures
 ---
 As a condition for entry into Singapore, pass holders with an approval under the Work Pass Holder General Lane (WPHL) must comply with the prevailing travel health control measures (e.g. Stay-Home Notice (SHN) and COVID-19 tests). Employers and employment agencies, which submitted the entry applications (“Submitters”), must pay for pass holders’ entry charges and ensure they comply with the measures.
 
-Workers who meet <b>all three of the conditions below</b>, please refer to [Ministry of Manpower’s website](https://www.mom.gov.sg/covid-19/entry-approval-requirements) instead for the travel health control measures:<br><br>
+<b>[From 21 Feb 2022, 2359 hours]</b> Pass holders who do not need an entry approval will still need to comply with the prevailing travel health control measures (e.g. Stay-Home Notice (SHN) and COVID-19 tests).
+
+Workers who meet <b>all these conditions below</b>, please refer to [Ministry of Manpower’s website](https://www.mom.gov.sg/covid-19/entry-approval-requirements) instead for the travel health control measures:<br><br>
 a) &nbsp; Work in the Construction, Marine shipyard or Process (CMP sector);<br>
 b) &nbsp; Hold Work Permit, Training Work Permit or S Pass, or in-principle approval for any of these 3 passes; and<br>
 c) &nbsp; Not entering Singapore with their dependants
@@ -16,9 +18,13 @@ For all other pass holders (work pass holders and their dependants), this page e
 <tbody>
 <tr>
 <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes</u></b></span>
-<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➀</b> If the pass holder has visited multiple countries in the past 14 days before arriving in Singapore, <b>the most stringent category out of all the countries/regions visited (excluding transits less than 24 hours) will apply</b>.</p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><i>Example: A traveller with travel history to both Categories (I) and (II) countries/regions before departure, and transited through a Category (IV) country/region on the flight to Singapore, will be subject to Category (II) measures.</i></p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➁</b> These workers are <b>not allowed</b> to apply for entry into Singapore under the Vaccinated Travel Lanes (<a href="/vtl/requirements-and-process" target="_blank">Air</a>/<a href="/vtl-land/overview" target="_blank">Land</a>):</p> 
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➀</b> The most stringent category out of all the countries/regions visited (excluding transits of less than 24 hours) will apply, if the pass holder has visited multiple countries within:</p>
+<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">14 days before entering Singapore (for arrivals <b>before 21 Feb 2022, 2359 hours</b>)</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">7 days before entering Singapore (for arrivals <b>from 21 Feb 2022, 2359 hours</b>)</li>
+	</ol>	
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><i>Example: A traveller with travel history to a Category (I) country/region before departure, and transited through a Category (II/III/IV) country/region for more than 24 hours on the flight to Singapore, will be subject to Category (II/III/IV) measures.</i></p>
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➁</b> These workers are <b>not allowed</b> to apply for entry into Singapore under the Vaccinated Travel Lanes (<a href="/vtl/requirements-and-process" target="_blank">Air</a>/<a href="/vtl-land/overview" target="_blank">Land</a>/<a href="/vtl-sea/overview" target="_blank">Sea</a>):</p> 
 	<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Non-Malaysian male Work Permit or S Pass workers in the CMP sector</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Workers staying in dormitories</li>
@@ -28,7 +34,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For all other workers- <a href="/wphl/overview">WPHL</a></li>
 	</ol>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Those who had obtained a VTL approval before 4 Dec 2021, 2359 hours can still enter Singapore. <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/1204-ceasing-of-entry-of-cmp-workers-and-other-dormitory-bound-workers-via-vtls" target="_blank">Find out more</a>.<br><br> Workers can <a href="/departing/overview" target="_blank">depart Singapore</a> using VTLs.</p>	
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>[For arrivals from 21 Feb 2022, 2359 hours]</b> Non-Malaysian male CMP workers on S Pass are allowed to enter Singapore under the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lanes (VTLs)</a>.</p>	
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> Pass holders who <b>meet both conditions</b> below are exempted from COVID-19 tests and SHN requirements. <a href="/vaccinated-recovered" target="_blank">Eligible pass holders must present documentary proof</a> before departure and upon arrival in Singapore.</p> 
 <ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Fully vaccinated</li>
@@ -36,7 +42,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 </ol>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Submitters who have paid for the entry applications, please refer to MOM’s email for more information.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">All other pass holders need to follow the health measures below.</p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Pass holders with travel history to Category II, III or IV countries/regions and entering Singapore <b>from 7 Jan 2022, 2359 hours,</b> do not need to take an on-arrival COVID-19 test. For refunds of this test, please refer to the FAQ <a href="/health/faq#refunds" target="_blank">here</a> for more information.</p>
+	
 
 <!--<table>
 	<thead>
@@ -57,9 +63,9 @@ For all other pass holders (work pass holders and their dependants), this page e
 
 	
 <p style="margin-top: 10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-<b>➃</b> Pass holders below three years of age in this calendar year are not required to take the COVID-19 tests listed in the tables below.</p>
+<b>➃</b> Pass holders aged two and below in this calendar year (i.e. born in or after 2020) are not required to take the COVID-19 tests listed in the tables below.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10116;</b> All pass holders are not allowed to serve SHN or self-isolation in dormitories. Submitter may refer to this <a href="https://sha.org.sg/stay-home-notice">list</a> (non-exhaustive) to book a hotel or serviced apartment for the pass holder. Please check if they can accommodate guests on SHN or self-isolation.</p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10117;</b> All pass holders entering under WPHL, regardless of travel history, must be <a href="/wphl/vaccination-requirements#vaccinated">fully vaccinated</a> before arrival except for the following groups:
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10117;</b> All pass holders, regardless of travel history, must be <a href="/wphl/vaccination-requirements#vaccinated">fully vaccinated</a> before arrival except for the following groups:
 <ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:disc;"> Pass holders who are below 18 years old on date of entry</li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">Pass holders who cannot be vaccinated due to medical conditions</li>
