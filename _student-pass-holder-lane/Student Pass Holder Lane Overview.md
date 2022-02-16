@@ -126,6 +126,7 @@ input:checked + label + .content {
 		</ol>
 	</li>
 	</ol></p>
+	<p style="line-height:1.5; font-size:18px; margin-top:20px;">Former STP holders seeking entry to fulfil their scholarship obligations should refer to the <a href="scpr-familial-ties-lane/overview" target="_blank">"Familial Ties Lane" </a> page for more information</p>
 		<p style="line-height:1.5; font-size:18px; margin-top:20px;">If you are ineligible, identify an alternative entry option by returning to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.</p>
 	</div>
 	
