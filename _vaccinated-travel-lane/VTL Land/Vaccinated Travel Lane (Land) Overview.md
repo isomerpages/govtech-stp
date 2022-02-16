@@ -59,11 +59,11 @@ third_nav_title: VTL Land
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">Malaysian male Work Permit holders in the CMP sector can enter Singapore via the VTL (Land), but isolate in a dormitory if they test positive for their on-arrival COVID-19 Antigen Rapid Test and are awaiting their confirmatory Polymerase Chain Reaction (PCR) test results.</p>
 
 
-
-
-
 <title>Test Accordion</title>
+<html>
 
+<head>
+<meta charset="utf-8">
 <style>
 
 input {
@@ -116,7 +116,8 @@ input:checked + label + .content {
 }
 	
 </style>
-
+</head>
+<body>
 
 
 <input id="title1" type="checkbox">
@@ -321,7 +322,8 @@ Travellers entering Singapore <b>from 21 Feb 2022, 2359h</b> will only need to u
 <li style="font-size:18px; line-height:1.4;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at Woodlands and Queen Street Bus Terminals or any <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li> 
 </ol>
 Fully vaccinated and recently recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.
-
+	</body>
+</html>
 
 <div id="FAQ"></div>
 	
