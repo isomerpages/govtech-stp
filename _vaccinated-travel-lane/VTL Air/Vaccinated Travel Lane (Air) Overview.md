@@ -219,23 +219,17 @@ input:checked + label + .content {
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>European Union Member States or non-EU countries* that have joined the EU DCC system (listed <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">here</a>):</b> <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> of vaccination. One certificate, showing the final dose in the series. 
 		<p style="line-height:1.3; margin-top:15px; font-size:18px; color:red;">* Travellers must continue to fulfill all <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including travel history requirements, and must arrive in Singapore on a designated VTL flight.</p>
 	</li>
-	<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Denmark, Finland, France, Germany, Italy, Netherlands, Spain, Sweden, Switzerland:</b> <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> of vaccination issued by any <a href="/vtl/requirements-and-process#countries">VTL (Air) country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). </li>-->
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Fiji:</b> COVID-19 Vaccination Certificate issued by Republic of Fiji</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Hong Kong [For applications from 22 Feb 2022, 1000h]:</b> COVID-19 Electronic Vaccination Record retrieved from the iAM Smart app</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> Covid-19 Vaccination Certificate in the international format, available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.</li>	
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> International COVID-19 Vaccination Certificate issued via the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
-		<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> International Travel Certificate in the <a target="_blank" href="https://divoc.egov.org.in/">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a target="_blank" href="https://www.pedulilindungi.id/">PeduliLindungi app</a></li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Maldives:</b> COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a href="https://covidsafe.gov.mv/" target="_blank">website</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a target="_blank" href="https://mysejahtera.malaysia.gov.my/intro_en/">MySejahtera app</a></li>-->
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Philippines [For applications from 1 Mar 2022, 1000h]: </b> COVID-19 Vaccination Certificate (VaxCertPH) issued by the Department of Health</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Qatar:</b> COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a target="_blank" href="https://cert-covid19.moph.gov.qa/Home/Index">website</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Republic of Korea:</b> Static vaccination certificate QR code on the <a target="_blank" href="https://ncv.kdca.go.kr/coov">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA) downloaded from the <a target="blank" href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&amp;MnLv2=3">KDCA website</a></li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia [For applications from 22 Feb 2022, 1000h]:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a target="_blank" href="https://ta.sdaia.gov.sa/en/index">Tawakkalna app</a></li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Sri Lanka:</b> Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Thailand:</b> International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Arab Emirates [For applications from 22 Feb 2022, 1000h]:</b> Proof of vaccination on the <a target="_blank" href="https://alhosnapp.ae/en/home">AlHosn app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Kingdom:</b> 
 			<ol style="list-style-type:lower-alpha;">
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a target="_blank" href="https://www.gov.uk/guidance/nhs-covid-pass">National Health Service (“NHS”) COVID Pass</a> of vaccination; or</li>
@@ -258,12 +252,6 @@ input:checked + label + .content {
 			</ol>
 		</li>
 	</ol>
-	<!--<p style="font-size:18px; margin-top:25px; margin-bottom:15px; line-height:1.35;"><b>Deferred until further notice:</b></p>
-	<ol style="margin-top:0px; list-style-type: disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Qatar:</b> COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a> </li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Arab Emirates:</b> Proof of vaccination (e.g. COVID-19 Vaccination Card) on the <a href="https://alhosnapp.ae/en/home" target="_blank">AlHosn app</a></li>
-	</ol>-->
 </div>
 
 <input id="title3" type="checkbox">
