@@ -229,61 +229,90 @@ Note: Bookings not cancelled up to 7 days after the scheduled booking date will 
 #### 5. Can ATP holders choose to undergo the on-arrival COVID-19 PCR test in clinics or hospitals in Singapore?
 
 No, ATP holders are required to undergo the on-arrival COVID-19 PCR test at the airport. A testing facility has been set up within the airport with a safe management process in place to enable travellers to undergo the test as smoothly and quickly as possible after disembarkation from their flight and arrival immigration clearance.
-6. What happens if travellers refuse to undergo the on-arrival COVID-19 PCR test at the airport?
+
+#### 6. What happens if travellers refuse to undergo the on-arrival COVID-19 PCR test at the airport?
+
 Among other measures which may be taken. if travellers refuse to undergo the on-arrival COVID-19 PCR test, they may have their ATP cancelled and be refused entry into Singapore. In such an event, travellers may also be liable for all cost incurred for their repatriation, including custody and maintenance pending repatriation.
-7. What should travellers do if they do not receive their on-arrival COVID-19 PCR test results after 24 hours?
+
+#### 7. What should travellers do if they do not receive their on-arrival COVID-19 PCR test results after 24 hours?
+
 Please email airborder@rafflesmedical.com for enquiries related to on-arrival COVID-19 PCR test results.
-For travellers entering from 21 February 2022, 2359h
-1. What are the test centres that travellers can go to for their supervised ARTs?
+
+---
+
+<div id="after21"></div>
+
+#### <u>For travellers entering from 21 February 2022, 2359h</u>
+
+#### 1. What are the test centres that travellers can go to for their supervised ARTs?
+
 They can visit any of the Quick Test Centres (QTCs) or Combined Test Centres (CTCs).
-2. Can travellers choose to undergo the supervised ART at other clinics in Singapore?
+
+#### 2. Can travellers choose to undergo the supervised ART at other clinics in Singapore?
+
 Yes, travellers may choose to undergo the on-arrival COVID-19 ART test at other clinics or hospitals in Singapore. However, the cost of the COVID-19 ART test may be higher than those at the QTC/CTCs. 
-3. How much does the supervised ART cost?
+
+#### 3. How much does the supervised ART cost?
+
 The cost of the supervised ART is S$15 (inclusive of Goods and Services Tax), with payment to be made at the QTC/CTC through cashless modes, such as Mastercard, NETS, PayNow and Visa.
-4. Can travellers bring their own ART self-test kits to the test centres?
+
+#### 4. Can travellers bring their own ART self-test kits to the test centres?
+
 No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
-5. How do travellers book their appointments for their supervised ARTs?
+
+#### 5. How do travellers book their appointments for their supervised ARTs?
 Travellers will be provided with a weblink to book their ARTs at a Quick Test Centre (QTC) or Combined Test Centre (CTC) via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC).
-6. What do travellers need to bring for their supervised ART appointment?
+
+#### 6. What do travellers need to bring for their supervised ART appointment?
+
 Travellers will need to bring along a photo identification for verification.
-7. Are children required to undergo supervised ARTs?
+
+#### 7. Are children required to undergo supervised ARTs?
+
 Children aged 2 and below in this calendar year are not required to undergo the. Children aged 3 to 12 must undergo their supervised ART at the Quick Test Centres (QTC) or Combined Test Centres (CTCs) and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
-8. Do travellers need to self-isolate after their supervised ART?
+
+#### 8. Do travellers need to self-isolate after their supervised ART?
+
 Yes, travellers must self-isolate after their supervised ART until their test result is conveyed.
 Except for attending the supervised ART, travellers are required to self-isolate in their declared accommodation until they are notified that they have tested negative. Travellers may only take private transportation, taxi, or private hire car between the QTC/CTC and their accommodation. Public transportation is not allowed.
-9. How soon will the results of the supervised ARTs be out?
+
+#### 9. How soon will the results of the supervised ARTs be out?
+
 If tested positive for their supervised ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number).
 Travellers with a registered local mobile number can expect to receive their results via SMS within 2 hours. Those without a local mobile number can expect to receive their results via email within 12 hours.
+
 Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
-10. What should travellers do if they have an invalid ART result for their supervised ART?
+
+#### 10. What should travellers do if they have an invalid ART result for their supervised ART?
+
 Travellers with an invalid ART result for their supervised ART will be required to return for a retest. This will be provided free-of-charge.
-11. What are the penalties if travellers fail to undergo their supervised ART within 24 hours of arrival?
+
+#### 11. What are the penalties if travellers fail to undergo their supervised ART within 24 hours of arrival?
+
 Failure to undergo the supervised ART may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
 
 A traveller who fails to undergo the supervised ART may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
 
 Further, the traveller’s ATP may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future ATP applications may also be rejected.
-12. What should travellers do if they do not receive their supervised self-administered ART results after 24 hours?
+
+#### 12. What should travellers do if they do not receive their supervised self-administered ART results after 24 hours?
+
 Please email testingops@hpb.gov.sg for enquiries related to the supervised self-administered ART results.
-General Matters
-1. What are the requirements for transportation upon arrival?
-Upon arrival, travellers are to immediately take private transportation, taxi, or private hire car (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps) to their declared place of accommodation. Public transportation is not allowed.
-Travellers may be picked up by their company / family member / friend in a private vehicle. There should not be more than one person picking the traveller up.
-Travellers must be transported directly to their destination. All persons in the private vehicle must wear face masks throughout the journey. The following precautionary measures are also strongly encouraged:
-•	The traveller should sit alone in the back seat and the front passenger seat should be left unoccupied.
-•	If more than one traveller is picked up, travellers sharing the same vehicle should have the same travel history and head to the same declared accommodation.
-•	The vehicle windows should be wound down and the air-conditioning turned off, where practical.
-•	After the traveller has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the National Environment Agency (NEA) guidelines for surface cleaning and disinfection.
-2. What should travellers do if their flight arrives earlier than their hotel check-in time?
+
+### General Matters
+
+#### 1. What are the requirements for transportation upon arrival?
+
+Please refer to this <a href="/health/faq#transport" target="_blank">transport advisory</a>.
+
+#### 2. What should travellers do if their flight arrives earlier than their hotel check-in time?
+
 Travellers must proceed immediately to their place of accommodation for self-isolation. They are not allowed to stay in the airport or wait in the hotel lobby prior to check-in. They should seek their hotel’s assistance to arrange for early check-in. If this is not possible, they can cancel or modify their reservation and arrange a booking at another hotel for self-isolation.
-3. What should travellers do if they test positive for COVID-19?
+
+#### 3. What should travellers do if they test positive for COVID-19?
+
 Should you test positive for COVID-19, you will be placed on Protocol 2 of MOH’s Health Protocols by default and should self-isolate for at least 72 hours at your place of accommodation. You may refer to https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor for details on Protocol 2. If you were planning to depart from Singapore, you are required to defer your travel plans until you complete self-isolation and obtain a negative ART result. If you are a higher-risk individual and tested positive on your ART, please visit a clinic to seek medical advice immediately even if you are feeling well. If you feel unwell while in Singapore, please refer to https://www.covid.gov.sg/travellers. Prevailing medical treatment and recovery charges may apply.
 Please also note that if a traveller’s test result is confirmed to be positive, all persons who had shared the same room with the traveller, as well as those identified to be a close contact, may be served with a Health Risk Warning (HRW).
-
-
-
-
-
 
 
 <div id="contact"></div>
