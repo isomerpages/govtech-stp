@@ -185,7 +185,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Travellers from <u>all countries/regions</u> may enter Singapore on a urgent short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane (DCEV). Only a maximum of <u>two visitors per case</u> is allowed. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore and can be found in the <a href="/dcev/overview" target="_blank">"DCEV overview"</a>.</p>
 		
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;"><p style="margin-top:20px; margin-bottom:20px; line-height:1.35;"><a href="/dcev/overview" target="_blank">Click here</a> for an overview of the DCEV and entry requirements. </p>
+<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;"><p style="margin-top:20px; margin-bottom:20px; line-height:1.35; text-algin:center;"><a href="/dcev/overview" target="_blank">Click here</a> for an overview of the DCEV and entry requirements. </p>
 		</div>
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Applications for urgent emergency entry can be submitted via this <a href="https://go.gov.sg/sto-enquiry">enquiry form</a>, selecting <i>“appeal for entry into Singapore under compassionate reasons”</i> as the enquiry category. </p>
