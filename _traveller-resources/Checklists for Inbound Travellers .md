@@ -12,6 +12,8 @@ permalink: /travel-checklist/overview
 	</li>
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl-land/travel-checklist">Vaccinated Travel Lane (Land)</a>
 	</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl-sea/travel-checklist">Vaccinated Travel Lane (Sea)</a>
+	</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/atp/requirements-and-process">Air Travel Pass</a>
 	</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Returning Singapore Citizens and Permanent Residents Lane, Familial Ties Lane, and Student’s Pass Lane <br>
