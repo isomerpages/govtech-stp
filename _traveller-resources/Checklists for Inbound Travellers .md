@@ -34,7 +34,7 @@ permalink: /travel-checklist/overview
 	      </ol></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><ol style="list-style-type:disc;">
 	      <li style="line-height:1.5;font-size:18px;"><a href="/travel-checklist/category-1" target="_blank">Category (I)</a></li>
-	      <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/" target="_blank">Category (II)/(III)/(IV)</a></li></ol></td>
+	      <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-2-3-4" target="_blank">Category (II)/(III)/(IV)</a></li></ol></td>
     </tr>
 				</tbody>
 			</table>			
