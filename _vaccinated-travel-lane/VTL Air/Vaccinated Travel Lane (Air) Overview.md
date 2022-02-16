@@ -220,11 +220,11 @@ input:checked + label + .content {
 		<p style="line-height:1.3; margin-top:15px; font-size:18px; color:red;">* Travellers must continue to fulfill all <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including travel history requirements, and must arrive in Singapore on a designated VTL flight.</p>
 	</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Fiji:</b> COVID-19 Vaccination Certificate issued by Republic of Fiji</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Hong Kong [For applications from 22 Feb 2022, 1000h]:</b> COVID-19 Electronic Vaccination Record retrieved from the iAM Smart app</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Hong Kong [For applications from 22 Feb 2022, 1000h]:</b> COVID-19 Electronic Vaccination Record retrieved from the <a href="https://www.iamsmart.gov.hk/en/" target="_blank">iAM Smart app</a></li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> Covid-19 Vaccination Certificate in the international format, available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.</li>	
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> International COVID-19 Vaccination Certificate issued via the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Philippines [For applications from 1 Mar 2022, 1000h]: </b> COVID-19 Vaccination Certificate (VaxCertPH) issued by the Department of Health</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Philippines [For applications from 1 Mar 2022, 1000h]: </b> COVID-19 Vaccination Certificate (<a href="https://vaxcert.doh.gov.ph/" target="_blank">VaxCertPH</a>) issued by the Department of Health</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Qatar:</b> COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a target="_blank" href="https://cert-covid19.moph.gov.qa/Home/Index">website</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Republic of Korea:</b> Static vaccination certificate QR code on the <a target="_blank" href="https://ncv.kdca.go.kr/coov">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA) downloaded from the <a target="blank" href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&amp;MnLv2=3">KDCA website</a></li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia [For applications from 22 Feb 2022, 1000h]:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a target="_blank" href="https://ta.sdaia.gov.sa/en/index">Tawakkalna app</a></li>
@@ -357,7 +357,7 @@ input:checked + label + .content {
 	
 <p style="line-height:1.3; font-size:18px;">SC/PR/LTPHs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore.</p>
 	
-<p style="line-height:1.3; font-size:18px;">SC/PR/LTPHs will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. They are strongly encouraged to self-verify their vaccination certificate prior to their trip by referring to the guide <a target="_blank" href="/vtl/faq#verify">here</a>. MOM LTPHs may also obtain an acceptance letter from the Vaccination Check Portal and present it in lieu of an accepted proof of vaccination. Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
+<p style="line-height:1.3; font-size:18px;">SC/PR/LTPHs will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. They are strongly encouraged to self-verify their vaccination certificate prior to their trip by referring to the guide <a target="_blank" href="/vtl/faq#verify">here</a>. MOM LTPHs may also obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination. Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
 </div>
 	
 <input id="title7" type="checkbox">
@@ -383,7 +383,7 @@ input:checked + label + .content {
 	</tbody>
 	</table>
 	<ol style="margin-top:0px; list-style-type:disc;">
-					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Long-Term Pass holders (excluding Work Permit holders) who are entering Singapore from 21 Feb 2022, 2359h, do not need to apply for a VTP (Air).</li>
+					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Long-Term Pass holders (excluding Work Permit holders) who are entering Singapore <b>from 21 Feb 2022, 2359h</b>, do <u>not</u> need to apply for a VTP (Air).</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTP (Air) applications are open for travellers intending to enter Singapore <b>3-60 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers do not need to rush to apply as there is no limit on VTPs issued per day.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Get ready your passport, <a target="_blank" href="/vtl/faq#QRcode">proof of vaccination</a> and self-isolation address before applying.</li>
@@ -407,22 +407,22 @@ input:checked + label + .content {
 ### 4. COVID-19 Tests and Documents Required
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.35;">Travellers who are eligible for VTL (Air), and have obtained their Vaccinated Travel Pass if needed, should refer to this <a target="_blank" href="/vtl/travel-checklist">VTL (Air) traveller checklist</a> for the full list of requirements to complete VTL (Air) travel. </p>
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers arriving before 21 Feb 2022, 2359h will need to undergo the following COVID-19 tests:</p>
+<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers arriving <b>before 21 Feb 2022, 2359h</b> will need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or professionally administered Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 PCR test upon arrival at Singapore Changi Airport (S$125, <a href="https://safetravel.changiairport.com/" target="_blank">payment here</a>)</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation,  in addition to fulfilling their pre-departure and on-arrival testing requirements.</li>
 	</ol> 
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers entering Singapore from 21 Feb 2022, 2359h will only need to undergo the following COVID-19 tests:</p>
+<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers entering Singapore <b>from 21 Feb 2022, 2359h</b> will only need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 PCR or professionally administered ART taken within 2 days before departure for Singapore</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at a Quick Test Centre (QTC) or Combined Test Centre (CTC) within 24 hours of arrival in Singapore</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at a <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li>
 </ol>
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">For their journey to Singapore, travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. The table below summarises the key documents travellers have to bring along.</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">The following table is applicable to travellers entering Singapore from 21 Feb 2022, 2359h:</p>
+<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">The following table is applicable to travellers entering Singapore <b>from 21 Feb 2022, 2359h</b>:</p>
 <table>
 <thead>
 <tr>
@@ -465,7 +465,7 @@ input:checked + label + .content {
 </tr>	
 </tbody>
 </table>
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">* <i>MOM LTPHs may obtain an acceptance letter from the Vaccination Check Portal and present it in lieu of an accepted proof of vaccination.</i></p>
+<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">* <i>MOM LTPHs may obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</i></p>
 
 <div id="FAQ"></div>
 
