@@ -4,7 +4,6 @@ permalink: /vtl/faq
 description: ""
 published: false
 ---
-
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:10px; color:red; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35"><span style="color:red;"><b>This page contains FAQs for travellers who have understood the entry requirements into Singapore via the Vaccinated Travel Lane (Air/Land/Sea). Singapore time (SGT) is used for all dates and times shown on this page. If you are not clear on the VTL (Air/Land/Sea) requirements, please refer to the VTL (Air) Overview page, VTL (Land) Overview page or VTL (Sea) Overview page before reading this FAQ page.</b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35"><span style="color:red;"><b>Travellers intending to travel out of Singapore to a country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</b></span></p>
@@ -28,7 +27,7 @@ published: false
 <div id="top"></div>
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:decimal;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VTLReq">Vaccinated Travel Lane (Air) [VTL (Air)] Requirements</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VTLReq">Vaccinated Travel Lane (VTL) Requirements</a></li>
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VacReq">Vaccination Requirement</a>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
@@ -38,8 +37,8 @@ published: false
 	</li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#THReq">Travel History Requirement</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Test</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Flight">Designated VTL (Air) Flights</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test at the Airport and Self-Isolation</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Flight">Designated VTL (Air) Flights/VTL (Land) Buses/ VTL (Sea) Ferries</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 Test and Self-Isolation</a></li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#postarrivaltests">Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#AdditionalReq">Additional Requirements for Short-Term Visitors</a>:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
