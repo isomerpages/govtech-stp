@@ -4,6 +4,17 @@ permalink: /atp/conditions
 ---
 ### **Conditions of Air Travel Pass**
 
+Please refer to the applicable ATP Conditions based on your date of entry into Singapore:
+<ol>
+	<li>Before 21 February 2021, 2395hrs (SGT)</li>
+	<li>On or after 21 February 2021, 2395hrs (SGT)</li>
+</ol>
+
+---
+
+
+### ATP Conditions (for Arrivals Before 21 February 2021, 2395hrs SGT)
+
 <ol style="font-size:20px;">
   <li style="font-size:20px; list-style-type:decimal;"> An Air Travel Pass holder must: 
      <ol style="font-size:18px; list-style-type:lower-alpha;">
