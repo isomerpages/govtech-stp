@@ -131,7 +131,7 @@ input:checked + label + .content {
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Malaysia Citizen</li>
 	</ol>
 	<p></p>
-<p style="line-height:1.4; font-size:18px;"><i>*Holders of an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass) who are Malaysia citizens should apply as "Short-Term Visitors" for their Vaccinated Travel Pass. Those who are not Malaysia Citizens are not allowed to enter Singapore under the VTL (Land).</i></p>
+<p style="line-height:1.4; font-size:18px;"><i>*Holders of an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass) who are not Malaysia Citizens are not allowed to enter Singapore under the VTL (Land).</i></p>
 </div>
 
 <input id="title2" type="checkbox">
@@ -141,12 +141,13 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px;">Travellers who are above the age of 12 in this calendar year must receive the required WHO EUL vaccine doses, below, at least two weeks before arrival in Singapore:
 	</p><ol style="list-style-type:disc">
 		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Pfizer/BioNTech (BNT162b2 / Comirnaty / Tozinameran), at least 2 doses 17 days apart</li>
-		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Moderna (mRNA-1273), at least 2 doses 24 days apart </li>
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Moderna (mRNA-1273/Spikevax), at least 2 doses 24 days apart </li>
 		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">AstraZeneca (AZD1222 Vaxzevria), at least 2 doses 24 days apart</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Covishield, at least 2 doses 24 days apart</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Sinopharm, at least 2 doses 17 days apart</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Sinovac, at least 2 doses 13 days apart</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Covaxin, at least 2 doses 24 days apart</li>
+			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Novavax (NVX-CoV2373/Covovax/Nuvaxovid), at least 2 doses 17 days apart</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Mix of any vaccines above, at least 2 doses 17 days apart</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Janssen/J&amp;J (Ad26.COV2.S), 1 dose</li>
 	</ol>
@@ -158,7 +159,7 @@ input:checked + label + .content {
 <label for="title3">Criterion 3: Hold an Accepted Proof of Vaccination</label>
 
 <div style="background-color:#edf4fa;" class="content" id="criteria">	
-	<p style="line-height:1.4; font-size:18px;">Travellers must obtain a digitally verifiable vaccination certificate for application, pre-departure checks and immigration clearance. Please refer to <a target="_blank" href="/vtl-land/faq#digitalcertsQ2">this guide</a> for acceptable proof of vaccination.</p>
+	<p style="line-height:1.4; font-size:18px;">Travellers must obtain a digitally verifiable vaccination certificate for application, pre-departure checks and immigration clearance. Please refer to <a target="_blank" href="/vtl/faq">this guide</a> for acceptable proof of vaccination.</p>
 </div>
 	
 <input id="title4" type="checkbox">
@@ -167,7 +168,7 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content" id="criteria">	
 	<p style="line-height:1.4; font-size:18px;">Travellers must:
 		</p><ol style="list-style-type:lower-roman">
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a target="_blank" href="/shn-and-swab-summary">Category (I) country</a> in the last 14 consecutive days before departing for Singapore; and </li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category (I) country</a> in the last 14 consecutive days (for travellers arriving <b>before 22 Feb 2022</b>), or last 7 consecutive days (for travellers arriving <b>from 22 Feb 2022</b>), before departing for Singapore; and</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
 					<ol style="list-style-type:disc;">
 <li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a target="_blank" href="https://www.causewaylink.com.my">Handal Indah</a></li>
@@ -276,15 +277,15 @@ input:checked + label + .content {
 
 
 <input id="title6" type="checkbox" class="test1">
-<label for="title6" class="test2">Singapore Citizens (SC) &amp; Permanent Residents (PR)</label>
+<label for="title6" class="test2">Singapore Citizens (SC), Permanent Residents (PR) &amp; Long-Term Pass Holders (LTPH)</label>
 
 <div style="background-color:#edf4fa;" class="content" id="scpr">	
-	<p style="line-height:1.4; font-size:18px;">SC/PRs and unvaccinated children aged 12 and below in this calendar year do not need to apply for entry via VTL (Land). </p>
-		<p style="line-height:1.4; font-size:18px; margin-top:15px;"><span style="color:red;">However, all travellers, including SC/PRs must comply with the requirements stated in the</span> <a target="_blank" href="/vtl-land/travel-checklist">traveller checklist</a>, which summarises the <a target="_blank" href="/vtl-land/conditions">VTL (Land) Conditions</a>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
+	<p style="line-height:1.4; font-size:18px;">SC/PRs/LTPHs (excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year do not need to apply for entry via VTL (Land). </p>
+		<p style="line-height:1.4; font-size:18px; margin-top:15px;"><span style="color:red;">However, all travellers must comply with the requirements stated in the</span> <a target="_blank" href="/vtl-land/travel-checklist">VTL (Land) traveller checklist</a>, which summarises the <a target="_blank" href="/vtl-land/conditions">VTL (Land) Conditions</a>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 	</div>
 	
 <input id="title7" type="checkbox" class="test1">
-<label for="title7" class="test2">Singapore-issued Long-Term Pass Holders &amp; Malaysian Citizens</label>
+<label for="title7" class="test2">Work Permit Holders &amp; Short-Term Visitors</label>
 
 <div style="background-color:#edf4fa;" class="content" id="ltph">
 	<p style="line-height:1.4; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (LAND) (VTP LAND)</b>.</p>
@@ -292,9 +293,9 @@ input:checked + label + .content {
 		</p><ol style="margin-top:0px; list-style-type:disc;">
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> <b>Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><b>Applicants must apply for VTPs between 3 and 60 calendar days before their date of departure.</b></li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTPs are valid for <b>13 calendar days</b> from the traveller's chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. (e.g. a traveller holding a VTP (Land) for entry into Singapore on 1 Dec 2021 may enter Singapore on a designated VTL (Land) bus service any day from 1- 14 Dec 2021 (inclusive). The traveller should reapply for a VTP if he is unable to enter during this period.)</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTPs are valid for up to 14 calendar days from the traveller's chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. Travellers not travelling during this date range can apply for a VTP later.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Accompanying children aged 12 and below and are unvaccinated do <b><u>not</u></b> need to apply. </li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Travellers must comply with the <a target="_blank" href="/vtl-land/conditions">VTL (Land) conditions</a>, details can be found this <a target="_blank" href="/vtl-land/travel-checklist">travel checklist</a>. Failing which, they may be denied entry to Singapore.</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Travellers must comply with the <a target="_blank" href="/vtl-land/conditions">VTL (Land) conditions</a>, details can be found this <a target="_blank" href="/vtl-land/travel-checklist">VTL (Land) travel checklist</a>. Failing which, they may be denied entry to Singapore.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTP (Land) and VTP (Air) are not interchangeable, a separate application for VTP (Air) is required if travelling by air.</li>
 		<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements (<b>see Criterion 3 above</b>), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate.</li>-->
 	</ol>
