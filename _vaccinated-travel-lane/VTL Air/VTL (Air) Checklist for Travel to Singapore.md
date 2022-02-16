@@ -205,7 +205,7 @@ label.box {
 	</div>
 		<input id="Cambodia-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Cambodia-cert" class="accordion"><b>Cambodia</b></label>
-		<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Card issued by the Ministry of Health / Ministry of Defence in Cambodia
+		<div style="background-color:#ededed;" class="content">Covid-19 Vaccination Certificate issued by the Kingdom of Cambodia
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
 			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
 		<input id="Canada-cert" type="checkbox" class="accordion">
@@ -216,7 +216,7 @@ label.box {
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using these tools: <a target="_blank" href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier">SMART Health Card Verifier</a> (Android) or <a target="_blank" href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390">SMART Health Card Verifier</a> (iOS)</li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
   <ol style="list-style-type:disc;">
-    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One (containing information on each dose)</li>
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose</li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:54px; height:84px;" src="/images/QR_Canada.png"></li>
     </ol>
   </li>
@@ -260,9 +260,14 @@ label.box {
 		<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Certificate issued by Republic of Fiji
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
 			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
+			<input id="Hongkong-cert" type="checkbox" class="accordion">
+<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Hongkong-cert" class="accordion"><b>Hong Kong <i>[For applications from 22 Feb 2022, 1000h]</i></b></label>
+		<div style="background-color:#ededed;" class="content">COVID-19 Electronic Vaccination Record retrieved from the <a href="https://www.iamsmart.gov.hk/en/" target="_blank">iAM Smart app</a>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
+			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
 			<input id="India-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="India-cert" class="accordion"><b>India</b></label>
-		<div style="background-color:#ededed;" class="content">International Travel Certificate in the <a target="_blank" href="https://divoc.egov.org.in/">Digital Infrastructure for Vaccination Open Credentialing (DIVOC) standard</a>, available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.
+		<div style="background-color:#ededed;" class="content">Covid-19 Vaccination Certificate in the international format available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
 <ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using the tool on the <a target="_blank" href="https://verify.cowin.gov.in/">Co-Win website</a></li>
@@ -276,9 +281,19 @@ label.box {
 </div>
 <input id="Indonesia-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="Indonesia-cert" class="accordion"><b>Indonesia</b></label>
-		<div style="background-color:#ededed;" class="content">Proof of vaccination on the <a target="_blank" href="https://www.pedulilindungi.id/">PeduliLindungi app</a>
+		<div style="background-color:#ededed;" class="content">International COVID-19 Vaccination Certificate issued via the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
 			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
+			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>[For applications from 21 Feb 2022, 2359h]</b></p>
+			<ol style="list-style-type: lower-roman;">
+  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code on the <a href="https://verify.kemkes.go.id/" target="_blank">Kementerian Kesehatan Republik Indonesia website</a></li>
+  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
+  <ol style="list-style-type:disc;">
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose.</li>
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br>	<td style="border:0px;"><img style="width:57px; height:75px; vertical-align:middle;" src="/images/QR_Denmark_1.png"></td></li>
+    </ol>
+  </li>
+    </ol>
 </div>
 					<input id="Malaysia-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="Malaysia-cert" class="accordion"><b>Malaysia</b></label>
