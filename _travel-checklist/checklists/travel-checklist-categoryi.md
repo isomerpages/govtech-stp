@@ -122,13 +122,19 @@ label.box {
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination status as shown in the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile application</a></li>
 	</ol>
 </div>	
-	<p style="font-size:18px;margin-bottom:15px;line-height:1.35;">(Click “+” to expand for details)</p>
-<input class="accordion" type="checkbox" id="proof-of-vax">
-<label class="accordion" for="proof-of-vax"><b>Vaccinated in Singapore</b></label>
-	<div class="content" style="background-color:#ededed;"><ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:disc;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination certificate </li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination status as shown in the <a href="https://www.healthhub.sg/" target="_blank">HealthHub mobile application</a></li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination status as shown in the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile application</a></li>
+<input class="accordion" type="checkbox" id="proofoverseas">
+<label class="accordion" for="proofoverseas"><b>Vaccinated Overseas</b></label>
+	<div class="content" style="background-color:#ededed;"><ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:upper-alpha;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Digitally-verifiable vaccination certificate; OR </li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">English, or English translated and notarised vaccination certificate with the following details:
+			<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Name (per travel document used for entry)</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Country of vaccination</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination date(s)</li>
+			</ol>
+		</li>
 	</ol>
 </div>	
 </div>	
