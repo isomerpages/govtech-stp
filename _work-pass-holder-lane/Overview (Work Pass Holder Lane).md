@@ -63,7 +63,7 @@ The following traveller types are eligible to travel under the WPHL. All pass ho
 <ol style="list-style-type:decimal;">
 <li style="line-height:1.5;">Confinement nannies</li>
 <li style="line-height:1.5;">Helpers</li>
-<li style="line-height:1.5;">Foreigners currently on or have in-principle approval (IPA) for any of these passes that are valid for at least 15 days from their planned arrival date:
+<li style="line-height:1.5;">Foreigners currently on any of these passes that are valid for at least 15 days from their planned arrival date:
 <ol style="list-style-type:disc;">
 <li style="line-height:1.5;">Dependant’s Pass</li>
 <li style="line-height:1.5;">Employment Pass</li>
@@ -85,13 +85,13 @@ For passes or IPAs that have less than 15 days of validity, please renew the pas
 
 ### 2.	Travel History and Travel Health Control Measures 
 
-<a href="/wphl/shn-and-swab-summary" target="_blank">CLICK HERE</a> to check the latest travel health control measures (e.g. Stay-Home Notice and COVID-19 tests) set on pass holders using the WPHL, and the costs of the various measures. The measures imposed are based on the pass holder’s 14-day travel history to various countries/regions before arriving in Singapore.
+<a href="/wphl/shn-and-swab-summary" target="_blank">CLICK HERE</a> to check the latest travel health control measures (e.g. Stay-Home Notice and COVID-19 tests) for pass holders using the WPHL, and the costs of the various measures. The measures imposed are based on the pass holder’s travel history to various countries/regions before arriving in Singapore.
 
-If pass holders are departing from a Vaccinated Travel Lane country/region and intend to return via the Vaccinated Travel Lane instead to enjoy quarantine-free travel, they should apply for a Vaccinated Travel Pass instead. Click the links below for more information on: 
+If pass holders are departing from a Vaccinated Travel Lane country/region, they should consider returning via the Vaccinated Travel Lane instead to enjoy quarantine-free travel. Click the links below for more information on: 
 
 -	<a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>
 -	<a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a>
-
+-	<a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a>
 
 <div id="application"></div>
 
