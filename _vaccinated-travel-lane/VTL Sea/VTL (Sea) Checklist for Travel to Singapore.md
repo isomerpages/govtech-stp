@@ -192,4 +192,71 @@ third_nav_title: VTL Sea
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
 
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="2A">
+<input id="2A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="2A" class="box">&nbsp;&nbsp;<b>Stage 2A: Pre-boarding document checks</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><span style="color:red; font-size:28px;">⚠</span> <b>Travellers may be denied boarding if they do not provide all the required documentation.</b></p>
+	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top: 0px;">When checking in at the ferry terminal, travellers must present to the regional ferry operator staff all the documents listed below, except the following groups of travellers.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Singapore Citizens/Permanent Residents:</b> Present (ii) and (iv) below.</p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Short Term Visitors and Work Permit Holders:</b> Present (i), (ii), (iv), (v) and (vi) below, in physical/hard-copy or electronic/soft-copy format:</p>
+<ol style="list-style-type:lower-roman;">
+		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Vaccinated Travel Pass (Sea) [VTP (Sea)] for the specified period of entry;</li>
+		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Valid pre-departure COVID-19 PCR test or Antigen Rapid Test (ART) for entry into Singapore showing a negative test result <u><b>or</b></u> <a href="#recovery">Proof of Recovery</a> (for recovered travellers);</li>
+				<li style="line-height:1.35 margin-bottom:10px; font-size:18px;">Valid visa (for visa-required visitors);</li>
+						<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Acceptable proof of vaccination (same proof as at <a href="#1A">Stage 1A</a>).</li>
+	<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Show proof of hotel booking confirmation and payment for duration of stay in Singapore;</li>
+	<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Show proof of return ferry ticket corresponding to duration of hotel stay in Singapore.</li>
+	</ol>
+	</div>
 
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input id="3A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="3A" class="box">&nbsp;&nbsp;<b>Stage 3A: Clear Arrival Immigration</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="color:red; font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">⚠</span> <b>Travellers may be refused entry into Singapore by the Immigration &amp; Checkpoints Authority (ICA) if they do not provide all the required documentation.</b></p>
+  <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Follow the instructions provided by the officers and signages on arrival.</p>
+ <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#2A">Stage 2A</a>. </p>
+ <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><b>Short-term visitors must also present a physical or electronic copy of their travel insurance policy, hotel booking confirmation and payment for duration of stay in Singapore, and a return ferry ticket corresponding to the duration of hotel stay in Singapore.</b></p>
+  </div>
+  
+  <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input id="3C" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="3B" class="box">&nbsp;&nbsp;<b>Stage 3B: Travel to Declared Self-Isolation Accommodation</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Commute directly to your declared self-isolation accommodation immediately upon  arrival at the ferry terminal. You may do so using private transport, taxi, or private hire cars (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps).</p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px; color:red;"><span style="font-size:22px; color:red;"><b>✕</b>&nbsp;</span><b>Using public transport (e.g. trains or public buses) is prohibited for those required to undergo self-isolation. </b></p>
+  </div>
+
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Self-isolation</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input id="4A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="4A" class="box">&nbsp;&nbsp;<b>Stage 4A: Self-Isolate Pending OAT Results</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">All travellers <b>must</b> self-isolate at their declared accommodation (per <a href="#1F">Stage 1F</a>) until they receive a negative COVID-19 ART test result (likely within 24 hours).</p>
+  </div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input id="4B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="4B" class="box">&nbsp;&nbsp;<b>Stage 4B: Exit from Self-Isolation</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers can only leave their self-isolation accommodation <b>after</b> a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. </p>
+	    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">The result could be released to the traveller via email or call, around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether</a> or <a target="_blank" href="https://www.healthhub.sg/HealtheServices">HealthHub App</a>.</p>
+	 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers who test positive for COVID-19 must abide by the relevant COVID-19 recovery protocol immediately. You may refer to <a target="_blank" href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor">this link</a> for more details on Protocol 2. For more information on what to do if you feel unwell while in Singapore, please refer to <a target="_blank" href="https://www.covid.gov.sg/travellers">this link</a>. Prevailing <a target="_blank" href="/health/insurance-and-treatment#cost">medical treatment and recovery charges</a> may apply.</p>
+  </div>
+
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 5: Stay in Singapore</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input id="5A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="5A" class="box">&nbsp;&nbsp;<b>Stage 5A: Proof of Vaccination for Local Safe Management Measures</b></label></div>
+<div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">You must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&amp;B establishments, entering shopping malls, attending certain events etc.). You must also comply with all other <a target="_blank" href="https://www.moh.gov.sg/covid-19-phase-advisory">public health measures</a>. This includes the use of the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a>. Some activities in Singapore may require you to present a proof of vaccination.</p>
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>[SC/PRs with an overseas-issued vaccination certificate]</b> If you are unable to upload your vaccination certificate successfully during SG Arrival Card submission, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, to be eligible for VDS, Your vaccination status will be updated on your TraceTogether app.</p>
+	 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers should exercise personal responsibility, minimise their social interactions, and refrain from high-risk mask off activities (such as dining in F&B establishments, exercising in gyms and attending fitness classes), as well as avoid large gatherings and crowded places for 7 days from arrival, even if they have a negative daily ART result. Travellers who are unwell, including those showing early/mild symptoms should be socially responsible and seek medical attention immediately.</p>
+	    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b style="color:red">❓</b>&nbsp; Please click <a target="_blank" href="https://www.moh.gov.sg/covid-19-phase-advisory">here</a> for the latest public health measures and VDS and <a target="_blank" href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">here</a> for more FAQs on inland public health measures.</p>
+</div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input id="5B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="5B" class="box">&nbsp;&nbsp;<b>Stage 5B: Post-Arrival COVID-19 ARTs</b></label></div>
+<div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. born in or after 2020) do not require any post-arrival ARTs.</b></p>
+		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp;<b>Travelers who qualify for the <a target="_blank" href="/vaccinated-recovered">Vaccinated-Recovered Traveller Protocol</a> are exempted from the post-arrival COVID-19 ARTs.</b></p>
+</div>
