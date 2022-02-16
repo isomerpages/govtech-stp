@@ -56,3 +56,15 @@ third_nav_title: VTL Sea
 </div>
 
 
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input id="1D" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1D" class="box">&nbsp;&nbsp;<b>Stage 1D: Check Travel/Transit History &amp; Secure Tickets for a Designated VTL (Air) Flight</b></label></div>
+<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">All VTL travellers MUST:</p>
+<ol style="list-style-type:lower-roman;">
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Have <b>only</b> travelled to / transited via any VTL countries/regions, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days (or 7 consecutive days, for travellers entering Singapore <b>from 21 Feb 2022, 2359h</b>) before departure for Singapore; and</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Sea) ferry. Please check the websites of the respective regional ferry operators for the date of commencement of VTL (Sea) ferry and the ferry details. <u><b>Not all ferries departing from the VTL (Sea) countries/regions and operated by the regional ferry operator are designated.</b></u> Travellers are strongly encouraged to consult the regional ferry operator to confirm the designated VTL (Sea) ferries.</li>
+	</ol>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><a target="_blank" href="">Click here to find out which airlines are offering VTL ferries to Singapore based on your country/region of departure.</a>
+</p>
+</div>
+
