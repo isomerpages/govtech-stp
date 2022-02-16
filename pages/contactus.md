@@ -37,11 +37,9 @@ You can find the following forms of commonly requested support on this page:
   </tr>
 </thead>
 <tbody>
-	   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Vaccinated Travel Lane (VTL) Tests and Protocols for a Positive Antigen Rapid Test (ART)</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers arriving in Singapore <b>before 23 Jan 2022, 2359h</b>, via VTL (Air) or (Land) will be subject to an on-arrival test,  unsupervised self-administered antigen Rapid Test (ART) on Days 2, 4, 5 and 6 with submission of results online, and supervised ART on Days 3 and 7 from their arrival.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers arriving in Singapore <b>from 23 Jan 2022, 2359h</b>, via VTL (Air) or (Land) will perform an on-arrival test, and self-administered ART from Day 2 to 7 of their arrival.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travelers who test positive on their ART do not need to undergo a confirmatory PCR test. However, they must self-isolate for 72 hours and take an ART at the end of the period. Self-isolation ends if the traveller tests negative on their ART. Otherwise, take another ART 24 hours later. Visit <a href="https://covid.gov.sg/travellers" target="_blank">https://covid.gov.sg/travellers</a> for more details on recovery protocols for travellers.</p>
+	  <tr>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Requirements for travellers arriving before 21 Feb 2022, 2359h SGT</b> </td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers arriving before 21 Feb 2022, 2359h SGT will continue to be subject to Category I-IV health measures, and the 7-day VTL testing regime. Only travellers arriving from 21 Feb 2022, 2359h SGT will qualify for the <a href="/news-and-media/press-releases/" target="_blank">revised border measures announced on 16 Feb 2022</a>.</p>
 </td>
  </tr>
 		   <tr>
@@ -52,14 +50,13 @@ You can find the following forms of commonly requested support on this page:
 </td>
  </tr>
 			   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>End of Stay-Home Notice (SHN) and exit from SHN accommodation</b> </td>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Date of exit from Stay Home Notice (SHN)</b> </td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">A Stay-Home Notice (SHN) takes effect immediately on the day of its issuance and travellers must remain in their SHN accommodation for the period specified in the notice. An SHN ends <b>after</b> the traveller receives a negative exit COVID-19 Polymerase Chain Reaction Test ("exit PCR test"), or completes the specified SHN period, <b>whichever is later</b>. See illustration below, and use the SHN end date calculator <a href="/shn-calculator" target="_blank">here</a>.</p>
-<div style="padding-left: 5px; padding-bottom: 20px; margin-top:20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;"><p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><b>Illustration:</b></p><p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Travellers Y and Z were issued a 7-day SHN on 1 January 2022. Their 7-day SHN period will stretch from 1 to 8 January 2022. Both travellers have gone for their exit PCR test.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><b>Illustration:</b></p><p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Travellers Y and Z were issued a 7-day SHN on 1 January 2022. Their 7-day SHN period will stretch from 1 to 8 January 2022. Both travellers have gone for their exit PCR test.</p>
 <ol style="padding-left:20px; list-style-type:disc; margin-top:10px; margin-bottom:0px;">
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Traveller Y received his negative exit PCR test result on 7 January 2022, but can only leave his SHN accommodation on 8 January 2022. </li>
 		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Traveller Z only received her negative exit PCR test result on 9 January 2022 (day after 7-day SHN was supposed to end). Traveller Z can only leave SHN accommodation on 9 January 2022.</li>
 	</ol>
-		 </div>
 </td>
  </tr>
 	 <tr>
@@ -110,6 +107,7 @@ You can find the following forms of commonly requested support on this page:
 					<ul>
 				<li style="line-height:1.35;">Vaccinated Travel Lane (Air)</li>
 				<li style="line-height:1.35;">Vaccinated Travel Lane (Land)</li>
+				<li style="line-height:1.35;">Vaccinated Travel Lane (Sea)</li>
 				<li style="line-height:1.35;">Work Pass Holder General Lane*</li>
 			</ul>
 		</td>

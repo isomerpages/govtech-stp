@@ -12,7 +12,8 @@ permalink: /atp/faq
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
 				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Test</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#pcrtest">On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test</a></li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#oat">On-Arrival COVID-19 Test and Self-Isolation</a></li>
+				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#general">General Matters</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#contact">Contact Tracing – TraceTogether</a></li>
 		</ol>
 		</li>
@@ -25,10 +26,14 @@ permalink: /atp/faq
 #### 1. What is an ATP?
 
 An ATP allows visitors  travelling from one of the following countries/regions to seek entry into Singapore:
-- Hong Kong
+- Hong Kong*
 - Macao
 - Mainland China
 - Taiwan
+
+<i>With effect from <b>24 Feb 2022, 2359h (SGT)</b>, short-term visitors with travel history to Hong Kong, within the last 7 days before departure for Singapore, will not be allowed to enter Singapore using the ATP. Travellers holding approved ATPs which are valid for entry before 24 Feb 2022, 2359h (SGT), may continue to travel to Singapore via the ATP. Those who have not applied for an ATP before 17 Feb 2022, 2359h(SGT) but need to travel to Singapore before 25 Feb 2022 urgently may write to the Safe Travel Office at <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a>.</i>
+
+<i>Travellers who intend to enter Singapore <b>from 24 Feb 2022, 2359h (SGT)</b>, may be eligible for travel under the <a href="/vtl/travel-checklist" target="_blank">Vaccinated Travel Lane (Air)</a>. Applications for the Vaccinated Travel Pass (Air) will open on <b>22 Feb 2022, 1000hrs (Singapore time)</b>. Travellers must fulfill all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a> to be eligible for entry under the VTL (Air).</i>
 
 The ATP comes with [conditions](/atp/conditions) of travel that the applicant must comply with.
 
@@ -41,11 +46,12 @@ To apply for an ATP, please [click here](/atp/apply-now). Do note that applicati
 
 We will endeavour to get back to the applicant within three working days.
 
-#### 4. Is there a fee to apply for an ATP?
+#### 4. Is there a fee payable to travel under the ATP?
 
-No, there is no fee payable for the application of an ATP. However, with effect from 16 September 2021, applicants will have to make payment for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test when they receive the payment notification email. Applications will only be approved when payment is received by the deadline indicated in the payment notification email.
+No, there is no fee payable for the application of an ATP. 
 
-For applications made before 16 September 2021, applications will have to make pre-payment for their on-arrival COVID-19 PCR test separately at [https://safetravel.changiairport.com/](https://safetravel.changiairport.com/)
+However, there are <a href="#oat">costs for testing</a> which must be borne by the traveller. 
+
 
 #### 5. Do visitors travelling with family members need to apply an ATP for every individual?
 
@@ -56,6 +62,7 @@ Yes, each visitor will require an ATP. In the case of a minor (below 18 years ol
 There is no limit to the number of times visitors can apply for an ATP. Every entry into Singapore requires a new ATP application.
 
 #### 7. How long is the validity of an ATP?
+
 An ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
 
 For example, visitors who hold a valid ATP to enter Singapore on 1 October 2021, have up to 8 October 2021 to do so should they need to make changes to their flight departure date.
@@ -98,28 +105,10 @@ Visitors must comply with the ATP Conditions [here](/atp/conditions).
 
 Visitors entering Singapore on ATP may travel to Singapore on flights with transit stops in any country/region, with a total scheduled transit duration (ground time) of less than 24 hours.
 
-#### 3. What must visitors present to airline staff during check-in at the departure airport for Singapore?
-
-When checking in at the departure airport, visitors must present the following to the airline staff:
-- a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore; and
-- a valid visa (for visa-required visitors); and
-- a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) test result certificate (electronic or physical copy) in English stating the following:
-<ol style="list-style-type:disc;">
-	<li>the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the ATP holder's passport used for entry into Singapore;</li>
-	<li>a negative COVID-19 test result;</li>
-	<li>the date and time when the COVID-19 test was taken, which must be within 2 days before departure for Singapore; and </li>
-	<li>the name of the testng institution conducting the COVID-19 test, which must be from the list of <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratories, clinics, or medical facilities</a></li>
-	</ol>
-- <b>[for recovered travellers only]</b> a valid <a href="/atp/requirements-and-process#recovery" target="_blank">proof of recovery</a>
-
-A visitor who does not have any of the above may be refused boarding by the airline.
-
-Children who are aged 2 and below in that calendar year, are not required to undergo a pre-departure COVID-19 test. 
-
-
-#### 4. Do visitors need a return flight ticket to enter Singapore?
+#### 3. Do visitors need a return flight ticket to enter Singapore?
 
 Visitors travelling on the ATP do not need a return flight ticket to enter Singapore. However, they are advised to check with the relevant authorities on the procedures and approval needed to return to their country/region of departure, or to enter their onward destination.
+
 
 <div id="visa"></div>
 
@@ -195,75 +184,146 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 
 <div id="pcrtest"></div>
 
-### On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test
+### On-Arrival COVID-19 Test
 
 <div id="OATnote"></div>
 
-<i style="color:red;">Note: Children aged 2 and below in this calendar year are not required to undergo an on-arrival COVID-19 PCR test. Fully vaccinated recovered travellers entering Singapore may qualify for exemption from the on-arrival COVID-19 PCR test. Please refer <a href="/vaccinated-recovered" target="_blank">this page </a> for more information.</i>
+<i style="color:red;">Note: Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo an on-arrival COVID-19 test. Fully vaccinated recently-recovered travellers entering Singapore may qualify for exemption from the on-arrival COVID-19 test. Please refer <a href="/vaccinated-recovered" target="_blank">this page </a> for more information.</i>
 
-#### 1. Are visitors required to take an on-arrival COVID-19 PCR test?
+<i style="color:red;">Travellers entering Singapore from 21 February 2022, 2359h, will no longer be required to undergo an on-arrival COVID-19 Polymerase Chain Reaction (PCR) test at the airport. Instead, they will need to complete a supervised self-administered Antigen Rapid Test (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC) within 24 hours of arrival in Singapore. Please jump to the relevant section based on your intended date of entry into Singapore.</i>
 
-Upon arrival in Singapore, all visitors except those <a href="#OATnote">listed above</a> must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport, in lieu of a Stay-Home Notice. The test results will likely be available within 24 hours.
+<ol style="list-style-type: disc;">
+	<li><a href="#before21">For travellers entering before 21 February 2022, 2359h</a></li>
+	<li><a href="#after21">For travellers entering after 21 February 2022, 2359h</a></li>
+	</ol>
 
-After taking the COVID-19 PCR test, visitors are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. After being notified of their negative test results, visitors will be allowed to go about their activities in Singapore.
 
-To expedite the COVID-19 PCR test at the airport, visitors should pre-book and make payment <a href="https://safetravel.changiairport.com/#/">here</a>.
+<div id="before21"></div>
 
-#### 2. What types of transportation do visitors need to use when going from the airport to their declared place of accommodation, after taking the COVID-19 PCR test?
+#### <u>For travellers entering before 21 February 2022, 2359h</u>
 
-After taking the COVID-19 PCR test, visitors are to immediately take private transportation, taxi, or private hire car (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps) from the airport to their declared place of accommodation.
-	
-#### 3. Can visitors shop and eat at Changi Airport and visit Jewel Changi Airport upon arrival in Singapore?
+#### 1. Where is the on-arrival COVID-19 test conducted?
 
-No, visitors are not allowed to shop and eat at Changi Airport, including Jewel Changi Airport. This is because visitors are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. 
+The on-arrival COVID-19 PCR test will be conducted at a testing facility within the airport, after arrival immigration clearance and baggage collection. Travellers will be guided by airport staff to the testing site.
 
-The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall.
+#### 2. How much does the on-arrival COVID-19 test cost?
 
-Visitors will only be allowed to go about their activities in Singapore after being notified of their negative test results.
+Each PCR test costs S$125 (including Goods and Services Tax). You are strongly encouraged to <a href="https://safetravel.changiairport.com/" target="_blank">book and make payment</a> for the test before you arrive in Singapore.
 
-#### 4. What types of accommodation do visitors need to use while waiting for their test results?
+#### 3. If my travel plans have changed, how do I edit the booking for my on-arrival COVID-19 PCR test at the airport?
 
-Travellers can self-isolate at any of the following locations:
- <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="margin-top:10px; margin-bottom:0px;  line-height:1.5;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for <a href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation" target="_blank">Private Property</a> and <a href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat" target="_blank">HDB flat / Bedroom</a>); or</li>
-	              <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.5;">non-residential accommodation such as hotel or serviced apartment in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
-     </ol>
-  <p style=" margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Advisory for travellers self-isolating with household members]</b> Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. However, travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in a room and minimise contact. If this is not feasible, travellers are advised to consider alternative accommodation.</p><p style=" margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-		      <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.0;">Lower the lid before flushing the toilet;</li>
-		       <li style="margin-top:10px; margin-bottom:0px;  line-height:1.0;">Clean and disinfect contact surfaces after each use; and</li>
-		       <li style=" margin-top:10px; margin-bottom:0px;  line-height:1.0;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation.</li>
-	    </ol>
+To edit a booking:
 
-#### 5. Can visitors share the same room with family members / travel companions / a caretaker (due to a certified disability or special needs) while waiting for their PCR test results?
+1.	Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a> , navigate to ‘My Trips’ and choose the specific trip that you wish to change.
 
-Yes, while waiting for their PCR test results, visitors are allowed to share the same room with their family members, travel companions or a caretaker, if they share similar travel history in the past 14 days prior to departure for Singapore.
+2.	If you do not have a STC account, please request for assistance to change your trip details by emailing <a href="mailto:swabtest.datechange@changiairport.com" target="_blank">swabtest.datechange@changiairport.com</a>.
 
-Please also note that if the visitor’s test result is confirmed to be positive, all persons who had shared the same room with the visitor, as well as those identified to be a close contact, will be issued a Quarantine Order by the Singapore Ministry of Health (MOH).
+Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
 
-#### 6. Do children need to undergo an on-arrival COVID-19 PCR test?
+#### 4. If I need to cancel my trip, how do I obtain a refund for my on-arrival COVID-19 PCR test at the airport?
 
-Children below 3 years of age in that calendar year are not required to undergo an on-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
+To cancel and request for a refund of your booking:
 
-#### 7. How much is the on-arrival COVID-19 PCR test at the airport?
+1.	Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a>, navigate to ‘My Trips’ and choose the specific trip that you wish to cancel.
+2.	If you do not have a STC account, please request for assistance to cancel and refund your booking by emailing <a href="mailto:swabtest.refund@changiairport.com" target="_blank">swabtest.refund@changiairport.com</a>.
 
-The cost of the COVID-19 PCR test is S$125 (inclusive of Goods and Services Tax). Visitors will bear the cost of the test in Singapore.
+Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
 
-To expedite the COVID-19 PCR test at the airport, visitors should pre-book and make payment [here](https://safetravel.changiairport.com/).
+#### 5. Can ATP holders choose to undergo the on-arrival COVID-19 PCR test in clinics or hospitals in Singapore?
 
-#### 8. What happens if visitors refuse to undergo the on-arrival COVID-19 PCR test?
+No, ATP holders are required to undergo the on-arrival COVID-19 PCR test at the airport. A testing facility has been set up within the airport with a safe management process in place to enable travellers to undergo the test as smoothly and quickly as possible after disembarkation from their flight and arrival immigration clearance.
 
-If visitors refuse to undergo the on-arrival COVID-19 PCR test, they may be refused entry into Singapore and have their ATP cancelled. In such an event, visitors may also be liable for all costs incurred for their repatriation, including custody and maintenance pending repatriation.
+#### 6. What happens if travellers refuse to undergo the on-arrival COVID-19 PCR test at the airport?
 
-#### 9. Can my company / family member / friend pick me up from the airport in a private vehicle and transport me to my declared place of accommodation where I will be waiting for my COVID-19 PCR test results?
+Among other measures which may be taken. if travellers refuse to undergo the on-arrival COVID-19 PCR test, they may have their ATP cancelled and be refused entry into Singapore. In such an event, travellers may also be liable for all cost incurred for their repatriation, including custody and maintenance pending repatriation.
 
-Visitors entering Singapore on an approved Air Travel Pass may be picked up from the airport by their company / family member / friend in a private vehicle. There should not be more than one person picking the visitor up from the airport. 
+#### 7. What should travellers do if they do not receive their on-arrival COVID-19 PCR test results after 24 hours?
 
-Visitors must be transported directly to their declared place of accommodation to await their COVID-19 PCR test results. All persons in the private vehicle must wear face masks throughout the journey. The following precautionary measures are also strongly encouraged:
-- The visitor should sit alone in the back seat and the front passenger seat should be left unoccupied.
-- If more than one visitor is picked up, visitors sharing the same vehicle should have the same travel history and head to the same declared accommodation.
-- The vehicle windows should be wound down and the air-conditioning turned off, where practical.
-- After the visitor has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the National Environment Agency (NEA) guidelines for surface cleaning and disinfection.
+Please email <a href="mailto:airborder@rafflesmedical.com" target="_blank">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
+
+---
+
+<div id="after21"></div>
+
+#### <u>For travellers entering after 21 February 2022, 2359h</u>
+
+#### 1. What are the test centres that travellers can go to for their supervised ARTs?
+
+They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>.
+
+#### 2. Can travellers choose to undergo the supervised ART at other clinics in Singapore?
+
+Yes, travellers may choose to undergo the on-arrival COVID-19 ART test at other clinics or hospitals in Singapore. However, the cost of the COVID-19 ART test may be higher than those at the QTC/CTCs. 
+
+#### 3. How much does the supervised ART cost?
+
+The cost of the supervised ART is S$15 (inclusive of Goods and Services Tax), with payment to be made at the QTC/CTC through cashless modes, such as Mastercard, NETS, PayNow and Visa.
+
+#### 4. Can travellers bring their own ART self-test kits to the test centres?
+
+No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
+
+#### 5. How do travellers book their appointments for their supervised ARTs?
+
+Travellers will be provided with a weblink to book their ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC).
+
+#### 6. What do travellers need to bring for their supervised ART appointment?
+
+Travellers will need to bring along a photo identification for verification.
+
+#### 7. Are children required to undergo supervised ARTs?
+
+Children aged 2 and below in this calendar year are not required to undergo the. Children aged 3 to 12 must undergo their supervised ART at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
+
+#### 8. Do travellers need to self-isolate after their supervised ART?
+
+Yes, travellers must self-isolate after their supervised ART until their test result is conveyed.
+
+Except for attending the supervised ART, travellers are required to self-isolate in their declared accommodation until they are notified that they have tested negative. Travellers may only take private transportation, taxi, or private hire car between the QTC/CTC and their accommodation. Public transportation is not allowed.
+
+#### 9. How soon will the results of the supervised ARTs be out?
+
+If tested positive for their supervised ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number).
+
+Travellers with a registered local mobile number can expect to receive their results via SMS within 2 hours. Those without a local mobile number can expect to receive their results via email within 12 hours.
+
+Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
+
+#### 10. What should travellers do if they have an invalid ART result for their supervised ART?
+
+Travellers with an invalid ART result for their supervised ART will be required to return for a retest. This will be provided free-of-charge.
+
+#### 11. What are the penalties if travellers fail to undergo their supervised ART within 24 hours of arrival?
+
+Failure to undergo the supervised ART may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
+
+A traveller who fails to undergo the supervised ART may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
+
+Further, the traveller’s ATP may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future ATP applications may also be rejected.
+
+#### 12. What should travellers do if they do not receive their supervised self-administered ART results after 24 hours?
+
+Please email <a href="mailto:testingops@hpb.gov.sg" target="_blank">testingops@hpb.gov.sg</a> for enquiries related to the supervised self-administered ART results.
+
+
+<div id="general"></div>
+
+### General Matters
+
+#### 1. What are the requirements for transportation upon arrival?
+
+Please refer to this <a href="/health/faq#transport" target="_blank">transport advisory</a>.
+
+#### 2. What should travellers do if their flight arrives earlier than their hotel check-in time?
+
+Travellers must proceed immediately to their place of accommodation for self-isolation. They are <u>not allowed</u> to stay in the airport or wait in the hotel lobby prior to check-in. They should seek their hotel’s assistance to arrange for early check-in. If this is not possible, they can cancel or modify their reservation and arrange a booking at another hotel for self-isolation.
+
+#### 3. What should travellers do if they test positive for COVID-19?
+
+Should you test positive for COVID-19, you will be placed on Protocol 2 of MOH’s Health Protocols by default and should self-isolate for at least 72 hours at your place of accommodation. You may refer to <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank">https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor</a> for details on Protocol 2. If you were planning to depart from Singapore, you are required to defer your travel plans until you complete self-isolation and obtain a negative ART result. If you are a higher-risk individual and tested positive on your ART, please visit a clinic to seek medical advice immediately even if you are feeling well. If you feel unwell while in Singapore, please refer to https://www.covid.gov.sg/travellers. Prevailing <a href="/health/insurance-and-treatment#cost" target="_blank">medical treatment and recovery charges</a> may apply.
+
+Please also note that if a traveller’s test result is confirmed to be positive, all persons who had shared the same room with the traveller, as well as those identified to be a close contact, may be served with a Health Risk Warning (HRW).
+
 
 <div id="contact"></div>
 

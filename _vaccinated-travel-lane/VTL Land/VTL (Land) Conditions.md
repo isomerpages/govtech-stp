@@ -1,8 +1,12 @@
 ---
 title: VTL (Land) Conditions
-permalink: /vtl-land/conditions
+permalink: /vtl-land/testconditions
 description: ""
+third_nav_title: VTL Land
+published: false
 ---
+
+
 ### Conditions of the Vaccinated Travel Lane Land [VTL (Land)]
 
 <ol style="line-height:1.5; padding-bottom:10px;">
@@ -10,7 +14,7 @@ description: ""
 <li style="line-height:1.5;">A VTL (Land) Traveller must comply with the following conditions:
 <ol style="list-style-type:lower-latin; line-height:1.5; padding-bottom:10px;">
 	<li>be <a href="/health/vtsg" target="_blank">fully vaccinated</a>, and have an <a href="/vtl-land/faq#digitalcertsQ2" target="_blank">acceptable proof of vaccination</a>;</li>
-	<li>have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL countries/regions</a>, [<a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a>] and/or Singapore, for the last 14 consecutive days before departing for Singapore (last 7 consecutive days for VTL travellers arriving <b>from 22 Feb 2022</b>;</li>
+	<li>have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL countries/regions</a>, [<a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a>] and/or Singapore, for the last 14 consecutive days before departing for Singapore;</li>
 <li>travel to Singapore on a designated VTL (Land) bus service;</li>
 <li>undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART), within 2 days<sup>1</sup> before the scheduled departure time of the bus service, at a <a href="https://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/ANNEX-4a-SENARAI-MAKMAL-YANG-MENJALANKAN-UJIAN-RT-PCR-BAGI-COVID-19-24012022.pdf" target="_blank">laboratory</a> or <a href="https://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Saringan%20Covid-19" target="_blank">centre</a> that is accredited or recognised by the Malaysia Ministry of Health, and obtain a test result certificate in English stating the following:
 <ol style="list-style-type:lower-roman; line-height:1.5; padding-left:10px; padding:bottom:10px;">
@@ -21,8 +25,8 @@ description: ""
 	</ol>
 	</li>
 	<li style="padding-top:10px;">purchase medical and/or travel insurance, with a minimum coverage of S$30,000 for covid-19-related medical treatment and hospitalisation costs in Singapore, prior to travelling to Singapore.</li>
-	<li style="padding-top:10px;">undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange (travellers entering from 21 Feb 2022, 2359 hours may take a supervised self-swab ART as their On-Arrival COVID-19 test within 24 hours of arrival, at a Quick Test Centre or Combined Test Centre. The weblink to book the test will be provided in the Testing Notice issued on arrival);</li>
-	<li>undergo self-administered COVID-19 ARTs using  <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on Days 2 to 7 of their arrival in Singapore (travellers entering Singapore from 21 Feb 2022, 2359 hours will no longer be required to take unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival);</li>
+	<li style="padding-top:10px;">undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange;</li>
+	<li>undergo self-administered COVID-19 ARTs using  <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> on Days 2 to 7 of their arrival in Singapore;</li>
 <li style="padding-top:10px;">download the TraceTogether app on his/her mobile device and:
 <ol style="list-style-type:lower-roman; line-height:1.5;padding-left:10px;">	
 	<li>keep the TraceTogether app activated at all times while in Singapore;</li>

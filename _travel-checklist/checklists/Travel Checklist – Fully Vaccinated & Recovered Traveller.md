@@ -3,7 +3,6 @@ title: Travel Checklist – Fully Vaccinated & Recovered Traveller
 permalink: /vaccinated-recovered
 description: ""
 ---
-
 <p style="line-height:1.3; font-size: 18px;">This checklist applies only to Vaccinated-Recovered Travellers who are:</p>
 
 <ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
@@ -11,14 +10,21 @@ description: ""
 		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Certified positive for COVID-19 between 7- 90 days (inclusive) before departure for Singapore</li>
 	</ol>
 	
-<p style="line-height:1.3; font-size: 18px;">You may use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> to determine if you qualify as a Vaccinated-Recovered traveller. If you do not qualify, please refer to the prevailing requirements under your Safe Travel Lane or return to the <a href="/arriving/overview">Travelling to Singapore</a> page if you are unsure which Safe Travel Lane to use.</p>
+<p style="line-height:1.3; font-size: 18px;">You may use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> to determine if you qualify as a Vaccinated-Recovered traveller.</p>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>A) Application for Entry Approval</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Entry Approvals are needed only for travellers who are:</p>
+<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Long Term Pass Holders (e.g. Student Pass, Work Pass, S-Pass, Dependant Pass) entering Singapore <b>before 21 Feb 2022, 2359H SGT</b></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Work Permit holders</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Short term visitors (including family members under the Familial Ties Lane and Student Pass Holder Lane)</li>
+	</ol>
+<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">Long Term Pass Holders (excluding Work Permit Holders) <b>entering from 21 Feb 2022 2359H</b>, as well as Singapore Citizens and Permanent Residents, <b>do not need to apply or present an entry approval to enter Singapore</b>. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes. Unsure which lane you’re eligible for entry, return to the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page.</p> 
+	<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
   </div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
@@ -83,9 +89,10 @@ description: ""
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="2A"><label class="box" for="2A">&nbsp;&nbsp;<b>Pre-boarding Document Checks</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">To ensure that the traveller is approved for entry into Singapore, travellers will be asked by the transport operator (e.g. airline) to produce the following during pre-boarding checks:<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3; ">Medical proof of a past COVID-19 infection in lieu of a valid Pre-Departure Test (see <a href="#1B">Stage 1B</a>)</li>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">To ensure that the traveller is approved for entry into Singapore, travellers will be asked by the transport operator (e.g. airline) to produce the following during pre-boarding checks:<ol style="padding-left:25px; font-size:16px; margin-top:20px; margin-bottom:0px; list-style-type:lower-roman;">
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3; ">Medical proof of a past COVID-19 infection in lieu of a valid Pre-Departure Test (see <a href="#1B">Stage 1B</a>); AND</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Valid Entry Approval Letter (only for travellers requiring entry approval (see <a href="#1A">Stage 1A</a>);</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Valid long-term pass and credible proof of vaccination (for long term pass holders only)</li>
 	</ol>
 	</p>
 	  <p style=" font-size:18px; margin-top: 0px; margin-bottom:0px; line-height:1.35;">Travellers who fail to produce these documents may be denied boarding.</p>
@@ -98,14 +105,13 @@ description: ""
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3A"><label class="box" for="3A">&nbsp;&nbsp;<b>A) Immigration Clearance and Registering Proof of Vaccination</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Vaccinated-Recovered Travellers <b>must clear immigration at the manual counters</b>. Clearance at the automated gates is disallowed.</p>
-		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">During immigration clearance, provide all documents, including medical proof of recent COVID-19 infection, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see <a href="#1E">Stage 1E</a>), of their <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> <b>which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
-		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers should also ask the immigration officer to register temporary vaccinated status in the TraceTogether app for use in Singapore’s  <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a> for the next 30 days, if they:</p>
+		<p style=" font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">During immigration clearance, provide all documents, including medical proof of recent COVID-19 infection, and information required by the immigration officer. Upon clearance, <b>air travellers</b> will receive an email, as provided in the SG Arrival Card (see <a href="#1E">Stage 1E</a>), of their <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> <b>which will state the period of stay granted</b>. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Fully vaccinated travellers <b>who are vaccinated overseas and unable to upload their digital vaccination certificates via the SG Arrival Card declaration (per Stage 1E)</b> should request the immigration officer to assist with the temporary registration of the traveller’s overseas vaccination status into their TraceTogether mobile application. With this, travellers will be able to show proof of their vaccination status using TraceTogether in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a> for 30 days.</p>
+		<p style=" font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><b>To facilitate the temporary registration of overseas vaccination records into TraceTogether, travellers must (be):</b></p>
 	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Do not possess a digitally-verifiable vaccination certificate, i.e. certificate with a QR code for verification;</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Are aged 12 and above; and</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance.</li>
 	</ol>
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
 	</div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
@@ -113,6 +119,6 @@ description: ""
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">After leaving the checkpoint, Vaccinated-Recovered Travellers may go about their activities while complying with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
 		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">For vaccination-differentiated settings (e.g. malls, dining out), travellers will be required to produce proof of vaccination. Travellers who have registered their vaccination status on their TraceTogether application during immigration clearance or via SGAC may do so using the app. </p>
-		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers who require longer term vaccinated status beyond 30 days, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
+		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers vaccinated overseas who require longer term vaccinated status beyond the temporary 30 day status granted on arrival, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
 		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">If you feel unwell, please refer to the <a href="https://covid.gov.sg" target="_blank">MOH traveller recovery protocol</a>.</p>
 	</div>

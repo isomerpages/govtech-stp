@@ -1,18 +1,18 @@
 ---
-title: Travel Checklist - Category(I)
-permalink: /travel-checklist/category-1
+title: Travel Checklist - Category(II)/(III)/(IV)
+permalink: /travel-checklist/category-2-3-4
+description: ""
 ---
 
 <p style="font-size:18px; line-height:1.35;">This checklist is for travellers who:</p>
 
 <ol>
-	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b style="color:red;">[Arrivals before 21 Feb 2022, 2359H]</b> <b>Have only</b> visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 14 days before arrival in Singapore</a>, and did not transit in any non-Category (I) countries/regions for a period exceeding 24 hours;</li>
-	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b style="color:red;">[Arrivals from 21 Feb 2022, 2359H]</b> <b>Have only</b> visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 7 days before arrival in Singapore</a>, and did not transit in any non-Category (I) countries/regions for a period exceeding 24 hours;</li>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Are entering Singapore <b>from 21 Feb 2022, 2359H only</b>;</li>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b>Have</b> visited any country/region in Category (II)/(III) the past 7 days before arrival in Singapore;</li>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b>Are not</b> entering Singapore via the Vaccinated Travel Lane (Air), (Land), (Sea), Reciprocal Green Lane, Periodic Commuting Arrangement, Work Pass Holder General Lane or Air Travel Pass. <i>(If unsure what these lanes/arrangements are, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page to determine an entry option that best suits your travel needs.)</i></li>
-	</ol>
-
+</ol>
+  
 <p style="font-size:18px; margin-top:20px; line-height:1.35;">Travellers who satisfy the above can print and refer to this page for the full set of administrative and health-related protocols. Indicate "☑" in the box (☐) for completed activities.</p>
-
 
 ### Stage 1: Pre-Departure for Singapore
 
@@ -109,10 +109,10 @@ label.box {
 	</ol>
 </p>
 	</div>
+  
+<div id="1B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Obtain Proof of Vaccination</b></i></div>	
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Obtain Proof of Vaccination</b></i></div>	
-	
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:15px;line-height:1.35;">Travellers may be asked for proof of vaccination for various travel-related declarations as well as pre-boarding and immigration checks. Depending on where you have received your vaccination, the following documents are considered acceptable vaccination proof:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:15px;line-height:1.35;">Travellers may be asked for proof of vaccination for various travel-related declarations, and pre-boarding as well as immigration checks. Depending on where you have received your vaccination, the following documents are considered acceptable vaccination proof:</p>
 	<p style="font-size:18px;margin-bottom:15px;line-height:1.35;">(Click “+” to expand for details)</p>
 <input class="accordion" type="checkbox" id="proof-of-vax">
 <label class="accordion" for="proof-of-vax"><b>Vaccinated in Singapore</b></label>
@@ -148,8 +148,8 @@ label.box {
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers are advised to defer travel if they have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">If you have recently recovered from COVID-19 within the last 90 days before departure:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: disc;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Entry approval requirements (Stage 1A, 1B) still apply.</li>
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-checker tool</a> to determine if you are eligible for the <a target="_blank" href="/vaccinated-recovered">Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the Vaccinated-Recovered Traveller Protocol instead</a> for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Entry approval requirements (<b>Stage 1A to 1C</b>) still apply.</li>
 </ol>
 <p style="font-size:18px;line-height:1.35;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
@@ -215,49 +215,57 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px;line-height:1.35;">Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>.</p>
 <p style="font-size:18px;line-height:1.35;">All SGAC submissions are free-of-charge, and <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> should also upload their digitally-verifiable vaccination certificate if they have one, i.e. certificate with a QR code. Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application temporarily for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings</a>.</p>
-	<p style="font-size:18px;margin-top:10px;line-height:1.35;">Travellers without a digitally-verifiable vaccination certificate can instead present their vaccination proof (as defined in <a href="#1A">Stage 1A</a>) during immigrations clearance for their vaccination status to be registered temporarily registered on TraceTogether (detail in Stage 3A).</p>
+	<p style="font-size:18px;margin-top:10px;line-height:1.35;">Travellers without a digitally-verifiable vaccination certificate can instead present their vaccination proof (as defined in <a href="#1B">Stage 1B</a>) during immigrations clearance for their vaccination status to be registered temporarily registered on TraceTogether (detail in Stage 3A).</p>
 </div>
 
-<div id="payment"></div>	
-	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b> G) [For arrivals before 21 Feb 2022, 2359h] Registration and Pre-payment for On-Arrival COVID-19 Test</b></i></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px;line-height:1.35;">Travellers should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.</p>
-</div>	
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>H) Installation of TraceTogether app</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>G) Installation of TraceTogether app</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>I) Secure Self-isolation Accommodation</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>H) Secure Accommodation for Stay-Home Notice</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">Travellers are required to remain in self-isolation at a declared accommodation until they receive a negative COVID-19 test result, which includes:</p>
-<ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;font-size:18px;">
-<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;font-size:18px;">Place of residence; or</li>
-<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;font-size:18px;">Hotel of choice from this <a target="_blank" href="https://sha.org.sg/hotel-accommodation">non-exhaustive list</a>.</li> 
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">Travellers must complete their 7-day Stay Home Notice (SHN) at a declared accommodation, which includes:</p>
+
+<ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;">
+<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Place of residence;</li> 
+<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Serviced apartment; or</li>
+<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>.</li>
+</ol>	
+
+<p style="font-size:18px;margin-bottom:15px; margin-top:15px; line-height:1.35;">(Click “+” to expand for details)</p>
+<input class="accordion" type="checkbox" id="accommodation">
+<label class="accordion" for="accommodation"><b>Accommodation Tips</b></label>
+	<div class="content" style="background-color:#ededed;"><p style="line-height:1.35; font-size:18px;">Before making a hotel booking, travellers should check and ensure that the hotel can accommodate guests serving SHN.</p><p style="line-height:1.35; margin-top:15px; font-size:18px;">Travellers serving SHN at their residence may do so with other household members of different vaccination status or travel history. However, the following precautions are strongly advised:
+		<ol style="padding-left: 20px; margin-top:20px;">
+<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Isolate in their own room during the 7-day period;</li>
+<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
 </ol>
-<p style="line-height:1.35;font-size:18px;">For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving self-isolation for the on-arrival test.</p>
-<p style="line-height:1.35;font-size:18px;">Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. Travellers residing with unvaccinated vulnerable household members, are strongly encouraged to isolate themselves in a room and minimise contact. They should also designate a specific bathroom to be used by themselves, if possible.</p>
+<ol style="padding-left: 60px; margin-top:20px; list-style-type: lower-roman;">
+<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Lower the lid before flushing the toilet;</li>
+<li style="font-size:18px; padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Clean and disinfect contact surfaces after each use; and</li>
+<li style="font-size:18px; padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
+</ol>
+		</p>  
+</div>	
 </div>
 
-### Stage 2: Departure for Singapore	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Pre-boarding Document Checks</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>Pre-boarding Document Checks</b></i></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the transport operator (e.g. airline) to produce the following during pre-boarding checks:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">To ensure that the traveller is eligible for entry into Singapore, they may be asked by the transport operator (e.g. airline) to produce the following during pre-boarding checks:</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">PDT reports or proof of recovery (per Stages <a href="#1C">1C</a> and <a href="#1D">1D</a>); and </li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid Entry Approval Letter (only for travellers requiring entry approval, see <a href="#1A">Stage 1A</a>)</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid long-term pass and credible proof of vaccination (for long term pass holders only)</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">PDT reports or proof of recovery (per Stages 1D and 1E); AND</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Valid Entry Approval Letter (only for travellers requiring entry approval, see <a href="#1A">Stage 1A</a>)</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Valid long-term pass and credible proof of vaccination (for long term pass holders only)</li>
 </ol>
 
-<p style="margin-top: 20px; line-height:1.35; font-size:18px;">Travellers who fail to produce these documents may be denied boarding.</p>
+<p style="line-height:1.35; font-size:18px;">Travellers who fail to produce these documents may be denied boarding.</p>
 </div>
 
 
 ### Stage 3: Arrival in Singapore
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Immigration Clearance and Proof of Vaccination Registration</b></i></div>
 
@@ -271,33 +279,59 @@ label.box {
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance.</li>
 </ol>
 </div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B)[For travellers arriving before 21 Feb 2022, 2359h] On-arrival COVID-19 Test</b></i></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">Follow the instructions of the officers at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test. </p>
-	<p style="line-height:1.35;font-size:18px;">Travellers who did not pay for the test before arival (see Stage 1F) will do so on the spot an expect additional delays in the administration of test and departure from checkpoint</p>
-	</div>
-
-
-### Stage 4: Health Protocols during Stay in Singapore
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A)  Commuting Arrangements</b></i></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">All commutes made <b>before</b> the traveller is tested negative for COVID-19 on their on-arrival test should only be made using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
-
-<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers may use public transport (e.g. trains, buses) only after they have tested negative on their on-arrival test.	</p>
-	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) [For travellers arriving from 21 Feb 2022, 2359H] 24H Supervised Self-Administered Antigen Rapid Test</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) Issuance of Stay Home Notice (SHN) </b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Travellers <b>must take a supervised self-administered Antigen Rapid Test (ART) within 24 hours of arrival in Singapore at a Quick Test Centre (QTC)</b>. Booking links for the test will be sent via SMS and found in the testing notice issued to travellers upon arrival. Payments for the test (S$15/per test) will be collected separately at the QTC.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">A 7-day Stay-Home Notice (SHN), which takes effect immediately on the day of issuance, will be sent to the email address provided by the traveller in their SGAC declaration (see <a href="#1E">Stage 1E</a>).</p></div>
 
-<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Upon the completion of the ART, travellers will receive their test result via SMS. Travellers who have yet to take their supervised self-administered ART must be in self-isolation until tested negative. Individuals who test positive for COVID-19 must adhere to the prevailing recovery protocols, including<a href="/health/insurance-and-treatment#treatment" target="_blank"> medical treatment</a> as necessary. The prevailing treatment charges will apply.	</p>
-	
-<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">As a travel requirement stipulated under the Infectious Diseases Act, travellers who fail to take the supervised self-administered ART will be penalised accordingly. This could amount to the revocation of relevant entry passes, and/or fines.</p>
-	</div>
-	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Abide by Local COVID-19 Measures including Vaccination-Differentiated Measures</b></i></div>
+<div id="stage3c"></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744; <i><b>C) Transport to Declared SHN Accommodation</b></i></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">Travellers must commute directly to their declared Stay-Home Notice (SHN) accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
+
+<p style="line-height:1.35; font-size:18px;">The use of public transport (e.g. trains, buses) is prohibited.</p>
+</div>
+
+### Stage 4: Stay-Home Notice and COVID-19 Tests
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Serve Stay-Home Notice (SHN)</b></i></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">A 7-day Stay-Home Notice (SHN) takes effect immediately upon its issuance, and travellers <b>must</b> remain in their declared SHN accommodation for the period specified in the SHN. To calculate the estimated SHN end date, click <a href="/shn-calculator" target="_blank">here</a> for an SHN calculator.</p>
+
+<p style="line-height:1.35; font-size:18px;">Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA to ensure compliance. For subsequent breaches, travellers can be fined, imprisoned, and/or have their residency/work permits revoked. During the SHN period, <a href="/health/shn#shn-compliance-checks" target="_blank">randomised in-person or phone/video compliance check(s) will be conducted</a> (see advisory below), and travellers may only leave their SHN accommodation in the following cases:</p>
+
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Directed by the relevant authorities to do so;</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; OR</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Received a negative PCR test result for the test taken before the end of the SHN.</li>
+</ol>
+
+<p style="line-height:1.35; font-size:18px;">The transport arrangements stated at <a href="#stage3c">Stage 3C</a> will apply for scenarios (a) and (b), above. Travellers requiring essentials during the SHN period may opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. For other SHN-related need, you may reach the SafeTravel Helpline at 6812 5555 (call charges apply) for assistance.</p> 
+
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; line-height:1.35; border-style: solid; border-width: 1px; margin-bottom:20px;">
+	<p style="margin-top:0px; margin-bottom:20px; line-height:1.35; color:red; font-size:18px;"><b>Anti-Scam Advisory</b></p> 
+<p style="margin-top:0px; margin-bottom:0px; line-height:1.35; font-size:18px;">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identify. For phone/video compliance checks, travellers will only be asked for the last four digits of their Identity Card or Travel Document for identity verification. Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
+</div>
+</div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) End-of-SHN COVID-19 Test</b></i></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">Travellers will be scheduled to take a mandatory COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of their SHN. Payment for the test (S$125/test, including GST) can be made via the payment link found in the Stay-Home Notice (SHN) issued; test priority will be accorded to travellers who have pre-paid for their test. Travellers who fail to pay for their test beforehand may do so at the testing facility and expect a longer wait time.</p>
+
+<p style="line-height:1.35; font-size:18px;">Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers who are unwell on the day of the test should remain in their accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant agencies</a>.</p>
+</div>
+
+### Stage 5: End of Stay-Home Notice
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Release from Stay-Home Notice (SHN)</b></i></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">The SHN will end after the traveller receives a negative test result (per Stage 4B) or upon completion of the 7-day SHN, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.</p>
+
+<p style="line-height:1.35; font-size:18px;">Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges will apply.</p>
+</div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">While in Singapore, travellers must comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
 
@@ -308,8 +342,8 @@ label.box {
 	
 <p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">If you feel unwell, please refer to the <a href="https://covid.gov.sg" target="_blank">MOH traveller recovery protocol</a>.</p>
 	</div>	
-	
+
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) [Long Term Pass Holders aged 12-18] Fulfil Vaccination Requirements </b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">As a condition for entry, unvaccinated or partially vaccinated long term pass holders above 12 years and below 18 years (by date of birth) must complete the full vaccination regimen within two months of arrival. Individuals whose medical condition disallows them from meeting this requirement, must be medically certified in Singapore to be ineligible for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>, within 30 days of arrival.</p>
-	</div>	
+	</div>

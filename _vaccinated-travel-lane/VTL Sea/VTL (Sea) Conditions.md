@@ -2,8 +2,9 @@
 title: VTL (Sea) Conditions
 permalink: /vtl-sea/conditions
 description: ""
-published: false
+third_nav_title: VTL Sea
 ---
+
 ### Conditions of the Vaccinated Travel Lane (Sea) [VTL (Sea)]
 
 <ol style="font-size:20px;">
@@ -40,7 +41,7 @@ published: false
 				<li style="font-size:18px; list-style-type:lower-roman;">upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore.</li>
 				 </ol>
 	</li>
-			  <li style="font-size:18px; list-style-type: upper-alpha;"> have made and paid for a <a href="https://www.stb.gov.sg/content/stb/en/home-pages/approved-hotels.html" target="_blank">hotel</a> booking for his/her duration of stay in Singapore;</li>
+			  <li style="font-size:18px; list-style-type: upper-alpha;"> have a <a href="https://www.stb.gov.sg/content/stb/en/home-pages/approved-hotels.html" target="_blank">hotel booking</a> confirmation and payment for his/her duration of stay in Singapore </li>
 			  <li style="font-size:18px; list-style-type: upper-alpha;"> have a return ferry ticket corresponding with the hotel booking duration of stay in Singapore;</li>
 	     <li style="font-size:18px; list-style-type: upper-alpha;"> purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs in Singapore, prior to travelling to Singapore;</li>
 	     <li style="font-size:18px; list-style-type:upper-alpha;"> adhere to all prevailing public health measures while in Singapore; and</li>

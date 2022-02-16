@@ -2,13 +2,28 @@
 title: ATP Requirements & Process
 permalink: /atp/requirements-and-process
 ---
+<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>NOTICE:</u></b></p>
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">The following measures are applicable for ATP holders entering Singapore <b>from 21 Feb 2022, 2359h (SGT)</b>.</p>
+			<ol style="font-size:16px; margin-top:0px; margin-bottom:0px; color:black;">
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">Assessed travel history will be reduced from 14 days to 7 days.</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">On-arrival Polymerase Chain Reaction (PCR) test at the airport will be replaced with a supervised self-administered Antigen Rapid Test (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC), to be completed within 24 hours of arrival in Singapore. Travellers who have prepaid for the PCR test can expect a refund from the Changi Airport Group (CAG) for their unutilised test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</li>
+	</ol>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;color:black;">ATP holders who enter Singapore before 21 Feb 2022, 2359h (SGT) are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7.</p>
+</div>
+
+
 ### Eligibility 
 
 Foreigners who are short-term visitors (including business and official travellers) travelling from one of the following countries/regions may apply for an Air Travel Pass (ATP) for travel to Singapore:
-- Hong Kong
+- Hong Kong*
 - Macao
 - Mainland China
 - Taiwan
+
+<i>With effect from <b>24 Feb 2022, 2359h (SGT)</b>, short-term visitors with travel history to Hong Kong, within the last 7 days before departure for Singapore, will not be allowed to enter Singapore using the ATP. Travellers holding approved ATPs which are valid for entry before 24 Feb 2022, 2359h (SGT), may continue to travel to Singapore via the ATP. Those who have not applied for an ATP before 17 Feb 2022, 2359h(SGT) but need to travel to Singapore before 25 Feb 2022 urgently may write to the Safe Travel Office at <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a>.</i>
+
+<i>Travellers who intend to enter Singapore <b>from 24 Feb 2022, 2359h (SGT)</b>, may be eligible for travel under the <a href="/vtl/travel-checklist" target="_blank">Vaccinated Travel Lane (Air)</a>. Applications for the Vaccinated Travel Pass (Air) will open on <b>22 Feb 2022, 1000hrs (Singapore time)</b>. Travellers must fulfill all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a> to be eligible for entry under the VTL (Air).</i>
 
 <span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders must travel via the [Returning SC/PRs lane](/sc-pr/overview), [Work Pass Holder General Lane](/wphl/overview) or [Student’s Pass Holder Lane](/stpl/overview). These travellers should not apply for an ATP to travel to Singapore.
 
@@ -99,7 +114,7 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>A) Check Travel/Transit History</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Visitors must have been to only one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore within the last 14 consecutive days before departing for Singapore. </p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Visitors must have been to only one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore within the last 14 consecutive days (or 7 consecutive days, for travellers entering Singapore <b>from 21 Feb 2022, 2359h</b>) before departing for Singapore. </p>
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Transits via other countries with a layover of less than 24 hours are not counted toward travel history. Visitors are not required to travel to Singapore on a direct flight; they may transit via a third country, so long as the transit duration is less than 24 hours.</p>
   </div>
 	
@@ -261,9 +276,10 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label class="box" for="3B">&nbsp;&nbsp;<b>B) Take On-Arrival COVID-19 Polymerase Chain Reaction (PCR) test</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Not applicable to:</p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><i><b><u>Note</u></b>: Travellers entering Singapore <b>from 21 Feb 2022, 2359h</b>, will no longer be required to undergo an on-arrival PCR test at the airport. Instead, they must complete a supervised self-administered Antigen Rapid Test (ART) at a <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore. The test will cost S$15 (inclusive of GST), with payment to be made at the QTC/CTC through cashless modes, such as Mastercard, NETS, PayNow and Visa. You will need to bring along your photo identification for verification.   Travellers who have prepaid for the PCR test can expect a refund from the Changi Airport Group (CAG) for their unutilised test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</i></p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Not applicable to:</p>
 	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:10px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Children aged two and below in this calendar year (i.e. child who has turned two this year); and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Children aged two and below in this calendar year (i.e. born in or after 2020); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Fully vaccinated recovered travellers</li>
 </ol>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Follow the instructions of officers at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
@@ -281,7 +297,7 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="4A"><label class="box" for="4A">&nbsp;&nbsp;<b>A) Serve Self-isolation Period</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers are <b>prohibited</b> from leaving their self-isolation accommodation (per Stage 1G) while waiting for the on-arrival test result. The results of the on-arrival COVID-19 PCR test will likely be available within 24 hours. </p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers are <b>prohibited</b> from leaving their self-isolation accommodation (per Stage 1G) while waiting for the on-arrival test result. The results of the on-arrival COVID-19 test will likely be available within 24 hours. </p>
 	</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 5: End of Self-isolation period</b></div>

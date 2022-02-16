@@ -40,7 +40,7 @@ description: ""
 	 </ol>
 </p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><i>*Includes the following MOM-issued work passes: Employment Pass, Entre Pass, Personalised Employment Pass, S Pass, Work Permit, Training Employment Pass, Training Work Permit and Work Holiday Pass. <b>Work Pass in-principal approval holders are ineligible for PCA and should obtain their <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore" target="_blank">entry approvals from MOM.</a></b></i></p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><i>*Includes the following MOM-issued work passes: Employment Pass, Entre Pass, Personalised Employment Pass, S Pass, Work Permit, Training Employment Pass, Training Work Permit and Work Holiday Pass. <b>Work Pass in-principle approval holders are ineligible for PCA and should obtain their <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore" target="_blank">entry approvals from MOM.</a></b></i></p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><b>Travellers who are fully vaccinated and recently-recovered within 90 days of their last infection</b> will be exempted from all testing and SHN requirements if they are able to provide appropriate documentary proof. Travellers should refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for the list of documentation that travellers should present at arrival immigration to qualify for this exemption. </p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><b>Non-fully vaccinated and recently-recovered travellers within 90 days of their last infection</b> will be exempted from pre-departure testing requirements, but will be subjected to all other prevailing border measures. Travellers may present the following documentation to depart for/enter Singapore without a valid Pre-Departure Test (PDT) result:</p>
 <ol style="list-style-type:lower-alpha; padding-left:25px;">
@@ -118,13 +118,7 @@ description: ""
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Follow the instructions provided by the ground officers and signages on arrival.</p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">As part of immigration clearance, travellers may be required to present the same set of documentation listed in <a href="#stage2">Stage 2</a>. Travellers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> overseas should also present their vaccination certificate(s) to the immigration officer, who will facilitate the registration of the traveller’s vaccination status into TraceTogether. This will allow the traveller to qualify for vaccination-differentiated safe management measures (VDS) adopted in Singapore for up to 30 days. </p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Following immigration clearance, travellers will receive a digital Visit Pass (“e-Pass”), which will indicate the permissible period of stay granted; traveller’s passport will no longer be stamped. Travellers will receive their e-Pass via the email indicated in their SG Arrival Card.</p>
-
-<p id="stage3b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) COVID-19 On Arrival Polymerase Chain Reaction Test (“PCR Test”) [only for arrivals before 7 Jan 2022, 2359h]</b></i></u></p>
-
-<p style="font-size:18px; margin-top:30px; margin-bottom:20px; line-height:1.5;">Immediately after clearing immigration, travellers will take an on-arrival COVID-19 PCR test. To minimise processing time at the checkpoints, please <a href="https://t.2c2p.com/express/parkwayshentonoat" target="_blank">register and pay for the test</a> before arrival in Singapore.</p>
-
-<p id="stage3b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>C) Transport to Declared SHN Accommodation</b></i></u></p>
+<p id="stage3b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) Transport to Declared SHN Accommodation</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:20px; line-height:1.5;">Travellers must commute directly to their declared accommodation for the completion of their 7-day Stay Home Notice. They may do so using private transport, taxi, or private hire cars (see advisories below). The use of public transport, e.g. trains or buses, is prohibited.</p>
 
