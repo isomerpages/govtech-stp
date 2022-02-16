@@ -13,15 +13,17 @@ permalink: /atp/requirements-and-process
 </div>
 
 
-
-
 ### Eligibility 
 
 Foreigners who are short-term visitors (including business and official travellers) travelling from one of the following countries/regions may apply for an Air Travel Pass (ATP) for travel to Singapore:
-- Hong Kong
+- Hong Kong*
 - Macao
 - Mainland China
 - Taiwan
+
+<i>With effect from <b>24 Feb 2022, 2359h (SGT)</b>, short-term visitors with travel history to Hong Kong, within the last 7 days before departure for Singapore, will not be allowed to enter Singapore using the ATP. Travellers holding approved ATPs which are valid for entry before 24 Feb 2022, 2359h (SGT), may continue to travel to Singapore via the ATP. Those who have not applied for an ATP before 17 Feb 2022, 2359h(SGT) but need to travel to Singapore before 25 Feb 2022 urgently may write to the Safe Travel Office at <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a>.</i>
+
+<i>Travellers who intend to enter Singapore <b>from 24 Feb 2022, 2359h (SGT)</b>, may be eligible for travel under the <a href="/vtl/travel-checklist" target="_blank">Vaccinated Travel Lane (Air)</a>. Applications for the Vaccinated Travel Pass (Air) will open on <b>22 Feb 2022, 1000hrs (Singapore time)</b>. Travellers must fulfill all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a> to be eligible for entry under the VTL (Air).</i>
 
 <span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders must travel via the [Returning SC/PRs lane](/sc-pr/overview), [Work Pass Holder General Lane](/wphl/overview) or [Student’s Pass Holder Lane](/stpl/overview). These travellers should not apply for an ATP to travel to Singapore.
 
@@ -112,7 +114,7 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>A) Check Travel/Transit History</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Visitors must have been to only one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore within the last 14 consecutive days before departing for Singapore. </p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Visitors must have been to only one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore within the last 14 consecutive days (or 7 consecutive days, for travellers entering Singapore <b>from 21 Feb 2022, 2359h</b>) before departing for Singapore. </p>
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Transits via other countries with a layover of less than 24 hours are not counted toward travel history. Visitors are not required to travel to Singapore on a direct flight; they may transit via a third country, so long as the transit duration is less than 24 hours.</p>
   </div>
 	
