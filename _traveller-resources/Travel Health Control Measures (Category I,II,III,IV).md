@@ -95,7 +95,7 @@ This page provides a summary of the four categories of travel health control mea
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (II/III/IV) Travel and Health Control Measures Summary</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2">Click here</a> for a printable Category (II/III/IV) Traveller’s Checklist, with detailed guides for all documentation, tests and payments needed]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (II/III/IV) Travel and Health Control Measures Summary</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2-3-4">Click here</a> for a printable Category (II/III/IV) Traveller’s Checklist, with detailed guides for all documentation, tests and payments needed]</i></span></th>
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
