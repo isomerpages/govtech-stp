@@ -235,7 +235,7 @@ input:checked + label + .content {
 <label for="title7">Work Permit Holders and Short-Term Visitors</label>
 
 <div style="background-color:#edf4fa;" class="content">
-	<p style="line-height:1.3; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (SEA) [VTP (SEA)]</b>
+	<p style="line-height:1.3; font-size:18px;"><b><!--<a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (SEA) [VTP (SEA)]--> Vaccinated Travel Pass (Sea) applications will open on 22 Feb 2022, 10am. There is no need to rush to apply as there is no limit on VTP applications and it is more important to secure VTL ferry tickets first.</b>
 	</p>
 	<ol style="margin-top:0px; list-style-type:disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTP (Sea) applications are open for travellers intending <b>to enter Singapore 3-60 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
