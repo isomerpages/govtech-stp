@@ -2,6 +2,7 @@ collections:
   vaccinated-travel-lane:
     output: true
     order:
+      - VTL Air/VTL (Air) Frequently Asked Questions.md
       - VTL Air/.keep
       - VTL Air/Vaccinated Travel Lane (Air) Overview.md
       - VTL Air/VTL (Air) Checklist for Travel to Singapore.md
