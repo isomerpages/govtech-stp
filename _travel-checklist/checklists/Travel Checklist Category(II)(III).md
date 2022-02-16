@@ -342,6 +342,9 @@ label.box {
 	</ol>
 	</p>
 <p style="line-height:1.35; font-size:18px;">Travellers whose vaccination status is registered on NIR will be able to retrieve their vaccination records via <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> (for Singpass users) and the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application. All cost related to the service will be borne by the traveller. For more information, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> for details.</p>
-
-
 </div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) [Long Term Pass Holders aged 12-18] Fulfil Vaccination Requirements </b></i></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">As a condition for entry, unvaccinated or partially vaccinated long term pass holders above 12 years and below 18 years (by date of birth) must complete the full vaccination regimen within two months of arrival. Individuals whose medical condition disallows them from meeting this requirement, must be medically certified in Singapore to be ineligible for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>, within 30 days of arrival.</p>
+	</div>
