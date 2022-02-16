@@ -30,6 +30,8 @@ Only a <b>maximum of two travellers may be granted entry per case</b>.
 
 Travellers should submit a request via this <a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">form</a>. 
 
+<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;">
+
 Select “<i>Death and Critical Illness Emergency Visit Lane</i>” under S/N 2 (“<i>Enquiry Category</i>”) and “<i>Appeal to Enter Singapore</i>”. in S/N 3 ("<i>Enquiry Category</i>")of the form, and submit the following:-
 
 <ol style="list-style-type:disc;">
@@ -39,7 +41,7 @@ Select “<i>Death and Critical Illness Emergency Visit Lane</i>” under S/N 2 
 	<li>Intended date or period of entry; and</li>
 	<li>Any other supporting documents.</li>
 </ol>
-
+</div>
 
 Travellers will be informed of the entry period and other instructions via their assigned liaison officer once entry approval is granted.
 
