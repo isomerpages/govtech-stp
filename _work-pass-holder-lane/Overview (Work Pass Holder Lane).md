@@ -7,6 +7,12 @@ description: ""
 	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red;">NOTE:</span> </b><b><span style="color:black;">If you hold a valid entry approval letter under the Work Pass Holder Lane but wish to apply to enter under the Vaccinated Travel Lane (VTL), please write in via the <a href="http://go.gov.sg/sto-enquiry" target="_blank">SafeTravel Enquiry Form</a> for assistance. All short-term visitors and long-term pass holders are required to have a Vaccinated Travel Pass and fulfil VTL conditions in order to qualify for quarantine-free travel under the VTL. Click for more information on the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> or <a href="/vtl-land/overview" target="_blank">VTL (Land)</a>.</span></b></p>
 	</div>-->
 	
+The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates the entry of foreigners with passes granted by the Ministry of Manpower (“Pass holders”).
+
+<b>[For arrivals before 21 Feb 2022, 2359 hours]</b> All pass holders must get an entry approval to enter Singapore. This however, excludes pass holders conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea.
+[For arrivals from 21 Feb 2022, 2359 hours] Eligible pass holders, including in-principle approval (IPA) holders will not need to apply for or present an entry approval letter to enter Singapore. The summary of changes to entry approval requirements are:
+
+	
 The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates the entry of foreigners with passes granted by the Ministry of Manpower (“Pass holders”). All pass holders must obtain an entry approval to enter Singapore. This however, excludes pass holders conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea.
 
 On this page, you will find the following key information on the WPHL. 
