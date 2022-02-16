@@ -122,6 +122,15 @@ label.box {
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination status as shown in the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile application</a></li>
 	</ol>
 </div>	
+	<p style="font-size:18px;margin-bottom:15px;line-height:1.35;">(Click “+” to expand for details)</p>
+<input class="accordion" type="checkbox" id="proof-of-vax">
+<label class="accordion" for="proof-of-vax"><b>Vaccinated in Singapore</b></label>
+	<div class="content" style="background-color:#ededed;"><ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:disc;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination certificate </li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination status as shown in the <a href="https://www.healthhub.sg/" target="_blank">HealthHub mobile application</a></li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination status as shown in the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile application</a></li>
+	</ol>
+</div>	
 </div>	
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Application for Entry Visa (if applicable)</b></i></div>
