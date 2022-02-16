@@ -91,8 +91,8 @@ description: ""
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">To ensure that the traveller is approved for entry into Singapore, travellers will be asked by the transport operator (e.g. airline) to produce the following during pre-boarding checks:<ol style="padding-left:25px; font-size:16px; margin-top:20px; margin-bottom:0px; list-style-type:lower-roman;">
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3; ">Medical proof of a past COVID-19 infection in lieu of a valid Pre-Departure Test (see <a href="#1B">Stage 1B</a>); AND</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Valid Entry Approval Letter (Singapore Citizens and Singapore Permanent Residents are exempted); and</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Valid Entry Approval Letter (only for travellers requiring entry approval (see <a href="#1A">Stage 1A</a>);</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Valid long-term pass and credible proof of vaccination (for long term pass holders only)</li>
 	</ol>
 	</p>
 	  <p style=" font-size:18px; margin-top: 0px; margin-bottom:0px; line-height:1.35;">Travellers who fail to produce these documents may be denied boarding.</p>
