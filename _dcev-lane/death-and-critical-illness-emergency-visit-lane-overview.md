@@ -5,16 +5,16 @@ permalink: /dcev/overview
 On this page, you will find the following information about the Death & Critical Illness Emergency Visit Lane (DCEV).
 
 <ol style="list-style-type:decimal;">
-	<li>Eligibility</li>
-	<li>Entry Application and Approval</li>
-	<li>Health Protocols</li>
-	<li>Additional Information</li>
+	<li><a href="#eligibility">Eligibility</a></li>
+	<li><a href="#entry">Entry Application and Approval</a></li>
+	<li><a href="#protocols">Health Protocols</a></li>
+	<li><a href="#additional-info">Additional Information</a></li>
 </ol>
 
 ---
 
 
-<div id="Eligibility"></div>
+<div id="eligibility"></div>
 
 
 ### 1) Eligibility
