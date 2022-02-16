@@ -6,8 +6,8 @@ third_nav_title: VTL Sea
 ---
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; color:red;">This page contains a checklist for Vaccinated Travel Lane (Sea) [VTL (Sea)] travellers who already understand the entry requirements into Singapore via the VTL (Sea). If you are not clear on the VTL (Sea) requirements, please refer to the VTL (Sea) <a href="/vtl-sea/overview" target="_blank">Overview page</a> here before reading this checklist. </p>
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px;color:red;">Travellers intending to travel out of Singapore to a VTL (Sea) country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For useful information regarding preparing to depart from Singapore (e.g. obtaining pre-departure tests, vaccination certificates), please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; color:red;line-height:1.35;">This page contains a checklist for Vaccinated Travel Lane (Sea) [VTL (Sea)] travellers who already understand the entry requirements into Singapore via the VTL (Sea). If you are not clear on the VTL (Sea) requirements, please refer to the VTL (Sea) <a href="/vtl-sea/overview" target="_blank">Overview page</a> here before reading this checklist. </p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px;color:red;line-height:1.35;">Travellers intending to travel out of Singapore to a VTL (Sea) country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For useful information regarding preparing to depart from Singapore (e.g. obtaining pre-departure tests, vaccination certificates), please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</p>
 	</div>
 
 ### Vaccinated Travel Lane (Sea) Travel Checklist
@@ -157,5 +157,37 @@ third_nav_title: VTL Sea
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.35;"><i> <u>Illustration of acceptable 2-day timeline:</u> A traveller departing for Singapore on 3 December 2021 should take a pre-departure COVID-19 test no earlier than 1 December 2021</i></p>
 	</div>
 	
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1I" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1I">&nbsp;&nbsp;<b>Stage 1I: Submit Health Declaration</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35;"><!--&#9200; &nbsp; --><b>If you are fit for travel, submit the SG Arrival Card health and travel history declaration up to <u>3 days</u> before arriving in Singapore.</b></p>
+	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
+<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Travellers must fill the online <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card (SGAC)</a> before arriving in Singapore, otherwise they will be asked to it fill up on the spot and experience delays at the checkpoint. Please refer to the <a target="_blank" href="https://youtu.be/hhq4ffp-qOc">SGAC video guide</a> if you are unsure how to fill it up.</li>
+<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;"><b>The SGAC replaces the physical arrival “White Card”, which is no longer in use.</b> SGAC is a free service and travellers should beware of websites offering to fill the SGAC declaration for a fee.</li>
+	</ol>
+<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35; color:red;"><b><u>Note during submission</u></b>:</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; SC/PRs who are not vaccinated in Singapore: You are strongly encouraged to submit your overseas vaccination certificate in your health declaration as part of the SG Arrival Card submission.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; SC/PRs who are vaccinated in Singapore: You are not required to upload your vaccination certificates as your records are already captured in the Singapore Ministry of Health (MOH) database.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; Long-term pass holders and short-term visitors: You do not need to upload your vaccination certificates as they have already been verified as part of the VTP application.</p>
+	</div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">	
+<input id="1J" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1J" class="box">&nbsp;&nbsp;<b>Stage 1J: Undergo On-Arrival COVID-19 ART Test</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">Undergo <a href="https://safetravel.changiairport.com/#/" target="_blank">on-arrival COVID-19 ART test</a> at Quick Test Centres or Combined Test Centres  within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative.</p>
+	</div>
 	
-	
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp;Does not apply to children aged two and below in this calendar year (i.e. born in or after 2020).</p>
+	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp; Fully vaccinated travellers who recently recovered from COVID-19 may qualify for exemption from the on-arrival COVID-19 PCR test and other inland border measures. Use this <a target="_blank" href="https://go.gov.sg/recovered-traveller-checker">self-checker tool</a> to determine if you qualify.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="color:red; font-size:20px;">⚠</span>&nbsp; Travellers who did not do so will pay for their tests on the spot during arrival, and may experience delays in the administration of the tests and departure from the checkpoint.</p>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<input id="1K" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1K" class="box">&nbsp;&nbsp;<b>Stage 1K: [Short term visitors only] Contact Tracing App/Token</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">All short-term VTL (Sea) travellers <b>must</b> download the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether</a> mobile application on their mobile phone and register their profile for contact tracing.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">All travellers who are unable to use a mobile device or who are unable to download/register for the TraceTogether app may obtain TraceTogether tokens at S$13 per token from designated locations. For more details, please <a target="_blank" href="/health/tt-for-travellers#token">click here</a>.</p>
+		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp; <b>Children aged 6 and below in this calendar year are exempted from this requirement (e.g. a child who turns 6 this calendar year)</b>.</p>
+  </div>
+
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
+
+
