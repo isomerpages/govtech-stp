@@ -11,7 +11,7 @@ published: false
 	<li style="font-size:18px; line-height:1.4;">Travellers holding an existing valid entry approval letter under other non-VTL SafeTravel Lanes but wish to travel under the Vaccinated Travel Lane should follow VTL procedures instead, including applying for a Vaccinated Travel Pass if necessary.</li>
 </ol>
 
-<!--<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.4;">You can download the infographics <a target="_blank" href="/files/Singapore-Malaysia Vaccinated Travel Lane_Land.pdf">here</a> for an overview of VTL (Land) requirements.</p>-->
+<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.4;">You can download the infographics <a target="_blank" href="/files/Singapore-Malaysia Vaccinated Travel Lane_Land.pdf">here</a> for an overview of VTL (Land) requirements.</p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:20px; line-height:1.4;">On this page, you will find the following details on VTL (Land):</p>
 <ol style="font-size:18px;">
@@ -21,8 +21,8 @@ published: false
 	<li style="font-size:18px; line-height:1.4;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
 
-
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Travellers intending to <b>leave Singapore to Malaysia</b> under the VTL (Land), can check the <a href="/vtl-land/outbound-travel" target="_blank">VTL (Land) for travel to Malaysia page</a>.</p>
+
 
 
 <!--should check with the <a href="http://www.myvtl.gov.my/" target="_blank">Government of Malaysia</a> on the prevailing entry requirements. For all departure-related advisories including how to obtain pre-departure tests and digital vaccination certificates, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page. Travellers should note that fresh entry applications must be submitted, for those seeking to return to Singapore after leaving for Malaysia via VTL (Land).-->
