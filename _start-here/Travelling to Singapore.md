@@ -43,7 +43,7 @@ description: Start here to find out the travel requirements, restrictions and
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.35;"><a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> – Quarantine-free measures if travelling by flight from a Vaccinated Travel Lane (VTL) country/region (<a href="#vtlcountries">see Table below</a>), is fully vaccinated and able to satisfy the travel conditions such as use of designated VTL flight.</li>
 	<li style="line-height:1.35; margin-top:10px;"><a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL bus from Malaysia via the Causeway.</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL ferry from Indonesia.</li>
+	<li style="line-height:1.35;margin-top:10px;"><a href="" target="_blank">Vaccinated Travel Lane (Sea)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL ferry from Indonesia.</li>
 	<li style="line-height:1.35;margin-top:10px;"><a href="/sc-pr/overview" target="_blank">Returning Singapore Citizen and Permanent Resident Lane</a> – Prevailing health measures apply including Stay Home Notice, depending on travel history. Travellers who do not fulfil Vaccinated Travel Lane requirements will be subject to these prevailing measures by default. </li>
 	<li style="line-height:1.35;margin-top:10px;"><a href="/vaccinated-recovered" target="_blank">Vaccinated & Recently Recovered Traveller Protocol</a> - Fully vaccinated and able to prove recovery from a COVID-19 infection between 7 – 90 days before departure for Singapore.</li>
 </ol>
@@ -58,7 +58,10 @@ description: Start here to find out the travel requirements, restrictions and
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>5</sup> and the United States<sup>6</sup><p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>For arrivals from 25 Feb 2022</b>: Qatar, Saudi Arabia, United Arab Emirates</p><p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><i style="font-size:16px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>5</sup> and the United States<sup>6</sup>
+<p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>From 24 Feb 2022, 2359h</b>: Hong Kong, Qatar, Saudi Arabia and the United Arab Emirates</p>
+<p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>From 3 Mar 2022, 2359h</b>: Israel and the Philippines</p>
+				<p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><i style="font-size:16px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:16px; line-height:1.35;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
 <i style="font-size:16px; line-height:1.35;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
 <i style="font-size:16px; line-height:1.35;"><sup>4</sup>Including the Canary Islands</i><br>
@@ -85,7 +88,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.35;"><a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> – Quarantine-free measures if travelling by flight from a Vaccinated Travel Lane (VTL) country/region (<a href="#vtlcountries2">see Table below</a>), is fully vaccinated and able to satisfy the travel conditions such as use of designated VTL flight. Work Permit holders (excluding females and Malaysians) working in the Construction, Manufacturing and Process sectors are not allowed to travel under the VTLs.</li>
 	<li style="line-height:1.35; margin-top:10px;"><a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL bus from Malaysia via the Causeway. Work Permit holders (excluding females and Malaysians) working in the Construction, Manufacturing and Process sectors are not allowed to travel under the VTLs.</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL ferry from Indonesia. Work Permit holders (excluding females and Malaysians) working in the Construction, Manufacturing and Process sectors are not allowed to travel under the VTLs.</li>
+	<li style="line-height:1.35;margin-top:10px;"><a href="" target="_blank">Vaccinated Travel Lane (Sea)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL ferry from Indonesia. Work Permit holders (excluding females and Malaysians) working in the Construction, Manufacturing and Process sectors are not allowed to travel under the VTLs.</li>
 	<li style="line-height:1.35;margin-top:10px;"><a href="/wphl/overview" target="_blank">Work Pass Holder General Lane </a> - MOM Long-Term Pass Holders who are unable to fulfil VTL requirements, and all Work Permit holders. Vaccination Requirements apply. Prevailing health measures apply including Stay Home Notice, depending on travel history. </li>
 	<li style="line-height:1.35;margin-top:10px;"><a href="/stpl/overview" target="_blank">Student’s Pass Holder Lane </a>– Student’s Pass Holders or their accompanying family members who are unable to fulfil VTL requirements. Vaccination requirements apply. Prevailing health measures apply including Stay Home Notice, depending on travel history.</li>
 	<li style="line-height:1.35;margin-top:10px;"><a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a> – Long-Term Pass Holders with immediate family in Singapore by who are unable to fulfil VTL requirements. Prevailing health measures apply including Stay Home Notice, depending on travel history.</li>
@@ -101,7 +104,8 @@ Click here to return to the <a href="#lanelist">top</a>.
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>5</sup> and the United States<sup>6</sup><p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>For arrivals from 25 Feb 2022</b>: Qatar, Saudi Arabia, United Arab Emirates</p><p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><i style="font-size:16px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>5</sup> and the United States<sup>6</sup><p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>From 24 Feb 2022, 2359h</b>: Hong Kong, Qatar, Saudi Arabia and the United Arab Emirates</p>
+<p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>From 3 Mar 2022, 2359h</b>: Israel and the Philippines</p><p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><i style="font-size:16px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:16px; line-height:1.35;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
 <i style="font-size:16px; line-height:1.35;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
 <i style="font-size:16px; line-height:1.35;"><sup>4</sup>Including the Canary Islands</i><br>
@@ -136,7 +140,8 @@ Click here to return to the <a href="#lanelist">top</a>.
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, travelling using designated VTL flights from the following countries/regions:
 			   <ul style="font-size: 18px; list-style-type: disc;">
 	<li style="line-height:1.35; font-size: 18px;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></li>
-					 					 		<li style="line-height:1.35; margin-top:10px; font-size: 18px;"><b>For arrivals from 25 Feb 2022:</b> Qatar, Saudi Arabia, and the United Arab Emirates</li>
+<li style="line-height:1.35; margin-top:10px; font-size: 18px;"><b>From 24 Feb 2022, 2359h</b>: Hong Kong, Qatar, Saudi Arabia and the United Arab Emirates</li>
+	<li style="line-height:1.35; margin-top:10px; font-size: 18px;"><b>From 3 Mar 2022, 2359h</b>: Israel and the Philippines</li>
 				 </ul>
 <i style="font-size:14px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.35;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
@@ -147,7 +152,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 				</td>
 	</tr>
 				<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"><a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"><a href="">Vaccinated Travel Lane (Sea)</a></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old travelling by designated VTL ferry from Bintan or Batam, Indonesia.</td>
 		</tr>
 	<tr>
@@ -155,7 +160,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
 					 <!--<li style="font-size: 18px;">Brunei Darussalam (Suspended with effect from 21 August 2021)</li>-->
-					 <li style="font-size: 18px; line-height:1.35;">Hong Kong</li>
+					 <li style="font-size: 18px; line-height:1.35;">Hong Kong <b>(for arrivals before 24 Feb 2022, 2359h)</b></li>
 					 <li style="font-size: 18px; line-height:1.35;">Macao</li>
 					  <li style="font-size: 18px; line-height:1.35;">Mainland China </li>
 					 <li style="font-size: 18px; line-height:1.35;">Taiwan</li>
