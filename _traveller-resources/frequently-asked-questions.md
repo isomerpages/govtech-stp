@@ -11,9 +11,6 @@ permalink: /health/FAQ
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#transport">Transport Advisories</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers (including COVID-19 Recovered Travellers)</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
-	<!--<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#vaccinated">Vaccinated Travellers intending to travel to Singapore</a>
-	</li>-->
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#nebuliser">Travellers who require the use of Nebuliser</a></li>
 </ol>
 
 Can’t find what you’re looking for? Please check [here](https://www.moh.gov.sg/covid-19/faqs) (MOH’s FAQs) and [here](https://mom.gov.sg/covid-19/frequently-asked-questions)  (MOM’s FAQs) for more information.
@@ -84,9 +81,9 @@ Click here to [Go Back To Top](#top).
 
 <div id="transportQ2"></div>
 
-#### 1. What are the transport advisories for Travellers with Category (I), (II) or  (III) travel history, and are self-isolating or completing their Stay Home Notice at their accommodation?
+#### 1. What are the transport advisories for Travellers who are self-isolating or completing their Stay Home Notice at their accommodation?
 
-Travellers of these categorycan commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps. 
+Travellers can commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps. 
 
 <div id="note1"></div>
 	
@@ -109,7 +106,7 @@ All persons in the vehicle must wear face masks throughout the journey. In addit
 
 (ii) <u><b>Taxi/private-hire vehicles</b></u>
 
-When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
+When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a>. Travellers who opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
 
 Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
 
@@ -161,87 +158,19 @@ Click here to [Go Back To Top](#top).
 
 <div id="pcrtest"></div>
 
-## COVID-19 Tests for Travellers (including COVID-19 Recovered Travellers)
-
-#### 1. I have an upcoming flight to Singapore. Do I need to be tested for COVID-19 before travelling and how long before my departure should I be tested?
-
-The testing requirement will be stated in the traveller's <b>Entry Approval Letter or SafeTravel Pass.</b> As these requirements are determined based on the traveller's travel schemes, prospective travellers should visit the <a href="/arriving/overview" target="_blank">"Travelling to Singapore"</a> page for details. 
-
-In general, travellers required to be tested before their flight will be required to do so <u>within 2 days before departure to Singapore</u> and produce documentary proof of a negative test result. Unless there are other compelling reasons, travellers failing to meet this condition will be denied boarding or turned away. 
-
-See examples below on the acceptable duration for which a test should be taken:
-
-<div style="padding: 5px; margin-top:20px; border-style: solid; border-width: 1px;"><p style="font-size:20px; line-height:1.35;">
-<b>Direct Flights:</b> If the PDT is taken on <b>1 November 2021</b>, it will be valid for departures (for air/sea checkpoints) or arrivals (for land checkpoints) <b>up to 3 November 2021, 2359 hours.</b>
-<br><br>
-<b>Connecting Flights to Singapore:</b> If the passenger's flight itinerary is LAX-NRT-SIN and the transit period at NRT is <u>less than 24 hours</u>, he must take his COVID-19 test within <u>2 days</u> before the scheduled departure of his flight from LAX. Should he remain at NRT for <u>more than 24 hours</u> for his connecting flight to Singapore, he will take a pre-departure test at NRT.
-</p></div>
-
-With effect <b>from 23 Jan 2022, 2359hrs</b>, travellers who have recently recovered from COVID-19 may produce any of the following as proof of their recovery status to be exempted from the pre-departure testing requirement. Individuals who present falsified COVID-19 test certificates will be dealt with accordingly, and may be barred from future entry applications.
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:20px;"><b>A) Fully Vaccinated Persons</b></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:20px;">	<ol style="list-style-type:lower-roman; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">	
-	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Positive COVID-19 Polymerase Chain Reaction (PCR) test or professionally-administered Antigen Rapid Test (ART) result between 7 – 90 days before your date of departure for Singapore; </li>
-		<p style="font-size:20px; line-height:1.35;">OR</p>
-<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Discharge memo that:
-<ol style="list-style-type:disc; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
-<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
-	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your date of infection or the discharge date, which must be within 7 – 90 days before date of departure; and</li>
-	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">is issued by a relevant state authority or licensed medical professional.</li>
-	</ol>
-	</li>
-	</ol>
-</div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:20px;"><b>B) Non-Fully Vaccinated Persons</b></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:20px;"><ol style="list-style-type:lower-roman; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
-			<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Positive COVID-19 PCR test or professionally-administered ART result between 14 – 90 days before your date of departure for Singapore for non-fully vaccinated persons (e.g. children aged 12 and below); </li>
-		<p style="font-size:20px; line-height:1.35;">OR</p>
-						<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">Discharge memo that:
-<ol style="list-style-type:disc; font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;">
-<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
-	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">states your date of infection or the discharge date, which must be within 14 – 90 days before date of departure; and</li>
-	<li style="font-size: 20px; text-align: left; vertical-align:middle; line-height:1.35;margin-bottom:20px;">is issued by a relevant state authority or licensed medical professional.</li>
-	</ol>
-		</li>
-		</ol>
-</div>
+## COVID-19 Tests for Travellers
 
 
-
-<!--<div id="testresult"></div>
-
-#### 6. How will I be informed of my COVID-19 test result at the end of SHN?
-
-Hardcopy/softcopy of the COVID-19 test result will not be issued. Travellers who are Work Pass Holders (and their dependants) will receive their results via SMS or email. All other travellers will receive their swab test results via email. However, travellers who test positive will be informed via phone call and further assistance will be provided. 
-
-Travellers with a SingPass account may login to [HealthHub](https://www.healthhub.sg/HealtheServices) to view their swab test results once available.
-
-#### 7. Can I refuse the COVID-19 test in Singapore?
-
-As a condition for entry into Singapore, travellers may be required to take a COVID-19 test while in the country. These conditions would be made explicit during application and reiterated to the traveller again, by way of a condition stipulated in their Entry Approval Letter or SafeTravel Pass. 
-
-Action will be taken against travellers who fail to comply with any of the stipulated requirement/condition for entry into Singapore. This may amount to a fine and/or imprisonment term as prescribed in the Infectious Diseases Act. Additional penalties such as revocation of Work Pass may also apply.
-
-#### 8. Do I have to complete my Stay-Home Notice (SHN) if I have been tested negative for COVID-19 before departing to Singapore?
-
-Yes, travellers must complete their SHN even after they are tested negative for their COVID-19 test before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.-->
-
-#### 2. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
+#### 1. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
 Travellers arriving from countries requiring a COVID-19 test must do so if they are three years old and above this calendar year. Individuals below the age of three this calendar year are, by default, exempted from this testing requirement. 
 
-#### 3. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
-Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.gov.sg/covid-19/faqs) to other members of the community if undetected. As part of border health control measures to detect cases early and minimise the public health risk of community transmission, COVID-19 testing is extended to inbound travellers aged 3 and above (in that calendar year). 
-
-#### 4. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
+#### 2. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from COVID-19 Polymerase Chain Reaction Tests (“PCR test”) ?
 
 In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
-#### 5. I did not receive my on-arrival COVID-19 PCR test results after 24 hours. What should I do?
+#### 3. I did not receive my on-arrival COVID-19 PCR test results after 24 hours. What should I do?
 
 Please email <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
 
@@ -262,7 +191,7 @@ Click here to [Go Back To Top](#top).
 
 #### 1. Do I have to pay for my stay at a Stay-Home Notice Dedicated facility (SDF) if I request for it?
 
-Yes, all travellers serving their Stay-Home Notice at an [SDF](/health/shn#sdf) are required to pay for the cost of the accommodation.
+Yes, all travellers serving their Stay-Home Notice at an [SDF](/health/shn#sdf) are required to pay for the cost of the accommodation directly to the hotel.
 
 <!--#### 2. When and how should I pay for my COVID-19 Polymerase Chain Reaction test (“PCR test”) and Stay-Home Notice Dedicated Facility (SDF)?
 
@@ -383,7 +312,6 @@ Travellers who have paid for their on-arrival COVID-19 PCR test separately at th
   <tr>
     <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>For bookings made at the airport</b></td>
 		<td style="border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">
-			<p style="font-size:18px;"><span style="color:red;"><b>Note</b>:</span> <b>[For travellers who have travel history to Category II, III or IV countries/regions and are <u>arriving from 7 Jan 2022, 2359h</u>]</b> Changi Airport will automatically refund the test fees 7 working days after the booked arrival date. </p>
 			<p style="font-size:18px;">Travellers who wish to cancel their trips or have other queries, please refer to the following instructions:</p>
 			<ol style="font-size:18px; list-style-type: lower-roman;">
 				<li style="font-size:18px;">If they have a Safe Travel Concierge account with CAG: Login to the account, navigate to  ‘My Trips’ and choose the trip that they wish to cancel;</li>
@@ -510,27 +438,3 @@ For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccin
 [Fully vaccinated travellers](/health/vtsg) utilising the Vaccinated Travel Lane via flight and land are not be required to serve a Stay-Home Notice. Please refer to the <a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air) [VTL (Air)]</a> and <a href="/vtl-land/overview">Vaccinated Travel Lane (Land) [VTL (Land)]</a> for more information.
 
 Click here to [Go Back To Top](#top).-->
-
-
-<div id="nebuliser"></div>
-
-
-## Travellers who require the use of nebuliser
-
-#### 1. I require to use a nebuliser to manage my medical condition, what must I do before I enter Singapore?
-
-All travellers who require to use a nebuliser daily or on an ad-hoc basis for their management of medical condition are required to declare the usage before arrival into Singapore. Travellers may submit their declaration through the link provided in their entry approval. 
-
-The declaration would not affect your entry approval status/application for entry into Singapore.
-
-Travellers would be required to arrange for a tele-consultation upon arrival at their SHN location for assessment on conversion to an inhaler/spacer. 
-
-#### 2. I require to use a nebuliser to manage my medical condition, would I be allowed entry into Singapore? 
-
-Yes, travellers who require to use a nebuliser would be allowed to enter Singapore. However, travellers are required to declare the usage before arrival into Singapore.
-
----
-
-Click here to [Go Back To Top](#top).
-
----
