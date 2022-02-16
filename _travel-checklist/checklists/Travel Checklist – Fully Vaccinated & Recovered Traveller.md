@@ -18,13 +18,13 @@ description: ""
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>A) Application for Entry Approval</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Entry Approvals are needed only for travellers who are:</p>
-<ol>
-<li>Long Term Pass Holders (e.g. Student Pass, Work Pass, S-Pass, Dependant Pass) entering Singapore before 21 Feb 2022, 2359H SGT</li>
-	<li>Work Permit holders</li>
-<li>Short term visitors (including family members under the Familial Ties Lane and Student Pass Holder Lane)</li>
+<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Long Term Pass Holders (e.g. Student Pass, Work Pass, S-Pass, Dependant Pass) entering Singapore <b>before 21 Feb 2022, 2359H SGT</b></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Work Permit holders</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Short term visitors (including family members under the Familial Ties Lane and Student Pass Holder Lane)</li>
 	</ol>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Long Term Pass Holders (excluding Work Permit Holders) entering from 21 Feb 2022 2359H, as well as Singapore Citizens and Permanent Residents, do not need to apply or present an entry approval to enter Singapore. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes. Unsure which lane you’re eligible for entry, return to the “Travelling to Singapore” page.</p> 
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
+<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">Long Term Pass Holders (excluding Work Permit Holders) <b>entering from 21 Feb 2022 2359H</b>, as well as Singapore Citizens and Permanent Residents, <b>do not need to apply or present an entry approval to enter Singapore</b>. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes. Unsure which lane you’re eligible for entry, return to the “Travelling to Singapore” page.</p> 
+	<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
   </div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
