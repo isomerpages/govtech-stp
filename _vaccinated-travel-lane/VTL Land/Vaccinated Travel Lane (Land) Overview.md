@@ -5,12 +5,13 @@ description: ""
 third_nav_title: VTL Land
 published: false
 ---
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] allows quarantine-free travel to Singapore via the Causeway. Please note that:</p>
+<ol style="padding-left: 20px; font-size:18px; list-style-type: disc">
+	<li style="font-size:18px; line-height:1.4;">Travellers intending to travel to Singapore by air should utilise the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>. <b>VTP (Land) and VTP (Air) approvals are not interchangeable.</b></li>
+	<li style="font-size:18px; line-height:1.4;">Travellers holding an existing valid entry approval letter under other non-VTL SafeTravel Lanes but wish to travel under the Vaccinated Travel Lane should follow VTL procedures instead, including applying for a Vaccinated Travel Pass if necessary.</li>
+</ol>
 
-
-
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] allows quarantine-free travel to Singapore via the Causeway. Travellers intending to utilise the <a target="_blank" href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> to travel to Singapore via air should apply for a VTP (Air) Pass. <b>Approvals are not interchangeable</b>.</p>
-
-<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.4;">Travellers holding existing approvals under non-VTL lanes will need to separately apply for a Vaccinated Travel Pass and fulfil VTL requirements to be eligible for quarantine-free measures. A non-VTL approval <b>cannot</b> be used to travel under the VTL. You can download the infographics <a target="_blank" href="/files/Singapore-Malaysia Vaccinated Travel Lane_Land.pdf">here</a> for an overview of VTL (Land) requirements.</p>
+<!--<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.4;">You can download the infographics <a target="_blank" href="/files/Singapore-Malaysia Vaccinated Travel Lane_Land.pdf">here</a> for an overview of VTL (Land) requirements.</p>-->
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:20px; line-height:1.4;">On this page, you will find the following details on VTL (Land):</p>
 <ol style="font-size:18px;">
@@ -33,7 +34,7 @@ published: false
 ### 1. Eligibility
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>Travellers must fulfil the following eligibility criteria found in this section before applying to travel under VTL (Land)</b>. Travellers who do not satisfy any of these criteria and conditions, should explore other Safe Travel Lanes at the <a target="_blank" href="/arriving/overview">Travelling to Singapore page</a>.</p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The following groups of travellers are disallowed from applying for entry under the VTL (Land) or VTL (Air). They may instead enter Singapore via alternative travel arrangements (see table below). </p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The following groups of travellers are disallowed from applying for entry under the VTL (Land). They may instead enter Singapore via alternative travel arrangements (see table below). </p>
 
 <table>
 <thead>
@@ -44,18 +45,18 @@ published: false
 </thead>
 <tbody>
 		<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) sector</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Non-Malaysian male Work Permit Holders in the Construction, Marine shipyard or Process (CMP) sector</td>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a target="_blank" href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers">MOM’s entry approval</a> or <a target="_blank" href="https://www.scal.com.sg/">ongoing industry initiatives for the CMP sectors</a></td>
 </tr>
 			<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Workers staying in dormitories</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Work Permit holders staying in dormitories</td>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a target="_blank" href="/wphl/overview">Work Pass Holder Lane</a></td>
 </tr>
 	</tbody>
 	</table>
 <p style="margin-top:20px; margin-bottom:20px;"></p>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">Malaysian male Work Permit or S Pass CMP workers can enter Singapore via the VTL (Land), but cannot be isolated in a dormitory if they test positive for their on-arrival COVID-19 Antigen Rapid Test and are awaiting their confirmatory Polymerase Chain Reaction (PCR) test results.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">Malaysian male Work Permit holders in the CMP sector can enter Singapore via the VTL (Land), but isolate in a dormitory if they test positive for their on-arrival COVID-19 Antigen Rapid Test and are awaiting their confirmatory Polymerase Chain Reaction (PCR) test results.</p>
 
 
 
