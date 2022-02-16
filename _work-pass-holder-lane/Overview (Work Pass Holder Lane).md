@@ -113,7 +113,7 @@ Please note that:
 </thead>
 <tbody>
 	<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of workers should <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore" target="_blank">apply for entry directly via MOM’s website</a>.
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of pass holders should <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore" target="_blank">apply for entry directly via MOM’s website</a>.
 <ol style="list-style-type:lower-latin;">
 	<li style="font-size:18px; margin-top:0px; line-height:1.5;">Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
 		<ol style="list-style-type:disc;">
@@ -187,17 +187,33 @@ Work pass holders who are immediate family members of Singapore Citizens or Perm
 </thead>
 <tbody>
 	<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of workers should <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore" target="_blank">apply for entry directly via MOM’s website</a>.
-<ol style="list-style-type:lower-latin;">
-	<li style="font-size:18px; margin-top:0px; line-height:1.5;">Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
-		<ol style="list-style-type:disc;">
-<li style="font-size:18px; margin-top:0px; line-height:1.5;">Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and</li>
-<li style="font-size:18px; margin-top:0px; line-height:1.5;">Are entering Singapore without their dependants.</li>
-			</ol></li>
-<li style="font-size:18px; margin-top:20px; line-height:1.5;">Work Holiday Pass (WHP) holders</li>
-<li style="font-size:18px; margin-top:10px; line-height:1.5;">Personalised Employment Pass (PEP) holders (without employers) and their dependants</li>
-<li style="font-size:18px; margin-top:10px; line-height:1.5;">EntrePass holders (without Corppass) and their dependants</li>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;"><table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>Types of pass holders</b></th>
+	<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>How and where to apply</b></th>
+</tr>
+</thead>
+<tbody>
+			<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">CMP workers who hold Work Permit or Training Work Permit, or IPA for any of these 2 passes
+		</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Apply for entry on <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore" target="_blank">MOM’s website</a>
+</td>
+	</tr>
+		<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
+<ol style="list-style-type:disc;">
+	<li style="font-size:18px; margin-top:0px; line-height:1.5;">All other Work Permit holders (i.e. workers employed by companies, helpers and confinement nannies)</li>
+		<li style="font-size:18px; margin-top:0px; line-height:1.5;">Training Work Permit holders</li>
 			</ol>
+		</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;"><p style="font-size:18px; margin-top:0px; line-height:1.5;">Employers to apply via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">WPHL Portal</a> (use Corppass to log in).</p>
+<p style="font-size:18px; margin-top:0px; line-height:1.5;">For helpers and confinement nannies, Employment Agencies may also apply via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">WPHL Portal</a> (use Corppass to log in).</p>
+</td>
+	</tr>
+	</tbody>
+	</table>
 		</td>
 	</tr>
 	</tbody>
@@ -248,16 +264,6 @@ Work pass holders who are immediate family members of Singapore Citizens or Perm
   </tr>
   </tbody>
   </table>
-
-
-
-
-
-
-
-
-
-
 
 
 
