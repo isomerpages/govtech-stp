@@ -78,7 +78,7 @@ Please refer to the applicable ATP Conditions based on your date of entry into S
 				 </ol>
 			 </li>
        <li style="font-size:18px; list-style-type:lower-alpha;">immediately<sup>1</sup> take private transportation, taxi, or private hire car from the airport to the declared place of accommodation and remain isolated at the accommodation, apart from attending the supervised self-administered ART;</li>
-			        <li style="font-size:18px; list-style-type:lower-alpha;">take private transportation, taxi, or private hire car to and from the Quick Test Centre (QTC) or Combined Test Centre (CTC), undergo a COVID-19 supervised self-administered ART at a within 24 hours of arrival in Singapore, and remain isolated at the declared place of accommodation until the test result is confirmed to be negative;</li>
+			        <li style="font-size:18px; list-style-type:lower-alpha;">take private transportation, taxi, or private hire car to and from the <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a>, undergo a COVID-19 supervised self-administered ART at a within 24 hours of arrival in Singapore, and remain isolated at the declared place of accommodation until the test result is confirmed to be negative;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the medical provider disclosing his/her COVID-19 PCR test result to the relevant Singapore Government authorities for public health purposes;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> download the TraceTogether app on his/her mobile device and:
         <ol style="font-size:18px; list-style-type:lower-roman;">
@@ -92,9 +92,9 @@ Please refer to the applicable ATP Conditions based on your date of entry into S
      </ol>
   </li>
   <br/>
-    <li style="font-size:20px; list-style-type:decimal;"> The requirements in Condition 1(b) and 1(c) do not apply to children aged 2 and below in the calendar year as well as fully vaccinated recovered travellers entering Singapore from 23 Jan 2022, 2359 hrs.</li>
+    <li style="font-size:20px; list-style-type:decimal;"> The requirements in Condition 1(b), 1(c) and 1(d) do not apply to children aged 2 and below in the calendar year as well as fully vaccinated recovered travellers entering Singapore from 23 Jan 2022, 2359 hrs.</li>
   <br/>  
-	<li style="font-size:20px; list-style-type:decimal;"> The requirement in Condition 1(b) does not apply to unvaccinated and non-fully vaccinated recovered travellers entering Singapore from 23 Jan 2022, 2359hrs.</li>
+	<li style="font-size:20px; list-style-type:decimal;"> The requirement in Condition 1(b) does not apply to unvaccinated and non-fully vaccinated recovered travellers.</li>
   <br/>
    <li style="font-size:20px; list-style-type:decimal;"> Condition 1(e) does not apply children aged 6 and below in the calendar year. Those unable to use a mobile device due to a certified disability or special need and those who are unable to download/register for the TraceTogether app may obtain a TraceTogether token. They must carry the TraceTogether token issued to them while in Singapore.
   </li>
