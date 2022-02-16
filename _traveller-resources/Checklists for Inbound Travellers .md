@@ -8,13 +8,13 @@ permalink: /travel-checklist/overview
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers who had identified a suitable Safe Travel Lane for entry into Singapore and referenced the relevant checklist, have reported being much better prepared for the trip.</p>
 
 <ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl/travel-checklist">Vaccinated Travel Lane (Air)</a>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl/travel-checklist" target="_blank">Vaccinated Travel Lane (Air)</a>
 	</li>
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl-land/travel-checklist">Vaccinated Travel Lane (Land)</a>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl-land/travel-checklist"  target="_blank">Vaccinated Travel Lane (Land)</a>
 	</li>
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl-sea/travel-checklist">Vaccinated Travel Lane (Sea)</a>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl-sea/travel-checklist"  target="_blank">Vaccinated Travel Lane (Sea)</a>
 	</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/atp/requirements-and-process">Air Travel Pass</a>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/atp/requirements-and-process"  target="_blank">Air Travel Pass</a>
 	</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Returning Singapore Citizens and Permanent Residents Lane, Familial Ties Lane, and Student’s Pass Lane <br>
 			<table>
@@ -26,25 +26,25 @@ permalink: /travel-checklist/overview
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><ol style="list-style-type:disc;">
-	      <li style="line-height:1.5;font-size:18px;"><a href="/travel-checklist/category-1">Category (I)</a></li>
-	       <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-2">Category (II)</a></li>
-	       <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-3">Category (III)</a></li>
-	       <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-4">Category (IV)</a></li>
+	      <li style="line-height:1.5;font-size:18px;"><a href="/travel-checklist/category-1"  target="_blank">Category (I)</a></li>
+	       <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-2"  target="_blank">Category (II)</a></li>
+	       <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-3" target="_blank">Category (III)</a></li>
+	       <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-4" target="_blank">Category (IV)</a></li>
 	      </ol></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><ol style="list-style-type:disc;">
-	      <li style="line-height:1.5;font-size:18px;"><a href="/travel-checklist/category-1">Category (I)</a></li>
-	      <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/">Category (II)/(III)</a></li></ol></td>
+	      <li style="line-height:1.5;font-size:18px;"><a href="/travel-checklist/category-1" target="_blank">Category (I)</a></li>
+	      <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/" target="_blank">Category (II)/(III)</a></li></ol></td>
     </tr>
 				</tbody>
 			</table>			
 	</li>
-		<!--<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/rgl/travel-checklist">Reciprocal Green Lane</a>
+		<!--<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/rgl/travel-checklist" target="_blank">Reciprocal Green Lane</a>
 	</li>
-		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/dcev">Death and Critical Illness Emergency Visit Lane</a>
+		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/dcev" target="_blank">Death and Critical Illness Emergency Visit Lane</a>
 	</li>-->
-			<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vaccinated-recovered">Fully Vaccinated & Recently-Recovered Traveller Protocol</a>
+			<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vaccinated-recovered" target="_blank">Fully Vaccinated & Recently-Recovered Traveller Protocol</a>
 	</li>
-	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a>
+	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/pca/requirements-and-process" target="_blank">Periodic Commuting Arrangement</a>
 	</li>
 </ol>
 
