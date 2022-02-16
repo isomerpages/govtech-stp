@@ -89,8 +89,6 @@ label.box {
     transition: ease .5s;
 	  position: relative;
 }
-
-
 </style>
 </head>
 </html>
@@ -124,8 +122,9 @@ label.box {
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination status as shown in the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile application</a></li>
 	</ol>
 </div>	
-	<input class="accordion" type="checkbox" id="proof-of-vax">
-<label class="accordion" for="proof-of-vax"><b>Vaccinated Overseas</b></label>
+	</div>
+	<input class="accordion" type="checkbox" id="proof-of-vax2">
+<label class="accordion" for="proof-of-vax2"><b>Vaccinated Overseas</b></label>
 	<div class="content" style="background-color:#ededed;"><ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:upper-alpha;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Digitally-verifiable vaccination certificate; OR</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">English, or English translated and notarised vaccination certificate with the following details:
