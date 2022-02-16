@@ -291,7 +291,7 @@ input:checked + label + .content {
 	<p style="line-height:1.4; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (LAND) (VTP LAND)</b>.</p>
 	<p style="line-height:1.4; margin-top:20px; font-size:18px;">Please note the following before applying:
 		</p><ol style="margin-top:0px; list-style-type:disc;">
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> <b>Applicants do not need to rush to apply as there is no quota for VTPs, and are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Applicants <b>are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><b>Applicants must apply for VTPs between 3 and 60 calendar days before their date of departure.</b></li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTPs are valid for up to 14 calendar days from the traveller's chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. Travellers not travelling during this date range can apply for a VTP later.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Accompanying children aged 12 and below and are unvaccinated do <b><u>not</u></b> need to apply. </li>
@@ -312,9 +312,16 @@ Travellers who are eligible for VTL (Land) and have already obtained their bus t
 <ol style="font-size:18px; list-style-type:disc;">
 	<li style="font-size:18px; line-height:1.4;">Negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) taken within 2 days before departure for Singapore;</li>
 	<li style="font-size:18px; line-height:1.4;">Filling up the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> (replaces the physical "White Card"). Travellers must complete this within three (3) days before arrival in Singapore to avoid delays at the checkpoint; and</li>
-	<li style="font-size:18px; line-height:1.4;">On-arrival COVID-19 test upon arriving in Singapore.</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of residence or accommodation, in addition to fulfilling their pre-departure and on-arrival testing requirements.</li>
-</ol>	
+		<li style="font-size:18px; line-height:1.4;"><b>[For travellers arriving before 21 Feb 2022, 2359h]</b> Post-arrival self-administered COVID-19 ARTs on Days 2 to 7</li>
+</ol>
+
+Travellers entering Singapore <b>from 21 Feb 2022, 2359h</b> will only need to undergo the following COVID-19 tests:
+<ol style="font-size:18px; list-style-type:disc;">
+<li style="font-size:18px; line-height:1.4;">Pre-departure COVID-19 PCR or professionally administered ART taken within 2 days before departure for Singapore</li>
+<li style="font-size:18px; line-height:1.4;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at Woodlands and Queen Street Bus Terminals or any <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li> 
+</ol>
+Fully vaccinated and recently recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.
+
 
 <div id="FAQ"></div>
 	
