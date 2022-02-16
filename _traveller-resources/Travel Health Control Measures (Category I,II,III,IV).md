@@ -34,7 +34,7 @@ This page provides a summary of the four categories of travel health control mea
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Instructions before referring to the THCM Categories:</u></b></span><br><br>
 					<b> ➀</b> If you have visited or transited in multiple countries <b><u>in the past 7 days</u></b> before arriving in Singapore, note that:
 					<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
-					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The most stringent category out of all the countries/regions you have visited (excluding transits less than 24 hours) will apply. For example, a traveller who had travel history to a Category (I) country/region before departure, but transited in a Category (II/III) country/region on the way to Singapore, will be subject to Category (II/III) measures; and</li>
+					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The most stringent category out of all the countries/regions you have visited (excluding transits less than 24 hours) will apply. For example, a traveller who had travel history to a Category (I) country/region before departure, but transited in a Category (II/III/IV) country/region on the way to Singapore, will be subject to Category (II/III/IV) measures; and</li>
 												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	<!--A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 14 consecutive days before departure. <u>or</u> you are a Singapore resident (i.e. Singapore Citizen, Permanent Resident and Long-Term Pass Holder) and have remained in a Category (I), (II), (III) and/or (IV) country/region for at least 14 consecutive days before departure.-->	For transits lasting more than 24 hours, a pre-departure test must be taken within 2 days from the last leg of the journey to Singapore.  </li>
 					</ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
@@ -95,7 +95,7 @@ This page provides a summary of the four categories of travel health control mea
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (II/III) Travel and Health Control Measures Summary</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2">Click here</a> for a printable Category (II/III) Traveller’s Checklist, with detailed guides for all documentation, tests and payments needed]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (II/III/IV) Travel and Health Control Measures Summary</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2">Click here</a> for a printable Category (II/III/IV) Traveller’s Checklist, with detailed guides for all documentation, tests and payments needed]</i></span></th>
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
@@ -145,11 +145,11 @@ This page provides a summary of the four categories of travel health control mea
 <table style="overflow: hidden;">
 <thead>
 <tr>
-<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (IV) Travel and Health Control Measures Summary</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-4">Click here</a> for a printable Category (IV) Traveller’s Checklist, with detailed guides for all documentation, tests and payments needed]</i></span></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Restricted Category Travel and Health Control Measures Summary</b><br><span style="font-size:14px;"></span></th>
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>There are currently no countries/regions under Category IV.</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>There are currently no countries/regions under the Restricted Category</b></th>
 </tr>
 </thead>
 <tbody>
