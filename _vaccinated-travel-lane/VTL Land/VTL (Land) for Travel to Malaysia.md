@@ -3,7 +3,6 @@ title: VTL (Land) for Travel to Malaysia
 permalink: /vtl-land/testoutbound-travel
 description: ""
 third_nav_title: VTL Land
-published: false
 ---
 
 
