@@ -258,5 +258,5 @@ third_nav_title: VTL Sea
 <input id="5B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="5B" class="box">&nbsp;&nbsp;<b>Stage 5B: Post-Arrival COVID-19 ARTs</b></label></div>
 <div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. born in or after 2020) do not require any post-arrival ARTs.</b></p>
-		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp;<b>Travelers who qualify for the <a target="_blank" href="/vaccinated-recovered">Vaccinated-Recovered Traveller Protocol</a> are exempted from the post-arrival COVID-19 ARTs.</b></p>
+		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b style="color:red">❓</b>&nbsp;Please refer to the <a href="/vtl/faq" target="_blank">FAQs here for more information.</p>
 </div>
