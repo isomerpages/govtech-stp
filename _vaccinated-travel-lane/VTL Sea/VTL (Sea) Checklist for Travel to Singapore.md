@@ -26,6 +26,8 @@ third_nav_title: VTL Sea
 <p style="padding-left:50px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><span style="font-size:25px; color:red;"><b>✕</b></span> &nbsp; Non-Malaysian male Work Permit holders in the Construction, Marine shipyard or Process (CMP) Sector or staying in dormitories should apply for entry via the <a target="_blank" href="/wphl/overview">Work Pass Holder General Lane</a>.</p>
 <p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4;"><span style="color:black; font-size:25px;"><b>✍</b></span> &nbsp; Travellers may check against the box (☐) for completed actions.</p>
 
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
+
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">
 <input id="1A" type="checkbox" class="box"><label for="1A" class="box">&nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
