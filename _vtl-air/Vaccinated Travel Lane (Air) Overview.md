@@ -37,7 +37,7 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 
 ### 1. VTL (Air) Countries/Regions
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions" within the past 14 days, based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. For instance, travellers entering Singapore on or after 14 December can have travel history to Thailand within the past 14 days. Those entering Singapore prior to 14 December may not have travel history to Thailand.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions" within the past 14 days (or 7 days, for travellers entering Singapore <b>from 21 Feb 2022, 2359h</b>), based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. For instance, travellers entering Singapore on or after 25 Feb can have travel history to the UAE within the past 7 days. Those entering Singapore prior to 25 Feb may not have travel history to the UAE.</p>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">SC/PRs with travel history to countries that are not listed within the "Active VTL (Air) Countries/Regions" will be subject to the <a href="/shn-and-swab-summary" target="_blank">prevailing health measures</a>. All other travellers will be denied entry into Singapore. </p>
 
@@ -65,10 +65,16 @@ description: Requirements for using the Vaccinated Travel Lane to travel to Sing
 <table>
 <tbody>
 	<tr>
-<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Deferred until further notice</b></td>
+<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>For travellers entering Singapore from 24 Feb 2022, 2359h</b></td>
 		</tr>
 	<tr>
 	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Qatar, Saudi Arabia and the United Arab Emirates</td>
+	</tr>
+	<tr>
+<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>For travellers entering Singapore from 3 Mar 2022, 2359h</b></td>
+		</tr>
+	<tr>
+	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Israel and the Philippines</td>
 	</tr>
 	</tbody>
 	</table>
