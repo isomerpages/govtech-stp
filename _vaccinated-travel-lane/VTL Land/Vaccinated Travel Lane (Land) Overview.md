@@ -179,8 +179,8 @@ input:checked + label + .content {
 	</ol>
 	<p></p>
 	</div>
-
-
+	</body>
+</html>
 	
 <div id="Application"></div>
 
@@ -189,7 +189,10 @@ input:checked + label + .content {
 
 
 
+<html>
 
+<head>
+<meta charset="utf-8">
 <title>Test Accordion</title>
 
 <style>
@@ -275,7 +278,8 @@ input:checked + label + .content {
 
 	
 </style>
-
+</head>
+<body>
 
 <input id="title6" type="checkbox" class="test1">
 <label for="title6" class="test2">Singapore Citizens (SC), Permanent Residents (PR) &amp; Long-Term Pass Holders (LTPH)</label>
@@ -302,7 +306,8 @@ input:checked + label + .content {
 	</ol>
 	<p></p>
 	</div>
-
+	</body>
+</html>
 
 
 <div id="Documents"></div>
@@ -322,8 +327,7 @@ Travellers entering Singapore <b>from 21 Feb 2022, 2359h</b> will only need to u
 <li style="font-size:18px; line-height:1.4;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at Woodlands and Queen Street Bus Terminals or any <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li> 
 </ol>
 Fully vaccinated and recently recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.
-	</body>
-</html>
+
 
 <div id="FAQ"></div>
 	
