@@ -249,7 +249,7 @@ Please email <a href="mailto:airborder@rafflesmedical.com" target="_blank">airbo
 
 #### 1. What are the test centres that travellers can go to for their supervised ARTs?
 
-They can visit any of the Quick Test Centres (QTCs) or Combined Test Centres (CTCs).
+They can visit any of the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>.
 
 #### 2. Can travellers choose to undergo the supervised ART at other clinics in Singapore?
 
@@ -264,7 +264,8 @@ The cost of the supervised ART is S$15 (inclusive of Goods and Services Tax), wi
 No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
 
 #### 5. How do travellers book their appointments for their supervised ARTs?
-Travellers will be provided with a weblink to book their ARTs at a Quick Test Centre (QTC) or Combined Test Centre (CTC) via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC).
+
+Travellers will be provided with a weblink to book their ARTs at a <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC).
 
 #### 6. What do travellers need to bring for their supervised ART appointment?
 
@@ -272,7 +273,7 @@ Travellers will need to bring along a photo identification for verification.
 
 #### 7. Are children required to undergo supervised ARTs?
 
-Children aged 2 and below in this calendar year are not required to undergo the. Children aged 3 to 12 must undergo their supervised ART at the Quick Test Centres (QTC) or Combined Test Centres (CTCs) and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
+Children aged 2 and below in this calendar year are not required to undergo the. Children aged 3 to 12 must undergo their supervised ART at the <a href="https://go.gov.sg/QTC-ART-testing" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
 #### 8. Do travellers need to self-isolate after their supervised ART?
 
@@ -282,6 +283,7 @@ Except for attending the supervised ART, travellers are required to self-isolate
 #### 9. How soon will the results of the supervised ARTs be out?
 
 If tested positive for their supervised ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number).
+
 Travellers with a registered local mobile number can expect to receive their results via SMS within 2 hours. Those without a local mobile number can expect to receive their results via email within 12 hours.
 
 Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
@@ -300,7 +302,7 @@ Further, the traveller’s ATP may be cancelled, and in such an event, he/she ma
 
 #### 12. What should travellers do if they do not receive their supervised self-administered ART results after 24 hours?
 
-Please email testingops@hpb.gov.sg for enquiries related to the supervised self-administered ART results.
+Please email <a href="mailto:testingops@hpb.gov.sg" target="_blank">testingops@hpb.gov.sg</a> for enquiries related to the supervised self-administered ART results.
 
 
 <div id="general"></div>
