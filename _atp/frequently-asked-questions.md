@@ -191,7 +191,7 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 
 <i style="color:red;">Travellers entering Singapore from 21 February 2022, 2359h, will no longer be required to undergo an on-arrival COVID-19 Polymerase Chain Reaction (PCR) test at the airport. Instead, they will need to complete a supervised self-administered Antigen Rapid Test (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC) within 24 hours of arrival in Singapore. Please jump to the relevant section based on your intended date of entry into Singapore.</i>
 
-<ol>
+<ol style="list-style-type: disc;">
 	<li><a href="#before21">For travellers entering before 21 February 2022, 2359h</a></li>
 	<li><a href="#after21">For travellers entering after 21 February 2022, 2359h</a></li>
 	</ol>
