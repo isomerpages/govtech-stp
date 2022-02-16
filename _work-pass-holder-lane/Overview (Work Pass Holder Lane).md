@@ -10,10 +10,34 @@ description: ""
 The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates the entry of foreigners with passes granted by the Ministry of Manpower (“Pass holders”).
 
 <b>[For arrivals before 21 Feb 2022, 2359 hours]</b> All pass holders must get an entry approval to enter Singapore. This however, excludes pass holders conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea.
-[For arrivals from 21 Feb 2022, 2359 hours] Eligible pass holders, including in-principle approval (IPA) holders will not need to apply for or present an entry approval letter to enter Singapore. The summary of changes to entry approval requirements are:
 
-	
-The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates the entry of foreigners with passes granted by the Ministry of Manpower (“Pass holders”). All pass holders must obtain an entry approval to enter Singapore. This however, excludes pass holders conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea.
+<b>[For arrivals from 21 Feb 2022, 2359 hours]</b> Eligible pass holders, including in-principle approval (IPA) holders will not need to apply for or present an entry approval letter to enter Singapore. The summary of changes to entry approval requirements are:
+
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Types of pass holders</b></th>
+	<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Need to apply for entry approval to enter Singapore?</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of workers should <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore" target="_blank">apply for entry directly via MOM’s website</a>.
+<ol style="list-style-type:lower-latin;">
+	<li style="font-size:18px; margin-top:0px; line-height:1.5;">Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
+		<ol style="list-style-type:disc;">
+<li style="font-size:18px; margin-top:0px; line-height:1.5;">Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and</li>
+<li style="font-size:18px; margin-top:0px; line-height:1.5;">Are entering Singapore without their dependants.</li>
+			</ol></li>
+<li style="font-size:18px; margin-top:20px; line-height:1.5;">Work Holiday Pass (WHP) holders</li>
+<li style="font-size:18px; margin-top:10px; line-height:1.5;">Personalised Employment Pass (PEP) holders (without employers) and their dependants</li>
+<li style="font-size:18px; margin-top:10px; line-height:1.5;">EntrePass holders (without Corppass) and their dependants</li>
+			</ol>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+
 
 On this page, you will find the following key information on the WPHL. 
 
