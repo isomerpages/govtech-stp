@@ -341,6 +341,15 @@ label.box {
 		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:44px; height:97px;" src="/images/QR_SG.png"></li>
 		</ol>
 </div>
+	<input id="Qatar-cert" type="checkbox" class="accordion">
+<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Qatar-cert" class="accordion"><b>Qatar <i>[For applications from 22 Feb 2022, 1000h]</i></b></label>
+	<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a> 
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
+	<ol style="list-style-type:disc;">
+		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
+		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:54px; height:84px;" src="/images/QR_Canada.png"></li>
+		</ol>
+</div>
 					<input id="ROK-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="ROK-cert" class="accordion"><b>Republic of Korea</b></label>
 		<div style="background-color:#ededed;" class="content">
@@ -359,6 +368,11 @@ label.box {
   </li>
     </ol>
 </div>
+		<input id="Saudi-cert" type="checkbox" class="accordion">
+<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Saudi-cert" class="accordion"><b>Saudi Arabia <i>[For applications from 22 Feb 2022, 1000h]</i></b></label>
+		<div style="background-color:#ededed;" class="content">Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
+			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
 					<input id="SriLanka-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="SriLanka-cert" class="accordion"><b>Sri Lanka</b></label>
 		<div style="background-color:#ededed;" class="content">Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health
@@ -412,7 +426,7 @@ label.box {
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="USA-cert" class="accordion"><b>United States of America</b></label>
 		<div style="background-color:#ededed;" class="content"><ol style="list-style-type:lower-alpha;">
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a target="_blank" href="https://smarthealth.cards/faq.html">SMART Health Cards (SHC)</a> issued by CommonTrust Network issuers (listed <a target="_blank" href="https://www.commontrustnetwork.org/verifier-list">here</a> and <a target="_blank" href="https://www.commonhealth.org/smart-health-cards">here</a>) or <a target="_blank" href="https://vci.org/issuers">Vaccination Credential Initiative issuers</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><a target="_blank" href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html">Digital vaccination record retrieved from the public health database of the state or the local health authority</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><a target="_blank" href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html">Digital vaccination record retrieved from the public health database of the state or the local health authority</a> (e.g. US Centers for Disease Control and Prevention (CDC)’s <a href="https://www.cdc.gov/vaccines/covid-19/reporting/vams/index.html" target="_blank">Vaccine Administration Management System</a> (VAMS))</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Physical vaccination record and a letter signed by the state, local health authority or vaccination provider to attest to the passenger’s vaccination status. The attestation letter should contain:
 			<ol style="list-style-type:lower-roman;">
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">the passenger’s name and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the passenger’s passport used for entry into Singapore; </li>
