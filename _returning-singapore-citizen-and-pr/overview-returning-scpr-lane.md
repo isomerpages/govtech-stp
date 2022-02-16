@@ -172,7 +172,7 @@ input:checked + label + .content {
 ### 4) Additional Information
 
 <table>
-<thead>
+<tbody>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-top:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Click <a href="/health/faq">below</a> for FAQs, and information related to:
