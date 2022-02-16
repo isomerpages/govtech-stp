@@ -21,15 +21,6 @@ The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates 
 </tr>
 </thead>
 <tbody>
-	<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
-<ol style="list-style-type:disc;">
-	<li style="font-size:18px; margin-top:0px; line-height:1.5;">Work Permit holders (i.e. workers employed by companies, helpers and confinement nannies)</li>
-		<li style="font-size:18px; margin-top:0px; line-height:1.5;">Training Work Permit holders</li>
-			</ol>
-		</td>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Yes.</td>
-	</tr>
 		<tr>
 		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
 <ol style="list-style-type:disc;">
@@ -37,7 +28,14 @@ The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates 
 		<li style="font-size:18px; margin-top:0px; line-height:1.5;">Training Work Permit holders</li>
 			</ol>
 		</td>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Yes.</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">Yes.</td>
+	</tr>
+		<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">All other pass holders (e.g. Employment Pass, S Pass holders and their dependants)
+		</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">No. But they still need to comply with the prevailing travel health control measures, and show all these documents during departure and upon arrival:
+<p style="padding-left: 10px; font-size:18px; margin-top:10px; line-height:1.5;">•	MOM passes or IPA letters</p>
+</td>
 	</tr>
 	</tbody>
 	</table>
