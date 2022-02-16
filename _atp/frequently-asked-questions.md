@@ -108,6 +108,7 @@ Visitors entering Singapore on ATP may travel to Singapore on flights with trans
 
 Visitors travelling on the ATP do not need a return flight ticket to enter Singapore. However, they are advised to check with the relevant authorities on the procedures and approval needed to return to their country/region of departure, or to enter their onward destination.
 
+
 <div id="visa"></div>
 
 ### Visa Application
