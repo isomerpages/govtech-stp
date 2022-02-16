@@ -13,6 +13,7 @@ permalink: /atp/faq
 				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Test</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#oat">On-Arrival COVID-19 Test and Self-Isolation</a></li>
+				<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#general">General Matters</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#contact">Contact Tracing – TraceTogether</a></li>
 		</ol>
 		</li>
@@ -298,6 +299,9 @@ Further, the traveller’s ATP may be cancelled, and in such an event, he/she ma
 #### 12. What should travellers do if they do not receive their supervised self-administered ART results after 24 hours?
 
 Please email testingops@hpb.gov.sg for enquiries related to the supervised self-administered ART results.
+
+
+<div id="general"></div>
 
 ### General Matters
 
