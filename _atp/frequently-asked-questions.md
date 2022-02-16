@@ -224,8 +224,8 @@ Note: Bookings not cancelled up to 7 days after the scheduled booking date will 
 
 To cancel and request for a refund of your booking:
 
-1.	Login to your Safe Travel Concierge (STC) account, navigate to ‘My Trips’ and choose the specific trip that you wish to cancel.
-2.	If you do not have a STC account, please request for assistance to cancel and refund your booking by emailing swabtest.refund@changiairport.com.
+1.	Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a>, navigate to ‘My Trips’ and choose the specific trip that you wish to cancel.
+2.	If you do not have a STC account, please request for assistance to cancel and refund your booking by emailing <a href="mailto:swabtest.refund@changiairport.com" target="_blank">swabtest.refund@changiairport.com</a>.
 
 Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
 
@@ -239,7 +239,7 @@ Among other measures which may be taken. if travellers refuse to undergo the on-
 
 #### 7. What should travellers do if they do not receive their on-arrival COVID-19 PCR test results after 24 hours?
 
-Please email airborder@rafflesmedical.com for enquiries related to on-arrival COVID-19 PCR test results.
+Please email <a href="mailto:airborder@rafflesmedical.com" target="_blank">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
 
 ---
 
