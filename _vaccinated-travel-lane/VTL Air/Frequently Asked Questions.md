@@ -4,7 +4,6 @@ permalink: /vtl/faq
 description: ""
 third_nav_title: VTL Air
 ---
-
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:10px; color:red; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>
 		This page contains FAQs for travellers who already understand the entry requirements into Singapore via the Vaccinated Travel Lane (Air) [VTL (Air)]. Singapore time (SGT) is used for all dates and times shown on this page. If you are not clear on the VTL (Air) requirements, please refer to the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air) Overview page here</a> before reading this FAQ Page.<br/><br/> Travellers intending to travel out of Singapore to a VTL (Air) country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.
@@ -72,7 +71,7 @@ third_nav_title: VTL Air
 
 #### 1. Are unvaccinated children allowed to travel under the VTL (Air)?
 
-Unvaccinated children aged 12 and below in this calendar year may enter Singapore on the VTL (Air) (e.g. a child turning 12 in the current calendar year is allowed). Such travellers, **including Long-Term Pass holders and short-term visitors**, do not need to apply for a Vaccinated Travel Pass (Air) [VTP (Air)]. However, they must comply with all other VTL (Air) <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL (Air) traveller. 
+Unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) may enter Singapore on the VTL (Air). Such travellers, **including Long-Term Pass holders and short-term visitors**, do not need to apply for a Vaccinated Travel Pass (Air) [VTP (Air)]. However, they must comply with all other VTL (Air) <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL (Air) traveller. 
 
 #### 2. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL (Air)?
 
