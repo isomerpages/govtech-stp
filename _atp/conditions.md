@@ -92,7 +92,7 @@ Please refer to the applicable ATP Conditions based on your date of entry into S
      </ol>
   </li>
   <br/>
-    <li style="font-size:20px; list-style-type:decimal;"> The requirements in Condition 1(b), 1(c) and 1(d) do not apply to children aged 2 and below in the calendar year as well as fully vaccinated recovered travellers entering Singapore from 23 Jan 2022, 2359 hrs.</li>
+    <li style="font-size:20px; list-style-type:decimal;"> The requirements in Condition 1(b), 1(c) and 1(d) do not apply to children aged 2 and below in the calendar year as well as fully vaccinated recovered travellers.</li>
   <br/>  
 	<li style="font-size:20px; list-style-type:decimal;"> The requirement in Condition 1(b) does not apply to unvaccinated and non-fully vaccinated recovered travellers.</li>
   <br/>
