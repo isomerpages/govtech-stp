@@ -7,7 +7,7 @@ permalink: /atp/conditions
 Please refer to the applicable ATP Conditions based on your date of entry into Singapore:
 <ol>
 	<li><a href="#before21">Before 21 February 2021, 2395hrs (SGT)</a></li>
-	<li><a href="#after21">On or after 21 February 2021, 2395hrs (SGT)</li>
+	<li><a href="#after21">On or after 21 February 2021, 2395hrs (SGT)</a></li>
 </ol>
 
 ---
