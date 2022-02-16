@@ -278,6 +278,7 @@ Children aged 2 and below in this calendar year are not required to undergo the.
 #### 8. Do travellers need to self-isolate after their supervised ART?
 
 Yes, travellers must self-isolate after their supervised ART until their test result is conveyed.
+
 Except for attending the supervised ART, travellers are required to self-isolate in their declared accommodation until they are notified that they have tested negative. Travellers may only take private transportation, taxi, or private hire car between the QTC/CTC and their accommodation. Public transportation is not allowed.
 
 #### 9. How soon will the results of the supervised ARTs be out?
