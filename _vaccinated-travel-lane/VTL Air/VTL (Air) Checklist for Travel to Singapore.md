@@ -4,7 +4,6 @@ permalink: /vtl/travel-checklist
 description: ""
 third_nav_title: VTL Air
 ---
-
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:15px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>This page contains a checklist for Vaccinated Travel Lane (Air) [VTL (Air)] travellers who already understand the entry requirements into Singapore via the VTL (Air). If you are not clear on the VTL (Air) requirements, please refer to the VTL (Air) Overview page <a target="_blank" href="/vtl/requirements-and-process">here</a>  before reading this checklist.</b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>Travellers intending to travel <u>out</u> of Singapore to a VTL (Air) country/region are advised to check the prevailing entry requirements of the destination. For useful information regarding preparing to depart from Singapore (e.g. obtaining pre-departure tests, vaccination certificates), please visit the, please visit the <a target="_blank" href="/departing/overview">"Departing from Singapore"</a> page.</b></span></p>
@@ -169,7 +168,7 @@ label.box {
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using these tools: <a target="_blank" href="https://play.google.com/store/apps/details?id=au.gov.dfat.vdsncchecker">VDS-NC Checker (Android)</a> or <a target="_blank" href="https://apps.apple.com/sg/app/vds-nc-checker/id1582587862">VDS-NC</a> Checker (iOS)</li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
   <ol style="list-style-type:disc;">
-    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One. Please upload a 1-page PDF or PNG of your certificate.</li>
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One. Please upload a PNG screenshot of the QR code.</li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:54px; height:84px;" src="/images/QR_Australia.png"></li>
     </ol>
   </li>
@@ -177,9 +176,32 @@ label.box {
 </div>
 		<input id="Brunei-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="Brunei-cert" class="accordion"><b>Brunei Darussalam</b></label>
-		<div style="background-color:#ededed;" class="content">Proof of vaccination on the <a target="_blank" href="http://www.moh.gov.bn/SitePages/bruhealth.aspx">BruHealth app</a>
+		<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.gov.bn/SitePages/bruhealth.aspx">BruHealth app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
 			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
+						<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>[For applications from 21 Feb 2022, 2359h]</b></p>
+			<ol style="list-style-type: lower-roman;">
+  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code via a regular QR code scanner on your mobile device</li>
+  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
+  <ol style="list-style-type:disc;">
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose.</li>
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<table>
+<tbody><tr>
+	<td style="border:0px;"><img style="width:57px; height:75px; vertical-align:middle;" src="/images/QR_Denmark_1.png"></td>
+			</tr>
+	<tr>
+	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On physical/PDF copy</td>
+	</tr>
+	<tr>
+			<td style="border:0px;"><img style="width:44px; height:97px;" src="/images/QR_SG.png"></td>
+	</tr>
+	<tr>
+			<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On apps</td>
+	</tr>
+			</tbody></table></li>
+    </ol>
+  </li>
+    </ol>
 	</div>
 		<input id="Cambodia-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Cambodia-cert" class="accordion"><b>Cambodia</b></label>
