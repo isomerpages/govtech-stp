@@ -59,11 +59,11 @@ third_nav_title: VTL Land
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">Malaysian male Work Permit holders in the CMP sector can enter Singapore via the VTL (Land), but isolate in a dormitory if they test positive for their on-arrival COVID-19 Antigen Rapid Test and are awaiting their confirmatory Polymerase Chain Reaction (PCR) test results.</p>
 
 
-
-
-
 <title>Test Accordion</title>
+<html>
 
+<head>
+<meta charset="utf-8">
 <style>
 
 input {
@@ -116,7 +116,8 @@ input:checked + label + .content {
 }
 	
 </style>
-
+</head>
+<body>
 
 
 <input id="title1" type="checkbox">
@@ -178,8 +179,8 @@ input:checked + label + .content {
 	</ol>
 	<p></p>
 	</div>
-
-
+	</body>
+</html>
 	
 <div id="Application"></div>
 
@@ -188,7 +189,10 @@ input:checked + label + .content {
 
 
 
+<html>
 
+<head>
+<meta charset="utf-8">
 <title>Test Accordion</title>
 
 <style>
@@ -274,7 +278,8 @@ input:checked + label + .content {
 
 	
 </style>
-
+</head>
+<body>
 
 <input id="title6" type="checkbox" class="test1">
 <label for="title6" class="test2">Singapore Citizens (SC), Permanent Residents (PR) &amp; Long-Term Pass Holders (LTPH)</label>
@@ -301,7 +306,8 @@ input:checked + label + .content {
 	</ol>
 	<p></p>
 	</div>
-
+	</body>
+</html>
 
 
 <div id="Documents"></div>

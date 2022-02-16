@@ -180,7 +180,7 @@ You must present a recovery certificate or discharge memo, which shows the date 
 
 If you are required to apply for a VTP (Air), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo. 
 
-You <u>do not</u> need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination, NHS COVID Pass of vaccination, or Northern Ireland COVID certificate showing the final dose in the series (i.e. "1/1"). IF you are required to apply for a VTP (Air), you need only upload the QR code found on your vaccination certificate. 
+You <u>do not</u> need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination, NHS COVID Pass of vaccination, or Northern Ireland COVID certificate showing the final dose in the series (i.e. "1/1"). If you are required to apply for a VTP (Air), you need only upload the QR code found on your vaccination certificate. 
 
 #### 9. Are travellers required to obtain a booster dose to be eligible for the VTL(Air)?
 
@@ -208,8 +208,8 @@ Currently, travellers are granted interim 'Vaccinated' status in the TraceTogeth
 
 <p style="line-height:1.5; margin-top:15px;  font-size:18px; color:red;"><b><u>For Singapore Citizens and Permanent Residents</u></b></p>
 <p style="line-height:1.5; font-size:18px;"> If you are a Singapore Citizen or Permanent Resident, you need not apply for a VTP (Air). You will need to show an accepted proof of vaccination to airlines at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. </p>
-<p style="line-height:1.5; font-size:18px; margin-top:15px; color:red;"><b><u>For Short-Term Visitors and Long-Term Pass Holders</u></b></p>
-<p style="line-height:1.5; font-size:18px;">If you are a Long-Term Pass Holder or Short-Term Visitor (LTPH/STV) to Singapore, you need to apply for a VTP (Air). Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP (Air) application portal. You should upload the QR code(s) of your <b>primary series</b> only (i.e. first and second doses); regardless of whether you have obtained a booster dose. <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. Those who are required to upload a QR code but cannot do so are to write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation (e.g. passport) and other supporting documents. </p>
+<p style="line-height:1.5; font-size:18px; margin-top:15px; color:red;"><b><u>For Short-Term Visitors and Work Permit Holders</u></b></p>
+<p style="line-height:1.5; font-size:18px;">If you are a Short-Term Visitor (STV) or Work Permit Holder (WPH) in Singapore, you need to apply for a VTP. Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP (Air) application portal. You should upload the QR code(s) of your <b>primary series</b> only (i.e. first and second doses); regardless of whether you have obtained a booster dose. You may self-verify your QR codes by following the instructions in the guide <a href="https://safetravel.ica.gov.sg/vtl/faq#verify" target="_blank">here</a>. Those who are required to upload a QR code but cannot do so are to write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation (e.g. passport) and other supporting documents. </p>
 <p style="line-height:1.5; font-size:18px; margin-top:20px; color:red;"><b><u>Accepted Proof of Vaccination</u></b></p>
 <table>
 <thead>
@@ -243,7 +243,7 @@ Currently, travellers are granted interim 'Vaccinated' status in the TraceTogeth
 </tr>-->
 		<tr>
 <td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>Brunei</b></td>
-		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">Proof of vaccination on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a></td>
+		<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; ">COVID-19 Vaccination Certificate on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a></td>
 				<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">No, but you must still show your proof of vaccination at airline check-in and arrival immigration.</td>
 </tr>
 	<tr>
