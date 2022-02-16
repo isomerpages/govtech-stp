@@ -1,9 +1,10 @@
 ---
 title: VTL (Land) Checklist for Travel to Singapore
-permalink: /vtl-land/testtravel-checklist
+permalink: /vtl-land/travel-checklist
 description: ""
 third_nav_title: VTL Land
 ---
+
 
 
 ### VTL Land Travel Checklist 
