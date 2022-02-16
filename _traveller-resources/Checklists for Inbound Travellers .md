@@ -16,6 +16,8 @@ permalink: /travel-checklist/overview
 	</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/atp/requirements-and-process"  target="_blank">Air Travel Pass</a>
 	</li>
+	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/wphl/shn-and-swab-summary" target="_blank">Work Pass Holder Lane</a>
+	</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Returning Singapore Citizens and Permanent Residents Lane, Familial Ties Lane, and Student’s Pass Lane <br>
 			<table>
   <thead>
@@ -37,8 +39,6 @@ permalink: /travel-checklist/overview
     </tr>
 				</tbody>
 			</table>			
-	</li>
-	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/wphl/overview" target="_blank">Work Pass Holder Lane</a>
 	</li>
 		<!--<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/rgl/travel-checklist" target="_blank">Reciprocal Green Lane</a>
 	</li>
