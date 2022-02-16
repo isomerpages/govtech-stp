@@ -170,7 +170,7 @@ Travellers arriving from countries requiring a COVID-19 test must do so if they 
 
 In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
-#### 3. I did not receive my on-arrival COVID-19 PCR test results after 24 hours. What should I do?
+#### 3. [For travellers arriving before 21 Feb 2022, 2359h] I did not receive my on-arrival COVID-19 PCR test results after 24 hours. What should I do?
 
 Please email <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
 
