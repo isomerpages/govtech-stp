@@ -8,7 +8,7 @@ description: ""
 
 <ol>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Are entering Singapore <b>from 21 Feb 2022, 2359H only</b>;</li>
-	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b>Have</b> visited any country/region in Category (II)/(III) the past 7 days before arrival in Singapore;</li>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Have visited any country/region in Category (II)/(III)/(IV) the past 7 days before arrival in Singapore;</li>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b>Are not</b> entering Singapore via the Vaccinated Travel Lane (Air), (Land), (Sea), Reciprocal Green Lane, Periodic Commuting Arrangement, Work Pass Holder General Lane or Air Travel Pass. <i>(If unsure what these lanes/arrangements are, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page to determine an entry option that best suits your travel needs.)</i></li>
 </ol>
   
