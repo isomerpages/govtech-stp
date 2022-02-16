@@ -59,7 +59,7 @@ This page provides a summary of the four categories of travel health control mea
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Hong Kong*, Macao, Mainland China, Taiwan</b>
-<p style="color:white; font-size: 16px; line-height:1.35; text-align: left;">*<i>Note: Travellers arriving in Singapore from Hong Kong <u>after 24 Feb, 2359h SGT</u> should refer to Category (II/III/IV) for the travel and health control measures applicable.</i></p></th>
+<p style="color:white; font-size: 16px; line-height:1.35; text-align: left;">*<i>Note: Travellers arriving in Singapore from Hong Kong <u>from 24 Feb, 2359h SGT</u> should refer to Category (II/III/IV) for the travel and health control measures applicable.</i></p></th>
 </tr>
 </thead>
 <tbody>
