@@ -316,11 +316,12 @@ Please refer to this <a href="/health/faq#transport" target="_blank">transport a
 
 #### 2. What should travellers do if their flight arrives earlier than their hotel check-in time?
 
-Travellers must proceed immediately to their place of accommodation for self-isolation. They are not allowed to stay in the airport or wait in the hotel lobby prior to check-in. They should seek their hotel’s assistance to arrange for early check-in. If this is not possible, they can cancel or modify their reservation and arrange a booking at another hotel for self-isolation.
+Travellers must proceed immediately to their place of accommodation for self-isolation. They are <u>not allowed</u> to stay in the airport or wait in the hotel lobby prior to check-in. They should seek their hotel’s assistance to arrange for early check-in. If this is not possible, they can cancel or modify their reservation and arrange a booking at another hotel for self-isolation.
 
 #### 3. What should travellers do if they test positive for COVID-19?
 
-Should you test positive for COVID-19, you will be placed on Protocol 2 of MOH’s Health Protocols by default and should self-isolate for at least 72 hours at your place of accommodation. You may refer to https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor for details on Protocol 2. If you were planning to depart from Singapore, you are required to defer your travel plans until you complete self-isolation and obtain a negative ART result. If you are a higher-risk individual and tested positive on your ART, please visit a clinic to seek medical advice immediately even if you are feeling well. If you feel unwell while in Singapore, please refer to https://www.covid.gov.sg/travellers. Prevailing medical treatment and recovery charges may apply.
+Should you test positive for COVID-19, you will be placed on Protocol 2 of MOH’s Health Protocols by default and should self-isolate for at least 72 hours at your place of accommodation. You may refer to <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank">https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor</a> for details on Protocol 2. If you were planning to depart from Singapore, you are required to defer your travel plans until you complete self-isolation and obtain a negative ART result. If you are a higher-risk individual and tested positive on your ART, please visit a clinic to seek medical advice immediately even if you are feeling well. If you feel unwell while in Singapore, please refer to https://www.covid.gov.sg/travellers. Prevailing medical treatment and recovery charges may apply.
+
 Please also note that if a traveller’s test result is confirmed to be positive, all persons who had shared the same room with the traveller, as well as those identified to be a close contact, may be served with a Health Risk Warning (HRW).
 
 
