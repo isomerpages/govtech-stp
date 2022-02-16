@@ -3,7 +3,6 @@ title: Travel Checklist – Fully Vaccinated & Recovered Traveller
 permalink: /vaccinated-recovered
 description: ""
 ---
-
 <p style="line-height:1.3; font-size: 18px;">This checklist applies only to Vaccinated-Recovered Travellers who are:</p>
 
 <ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
@@ -11,14 +10,21 @@ description: ""
 		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Certified positive for COVID-19 between 7- 90 days (inclusive) before departure for Singapore</li>
 	</ol>
 	
-<p style="line-height:1.3; font-size: 18px;">You may use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> to determine if you qualify as a Vaccinated-Recovered traveller. If you do not qualify, please refer to the prevailing requirements under your Safe Travel Lane or return to the <a href="/arriving/overview">Travelling to Singapore</a> page if you are unsure which Safe Travel Lane to use.</p>
+<p style="line-height:1.3; font-size: 18px;">You may use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> to determine if you qualify as a Vaccinated-Recovered traveller.</p>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>A) Application for Entry Approval</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Entry Approvals are needed only for travellers who are:</p>
+<ol>
+<li>Long Term Pass Holders (e.g. Student Pass, Work Pass, S-Pass, Dependant Pass) entering Singapore before 21 Feb 2022, 2359H SGT</li>
+	<li>Work Permit holders</li>
+<li>Short term visitors (including family members under the Familial Ties Lane and Student Pass Holder Lane)</li>
+	</ol>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Long Term Pass Holders (excluding Work Permit Holders) entering from 21 Feb 2022 2359H, as well as Singapore Citizens and Permanent Residents, do not need to apply or present an entry approval to enter Singapore. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes. Unsure which lane you’re eligible for entry, return to the “Travelling to Singapore” page.</p> 
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
   </div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
