@@ -222,56 +222,25 @@ Work pass holders who are immediate family members of Singapore Citizens or Perm
 <table>
 <thead>
 <tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 2: Pass Holders who are Immediate Family Members of Singapore Citizens/PRs </b></th>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 2: All other Pass Holders (e.g. Employment Pass, S Pass holders and their dependants)</b></th>
 </tr>
 </thead>
 <tbody>
 	<tr>
 		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
-Work pass holders who are immediate family members of Singapore Citizens or Permanent Residents of Singapore (SCs/PRs) can consider the following options:
-		<ol style="list-style-type:disc;">
-			<li style="font-size:18px; margin-top:10px; line-height:1.5;"><a href="/scpr-familial-ties-lane/overview" target="_blank">SC/PR Familial Ties Lane</a> applied by SC/PR family member</li>
-			<li style="font-size:18px; margin-top:10px; line-height:1.5;"><a href="https://eservices.ica.gov.sg/STO/" target="_blank">Work Pass Holder Lane (WPHL)</a> applied by employer</li>
-			</ol>
+<p style="font-size:18px; margin-top:0px; line-height:1.5;">No entry application is required. However, pass holders are still required to undergo Category I or II/III/IV travel health control measures depending on their travel history before arrival in Singapore.</p>
+<p style="font-size:18px; margin-top:0px; line-height:1.5;">Please check the <a href="/shn-and-swab-summary" target="_blank">Travel Health Control Measures</a> page to determine what category of health measures they are required to follow.</p>
 		</td>
 	</tr>
 	</tbody>
 	</table>
-
-<table>
-<thead>
-<tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 3: Helpers and Confinement Nannies</b></th>
-</tr>
-</thead>
-<tbody>
-	<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Employers (use Singpass to log in) or Employment Agencies (use Corppass to log in) to apply via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">WPHL Portal</a>
-		</td>
-	</tr>
-	</tbody>
-	</table>
-
-<table>
-<thead>
-<tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 4: All other Pass Holders</b></th>
-</tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Employers to apply via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">WPHL Portal</a> (use Corppass to log in)</td>
-  </tr>
-  </tbody>
-  </table>
-
 
 
 <div id="PDEntry"></div>
 
 ### 4. Pre-Departure & Entry Procedures
 
-The approval letter will indicate the travel health control measures submitters (i.e. employers or employment agencies which submitted the entry applications) and their pass holders must comply with.
+The approval letter, if applicable, will indicate the travel health control measures submitters (i.e. employers or employment agencies which submitted the entry applications) and their pass holders must comply with.
 
 As the control measures are subject to change based on the global situation, the Ministry of Manpower (MOM) will inform submitters whose pass holders have obtained approvals of the changes by email.
 
