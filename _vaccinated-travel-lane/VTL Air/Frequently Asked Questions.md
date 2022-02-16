@@ -4,7 +4,6 @@ permalink: /vtl/faq
 description: ""
 third_nav_title: VTL Air
 ---
-
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:10px; color:red; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>
 		This page contains FAQs for travellers who already understand the entry requirements into Singapore via the Vaccinated Travel Lane (Air) [VTL (Air)]. Singapore time (SGT) is used for all dates and times shown on this page. If you are not clear on the VTL (Air) requirements, please refer to the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air) Overview page here</a> before reading this FAQ Page.<br/><br/> Travellers intending to travel out of Singapore to a VTL (Air) country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.
@@ -72,7 +71,7 @@ third_nav_title: VTL Air
 
 #### 1. Are unvaccinated children allowed to travel under the VTL (Air)?
 
-Unvaccinated children aged 12 and below in this calendar year may enter Singapore on the VTL (Air) (e.g. a child turning 12 in the current calendar year is allowed). Such travellers, **including Long-Term Pass holders and short-term visitors**, do not need to apply for a Vaccinated Travel Pass (Air) [VTP (Air)]. However, they must comply with all other VTL (Air) <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL (Air) traveller. 
+Unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) may enter Singapore on the VTL (Air). Such travellers, **including Long-Term Pass holders and short-term visitors**, do not need to apply for a Vaccinated Travel Pass (Air) [VTP (Air)]. However, they must comply with all other VTL (Air) <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL (Air) traveller. 
 
 #### 2. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL (Air)?
 
@@ -136,7 +135,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 
 <ol style="list-style-type: lower-latin;"><li style="line-height:1.35; font-size:24px; color:#d30000;">I am a Long-Term Pass Holder or Short-Term Visitor with Singapore-issued vaccination records; or</li><li style="line-height:1.35; font-size:24px; color: #d30000;">I was fully vaccinated in a non-VTL (Air) country/region and had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR)?</li></ol>
  
-Please check if your Singapore vaccination records are valid through <a href="http://go.gov.sg/health-cert-query" target="_blank">this link</a> and, if necessary, re-tag your records to your most updated identification (e.g. passport/FIN/IC) number.  The retagging process is not immediate. Please attempt to resubmit a VTP (Air) application <b>only after</b> receiving confirmation from the Ministry of Health / Health Promotion Board that your records have been successfully retagged.
+Please check if your Singapore vaccination records are valid through <a href="http://go.gov.sg/health-cert-query" target="_blank">this link</a> and, if necessary, re-tag your records to your most updated identification (e.g. passport/FIN/IC) number.  The retagging process takes around 2 – 4 weeks. Please attempt to resubmit a VTP (Air) application <b>only after</b> receiving confirmation from the Ministry of Health / Health Promotion Board that your records have been successfully retagged. More information on updating your vaccination records can be found on <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">this link</a>.
 
 You may also choose to upload the QR code on your Singapore Vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, if you have one. Please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code.
 

@@ -44,7 +44,7 @@ third_nav_title: VTL Land
 
 #### 1. I have an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass). Am I allowed to travel under the VTL (Land)?
 
-IPA holders are not eligible to utilise the VTL (Land) for travel to Singapore, unless they are Malaysia Citizens. However, they may still travel to Singapore with necessary approvals under the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a> and will be subject to the prevailing border measures upon entry into Singapore, including any Stay-Home Notice (SHN) and COVID-19 test requirements.
+IPA holders are not eligible to utilise the VTL (Land) for travel to Singapore, unless they are Malaysia Citizens. IPA holders who are not Malaysia Citizens may still travel to Singapore with necessary approvals under non-VTL arrangements such as the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a> and will be subject to the prevailing border measures upon entry into Singapore, including any Stay-Home Notice (SHN) and COVID-19 test requirements.
 
 #### 2. If I am a Singapore Citizen, Singapore Permanent Resident or Holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land), can I use the VTL (Land) to return to Malaysia?
 
@@ -54,7 +54,7 @@ Travellers who use the VTL (Land) to enter Singapore can only return to Malaysia
 	<li style="line-height:1.5;">Malaysia Citizen, <!--Malaysia Permanent Resident-->holder of a Malaysia Long-Term Pass or Singapore Citizen;</li>
 <li style="line-height:1.5;">Fully vaccinated with a vaccine recognised by the Malaysia Ministry of Health;</li>
 	<li style="line-height:1.5;">Holds a proof of vaccination accepted by the Government of Malaysia;</li>
-	<li style="line-height:1.5;">Remains in Singapore and/or Malaysia for the last 14 consecutive days before departing for Malaysia; and</li>
+	<li style="line-height:1.5;">d.	Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category (I) country</a> in the last 14 consecutive days (last 7 consecutive days for VTL travellers arriving <b>from 22 Feb 2022</b>) before departing for Singapore; and</li>
 	<li style="line-height:1.5;">Arrives in Malaysia on a designated VTL (Land) bus service.</li>
 	</ol>
 
@@ -116,7 +116,7 @@ Those who do not require a VTP and meet the eligibility criteria can simply book
 
 Travellers entering Singapore under the VTL (Land) will have to board the bus at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia. The bus will arrive at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore, via the Causeway.
 
-Travellers entering Malaysia under the VTL (Land) will have to board the bus at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore. The bus will arrive at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia, via the Causeway.
+Travellers entering Malaysia under the VTL (Land) will have to board the bus at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore. The bus will arrive at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia, via the Causeway. (From 21 February 2021, 2359 hours, travellers entering under the VTL (Land) will not be required to reboard the bus after immigration clearance and may choose to disembark from Woodlands Checkpoint)
 
 #### 5. Will the VTL (Land) bus services run daily? When are the earliest and latest VTL (Land) bus services?
 
@@ -138,7 +138,7 @@ Travellers who are allowed to enter Singapore will be subject to <a href="/shn-a
 
 #### 1. Do travellers travelling with family members need to apply a VTP for every individual?
 
-All travellers above the age of 12 years old in this calendar year who are not Singapore Citizens or Singapore Permanent Residents must apply for a VTP. 
+All travellers above the age of 12 years old in this calendar year who are Work Permit Holders or Short-term visitors must apply for a VTP.
 
 Children who are 12 and below in this calendar year and are unvaccinated can still travel to Singapore via VTL (Land) if accompanied by a fully vaccinated VTL traveller. However, the child must be a Singapore Citizen, Singapore Permanent Resident, holder of a Singapore-issued Long-Term Pass, or Malaysia Citizen and satisfy the other <a href="/vtl-land/conditions" target="_blank">VTL (Land) Conditions</a>.
 
@@ -257,7 +257,7 @@ You do not need to present a separate recovery certificate or discharge memo if 
 
 Yes, you will fulfill the requirement of having your proof of vaccination issued in any VTL country/region or Singapore.
 
-If you are a holder of a Singapore Long-Term Pass with your vaccination records ingested into Singapore’s NIR, you may obtain your vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a> and upload the QR code in your application for a VTP.
+If you are a holder of a Singapore-issued Work Permit with your vaccination records ingested into Singapore’s NIR, you may obtain your vaccination HealthCert issued via the Notαrise portal and upload the QR code in your application for a VTP.
 
 <div id="digitalcerts"></div>
 
@@ -282,23 +282,23 @@ Digitally verifiable vaccination certificates should contain QR code(s) that can
 	</thead>
 	<tbody>
 		<tr>
-			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
+			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen, Permanent Resident or Long-Term Pass holder (excluding Work Permit)</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">In Singapore</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Either a valid vaccination status on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a> or a vaccination certificate issued by the Singapore Ministry of Health.
 			</td>
 		</tr>
 		<tr>
-			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
+			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen, Permanent Resident or Long-term pass holder (excluding Work Permit)</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Overseas</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">One of the <a href="#digitalcertsQ3">accepted proof of vaccination</a>, which may include your overseas-issued vaccination certificate</td>
 		</tr>
 				<tr>
-			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
+			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Work Permit Holder or Short-Term Visitor</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">In Singapore</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A valid Vaccinated Travel Pass (Land) [VTP (Land)], which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>.</td>
 		</tr>
 				<tr>
-			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
+			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Work Permit Holder or Short-Term Visitor</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Overseas</td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">A valid Vaccinated Travel Pass (Land) [VTP (Land)], which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>, and an <a href="#digitalcertsQ3">accepted proof of vaccination</a>, if necessary.</p>
 </td>
