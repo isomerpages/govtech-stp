@@ -240,7 +240,7 @@ Work pass holders who are immediate family members of Singapore Citizens or Perm
 
 ### 4. Pre-Departure & Entry Procedures
 
-The approval letter, if applicable, will indicate the travel health control measures submitters (i.e. employers or employment agencies which submitted the entry applications) and their pass holders must comply with.
+The approval letter <!--, if applicable--> will indicate the travel health control measures submitters (i.e. employers or employment agencies which submitted the entry applications) and their pass holders must comply with.
 
 As the control measures are subject to change based on the global situation, the Ministry of Manpower (MOM) will inform submitters whose pass holders have obtained approvals of the changes by email.
 
