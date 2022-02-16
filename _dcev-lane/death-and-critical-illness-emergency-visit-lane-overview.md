@@ -13,12 +13,18 @@ On this page, you will find the following information about the Death & Critical
 
 ---
 
+
+<div id="Eligibility"></div>
+
+
 ### 1) Eligibility
 
 All travellers who cannot otherwise enter Singapore on an urgent basis via <a href="/arriving/overview" target="_blank">other SafeTravel Lanes</a> for purposes of attending to the death or critical medical condition of an immediate family member in Singapore.
 
 Only a <b>maximum of two travellers may be granted entry per case</b>.
 
+
+<div id="entry"></div>
 
 ### 2) Entry Application and Approval
 
@@ -36,6 +42,9 @@ Select “<i>Death and Critical Illness Emergency Visit Lane</i>” under S/N 2 
 
 
 Travellers will be informed of the entry period and other instructions via their assigned liaison officer once entry approval is granted.
+
+
+<div id="protocols"></div>
 
 ### 3) Health and Administrative Protocols
 
@@ -69,6 +78,8 @@ Travellers can refer to the checklists below to have a sense of what baseline en
 Fully vaccinated travellers who can produce credible proof of having recovered from COVID-19 in the past 7 – 90 days before departure from Singapore, should refer to the <a href="/vaccinated-recovered" target="_blank">Recovered-Vaccinated Travel Protocol</a> instead.
 
 ---
+
+<div id="additional-info"></div>
 
 ### 4) Additional Information
 
