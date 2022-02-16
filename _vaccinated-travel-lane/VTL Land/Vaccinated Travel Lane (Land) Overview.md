@@ -3,7 +3,6 @@ title: Vaccinated Travel Lane (Land) Overview
 permalink: /vtl-land/testoverview
 description: ""
 third_nav_title: VTL Land
-published: false
 ---
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] allows quarantine-free travel to Singapore via the Causeway. Please note that:</p>
 <ol style="padding-left: 20px; font-size:18px; list-style-type: disc">
