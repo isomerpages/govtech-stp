@@ -103,6 +103,7 @@ Please note that:
 - Application window is 3 to 60 days before planned date of arrival in Singapore.
 - Approval is valid for +/- 1 day from the planned date of arrival to accommodate possible flight changes.
 
+### [For arrivals before 21 Feb 2022, 2359 hours]
 
 <table>
 <thead>
@@ -173,6 +174,91 @@ Work pass holders who are immediate family members of Singapore Citizens or Perm
   </tr>
   </tbody>
   </table>
+
+
+
+### [For arrivals from 21 Feb 2022, 2359 hours]
+
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 1: Specific Passes</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of workers should <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore" target="_blank">apply for entry directly via MOM’s website</a>.
+<ol style="list-style-type:lower-latin;">
+	<li style="font-size:18px; margin-top:0px; line-height:1.5;">Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
+		<ol style="list-style-type:disc;">
+<li style="font-size:18px; margin-top:0px; line-height:1.5;">Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and</li>
+<li style="font-size:18px; margin-top:0px; line-height:1.5;">Are entering Singapore without their dependants.</li>
+			</ol></li>
+<li style="font-size:18px; margin-top:20px; line-height:1.5;">Work Holiday Pass (WHP) holders</li>
+<li style="font-size:18px; margin-top:10px; line-height:1.5;">Personalised Employment Pass (PEP) holders (without employers) and their dependants</li>
+<li style="font-size:18px; margin-top:10px; line-height:1.5;">EntrePass holders (without Corppass) and their dependants</li>
+			</ol>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 2: Pass Holders who are Immediate Family Members of Singapore Citizens/PRs </b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
+Work pass holders who are immediate family members of Singapore Citizens or Permanent Residents of Singapore (SCs/PRs) can consider the following options:
+		<ol style="list-style-type:disc;">
+			<li style="font-size:18px; margin-top:10px; line-height:1.5;"><a href="/scpr-familial-ties-lane/overview" target="_blank">SC/PR Familial Ties Lane</a> applied by SC/PR family member</li>
+			<li style="font-size:18px; margin-top:10px; line-height:1.5;"><a href="https://eservices.ica.gov.sg/STO/" target="_blank">Work Pass Holder Lane (WPHL)</a> applied by employer</li>
+			</ol>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 3: Helpers and Confinement Nannies</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Employers (use Singpass to log in) or Employment Agencies (use Corppass to log in) to apply via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">WPHL Portal</a>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 4: All other Pass Holders</b></th>
+</tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Employers to apply via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">WPHL Portal</a> (use Corppass to log in)</td>
+  </tr>
+  </tbody>
+  </table>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div id="PDEntry"></div>
