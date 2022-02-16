@@ -91,29 +91,9 @@ Your personal privacy is protected while using these devices. The device does no
 
 ### **Transport Matters**
 
-#### 1. [For Travellers with Category (II) travel history or fully vacccinated travellers with Category (III) travel history approved to opt-out of SHN dedicated facilities] I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
+#### 1. I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
-All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
-
-<b><u>(i) If you are using your own transport</u></b>
-
-Travellers may be picked up from the checkpoint by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller, and the traveller must be ferried directly to their declared place of accommodation.
-
-If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.
-
-All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
-
-- Vehicle windows must be wound down with air conditioning turned off.
--	Where practicable, the front passenger seat should be left unoccupied;
--	The back seat should only be occupied by the traveller(s)
--	The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19" target="_blank">National Environmental Agency (NEA) guidelines</a> for more information.
-
-<b><u>(ii) Booking taxi/private-hire vehicles</u></b>
-
-When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="/health/shn" target="_blank">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key <i>“SHN”</i> in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
-
-Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
-
+Please refer to the <a href="/health/faq#transport" target="_blank">latest transport advisory</a>.
 
 ##### Click here to go to the [top](#top).
 
@@ -170,7 +150,6 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
 - A COVID-19 Antigen Rapid Test ("ART Test") or Polymerase Chain Reaction Test (“PCR Test”) taken within 2 days before departure<b> at a <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>;
-- [For travellers arriving before 7 Jan 2022, 2359h]An on-arrival PCR test at the checkpoint;
 - Serving 7-day Stay-Home Notice (SHN) at a declared SHN accommodation; and
 - An exit PCR test
 
@@ -234,37 +213,6 @@ Travellers who have misplaced their work pass should lodge a police report immed
 #### 5. How much does it cost to take the end-of-SHN COVID-19 test? To whom and how should the payment be made?
 
 The latest cost of the test is S$125. Payment would already be collected at the point of application. 
-
-#### 6. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
-
-Travellers who are unwell or recently diagnosed with COVID-19 should defer their travels. 
-
-Those diagnosed with COVID-19 should only schedule their trip to Singapore 14 days after the first diagnosis, <u>and</u> after they have fully recovered from COVID-19.
-
-#### 7. I was recently diagnosed with or recovered from COVID-19. Am I exempted from the requirement to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) or Antigen Rapid Test ("ART") within 2 days before departure for Singapore?
-
-As a <a href="/malaysia/pca/terms-and-conditions" target="_blank">condition</a> for entry into Singapore, <u>all</u> travellers arriving from Malaysia under the PCA scheme <u>must</u> take a COVID-19 PCR  or ART test within 2 days before departure for Singapore. The test must be taken at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>. As proof that the required PCR or ART test has been taken, travellers should ask for a copy of the COVID-19 PCR or ART test report that:
-
--	Is in English (or accompanied with an English translation); and
--	Contains the (i) Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and (ii) Date of the test.
- 
-Travellers will be turned away at Singapore's checkpoint if:
-<ol style="list-style-type: lower-latin;">
-	<li>diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or</li>
-	<li>tested positive on the pre-departure COVID-19 PCR or ART test.</li>
-</ol> 
-
-#### 8. I have recovered from COVID-19 and was also tested negative for COVID-19 after taking the COVID-19 Polymerase Chain Reaction test (“PCR test”). Am I exempted from having to take another COVID-19 PCR test in Singapore?
-
-In general, as a [condition](/malaysia/pca/terms-and-conditions) for entry into Singapore, all PCA travellers must adhere to the health control measures imposed on the group. This includes the taking of a COVID-19 test at the end of their [Stay Home Notice (SHN)](/health/shn). 
-
-#### 9. How much does it cost to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) on arrival? To whom and how should the payment be made?
-
-<i><b>NOTE:</b> An on-arrival PCR test is only required for travellers arriving before 7 Jan 2022, 2359h. Travellers arriving from 7 Jan 2022, 2359h who have already paid for their on-arrival test can seek a refund by contactingsea.checkpoints.refunds@parkwaypantai.com </i>
-
-Each COVID-19 PCR test administered at the checkpoint costs S$160. To minimise processing time at the checkpoints, travellers are advised to <a href="https://t.2c2p.com/express/parkwayshentonoat">register and pay for the COVID-19 PCR before arrival</a>.
-
-For the exit from <a href="/health/shn">Stay Home Notice (SHN)</a> COVID-19 PCR test, payment would already be collected at the point of application.
 
 
 ##### Click here to go to the [top](#top).
