@@ -1,7 +1,8 @@
 ---
 title: VTL (Land) Checklist for Travel to Singapore
-permalink: /vtl-land/travel-checklist
+permalink: /vtl-land/travel-checklist-1
 description: ""
+published: false
 ---
 <!--<div id="notice" style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red;"><b><u>NOTICE</u></b></p>
