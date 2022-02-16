@@ -176,11 +176,11 @@ Yes, if the date of your vaccine dose is:
 - at least 14 days before the date of your intended arrival into Singapore; and
 - at least 28 days after the date of your first positive COVID-19 test. 
 
-You must present a recovery certificate or discharge memo, which shows the date of your first positive COVID-19 test, to prove your recovery from COVID-19, <u>in addition</u> to your vaccination certificate showing 1 dose of vaccine. 
+You must present a recovery certificate or discharge memo, which shows the date of your first positive COVID-19 test, to prove your recovery from COVID-19, <u>in addition</u> to your vaccination certificate. 
 
 If you are required to apply for a VTP (Air), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo. 
 
-You <u>do not</u> need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination, NHS COVID Pass of vaccination, or Northern Ireland COVID certificate showing the final dose in the series (i.e. "1/1"). IF you are required to apply for a VTP (Air), you need only upload the QR code found on your vaccination certificate. 
+You <u>do not</u> need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination, NHS COVID Pass of vaccination, or Northern Ireland COVID certificate showing the final dose in the series (i.e. "1/1"). If you are required to apply for a VTP (Air), you need only upload the QR code found on your vaccination certificate. 
 
 #### 9. Are travellers required to obtain a booster dose to be eligible for the VTL(Air)?
 
