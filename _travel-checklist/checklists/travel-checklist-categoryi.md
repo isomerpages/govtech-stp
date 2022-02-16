@@ -94,7 +94,7 @@ label.box {
 </html>
 
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Application for Entry Approval</b></i></div>
+<div id="1A" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Application for Entry Approval</b></i></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">Entry Approvals are needed only for travellers who are:<ol>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;">Long Term Pass Holders (excluding Work Permit Holders) entering Singapore <b>before 21 Feb 2022, 2359H SGT</b></li>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;">Work Permit holders</li>
@@ -215,7 +215,7 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px;line-height:1.35;">Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>.</p>
 <p style="font-size:18px;line-height:1.35;">All SGAC submissions are free-of-charge, and <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> should also upload their digitally-verifiable vaccination certificate if they have one, i.e. certificate with a QR code. Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application temporarily for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings</a>.</p>
-	<p style="font-size:18px;margin-top:10px;line-height:1.35;">Travellers without a digitally-verifiable vaccination certificate can instead present their vaccination proof (as defined in Stage 1A) during immigrations clearance for their vaccination status to be registered temporarily registered on TraceTogether (detail in Stage 3A).</p>
+	<p style="font-size:18px;margin-top:10px;line-height:1.35;">Travellers without a digitally-verifiable vaccination certificate can instead present their vaccination proof (as defined in <a href="1A">Stage 1A</a>) during immigrations clearance for their vaccination status to be registered temporarily registered on TraceTogether (detail in Stage 3A).</p>
 </div>
 
 <div id="payment"></div>	
