@@ -208,13 +208,15 @@ The on-arrival COVID-19 PCR test will be conducted at a testing facility within 
 
 #### 2. How much does the on-arrival COVID-19 test cost?
 
-Each PCR test costs S$125 (including Goods and Services Tax). You are strongly encouraged to book and make payment for the test before you arrive in Singapore.
+Each PCR test costs S$125 (including Goods and Services Tax). You are strongly encouraged to <a href="https://safetravel.changiairport.com/" target="_blank">book and make payment</a> for the test before you arrive in Singapore.
 
 #### 3. If my travel plans have changed, how do I edit the booking for my on-arrival COVID-19 PCR test at the airport?
 
 To edit a booking:
-1.	Login to your Safe Travel Concierge (STC) account, navigate to ‘My Trips’ and choose the specific trip that you wish to change.
-2.	If you do not have a STC account, please request for assistance to change your trip details by emailing swabtest.datechange@changiairport.com.
+
+1.	Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a> , navigate to ‘My Trips’ and choose the specific trip that you wish to change.
+
+2.	If you do not have a STC account, please request for assistance to change your trip details by emailing <a href="mailto:swabtest.datechange@changiairport.com" target="_blank">swabtest.datechange@changiairport.com</a>.
 
 Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
 
@@ -243,7 +245,7 @@ Please email airborder@rafflesmedical.com for enquiries related to on-arrival CO
 
 <div id="after21"></div>
 
-#### <u>For travellers entering from 21 February 2022, 2359h</u>
+#### <u>For travellers entering after 21 February 2022, 2359h</u>
 
 #### 1. What are the test centres that travellers can go to for their supervised ARTs?
 
