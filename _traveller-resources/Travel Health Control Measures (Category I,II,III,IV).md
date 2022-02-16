@@ -17,7 +17,7 @@ This page provides a summary of the four categories of travel health control mea
 
 <b>The health measures on this page are not applicable to the Vaccinated Travel Lane and other lanes not listed above.</b> For details on the requirements of SafeTravel Lanes not listed above, return to [this menu](/arriving/overview) to find a SafeTravel Lane that is applicable to you.
 
-##### Click on the following for the THCMs based on your date of arrival in Singapore:</b>
+##### Click on the following for the THCMs based on your date of arrival in Singapore:
 <ol style="list-style-type:lower-latin;">
 	<li><a href="#from">Categories of travel health control measures for arrivals from 21 Feb 2022, 2359 hours</a></li>
 	<li><a href="#before-1">Categories of travel health control measures for arrivals before 21 Feb 2022, 2359 hours</a></li>
