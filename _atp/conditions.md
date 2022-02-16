@@ -68,7 +68,7 @@ Please refer to the applicable ATP Conditions based on your date of entry into S
 <ol style="font-size:20px;">
   <li style="font-size:20px; list-style-type:decimal;"> An Air Travel Pass holder must: 
      <ol style="font-size:18px; list-style-type:lower-alpha;">
-  <li style="font-size:18px; list-style-type:lower-alpha;">have only been to one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore in the last 14 consecutive days<sup>1</sup> before departing for Singapore;</li>
+  <li style="font-size:18px; list-style-type:lower-alpha;">have only been to one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore in the last 7 consecutive days<sup>1</sup> before departing for Singapore;</li>
 			 <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days<sup>1</sup> before the scheduled departure time of his/her flight, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited laboratory, clinic or medical facility</a>, and obtain a test result certificate in English stating the following:
 			 <ol style="font-size:18px; list-style-type:lower-roman;">
 				 <li style="font-size:18px; list-style-type:lower-roman;">the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
@@ -77,7 +77,8 @@ Please refer to the applicable ATP Conditions based on your date of entry into S
 				 <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 test;</li>
 				 </ol>
 			 </li>
-       <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 PCR test at the airport upon arrival in Singapore, immediately<sup>1</sup> take private transportation, taxi, or private hire car from the airport to the declared place of accommodation and remain isolated at the accommodation until the test result is confirmed to be negative;</li>
+       <li style="font-size:18px; list-style-type:lower-alpha;">immediately<sup>1</sup> take private transportation, taxi, or private hire car from the airport to the declared place of accommodation and remain isolated at the accommodation, apart from attending the supervised self-administered ART;</li>
+			        <li style="font-size:18px; list-style-type:lower-alpha;">take private transportation, taxi, or private hire car to and from the Quick Test Centre (QTC) or Combined Test Centre (CTC), undergo a COVID-19 supervised self-administered ART at a within 24 hours of arrival in Singapore, and remain isolated at the declared place of accommodation until the test result is confirmed to be negative;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the medical provider disclosing his/her COVID-19 PCR test result to the relevant Singapore Government authorities for public health purposes;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> download the TraceTogether app on his/her mobile device and:
         <ol style="font-size:18px; list-style-type:lower-roman;">
