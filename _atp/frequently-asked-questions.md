@@ -45,11 +45,12 @@ To apply for an ATP, please [click here](/atp/apply-now). Do note that applicati
 
 We will endeavour to get back to the applicant within three working days.
 
-#### 4. Is there a fee to apply for an ATP?
+#### 4. Is there a fee payable to travel under the ATP?
 
-No, there is no fee payable for the application of an ATP. However, with effect from 16 September 2021, applicants will have to make payment for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test when they receive the payment notification email. Applications will only be approved when payment is received by the deadline indicated in the payment notification email.
+No, there is no fee payable for the application of an ATP. 
 
-For applications made before 16 September 2021, applications will have to make pre-payment for their on-arrival COVID-19 PCR test separately at [https://safetravel.changiairport.com/](https://safetravel.changiairport.com/)
+However, there are <a href="#oat">costs for testing</a> which must be borne by the traveller. 
+
 
 #### 5. Do visitors travelling with family members need to apply an ATP for every individual?
 
@@ -60,6 +61,7 @@ Yes, each visitor will require an ATP. In the case of a minor (below 18 years ol
 There is no limit to the number of times visitors can apply for an ATP. Every entry into Singapore requires a new ATP application.
 
 #### 7. How long is the validity of an ATP?
+
 An ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
 
 For example, visitors who hold a valid ATP to enter Singapore on 1 October 2021, have up to 8 October 2021 to do so should they need to make changes to their flight departure date.
@@ -102,26 +104,7 @@ Visitors must comply with the ATP Conditions [here](/atp/conditions).
 
 Visitors entering Singapore on ATP may travel to Singapore on flights with transit stops in any country/region, with a total scheduled transit duration (ground time) of less than 24 hours.
 
-#### 3. What must visitors present to airline staff during check-in at the departure airport for Singapore?
-
-When checking in at the departure airport, visitors must present the following to the airline staff:
-- a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore; and
-- a valid visa (for visa-required visitors); and
-- a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) test result certificate (electronic or physical copy) in English stating the following:
-<ol style="list-style-type:disc;">
-	<li>the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the ATP holder's passport used for entry into Singapore;</li>
-	<li>a negative COVID-19 test result;</li>
-	<li>the date and time when the COVID-19 test was taken, which must be within 2 days before departure for Singapore; and </li>
-	<li>the name of the testng institution conducting the COVID-19 test, which must be from the list of <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratories, clinics, or medical facilities</a></li>
-	</ol>
-- <b>[for recovered travellers only]</b> a valid <a href="/atp/requirements-and-process#recovery" target="_blank">proof of recovery</a>
-
-A visitor who does not have any of the above may be refused boarding by the airline.
-
-Children who are aged 2 and below in that calendar year, are not required to undergo a pre-departure COVID-19 test. 
-
-
-#### 4. Do visitors need a return flight ticket to enter Singapore?
+#### 3. Do visitors need a return flight ticket to enter Singapore?
 
 Visitors travelling on the ATP do not need a return flight ticket to enter Singapore. However, they are advised to check with the relevant authorities on the procedures and approval needed to return to their country/region of departure, or to enter their onward destination.
 
