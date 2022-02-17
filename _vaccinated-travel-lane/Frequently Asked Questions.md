@@ -60,7 +60,7 @@ description: ""
 
 Persons who are medically unfit to be vaccinated are not allowed to travel under the VTL.
 
-Use the self-checker tool on the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> to determine the Travel Lanes that are available.
+Use the self-checker tool on the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> to determine the alternative Travel Lanes that are available.
 
 #### 2. What must travellers present as their proof of vaccination at check-in and arrival immigration?
 
