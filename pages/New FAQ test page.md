@@ -144,6 +144,14 @@ Yes, travellers must self-isolate after their supervised ART until their test re
 
 Except for attending the supervised ART, travellers are required to self-isolate in their declared accommodation until they are notified that they have tested negative. Travellers may only take private transportation, taxi, or private hire car between the QTC/CTC and their accommodation. Public transportation is not allowed.
 
+#### 6. How soon will the results of the supervised ARTs be out?
+
+If tested positive for their supervised ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number).
+
+Travellers with a registered local mobile number can expect to receive their results via SMS within 2 hours. Those without a local mobile number can expect to receive their results via email within 12 hours.
+
+Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
+
 
 #### 2. Can travellers choose to undergo the supervised ART at other clinics in Singapore?
 
@@ -163,13 +171,7 @@ Travellers will need to bring along a photo identification for verification.
 
 
 
-#### 9. How soon will the results of the supervised ARTs be out?
 
-If tested positive for their supervised ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number).
-
-Travellers with a registered local mobile number can expect to receive their results via SMS within 2 hours. Those without a local mobile number can expect to receive their results via email within 12 hours.
-
-Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
 
 #### 10. What should travellers do if they have an invalid ART result for their supervised ART?
 
