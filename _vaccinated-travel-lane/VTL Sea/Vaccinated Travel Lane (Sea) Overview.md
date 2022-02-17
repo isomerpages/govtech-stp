@@ -4,7 +4,6 @@ permalink: /vtl-sea/overview
 description: ""
 third_nav_title: VTL Sea
 ---
-
 <p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;">The Vaccinated Travel Lane (Sea) [VTL (Sea)] allows quarantine-free travel from Indonesia to Singapore via sea. Please note that: </p>
 
 <ol style="list-style-type:disc;">
@@ -131,7 +130,12 @@ input:checked + label + .content {
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries" target="_blank"> VTL countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 7 consecutive days before departure for Singapore.
 		</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL (Sea) ferry (please click <a href="" target="_blank">here</a> to check the list of regional ferry service operators approved to operate designated VTL (Sea) ferries). Travellers should note that <b><u>not all ferries departing from the VTL (Sea) countries/regions and operated by the approved regional ferry service operators are VTL (Sea) Ferries</u></b>. They are strongly encouraged to consult the regional ferry service operators to confirm the designated VTL (Sea) ferries. </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a <b>designated VTL (Sea) ferry</b> operated by the following regional ferry service operators:
+<ol style="padding-left:20px; margin-top:10px; list-style-type: disc;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;">BatamFast</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;">Bintan Resort Ferries</li>
+			</ol>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers should note that <b><u>not all ferries departing from the VTL (Sea) countries/regions and operated by the approved regional ferry service operators are VTL (Sea) Ferries</u></b>. They are strongly encouraged to consult the regional ferry service operators to confirm the designated VTL (Sea) ferries.</p></li>
 	</ol>
 </div>
 </body>
