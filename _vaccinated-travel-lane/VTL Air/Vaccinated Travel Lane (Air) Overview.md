@@ -477,7 +477,7 @@ input:checked + label + .content {
 - <a target="_blank" href="/health/vtsg">Definition of Fully Vaccinated</a>
 - <a target="_blank" href="/vtl/faq#THReq">Travel History</a>
 - <a target="_blank" href="/vtl/faq#PDT">Pre-Departure Test</a>
-- <a target="_blank" href="/vtl/faq#Flight">Designated VTL (Air) Flights</a>
+- <a target="_blank" href="/vtl/faq#vtltransport">Designated VTL (Air) Flights</a>
 - <a target="_blank" href="/vtl/faq#OAT">On-Arrival Test &amp; Self-Isolation</a>
 - <a target="_blank" href="/vtl/faq#postarrivaltests">Post-Arrival COVID-19 ARTs</a>
 
