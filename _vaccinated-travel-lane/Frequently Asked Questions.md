@@ -659,14 +659,23 @@ Switzerland</td>
 
 Please attempt re-uploading your QR code, and ensure that:
 
-- If you have an India-issued vaccination certificate, that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'</b>. If not, please request for one from the <a href="https://www.cowin.gov.in/" target="_blank">Co-Win website</a>. Please <a href="#india">click here</a> for more details.
-- Your QR code was uploaded in a high-resolution, .png or .pdf format.
-- Your date of birth was keyed in the correct format (DD/MM/YYYY)
--  Your proof of vaccination is an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>
-- You have uploaded the <a href="#numberofcodes">correct number of QR codes</a>, and you are using the correct method of QR code upload
-- You are fully vaccinated, based on <a href="/health/vtsg" target="_blank">this criteria</a>
-- Your passport particulars match with your vaccination certificate. If not, where possible, please contact your issuer to re-issue your certificate with your full name as it appears on your travel documentation.
-- You replaced the special characters in your name as per this <a href="/vtl/faq#mismatch-error">FAQ</a>.
+<ol>
+	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">If you have an India-issued vaccination certificate, that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'</b>. If not, please request for one from the <a href="https://www.cowin.gov.in/" target="_blank">Co-Win website</a>. Please <a href="#india">click here</a> for more details.</li>
+	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your QR code was uploaded in a high-resolution, .png or .pdf format.</li>
+	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your date of birth was keyed in the correct format (DD/MM/YYYY)</li>
+	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your proof of vaccination is an accepted <a href="/vtl/faq#QRcode">proof of vaccination</a></li>
+	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;"></li>
+		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You have uploaded the <a href="/vtl/faq#numberofcodes" target="_blank">correct number of QR codes</a>, and you are using the correct method of QR code upload
+			<ol><li style="line-height:1.5; margin-top:10px; list-style-type:square;">QR code is cropped from the vaccination certificate document when uploaded</li>
+				<li style="line-height:1.5; margin-top:10px; list-style-type:square;">[For International COVID-19 Vaccination Certificate] Full 1-page PDF file was uploaded</li>
+				<li style="line-height:1.5; margin-top:10px; list-style-type:square;">QR code is in an acceptable format and by specific issuers</li></ol>
+	</li>
+		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You are fully vaccinated, based on <a href="/health/vtsg" target="_blank">this criteria</a></li>
+		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your passport particulars match with your vaccination certificate. If not, where possible, please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.</li>
+		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You replaced the special characters in your name as per this <a href="/vtl/faq#mismatch-error">FAQ</a>.</li>
+	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">QR Codes for boosters are not included.</li>
+	</ol>
+
 
 For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
@@ -706,7 +715,7 @@ Please attempt re-uploading your QR code and ensure that you have the <b>'Intern
 
 <div id="mismatch-error"></div>
 
-#### 7. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP (Air)?
+#### 7. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP?
 
 Please refer to the table below. 
 <table>
@@ -767,30 +776,9 @@ If you are still facing name mismatch errors, please write to the Safe Travel Of
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
 
-Please note that individuals with an Excelsior Pass issued by the New York State in United States will need to obtain an Excelsior Pass Plus, which is an SHC accepted for travel on the VTL (Air). More information on the Excelsior Pass and Excelsior Pass Plus can be found <a href="https://forward.ny.gov/excelsior-pass-and-excelsior-pass-plus-frequently-asked-questions" target="_blank">here</a>.
+Please note that individuals with an Excelsior Pass issued by the New York State in United States will need to obtain an Excelsior Pass Plus, which is an SHC accepted for travel on the VTL. More information on the Excelsior Pass and Excelsior Pass Plus can be found <a href="https://forward.ny.gov/excelsior-pass-and-excelsior-pass-plus-frequently-asked-questions" target="_blank">here</a>.
 
-We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more states and issuers are onboarded. 
-
-<div id="Question7"></div>
-
-#### 9. I was issued a vaccination certificate in the United States but it is not a SMART Health Card issued by an issuer on the CommonTrust Network or Vaccination Credential Initiative. Is there any alternative to showing my vaccination status for VTL travel?
-
-You can provide either 
-<ol style="list-style-type:lower-alpha;">
-	<li style="line-height:1.5;">your <a href="https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html" target="_blank">digital vaccination record retrieved through your state’s or local health authority’s public health database</a>, <b><u>or</u></b></li>
-	<li style="line-height:1.5;">your physical vaccination records <b><u>and</u></b> a letter signed by your vaccination provider to attest to your vaccination status; the attestation letter should contain:
-		<ol style="list-style-type:lower-roman;">
-<li>your name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;</li>
-<li>the name of the vaccine administered for each dose; and</li>
-<li>the date when each dose was administered.</li>
-		</ol>
-	</li>
-</ol>
-
-**Singapore Citizens and Permanent Residents** do not need to apply for the VTP and can just present either of the documents in (a) <b><u>or</u></b> (b) above for verification at the airlines check-in counter pre-departure and on arrival at the Singapore immigration.
-
-**Short-term Visitors and Long-Term Pass Holders** who need to apply for the VTP but cannot upload their vaccination certificate can write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> either of the documents in (a) <b><u>or</u></b> (b) above for verification.
-
+We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more states and issuers are onboarded.
 
 ---
 
