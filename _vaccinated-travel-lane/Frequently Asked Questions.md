@@ -32,20 +32,21 @@ description: ""
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vaxcert">Digitally Verifiable Vaccination Certificate and QR Code Issues</a></li>
 	</ol>
 	</li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#THReq">Travel History Requirement</li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (VTP)</a></li> 
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Pre-Departure COVID-19 Test</li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Designated VTL Transport</li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">On-Arrival COVID-19 Test  and Self-Isolation</li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Additional Requirements for Short-Term Visitors:
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#THReq">Travel History Requirement</li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (VTP)</a></li> 
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Pre-Departure COVID-19 Test</li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Designated VTL Transport</li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">On-Arrival COVID-19 Test  and Self-Isolation</li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Additional Requirements for Short-Term Visitors:
 		<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
-			<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Mandatory COVID-19 Travel Insurance Coverage</li>
-					<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Additional Requirements for VTL (Sea)</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Mandatory COVID-19 Travel Insurance Coverage</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Additional Requirements for VTL (Sea)</li>
 		</ol>
 		</li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Contact Tracing – TraceTogether</li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#">Contact Tracing – TraceTogether</li>
 </ol>
+
 
 <div id="VTLReq"></div>
 
