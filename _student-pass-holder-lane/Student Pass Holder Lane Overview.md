@@ -23,101 +23,15 @@ description: Overview of the Student Pass Holder Lane
 
 ### 1) Eligibility
 
-<html>
-
-<head>
-<meta charset="utf-8">
-<title>Test Accordion</title>
-
-<style>
-
-input {
-    display: none;
-}
-
-label {
-    display: block;    
-    padding: 10px 30px;
-    margin: 0 0 1px 0;
-    cursor: pointer;
-    background: #153855;
-    border-radius: 3px;
-    color: #FFF;
-    transition: ease .5s;
-	position: relative;
-}
-
-label:hover {
-    background: #346f9e;
-}
-
-label::after {
-	font-family: "Font Awesome 5 Free";
-	content: '\271A';
-	font-weight: bold;
-	font-size: 22px;
-	position: absolute;
-	right: 10px;
-	top: 6px;
-}
-
-input:checked + label::after {
-	content: '\2716';
-}
-
-.content {
-    background: #FFFFFF;
-    padding: 10px 25px;
-    margin: 0 0 1px 0;
-    border-radius: 3px;
-}
-
-input + label + .content {
-    display: none;
-}
-	
-input + label + #scpr {
-    display: block;
-}
-	
-input:checked + label + #scpr {
-    display: none;
-}
-	
-input + label + #ltph {
-    display: block;
-}
-	
-input:checked + label + #ltph {
-    display: none;
-}	
-
-input:checked + label + .content {
-    display: block;
-}
-	
-.test2::after {
-	font-family: "Font Awesome 5 Free";
-	content: '\2716';
-	font-weight: bold;
-	font-size: 22px;
-	position: absolute;
-	right: 10px;
-	top: 6px;
-}
-
-.test1:checked + label::after {
-	content: '\271A';
-}
-
-	
-</style>
-</head>
-<body>
-<input class="test1" type="checkbox" id="title6" />
-<label class="test2" for="title6">Eligible travellers </label>
-	
-<div id="scpr" class="content" style="background-color:#edf4fa;">	
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Eligible travellers</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
 <p style="line-height:1.5; font-size:18px;"><ol style="margin-top:0px; margin-bottom:0px;">
 <li style="line-height:1.5;font-size:18px; list-style-type:lower-alpha;">Student’s Pass (STP) and Student’s Pass In-Principle Approval (STP-IPA) holders; OR</li>
 	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Immediate family members of STP and STP-IPA holders seeking entry into Singapore:
@@ -129,12 +43,20 @@ input:checked + label + .content {
 		</li>
 		</ol>
 	</p>
-	</div>
+		</td>
+	</tr>
+	</tbody>
+	</table>
 
-<input class="test1" type="checkbox" id="title7"/>
-<label class="test2" for="title7">Mandatory Vaccination Requirement </label>
-
-<div id="ltph" class="content" style="background-color:#edf4fa;">
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Mandatory Vaccination Requirement</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
 <p style="line-height:1.5; font-size:18px; ">All eligible travellers must be <a href="/health/vtsg" target="_blank">fully vaccinated</a> and have proof of vaccination; details of mandatory vaccination requirements available <a href="/stpl/vaccination-requirements" target="_blank">here</a>. Conditional exceptions, however, are applicable to eligible travellers who are:
 <ol style="margin-top:0px; margin-bottom:0px;">
 <li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Below the age of 12 at the point of entry;</li>
@@ -142,9 +64,10 @@ input:checked + label + .content {
 <li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-roman;">Aged 18 and above, and exempted by the Ministry of Education from the requirement due to medical ineligibility for vaccination, i.e. traveller has a medical condition preventing them from being vaccinated. <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">Applications for exemption</a> must be made at least three weeks before arrival. For continued exemption, travellers must be medically certified <b>in Singapore</b> within 30 days of arrival to be ineligible for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</li>
 	</ol>
 </p>
-</div>
-</body>
-</html>
+		</td>
+	</tr>
+	</tbody>
+	</table>
 
 <p style="font-size:18px; margin-top:20px; line-height:1.5;">If you are ineligible, look for an alternative entry option via the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.</p>
 
