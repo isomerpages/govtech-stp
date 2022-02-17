@@ -27,14 +27,12 @@ permalink: /sc-pr/overview
 </thead>
 <tbody>
 	<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
-<p style="line-height:1.5; font-size:18px; ">Singapore Citizens and Singapore Permanent Residents only</p>
-		<p style="line-height:1.5; font-size:18px; margin-top:20px; ">PR In-Principle Approval holders will seek entry via the <a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a>. If you are ineligible, identify an alternative entry option by returning to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.</p>
-		</td>
-	</tr>
-	</tbody>
-	</table>
-	<p></p>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;"><p style="line-height:1.5; font-size:18px;">Singapore Citizens and Singapore Permanent Residents only</p>
+<p style="line-height:1.5; font-size:18px; margin-top:20px;">PR In-Principle Approval holders will seek entry via the <a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a>. If you are ineligible, identify an alternative entry option by returning to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.</p></td>
+</tr>
+</tbody>
+</table>
+<p style="margin-top:10px; margin-bottom:5px;"></p>
 <table>
 <thead>
 <tr>
@@ -42,14 +40,13 @@ permalink: /sc-pr/overview
 </tr>
 </thead>
 <tbody>
-	<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
-	<p style="line-height:1.5; font-size:18px; "><b>None</b>.</p>
-	<p style="line-height:1.5; margin-top:20px; font-size:18px; ">However, to qualify for <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated safe management measures</a>, travellers vaccinated overseas should have their overseas vaccination records registered into Singapore’s Immunisation Registry (NIR). Details in travel checklists.</p>
-		</td>
-	</tr>
-	</tbody>
-	</table>
+<tr>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
+<p style="line-height:1.5; font-size:18px; "><b>None</b>.</p>
+<p style="line-height:1.5; margin-top:20px; font-size:18px; ">However, to qualify for <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated safe management measures</a>, travellers vaccinated overseas should have their overseas vaccination records registered into Singapore’s Immunisation Registry (NIR). Details in travel checklists.</p></td>
+</tr>
+</tbody>
+</table>
 	
 
 ---
