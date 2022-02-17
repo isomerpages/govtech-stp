@@ -908,7 +908,7 @@ As an example, a traveller takes a pre-departure ART in Singapore on 1 March 202
 
 #### 2. If I am entering a VTL country/region for a very short trip, can I use my negative On-Arrival Test (OAT) taken in the VTL country/region to fulfil the pre-departure test requirement for my return leg to Singapore, if the OAT was taken within 2 days of my date of departure to Singapore?
 
-The OAT taken in the VTL country/region is acceptable as long as it fulfils the criteria for an acceptable pre-departure test for departing to Singapore.
+The OAT taken in the VTL country/region is acceptable as long as it fulfils the criteria detailed below for an acceptable pre-departure test for departing to Singapore.
 
 The OAT must be a COVID-19 Polymerase Chain Reaction test (PCR test) at an internationally accredited or recognised lab/clinic/medical facility, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). The PDT result must not be a handwritten document, and fulfil the following:  
 
