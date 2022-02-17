@@ -10,10 +10,10 @@ description: Overview of the Familial Ties Lane
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">On this page you will find the following information about the Student’s Pass Holder Lane:</p>
 
 <ol style="margin-top:15px;">
-	<li style="line-height:1.5;"><a href="#Eligibility">Eligibility</a></li>
-	<li style="line-height:1.5; margin-top:10px;"><a href="#entry">Entry Application and Approval</a></li>
-	<li style="line-height:1.5;margin-top:10px;"><a href="#protocols">Health Protocols</a></li>
-	<li style="line-height:1.5;margin-top:10px;"><a href="#additional-info">Additional Information</a></li>
+	<li style="line-height:1.5; font-size:18px;"><a href="#Eligibility">Eligibility</a></li>
+	<li style="line-height:1.5; margin-top:10px;  font-size:18px;"><a href="#entry">Entry Application and Approval</a></li>
+	<li style="line-height:1.5;margin-top:10px; font-size:18px;"><a href="#protocols">Health Protocols</a></li>
+	<li style="line-height:1.5;margin-top:10px;  font-size:18px;"><a href="#additional-info">Additional Information</a></li>
 </ol>
 
 ---
