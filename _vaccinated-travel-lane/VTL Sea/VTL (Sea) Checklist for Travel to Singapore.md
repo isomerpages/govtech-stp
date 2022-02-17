@@ -34,7 +34,7 @@ third_nav_title: VTL Sea
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the Notarise portal with a QR code, or Proof of vaccination on the TraceTogether or HealthHub app
 	</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Other countries/regions:</b> Please refer to <a href="/vtl/faq#verify" target="_blank">this guide</a> for acceptable proof of vaccination.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Other countries/regions:</b> Please refer to <a href="/vtl/faq#vaxcert" target="_blank">this guide</a> for acceptable proof of vaccination.</li>
 	</ol>
 	</p>
 	</div>
