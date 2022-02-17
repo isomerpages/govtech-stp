@@ -20,24 +20,18 @@ permalink: /FAQ
     </tr>  
 	      <tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/vtl-land/overview">Vaccinated Travel Lane (Land) </a></td>
-      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/vtl-land/faq">FAQ</a> 
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/vtl/faq">FAQ</a> 
       </td>
     </tr>
 		<tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/vtl-sea/overview">Vaccinated Travel Lane (Sea) </a></td>
-      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/vtl-sea/faq">FAQ</a> 
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/vtl/faq">FAQ</a> 
       </td>
     </tr>  
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"> <a href="/atp/overview">Air Travel Pass</a>
 </td> 
-      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"> FAQ for Travellers arriving from: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/atp/faq">Hong Kong</a></li>
-         <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/atp/faq">Macao</a></li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/atp/faq">Mainland China</a></li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/atp/faq">Taiwan</a></li>
-        </ol>
-        </td>
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/atp/faq">FAQ</a></td>
     </tr>
 		    <tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>

@@ -4,7 +4,6 @@ permalink: /vtl-sea/overview
 description: ""
 third_nav_title: VTL Sea
 ---
-
 <p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;">The Vaccinated Travel Lane (Sea) [VTL (Sea)] allows quarantine-free travel from Indonesia to Singapore via sea. Please note that: </p>
 
 <ol style="list-style-type:disc;">
@@ -119,7 +118,7 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the Notarise portal with a QR code, or Proof of vaccination on the TraceTogether or HealthHub app
 	</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Other countries/regions:</b> Please refer to <a href="/vtl/faq#verify" target="_blank">this guide</a> for acceptable proof of vaccination.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Other countries/regions:</b> Please refer to <a href="/vtl/faq#vaxcert" target="_blank">this guide</a> for acceptable proof of vaccination.</li>
 	</ol>
 </div>
 
@@ -131,7 +130,12 @@ input:checked + label + .content {
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries" target="_blank"> VTL countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 7 consecutive days before departure for Singapore.
 		</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL (Sea) ferry (please click <a href="" target="_blank">here</a> to check the list of regional ferry service operators approved to operate designated VTL (Sea) ferries). Travellers should note that <b><u>not all ferries departing from the VTL (Sea) countries/regions and operated by the approved regional ferry service operators are VTL (Sea) Ferries</u></b>. They are strongly encouraged to consult the regional ferry service operators to confirm the designated VTL (Sea) ferries. </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a <b>designated VTL (Sea) ferry</b> operated by the following regional ferry service operators:
+<ol style="padding-left:20px; margin-top:10px; list-style-type: disc;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;"><a href="https://www.batamfast.com/home/index.ashx" target="_blank">BatamFast</a></li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;"><a href="https://www.brf.com.sg/" target="_blank">Bintan Resort Ferries</a></li>
+			</ol>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers should note that <b><u>not all ferries departing from the VTL (Sea) countries/regions and operated by the approved regional ferry service operators are VTL (Sea) Ferries</u></b>. They are strongly encouraged to consult the regional ferry service operators to confirm the designated VTL (Sea) ferries.</p></li>
 	</ol>
 </div>
 </body>
@@ -228,7 +232,7 @@ input:checked + label + .content {
 	
 <p style="line-height:1.3; font-size:18px;">SC/PRs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore.</p>	
 	
-<p style="line-height:1.3; font-size:18px;">SC/PR travellers will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. You are strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide <a target="_blank" href="/vtl/faq#verify">here</a>. Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
+<p style="line-height:1.3; font-size:18px;">SC/PR travellers will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. You are encouraged to verify that your vaccination certificates are valid using <a target="_blank" href="/vtl/faq#verify">publicly available verification tools</a> if available, prior to your trip. Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
 </div>
 	
 <input id="title7" type="checkbox">
@@ -249,7 +253,7 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTL (Sea) travellers must also refer to this <a target="_blank" href="/vtl-sea/travel-checklist">travel checklist</a> and the <a target="_blank" href="/vtl-sea/conditions">VTL (Sea) conditions</a> to ensure they satisfy all VTL (Sea) requirements, otherwise they may be denied entry to Singapore.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Accompanying children aged 12 and below in the current calendar year and are unvaccinated do not need to apply. </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Applications must be supported with digitally verifiable vaccination certificate QR code(s), if required. Please see our <a target="_blank" href="/vtl/faq#QRcode">FAQs</a> for more details.</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">A VTP is valid for <b>14 calendar days</b> from the traveller’s chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. (e.g. a traveller holding a VTP (Sea) for entry into Singapore on 1 March 2022 may enter Singapore on a designated VTL (Air) flights any day from 1 - 14 March 2022 (inclusive)). The traveller should reapply for a VTP if he is unable to enter during this period.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">A VTP is valid for <b>13 calendar days</b> from the traveller’s chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. (e.g. a traveller holding a VTP (Sea) for entry into Singapore on 1 March 2022 may enter Singapore on a designated VTL (Air) flights any day from 1 - 14 March 2022 (inclusive)). The traveller should reapply for a VTP if he is unable to enter during this period.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements (<b>See Criteria 2 above</b>), please write to the Safe Travel Office using the <a target="_blank" href="https://go.gov.sg/sto-enquiry">enquiry form here</a> and provide your vaccination certificate.</li>
 				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers are required to arrive in Singapore on a designated VTL (Sea) ferry. A VTP (Sea) does <b><u>not</u></b> guarantee a ticket on one of the designated ferries. Travellers are responsible for obtaining their own ticket separately.</li>	
 	</ol>
@@ -336,13 +340,13 @@ input:checked + label + .content {
 
 ### 4. Frequently Asked Questions
 
-<span style="font-size:18px;">Click <a target="_blank" href="/vtl-sea/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
+<span style="font-size:18px;">Click <a target="_blank" href="/vtl/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
 - <a target="_blank" href="/vtl/faq#QRcode">Recognised Vaccination Certificates for VTL (Sea)</a>
 - <a target="_blank" href="/vtl/faq#invalidcode">VTP Application Technical Difficulties</a>
 - <a target="_blank" href="/health/vtsg">Definition of Fully Vaccinated</a>
 - <a target="_blank" href="/vtl/faq#THReq">Travel History</a>
 - <a target="_blank" href="/vtl/faq#PDT">Pre-Departure Test</a>
-- <a target="_blank" href="/vtl/faq#Flight">Designated VTL (Sea) Ferries</a>
+- <a target="_blank" href="/vtl/faq#vtltransport">Designated VTL (Sea) Ferries</a>
 - <a target="_blank" href="/vtl/faq#OAT">On-Arrival Test &amp; Self-Isolation</a>
 - <a target="_blank" href="/vtl/faq#postarrivaltests">Post-Arrival COVID-19 ART</a>
 

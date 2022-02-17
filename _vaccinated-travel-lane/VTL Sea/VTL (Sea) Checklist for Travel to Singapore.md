@@ -34,7 +34,7 @@ third_nav_title: VTL Sea
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the Notarise portal with a QR code, or Proof of vaccination on the TraceTogether or HealthHub app
 	</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Other countries/regions:</b> Please refer to <a href="/vtl/faq#verify" target="_blank">this guide</a> for acceptable proof of vaccination.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Other countries/regions:</b> Please refer to <a href="/vtl/faq#vaxcert" target="_blank">this guide</a> for acceptable proof of vaccination.</li>
 	</ol>
 	</p>
 	</div>
@@ -60,15 +60,18 @@ third_nav_title: VTL Sea
 
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="1D" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1D" class="box">&nbsp;&nbsp;<b>Stage 1D: Check Travel/Transit History &amp; Secure Tickets for a Designated VTL (Air) Flight</b></label></div>
+<input id="1D" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1D" class="box">&nbsp;&nbsp;<b>Stage 1D: Check Travel/Transit History &amp; Secure Tickets for a Designated VTL Regional Ferry Operator</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">All VTL travellers MUST:</p>
 <ol style="list-style-type:lower-roman;">
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Have <b>only</b> travelled to / transited via any VTL countries/regions, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days (or 7 consecutive days, for travellers entering Singapore <b>from 21 Feb 2022, 2359h</b>) before departure for Singapore; and</li>
-		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Sea) ferry. Please check the websites of the respective regional ferry operators for the date of commencement of VTL (Sea) ferry and the ferry details. <u><b>Not all ferries departing from the VTL (Sea) countries/regions and operated by the regional ferry operator are designated.</b></u> Travellers are strongly encouraged to consult the regional ferry operator to confirm the designated VTL (Sea) ferries.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a <b>designated VTL (Sea) ferry</b> operated by the following regional ferry service operators:
+<ol style="padding-left:20px; margin-top:10px; list-style-type: disc;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;"><a href="https://www.batamfast.com/home/index.ashx" target="_blank">BatamFast</a></li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;"><a href="https://www.brf.com.sg/" target="_blank">Bintan Resort Ferries</a></li>
+			</ol>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers should note that <b><u>not all ferries departing from the VTL (Sea) countries/regions and operated by the approved regional ferry service operators are VTL (Sea) Ferries</u></b>. They are strongly encouraged to consult the regional ferry service operators to confirm the designated VTL (Sea) ferries.</p></li>
 	</ol>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><a target="_blank" href="">Click here to find out which airlines are offering VTL ferries to Singapore based on your country/region of departure.</a>
-</p>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1E">
@@ -125,7 +128,7 @@ third_nav_title: VTL Sea
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input id="1G" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1G" class="box">&nbsp;&nbsp;<b>Stage 1G: Secure self-isolation accommodation</b></label></div>	
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>[Short Term Visitors]</b> Hotel booking confirmation and payment for duration of stay in Singapore. For the list of available hotels in Singapore, <a href="https://www.stb.gov.sg/content/stb/en/home-pages/approved-hotels.html" target=_"blank">click here</a></p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>[Short Term Visitors]</b> Hotel booking confirmation and payment for duration of stay in Singapore. For the list of available hotels in Singapore, <a href="https://www.stb.gov.sg/content/stb/en/home-pages/approved-hotels.html" target="_blank">click here</a></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; Other travellers can self-isolate at any of the following locations:
 	<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for <a href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation" target="_blank">Private Property</a> and <a href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat" target="_blank">HDB flat / Bedroom</a>); or</li>
@@ -134,13 +137,12 @@ third_nav_title: VTL Sea
 	</p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history.</p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; Travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in isolation in a room and minimise contact. If this is not feasible, please consider alternative accommodation.</p>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; Designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; Designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
 <ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Lower the lid before flushing the toilet;</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Clean and disinfect contact surfaces after each use; and</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation. Clean and disinfect contact surfaces after each use.</li>
 	</ol>
-</p>
 </div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1H" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1H">&nbsp;&nbsp;<b>Stage 1H: Take Pre-departure COVID-19 Test (PDT)</b></label></div>
@@ -150,13 +152,12 @@ third_nav_title: VTL Sea
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Aged two or below in this calendar year (i.e. born in or after 2020); OR</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this <a target="_blank" href="https://go.gov.sg/recovered-traveller-checker">self-checker tool</a>, and can show relevant proof of recovery outlined at <a href="#1F">Stage 1F</a>. </li>
 	</ol>
-	<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) at an <a target="_blank" href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a>, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). The PDT result must not be a handwritten document, and fulfil the following: </p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) at an <a target="_blank" href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a>, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). The PDT result must not be a handwritten document, and fulfil the following: </p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Is in English (or accompanied with an English translation);</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Reflects the date and result of the PCR test.</li>
 	</ol>	
-	
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.35;"><i> <u>Illustration of acceptable 2-day timeline:</u> A traveller departing for Singapore on 3 December 2021 should take a pre-departure COVID-19 test no earlier than 1 December 2021</i></p>
 	</div>
 	
@@ -177,12 +178,12 @@ third_nav_title: VTL Sea
 <input id="1J" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1J" class="box">&nbsp;&nbsp;<b>Stage 1J: Undergo On-Arrival COVID-19 ART Test</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">Undergo <a href="https://safetravel.changiairport.com/#/" target="_blank">on-arrival COVID-19 ART test</a> at Quick Test Centres or Combined Test Centres  within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative.</p>
-	</div>
-	
+
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp;Does not apply to children aged two and below in this calendar year (i.e. born in or after 2020).</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp; Fully vaccinated travellers who recently recovered from COVID-19 may qualify for exemption from the on-arrival COVID-19 PCR test and other inland border measures. Use this <a target="_blank" href="https://go.gov.sg/recovered-traveller-checker">self-checker tool</a> to determine if you qualify.</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="color:red; font-size:20px;">⚠</span>&nbsp; Travellers who did not do so will pay for their tests on the spot during arrival, and may experience delays in the administration of the tests and departure from the checkpoint.</p>
-
+</div>
+	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input id="1K" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1K" class="box">&nbsp;&nbsp;<b>Stage 1K: [Short term visitors only] Contact Tracing App/Token</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
@@ -199,7 +200,7 @@ third_nav_title: VTL Sea
 	<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><span style="color:red; font-size:28px;">⚠</span> <b>Travellers may be denied boarding if they do not provide all the required documentation.</b></p>
 	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top: 0px;">When checking in at the ferry terminal, travellers must present to the regional ferry operator staff all the documents listed below, except the following groups of travellers.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Singapore Citizens/Permanent Residents:</b> Present (ii) and (iv) below.</p>
-		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Short Term Visitors and Work Permit Holders:</b> Present (i), (ii), (iv), (v) and (vi) below, in physical/hard-copy or electronic/soft-copy format:</p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Short Term Visitors and Work Permit Holders:</b> Present (i), (ii),(iii), (iv), (v) and (vi) below, in physical/hard-copy or electronic/soft-copy format:</p>
 <ol style="list-style-type:lower-roman;">
 		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Vaccinated Travel Pass (Sea) [VTP (Sea)] for the specified period of entry;</li>
 		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Valid pre-departure COVID-19 PCR test or Antigen Rapid Test (ART) for entry into Singapore showing a negative test result <u><b>or</b></u> <a href="#recovery">Proof of Recovery</a> (for recovered travellers);</li>
@@ -255,9 +256,9 @@ third_nav_title: VTL Sea
 	    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b style="color:red">❓</b>&nbsp; Please click <a target="_blank" href="https://www.moh.gov.sg/covid-19-phase-advisory">here</a> for the latest public health measures and VDS and <a target="_blank" href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">here</a> for more FAQs on inland public health measures.</p>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input id="5B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="5B" class="box">&nbsp;&nbsp;<b>Stage 5B: Post-Arrival COVID-19 ARTs</b></label></div>
 <div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. born in or after 2020) do not require any post-arrival ARTs.</b></p>
-		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b style="color:red">❓</b>&nbsp;Please refer to the <a href="/vtl/faq" target="_blank">FAQs</a> here for more information.</p>
-</div>
+		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b style="color:red">❓</b></span>&nbsp;Please refer to the <a href="/vtl/faq" target="_blank">FAQs</a> here for more information.</p>
+</div>-->

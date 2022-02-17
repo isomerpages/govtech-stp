@@ -15,84 +15,6 @@ permalink: /travel-checklist/category-1
 
 ### Stage 1: Pre-Departure for Singapore
 
-<html>
-<head>
-<meta charset="utf-8">
-<title>Test Accordion</title>
-
-<style>	
-input.accordion {
-    display: none;
-}
-
-label.accordion {
-    display: block;    
-    padding: 10px 30px;
-    margin: 0 0 1px 0;
-    cursor: pointer;
-    background: #153855;
-    border-radius: 3px;
-    color: #FFFFFF;
-    transition: ease .5s;
-		position: relative;
-}
-
-label.accordion:hover {
-    background: #346f9e;
-}
-
-label.accordion::after {
-	font-family: "Font Awesome 5 Free";
-	content: '\271A';
-	font-weight: bold;
-	font-size: 22px;
-	position: absolute;
-	right: 10px;
-	top: 6px;
-}
-
-input.accordion:checked + label.old::after {
-	content: '\2716';
-}
-
-.content {
-    background: #FFFFFF;
-    padding: 10px 25px;
-    margin: 0 0 1px 0;
-    border-radius: 3px;
-}
-
-input.accordion + label.accordion + .content {
-    display: none;
-}
-
-input.accordion:checked + label.accordion + .content {
-    display: block;
-}
-	
-input.box {
-		display: inline;
-		width: 20px;
-		height: 20px;
-		vertical-align:middle; 
-}	
-	
-label.box { 
-	  display: inline;    
-    padding: 0px;
-    margin: 0 0 0 0;
-    cursor: pointer;
-    background: #d5d5d5;
-    border-radius: 3px;
-    color: #000000;
-    transition: ease .5s;
-	  position: relative;
-}
-</style>
-</head>
-</html>
-
-
 <div id="1A" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Application for Entry Approval</b></i></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">Entry Approvals are needed only for travellers who are:<ol>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;">Long Term Pass Holders (excluding Work Permit Holders) entering Singapore <b>before 21 Feb 2022, 2359H SGT</b></li>
@@ -112,18 +34,33 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Obtain Proof of Vaccination</b></i></div>	
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:15px;line-height:1.35;">Travellers may be asked for proof of vaccination for various travel-related declarations as well as pre-boarding and immigration checks. Depending on where you have received your vaccination, the following documents are considered acceptable vaccination proof:</p>
-	<p style="font-size:18px;margin-bottom:15px;line-height:1.35;">(Click “+” to expand for details)</p>
-<input class="accordion" type="checkbox" id="proof-of-vax">
-<label class="accordion" for="proof-of-vax"><b>Vaccinated in Singapore</b></label>
-	<div class="content" style="background-color:#ededed;"><ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:disc;">
+	<table>
+  <thead>
+    <tr>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccinated in Singapore</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
+		<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:disc;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination certificate </li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination status as shown in the <a href="https://www.healthhub.sg/" target="_blank">HealthHub mobile application</a></li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination status as shown in the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile application</a></li>
-	</ol>
-</div>	
-<input class="accordion" type="checkbox" id="proofoverseas">
-<label class="accordion" for="proofoverseas"><b>Vaccinated Overseas</b></label>
-	<div class="content" style="background-color:#ededed;"><ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:upper-alpha;">
+	</ol></td>
+    </tr>
+		</tbody>
+	</table>
+		<table>
+  <thead>
+    <tr>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccinated Overseas</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
+		<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:upper-alpha;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Digitally-verifiable vaccination certificate; OR </li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">English, or English translated and notarised vaccination certificate with the following details:
 			<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
@@ -134,8 +71,10 @@ label.box {
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination date(s)</li>
 			</ol>
 		</li>
-	</ol>
-</div>	
+	</ol></td>
+    </tr>
+		</tbody>
+	</table>
 </div>	
 
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Application for Entry Visa (if applicable)</b></i></div>
@@ -198,15 +137,23 @@ label.box {
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the PCR test.</li>
 	</ol>
-	<p style="font-size:18px; line-height:1.35;">Click on (+) below for illustrations for when a PDT must be taken.</p>
-<input class="accordion" type="checkbox" id="pdt-illustration">
-<label class="accordion" for="pdt-illustration"><b>Illustrations for when a PDT must be taken:</b></label>
-	<div class="content" style="background-color:#ededed;"><ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+	<table>
+  <thead>
+    <tr>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Illustrations for when a PDT must be taken:</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
+		<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Direct Flights</b> - Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h. </li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Flights with a less than 24-hour Transit Period to Singapore</b> - Traveller B is scheduled for departure on 3 Nov 2021 from Airport A. He will transit at Airport B for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from Airport A.</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Flights with a Transit Period exceeding 24 hours</b> - Traveller C is scheduled for departure from Airport A on 3 Nov 2021. He will transit in Airport B for a period lasting more than 24 hours. In this scenario, he will take his PDT at Airport B, within 2 days before his connecting flight to Singapore.</li>
-	</ol>
-</div>
+	</ol></td>
+    </tr>
+		</tbody>
+	</table>
 	</div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>F) Submission of Health Declaration and Digital Vaccination Certificate</b></i></div>

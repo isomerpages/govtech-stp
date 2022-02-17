@@ -4,9 +4,6 @@ permalink: /vtl-land/travel-checklist
 description: ""
 third_nav_title: VTL Land
 ---
-
-
-
 ### VTL Land Travel Checklist 
 
 
@@ -108,11 +105,12 @@ label.box {
 		<ol style="padding:0px 10px 0px 10px; font-size:18px;">
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Singapore</b>: Singapore Vaccination HealthCerts issued via the <a target="_blank" href="https://www.notarise.gov.sg/">Notarise portal</a> with a QR code, or Proof of vaccination on the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether</a> or <a target="_blank" href="https://www.healthhub.sg/">HealthHub app</a></li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Malaysia</b>: Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a target="_blank" href="https://mysejahtera.malaysia.gov.my/intro_en/">MySejahtera app</a></li>
-						<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Other countries/regions</b>: Please refer to <a target="_blank" href="/vtl-land/faq#digitalcertsQ2">this guide</a> for acceptable proof of vaccination. </li>
+						<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Other countries/regions</b>: Please refer to <a target="_blank" href="/vtl/faq#vaxcert">this guide</a> for acceptable proof of vaccination. </li>
 		</ol>
-<p style="padding-left:5px; font-size:18px; margin-bottom:0px; line-height:1.35;">Travellers vaccinated overseas are advised to refer to <a target="_blank" href="/vtl/faq#verify">this guide</a> to verify if your vaccination certificate is accepted in Singapore.</p>
+<p style="padding-left:5px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers are encouraged to verify that their vaccination certificates are valid using <a href="/vtl/faq#verify" target="_blank">publicly available verification tools</a> if available, before they apply for a VTP or travel to Singapore.
+</p>
 
-<p style="padding-left:5px;font-size:18px; margin-bottom: 10px; line-height:1.35;">❓ &nbsp;<b>Frequently asked questions regarding vaccination proof can be found <a target="_blank" href="/vtl-land/faq#requirements">here</a>.</b></p>
+<p style="padding-left:5px;font-size:18px; margin-bottom: 10px; line-height:1.35;">❓ &nbsp;<b>Frequently asked questions regarding vaccination proof can be found <a target="_blank" href="/vtl/faq#vaxcert">here</a>.</b></p>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1B">&nbsp;&nbsp;<b>(1B) Secure Tickets for a Designated VTL (Land) Bus Service</b></label></div>
@@ -146,7 +144,7 @@ label.box {
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">If your intended date of entry is not reflected in the portal, come back on another day to apply as VTP dates are made available in the system on a rolling basis.</li>
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Travellers who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Applicants not vaccinated in Singapore whose vaccination certificate contains multiple QR codes should ensure that they crop each QR code and upload them separately to avoid upload errors. Travellers who still experience issues uploading the QR code to the VTP application portal, should <a target="_blank" href="https://go.gov.sg/sto-enquiry">write to the Safe Travel Office</a> for help and provide their vaccination certificate. </li>
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">VTPs are valid for 14 calendar days from the traveller's chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. (e.g. a traveller holding a VTP (Land) for entry into Singapore on 1 Dec 2021 may enter Singapore on a designated VTL (Land) bus service any day from 1- 14 Dec 2021 (inclusive). The traveller should apply for a VTP if he is unable to enter during this period.)</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">VTPs are valid for <b>13 calendar days</b> from the traveller's chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. (e.g. a traveller holding a VTP (Land) for entry into Singapore on 1 Dec 2021 may enter Singapore on a designated VTL (Land) bus service any day from 1- 14 Dec 2021 (inclusive). The traveller should apply for a VTP if he is unable to enter during this period.)</li>
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">In-principle approval (IPA) work permit holders should apply as “Short-term visitors” for their VTP application.</li>
 	</ol>
 </div>
@@ -298,7 +296,7 @@ label.box {
 
 <div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="3B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="3B">&nbsp;&nbsp;<b>(3B) On-Arrival COVID-19 ART</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers will be ferried to Queen Street Terminal or Woodlands Temporary Bus Interchange, where they will take their on-arrival COVID-19 ART. Including GST, the test costs $15 and travellers can make e-payment for the test on the spot. (Travellers entering after 21 January 2022, 2359 hours may take a supervised self-swab ART as their On-Arrival Covid-19 test within 24 hours of arrival, at a Quick Test Centre or Combined Test Centre. The weblink to book the test will be provided in the Testing Notice issued on arrival.)</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers will be ferried to Queen Street Terminal or Woodlands Temporary Bus Interchange, where they will take their on-arrival COVID-19 ART. Including GST, the test costs $15 and travellers can make e-payment for the test on the spot. (Travellers entering after 21 Feb 2022, 2359 hours may take a supervised self-swab ART as their On-Arrival Covid-19 test within 24 hours of arrival, at a Quick Test Centre or Combined Test Centre. The weblink to book the test will be provided in the Testing Notice issued on arrival.)</p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">❌</span>&nbsp;Children aged two and below in this calendar year (i.e. born in or after 2020) do not require an on-arrival test.</p>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">❌</span>&nbsp; <a target="_blank" href="/vaccinated-recovered">Recently-recovered travellers</a> who are fully vaccinated do not require an on-arrival test.</p>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">🚍 Travellers can use any transport to leave Queen Street Terminal or Woodlands Temporary Bus Interchange if they have tested negative for their on-arrival COVID-19 ART.</p>
@@ -309,7 +307,7 @@ label.box {
 
 <div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="postarrivaltests"><input id="4A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="4A">&nbsp;&nbsp;<b>(4A) Post-Arrival Daily COVID-19 Tests</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Travellers are required to take unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival before they leave their place of residence or accommodation for the day, in addiition to fulfilling their pre-departure and on-arrival testing requirements. The ART kits should be <a target="_blank" href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests">self-procured</a>. Travellers do not need to submit their ART results.</p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Travellers are required to take unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival before they leave their place of residence or accommodation for the day, in addition to fulfilling their pre-departure and on-arrival testing requirements. The ART kits should be <a target="_blank" href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests">self-procured</a>. Travellers do not need to submit their ART results.</p>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">❌</span>&nbsp;Children aged two and below in this calendar year (i.e. born in or after 2020) are exempted from this requirement.</p>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">❌</span>&nbsp;  <a target="_blank" href="/vaccinated-recovered">Recently-recovered travellers</a> who are fully vaccinated are exempted from this requirement.</p>
 	<!--<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Mandatory Testing Schedule</b></p>
