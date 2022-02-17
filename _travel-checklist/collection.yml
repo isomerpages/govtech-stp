@@ -2,7 +2,6 @@ collections:
   travel-checklist:
     output: true
     order:
-      - checklists/Travel Checklist Category(II)(III)(IV) 1.md
       - checklists/.keep
       - checklists/travel-checklist-categoryi.md
       - checklists/travel-checklist-categoryii.md
