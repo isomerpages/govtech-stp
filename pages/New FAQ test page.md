@@ -137,7 +137,6 @@ Travellers will be provided with a weblink to book their ARTs at a <a href="http
 
 Children aged 3 to 12 must undergo their supervised ART at the <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
-
 #### 5. Do travellers need to self-isolate after their supervised ART?
 
 Yes, travellers must self-isolate after their supervised ART until their test result is conveyed.
@@ -152,126 +151,23 @@ Travellers with a registered local mobile number can expect to receive their res
 
 Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
 
-
-#### 2. Can travellers choose to undergo the supervised ART at other clinics in Singapore?
-
-Yes, travellers may choose to undergo the on-arrival COVID-19 ART test at other clinics or hospitals in Singapore. However, the cost of the COVID-19 ART test may be higher than those at the QTC/CTCs. 
-
-#### 3. How much does the supervised ART cost?
-
-The cost of the supervised ART is S$15 (inclusive of Goods and Services Tax), with payment to be made at the QTC/CTC through cashless modes, such as Mastercard, NETS, PayNow and Visa.
-
-
-
-
-
-#### 6. What do travellers need to bring for their supervised ART appointment?
-
-Travellers will need to bring along a photo identification for verification.
-
-
-
-
-
-#### 10. What should travellers do if they have an invalid ART result for their supervised ART?
+#### 7. What should travellers do if they have an invalid ART result for their supervised ART?
 
 Travellers with an invalid ART result for their supervised ART will be required to return for a retest. This will be provided free-of-charge.
 
-#### 11. What are the penalties if travellers fail to undergo their supervised ART within 24 hours of arrival?
+#### 8. What are the penalties if travellers fail to undergo their supervised ART within 24 hours of arrival?
 
 Failure to undergo the supervised ART may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
 
 A traveller who fails to undergo the supervised ART may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
 
-Further, the traveller’s ATP may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future ATP applications may also be rejected.
+Further, the traveller’s VTP, and/or Visit Pass or Long-Term Pass, may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
-#### 12. What should travellers do if they do not receive their supervised self-administered ART results after 24 hours?
+#### 9. What should travellers do if they do not receive their supervised self-administered ART results after 24 hours?
 
 Please email <a href="mailto:testingops@hpb.gov.sg" target="_blank">testingops@hpb.gov.sg</a> for enquiries related to the supervised self-administered ART results.
 
 
-
-
-Cut off here
-
-
-
-
-
-
-
-#### 1. Where is the on-arrival COVID-19 PCR test conducted?
-
-The on-arrival COVID-19 PCR test will be conducted at a testing facility within the airport, after arrival immigration clearance and baggage collection. Travellers will be guided by airport staff to the testing site. 
-
-#### 2. How much does the on-arrival COVID-19 PCR test cost?
-
-Each test costs S$125 (including Goods and Services Tax). You are strongly encouraged to <a href="https://safetravel.changiairport.com" target="_blank"> book and make payment</a> for the test before you arrive in Singapore.
-
-#### 3. If my travel plans have changed, how do I edit the booking for my on-arrival COVID-19 PCR test?
-
-To edit a booking:
-
-- Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a>, navigate to ‘My Trips’ and choose the specific trip that you wish to change.
-- If you do not have a STC account, please request for assistance to change your trip details by emailing <a href="mailto: swabtest.datechange@changiairport.com">swabtest.datechange@changiairport.com</a>.
-
-Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
-
-#### 4. If I need to cancel my trip, how do I obtain a refund for my on-arrival COVID-19 PCR test?
-
-To cancel and request for a refund of your booking:
-
-- Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a>, navigate to ‘My Trips’ and choose the specific trip that you wish to cancel.
-
-- If you do not have a STC account, please request for assistance to cancel and refund your booking by emailing <a href="mailto: swabtest.refund@changiairport.com">swabtest.refund@changiairport.com</a>.
-
-Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
-
-
-#### 5. Can travellers choose to undergo the on-arrival COVID-19 PCR test in clinics or hospitals in Singapore?
-
-No, travellers are required to undergo the on-arrival COVID-19 PCR test at the airport. A testing facility has been set up within the airport with a safe management process in place to enable travellers to undergo the test as smoothly and quickly as possible after disembarkation from their flight and arrival immigration clearance. 
-
-#### 6. Will ART kits for the unsupervised self-administered COVID-19 ARTs be provided on arrival?
-
-ART kits will <u>not</u> be provided upon arrival. Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along a maximum of 20 <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> per individual from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmancy, retailer or e-commerce platform.
-
-If travellers are serving their self-isolation pending their on-arrival COVID-19 PCR test results, they may obtain ART kits via applications such as Grab and foodpanda which offer 24/7 delivery. Those residing in hotels can also seek their hotel concierge's assistance to help them obtain ART kits. They should <u>not</u> leave their place of accommodation to purchase ART kits prior to receiving their negative PCR test results on Day 1. They may only leave their place of accommodation <u>after</u> self-administering their ART.
-
-#### 7. What happens if travellers refuse to undergo the on-arrival COVID-19 PCR test?
-
-Among other measures which may be taken. if travellers refuse to undergo the on-arrival COVID-19 PCR test, they may have their VTP (Air) cancelled and be refused entry into Singapore. In such an event, travellers may also be liable for all cost incurred for their repatriation, including custody and maintenance pending repatriation.
-
-
-#### 8. What are the requirements for transportation from the airport to the declared place of accommodation, after taking the on-arrival COVID-19 PCR test?
-
-After taking the COVID-19 PCR test, travellers are to immediately take private transportation, taxi, or private hire car (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps) from the airport to their declared place of accommodation.
-
-Travellers entering Singapore on an approved VTP (Air) may be picked up from the airport by their company / family member / friend in a private vehicle. There should not be more than one person picking the traveller up from the airport.
-
-Travellers must be transported directly to their declared place of accommodation to await their COVID-19 PCR test results. All persons in the private vehicle must wear face masks throughout the journey. The following precautionary measures are also strongly encouraged:
-- The traveller should sit alone in the back seat and the front passenger seat should be left unoccupied.
-- If more than one traveller is picked up, travellers sharing the same vehicle should have the same travel history and head to the same declared accommodation.
-- The vehicle windows should be wound down and the air-conditioning turned off, where practical.
-- After the traveller has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/cleaning-and-disinfection/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19" target="_blank">National Environment Agency (NEA) guidelines</a> for surface cleaning and disinfection.
-
-#### 9.  What should travellers do if their flight arrives earlier than their hotel check-in time?
-
-Travellers must proceed immediately to their place of accommodation for self-isolation. They are <b><u>not allowed</u></b> to stay in the airport or wait in the hotel lobby prior to check-in. They should seek their hotel's assistance to arrange for early check-in. If this is not possible, they can cancel or modify their reservation and arrange a booking at another hotel for self-isolation.
-
-#### 10. What should travellers do if they do not receive their on-arrival COVID-19 PCR test results after 24 hours?
-
-Please email <airborder@rafflesmedical.com> for enquiries related to on-arrival COVID-19 PCR test results.
-
-#### 11. What should travellers do if they test positive for COVID-19?
-
-Travellers who test positive for COVID-19 must abide by the relevant COVID-19 recovery protocol immediately. You may refer to <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank">this link</a> for more details on Protocol 2. For more information on what to do if you feel unwell while in Singapore, please refer to <a href="https://www.covid.gov.sg/travellers" target="_blank">this link</a>. Prevailing <a href="/health/insurance-and-treatment#cost" target="_blank">medical treatment and recovery charges</a> may apply.
-
-Please also note that if a traveller’s test result is confirmed to be positive, all persons who had shared the same room with the traveller, as well as those identified to be a close contact, may be served with a Health Risk Warning (HRW).
- 
-VTL (Air) travellers issued a HRW after being identified as a close contact of a COVID-19 case are still required to comply with the post-arrival testing requirements, in addition to the requirements of the HRW.  Their self-administered and self-declared ARTs results may also be used to fulfil any HRW testing requirements, and they are required to upload their ARTs results on both the website for the submission of unsupervised self-administered ART results (specified in the Legal Notice issued upon arrival), as well as the website specified in the HRW.
-
- 
 ---
 
 ##### Click here to go back to the [top](#top).
