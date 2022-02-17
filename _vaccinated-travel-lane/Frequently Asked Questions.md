@@ -797,7 +797,7 @@ Yes, you will be eligible for the VTL so long as your travel history within the 
 
 #### 3.  I intend to arrive in Singapore on a designated VTL (Air) flight and have an acceptable proof of vaccination, but I have travel history to or will transit via a non-VTL (Air) or non-Category I country/region prior to that flight. Will I be eligible for the VTL?
 
-No, you will not be eligible for the VTL. Return to the Travelling to Singapore page to find alternative SafeTravel Lanes.
+No, you will not be eligible for the VTL. Return to the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page to find alternative SafeTravel Lanes.
 
 ---
 
