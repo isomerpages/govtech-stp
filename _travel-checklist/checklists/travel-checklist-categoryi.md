@@ -147,7 +147,7 @@ label.box {
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers are advised to defer travel if they have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">If you have recently recovered from COVID-19 within the last 90 days before departure:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: disc;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Entry approval requirements (Stage 1A, 1B) still apply.</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Entry approval requirements (Stage 1A, 1C) still apply.</li>
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-checker tool</a> to determine if you are eligible for the <a target="_blank" href="/vaccinated-recovered">Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the Vaccinated-Recovered Traveller Protocol instead</a> for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
 </ol>
 <p style="font-size:18px;line-height:1.35;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
