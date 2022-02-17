@@ -34,7 +34,6 @@ permalink: /sc-pr/overview
 	</tr>
 	</tbody>
 	</table>
-	<br>
 <table>
 <thead>
 <tr>
