@@ -659,7 +659,6 @@ Please attempt re-uploading your QR code, and ensure that:
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your QR code was uploaded in a high-resolution, .png or .pdf format.</li>
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your date of birth was keyed in the correct format (DD/MM/YYYY)</li>
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your proof of vaccination is an accepted <a href="/vtl/faq#QRcode">proof of vaccination</a></li>
-	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;"></li>
 		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You have uploaded the <a href="/vtl/faq#numberofcodes" target="_blank">correct number of QR codes</a>, and you are using the correct method of QR code upload
 			<ol><li style="line-height:1.5; margin-top:10px; list-style-type:square;">QR code is cropped from the vaccination certificate document when uploaded</li>
 				<li style="line-height:1.5; margin-top:10px; list-style-type:square;">[For International COVID-19 Vaccination Certificate] Full 1-page PDF file was uploaded</li>
