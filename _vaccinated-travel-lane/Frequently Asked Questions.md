@@ -3,8 +3,6 @@ title: Frequently Asked Questions
 permalink: /vtl/faq-test
 description: ""
 ---
-
-
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:10px; color:red; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35"><span style="color:red;"><b>This page contains FAQs for travellers who have understood the entry requirements into Singapore via the Vaccinated Travel Lane (Air/Land/Sea). Singapore time (SGT) is used for all dates and times shown on this page. If you are not clear on the VTL (Air/Land/Sea) requirements, please refer to the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> Overview page, <a href="/vtl-land/overview" target="_blank">VTL (Land)</a> Overview page or <a href="/vtl-sea/overview" target="_blank">VTL (Sea)</a> Overview page before reading this FAQ page.</b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35"><span style="color:red;"><b>Travellers intending to travel out of Singapore to a country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</b></span></p>
@@ -909,3 +907,392 @@ Please refer to the Transiting through Singapore page for more details.
 
 ---
 
+
+<div id="PDT"></div>
+
+ 
+### (4) Pre-Departure COVID-19 Test
+
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year (i.e. born in or after 2020)  are not required to undergo a pre-departure COVID-19 test. Recently-recovered travellers may qualify for exemption from the pre-departure COVID-19 test. They must present a valid <a href="/vaccinated-recovered" target="_blank">proof of recovery</a>.</i></p>
+
+
+#### 1. If I am entering a VTL country/region for a very short trip, can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for departure, to fulfil the pre-departure test requirement for my return leg to Singapore?
+
+You will fulfil the pre-departure test requirement <b>only if the PCR test or ART was taken within 2 days before departure for Singapore</b>.
+
+As an example, a traveller takes a pre-departure ART in Singapore on 1 March 2022 and enters Malaysia on the same day. If he intends to return to Singapore under the VTL (Land) / VTL (Sea) between 1 and 3 March 2022, the ART taken on 1 March 2022 will fulfil the pre-departure test requirement for entry into Singapore.
+
+
+#### 2. If I am entering a VTL country/region for a very short trip, can I use my negative On-Arrival Test (OAT) taken in the VTL country/region to fulfil the pre-departure test requirement for my return leg to Singapore, if the OAT was taken within 2 days of my date of departure to Singapore?
+
+The OAT taken in the VTL country/region is acceptable as long as it fulfils the criteria for an acceptable pre-departure test for departing to Singapore.
+
+The OAT must be a COVID-19 Polymerase Chain Reaction test (PCR test) at an internationally accredited or recognised lab/clinic/medical facility, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). The PDT result must not be a handwritten document, and fulfil the following:  
+
+<ol style="padding-left: 20px; list-style-type: lower-latin;">
+	<li>Is in English (or accompanied with an English translation); </li>
+	<li>Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and </li>
+	<li>Reflects the date and result of the PCR test. </li>
+	</ol>
+
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
+
+
+<div id="vtltransport"></div>
+
+ 
+### (5) Designated VTL Transport
+
+
+#### 1. Are travellers guaranteed a ticket on a designated VTL flight/bus/ferry to Singapore if they have a VTP?
+
+Having a VTP does not guarantee travellers a ticket on a designated VTL (Air) flight/ VTL (Land) bus/ VTL (Sea) ferry to Singapore. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL (Air)/VTL (Land)/VTL (Sea) flight to Singapore does not guarantee a VTP.
+
+#### 2. I have a VTP and I meet all the requirements under the VTL, except that I only managed to book a non-VTL transport service. Will I still be allowed to enter Singapore under quarantine-free VTL terms?
+
+As required under the VTL (Air) <a href="/vtl/conditions" target="_blank">Conditions</a>/ VTL (Land) <a href="/vtl-land/conditions" target="_blank">Conditions</a>/ VTL (Sea) <a href="/vtl-sea/conditions" target="_blank">Conditions</a>,  a VTP holder must arrive in Singapore on a designated VTL transport in order to be eligible for quarantine-free VTL measures. They should approach the transport operator for assistance to rebook a ticket on a designated VTL flight/bus/ferry if possible.
+
+Travellers who are not Singapore Citizens or Permanent Residents may be turned away by the transport providers if they do not meet the necessary entry requirements to Singapore for non-VTL lanes (e.g. vaccination requirements under Work Pass Holder Lane). Please check the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> for non-VTL lanes that fit your profile, and read the entry requirements of the non-VTL lanes.
+
+
+#### 3. I have a VTP and I meet all the requirements under the VTL (Land). However, I did not manage to get a ticket on a designated VTL (Land) bus service to Singapore. Will I still be allowed to enter Singapore if I drive my private vehicle, cycle, walk or take a non-designated bus service?
+
+As required under the <a href="/vtl-land/conditions" target="_blank">VTL (Land) conditions</a>, a VTP holder must arrive in Singapore on a designated VTL (Land) bus service. All travellers who do not arrive on a designated VTL (Land) bus service to Singapore may be denied entry into Singapore and/or subjected to prevailing border measures.
+
+#### 4. Where are the boarding and disembarkation points for VTL (Land) bus services from Malaysia to Singapore, and from Singapore to Malaysia?
+
+Travellers entering Singapore under the VTL (Land) will have to board the bus at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia. The bus will arrive at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore, via the Causeway. (<i>Note: From 21 February 2021, 2359 hours, travellers entering under the VTL (Land) will not be required to reboard the bus after immigration clearance and may choose to disembark from Woodlands Checkpoint</i>.)
+
+Travellers entering Malaysia under the VTL (Land) will have to board the bus at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore. The bus will arrive at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia, via the Causeway. 
+
+#### 5. What should travellers do if they are ineligible for the VTL, but had booked themselves onto a designated VTL flight/bus/ferry?
+
+They should approach the airline/bus operator/regional ferry operator for assistance to rebook a ticket on a non-designated VTL flight/bus/ferry.
+
+#### 6. Do travellers need a return flight/bus/ferry ticket to enter Singapore?
+
+Short term visitor travellers under VTL (Sea) require a return ferry ticket to enter Singapore. 
+
+All other travellers under the VTL (Air)/VTL (Land)/VTL (Sea) do not need a return flight/bus/ferry ticket to enter Singapore. 
+
+#### 7. Can transfer/transit passengers travel on designated VTL (Air) flights?
+
+Transfer/transit passengers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> with WHO EUL vaccines may travel on designated VTL (Air) flights, regardless of where they were issued their vaccination certificate and regardless of their travel history, as long as they are able to show proof of vaccination.
+
+Please check the <a href="/transit/overview" target="_blank">Transiting through Singapore</a> page for more details.
+
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
+
+<div id="OAT"></div>
+ 
+### (6) On-Arrival COVID-19 Test and Self-Isolation
+
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo an on-arrival COVID-19 test. Fully vaccinated recently-recovered travellers may qualify for exemption from the on-arrival COVID-19 test. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</i></p>
+
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Please jump to the relevant section based on your intended date of entry into Singapore.</i></p>
+
+<ol style="list-style-type: disc;">
+	<li><a href="#before21">For travellers entering before 21 February 2022, 2359h</a></li>
+	<li><a href="#after21">For travellers entering after 21 February 2022, 2359h</a></li>
+	</ol>
+
+
+<div id="before21"></div>
+
+#### <u>For travellers entering before 21 February 2022, 2359h</u>
+
+#### 1. If my travel plans have changed, how do I edit the booking for my on-arrival COVID-19 PCR test at the airport?
+
+To edit a booking:
+
+1.	Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a> , navigate to ‘My Trips’ and choose the specific trip that you wish to change.
+
+2.	If you do not have a STC account, please request for assistance to change your trip details by emailing <a href="mailto:swabtest.datechange@changiairport.com" target="_blank">swabtest.datechange@changiairport.com</a>.
+
+Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
+
+#### 2. If I need to cancel my trip, how do I obtain a refund for my on-arrival COVID-19 PCR test at the airport?
+
+To cancel and request for a refund of your booking:
+
+1.	Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a>, navigate to ‘My Trips’ and choose the specific trip that you wish to cancel.
+2.	If you do not have a STC account, please request for assistance to cancel and refund your booking by emailing <a href="mailto:swabtest.refund@changiairport.com" target="_blank">swabtest.refund@changiairport.com</a>.
+
+Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
+
+#### 3. Can VTL(Air) travellers choose to undergo the on-arrival COVID-19 PCR test in clinics or hospitals in Singapore?
+
+No, VTL (Air) travellers are required to undergo the on-arrival COVID-19 PCR test at the airport. A testing facility has been set up within the airport with a safe management process in place to enable travellers to undergo the test as smoothly and quickly as possible after disembarkation from their flight and arrival immigration clearance.
+
+#### 4. What should travellers do if they do not receive their on-arrival COVID-19 PCR test results after 24 hours?
+
+Please email <a href="mailto:airborder@rafflesmedical.com" target="_blank">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
+
+#### 5. What should travellers do if their flight/bus/ferry arrives earlier than their hotel check-in time and are unable to self-isolate?
+
+Travellers must proceed immediately to their place of accommodation for self-isolation. They are <u>not allowed</u> to stay in the airport/bus/ferry terminal or wait in the hotel lobby prior to check-in. They should seek their hotel’s assistance to arrange for early check-in. If this is not possible, they can cancel or modify their reservation and arrange a booking at another hotel for self-isolation.
+
+
+---
+
+<div id="after21"></div>
+
+#### <u>For travellers entering after 21 February 2022, 2359h</u>
+
+#### 1. What are the test centres that travellers can go to for their supervised ARTs?
+
+They can visit any of the <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>.
+
+VTL (Land) travellers can also perform their supervised ARTs at Woodlands and Queen Street bus terminals on arrival.  
+
+Travellers can also undergo the on-arrival COVID-19 ART test at other clinics or hospitals in Singapore that provide such services. However, the cost of the COVID-19 ART test may be higher than those at the QTC/CTCs.
+
+
+#### 2. Can travellers bring their own ART self-test kits to the test centres?
+
+No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
+
+
+#### 3. How do travellers book their appointments for their supervised ARTs?
+
+Travellers will be provided with a weblink to book their ARTs at a <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC).
+
+
+#### 4. Are children required to undergo supervised ARTs?
+
+Children aged 3 to 12 must undergo their supervised ART at the <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
+
+#### 5. Do travellers need to self-isolate after their supervised ART?
+
+Yes, travellers must self-isolate after their supervised ART until their test result is conveyed.
+
+Except for attending the supervised ART, travellers are required to self-isolate in their declared accommodation until they are notified that they have tested negative. Travellers may only take private transportation, taxi, or private hire car between the QTC/CTC and their accommodation. Public transportation is not allowed.
+
+#### 6. How soon will the results of the supervised ARTs be out?
+
+If tested positive for their supervised ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number).
+
+Travellers with a registered local mobile number can expect to receive their results via SMS within 2 hours. Those without a local mobile number can expect to receive their results via email within 12 hours.
+
+Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
+
+#### 7. What should travellers do if they have an invalid ART result for their supervised ART?
+
+Travellers with an invalid ART result for their supervised ART will be required to return for a retest. This will be provided free-of-charge.
+
+#### 8. What are the penalties if travellers fail to undergo their supervised ART within 24 hours of arrival?
+
+Failure to undergo the supervised ART may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
+
+A traveller who fails to undergo the supervised ART may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
+
+Further, the traveller’s VTP, and/or Visit Pass or Long-Term Pass, may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
+
+#### 9. What should travellers do if they do not receive their supervised self-administered ART results after 24 hours?
+
+Please email <a href="mailto:testingops@hpb.gov.sg" target="_blank">testingops@hpb.gov.sg</a> for enquiries related to the supervised self-administered ART results.
+
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
+ 
+ <div id="postarrivaltests"></div>
+ 
+
+### (7) Post-Arrival Regular COVID-19 Antigen Rapid Tests (ARTs) (only for travellers arriving before 21 Feb 2022, 2359h)
+
+<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Those who enter Singapore before 21 Feb 2022, 2359h, are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7.</span></i></p> 
+<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo post-arrival ARTs. Fully vaccinated recently-recovered travellers entering Singapore may qualify for exemption from the post-arrival COVID-19 ARTs. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</span></i></p>
+
+
+#### 1. What should travellers do if they test positive for COVID-19 on any of their ARTs?
+
+Travellers who test positive on the unsupervised self-administered ARTs will no longer need to undergo a confirmatory PCR test. Should you test positive, you must abide by the relevant COVID-19 recovery protocol immediately. You may refer to <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank"> this link</a> for more details on Protocol 2. 
+
+For more information on what to do if you feel unwell while in Singapore, please refer to <a href="https://www.covid.gov.sg/travellers" target="_blank"> this link</a>.
+
+#### 2. Where can travellers obtain ART self-test kits?
+
+Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along a maximum of 20 <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> per individual from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmacy, retailer or e-commerce platform. ART kits will not be provided upon arrival. 
+
+If travellers are serving their self-isolation pending their on-arrival COVID-19 PCR test results, they may obtain ART kits via applications such as Grab and foodpanda which offer 24/7 delivery. Those residing in hotels can also seek their hotel concierge’s assistance to help them obtain ART kits. They should not leave their place of accommodation to purchase ART kits prior to receiving their negative PCR test results on Day 1. They may only leave their place of accommodation after self-administering their ART.
+
+#### 3. How do travellers self-administer an ART?
+
+Travellers are strongly encouraged to <a href="https://artbuddy.healthpixel.co/" target="_blank">view the materials here</a> to learn how to self-administer an ART. They can follow the step-by-step instructions while administering their ART.
+
+Travellers may also refer to <a href="https://www.covid.gov.sg/exposed/no-hrw" target="_blank">MOH's guidelines on COVID-19 self-testing</a> to ensure the correct use and appropriate follow-up actions based on the results of the self-testing. MOH’s simple guide to ART self-test kits is available in different languages at the following links:
+
+- <a href="https://go.gov.sg/bca-self-art-eng" target="_blank">English</a>
+- <a href="https://go.gov.sg/bca-self-art-chi" target="_blank">Chinese</a>
+- <a href="https://go.gov.sg/bca-self-art-mal" target="_blank">Malay</a>
+- <a href="https://go.gov.sg/bca-self-art-tam" target="_blank">Tamil</a>
+
+The results should be visible within 15 minutes and should be reflected as follows. If it appears as invalid, please repeat the test and submit a valid (i.e. positive or negative) test result via the webform.
+<img src="/images/ARTresults.png" width="820" height="222">
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
+
+<div id="AdditionalReq"></div> 
+
+### (8) Additional Requirements for Short-Term Visitors
+
+<div id="insurance"></div> 
+
+### (a) Mandatory COVID-19 Travel Insurance Coverage
+
+#### 1. Do visitors need to show proof of travel insurance purchase when they apply for the VTP?
+
+Visitors will have to declare, at the point of VTP application, that they will purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
+
+#### 2. What penalties will be imposed on the visitor if he/she did not buy the insurance prior to entering Singapore?
+
+Purchase of travel insurance is a condition of the VTL. Non-compliance with any of the conditions of the VTL may result in refusal of entry into Singapore and/or cancellation of the VTP and/or Visit Pass. In such an event, the VTP holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
+
+<div id="vtlseareq"></div>
+
+### (b) Additional Requirements for VTL (Sea)
+
+#### 1. What hotels are approved for stay for short-term VTL (Sea) travellers?
+
+Please refer to the Singapore Tourism Board’s (STB) <a href="https://www.stb.gov.sg/content/stb/en/home-pages/approved-hotels.html" target="_blank">list of approved hotels</a>.
+
+#### 2. Why are short-term VTL (Sea) travellers not allowed to stay with their friends or relatives in Singapore?
+
+The requirements for short-term VTL (Sea) travellers to Singapore are similar to Indonesia’s requirements for the travel bubble into Nongsa Sensation area in Batam and Bintan Lagoi Resort. 
+
+#### 3. Why is a return ferry ticket necessary for short-term VTL (Sea) travellers?
+
+The requirements for short-term VTL (Sea) travellers to Singapore are similar to Indonesia’s requirements for the travel bubble into Nongsa Sensation area in Batam and Bintan Lagoi Resort.
+
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
+
+
+<div id="TT"></div>
+
+### (9) Contact Tracing – TraceTogether
+
+<i>For the full requirements and conditions governing the use of TraceTogether, please click <a href="/health/tt-for-travellers">here</a>.</i>
+
+<i>General FAQs on TraceTogether can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg">here</a>.</i>
+
+#### 1. Must every visitor use TraceTogether?
+
+Yes. All visitors to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, visitors must activate and use the app for the duration of their stay in Singapore.
+
+Travellers may also obtain a TraceTogether token after arriving in Singapore. More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+
+Children aged 6 and below in this calendar year are exempted from the TraceTogether requirement.
+
+
+#### 2. After downloading the TraceTogether app, how do I activate it?
+
+After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that you are using to enter Singapore.
+ 
+Please ensure that your TraceTogether App is updated to the latest version. You will see the Holding Screen after you have registered your profile. <b>You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore</b>. Follow the instructions until you reach the Home Screen.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;">Holding Screen</th>
+      <th style="text-align:center;">Home Screen</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;"></td>
+      <td><img src="/images/TraceTogether Home Screen_Vaccinated.png" style="width:179px; height:318px;"></td>
+    </tr>
+  </tbody>
+</table>
+ 	 
+For more information, please refer to the TraceTogether <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-">website</a>.
+
+If you require assistance on how to download and activate the TraceTogether app, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a>.
+
+#### 3. I have downloaded the TraceTogether app, but I cannot activate the app. What should I do?
+
+Please check that your app has been updated to the latest version.
+
+You can activate your app only <u>after</u> clearing Singapore immigration. There might be a short lag time between after your have cleared immigration and before you can activate the app.
+ 
+If you still are unable to activate your app after immigration clearance, it could be because you did not register your profile with the same identification number, nationality and date of birth as those shown in the passport that you have used to enter Singapore. If so, follow the instructions to be navigated back to the Holding Screen.
+
+You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
+
+<img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;">
+ 
+If you still face issues, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a> with your query and details of the issue you are facing. 
+
+#### 4. If I change my mobile device or SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
+
+If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. 
+
+If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
+
+Please ensure that you keep your mobile device’s Bluetooth function turned on so that the TraceTogether app remains activated throughout your stay in Singapore.
+
+#### 5. What happens if visitors do not have a mobile device to download the TraceTogether app?
+
+All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the <a href="https://apps.apple.com/sg/app/tracetogether/id1498276074">iOS App Store</a>, <a href="https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace">Google Play Store</a> and Huawei App Gallery.
+
+Visitors with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is TraceTogether-compatible. Alternatively, they may obtain a TraceTogether token (S$13/token) at designated locations in Singapore. Click <a href="/health/tt-for-travellers#token" target="_blank">here</a> for more details.
+
+Visitors must carry their rented mobile device or TraceTogether token with them at all times during their stay in Singapore. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
+
+   
+#### 6. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
+
+Visitors who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can purchase a Singapore SIM card. Upon purchase, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport used to enter Singapore.
+
+#### 7. Can visitors switch off their mobile devices while in Singapore?
+
+No, visitors must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
+
+
+#### 8. Will my vaccination status show on my TraceTogether app? What should I do if my vaccination status expires?
+
+If you were fully vaccinated in <b>Singapore</b>, you should be able to see your vaccination status on your TraceTogether and HealthHub apps. Your vaccination status will not expire.
+
+If you were fully vaccinated <b>overseas</b>, please ensure that you complete one of the following:
+
+<ol style="list-style-type:lower-roman;">
+	<li><b>[For LTPH/STVs only]</b> upload your vaccination QR code in your VTP (Air) application (if required);</li>
+	<li><b>[For SC/PRs only]</b> upload your vaccination certificate on your SG Arrival Card submission; or </li>
+<li>present your overseas vaccination certificate at the immigration counter on-arrival.</li>
+	</ol>
+
+Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore. If you have uploaded a digitally-verifiable vaccination QR code via the Vaccinated Travel Pass (VTP) application portal, you may be granted a 180-day temporary status. All other travellers may be granted a 30-day temporary status by either uploading their digtially-verifiable vaccination certificate in their SG Arrival Card, or by presenting their vaccination certificate to the ICA officer at immigration clearance. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministy of Health's FAQs on these measures.
+
+If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: <a href ="mailto: https://go.gov.sg/vax-status-query" target="_blank">https://go.gov.sg/vax-status-query</a>. 
+
+You may also wish to refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">TraceTogether FAQs</a> for more information.
+
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
