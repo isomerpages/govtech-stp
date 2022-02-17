@@ -34,6 +34,27 @@ description: ""
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vaxcert">Digitally Verifiable Vaccination Certificate and QR Code Issues</a></li>
 	</ol>
 	</li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#THReq">Travel History Requirement</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Test</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Flight">Designated VTL (Air) Flights/VTL (Land) Buses/ VTL (Sea) Ferries</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 Test and Self-Isolation</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#postarrivaltests">Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#AdditionalReq">Additional Requirements for Short-Term Visitors</a>:
+<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vtlseareq">Additional Requirements for VTL (Sea)</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#TT">Contact Tracing – TraceTogether</a></li>
+</ol>
+</li>
+</ol>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (VTP)</a></li> 
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/departing/overview">Departing from Singapore</a>
+	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-latin;">
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mfa.gov.sg/where-are-you-travelling-to">Travel Requirements for Destination Countries/Regions</a></li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/departing/overview#PDT">Outbound Pre-Departure Test</a></li>
+	</ol>
+	</li> 
 </ol>
 
 <div id="VTLReq"></div>
