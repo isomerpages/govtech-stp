@@ -250,20 +250,10 @@ The requirements for short-term VTL (Sea) travellers to Singapore are similar to
 
 ---
 
-<div id="insurance"></div>
-
-
-
-
----
-
-##### Click here to go back to the [top](#top).
-
----
 
 <div id="TT"></div>
 
-### (iii) Contact Tracing – TraceTogether
+### 9) Contact Tracing – TraceTogether
 
 <i>For the full requirements and conditions governing the use of TraceTogether, please click <a href="/health/tt-for-travellers">here</a>.</i>
 
