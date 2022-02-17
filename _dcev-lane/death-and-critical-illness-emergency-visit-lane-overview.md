@@ -65,7 +65,7 @@ Travellers can refer to the checklists below to have a sense of what baseline en
 
 <ol style="list-style-type:disc;">
 <li><a href="/travel-checklist/category-1" target="_blank">Category (I) travel history checklist</a></li> 
-<li><a href="/travel-checklist/category-2" target="_blank">Category (II/III) travel history checklist</a></li>  
+<li><a href="/travel-checklist/category-2-3-4" target="_blank">Category (II/III/IV) travel history checklist</a></li>  
 </ol>
 
 ##### Travel checklists for travellers arriving before 21 Feb 2359h SGT:
