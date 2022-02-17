@@ -60,7 +60,7 @@ Please check the <a href="/transit/overview" target="_blank">Transiting through 
 
 <div id="OAT"></div>
  
-### (e) On-Arrival COVID-19 PCR Test at the Airport and Self-Isolation
+### 6) On-Arrival COVID-19 Test and Self-Isolation
 
 <p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo an on-arrival COVID-19 test. Fully vaccinated recently-recovered travellers may qualify for exemption from the on-arrival COVID-19 test. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</i></p>
 
