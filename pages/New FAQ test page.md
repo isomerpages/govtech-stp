@@ -31,74 +31,25 @@ As required under the <a href="/vtl-land/conditions" target="_blank">VTL (Land) 
 
 #### 4. Where are the boarding and disembarkation points for VTL (Land) bus services from Malaysia to Singapore, and from Singapore to Malaysia?
 
-Travellers entering Singapore under the VTL (Land) will have to board the bus at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia. The bus will arrive at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore, via the Causeway. (From 21 February 2021, 2359 hours, travellers entering under the VTL (Land) will not be required to reboard the bus after immigration clearance and may choose to disembark from Woodlands Checkpoint).
+Travellers entering Singapore under the VTL (Land) will have to board the bus at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia. The bus will arrive at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore, via the Causeway. (<i>Note: From 21 February 2021, 2359 hours, travellers entering under the VTL (Land) will not be required to reboard the bus after immigration clearance and may choose to disembark from Woodlands Checkpoint</i>.)
 
 Travellers entering Malaysia under the VTL (Land) will have to board the bus at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore. The bus will arrive at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia, via the Causeway. 
 
-#### 6. What flights may short-term visitors take in order to enter Singapore?
+#### 5. What should travellers do if they are ineligible for the VTL, but had booked themselves onto a designated VTL flight/bus/ferry?
 
-Short-term visitors who are VTP (Air) holders may only arrive in Singapore on designated VTL (Air) flights within the validity period of the VTP (Air) issued. Otherwise, they will be denied entry into Singapore.
+They should approach the airline/bus operator/regional ferry operator for assistance to rebook a ticket on a non-designated VTL flight/bus/ferry.
 
-#### 7. What must travellers present to airline staff during check-in at the departure airport for Singapore?
+#### 6. Do travellers need a return flight/bus/ferry ticket to enter Singapore?
 
-When checking in at the departure airport, travellers must present the following to the airline staff:
-<ul> 
-	<li><i>[not applicable for children aged 12 and below in this calendar year]</i> a valid VTP (Air) (electronic or physical copy) for the specified period of entry into Singapore;</li>
-<li><i>[not applicable for children aged 12 and below in this calendar year]</i> an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>, which can be in the form of:
-<ul style="list-style-type:disc; margin-top:0px;">
-	<li>a proof of vaccination on an accepted mobile application, or</li>
-	<li>a vaccination certificate, stating the following:
-			<ul style="list-style-type:lower-roman; margin-top:0px;">
-				<li> the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
-				<li>the name(s) of vaccine(s) used; and</li>
-				<li>the date(s) of vaccination. The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
-		</ul>
-			</li>
-		</ul>
-	</li>
-<li><i>[not applicable for children aged 2 and below in this calendar year]</i> a valid pre-departure COVID-19 Polymerase Chain Reaction (PCR) or Antigen Rapid Test (ART) test result certificate (electronic or physical copy) in English stating the following:
-<ol style="list-style-type: circle">
-<li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP (Air) holder’s passport used for entry into Singapore;</li>
-<li>a negative COVID-19 test result;</li>
-<li>the date and time when the COVID-19 test was taken, which must be within 2 days before departure for Singapore; and</li>
-<li>the name of the testing institution conducting the COVID-19 test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
-</ol>
-	</li>
-	<li><i>[for recovered travellers only]</i> a valid <a href="/vaccinated-recovered" target="_blank">proof of recovery</a></li>
-	</ul>
+Short term visitor travellers under VTL (Sea) require a return ferry ticket to enter Singapore. 
 
-In addition, visa-required short-term visitors must present a valid visa.
+All other travellers under the VTL (Air)/VTL (Land)/VTL (Sea) do not need a return flight/bus/ferry ticket to enter Singapore. 
 
-A traveller who does not have any of the above may be refused boarding by the airline.
-
-
-#### 8. What should travellers do if they intend to travel to Singapore under VTL, but had booked themselves onto a non-designated flight? 
-
-They should approach the airline for assistance to rebook a ticket on a designated VTL flight. 
-
-#### 9. What should travellers do if they are ineligible for the VTL, but had booked themselves onto a designated VTL flight? 
-
-They should approach the airline for assistance to rebook a ticket on a non-designated VTL flight. 
-
-#### 10. I have an EU Digital COVID Certificate (EU DCC) issued in a non-VTL (Air) country/region. Can I transit via a VTL country/region and take a designated VTL flight to Singapore? 
-
-No, you will not be allowed to board the designated VTL flight, as your would have had travel history to a non-VTL (Air) and non-Category I country/region.
-
-Travellers with EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a>. 
-
-#### 11. Do travellers need a return flight ticket to enter Singapore?
-
-Travellers under the VTL (Air) do not need a return flight ticket to enter Singapore. However, they are advised to check with the relevant authorities on the entry requirements of the country/region to which they are travelling after Singapore.
-
-#### 12. Are travellers required to take designated VTL flights to depart from Singapore?
-
-No, the VTL (Air) is meant for travellers who intend to seek entry into Singapore. For travellers flying departing from Singapore, it will depend on the inbound requirements of the destination country/region. Currently, there are no requirements for designated VTL (Air) flights.
-
-#### 13. Can transfer/transit passengers travel on designated VTL (Air) flights?
+#### 7. Can transfer/transit passengers travel on designated VTL (Air) flights?
 
 Transfer/transit passengers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> with WHO EUL vaccines may travel on designated VTL (Air) flights, regardless of where they were issued their vaccination certificate and regardless of their travel history, as long as they are able to show proof of vaccination.
 
-At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). They are required to be through-checked to their onward destination, as they will not be allowed to clear arrival immigration. Travellers should confirm with their airline on their eligibility to transfer.
+Please check the <a href="/transit/overview" target="_blank">Transiting through Singapore</a> page for more details.
 
 
 ---
