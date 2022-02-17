@@ -14,7 +14,7 @@ published: false
 ### 5) Designated VTL Transport
 
 
-#### 2. Are travellers guaranteed a ticket on a designated VTL (Air) flight to Singapore if they have a VTP (Air)?
+#### 1. Are travellers guaranteed a ticket on a designated VTL (Air) flight to Singapore if they have a VTP (Air)?
 
 Having a VTP (Air) does not guarantee travellers a ticket on a designated VTL (Air) flight to Singapore. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL (Air) flight to Singapore does not guarantee a VTP (Air).
 
