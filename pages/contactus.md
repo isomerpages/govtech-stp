@@ -2,14 +2,14 @@
 title: Contact Us
 permalink: /contact-us
 ---
-<div style="padding-left: 5px; padding-bottom: 20px; margin-top:20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
+<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-top:20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; font-weight:900;"><u>Advisory on Scam Calls Impersonating Government Officials</u></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">ICA has received reports of calls made using the number “+65 6812 5555” by callers claiming to be government officials. This number is similar to the SafeTravel Enquiry Helpline. Recipients of these calls have reported being accused of committing various COVID-19 related offence, e.g. spreading fake news or breaking COVID-19 rules, and asked to pay a penalty or risk having further reports made against them.</p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">ICA does not request for payments in any form over the phone, or solicit for personal and credit card details. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
-</div>
+</div>-->
 
 <p style="line-height:1.35;">The SafeTravel website is designed to provide prospective travellers with the latest information and tools to plan their journey to and from Singapore. Readers who have landed on this page without browsing the rest of this website should begin their journey from the <a href="https://safetravel.ica.gov.sg/" target="_blank">SafeTravel Home Page</a>.</p>
 
