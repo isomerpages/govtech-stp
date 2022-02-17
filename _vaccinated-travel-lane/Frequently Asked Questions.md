@@ -30,9 +30,15 @@ description: ""
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VTLReq">Eligibility and Proof of Vaccination</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vaxcert">Digitally Verifiable Vaccination Certificate and QR Code Issues</a></li>
-	</ol>
-	</li>
 </ol>
+</li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#THReq">Travel History Requirement</li>
+</ol>
+
+
+
+
+
 
 
 <div id="VTLReq"></div>
