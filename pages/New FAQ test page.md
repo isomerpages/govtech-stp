@@ -27,7 +27,7 @@ Travellers who are not Singapore Citizens or Permanent Residents may be turned a
 
 #### 3. I have a VTP and I meet all the requirements under the VTL (Land). However, I did not manage to get a ticket on a designated VTL (Land) bus service to Singapore. Will I still be allowed to enter Singapore if I drive my private vehicle, cycle, walk or take a non-designated bus service?
 
-As required under the VTL (Land) conditions, a VTP holder must arrive in Singapore on a designated VTL (Land) bus service. All travellers who do not arrive on a designated VTL (Land) bus service to Singapore may be denied entry into Singapore and/or subjected to prevailing border measures.
+As required under the <a href="/vtl-land/conditions" target="_blank">VTL (Land) conditions</a>, a VTP holder must arrive in Singapore on a designated VTL (Land) bus service. All travellers who do not arrive on a designated VTL (Land) bus service to Singapore may be denied entry into Singapore and/or subjected to prevailing border measures.
 
 #### 4. Where are the boarding and disembarkation points for VTL (Land) bus services from Malaysia to Singapore, and from Singapore to Malaysia?
 
