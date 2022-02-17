@@ -4,7 +4,7 @@ permalink: /sc-pr/overview
 ---
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Singapore Citizens (SC) and Permanent Residents (PRs) do not need entry approvals to enter Singapore. All entries by SC/PRs are facilitated under the Returning Singapore Citizen & Permanent Resident Lane. </p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>, <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> or <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a>to enjoy quarantine-free measures.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>, <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> or <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a> to enjoy quarantine-free measures.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">On this page you will find the following information about the Returning SC/PR Lane:</p>
 
