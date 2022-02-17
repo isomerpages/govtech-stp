@@ -6,7 +6,42 @@ layout: post
 description: ""
 published: false
 ---
-<!-- to combine w Consolidated VTL FAQ Sections 1 to 4-->
+<!-- to combine w Consolidated VTL FAQ Sections 1 to 3-->
+
+<div id="PDT"></div>
+
+ 
+### 4) Pre-Departure COVID-19 Test
+
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year (i.e. born in or after 2020)  are not required to undergo a pre-departure COVID-19 test. Recently-recovered travellers may qualify for exemption from the pre-departure COVID-19 test. They must present a valid <a href="/vaccinated-recovered" target="_blank">proof of recovery</a>.</i></p>
+
+
+#### 1. If I am entering a VTL country/region for a very short trip, can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for departure, to fulfil the pre-departure test requirement for my return leg to Singapore?
+
+You will fulfil the pre-departure test requirement <b>only if the PCR test or ART was taken within 2 days before departure for Singapore</b>.
+
+As an example, a traveller takes a pre-departure ART in Singapore on 1 March 2022 and enters Malaysia on the same day. If he intends to return to Singapore under the VTL (Land) / VTL (Sea) between 1 and 3 March 2022, the ART taken on 1 March 2022 will fulfil the pre-departure test requirement for entry into Singapore.
+
+
+#### 2. If I am entering a VTL country/region for a very short trip, can I use my negative On-Arrival Test (OAT) taken in the VTL country/region to fulfil the pre-departure test requirement for my return leg to Singapore, if the OAT was taken within 2 days of my date of departure to Singapore?
+
+The OAT taken in the VTL country/region is acceptable as long as it fulfils the criteria for an acceptable pre-departure test for departing to Singapore.
+
+The OAT must be a COVID-19 Polymerase Chain Reaction test (PCR test) at an internationally accredited or recognised lab/clinic/medical facility, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). The PDT result must not be a handwritten document, and fulfil the following:  
+
+<ol style="padding-left: 20px; list-style-type: lower-latin;">
+	<li>Is in English (or accompanied with an English translation); </li>
+	<li>Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and </li>
+	<li>Reflects the date and result of the PCR test. </li>
+	</ol>
+
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
+
 
 <div id="Flight"></div>
 
@@ -357,4 +392,3 @@ You may also wish to refer to the <a href="https://support.tracetogether.gov.sg/
 ##### Click here to go back to the [top](#top).
 
 ---
-
