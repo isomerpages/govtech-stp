@@ -4,7 +4,6 @@ permalink: /vtl-land/overview
 description: ""
 third_nav_title: VTL Land
 ---
-
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] allows quarantine-free travel to Singapore via the Causeway. Please note that:</p>
 <ol style="padding-left: 20px; font-size:18px; list-style-type: disc">
 	<li style="font-size:18px; line-height:1.4;">Travellers intending to travel to Singapore by air should utilise the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>. <b>VTP (Land) and VTP (Air) approvals are not interchangeable.</b></li>
@@ -160,7 +159,7 @@ input:checked + label + .content {
 <label for="title3">Criterion 3: Hold an Accepted Proof of Vaccination</label>
 
 <div style="background-color:#edf4fa;" class="content" id="criteria">	
-	<p style="line-height:1.4; font-size:18px;">Travellers must obtain a digitally verifiable vaccination certificate for application, pre-departure checks and immigration clearance. Please refer to <a target="_blank" href="/vtl/faq">this guide</a> for acceptable proof of vaccination.</p>
+	<p style="line-height:1.4; font-size:18px;">Travellers must obtain a digitally verifiable vaccination certificate for application, pre-departure checks and immigration clearance. Please refer to <a target="_blank" href="/vtl/faq#vaxcert">this guide</a> for acceptable proof of vaccination.</p>
 </div>
 	
 <input id="title4" type="checkbox">
@@ -336,14 +335,14 @@ Fully vaccinated and recently recovered travellers may qualify for exemption fro
 <span style="font-size:18px;">Click <a href="/vtl-land/faq" target="_blank">here</a> for the full list of FAQs, or the links below for specific info on the following topics:</span>
 
 <ol style="font-size:18px; list-style-type:disc;">
-	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#digitalcerts" target="_blank">Recognised Vaccination Certificates for VTL</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#Application" target="_blank">VTP Application Technical Difficulties</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#vaxcert" target="_blank">Recognised Vaccination Certificates for VTL</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#invalidcode" target="_blank">VTP Application Technical Difficulties</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/health/vtsg" target="_blank">Definition of Fully Vaccinated</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#travel-history" target="_blank">Travel History</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#PDT" target="_blank">Pre-departure test for travel to Singapore</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#OAT" target="_blank">On-arrival Test</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#postarrivaltests" target="_blank">Post-Arrival COVID-19 ARTs</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a href="/vtl-land/faq#DesignatedBus" target="_blank">Bus Services</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#THReq" target="_blank">Travel History</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#PDT" target="_blank">Pre-departure test for travel to Singapore</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#OAT" target="_blank">On-arrival Test</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#postarrivaltests" target="_blank">Post-Arrival COVID-19 ARTs</a></li>
+	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#vtltransport" target="_blank">Bus Services</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/files/VTL-Land-4.PNG" target="_blank">Useful weblinks</a></li>
 </ol>
 
