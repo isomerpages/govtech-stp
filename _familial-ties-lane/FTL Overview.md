@@ -3,7 +3,6 @@ title: FTL Overview
 permalink: /scpr-familial-ties-lane/overview
 description: Overview of the Familial Ties Lane
 ---
-
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers with familial roots or obligations in Singapore may enter Singapore under the Familial Ties Lane (FTL). Prevailing health protocols including quarantine (“Stay Home Notice”) may apply for those entering under this lane if their recent travel history includes non-Category (I) countries/regions</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> to enjoy quarantine-free measures.</p>
@@ -196,7 +195,7 @@ input:checked + label + .content {
 
 <ol style="margin-top:15px;">
 	<li style="line-height:1.5;"><a href="/travel-checklist/category-1">Category (I) travel history checklist </a></li>
-	<li style="line-height:1.5; margin-top:10px;"><a href="/travel-checklist/category-2">Category (II/III) travel history checklist  </a></li>
+	<li style="line-height:1.5; margin-top:10px;"><a href="/travel-checklist/category-2-3-4">Category (II/III/IV) travel history checklist  </a></li>
 </ol>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><b>Travel checklists for travellers arriving before 21 Feb 2359h SGT:</b></p>
