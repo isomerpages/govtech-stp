@@ -95,17 +95,18 @@ To cancel and request for a refund of your booking:
 
 Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
 
-#### 5. Can ATP holders choose to undergo the on-arrival COVID-19 PCR test in clinics or hospitals in Singapore?
+#### 3. Can VTL(Air) travellers choose to undergo the on-arrival COVID-19 PCR test in clinics or hospitals in Singapore?
 
-No, ATP holders are required to undergo the on-arrival COVID-19 PCR test at the airport. A testing facility has been set up within the airport with a safe management process in place to enable travellers to undergo the test as smoothly and quickly as possible after disembarkation from their flight and arrival immigration clearance.
+No, VTL (Air) travellers are required to undergo the on-arrival COVID-19 PCR test at the airport. A testing facility has been set up within the airport with a safe management process in place to enable travellers to undergo the test as smoothly and quickly as possible after disembarkation from their flight and arrival immigration clearance.
 
-#### 6. What happens if travellers refuse to undergo the on-arrival COVID-19 PCR test at the airport?
-
-Among other measures which may be taken. if travellers refuse to undergo the on-arrival COVID-19 PCR test, they may have their ATP cancelled and be refused entry into Singapore. In such an event, travellers may also be liable for all cost incurred for their repatriation, including custody and maintenance pending repatriation.
-
-#### 7. What should travellers do if they do not receive their on-arrival COVID-19 PCR test results after 24 hours?
+#### 4. What should travellers do if they do not receive their on-arrival COVID-19 PCR test results after 24 hours?
 
 Please email <a href="mailto:airborder@rafflesmedical.com" target="_blank">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
+
+#### 5. What should travellers do if their flight/bus/ferry arrives earlier than their hotel check-in time and are unable to self-isolate?
+
+Travellers must proceed immediately to their place of accommodation for self-isolation. They are <u>not allowed</u> to stay in the airport/bus/ferry terminal or wait in the hotel lobby prior to check-in. They should seek their hotel’s assistance to arrange for early check-in. If this is not possible, they can cancel or modify their reservation and arrange a booking at another hotel for self-isolation.
+
 
 ---
 
