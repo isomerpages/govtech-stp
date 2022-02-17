@@ -62,7 +62,7 @@ Please check the <a href="/transit/overview" target="_blank">Transiting through 
  
 ### (e) On-Arrival COVID-19 PCR Test at the Airport and Self-Isolation
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year are not required to undergo an on-arrival COVID-19 PCR test. Fully vaccinated recovered travellers entering Singapore may qualify for exemption from the on-arrival COVID-19 PCR test. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</i></p>
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo an on-arrival COVID-19 test. Fully vaccinated recently-recovered travellers may qualify for exemption from the on-arrival COVID-19 test. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</i></p>
 
 #### 1. Where is the on-arrival COVID-19 PCR test conducted?
 
