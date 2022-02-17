@@ -37,10 +37,14 @@ description: ""
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vtltransport">On-Arrival COVID-19 Test and Self-Isolation</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">Designated VTL Transport</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#postarrivaltests">Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#AdditionalReq">Additional Requirements for Short-Term Visitors:</a>
+<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vtlseareq">Additional Requirements for VTL (Sea)</a></li>
 </ol>
-
-
-
+</li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#TT">Contact Tracing – TraceTogether</a></li>
+</ol>
 
 
 
