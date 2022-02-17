@@ -2,5 +2,5 @@ collections:
   travel-checklist-test:
     output: true
     order:
-      - Travel Checklist Category(II).md
       - Travel Checklist Category(I).md
+      - Travel Checklist Category(II).md
