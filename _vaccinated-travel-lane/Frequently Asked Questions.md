@@ -34,7 +34,9 @@ description: ""
 </li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (VTP)</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Test</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vtltransport">Designated VTL Transport</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vtltransport">On-Arrival COVID-19 Test and Self-Isolation</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">Designated VTL Transport</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#postarrivaltests">Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</a></li>
 </ol>
 
 
