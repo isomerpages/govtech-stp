@@ -938,7 +938,7 @@ Having a VTP does not guarantee travellers a ticket on a designated VTL (Air) fl
 
 #### 2. I have a VTP and I meet all the requirements under the VTL, except that I only managed to book a non-VTL transport service. Will I still be allowed to enter Singapore under quarantine-free VTL terms?
 
-As required under the VTL (Air) <a href="/vtl/conditions" target="_blank">Conditions</a>/ VTL (Land) <a href="/vtl-land/conditions" target="_blank">Conditions</a>/ VTL (Sea) <a href="/vtl-sea/conditions" target="_blank">Conditions</a>,  a VTP holder must arrive in Singapore on a designated VTL transport in order to be eligible for quarantine-free VTL measures. They should approach the transport operator for assistance to rebook a ticket on a designated VTL flight/bus/ferry if possible.
+As required under the <a href="/vtl/conditions" target="_blank">VTL (Air) Conditions</a>/ <a href="/vtl-land/conditions" target="_blank">VTL (Land) Conditions</a>/  <a href="/vtl-sea/conditions" target="_blank">VTL (Sea) Conditions</a>,  a VTP holder must arrive in Singapore on a designated VTL transport in order to be eligible for quarantine-free VTL measures. They should approach the transport operator for assistance to rebook a ticket on a designated VTL flight/bus/ferry if possible.
 
 Travellers who are not Singapore Citizens or Permanent Residents may be turned away by the transport providers if they do not meet the necessary entry requirements to Singapore for non-VTL lanes (e.g. vaccination requirements under Work Pass Holder Lane). Please check the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> for non-VTL lanes that fit your profile, and read the entry requirements of the non-VTL lanes.
 
