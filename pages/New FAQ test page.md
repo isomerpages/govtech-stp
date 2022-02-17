@@ -217,29 +217,31 @@ The results should be visible within 15 minutes and should be reflected as follo
 
 <div id="AdditionalReq"></div> 
 
-### (g) Additional Requirements for Short-Term Visitors
+### 8) Additional Requirements for Short-Term Visitors
+### (a) Mandatory COVID-19 Travel Insurance Coverage
 
-### (i) Visa Application
+#### 1. Do visitors need to show proof of travel insurance purchase when they apply for the VTP?
 
-<div id="visa"></div>
+Visitors will have to declare, at the point of VTP application, that they will purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
 
-#### 1. Do visitors with a valid VTP (Air) need to apply separately for a visa to enter Singapore?
+#### 2. What penalties will be imposed on the visitor if he/she did not buy the insurance prior to entering Singapore?
 
-Visitors, who require a visa to enter Singapore, must separately obtain a visa. They are advised to do so after receiving their VTP (Air) approval and before departing for Singapore.
+Purchase of travel insurance is a condition of the VTL. Non-compliance with any of the conditions of the VTL may result in refusal of entry into Singapore and/or cancellation of the VTP and/or Visit Pass. In such an event, the VTP holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
-If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to apply for a visa.
 
-Visitors may refer to ICA’s website <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for information on visa requirements and application.
+### (b) Additional Requirements for VTL (Sea)
 
-#### 2. How long can visitors stay in Singapore?
+#### 1. What hotels are approved for stay for short-term VTL (Sea) travellers?
 
-Visitors who are granted entry into Singapore will be issued with a visit pass by the Singapore Immigration &amp; Checkpoints Authority (ICA) at the immigration checkpoints. The duration of stay in Singapore will be generally aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
+Please refer to the Singapore Tourism Board’s (STB) list of approved hotels.
 
-Please note that the VTP (Air) is <u><b>not</b></u> an immigration visit pass. It only allows visitors to travel to and seek entry into Singapore within a specified period.
+#### 2. Why are short-term VTL (Sea) travellers not allowed to stay with their friends or relatives in Singapore?
 
-#### 3. Are visitors able to extend their duration of stay in Singapore?
+The requirements for short-term VTL (Sea) travellers to Singapore are similar to Indonesia’s requirements for the travel bubble into Nongsa Sensation area in Batam and Bintan Lagoi Resort. 
 
-All applications for extension of visit pass must be submitted online using ICA’s e-service <a href="https://eservices.ica.gov.sg/esvclandingpage/extend">here</a> at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is no guarantee that an extension will be granted.
+#### 3. Why is a return ferry ticket necessary for short-term VTL (Sea) travellers?
+
+The requirements for short-term VTL (Sea) travellers to Singapore are similar to Indonesia’s requirements for the travel bubble into Nongsa Sensation area in Batam and Bintan Lagoi Resort.
 
 
 ---
@@ -251,23 +253,7 @@ All applications for extension of visit pass must be submitted online using ICA�
 <div id="insurance"></div>
 
 
-### (ii) Mandatory COVID-19 Travel Insurance Coverage
 
-#### 1. Why is there a need for visitors to purchase COVID-19 travel insurance?
-
-This is to ensure that short-term visitors will be able to bear the full cost of medical treatment, tests and isolation imposed on them for public health reasons, should they be suspected of being infected with COVID-19, or require medical treatment for COVID-19 while in Singapore. Those who test positive for COVID-19 typically receive care in private hospitals.
-
-#### 2. What is the minimum coverage for COVID-19 travel insurance?
-
-Visitors must purchase travel insurance for the entire duration of their stay in Singapore, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. Should their COVID-19 treatment cost go beyond S$30,000, visitors will have to pay for the excess.
-
-#### 3. Do visitors need to show proof of travel insurance purchase when they apply for the VTP (Air)?
-
-Visitors will have to declare, at the point of VTP (Air) application, that they will purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
-
-#### 4. What penalties will be imposed on the visitor if he/she did not buy the insurance prior to entering Singapore?
-
-Purchase of travel insurance is a condition of the VTL (Air). Non-compliance with any of the conditions of the VTL (Air) may result in refusal of entry into Singapore and/or cancellation of the VTP (Air) and/or Visit Pass. In such an event, the VTP (Air) holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
 ---
 
