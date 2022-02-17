@@ -177,7 +177,7 @@ Please email <a href="mailto:testingops@hpb.gov.sg" target="_blank">testingops@h
  <div id="postarrivaltests"></div>
  
 
-### (f) Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)
+### 7) Post-Arrival Regular COVID-19 Antigen Rapid Tests (ARTs) (only for travellers arriving before 21 Feb 2022, 2359h)
 
 <p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Those who enter Singapore before 21 Feb 2022, 2359h, are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7.</span></i></p> 
 <p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo post-arrival ARTs. Fully vaccinated recently-recovered travellers entering Singapore may qualify for exemption from the post-arrival COVID-19 ARTs. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</span></i></p>
@@ -189,33 +189,11 @@ Travellers who test positive on the unsupervised self-administered ARTs will no 
 
 For more information on what to do if you feel unwell while in Singapore, please refer to <a href="https://www.covid.gov.sg/travellers" target="_blank"> this link</a>.
 
-
-#### 3. Are travellers who are issued with a Health Risk Warning (HRW) still required to comply with the VTL (Air) post-arrival testing regime?
-
-VTL (Air) travellers issued a HRW after being identified as a close contact of a COVID-19 case are still required to comply with the post-arrival ART testing requirements, in addition to the requirements of the HRW.  Their self-administered and self-declared ARTs results may also be used to fulfil any HRW testing requirements, and they are required to upload their ARTs results on both the website for the submission of unsupervised self-administered ART results (specified in the Legal Notice issued upon arrival), as well as the website specified in the HRW.
-
-
-#### 4. Do travellers need to undergo post-arrival ARTs if they will be going onboard a "Cruise to Nowhere"?
-
-Travellers are require to comply with the conditions of the VTL (Air), including undergoing post-arrival ARTs on the scheduled dates. They should postpone their plans such that they can comply with the testing regime.
-
-
-
-### UNSUPERVISED ARTS
-
-#### 5. Where can travellers obtain ART self-test kits?
+#### 2. Where can travellers obtain ART self-test kits?
 
 Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along a maximum of 20 <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> per individual from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmacy, retailer or e-commerce platform. ART kits will not be provided upon arrival. 
 
 If travellers are serving their self-isolation pending their on-arrival COVID-19 PCR test results, they may obtain ART kits via applications such as Grab and foodpanda which offer 24/7 delivery. Those residing in hotels can also seek their hotel concierge’s assistance to help them obtain ART kits. They should not leave their place of accommodation to purchase ART kits prior to receiving their negative PCR test results on Day 1. They may only leave their place of accommodation after self-administering their ART.
-
-#### 6. Are there specific ART kits that travellers may use for self-testing?
-
-Travellers are advised to only purchase and use <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">COVID-19 self-test kits authorised for use in Singapore</a> by the Health Sciences Authority (HSA). As these tests are meant to be used by consumers, no doctor’s prescription is required for their purchase.
-
-#### 7. How much does an ART kit cost?
-
-ART kits typically cost less than S$15 and can be obtained from any local clinic, pharmacy, retailer or e-commerce platform.
 
 #### 8. How do travellers self-administer an ART?
 
@@ -227,17 +205,6 @@ Travellers may also refer to <a href="https://www.covid.gov.sg/exposed/no-hrw" t
 - <a href="https://go.gov.sg/bca-self-art-chi" target="_blank">Chinese</a>
 - <a href="https://go.gov.sg/bca-self-art-mal" target="_blank">Malay</a>
 - <a href="https://go.gov.sg/bca-self-art-tam" target="_blank">Tamil</a>
-
-
-#### 9. Are there any age restrictions on the use of ART kits?
-
-Children under the age of 2 are not required to perform ARTs. Generally, those below 12 years old will require an adult’s assistance to administer the ART self-test.
-
-#### 9. What time do travellers need to perform their ART?
-
-Travellers are required to self-administer their ART before leaving their place of accommodation.
-
-#### 10. How long will it take to obtain the results of the self-administered ART?
 
 The results should be visible within 15 minutes and should be reflected as follows. If it appears as invalid, please repeat the test and submit a valid (i.e. positive or negative) test result via the webform.
 <img src="/images/ARTresults.png" width="820" height="222">
