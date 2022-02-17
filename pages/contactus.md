@@ -27,8 +27,6 @@ You can find the following forms of commonly requested support on this page:
 
 ### 1) Latest Travel Notices and Answers to Top FAQ
 
-<p style="line-height:1.35;"> If you have already applied for entry into Singapore under any of the following lanes, you should check your application status using the links below.</p>
-
 <table>
 <thead>
   <tr>
