@@ -6,7 +6,15 @@ layout: post
 description: ""
 published: false
 ---
-<!-- to combine w Consolidated VTL FAQ Sections 1 to 3-->
+4.	<a href="#PDT">Pre-Departure COVID-19 Test</a>
+5.	<a href="#vtltransport">Designated VTL Transport</a>
+6.	<a href="#OAT">On-Arrival COVID-19 Test  and Self-Isolation</a>
+7.	<a href="#postarrivaltests">Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</a>
+8.	<a href="#AdditionalReq">Additional Requirements for Short-Term Visitors</a>:
+a.	<a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a>
+b.	<a href="#vtlseareq">Additional Requirements for VTL (Sea)</a>
+9.	<a href="#TT">Contact Tracing – TraceTogether</a>
+
 
 <div id="PDT"></div>
 
@@ -43,7 +51,7 @@ The OAT must be a COVID-19 Polymerase Chain Reaction test (PCR test) at an inter
 ---
 
 
-<div id="Flight"></div>
+<div id="vtltransport"></div>
 
  
 ### 5) Designated VTL Transport
@@ -253,6 +261,9 @@ The results should be visible within 15 minutes and should be reflected as follo
 <div id="AdditionalReq"></div> 
 
 ### 8) Additional Requirements for Short-Term Visitors
+
+<div id="insurance"></div> 
+
 ### (a) Mandatory COVID-19 Travel Insurance Coverage
 
 #### 1. Do visitors need to show proof of travel insurance purchase when they apply for the VTP?
@@ -263,6 +274,7 @@ Visitors will have to declare, at the point of VTP application, that they will p
 
 Purchase of travel insurance is a condition of the VTL. Non-compliance with any of the conditions of the VTL may result in refusal of entry into Singapore and/or cancellation of the VTP and/or Visit Pass. In such an event, the VTP holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
+<div id="vtlseareq"></div>
 
 ### (b) Additional Requirements for VTL (Sea)
 
