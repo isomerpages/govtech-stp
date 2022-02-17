@@ -1,5 +1,0 @@
-collections:
-  hong-kong:
-    output: true
-    order:
-      - notice.md
