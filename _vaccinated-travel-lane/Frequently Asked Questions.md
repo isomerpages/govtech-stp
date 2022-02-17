@@ -164,7 +164,7 @@ Nonetheless, individuals aged 12 years and older are recommended to receive a bo
 
 <div id="QRcode"></div>
 
-#### 1. What are the accepted proof of vaccination and which can I upload onto the VTP portal?
+#### 1. What is considered accepted proof of vaccination and which can I upload onto the VTP portal?
 
 <p style="line-height:1.5; margin-top:15px;  font-size:20px; color:red;"><b><u>For Singapore Citizens and Permanent Residents</u></b></p>
 
