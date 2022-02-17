@@ -34,6 +34,8 @@ description: ""
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vaxcert">Digitally Verifiable Vaccination Certificate and QR Code Issues</a></li>
 	</ol>
 	</li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#THReq">Travel History Requirement</li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (VTP)</a></li> 
 </ol>
 
 <div id="VTLReq"></div>
@@ -655,7 +657,7 @@ Switzerland</td>
 <div id="invalidcode"></div>
 
 
-#### 4. Why was/were my vaccination QR code(s) not accepted in my VTP (Air) application?
+#### 4. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
 Please attempt re-uploading your QR code, and ensure that:
 
@@ -789,57 +791,21 @@ We are currently working on accepting digitally verifiable vaccination certifica
 
 <div id="THReq"></div>
 
-### (b) Travel History Requirement
+### (2) Travel History Requirement
 
-#### 1. How is the 14-day travel history determined?
+<i style="color:red;">Note: Assessed travel history will be reduced from 14 days to 7 days for travellers entering Singapore from 21 Feb 2022, 2359h.</i>
 
-If the scheduled day of departure of the traveller's fight to Singapore is D (e.g. 19 October 2021), the traveller must have only travelled to or transited via one or more of the [VTL (Air) countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore from D-14 to D (i.e. 5 to 19 October 2021, if D is 19 October 2021). 
+#### 1. How is the 14-day (for arrivals before 21 Feb 2022, 2359 hours) or 7-day (for arrivals from 21 Feb 2022, 2359 hours) travel history determined?
 
-#### 2. Do I need to remain in a [VTL (Air) country/region](/vtl/requirements-and-process#countries) for 14 consecutive days before travelling to Singapore?
+If the traveller’s scheduled day of departure for Singapore is D (e.g. 15 February 2022), the traveller must have only travelled to or transited via one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore from D-14 to D (i.e. 1 to 15 February 2022, if D is 15 February 2022).
 
-No, your travel history within the past 14 consecutive days before departure for Singapore may consist of one or more of the VTL (Air) countries/regions, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. For example, your travel history may include 4 days in Hong Kong, 3 days in Canada and 7 days in the United States. 
+#### 2. I am travelling from Singapore to a [VTL country/region](/vtl/requirements-and-process#countries) and will be back in less than 14 consecutive days (for arrivals before 21 Feb 2022, 2359 hours) or 7 consecutive days (for arrivals from 21 Feb 2022, 2359 hours). Will I be eligible to return to Singapore on the VTL?
 
-#### 3. I am travelling from Singapore to a [VTL (Air) country/region](/vtl/requirements-and-process#countries) and will be back in less than 14 days. Will i be eligible to return to Singapore on the VTL (Air)?
+Yes, you will be eligible for the VTL so long as your travel history within the <b>past 14 consecutive days (for arrivals before 21 Feb 2022, 2359 hours) or 7 consecutive days (for arrivals from 21 Feb 2022, 2359 hours)</b> before departure for Singapore only consists of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. For example, your 14-day (for arrivals before 21 Feb 2022, 2359 hours) or 7-day (for arrivals from 21 Feb 2022, 2359 hours)travel history may include 5 days in Singapore, 5 days in the United Kingdom, and 4 days in Germany.
 
-Yes, you will be eligible for the VTL (Air) so long as your travel history within the past 14 consecutive days before departure for Singapore only consists of one or more of the VTL (Air) countries/regions, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. For example, your 14-day travel history may include 5 days in Singapore, 5 days in the United Kingdom, and 4 days in Germany.
+#### 3.  I intend to arrive in Singapore on a designated VTL (Air) flight and have an acceptable proof of vaccination, but I have travel history to or will transit via a non-VTL (Air) or non-Category I country/region prior to that flight. Will I be eligible for the VTL?
 
-#### 4. I am currently in a non-VTL (Air) and non-Category I country/region but will be travelling to [VTL (Air) countries/regions](/vtl/requirements-and-process#countries). Will I be eligible for the VTL (Air)?
-
-You may be eligible for the VTL (Air) if your travel and transit history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL (Air) countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. 
-
-However, if you were in a non-VTL (Air) and non-Category I country/region at any point within the past 14 days, you will not be eligible for the VTL (Air).
-
-#### 5. I am only travelling to [VTL (Air) countries/regions](/vtl/requirements-and-process#countries), but will transit via a non-VTL (Air) and non-Category I country/region in my departing flight from Singapore. Will I be eligible to return to Singapore on the VTL (Air)?
-
-No, you will not be eligible for the VTL (Air). However:
-- [Singapore Citizens](/sc-pr/overview)
-- [Permanent Residents](/sc-pr/overview), and
-- Long-Term Pass holders who have received entry approval via the [Work Pass Holder General Lane](/wphl/overview), [Student’s Pass Holder Lane](/stpl/overview), or [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/overview)
-may still travel to Singapore on a non-designated flight. They will be subject to the prevailing [Stay-Home Notice (SHN)](/health/shn) and COVID-19 test requirements upon entry into Singapore.
-
-#### 6. I intend to arrive in Singapore on a designated VTL (Air) flight, but will transit via a non-VTL (Air) and non-Category I country/region prior to that flight. Will I be eligible for the VTL (Air)?
-
-No, you will not be eligible for the VTL (Air). 
-However:
-- [Singapore Citizens](/sc-pr/overview)
-- [Permanent Residents](/sc-pr/overview), and
-- Long-Term Pass holders who have received entry approval via the [Work Pass Holder General Lane](/wphl/overview), [Student’s Pass Holder Lane](/stpl/overview), or [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/overview)
-may still travel to Singapore on a non-designated flight. They will be subject to the prevailing [Stay-Home Notice (SHN)](/health/shn) and COVID-19 test requirements upon entry into Singapore.
-
-#### 7. I intend to transit via a Category I country/region immediately before arriving in Singapore. Will I be eligible for the VTL (Air)?
-
-At this point in time, there are no designated VTL (Air) flights operating from Category I countries/regions to Singapore. You will not be eligible for the VTL (Air) as you do not fulfill the requirement to arrive in Singapore on a designated VTL (Air) flight.
-
-#### 8. I have an EU Digital COVID Cetificate (EU DCC) issued in a non-VTL (Air) country/region. Can I have travel history to non-VTL(Air) and non-Category I countries/regions?
-
-No, travellers may not have travel history to non-VTL (Air) country/region and non-Category I countries/regions.
-
-Travellers withe EU DCCs issued in any European Union Member States or non-EU countries that have joined the EU DCC system may seek entry into Singapore under the VTL (Air). However, they must continue to fulfil all VTL (Air) conditions. This includes:
-<ol style="list-style-type:lower-latin;">
-<li>having only travelled to or transited via one or more of the VTL (Air) countries/regions, Category I countries/regions and/or Singapore, in the last 14 consecutive days prior to departure for Singapore, and;</li>
-<li>arriving in Singapore on a designated VTL (Air) flight from any of the VTL countries/regions.</li>
-</ol>
-
+No, you will not be eligible for the VTL. Return to the Travelling to Singapore page to find alternative SafeTravel Lanes.
 
 ---
 
@@ -847,7 +813,90 @@ Travellers withe EU DCCs issued in any European Union Member States or non-EU co
 
 ---
 
+<div id="application"></div>
 
+### 3)	Application for the Vaccinated Travel Pass
+
+<i style="color:red;">Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) are not required to apply for a VTP (Air)/VTP (Land)/VTP (Sea). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL (Air)</a> conditions/<a href="/vtl-land/conditions" target="_blank">VTL (Land)</a>/<a href="/vtl-sea/conditions" target="_blank">VTL (Sea)</a>. Long-Term Pass holders (excluding Work Permit holders) who are entering Singapore from 21 Feb 2022, 2359h, are no longer required to apply for a VTP.</i>
+
+
+#### 1. How long will it take for a VTP application to be processed?
+
+All travellers who successfully submit their application will be issued with a VTP  immediately.
+
+#### 2. Is there a fee to apply for a VTP?
+
+No, there is no fee payable for the application of a VTP.
+
+#### 3. Do travellers travelling with family members need to apply a VTP for every individual?
+
+Yes, each traveller will require a VTP.
+
+#### 4. Is there a limit to the number of times travellers can apply for a VTP?
+
+There is no limit to the number of times travellers can apply for a VTP. Every entry into Singapore requires a new VTP application.
+
+#### 5. I have an In-Principle Approval (IPA) for a Long-Term Pass. Do I need to apply for the VTP (Air)/VTP (Land)/VTP (Sea)?
+
+<b><i>Note: Long-Term Pass In-Principle Approval holders (excluding Work Permit holders) who are entering Singapore from 21 Feb 2022, 2359h, are no longer required to apply for a VTP.</i></b>
+
+Travellers with IPA for Long-Term Passes issued by the Ministry of Education (MOE) or the Immigration & Checkpoints Authority (ICA) should submit their VTP application under the ‘Short-Term Visitor’ traveller type. They will need to comply with all the VTL (Air) conditions/VTL (Land) conditions/VTL (Sea) conditions that apply to short-term visitors.
+
+Those with IPA for Long-Term Passes or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM) should submit their VTP (Air)/VTP (Land)/VTP (Sea) application under the ‘Singapore Long-Term Pass Holder’ traveller type.
+
+#### 6. I have an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass). Am I allowed to travel under the VTL (Land)?
+
+IPA holders are not eligible to utilise the VTL (Land) for travel to Singapore, unless they are Malaysia Citizens. However, they may still travel to Singapore with necessary approvals under the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a> and will be subject to the prevailing border measures upon entry into Singapore, including any Stay-Home Notice (SHN) and COVID-19 test requirements.
+
+#### 7. I am a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land). Can my spouse, child or family member who is not a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass accompany me to enter Singapore under the VTL (Land)?
+
+Your family member can accompany you to enter Singapore under the VTL (Land), only if he or she is a Malaysia Citizen.
+
+Otherwise, your family member will not be allowed to accompany you. During the initial phase of the VTL (Land), only citizens of both countries, along with permanent residents and long-term pass holders of the country that they are entering are eligible to travel under this arrangement. Given the high demand for cross-border land travel, we are prioritising persons who have been impacted by COVID-19 and separated from their families for many months during the initial phase.
+
+#### 8. If I am a Malaysia Citizen, Malaysia Permanent Resident or holder of a Malaysia Long-Term Pass entering Malaysia using the VTL (Land), can I use the VTL (Land) to re-enter to Singapore?
+
+Malaysia Citizens can enter Singapore under VTL (Land).
+
+Malaysia Permanent Residents or holders of a Malaysia-issued long-term pass are not allowed to enter Singapore under VTL (land) unless they are a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term pass.
+
+#### 9. Why did I face errors while applying for a VTP?
+
+A VTP application may be unsuccessful for reasons such as:
+- <a href="/vtl/faq#invalidcode" target="_blank">Invalid vaccination QR code</a>
+- Incomplete and/or incorrect information submitted
+- Passport validity is less than 6 months
+
+#### 10. How do I change the validity of my VTP?
+
+A VTP is valid for single entry into Singapore anytime from your intended date of entry and up to 13 calendar days after. If your travel plans change and you need to enter before or after the validity period, please submit a new VTP application.
+
+<b>Should you require assistance to seek urgent entry into Singapore within the next 2 days, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> or call the SafeTravel Enquiries helpline at 6812 5555. Kindly note that all appeals are assessed on a case-by-case basis.</b>
+
+#### 11. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
+
+If your particulars have changed, please write to the Safe Travel Office using the enquiry form here with your revised particulars.
+
+#### 12. How can I change my passport number on my VTP?
+
+You will not be able to change the passport number on an existing VTP. Please submit a new application with the correct details reflected. Do note that travellers with an inaccurate passport number on their VTP may be denied boarding and entry into Singapore.
+
+If your intended date of entry is no longer available on the VTP application portal, please adjust your travel plans. You will not be allowed to board the designated VTL transport if you are unable to present a valid VTP.
+
+#### 13. How can I cancel my VTP as I no longer wish to travel to Singapore?
+
+You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, it will automatically expire.
+
+#### 14. Can travellers use the VTP (Air) to transit/transfer through Singapore?
+
+No, the VTP (Air) is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. 
+Please refer to the Transiting through Singapore page for more details.
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
 
 
 <div id="PDT"></div>
