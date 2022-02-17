@@ -19,114 +19,38 @@ permalink: /sc-pr/overview
 
 ### 1) Eligibility
 
-<html>
-
-<head>
-<meta charset="utf-8">
-<title>Test Accordion</title>
-
-<style>
-
-input {
-    display: none;
-}
-
-label {
-    display: block;    
-    padding: 10px 30px;
-    margin: 0 0 1px 0;
-    cursor: pointer;
-    background: #153855;
-    border-radius: 3px;
-    color: #FFF;
-    transition: ease .5s;
-	position: relative;
-}
-
-label:hover {
-    background: #346f9e;
-}
-
-label::after {
-	font-family: "Font Awesome 5 Free";
-	content: '\271A';
-	font-weight: bold;
-	font-size: 22px;
-	position: absolute;
-	right: 10px;
-	top: 6px;
-}
-
-input:checked + label::after {
-	content: '\2716';
-}
-
-.content {
-    background: #FFFFFF;
-    padding: 10px 25px;
-    margin: 0 0 1px 0;
-    border-radius: 3px;
-}
-
-input + label + .content {
-    display: none;
-}
-	
-input + label + #scpr {
-    display: block;
-}
-	
-input:checked + label + #scpr {
-    display: none;
-}
-	
-input + label + #ltph {
-    display: block;
-}
-	
-input:checked + label + #ltph {
-    display: none;
-}	
-
-input:checked + label + .content {
-    display: block;
-}
-	
-.test2::after {
-	font-family: "Font Awesome 5 Free";
-	content: '\2716';
-	font-weight: bold;
-	font-size: 22px;
-	position: absolute;
-	right: 10px;
-	top: 6px;
-}
-
-.test1:checked + label::after {
-	content: '\271A';
-}
-
-	
-</style>
-</head>
-<body>
-<input class="test1" type="checkbox" id="title6" />
-<label class="test2" for="title6">Eligible travellers </label>
-
-<div id="scpr" class="content" style="background-color:#edf4fa;">	
-	<p style="line-height:1.5; font-size:18px; ">Singapore Citizens and Singapore Permanent Residents only</p>
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Eligible travellers</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
+<p style="line-height:1.5; font-size:18px; ">Singapore Citizens and Singapore Permanent Residents only</p>
 		<p style="line-height:1.5; font-size:18px; margin-top:20px; ">PR In-Principle Approval holders will seek entry via the <a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a>. If you are ineligible, identify an alternative entry option by returning to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.</p>
-	</div>
+		</td>
+	</tr>
+	</tbody>
+	</table>
 	
-<input class="test1" type="checkbox" id="title7"/>
-<label class="test2" for="title7">Vaccination requirement </label>
-
-<div id="ltph" class="content" style="background-color:#edf4fa;">
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Mandatory Vaccination Requirement</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
 	<p style="line-height:1.5; font-size:18px; "><b>None</b>.</p>
 	<p style="line-height:1.5; margin-top:20px; font-size:18px; ">However, to qualify for <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated safe management measures</a>, travellers vaccinated overseas should have their overseas vaccination records registered into Singapore’s Immunisation Registry (NIR). Details in travel checklists.</p>
-	</div>
-</body>
-</html>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+	
 
 ---
 
