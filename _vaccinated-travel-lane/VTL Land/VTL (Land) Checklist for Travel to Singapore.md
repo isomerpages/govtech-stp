@@ -4,9 +4,6 @@ permalink: /vtl-land/travel-checklist
 description: ""
 third_nav_title: VTL Land
 ---
-
-
-
 ### VTL Land Travel Checklist 
 
 
@@ -108,11 +105,11 @@ label.box {
 		<ol style="padding:0px 10px 0px 10px; font-size:18px;">
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Singapore</b>: Singapore Vaccination HealthCerts issued via the <a target="_blank" href="https://www.notarise.gov.sg/">Notarise portal</a> with a QR code, or Proof of vaccination on the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether</a> or <a target="_blank" href="https://www.healthhub.sg/">HealthHub app</a></li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Malaysia</b>: Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a target="_blank" href="https://mysejahtera.malaysia.gov.my/intro_en/">MySejahtera app</a></li>
-						<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Other countries/regions</b>: Please refer to <a target="_blank" href="/vtl-land/faq#digitalcertsQ2">this guide</a> for acceptable proof of vaccination. </li>
+						<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Other countries/regions</b>: Please refer to <a target="_blank" href="/vtl/faq#vaxcert">this guide</a> for acceptable proof of vaccination. </li>
 		</ol>
 <p style="padding-left:5px; font-size:18px; margin-bottom:0px; line-height:1.35;">Travellers vaccinated overseas are advised to refer to <a target="_blank" href="/vtl/faq#verify">this guide</a> to verify if your vaccination certificate is accepted in Singapore.</p>
 
-<p style="padding-left:5px;font-size:18px; margin-bottom: 10px; line-height:1.35;">❓ &nbsp;<b>Frequently asked questions regarding vaccination proof can be found <a target="_blank" href="/vtl-land/faq#requirements">here</a>.</b></p>
+<p style="padding-left:5px;font-size:18px; margin-bottom: 10px; line-height:1.35;">❓ &nbsp;<b>Frequently asked questions regarding vaccination proof can be found <a target="_blank" href="/vtl/faq#vaxcert">here</a>.</b></p>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1B">&nbsp;&nbsp;<b>(1B) Secure Tickets for a Designated VTL (Land) Bus Service</b></label></div>
