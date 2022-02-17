@@ -132,8 +132,8 @@ input:checked + label + .content {
 		</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a <b>designated VTL (Sea) ferry</b> operated by the following regional ferry service operators:
 <ol style="padding-left:20px; margin-top:10px; list-style-type: disc;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;">BatamFast</li>
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;">Bintan Resort Ferries</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;"><a href="https://www.batamfast.com/home/index.ashx" target="_blank">BatamFast</a></li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;"><a href="https://www.brf.com.sg/" target="_blank">Bintan Resort Ferries</a></li>
 			</ol>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers should note that <b><u>not all ferries departing from the VTL (Sea) countries/regions and operated by the approved regional ferry service operators are VTL (Sea) Ferries</u></b>. They are strongly encouraged to consult the regional ferry service operators to confirm the designated VTL (Sea) ferries.</p></li>
 	</ol>
