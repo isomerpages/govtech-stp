@@ -2,12 +2,11 @@
 title: Travel Checklist - Category(II)
 permalink: /travel-checklist/category-2
 ---
-
 ### Instructions for the use of the Category (II) Travel History Checklist
 
-<p style="font-size:18px; line-height:1.35;">This checklist is for individuals entering Singapore <b>before 21 Feb 2022, 2359h</b> via the Returning Singapore Citizens/Permanent Residents Lane or have obtained an Entry Approval issued under the Familial Ties Lane, or Student’s Pass Holder Lane. Travellers must not have not visited <a href="/shn-and-swab-summary" target="_blank">any Category (III) or (IV) countries/regions</a> in the past 14 days or transited in such countries/regions for more than 24 hours, otherwise <a href="/travel-checklist/category-3" target="_blank">Category (III)</a> or <a href="/travel-checklist/category-3" target="_blank">Category IV</a>) measures will apply accordingly. </p>
+<p style="font-size:18px; line-height:1.35;">This checklist is for individuals entering Singapore <b>before 21 Feb 2022, 2359h</b> via the Returning Singapore Citizens/Permanent Residents Lane or have obtained an Entry Approval issued under the Familial Ties Lane, or Student’s Pass Holder Lane. Travellers must not have not visited <a href="/shn-and-swab-summary" target="_blank">any Category (III) or (IV) countries/regions</a> in the past 14 days or transited in such countries/regions for more than 24 hours, otherwise <a href="/travel-checklist/category-3" target="_blank">Category (III)</a> or <a href="/travel-checklist/category-4" target="_blank">Category IV</a>) measures will apply accordingly. </p>
 
-<p style="font-size:18px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span> Travellers arriving <b>from 21 Feb 2022, 2359h</b> via the lanes mentioned above should refer to the <a href="/travel-checklist/" target="_blank">Category (II)/(III)</a> Checklist instead.</p>
+<p style="font-size:18px; line-height:1.35;"><span style="color:red; font-size:28px;">&#9888;&nbsp;</span> Travellers arriving <b>from 21 Feb 2022, 2359h</b> via the lanes mentioned above should refer to the <a href="/travel-checklist/category-2-3-4" target="_blank">Category (II)/(III)/(IV)</a> Checklist instead.</p>
 
 <p style="font-size:18px; margin-top:20px; line-height:1.35;">Travellers may print out this page and indicate with a "☑" in the box (☐) for completed activities.</p>
 

@@ -2,10 +2,9 @@
 title: Overview - Returning SC/PR Lane
 permalink: /sc-pr/overview
 ---
-
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Singapore Citizens (SC) and Permanent Residents (PRs) do not need entry approvals to enter Singapore. All entries by SC/PRs are facilitated under the Returning Singapore Citizen & Permanent Resident Lane. </p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> to enjoy quarantine-free measures.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>, <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> or <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a> to enjoy quarantine-free measures.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">On this page you will find the following information about the Returning SC/PR Lane:</p>
 
@@ -151,7 +150,7 @@ input:checked + label + .content {
 
 <ol style="margin-top:15px;">
 	<li style="line-height:1.5;"><a href="/travel-checklist/category-1">Category (I) travel history checklist </a></li>
-	<li style="line-height:1.5; margin-top:10px;"><a href="/travel-checklist/category-2">Category (II/III) travel history checklist  </a></li>
+	<li style="line-height:1.5; margin-top:10px;"><a href="/travel-checklist/category-2-3-4">Category (II/III/IV) travel history checklist  </a></li>
 </ol>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><b>Travel checklists for travellers arriving before 21 Feb 2359h SGT:</b></p>

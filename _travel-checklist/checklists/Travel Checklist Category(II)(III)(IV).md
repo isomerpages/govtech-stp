@@ -3,7 +3,6 @@ title: Travel Checklist - Category(II)/(III)/(IV)
 permalink: /travel-checklist/category-2-3-4
 description: ""
 ---
-
 <p style="font-size:18px; line-height:1.35;">This checklist is for travellers who:</p>
 
 <ol>
@@ -101,7 +100,7 @@ label.box {
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;">Short term visitors (including family members under the Familial Ties Lane and Student Pass Holder Lane)</li>
 	</ol>	
 	</p>
-<p style=" font-size:18px;line-height:1.35;">Long Term Pass Holders (excluding Work Permit Holders) <b>entering from 21 Feb 2022 2359H</b>, as well as Singapore Citizens and Permanent Residents, <b>do not need to apply or present an entry approval to enter Singapore</b>. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes:
+<p style=" font-size:18px;line-height:1.35;"><a href="/health/vtsg" target="_blank">Fully vaccinated</a> Long Term Pass Holders (excluding Work Permit Holders) <b>entering from 21 Feb 2022 2359H</b>, as well as Singapore Citizens and Permanent Residents, <b>do not need to apply or present an entry approval to enter Singapore</b>. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes:
 <ol>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;"><a href="/sc-pr/overview" target="_blank">Returning Singapore Citizen/Permanent Resident Lane</a></li>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;"><a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a></li>
@@ -210,7 +209,7 @@ label.box {
 </div>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>F) Submission of Health Declaration and Digital Vaccination Certificate</b></i></div>
+<div id="1F" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>F) Submission of Health Declaration and Digital Vaccination Certificate</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px;line-height:1.35;">Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>.</p>
@@ -267,8 +266,6 @@ label.box {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Immigration Clearance and Proof of Vaccination Registration</b></i></div>
-
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, air travellers will receive an email, as provided in their SGAC declaration (<a href="#1E">see Stage 1E</a>), of their <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
 
 <p style="line-height:1.35;font-size:18px;"><b><a target="_blank" href="/health/vtsg">Fully vaccinated travellers</a> who are vaccinated overseas and unable to upload their digital vaccination certificates via the SG Arrival Card declaration (per <a href="#1E">Stage 1E</a>)</b> should clear immigration at a manned counter. Here, the immigration officer will assist with the temporary registration of the traveller’s overseas vaccination status into their TraceTogether mobile application. With this, travellers will be able to show temporary proof of their vaccination status using TraceTogether in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a> for 30 days.</p>
@@ -282,7 +279,7 @@ label.box {
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) Issuance of Stay Home Notice (SHN) </b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">A 7-day Stay-Home Notice (SHN), which takes effect immediately on the day of issuance, will be sent to the email address provided by the traveller in their SGAC declaration (see <a href="#1E">Stage 1E</a>).</p></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">A 7-day Stay-Home Notice (SHN), which takes effect immediately on the day of issuance, will be sent to the email address provided by the traveller in their SGAC declaration (see <a href="#1F">Stage 1F</a>).</p></div>
 
 <div id="stage3c"></div>
 

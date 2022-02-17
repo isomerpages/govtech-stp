@@ -3,10 +3,9 @@ title: Student Pass Holder Lane Overview
 permalink: /stpl/overview
 description: Overview of the Student Pass Holder Lane
 ---
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers with familial roots or obligations in Singapore may enter Singapore under the Familial Ties Lane (FTL). Prevailing health protocols including quarantine (“Stay Home Notice”) may apply for those entering under this lane if their recent travel history includes non-Category (I) countries/regions</p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Student’s Pass holders studying in Singapore and their immediate family members may enter Singapore under the Student’s Pass Holder Lane. <b>Prevailing health protocols including quarantine (“Stay Home Notice”) may apply for those entering under this lane, if their recent travel history includes non-Category (I) countries/regions.</b></p>
-
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> or <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a>  to enjoy quarantine-free measures.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>, <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> or <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a> to enjoy quarantine-free measures.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">On this page you will find the following information about the Student’s Pass Holder Lane:</p>
 
@@ -117,28 +116,24 @@ input:checked + label + .content {
 
 <div id="scpr" class="content" style="background-color:#edf4fa;">	
 	<p style="line-height:1.5; font-size:18px; "><ol style="margin-top:0px; margin-bottom:0px;">
-	<li style="line-height:1.5;font-size:18px; list-style-type:lower-alpha;">Student’s Pass (STP) and Student’s Pass In-Principle Approval (STP-IPA) holders; OR</li>
-	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Immediate family members of STP and STP-IPA holders seeking entry into Singapore:
-	<ol style="margin-top:10px; margin-bottom:0px;">
-		<li style="line-height:1.5;font-size:18px; list-style-type:disc;">A maximum of one accompanying parent/guardian of an STP/STP-IPA holder aged 19 years and below in this calendar year</li>
-		<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:disc;">Accompanying siblings aged 6 years and below in this calendar year and are not enrolled with any local educational institution</li>
-		<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:disc;">Spouse and/or Child of a STP/STP-IPA holder on a post-graduate programme</li>
-		</ol>
+	<li style="line-height:1.5;font-size:18px; list-style-type:lower-alpha;">Immediate family member, relative, fiancé/fiancée of an SC/PR, including holders of a valid Work Pass, Student’s Pass (STP), or STP-IPA</li>
+	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Adopted child of an SC/PR, holding a Dependant’s Pass-IPA issued by the Ministry of Social and Family Development
 	</li>
+	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">PR IPA holder	</li>
+	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">ICA-issued Long-Term Visit Pass IPA holder (LTP IPA)</li>
+	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Former STP holders returning to Singapore to fulfil their scholarship obligations </li>
 	</ol></p>
-	<p style="line-height:1.5; font-size:18px; margin-top:20px;">Former STP holders seeking entry to fulfil their scholarship obligations should refer to the <a href="scpr-familial-ties-lane/overview" target="_blank">"Familial Ties Lane" </a> page for more information</p>
-		<p style="line-height:1.5; font-size:18px; margin-top:20px;">If you are ineligible, identify an alternative entry option by returning to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.</p>
 	</div>
 	
 <input class="test1" type="checkbox" id="title7"/>
-<label class="test2" for="title7">Mandatory Vaccination Requirement </label>
+<label class="test2" for="title7">Vaccination requirement </label>
 
 <div id="ltph" class="content" style="background-color:#edf4fa;">
-	<p style="line-height:1.5; font-size:18px; ">All eligible travellers must be <a href="/health/vtsg" target="_blank">fully vaccinated</a> and have proof of vaccination; details of mandatory vaccination requirements available <a href="/stpl/vaccination-requirements" target="_blank">here</a>. Conditional exceptions, however, are applicable to eligible travellers who are:
+	<p style="line-height:1.5; margin-bottom:10px; font-size:18px; ">There is <b style="color:red;">no</b> vaccination requirement for all entries made under FTL. However, COVID-19 vaccination is a condition for the granting of new PR, LTVP and Student’s Pass.</p>
+	<p style="line-height:1.5; font-size:18px; ">While travellers need not be vaccinated before entry, priority will be accorded to travellers:
 	<ol style="margin-top:0px; margin-bottom:0px;">
-		<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Below the age of 12 at the point of entry;</li>
-		<li style="line-height:1.5;font-size:18px; margin-top:10px; list-style-type:lower-roman;">Aged 12 to under 18 (by date of birth) at the point of entry and are unvaccinated/partially vaccinated, but will complete the full vaccination regimen within two months of arrival;</li>
-		<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-roman;">Aged 18 and above, and exempted by the Ministry of Education from the requirement due to medical ineligibility for vaccination, i.e. traveller has a medical condition preventing them from being vaccinated. <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">Applications for exemption</a> must be made at least three weeks before arrival. For continued exemption, travellers must be medically certified <b>in Singapore</b> within 30 days of arrival to be ineligible for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</li>
+		<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Aged 18 and above who are fully vaccinated and can produce proof of vaccination; OR</li>
+		<li style="line-height:1.5;font-size:18px; margin-top:10px; list-style-type:lower-roman;">Under 18 at the point of entry into Singapore and are unvaccinated/partially vaccinated </li>
 	</ol>
 	</p>
 	</div>
@@ -153,12 +148,12 @@ input:checked + label + .content {
 
 ### 2) Entry Application and Approval
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Entry approvals <b>are not required if the fully vaccinated traveller arrives from 21 Feb 2022, 2359h</b>, and:<ol style="margin-top:0px; margin-bottom:0px;">
-	<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Holds a Student’s Pass (STP) or STP In-Principle Approval (STP-IPA); OR</li>
-	<li style="line-height:1.5;font-size:18px;margin-top:10px;  list-style-type:lower-roman;">Holds a Long-Term Visit Pass (LTVP) or LTVP In-Principle Approval (LTVP-IPA), and is the immediate family member of an STP/STP-IPA holder</li>
-	</ol></p>
-
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The traveller must produce a valid long-term pass/ IPA letter and proof of vaccination during onboarding. Travellers who meet the above-mentioned criteria, but had earlier obtained an entry approval letter issued under the Student’s Pass Lane, will no longer require the entry approval letter.</p>
+<p style="font-size:18px; line-height:1.5;">Entry approvals <b>are not required</b> if the traveller:<ol style="margin-top:0px; margin-bottom:0px;">
+	<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Is arriving <b>from 21 Feb 2022, 2359h</b> and holds a Singapore-issued long-term pass (including IPA), and can produce a valid long-term pass and proof of vaccination* during entry; OR</li>
+	<li style="line-height:1.5;font-size:18px;margin-top:10px;  list-style-type:lower-roman;">Is unvaccinated/partially vaccinated on medical grounds, and can produce medical proof to be an unsuitable vaccination candidate.</li>
+	</ol>
+	</p>
+<p style="font-size:14px; margin-bottom:10px; line-height:1.5;">(*Exempted for travellers below the age of 12 this calendar year.)</p>
 
 <p style="font-size:18px; margin-bottom:15px; line-height:1.5;">Entry approvals are still required for the following:</p>
 
@@ -171,33 +166,36 @@ input:checked + label + .content {
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">STP and STP-IPA holders entering Singapore <b>before 21 Feb 2022, 2359H (SGT)</b></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">A valid entry approval should have been obtained before 13 Feb 2022, 2359H (SGT). <br><br> <span style="color:red; font-size:28px;">&#9888;&nbsp;</span><b style="color:red;"> NOTE:</b> <i> Travellers without a valid entry approval will be denied entry.</i>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Eligible FTL travellers who:
+	    <ol style="margin-top:0px; margin-bottom:0px;">
+		    <li style="line-height:1.5;font-size:18px;">Are entering Singapore before 21 Feb 2022, 2359h; OR</li>
+		      <li style="line-height:1.5;margin-top:10px;font-size:18px;">Do not hold any Singapore-issued long-term pass; OR</li>
+		    <li style="line-height:1.5;margin-top:10px;font-size:18px;">Are 18 years old and above, unvaccinated/partially vaccinated without medical reason, i.e. traveller does not have a medical condition prohibiting him from receiving his vaccination</li>
+	      </ol>
 	    </td>
-    </tr>
-	     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Immediate family member (of a valid STP or STP-IPA holder) who do not hold Singapore long-term passes</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><a href="https://go.gov.sg/moe-entry-application" target="_blank">Submit an entry request to the Ministry of Education (MOE). </a><br><br>Applications must be submitted <b>between one and nine weeks in advance</b>. A 7-day entry period (Monday - Sunday) will be granted to accommodate changes in travel plans.<br><br><b>Late applications will not be considered.</b>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">A Singapore Citizen or PR who is an immediate family member of the traveller must apply on behalf of the traveller using Singpass.<br><br><a href="https://go.gov.sg/scpr-ftl-application" target="_blank">Click Here</a> for the application portal
 	    </td>
     </tr>
 	</tbody>
 	</table>
 
+
 ---
+
 
 <div id="protocols"></div>
 
 ### 3) Health and Administrative Protocols
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The Student’s Pass Holder Lane does not afford travellers quarantine-free access provided under the Vaccinated Travel Lane (Air), (Land) or (Sea). The prevailing health measures described under Categories I, II, III or IV, will apply depending on the traveller’s travel history.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Under the Familial Ties Lane, prevailing health measures under Categories I, II, III or IV, will apply depending on the traveller’s travel history. </p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Click here for the <a href="/shn-and-swab-summary" target="_blank">travel categories</a> before referring to the checklists below for detailed entry instructions.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Before referring to the checklists (below) for detailed entry instructions, determine the <a href="/shn-and-swab-summary" target="_blank">category of health measures</a> that applies to you based on your travel history to various countries before arriving in Singapore.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><b>Travel checklists for travellers arriving from 21 Feb 2359h SGT:</b></p>
 
 <ol style="margin-top:15px;">
 	<li style="line-height:1.5;"><a href="/travel-checklist/category-1">Category (I) travel history checklist </a></li>
-	<li style="line-height:1.5; margin-top:10px;"><a href="/travel-checklist/category-2">Category (II/III) travel history checklist  </a></li>
+	<li style="line-height:1.5; margin-top:10px;"><a href="/travel-checklist/category-2-3-4">Category (II/III/IV) travel history checklist  </a></li>
 </ol>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><b>Travel checklists for travellers arriving before 21 Feb 2359h SGT:</b></p>
@@ -221,12 +219,12 @@ input:checked + label + .content {
 <tbody>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-top:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Click <a href="/stpl/faq">below</a> for FAQs, and information related to:
+<td style="font-size:16px;border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Click <a href="/health/faq">below</a> for FAQs, and information related to:
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">Visas and Pass validity</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.ica.gov.sg/reside/STP/apply">Student’s Passes</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.ica.gov.sg/enter-depart/extend_short_stay">Short-term passes</a></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/faq#pcrtest">COVID-19 PCR test</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#payments">Payments and refunds</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#shnsdf">SDF issues</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#pcrtest">COVID-19 test</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/vtsg">Travellers Vaccinated Overseas</a></li>
 </ul>
  </td>
 </tr>

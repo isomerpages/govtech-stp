@@ -3,10 +3,9 @@ title: FTL Overview
 permalink: /scpr-familial-ties-lane/overview
 description: Overview of the Familial Ties Lane
 ---
-
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers with familial roots or obligations in Singapore may enter Singapore under the Familial Ties Lane (FTL). Prevailing health protocols including quarantine (“Stay Home Notice”) may apply for those entering under this lane if their recent travel history includes non-Category (I) countries/regions</p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> to enjoy quarantine-free measures.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>, <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> or <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a>to enjoy quarantine-free measures.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">On this page you will find the following information about the Student’s Pass Holder Lane:</p>
 
@@ -156,7 +155,7 @@ input:checked + label + .content {
 	</p>
 <p style="font-size:14px; margin-bottom:10px; line-height:1.5;">(*Exempted for travellers below the age of 12 this calendar year.)</p>
 
-<p style="font-size:18px; margin-bottom:15px; line-height:1.5;">Entry approvals are still required for the following:</p>
+<p style="font-size:18px; margin-bottom:15px; line-height:1.5;">Entry approvals <b>are still required</b> for the following:</p>
 
 <table>
   <thead>
@@ -172,6 +171,7 @@ input:checked + label + .content {
 		    <li style="line-height:1.5;font-size:18px;">Are entering Singapore before 21 Feb 2022, 2359h; OR</li>
 		      <li style="line-height:1.5;margin-top:10px;font-size:18px;">Do not hold any Singapore-issued long-term pass; OR</li>
 		    <li style="line-height:1.5;margin-top:10px;font-size:18px;">Are 18 years old and above, unvaccinated/partially vaccinated without medical reason, i.e. traveller does not have a medical condition prohibiting him from receiving his vaccination</li>
+				<li style="line-height:1.5;margin-top:10px;font-size:18px;">Former STP holders returning to Singapore to fulfil their scholarship obligations</li>
 	      </ol>
 	    </td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">A Singapore Citizen or PR who is an immediate family member of the traveller must apply on behalf of the traveller using Singpass.<br><br><a href="https://go.gov.sg/scpr-ftl-application" target="_blank">Click Here</a> for the application portal
@@ -196,7 +196,7 @@ input:checked + label + .content {
 
 <ol style="margin-top:15px;">
 	<li style="line-height:1.5;"><a href="/travel-checklist/category-1">Category (I) travel history checklist </a></li>
-	<li style="line-height:1.5; margin-top:10px;"><a href="/travel-checklist/category-2">Category (II/III) travel history checklist  </a></li>
+	<li style="line-height:1.5; margin-top:10px;"><a href="/travel-checklist/category-2-3-4">Category (II/III/IV) travel history checklist  </a></li>
 </ol>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><b>Travel checklists for travellers arriving before 21 Feb 2359h SGT:</b></p>

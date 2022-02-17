@@ -79,7 +79,7 @@ This page provides a summary of the four categories of travel health control mea
 			</li>
 		</ul>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a professionally supervised ART at a <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> <b>within 24 hours</b> of arrival. The weblink to book the test will be provided in the Testing Notice issued to travellers upon their entry in Singapore. Self-swabs not administered in the presence of a healthcare professional are not allowed.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a professionally supervised ART at a <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> <b>within 24 hours</b> of arrival. The weblink to book the test will be provided in the Testing Notice issued to travellers upon their entry in Singapore. Self-swabs not administered in the presence of a healthcare professional are not allowed.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative test result is obtained.</li>
 </ol>
 </td>
