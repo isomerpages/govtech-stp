@@ -16,105 +16,22 @@ description: Overview of the Familial Ties Lane
 	<li style="line-height:1.5;margin-top:10px;"><a href="#additional-info">Additional Information</a></li>
 </ol>
 
+---
+
 <div id="Eligibility"></div>
 
 ### 1) Eligibility
 
-<html>
 
-<head>
-<meta charset="utf-8">
-<title>Test Accordion</title>
-
-<style>
-
-input {
-    display: none;
-}
-
-label {
-    display: block;    
-    padding: 10px 30px;
-    margin: 0 0 1px 0;
-    cursor: pointer;
-    background: #153855;
-    border-radius: 3px;
-    color: #FFF;
-    transition: ease .5s;
-	position: relative;
-}
-
-label:hover {
-    background: #346f9e;
-}
-
-label::after {
-	font-family: "Font Awesome 5 Free";
-	content: '\271A';
-	font-weight: bold;
-	font-size: 22px;
-	position: absolute;
-	right: 10px;
-	top: 6px;
-}
-
-input:checked + label::after {
-	content: '\2716';
-}
-
-.content {
-    background: #FFFFFF;
-    padding: 10px 25px;
-    margin: 0 0 1px 0;
-    border-radius: 3px;
-}
-
-input + label + .content {
-    display: none;
-}
-	
-input + label + #scpr {
-    display: block;
-}
-	
-input:checked + label + #scpr {
-    display: none;
-}
-	
-input + label + #ltph {
-    display: block;
-}
-	
-input:checked + label + #ltph {
-    display: none;
-}	
-
-input:checked + label + .content {
-    display: block;
-}
-	
-.test2::after {
-	font-family: "Font Awesome 5 Free";
-	content: '\2716';
-	font-weight: bold;
-	font-size: 22px;
-	position: absolute;
-	right: 10px;
-	top: 6px;
-}
-
-.test1:checked + label::after {
-	content: '\271A';
-}
-
-	
-</style>
-</head>
-<body>
-<input class="test1" type="checkbox" id="title6" />
-<label class="test2" for="title6">Eligible travellers </label>
-
-<div id="scpr" class="content" style="background-color:#edf4fa;">	
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Eligible travellers</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
 	<p style="line-height:1.5; font-size:18px; "><ol style="margin-top:0px; margin-bottom:0px;">
 	<li style="line-height:1.5;font-size:18px; list-style-type:lower-alpha;">Immediate family member, relative, fiancé/fiancée of an SC/PR, including holders of a valid Work Pass, Student’s Pass (STP), or STP-IPA</li>
 	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Adopted child of an SC/PR, holding a Dependant’s Pass-IPA issued by the Ministry of Social and Family Development
@@ -123,12 +40,20 @@ input:checked + label + .content {
 	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">ICA-issued Long-Term Visit Pass IPA holder (LTP IPA)</li>
 	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Former STP holders returning to Singapore to fulfil their scholarship obligations </li>
 	</ol></p>
-	</div>
-	
-<input class="test1" type="checkbox" id="title7"/>
-<label class="test2" for="title7">Vaccination requirement </label>
+		</td>
+	</tr>
+	</tbody>
+	</table>
 
-<div id="ltph" class="content" style="background-color:#edf4fa;">
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Vaccination requirement</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
 	<p style="line-height:1.5; margin-bottom:10px; font-size:18px; ">There is <b style="color:red;">no</b> vaccination requirement for all entries made under FTL. However, COVID-19 vaccination is a condition for the granting of new PR, LTVP and Student’s Pass.</p>
 	<p style="line-height:1.5; font-size:18px; ">While travellers need not be vaccinated before entry, priority will be accorded to travellers:
 	<ol style="margin-top:0px; margin-bottom:0px;">
@@ -136,9 +61,10 @@ input:checked + label + .content {
 		<li style="line-height:1.5;font-size:18px; margin-top:10px; list-style-type:lower-roman;">Under 18 at the point of entry into Singapore and are unvaccinated/partially vaccinated </li>
 	</ol>
 	</p>
-	</div>
-</body>
-</html>
+		</td>
+	</tr>
+	</tbody>
+	</table>
 
 <p style="font-size:18px; margin-top:20px; line-height:1.5;">If you are ineligible, look for an alternative entry option via the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.</p>
 
