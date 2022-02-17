@@ -1,0 +1,4 @@
+collections:
+  travel-checklist-test:
+    output: true
+    order: []
