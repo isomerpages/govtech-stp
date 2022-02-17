@@ -32,7 +32,7 @@ description: ""
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vaxcert">Digitally Verifiable Vaccination Certificate and QR Code Issues</a></li>
 </ol>
 </li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#THReq">Travel History Requirement</li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VTLReq">Vaccination Requirements</a></li>
 </ol>
 
 
