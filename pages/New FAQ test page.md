@@ -18,11 +18,12 @@ published: false
 
 Having a VTP does not guarantee travellers a ticket on a designated VTL (Air) flight/ VTL (Land) bus/ VTL (Sea) ferry to Singapore. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL (Air)/VTL (Land)/VTL (Sea) flight to Singapore does not guarantee a VTP.
 
-#### 3. I have a VTP (Air) and I meet all the requirements under the VTL (Air). However, I did not manage to get a ticket on a designated VTL (Air) flight to Singapore. Will I still be allowed to enter Singapore?
+#### 2. I have a VTP and I meet all the requirements under the VTL, except that I only managed to book a non-VTL transport service. Will I still be allowed to enter Singapore under quarantine-free VTL terms?
 
-As required under the VTL (Air) <a href="/vtl/conditions">Conditions</a>, a VTP (Air) holder must arrive in Singapore on a designated VTL (Air) flight. Short-term visitors and long-term pass holders who did not arrive on a designated VTL (Air) flight to Singapore may be denied entry into Singapore.
+As required under the VTL (Air) <a href="/vtl/conditions">Conditions</a>/ VTL (Land) Conditions/ VTL (Sea) Conditions,  a VTP holder must arrive in Singapore on a designated VTL transport in order to be eligible for quarantine-free VTL measures. They should approach the transport operator for assistance to rebook a ticket on a designated VTL flight/bus/ferry if possible.
 
-Singapore Citizens and Permanent Residents may return home to Singapore regardless, but will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN)</a> and COVID-19 test requirements upon entry into Singapore.
+Travellers who are not Singapore Citizens or Permanent Residents may be turned away by the transport providers if they do not meet the necessary entry requirements to Singapore for non-VTL lanes (e.g. vaccination requirements under Work Pass Holder Lane). Please check the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> for non-VTL lanes that fit your profile, and read the entry requirements of the non-VTL lanes.
+
 
 <!--#### 4. What are the requirements for travellers to be eligible for a designated VTL flight?
 To be eligible to take a designated VTL flight, they are required to:
