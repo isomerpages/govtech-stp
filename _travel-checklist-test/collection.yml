@@ -2,7 +2,6 @@ collections:
   travel-checklist-test:
     output: true
     order:
-      - Travel Checklist Category(II).md
       - Travel Checklist Category(II)(III)(IV).md
       - Travel Checklist Category(III).md
       - Travel Checklist Category(IV).md
