@@ -25,49 +25,15 @@ As required under the VTL (Air) <a href="/vtl/conditions" target="_blank">Condit
 Travellers who are not Singapore Citizens or Permanent Residents may be turned away by the transport providers if they do not meet the necessary entry requirements to Singapore for non-VTL lanes (e.g. vaccination requirements under Work Pass Holder Lane). Please check the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> for non-VTL lanes that fit your profile, and read the entry requirements of the non-VTL lanes.
 
 
-<!--#### 4. What are the requirements for travellers to be eligible for a designated VTL flight?
-To be eligible to take a designated VTL flight, they are required to:
+#### 3. I have a VTP and I meet all the requirements under the VTL (Land). However, I did not manage to get a ticket on a designated VTL (Land) bus service to Singapore. Will I still be allowed to enter Singapore if I drive my private vehicle, cycle, walk or take a non-designated bus service?
 
-<ul>
-	<li><i>[not applicable for children aged 12 and below in this calendar year]</i> be <a href="/health/vtsg">fully vaccinated</a>, and have a vaccination certificate issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from.
-		</li>
-	<li><i>[not applicable for children aged 12 and below in this calendar year]</i> have a valid proof of vaccination status, which can be in the form of:
-		<ul style="list-style-type:disc;">
-	<li>proof of vaccination on the TraceTogether, HealthHub, BruHealth, PeduliLindungi, Tawakkalna or Al Hosn app, or</li>
-	<li>an accepted proof of vaccination in English, stating the following:
-			<ul style="list-style-type:lower-roman;">
-				<li> the traveller's name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
-				<li>the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;</li>
-				<li>the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
-				<li>the date(s) of vacccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
-		</ul>
-			</li>
-		</ul>
-		</li>
-		<li>have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, and/or Singapore, in the last 14 consecutive days before departing for Singapore.
-	</li>
-		<li style="margin-top:15px;"><i>[not applicable for children aged 2 and below in this calendar year]</i> undergo a COVID-19 polymerase chain reaction (PCR) test within 2 days before departure for Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
-<ul>
-<li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
-<li>a negative COVID-19 PCR test result;</li>
-<li>the date and time when the COVID-19 PCR test was taken; and</li>
-<li>the name of the testing institution conducting the COVID-19 PCR test.</li>
-</ul></li>
-</ul>
+As required under the VTL (Land) conditions, a VTP holder must arrive in Singapore on a designated VTL (Land) bus service. All travellers who do not arrive on a designated VTL (Land) bus service to Singapore may be denied entry into Singapore and/or subjected to prevailing border measures.
 
-Travellers are responsible for <a href="/departing/overview" target="_blank">making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test</a>. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.-->
+#### 4. Where are the boarding and disembarkation points for VTL (Land) bus services from Malaysia to Singapore, and from Singapore to Malaysia?
 
-#### 4. What flights may Singapore Citizens and Permanent Residents take in order to enter Singapore?
+Travellers entering Singapore under the VTL (Land) will have to board the bus at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia. The bus will arrive at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore, via the Causeway. (From 21 February 2021, 2359 hours, travellers entering under the VTL (Land) will not be required to reboard the bus after immigration clearance and may choose to disembark from Woodlands Checkpoint).
 
-Singapore Citizens and Permanent Residents may only arrive in Singapore on a designated VTL (Air) flight in order not to serve a Stay-Home Notice (SHN). Instead, they will undergo a COVID-19 PCR test on-arrival at the airport. They must meet the requirements to be eligible for a designated VTL (Air) flight. Upon the completion of their on-arrival COVID-19 PCR test, travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.
-
-Those arriving in Singapore on a non-designated flight will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
-
-#### 5. What flights may Long-Term Pass holders take in order to enter Singapore?
-
-Long-Term Pass holders holding a VTP (Air) may only arrive in Singapore on a designated VTL (Air) flight within the validity period of the VTP (Air) issued. Otherwise, they may be denied entry into Singapore.
-
-Long-Term Pass holders holding a Approval Letter of Entry (ALE) via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/overview">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a> may only travel to Singapore on a non-designated flight and will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
+Travellers entering Malaysia under the VTL (Land) will have to board the bus at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore. The bus will arrive at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia, via the Causeway. 
 
 #### 6. What flights may short-term visitors take in order to enter Singapore?
 
