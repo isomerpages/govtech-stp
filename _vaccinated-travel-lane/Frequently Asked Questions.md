@@ -333,9 +333,9 @@ Nonetheless, individuals aged 12 years and older are recommended to receive a bo
 </td>
 </tr>
 	</tbody>
-	</table><br>
+	</table>
 	
-<p style="line-height:1.5; font-size:20px;"><b style="color:red;">For STVs:</b><i> If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.</i></p>
+<p style="line-height:1.5; margin-top:20px; font-size:20px;"><b style="color:red;">For Short-Term Visitors:</b><i> If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.</i></p>
 
 <div id="verify"></div>
 
