@@ -340,7 +340,7 @@ input:checked + label + .content {
 
 ### 4. Frequently Asked Questions
 
-<span style="font-size:18px;">Click <a target="_blank" href="/vtl-sea/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
+<span style="font-size:18px;">Click <a target="_blank" href="/vtl/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
 - <a target="_blank" href="/vtl/faq#QRcode">Recognised Vaccination Certificates for VTL (Sea)</a>
 - <a target="_blank" href="/vtl/faq#invalidcode">VTP Application Technical Difficulties</a>
 - <a target="_blank" href="/health/vtsg">Definition of Fully Vaccinated</a>
