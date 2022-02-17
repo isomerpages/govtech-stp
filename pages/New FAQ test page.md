@@ -118,6 +118,26 @@ Travellers must proceed immediately to their place of accommodation for self-iso
 
 They can visit any of the <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>.
 
+VTL (Land) travellers can also perform their supervised ARTs at Woodlands and Queen Street bus terminals on arrival.  
+
+Travellers can also undergo the on-arrival COVID-19 ART test at other clinics or hospitals in Singapore that provide such services. However, the cost of the COVID-19 ART test may be higher than those at the QTC/CTCs.
+
+
+#### 2. Can travellers bring their own ART self-test kits to the test centres?
+
+No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
+
+
+#### 3. How do travellers book their appointments for their supervised ARTs?
+
+Travellers will be provided with a weblink to book their ARTs at a <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC).
+
+
+#### 4. Are children required to undergo supervised ARTs?
+
+Children aged 3 to 12 must undergo their supervised ART at the <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
+
+
 #### 2. Can travellers choose to undergo the supervised ART at other clinics in Singapore?
 
 Yes, travellers may choose to undergo the on-arrival COVID-19 ART test at other clinics or hospitals in Singapore. However, the cost of the COVID-19 ART test may be higher than those at the QTC/CTCs. 
@@ -126,21 +146,15 @@ Yes, travellers may choose to undergo the on-arrival COVID-19 ART test at other 
 
 The cost of the supervised ART is S$15 (inclusive of Goods and Services Tax), with payment to be made at the QTC/CTC through cashless modes, such as Mastercard, NETS, PayNow and Visa.
 
-#### 4. Can travellers bring their own ART self-test kits to the test centres?
 
-No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
 
-#### 5. How do travellers book their appointments for their supervised ARTs?
 
-Travellers will be provided with a weblink to book their ARTs at a <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC).
 
 #### 6. What do travellers need to bring for their supervised ART appointment?
 
 Travellers will need to bring along a photo identification for verification.
 
-#### 7. Are children required to undergo supervised ARTs?
 
-Children aged 2 and below in this calendar year are not required to undergo the. Children aged 3 to 12 must undergo their supervised ART at the <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
 #### 8. Do travellers need to self-isolate after their supervised ART?
 
