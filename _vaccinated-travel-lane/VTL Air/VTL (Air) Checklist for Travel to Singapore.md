@@ -616,7 +616,7 @@ label.box {
 				<li style="line-height:1.35 margin-bottom:10px; font-size:18px;">Valid visa (for visa-required visitors);</li>
 						<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Acceptable proof of vaccination (same proof as at <a href="#1A">Stage 1A</a>).</li>
 	</ol>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Note:</b><i> LTPHs (excluding Work Permit holders) entering Singapore <b>from 21 Feb 2021, 2359hrs</b> onwards will no longer be required to present a VTP (Air). MOM LTPHs may also obtain an acceptance letter from the Vaccination Check Portal and present it in lieu of an accepted proof of vaccination.</i></p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Note:</b><i> LTPHs (excluding Work Permit holders) entering Singapore <b>from 21 Feb 2022, 2359hrs</b> onwards will no longer be required to present a VTP (Air). MOM LTPHs may also obtain an acceptance letter from the Vaccination Check Portal and present it in lieu of an accepted proof of vaccination.</i></p>
 	</div>
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
