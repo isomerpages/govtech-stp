@@ -6,7 +6,7 @@ description: ""
 <p style="line-height:1.3; font-size: 18px;">This checklist applies only to Vaccinated-Recovered Travellers who are:</p>
 
 <ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Fully vaccinated; AND</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;"><a href="/health/vtsg" target="_blank">Fully vaccinated;</a> AND</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Certified positive for COVID-19 between 7- 90 days (inclusive) before departure for Singapore</li>
 	</ol>
 	
