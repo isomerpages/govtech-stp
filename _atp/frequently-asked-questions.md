@@ -273,7 +273,7 @@ Travellers will need to bring along a photo identification for verification.
 
 #### 7. Are children required to undergo supervised ARTs?
 
-Children aged 2 and below in this calendar year are not required to undergo the. Children aged 3 to 12 must undergo their supervised ART at the <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
+Children aged 3 to 12 must undergo their supervised ART at the <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
 #### 8. Do travellers need to self-isolate after their supervised ART?
 
