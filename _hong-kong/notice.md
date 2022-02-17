@@ -1,6 +1,7 @@
 ---
 title: NOTICE
 permalink: /hongkong/atb/notice
+published: false
 ---
 
 ## IMPORTANT NOTICE
