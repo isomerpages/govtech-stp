@@ -14,9 +14,9 @@ published: false
 ### 5) Designated VTL Transport
 
 
-#### 1. Are travellers guaranteed a ticket on a designated VTL (Air) flight to Singapore if they have a VTP (Air)?
+#### 1. Are travellers guaranteed a ticket on a designated VTL flight/bus/ferry to Singapore if they have a VTP?
 
-Having a VTP (Air) does not guarantee travellers a ticket on a designated VTL (Air) flight to Singapore. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL (Air) flight to Singapore does not guarantee a VTP (Air).
+Having a VTP does not guarantee travellers a ticket on a designated VTL (Air) flight/ VTL (Land) bus/ VTL (Sea) ferry to Singapore. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL (Air)/VTL (Land)/VTL (Sea) flight to Singapore does not guarantee a VTP (Air).
 
 #### 3. I have a VTP (Air) and I meet all the requirements under the VTL (Air). However, I did not manage to get a ticket on a designated VTL (Air) flight to Singapore. Will I still be allowed to enter Singapore?
 
