@@ -24,14 +24,11 @@ Applicants are required to submit their entry applications <u><b>at least two we
 
 ##### [For arrivals from 21 February 2022, 2359 hours]
 
-<a href="/stpl/vaccination-requirements" target="_blank">Fully vaccinated</a> Student’s Pass (STP) and Long-Term Visit Pass (LTVP) holders, including In-Principle Approval (IPA) holders, may travel to Singapore without the need to apply for an entry approval. They must show their long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint for entry to Singapore.
+<a href="/stpl/vaccination-requirements" target="_blank">Fully vaccinated</a> Student’s Pass (STP) and Long-Term Visit Pass (LTVP) holders, including In-Principle Approval (IPA) holders, may travel to Singapore <b>without</b> the need to apply for an entry approval. They must show their long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint for entry to Singapore.
 
-<a href="/stpl/overview" target="_blank">Eligible short-term visitors</a> who do not hold Singapore long-term passes must submit their entry applications at least one week before their intended period of travel, and up to nine weeks in advance.
+<a href="/stpl/overview" target="_blank">Eligible short-term visitors</a> who do not hold Singapore long-term passes must submit their entry applications <b><u>at least one week before their intended period of travel</u></b>, and up to nine weeks in advance.
 
 Prevailing <a href="/shn-and-swab-summary" target="_blank">health protocols</a> will continue to apply to all travellers. To enjoy quarantine-free measures, travellers departing from Vaccinated Travel Lane (VTL) countries/regions may consider entering Singapore under the VTL instead. 
-
-
-
 
 
 
