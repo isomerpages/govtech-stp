@@ -67,7 +67,7 @@ From 21 February 2022, 2359 hours, if they are <a href="/stpl/vaccination-requir
 If they do not hold any Singapore long-term passes, you may submit an entry application for your spouse and children <a href="https://go.gov.sg/moe-entry-application" target="_blank">here</a>.
 
 
-#### 5. I would like appeal for an Entry Approval for my child and I to enter Singapore so that he/she can sit for tests conducted as part of the Admissions Exercise for International Students (AEIS).
+#### 4. I would like appeal for an Entry Approval for my child and I to enter Singapore so that he/she can sit for tests conducted as part of the Admissions Exercise for International Students (AEIS).
 
 Entry approval will not be issued for applicants to sit for the AEIS tests.  
 
@@ -75,9 +75,20 @@ Travellers seeking to enter Singapore should ensure they are eligible for entry 
 
 Only Student's Pass (STP) holders, Student's Pass In-Principle Approval (STP-IPA) holders and [eligible family members](/stpl/overview) may apply for entry through the Student's Pass Holder's Lane (STPHL).
 
-#### 6. My flight has been cancelled or delayed, and I will be travelling on another date. Can I still travel using my existing entry approval?
 
-If you are travelling within the validity period of your entry approval, you may use your existing entry approval. However, if you are now travelling outside of the validity period, you will need to submit a new application via the <a href="https://go.gov.sg/stphl-application">SafeTravel portal</a>.
+#### 5. My flight has been cancelled or delayed, and I will be travelling on another date. Can I still travel using my existing entry approval?
+
+##### [For arrivals before 21 February 2022, 2359 hours] 
+
+If you are travelling within the validity period of your entry approval, you may use your existing entry approval. However, if you are now travelling outside of the validity period, please refer to the below.
+
+##### [For arrivals from 21 February 2022, 2359 hours] 
+
+Fully vaccinated Student’s Pass (STP) and Long-Term Visit Pass (LTVP) holders, including In-Principle Approval (IPA) holders: You may enter Singapore on your new arrival date without the need to apply for another entry approval.
+
+Eligible short-term visitors who do not hold Singapore long-term passes: If you are travelling within the validity period of your entry approval, you may use your existing entry approval. However, if you are now travelling outside of the validity period, you will need to submit a new application here.
+
+
 
 <div id="vaccination"></div>
 
