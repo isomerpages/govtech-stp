@@ -128,6 +128,33 @@ If you are aged below 12 years old at the point of arrival, the vaccination cond
 
 <b> [For arrivals from 21 February 2022, 2359 hours]</b> 
 
+<table>
+<thead>
+<tr>
+<th rowspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>Traveller type and vaccination requirement</b></th>
+	<th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>How and Where to Apply for Entry</b></th>
+</tr>
+	<tr>
+		<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>Student’s Pass (STP) and Long-Term Visit Pass (LTVP) holders, including In-Principle Approval (IPA) holders</b></th>
+				<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>Eligible short-term visitors who do not hold Singapore long-term passes</b></th>
+	</tr>
+</thead>
+<tbody>
+		<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">
+If you are aged below 12 years old at the point of arrival, the vaccination condition for entry will not apply to you.</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">You may proceed with your entry application as described <a href="/stpl/overview" target="_blank">here</a>.</td>
+	</tr>
+		<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">If you are aged between 12 to less than 18 years old at the point of arrival, you may enter without proof of vaccination, on the condition that you complete the full vaccination regimen within two months after you arrive in Singapore.</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">You may proceed with your entry application as described <a href="/stpl/overview" target="_blank">here</a>.</td>
+	</tr>
+			<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">If you are aged 18 years old and above at the point of arrival, you will have to complete the <a href="/health/vtsg" target="_blank">full regimen of WHO Emergency Use Listing (WHO EUL) vaccines</a>* at least two weeks before arrival.</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">If you are medically ineligible for vaccination or have extenuating reasons for not being fully vaccinated before arrival, you may submit an entry appeal <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">here</a>. Please submit your appeal at least 3 weeks before your intended date of entry.</td>
+	</tr>
+	</tbody>
+	</table>
 
 
 #### 8. I have recovered from a COVID-19 infection and have 1 dose of a PSAR approved vaccine. Am I considered fully vaccinated? Can I apply for an entry approval via the Student's Pass Holder Lane (STPHL)?
