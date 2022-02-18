@@ -123,7 +123,8 @@ If you are aged below 12 years old at the point of arrival, the vaccination cond
 	</tr>
 	</tbody>
 	</table>
-	<p>*Travellers who recovered from a COVID-19 infection and then took one dose of a WHO EUL vaccine should refer to Question 8.</p>
+	<br>
+*Travellers who recovered from a COVID-19 infection and then took one dose of a WHO EUL vaccine should refer to Question 8.
 
 
 <b> [For arrivals from 21 February 2022, 2359 hours]</b> 
@@ -157,7 +158,8 @@ If you are aged below 12 years old at the point of arrival, the vaccination cond
 	</tr>
 	</tbody>
 	</table>
-	<p>*Travellers who recovered from a COVID-19 infection and then took one dose of a WHO EUL vaccine should refer to Question 8.</p>
+	<br>
+*Travellers who recovered from a COVID-19 infection and then took one dose of a WHO EUL vaccine should refer to Question 8.
 	
 
 #### 7. I have recovered from a COVID-19 infection and have taken 1 dose of a World Health Organisation Emergency Use Listing (WHO EUL)  vaccine. Am I considered fully vaccinated? Can I enter via the Student’s Pass Holder Lane (STPHL)?
@@ -240,4 +242,4 @@ If you are an <a href="/stpl/overview" target="_blank">eligible short-term visit
 
 <b>From 21 February 2022, 2359 hours</b>, if you are a <a href="/stpl/vaccination-requirements" target="_blank">fully vaccinated</a> Student’s Pass (STP), Long-Term Visit Pass (LTVP), or their respective In-Principle Approval (IPA) holder, you may travel to Singapore under the STPHL <b>without</b> the need to apply for an entry approval, <b>subject to prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a></b>. You must show your long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint. 
 
-If you are an <a href="/stpl/overview" target="_blank">eligible short-term visitor</a>, you may apply for an entry approval under the STPHL, <b>subject to prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a></b>. However, this must be done <b>at least one week before your intended period of travel</b>. Appeals to expedite the application process will not be accepted. 
+If you are an <a href="/stpl/overview" target="_blank">eligible short-term visitor</a>, you may apply for an entry approval under the STPHL, <b>subject to prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a></b>. However, this must be done <b>at least one week before your intended period of travel</b>. Appeals to expedite the application process will not be accepted.
