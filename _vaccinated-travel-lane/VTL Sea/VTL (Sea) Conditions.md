@@ -69,7 +69,7 @@ third_nav_title: VTL Sea
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>1</sup>A Dormitory means boarding premises providing accommodation to 7 or more foreign employees and includes any place converted (temporarily or otherwise) for use as accommodation for 7 or more foreign employees, but excludes an isolation area within the meaning of section 17 of the Infectious Diseases Act (Cap. 137). Boarding premises has the same meaning given by section 2(1) of the Foreign Employee Dormitories Act 2015(Act 3 of 2015).</p>
 
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the scheduled day of departure of the ferry is D (e.g. 15 January 2022), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore from D-7 to D (i.e. 1 January to 8 January 2022, if D is 8 January 2022).</p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the scheduled day of departure of the ferry is D (e.g. 8 January 2022), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore from D-7 to D (i.e. 1 January to 8 January 2022, if D is 8 January 2022).</p>
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>3</sup>If the pre-departure test is taken on 1 January 2022, it will be valid for departures up to 3 January 2022, 2359 hours.</p>
 
