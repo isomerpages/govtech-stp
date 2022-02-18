@@ -158,7 +158,7 @@ If you are aged below 12 years old at the point of arrival, the vaccination cond
 		<td colspan="2" style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">If you are medically ineligible for vaccination or have extenuating reasons for not being fully vaccinated before arrival, you may submit an entry appeal <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">here</a>. Please submit your appeal at least 3 weeks before your intended date of entry.</td>
 	</tr>
 		<tr>
-		<td colspan="2" style="font-size:18px; vertical-align:middle;">*Travellers who recovered from a COVID-19 infection and then took one dose of a WHO EUL vaccine should refer to Question 8.</td>
+		<td colspan="3" style="font-size:18px; vertical-align:middle;">*Travellers who recovered from a COVID-19 infection and then took one dose of a WHO EUL vaccine should refer to Question 8.</td>
 	</tr>
 	</tbody>
 	</table>
