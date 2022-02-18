@@ -202,7 +202,7 @@ Travellers who do not fulfil the requirements of the respective travel lanes on 
 No, you are not required to apply for an entry approval (“SafeTravel Pass”) under the STPHL if you are travelling via the VTL. For more information, please refer to the webpages for the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a>, <a href="/vtl-land/overview" target="_blank">VTL (Land)</a> and <a href="/vtl-sea/overview" target="_blank">VTL (Sea)</a>.
 
 
-#### 11. I am travelling from a country that Singapore has established a Vaccinated Travel Lane (VTL) with. I have previously obtained an entry approval under the Student’s Pass Holder Lane (STPHL). Will I still be required to serve the 7-day Stay-Home Notice (SHN)?
+#### 10. I am travelling from a country that Singapore has established a Vaccinated Travel Lane (VTL) with. I have previously obtained an entry approval under the Student’s Pass Holder Lane (STPHL). Will I still be required to serve the 7-day Stay-Home Notice (SHN)?
 
 <b>[For arrivals before 21 February 2022, 2359 hours] </b>
 
@@ -214,19 +214,27 @@ Please also note that payments made for the entry application under the STPHL ar
 
 <b>[For arrivals after 21 February 2022, 2359 hours] </b>
 
-If you enter Singapore via the STPHL, you will need to fulfill the prevailing Category II/III/IV travel and health control measures, including serving a 7-day SHN at a self-sourced accommodation.
+If you enter Singapore via the STPHL, you will need to fulfill the prevailing <a href="/shn-and-swab-summary" target="_blank">Category II/III/IV travel and health control measures</a>, including serving a 7-day SHN at a self-sourced accommodation.
 
-If you wish to enter Singapore without having to serve SHN, you will need to enter Singapore via the VTL. STP, Long-Term Visit Pass (LTVP) and the respective IPA holders may travel to Singapore via VTL without applying for a Vaccinated Travel Pass, subject to the prevailing VTL requirements. They must show their long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint. They must also enter Singapore on a designated VTL flight, bus or ferry service. For more information, please refer to the webpages for the VTL (Air), VTL (Land) and VTL (Sea).
+If you wish to enter Singapore without having to serve SHN, you will need to enter Singapore via the VTL. STP, Long-Term Visit Pass (LTVP) and the respective IPA holders may travel to Singapore via VTL without applying for a Vaccinated Travel Pass, subject to the prevailing VTL requirements. They must show their long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint. They must also enter Singapore on a designated VTL flight, bus or ferry service. For more information, please refer to the webpages for the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a>, <a href="/vtl-land/overview" target="_blank">VTL (Land)</a> and <a href="/vtl-sea/overview" target="_blank">VTL (Sea)</a>.
 
 Please also note that payments made for the entry application under the STPHL are non-refundable, and also cannot be transferred to offset payments required under the VTL. However, if you obtained your entry approval under the STPHL before the announcement of the VTL, and later enter Singapore under the VTL, you may be eligible for a refund.
 
 
+#### 11. Can I apply for both an entry approval (“SafeTravel Pass”) under the Student’s Pass Holder Lane (STPHL) and a Vaccinated Travel Pass (VTP) under the Vaccinated Travel Lane (VTL)?
 
-
-
-#### 12. Can I apply for both an entry approval (“SafeTravel Pass”) under the Student’s Pass Holder Lane (STPHL) and a Vaccinated Travel Pass (VTP) under the Vaccinated Travel Lane (VTL)?
+<b>[For arrivals before 21 February 2022, 2359 hours] </b>
 
 You may apply for both a SafeTravel Pass under the STPHL and a VTP under the VTL for the same travel period. However, please note that if you had applied for the SafeTravel Pass after the announcement of the VTL, the fees you have paid under the STPHL will be non-refundable, and also cannot be transferred to offset payments required under the VTL. 
+
+<b>[For arrivals after 21 February 2022, 2359 hours] </b>
+
+If you are a <a href="/stpl/vaccination-requirements" target="_blank">fully vaccinated</a> Student’s Pass (STP), Long-Term Visit Pass (LTVP), or their respective In-Principle Approval (IPA) holder, you may travel to Singapore under the STPHL <b>without</b> the need to apply for an entry approval, <b>subject to prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a></b>.
+
+For SHN-free travel, you may also enter via the VTL without applying for a VTP, but must meet the prevailing VTL requirements. This includes entering Singapore on a designated VTL flight, bus or ferry service. For more information, please refer to the webpages for the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a>, <a href="/vtl-land/overview" target="_blank">VTL (Land)</a> and <a href="/vtl-sea/overview" target="_blank">VTL (Sea)</a>.
+
+If you are an <a href="/stpl/overview" target="_blank">eligible short-term visitor</a>, you may apply for both a SafeTravel Pass under the STPHL and a VTP under the VTL for the same travel period. However, please note that if you had applied for the SafeTravel Pass after the announcement of the VTL, the fees you have paid under the STPHL will be non-refundable, and also cannot be transferred to offset payments required under the VTL.
+
 
 
 #### 13. If I am unable to secure a seat on a designated flight under the Vaccinated Travel Lane (VTL), can I apply for an entry approval (“SafeTravel Pass”) under the Student’s Pass Holder Lane (STPHL)?
