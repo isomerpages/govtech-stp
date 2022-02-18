@@ -36,9 +36,9 @@ On this page, you will find the following information regarding transiting in Si
 
 <p style="font-size:20px; margin-top:20px; line-height:1.35;">Travellers transiting through Singapore will not be subject to further COVID-19 tests upon arrival.</p>
 
-#### Acceptable Pre-Departure Test Types for Travellers transiting in Singapore before 21 Feb 2022, 2359h
+<!--#### Acceptable Pre-Departure Test Types for Travellers transiting in Singapore before 21 Feb 2022, 2359h
 
-<p style="font-size:20px; line-height:1.35;">For travellers scheduled to transit in Singapore <b>before 21 Feb 2022, 2359h SGT</b>, see the table below for the acceptable COVID-19 tests to be taken, depending on the traveller's 14-day travel history before their scheduled transit in Singapore.</p>
+<p style="font-size:20px; line-height:1.35;">For travellers scheduled to transit in Singapore <b>before 21 Feb 2022, 2359h SGT</b>, see the table below for the acceptable COVID-19 tests to be taken, depending on the traveller's 14-day travel history before their scheduled transit in Singapore.</p>-->
 
 <table>
 <tbody>
