@@ -24,7 +24,9 @@ On this page, you will find the following information regarding transiting in Si
 
 ### 2. COVID-19 Pre-Departure Test
 
-<p style="font-size:20px; line-height:1.35;">In general, all transit travellers must take a COVID-19 test <b>within 2 days before departure for Singapore and obtain a negative test result</b>, except for the following:
+<p style="font-size:20px; line-height:1.35;">Travellers scheduled to transit in Singapore <b>from 21 Feb 2022, 2359h</b> will no longer be required to take a pre-departure test.</p>
+
+<p style="font-size:20px; line-height:1.35;">In general, all transit travellers who are scheduled to transit in Singapore <b>before 21 Feb 2022, 2359h</b> must take a COVID-19 test <b>within 2 days before departure for Singapore and obtain a negative test result</b>, except for the following:
 <ol style="margin-top:10px; margin-bottom:10px; font-size:20px;">
 	<li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;">Aged 2 or below in the current calendar year (i.e. born in or after 2020); or</li>
 	<li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;">Travellers who recently recovered from COVID-19 before their departure to Singapore (see section on <a href="#recovered">recovered travellers</a>).</li>
@@ -69,11 +71,6 @@ On this page, you will find the following information regarding transiting in Si
 	</tr>
 	</tbody>
 	</table>
-
-#### Acceptable Pre-Departure Test Types for Travellers transiting in Singapore before 21 Feb 2022, 2359h
-
-<p style="font-size:20px; line-height:1.35;">All transit travellers scheduled to transit in Singapore <b>from 21 Feb 2022, 2359h SGT</b> must take either a COVID-19 Polymerase Chain Reaction Test; <b>OR</b> Antigen Rapid Test that is administered by a trained professional (i.e. self-swabs are disallowed)<b> within 2 days before departure for Singapore and obtain a negative test result.</b> </p>
-
 
 <div id="recovered"></div>
 
