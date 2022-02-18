@@ -32,7 +32,7 @@ Prevailing <a href="/shn-and-swab-summary" target="_blank">health protocols</a> 
 
 
 
-#### 2. I am a Student’s Pass In-Principle Approval (STP-IPA) holder. When applying for entry through the SafeTravel portal, I received the error message “Invalid IPA number”.
+<!--#### 2. I am a Student’s Pass In-Principle Approval (STP-IPA) holder. When applying for entry through the SafeTravel portal, I received the error message “Invalid IPA number”.
 
 Please ensure that all details have been entered accurately, including your name and date of birth.
 
@@ -47,19 +47,25 @@ Should you still encounter the error message after trying the above, please subm
 <li>screenshot of the application details and error message;</li>
 <li>STP-IPA letter; and</li> 
 <li>Passport biodata page</li>
-</ol>
+</ol>-->
 
-#### 3. I have obtained an entry approval, but I would like to change the validity period.
+#### 2. I have obtained an entry approval, but I would like to change the validity period.
 
-We seek your understanding that the validity period of entry approvals cannot been amended, once issued. 
+We seek your understanding that the validity period of entry approvals cannot be amended, once issued. 
 
-If you wish to enter Singapore in a different period, please submit a new application via the <a href="https://go.gov.sg/stphl-application">SafeTravel portal</a>. If you had made payment for your earlier entry application, please note that this is non-refundable.  
+If you had made payment for your earlier entry application, please note that this is non-refundable.
 
 In the meantime, you may wish to seek advice from your university/ school on your academic matters.
 
-#### 4. I am a Student's Pass (STP) holder in a post-graduate programme. Can my spouse and children seek entry approval via the Student's Pass Holder Lane (STPHL) as well? 
 
-The spouse and children of STP holders on post-graduate programme are eligible for entry via the STPHL. You may submit an entry application for your spouse and children [here](https://go.gov.sg/sto-enquiry)
+#### 3. I am a Student's Pass (STP) holder in a post-graduate programme. Can my spouse and children seek entry approval via the Student's Pass Holder Lane (STPHL) as well? 
+
+The spouse and children of STP holders on post-graduate programme are eligible for entry via the STPHL. 
+
+From 21 February 2022, 2359 hours, if they are <a href="/stpl/vaccination-requirements" target="_blank">fully vaccinated</a> and hold Student’s Passes, ICA-issued Long-Term Visit Passes, or the In-Principle Approval (IPA) of these passes, they may travel to Singapore <b>without</b> the need to apply for an entry approval. They must show their long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint.
+
+If they do not hold any Singapore long-term passes, you may submit an entry application for your spouse and children <a href="https://go.gov.sg/moe-entry-application" target="_blank">here</a>.
+
 
 #### 5. I would like appeal for an Entry Approval for my child and I to enter Singapore so that he/she can sit for tests conducted as part of the Admissions Exercise for International Students (AEIS).
 
