@@ -115,7 +115,7 @@ If you are aged below 12 years old at the point of arrival, the vaccination cond
 	</tr>
 		<tr>
 		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">If you are aged between 12 to less than 18 years old at the point of arrival, you may enter without proof of vaccination, on the condition that you complete the full vaccination regimen within two months after you arrive in Singapore.</td>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">You may proceed with your entry application as described here.</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">You may proceed with your entry application as described <a href="/stpl/overview" target="_blank">here</a>.</td>
 	</tr>
 			<tr>
 		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">If you are aged 18 years old and above at the point of arrival, you will have to complete the full regimen of WHO Emergency Use Listing (WHO EUL) vaccines* at least two weeks before arrival.</td>
