@@ -157,9 +157,10 @@ If you are aged below 12 years old at the point of arrival, the vaccination cond
 	</tr>
 	</tbody>
 	</table>
+	<p>*Travellers who recovered from a COVID-19 infection and then took one dose of a WHO EUL vaccine should refer to Question 8.</p>
+	
 
-
-#### 8. I have recovered from a COVID-19 infection and have 1 dose of a PSAR approved vaccine. Am I considered fully vaccinated? Can I apply for an entry approval via the Student's Pass Holder Lane (STPHL)?
+#### 7. I have recovered from a COVID-19 infection and have taken 1 dose of a World Health Organisation Emergency Use Listing (WHO EUL)  vaccine. Am I considered fully vaccinated? Can I enter via the Student’s Pass Holder Lane (STPHL)?
 
 Travellers are considered fully vaccinated if they have received 1 dose of a PSAR-approved vaccine after recovering from a COVID-19 infection. The vaccination should be taken no earlier than 3 months from the date of their diagnosis, if they had not already completed vaccination previously. 
 
