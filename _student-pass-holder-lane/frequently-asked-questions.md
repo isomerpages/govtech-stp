@@ -93,38 +93,33 @@ If you are travelling within the validity period of your entry approval, you may
 
 ### Vaccination requirements for entry under the Student's Pass Holder Lane (STPHL)
 
+
 #### 6. I am not yet fully vaccinated. Can I enter via the Student’s Pass Holder Lane (STPHL)?
 
 All travellers entering Singapore under the Student’s Pass Holder Lane must meet the <a href="/stpl/vaccination-requirements" target="_blank">vaccination requirements</a> for entry.
 
-##### [For arrivals before 21 February 2022, 2359 hours] 
+<b>[For arrivals before 21 February 2022, 2359 hours]</b>
 
 <table>
 <thead>
 <tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>Types of pass holders</b></th>
-	<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>Need to apply for entry approval to enter Singapore?</b></th>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>Traveller type and vaccination requirement</b></th>
+	<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>How and Where to Apply for Entry</b></th>
 </tr>
 </thead>
 <tbody>
 		<tr>
 		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
-<ol style="list-style-type:disc;">
-	<li style="font-size:18px; margin-top:0px; line-height:1.5;">Work Permit holders (i.e. workers employed by companies, helpers and confinement nannies)</li>
-		<li style="font-size:18px; margin-top:0px; line-height:1.5;">Training Work Permit holders</li>
-			</ol>
-		</td>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">Yes.</td>
+If you are aged below 12 years old at the point of arrival, the vaccination condition for entry will not apply to you.</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">You may proceed with your entry application as described here.</td>
 	</tr>
 		<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">All other pass holders (e.g. Employment Pass, S Pass holders and their dependants)
-		</td>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">No. But they still need to comply with the prevailing travel health control measures, and show all these documents during departure and upon arrival:
-<ol style="list-style-type:disc;">
-	<li style="font-size:18px; margin-top:0px; line-height:1.5;">MOM passes or IPA letters</li>
-		<li style="font-size:18px; margin-top:0px; line-height:1.5;"><a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes" target="_blank">Proof of vaccination status or exemption</a></li>
-			</ol>
-</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">If you are aged between 12 to less than 18 years old at the point of arrival, you may enter without proof of vaccination, on the condition that you complete the full vaccination regimen within two months after you arrive in Singapore.</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">You may proceed with your entry application as described here.</td>
+	</tr>
+			<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">If you are aged 18 years old and above at the point of arrival, you will have to complete the full regimen of WHO Emergency Use Listing (WHO EUL) vaccines* at least two weeks before arrival.</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">If you are medically ineligible for vaccination or have extenuating reasons for not being fully vaccinated before arrival, you may submit an entry appeal here. Please submit your appeal at least 3 weeks before your intended date of entry.</td>
 	</tr>
 	</tbody>
 	</table>
