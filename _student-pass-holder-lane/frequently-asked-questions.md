@@ -18,6 +18,8 @@ Can't find what you are looking for? Please check <a href="/health/faq" target="
 
 #### 1. When is the latest I can submit my entry application?
 
+##### [For arrivals before 21 February 2022, 2359 hours]
+
 Applicants are required to submit their entry applications <u><b>at least two weeks before their intended period of travel</b></u>.
 
 Travellers may apply for entry in the SafeTravel application portal up to nine weeks before their intended travel period. As entry approvals are issued on a first-come-first-serve basis, travellers are encouraged to apply early, once their travel plans are firmed up. Those who are unable to secure their desired period of entry are advised to check for new entry periods the following week, or defer their travels until the situation has stabilised. 
