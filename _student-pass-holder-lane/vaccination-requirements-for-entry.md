@@ -2,7 +2,6 @@
 title: Vaccination Requirements for Entry
 permalink: /stpl/vaccination-requirements
 ---
-
 ### All travellers entering Singapore under the Student’s Pass Holder Lane must be fully vaccinated before arrival. This page outlines:
 
 <ol>
@@ -124,7 +123,7 @@ permalink: /stpl/vaccination-requirements
 
 <p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged below 12 years old on the date of entry:</u></b></p>
 
-<p style="font-size:18px; margin-top:10px; line-height:1.5;">The vaccination condition for entry will not apply to you.</p>
+<p style="font-size:18px; margin-top:10px; line-height:1.5;">The vaccination condition for entry will not apply to you if you are aged 12 years old to below 18 years old on the date of entry.</p>
 
 <table>
   <thead>
@@ -179,4 +178,3 @@ permalink: /stpl/vaccination-requirements
     </tr>	  
 	</tbody>
 	</table>
-
