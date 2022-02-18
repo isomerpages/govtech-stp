@@ -136,7 +136,7 @@ If you are aged below 12 years old at the point of arrival, the vaccination cond
 </tr>
 	<tr>
 		<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>Student’s Pass (STP) and Long-Term Visit Pass (LTVP) holders, including In-Principle Approval (IPA) holders</b></th>
-				<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>Eligible short-term visitors who do not hold Singapore long-term passes</b></th>
+				<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b><a href="/stpl/overview" target="_blank">Eligible short-term visitors</a> who do not hold Singapore long-term passes</b></th>
 	</tr>
 </thead>
 <tbody>
