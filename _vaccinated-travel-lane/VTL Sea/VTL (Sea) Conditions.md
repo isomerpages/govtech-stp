@@ -12,7 +12,7 @@ third_nav_title: VTL Sea
 			<li style="font-size:20px;">The VTP (Sea) shall not be valid for a non-Malaysian male who is:
 			<ol style="font-size:20px; list-style-type:lower-roman;">
 				<li style="font-size:20px;">a Work Permit Holder;</li>
-				<li style="font-size:20px;">an S Pass holder; or</li>
+				<!--<li style="font-size:20px;">an S Pass holder; or</li>-->
 				<li style="font-size:20px;">a holder of an In-Principle Approval for Work Permit or S Pass, </li>
 				</ol>
 				<p style="font-size:20px; margin-top:0px; line-height:1.5;">if he is staying in a Dormitory<sup>1</sup> or if he is working in the Construction, Marine or Process sector.</p>
