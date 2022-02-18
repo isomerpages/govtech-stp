@@ -70,11 +70,6 @@ On this page, you will find the following information regarding transiting in Si
 	</tbody>
 	</table>
 
-#### Acceptable Pre-Departure Test Types for Travellers transiting in Singapore before 21 Feb 2022, 2359h
-
-<p style="font-size:20px; line-height:1.35;">All transit travellers scheduled to transit in Singapore <b>from 21 Feb 2022, 2359h SGT</b> must take either a COVID-19 Polymerase Chain Reaction Test; <b>OR</b> Antigen Rapid Test that is administered by a trained professional (i.e. self-swabs are disallowed)<b> within 2 days before departure for Singapore and obtain a negative test result.</b> </p>
-
-
 <div id="recovered"></div>
 
 ### 3. Requirements for Recently-Recovered Travellers
