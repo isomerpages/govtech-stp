@@ -118,8 +118,8 @@ If you are aged below 12 years old at the point of arrival, the vaccination cond
 		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">You may proceed with your entry application as described <a href="/stpl/overview" target="_blank">here</a>.</td>
 	</tr>
 			<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">If you are aged 18 years old and above at the point of arrival, you will have to complete the full regimen of WHO Emergency Use Listing (WHO EUL) vaccines* at least two weeks before arrival.</td>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">If you are medically ineligible for vaccination or have extenuating reasons for not being fully vaccinated before arrival, you may submit an entry appeal here. Please submit your appeal at least 3 weeks before your intended date of entry.</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">If you are aged 18 years old and above at the point of arrival, you will have to complete the <a href="/health/vtsg" target="_blank">full regimen of WHO Emergency Use Listing (WHO EUL) vaccines</a>* at least two weeks before arrival.</td>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">If you are medically ineligible for vaccination or have extenuating reasons for not being fully vaccinated before arrival, you may submit an entry appeal <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">here</a>. Please submit your appeal at least 3 weeks before your intended date of entry.</td>
 	</tr>
 	</tbody>
 	</table>
