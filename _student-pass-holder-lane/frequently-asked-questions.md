@@ -162,23 +162,23 @@ If you are aged below 12 years old at the point of arrival, the vaccination cond
 
 #### 7. I have recovered from a COVID-19 infection and have taken 1 dose of a World Health Organisation Emergency Use Listing (WHO EUL)  vaccine. Am I considered fully vaccinated? Can I enter via the Student’s Pass Holder Lane (STPHL)?
 
-Travellers are considered fully vaccinated if they have received 1 dose of a PSAR-approved vaccine after recovering from a COVID-19 infection. The vaccination should be taken no earlier than 3 months from the date of their diagnosis, if they had not already completed vaccination previously. 
-
-However, to ensure smooth boarding and immigration clearance, such travellers will need to obtain an exemption letter from the Ministry of Education. They may do so by submitting an application [here](https://go.gov.sg/moe-vaccination-exemption). They do <b><u>not</u></b> submit an entry application via the [SafeTravel Portal](https://go.gov.sg/stphl-application).
+Travellers are considered fully vaccinated if they have received 1 dose of a WHO EUL vaccine after recovering from a COVID-19 infection. The vaccination should be taken at least 28 days after the date of their diagnosis and at least two weeks before arrival. <a href="/vaccinated-recovered" target="_blank">Acceptable proof of the first diagnosis date</a> will be required. 
 
 
 <div id="vtl"></div>
 
 ### Student's Pass Holders who are considering travel under the Vaccinated Travel Lanes (VTL)
 
-#### 9. If I am entering from a country that Singapore has established a Vaccinated Travel Lane (VTL) with, what are the requirements for entry approval? 
+#### 8. If I am entering from a country that Singapore has established a Vaccinated Travel Lane (VTL) with, what are the requirements for entry approval?
 
-Fully Vaccinated STP/STP-IPA holders from a VTL (Air/Land) country can enter Singapore either: 
+<b>[For arrivals before 21 February 2022, 2359 hours] </b>
+
+Fully Vaccinated Student’s Pass (STP)/STP-In Principle Approval (STP-IPA) holders and eligible family members from a VTL (Air/Land) country can enter Singapore either:
 
 <ol>
   <li style="line-height:1.5;">Under the vaccinated Travel Lanes (<a href="/vtl/requirements-and-process" target="_blank">Air</a> / <a href="/vtl-land/overview" target="_blank">Land</a>): Obtain a valid Vaccinated Travel Pass (VTP) <b>at least 3 days before </b>planned arrival. <br><br> To be eligible for the VTLs, the traveller must only have travel history to Singapore, <a href="/vtl/requirements-and-process#countries" target="_blank">VTL countries</a> or <a href="/shn-and-swab-summary" target="_blank"> Category I countries/regions</a>, can only arrive in Singapore on a designated VTL flight/bus, and must satisfy all conditions under the VTL (Air / Land).</li>
   <p style="margin-top:10px; margin-bottom:10px;"><b>OR</b></p>
-  <li style="line-height:1.5;">Under the <a href="/stpl/overview" target="_blank">Student's Pass Holder Lane (STPHL)</a>: Obtain a valid entry approval (“SafeTravel Pass”) at least 2 weeks before your planned arrival. Applications can be made <a href="https://eservices.ica.gov.sg/STO1/STPHL" target="_blank">here</a>.<br/><br/>The STP/STP-IPA holder will be subject to the prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a>. <br/><br/> Please also note that all payments made for entry applications under the STPHL are <b>non-refundable</b>, and also <b>cannot be transferred</b> to offset payments required under the VTL </li>
+  <li style="line-height:1.5;">Under the <a href="/stpl/overview" target="_blank">Student's Pass Holder Lane (STPHL)</a>: Obtain a valid entry approval (“SafeTravel Pass”) at least 2 weeks before your planned arrival. Applications can be made <a href="https://eservices.ica.gov.sg/STO1/STPHL" target="_blank">here</a>.<br/><br/>The traveller will be subject to the prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a>.<br/><br/> Please also note that all payments made for entry applications under the STPHL are <b>non-refundable</b>, and also <b>cannot be transferred</b> to offset payments required under the VTL </li>
   </ol> 
   
 STP/STP-IPA holders who do not fulfil the requirements of the respective travel lanes on arrival will be denied entry into Singapore.
