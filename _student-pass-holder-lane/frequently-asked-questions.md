@@ -84,17 +84,16 @@ If you are travelling within the validity period of your entry approval, you may
 
 ##### [For arrivals from 21 February 2022, 2359 hours] 
 
-Fully vaccinated Student’s Pass (STP) and Long-Term Visit Pass (LTVP) holders, including In-Principle Approval (IPA) holders: You may enter Singapore on your new arrival date without the need to apply for another entry approval.
+<a href="/stpl/vaccination-requirements" target="_blank">Fully vaccinated</a> Student’s Pass (STP) and Long-Term Visit Pass (LTVP) holders, including In-Principle Approval (IPA) holders: You may enter Singapore on your new arrival date <b>without</b> the need to apply for another entry approval.
 
-Eligible short-term visitors who do not hold Singapore long-term passes: If you are travelling within the validity period of your entry approval, you may use your existing entry approval. However, if you are now travelling outside of the validity period, you will need to submit a new application here.
-
+<a href="/stpl/overview" target="_blank">Eligible short-term visitors</a> who do not hold Singapore long-term passes: If you are travelling within the validity period of your entry approval, you may use your existing entry approval. However, if you are now travelling outside of the validity period, you will need to submit a new application <a href="https://go.gov.sg/moe-entry-application" target="_blank">here</a>.
 
 
 <div id="vaccination"></div>
 
 ### Vaccination requirements for entry under the Student's Pass Holder Lane (STPHL)
 
-#### 7. I am not yet fully vaccinated. Can I apply for an entry approval via the Student's Pass Holder Lane (STPHL)?
+#### 6. I am not yet fully vaccinated. Can I apply for an entry approval via the Student's Pass Holder Lane (STPHL)?
 
 For arrivals from 1 November 2021, 0001 hours, travellers entering Singapore under the Student's Pass Holder Lane must meet the [vaccination requirements](/stpl/vaccination-requirements) for entry. 
 
