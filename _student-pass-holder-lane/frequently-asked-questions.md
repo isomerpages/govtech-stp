@@ -123,9 +123,10 @@ If you are aged below 12 years old at the point of arrival, the vaccination cond
 	</tr>
 	</tbody>
 	</table>
+	<p>*Travellers who recovered from a COVID-19 infection and then took one dose of a WHO EUL vaccine should refer to Question 8.</p>
 
 
-##### [For arrivals from 21 February 2022, 2359 hours] 
+<b> [For arrivals from 21 February 2022, 2359 hours]</b> 
 
 
 
