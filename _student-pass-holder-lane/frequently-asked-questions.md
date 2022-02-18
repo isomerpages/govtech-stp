@@ -93,15 +93,18 @@ If you are travelling within the validity period of your entry approval, you may
 
 ### Vaccination requirements for entry under the Student's Pass Holder Lane (STPHL)
 
-#### 6. I am not yet fully vaccinated. Can I apply for an entry approval via the Student's Pass Holder Lane (STPHL)?
+#### 6. I am not yet fully vaccinated. Can I enter via the Student’s Pass Holder Lane (STPHL)?
 
-For arrivals from 1 November 2021, 0001 hours, travellers entering Singapore under the Student's Pass Holder Lane must meet the [vaccination requirements](/stpl/vaccination-requirements) for entry. 
+All travellers entering Singapore under the Student’s Pass Holder Lane must meet the <a href="/stpl/vaccination-requirements" target="_blank">vaccination requirements</a> for entry.
 
-If you are aged below 12 years old at the point of arrival, the vaccination condition for entry will not apply to you. You may proceed with your entry application as described [here.](/stpl/overview)
+##### [For arrivals before 21 February 2022, 2359 hours] 
 
-If you are aged between 12 to less than 18 years old at the point of arrival, you may enter without proof of vaccination, on the condition that you complete the full vaccination regimen within two months after you arrive in Singapore. You may proceed with your entry application as described [here.](/stpl/overview)
 
-If you are aged 18 years old and above at the point of arrival, you will have to be fully vaccinated before arrival. If you are medically ineligible for vaccination or have extenuating reasons for not being fully vaccinated before arrival, you may submit an entry appeal [here](https://go.gov.sg/moe-vaccination-exemption). Please submit your appeal at least 3 weeks before your intended date of entry. Please do <b><u>not</u></b> submit an entry application via the [SafeTravel Portal](https://go.gov.sg/stphl-application)
+
+
+##### [For arrivals from 21 February 2022, 2359 hours] 
+
+
 
 #### 8. I have recovered from a COVID-19 infection and have 1 dose of a PSAR approved vaccine. Am I considered fully vaccinated? Can I apply for an entry approval via the Student's Pass Holder Lane (STPHL)?
 
