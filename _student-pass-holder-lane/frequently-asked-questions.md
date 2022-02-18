@@ -22,7 +22,18 @@ Can't find what you are looking for? Please check <a href="/health/faq" target="
 
 Applicants are required to submit their entry applications <u><b>at least two weeks before their intended period of travel</b></u>.
 
-Travellers may apply for entry in the SafeTravel application portal up to nine weeks before their intended travel period. As entry approvals are issued on a first-come-first-serve basis, travellers are encouraged to apply early, once their travel plans are firmed up. Those who are unable to secure their desired period of entry are advised to check for new entry periods the following week, or defer their travels until the situation has stabilised. 
+##### [For arrivals from 21 February 2022, 2359 hours]
+
+<a href="/stpl/vaccination-requirements" target="_blank">Fully vaccinated</a> Student’s Pass (STP) and Long-Term Visit Pass (LTVP) holders, including In-Principle Approval (IPA) holders, may travel to Singapore without the need to apply for an entry approval. They must show their long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint for entry to Singapore.
+
+<a href="/stpl/overview" target="_blank">Eligible short-term visitors</a> who do not hold Singapore long-term passes must submit their entry applications at least one week before their intended period of travel, and up to nine weeks in advance.
+
+Prevailing <a href="/shn-and-swab-summary" target="_blank">health protocols</a> will continue to apply to all travellers. To enjoy quarantine-free measures, travellers departing from Vaccinated Travel Lane (VTL) countries/regions may consider entering Singapore under the VTL instead. 
+
+
+
+
+
 
 #### 2. I am a Student’s Pass In-Principle Approval (STP-IPA) holder. When applying for entry through the SafeTravel portal, I received the error message “Invalid IPA number”.
 
