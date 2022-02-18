@@ -18,11 +18,11 @@ Can't find what you are looking for? Please check <a href="/health/faq" target="
 
 #### 1. When is the latest I can submit my entry application?
 
-##### [For arrivals before 21 February 2022, 2359 hours]
+<b>[For arrivals before 21 February 2022, 2359 hours]</b>
 
 Applicants are required to submit their entry applications <u><b>at least two weeks before their intended period of travel</b></u>.
 
-##### [For arrivals from 21 February 2022, 2359 hours]
+<b> [For arrivals from 21 February 2022, 2359 hours]</b>
 
 <a href="/stpl/vaccination-requirements" target="_blank">Fully vaccinated</a> Student’s Pass (STP) and Long-Term Visit Pass (LTVP) holders, including In-Principle Approval (IPA) holders, may travel to Singapore <b>without</b> the need to apply for an entry approval. They must show their long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint for entry to Singapore.
 
@@ -30,24 +30,6 @@ Applicants are required to submit their entry applications <u><b>at least two we
 
 Prevailing <a href="/shn-and-swab-summary" target="_blank">health protocols</a> will continue to apply to all travellers. To enjoy quarantine-free measures, travellers departing from Vaccinated Travel Lane (VTL) countries/regions may consider entering Singapore under the VTL instead. 
 
-
-
-<!--#### 2. I am a Student’s Pass In-Principle Approval (STP-IPA) holder. When applying for entry through the SafeTravel portal, I received the error message “Invalid IPA number”.
-
-Please ensure that all details have been entered accurately, including your name and date of birth.
-
-For your name, please type it as shown in your passport biodata page. If your name contains a hyphen ( - ), slash ( / ), at ( @ ) or apostrophe ( ‘ ), please include them. All other special characters will not be accepted in the entry application. For example, if your name contains a comma ( , ), please exclude it. 
-
-If your name contains any other special characters, please follow the machine-readable zone of the passport. An illustration can be found <a href="/faq/tech#TravellerDetails">here</a> to show how to locate the passport’s machine readable zone. 
-
-You may also try entering your name in a different sequence.  For example, try entering both ‘John Smith’ and ‘Smith John’, or ‘Tan Jia Hui’ and ‘Jia Hui Tan’.
-
-Should you still encounter the error message after trying the above, please submit a SafeTravel Enquiry Form <a href="/contact-us">here</a>, and provide us with the following to facilitate our investigation of the issue:
-<ol style="list-style-type:decimal;">
-<li>screenshot of the application details and error message;</li>
-<li>STP-IPA letter; and</li> 
-<li>Passport biodata page</li>
-</ol>-->
 
 #### 2. I have obtained an entry approval, but I would like to change the validity period.
 
@@ -78,11 +60,11 @@ Only Student's Pass (STP) holders, Student's Pass In-Principle Approval (STP-IPA
 
 #### 5. My flight has been cancelled or delayed, and I will be travelling on another date. Can I still travel using my existing entry approval?
 
-##### [For arrivals before 21 February 2022, 2359 hours] 
+<b> [For arrivals before 21 February 2022, 2359 hours] </b>
 
 If you are travelling within the validity period of your entry approval, you may use your existing entry approval. However, if you are now travelling outside of the validity period, please refer to the below.
 
-##### [For arrivals from 21 February 2022, 2359 hours] 
+<b>[For arrivals from 21 February 2022, 2359 hours] </b>
 
 <a href="/stpl/vaccination-requirements" target="_blank">Fully vaccinated</a> Student’s Pass (STP) and Long-Term Visit Pass (LTVP) holders, including In-Principle Approval (IPA) holders: You may enter Singapore on your new arrival date <b>without</b> the need to apply for another entry approval.
 
