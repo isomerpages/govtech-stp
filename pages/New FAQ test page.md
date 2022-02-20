@@ -92,7 +92,7 @@ label.box {
 
 <b style="color:red;">Note for Long Term Pass Holders (excluding Work Permit Holders) entering from 21 Feb 2022, 2359h, Singapore Citizens and Permanent Residents</b>
 
-If you are a Singapore Citizen or Permanent Resident, or a Long Term Pass Holder (excluding work permit holder) arriving from 21 Feb 2022, 2359h, you need not apply for a VTP. You will need to show an accepted proof of vaccination to the VTL transport operator at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your Singapore Arrival Card / electronic Health Declaration Card submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide here. 
+If you are a Singapore Citizen or Permanent Resident, or a Long Term Pass Holder (excluding work permit holder) arriving from 21 Feb 2022, 2359h, you need not apply for a VTP. You will need to show an accepted proof of vaccination to the VTL transport operator at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate prior to your trip by referring to the guide here. 
 
 <b style="color:red;">Note for Short-Term Visitors and Work Permit Holders</b>
 
