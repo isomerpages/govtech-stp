@@ -6,6 +6,13 @@ layout: post
 description: ""
 published: false
 ---
+<!--Accordions for FAQ-->
+
+<input type="checkbox" id="Singapore" />
+<label for="Singapore" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Singapore</b></label>
+
+<div class="content" style="background-color:#f8f8f8;">
+</div>
 
 
 
@@ -14,6 +21,18 @@ published: false
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+<!---codes from checklist-->
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proof of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u> </p>
 <input id="Singapore-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Singapore-cert" class="accordion"><b>Singapore</b></label>
