@@ -237,6 +237,19 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
 </div>
 
+<input class="accordion" type="checkbox" id="India-cert">
+<label class="accordion" for="India-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>India</b></label>	
+<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>Covid-19 Vaccination Certificate in the <b>international format</b> available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code using the tool on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> website</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:</p>
+  <ol style="list-style-type:disc;">
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose</li>
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:54px; height:84px;" src="/images/QR_Canada.png"></li>
+    </ol>
+</div>
+
 </div>
 
 
