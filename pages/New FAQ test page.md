@@ -239,12 +239,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 
 
 <!-- to be deleted-->
-<input id="Fiji-cert" type="checkbox" class="accordion">
-<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="Fiji-cert" class="accordion"><b>Fiji</b></label>
-		<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Certificate issued by Republic of Fiji
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
-			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
-			<input id="Hongkong-cert" type="checkbox" class="accordion">
+<input id="Hongkong-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Hongkong-cert" class="accordion"><b>Hong Kong <i>[For applications from 22 Feb 2022, 1000h]</i></b></label>
 		<div style="background-color:#ededed;" class="content">COVID-19 Electronic Vaccination Record retrieved from the <a href="https://www.iamsmart.gov.hk/en/" target="_blank">iAM Smart app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
