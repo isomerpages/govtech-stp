@@ -16,7 +16,7 @@ published: false
 		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Vaccination certificate issued by the Singapore Ministry of Health</li>
 		</ol>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Verify.gov.sg or regular QR code scanner on your mobile device</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><a target="_blank" href="https://www.verify.gov.sg/">Verify.gov.sg</a> or regular QR code scanner on your mobile device</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><span style="font-size:18px; color:red;"><b>✕</b></span> &nbsp;<b>LTPHs/STVs who have received their vaccination in Singapore do not need to upload their vaccination QR code during application. The portal should be able to retrieve the vaccination records from Singapore’s National Immunisation Registry.</b></p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Should you experience issues with the retrieval, and you hold the proof of vaccination at (a), please refer to the instructions below to upload your vaccination certificate during application.</p>
