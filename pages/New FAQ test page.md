@@ -20,14 +20,9 @@ published: false
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><span style="font-size:18px; color:red;"><b>✕</b></span> &nbsp;<b>WPHs/STVs who have received their vaccination in Singapore do not need to upload their vaccination QR code during application. The portal should be able to retrieve the vaccination records from Singapore’s National Immunisation Registry.</b></p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Should you experience issues with the retrieval, and you hold the proof of vaccination at (a), please refer to the instructions below to upload your vaccination certificate during application.</p>
-<ol style="list-style-type: lower-roman;">
-	<li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using these tools: <a target="_blank" href="https://www.verify.gov.sg/">Verify.gov.sg</a> or regular QR code scanner on your mobile device</li>
-	<li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
-	<ol style="list-style-type:disc;">
+<ol style="list-style-type:disc;">
 		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
 		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:44px; height:97px;" src="/images/QR_SG.png"></li>
-		</ol>
-	</li>
 		</ol>
 </div>
 
