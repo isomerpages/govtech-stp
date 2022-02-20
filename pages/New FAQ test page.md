@@ -6,7 +6,28 @@ layout: post
 description: ""
 published: false
 ---
-<!--Accordions for FAQ-->
+<!--Accordions for VTL FAQ-->
+
+<div id="1A" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; font-size:18px;">
+<input class="accordion" type="checkbox" id="Singapore-cert">
+<label class="accordion" for="Singapore-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Singapore</b></label>
+	<div class="content" style="background-color:#ededed;">
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>
+<ol style="list-style-type:lower-alpha;"><li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code; or</li>
+<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
+		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Vaccination certificate issued by the Singapore Ministry of Health</li>
+		</ol>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and LTVPs during VTP (Air) Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><span style="font-size:18px; color:red;"><b>&#10005;</b></span> &nbsp;<b>WPHs/STVs who have received their vaccination in Singapore do not need to upload their vaccination QR code during application. The portal should be able to retrieve the vaccination records from Singapore’s National Immunisation Registry.</b></p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Should you experience issues with the retrieval, and you hold the proof of vaccination at (a), please refer to the instructions below to upload your vaccination certificate during application.</p>
+	<ol style="list-style-type:disc;">
+		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
+		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_SG.png" style="width:44px; height:97px;"></li>
+		</ol>
+</div>
+</div>
+
+<!--Accordions for VTL FAQ-->
 
 <input type="checkbox" id="Singapore" />
 <label for="Singapore" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;"><b>Singapore</b></label>
