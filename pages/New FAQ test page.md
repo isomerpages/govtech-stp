@@ -246,7 +246,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 
 
 <!-- to be deleted-->
-			<input id="India-cert" type="checkbox" class="accordion">
+<input id="India-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="India-cert" class="accordion"><b>India</b></label>
 		<div style="background-color:#ededed;" class="content">Covid-19 Vaccination Certificate in the international format available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
