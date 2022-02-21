@@ -112,7 +112,7 @@ Please note that:
 <table>
 <thead>
 <tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 2: All other Pass Holders (e.g. Employment Pass, S Pass holders and Dependent's Pass holders)</b></th>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 2: All other Pass Holders (e.g. Employment Pass, S Pass and Dependent's Pass holders)</b></th>
 </tr>
 </thead>
 <tbody>
