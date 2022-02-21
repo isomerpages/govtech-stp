@@ -3,7 +3,6 @@ title: Frequently Asked Questions
 permalink: /vtl/faq
 description: ""
 ---
-
 <div style="padding-left: 5px; padding-bottom: 20px; padding-top:10px; color:red; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35"><span style="color:red;"><b>This page contains FAQs for travellers who have understood the entry requirements into Singapore via the Vaccinated Travel Lane (Air/Land/Sea). Singapore time (SGT) is used for all dates and times shown on this page. If you are not clear on the VTL (Air/Land/Sea) requirements, please refer to the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air) Overview page</a>, <a href="/vtl-land/overview" target="_blank">VTL (Land) Overview page</a> or <a href="/vtl-sea/overview" target="_blank">VTL (Sea) Overview page</a> before reading this FAQ page.</b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35"><span style="color:red;"><b>Travellers intending to travel out of Singapore to a country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</b></span></p>
@@ -867,7 +866,7 @@ A VTP is valid for single entry into Singapore anytime from your intended date o
 
 #### 11. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
 
-If your particulars have changed, please write to the Safe Travel Office using the enquiry form here with your revised particulars.
+If your particulars have changed, please write to the Safe Travel Office using the <a href="" target="_blank">enquiry form here</a> with your revised particulars.
 
 #### 12. How can I change my passport number on my VTP?
 
