@@ -298,6 +298,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
   </li>
     </ol>
 </div>
+
 <input class="accordion" type="checkbox" id="Maldives-cert">
 <label class="accordion" for="Maldives-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Maldives</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>COVID-19 Digital Certification downloaded from the Health Protection Agency Maldives’ <a target="_blank" href="https://covidsafe.gov.mv/">website</a>
@@ -309,7 +310,16 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
     </ol>
 </div>
 
-
+<input class="accordion" type="checkbox" id="Philippines-cert">
+<label class="accordion" for="Philippines-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Philippines <i>[For applications from 1 Mar 2022, 1000h]</i></b> </label>	
+<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>COVID-19 Vaccination Certificate (<a href="https://vaxcert.doh.gov.ph/" target="_blank">VaxCertPH</a>) issued by the Department of Health
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:</p>
+  <ol style="list-style-type:disc;">
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:84px; height:120px; vertical-align:middle;" src="/images/QR_Indonesia.png"></li>
+    </ol>
+</div>
 
 </div>
 
@@ -320,16 +330,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 
 
 <!-- to be deleted-->
-<input id="Philippines-cert" type="checkbox" class="accordion">
-<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Philippines-cert" class="accordion"><b>Philippines <i>[For applications from 1 Mar 2022, 1000h]</i></b></label>
-	<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Certificate (<a href="https://vaxcert.doh.gov.ph/" target="_blank">VaxCertPH</a>) issued by the Department of Health
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
-	<ol style="list-style-type:disc;">
-		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
-		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:84px; height:120px;" src="/images/QR_Indonesia.png"></li>
-		</ol>
-</div>
-	<input id="Qatar-cert" type="checkbox" class="accordion">
+<input id="Qatar-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Qatar-cert" class="accordion"><b>Qatar <i>[For applications from 22 Feb 2022, 1000h]</i></b></label>
 	<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a> 
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
