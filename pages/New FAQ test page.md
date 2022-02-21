@@ -396,6 +396,8 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><b>[For children aged 13 to 15]</b> Digital vaccination record retrieved from the public health database of the local health authority.</li>
 			</ol>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;">If you hold the proof of vaccination at (a) or (b), self-verify your QR code using the following tools: DCC Checker (Web App) COVID Certificate Check (Android) or COVID Certificate Check (iOS)</p>
+	<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application. Please screen-capture one QR code at a time, and upload each QR code into the portal accordingly.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If you have a proof of vaccination in (c), please write to the SafeTravel Office using the <a target="_blank" href="https://go.gov.sg/sto-enquiry">enquiry form here</a> with your documents attached for verification.</p>
   <ol style="list-style-type:disc;">
@@ -425,7 +427,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 			</ol>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">If you hold the proof of vaccination at (a), self-verify your QR code using the following tools: <a target="_blank" href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier">SMART Health Card Verifier</a> (Android) or <a target="_blank" href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390">SMART Health Card Verifier</a> (iOS)</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If you have only a proof of vaccination in (b) or (c), you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in either (b) or (c), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If you have only a proof of vaccination in (b) or (c), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in either (b) or (c), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
   <ol style="list-style-type:disc;">
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload:</b> 
 			<ol style="list-style-type:circle;">
