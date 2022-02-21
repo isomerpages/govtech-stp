@@ -73,4 +73,4 @@ third_nav_title: VTL Sea
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>3</sup>If the pre-departure test is taken on 1 January 2022, it will be valid for departures up to 3 January 2022, 2359 hours.</p>
 
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>4</sup>Please refer to <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">https://www.gowhere.gov.sg/testcentres</a> for more details on the Quick Test Centres and Combined Test Centres.</p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>4</sup>Please refer to <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">https://www.go.gov.sg/traveller-art-test</a> for more details on the Quick Test Centres and Combined Test Centres.</p>
