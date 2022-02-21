@@ -208,12 +208,6 @@ permalink: /travel-checklist/category-1
 </ol>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B)[For travellers arriving before 21 Feb 2022, 2359h] On-arrival COVID-19 Test</b></i></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">Follow the instructions of the officers at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test. </p>
-	<p style="line-height:1.35;font-size:18px;">Travellers who did not pay for the test before arival (see Stage 1F) will do so on the spot an expect additional delays in the administration of test and departure from checkpoint</p>
-	</div>
-
 
 ### Stage 4: Health Protocols during Stay in Singapore
 
