@@ -41,13 +41,12 @@ third_nav_title: VTL Sea
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input id="1B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1B" class="box">&nbsp;&nbsp;<b>Stage 1B: [For STV/LTPHs only] Apply for Vaccinated Travel Pass</b></label></div>
-<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><!--<a target="_blank" href="https://go.gov.sg/vtl-portal"><b>Click Here To Apply For a VTP</b></a>--> <b>Vaccinated Travel Pass (Sea) applications will open on 22 Feb 2022, 10am.</b> 
+<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a target="_blank" href="https://go.gov.sg/vtl-portal"><b>Click Here To Apply For a VTP</b></a> 
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>There is no need to rush to apply as there is no limit on VTP applications and it is more important to secure VTL ferry tickets first</b></p>
 	</div><p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Apply <u>between 3 and 60 calendar days</u> before the intended date of entry.</b></p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b style="color:red">❓</b>&nbsp; Refer to <a target="_blank" href="/vtl/faq#invalidcode">FAQs</a> here if you have issues with uploading your QR code.</p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; <b>Non-Malaysian male Work Permit Holders in the Construction, Marine shipyard or Process (CMP) Sector, or workers staying in dormitories</b> are not allowed to use VTL (Sea) and should apply for entry via the <a target="_blank" href="/wphl/overview">Work Pass Holder General Lane</a>.</p>
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; <b>No application is required for Singapore Citizens and Permanent Residents.</b></p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; <b>Long-Term Pass holders, excluding Work Permit holders, who are entering Singapore from 21 Feb 2022, 2359h, will no longer need to apply.</b></p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; <b>Unvaccinated children aged 12 and below in this calendar year</b> (i.e. born in or after 2010) do not need to apply. However, they must comply with all other VTL (Sea) conditions and be accompanied by a <a target="_blank" href="/health/vtsg">fully vaccinated</a> VTL (Sea) traveller.</p>
 </div>
 
@@ -64,7 +63,7 @@ third_nav_title: VTL Sea
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">All VTL travellers MUST:</p>
 <ol style="list-style-type:lower-roman;">
-		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Have <b>only</b> travelled to / transited via any VTL countries/regions, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 14 consecutive days (or 7 consecutive days, for travellers entering Singapore <b>from 21 Feb 2022, 2359h</b>) before departure for Singapore; and</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Have <b>only</b> travelled to / transited via any VTL countries/regions, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 7 consecutive days before departure for Singapore; and</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a <b>designated VTL (Sea) ferry</b> operated by the following regional ferry service operators:
 <ol style="padding-left:20px; margin-top:10px; list-style-type: disc;">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;"><a href="https://www.batamfast.com/home/index.ashx" target="_blank">BatamFast</a></li>
@@ -147,7 +146,7 @@ third_nav_title: VTL Sea
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1H" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1H">&nbsp;&nbsp;<b>Stage 1H: Take Pre-departure COVID-19 Test (PDT)</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">All travellers, except the groups listed below, must take a Pre-Departure Test (PDT) within 2 days before departure for Singapore:</p>
+		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">All travellers, except the groups listed below, must take a Pre-Departure Test (PDT) within 2 days before departure for Singapore (e.g. a traveller departing for Singapore on 3 December 2021 should take a pre-departure COVID-19 test no earlier than 1 December 2021):</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Aged two or below in this calendar year (i.e. born in or after 2020); OR</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this <a target="_blank" href="https://go.gov.sg/recovered-traveller-checker">self-checker tool</a>, and can show relevant proof of recovery outlined at <a href="#1F">Stage 1F</a>. </li>
@@ -158,7 +157,6 @@ third_nav_title: VTL Sea
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Reflects the date and result of the PCR test.</li>
 	</ol>	
-	<p style="font-size:18px; margin-bottom:0px; line-height:1.35;"><i> <u>Illustration of acceptable 2-day timeline:</u> A traveller departing for Singapore on 3 December 2021 should take a pre-departure COVID-19 test no earlier than 1 December 2021</i></p>
 	</div>
 	
 <div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1I" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1I">&nbsp;&nbsp;<b>Stage 1I: Submit Health Declaration</b></label></div>
