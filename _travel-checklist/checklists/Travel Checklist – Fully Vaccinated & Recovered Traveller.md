@@ -97,17 +97,17 @@ label.box {
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Entry Approvals are needed only for travellers who are:</p>
 <ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Long Term Pass Holders (e.g. Student Pass, Work Pass, S-Pass, Dependant Pass) entering Singapore <b>before 21 Feb 2022, 2359H SGT</b></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Long Term Pass Holders (e.g. Student Pass, Work Pass, S-Pass, Dependant Pass)</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Work Permit holders</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Short term visitors (including family members under the Familial Ties Lane and Student Pass Holder Lane)</li>
 	</ol>
-<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">Long Term Pass Holders (excluding Work Permit Holders) <b>entering from 21 Feb 2022 2359H</b>, as well as Singapore Citizens and Permanent Residents, <b>do not need to apply or present an entry approval to enter Singapore</b>. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes. Unsure which lane you’re eligible for entry, return to the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page.</p> 
+<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">Singapore Citizens, Permanent Residents and Long Term Pass Holders (excluding Work Permit Holders), <b>do not need to apply or present an entry approval to enter Singapore</b>. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes. Unsure which lane you’re eligible for entry, return to the  “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page.</p> 
 	<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
   </div>
   
 <div id="1B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Obtain Proof of Vaccination</b></i></div>	
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:15px;line-height:1.35;">Travellers may be asked for proof of vaccination for various travel-related declarations, and pre-boarding as well as immigration checks. Depending on where you have received your vaccination, the following documents are considered acceptable vaccination proof:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:15px;line-height:1.35;">As proof of one’s vaccination status, travellers will be asked for proof of vaccination for various travel-related declarations, and pre-boarding as well as immigration checks. Depending on where you have received your vaccination, the following documents are considered acceptable vaccination proof:</p>
 	<table>
   <thead>
     <tr>
@@ -233,7 +233,7 @@ label.box {
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Fully vaccinated travellers <b>who are vaccinated overseas and unable to upload their digital vaccination certificates via the SG Arrival Card declaration (per <a href="#1F">Stage 1E</a>)</b> should request the immigration officer to assist with the temporary registration of the traveller’s overseas vaccination status into their TraceTogether mobile application. With this, travellers will be able to show proof of their vaccination status using TraceTogether in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a> for 30 days.</p>
 		<p style=" font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><b>To facilitate the temporary registration of overseas vaccination records into TraceTogether, travellers must (be):</b></p>
 	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Are aged 12 and above; and</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Aged 12 and above; and</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance.</li>
 	</ol>
 	</div>
