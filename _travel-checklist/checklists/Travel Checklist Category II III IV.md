@@ -256,7 +256,7 @@ description: ""
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">The SHN will end after the traveller receives a negative test result (per Stage 4B) or upon completion of the 7-day SHN, whichever is later. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.</p>
 
-<p style="line-height:1.35; font-size:18px;">Travellers who test positive for COVID-19 will and must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>, and the prevailing treatment charges will apply.</p>
+<p style="line-height:1.35; font-size:18px;">Travellers who test positive for COVID-19 will <a href="/health/insurance-and-treatment#treatment" target="_blank">follow the prevailing protocols for recovery and medical treatment</a>, and the prevailing treatment charges will apply if necessary.</p>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i></div>
