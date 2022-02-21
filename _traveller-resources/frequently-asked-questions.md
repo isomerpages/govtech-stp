@@ -17,7 +17,7 @@ Can’t find what you’re looking for? Please check [here](https://www.moh.gov.
 
 <div id="shnsdf"></div>
 
-## Stay Home Notice (SHN) and Dedicated SHN Facility
+## 1. Stay Home Notice (SHN) and Dedicated SHN Facility
 
 <!--#### 1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?
 
