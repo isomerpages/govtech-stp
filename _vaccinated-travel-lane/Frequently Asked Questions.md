@@ -82,7 +82,7 @@ Use the self-checker tool on the <a href="/arriving/overview" target="_blank">Tr
 		</tr>
 		<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/vtl/faq#QRcode" target="_blank">Overseas</a></td>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/vtl/faq#vaxcert" target="_blank">Overseas</a></td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">One of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proof of vaccination</a>, which may include your overseas-issued vaccination certificate</td>
 		</tr>
 				<tr>
@@ -92,7 +92,7 @@ Use the self-checker tool on the <a href="/arriving/overview" target="_blank">Tr
 		</tr>
 				<tr>
 			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/vtl/faq#QRcode" target="_blank">Overseas</a></td>
+						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/vtl/faq#vaxcert" target="_blank">Overseas</a></td>
 						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">A valid Vaccinated Travel Pass (Air) [VTP (Air)], which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>*, and an <a href="/vtl/travel-checklist#proof" target="_blank">accepted proof of vaccination</a>, if necessary.</p>
 </td>
 		</tr>
@@ -119,7 +119,7 @@ You do not need to upload your QR code for booster vaccinations.
 
 <div id="Q6"></div>
 
-#### 4. I was fully vaccinated in a non-VTL (Air) country/region and have an <a href="/vtl/faq#QRcode">accepted proof of vaccination</a>. Do I satisfy the vaccination requirement?
+#### 4. I was fully vaccinated in a non-VTL (Air) country/region and have an <a href="/vtl/faq#vaxcert">accepted proof of vaccination</a>. Do I satisfy the vaccination requirement?
 
 Yes. Please refer to the instructions <a href="/vtl/faq#vaxcert" target="_blank">here</a> for the accepted proof of vaccination.
 
@@ -604,7 +604,7 @@ Please attempt re-uploading your QR code, and ensure that:
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">If you have an India-issued vaccination certificate, that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'</b>. If not, please request for one from the <a href="https://www.cowin.gov.in/" target="_blank">Co-Win website</a>. Please <a href="#india">click here</a> for more details.</li>
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your QR code was uploaded in a high-resolution, .png or .pdf format.</li>
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your date of birth was keyed in the correct format (DD/MM/YYYY)</li>
-	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your proof of vaccination is an accepted <a href="/vtl/faq#QRcode">proof of vaccination</a></li>
+	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your proof of vaccination is an accepted <a href="/vtl/faq#vaxcert">proof of vaccination</a></li>
 		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You have uploaded the <a href="/vtl/faq#numberofcodes" target="_blank">correct number of QR codes</a>, and you are using the correct method of QR code upload
 			<ol><li style="line-height:1.5; margin-top:10px; list-style-type:square;">QR code is cropped from the vaccination certificate document when uploaded</li>
 				<li style="line-height:1.5; margin-top:10px; list-style-type:square;">[For International COVID-19 Vaccination Certificate] Full 1-page PDF file was uploaded</li>
