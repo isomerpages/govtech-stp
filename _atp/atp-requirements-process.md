@@ -114,7 +114,7 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1A"><label class="box" for="1A">&nbsp;&nbsp;<b>A) Check Travel/Transit History</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Visitors must have been to only one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore within the last 14 consecutive days (or 7 consecutive days, for travellers entering Singapore <b>from 21 Feb 2022, 2359h</b>) before departing for Singapore. </p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Visitors must have been to only one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore within the last 7 consecutive days, before departing for Singapore. </p>
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Transits via other countries with a layover of less than 24 hours are not counted toward travel history. Visitors are not required to travel to Singapore on a direct flight; they may transit via a third country, so long as the transit duration is less than 24 hours.</p>
   </div>
 	
@@ -276,13 +276,12 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="3B"><label class="box" for="3B">&nbsp;&nbsp;<b>B) Take On-Arrival COVID-19 Polymerase Chain Reaction (PCR) test</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><i><b><u>Note</u></b>: Travellers entering Singapore <b>from 21 Feb 2022, 2359h</b>, will no longer be required to undergo an on-arrival PCR test at the airport. Instead, they must complete a supervised self-administered Antigen Rapid Test (ART) at a <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore. The test will cost S$15 (inclusive of GST), with payment to be made at the QTC/CTC through cashless modes, such as Mastercard, NETS, PayNow and Visa. You will need to bring along your photo identification for verification.   Travellers who have prepaid for the PCR test can expect a refund from the Changi Airport Group (CAG) for their unutilised test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</i></p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers will no longer be required to undergo an on-arrival PCR test at the airport. Instead, they must complete a supervised self-administered Antigen Rapid Test (ART) at a <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore. Travellers who have previously prepaid for the PCR test can expect a refund from the Changi Airport Group (CAG) for their unutilised test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Not applicable to:</p>
 	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:10px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Children aged two and below in this calendar year (i.e. born in or after 2020); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Fully vaccinated recovered travellers</li>
 </ol>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Follow the instructions of officers at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test.</p>
 	</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
@@ -307,8 +306,8 @@ label.box {
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="5A"><label class="box" for="5A">&nbsp;&nbsp;<b>A) Release from Self-Isolation</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers may leave their accommodation only <b>after</b> receiving a negative result via email for their on-arrival COVID-19 test.</p> 
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers should contact <a href="mailto:airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> if they do not receive their results within 24 hours of the test.</p>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Those who test positive for COVID-19 must follow the relevant recovery protocols and receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a> as necessary, and the prevailing treatment charges will apply.
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers entering Singapore before 21 Feb 2022, 2359h should contact <a href="mailto:airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> if they do not receive their results within 24 hours of the test.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Those who test positive for COVID-19 must follow the <a href="/health/insurance-and-treatment#treatment" target="_blank">relevant recovery protocols and receive medical treatment</a> as necessary, and the prevailing treatment charges will apply.
 </p>
 	</div>
 
