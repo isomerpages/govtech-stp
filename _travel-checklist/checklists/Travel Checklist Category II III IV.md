@@ -177,6 +177,8 @@ description: ""
 </div>	
 </div>
 
+### Stage 2: Departure for Singapore
+
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Pre-boarding Document Checks</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">To ensure that the traveller is eligible for entry into Singapore, they may be asked by the transport operator (e.g. airline) to produce the following during pre-boarding checks:</p>
