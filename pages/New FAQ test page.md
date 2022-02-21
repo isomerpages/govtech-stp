@@ -343,7 +343,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">If you hold the proof of vaccination at (b), self-verify your QR code using the tool on the <a target="_blank" href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&amp;MnLv2=3">KDCA website</a></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate at (a) during application.</p> 
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate of (a) during application.</p> 
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"> If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
   <ol style="list-style-type:disc;">
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
@@ -360,24 +360,6 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 
 
 <!-- to be deleted-->
-<input id="ROK-cert" type="checkbox" class="accordion">
-<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="ROK-cert" class="accordion"><b>Republic of Korea</b></label>
-		<div style="background-color:#ededed;" class="content">
-			<ol style="list-style-type:lower-latin;">
-				<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Static vaccination certificate QR code on the <a target="_blank" href="https://ncv.kdca.go.kr/coov">COOV app</a> or;</li> 
-				<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA) downloaded from the <a target="_blank" href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&amp;MnLv2=3">KDCA website</a></li>
-	</ol>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
-<ol style="list-style-type: lower-roman;">
-  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">If you hold the proof of vaccination at (b), self-verify your QR code using the tool on the <a target="_blank" href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&amp;MnLv2=3">KDCA website</a></li>
-  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate of (a) during application. <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"> If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the enquiry form here and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP (Air) application.</p>
-  <ol style="list-style-type:disc;">
-    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
-    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:72px; height:136px;" src="/images/QR_ROK.png"></li>
-    </ol>
-  </li>
-    </ol>
-</div>
 		<input id="Saudi-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Saudi-cert" class="accordion"><b>Saudi Arabia <i>[For applications from 22 Feb 2022, 1000h]</i></b></label>
 		<div style="background-color:#ededed;" class="content">Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a>
