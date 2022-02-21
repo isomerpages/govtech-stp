@@ -5,7 +5,7 @@ description: Overview of the Familial Ties Lane
 ---
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers with familial roots or obligations in Singapore may enter Singapore under the Familial Ties Lane (FTL). Prevailing health protocols including quarantine (“Stay Home Notice”) may apply for those entering under this lane if their recent travel history includes non-Category (I) countries/regions</p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>, <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> or <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a>to enjoy quarantine-free measures.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <b>Vaccinated Travel Lane(VTL):</b> <a href="/vtl/requirements-and-process" target="_blank"> (Air)</a>, <a href="/vtl-land/overview" target="_blank">(Land)</a> or <a href="/vtl-sea/overview" target="_blank">(Sea)</a>to enjoy quarantine-free measures.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">On this page you will find the following information about the Student’s Pass Holder Lane:</p>
 
@@ -37,7 +37,7 @@ description: Overview of the Familial Ties Lane
 	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Adopted child of an SC/PR, holding a Dependant’s Pass-IPA issued by the Ministry of Social and Family Development
 	</li>
 	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">PR IPA holder	</li>
-	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">ICA-issued Long-Term Visit Pass IPA holder (LTP IPA)</li>
+	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><a href="https://www.ica.gov.sg/reside/LTVP/apply" target="_blank">ICA-issued Long-Term Visit Pass IPA holder (LTP IPA)</a></li>
 	<li style="line-height:1.5;font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Former STP holders returning to Singapore to fulfil their scholarship obligations </li>
 	</ol></p>
 		</td>
@@ -75,7 +75,7 @@ description: Overview of the Familial Ties Lane
 ### 2) Entry Application and Approval
 
 <p style="font-size:18px; line-height:1.5;">Entry approvals <b>are not required</b> if the traveller:<ol style="margin-top:0px; margin-bottom:0px;">
-	<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Is arriving <b>from 21 Feb 2022, 2359h</b> and holds a Singapore-issued long-term pass (including IPA), and can produce a valid long-term pass and proof of vaccination* during entry; OR</li>
+	<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Holds a Singapore-issued long-term pass (including IPA), and can produce a valid long-term pass and proof of vaccination* during entry; OR</li>
 	<li style="line-height:1.5;font-size:18px;margin-top:10px;  list-style-type:lower-roman;">Is unvaccinated/partially vaccinated on medical grounds, and can produce medical proof to be an unsuitable vaccination candidate.</li>
 	</ol>
 	</p>
@@ -94,7 +94,6 @@ description: Overview of the Familial Ties Lane
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Eligible FTL travellers who:
 	    <ol style="margin-top:0px; margin-bottom:0px;">
-		    <li style="line-height:1.5;font-size:18px;">Are entering Singapore before 21 Feb 2022, 2359h; OR</li>
 		      <li style="line-height:1.5;margin-top:10px;font-size:18px;">Do not hold any Singapore-issued long-term pass; OR</li>
 		    <li style="line-height:1.5;margin-top:10px;font-size:18px;">Are 18 years old and above, unvaccinated/partially vaccinated without medical reason, i.e. traveller does not have a medical condition prohibiting him from receiving his vaccination</li>
 				<li style="line-height:1.5;margin-top:10px;font-size:18px;">Former STP holders returning to Singapore to fulfil their scholarship obligations</li>
@@ -134,7 +133,7 @@ description: Overview of the Familial Ties Lane
 	<li style="line-height:1.5; margin-top:10px;"><a href="/travel-checklist/category-4">Category (IV) travel history checklist  </a></li>
 </ol>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Fully vaccinated travellers who can produce credible proof of having recovered from COVID-19 in the past 7 – 90 days before departure from Singapore, should refer to the <a href="/vaccinated-recovered" target="_blank">Recovered-Vaccinated Travel Protocol</a> instead.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Fully vaccinated travellers who can produce credible proof of having recovered from COVID-19 in the past 7 – 90 days before departure from Singapore, should refer to the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Travel Protocol</a> instead.</p>
 
 ---
 
