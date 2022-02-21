@@ -866,7 +866,7 @@ A VTP is valid for single entry into Singapore anytime from your intended date o
 
 #### 11. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
 
-If your particulars have changed, please write to the Safe Travel Office using the <a href="" target="_blank">enquiry form here</a> with your revised particulars.
+If your particulars have changed, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with your revised particulars.
 
 #### 12. How can I change my passport number on my VTP?
 
