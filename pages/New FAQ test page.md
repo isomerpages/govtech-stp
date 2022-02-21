@@ -387,28 +387,16 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
     </ol>
 </div>
 
-
-</div>
-
-
-
-
-
-
-
-<!-- to be deleted-->
-<input id="UK-cert" type="checkbox" class="accordion">
-<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="UK-cert" class="accordion"><b>United Kingdom</b></label>
-		<div style="background-color:#ededed;" class="content">
-			<ol style="list-style-type:lower-alpha;">
+<input class="accordion" type="checkbox" id="UK-cert">
+<label class="accordion" for="UK-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>United Kingdom</b></label>	
+<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>
+<ol style="list-style-type:lower-alpha;">
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a target="_blank" href="https://www.gov.uk/guidance/nhs-covid-pass">National Health Service (“NHS”) COVID Pass</a> of vaccination; <br><br>or</li>
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;">Northern Ireland COVID certificate issued by <a target="_blank" href="http://online.hscni.net/">Health and Social Care (HSC)</a> in Northern Ireland (e.g. found on the <a target="_blank" href="https://www.nidirect.gov.uk/services/coronavirus-covid-19-covid-certificate-ni-residents">COVIDCert Northern Ireland (“NI”) app</a>).<br><br>One QR code per dose; <br><br>or</li>
 				<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><b>[For children aged 13 to 15]</b> Digital vaccination record retrieved from the public health database of the local health authority.</li>
 			</ol>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
-<ol style="list-style-type: lower-roman;">
-  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">If you hold the proof of vaccination at (a) or (b), self-verify your QR code using the following tools: <a target="_blank" href="https://app.digitalcovidcertchecker.gov.ie/">DCC Checker</a> (Web App) <a target="_blank" href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier">COVID Certificate Check</a> (Android) or <a target="_blank" href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510">COVID Certificate Check</a> (iOS)</li>
-  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. Please screen-capture one QR code at a time, and upload each QR code into the portal accordingly.</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application. Please screen-capture one QR code at a time, and upload each QR code into the portal accordingly.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If you have a proof of vaccination in (c), please write to the SafeTravel Office using the <a target="_blank" href="https://go.gov.sg/sto-enquiry">enquiry form here</a> with your documents attached for verification.</p>
   <ol style="list-style-type:disc;">
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload:</b> 
@@ -419,10 +407,18 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 </li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>Location of QR code</b>:<br><img style="width:111px; height:81px;" src="/images/QR_UK.png"></li>
     </ol>
-  </li>
-    </ol>
-</div>	
-					<input id="USA-cert" type="checkbox" class="accordion">
+</div>
+
+</div>
+
+
+
+
+
+
+
+<!-- to be deleted-->
+<input id="USA-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="USA-cert" class="accordion"><b>United States of America</b></label>
 		<div style="background-color:#ededed;" class="content"><ol style="list-style-type:lower-alpha;">
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a target="_blank" href="https://smarthealth.cards/faq.html">SMART Health Cards (SHC)</a> issued by CommonTrust Network issuers (listed <a target="_blank" href="https://www.commontrustnetwork.org/verifier-list">here</a> and <a target="_blank" href="https://www.commonhealth.org/smart-health-cards">here</a>) or <a target="_blank" href="https://vci.org/issuers">Vaccination Credential Initiative issuers</a></li>
