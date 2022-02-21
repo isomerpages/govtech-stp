@@ -23,7 +23,9 @@ On this page, you will find the following information regarding transiting in Si
 
 ### 2. COVID-19 Pre-Departure Test
 
-If the traveller's final destination country/region has a pre-departure test requirement, travellers are advised to take their pre-departure tests at the originating country as such testing services are not available during transit in Singapore.
+<b>If the traveller's final destination country/region has a pre-departure test requirement, travellers are advised to take their pre-departure tests at the originating country as such testing services are not available during transit in Singapore.</b>
+
+Otherwise, transit travellers with a layover at Changi Airport of less than 24 hours do not have to take or present proof of havng taken a pre-departure test.
 
 <div id="recovered"></div>
 
