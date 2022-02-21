@@ -165,7 +165,7 @@ Nonetheless, individuals aged 12 years and older are recommended to receive a bo
 
 #### 1. What is considered an accepted proof of vaccination, how can I check its validity and which can I upload onto the VTP portal?
 
-<!--<html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Test Accordion</title>
@@ -243,7 +243,7 @@ label.box {
   
 </style>
 </head>
-</html>-->
+</html>
 
 
 <b style="color:red;">Note for Long Term Pass Holders (excluding Work Permit Holders) entering from 21 Feb 2022, 2359h, Singapore Citizens and Permanent Residents</b>
@@ -266,7 +266,7 @@ You may check for the acceptable proof of vaccination, how to verify its validit
 <div class="content" style="background-color:#ededed;">
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>
 <ol style="list-style-type:lower-alpha;"><li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code; or</li>
-<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a></li>
+<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a>; or</li>
 		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Vaccination certificate issued by the Singapore Ministry of Health</li>
 		</ol>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
