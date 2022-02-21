@@ -32,7 +32,7 @@ Travellers should submit a request via this <a href="https://form.gov.sg/60e693e
 
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;">
 
-<p>Select “<i>Death and Critical Illness Emergency Visit Lane</i>” under S/N 2 (“<i>Enquiry Category</i>”) and “<i>Appeal to Enter Singapore</i>”. in S/N 3 ("<i>Enquiry Category</i>")of the form, and submit the following:-</p>
+<p style="font-size: 20px;">Select “<i>Death and Critical Illness Emergency Visit Lane</i>” under S/N 2 (“<i>Enquiry Category</i>”) and “<i>Appeal to Enter Singapore</i>”. in S/N 3 ("<i>Enquiry Category</i>")of the form, and submit the following:-</p>
 
 <ol style="list-style-type:disc;">
 	<li>Death certificate or any other documents as proof of death of the immediate family member (for death cases) or Doctor’s letter to support critically ill cases (for critically ill cases);</li>
