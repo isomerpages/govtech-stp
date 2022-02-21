@@ -81,7 +81,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ### b. Long Term Pass Holders 
 
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Long-Term Pass Holders (excluding Work Permit holders) including In-Principle Approval pass holders arriving in Singapore <b>from 21 Feb 2022, 2359h, no longer need an entry approval to enter Singapore</b>, if they can present a valid pass and proof of vaccination during pre-boarding or immigration checks. All Long-Term Pass Holders arriving in Singapore <b>before 21 Feb 2022, 2359h, still need an entry approval to enter Singapore</b>. </p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Long-Term Pass Holders (excluding Work Permit holders) including In-Principle Approval pass holders arriving in Singapore no longer need an entry approval to enter Singapore, if they can present a valid pass and proof of vaccination during pre-boarding or immigration checks.</p>
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">All Long-Term Pass Holders should read the requirements of the relevant SafeTravel Lanes below carefully as they will be subject to administrative and health measures corresponding with their travel history and SafeTravel Lane used. </p>
 
