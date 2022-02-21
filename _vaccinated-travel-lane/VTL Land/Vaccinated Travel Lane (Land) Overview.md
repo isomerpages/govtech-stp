@@ -323,7 +323,7 @@ Travellers who are eligible for VTL (Land) and have already obtained their bus t
 Travellers entering Singapore <b>from 21 Feb 2022, 2359h</b> will only need to undergo the following COVID-19 tests:
 <ol style="font-size:18px; list-style-type:disc;">
 <li style="font-size:18px; line-height:1.4;">Pre-departure COVID-19 PCR or professionally administered ART taken within 2 days before departure for Singapore</li>
-<li style="font-size:18px; line-height:1.4;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at Woodlands and Queen Street Bus Terminals or any <a href="https://www.gowhere.gov.sg/testcentres" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li> 
+<li style="font-size:18px; line-height:1.4;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at Woodlands and Queen Street Bus Terminals or any <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li> 
 </ol>
 
 Fully vaccinated and recently recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.
