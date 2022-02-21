@@ -342,7 +342,8 @@ label.box {
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Philippines-cert" class="accordion"><b>Philippines <i>[For applications from 1 Mar 2022, 1000h]</i></b></label>
 	<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Certificate (<a href="https://vaxcert.doh.gov.ph/" target="_blank">VaxCertPH</a>) issued by the Department of Health
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
-	<ol style="list-style-type:disc;">
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application:</p>	
+		<ol style="list-style-type:disc;">
 		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
 		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:84px; height:120px;" src="/images/QR_Indonesia.png"></li>
 		</ol>
