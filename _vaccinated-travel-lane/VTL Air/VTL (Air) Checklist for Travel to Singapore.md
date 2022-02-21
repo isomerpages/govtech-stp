@@ -395,7 +395,7 @@ label.box {
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="Thailand-cert" class="accordion"><b>Thailand</b></label>
 		<div style="background-color:#ededed;" class="content">International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. You can retrieve can your certificate by selecting 'International Certificate' on the Mor Prom app.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. You can retrieve your certificate by selecting <b>'International Certificate'</b> on the Mor Prom app. <b>Do not use your domestic certificate.</b></p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload</b>: One</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code:</b></p>
 <table>
