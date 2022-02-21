@@ -358,6 +358,13 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
 </div>
 
+<input class="accordion" type="checkbox" id="SriLanka-cert">
+<label class="accordion" for="SriLanka-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Sri Lanka</b></label>	
+<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
+</div>
+
 </div>
 
 
@@ -367,12 +374,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 
 
 <!-- to be deleted-->
-<input id="Saudi-cert" type="checkbox" class="accordion">
-<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Saudi-cert" class="accordion"><b>Saudi Arabia <i>[For applications from 22 Feb 2022, 1000h]</i></b></label>
-		<div style="background-color:#ededed;" class="content">Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
-			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
-					<input id="SriLanka-cert" type="checkbox" class="accordion">
+<input id="SriLanka-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="SriLanka-cert" class="accordion"><b>Sri Lanka</b></label>
 		<div style="background-color:#ededed;" class="content">Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
