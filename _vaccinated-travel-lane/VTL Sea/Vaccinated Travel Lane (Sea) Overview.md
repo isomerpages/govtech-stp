@@ -245,14 +245,14 @@ input:checked + label + .content {
 	<ol style="margin-top:0px; list-style-type:disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTP (Sea) applications are open for travellers intending <b>to enter Singapore 3-60 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers do not need to rush to apply as there is no limit on VTPs issued per day.</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Get ready your passport, <a target="_blank" href="/vtl/faq#QRcode">proof of vaccination</a> and self-isolation address before applying.</li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Get ready your passport, <a target="_blank" href="/vtl/faq#vaxcert">proof of vaccination</a> and self-isolation address before applying.</li>
 	</ol>
 	<p></p>
 	<p style="line-height:1.3; font-size:18px;">Please note the following when making the application:</p>
 	<ol style="margin-top:0px; list-style-type:disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTL (Sea) travellers must also refer to this <a target="_blank" href="/vtl-sea/travel-checklist">travel checklist</a> and the <a target="_blank" href="/vtl-sea/conditions">VTL (Sea) conditions</a> to ensure they satisfy all VTL (Sea) requirements, otherwise they may be denied entry to Singapore.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Accompanying children aged 12 and below in the current calendar year and are unvaccinated do not need to apply. </li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Applications must be supported with digitally verifiable vaccination certificate QR code(s), if required. Please see our <a target="_blank" href="/vtl/faq#QRcode">FAQs</a> for more details.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Applications must be supported with digitally verifiable vaccination certificate QR code(s), if required. Please see our <a target="_blank" href="/vtl/faq#vaxcert">FAQs</a> for more details.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">A VTP is valid for <b>13 calendar days</b> from the traveller’s chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. (e.g. a traveller holding a VTP (Sea) for entry into Singapore on 1 March 2022 may enter Singapore on a designated VTL (Air) flights any day from 1 - 14 March 2022 (inclusive)). The traveller should reapply for a VTP if he is unable to enter during this period.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements (<b>See Criteria 2 above</b>), please write to the Safe Travel Office using the <a target="_blank" href="https://go.gov.sg/sto-enquiry">enquiry form here</a> and provide your vaccination certificate.</li>
 				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers are required to arrive in Singapore on a designated VTL (Sea) ferry. A VTP (Sea) does <b><u>not</u></b> guarantee a ticket on one of the designated ferries. Travellers are responsible for obtaining their own ticket separately.</li>	
@@ -341,7 +341,7 @@ input:checked + label + .content {
 ### 4. Frequently Asked Questions
 
 <span style="font-size:18px;">Click <a target="_blank" href="/vtl/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
-- <a target="_blank" href="/vtl/faq#QRcode">Recognised Vaccination Certificates for VTL (Sea)</a>
+- <a target="_blank" href="/vtl/faq#vaxcert">Recognised Vaccination Certificates for VTL (Sea)</a>
 - <a target="_blank" href="/vtl/faq#invalidcode">VTP Application Technical Difficulties</a>
 - <a target="_blank" href="/health/vtsg">Definition of Fully Vaccinated</a>
 - <a target="_blank" href="/vtl/faq#THReq">Travel History</a>
