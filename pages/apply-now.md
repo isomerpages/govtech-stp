@@ -8,7 +8,7 @@ permalink: /apply-now
 
 This page is only meant for users who are already familiar with the relevant SafeTravel lane eligibility criteria and requirements, and wish to apply for entry. <u>If you are unsure which lane to use to enter Singapore and the corresponding entry requirements</u>, please refer to the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page instead, which will guide you on which lane to use.
 
-<b>Please note that from 21 Feb 2022, 2359h, fully vaccinated Long-Term Pass Holders (excluding Work Permit holders) no longer need to apply for entry to Singapore</b>, but are subject to the corresponding requirements of the SafeTravel Lane they are entering under.
+<b>Please note that from 21 Feb 2022, 2359h, <a href="/health/vtsg" target="_blank">fully vaccinated</a> Long-Term Pass Holders (excluding Work Permit holders) no longer need to apply for entry to Singapore</b>, but are subject to the corresponding requirements of the SafeTravel Lane they are entering under.
 
 Otherwise, a list of SafeTravel Lanes and their respective application portals can be found below.
 
@@ -21,15 +21,13 @@ Otherwise, a list of SafeTravel Lanes and their respective application portals c
   <tbody>
 			         <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/vtl-portal">here</a></td>
+      <td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align: middle;">Apply <a href="https://go.gov.sg/vtl-portal">here</a></td>
     </tr>
 			         <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl-land/overview">Vaccinated Travel Lane (Land)</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/vtl-portal">here</a></td>
     </tr>
 			         <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl-sea/overview">Vaccinated Travel Lane (Sea)</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/vtl-portal">here</a></td>
     </tr>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/atp/overview">Air Travel Pass</a></td>

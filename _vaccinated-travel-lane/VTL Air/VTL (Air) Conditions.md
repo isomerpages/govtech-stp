@@ -34,7 +34,7 @@ Please refer to the applicable VTL (Air) Conditions based on your date of entry 
 	</li>
   <li style="font-size:20px; list-style-type:decimal;"> A VTL (Air) traveller must comply with the following conditions:
      <ol style="font-size:18px; list-style-type:lower-alpha;">
-	      <li style="font-size:18px; list-style-type:lower-alpha;">be <a href="/health/vtsg">fully vaccinated</a>, and have an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>;</li>	      
+	      <li style="font-size:18px; list-style-type:lower-alpha;">be <a href="/health/vtsg">fully vaccinated</a>, and have an <a href="/vtl/faq#vaxcert" target="_blank">accepted proof of vaccination</a>;</li>	      
 	     <li style="font-size:18px; list-style-type:lower-alpha;">have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries">VTL (Air) countries/regions</a>, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore, for the last 14 consecutive days<sup>2</sup> before departing for Singapore;</li>			 
         <li style="font-size:18px; list-style-type:lower-alpha;">arrive in Singapore on a <a href="https://go.gov.sg/vtl-airlines" target="_blank">designated VTL (Air) flight</a>;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days <sup>3</sup> before the scheduled departure time of his/her flight, at an internationally accredited laboratory, clinic or medical facility, and obtain a test result certificate in English stating the following:</li>
@@ -112,7 +112,7 @@ Please refer to the applicable VTL (Air) Conditions based on your date of entry 
 	</li>
   <li style="font-size:20px; list-style-type:decimal;"> A VTL (Air) traveller must comply with the following conditions:
      <ol style="font-size:18px; list-style-type:lower-alpha;">
-	      <li style="font-size:18px; list-style-type:lower-alpha;">be <a href="/health/vtsg">fully vaccinated</a>, and have an <a href="/vtl/faq#QRcode" target="_blank">accepted proof of vaccination</a>;</li>	      
+	      <li style="font-size:18px; list-style-type:lower-alpha;">be <a href="/health/vtsg">fully vaccinated</a>, and have an <a href="/vtl/faq#vaxcert" target="_blank">accepted proof of vaccination</a>;</li>	      
 	     <li style="font-size:18px; list-style-type:lower-alpha;">have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries">VTL (Air) countries/regions</a>, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore, for the last 7 consecutive days<sup>2</sup> before departing for Singapore;</li>			 
         <li style="font-size:18px; list-style-type:lower-alpha;">arrive in Singapore on a <a href="https://go.gov.sg/vtl-airlines" target="_blank">designated VTL (Air) flight</a>;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 2 days <sup>3</sup> before the scheduled departure time of his/her flight, at an internationally accredited laboratory, clinic or medical facility, and obtain a test result certificate in English stating the following:</li>

@@ -107,7 +107,7 @@ label.box {
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Malaysia</b>: Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a target="_blank" href="https://mysejahtera.malaysia.gov.my/intro_en/">MySejahtera app</a></li>
 						<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><b>Other countries/regions</b>: Please refer to <a target="_blank" href="/vtl/faq#vaxcert">this guide</a> for acceptable proof of vaccination. </li>
 		</ol>
-<p style="padding-left:5px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers are encouraged to verify that their vaccination certificates are valid using <a href="/vtl/faq#verify" target="_blank">publicly available verification tools</a> if available, before they apply for a VTP or travel to Singapore.
+<p style="padding-left:5px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers are encouraged to verify that their vaccination certificates are valid using <a href="/vtl/faq#vaxcert" target="_blank">publicly available verification tools</a> if available, before they apply for a VTP or travel to Singapore.
 </p>
 
 <p style="padding-left:5px;font-size:18px; margin-bottom: 10px; line-height:1.35;">❓ &nbsp;<b>Frequently asked questions regarding vaccination proof can be found <a target="_blank" href="/vtl/faq#vaxcert">here</a>.</b></p>
