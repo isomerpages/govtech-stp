@@ -72,7 +72,7 @@ In general, all pre-payments made for the cost of the Stay-Home Notice Dedicated
 
 #### 4. My employee has recently recovered from COVID-19. Can I bring them into Singapore immediately?
 
-Please refer to the FAQ on recovered travellers [here](/health/faq#recovered).
+Please refer to the FAQ on recovered travellers [here](/vaccinated-recovered).
 
 #### 5. I am an employer of a helper/confinement nanny who is due to enter Singapore. However, I need help to submit an entry application or to fulfil the travel health control measures (e.g. arranging for my helper's or nanny’s SHN accommodation and her pre-departure COVID-19 test) What should I do?
 
