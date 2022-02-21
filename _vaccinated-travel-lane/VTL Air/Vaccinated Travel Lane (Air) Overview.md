@@ -38,7 +38,7 @@ third_nav_title: VTL Air
 
 ### 1. VTL (Air) Countries/Regions
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions" within the past 14 days (or 7 days, for travellers entering Singapore <b>from 21 Feb 2022, 2359h</b>), based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. For instance, travellers entering Singapore on or after 25 Feb can have travel history to the UAE within the past 7 days. Those entering Singapore prior to 25 Feb may not have travel history to the UAE.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions" within the past 7 days, for travellers entering Singapore based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. For instance, travellers entering Singapore on or after 25 Feb can have travel history to the UAE within the past 7 days. Those entering Singapore prior to 25 Feb may not have travel history to the UAE.</p>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">SC/PRs with travel history to countries that are not listed within the "Active VTL (Air) Countries/Regions" will be subject to the <a href="/shn-and-swab-summary" target="_blank">prevailing health measures</a>. All other travellers will be denied entry into Singapore. </p>
 
@@ -353,7 +353,7 @@ input:checked + label + .content {
 <label for="title6">Singapore Citizens (SC) / Permanent Residents (PR)</label>
 
 <div style="background-color:#edf4fa;" class="content">
-<p style="line-height:1.3; font-size:18px;">All SC/PRs and unvaccinated children aged 12 and below in the current calendar year <b>do not need to make any applications under the Vaccinated Travel Lane</b>. LTPHs (excluding Work Permit holders) who are entering Singapore <b>from 21 Feb 2022, 2359h</b>, also do not need to apply for a VTP (Air). <span style="color:red; font-size:18px;">However, <b>SC/PRs must also comply with all the requirements stated in the</b></span> <b><a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
+<p style="line-height:1.3; font-size:18px;">All SC/PRs, Long Term Pass Holders (excluding Work Permit Holders) and unvaccinated children aged 12 and below in the current calendar year do not need to make any applications under the Vaccinated Travel Lane. However, they must also comply with all the requirements stated in the <b><a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
 	
 <p style="line-height:1.3; font-size:18px;">SC/PR/LTPHs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore.</p>
 	
@@ -383,7 +383,7 @@ input:checked + label + .content {
 	</tbody>
 	</table>
 	<ol style="margin-top:0px; list-style-type:disc;">
-					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Long-Term Pass holders (excluding Work Permit holders) who are entering Singapore <b>from 21 Feb 2022, 2359h</b>, do <u>not</u> need to apply for a VTP (Air).</li>
+					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">	Long-Term Pass holders (excluding Work Permit holders) do not need to apply for a VTP (Air).  </li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTP (Air) applications are open for travellers intending to enter Singapore <b>3-60 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers do not need to rush to apply as there is no limit on VTPs issued per day.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Get ready your passport, <a target="_blank" href="/vtl/faq#vaxcert">proof of vaccination</a> and self-isolation address before applying.</li>
