@@ -682,15 +682,14 @@ We are currently working on accepting digitally verifiable vaccination certifica
 
 ### (2) Travel History Requirement
 
-<i style="color:red;">Note: Assessed travel history will be reduced from 14 days to 7 days for travellers entering Singapore from 21 Feb 2022, 2359h.</i>
 
-#### 1. How is the 14-day (for arrivals before 21 Feb 2022, 2359 hours) or 7-day (for arrivals from 21 Feb 2022, 2359 hours) travel history determined?
+#### 1. How is the 7-day travel history determined?
 
-If the traveller’s scheduled day of departure for Singapore is D (e.g. 15 February 2022), the traveller must have only travelled to or transited via one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore from D-14 to D (i.e. 1 to 15 February 2022, if D is 15 February 2022).
+If the traveller’s scheduled day of departure for Singapore is D (e.g. 8 March 2022), the traveller must have only travelled to or transited via one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore from D-7 to D (i.e. 1 to 8 March 2022, if D is 8 March 2022).
 
-#### 2. I am travelling from Singapore to a [VTL country/region](/vtl/requirements-and-process#countries) and will be back in less than 14 consecutive days (for arrivals before 21 Feb 2022, 2359 hours) or 7 consecutive days (for arrivals from 21 Feb 2022, 2359 hours). Will I be eligible to return to Singapore on the VTL?
+#### 2. I am travelling from Singapore to a [VTL country/region](/vtl/requirements-and-process#countries) and will be back in less than 7 consecutive days. Will I be eligible to return to Singapore on the VTL?
 
-Yes, you will be eligible for the VTL so long as your travel history within the <b>past 14 consecutive days (for arrivals before 21 Feb 2022, 2359 hours) or 7 consecutive days (for arrivals from 21 Feb 2022, 2359 hours)</b> before departure for Singapore only consists of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. For example, your 14-day (for arrivals before 21 Feb 2022, 2359 hours) or 7-day (for arrivals from 21 Feb 2022, 2359 hours)travel history may include 5 days in Singapore, 5 days in the United Kingdom, and 4 days in Germany.
+Yes, you will be eligible for the VTL so long as your travel history within the <b>past 7 consecutive days</b> before departure for Singapore only consists of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. For example, your 7-day travel history may include 5 days in Singapore, 5 days in the United Kingdom, and 4 days in Germany.
 
 #### 3.  I intend to arrive in Singapore on a designated VTL (Air) flight and have an acceptable proof of vaccination, but I have travel history to or will transit via a non-VTL (Air) or non-Category I country/region prior to that flight. Will I be eligible for the VTL?
 
