@@ -17,23 +17,9 @@ For all other pass holders (work pass holders and their dependants), this page e
 <tbody>
 <tr>
 <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes</u></b></span>
-<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➀</b> The most stringent category out of all the countries/regions visited (excluding transits of less than 24 hours) will apply, if the pass holder has visited multiple countries within:</p>
-<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">14 days before entering Singapore (for arrivals <b>before 21 Feb 2022, 2359 hours</b>)</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">7 days before entering Singapore (for arrivals <b>from 21 Feb 2022, 2359 hours</b>)</li>
-	</ol>	
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➀</b> If the pass holder has visited multiple countries <b>within 7 days before entering Singapore</b>, the most stringent category out of all the countries/regions visited (excluding transits of less than 24 hours) will apply.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><i>Example: A traveller with travel history to a Category (I) country/region before departure, and transited through a Category (II/III/IV) country/region for more than 24 hours on the flight to Singapore, will be subject to Category (II/III/IV) measures.</i></p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➁</b> These workers are <b>not allowed</b> to apply for entry into Singapore under the Vaccinated Travel Lanes (<a href="/vtl/requirements-and-process" target="_blank">Air</a>/<a href="/vtl-land/overview" target="_blank">Land</a>/<a href="/vtl-sea/overview" target="_blank">Sea</a>):</p> 
-	<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Non-Malaysian male Work Permit or S Pass workers in the CMP sector</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Workers staying in dormitories</li>
-	</ol>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">Companies can still bring in such workers under: </p>
-	<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For all other workers- <a href="/wphl/overview">WPHL</a></li>
-	</ol>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>[For arrivals from 21 Feb 2022, 2359 hours]</b> Non-Malaysian male CMP workers on S Pass are allowed to enter Singapore under the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lanes (VTLs)</a>.</p>	
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>➁</b> Pass holders are encouraged to buy medical insurance with the appropriate coverage <b>before entering Singapore</b> as they are responsible for their medical expenses, if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;"><b>&#10114;</b> Pass holders who <b>meet both conditions</b> below are exempted from COVID-19 tests and SHN requirements. <a href="/vaccinated-recovered" target="_blank">Eligible pass holders must present documentary proof</a> before departure and upon arrival in Singapore.</p> 
 <ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Fully vaccinated</li>
