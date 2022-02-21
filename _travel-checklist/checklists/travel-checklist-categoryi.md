@@ -162,15 +162,7 @@ permalink: /travel-checklist/category-1
 	<p style="font-size:18px;margin-top:10px;line-height:1.35;">Travellers without a digitally-verifiable vaccination certificate can instead present their vaccination proof (as defined in <a href="#1A">Stage 1A</a>) during immigrations clearance for their vaccination status to be registered temporarily registered on TraceTogether (detail in Stage 3A).</p>
 </div>
 
-<div id="payment"></div>	
-	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b> G) [For arrivals before 21 Feb 2022, 2359h] Registration and Pre-payment for On-Arrival COVID-19 Test</b></i></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px;line-height:1.35;">Travellers should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.</p>
-</div>	
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>H) Installation of TraceTogether app</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>G) Installation of TraceTogether app</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p></div>
 
