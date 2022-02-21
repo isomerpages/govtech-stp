@@ -182,7 +182,9 @@ Visitors will have to declare, at the point of ATP application, that they will p
 
 Purchase of travel insurance is a condition of the Air Travel Pass. Non-compliance with any of the conditions of the Air Travel Pass may result in refusal of entry into Singapore and/or cancellation of the Air Travel Pass. In such an event, the Air Travel Pass holder may be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future Air Travel Pass applications may also be rejected.
 
+
 <div id="pcrtest"></div>
+
 
 ### On-Arrival COVID-19 Test
 
