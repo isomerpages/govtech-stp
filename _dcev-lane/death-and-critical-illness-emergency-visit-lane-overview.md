@@ -28,7 +28,7 @@ Only a <b>maximum of two travellers may be granted entry per case</b>.
 
 ### 2) Entry Application and Approval
 
-Travellers should submit a request via this <a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">form</a>. 
+<p>Travellers should submit a request via this <a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">form</a>. </p>
 
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;">
 
