@@ -191,6 +191,7 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 <i style="color:red;">Note: Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo an on-arrival COVID-19 test. Fully vaccinated recently-recovered travellers entering Singapore may qualify for exemption from the on-arrival COVID-19 test. Please refer <a href="/vaccinated-recovered" target="_blank">this page </a> for more information.</i>
 
 <i style="color:red;">Travellers must complete a supervised self-administered Antigen Rapid Test (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC) within 24 hours of arrival in Singapore. Travellers can expect a refund from the Changi Airport Group (CAG) for their unutilised PCR test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</i>
+
 	
 #### 1. What are the test centres that travellers can go to for their supervised ARTs?
 
