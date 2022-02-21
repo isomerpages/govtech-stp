@@ -190,63 +190,8 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 
 <i style="color:red;">Note: Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo an on-arrival COVID-19 test. Fully vaccinated recently-recovered travellers entering Singapore may qualify for exemption from the on-arrival COVID-19 test. Please refer <a href="/vaccinated-recovered" target="_blank">this page </a> for more information.</i>
 
-<i style="color:red;">Travellers entering Singapore from 21 February 2022, 2359h, will no longer be required to undergo an on-arrival COVID-19 Polymerase Chain Reaction (PCR) test at the airport. Instead, they will need to complete a supervised self-administered Antigen Rapid Test (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC) within 24 hours of arrival in Singapore. Please jump to the relevant section based on your intended date of entry into Singapore.</i>
-
-<ol style="list-style-type: disc;">
-	<li><a href="#before21">For travellers entering before 21 February 2022, 2359h</a></li>
-	<li><a href="#after21">For travellers entering after 21 February 2022, 2359h</a></li>
-	</ol>
-
-
-<div id="before21"></div>
-
-#### <u>For travellers entering before 21 February 2022, 2359h</u>
-
-#### 1. Where is the on-arrival COVID-19 test conducted?
-
-The on-arrival COVID-19 PCR test will be conducted at a testing facility within the airport, after arrival immigration clearance and baggage collection. Travellers will be guided by airport staff to the testing site.
-
-#### 2. How much does the on-arrival COVID-19 test cost?
-
-Each PCR test costs S$125 (including Goods and Services Tax). You are strongly encouraged to <a href="https://safetravel.changiairport.com/" target="_blank">book and make payment</a> for the test before you arrive in Singapore.
-
-#### 3. If my travel plans have changed, how do I edit the booking for my on-arrival COVID-19 PCR test at the airport?
-
-To edit a booking:
-
-1.	Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a> , navigate to ‘My Trips’ and choose the specific trip that you wish to change.
-
-2.	If you do not have a STC account, please request for assistance to change your trip details by emailing <a href="mailto:swabtest.datechange@changiairport.com" target="_blank">swabtest.datechange@changiairport.com</a>.
-
-Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
-
-#### 4. If I need to cancel my trip, how do I obtain a refund for my on-arrival COVID-19 PCR test at the airport?
-
-To cancel and request for a refund of your booking:
-
-1.	Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a>, navigate to ‘My Trips’ and choose the specific trip that you wish to cancel.
-2.	If you do not have a STC account, please request for assistance to cancel and refund your booking by emailing <a href="mailto:swabtest.refund@changiairport.com" target="_blank">swabtest.refund@changiairport.com</a>.
-
-Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
-
-#### 5. Can ATP holders choose to undergo the on-arrival COVID-19 PCR test in clinics or hospitals in Singapore?
-
-No, ATP holders are required to undergo the on-arrival COVID-19 PCR test at the airport. A testing facility has been set up within the airport with a safe management process in place to enable travellers to undergo the test as smoothly and quickly as possible after disembarkation from their flight and arrival immigration clearance.
-
-#### 6. What happens if travellers refuse to undergo the on-arrival COVID-19 PCR test at the airport?
-
-Among other measures which may be taken. if travellers refuse to undergo the on-arrival COVID-19 PCR test, they may have their ATP cancelled and be refused entry into Singapore. In such an event, travellers may also be liable for all cost incurred for their repatriation, including custody and maintenance pending repatriation.
-
-#### 7. What should travellers do if they do not receive their on-arrival COVID-19 PCR test results after 24 hours?
-
-Please email <a href="mailto:airborder@rafflesmedical.com" target="_blank">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
-
----
-
-<div id="after21"></div>
-
-#### <u>For travellers entering after 21 February 2022, 2359h</u>
-
+<i style="color:red;">Travellers must complete a supervised self-administered Antigen Rapid Test (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC) within 24 hours of arrival in Singapore. Travellers can expect a refund from the Changi Airport Group (CAG) for their unutilised PCR test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</i>
+	
 #### 1. What are the test centres that travellers can go to for their supervised ARTs?
 
 They can visit any of the <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>.
