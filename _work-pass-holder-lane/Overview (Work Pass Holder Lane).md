@@ -9,39 +9,12 @@ description: ""
 	
 The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates the entry of foreigners with passes granted by the Ministry of Manpower (“Pass holders”).
 
-<b>[For arrivals before 21 Feb 2022, 2359 hours]</b> All pass holders must get an entry approval to enter Singapore. This however, excludes pass holders conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea.
+<b>Only</b> Work Permit and Training Work Permit holders <b>need entry approvals</b> to enter Singapore. However, all other pass holders will still need to comply with the <a href="/wphl/shn-and-swab-summary" target="_blank">prevailing entry requirements and travel health control measures</a>, and show <b>all these</b> documents during departure and upon arrival:
 
-<b>[For arrivals from 21 Feb 2022, 2359 hours]</b> Eligible pass holders, including in-principle approval (IPA) holders will not need to apply for or present an entry approval letter to enter Singapore. The summary of changes to entry approval requirements are:
+- MOM passes or IPA letters
+- <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes" target="_blank">Proof of vaccination status or exemption</a>
 
-<table>
-<thead>
-<tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Types of pass holders</b></th>
-	<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Need to apply for entry approval to enter Singapore?</b></th>
-</tr>
-</thead>
-<tbody>
-		<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
-<ol style="list-style-type:disc;">
-	<li style="font-size:18px; margin-top:0px; line-height:1.5;">Work Permit holders (i.e. workers employed by companies, helpers and confinement nannies)</li>
-		<li style="font-size:18px; margin-top:0px; line-height:1.5;">Training Work Permit holders</li>
-			</ol>
-		</td>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">Yes.</td>
-	</tr>
-		<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">All other pass holders (e.g. Employment Pass, S Pass holders and their dependants)
-		</td>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">No. But they still need to comply with the prevailing travel health control measures, and show all these documents during departure and upon arrival:
-<ol style="list-style-type:disc;">
-	<li style="font-size:18px; margin-top:0px; line-height:1.5;">MOM passes or IPA letters</li>
-		<li style="font-size:18px; margin-top:0px; line-height:1.5;"><a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes" target="_blank">Proof of vaccination status or exemption</a></li>
-			</ol>
-</td>
-	</tr>
-	</tbody>
-	</table>
+Click <a href="" target="_blank">here</a> for more information.
 
 
 On this page, you will find the following key information on the WPHL. 
@@ -63,17 +36,9 @@ The following traveller types are eligible to travel under the WPHL. All pass ho
 <ol style="list-style-type:decimal;">
 <li style="line-height:1.5;">Confinement nannies</li>
 <li style="line-height:1.5;">Helpers</li>
-<li style="line-height:1.5;">Foreigners currently on any of these passes that are valid for at least 15 days from their planned arrival date:
+<li style="line-height:1.5;">Foreigners currently on or have IPA for any of these passes that are valid for at least 15 days from their planned arrival date:
 <ol style="list-style-type:disc;">
-<li style="line-height:1.5;">Dependant’s Pass</li>
-<li style="line-height:1.5;">Employment Pass</li>
-<li style="line-height:1.5;">EntrePass</li>
-<li style="line-height:1.5;">Long-Term Visit Pass</li>
-<li style="line-height:1.5;">Personalised Employment Pass</li>
-<li style="line-height:1.5;">S Pass</li>
-<li style="line-height:1.5;">Training Employment Pass</li>
 <li style="line-height:1.5;">Training Work Permit</li>
-<li style="line-height:1.5;">Work Holiday Pass</li>
 <li style="line-height:1.5;">Work Permit</li>
 	</ol>
 	</li>
@@ -103,81 +68,6 @@ Please note that:
 - Application window is 3 to 60 days before planned date of arrival in Singapore.
 - Approval is valid for +/- 1 day from the planned date of arrival to accommodate possible flight changes.
 
-### [For arrivals before 21 Feb 2022, 2359 hours]
-
-<table>
-<thead>
-<tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 1: Specific Passes</b></th>
-</tr>
-</thead>
-<tbody>
-	<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The following types of pass holders should <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore" target="_blank">apply for entry directly via MOM’s website</a>.
-<ol style="list-style-type:lower-latin;">
-	<li style="font-size:18px; margin-top:0px; line-height:1.5;">Construction, Marine shipyard or Process sector workers (“CMP workers”) who:
-		<ol style="list-style-type:disc;">
-<li style="font-size:18px; margin-top:0px; line-height:1.5;">Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and</li>
-<li style="font-size:18px; margin-top:0px; line-height:1.5;">Are entering Singapore without their dependants.</li>
-			</ol></li>
-<li style="font-size:18px; margin-top:20px; line-height:1.5;">Work Holiday Pass (WHP) holders</li>
-<li style="font-size:18px; margin-top:10px; line-height:1.5;">Personalised Employment Pass (PEP) holders (without employers) and their dependants</li>
-<li style="font-size:18px; margin-top:10px; line-height:1.5;">EntrePass holders (without Corppass) and their dependants</li>
-			</ol>
-		</td>
-	</tr>
-	</tbody>
-	</table>
-
-<table>
-<thead>
-<tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 2: Pass Holders who are Immediate Family Members of Singapore Citizens/PRs </b></th>
-</tr>
-</thead>
-<tbody>
-	<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
-Work pass holders who are immediate family members of Singapore Citizens or Permanent Residents of Singapore (SCs/PRs) can consider the following options:
-		<ol style="list-style-type:disc;">
-			<li style="font-size:18px; margin-top:10px; line-height:1.5;"><a href="/scpr-familial-ties-lane/overview" target="_blank">SC/PR Familial Ties Lane</a> applied by SC/PR family member</li>
-			<li style="font-size:18px; margin-top:10px; line-height:1.5;"><a href="https://eservices.ica.gov.sg/STO/" target="_blank">Work Pass Holder Lane (WPHL)</a> applied by employer</li>
-			</ol>
-		</td>
-	</tr>
-	</tbody>
-	</table>
-
-<table>
-<thead>
-<tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 3: Helpers and Confinement Nannies</b></th>
-</tr>
-</thead>
-<tbody>
-	<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Employers (use Singpass to log in) or Employment Agencies (use Corppass to log in) to apply via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">WPHL Portal</a>
-		</td>
-	</tr>
-	</tbody>
-	</table>
-	
-<table>
-<thead>
-<tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 4: All other Pass Holders</b></th>
-</tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Employers to apply via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">WPHL Portal</a> (use Corppass to log in)</td>
-  </tr>
-  </tbody>
-  </table>
-
-
-
-### [For arrivals from 21 Feb 2022, 2359 hours]
 
 <table>
 <thead>
@@ -222,7 +112,7 @@ Work pass holders who are immediate family members of Singapore Citizens or Perm
 <table>
 <thead>
 <tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 2: All other Pass Holders (e.g. Employment Pass, S Pass holders and their dependants)</b></th>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>Type 2: All other Pass Holders (e.g. Employment Pass, S Pass holders and Dependent's Pass holders)</b></th>
 </tr>
 </thead>
 <tbody>
