@@ -269,12 +269,11 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers will need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or professionally administered Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 ART test at Quick Test Centres or Combined Test Centres<sup>1</sup>  within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative. </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 ART test at <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centres or Combined Test Centres</a> within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative. </li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</li>
 	</ol> 
 </p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">For their journey to Singapore, travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to the regional ferry service operator staff and immigration officers. The table below summarises the key documents travellers have to bring along.</p>
-<p style="font-size:16px; margin-top:20px; margin-bottom:15px; line-height:1.35;"><sup>1</sup><i>Please refer to <a href="https://www.gowhere.gov.sg/testcentre" target="_blank">https://www.gowhere.gov.sg/testcentre</a> for more details on the Quick Test Centres and Combined Test Centres.</i></p>
 
 
 
