@@ -370,17 +370,13 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. You can retrieve can your certificate by selecting <b>'International Certificate'</b> on the Mor Prom app. <b>Do not use your domestic certificate.</b></p>
-  <ol style="list-style-type:disc;">
-    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: 
-<ol style="list-style-type:circle;">
-<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a target="_blank" href="/health/vtsg">full vaccination regimen</a> consists of <b>two</b> doses: Two QR codes, one for each dose. Please extract (i.e. crop and upload) each of the QR codes at each point of upload.</li>
-<li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">If <a target="_blank" href="/health/vtsg">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</li>
-			</ol>
-	</li>
-    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<table>
+<ol style="margin-top:20px; list-style-type: disc;">	
+	<li style="font-size:18px; margin-bottom:10px; line-height:1.35;"><b>No. of QR codes to upload</b>: One</li>
+<li style="font-size:18px; margin-bottom:10px; line-height:1.35;"><b>Location of QR code</b>:
+<table>
 <tbody><tr>
-	<td style="padding-top:40px;"><img style="width:80px; height:69px; vertical-align:middle;" src="/images/QR_Malaysia.png"></td>
-	<td><img style="width:55px; height:108px; vertical-align:middle;" src="/images/QR_Malaysia_1.png"></td>
+<td style="padding-top:20px;"><img style="width:57px; height:75px; vertical-align:middle;" src="/images/QR_Denmark_1.png"></td>
+	<td><img style="width:45px; height:85px; vertical-align:middle;" src="/images/QR_Denmark_2.png"></td>
 			</tr>
 	<tr>
 	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On physical/PDF copy</td>
@@ -388,8 +384,6 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 	</tr>
 			</tbody></table>
 		</li>
-    </ol>
-  </li>
     </ol>
 </div>
 
@@ -403,25 +397,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 
 
 <!-- to be deleted-->
-<input id="Thailand-cert" type="checkbox" class="accordion">
-<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="Thailand-cert" class="accordion"><b>Thailand</b></label>
-		<div style="background-color:#ededed;" class="content">International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application. You can retrieve can your certificate by selecting 'International Certificate' on the Mor Prom app.</p>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><b>No. of QR codes to upload</b>: One</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code:</b></p>
-<table>
-<tbody><tr>
-	<td style="padding-top:20px;"><img style="width:57px; height:75px; vertical-align:middle;" src="/images/QR_Denmark_1.png"></td>
-	<td><img style="width:45px; height:85px; vertical-align:middle;" src="/images/QR_Denmark_2.png"></td>
-			</tr>
-	<tr>
-	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On physical/PDF copy</td>
-	<td style="font-size:18px; margin-bottom:10px; line-height:1.35; text-align:center;">On apps</td>
-	</tr>
-			</tbody></table>
-	</div>
-					<input id="UK-cert" type="checkbox" class="accordion">
+<input id="UK-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="UK-cert" class="accordion"><b>United Kingdom</b></label>
 		<div style="background-color:#ededed;" class="content">
 			<ol style="list-style-type:lower-alpha;">
