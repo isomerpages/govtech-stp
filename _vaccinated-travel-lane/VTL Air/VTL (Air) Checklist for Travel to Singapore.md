@@ -346,14 +346,19 @@ label.box {
 		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:84px; height:120px;" src="/images/QR_Indonesia.png"></li>
 		</ol>
 </div>
-	<input id="Qatar-cert" type="checkbox" class="accordion">
+<input id="Qatar-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Qatar-cert" class="accordion"><b>Qatar <i>[For applications from 22 Feb 2022, 1000h]</i></b></label>
 	<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a> 
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
+		<ol style="list-style-type: lower-roman;">
+  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using a regular QR code scanner on your mobile device.</li>
+  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
 	<ol style="list-style-type:disc;">
 		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
 		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:54px; height:84px;" src="/images/QR_Canada.png"></li>
 		</ol>
+  </li>
+    </ol>
 </div>
 					<input id="ROK-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="ROK-cert" class="accordion"><b>Republic of Korea</b></label>
