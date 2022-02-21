@@ -705,7 +705,7 @@ No, you will not be eligible for the VTL. Return to the <a href="/arriving/overv
 
 ### 3)	Application for the Vaccinated Travel Pass
 
-<i style="color:red;">Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) are not required to apply for a VTP (Air)/VTP (Land)/VTP (Sea). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL (Air)</a> conditions/<a href="/vtl-land/conditions" target="_blank">VTL (Land)</a>/<a href="/vtl-sea/conditions" target="_blank">VTL (Sea)</a>. Long-Term Pass holders (excluding Work Permit holders) who are entering Singapore from 21 Feb 2022, 2359h, are no longer required to apply for a VTP.</i>
+<i style="color:red;">Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) are not required to apply for a VTP (Air)/VTP (Land)/VTP (Sea). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL (Air)</a> conditions/<a href="/vtl-land/conditions" target="_blank">VTL (Land)</a>/<a href="/vtl-sea/conditions" target="_blank">VTL (Sea)</a>. Long-Term Pass holders (excluding Work Permit holders) are not required to apply for a VTP.</i>
 
 
 #### 1. How long will it take for a VTP application to be processed?
@@ -726,7 +726,7 @@ There is no limit to the number of times travellers can apply for a VTP. Every e
 
 #### 5. I have an In-Principle Approval (IPA) for a Long-Term Pass. Do I need to apply for the VTP (Air)/VTP (Land)/VTP (Sea)?
 
-<b><i>Note: Long-Term Pass In-Principle Approval holders (excluding Work Permit holders) who are entering Singapore from 21 Feb 2022, 2359h, are no longer required to apply for a VTP.</i></b>
+<b><i>Note: Long-Term Pass In-Principle Approval holders (excluding Work Permit holders) are not required to apply for a VTP.</i></b>
 
 Travellers with IPA for Long-Term Passes issued by the Ministry of Education (MOE) or the Immigration & Checkpoints Authority (ICA) should submit their VTP application under the ‘Short-Term Visitor’ traveller type. They will need to comply with all the VTL (Air) conditions/VTL (Land) conditions/VTL (Sea) conditions that apply to short-term visitors.
 
@@ -845,7 +845,7 @@ As required under the <a href="/vtl-land/conditions" target="_blank">VTL (Land) 
 
 #### 4. Where are the boarding and disembarkation points for VTL (Land) bus services from Malaysia to Singapore, and from Singapore to Malaysia?
 
-Travellers entering Singapore under the VTL (Land) will have to board the bus at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia. The bus will arrive at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore, via the Causeway. (<i>Note: From 21 February 2021, 2359 hours, travellers entering under the VTL (Land) will not be required to reboard the bus after immigration clearance and may choose to disembark from Woodlands Checkpoint</i>.)
+Travellers entering Singapore under the VTL (Land) will have to board the bus at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia. The bus will arrive at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore, via the Causeway. (<i>Note: Travellers entering under the VTL (Land) will not be required to reboard the bus after immigration clearance and may choose to disembark from Woodlands Checkpoint</i>.)
 
 Travellers entering Malaysia under the VTL (Land) will have to board the bus at Queen Street Terminal (for Handal Indah bus service) or Woodlands Temporary Bus Interchange (for Transtar Travel bus service) in Singapore. The bus will arrive at Larkin Sentral Bus Terminal in Johor Bahru, Malaysia, via the Causeway. 
 
@@ -878,55 +878,6 @@ Please check the <a href="/transit/overview" target="_blank">Transiting through 
 
 <p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo an on-arrival COVID-19 test. Fully vaccinated recently-recovered travellers may qualify for exemption from the on-arrival COVID-19 test. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</i></p>
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Please jump to the relevant section based on your intended date of entry into Singapore.</i></p>
-
-<ol style="list-style-type: disc;">
-	<li><a href="#before21">For travellers entering before 21 February 2022, 2359h</a></li>
-	<li><a href="#after21">For travellers entering after 21 February 2022, 2359h</a></li>
-	</ol>
-
-
-<div id="before21"></div>
-
-#### <u>For travellers entering before 21 February 2022, 2359h</u>
-
-#### 1. If my travel plans have changed, how do I edit the booking for my on-arrival COVID-19 PCR test at the airport?
-
-To edit a booking:
-
-1.	Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a> , navigate to ‘My Trips’ and choose the specific trip that you wish to change.
-
-2.	If you do not have a STC account, please request for assistance to change your trip details by emailing <a href="mailto:swabtest.datechange@changiairport.com" target="_blank">swabtest.datechange@changiairport.com</a>.
-
-Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
-
-#### 2. If I need to cancel my trip, how do I obtain a refund for my on-arrival COVID-19 PCR test at the airport?
-
-To cancel and request for a refund of your booking:
-
-1.	Login to your <a href="https://safetravel.changiairport.com/" target="_blank">Safe Travel Concierge (STC) account</a>, navigate to ‘My Trips’ and choose the specific trip that you wish to cancel.
-2.	If you do not have a STC account, please request for assistance to cancel and refund your booking by emailing <a href="mailto:swabtest.refund@changiairport.com" target="_blank">swabtest.refund@changiairport.com</a>.
-
-Note: Bookings not cancelled up to 7 days after the scheduled booking date will be automatically refunded. All cancellations and refunds are subjected to a S$3 fee.
-
-#### 3. Can VTL(Air) travellers choose to undergo the on-arrival COVID-19 PCR test in clinics or hospitals in Singapore?
-
-No, VTL (Air) travellers are required to undergo the on-arrival COVID-19 PCR test at the airport. A testing facility has been set up within the airport with a safe management process in place to enable travellers to undergo the test as smoothly and quickly as possible after disembarkation from their flight and arrival immigration clearance.
-
-#### 4. What should travellers do if they do not receive their on-arrival COVID-19 PCR test results after 24 hours?
-
-Please email <a href="mailto:airborder@rafflesmedical.com" target="_blank">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
-
-#### 5. What should travellers do if their flight/bus/ferry arrives earlier than their hotel check-in time and are unable to self-isolate?
-
-Travellers must proceed immediately to their place of accommodation for self-isolation. They are <u>not allowed</u> to stay in the airport/bus/ferry terminal or wait in the hotel lobby prior to check-in. They should seek their hotel’s assistance to arrange for early check-in. If this is not possible, they can cancel or modify their reservation and arrange a booking at another hotel for self-isolation.
-
-
----
-
-<div id="after21"></div>
-
-#### <u>For travellers entering after 21 February 2022, 2359h</u>
 
 #### 1. What are the test centres that travellers can go to for their supervised ARTs?
 
@@ -991,9 +942,9 @@ Please email <a href="mailto:testingops@hpb.gov.sg" target="_blank">testingops@h
  <div id="postarrivaltests"></div>
  
 
-### (7) Post-Arrival Regular COVID-19 Antigen Rapid Tests (ARTs) (only for travellers arriving before 21 Feb 2022, 2359h)
+### (7) Post-Arrival Regular COVID-19 Antigen Rapid Tests (ARTs)
 
-<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Those who enter Singapore before 21 Feb 2022, 2359h, are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7.</span></i></p> 
+<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Travellers who enter Singapore before 21 Feb 2022, 2359h, are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7.</span></i></p> 
 <p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo post-arrival ARTs. Fully vaccinated recently-recovered travellers entering Singapore may qualify for exemption from the post-arrival COVID-19 ARTs. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</span></i></p>
 
 
