@@ -14,7 +14,7 @@ The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates 
 - MOM passes or IPA letters
 - <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes" target="_blank">Proof of vaccination status or exemption</a>
 
-<b>Click <a href="" target="_blank">here</a> for more information.</b>
+<b>Click <a href="https://www.mom.gov.sg/newsroom/press-releases/2022/0216-removal-of-entry-approval-requirements-for-certain-eligible-ltphs" target="_blank">here</a> for more information.</b>
 
 
 On this page, you will find the following key information on the WPHL. 
