@@ -61,53 +61,10 @@ Persons who are medically unfit to be vaccinated are not allowed to travel under
 
 Use the self-checker tool on the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> to determine the alternative Travel Lanes that are available.
 
-#### 2. What must travellers present as their proof of vaccination at check-in and arrival immigration?
-
-<i>Note: Long Term Pass Holders (excluding work permit holders) no longer need to apply for a Vaccinated Travel Pass from 21 Feb 2022 onwards.</i>
-
-<table>
-	<thead>
-		<tr>
-			<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#f8f8f8;"><b>I am a...</b></th>
-						<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#f8f8f8;"><b>My proof of vaccination was issued...</b></th>
-						<th style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#f8f8f8;"><b>I will need to present...</b></th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">In Singapore</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Either a valid vaccination status on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a> or a vaccination certificate issued by the Singapore Ministry of Health.
-			</td>
-		</tr>
-		<tr>
-			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Citizen or Permanent Resident</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/vtl/faq#QRcode" target="_blank">Overseas</a></td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">One of the <a href="/vtl/travel-checklist#proof" target="_blank">accepted proof of vaccination</a>, which may include your overseas-issued vaccination certificate</td>
-		</tr>
-				<tr>
-			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">In Singapore</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">A valid Vaccinated Travel Pass (Air) [VTP (Air)], which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>*. Please <a href="/vtl/faq#Q4" target="_blank">click here</a> for more details.</td>
-		</tr>
-				<tr>
-			<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Long-Term Pass Holder or Short-Term Visitor</td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/vtl/faq#QRcode" target="_blank">Overseas</a></td>
-						<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:15px;">A valid Vaccinated Travel Pass (Air) [VTP (Air)], which you can apply for <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a>*, and an <a href="/vtl/travel-checklist#proof" target="_blank">accepted proof of vaccination</a>, if necessary.</p>
-</td>
-		</tr>
-	</tbody>
-	</table>
-<p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">*On the VTP (Air) application portal, please select one of the following options depending on your pass type:</p>
-<ol style="list-style-type:lower-alpha;">
-<li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOM Long-Term Pass Holder</b> if you are a holder of an Employment Pass, Work Pass, Dependent’s Pass, MOM Long-Term Visit Pass, etc.; or</li>
-<li  style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>MOE Long-Term Pass Holder</b> if you are a Student Pass holder.</li>
-	</ol>
-
 
 <div id="Q4"></div>
  
-#### 3. How do I prove my vaccination status when applying for a VTP if: 
+#### 2. How do I prove my vaccination status when applying for a VTP if: 
 
 <ol style="list-style-type: lower-latin;"><li style="line-height:1.35; font-size:24px; color:#d30000;">I am a Long-Term Pass Holder or Short-Term Visitor with Singapore-issued vaccination records; or</li><li style="line-height:1.35; font-size:24px; color: #d30000;">I was fully vaccinated in a non-VTL country/region and had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR)?</li></ol>
 
@@ -119,20 +76,20 @@ You do not need to upload your QR code for booster vaccinations.
 
 <div id="Q6"></div>
 
-#### 4. I was fully vaccinated in a non-VTL (Air) country/region and have an <a href="/vtl/faq#QRcode">accepted proof of vaccination</a>. Do I satisfy the vaccination requirement?
+#### 3. I was fully vaccinated in a non-VTL (Air) country/region and have an <a href="/vtl/faq#QRcode">accepted proof of vaccination</a>. Do I satisfy the vaccination requirement?
 
 Yes. Please refer to the instructions <a href="/vtl/faq#vaxcert" target="_blank">here</a> for the accepted proof of vaccination.
 
 <div id="Q7"></div>
 
-#### 5. What information does the vaccination certificates need to contain?
+#### 4. What information does the vaccination certificates need to contain?
 
 The electronic or physical vaccination certificate(s) must be an accepted proof of vaccination, and clearly state the following:
 - your name, and at least one other personal identifier such as your date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;
 - the name(s) of vaccine(s) used; and
 - the date(s) of vaccination. The date of the last dose should be administered at least 14 days before your arrival in Singapore. 
 
-#### 6. I was diagnosed with COVID-19 and have since recovered. I have been administered only one vaccine dose of a typically two-dose regimen. Do I fulfil the VTL vaccination requirement?
+#### 5. I was diagnosed with COVID-19 and have since recovered. I have been administered only one vaccine dose of a typically two-dose regimen. Do I fulfil the VTL vaccination requirement?
 
 Yes, if the date of your vaccine dose is:
 - at least 14 days before the date of your intended arrival into Singapore; and
@@ -144,7 +101,7 @@ If you are required to apply for a VTP, please write to the Safe Travel Office u
 
 You do not need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination, NHS COVID Pass of vaccination, or Northern Ireland COVID certificate showing the final dose in the series (i.e. “1/1”). If you are required to apply for a VTP, you need only upload the QR code found on your vaccination certificate.
 
-#### 7. Are travellers required to obtain a booster dose to be eligible for the VTL?
+#### 6. Are travellers required to obtain a booster dose to be eligible for the VTL?
 
 Currently, VTL travellers are not required to obtain a booster dose. They are only required to be fully vaccinated with their primary vaccination series to be eligible for entry into Singapore.
 
@@ -246,11 +203,11 @@ label.box {
 </html>
 
 
-<b style="color:red;">Note for Long Term Pass Holders (excluding Work Permit Holders) entering from 21 Feb 2022, 2359h, Singapore Citizens and Permanent Residents</b>
+<b style="color:red;">For Long Term Pass Holders (excluding Work Permit Holders, Singapore Citizens and Permanent Residents</b>
 
-If you are a Singapore Citizen or Permanent Resident, or a Long Term Pass Holder (excluding work permit holder) arriving from 21 Feb 2022, 2359h, you need not apply for a VTP. You will need to show an accepted proof of vaccination to the VTL transport operator at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate using the self-verification tool(s) available for your vaccination certificate, if available, prior to your trip. 
+If you are a Singapore Citizen or Permanent Resident, or a Long Term Pass Holder (excluding work permit holder), you need not apply for a VTP. You will need to show an accepted proof of vaccination to the VTL transport operator at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate using the self-verification tool(s) available for your vaccination certificate, if available, prior to your trip. 
 
-<b style="color:red;">Note for Short-Term Visitors and Work Permit Holders</b>
+<b style="color:red;">For Short-Term Visitors and Work Permit Holders</b>
 
 If you are a Short-Term Visitor (STV) or Work Permit Holder (WPH) in Singapore, you need to apply for a VTP. Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP application portal. <b>You should upload the QR code(s) of your primary series only (i.e. first and second doses); regardless of whether you have obtained a booster dose</b>.
 
@@ -301,9 +258,6 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code via a regular QR code scanner on your mobile device</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><b>[For applications before 21 Feb 2022, 2359h]</b></p>	
-<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>[For applications from 21 Feb 2022, 2359h]</b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose.</li>
@@ -413,9 +367,6 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code on the <a href="https://verify.kemkes.go.id/" target="_blank">Kementerian Kesehatan Republik Indonesia website</a></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><i>[For applications before 21 Feb 2022, 2359h]</i></b></p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
-			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><i>[For applications from 21 Feb 2022, 2359h]</i></b></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose.</li>
