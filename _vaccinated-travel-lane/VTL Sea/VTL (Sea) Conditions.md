@@ -32,7 +32,7 @@ third_nav_title: VTL Sea
 					    <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 test.
 </li>
          </ol>
-               <li style="font-size:18px; list-style-type:upper-alpha;">undergo a COVID-19 ART test at Quick Test Centres or Combined Test Centres<sup>4</sup> within 24 hours of arrival.  Upon arrival in Singapore, he/she shall immediately take private transportation, taxi, or private hire car from the ferry terminal to the place of accommodation as declared in the VTP (Sea) application and remain isolated at the place of accommodation until the on-arrival ART result is confirmed to be negative;</li>
+               <li style="font-size:18px; list-style-type:upper-alpha;">undergo a COVID-19 ART test at <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centres or Combined Test Centres</a> within 24 hours of arrival.  Upon arrival in Singapore, he/she shall immediately take private transportation, taxi, or private hire car from the ferry terminal to the place of accommodation as declared in the VTP (Sea) application and remain isolated at the place of accommodation until the on-arrival ART result is confirmed to be negative;</li>
 			 <li style="font-size:18px; list-style-type:upper-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 test results to the relevant Singapore Government authorities for public health purposes;</li>
 	     <li style="font-size:18px; list-style-type:upper-alpha;">download the <a href="https://tracetogether.gov.sg" target="_blank">TraceTogether app</a> on his/her mobile device and:
 		<ol style="font-size:18px; list-style-type: upper-alpha;">
@@ -72,5 +72,3 @@ third_nav_title: VTL Sea
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the scheduled day of departure of the ferry is D (e.g. 8 January 2022), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore from D-7 to D (i.e. 1 January to 8 January 2022, if D is 8 January 2022).</p>
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>3</sup>If the pre-departure test is taken on 1 January 2022, it will be valid for departures up to 3 January 2022, 2359 hours.</p>
-
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>4</sup>Please refer to <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">https://www.go.gov.sg/traveller-art-test</a> for more details on the Quick Test Centres and Combined Test Centres.</p>
