@@ -97,7 +97,6 @@ label.box {
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Entry Approvals are needed only for travellers who are:</p>
 <ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Long Term Pass Holders (e.g. Student Pass, Work Pass, S-Pass, Dependant Pass)</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Work Permit holders</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Short term visitors (including family members under the Familial Ties Lane and Student Pass Holder Lane)</li>
 	</ol>
