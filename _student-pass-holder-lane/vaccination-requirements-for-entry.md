@@ -15,7 +15,7 @@ permalink: /stpl/vaccination-requirements
 
 <div id="criteria"></div>
 
-### Criteria to be considered fully vaccinated
+### 1. Criteria to be considered fully vaccinated
 
 <table>
   <thead>
@@ -39,7 +39,7 @@ permalink: /stpl/vaccination-requirements
 
 <div id="documents"></div>
 
-### Documents travellers should produce to prove they are fully vaccinated
+### 2. Documents travellers should produce to prove they are fully vaccinated
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers must be able to produce documents to prove their vaccination status before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry.</p>
 
@@ -83,7 +83,7 @@ permalink: /stpl/vaccination-requirements
 
 <div id="additional-requirements"></div>
 
-### Additional requirements for travellers who were vaccinated overseas
+### 3. Additional requirements for travellers who were vaccinated overseas
 
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">Travellers who were fully vaccinated overseas must <b>update (ingest) their overseas vaccination records in Singapore’s National Immunisation Registry (NIR)</b> within 30 days of arrival in Singapore.</p>
 
@@ -99,7 +99,7 @@ permalink: /stpl/vaccination-requirements
 	
 <div id="woproof"></div>
 
-### Travellers who may enter without proof of vaccination
+### 4. Travellers who may enter without proof of vaccination
 
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">The following travellers may enter Singapore under the Student’s Pass Holder Lane without proof of vaccination:</p>
 
@@ -113,13 +113,13 @@ permalink: /stpl/vaccination-requirements
 	
 <div id="penalties"></div>
 
-### Penalties for non-compliance
+### 5. Penalties for non-compliance
 
 <p style="font-size:18px; line-height:1.5;">Strict enforcement action, including revocation of passes, will be taken for non-compliance or false declaration.</p>
 
 <div id="summary"></div>
 
-### Summary of the vaccination requirements for entry under the Student’s Pass Holder Lane (STPHL)  
+### 6. Summary of the vaccination requirements for entry under the Student’s Pass Holder Lane (STPHL)  
 
 <p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged below 12 years old on the date of entry:</u></b></p>
 
