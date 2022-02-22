@@ -165,10 +165,11 @@ permalink: /stpl/vaccination-requirements
     <tr>
       <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated with <a href="/health/vtsg" target="_blank">full regimen of WHO Emergency Use Listing (WHO EUL) vaccines</a> at least two weeks before arrival</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated in Singapore</td>
-	     <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Show <a href="#documents">proof of vaccination</a> at the port of departure/ checkpoint.<br><br><a href="#additional-requirements">Update vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival </td>
+	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Show <a href="#documents">proof of vaccination</a> at the port of departure/ checkpoint.</td>
     </tr>
 	   <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated overseas</td>
+			 <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Show <a href="#documents">proof of vaccination</a> at the port of departure/ checkpoint.<br><br><a href="#additional-requirements">Update vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival </td>
     </tr>
 	   <tr>
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Medically ineligible for vaccination</td>
