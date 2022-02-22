@@ -203,7 +203,7 @@ label.box {
 </html>
 
 
-<b style="color:red;">For Long Term Pass Holders (excluding Work Permit Holders, Singapore Citizens and Permanent Residents</b>
+<b style="color:red;">For Singapore Citizens, Permanent Residents and Long Term Pass Holders (excluding Work Permit Holders)</b>
 
 If you are a Singapore Citizen or Permanent Resident, or a Long Term Pass Holder (excluding work permit holder), you need not apply for a VTP. You will need to show an accepted proof of vaccination to the VTL transport operator at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate using the self-verification tool(s) available for your vaccination certificate, if available, prior to your trip. 
 
