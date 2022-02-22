@@ -361,7 +361,7 @@ input:checked + label + .content {
 </div>
 	
 <input id="title7" type="checkbox">
-<label for="title7">Foreign Visitors (e.g. Short-Term Visitors / Long-Term Pass Holders)</label>
+<label for="title7">Short Term Visitors and Work Permit Holders</label>
 
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (AIR) [VTP(AIR)]</b>
