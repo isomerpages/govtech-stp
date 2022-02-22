@@ -2220,7 +2220,7 @@ Purchase of travel insurance is a condition of the VTL. Non-compliance with any 
 
 #### 1. What hotels are approved for stay for short-term VTL (Sea) travellers?
 
-Please refer to the Singapore Tourism Board’s (STB) <a href="https://www.stb.gov.sg/content/stb/en/home-pages/approved-hotels.html" target="_blank">list of approved hotels</a>.
+Please refer to the Singapore Tourism Board’s (STB) <a href="https://sha.org.sg/hotel-accommodation" target="_blank">list of approved hotels</a>.
 
 #### 2. Why are short-term VTL (Sea) travellers not allowed to stay with their friends or relatives in Singapore?
 
