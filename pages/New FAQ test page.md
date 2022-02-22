@@ -178,11 +178,13 @@ label.box {
 
 <input id="Brunei-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="Brunei-cert" class="accordion"><b>Brunei Darussalam</b></label>
-		<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.gov.bn/SitePages/bruhealth.aspx">BruHealth app</a>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for VTP (Air) Application</u></b></p>
-<ol style="list-style-type: lower-roman;">
-  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code via a regular QR code scanner on your mobile device</li>
-  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
+<div style="background-color:#ededed;" class="content">
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>
+COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.gov.bn/SitePages/bruhealth.aspx">BruHealth app</a>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code via a regular QR code scanner on your mobile device</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose.</li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<table>
@@ -200,10 +202,9 @@ label.box {
 	</tr>
 			</tbody></table></li>
     </ol>
-  </li>
-    </ol>
 	</div>
-		<input id="Cambodia-cert" type="checkbox" class="accordion">
+
+<input id="Cambodia-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Cambodia-cert" class="accordion"><b>Cambodia</b></label>
 		<div style="background-color:#ededed;" class="content">Covid-19 Vaccination Certificate issued by the Kingdom of Cambodia
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for VTP (Air) Application</u></b></p>
