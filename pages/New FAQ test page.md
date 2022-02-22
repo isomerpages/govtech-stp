@@ -203,34 +203,31 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 			</tbody></table></li>
     </ol>
 	</div>
-
-	
-<!-- i stopped here-->
 	
 <input id="Cambodia-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Cambodia-cert" class="accordion"><b>Cambodia</b></label>
-		<div style="background-color:#ededed;" class="content">Covid-19 Vaccination Certificate issued by the Kingdom of Cambodia
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for VTP (Air) Application</u></b></p>
-			<ol style="list-style-type: lower-roman;">
- <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code via a regular QR code scanner on your mobile device</li>
-  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</li>
-</ol>
+		<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>Covid-19 Vaccination Certificate issued by the Kingdom of Cambodia
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code via a regular QR code scanner on your mobile device</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
 </div>
-		<input id="Canada-cert" type="checkbox" class="accordion">
+
+<input id="Canada-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Canada-cert" class="accordion"><b>Canada</b></label>
-		<div style="background-color:#ededed;" class="content"><a target="_blank" href="https://smarthealth.cards/faq.html">SMART Health Cards (SHC)</a> issued by any Canadian province
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for VTP (Air) Application</u></b></p>
-<ol style="list-style-type: lower-roman;">
-  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using these tools: <a target="_blank" href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier">SMART Health Card Verifier</a> (Android) or <a target="_blank" href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390">SMART Health Card Verifier</a> (iOS)</li>
-  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
+		<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p><a target="_blank" href="https://smarthealth.cards/faq.html">SMART Health Cards (SHC)</a> issued by any Canadian province
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier">SMART Health Card Verifier</a> (Android) or <a target="_blank" href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390">SMART Health Card Verifier</a> (iOS)</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose</li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:54px; height:84px;" src="/images/QR_Canada.png"></li>
     </ol>
-  </li>
-    </ol>
 	</div>
-			<input id="eudcc-cert" type="checkbox" class="accordion">
+
+<!-- i stopped here-->	
+<input id="eudcc-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="eudcc-cert" class="accordion"><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">here</a>)</b></label>
 		<div style="background-color:#ededed;" class="content"><a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
