@@ -112,7 +112,7 @@ input:checked + label + .content {
 
 <div id="ltph" class="content" style="background-color:#edf4fa;">
 	<p style="line-height:1.5; font-size:18px; "><b>Single Trip Vaccination Arrangement:</b><ol style="margin-top:15px; list-style-type: disc;">
-<li style="line-height:1.5;">OS will receive their first vaccination dose upon arrival in Singapore and observe the prevailing travel requirements imposed based on their travel history. Successive vaccination doses will be administered, per the required dosing intervals, before the OS returns to their resident country</li></ol>					
+<li style="line-height:1.5;">OS will receive their first vaccination dose upon arrival in Singapore and observe the prevailing travel requirements imposed based on their travel history. Successive vaccination doses will be administered, per the required dosing intervals, before the OS returns to their resident country.</li></ol>					
 </p>
 <p style="line-height:1.5; font-size:18px; margin-top:20px; "><i>[Note: Prevailing border measures will apply depending on 7-day travel history.]</i></p>
 	</div>
