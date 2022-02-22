@@ -7,7 +7,7 @@ third_nav_title: VTL Sea
 <p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;">The Vaccinated Travel Lane (Sea) [VTL (Sea)] allows quarantine-free travel from Indonesia to Singapore via sea. Please note that: </p>
 
 <ol style="list-style-type:disc;">
-	<li style="font-size:18px; line-height:1.35;">Travellers intending to travel from Indonesia to Singapore via air should refer to the requirements under the Vaccinated Travel Lane <a href="/vtl/requirements-and-process" target="_blank">(Air)</a>. <b>VTP <a href="/vtl-sea/overview" target="_blank">(Sea)</a> and <a href="/vtl-land/overview" target="_blank">VTP (Air)</a> approvals are not interchangeable.</b></li>
+	<li style="font-size:18px; line-height:1.35;">Travellers intending to travel from Indonesia to Singapore via air should refer to the requirements under the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>. <b><a href="/vtl-sea/overview" target="_blank">VTP (Sea)</a> and <a href="/vtl/requirements-and-process" target="_blank">VTP (Air)</a> approvals are not interchangeable.</b></li>
 	<li style="font-size:18px; line-height:1.35;">Travellers holding an existing valid entry approval letter under other non-VTL SafeTravel Lanes but wish to travel under the Vaccinated Travel Lane should follow VTL procedures instead, including applying for a Vaccinated Travel Pass if necessary.</li>
 	</ol>
 	
@@ -239,7 +239,7 @@ input:checked + label + .content {
 <label for="title7">Work Permit Holders and Short-Term Visitors</label>
 
 <div style="background-color:#edf4fa;" class="content">
-	<p style="line-height:1.3; font-size:18px;"><b><!--<a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (SEA) [VTP (SEA)]--> Vaccinated Travel Pass (Sea) applications will open on 22 Feb 2022, 10am. </b>
+	<p style="line-height:1.3; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (SEA) [VTP (SEA)] </b>
 	</p>
 	<p style="line-height:1.3; font-size:18px; margin-top:15px;"><b>There is no need to rush to apply as there is no limit on VTP applications and it is more important to secure VTL ferry tickets first.</b></p>
 	<ol style="margin-top:0px; list-style-type:disc;">
@@ -250,7 +250,7 @@ input:checked + label + .content {
 	<p></p>
 	<p style="line-height:1.3; font-size:18px;">Please note the following when making the application:</p>
 	<ol style="margin-top:0px; list-style-type:disc;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTL (Sea) travellers must also refer to this <a target="_blank" href="/vtl-sea/travel-checklist">travel checklist</a> and the <a target="_blank" href="/vtl-sea/conditions">VTL (Sea) conditions</a> to ensure they satisfy all VTL (Sea) requirements, otherwise they may be denied entry to Singapore.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTL (Sea) travellers must also refer to this <a target="_blank" href="/vtl-sea/travel-checklist"> VTL(Sea) travel checklist</a> and the <a target="_blank" href="/vtl-sea/conditions">VTL (Sea) conditions</a> to ensure they satisfy all VTL (Sea) requirements, otherwise they may be denied entry to Singapore.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Accompanying children aged 12 and below in the current calendar year and are unvaccinated do not need to apply. </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Applications must be supported with digitally verifiable vaccination certificate QR code(s), if required. Please see our <a target="_blank" href="/vtl/faq#vaxcert">FAQs</a> for more details.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">A VTP is valid for <b>13 calendar days</b> from the traveller’s chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. (e.g. a traveller holding a VTP (Sea) for entry into Singapore on 1 March 2022 may enter Singapore on a designated VTL (Air) flights any day from 1 - 14 March 2022 (inclusive)). The traveller should reapply for a VTP if he is unable to enter during this period.</li>

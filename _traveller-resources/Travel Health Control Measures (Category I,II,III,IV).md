@@ -38,10 +38,10 @@ This page provides a summary of the four categories of travel health control mea
 												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	<!--A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 14 consecutive days before departure. <u>or</u> you are a Singapore resident (i.e. Singapore Citizen, Permanent Resident and Long-Term Pass Holder) and have remained in a Category (I), (II), (III) and/or (IV) country/region for at least 14 consecutive days before departure.-->	For transits lasting more than 24 hours, a pre-departure test must be taken within 2 days from the last leg of the journey to Singapore.  </li>
 					</ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>➁</b> Travellers aged two and below in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
+										<b>➁</b> Travellers aged two and below in this calendar year (i.e. born in or after 2020) are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-						<b>➂</b> Travellers arriving in Singapore who have recently recovered from COVID-19 can be exempted from some or all of the border measures below. Details of eligibility and documentation required for such recovered travellers can be found via the respective Category (I) or (II/III) travel checklists, which can be accessed via the tables below after you determine the appropriate category. </p>
+						<b>➂</b> Travellers arriving in Singapore who have recently recovered from COVID-19 can be exempted from some or all of the border measures below. Details of eligibility and documentation required for such recovered travellers can be found via the respective Category (I) or (II/III/IV) travel checklists, which can be accessed via the tables below after you determine the appropriate category. </p>
 			</td>
     </tr>
 	</tbody>

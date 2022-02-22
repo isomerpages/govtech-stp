@@ -5,7 +5,7 @@ description: Overview of the Student Pass Holder Lane
 ---
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Student’s Pass holders studying in Singapore and their immediate family members may enter Singapore under the Student’s Pass Holder Lane. <b>Prevailing health protocols including quarantine (“Stay Home Notice”) may apply for those entering under this lane, if their recent travel history includes non-Category (I) countries/regions.</b></p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> or <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> or <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a>  to enjoy quarantine-free measures.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <b>Vaccinated Travel Lane(VTL):</b> <a href="/vtl/requirements-and-process" target="_blank"> (Air)</a>, <a href="/vtl-land/overview" target="_blank">(Land)</a> or <a href="/vtl-sea/overview" target="_blank">(Sea)</a> to enjoy quarantine-free measures.</p>
 
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">On this page you will find the following information about the Student’s Pass Holder Lane:</p>
@@ -43,6 +43,7 @@ description: Overview of the Student Pass Holder Lane
 		</li>
 		</ol>
 	</p>
+	<p style="line-height:1.5; font-size:18px;">Former STP holders seeking entry to fulfil their scholarship obligations should refer to the <a href="/scpr-familial-ties-lane/overview" target="_blank">“Familial Ties Lane”</a> page for more information. </p>
 		</td>
 	</tr>
 	</tbody>
@@ -77,7 +78,7 @@ description: Overview of the Student Pass Holder Lane
 
 ### 2) Entry Application and Approval
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Entry approvals <b>are not required if the fully vaccinated traveller arrives from 21 Feb 2022, 2359h</b>, and:<ol style="margin-top:0px; margin-bottom:0px;">
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Entry approvals <b>are not required for the following travellers</b>:<ol style="margin-top:0px; margin-bottom:0px;">
 	<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Holds a Student’s Pass (STP) or STP In-Principle Approval (STP-IPA); OR</li>
 	<li style="line-height:1.5;font-size:18px;margin-top:10px;  list-style-type:lower-roman;">Holds a Long-Term Visit Pass (LTVP) or LTVP In-Principle Approval (LTVP-IPA), and is the immediate family member of an STP/STP-IPA holder</li>
 	</ol></p>
@@ -94,11 +95,6 @@ description: Overview of the Student Pass Holder Lane
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">STP and STP-IPA holders entering Singapore <b>before 21 Feb 2022, 2359H (SGT)</b></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">A valid entry approval should have been obtained before 13 Feb 2022, 2359H (SGT). <br><br> <span style="color:red; font-size:28px;">&#9888;&nbsp;</span><b style="color:red;"> NOTE:</b> <i> Travellers without a valid entry approval will be denied entry.</i>
-				</td>
-    </tr>
 	     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Immediate family member (of a valid STP or STP-IPA holder) who do not hold Singapore long-term passes</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><a href="https://go.gov.sg/moe-entry-application" target="_blank">Submit an entry request to the Ministry of Education (MOE). </a><br><br>Applications must be submitted <b>between one and nine weeks in advance</b>. A 7-day entry period (Monday - Sunday) will be granted to accommodate changes in travel plans.<br><br><b>Late applications will not be considered.</b>
@@ -113,9 +109,9 @@ description: Overview of the Student Pass Holder Lane
 
 ### 3) Health and Administrative Protocols
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The Student’s Pass Holder Lane does not afford travellers quarantine-free access provided under the Vaccinated Travel Lane (Air), (Land) or (Sea). The prevailing health measures described under Categories I, II, III or IV, will apply depending on the traveller’s travel history.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Under the Familial Ties Lane, prevailing health measures under Categories I, II, III or IV, will apply depending on the traveller’s travel history. </p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Click here for the <a href="/shn-and-swab-summary" target="_blank">travel categories</a> before referring to the checklists below for detailed entry instructions.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Click here to determine the appropriate <a href="/shn-and-swab-summary" target="_blank">category of health measures</a> that apply depending on the traveller’s travel history to various countries before arriving in Singapore, before referring to the checklists below for detailed entry instructions.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><b>Travel checklists for travellers arriving from 21 Feb 2359h SGT:</b></p>
 
 <ol style="margin-top:15px;">

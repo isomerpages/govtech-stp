@@ -5,8 +5,7 @@ permalink: /travel-checklist/category-1
 <p style="font-size:18px; line-height:1.35;">This checklist is for travellers who:</p>
 
 <ol>
-	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b style="color:red;">[Arrivals before 21 Feb 2022, 2359H]</b> <b>Have only</b> visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 14 days before arrival in Singapore</a>, and did not transit in any non-Category (I) countries/regions for a period exceeding 24 hours;</li>
-	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b style="color:red;">[Arrivals from 21 Feb 2022, 2359H]</b> <b>Have only</b> visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 7 days before arrival in Singapore</a>, and did not transit in any non-Category (I) countries/regions for a period exceeding 24 hours;</li>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b>Have only</b> visited <a href="/shn-and-swab-summary" target="_blank">any Category (I) country/region in the past 7 days before arrival in Singapore</a>, and did not transit in any non-Category (I) countries/regions for a period exceeding 24 hours;</li>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b>Are not</b> entering Singapore via the Vaccinated Travel Lane (Air), (Land), (Sea), Reciprocal Green Lane, Periodic Commuting Arrangement, Work Pass Holder General Lane or Air Travel Pass. <i>(If unsure what these lanes/arrangements are, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page to determine an entry option that best suits your travel needs.)</i></li>
 	</ol>
 
@@ -17,12 +16,11 @@ permalink: /travel-checklist/category-1
 
 <div id="1A" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Application for Entry Approval</b></i></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">Entry Approvals are needed only for travellers who are:<ol>
-	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;">Long Term Pass Holders (excluding Work Permit Holders) entering Singapore <b>before 21 Feb 2022, 2359H SGT</b></li>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;">Work Permit holders</li>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;">Short term visitors (including family members under the Familial Ties Lane and Student Pass Holder Lane)</li>
 	</ol>	
 	</p>
-<p style=" font-size:18px;line-height:1.35;"><a href="/health/vtsg" target="_blank">Fully vaccinated</a> Long Term Pass Holders (excluding Work Permit Holders) <b>entering from 21 Feb 2022 2359H</b>, as well as Singapore Citizens and Permanent Residents, <b>do not need to apply or present an entry approval to enter Singapore</b>. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes:
+<p style=" font-size:18px;line-height:1.35;">Singapore Citizens, Permanent Residents and <a href="/health/vtsg" target="_blank">fully vaccinated</a> Long Term Pass Holders (excluding Work Permit Holders) <b>do not need to apply or present an entry approval to enter Singapore</b>. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes:
 <ol>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;"><a href="/sc-pr/overview" target="_blank">Returning Singapore Citizen/Permanent Resident Lane</a></li>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;"><a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a></li>
@@ -33,7 +31,7 @@ permalink: /travel-checklist/category-1
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Obtain Proof of Vaccination</b></i></div>	
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:15px;line-height:1.35;">Travellers may be asked for proof of vaccination for various travel-related declarations as well as pre-boarding and immigration checks. Depending on where you have received your vaccination, the following documents are considered acceptable vaccination proof:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:15px;line-height:1.35;">Travellers may be asked for proof of vaccination for various travel-related declarations and pre-boarding as well as immigration checks. Depending on where you have received your vaccination, the following documents are considered acceptable vaccination proof:</p>
 	<table>
   <thead>
     <tr>
@@ -83,7 +81,7 @@ permalink: /travel-checklist/category-1
 <div id="1D" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers are advised to defer travel if the time of COVID-19 symptom onset (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) starts in any of the last 7 days before departure.</p>
+<p style="line-height:1.35;font-size:18px; margin-top: 10px;">Monitor your health status. Travellers are advised to defer travel if the time of COVID-19 symptom onset (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) starts in any of the last 7 days before departure.</p>
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">If you have recently recovered from COVID-19 within the last 90 days before departure:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: disc;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Entry approval requirements (Stage 1A, 1C) still apply.</li>
@@ -164,19 +162,11 @@ permalink: /travel-checklist/category-1
 	<p style="font-size:18px;margin-top:10px;line-height:1.35;">Travellers without a digitally-verifiable vaccination certificate can instead present their vaccination proof (as defined in <a href="#1A">Stage 1A</a>) during immigrations clearance for their vaccination status to be registered temporarily registered on TraceTogether (detail in Stage 3A).</p>
 </div>
 
-<div id="payment"></div>	
-	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b> G) [For arrivals before 21 Feb 2022, 2359h] Registration and Pre-payment for On-Arrival COVID-19 Test</b></i></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px;line-height:1.35;">Travellers should <a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay</a> for the on-arrival COVID-19 Polymerase Chain Reaction test (S$125) required of those aged 3 and above this calendar year. Without advance booking, travellers can expect delays in the administration of the test and departure from the checkpoint.</p>
-</div>	
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>H) Installation of TraceTogether app</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>G) Installation of TraceTogether app</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>I) Secure Self-isolation Accommodation</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>H) Secure Self-isolation Accommodation</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">Travellers are required to remain in self-isolation at a declared accommodation until they receive a negative COVID-19 test result, which includes:</p>
 <ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;font-size:18px;">
@@ -218,12 +208,6 @@ permalink: /travel-checklist/category-1
 </ol>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B)[For travellers arriving before 21 Feb 2022, 2359h] On-arrival COVID-19 Test</b></i></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">Follow the instructions of the officers at the checkpoint, and take an on-arrival COVID-19 Polymerase Chain Reaction test. </p>
-	<p style="line-height:1.35;font-size:18px;">Travellers who did not pay for the test before arival (see Stage 1F) will do so on the spot an expect additional delays in the administration of test and departure from checkpoint</p>
-	</div>
-
 
 ### Stage 4: Health Protocols during Stay in Singapore
 
@@ -234,9 +218,9 @@ permalink: /travel-checklist/category-1
 <p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers may use public transport (e.g. trains, buses) only after they have tested negative on their on-arrival test.	</p>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) [For travellers arriving from 21 Feb 2022, 2359H] 24H Supervised Self-Administered Antigen Rapid Test</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) 24 Hour Supervised Self-Administered Antigen Rapid Test</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Travellers <b>must take a supervised self-administered Antigen Rapid Test (ART) within 24 hours of arrival in Singapore at a Quick Test Centre (QTC)</b>. Booking links for the test will be sent via SMS and found in the testing notice issued to travellers upon arrival. Payments for the test (S$15/per test) will be collected separately at the QTC.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">Travellers <b>must take a supervised self-administered Antigen Rapid Test (ART) within 24 hours of arrival in Singapore at any <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a></b>. Booking links for the test will be sent via SMS and found in the testing notice issued to travellers upon arrival. Payments for the test (S$15/per test) will be collected separately at the QTC/CTC.</p>
 
 <p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Upon the completion of the ART, travellers will receive their test result via SMS. Travellers who have yet to take their supervised self-administered ART must be in self-isolation until tested negative. Individuals who test positive for COVID-19 must adhere to the <a href="https://covid.gov.sg/" target="_blank">prevailing recovery protocols</a>, including<a href="/health/insurance-and-treatment#treatment" target="_blank"> medical treatment</a> as necessary. The prevailing treatment charges will apply.	</p>
 	

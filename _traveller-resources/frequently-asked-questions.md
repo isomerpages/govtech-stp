@@ -17,7 +17,7 @@ Can’t find what you’re looking for? Please check [here](https://www.moh.gov.
 
 <div id="shnsdf"></div>
 
-## Stay Home Notice (SHN) and Dedicated SHN Facility
+## 1. Stay Home Notice (SHN) and Dedicated SHN Facility
 
 <!--#### 1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?
 
@@ -77,7 +77,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="transport"></div>
 
-## Transport Advisories
+## 2. Transport Advisories
 
 <div id="transportQ2"></div>
 
@@ -158,7 +158,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="pcrtest"></div>
 
-## COVID-19 Tests for Travellers
+## 3. COVID-19 Tests for Travellers
 
 
 #### 1. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
@@ -170,9 +170,6 @@ Travellers arriving from countries requiring a COVID-19 test must do so if they 
 
 In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
-#### 3. [For travellers arriving before 21 Feb 2022, 2359h] I did not receive my on-arrival COVID-19 PCR test results after 24 hours. What should I do?
-
-Please email <a href="mailto: airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> for enquiries related to on-arrival COVID-19 PCR test results.
 
 ---
 
@@ -187,7 +184,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="payments"></div>
 
-## Payments and Refunds
+## 4. Payments and Refunds
 
 #### 1. Do I have to pay for my stay at a Stay-Home Notice Dedicated facility (SDF) if I request for it?
 

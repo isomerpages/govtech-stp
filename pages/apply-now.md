@@ -8,7 +8,7 @@ permalink: /apply-now
 
 This page is only meant for users who are already familiar with the relevant SafeTravel lane eligibility criteria and requirements, and wish to apply for entry. <u>If you are unsure which lane to use to enter Singapore and the corresponding entry requirements</u>, please refer to the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page instead, which will guide you on which lane to use.
 
-<b>Please note that from 21 Feb 2022, 2359h, <a href="/health/vtsg" target="_blank">fully vaccinated</a> Long-Term Pass Holders (excluding Work Permit holders) no longer need to apply for entry to Singapore</b>, but are subject to the corresponding requirements of the SafeTravel Lane they are entering under.
+<b>Please note that <a href="/health/vtsg" target="_blank">fully vaccinated</a> Long-Term Pass Holders (excluding Work Permit holders) no longer need to apply for entry to Singapore</b>, but are subject to the corresponding requirements of the SafeTravel Lane they are entering under.
 
 Otherwise, a list of SafeTravel Lanes and their respective application portals can be found below.
 

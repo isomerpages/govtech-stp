@@ -138,7 +138,7 @@ label.box {
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">⏰ &nbsp; <b>Apply <u>between 3 and 60 calendar days</u> before the intended date of entry.</b></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;"><span style="color:red; font-size:18px;">❌</span>&nbsp; Unvaccinated children aged 12 and below in this calendar year(i.e. born in or after 2010) do not need to apply. However, they must comply with all VTL (Land) conditions and be accompanied by a fully vaccinated VTL (Land) traveller.</p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;"><span style="color:red; font-size:18px;">❌</span>&nbsp; No application is required for Singapore Citizens and Permanent Residents. </p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;"><span style="color:red; font-size:18px;">❌</span>&nbsp; Long-Term Pass holders, excluding Work Permit holders, who are entering Singapore from 21 Feb 2022, 2359h, will no longer need to apply.</p>
+	<!--<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;"><span style="color:red; font-size:18px;">❌</span>&nbsp; Long-Term Pass holders, excluding Work Permit holders, who are entering Singapore from 21 Feb 2022, 2359h, will no longer need to apply.</p>-->
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">⚠&nbsp;</span>Please note the following while making the application on the VTP application portal:</p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
 	<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">If your intended date of entry is not reflected in the portal, come back on another day to apply as VTP dates are made available in the system on a rolling basis.</li>
@@ -195,7 +195,7 @@ label.box {
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1F" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1F">&nbsp;&nbsp;<b>(1F) Pre-departure COVID-19 Test (PDT)</b></label></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-			<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">All travellers, except the groups listed below, must take a Pre-Departure Test (PDT) within 2 days before departure for Singapore:</p>
+			<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">All travellers, except the groups listed below, must take a Pre-Departure Test (PDT) within 2 days before departure for Singapore (e.g. if the traveller is scheduled to depart for Singapore on 3 Nov 2021, the earliest he can take his PDT is on  Nov 2021, 0001h):</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Below the age of three in this calendar year; OR</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this <a target="_blank" href="https://go.gov.sg/recovered-traveller-checker">self-checker tool</a>, and can show relevant proof of recovery outlined at <a href="#1F">Stage 1F</a>. </li>
@@ -206,15 +206,6 @@ label.box {
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Reflects the date and result of the Covid-19 test.</li>
 	</ol>
-	<p style="font-size:18px; line-height:1.35;">Click on (+) below for illustrations for when a PDT must be taken.</p>
-<input id="pdt-illustration" type="checkbox" class="accordion">
-<label for="pdt-illustration" class="accordion"><b>Illustrations for when a PDT must be taken:</b></label>
-	<div style="background-color:#ededed;" class="content"><ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Direct Flights</b> - Traveller A is scheduled to depart for Singapore on 3 Nov 2021, 2359h. The earliest he can take his PDT is on 1 Nov 2021, 0001h. </li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Flights with a less than 24-hour Transit Period to Singapore</b> - Traveller B is scheduled for departure on 3 Nov 2021 from Airport A. He will transit at Airport B for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2021, before his departure from Airport A.</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Flights with a Transit Period exceeding 24 hours</b> - Traveller C is scheduled for departure from Airport A on 3 Nov 2021. He will transit in Airport B for a period lasting more than 24 hours. In this scenario, he will take his PDT at Airport B, within 2 days before his connecting flight to Singapore.</li>
-	</ol>
-</div>
 	</div>
 	
 <div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1G" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1G">&nbsp;&nbsp;<b>(1G) Submit Health Declaration</b></label></div>
@@ -296,7 +287,7 @@ label.box {
 
 <div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="3B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="3B">&nbsp;&nbsp;<b>(3B) On-Arrival COVID-19 ART</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers will be ferried to Queen Street Terminal or Woodlands Temporary Bus Interchange, where they will take their on-arrival COVID-19 ART. Including GST, the test costs $15 and travellers can make e-payment for the test on the spot. (Travellers entering after 21 Feb 2022, 2359 hours may take a supervised self-swab ART as their On-Arrival Covid-19 test within 24 hours of arrival, at a <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centre or Combined Test Centre</a>. The weblink to book the test will be provided in the Testing Notice issued on arrival.)</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers will be ferried to Queen Street Terminal or Woodlands Temporary Bus Interchange, where they will take their on-arrival COVID-19 ART. Including GST, the test costs $15 and travellers can make e-payment for the test on the spot. Travellers may also take a supervised self-swab ART as their On-Arrival Covid-19 test at a <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centre or Combined Test Centre</a>within 24 hours of arrival. The weblink to book the test will be provided in the Testing Notice issued on arrival.</p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">❌</span>&nbsp;Children aged two and below in this calendar year (i.e. born in or after 2020) do not require an on-arrival test.</p>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">❌</span>&nbsp; <a target="_blank" href="/vaccinated-recovered">Recently-recovered travellers</a> who are fully vaccinated do not require an on-arrival test.</p>
 	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">🚍 Travellers can use any transport to leave Queen Street Terminal or Woodlands Temporary Bus Interchange if they have tested negative for their on-arrival COVID-19 ART.</p>

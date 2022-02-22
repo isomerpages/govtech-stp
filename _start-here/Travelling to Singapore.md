@@ -43,7 +43,7 @@ description: Start here to find out the travel requirements, restrictions and
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.35;"><a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> – Quarantine-free measures if travelling by flight from a Vaccinated Travel Lane (VTL) country/region (<a href="#vtlcountries">see Table below</a>), is fully vaccinated and able to satisfy the travel conditions such as use of designated VTL flight.</li>
 	<li style="line-height:1.35; margin-top:10px;"><a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL bus from Malaysia via the Causeway.</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="" target="_blank">Vaccinated Travel Lane (Sea)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL ferry from Indonesia.</li>
+	<li style="line-height:1.35;margin-top:10px;"><a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL ferry from Indonesia.</li>
 	<li style="line-height:1.35;margin-top:10px;"><a href="/sc-pr/overview" target="_blank">Returning Singapore Citizen and Permanent Resident Lane</a> – Prevailing health measures apply including Stay Home Notice, depending on travel history. Travellers who do not fulfil Vaccinated Travel Lane requirements will be subject to these prevailing measures by default. </li>
 	<li style="line-height:1.35;margin-top:10px;"><a href="/vaccinated-recovered" target="_blank">Vaccinated & Recently Recovered Traveller Protocol</a> - Fully vaccinated and able to prove recovery from a COVID-19 infection between 7 – 90 days before departure for Singapore.</li>
 </ol>
@@ -81,14 +81,14 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ### b. Long Term Pass Holders 
 
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Long-Term Pass Holders (excluding Work Permit holders) including In-Principle Approval pass holders arriving in Singapore <b>from 21 Feb 2022, 2359h, no longer need an entry approval to enter Singapore</b>, if they can present a valid pass and proof of vaccination during pre-boarding or immigration checks. All Long-Term Pass Holders arriving in Singapore <b>before 21 Feb 2022, 2359h, still need an entry approval to enter Singapore</b>. </p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Long-Term Pass Holders (excluding Work Permit holders) including In-Principle Approval pass holders arriving in Singapore no longer need an entry approval to enter Singapore, if they can present a valid pass and proof of vaccination during pre-boarding or immigration checks.</p>
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">All Long-Term Pass Holders should read the requirements of the relevant SafeTravel Lanes below carefully as they will be subject to administrative and health measures corresponding with their travel history and SafeTravel Lane used. </p>
 
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.35;"><a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> – Quarantine-free measures if travelling by flight from a Vaccinated Travel Lane (VTL) country/region (<a href="#vtlcountries2">see Table below</a>), is fully vaccinated and able to satisfy the travel conditions such as use of designated VTL flight. Work Permit holders (excluding females and Malaysians) working in the Construction, Marine Shipyard and Process sectors are not allowed to travel under the VTLs.</li>
 	<li style="line-height:1.35; margin-top:10px;"><a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL bus from Malaysia via the Causeway. Work Permit holders (excluding females and Malaysians) working in the Construction, Marine Shipyard and Process sectors are not allowed to travel under the VTLs.</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="" target="_blank">Vaccinated Travel Lane (Sea)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL ferry from Indonesia. Work Permit holders (excluding females and Malaysians) working in the Construction, Marine Shipyard and Process sectors are not allowed to travel under the VTLs.</li>
+	<li style="line-height:1.35;margin-top:10px;"><a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL ferry from Indonesia. Work Permit holders (excluding females and Malaysians) working in the Construction, Marine Shipyard and Process sectors are not allowed to travel under the VTLs.</li>
 	<li style="line-height:1.35;margin-top:10px;"><a href="/wphl/overview" target="_blank">Work Pass Holder General Lane </a> - MOM Long-Term Pass Holders who are unable to fulfil VTL requirements, and all Work Permit holders. Vaccination Requirements apply. Prevailing health measures apply including Stay Home Notice, depending on travel history. </li>
 	<li style="line-height:1.35;margin-top:10px;"><a href="/stpl/overview" target="_blank">Student’s Pass Holder Lane </a>– Student’s Pass Holders or their accompanying family members who are unable to fulfil VTL requirements. Vaccination requirements apply. Prevailing health measures apply including Stay Home Notice, depending on travel history.</li>
 	<li style="line-height:1.35;margin-top:10px;"><a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a> – Long-Term Pass Holders with immediate family in Singapore by who are unable to fulfil VTL requirements. Prevailing health measures apply including Stay Home Notice, depending on travel history.</li>
@@ -153,7 +153,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 				</td>
 	</tr>
 				<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"><a href="">Vaccinated Travel Lane (Sea)</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"><a href="/vtl-sea/overview">Vaccinated Travel Lane (Sea)</a></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old travelling by designated VTL ferry from Bintan or Batam, Indonesia.</td>
 		</tr>
 	<tr>
@@ -191,7 +191,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Travellers from <u>all countries/regions</u> may enter Singapore on a urgent short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane (DCEV). Only a maximum of <u>two visitors per case</u> is allowed. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore and can be found in the <a href="/dcev/overview" target="_blank">"DCEV overview"</a>.</p>
 		
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px; text-algin:center;"><p style="margin-top:20px; margin-bottom:20px; line-height:1.35; text-algin:center;"><a href="/dcev/overview" target="_blank">Click here</a> for an overview of the DCEV and entry requirements. </p>
+<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px; text-algin:center;"><p style="margin-top:20px; margin-bottom:20px; line-height:1.35; text-align:center;"><a href="/dcev/overview" target="_blank">Click here</a> for an overview of the DCEV and entry requirements. </p>
 		</div>
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Applications for urgent emergency entry can be submitted via this <a href="https://go.gov.sg/sto-enquiry">enquiry form</a>, selecting <i>“appeal for entry into Singapore under compassionate reasons”</i> as the enquiry category. </p>
