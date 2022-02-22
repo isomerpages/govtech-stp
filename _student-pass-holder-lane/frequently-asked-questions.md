@@ -18,12 +18,6 @@ Can't find what you are looking for? Please check <a href="/health/faq" target="
 
 #### 1. When is the latest I can submit my entry application?
 
-<b>[For arrivals before 21 February 2022, 2359 hours]</b>
-
-Applicants are required to submit their entry applications <u><b>at least two weeks before their intended period of travel</b></u>.
-
-<b> [For arrivals from 21 February 2022, 2359 hours]</b>
-
 <a href="/stpl/vaccination-requirements" target="_blank">Fully vaccinated</a> Student’s Pass (STP) and Long-Term Visit Pass (LTVP) holders, including In-Principle Approval (IPA) holders, may travel to Singapore <b>without</b> the need to apply for an entry approval. They must show their long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint for entry to Singapore.
 
 <a href="/stpl/overview" target="_blank">Eligible short-term visitors</a> who do not hold Singapore long-term passes must submit their entry applications <b><u>at least one week before their intended period of travel</u></b>, and up to nine weeks in advance.
@@ -44,7 +38,7 @@ In the meantime, you may wish to seek advice from your university/ school on you
 
 The spouse and children of STP holders on post-graduate programme are eligible for entry via the STPHL. 
 
-From 21 February 2022, 2359 hours, if they are <a href="/stpl/vaccination-requirements" target="_blank">fully vaccinated</a> and hold Student’s Passes, ICA-issued Long-Term Visit Passes, or the In-Principle Approval (IPA) of these passes, they may travel to Singapore <b>without</b> the need to apply for an entry approval. They must show their long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint.
+If they are <a href="/stpl/vaccination-requirements" target="_blank">fully vaccinated</a> and hold Student’s Passes, ICA-issued Long-Term Visit Passes, or the In-Principle Approval (IPA) of these passes, they may travel to Singapore <b>without</b> the need to apply for an entry approval. They must show their long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint.
 
 If they do not hold any Singapore long-term passes, you may submit an entry application for your spouse and children <a href="https://go.gov.sg/moe-entry-application" target="_blank">here</a>.
 
@@ -60,12 +54,6 @@ Only Student's Pass (STP) holders, Student's Pass In-Principle Approval (STP-IPA
 
 #### 5. My flight has been cancelled or delayed, and I will be travelling on another date. Can I still travel using my existing entry approval?
 
-<b> [For arrivals before 21 February 2022, 2359 hours] </b>
-
-If you are travelling within the validity period of your entry approval, you may use your existing entry approval. However, if you are now travelling outside of the validity period, please refer to the below.
-
-<b>[For arrivals from 21 February 2022, 2359 hours] </b>
-
 <a href="/stpl/vaccination-requirements" target="_blank">Fully vaccinated</a> Student’s Pass (STP) and Long-Term Visit Pass (LTVP) holders, including In-Principle Approval (IPA) holders: You may enter Singapore on your new arrival date <b>without</b> the need to apply for another entry approval.
 
 <a href="/stpl/overview" target="_blank">Eligible short-term visitors</a> who do not hold Singapore long-term passes: If you are travelling within the validity period of your entry approval, you may use your existing entry approval. However, if you are now travelling outside of the validity period, you will need to submit a new application <a href="https://go.gov.sg/moe-entry-application" target="_blank">here</a>.
@@ -79,38 +67,6 @@ If you are travelling within the validity period of your entry approval, you may
 #### 6. I am not yet fully vaccinated. Can I enter via the Student’s Pass Holder Lane (STPHL)?
 
 All travellers entering Singapore under the Student’s Pass Holder Lane must meet the <a href="/stpl/vaccination-requirements" target="_blank">vaccination requirements</a> for entry.
-
-<b>[For arrivals before 21 February 2022, 2359 hours]</b>
-
-<table>
-<thead>
-<tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>Traveller type and vaccination requirement</b></th>
-	<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#E8E8E8; text-align:left;"><b>How and Where to Apply for Entry</b></th>
-</tr>
-</thead>
-<tbody>
-		<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">
-If you are aged below 12 years old at the point of arrival, the vaccination condition for entry will not apply to you.</td>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">You may proceed with your entry application as described <a href="/stpl/overview" target="_blank">here</a>.</td>
-	</tr>
-		<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">If you are aged between 12 to less than 18 years old at the point of arrival, you may enter without proof of vaccination, on the condition that you complete the full vaccination regimen within two months after you arrive in Singapore.</td>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">You may proceed with your entry application as described <a href="/stpl/overview" target="_blank">here</a>.</td>
-	</tr>
-			<tr>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8; vertical-align:middle;">If you are aged 18 years old and above at the point of arrival, you will have to complete the <a href="/health/vtsg" target="_blank">full regimen of WHO Emergency Use Listing (WHO EUL) vaccines</a>* at least two weeks before arrival.</td>
-		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">If you are medically ineligible for vaccination or have extenuating reasons for not being fully vaccinated before arrival, you may submit an entry appeal <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">here</a>. Please submit your appeal at least 3 weeks before your intended date of entry.</td>
-	</tr>
-				<tr>
-		<td colspan="2" style="font-size:18px; vertical-align:middle;">*Travellers who recovered from a COVID-19 infection and then took one dose of a WHO EUL vaccine should refer to Question 8.</td>
-	</tr>
-	</tbody>
-	</table>
-
-
-<b> [For arrivals from 21 February 2022, 2359 hours]</b> 
 
 <table>
 <thead>
@@ -158,20 +114,6 @@ Travellers are considered fully vaccinated if they have received 1 dose of a WHO
 
 #### 8. If I am entering from a country that Singapore has established a Vaccinated Travel Lane (VTL) with, what are the requirements for entry approval?
 
-<b>[For arrivals before 21 February 2022, 2359 hours] </b>
-
-Fully Vaccinated Student’s Pass (STP)/STP-In Principle Approval (STP-IPA) holders and eligible family members from a VTL (Air/Land) country can enter Singapore either:
-
-<ol>
-  <li style="line-height:1.5;">Under the vaccinated Travel Lanes (<a href="/vtl/requirements-and-process" target="_blank">Air</a> / <a href="/vtl-land/overview" target="_blank">Land</a>): Obtain a valid Vaccinated Travel Pass (VTP) <b>at least 3 days before </b>planned arrival. <br><br> To be eligible for the VTLs, the traveller must only have travel history to Singapore, <a href="/vtl/requirements-and-process#countries" target="_blank">VTL countries</a> or <a href="/shn-and-swab-summary" target="_blank"> Category I countries/regions</a>, can only arrive in Singapore on a designated VTL flight/bus, and must satisfy all conditions under the VTL (Air / Land).</li>
-  <p style="margin-top:10px; margin-bottom:10px;"><b>OR</b></p>
-  <li style="line-height:1.5;">Under the <a href="/stpl/overview" target="_blank">Student's Pass Holder Lane (STPHL)</a>: Obtain a valid entry approval (“SafeTravel Pass”) at least 2 weeks before your planned arrival. Applications can be made <a href="https://eservices.ica.gov.sg/STO1/STPHL" target="_blank">here</a>.<br/><br/>The traveller will be subject to the prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a>.<br/><br/> Please also note that all payments made for entry applications under the STPHL are <b>non-refundable</b>, and also <b>cannot be transferred</b> to offset payments required under the VTL.</li>
-  </ol> 
-  
-Travellers who do not fulfil the requirements of the respective travel lanes on arrival will be denied entry into Singapore.
-
-<b>[For arrivals from 21 February 2022, 2359 hours]</b>
-
 Fully Vaccinated Student’s Pass (STP)/STP-In Principle Approval (STP-IPA) holders and eligible family members from a VTL (Air/Land) country can enter Singapore either:
 
 <ol>
@@ -191,16 +133,6 @@ No, you are not required to apply for an entry approval (“SafeTravel Pass”) 
 
 #### 10. I am travelling from a country that Singapore has established a Vaccinated Travel Lane (VTL) with. I have previously obtained an entry approval under the Student’s Pass Holder Lane (STPHL). Will I still be required to serve the 7-day Stay-Home Notice (SHN)?
 
-<b>[For arrivals before 21 February 2022, 2359 hours] </b>
-
-If you enter Singapore using the entry approval (“SafeTravel Pass”) obtained under the STPHL, you will need to fulfil the prevailing <a href="/shn-and-swab-summary" target="_blank">Category II travel and health control measures</a>, including serving a 7-day SHN at a self-sourced accommodation.
-
-If you wish to enter Singapore without having to serve SHN, you will need to obtain a Vaccinated Travel Pass (VTP) under the Vaccinated Travel Lane. You must also enter Singapore on a designated VTL flight or bus service. For more information, please refer to the webpages for the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> and <a href="/vtl-land/overview" target="_blank">VTL (Land)</a>.
-
-Please also note that payments made for the entry application under the STPHL are non-refundable, and also cannot be transferred to offset payments required under the VTL. However, if you obtained your entry approval under the STPHL before the announcement of the VTL, and later enter Singapore under the VTL, you may be eligible for a refund.
-
-<b>[For arrivals after 21 February 2022, 2359 hours] </b>
-
 If you enter Singapore via the STPHL, you will need to fulfill the prevailing <a href="/shn-and-swab-summary" target="_blank">Category II/III/IV travel and health control measures</a>, including serving a 7-day SHN at a self-sourced accommodation.
 
 If you wish to enter Singapore without having to serve SHN, you will need to enter Singapore via the VTL. STP, Long-Term Visit Pass (LTVP) and the respective IPA holders may travel to Singapore via VTL without applying for a Vaccinated Travel Pass, subject to the prevailing VTL requirements. They must show their long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint. They must also enter Singapore on a designated VTL flight, bus or ferry service. For more information, please refer to the webpages for the <a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a>, <a href="/vtl-land/overview" target="_blank">VTL (Land)</a> and <a href="/vtl-sea/overview" target="_blank">VTL (Sea)</a>.
@@ -209,12 +141,6 @@ Please also note that payments made for the entry application under the STPHL ar
 
 
 #### 11. Can I apply for both an entry approval (“SafeTravel Pass”) under the Student’s Pass Holder Lane (STPHL) and a Vaccinated Travel Pass (VTP) under the Vaccinated Travel Lane (VTL)?
-
-<b>[For arrivals before 21 February 2022, 2359 hours] </b>
-
-You may apply for both a SafeTravel Pass under the STPHL and a VTP under the VTL for the same travel period. However, please note that if you had applied for the SafeTravel Pass after the announcement of the VTL, the fees you have paid under the STPHL will be non-refundable, and also cannot be transferred to offset payments required under the VTL. 
-
-<b>[For arrivals after 21 February 2022, 2359 hours] </b>
 
 If you are a <a href="/stpl/vaccination-requirements" target="_blank">fully vaccinated</a> Student’s Pass (STP), Long-Term Visit Pass (LTVP), or their respective In-Principle Approval (IPA) holder, you may travel to Singapore under the STPHL <b>without</b> the need to apply for an entry approval, <b>subject to prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a></b>.
 
@@ -225,6 +151,6 @@ If you are an <a href="/stpl/overview" target="_blank">eligible short-term visit
 
 #### 12. If I am unable to secure a seat on a designated flight under the Vaccinated Travel Lane (VTL), can I apply for an entry approval (“SafeTravel Pass”) under the Student’s Pass Holder Lane (STPHL)?
 
-<b>From 21 February 2022, 2359 hours</b>, if you are a <a href="/stpl/vaccination-requirements" target="_blank">fully vaccinated</a> Student’s Pass (STP), Long-Term Visit Pass (LTVP), or their respective In-Principle Approval (IPA) holder, you may travel to Singapore under the STPHL <b>without</b> the need to apply for an entry approval, <b>subject to prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a></b>. You must show your long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint. 
+If you are a <a href="/stpl/vaccination-requirements" target="_blank">fully vaccinated</a> Student’s Pass (STP), Long-Term Visit Pass (LTVP), or their respective In-Principle Approval (IPA) holder, you may travel to Singapore under the STPHL <b>without</b> the need to apply for an entry approval, <b>subject to prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a></b>. You must show your long-term pass/IPA letter and proof of vaccination status at the port of departure/ checkpoint. 
 
 If you are an <a href="/stpl/overview" target="_blank">eligible short-term visitor</a>, you may apply for an entry approval under the STPHL, <b>subject to prevailing Stay-Home Notice (SHN) <a href="/shn-and-swab-summary" target="_blank">requirements</a></b>. However, this must be done <b>at least one week before your intended period of travel</b>. Appeals to expedite the application process will not be accepted.

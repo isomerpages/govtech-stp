@@ -179,9 +179,7 @@ label.box {
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="Brunei-cert" class="accordion"><b>Brunei Darussalam</b></label>
 		<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.gov.bn/SitePages/bruhealth.aspx">BruHealth app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for VTP (Air) Application</u></b></p>
-			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
-						<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>[For applications from 21 Feb 2022, 2359h]</b></p>
-			<ol style="list-style-type: lower-roman;">
+<ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code via a regular QR code scanner on your mobile device</li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
   <ol style="list-style-type:disc;">
@@ -209,7 +207,7 @@ label.box {
 		<div style="background-color:#ededed;" class="content">Covid-19 Vaccination Certificate issued by the Kingdom of Cambodia
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for VTP (Air) Application</u></b></p>
 			<ol style="list-style-type: lower-roman;">
- <!-- <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code via a regular QR code scanner on your mobile device</li>-->
+ <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code via a regular QR code scanner on your mobile device</li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</li>
 </ol>
 </div>
@@ -288,7 +286,6 @@ label.box {
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="Indonesia-cert" class="accordion"><b>Indonesia</b></label>
 		<div style="background-color:#ededed;" class="content">International COVID-19 Vaccination Certificate issued via the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
-			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>[For applications from 21 Feb 2022, 2359h]</b></p>
 			<ol style="list-style-type: lower-roman;">
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code on the <a href="https://verify.kemkes.go.id/" target="_blank">Kementerian Kesehatan Republik Indonesia website</a></li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
@@ -351,7 +348,7 @@ label.box {
 	<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a> 
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
 		<ol style="list-style-type: lower-roman;">
-  <!--<li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using a regular QR code scanner on your mobile device.</li>-->
+ <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using a regular QR code scanner on your mobile device.</li>
   <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
 	<ol style="list-style-type:disc;">
 		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
