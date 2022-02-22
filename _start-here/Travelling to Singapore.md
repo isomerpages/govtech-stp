@@ -153,7 +153,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 				</td>
 	</tr>
 				<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"><a href="">Vaccinated Travel Lane (Sea)</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"><a href="/vtl-sea/overview">Vaccinated Travel Lane (Sea)</a></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;"><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old travelling by designated VTL ferry from Bintan or Batam, Indonesia.</td>
 		</tr>
 	<tr>
