@@ -159,9 +159,6 @@ description: ""
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>.</li>
 </ol>	
 	<p style="font-size:18px;margin-top:30px;line-height:1.35;"><b><u>Accommodation Tips</u></b></p>
-<!--<input class="accordion" type="checkbox" id="accommodation">-->
-<!--<label class="accordion" for="accommodation"><b>Accommodation Tips</b></label>-->
-<!--<div class="content" style="background-color:#ededed;"><p style="line-height:1.35; font-size:18px;">-->
 <p style="font-size:18px;margin-top:10px;line-height:1.35;">Before making a hotel booking, travellers should check and ensure that the hotel can accommodate guests serving SHN.</p>
 <p style="line-height:1.35; margin-top:15px; font-size:18px;">Travellers serving SHN at their residence may do so with other household members of different vaccination status or travel history. However, the following precautions are strongly advised:
 		<ol style="padding-left: 20px; margin-top:20px;">
@@ -175,7 +172,7 @@ description: ""
 </ol>
 		</p>  
 </div>	
-</div>
+
 
 ### Stage 2: Departure for Singapore
 
