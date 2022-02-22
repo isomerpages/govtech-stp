@@ -24,7 +24,7 @@ In general, travellers under SHN are required to take a mandatory COVID-19 Polym
 
 Travellers issued with an SHN should refer to the conditions inside the SHN, and watch the video below for a quick overview of SHN requirements. Travellers who have questions regarding their SHN may also refer to the <a href="/health/faq#shnsdf" target="_blank">Frequently Asked Questions (FAQ) section</a> . Those in need of additional support can refer to <a href="https://www.gov.sg/article/call-these-helplines-if-you-need-emotional-or-psychological-support" target="_blank">this page</a> for a list of local helplines and resources.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H-ZarGe4vr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/171I93ldXzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **View this video in the following languages: [Chinese](https://youtu.be/300gtMksKrw), [Bahasa Indonesia](https://youtu.be/TcgBoA0Hrn0)**
 
