@@ -7,7 +7,7 @@ third_nav_title: VTL Sea
 <p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;">The Vaccinated Travel Lane (Sea) [VTL (Sea)] allows quarantine-free travel from Indonesia to Singapore via sea. Please note that: </p>
 
 <ol style="list-style-type:disc;">
-	<li style="font-size:18px; line-height:1.35;">Travellers intending to travel from Indonesia to Singapore via air should refer to the requirements under the Vaccinated Travel Lane <a href="/vtl/requirements-and-process" target="_blank">(Air)</a>. <b>VTP <a href="/vtl-sea/overview" target="_blank">(Sea)</a> and <a href="/vtl-land/overview" target="_blank">VTP (Air)</a> approvals are not interchangeable.</b></li>
+	<li style="font-size:18px; line-height:1.35;">Travellers intending to travel from Indonesia to Singapore via air should refer to the requirements under the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>. <b><a href="/vtl-sea/overview" target="_blank">VTP (Sea)</a> and <a href="/vtl/requirements-and-process" target="_blank">VTP (Air)</a> approvals are not interchangeable.</b></li>
 	<li style="font-size:18px; line-height:1.35;">Travellers holding an existing valid entry approval letter under other non-VTL SafeTravel Lanes but wish to travel under the Vaccinated Travel Lane should follow VTL procedures instead, including applying for a Vaccinated Travel Pass if necessary.</li>
 	</ol>
 	
