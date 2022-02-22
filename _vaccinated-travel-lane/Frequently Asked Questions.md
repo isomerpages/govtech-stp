@@ -276,8 +276,6 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 	</tr>
 			</tbody></table></li>
     </ol>
-  </li>
-    </ol>
 	</div>
 
 <input class="accordion" type="checkbox" id="Cambodia-cert">
@@ -342,7 +340,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 </div>
 
 <input class="accordion" type="checkbox" id="HK-cert">
-<label class="accordion" for="HK-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b> Hong Kong <i>[For applications from 22 Feb 2022, 1000h]</i></b></label>	
+<label class="accordion" for="HK-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b> Hong Kong</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>COVID-19 Electronic Vaccination Record retrieved from the <a href="https://www.iamsmart.gov.hk/en/" target="_blank">iAM Smart app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
@@ -372,8 +370,6 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose.</li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br>	<td style="border:0px;"><img style="width:84px; height:120px; vertical-align:middle;" src="/images/QR_Indonesia.png"></td></li>
     </ol>
-  </li>
-    </ol>
 </div>
 
 <input class="accordion" type="checkbox" id="Malaysia-cert">
@@ -402,8 +398,6 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 			</tbody></table>
 		</li>
     </ol>
-  </li>
-    </ol>
 </div>
 
 <input class="accordion" type="checkbox" id="Maldives-cert">
@@ -429,7 +423,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 </div>
 
 <input class="accordion" type="checkbox" id="Qatar-cert">
-<label class="accordion" for="Qatar-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Qatar <i>[For applications from 22 Feb 2022, 1000h]</i></b></label>	
+<label class="accordion" for="Qatar-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Qatar</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a> 
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code via a regular QR code scanner on your mobile device</p>
@@ -459,7 +453,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 </div>
 
 <input class="accordion" type="checkbox" id="SaudiArabia-cert">
-<label class="accordion" for="SaudiArabia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Saudi Arabia <i>[For applications from 22 Feb 2022, 1000h]</i></b></label>	
+<label class="accordion" for="SaudiArabia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Saudi Arabia</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on <a href="https://ta.sdaia.gov.sa/en/index" target="_blank">Tawakkalna app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
