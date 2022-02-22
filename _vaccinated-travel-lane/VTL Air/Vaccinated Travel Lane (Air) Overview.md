@@ -353,7 +353,7 @@ input:checked + label + .content {
 <label for="title6">Singapore Citizens, PRs and Long Term Pass Holders (excluding Work Permit Holders)</label>
 
 <div style="background-color:#edf4fa;" class="content">
-<p style="line-height:1.3; font-size:18px;">All SC/PRs, Long Term Pass Holders and their respective In-Principle Approval (IPA) holders (excluding Work Permit Holders) and unvaccinated children aged 12 and below in the current calendar year do not need to make any applications under the Vaccinated Travel Lane. However, they must also comply with all the requirements stated in the <b><a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
+<p style="line-height:1.3; font-size:18px;">All SC/PRs, Long Term Pass Holders (excluding Work Permit Holders) and unvaccinated children aged 12 and below in the current calendar year do not need to make any applications under the Vaccinated Travel Lane. However, they must also comply with all the requirements stated in the <b><a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
 	
 <p style="line-height:1.3; font-size:18px;">SC/PR/LTPHs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore.</p>
 	
