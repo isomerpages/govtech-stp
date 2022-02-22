@@ -153,7 +153,7 @@ permalink: /stpl/vaccination-requirements
 	</tbody>
 	</table>
 	
-<p style="font-size:18px; margin-top:15px; line-height:1.5;"><b><u>If you are aged 18 years old and above on the date of entry:</u></b></p>
+<p style="font-size:18px; margin-top:20px; line-height:1.5;"><b><u>If you are aged 18 years old and above on the date of entry:</u></b></p>
 
 <table>
   <thead>
