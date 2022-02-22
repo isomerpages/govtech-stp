@@ -39,6 +39,8 @@ third_nav_title: VTL Land
 <br>
 	<li>The requirements in <b>Conditions 2(d), (f), (g) and (h)</b> do not apply to children aged 2 and below in the calendar year and <a href="/vaccinated-recovered" target="_blank">recovered travellers</a> who are fully vaccinated.</li>
 <br>
+	<li>The requirements in <b>Conditions 2(d)</b> do not apply to recovered travellers who are not fully vaccinated.</li>
+	<br>
 	<li>The requirements in Conditions 2(e) do not apply to Singapore citizens, Permanent residents or Long-term pass holders (i.e. Long-term visit pass, Student's pass, work pass or Dependant's pass)</li>
 <br>
 <li>Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL (Land) or cancellation of the VTP at short notice.</li>
