@@ -350,7 +350,7 @@ input:checked + label + .content {
 <body>
 
 <input id="title6" type="checkbox">
-<label for="title6">Singapore Citizens (SC) / Permanent Residents (PR)</label>
+<label for="title6">Singapore Citizens, PRs and Long Term Pass Holders (excluding Work Permit Holders)</label>
 
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.3; font-size:18px;">All SC/PRs, Long Term Pass Holders (excluding Work Permit Holders) and unvaccinated children aged 12 and below in the current calendar year do not need to make any applications under the Vaccinated Travel Lane. However, they must also comply with all the requirements stated in the <b><a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
