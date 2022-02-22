@@ -92,7 +92,7 @@ Travellers are considered fully vaccinated if they meet the following conditions
 			<ol style="font-size: 16px; list-style-type: disc;">
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; line-height:1.5;">BNT162b2/COMIRNATY
 Tozinameran (INN)</li>
-				<li style="margin-top:8px; margin-bottom:0px; font-size:16px;  line-height:1.5;">mRNA-1273</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:16px;  line-height:1.5;">mRNA-1273/Spikevax</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Covishield (ChAdOx1_nCoV-19)</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Ad26.COV2.S</li>
