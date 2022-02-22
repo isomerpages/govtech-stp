@@ -92,14 +92,14 @@ Travellers are considered fully vaccinated if they meet the following conditions
 			<ol style="font-size: 16px; list-style-type: disc;">
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; line-height:1.5;">BNT162b2/COMIRNATY
 Tozinameran (INN)</li>
-				<li style="margin-top:8px; margin-bottom:0px; font-size:16px;  line-height:1.5;">mRNA-1273</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:16px;  line-height:1.5;">mRNA-1273/Spikevax</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Covishield (ChAdOx1_nCoV-19)</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Ad26.COV2.S</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</li>
 				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></li>
 					<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Bharat Biotech BBV152 COVAXIN<sup>&#174;</sup></li>
-									<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">NVX-CoV2373/Covovax/Nuvaxovid</sup></li>
+									<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">NVX-CoV2373/Covovax/Nuvaxovid</li>
 				</ol>
 			</td>
 										<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">2</td>
