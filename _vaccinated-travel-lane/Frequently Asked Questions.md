@@ -536,7 +536,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">If you hold the proof of vaccination at (a), self-verify your QR code using the following tools: <a target="_blank" href="https://play.google.com/store/apps/details?id=com.thecommonsproject.smarthealthcardverifier">SMART Health Card Verifier</a> (Android) or <a target="_blank" href="https://apps.apple.com/sg/app/smart-health-card-verifier/id1572691390">SMART Health Card Verifier</a> (iOS)</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate at (a) during application.</p>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"> If you have only the proof of vaccination in (b) or (c), you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in either (b) or (c), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"> If you have only the proof of vaccination in (b) or (c), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in either (b) or (c), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application.</p>
   <ol style="list-style-type:disc;">
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img style="width:68px; height:104px;" src="/images/QR_USA.png"></li>
@@ -726,7 +726,7 @@ There is no limit to the number of times travellers can apply for a VTP. Every e
 
 #### 5. I have an In-Principle Approval (IPA) for a Long-Term Pass. Do I need to apply for the VTP (Air)/VTP (Land)/VTP (Sea)?
 
-<b><i>Note: Long-Term Pass In-Principle Approval holders (excluding Work Permit holders) are not required to apply for a VTP.</i></b>
+<b><i>Note: Long-Term Pass In-Principle Approval holders (excluding Work Permit holders) <b>are not</b> required to apply for a VTP.</i></b>
 
 Travellers with IPA for Long-Term Passes issued by the Ministry of Education (MOE) or the Immigration & Checkpoints Authority (ICA) should submit their VTP application under the ‘Short-Term Visitor’ traveller type. They will need to comply with all the VTL (Air) conditions/VTL (Land) conditions/VTL (Sea) conditions that apply to short-term visitors.
 
