@@ -151,6 +151,6 @@ Click <a href="/wphl/faq" target="_blank">here</a> for the Work Pass Holder Lane
 Click on the relevant links to MOM’s website for:
 
 - <a href="https://www.mom.gov.sg/" target="_blank">Pass related matters (e.g. IPA extensions, pass issuance or renewals)</a>
-- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">Entry applications for CMP workers</a>
+- <a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">Entry applications for CMP workers</a>
 
 If you have applied for entry via the Work Pass Holder Lane with the Safe Travel Office, you may check the status of your application <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">here</a>. All applications submitted to MOM should be enquired with the Ministry directly. If your questions are not addressed by the FAQs above, you can submit your question <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>.
