@@ -14,7 +14,7 @@ description: ""
 			<ol style="font-size:16px; margin-top:20px; margin-bottom:0px; color:black;">
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.35;  color:black;">Long-Term Pass holders (excluding Work Permit holders) are no longer required to apply for a Vaccinated Travel Pass (VTP).</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.35;  color:black;">Assessed travel history will be reduced from 14 days to 7 days</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.35;  color:black;">On-arrival Polymerase Chain Reaction (PCR) test at the airport will be replaced with a supervised self-administered Antigen Rapid Test (ART) at a <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a>, to be completed <b>within 24 hours</b> of arrival in Singapore. Travellers who have prepaid for the PCR test can expect a refund from the Changi Airport Group (CAG) for their unutilised test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.35;  color:black;">On-arrival Polymerase Chain Reaction (PCR) test at the airport will be replaced with a supervised self-administered Antigen Rapid Test (ART) at a <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a>, to be completed <b>within 24 hours</b> of arrival in Singapore. Travellers who have prepaid for the PCR test can expect a refund from the Changi Airport Group (CAG) for their unutilised test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</li>
 								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Unsupervised self-administered ARTs will no longer be required on Days 2 to 7 of arrival in Singapore.</li>
 	</ol>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.35;color:black;">VTL travellers who enter Singapore <b>before 21 Feb 2022, 2359h (SGT)</b> are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7.)</p>
@@ -869,7 +869,7 @@ Please check the <a href="/transit/overview" target="_blank">Transiting through 
 
 #### 1. What are the test centres that travellers can go to for their supervised ARTs?
 
-They can visit any of the <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>.
+They can visit any of the <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>.
 
 VTL (Land) travellers can also perform their supervised ARTs at Woodlands and Queen Street bus terminals on arrival.  
 
@@ -883,12 +883,12 @@ No, travellers must use the ART self-test kits provided at the test centres. The
 
 #### 3. How do travellers book their appointments for their supervised ARTs?
 
-Travellers will be provided with a weblink to book their ARTs at a <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> via the contact number and/or email address they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC).
+Travellers will be provided with a weblink via the contact number and/or email address that they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC) to book their ART at a Quick Test Centre (QTC) or Combined Test Centre (CTC) upon arrival. Click <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">here</a> for more information about the QTC or CTC.
 
 
 #### 4. Are children required to undergo supervised ARTs?
 
-Children aged 3 to 12 must undergo their supervised ART at the <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
+Children aged 3 to 12 must undergo their supervised ART at the <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
 #### 5. Do travellers need to self-isolate after their supervised ART?
 
