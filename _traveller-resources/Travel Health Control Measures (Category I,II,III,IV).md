@@ -125,7 +125,7 @@ This page provides a summary of the four categories of travel health control mea
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel**; or</li>
-	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;"><a href="/files/serviced-apartments.pdf" target="_blank">Serviced apartment</a></li>
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
@@ -285,7 +285,7 @@ This page provides a summary of the four categories of travel health control mea
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel**; or</li>
-	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;"><a href="/files/serviced-apartments.pdf" target="_blank">Serviced apartment</a></li>
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
@@ -340,7 +340,7 @@ This page provides a summary of the four categories of travel health control mea
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence;</li>
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel*; or</li>
-	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;"><a href="/files/serviced-apartments.pdf" target="_blank">Serviced apartment</a></li>
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test before the end of the SHN.</li></ol>
