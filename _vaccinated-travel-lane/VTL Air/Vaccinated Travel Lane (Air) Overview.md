@@ -183,7 +183,8 @@ input:checked + label + .content {
 
 	
 <input id="title1" type="checkbox">
-<label for="title1">Criterion 1: Fulfil Traveller Profile requirements</label>	
+<label for="title1">Criterion 1: Fulfil Traveller Profile requirements</label>
+<div style="background-color:#edf4fa;" class="content">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">All travellers <b>except</b> the work permit holder types below are allowed to enter under the Vaccinated Travel Lanes (VTLs):</p>
 <ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian male Work Permit holders in the Construction, Marine shipyard or Process (CMP) sector</li>
@@ -194,7 +195,7 @@ input:checked + label + .content {
 	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
 	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">For all other workers- <a href="/wphl/overview" target="_blank">Work Pass Holder Lane</a></li>
 	</ul>
-	
+	</div>
 	
 <input id="title2" type="checkbox">
 <label for="title2">Criterion 2: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
