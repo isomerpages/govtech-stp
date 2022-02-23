@@ -13,7 +13,7 @@ Click to jump to the following sections:
  6. [COVID-19 Vaccination Requirements for Work Pass Holders and Dependants](#vaccinated)
  7. [Technical Issues with Application Portal](/faq/tech)
 
-Can’t find what you’re looking for? You may also visit MOM’s site [here](https://mom.gov.sg/covid-19/migrant-worker-onboarding-centre) for more information on domestic measures after arrival (e.g. Migrant Workers Onboarding Centre, Rostered Routine Testing). 
+Can’t find what you’re looking for? You may also visit MOM’s site [here](https://mom.gov.sg/covid-19/migrant-worker-onboarding-centre) for more information on domestic measures after arrival (e.g. <a href="https://www.mom.gov.sg/covid-19/onboard-centre" target="_blank">Onboard Centre</a>, Rostered Routine Testing). 
 
 <div id="queries"></div>
 
