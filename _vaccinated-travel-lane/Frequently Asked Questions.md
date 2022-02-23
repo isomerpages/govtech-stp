@@ -718,58 +718,51 @@ Yes, each traveller will require a VTP.
 
 There is no limit to the number of times travellers can apply for a VTP. Every entry into Singapore requires a new VTP application.
 
-#### 5. I have an In-Principle Approval (IPA) for a Long-Term Pass. Do I need to apply for the VTP (Air)/VTP (Land)/VTP (Sea)?
 
-<b><i>Note: Long-Term Pass In-Principle Approval holders (excluding Work Permit holders) <b>are not</b> required to apply for a VTP.</i></b>
-
-Travellers with IPA for Long-Term Passes issued by the Ministry of Education (MOE) or the Immigration & Checkpoints Authority (ICA) should submit their VTP application under the ‘Short-Term Visitor’ traveller type. They will need to comply with all the VTL (Air) conditions/VTL (Land) conditions/VTL (Sea) conditions that apply to short-term visitors.
-
-Those with IPA for Long-Term Passes or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM) should submit their VTP (Air)/VTP (Land)/VTP (Sea) application under the ‘Singapore Long-Term Pass Holder’ traveller type.
-
-#### 6. I have an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass). Am I allowed to travel under the VTL (Land)?
+#### 5. I have an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass). Am I allowed to travel under the VTL (Land)?
 
 IPA holders are not eligible to utilise the VTL (Land) for travel to Singapore, unless they are Malaysia Citizens. However, they may still travel to Singapore with necessary approvals under the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a> and will be subject to the prevailing border measures upon entry into Singapore, including any Stay-Home Notice (SHN) and COVID-19 test requirements.
 
-#### 7. I am a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land). Can my spouse, child or family member who is not a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass accompany me to enter Singapore under the VTL (Land)?
+#### 6. I am a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land). Can my spouse, child or family member who is not a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass accompany me to enter Singapore under the VTL (Land)?
 
 Your family member can accompany you to enter Singapore under the VTL (Land), only if he or she is a Malaysia Citizen.
 
 Otherwise, your family member will not be allowed to accompany you. During the initial phase of the VTL (Land), only citizens of both countries, along with permanent residents and long-term pass holders of the country that they are entering are eligible to travel under this arrangement. Given the high demand for cross-border land travel, we are prioritising persons who have been impacted by COVID-19 and separated from their families for many months during the initial phase.
 
-#### 8. If I am a Malaysia Citizen, Malaysia Permanent Resident or holder of a Malaysia Long-Term Pass entering Malaysia using the VTL (Land), can I use the VTL (Land) to re-enter to Singapore?
+#### 7. If I am a Malaysia Citizen, Malaysia Permanent Resident or holder of a Malaysia Long-Term Pass entering Malaysia using the VTL (Land), can I use the VTL (Land) to re-enter to Singapore?
 
 Malaysia Citizens can enter Singapore under VTL (Land).
 
 Malaysia Permanent Residents or holders of a Malaysia-issued long-term pass are not allowed to enter Singapore under VTL (land) unless they are a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term pass.
 
-#### 9. Why did I face errors while applying for a VTP?
+#### 8. Why did I face errors while applying for a VTP?
 
 A VTP application may be unsuccessful for reasons such as:
 - <a href="/vtl/faq#invalidcode" target="_blank">Invalid vaccination QR code</a>
 - Incomplete and/or incorrect information submitted
 - Passport validity is less than 6 months
 
-#### 10. How do I change the validity of my VTP?
+#### 9. How do I change the validity of my VTP?
 
 A VTP is valid for single entry into Singapore anytime from your intended date of entry and up to 13 calendar days after. If your travel plans change and you need to enter before or after the validity period, please submit a new VTP application.
 
 <b>Should you require assistance to seek urgent entry into Singapore within the next 2 days, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> or call the SafeTravel Enquiries helpline at 6812 5555. Kindly note that all appeals are assessed on a case-by-case basis.</b>
 
-#### 11. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
+#### 10. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
 
 If your particulars have changed, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with your revised particulars.
 
-#### 12. How can I change my passport number on my VTP?
+#### 11. How can I change my passport number on my VTP?
 
 You will not be able to change the passport number on an existing VTP. Please submit a new application with the correct details reflected. Do note that travellers with an inaccurate passport number on their VTP may be denied boarding and entry into Singapore.
 
 If your intended date of entry is no longer available on the VTP application portal, please adjust your travel plans. You will not be allowed to board the designated VTL transport if you are unable to present a valid VTP.
 
-#### 13. How can I cancel my VTP as I no longer wish to travel to Singapore?
+#### 12. How can I cancel my VTP as I no longer wish to travel to Singapore?
 
 You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, it will automatically expire.
 
-#### 14. Can travellers use the VTP (Air) to transit/transfer through Singapore?
+#### 13. Can travellers use the VTP (Air) to transit/transfer through Singapore?
 
 No, the VTP (Air) is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. 
 Please refer to the Transiting through Singapore page for more details.
