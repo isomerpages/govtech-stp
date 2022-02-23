@@ -204,8 +204,8 @@ input:checked + label + .content {
 <p style="line-height:1.3; font-size:18px;">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL (Air) if accompanied by a fully vaccinated VTL (Air) traveller.</p>
 </div>
 
-<input id="title2" type="checkbox">
-<label for="title2">Criterion 2: Hold an Accepted Proof of Vaccination</label>
+<input id="title3" type="checkbox">
+<label for="title3">Criterion 3: Hold an Accepted Proof of Vaccination</label>
 
 <div style="background-color:#edf4fa;" class="content" id="criteria">
 <p style="line-height:1.3; font-size:18px;">Travellers must hold an accepted proof of vaccination in any of the following formats, depending on what is available in the traveller’s locality. More details can be found in our <a target="_blank" href="/vtl/faq#vaxcert">FAQs</a>.</p>
@@ -260,8 +260,8 @@ input:checked + label + .content {
 	</ol>
 </div>
 
-<input id="title3" type="checkbox">
-<label for="title3">Criterion 3: Fulfil Travel/Transit History &amp; Designated VTL (Air) Flight Requirements</label>
+<input id="title4" type="checkbox">
+<label for="title4">Criterion 4: Fulfil Travel/Transit History &amp; Designated VTL (Air) Flight Requirements</label>
 
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;">Travellers must:</p>
@@ -356,10 +356,10 @@ input:checked + label + .content {
 <body>
 
 <input id="title6" type="checkbox">
-<label for="title6">Singapore Citizens, PRs and Long Term Pass Holders (excluding Work Permit Holders)</label>
+<label for="title6">Singapore Citizens, PRs and Long Term Pass/In-Principle Holders (excluding Work Permit Holders)</label>
 
 <div style="background-color:#edf4fa;" class="content">
-<p style="line-height:1.3; font-size:18px;">All SC/PRs, Long Term Pass Holders (excluding Work Permit Holders) and unvaccinated children aged 12 and below in the current calendar year do not need to make any applications under the Vaccinated Travel Lane. However, they must also comply with all the requirements stated in the <b><a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
+<p style="line-height:1.3; font-size:18px;">All SC/PRs, Long Term Pass Holders (including In-Principle Approval (IPA) holders but excluding Work Permit Holders) and unvaccinated children aged 12 and below in the current calendar year do not need to make any applications under the Vaccinated Travel Lane. However, they must also comply with all the requirements stated in the <b><a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
 	
 <p style="line-height:1.3; font-size:18px;">SC/PR/LTPHs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore.</p>
 	
@@ -367,7 +367,7 @@ input:checked + label + .content {
 </div>
 	
 <input id="title7" type="checkbox">
-<label for="title7">Short Term Visitors and Work Permit Holders</label>
+<label for="title7">Short Term Visitors and Eligible Work Permit Holders</label>
 
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (AIR) [VTP(AIR)]</b>
