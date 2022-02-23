@@ -140,8 +140,7 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">
 <input id="1A" type="checkbox" class="box"><label for="1A" class="box">&nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proof of vaccination to be eligible for the VTL. <br><br>You may check for the acceptable proof of vaccination based on their countries/regions of issuance below. The upload instructions for Short-Term Visitors (STVs) and MOM Work Permit Holders (WPHs) will be required for <b>Stage 1B</b>. The QR codes of certain vaccination certificates can be verified by travellers themselves before application. Travellers are encouraged to verify that their vaccination certificates are valid using these publicly available verification tools if available, before they apply for a VTP or travel to Singapore.
- </p>
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proof of vaccination to be eligible for the VTL. <br><br>You may check for the acceptable proof of vaccination based on their countries/regions of issuance below. The upload instructions for Short-Term Visitors (STVs) and MOM Work Permit Holders (WPHs) will be required for <b>Stage 1B</b>. The QR codes of certain vaccination certificates can be verified by travellers themselves before application. Travellers are encouraged to verify that their vaccination certificates are valid using these publicly available verification tools if available, before they apply for a VTP or travel to Singapore.</p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">MOM LTPHs may also obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</p>
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proof of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u> </p>
 <input id="Singapore-cert" type="checkbox" class="accordion">
@@ -162,9 +161,10 @@ label.box {
 		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_SG.png" style="width:44px; height:97px;"></li>
 </ol>
 </div>
-	<input id="Australia-cert" type="checkbox" class="accordion">
+
+<input id="Australia-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="Australia-cert" class="accordion"><b>Australia</b></label>
-		<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>
+<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>
 <a target="_blank" href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof">International COVID-19 Vaccination Certificate</a> (QR code in <a target="_blank" href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx">ICAO Visible Digital Seal for Non-Constrained Environments</a> (VDS-NC) format) issued by any <a target="_blank" href="/vtl/requirements-and-process#countries">VTL country/region</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><a target="_blank" href="https://play.google.com/store/apps/details?id=au.gov.dfat.vdsncchecker">VDS-NC Checker (Android)</a> or <a target="_blank" href="https://apps.apple.com/sg/app/vds-nc-checker/id1582587862">VDS-NC</a> Checker (iOS)</p>
@@ -226,16 +226,15 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
     </ol>
 	</div>
 
-<!-- i stopped here-->	
 <input id="eudcc-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="eudcc-cert" class="accordion"><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">here</a>)</b></label>
-		<div style="background-color:#ededed;" class="content"><a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
-<ol style="list-style-type: lower-roman;">
-  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Before application, self-verify QR code using these tools: <a target="_blank" href="https://app.digitalcovidcertchecker.gov.ie/">DCC Checker</a> (Web App), <a target="_blank" href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier">COVID Certificate Check</a> (Android) or <a target="_blank" href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510">COVID Certificate Check</a> (iOS)</li>
-  <li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:
+		<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p><a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><a target="_blank" href="https://app.digitalcovidcertchecker.gov.ie/">DCC Checker</a> (Web App), <a target="_blank" href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier">COVID Certificate Check</a> (Android) or <a target="_blank" href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510">COVID Certificate Check</a> (iOS)</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
-    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose.</li>
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose</li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<table>
 <tbody><tr>
 	<td style="border:0px;"><img style="width:57px; height:75px; vertical-align:middle;" src="/images/QR_Denmark_1.png"></td>
@@ -257,20 +256,24 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 	</tr>
 			</tbody></table></li>
     </ol>
-  </li>
-    </ol>
-</div>
-			<input id="Fiji-cert" type="checkbox" class="accordion">
+</div>	
+
+<input id="Fiji-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="Fiji-cert" class="accordion"><b>Fiji</b></label>
-		<div style="background-color:#ededed;" class="content">COVID-19 Vaccination Certificate issued by Republic of Fiji
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
-			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b> None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
-			<input id="Hongkong-cert" type="checkbox" class="accordion">
+		<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>COVID-19 Vaccination Certificate issued by Republic of Fiji
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
+
+<input id="Hongkong-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Hongkong-cert" class="accordion"><b>Hong Kong <i></i></b></label>
-		<div style="background-color:#ededed;" class="content">COVID-19 Electronic Vaccination Record retrieved from the <a href="https://www.iamsmart.gov.hk/en/" target="_blank">iAM Smart app</a>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
-			<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>No. of QR codes to upload:</b>	None. You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
-			<input id="India-cert" type="checkbox" class="accordion">
+<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>COVID-19 Electronic Vaccination Record retrieved from the <a href="https://www.iamsmart.gov.hk/en/" target="_blank">iAM Smart app</a>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p></div>
+	
+	
+<!-- i stopped here-->	
+
+<input id="India-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;" for="India-cert" class="accordion"><b>India</b></label>
 		<div style="background-color:#ededed;" class="content">Covid-19 Vaccination Certificate in the <b>international format</b> available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions for STVs and WPHs during VTP (Air) Application</u></b></p>
