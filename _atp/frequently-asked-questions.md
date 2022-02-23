@@ -213,7 +213,7 @@ No, travellers must use the ART self-test kits provided at the test centres. The
 
 #### 5. How do travellers book their appointments for their supervised ARTs?
 
- Travellers will be provided with a weblink via the contact numberand/or email address that they had declared in the SGAC and/or eHDC to book their ART at a  Quick Test Centre (QTC) or  Combined Test Centre (CTC) upon arrival. Click <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">here</a> for more information about the QTC or CTC. 
+Travellers will be provided with a weblink via the contact number and/or email address that they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC) to book their ART at a <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> upon arrival. Click here for more information about the QTC or CTC.
  
 #### 6. What do travellers need to bring for their supervised ART appointment?
 
