@@ -562,7 +562,7 @@ Please attempt re-uploading your QR code, and ensure that:
 	</ol>
 
 
-For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
+For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide supporting details and screenshots of the errors encountered.
 
 
 <div id="india"></div>
