@@ -197,7 +197,7 @@ label.box {
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>. This includes indicating in the declaration that they had been “diagnosed or suspected to have a COVID-19 infection in the past 90 days”.</p>
 		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">All SGAC submissions are free-of-charge, and travellers should also upload their digitally-verifiable vaccination certificate if they have one (i.e. certificate with a QR code). Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings</a>.</p>
-		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers should defer their travels if they are feeling unwell, e.g. fever, cough, runny nose, sore threat, loss of taste or smell.</p>
+		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers should defer their travels if they are feeling unwell, e.g. fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 	</div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
