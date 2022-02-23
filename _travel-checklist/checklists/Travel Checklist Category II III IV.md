@@ -155,7 +155,7 @@ description: ""
 
 <ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;">
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Place of residence;</li> 
-<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Serviced apartment; or</li>
+<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;"><a href="/files/serviced-apartments.pdf" target="_blank">Serviced apartment</a>; or</li>
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>.</li>
 </ol>	
 	<p style="font-size:18px;margin-top:30px;line-height:1.35;"><b><u>Accommodation Tips</u></b></p>
