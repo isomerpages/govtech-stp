@@ -285,15 +285,15 @@ input:checked + label + .content {
 <body>
 
 <input id="title6" type="checkbox" class="test1">
-<label for="title6" class="test2">Singapore Citizens (SC), Permanent Residents (PR) &amp; Long-Term Pass Holders (LTPH)</label>
+<label for="title6" class="test2">Singapore Citizens (SC), Permanent Residents (PR) &amp; Holders/IPA holders of a Singapore-issued Long-Term Pass (excluding Work Permit Holders)</label>
 
 <div style="background-color:#edf4fa;" class="content" id="scpr">	
-	<p style="line-height:1.4; font-size:18px;">SC/PRs/LTPHs (excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year do not need to apply for entry via VTL (Land). </p>
+	<p style="line-height:1.4; font-size:18px;">SC/PRs/LTPHs (including IPA holders and excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year do not need to apply for entry via VTL (Land). </p>
 		<p style="line-height:1.4; font-size:18px; margin-top:15px;"><span style="color:red;">However, all travellers must comply with the requirements stated in the</span> <a target="_blank" href="/vtl-land/travel-checklist">VTL (Land) traveller checklist</a>, which summarises the <a target="_blank" href="/vtl-land/conditions">VTL (Land) Conditions</a>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 	</div>
 	
 <input id="title7" type="checkbox" class="test1">
-<label for="title7" class="test2">Work Permit Holders &amp; Short-Term Visitors</label>
+<label for="title7" class="test2">Short-Term Visitors &amp; Eligible Work Permit Holders</label>
 
 <div style="background-color:#edf4fa;" class="content" id="ltph">
 	<p style="line-height:1.4; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (LAND) (VTP LAND)</b>.</p>
