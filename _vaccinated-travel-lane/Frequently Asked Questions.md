@@ -654,7 +654,8 @@ Please refer to the table below.
 </tbody>
 </table>
 
-If you are still facing name mismatch errors, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
+If you are still facing name mismatch errors, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>.
+
 
 
 #### 6. Why are only SMART Health Cards by certain issuers accepted?
