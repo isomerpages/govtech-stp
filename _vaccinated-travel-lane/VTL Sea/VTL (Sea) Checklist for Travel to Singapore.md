@@ -15,7 +15,7 @@ third_nav_title: VTL Sea
 
 <p style="padding-left:50px; font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px; color:green;"><b>✓</b></span>&nbsp; Singapore Citizens and Permanent Residents ("SC/PRs")</p>
 
-<p style="padding-left:50px;font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px; color:green;"><b>✓</b></span>&nbsp; Holders of a Singapore-issued Long-Term Pass ("LTPHs") (<i>i.e. Holders of Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration &amp; Checkpoints Authority</i>)</p>
+<p style="padding-left:50px;font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px; color:green;"><b>✓</b></span>&nbsp; Holders/In-Principle Approval ("IPA") holders of a Singapore-issued Long-Term Pass ("LTPHs") (<i>i.e. Holders of Work Pass and IPAs issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration &amp; Checkpoints Authority</i>)</p>
 
 <p style="padding-left:50px; font-size:18px; margin-top:10px; margin-bottom:30px;"><span style="font-size:25px; color:green;"><b>✓</b></span>&nbsp; Short-term Visitors ("STVs") (i.e. travellers who are not SC/PRs or LTPHs)</p>
 
@@ -40,7 +40,7 @@ third_nav_title: VTL Sea
 	</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="1B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1B" class="box">&nbsp;&nbsp;<b>Stage 1B: [For STV/LTPHs only] Apply for Vaccinated Travel Pass</b></label></div>
+<input id="1B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1B" class="box">&nbsp;&nbsp;<b>Stage 1B: [For STV/Eligible Work Permit Holders only] Apply for Vaccinated Travel Pass</b></label></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a target="_blank" href="https://go.gov.sg/vtl-portal"><b>Click Here To Apply For a VTP</b></a> 
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>There is no need to rush to apply as there is no limit on VTP applications and it is more important to secure VTL ferry tickets first</b></p>
 	</div><p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Apply <u>between 3 and 60 calendar days</u> before the intended date of entry.</b></p>
@@ -175,7 +175,7 @@ third_nav_title: VTL Sea
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">	
 <input id="1J" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1J" class="box">&nbsp;&nbsp;<b>Stage 1J: Undergo On-Arrival COVID-19 ART Test</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">Undergo <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">on-arrival COVID-19 ART test</a> at Quick Test Centres or Combined Test Centres  within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative.</p>
+	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">Undergo on-arrival COVID-19 ART test at <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres or Combined Test Centres</a> within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative.</p>
 
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp;Does not apply to children aged two and below in this calendar year (i.e. born in or after 2020).</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp; Fully vaccinated travellers who recently recovered from COVID-19 may qualify for exemption from the on-arrival COVID-19 PCR test and other inland border measures. Use this <a target="_blank" href="https://go.gov.sg/recovered-traveller-checker">self-checker tool</a> to determine if you qualify.</p>

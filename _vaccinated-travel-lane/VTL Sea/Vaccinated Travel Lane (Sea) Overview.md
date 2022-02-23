@@ -27,7 +27,7 @@ third_nav_title: VTL Sea
 
 ### 1. Eligibility
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic criteria and <a target="_blank" href="/vtl-sea/conditions">conditions</a> of the VTL (Sea) to enjoy quarantine-free travel, otherwise they may be turned away by the regional ferry operators, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL (Sea) should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>VTL (Sea) travellers must fulfil the following basic criteria, otherwise they may be turned away by the regional ferry operators, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL (Sea) should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">These groups of travellers are not allowed to apply for entry under the Vaccinated Travel Lanes (VTLs):</p>
 <ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) sector</li>
@@ -100,16 +100,30 @@ input:checked + label + .content {
 </head>
 <body>
 
+	
+	
 <input id="title1" type="checkbox">
-<label for="title1">Criterion 1: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
+<label for="title1">Criterion 1: Fulfil Traveller Profile Requirements</label>
+
+<div style="background-color:#edf4fa;" class="content">
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">All travellers <b>except</b> the work permit holder types below are allowed to enter under the Vaccinated Travel Lanes (VTLs):</p>
+<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian male Work Permit holders in the Construction, Marine shipyard or Process (CMP) sector: Enter via <a target="_blank" href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers">MOM’s entry approval</a> or <a target="_blank" href="https://www.scal.com.sg/">ongoing industry initiatives for the CMP sectors</a></li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Work Permit holders  staying in dormitories: Enter via <a target="_blank" href="/wphl/overview">Work Pass Holder Lane</a></li>
+	</ul>
+</div>	
+		
+	
+<input id="title2" type="checkbox">
+<label for="title2">Criterion 2: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
 
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.3; font-size:18px;">Travellers must be fully vaccinated with WHO EUL vaccines (<a target="_blank" href="/health/vtsg">click here for definition</a> of fully vaccinated) at least two weeks before arrival in Singapore. </p>
 <p style="line-height:1.3; font-size:18px;">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL (Sea) if accompanied by a fully vaccinated VTL (Sea) traveller.</p>
 </div>
 
-<input id="title2" type="checkbox">
-<label for="title2">Criterion 2: Hold an Accepted Proof of Vaccination</label>
+<input id="title3" type="checkbox">
+<label for="title3">Criterion 3: Hold an Accepted Proof of Vaccination</label>
 
 <div style="background-color:#edf4fa;" class="content" id="criteria">
 <p style="line-height:1.3; font-size:18px;">Travellers must hold an accepted proof of vaccination in any of the following formats, depending on what is available in the traveller’s locality. More details can be found in our <a target="_blank" href="/vtl/faq#vaxcert">FAQs</a>.</p>
@@ -122,8 +136,8 @@ input:checked + label + .content {
 	</ol>
 </div>
 
-<input id="title3" type="checkbox">
-<label for="title3">Criterion 3: Fulfil Travel/Transit History &amp; Designated VTL (Sea) Ferry Requirements</label>
+<input id="title4" type="checkbox">
+<label for="title4">Criterion 4: Fulfil Travel/Transit History &amp; Designated VTL (Sea) Ferry Requirements</label>
 
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;">Travellers must:</p>
@@ -223,10 +237,10 @@ input:checked + label + .content {
 <body>
 
 <input id="title6" type="checkbox">
-<label for="title6">Singapore Citizens (SC), Permanent Residents (PR) and Long-Term Pass Holders (LTPH)</label>
+<label for="title6">Singapore Citizens (SC), Permanent Residents (PR) and Holders/In-Principle Approval (IPA) holders of a Singapore-issued Long-Term Pass (LTPH)</label>
 
 <div style="background-color:#edf4fa;" class="content">
-<p style="line-height:1.3; font-size:18px;">SC/PRs/LTPHs (excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year do not need to apply for entry via VTL (Sea).</p>
+<p style="line-height:1.3; font-size:18px;">SC, PR, LTPH (including IPA holders, and excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year do not need to apply for entry via VTL (Sea).</p>
 	
 <p style="line-height:1.3; font-size:18px;"><b style="color:red;">However, all travellers must comply with the requirements stated in the</b> <a href="/vtl-sea/travel-checklist" target="_blank">VTL (Sea) travel checklist</a>, which summarises the VTL (Sea) Conditions. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice</p>
 	
@@ -236,7 +250,7 @@ input:checked + label + .content {
 </div>
 	
 <input id="title7" type="checkbox">
-<label for="title7">Work Permit Holders and Short-Term Visitors</label>
+<label for="title7">Short-Term Visitors and Eligible Work Permit Holders</label>
 
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (SEA) [VTP (SEA)] </b>
@@ -269,7 +283,7 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers will need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or professionally administered Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 ART test at <a href="https://www.go.gov.sg/traveller-art-test" target="_blank">Quick Test Centres or Combined Test Centres</a> within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative. </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 ART test at <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres or Combined Test Centres</a> within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative. </li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</li>
 	</ol> 
 </p>
@@ -284,7 +298,7 @@ input:checked + label + .content {
 <tr>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width: 300px;vertical-align:middle;"><b>Documents</b></th>
 	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px;"><b>Singapore Citizens &amp; Permanent Residents</b></th>
-		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px;"><b>Long-Term Pass Holders</b></th>
+		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px;"><b>Long-Term Pass/IPA Holders</b></th>
 		<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;width:200px;"><b>Short-Term Visitors</b></th>
 </tr>
 </thead>
