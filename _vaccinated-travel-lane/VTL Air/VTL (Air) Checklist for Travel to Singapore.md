@@ -128,7 +128,7 @@ label.box {
 
 <p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><b>The following travellers are not allowed to enter Singapore via VTL (Air) and should check the requirements of other lanes for entry to Singapore:</b></p>
 
-<p style="padding-left:50px; font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px;  color:red;"><b>✕</b></span> &nbsp; Travellers arriving in Singapore by bus via the Causeway. Fully vaccinated travellers who intend to enter Singapore from Malaysia via the Causeway should check the <a target="_blank" href="/vtl-land/overview">Vaccinated Travel Lane (Land)</a> for more details.</p>
+<p style="padding-left:50px; font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px;  color:red;"><b>✕</b></span> &nbsp; Fully Vaccinated travellers arriving in Singapore via land or sea should check the <a target="_blank" href="/vtl-land/overview">Vaccinated Travel Lane (Land)</a> or <a target="_blank" href="/vtl-sea/overview">Vaccinated Travel Lane (Sea)</a> for more details.</p>
 <p style="padding-left:50px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><span style="font-size:25px; color:red;"><b>✕</b></span> &nbsp; Non-Malaysian male Work Permit holders in the Construction, Marine shipyard or Process (CMP) Sector or staying in dormitories should apply for entry via the <a target="_blank" href="/wphl/overview">Work Pass Holder General Lane</a>.</p>
 <p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4;"><span style="color:black; font-size:25px;"><b>✍</b></span> &nbsp; Travellers may check against the box (☐) for completed actions.</p>
 
