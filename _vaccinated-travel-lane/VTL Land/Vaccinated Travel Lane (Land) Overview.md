@@ -120,18 +120,22 @@ input:checked + label + .content {
 
 
 <input id="title1" type="checkbox">
-<label for="title1">Criterion 1: Fulfil the Residency or Citizenship Requirement</label>
+<label for="title1">Criterion 1: Fulfil Traveller Profile Requirement</label>
 
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.4; font-size:18px;">Travellers must belong to any of the following categories:
 	</p><ol style="list-style-type:lower-alpha">
 		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore Citizen</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Singapore Permanent Resident </li>
-			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Holder of a Singapore-issued Long-Term Pass (i.e. Work Pass Holders*, Student’s Pass Holders, or Long-Term Visit Pass Holders)</li>
-		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Malaysia Citizen</li>
+			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Holder/In-Principal Approval (IPA) holder of a Singapore-issued Long-Term Pass (i.e. Work Pass Holders, Student’s Pass Holders, or Long-Term Visit Pass Holders)</li>
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:20px; font-size:18px;">Malaysia Citizen</li>
 	</ol>
-	<p></p>
-<p style="line-height:1.4; font-size:18px;"><i>*Holders of an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass) who are not Malaysia Citizens are not allowed to enter Singapore under the VTL (Land).</i></p>
+	<p style="line-height:1.4; font-size:18px;">The traveller types below are <b>not</b> allowed to enter under the VTL (Land) and should utilise other SafeTravel Lanes to enter Singapore:</p>
+	<ol style="list-style-type:lower-alpha">
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Non-Malaysian male Work Permit Holders in the Construction, Marine shipyard or Process (CMP) sector: Enter via <a target="_blank" href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers">MOM’s entry approval</a> or <a target="_blank" href="https://www.scal.com.sg/">ongoing industry initiatives for the CMP sectors</a></li>
+		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Work Permit holders staying in dormitories: Enter via <a target="_blank" href="/wphl/overview">Work Pass Holder Lane</a></li>
+			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Non-Malaysian In-Principal Approval (IPA) Long Term Pass Holders: Enter via <a target="_blank" href="/wphl/overview">Work Pass Holder Lane</a></li>
+	</ol>
 </div>
 
 <input id="title2" type="checkbox">
@@ -152,7 +156,7 @@ input:checked + label + .content {
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Janssen/J&amp;J (Ad26.COV2.S), 1 dose</li>
 	</ol>
 	<p></p>
-	<p style="line-height:1.4; font-size:18px;">Children who are 12 and below in this calendar year and are unvaccinated can still travel to Singapore via VTL (Land) <b>if</b> accompanied by a fully vaccinated VTL traveller. However, the child must be a Singapore Citizen, Singapore Permanent Resident, holder of a Singapore-issued Long-Term Pass or Malaysia Citizen.</p>
+	<p style="line-height:1.4; font-size:18px;">Children who are 12 and below in this calendar year and are unvaccinated can still travel to Singapore via VTL (Land) <b>if</b> accompanied by a fully vaccinated VTL traveller. However, the child must be a Singapore Citizen, Singapore Permanent Resident, holder of a Singapore-issued Long-Term Pass (or the respective IPAs)  or Malaysia Citizen.</p>
 	</div>
 	
 <input id="title3" type="checkbox">
