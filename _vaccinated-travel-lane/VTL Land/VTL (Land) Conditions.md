@@ -22,7 +22,7 @@ third_nav_title: VTL Land
 	</ol>
 	</li>
 	<li style="padding-top:10px;">purchase medical and/or travel insurance, with a minimum coverage of S$30,000 for covid-19-related medical treatment and hospitalisation costs in Singapore, prior to travelling to Singapore.</li>
-	<li style="padding-top:10px;">undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange, or take a supervised self-swab ART as on-arrival COVID-19 ART at a Quick Test Centre or Combined Test Centre within 24 hours of arrival. The weblink to book the test will be provided in the Testing Notice issued on arrival.;</li>
+	<li style="padding-top:10px;">undergo an on-arrival COVID-19 ART at Queen Street Terminal or Woodlands Temporary Bus Interchange, or take a supervised self-swab ART as on-arrival COVID-19 ART at a <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre or Combined Test Centre</a> within 24 hours of arrival. The weblink to book the test will be provided in the Testing Notice issued on arrival.;</li>
 	<li>undergo self-administered COVID-19 ARTs using self-procured ART kits  on Days 2 to 7 of their arrival in Singapore (Travellers entering Singapore from 21 Feb 2022, 2359 hours will no longer be required to take unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival);</li>
 <li style="padding-top:10px;">download the TraceTogether app on his/her mobile device and:
 <ol style="list-style-type:lower-roman; line-height:1.5;padding-left:10px;">	
