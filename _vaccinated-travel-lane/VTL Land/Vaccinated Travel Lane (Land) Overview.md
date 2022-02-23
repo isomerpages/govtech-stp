@@ -33,29 +33,6 @@ third_nav_title: VTL Land
 ### 1. Eligibility
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>Travellers must fulfil the following eligibility criteria found in this section before applying to travel under VTL (Land)</b>. Travellers who do not satisfy any of these criteria and conditions, should explore other Safe Travel Lanes at the <a target="_blank" href="/arriving/overview">Travelling to Singapore page</a>.</p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The following groups of travellers are disallowed from applying for entry under the VTL (Land). They may instead enter Singapore via alternative travel arrangements (see table below). </p>
-
-<table>
-<thead>
-<tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#153855; text-align:center; width:400px; color:white;"><b>Traveller Type</b></th>
-	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#153855; text-align:center; vertical-align:middle; color:white;"><b>Alternative Travel Arrangement</b></th>
-</tr>
-</thead>
-<tbody>
-		<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Non-Malaysian male Work Permit Holders in the Construction, Marine shipyard or Process (CMP) sector</td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a target="_blank" href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers">MOM’s entry approval</a> or <a target="_blank" href="https://www.scal.com.sg/">ongoing industry initiatives for the CMP sectors</a></td>
-</tr>
-			<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Work Permit holders staying in dormitories</td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a target="_blank" href="/wphl/overview">Work Pass Holder Lane</a></td>
-</tr>
-	</tbody>
-	</table>
-<p style="margin-top:20px; margin-bottom:20px;"></p>
-
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">Malaysian male Work Permit holders in the CMP sector can enter Singapore via the VTL (Land), but isolate in a dormitory if they test positive for their on-arrival COVID-19 Antigen Rapid Test and are awaiting their confirmatory Polymerase Chain Reaction (PCR) test results.</p>
 
 
 <title>Test Accordion</title>
