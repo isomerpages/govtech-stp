@@ -137,7 +137,7 @@ permalink: /travel-checklist/category-2
 
 <ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;">
 	<li style="font-size:18px; padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Place of residence;</li> 
-	<li style="font-size:18px; padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Serviced apartment; or</li>
+	<li style="font-size:18px; padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="/files/serviced-apartments.pdf" target="_blank">Serviced apartment</a>; or</li>
 	<li style="font-size:18px; padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Hotel of choice from this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>.</li>
 </ol>
 

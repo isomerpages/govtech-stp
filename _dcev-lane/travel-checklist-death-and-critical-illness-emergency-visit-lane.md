@@ -253,8 +253,8 @@ label.box {
   </thead>
   <tbody>
 		<tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; line-height:1.35;"><b>[Travellers with Category (I) travel history]</b> Self-isolation at place of residence, hotel, or serviced apartment until On-Arrival Test results are out<br/><br/>      
-	     <b>[Travellers with Category (II) travel history]</b> 7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[Travellers with Category III travel history]</b> 10-day SHN at place of residence, hotel or serviced apartment
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; line-height:1.35;"><b>[Travellers with Category (I) travel history]</b> Self-isolation at place of residence, hotel, or <a href="/files/serviced-apartments.pdf" target="_blank">serviced apartment</a> until On-Arrival Test results are out<br/><br/>      
+	     <b>[Travellers with Category (II) travel history]</b> 7-day SHN at place of residence, hotel or <a href="/files/serviced-apartments.pdf" target="_blank">serviced apartment</a> <br/><br/> <b>[Travellers with Category III travel history]</b> 10-day SHN at place of residence, hotel or <a href="/files/serviced-apartments.pdf" target="_blank">serviced apartment</a>
 			</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; line-height:1.35;">
 	      <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
@@ -266,7 +266,7 @@ label.box {
 			</td>
 		</tr>		
 			<tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; line-height:1.35;"><b>[Travellers with Category (IV) travel history with approval to opt-out of SDF only]</b> 10-day SHN at place of residence, hotel or serviced apartment
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; line-height:1.35;"><b>[Travellers with Category (IV) travel history with approval to opt-out of SDF only]</b> 10-day SHN at place of residence, hotel or <a href="/files/serviced-apartments.pdf" target="_blank">serviced apartment</a>
 			</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; line-height:1.35;">Travellers will commute to their declared SHN accommodation using transportation services offered by Strides Transportation Pte Ltd (“Strides”). For booking instructions, click <a href="/files/stridesbooking.pdf">here</a>. <br/><br/>
 				<table>

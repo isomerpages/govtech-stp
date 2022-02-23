@@ -541,7 +541,7 @@ label.box {
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp;Travellers can self-isolate at any of the following locations::</p>
 	<ol style="padding-left: 20px; list-style-type:disc;">
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for <a target="_blank" href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation">Private Property</a> and <a target="_blank" href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat">HDB flat / Bedroom</a>); or</li>
-		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Non-residential accommodation, such as hotel or serviced apartment in this <a target="_blank" href="https://sha.org.sg/hotel-accommodation">non-exhaustive list</a>. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Non-residential accommodation, such as hotel (in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>) or <a href="/files/serviced-apartments.pdf" target="_blank">serviced apartment</a>. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
 	</ol>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp;Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; Travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in isolation in a room and minimise contact. If this is not feasible, please consider alternative accommodation.</p>
@@ -682,7 +682,7 @@ label.box {
 
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="5B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="5B" class="box">&nbsp;&nbsp;<b>Stage 5B: [For travellers arriving from 21 Feb 2022, 2359h only] Post-Arrival COVID-19 ARTs</b></label></div>
+<input id="5B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="5B" class="box">&nbsp;&nbsp;<b>Stage 5B: [For travellers arriving before 21 Feb 2022, 2359h only] Post-Arrival COVID-19 ARTs</b></label></div>
 <div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Travellers are required to take unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival before they leave their place of residence or accommodation for the day, in addiition to fulfilling their pre-departure and on-arrival testing requirements. The ART kits should be <a target="_blank" href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests">self-procured</a>. Travellers do not need to submit their ART results.</p>
 		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp; <b>Children aged two and below in this calendar year (i.e. born in or after 2020) do not require any post-arrival ARTs.</b></p>
@@ -732,5 +732,5 @@ label.box {
 	</tr>
 	</table>-->
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b style="color:red">❓</b>&nbsp; Please refer to our <a target="_blank" href="/vtl/faq#postarrivaltests">FAQs here</a> for more information.</p>
-</div>
+<!--<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b style="color:red">❓</b>&nbsp; Please refer to our <a target="_blank" href="/vtl/faq#postarrivaltests">FAQs here</a> for more information.</p>
+</div>-->

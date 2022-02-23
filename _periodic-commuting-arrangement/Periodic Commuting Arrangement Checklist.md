@@ -56,7 +56,7 @@ description: ""
 
 <p id="stage1b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>B) Secure Self-Isolation Accommodation</b></i></u></p>
 
-<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Travellers will be placed on 7-day Stay-Home Notice (SHN), which they must complete before going about with their activities in Singapore. They may complete their SHN at a place of residence (see advisory below), self-sourced hotel, or serviced apartment. For hotel bookings, travellers may refer to this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive hotel list</a>. </p>
+<p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Travellers will be placed on 7-day Stay-Home Notice (SHN), which they must complete before going about with their activities in Singapore. They may complete their SHN at a place of residence (see advisory below), self-sourced hotel, or <a href="/files/serviced-apartments.pdf" target="_blank">serviced apartment</a>. For hotel bookings, travellers may refer to this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive hotel list</a>. </p>
 
 
 <div style="padding-left: 5px; padding-bottom: 20px; padding:15px; font-size:18px; margin-top:20px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px; text-align:justify;">
