@@ -6,14 +6,14 @@ third_nav_title: VTL Air
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>NOTICE:</u></b></p>
-		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">The following measures are applicable for VTL travellers <b>entering Singapore from 21 Feb 2022, 2359h (SGT)</b>.</p>
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">Please note the following key changes for VTL travellers <b>entering Singapore from 21 Feb 2022, 2359h (SGT)</b>.</p>
 			<ol style="font-size:16px; margin-top:20px; margin-bottom:0px; color:black;">
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">Long-Term Pass holders (excluding Work Permit holders) are no longer required to apply for a Vaccinated Travel Pass (VTP).</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Assessed travel history will be reduced from 14 days to 7 days</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">Long-Term Pass holders (including In-Principle Approval (IPA) holders but excluding Work Permit holders) are no longer required to apply for a Vaccinated Travel Pass (VTP).</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Assessed travel history has been reduced from 14 days to 7 days</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">On-arrival Polymerase Chain Reaction (PCR) test at the airport will be replaced with a supervised self-administered Antigen Rapid Test (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC), to be completed within 24 hours of arrival in Singapore. Travellers who have prepaid for the PCR test can expect a refund from the Changi Airport Group (CAG) for their unutilised test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</li>
 								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Unsupervised self-administered ARTs will no longer be required on Days 2 to 7 of arrival in Singapore.</li>
 	</ol>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;color:black;">VTL travellers who enter Singapore <b>before 21 Feb 2022, 2359h (SGT)</b> are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7).</p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;color:black;">VTL travellers who have entered Singapore <b>before 21 Feb 2022, 2359h (SGT)</b> are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7).</p>
 </div>
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;">The Vaccinated Travel Lane (Air) [VTL (Air)] allows quarantine-free travel to Singapore <b>via air only</b>. Please note that:</p>
@@ -117,17 +117,8 @@ third_nav_title: VTL Air
 
 ### 2. Eligibility
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic criteria and <a target="_blank" href="/vtl/conditions">conditions</a> of the VTL (Air) to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL (Air) should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">These groups of travellers are not allowed to apply for entry under the Vaccinated Travel Lanes (VTLs):</p>
-<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian male Work Permit holders in the Construction, Marine shipyard or Process (CMP) sector</li>
-	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Work Permit holders  staying in dormitories</li>
-	</ul>
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Companies can still bring in such workers under:</p>
-<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
-	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">For all other workers- <a href="/wphl/overview" target="_blank">Work Pass Holder Lane</a></li>
-	</ul>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic eligibility criteria and <a target="_blank" href="/vtl/conditions">conditions</a> of the VTL (Air) to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL (Air) should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
+
 
 <html>
 
@@ -190,8 +181,23 @@ input:checked + label + .content {
 </head>
 <body>
 
+	
 <input id="title1" type="checkbox">
-<label for="title1">Criterion 1: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
+<label for="title1">Criterion 1: Fulfil Traveller Profile requirements</label>	
+	<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">All travellers <b>except</b> the work permit holder types below are allowed to enter under the Vaccinated Travel Lanes (VTLs):</p>
+<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian male Work Permit holders in the Construction, Marine shipyard or Process (CMP) sector</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Work Permit holders  staying in dormitories</li>
+	</ul>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">For the excluded work permit holder profiles, companies can still bring in such workers under:</p>
+<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">For all other workers- <a href="/wphl/overview" target="_blank">Work Pass Holder Lane</a></li>
+	</ul>
+	
+	
+<input id="title2" type="checkbox">
+<label for="title2">Criterion 2: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
 
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.3; font-size:18px;">Travellers are considered fully vaccinated (<a target="_blank" href="/health/vtsg">click here for definition</a>) if they have received the full regimen of WHO EUL vaccines at least two weeks before arrival in Singapore. </p>
