@@ -303,12 +303,13 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <input class="accordion" type="checkbox" id="EUDCC-cert">
 <label class="accordion" for="EUDCC-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">here</a>)</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p><a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
+	<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">If your vaccination certificate was issued in the United Arab Emirates, please ensure that you have the '<b>Travel</b>' version, obtainable via the AlHosn app by selecting 'Travel pass'.</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><a target="_blank" href="https://app.digitalcovidcertchecker.gov.ie/">DCC Checker</a> (Web App), <a target="_blank" href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier">COVID Certificate Check</a> (Android) or <a target="_blank" href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510">COVID Certificate Check</a> (iOS)</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
-    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose</li>
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose. <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px; margin-bottom: 20px;">If your vaccination certificate was issued in the United Arab Emirates, please ensure that you have the '<b>Travel</b>' version, obtainable via the AlHosn app by selecting 'Travel pass'.</p></li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<table>
 <tbody><tr>
 	<td style="border:0px;"><img style="width:57px; height:75px; vertical-align:middle;" src="/images/QR_Denmark_1.png"></td>
@@ -599,7 +600,7 @@ Please attempt re-uploading your QR code and ensure that you have the <b>'Intern
 
 #### 5. My vaccination certificate was issued in the UAE, but I am having issues uploading the QR code. What's going wrong?
 
-Please attempt uploading your QR code and ensure that you have the '<b>Travel</b>' version. A sample is as below. If not, please obtain one on the AllHosn app by selecting 'Travel pass'.
+Please attempt uploading your QR code and ensure that you have the '<b>Travel</b>' version. A sample is as below. If not, please obtain one on the AlHosn app by selecting 'Travel pass'.
 
 <table>
 <tbody>
