@@ -16,7 +16,7 @@ On this page, you will find the following information regarding transiting in Si
 
 ### 1. Eligibility
 
-<p style="font-size:20px; line-height:1.35;">Travellers are advised to check with their airline if it has an approved transfer route through Singapore before purchasing tickets. <b>Travellers do not need to obtain approvals under any Safe Travel Lane (e.g. Vaccinated Travel Lane) to transit in Singapore.</b></p>				
+<p style="font-size:20px; line-height:1.35;">Travellers are advised to check with their airlines if they accept passengers transiting through Singapore before purchasing tickets<b> Travellers do not need to obtain approvals under any Safe Travel Lane (e.g. Vaccinated Travel Lane) to transit in Singapore.</b></p>				
 
 
 <div id="PDT"></div>
@@ -25,7 +25,7 @@ On this page, you will find the following information regarding transiting in Si
 
 <p style="font-size:20px; line-height:1.35;"><b>If the traveller's final destination country/region has a pre-departure test requirement, travellers are advised to take their pre-departure tests at the originating country as such testing services are not available during transit in Singapore.</b></p>
 
-<p style="font-size:20px; line-height:1.35;">Otherwise, transit travellers with a layover at Changi Airport of less than 24 hours do not have to take or present proof of having taken a pre-departure test.</p>
+<p style="font-size:20px; line-height:1.35;">Otherwise, transit travellers do not have to take or present proof of having taken a pre-departure test.</p>
 
 
 <div id="visa"></div>
