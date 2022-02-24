@@ -600,7 +600,7 @@ Please attempt re-uploading your QR code and ensure that you have the <b>'Intern
 
 #### 5. My vaccination certificate was issued in the UAE, but I am having issues uploading the QR code. What's going wrong?
 
-Please attempt uploading your QR code and ensure that you have the '<b>Travel</b>' version. A sample is as below. If not, please obtain one on the <a target="_blank" href="https://alhosnapp.ae/en/home">AlHosn app</a>AlHosn app</a> by selecting 'Travel pass'.
+Please attempt uploading your QR code and ensure that you have the '<b>Travel</b>' version. A sample is as below. If not, please obtain one on the <a target="_blank" href="https://alhosnapp.ae/en/home">AlHosn app</a> by selecting 'Travel pass'.
 
 <table>
 <tbody>
