@@ -12,7 +12,7 @@ description: ""
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>NOTICE:</u></b></p>
 		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.35;color:black;">The following measures are applicable for VTL travellers <b>entering Singapore from 21 Feb 2022, 2359h (SGT)</b>.</p>
 			<ol style="font-size:16px; margin-top:20px; margin-bottom:0px; color:black;">
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.35;  color:black;">Long-Term Pass holders (excluding Work Permit holders) are no longer required to apply for a Vaccinated Travel Pass (VTP).</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.35;  color:black;">Holders/In-Principle Approval (IPA) holders of a Singapore-issued Long-Term Pass (excluding Work Permit holders) are no longer required to apply for a Vaccinated Travel Pass (VTP).</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.35;  color:black;">Assessed travel history will be reduced from 14 days to 7 days</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.35;  color:black;">On-arrival Polymerase Chain Reaction (PCR) test at the airport will be replaced with a supervised self-administered Antigen Rapid Test (ART) at a <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a>, to be completed <b>within 24 hours</b> of arrival in Singapore. Travellers who have prepaid for the PCR test can expect a refund from the Changi Airport Group (CAG) for their unutilised test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</li>
 								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Unsupervised self-administered ARTs will no longer be required on Days 2 to 7 of arrival in Singapore.</li>
@@ -66,7 +66,7 @@ Use the self-checker tool on the <a href="/arriving/overview" target="_blank">Tr
  
 #### 2. How do I prove my vaccination status when applying for a VTP if: 
 
-<ol style="list-style-type: lower-latin;"><li style="line-height:1.35; font-size:24px; color:#d30000;">I am a Long-Term Pass Holder or Short-Term Visitor with Singapore-issued vaccination records; or</li><li style="line-height:1.35; font-size:24px; color: #d30000;">I was fully vaccinated in a non-VTL country/region and had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR)?</li></ol>
+<ol style="list-style-type: lower-latin;"><li style="line-height:1.35; font-size:24px; color:#d30000;">I am a Long-Term Pass/IPA Holder or Short-Term Visitor with Singapore-issued vaccination records; or</li><li style="line-height:1.35; font-size:24px; color: #d30000;">I was fully vaccinated in a non-VTL country/region and had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR)?</li></ol>
 
 Please check if your Singapore vaccination records are valid through this link and, if necessary, re-tag your records to your most updated identification (e.g. passport/FIN/IC) number. The retagging process takes around 2 – 4 weeks. Please attempt to resubmit a VTP application only after receiving confirmation from the Ministry of Health/ Health Promotion Board that your records have been successfully retagged. More information on updating your vaccination records can be found on <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">this link</a>.
 
@@ -203,11 +203,11 @@ label.box {
 </html>
 
 
-<b style="color:red;">For Singapore Citizens, Permanent Residents and Long Term Pass Holders (excluding Work Permit Holders)</b>
+<b style="color:red;">For Singapore Citizens, Permanent Residents and Holders of a Singapore-issued Long Term Pass (excluding Work Permit Holders)</b>
 
-If you are a Singapore Citizen or Permanent Resident, or a Long Term Pass Holder (excluding work permit holder), you need not apply for a VTP. You will need to show an accepted proof of vaccination to the VTL transport operator at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate using the self-verification tool(s) available for your vaccination certificate, if available, prior to your trip. 
+If you are a Singapore Citizen or Permanent Resident, or a Long Term Pass Holder (including IPA holders and excluding work permit holder), you need not apply for a VTP. You will need to show an accepted proof of vaccination to the VTL transport operator at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate using the self-verification tool(s) available for your vaccination certificate, if available, prior to your trip. 
 
-<b style="color:red;">For Short-Term Visitors and Work Permit Holders</b>
+<b style="color:red;">For Short-Term Visitors and eligible Work Permit Holders</b>
 
 If you are a Short-Term Visitor (STV) or Work Permit Holder (WPH) in Singapore, you need to apply for a VTP. Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP application portal. <b>You should upload the QR code(s) of your primary series only (i.e. first and second doses); regardless of whether you have obtained a booster dose</b>.
 
@@ -597,6 +597,9 @@ Please attempt re-uploading your QR code and ensure that you have the <b>'Intern
 </tbody>
 </table>
 
+#### 5. My vaccination certificate was issued in the UAE, but I am having issues uploading the QR code. What's going wrong?
+
+Please attempt uploading your QR code and ensure that you have the "Travel' version. A sample is as below. If not, please obtain one on the AllHosn app by selecting 'Travel pass'.
 
 <div id="mismatch-error"></div>
 
