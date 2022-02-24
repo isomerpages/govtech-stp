@@ -599,11 +599,25 @@ Please attempt re-uploading your QR code and ensure that you have the <b>'Intern
 
 #### 5. My vaccination certificate was issued in the UAE, but I am having issues uploading the QR code. What's going wrong?
 
-Please attempt uploading your QR code and ensure that you have the "Travel' version. A sample is as below. If not, please obtain one on the AllHosn app by selecting 'Travel pass'.
+Please attempt uploading your QR code and ensure that you have the '<b>Travel</b>' version. A sample is as below. If not, please obtain one on the AllHosn app by selecting 'Travel pass'.
+
+<table>
+<tbody>
+<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#f16566; color:white; text-align:center;"><b>NOT Valid for Travel</b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#153855; color:white; text-align:center;"><b>Valid for Travel</b></td>
+		</tr>
+<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/UAEVaxCert_1.png" width="auto" height="auto"></td>
+	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><img src="/images/UAEVaxCert_2.png" width="auto" height="auto"><br><br><img src="/images/UAEVaxCert_3.png" width="auto" height="auto"></td>
+			</tr>
+</tbody>
+</table>
+
 
 <div id="mismatch-error"></div>
 
-#### 5. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP?
+#### 6. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP?
 
 Please refer to the table below. 
 <table>
@@ -661,7 +675,7 @@ If you are still facing name mismatch errors, please write to the Safe Travel Of
 
 
 
-#### 6. Why are only SMART Health Cards by certain issuers accepted?
+#### 7. Why are only SMART Health Cards by certain issuers accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
 
@@ -703,7 +717,7 @@ No, you will not be eligible for the VTL. Return to the <a href="/arriving/overv
 
 ### 3)	Application for the Vaccinated Travel Pass
 
-<i style="color:red;">Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) are not required to apply for a VTP (Air)/VTP (Land)/VTP (Sea). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL (Air)</a> conditions/<a href="/vtl-land/conditions" target="_blank">VTL (Land)</a>/<a href="/vtl-sea/conditions" target="_blank">VTL (Sea)</a>. Long-Term Pass holders (excluding Work Permit holders) are not required to apply for a VTP.</i>
+<i style="color:red;">Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) are not required to apply for a VTP (Air)/VTP (Land)/VTP (Sea). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL (Air)</a> conditions/<a href="/vtl-land/conditions" target="_blank">VTL (Land)</a>/<a href="/vtl-sea/conditions" target="_blank">VTL (Sea)</a>. Long-Term Pass holders (including IPA holders and excluding Work Permit holders) are not required to apply for a VTP.</i>
 
 
 #### 1. How long will it take for a VTP application to be processed?
