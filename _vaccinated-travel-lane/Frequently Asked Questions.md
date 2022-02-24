@@ -12,7 +12,7 @@ description: ""
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>NOTICE:</u></b></p>
 		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.35;color:black;">The following measures are applicable for VTL travellers <b>entering Singapore from 21 Feb 2022, 2359h (SGT)</b>.</p>
 			<ol style="font-size:16px; margin-top:20px; margin-bottom:0px; color:black;">
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.35;  color:black;">Long-Term Pass holders (excluding Work Permit holders) are no longer required to apply for a Vaccinated Travel Pass (VTP).</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.35;  color:black;">Holders/In-Principle Approval (IPA) holders of a Singapore-issued Long-Term Pass (excluding Work Permit holders) are no longer required to apply for a Vaccinated Travel Pass (VTP).</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.35;  color:black;">Assessed travel history will be reduced from 14 days to 7 days</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.35;  color:black;">On-arrival Polymerase Chain Reaction (PCR) test at the airport will be replaced with a supervised self-administered Antigen Rapid Test (ART) at a <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a>, to be completed <b>within 24 hours</b> of arrival in Singapore. Travellers who have prepaid for the PCR test can expect a refund from the Changi Airport Group (CAG) for their unutilised test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</li>
 								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Unsupervised self-administered ARTs will no longer be required on Days 2 to 7 of arrival in Singapore.</li>
@@ -66,7 +66,7 @@ Use the self-checker tool on the <a href="/arriving/overview" target="_blank">Tr
  
 #### 2. How do I prove my vaccination status when applying for a VTP if: 
 
-<ol style="list-style-type: lower-latin;"><li style="line-height:1.35; font-size:24px; color:#d30000;">I am a Long-Term Pass Holder or Short-Term Visitor with Singapore-issued vaccination records; or</li><li style="line-height:1.35; font-size:24px; color: #d30000;">I was fully vaccinated in a non-VTL country/region and had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR)?</li></ol>
+<ol style="list-style-type: lower-latin;"><li style="line-height:1.35; font-size:24px; color:#d30000;">I am a Long-Term Pass/IPA Holder or Short-Term Visitor with Singapore-issued vaccination records; or</li><li style="line-height:1.35; font-size:24px; color: #d30000;">I was fully vaccinated in a non-VTL country/region and had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR)?</li></ol>
 
 Please check if your Singapore vaccination records are valid through this link and, if necessary, re-tag your records to your most updated identification (e.g. passport/FIN/IC) number. The retagging process takes around 2 – 4 weeks. Please attempt to resubmit a VTP application only after receiving confirmation from the Ministry of Health/ Health Promotion Board that your records have been successfully retagged. More information on updating your vaccination records can be found on <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">this link</a>.
 
@@ -203,11 +203,11 @@ label.box {
 </html>
 
 
-<b style="color:red;">For Singapore Citizens, Permanent Residents and Long Term Pass Holders (excluding Work Permit Holders)</b>
+<b style="color:red;">For Singapore Citizens, Permanent Residents and Holders of a Singapore-issued Long Term Pass (excluding Work Permit Holders)</b>
 
-If you are a Singapore Citizen or Permanent Resident, or a Long Term Pass Holder (excluding work permit holder), you need not apply for a VTP. You will need to show an accepted proof of vaccination to the VTL transport operator at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate using the self-verification tool(s) available for your vaccination certificate, if available, prior to your trip. 
+If you are a Singapore Citizen or Permanent Resident, or a Long Term Pass Holder (including IPA holders and excluding work permit holder), you need not apply for a VTP. You will need to show an accepted proof of vaccination to the VTL transport operator at check-in and at arrival immigration. You are encouraged to upload your vaccination certificate QR code, if you have one, as part of your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">Singapore Arrival Card / electronic Health Declaration Card</a> submission to facilitate your arrival processing in Singapore. You are also strongly encouraged to self-verify your vaccination certificate using the self-verification tool(s) available for your vaccination certificate, if available, prior to your trip. 
 
-<b style="color:red;">For Short-Term Visitors and Work Permit Holders</b>
+<b style="color:red;">For Short-Term Visitors and eligible Work Permit Holders</b>
 
 If you are a Short-Term Visitor (STV) or Work Permit Holder (WPH) in Singapore, you need to apply for a VTP. Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP application portal. <b>You should upload the QR code(s) of your primary series only (i.e. first and second doses); regardless of whether you have obtained a booster dose</b>.
 
@@ -303,12 +303,13 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <input class="accordion" type="checkbox" id="EUDCC-cert">
 <label class="accordion" for="EUDCC-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>European Union Member States or non-EU countries that have joined the EU DCC system (listed <a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">here</a>)</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p><a target="_blank" href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificate (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a>. One certificate, showing the final dose in the series (i.e. 1/1 or 2/2). 
+	<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">If your vaccination certificate was issued in the United Arab Emirates, please ensure that you have the '<b>Travel</b>' version, obtainable via the <a target="_blank" href="https://alhosnapp.ae/en/home">AlHosn app</a> by selecting 'Travel pass'.</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><a target="_blank" href="https://app.digitalcovidcertchecker.gov.ie/">DCC Checker</a> (Web App), <a target="_blank" href="https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier">COVID Certificate Check</a> (Android) or <a target="_blank" href="https://apps.apple.com/sg/app/covid-certificate-check/id1565917510">COVID Certificate Check</a> (iOS)</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
-    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose</li>
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose. <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px; margin-bottom: 20px;">If your vaccination certificate was issued in the United Arab Emirates, please ensure that you have the '<b>Travel</b>' version, obtainable via the <a target="_blank" href="https://alhosnapp.ae/en/home">AlHosn app</a> by selecting 'Travel pass'.</p></li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<table>
 <tbody><tr>
 	<td style="border:0px;"><img style="width:57px; height:75px; vertical-align:middle;" src="/images/QR_Denmark_1.png"></td>
@@ -597,10 +598,27 @@ Please attempt re-uploading your QR code and ensure that you have the <b>'Intern
 </tbody>
 </table>
 
+#### 5. My vaccination certificate was issued in the UAE, but I am having issues uploading the QR code. What's going wrong?
+
+Please attempt uploading your QR code and ensure that you have the '<b>Travel</b>' version. A sample is as below. If not, please obtain one on the <a target="_blank" href="https://alhosnapp.ae/en/home">AlHosn app</a> by selecting 'Travel pass'.
+
+<table>
+<tbody>
+<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#f16566; color:white; text-align:center;"><b>NOT Valid for Travel</b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#153855; color:white; text-align:center;"><b>Valid for Travel</b></td>
+		</tr>
+<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/UAEVaxCert_1.png" width="auto" height="auto"></td>
+	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><img src="/images/UAEVaxCert_2.png" width="auto" height="auto"><br><br><img src="/images/UAEVaxCert_3.png" width="auto" height="auto"></td>
+			</tr>
+</tbody>
+</table>
+
 
 <div id="mismatch-error"></div>
 
-#### 5. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP?
+#### 6. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP?
 
 Please refer to the table below. 
 <table>
@@ -658,7 +676,7 @@ If you are still facing name mismatch errors, please write to the Safe Travel Of
 
 
 
-#### 6. Why are only SMART Health Cards by certain issuers accepted?
+#### 7. Why are only SMART Health Cards by certain issuers accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
 
@@ -700,7 +718,7 @@ No, you will not be eligible for the VTL. Return to the <a href="/arriving/overv
 
 ### 3)	Application for the Vaccinated Travel Pass
 
-<i style="color:red;">Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) are not required to apply for a VTP (Air)/VTP (Land)/VTP (Sea). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL (Air)</a> conditions/<a href="/vtl-land/conditions" target="_blank">VTL (Land)</a>/<a href="/vtl-sea/conditions" target="_blank">VTL (Sea)</a>. Long-Term Pass holders (excluding Work Permit holders) are not required to apply for a VTP.</i>
+<i style="color:red;">Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) are not required to apply for a VTP (Air)/VTP (Land)/VTP (Sea). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL (Air)</a> conditions/<a href="/vtl-land/conditions" target="_blank">VTL (Land)</a>/<a href="/vtl-sea/conditions" target="_blank">VTL (Sea)</a>. Long-Term Pass holders (including IPA holders and excluding Work Permit holders) are not required to apply for a VTP.</i>
 
 
 #### 1. How long will it take for a VTP application to be processed?

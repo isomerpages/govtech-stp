@@ -123,8 +123,7 @@ label.box {
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><b>Apply <u>between 7 and 60 calendar days</u> before the intended date of entry.</b></p>
 <div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="/atp/apply-now" target="_blank"><b>Foreign Short-Term Visitors<br>Click Here To Apply For an ATP</b></a></div>
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Successful applicants will receive a payment notification email, usually within 2 to 3 days, to pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test. <b>Applications will only be approved when payment is received by the deadline indicated in the payment notification email.</b></p>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">When an ATP application is approved, an approval letter will be sent to the applicant via email.</p> 
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Successful applicants will receive an approval letter via email, usually within 2 to 3 days.</b></p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.
 </p>
   </div>	
