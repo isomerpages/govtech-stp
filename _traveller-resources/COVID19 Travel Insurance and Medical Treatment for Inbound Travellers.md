@@ -90,7 +90,7 @@ The following groups of travellers are <b>responsible for all costs associated w
 
 <ol style="list-style-type:lower-roman;">
 <li style="padding-left:10px; line-height:1.5;">All Short-Term Pass Holders, throughout their stay in Singapore</li>
-	<li style="padding-left:10px; line-height:1.5;">Travellers who are Singapore Citizens (SCs), Permanent Residents (PRs) or Long Term Pass Holders (LTPHs), if they test positive for COVID-19 or have onset of symptoms within 14 days of their arrival to Singapore.</li>
+	<li style="padding-left:10px; line-height:1.5;">Singapore Citizens (SCs), Permanent Residents (PRs) or Long Term Pass Holders (LTPHs), if they test positive for COVID-19 or have onset of symptoms within 14 days of their arrival to Singapore.</li>
 <li style="padding-left:10px; line-height:1.5;">SCs/PRs/LTPHs who are unvaccinated by choice – specifically, those aged 12 years and above who are not medically ineligible for COVID-19 vaccines on the National Vaccination Programme</li>
 </ol>
 
