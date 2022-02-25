@@ -162,7 +162,6 @@ Click here to return to the <a href="#lanelist">top</a>.
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.35;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
 					 <!--<li style="font-size: 18px;">Brunei Darussalam (Suspended with effect from 21 August 2021)</li>-->
-					 <li style="font-size: 18px; line-height:1.35;">Hong Kong <b>(for arrivals before 24 Feb 2022, 2359h)</b></li>
 					 <li style="font-size: 18px; line-height:1.35;">Macao</li>
 					  <li style="font-size: 18px; line-height:1.35;">Mainland China </li>
 					 <li style="font-size: 18px; line-height:1.35;">Taiwan</li>
