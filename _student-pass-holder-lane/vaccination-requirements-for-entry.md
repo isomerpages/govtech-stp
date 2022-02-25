@@ -2,7 +2,7 @@
 title: Vaccination Requirements for Entry
 permalink: /stpl/vaccination-requirements
 ---
-### All travellers entering Singapore under the Student’s Pass Holder Lane must be fully vaccinated before arrival. This page outlines:
+##### All travellers entering Singapore under the Student’s Pass Holder Lane must be fully vaccinated before arrival. This page outlines:
 
 <ol>
 	<li style="line-height:1.5;"><a href="#criteria">Criteria to be considered fully vaccinated </a></li>
