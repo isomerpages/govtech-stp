@@ -234,6 +234,7 @@ label.box {
 	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Aged 12 and above; and</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Possess the original vaccination document, stating the type and date(s) for which the vaccine was administered. All vaccination documents must be in English, or translated to English by a translation service provider, notary public or embassy of the country of document issuance.</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">If detected to be symptomatic or COVID positive on arrival, travellers may be subjected to additional tests at S$30 (inclusive of GST) per ART or S$138 (inclusive of GST) per PCR test. Officers stationed on the ground will provide the necessary instructions.</li>
 	</ol>
 	</div>
 	
