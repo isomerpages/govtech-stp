@@ -149,7 +149,7 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content" id="criteria">	
 	<p style="line-height:1.4; font-size:18px;">Travellers must:
 		</p><ol style="list-style-type:lower-roman">
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category (I) country</a> in the last 14 consecutive days (for travellers arriving <b>before 22 Feb 2022</b>), or last 7 consecutive days (for travellers arriving <b>from 22 Feb 2022</b>), before departing for Singapore; and</li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category (I) country/region</a> in the last 14 consecutive days (for travellers arriving <b>before 22 Feb 2022</b>), or last 7 consecutive days (for travellers arriving <b>from 22 Feb 2022</b>), before departing for Singapore; and</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
 					<ol style="list-style-type:disc;">
 <li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a target="_blank" href="https://www.causewaylink.com.my">Handal Indah</a></li>
