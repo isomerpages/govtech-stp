@@ -142,7 +142,7 @@ input:checked + label + .content {
 <td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Category (I) Countries/Regions & Travel Health Control Measures</b><br><span style="font-size:12px;">Based on 7-day Travel History (excluding transits less than 24 hours)</span></td>
 </tr>
 	<tr>
-<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle; border-bottom: 3px solid #D8D8D8;"><b>Hong Kong*, Macao, Mainland China and Taiwan</b><p style="font-size: 16px; text-align:left; color:white; margin-top:10px; margin-bottom:0px; line-height:1.35;"><i>*Note: Pass holders arriving from Hong Kong <u>after 24 Feb 2022, 2359 hours</u>, please follow the Category (II/III/IV) travel and health control measures.</i></p></td>
+<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center; vertical-align:middle; border-bottom: 3px solid #D8D8D8;"><b>Macao, Mainland China and Taiwan</b></td>
 </tr>
 	<tr>
 		<td style="font-size:16px; border-top: 3px solid #D8D8D8; border-bottom: 3px solid #D8D8D8; color:black; text-align:center; vertical-align:middle;"><b>Click to expand the health measures by Pass Type</b></td>
