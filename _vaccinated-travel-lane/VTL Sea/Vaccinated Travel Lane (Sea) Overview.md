@@ -142,7 +142,7 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;">Travellers must:</p>
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries" target="_blank"> VTL countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 7 consecutive days before departure for Singapore.
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries" target="_blank"> VTL countries/regions</a>, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a>, and/or Singapore, in the last 7 consecutive days before departure for Singapore.
 		</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a <b>designated VTL (Sea) ferry</b> operated by the following regional ferry service operators:
 <ol style="padding-left:20px; margin-top:10px; list-style-type: disc;">
