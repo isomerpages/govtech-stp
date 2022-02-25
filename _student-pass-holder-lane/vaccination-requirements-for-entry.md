@@ -9,7 +9,7 @@ permalink: /stpl/vaccination-requirements
 	<li style="line-height:1.5;"><a href="#documents">Documents travellers should produce to prove they are fully vaccinated</a></li>
 	<li style="line-height:1.5;"><a href="#additional-requirements">Additional requirements for pass holders who were vaccinated overseas </a></li>
 	<li style="line-height:1.5;"><a href="#woproof">Travellers who may enter without proof of vaccination</a></li>
-	<li style="line-height:1.5;"><a href="#penalties">Penalties for non-compliance</a></li>
+	<li style="line-height:1.5;"><a href="#penalties">Undertakings and penalties for non-compliance</a></li>
 	<li style="line-height:1.5;"><a href="#summary">Summary of the vaccination requirements for entry</a></li>
 </ol>
 
