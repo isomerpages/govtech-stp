@@ -122,7 +122,7 @@ label.box {
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><b>Apply <u>between 7 and 60 calendar days</u> before the intended date of entry.</b></p>
 <div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="/atp/apply-now" target="_blank"><b>Foreign Short-Term Visitors<br>Click Here To Apply For an ATP</b></a></div>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Successful applicants will receive an approval letter via email, usually within 2 to 3 days.</b></p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Successful applicants will receive an approval letter via email, usually within 2 to 3 days.</p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.
 </p>
   </div>	
@@ -304,8 +304,7 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 <input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="5A"><label class="box" for="5A">&nbsp;&nbsp;<b>A) Release from Self-Isolation</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers may leave their accommodation only <b>after</b> receiving a negative result via email for their on-arrival COVID-19 test.</p> 
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers entering Singapore before 21 Feb 2022, 2359h should contact <a href="mailto:airborder@rafflesmedical.com">airborder@rafflesmedical.com</a> if they do not receive their results within 24 hours of the test.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers may leave their accommodation only <b>after</b> receiving a negative result for their on-arrival COVID-19 test.</p> 
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Those who test positive for COVID-19 must follow the <a href="/health/insurance-and-treatment#treatment" target="_blank">relevant recovery protocols and receive medical treatment</a> as necessary, and the prevailing treatment charges will apply.
 </p>
 	</div>
