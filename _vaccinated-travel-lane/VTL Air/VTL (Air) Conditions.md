@@ -8,7 +8,7 @@ third_nav_title: VTL Air
 
 Please refer to the applicable VTL (Air) Conditions based on your date of entry into Singapore:
 <ol>
-	<li><a href="#before21">Before 21 February 2022, 2395hrs (SGT)</a></li>
+	<li><a href="#before21">Before 21 February 2022, 2359hrs (SGT)</a></li>
 	<li><a href="#after21">On or after 21 February 2022, 2395hrs (SGT)</a></li>
 </ol>
 
