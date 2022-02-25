@@ -1,6 +1,7 @@
 ---
 title: Notice
 permalink: /australia/atp/notice
+published: false
 ---
 ## IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR AUSTRALIA
 Given the increase in the number of COVID-19 cases in Australia, Singapore will tighten border measures for travellers with travel history to Australia within the last 14 days before departure for Singapore.
