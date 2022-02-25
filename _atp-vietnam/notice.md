@@ -1,6 +1,7 @@
 ---
 title: NOTICE
 permalink: /vietnam/atp/notice
+published: false
 ---
 ### IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR VIETNAM 
 
