@@ -63,7 +63,7 @@ third_nav_title: VTL Sea
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">All VTL travellers MUST:</p>
 <ol style="list-style-type:lower-roman;">
-		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Have <b>only</b> travelled to / transited via any VTL countries/regions, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan) and/or Singapore, in the last 7 consecutive days before departure for Singapore; and</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Have <b>only</b> travelled to / transited via any VTL countries/regions, Category I countries/regions (Macao, Mainland China, Taiwan) and/or Singapore, in the last 7 consecutive days before departure for Singapore; and</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a <b>designated VTL (Sea) ferry</b> operated by the following regional ferry service operators:
 <ol style="padding-left:20px; margin-top:10px; list-style-type: disc;">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.3;"><a href="https://www.batamfast.com/home/index.ashx" target="_blank">BatamFast</a></li>
