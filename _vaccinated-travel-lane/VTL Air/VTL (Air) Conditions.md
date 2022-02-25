@@ -12,9 +12,6 @@ Please refer to the applicable VTL (Air) Conditions based on your date of entry 
 	<li><a href="#after21">On or after 21 February 2022, 2359hrs (SGT)</a></li>
 </ol>-->
 
-
-### VTL (Air) conditions for entry on or after 21 February 2022, 2395hrs (SGT)
-
 <ol style="font-size:20px;">
 	<li style="font-size:20px; list-style-type:decimal;"> A Vaccinated Travel Pass (Air) [VTP (Air)] is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP (Air) approval.
 		<ol style="font-size:20px; list-style-type:upper-alpha;">
