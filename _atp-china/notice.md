@@ -1,6 +1,7 @@
 ---
 title: NOTICE
 permalink: /china/atp/notice
+published: false
 ---
 ### IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR JIANGSU PROVINCE, MAINLAND CHINA
 
