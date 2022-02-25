@@ -1,6 +1,7 @@
 ---
 title: NOTICE
 permalink: /brunei/atp/notice
+published: false
 ---
 ### IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR BRUNEI DARUSSALAM
 
