@@ -572,7 +572,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Is in English (or accompanied with an English translation);</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Reflects the date and result of the PCR test.</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Reflects the date and result of the COVID-19 test.</li>
 	</ol>
 	<p style="font-size:18px; line-height:1.35;">Click on (+) below for illustrations for when a PDT must be taken.</p>
 <input id="pdt-illustration" type="checkbox" class="accordion">
