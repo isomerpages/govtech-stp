@@ -269,6 +269,7 @@ label.box {
 </ol>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Once registered, the traveller will be able to show proof of their vaccination status using the TraceTogether Application in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a>. All registrations performed during immigration clearance are valid only for 30 days. Travellers staying in Singapore beyond 30 days, or those who had not registered their vaccination status during immigration clearance, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> (under “Recognising Overseas Vaccination”) for more details.</p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Check your SGAC-registered email for your e-Pass notification on the period of stay granted and last day of stay allowed.</p>
+	<p style="line-height:1.35;font-size:18px;">If detected to be symptomatic or COVID positive on arrival, travellers may be subjected to additional tests at S$30 (inclusive of GST) per ART or S$138 (inclusive of GST) per PCR test. Officers stationed on the ground will provide the necessary instructions.</p>
 	</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
