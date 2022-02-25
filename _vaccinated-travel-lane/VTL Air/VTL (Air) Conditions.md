@@ -4,7 +4,6 @@ permalink: /vtl/conditions
 description: ""
 third_nav_title: VTL Air
 ---
-
 ### Conditions of the Vaccinated Travel Lane (Air) [VTL (Air)]
 
 Please refer to the applicable VTL (Air) Conditions based on your date of entry into Singapore:
@@ -46,7 +45,7 @@ Please refer to the applicable VTL (Air) Conditions based on your date of entry 
 </li>
          </ol>
                <li style="font-size:18px; list-style-type:lower-alpha;">undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately<sup>4</sup>  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTP (Air) application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
-			<!-- <li style="font-size:18px; list-style-type:lower-alpha;">undergo supervised self-administered COVID-19 ARTs on Days 3 and 7 of their arrival in Singapore at a <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) / Combined Test Centre (CTC)</a>;</li>-->
+			<!-- <li style="font-size:18px; list-style-type:lower-alpha;">undergo supervised self-administered COVID-19 ARTs on Days 3 and 7 of their arrival in Singapore at a <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) / Combined Test Centre (CTC)</a>;</li>-->
 			 <li style="font-size:18px; list-style-type:lower-alpha;">undergo daily self-administered COVID-19 ARTs using <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">self-procured ART kits</a> from Day 2 to Day 7 of their arrival in Singapore and test negative if they need to leave their place of accommodation;</li>
 			 <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 test results to the relevant Singapore Government authorities for public health purposes;</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;">download the <a href="https://tracetogether.gov.sg" target="_blank">TraceTogether app</a> on his/her mobile device and:
@@ -84,7 +83,7 @@ Please refer to the applicable VTL (Air) Conditions based on your date of entry 
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>1</sup>A Dormitory means boarding premises providing accommodation to 7 or more foreign employees and includes any place converted (temporarily or otherwise) for use as accommodation for 7 or more foreign employees, but excludes an isolation area within the meaning of section 17 of the Infectious Diseases Act (Cap. 137). Boarding premises has the same meaning given by section 2(1) of the Foreign Employee Dormitories Act 2015(Act 3 of 2015).</p>
 
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the scheduled day of departure of the flight is D (e.g. 15 January 2022), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL (Air) countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore from D-14 to D (i.e. 1 January to 15 January 2022, if D is 15 January 2022).</p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the scheduled day of departure of the flight is D (e.g. 15 January 2022), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL (Air) countries/regions</a>, Category I countries/regions, and/or Singapore from D-14 to D (i.e. 1 January to 15 January 2022, if D is 15 January 2022).</p>
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>3</sup>If the pre-departure test is taken on 1 January 2022, it will be valid for departures up to 3 January 2022, 2359 hours.</p>
 
@@ -124,7 +123,7 @@ Please refer to the applicable VTL (Air) Conditions based on your date of entry 
 </li>
          </ol>
 			                <li style="font-size:18px; list-style-type:lower-alpha;">immediately<sup>4</sup> take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTP (Air) application and remain isolated at the place of accommodation, apart from attending the supervised self-administered ART;</li>
-               <li style="font-size:18px; list-style-type:lower-alpha;">take private transportation, taxi, or private hire car to and from the <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a>, undergo a COVID-19 supervised self-administered ART at a within 24 hours of arrival in Singapore, and remain isolated at the declared place of accommodation until the test result is confirmed to be negative;</li>
+               <li style="font-size:18px; list-style-type:lower-alpha;">take private transportation, taxi, or private hire car to and from the <<a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a>, undergo a COVID-19 supervised self-administered ART at a within 24 hours of arrival in Singapore, and remain isolated at the declared place of accommodation until the test result is confirmed to be negative;</li>
 			 <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 test results to the relevant Singapore Government authorities for public health purposes;</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;">download the <a href="https://tracetogether.gov.sg" target="_blank">TraceTogether app</a> on his/her mobile device and:
 		<ol style="font-size:18px; list-style-type:lower-roman;">
@@ -155,7 +154,7 @@ Please refer to the applicable VTL (Air) Conditions based on your date of entry 
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>1</sup>A Dormitory means boarding premises providing accommodation to 7 or more foreign employees and includes any place converted (temporarily or otherwise) for use as accommodation for 7 or more foreign employees, but excludes an isolation area within the meaning of section 17 of the Infectious Diseases Act (Cap. 137). Boarding premises has the same meaning given by section 2(1) of the Foreign Employee Dormitories Act 2015(Act 3 of 2015).</p>
 
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the scheduled day of departure of the flight is D (e.g. 8 March January 2022), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL (Air) countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore from D-7 to D (i.e. 1 March to 8 March 2022, if D is 8 March 2022).</p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the scheduled day of departure of the flight is D (e.g. 8 March January 2022), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL (Air) countries/regions</a>, Category I countries/regions, and/or Singapore from D-7 to D (i.e. 1 March to 8 March 2022, if D is 8 March 2022).</p>
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>3</sup>If the pre-departure test is taken on 1 March 2022, it will be valid for departures up to 3 March 2022, 2359 hours.</p>
 

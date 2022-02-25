@@ -142,7 +142,7 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;">Travellers must:</p>
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries" target="_blank"> VTL countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 7 consecutive days before departure for Singapore.
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries" target="_blank"> VTL countries/regions</a>, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a>, and/or Singapore, in the last 7 consecutive days before departure for Singapore.
 		</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a <b>designated VTL (Sea) ferry</b> operated by the following regional ferry service operators:
 <ol style="padding-left:20px; margin-top:10px; list-style-type: disc;">
@@ -283,7 +283,7 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers will need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or professionally administered Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 ART test at <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres or Combined Test Centres</a> within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative. </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 ART test at <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres or Combined Test Centres</a> within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative. </li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</li>
 	</ol> 
 </p>

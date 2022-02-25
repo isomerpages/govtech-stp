@@ -48,7 +48,7 @@ third_nav_title: VTL Air
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>Active VTL (Air) Countries/Regions</b></td>
 		</tr>
 	<tr>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, the Republic of Korea, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>6</sup> and the United States<sup>7</sup>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Hong Kong, India, Indonesia, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey,  the United Arab Emirates, the United Kingdom<sup>6</sup> and the United States<sup>7</sup>
 		<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 <p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
 		<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>3</sup>The Vatican City is an independent city state and is not considered part of Italy.</p>
@@ -65,12 +65,6 @@ third_nav_title: VTL Air
 <p style="margin-top:20px;"></p>
 <table>
 <tbody>
-	<tr>
-<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>For travellers entering Singapore from 24 Feb 2022, 2359h</b></td>
-		</tr>
-	<tr>
-	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Hong Kong, Qatar, Saudi Arabia and the United Arab Emirates</td>
-	</tr>
 	<tr>
 <td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>For travellers entering Singapore from 3 Mar 2022, 2359h</b></td>
 		</tr>
@@ -376,12 +370,6 @@ input:checked + label + .content {
 	<table>
 <tbody>
 	<tr>
-<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Commencement of VTP (Air) Application: 22 Feb 2022, 1000hrs, SGT</b></td>
-		</tr>
-	<tr>
-	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Hong Kong, Qatar, Saudi Arabia and the United Arab Emirates</td>
-	</tr>
-	<tr>
 <td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Commencement of VTP (Air) Application: 1 Mar 2022, 1000hrs, SGT</b></td>
 		</tr>
 	<tr>
@@ -423,7 +411,7 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers entering Singapore <b>from 21 Feb 2022, 2359h</b> will only need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 PCR or professionally administered ART taken within 2 days before departure for Singapore</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at a <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at a <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li>
 </ol>
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">For their journey to Singapore, travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. The table below summarises the key documents travellers have to bring along.</p>

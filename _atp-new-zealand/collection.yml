@@ -1,5 +1,0 @@
-collections:
-  atp-new-zealand:
-    output: true
-    order:
-      - notice.md

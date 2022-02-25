@@ -149,7 +149,7 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content" id="criteria">	
 	<p style="line-height:1.4; font-size:18px;">Travellers must:
 		</p><ol style="list-style-type:lower-roman">
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category (I) country</a> in the last 14 consecutive days (for travellers arriving <b>before 22 Feb 2022</b>), or last 7 consecutive days (for travellers arriving <b>from 22 Feb 2022</b>), before departing for Singapore; and</li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category (I) country/region</a> in the last 14 consecutive days (for travellers arriving <b>before 22 Feb 2022</b>), or last 7 consecutive days (for travellers arriving <b>from 22 Feb 2022</b>), before departing for Singapore; and</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
 					<ol style="list-style-type:disc;">
 <li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a target="_blank" href="https://www.causewaylink.com.my">Handal Indah</a></li>
@@ -304,7 +304,7 @@ Travellers who are eligible for VTL (Land) and have already obtained their bus t
 Travellers entering Singapore <b>from 21 Feb 2022, 2359h</b> will only need to undergo the following COVID-19 tests:
 <ol style="font-size:18px; list-style-type:disc;">
 <li style="font-size:18px; line-height:1.4;">Pre-departure COVID-19 PCR or professionally administered ART taken within 2 days before departure for Singapore</li>
-<li style="font-size:18px; line-height:1.4;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at Woodlands and Queen Street Bus Terminals or any <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li> 
+<li style="font-size:18px; line-height:1.4;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at Woodlands and Queen Street Bus Terminals or any <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li> 
 </ol>
 
 Fully vaccinated and recently recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.

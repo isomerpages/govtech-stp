@@ -26,14 +26,9 @@ permalink: /atp/faq
 #### 1. What is an ATP?
 
 An ATP allows visitors  travelling from one of the following countries/regions to seek entry into Singapore:
-- Hong Kong*
 - Macao
 - Mainland China
 - Taiwan
-
-<i>With effect from <b>24 Feb 2022, 2359h (SGT)</b>, short-term visitors with travel history to Hong Kong, within the last 7 days before departure for Singapore, will not be allowed to enter Singapore using the ATP. Travellers holding approved ATPs which are valid for entry before 24 Feb 2022, 2359h (SGT), may continue to travel to Singapore via the ATP. Those who have not applied for an ATP before 17 Feb 2022, 2359h(SGT) but need to travel to Singapore before 25 Feb 2022 urgently may write to the Safe Travel Office at <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a>.</i>
-
-<i>Travellers who intend to enter Singapore <b>from 24 Feb 2022, 2359h (SGT)</b>, may be eligible for travel under the <a href="/vtl/travel-checklist" target="_blank">Vaccinated Travel Lane (Air)</a>. Applications for the Vaccinated Travel Pass (Air) will open on <b>22 Feb 2022, 1000hrs (Singapore time)</b>. Travellers must fulfill all <a href="/vtl/conditions" target="_blank">VTL (Air) conditions</a> to be eligible for entry under the VTL (Air).</i>
 
 The ATP comes with [conditions](/atp/conditions) of travel that the applicant must comply with.
 
@@ -197,7 +192,7 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 	
 #### 1. What are the test centres that travellers can go to for their supervised ARTs?
 
-They can visit any of the <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>.
+They can visit any of the <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>.
 
 #### 2. Can travellers choose to undergo the supervised ART at other clinics in Singapore?
 
@@ -213,7 +208,7 @@ No, travellers must use the ART self-test kits provided at the test centres. The
 
 #### 5. How do travellers book their appointments for their supervised ARTs?
 
-Travellers will be provided with a weblink via the contact number and/or email address that they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC) to book their ART at a <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> upon arrival. Click here for more information about the QTC or CTC.
+Travellers will be provided with a weblink via the contact number and/or email address that they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC) to book their ART at a <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> upon arrival. Click here for more information about the QTC or CTC.
  
 #### 6. What do travellers need to bring for their supervised ART appointment?
 
@@ -221,7 +216,7 @@ Travellers will need to bring along a photo identification for verification.
 
 #### 7. Are children required to undergo supervised ARTs?
 
-Children aged 3 to 12 must undergo their supervised ART at the <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
+Children aged 3 to 12 must undergo their supervised ART at the <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
 #### 8. Do travellers need to self-isolate after their supervised ART?
 
@@ -270,7 +265,7 @@ Travellers must proceed immediately to their place of accommodation for self-iso
 
 Should you test positive for COVID-19, you will be placed on Protocol 2 of MOH’s Health Protocols by default and should self-isolate for at least 72 hours at your place of accommodation. You may refer to <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank">https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor</a> for details on Protocol 2. If you were planning to depart from Singapore, you are required to defer your travel plans until you complete self-isolation and obtain a negative ART result. If you are a higher-risk individual and tested positive on your ART, please visit a clinic to seek medical advice immediately even if you are feeling well. If you feel unwell while in Singapore, please refer to https://www.covid.gov.sg/travellers. Prevailing <a href="/health/insurance-and-treatment#cost" target="_blank">medical treatment and recovery charges</a> may apply.
 
-Please also note that if a traveller’s test result is confirmed to be positive, all persons who had shared the same room with the traveller, as well as those identified to be a close contact, may be served with a Health Risk Warning (HRW).
+Please also note that if a traveller’s test result is confirmed to be positive, all persons who had shared the same room with the traveller, as well as those identified to be a close contact, may be served with a Health Risk Notice (HRN).
 
 
 <div id="contact"></div>

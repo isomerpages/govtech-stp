@@ -16,7 +16,7 @@ This page contains information on the following issues:
 
 #### Mandatory Insurance for Short-term Visitors
 
-All short-term visitors applying to enter Singapore via the [Air Travel Pass (ATP)](/atp/overview),  [Reciprocal Green Lanes (RGLs)](/rgl/overview) and [Vaccinated Travel Lane (Air)](/vtl/requirements-and-process) will need to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore, with a minimum coverage of S$30,000 (based on COVID-19 bill sizes at private hospitals). This is a requirement regardless of the traveller’s vaccination or recovery status, as there is still a risk that these travellers can get a COVID-19 infection and require medical attention.
+All short-term visitors applying to enter Singapore via the [Air Travel Pass (ATP)](/atp/requirements-and-process),  [Reciprocal Green Lanes (RGLs)](/rgl/overview) and [Vaccinated Travel Lane (Air)](/vtl/requirements-and-process) will need to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore, with a minimum coverage of S$30,000 (based on COVID-19 bill sizes at private hospitals). This is a requirement regardless of the traveller’s vaccination or recovery status, as there is still a risk that these travellers can get a COVID-19 infection and require medical attention.
 
 The travel insurance will help with the costs of their medical treatment in Singapore. Please ensure sufficient coverage as travellers will have to pay for their own treatment costs beyond their insurance coverage.
 
@@ -50,11 +50,11 @@ A list of available Singapore-based travel insurance products* are as follows:
 </tbody>
 </table>
 
-<b><i>All Short Term Visitors entering via [ATP](/atp/overview), [RGL](/rgl/overview) and [VTL (Air)](/vtl/requirements-and-process) are required to prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore. </i></b>
+<b><i>All Short Term Visitors entering via [ATP](/atp/requirements-and-process), [RGL](/rgl/overview) and [VTL (Air)](/vtl/requirements-and-process) are required to prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore. </i></b>
 
 The mandatory travel insurance <u>does not</u> apply to Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to access Government subsidies and MediShield Life / Integrated Shield Plans to help pay for their medical bills, where applicable, should they develop onset of symptoms for COVID-19 within 14 days of their return.
 
-<div id="LTPH"></div>
+<div id="LTPH"></div> 
 
 #### Insurance for Long-Term Pass Holders
 
@@ -86,11 +86,11 @@ Patients who deliberately refuse treatment or leave the facility before a formal
 
 ### 3. Costs Associated with Medical Treatment and Recovery
 
-The following groups of individuals are <b>responsible for all costs associated with COVID-19 treatment and recovery</b>:
+The following groups of travellers are <b>responsible for all costs associated with COVID-19 treatment and recovery</b>:
 
 <ol style="list-style-type:lower-roman;">
 <li style="padding-left:10px; line-height:1.5;">All Short-Term Pass Holders, throughout their stay in Singapore</li>
-	<li style="padding-left:10px; line-height:1.5;">Travellers who are Singapore Citizens (SCs), Permanent Residents (PRs) or Long Term Pass Holders (LTPHs), if they test positive for COVID-19 or have onset of symptoms within 14 days of their arrival to Singapore.</li>
+	<li style="padding-left:10px; line-height:1.5;">Singapore Citizens (SCs), Permanent Residents (PRs) or Long Term Pass Holders (LTPHs), if they test positive for COVID-19 or have onset of symptoms within 14 days of their arrival to Singapore.</li>
 <li style="padding-left:10px; line-height:1.5;">SCs/PRs/LTPHs who are unvaccinated by choice – specifically, those aged 12 years and above who are not medically ineligible for COVID-19 vaccines on the National Vaccination Programme</li>
 </ol>
 
