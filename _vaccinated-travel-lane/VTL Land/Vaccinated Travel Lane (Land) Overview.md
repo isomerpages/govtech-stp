@@ -314,7 +314,7 @@ Fully vaccinated and recently recovered travellers may qualify for exemption fro
 	
 ### 4.  Frequently Asked Questions
 
-<span style="font-size:18px;">Click <a href="/vtl-land/faq" target="_blank">here</a> for the full list of FAQs, or the links below for specific info on the following topics:</span>
+<span style="font-size:18px;">Click <a href="/vtl/faq" target="_blank">here</a> for the full list of FAQs, or the links below for specific info on the following topics:</span>
 
 <ol style="font-size:18px; list-style-type:disc;">
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#vaxcert" target="_blank">Recognised Vaccination Certificates for VTL</a></li>

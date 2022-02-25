@@ -1,9 +1,10 @@
 ---
 title: VTL (Land) Conditions
-permalink: /vtl-land/testconditions
+permalink: /vtl-land/conditions
 description: ""
 third_nav_title: VTL Land
 ---
+
 ### Conditions of the Vaccinated Travel Lane Land [VTL (Land)]
 
 <ol style="line-height:1.5; padding-bottom:10px;">
