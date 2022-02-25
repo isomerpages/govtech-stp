@@ -1,5 +1,0 @@
-collections:
-  atp-brunei:
-    output: true
-    order:
-      - notice.md
