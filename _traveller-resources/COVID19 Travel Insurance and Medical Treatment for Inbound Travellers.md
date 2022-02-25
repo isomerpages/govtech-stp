@@ -86,7 +86,7 @@ Patients who deliberately refuse treatment or leave the facility before a formal
 
 ### 3. Costs Associated with Medical Treatment and Recovery
 
-The following groups of individuals are <b>responsible for all costs associated with COVID-19 treatment and recovery</b>:
+The following groups of travellers are <b>responsible for all costs associated with COVID-19 treatment and recovery</b>:
 
 <ol style="list-style-type:lower-roman;">
 <li style="padding-left:10px; line-height:1.5;">All Short-Term Pass Holders, throughout their stay in Singapore</li>
