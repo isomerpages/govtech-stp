@@ -1,5 +1,0 @@
-collections:
-  air-travel-pass:
-    output: true
-    order:
-      - Air Travel Pass Overview.md
