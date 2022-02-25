@@ -58,8 +58,8 @@ description: Start here to find out the travel requirements, restrictions and
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>5</sup> and the United States<sup>6</sup>
-<p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>From 24 Feb 2022, 2359h</b>: Hong Kong, Qatar, Saudi Arabia and the United Arab Emirates</p><p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>From 25 Feb 2022, 2359h (Sea Travel)</b>: Indonesia</p>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Hong Kong, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom<sup>5</sup> and the United States<sup>6</sup>
+<p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>From 25 Feb 2022, 2359h (Sea Travel)</b>: Indonesia</p>
 <p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>From 3 Mar 2022, 2359h</b>: Israel and the Philippines</p>
 				<p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><i style="font-size:16px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:16px; line-height:1.35;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
