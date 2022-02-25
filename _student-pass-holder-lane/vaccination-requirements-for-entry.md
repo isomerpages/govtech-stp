@@ -113,9 +113,13 @@ permalink: /stpl/vaccination-requirements
 	
 <div id="penalties"></div>
 
-### 5. Penalties for non-compliance
+### 5. Undertakings and penalties for non-compliance
 
-<p style="font-size:18px; line-height:1.5;">Strict enforcement action, including revocation of passes, will be taken for non-compliance or false declaration.</p>
+<p style="font-size:18px; line-height:1.5;">Student’s Pass (including In-Principle Approval) Holders and other travellers entering under the Student’s Pass Holder Lane must adhere to all requirements set out above. Strict enforcement action, including revocation of passes, will be taken for non-compliance or false declaration.</p>
+
+<p style="font-size:18px; line-height:1.5;">In addition, they must furnish to the Singapore Government, upon request:</p>
+
+
 
 <div id="summary"></div>
 
