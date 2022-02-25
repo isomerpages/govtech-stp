@@ -2,14 +2,14 @@
 title: Vaccination Requirements for Entry
 permalink: /stpl/vaccination-requirements
 ---
-### All travellers entering Singapore under the Student’s Pass Holder Lane must be fully vaccinated before arrival. This page outlines:
+##### All travellers entering Singapore under the Student’s Pass Holder Lane must be fully vaccinated before arrival. This page outlines:
 
 <ol>
 	<li style="line-height:1.5;"><a href="#criteria">Criteria to be considered fully vaccinated </a></li>
 	<li style="line-height:1.5;"><a href="#documents">Documents travellers should produce to prove they are fully vaccinated</a></li>
 	<li style="line-height:1.5;"><a href="#additional-requirements">Additional requirements for pass holders who were vaccinated overseas </a></li>
 	<li style="line-height:1.5;"><a href="#woproof">Travellers who may enter without proof of vaccination</a></li>
-	<li style="line-height:1.5;"><a href="#penalties">Penalties for non-compliance</a></li>
+	<li style="line-height:1.5;"><a href="#penalties">Undertakings and penalties for non-compliance</a></li>
 	<li style="line-height:1.5;"><a href="#summary">Summary of the vaccination requirements for entry</a></li>
 </ol>
 
@@ -113,9 +113,17 @@ permalink: /stpl/vaccination-requirements
 	
 <div id="penalties"></div>
 
-### 5. Penalties for non-compliance
+### 5. Undertakings and penalties for non-compliance
 
-<p style="font-size:18px; line-height:1.5;">Strict enforcement action, including revocation of passes, will be taken for non-compliance or false declaration.</p>
+<p style="font-size:18px; line-height:1.5;">Student’s Pass (including In-Principle Approval) Holders and other travellers entering under the Student’s Pass Holder Lane must adhere to all requirements set out above. Strict enforcement action, including revocation of passes, will be taken for non-compliance or false declaration.</p>
+
+<p style="font-size:18px; line-height:1.5;">In addition, they must furnish to the Singapore Government, upon request:</p>
+
+<ol style="list-style-type: lower-roman;">
+	<li style="line-height:1.5; font-size:18px;">their vaccination records showing that they are fully vaccinated against COVID-19 in accordance with the requirements set out above (including ingesting their overseas vaccination records in Singapore’s National Immunisation Registry);</li>
+	<li style="line-height:1.5; font-size:18px; margin-top:10px;">the results of their serology test taken in Singapore (for those who were vaccinated overseas and where serology tests are required) and, if such result reflects that they are not fully vaccinated, their vaccination records showing that they are fully vaccinated against COVID-19 in accordance with the requirements set out above; or;</li>
+		<li style="line-height:1.5; font-size:18px;">certification that they are medically ineligible for all vaccines under Singapore’s National Vaccination Programme.</li>
+	</ol>
 
 <div id="summary"></div>
 
