@@ -48,7 +48,7 @@ third_nav_title: VTL Air
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>Active VTL (Air) Countries/Regions</b></td>
 		</tr>
 	<tr>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, India, Indonesia, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, the Republic of Korea, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom<sup>6</sup> and the United States<sup>7</sup>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Hong Kong, India, Indonesia, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey,  the United Arab Emirates, the United Kingdom<sup>6</sup> and the United States<sup>7</sup>
 		<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 <p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
 		<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>3</sup>The Vatican City is an independent city state and is not considered part of Italy.</p>
@@ -65,12 +65,6 @@ third_nav_title: VTL Air
 <p style="margin-top:20px;"></p>
 <table>
 <tbody>
-	<tr>
-<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>For travellers entering Singapore from 24 Feb 2022, 2359h</b></td>
-		</tr>
-	<tr>
-	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Hong Kong, Qatar, Saudi Arabia and the United Arab Emirates</td>
-	</tr>
 	<tr>
 <td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>For travellers entering Singapore from 3 Mar 2022, 2359h</b></td>
 		</tr>
@@ -375,12 +369,6 @@ input:checked + label + .content {
 	</p>
 	<table>
 <tbody>
-	<tr>
-<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Commencement of VTP (Air) Application: 22 Feb 2022, 1000hrs, SGT</b></td>
-		</tr>
-	<tr>
-	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Hong Kong, Qatar, Saudi Arabia and the United Arab Emirates</td>
-	</tr>
 	<tr>
 <td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Commencement of VTP (Air) Application: 1 Mar 2022, 1000hrs, SGT</b></td>
 		</tr>
