@@ -1,6 +1,7 @@
 ---
 title: NOTICE
 permalink: /newzealand/atp/notice
+published: false
 ---
 
 ### IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR NEW ZEALAND
