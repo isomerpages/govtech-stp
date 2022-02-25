@@ -197,7 +197,7 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 	
 #### 1. What are the test centres that travellers can go to for their supervised ARTs?
 
-They can visit any of the <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>.
+They can visit any of the <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>.
 
 #### 2. Can travellers choose to undergo the supervised ART at other clinics in Singapore?
 
@@ -213,7 +213,7 @@ No, travellers must use the ART self-test kits provided at the test centres. The
 
 #### 5. How do travellers book their appointments for their supervised ARTs?
 
-Travellers will be provided with a weblink via the contact number and/or email address that they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC) to book their ART at a <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> upon arrival. Click here for more information about the QTC or CTC.
+Travellers will be provided with a weblink via the contact number and/or email address that they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC) to book their ART at a <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> upon arrival. Click here for more information about the QTC or CTC.
  
 #### 6. What do travellers need to bring for their supervised ART appointment?
 
@@ -221,7 +221,7 @@ Travellers will need to bring along a photo identification for verification.
 
 #### 7. Are children required to undergo supervised ARTs?
 
-Children aged 3 to 12 must undergo their supervised ART at the <a href="http://www.moh.gov.sg/covid-19/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
+Children aged 3 to 12 must undergo their supervised ART at the <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
 #### 8. Do travellers need to self-isolate after their supervised ART?
 
