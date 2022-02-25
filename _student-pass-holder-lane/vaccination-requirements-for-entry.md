@@ -119,7 +119,11 @@ permalink: /stpl/vaccination-requirements
 
 <p style="font-size:18px; line-height:1.5;">In addition, they must furnish to the Singapore Government, upon request:</p>
 
-
+<ol style="list-style-type: lower-roman;">
+	<li style="line-height:1.5; font-size:18px;">their vaccination records showing that they are fully vaccinated against COVID-19 in accordance with the requirements set out above (including ingesting their overseas vaccination records in Singapore’s National Immunisation Registry);</li>
+	<li style="line-height:1.5; font-size:18px; margin-top:10px;">the results of their serology test taken in Singapore (for those who were vaccinated overseas and where serology tests are required) and, if such result reflects that they are not fully vaccinated, their vaccination records showing that they are fully vaccinated against COVID-19 in accordance with the requirements set out above; or;</li>
+		<li style="line-height:1.5; font-size:18px;">certification that they are medically ineligible for all vaccines under Singapore’s National Vaccination Programme.</li>
+	</ol>
 
 <div id="summary"></div>
 
