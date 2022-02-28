@@ -4,8 +4,6 @@ collections:
     order:
       - checklists/.keep
       - checklists/travel-checklist-categoryi.md
-      - checklists/travel-checklist-categoryii.md
       - checklists/Travel Checklist Category II III IV.md
-      - checklists/travel-checklist-categoryiii.md
       - checklists/travel-checklist-categoryiv.md
       - checklists/Travel Checklist – Fully Vaccinated & Recovered Traveller.md
