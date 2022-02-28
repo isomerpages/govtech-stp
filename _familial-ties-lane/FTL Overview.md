@@ -44,7 +44,8 @@ description: Overview of the Familial Ties Lane
 	</tr>
 	</tbody>
 	</table>
-<p></p>
+
+
 <table>
 <thead>
 <tr>
@@ -59,7 +60,6 @@ description: Overview of the Familial Ties Lane
 		<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">COVID-19 vaccination is a condition for the granting of new PR, LTVP and Student’s Pass after entry;</li>
 		<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Priority for entry applications will be given to travellers aged 18 and above who are fully vaccinated and can produce proof of vaccination, or under 18 at the point of entry into Singapore and are unvaccinated/partially vaccinated</li>
 	</ol>
-	</p>
 		</td>
 	</tr>
 	</tbody>
