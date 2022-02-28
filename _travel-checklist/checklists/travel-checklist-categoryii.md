@@ -1,6 +1,7 @@
 ---
 title: Travel Checklist - Category(II)
 permalink: /travel-checklist/category-2
+published: false
 ---
 ### Instructions for the use of the Category (II) Travel History Checklist
 
