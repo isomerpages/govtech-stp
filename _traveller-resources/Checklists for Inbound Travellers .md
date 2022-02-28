@@ -19,8 +19,8 @@ permalink: /travel-checklist/overview
 	</li>
 <li style="font-size: 18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Returning Singapore Citizens and Permanent Residents Lane, Familial Ties Lane, and Student’s Pass Lane:
 <ol style="padding-left:20px; list-style-type:disc; margin-top: 10px; margin-bottom:15px;">
-	      <li style="line-height:1.5;font-size:18px;"><a href="/travel-checklist/category-1" target="_blank">Category (I)</a></li>
-	      <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-2-3-4" target="_blank">Category (II)/(III)/(IV)</a></li>
+	      <li style="line-height:1.5;font-size:18px;"><a href="/travel-checklist/category-1" target="_blank">Category (I) – “Low Infection Category”</a></li>
+	      <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-2-3-4" target="_blank">Category (II)/(III)/(IV) – “General Travel Category”</a></li>
 	</ol>
 	</li>
 		<!--<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/rgl/travel-checklist" target="_blank">Reciprocal Green Lane</a>
