@@ -154,7 +154,7 @@ label.box {
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">All travellers, except the groups listed below, <b>must</b> take a Pre-Departure Test (PDT) <b>within 2 days before departure</b> for Singapore:</p>
 	
 <ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Below the age of three in this calendar year; OR</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Aged two or below in this calendar year (i.e. born in or after 2020); OR</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.35; ">Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-checker tool</a>, and can show relevant proof of recovery outlined at Stage 1C.</li>
 	</ol>
 <p style="line-height:1.35; font-size:18px;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">at an internationally accredited or recognised lab/clinic/medical facility</a>, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). This is dependent on your <a href="/shn-and-swab-summary" target="_blank">14-day travel history</a>. The PDT result must not be a handwritten document, and fulfil the following:</p>
