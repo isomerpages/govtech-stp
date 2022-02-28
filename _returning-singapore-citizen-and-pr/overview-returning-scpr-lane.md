@@ -2,9 +2,9 @@
 title: Overview - Returning SC/PR Lane
 permalink: /sc-pr/overview
 ---
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Singapore Citizens (SC) and Permanent Residents (PRs) do not need entry approvals to enter Singapore. All entries by SC/PRs are facilitated under the Returning Singapore Citizen & Permanent Resident Lane. </p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Singapore Citizens (SC) and Permanent Residents (PRs) do not need entry approvals to enter Singapore. They may enter Singapore by default via the Returning Singapore Citizen & Permanent Resident Lane, which is a non-VTL arrangement where prevailing measures such as Stay Home Notice (SHN) may apply if recent travel history includes non-Category (I) countries/regions.</p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>, <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> or <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a> to enjoy quarantine-free measures.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers departing from Vaccinated Travel Lane countries/regions may wish to consider entry via the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>, <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> or <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a> to enjoy quarantine-free measures, but will have to abide by VTL requirements such as travel history and designated transport.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">On this page you will find the following information about the Returning SC/PR Lane:</p>
 
@@ -28,7 +28,7 @@ permalink: /sc-pr/overview
 <tbody>
 	<tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;"><p style="line-height:1.5; font-size:18px;">Singapore Citizens and Singapore Permanent Residents only</p>
-<p style="line-height:1.5; font-size:18px; margin-top:20px;">PR In-Principle Approval holders will seek entry via the <a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a>. If you are ineligible, identify an alternative entry option by returning to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.</p></td>
+<p style="line-height:1.5; font-size:18px; margin-top:20px;">PR In-Principle Approval holders must seek entry via the <a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a>. If you are ineligible, identify an alternative entry option by returning to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.</p></td>
 </tr>
 </tbody>
 </table>
