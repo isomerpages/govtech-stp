@@ -54,11 +54,10 @@ description: Overview of the Familial Ties Lane
 <tbody>
 	<tr>
 		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
-	<p style="line-height:1.5; margin-bottom:10px; font-size:18px; ">There is <b style="color:red;">no</b> vaccination requirement for all entries made under FTL. However, COVID-19 vaccination is a condition for the granting of new PR, LTVP and Student’s Pass.</p>
-	<p style="line-height:1.5; font-size:18px; ">While travellers need not be vaccinated before entry, priority will be accorded to travellers:
+	<p style="line-height:1.5; margin-bottom:10px; font-size:18px; ">There is <b style="color:red;">no</b> vaccination requirement for all entries made under FTL. However, note that:</p>
 	<ol style="margin-top:0px; margin-bottom:0px;">
-		<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Aged 18 and above who are fully vaccinated and can produce proof of vaccination; OR</li>
-		<li style="line-height:1.5;font-size:18px; margin-top:10px; list-style-type:lower-roman;">Under 18 at the point of entry into Singapore and are unvaccinated/partially vaccinated </li>
+		<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">COVID-19 vaccination is a condition for the granting of new PR, LTVP and Student’s Pass after entry;</li>
+		<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Priority for entry applications will be given to travellers aged 18 and above who are fully vaccinated and can produce proof of vaccination, or under 18 at the point of entry into Singapore and are unvaccinated/partially vaccinated</li>
 	</ol>
 	</p>
 		</td>
@@ -75,8 +74,8 @@ description: Overview of the Familial Ties Lane
 ### 2) Entry Application and Approval
 
 <p style="font-size:18px; line-height:1.5;">Entry approvals <b>are not required</b> if the traveller:<ol style="margin-top:0px; margin-bottom:0px;">
-	<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;">Holds a Singapore-issued long-term pass (including IPA), and can produce a valid long-term pass and proof of vaccination* during entry; OR</li>
-	<li style="line-height:1.5;font-size:18px;margin-top:10px;  list-style-type:lower-roman;">Is unvaccinated/partially vaccinated on medical grounds, and can produce medical proof to be an unsuitable vaccination candidate.</li>
+	<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;"> Holds a Singapore-issued long-term pass (including IPA), and can produce a valid long-term pass and proof of vaccination* during entry; OR</li>
+	<li style="line-height:1.5;font-size:18px;margin-top:10px;  list-style-type:lower-roman;"> Is unvaccinated/partially vaccinated on medical grounds, and can produce medical proof to be an unsuitable vaccination candidate.</li>
 	</ol>
 	</p>
 <p style="font-size:14px; margin-bottom:10px; line-height:1.5;">(*Exempted for travellers below the age of 12 this calendar year.)</p>
