@@ -94,7 +94,7 @@ Travellers can refer to the checklists below to have a sense of what baseline en
 	</tbody>
 	</table>
 
-<p style="margin-bottom:10px; line-height:1.5;">Fully vaccinated travellers who can produce credible proof of having recovered from COVID-19 in the past 7 – 90 days before departure from Singapore can use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this self check tool</a> to determine their eligibility, and eligible travellers should refer to the <a href="/vaccinated-recovered" target="_blank">Recovered-Vaccinated Travel Protocol</a> instead.</p>
+<p style="margin-bottom:10px; line-height:1.5;">Fully vaccinated travellers who can produce credible proof of having recovered from COVID-19 in the past 7 – 90 days before departure for Singapore can use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this self check tool</a> to determine their eligibility, and eligible travellers should refer to the <a href="/vaccinated-recovered" target="_blank">Recovered-Vaccinated Travel Protocol</a> instead.</p>
 
 ---
 
