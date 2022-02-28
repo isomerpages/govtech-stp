@@ -303,7 +303,7 @@ label.box {
 <p style="font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">The vaccination status of all fully vaccinated VTL (Land) travellers vaccinated outside Singapore will be automatically reflected on their <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a> <b>1 day</b> after arrival in Singapore.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">All travellers must comply with the latest public health measures. This includes the use of the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Please visit the <a target="_blank" href="https://moh.gov.sg/covid-19-phase-advisory">Ministry of Health website</a> for details on the prevailing measures.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in).</p>
-</div></div>
+</div>
 
 
 
