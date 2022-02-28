@@ -8,7 +8,7 @@ description: ""
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35"><span style="color:red;"><b>Travellers intending to travel out of Singapore to a country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</b></span></p>
 </div>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35"></p>
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;">
+<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>NOTICE:</u></b></p>
 		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.35;color:black;">The following measures are applicable for VTL travellers <b>entering Singapore from 21 Feb 2022, 2359h (SGT)</b>.</p>
 			<ol style="font-size:16px; margin-top:20px; margin-bottom:0px; color:black;">
@@ -18,7 +18,7 @@ description: ""
 								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Unsupervised self-administered ARTs will no longer be required on Days 2 to 7 of arrival in Singapore.</li>
 	</ol>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.35;color:black;">VTL travellers who enter Singapore <b>before 21 Feb 2022, 2359h (SGT)</b> are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7.)</p>
-</div>
+</div>-->
 
 
 ### Click to jump to the following sections:
@@ -362,13 +362,13 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 
 <input class="accordion" type="checkbox" id="Indonesia-cert">
 <label class="accordion" for="Indonesia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Indonesia</b></label>	
-<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>International COVID-19 Vaccination Certificate issued via the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a>
+<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p><u>International</u> COVID-19 Vaccination Certificate available via the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a> by selecting 'Overseas Travel Certificate'.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code on the <a href="https://verify.kemkes.go.id/" target="_blank">Kementerian Kesehatan Republik Indonesia website</a></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
-    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose.</li>
+    <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One, indicating information on the final dose. <b>Please ensure you use the international format available via the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a> by selecting 'Overseas Travel Certificate'.</b></li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br>	<td style="border:0px;"><img style="width:84px; height:120px; vertical-align:middle;" src="/images/QR_Indonesia.png"></td></li>
     </ol>
 </div>
@@ -580,8 +580,25 @@ To obtain an <b>'International Travel Certificate'</b>:
 - Now, enter all the required details such as your passport number and DOB.
 - Click on the 'Submit Request' option to get your 'International Travel Certificate'.
 
+#### 4. My vaccination certificate was issued in Indonesia, but I am having issues uploading the QR code. What's going wrong?
 
-#### 4. My vaccination certificate was issued in Thailand, but I am having issues uploading the QR code. What's going wrong?
+Please attempt re-uploading your QR code and ensure that you have the <u>international</u> COVID-19 vaccine certificate. A sample is as below. If not, please obtain one on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a> by selecting 'Overseas Travel Certificate'.
+
+<table>
+<tbody>
+<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#f16566; color:white; text-align:center;"><b>NOT Valid for Travel</b></td>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle; background-color:#153855; color:white; text-align:center;"><b>Valid for Travel</b></td>
+		</tr>
+<tr>
+<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/IndonesiaVaxCert_1.png" width="auto" height="auto"></td>
+	<td style="font-size: 15px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><img src="/images/IndonesiaVaxCert_2.png" width="auto" height="auto"></td>
+			</tr>
+</tbody>
+</table>
+
+
+#### 5. My vaccination certificate was issued in Thailand, but I am having issues uploading the QR code. What's going wrong?
 
 Please attempt re-uploading your QR code and ensure that you have the <b>'International'</b> version. A sample is as below. If not, please obtain one on the Mor Prom app by selecting 'International Certificate'.
 
@@ -598,7 +615,7 @@ Please attempt re-uploading your QR code and ensure that you have the <b>'Intern
 </tbody>
 </table>
 
-#### 5. My vaccination certificate was issued in the UAE, but I am having issues uploading the QR code. What's going wrong?
+#### 6. My vaccination certificate was issued in the UAE, but I am having issues uploading the QR code. What's going wrong?
 
 Please attempt uploading your QR code and ensure that you have the '<b>Travel</b>' version. A sample is as below. If not, please obtain one on the <a target="_blank" href="https://alhosnapp.ae/en/home">AlHosn app</a> by selecting 'Travel pass'.
 
@@ -618,7 +635,7 @@ Please attempt uploading your QR code and ensure that you have the '<b>Travel</b
 
 <div id="mismatch-error"></div>
 
-#### 6. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP?
+#### 7. My full name in my travel documentation (e.g. passport) has special or accented characters. How should I key my name in when applying for a VTP?
 
 Please refer to the table below. 
 <table>
@@ -676,7 +693,7 @@ If you are still facing name mismatch errors, please write to the Safe Travel Of
 
 
 
-#### 7. Why are only SMART Health Cards by certain issuers accepted?
+#### 8. Why are only SMART Health Cards by certain issuers accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
 
@@ -950,7 +967,6 @@ Please email <a href="mailto:testingops@hpb.gov.sg" target="_blank">testingops@h
 
 ### (7) Post-Arrival Regular COVID-19 Antigen Rapid Tests (ARTs)
 
-<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Note: Travellers who enter Singapore before 21 Feb 2022, 2359h, are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7.</span></i></p> 
 <p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo post-arrival ARTs. Fully vaccinated recently-recovered travellers entering Singapore may qualify for exemption from the post-arrival COVID-19 ARTs. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</span></i></p>
 
 

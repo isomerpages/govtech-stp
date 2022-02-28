@@ -5,15 +5,8 @@ description: ""
 third_nav_title: VTL Air
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>NOTICE:</u></b></p>
-		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">Please note the following key changes for VTL travellers <b>entering Singapore from 21 Feb 2022, 2359h (SGT)</b>.</p>
-			<ol style="font-size:16px; margin-top:20px; margin-bottom:0px; color:black;">
-				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;  color:black;">Long-Term Pass holders (including In-Principle Approval (IPA) holders but excluding Work Permit holders) are no longer required to apply for a Vaccinated Travel Pass (VTP).</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Assessed travel history has been reduced from 14 days to 7 days</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">On-arrival Polymerase Chain Reaction (PCR) test at the airport will be replaced with a supervised self-administered Antigen Rapid Test (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC), to be completed within 24 hours of arrival in Singapore. Travellers who have prepaid for the PCR test can expect a refund from the Changi Airport Group (CAG) for their unutilised test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</li>
-								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Unsupervised self-administered ARTs will no longer be required on Days 2 to 7 of arrival in Singapore.</li>
-	</ol>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;color:black;">VTL travellers who have entered Singapore <b>before 21 Feb 2022, 2359h (SGT)</b> are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7).</p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><span style="color:red; font-size:20px;">⚠&nbsp;</span><b>Important Note</b><span style="color:red; font-size:20px;">&nbsp;⚠</span></p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Travellers who are not familiar with Singapore’s entry requirements or reached this page via search engine for the first time are advised to use this <a href="/arriving/overview#selfhelptool" target="_blank">self-help tool</a> to determine if they should be entering via the VTL or other non-VTL arrangements. Transit travellers should refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information.</p>
 </div>
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;">The Vaccinated Travel Lane (Air) [VTL (Air)] allows quarantine-free travel to Singapore <b>via air only</b>. Please note that:</p>

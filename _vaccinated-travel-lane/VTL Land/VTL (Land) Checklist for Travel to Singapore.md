@@ -298,12 +298,16 @@ label.box {
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="postarrivaltests"><input id="4A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="4A">&nbsp;&nbsp;<b>(4A) [For travellers arriving before 21 Feb 2022, 2359H only] Post-Arrival Daily COVID-19 Tests</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="4A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="4A">&nbsp;&nbsp;<b>(4A) COVID-19 Safe Management Measures and Proof of Vaccination</b></label></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Travellers are required to take unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival before they leave their place of residence or accommodation for the day, in addition to fulfilling their pre-departure and on-arrival testing requirements. The ART kits should be <a target="_blank" href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests">self-procured</a>. Travellers do not need to submit their ART results.</p>
-	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">❌</span>&nbsp;Children aged two and below in this calendar year (i.e. born in or after 2020) are exempted from this requirement.</p>
-	<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><span style="color:red;">❌</span>&nbsp;  <a target="_blank" href="/vaccinated-recovered">Recently-recovered travellers</a> who are fully vaccinated are exempted from this requirement.</p>
-	<!--<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Mandatory Testing Schedule</b></p>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">The vaccination status of all fully vaccinated VTL (Land) travellers vaccinated outside Singapore will be automatically reflected on their <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a> <b>1 day</b> after arrival in Singapore.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">All travellers must comply with the latest public health measures. This includes the use of the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Please visit the <a target="_blank" href="https://moh.gov.sg/covid-19-phase-advisory">Ministry of Health website</a> for details on the prevailing measures.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in).</p>
+</div>
+
+
+
+<!--<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>Mandatory Testing Schedule</b></p>
 <table>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;vertical-align:middle;width:200px;"><b>Day of Arrival in Singapore</b></td>
@@ -346,11 +350,3 @@ label.box {
 <p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b style="color:red;">Note:</b></p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers leaving Singapore any time between Day 2 and 7 (both dates inclusive) of their arrival are exempted from taking the self-administered ART or supervised ART on their day of departure. The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.</p>
 	</div>-->
-
-
-<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="4B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="4B">&nbsp;&nbsp;<b>(4B) COVID-19 Safe Management Measures and Proof of Vaccination</b></label></div>
-<div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">The vaccination status of all fully vaccinated VTL (Land) travellers vaccinated outside Singapore will be automatically reflected on their <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a> <b>1 day</b> after arrival in Singapore.</p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">All travellers must comply with the latest public health measures. This includes the use of the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Please visit the <a target="_blank" href="https://moh.gov.sg/covid-19-phase-advisory">Ministry of Health website</a> for details on the prevailing measures.</p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in).</p>
-</div></div>
