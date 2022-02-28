@@ -17,27 +17,11 @@ permalink: /travel-checklist/overview
 	</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/wphl/shn-and-swab-summary" target="_blank">Work Pass Holder Lane</a>
 	</li>
-<li style="font-size: 18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Returning Singapore Citizens and Permanent Residents Lane, Familial Ties Lane, and Student’s Pass Lane <p></p>
-<table>
-  <thead>
-    <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Arrivals before 21 Feb 2022, 2359h SGT</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Arrivals from 21 Feb 2022, 2359h SGT</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><ol style="list-style-type:disc;">
-	      <li style="line-height:1.5;font-size:18px;"><a href="/travel-checklist/category-1"  target="_blank">Category (I)</a></li>
-	       <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-2"  target="_blank">Category (II)</a></li>
-	       <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-3" target="_blank">Category (III)</a></li>
-	       <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-4" target="_blank">Category (IV)</a></li>
-	      </ol></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><ol style="list-style-type:disc;">
+<li style="font-size: 18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Returning Singapore Citizens and Permanent Residents Lane, Familial Ties Lane, and Student’s Pass Lane:
+<ol style="list-style-type:disc;">
 	      <li style="line-height:1.5;font-size:18px;"><a href="/travel-checklist/category-1" target="_blank">Category (I)</a></li>
-	      <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-2-3-4" target="_blank">Category (II)/(III)/(IV)</a></li></ol></td>
-    </tr>
-				</tbody>
-			</table>			
+	      <li style="line-height:1.5;margin-top:10px;font-size:18px;"><a href="/travel-checklist/category-2-3-4" target="_blank">Category (II)/(III)/(IV)</a></li>
+	</ol>
 	</li>
 		<!--<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/rgl/travel-checklist" target="_blank">Reciprocal Green Lane</a>
 	</li>
