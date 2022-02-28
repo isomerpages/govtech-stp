@@ -63,7 +63,11 @@ permalink: /sc-pr/overview
 
 ### 3) Health and Administrative Protocols
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The Returning SC/PR lane does not afford travellers quarantine-free access provided under the Vaccinated Travel Lane (Air), (Land) or (Sea). The prevailing health measures described under Categories I, II, III or IV, will apply depending on the traveller’s travel history.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Prevailing health measures will apply depending on the traveller’s 7-day travel history before arriving in Singapore. Travel history excludes transits that are less than 24 hours, and the more stringent Category II/III/IV (General Travel Category) measures will apply if you have visited such countries/regions.</p>
+
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Fully vaccinated travellers who can produce credible proof of having recovered from COVID-19 in the past 7 – 90 days before departure from Singapore can use <a href="" target="_blank">this self check tool</a> to determine their eligibility, and eligible travellers should refer to the Recovered-Vaccinated Travel Protocol instead.</p>
+
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">After you have determined the Category of health measures that apply to you, please read the detailed traveller checklist for the exact travel requirements to ensure you do not miss any steps.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Click here for the <a href="/shn-and-swab-summary" target="_blank">travel categories</a> before referring to the checklists below for detailed entry instructions.</p>
 
