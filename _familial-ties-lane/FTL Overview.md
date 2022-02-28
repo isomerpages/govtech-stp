@@ -73,11 +73,11 @@ description: Overview of the Familial Ties Lane
 
 ### 2) Entry Application and Approval
 
-<p style="font-size:18px; line-height:1.5;">Entry approvals <b>are not required</b> if the traveller:<ol style="margin-top:0px; margin-bottom:0px;">
+<p style="font-size:18px; line-height:1.5;">Entry approvals <b>are not required</b> if the traveller:</p>
+<ol style="margin-top:0px; margin-bottom:0px;">
 	<li style="line-height:1.5;font-size:18px; list-style-type:lower-roman;"> Holds a Singapore-issued long-term pass (including IPA), and can produce a valid long-term pass and proof of vaccination* during entry; OR</li>
 	<li style="line-height:1.5;font-size:18px;margin-top:10px;  list-style-type:lower-roman;"> Is unvaccinated/partially vaccinated on medical grounds, and can produce medical proof to be an unsuitable vaccination candidate.</li>
 	</ol>
-	</p>
 <p style="font-size:14px; margin-bottom:10px; line-height:1.5;">(*Exempted for travellers below the age of 12 this calendar year.)</p>
 
 <p style="font-size:18px; margin-bottom:15px; line-height:1.5;">Entry approvals <b>are still required</b> for the following:</p>
