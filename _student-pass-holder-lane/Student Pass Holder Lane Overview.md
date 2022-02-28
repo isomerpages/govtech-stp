@@ -110,7 +110,7 @@ description: Overview of the Student Pass Holder Lane
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Prevailing health measures will apply depending on the traveller’s 7-day travel history before arriving in Singapore. Travel history excludes transits that are less than 24 hours, and the more stringent Category II/III/IV (General Travel Category) measures will apply if you have visited those countries/regions.</p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Fully vaccinated travellers who can produce credible proof of having recovered from COVID-19 in the past 7 – 90 days before departure from Singapore can use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this self check tool</a> to determine their eligibility, and eligible travellers should refer to the <a href="/vaccinated-recovered" target="_blank">Recovered-Vaccinated Travel Protocol</a> instead.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Fully vaccinated travellers who can produce credible proof of having recovered from COVID-19 in the past 7 – 90 days before departure for Singapore can use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this self check tool</a> to determine their eligibility, and eligible travellers should refer to the <a href="/vaccinated-recovered" target="_blank">Recovered-Vaccinated Travel Protocol</a> instead.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">After you have determined the Category of health measures that apply to you, please read the detailed traveller checklist for the exact travel requirements to ensure you do not miss any steps.</p>
 
