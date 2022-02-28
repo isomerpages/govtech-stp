@@ -6,7 +6,7 @@ third_nav_title: VTL Air
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><span style="color:red; font-size:20px;">⚠&nbsp;</span><b>Important Note</b><span style="color:red; font-size:20px;">&nbsp;⚠</span></p>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Travellers who are not familiar with Singapore’s entry requirements or arriving here via search engine for the first time are advised to use this <a href="/arriving/overview#selfhelptool" target="_blank">self-help tool</a> to determine if they should be entering via the VTL or other non-VTL arrangements. Transit travellers should refer to the <a href="/transit/overview" target="_blank">Transiting through Singapore</a> page for more information.</p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Travellers who are not familiar with Singapore’s entry requirements or arriving here via search engine for the first time are advised to use this <a href="/arriving/overview#selfhelptool" target="_blank">self-help tool</a> to determine if they should be entering via the VTL or other non-VTL arrangements. Transit travellers should refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information.</p>
 </div>
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;">The Vaccinated Travel Lane (Air) [VTL (Air)] allows quarantine-free travel to Singapore <b>via air only</b>. Please note that:</p>
