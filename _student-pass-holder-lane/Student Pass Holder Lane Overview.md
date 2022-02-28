@@ -84,7 +84,7 @@ description: Overview of the Student Pass Holder Lane
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The traveller must produce a valid long-term pass/ IPA letter and proof of vaccination during onboarding. Travellers who meet the above-mentioned criteria, but had earlier obtained an entry approval letter issued under the Student’s Pass Lane, will no longer require the entry approval letter.</p>
 
-<p style="font-size:18px; margin-bottom:15px; line-height:1.5;">Entry approvals are still required for the following:</p>
+<p style="font-size:18px; margin-bottom:15px; line-height:1.5;"><b>Entry approvals are still required for the following:</b></p>
 
 <table>
   <thead>
