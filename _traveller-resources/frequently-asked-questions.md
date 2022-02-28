@@ -163,7 +163,7 @@ Click here to [Go Back To Top](#top).
 
 #### 1. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
-Travellers arriving from countries requiring a COVID-19 test must do so if they are three years old and above this calendar year. Individuals below the age of three this calendar year are, by default, exempted from this testing requirement. 
+Travellers arriving from countries requiring a COVID-19 test must do so if they are three years old and above this calendar year. Individuals aged two or below this calendar year (i.e. born in or after 2020) are, by default, exempted from this testing requirement. 
 
 
 #### 2. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from COVID-19 Polymerase Chain Reaction Tests (“PCR test”) ?
