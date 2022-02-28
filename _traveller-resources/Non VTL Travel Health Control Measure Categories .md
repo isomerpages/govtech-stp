@@ -1,5 +1,5 @@
 ---
-title: "Non VTL Travel Health Control Measure Categories "
+title: "Non-VTL Travel Health Control Measure Categories "
 permalink: /shn-and-swab-summary
 description: Only applicable for specific SafeTravel Lanes, check the Travelling
   to Singapore page for full list of SafeTravel lanes and requirements
