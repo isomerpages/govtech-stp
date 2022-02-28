@@ -30,7 +30,9 @@ This page is only meant as quick reference for the categories of travel health c
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; vertical-align:middle;">All other countries/regions</p></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><ol style="list-style-type:disc; vertical-align: middle;"><li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Pre-Departure Test 2 days before departure</li>
 <li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">7-day Stay Home Notice</li>
-<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">COVID-19 PCR test to exit SHN</li></td>
+<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">COVID-19 PCR test to exit SHN</li>
+				</ol>
+				</td>
     </tr>
 		 <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><p style="margin-top:15px; margin-bottom:0px; font-size:18px; vertical-align:middle; line-height: 1.35;"><b>Restricted Category</b></p> 
