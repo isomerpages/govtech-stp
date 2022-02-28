@@ -4,7 +4,7 @@ permalink: /vtl/requirements-and-process
 description: ""
 third_nav_title: VTL Air
 ---
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>NOTICE:</u></b></p>
 		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">Please note the following key changes for VTL travellers <b>entering Singapore from 21 Feb 2022, 2359h (SGT)</b>.</p>
 			<ol style="font-size:16px; margin-top:20px; margin-bottom:0px; color:black;">
@@ -14,7 +14,7 @@ third_nav_title: VTL Air
 								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">Unsupervised self-administered ARTs will no longer be required on Days 2 to 7 of arrival in Singapore.</li>
 	</ol>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;color:black;">VTL travellers who have entered Singapore <b>before 21 Feb 2022, 2359h (SGT)</b> are required to continue with the existing testing regime (i.e. on-arrival PCR test and unsupervised self-administered ARTs from Days 2 to 7).</p>
-</div>
+</div>-->
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;">The Vaccinated Travel Lane (Air) [VTL (Air)] allows quarantine-free travel to Singapore <b>via air only</b>. Please note that:</p>
 
