@@ -38,7 +38,7 @@ third_nav_title: VTL Land
 <br>
 <li>Those unable to use a mobile device due to a certified disability or special needs, or are unable download/register for a TraceTogether app may <a href="/health/tt-for-travellers#token" target="_blank">obtain a TraceTogether Token at designated locations in Singapore</a>. They must carry the TraceTogether tokens issued to them at all times while in Singapore.</li>
 <br>
-	<li>The requirements in <b>Conditions 2(d), (f), (g) and (h)</b> do not apply to children aged 2 and below in the calendar year and <a href="/vaccinated-recovered" target="_blank">recovered travellers</a> who are fully vaccinated.</li>
+	<li>The requirements in <b>Conditions 2(d), (f), (g) and (h)</b> do not apply to children aged 2 and below in the calendar year (i.e. born in or after 2020) and <a href="/vaccinated-recovered" target="_blank">recovered travellers</a> who are fully vaccinated.</li>
 <br>
 	<li>The requirements in <b>Conditions 2(d)</b> do not apply to recovered travellers who are not fully vaccinated.</li>
 	<br>
