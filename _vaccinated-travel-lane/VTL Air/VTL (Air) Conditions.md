@@ -54,7 +54,7 @@ Please refer to the applicable VTL (Air) Conditions based on your date of entry 
   <br>
     <li style="font-size:20px; list-style-type:decimal;"> Those unable to use a mobile device due to a certified disability or special need and those who are unable to download/register for the TraceTogether app may <a href="/health/tt-for-travellers#token" target="_blank">obtain a TraceTogether token</a>. They must carry the TraceTogether token issued to them while in Singapore;</li>
 	<br>
-	<li style="font-size:20px; list-style-type:decimal;">The requirements in Conditions 2(d), (e) and (f) do not apply to children aged 2 and below in the calendar year and fully vaccinated recovered travellers.</li>
+	<li style="font-size:20px; list-style-type:decimal;">The requirements in Conditions 2(d), (e) and (f) do not apply to children aged 2 and below in the calendar year (i.e. born in or after 2020) and fully vaccinated recovered travellers.</li>
   <br>
    <li style="font-size:20px; list-style-type:decimal;"> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL (Air) or cancellation of the VTP (Air) at short notice. </li> <br>
 	<li style="font-size:20px; list-style-type:decimal;">A VTP holder who fails to undergo the required COVID-19 tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.</li>
