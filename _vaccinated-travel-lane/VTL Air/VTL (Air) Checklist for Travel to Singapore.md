@@ -565,7 +565,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">All travellers, except the groups listed below, must take a Pre-Departure Test (PDT) within 2 days before departure for Singapore:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Below the age of three in this calendar year; OR</li>
+		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Aged two or below in this calendar year (i.e. born in or after 2020); OR</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this <a target="_blank" href="https://go.gov.sg/recovered-traveller-checker">self-checker tool</a>, and can show relevant proof of recovery outlined at <a href="#1F">Stage 1F</a>. </li>
 	</ol>
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) at an <a target="_blank" href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a>, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). The PDT result must not be a handwritten document, and fulfil the following: </p>

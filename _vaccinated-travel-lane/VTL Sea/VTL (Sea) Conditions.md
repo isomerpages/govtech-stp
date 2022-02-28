@@ -51,7 +51,7 @@ third_nav_title: VTL Sea
     <li style="font-size:20px; list-style-type:decimal;"> Those unable to use a mobile device due to a certified disability or special need and those who are unable to download/register for the TraceTogether app may <a href="/health/tt-for-travellers#token" target="_blank">obtain a TraceTogether token</a>. They must carry the TraceTogether token issued to them while in Singapore and return their token at any checkpoint prior to their departure from Singapore.
 </li>
 	<br>
-	<li style="font-size:20px; list-style-type:decimal;">The requirements in Conditions 2(D) and (E) do not apply to children aged 2 and below in the calendar year and fully vaccinated recovered travellers.</li>
+	<li style="font-size:20px; list-style-type:decimal;">The requirements in Conditions 2(D) and (E) do not apply to children aged 2 and below in the calendar year (i.e. born in or after 2020) and fully vaccinated recovered travellers.</li>
 	<br>
    <li style="font-size:20px; list-style-type:decimal;"> The requirements in Conditions 2(H) and (I) do not apply to Singapore Citizens, Permanent Residents and Long-Term Pass (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) holders. However, they are encouraged to have a return ferry ticket to secure their travel dates and also download the TraceTogether app on their mobile device and keep the TraceTogether app activated at all times. 
   </li>
