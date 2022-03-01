@@ -907,7 +907,7 @@ They can visit any of the <a href="http://www.moh.gov.sg/covid-19/quick-test-cen
 
 VTL (Land) travellers can also perform their supervised ARTs at Woodlands and Queen Street bus terminals on arrival.  
 
-Travellers can also undergo the on-arrival COVID-19 ART test at other clinics or hospitals in Singapore that provide such services. However, the cost of the COVID-19 ART test may be higher than those at the QTC/CTCs.
+<!--Travellers can also undergo the on-arrival COVID-19 ART test at other clinics or hospitals in Singapore that provide such services. However, the cost of the COVID-19 ART test may be higher than those at the QTC/CTCs.-->
 
 
 #### 2. Can travellers bring their own ART self-test kits to the test centres?
