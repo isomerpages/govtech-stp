@@ -419,13 +419,13 @@ input:checked + label + .content {
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left;vertical-align:middle; padding:10px;">3. Valid Vaccinated Travel Pass (VTP)</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
-					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
+					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
 					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
 </tr>	
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left;vertical-align:middle; padding:10px;">4. COVID-19 Insurance Policy</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
-								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✕</td>
+								<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓&nbsp;<sup>#</sup></td>
 									<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
 </tr>	
 				<tr>
@@ -436,7 +436,9 @@ input:checked + label + .content {
 </tr>	
 </tbody>
 </table>
+
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">* <i>MOM LTPHs may obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</i></p>
+<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;"><sup>#</sup> <i>Eligible Work Permit Holders may refer to MOM's websiite <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-and-shn-requirements-for-foreign-employees#what-are-the-covid-19-insurance-requirements-for-workers-entering-singapore" target="_blank">here</a> for more information on the insurance requirements.</i></p>
 
 <div id="FAQ"></div>
 
