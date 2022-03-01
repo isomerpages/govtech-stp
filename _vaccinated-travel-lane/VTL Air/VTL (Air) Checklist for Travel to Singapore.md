@@ -323,7 +323,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 </div>	
 
 <input id="Philippines-cert" type="checkbox" class="accordion">
-<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Philippines-cert" class="accordion"><b>Philippines <i>[For applications from 1 Mar 2022, 1000h]</i></b></label>
+<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Philippines-cert" class="accordion"><b>Philippines</b></label>
 	<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>COVID-19 Vaccination Certificate (<a href="https://vaxcert.doh.gov.ph/" target="_blank">VaxCertPH</a>) issued by the Department of Health
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:</p>

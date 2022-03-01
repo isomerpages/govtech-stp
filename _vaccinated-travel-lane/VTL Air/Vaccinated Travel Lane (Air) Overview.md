@@ -218,7 +218,7 @@ input:checked + label + .content {
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>India:</b> Covid-19 Vaccination Certificate in the international format, available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.</li>	
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> International COVID-19 Vaccination Certificate issued via the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Malaysia:</b> Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a href="https://mysejahtera.malaysia.gov.my/intro_en/" target="_blank">MySejahtera app</a></li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Philippines [For applications from 1 Mar 2022, 1000h]: </b> COVID-19 Vaccination Certificate (<a href="https://vaxcert.doh.gov.ph/" target="_blank">VaxCertPH</a>) issued by the Department of Health</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Philippines: </b> COVID-19 Vaccination Certificate (<a href="https://vaxcert.doh.gov.ph/" target="_blank">VaxCertPH</a>) issued by the Department of Health</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Qatar:</b> COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a target="_blank" href="https://cert-covid19.moph.gov.qa/Home/Index">website</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Republic of Korea:</b> Static vaccination certificate QR code on the <a target="_blank" href="https://ncv.kdca.go.kr/coov">COOV app</a> or COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA) downloaded from the <a target="blank" href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&amp;MnLv2=3">KDCA website</a></li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a target="_blank" href="https://ta.sdaia.gov.sa/en/index">Tawakkalna app</a></li>
@@ -360,16 +360,6 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (AIR) [VTP(AIR)]</b>
 	</p>
-	<table>
-<tbody>
-	<tr>
-<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Commencement of VTP (Air) Application: 1 Mar 2022, 1000hrs, SGT</b></td>
-		</tr>
-	<tr>
-	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Israel and the Philippines</td>
-	</tr>
-	</tbody>
-	</table>
 	<ol style="margin-top:0px; list-style-type:disc;">
 					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">	Long-Term Pass holders (excluding Work Permit holders) do not need to apply for a VTP (Air).  </li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTP (Air) applications are open for travellers intending to enter Singapore <b>3-60 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
@@ -395,13 +385,7 @@ input:checked + label + .content {
 ### 4. COVID-19 Tests and Documents Required
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.35;">Travellers who are eligible for VTL (Air), and have obtained their Vaccinated Travel Pass if needed, should refer to this <a target="_blank" href="/vtl/travel-checklist">VTL (Air) traveller checklist</a> for the full list of requirements to complete VTL (Air) travel. </p>
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers arriving <b>before 21 Feb 2022, 2359h</b> will need to undergo the following COVID-19 tests:</p>
-<ol style="margin-top:0px; list-style-type: disc;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or professionally administered Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 PCR test upon arrival at Singapore Changi Airport (S$125, <a href="https://safetravel.changiairport.com/" target="_blank">payment here</a>)</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation,  in addition to fulfilling their pre-departure and on-arrival testing requirements.</li>
-	</ol> 
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers entering Singapore <b>from 21 Feb 2022, 2359h</b> will only need to undergo the following COVID-19 tests:</p>
+<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers will need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 PCR or professionally administered ART taken within 2 days before departure for Singapore</li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at a <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li>
@@ -410,7 +394,6 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">For their journey to Singapore, travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. The table below summarises the key documents travellers have to bring along.</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">The following table is applicable to travellers entering Singapore <b>from 21 Feb 2022, 2359h</b>:</p>
 <table>
 <thead>
 <tr>
