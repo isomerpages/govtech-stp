@@ -317,7 +317,6 @@ Fully vaccinated and recently recovered travellers may qualify for exemption fro
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#THReq" target="_blank">Travel History</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#PDT" target="_blank">Pre-departure test for travel to Singapore</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#OAT" target="_blank">On-arrival Test</a></li>
-	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#postarrivaltests" target="_blank">Post-Arrival COVID-19 ARTs</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/vtl/faq#vtltransport" target="_blank">Bus Services</a></li>
 	<li style="font-size:18px; line-height:1.4;"><a href="/files/VTL-Land-4.PNG" target="_blank">Useful weblinks</a></li>
 </ol>

@@ -27,7 +27,7 @@ Currently, Brunei Darussalam and selected regions in Mainland China (i.e. Chongq
 <tr>
 <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;">Mainland China 
 </td>
-<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><a href="/atp/overview">Air Travel Pass</a>
+<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><a href="/atp/requirements-and-process">Air Travel Pass</a>
 </td>
 </tr>
 </tbody>
