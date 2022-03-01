@@ -16,7 +16,14 @@ On this page, you will find the following information regarding transiting in Si
 
 ### 1. Eligibility
 
-<p style="font-size:20px; line-height:1.35;">Travellers are advised to check with their airlines if they accept passengers transiting through Singapore before purchasing tickets<b> Travellers do not need to obtain approvals under any Safe Travel Lane (e.g. Vaccinated Travel Lane) to transit in Singapore.</b></p>				
+<p style="font-size:20px; line-height:1.35;">Travellers are advised to check with their airlines if they accept passengers transiting through Singapore before purchasing tickets. <b>Travellers do not need to obtain approvals under any Safe Travel Lane (e.g. Vaccinated Travel Lane) to transit in Singapore. Airlines and travellers also do not need to seek approval from the Civil Aviation Authority of Singapore (CAAS) to transit in Singapore.</b></p>				
+
+
+<!--<p style="font-size:20px; line-height:1.35;"><b>Travellers do not need to obtain approvals under any Safe Travel Lane (e.g. Vaccinated Travel Lane) to transit in Singapore. Airlines and travellers also do not need to seek approval from the Civil Aviation Authority of Singapore (CAAS) to transit in Singapore.</b></p>				
+
+<p style="font-size:20px; line-height:1.35;">However, travellers are advised to check with their airlines if they accept passengers transiting through Singapore, as well as the flight requirements, before purchasing their tickets. They should also check with the local authorities of their destination country/region regarding the on-arrival immigration requirements when transiting from Singapore to their destination country/region.</p>-->
+
+
 
 
 <div id="PDT"></div>
