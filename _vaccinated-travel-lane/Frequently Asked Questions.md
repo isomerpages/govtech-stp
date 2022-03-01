@@ -37,7 +37,6 @@ description: ""
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Test</a></li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#vtltransport">Designated VTL Transport</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 Test and Self-Isolation</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#postarrivaltests">Post-Arrival COVID-19 Antigen Rapid Tests (ARTs)</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#AdditionalReq">Additional Requirements for Short-Term Visitors:</a>
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
@@ -962,49 +961,10 @@ Please email <a href="mailto:testingops@hpb.gov.sg" target="_blank">testingops@h
 
 ---
  
- <div id="postarrivaltests"></div>
- 
-
-### (7) Post-Arrival Regular COVID-19 Antigen Rapid Tests (ARTs)
-
-<p style="font-size:16px; color:red;line-height:1.4;"><i><span style="color:red;">Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo post-arrival ARTs. Fully vaccinated recently-recovered travellers entering Singapore may qualify for exemption from the post-arrival COVID-19 ARTs. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</span></i></p>
-
-
-#### 1. What should travellers do if they test positive for COVID-19 on any of their ARTs?
-
-Travellers who test positive on the unsupervised self-administered ARTs will no longer need to undergo a confirmatory PCR test. Should you test positive, you must abide by the relevant COVID-19 recovery protocol immediately. You may refer to <a href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor" target="_blank"> this link</a> for more details on Protocol 2. 
-
-For more information on what to do if you feel unwell while in Singapore, please refer to <a href="https://www.covid.gov.sg/travellers" target="_blank"> this link</a>.
-
-#### 2. Where can travellers obtain ART self-test kits?
-
-Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along a maximum of 20 <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> per individual from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmacy, retailer or e-commerce platform. ART kits will not be provided upon arrival. 
-
-If travellers are serving their self-isolation pending their on-arrival COVID-19 PCR test results, they may obtain ART kits via applications such as Grab and foodpanda which offer 24/7 delivery. Those residing in hotels can also seek their hotel concierge’s assistance to help them obtain ART kits. They should not leave their place of accommodation to purchase ART kits prior to receiving their negative PCR test results on Day 1. They may only leave their place of accommodation after self-administering their ART.
-
-#### 3. How do travellers self-administer an ART?
-
-Travellers are strongly encouraged to <a href="https://artbuddy.healthpixel.co/" target="_blank">view the materials here</a> to learn how to self-administer an ART. They can follow the step-by-step instructions while administering their ART.
-
-Travellers may also refer to <a href="https://www.covid.gov.sg/exposed/no-hrn" target="_blank">MOH's guidelines on COVID-19 self-testing</a> to ensure the correct use and appropriate follow-up actions based on the results of the self-testing. MOH’s simple guide to ART self-test kits is available in different languages at the following links:
-
-- <a href="https://go.gov.sg/bca-self-art-eng" target="_blank">English</a>
-- <a href="https://go.gov.sg/bca-self-art-chi" target="_blank">Chinese</a>
-- <a href="https://go.gov.sg/bca-self-art-mal" target="_blank">Malay</a>
-- <a href="https://go.gov.sg/bca-self-art-tam" target="_blank">Tamil</a>
-
-The results should be visible within 15 minutes and should be reflected as follows. If it appears as invalid, please repeat the test and submit a valid (i.e. positive or negative) test result via the webform.
-<img src="/images/ARTresults.png" width="820" height="222">
-
----
-
-##### Click here to go back to the [top](#top).
-
----
 
 <div id="AdditionalReq"></div> 
 
-### (8) Additional Requirements for Short-Term Visitors
+### (7) Additional Requirements for Short-Term Visitors
 
 <div id="insurance"></div> 
 
@@ -1044,7 +1004,7 @@ The requirements for short-term VTL (Sea) travellers to Singapore are similar to
 
 <div id="TT"></div>
 
-### (9) Contact Tracing – TraceTogether
+### (8) Contact Tracing – TraceTogether
 
 <i>For the full requirements and conditions governing the use of TraceTogether, please click <a href="/health/tt-for-travellers">here</a>.</i>
 
