@@ -53,6 +53,8 @@ third_nav_title: VTL Sea
 	<br>
 	<li style="font-size:20px; list-style-type:decimal;">The requirements in Conditions 2(D) and (E) do not apply to children aged 2 and below in the calendar year (i.e. born in or after 2020) and fully vaccinated recovered travellers.</li>
 	<br>
+  	<li style="font-size:20px; list-style-type:decimal;">The requirements in Condition 2(D) does not apply to children, who are aged above 2 but below 12 years old (i.e. born between 2011 and 2019) in that calendar year and are recovered travellers.</li>
+  <br>	
    <li style="font-size:20px; list-style-type:decimal;"> The requirements in Conditions 2(H) and (I) do not apply to Singapore Citizens, Permanent Residents and Long-Term Pass (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) holders. However, they are encouraged to have a return ferry ticket to secure their travel dates and also download the TraceTogether app on their mobile device and keep the TraceTogether app activated at all times. 
   </li>
   <br>
