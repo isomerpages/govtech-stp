@@ -35,7 +35,7 @@ permalink: /atp/conditions
   <br/>  
 	<li style="font-size:20px; list-style-type:decimal;"> The requirement in Condition 1(b) does not apply to unvaccinated and non-fully vaccinated recovered travellers.</li>
   <br/>
-   <li style="font-size:20px; list-style-type:decimal;"> Condition 1(e) does not apply children aged 6 and below in the calendar year. Those unable to use a mobile device due to a certified disability or special need and those who are unable to download/register for the TraceTogether app may obtain a TraceTogether token. They must carry the TraceTogether token issued to them while in Singapore.
+   <li style="font-size:20px; list-style-type:decimal;"> Condition 1(e) does not apply children aged 6 and below (i.e born in or after 2016) in the calendar year. Those unable to use a mobile device due to a certified disability or special need and those who are unable to download/register for the TraceTogether app may obtain a TraceTogether token. They must carry the TraceTogether token issued to them while in Singapore.
   </li>
   <br/>
   <li style="font-size:20px; list-style-type:decimal;"> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions or cancellation of the Air Travel Pass at short notice. </li><br/>
