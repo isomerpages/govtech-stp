@@ -189,7 +189,7 @@ input:checked + label + .content {
 
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.3; font-size:18px;">Travellers are considered fully vaccinated (<a target="_blank" href="/health/vtsg">click here for definition</a>) if they have received the full regimen of WHO EUL vaccines at least two weeks before arrival in Singapore. </p>
-<p style="line-height:1.3; font-size:18px;">Unvaccinated travellers who are 12 and below in this calendar year can travel to Singapore via the VTL (Air) if accompanied by a fully vaccinated VTL (Air) traveller.</p>
+<p style="line-height:1.3; font-size:18px;">Unvaccinated travellers who are 12 and below (i.e. born in or after 2010) in this calendar year can travel to Singapore via the VTL (Air) if accompanied by a fully vaccinated VTL (Air) traveller.</p>
 </div>
 
 <input id="title3" type="checkbox">
@@ -347,7 +347,7 @@ input:checked + label + .content {
 <label for="title6">Singapore Citizens, PRs and Long Term Pass/In-Principle Holders (excluding Work Permit Holders)</label>
 
 <div style="background-color:#edf4fa;" class="content">
-<p style="line-height:1.3; font-size:18px;">All SC/PRs, Long Term Pass Holders (including In-Principle Approval (IPA) holders but excluding Work Permit Holders) and unvaccinated children aged 12 and below in the current calendar year do not need to make any applications under the Vaccinated Travel Lane. However, they must also comply with all the requirements stated in the <b><a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
+<p style="line-height:1.3; font-size:18px;">All SC/PRs, Long Term Pass Holders (including In-Principle Approval (IPA) holders but excluding Work Permit Holders) and unvaccinated children aged 12 and below (i.e. born in or after 2010) in the current calendar year do not need to make any applications under the Vaccinated Travel Lane. However, they must also comply with all the requirements stated in the <b><a target="_blank" href="/vtl/travel-checklist">VTL (Air) Traveller's Checklist</a></b>, failing which, the prevailing health control measures will apply, which may include serving a Stay Home Notice.</p>
 	
 <p style="line-height:1.3; font-size:18px;">SC/PR/LTPHs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a target="_blank" href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore.</p>
 	
@@ -370,7 +370,7 @@ input:checked + label + .content {
 	<p style="line-height:1.3; font-size:18px;">Please note the following when making the application:</p>
 	<ol style="margin-top:0px; list-style-type:disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTL (Air) travellers must also refer to this <a target="_blank" href="/vtl/travel-checklist">travel checklist</a> and the <a target="_blank" href="/vtl/conditions">VTL (Air) conditions</a> to ensure they satisfy all VTL (Air) requirements, otherwise they may be denied entry to Singapore.</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Accompanying children aged 12 and below in the current calendar year and are unvaccinated do not need to apply. </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Accompanying children aged 12 and below (i.e. born in or after 2010) in the current calendar year and are unvaccinated do not need to apply. </li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Applications must be supported with digitally verifiable vaccination certificate QR code(s), if required. Please see our <a target="_blank" href="/vtl/faq#vaxcert">FAQs</a> for more details.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">A VTP is valid for <b>13 calendar days</b> from the traveller’s chosen date of entry. For instance, a traveller holding a VTP (Air) for entry into Singapore on 1 March 2022 may enter Singapore on a designated VTL (Air) flights any day from 1 - 14 March 2022 (inclusive). The traveller should reapply for a VTP if he is unable to enter during this period.</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements (<b>See Criteria 2 above</b>), please write to the Safe Travel Office using the <a target="_blank" href="https://go.gov.sg/sto-enquiry">enquiry form here</a> and provide your vaccination certificate.</li>
