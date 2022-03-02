@@ -56,6 +56,10 @@ Please refer to the applicable VTL (Air) Conditions based on your date of entry 
 	<br>
 	<li style="font-size:20px; list-style-type:decimal;">The requirements in Conditions 2(d), (e) and (f) do not apply to children aged 2 and below in the calendar year (i.e. born in or after 2020) and fully vaccinated recovered travellers.</li>
   <br>
+  	<li style="font-size:20px; list-style-type:decimal;">The requirements in Condition 2(d) does not apply to children, who are aged above 2 but below 12 years old (i.e. born between 2011 and 2019) in that calendar year and are recovered travellers.</li>
+  <br>
+    	<li style="font-size:20px; list-style-type:decimal;">The requirements in Condition 2(h) and 2(i) do not apply to Singapore Citizens, Permanent Residents, Long-Term Pass and In-Principle Approval (IPA) holders. However, they are encouraged to also download the TraceTogether app on their mobile device and keep the TraceTogether app activated at all times.</li>
+  <br>
    <li style="font-size:20px; list-style-type:decimal;"> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL (Air) or cancellation of the VTP (Air) at short notice. </li> <br>
 	<li style="font-size:20px; list-style-type:decimal;">A VTP holder who fails to undergo the required COVID-19 tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.</li>
 	<br>
