@@ -119,7 +119,7 @@ input:checked + label + .content {
 <label for="title2">Criterion 2: Be fully vaccinated with WHO Emergency Use Listing Vaccines</label>
 
 <div style="background-color:#edf4fa;" class="content" id="criteria2">
-	<p style="line-height:1.4; font-size:18px;">Travellers who are above the age of 12 in this calendar year must receive the required WHO EUL vaccine doses, below, at least two weeks before arrival in Singapore:
+	<p style="line-height:1.4; font-size:18px;">Travellers who are above the age of 12 in this calendar year (i.e. born in or after 2010) must receive the required WHO EUL vaccine doses, below, at least two weeks before arrival in Singapore:
 	</p><ol style="list-style-type:disc">
 		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Pfizer/BioNTech (BNT162b2 / Comirnaty / Tozinameran), at least 2 doses 17 days apart</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Moderna (mRNA-1273/Spikevax), at least 2 doses 24 days apart </li>
@@ -133,7 +133,7 @@ input:checked + label + .content {
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Janssen/J&amp;J (Ad26.COV2.S), 1 dose</li>
 	</ol>
 	<p></p>
-	<p style="line-height:1.4; font-size:18px;">Children who are 12 and below in this calendar year and are unvaccinated can still travel to Singapore via VTL (Land) <b>if</b> accompanied by a fully vaccinated VTL traveller. However, the child must be a Singapore Citizen, Singapore Permanent Resident, holder of a Singapore-issued Long-Term Pass (or the respective IPAs)  or Malaysia Citizen.</p>
+	<p style="line-height:1.4; font-size:18px;">Children who are 12 and below (i.e. born in or after 2010) in this calendar year and are unvaccinated can still travel to Singapore via VTL (Land) <b>if</b> accompanied by a fully vaccinated VTL traveller. However, the child must be a Singapore Citizen, Singapore Permanent Resident, holder of a Singapore-issued Long-Term Pass (or the respective IPAs)  or Malaysia Citizen.</p>
 	</div>
 	
 <input id="title3" type="checkbox">
@@ -265,7 +265,7 @@ input:checked + label + .content {
 <label for="title6" class="test2">Singapore Citizens (SC), Permanent Residents (PR) &amp; Holders/IPA holders of a Singapore-issued Long-Term Pass (excluding Work Permit Holders)</label>
 
 <div style="background-color:#edf4fa;" class="content" id="scpr">	
-	<p style="line-height:1.4; font-size:18px;">SC/PRs/LTPHs (including IPA holders and excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year do not need to apply for entry via VTL (Land). </p>
+	<p style="line-height:1.4; font-size:18px;">SC/PRs/LTPHs (including IPA holders and excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) do not need to apply for entry via VTL (Land). </p>
 		<p style="line-height:1.4; font-size:18px; margin-top:15px;"><span style="color:red;">However, all travellers must comply with the requirements stated in the</span> <a target="_blank" href="/vtl-land/travel-checklist">VTL (Land) traveller checklist</a>, which summarises the <a target="_blank" href="/vtl-land/conditions">VTL (Land) Conditions</a>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 	</div>
 	
@@ -279,7 +279,7 @@ input:checked + label + .content {
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Applicants <b>are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><b>Applicants must apply for VTPs between 3 and 60 calendar days before their date of departure.</b></li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTPs are valid for up to <b>13 calendar days</b> from the traveller's chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. Travellers not travelling during this date range can apply for a VTP later.</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Accompanying children aged 12 and below and are unvaccinated do <b><u>not</u></b> need to apply. </li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Accompanying children aged 12 and below (i.e. born in or after 2010) and are unvaccinated do <b><u>not</u></b> need to apply. </li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Travellers must comply with the <a target="_blank" href="/vtl-land/conditions">VTL (Land) conditions</a>, details can be found this <a target="_blank" href="/vtl-land/travel-checklist">VTL (Land) travel checklist</a>. Failing which, they may be denied entry to Singapore.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTP (Land) and VTP (Air) are not interchangeable, a separate application for VTP (Air) is required if travelling by air.</li>
 		<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements (<b>see Criterion 3 above</b>), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate.</li>-->

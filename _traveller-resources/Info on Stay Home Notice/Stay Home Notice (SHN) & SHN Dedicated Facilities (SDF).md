@@ -49,7 +49,7 @@ The cost of a 7-day SDF stay is typically S$1,015 per person per room. A further
     </td>   
   </tr>
     <tr>
-    <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Minors</b>*** <i>(who are aged 12 years old and below in the current calendar year)</i></td>
+    <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Minors</b>*** <i>(who are aged 12 years old and below in the current calendar year i.e. born in or after 2010)</i></td>
     <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Cost will vary for minors depending on age.</td>   
   </tr>
  </tbody></table>
