@@ -240,11 +240,9 @@ input:checked + label + .content {
 <label for="title6">Singapore Citizens (SC), Permanent Residents (PR) and Holders/In-Principle Approval (IPA) holders of a Singapore-issued Long-Term Pass (LTPH)</label>
 
 <div style="background-color:#edf4fa;" class="content">
-<p style="line-height:1.3; font-size:18px;">SC, PR, LTPH (including IPA holders, and excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year do not need to apply for entry via VTL (Sea).</p>
+<p style="line-height:1.3; font-size:18px;">SC, PR, LTPH (including IPA holders, and excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) do not need to apply for entry via VTL (Sea).</p>
 	
-<p style="line-height:1.3; font-size:18px;"><b style="color:red;">However, all travellers must comply with the requirements stated in the</b> <a href="/vtl-sea/travel-checklist" target="_blank">VTL (Sea) travel checklist</a>, which summarises the VTL (Sea) Conditions. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice</p>
-	
-<p style="line-height:1.3; font-size:18px;">SC/PRs/LTPHs (excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) do not need to apply for entry via VTL (Sea).</p>		
+<p style="line-height:1.3; font-size:18px;"><b style="color:red;">However, all travellers must comply with the requirements stated in the</b> <a href="/vtl-sea/travel-checklist" target="_blank">VTL (Sea) travel checklist</a>, which summarises the VTL (Sea) Conditions. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice</p>	
 
 <p style="line-height:1.3; font-size:18px;">SC/PRs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore.</p>	
 	
