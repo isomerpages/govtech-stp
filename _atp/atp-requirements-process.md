@@ -2,7 +2,7 @@
 title: ATP Requirements & Process
 permalink: /atp/requirements-and-process
 ---
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>NOTICE:</u></b></p>
 		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">The following measures are applicable for ATP holders entering Singapore <b>from 21 Feb 2022, 2359h (SGT)</b>.</p>
 			<ol style="font-size:16px; margin-top:0px; margin-bottom:0px; color:black;">
@@ -10,7 +10,7 @@ permalink: /atp/requirements-and-process
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.3;  color:black;">On-arrival Polymerase Chain Reaction (PCR) test at the airport will be replaced with a supervised self-administered Antigen Rapid Test (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC), to be completed within 24 hours of arrival in Singapore. Travellers can expect a refund from the Changi Airport Group (CAG) for their unutilised test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</li>
 	</ol>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;color:black;">ATP holders who enter Singapore before 21 Feb 2022, 2359h (SGT) are required to continue with the existing testing regime (i.e. on-arrival PCR test).</p>
-</div>
+</div>-->
 
 
 ### Eligibility 
