@@ -482,7 +482,9 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">All VTL travellers MUST:</p>
 <ol style="list-style-type:lower-roman;">
-		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Have <b>only</b> travelled to / transited via any VTL (Air) countries/regions, Category I countries/regions (Macao, Mainland China, Taiwan) and/or Singapore, in the last 7 consecutive days before departure for Singapore; and</li>
+		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Have <b>only</b> travelled to / transited via any VTL (Air) countries/regions, Category I countries/regions (Macao, Mainland China, Taiwan), the European Economic Area (EEA)*, and/or Singapore, in the last 7 consecutive days before departure for Singapore; and
+<p style="line-height:1.35; margin-top:10px; margin-bottom:18px; font-size:18px;"><i>* The EEA consists of the 27 European Union member states, Iceland, Liechtenstein, and Norway. Travel history to Andorra, Monaco, San Marino and Vatican City is also allowed. The broadening of travel history requirement will apply to travellers entering Singapore on or after 16 March 2022.</i></p>
+	</li>
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Air) flight. Please check the websites of the respective airlines for the date of commencement of VTL (Air) flights and the flight details. <u><b>Not all flights departing from the VTL (Air) countries/regions and operated by the approved airlines are designated.</b></u> Travellers are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
 	</ol>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><a target="_blank" href="https://go.gov.sg/vtl-airlines">Click here to find out which airlines are offering VTL flights to Singapore based on your country/region of departure.</a>
