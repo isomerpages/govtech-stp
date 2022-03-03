@@ -33,7 +33,7 @@ third_nav_title: VTL Air
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions" within the past 7 days, for travellers entering Singapore based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. For instance, travellers entering Singapore on or after 25 Feb can have travel history to the UAE within the past 7 days. Those entering Singapore prior to 25 Feb may not have travel history to the UAE.</p>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">SC/PRs and Long-Term Pass/In-Principle Approval (IPA) holders (excluding work permit holders) with travel history to countries/regions that are not listed within the "Active VTL (Air) Countries/Regions", Category I countries/regions (Mainland China, Macao, Taiwan) or Singapore will be subject to the <a href="/shn-and-swab-summary" target="_blank">prevailing health measures</a>. All other travellers will be denied entry into Singapore. </p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">SC/PRs with travel history to countries/regions that are not listed within the "Active VTL (Air) Countries/Regions", Category I countries/regions (Mainland China, Macao, Taiwan) or Singapore will be subject to the <a href="/shn-and-swab-summary" target="_blank">prevailing health measures</a>. All other travellers will be denied entry into Singapore.</p>
 
 <table>
 <tbody>
