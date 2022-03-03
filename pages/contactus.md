@@ -35,11 +35,6 @@ You can find the following forms of commonly requested support on this page:
   </tr>
 </thead>
 <tbody>
-	  <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Requirements for travellers arriving before 21 Feb 2022, 2359h SGT</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers arriving before 21 Feb 2022, 2359h SGT will continue to be subject to Category I-IV health measures, and the 7-day VTL testing regime. Only travellers arriving from 21 Feb 2022, 2359h SGT will qualify for the <a href="/news-and-media/press-releases/" target="_blank">revised border measures announced on 16 Feb 2022</a>.</p>
-</td>
- </tr>
 		   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Travel for recently-recovered travellers</b> </td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore will be waived of all testing and Stay-Home Notice requirements. Refer to the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Protocol</a> for details.</p>
@@ -66,13 +61,6 @@ You can find the following forms of commonly requested support on this page:
 				 </ol>
 </td>
   </tr>	
-	<tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>No entry dates available in Application Portal</b></td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">There is no limit on the number of Vaccinated Travel Passes issued daily, and each pass is valid for a specific period from the chosen entry date.</p>
-
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">If you are unable to select an entry date for all other Safe Travel Lanes, you may consider applying for entry on another day or defer your travels.</p>
-</td>
- </tr>
   </tbody>
   </table>
 
