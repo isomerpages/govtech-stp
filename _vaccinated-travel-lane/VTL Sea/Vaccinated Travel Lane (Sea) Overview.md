@@ -136,6 +136,7 @@ input:checked + label + .content {
 	</ol>
 </div>
 
+	<div id="transport"></div>	
 <input id="title4" type="checkbox">
 <label for="title4">Criterion 4: Fulfil Travel/Transit History &amp; Designated VTL (Sea) Ferry Requirements</label>
 
