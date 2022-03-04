@@ -401,7 +401,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 	</div>
 
 <input id="Vietnam-cert" type="checkbox" class="accordion">
-<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Vietnam-cert" class="accordion"><b>Vietnam (for entry from 15 Mar 2022, 2359h)</b></label>
+<label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Vietnam-cert" class="accordion"><b>Vietnam (for entry from 16 March 2022)</b></label>
 		<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>Certificate of COVID-19 Vaccination
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
