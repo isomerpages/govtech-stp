@@ -107,6 +107,8 @@ Currently, VTL travellers are not required to obtain a booster dose. They are on
 
 Nonetheless, individuals aged 12 years and older are recommended to receive a booster dose from about five months after the last dose of their primary vaccination series, or as soon as possible thereafter, in order to maintain good protection against COVID-19. 
 
+If your vaccination certificate contains information about your booster dose, you may continue to upload the QR code of your final dose(i.e. booster shot) if you are applying for a VTP; or show the certificate of your final dose otherwise.
+
 ---
 
 ##### Click here to go back to the [top](#top).
@@ -209,7 +211,7 @@ If you are a Singapore Citizen or Permanent Resident, or a Long Term Pass Holder
 
 <b style="color:red;">For Short-Term Visitors and eligible Work Permit Holders</b>
 
-If you are a Short-Term Visitor (STV) or Work Permit Holder (WPH) in Singapore, you need to apply for a VTP. Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP application portal. <b>You should upload the QR code(s) of your primary series only (i.e. first and second doses); regardless of whether you have obtained a booster dose</b>.
+If you are a Short-Term Visitor (STV) or Work Permit Holder (WPH) in Singapore, you need to apply for a VTP. Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP application portal. <b>You should upload the QR code(s) of your final dose only (i.e. first and second doses); regardless of whether you have obtained a booster dose</b>.
 
 Those who are required to upload a QR code but cannot do so are to write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation (e.g. passport) and other supporting documents. If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.
 
@@ -383,8 +385,8 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
   <ol style="list-style-type:disc;">
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: 
 <ol style="list-style-type:circle;">
-<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a target="_blank" href="/health/vtsg">full vaccination regimen</a> consists of <b>two</b> doses: Two QR codes, one for each dose. Please extract (i.e. crop and upload) each of the QR codes at each point of upload.</li>
-<li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">If <a target="_blank" href="/health/vtsg">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</li>
+<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">One, indicating information on the final dose.</li>
+<!--<li style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">If <a target="_blank" href="/health/vtsg">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</li>-->
 			</ol>
 	</li>
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<table>
@@ -492,7 +494,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 </div>
 
 <input class="accordion" type="checkbox" id="Vietnam-cert">
-<label class="accordion" for="Vietnam-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Vietnam (for entry from 16 March 2022)</b></label>	
+<label class="accordion" for="Vietnam-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Vietnam (for entry from 16 Mar, SGT)</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>Certificate of COVID-19 Vaccination
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
@@ -514,7 +516,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
   <ol style="list-style-type:disc;">
     <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload:</b> 
 			<ol style="list-style-type:circle;">
-<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a target="_blank" href="/health/vtsg">full vaccination regimen</a> consists of <b>two</b> doses: 	Two QR codes (one for each dose). Please extract (i.e. crop and upload) each of the QR codes on your NHS COVID Pass at each point of upload.</li>
+<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">One, indicating information on the final dose.</li>
 <li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">If <a target="_blank" href="/health/vtsg">full vaccination regimen</a> consists of <b>one</b> dose: One QR code</li>
 			</ol>
 </li>
