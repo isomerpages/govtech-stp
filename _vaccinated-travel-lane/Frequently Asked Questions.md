@@ -88,17 +88,18 @@ The electronic or physical vaccination certificate(s) must be an accepted proof 
 - the name(s) of vaccine(s) used; and
 - the date(s) of vaccination. The date of the last dose should be administered at least 14 days before your arrival in Singapore. 
 
-#### 5. I was diagnosed with COVID-19 and have since recovered. I have been administered only one vaccine dose of a typically two-dose regimen. Do I fulfil the VTL vaccination requirement?
+#### 5. I am recovered from COVID-19 and have been administered only one vaccine dose of a typically two-dose regimen after my recovery. Do I fulfil the VTL vaccination requirement?
 
 Yes, if the date of your vaccine dose is:
-- at least 14 days before the date of your intended arrival into Singapore; and
-- at least 28 days after the date of your first positive COVID-19 test.
+- at least 28 days after the date of your first positive COVID-19 test; and
+- at least 14 days before the date of your intended arrival into Singapore.
 
-You must present a recovery certificate or discharge memo, which shows the date of your first positive COVID-19 test, to prove your recovery from COVID-19, in addition to your vaccination certificate showing 1 dose of vaccine.
+You must present a recovery certificate or discharge memo, which shows the date of your first positive COVID-19 test, in addition to your vaccination certificate to the airline at check-in, and at arrival immigration if required.
 
 If you are required to apply for a VTP, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo.
 
-You do not need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination, NHS COVID Pass of vaccination, or Northern Ireland COVID certificate showing the final dose in the series (i.e. “1/1”). If you are required to apply for a VTP, you need only upload the QR code found on your vaccination certificate.
+You do not need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination or any other certificate that shows that you have obtained only 1 vaccine dose and completed the final dose in the series (i.e. “1/1”). If you are required to apply for a VTP, you need only upload the QR code found on your vaccination certificate.
+
 
 #### 6. Are travellers required to obtain a booster dose to be eligible for the VTL?
 
@@ -255,7 +256,7 @@ You may check for the acceptable proof of vaccination, how to verify its validit
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>
 COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.gov.bn/SitePages/bruhealth.aspx">BruHealth app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code via a regular QR code scanner on your mobile device</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Use a regular QR code scanner on your mobile device</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
@@ -281,7 +282,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <label class="accordion" for="Cambodia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Cambodia</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>Covid-19 Vaccination Certificate issued by the Kingdom of Cambodia
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code via a regular QR code scanner on your mobile device</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Use a regular QR code scanner on your mobile device</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
 </div>
@@ -350,7 +351,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <label class="accordion" for="India-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>India</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>Covid-19 Vaccination Certificate in the <b>international format</b> available on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> platform.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code using the tool on the <a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> website</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><a target="_blank" href="https://www.cowin.gov.in/">Co-WIN</a> website</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
@@ -363,7 +364,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <label class="accordion" for="Indonesia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Indonesia</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p><u>International</u> COVID-19 Vaccination Certificate available via the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a> by selecting 'Overseas Travel Certificate'.
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code on the <a href="https://verify.kemkes.go.id/" target="_blank">Kementerian Kesehatan Republik Indonesia website</a></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><a href="https://verify.kemkes.go.id/" target="_blank">Kementerian Kesehatan Republik Indonesia website</a></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
@@ -376,7 +377,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <label class="accordion" for="Malaysia-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Malaysia</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>Digital Certificate for COVID-19 Vaccination downloaded or shown on the <a target="_blank" href="https://mysejahtera.malaysia.gov.my/intro_en/">MySejahtera app</a>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code using the following tools: <a target="_blank" href="https://play.google.com/store/apps/details?id=my.gov.onegovappstore.healthcertverifier">Vaccine Certificate Verifier</a> (Android) or <a target="_blank" href="https://apps.apple.com/sg/app/vaccine-certificate-verifier/id1564237499">Vaccine Certificate Verifier</a> (iOS)</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><a target="_blank" href="https://play.google.com/store/apps/details?id=my.gov.onegovappstore.healthcertverifier">Vaccine Certificate Verifier</a> (Android) or <a target="_blank" href="https://apps.apple.com/sg/app/vaccine-certificate-verifier/id1564237499">Vaccine Certificate Verifier</a> (iOS)</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
@@ -414,6 +415,8 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <input class="accordion" type="checkbox" id="Philippines-cert">
 <label class="accordion" for="Philippines-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Philippines</b> </label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>COVID-19 Vaccination Certificate (<a href="https://vaxcert.doh.gov.ph/" target="_blank">VaxCertPH</a>) issued by the Department of Health
+	<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><a target="_blank" href="https://vaxcert.doh.gov.ph/">VaxCertPH website</a></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
@@ -426,7 +429,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <label class="accordion" for="Qatar-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Qatar</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>COVID-19 Vaccination Certificate downloaded from Qatar Ministry of Public Health’s <a href="https://cert-covid19.moph.gov.qa/Home/Index" target="_blank">website</a> 
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Self-verify QR code via a regular QR code scanner on your mobile device</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Use a regular QR code scanner on your mobile device</p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate during application:</p>
   <ol style="list-style-type:disc;">
@@ -442,7 +445,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 				<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">COVID-19 Vaccination Certificate issued by the Korea Disease Control and Prevention Agency (KDCA) downloaded from the <a target="_blank" href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&amp;MnLv2=3">KDCA website</a></li>
 	</ol>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
-<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">If you hold the proof of vaccination at (b), self-verify your QR code using the tool on the <a target="_blank" href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&amp;MnLv2=3">KDCA website</a></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">If you hold the proof of vaccination at (b), use the tool on the <a target="_blank" href="https://nip.kdca.go.kr/irgd/civil.do?MnLv1=2&amp;MnLv2=3">KDCA website</a></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
 <p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">Upload your vaccination certificate of (a) during application.</p> 
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"> If you have only the proof of vaccination in (b), you should write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate in (b), which will be verified through the unique document number. Thereafter, you will be advised on how to proceed with your VTP application.</p>
@@ -488,6 +491,13 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
     </ol>
 </div>
 
+<input class="accordion" type="checkbox" id="Vietnam-cert">
+<label class="accordion" for="Vietnam-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>Vietnam (for entry from 15 Mar 2022, 2359h)</b></label>	
+<div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>Certificate of COVID-19 Vaccination
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;">You do not have to upload your vaccination certificate during application. However, you must still show your proof of vaccination at airline check-in and arrival immigration.</p>
+</div>
+	
 <input class="accordion" type="checkbox" id="UK-cert">
 <label class="accordion" for="UK-cert" style="background:linear-gradient(360deg, #aeb2b6, #eef2f3);color:black;"><b>United Kingdom</b></label>	
 <div style="background-color:#ededed;" class="content"><p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>
@@ -547,7 +557,7 @@ Please attempt re-uploading your QR code, and ensure that:
 
 <ol>
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">If you have an India-issued vaccination certificate, that you have the <b>'International Travel Certificate'</b> version, containing <b>both your 'Date of Birth' and 'Passport Number'</b>. If not, please request for one from the <a href="https://www.cowin.gov.in/" target="_blank">Co-Win website</a>. Please <a href="#india">click here</a> for more details.</li>
-	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your QR code was uploaded in a high-resolution, .png or .pdf format.</li>
+	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your QR code was uploaded in a high-resolution, .png <i>(preferred)</i>, .pdf or .jpg format.</li>
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your date of birth was keyed in the correct format (DD/MM/YYYY)</li>
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your proof of vaccination is an accepted <a href="/vtl/faq#QRcode">proof of vaccination</a></li>
 		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You have uploaded the <a href="/vtl/faq#numberofcodes" target="_blank">correct number of QR codes</a>, and you are using the correct method of QR code upload
@@ -710,6 +720,8 @@ We are currently working on accepting digitally verifiable vaccination certifica
 <div id="THReq"></div>
 
 ### (2) Travel History Requirement
+
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Travellers entering Singapore on or after 16 March 2022 may also have travel history to the European Economic Area (EEA) within the last 7 days prior to departure for Singapore. The EEA consists of the 27 European Union member states, Iceland, Liechtenstein, and Norway. Travel history to Andorra, Monaco, San Marino and Vatican City is also allowed.</i></p>
 
 
 #### 1. How is the 7-day travel history determined?
