@@ -31,9 +31,11 @@ third_nav_title: VTL Air
 
 ### 1. VTL (Air) Countries/Regions
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions" within the past 7 days, for travellers entering Singapore based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. For instance, travellers entering Singapore on or after 25 Feb can have travel history to the UAE within the past 7 days. Those entering Singapore prior to 25 Feb may not have travel history to the UAE.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions", Category I countries/regions, the European Economic Area (EEA)*, or Singapore within the past 7 days, for travellers entering Singapore based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. Travellers with travel history to non-VTL countries/regions in the European Economic Area (EEA)* within the last 7 days may only enter Singapore under the VTL from 16 March 2022, SGT.</p>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">SC/PRs with travel history to countries/regions that are not listed within the "Active VTL (Air) Countries/Regions", Category I countries/regions (Mainland China, Macao, Taiwan), or Singapore will be subject to the <a href="/shn-and-swab-summary" target="_blank">prevailing health measures</a>. All other travellers will be denied entry into Singapore.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><i>* The EEA consists of the 27 European Union member states, Iceland, Liechtenstein, and Norway. Travel history to Andorra, Monaco, San Marino and Vatican City is also allowed. The broadening of travel history requirement will apply to travellers entering Singapore on or after 16 March 2022.</i></p>
+
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">SC/PRs with travel history to countries/regions that are not listed within the "Active VTL (Air) Countries/Regions", Category I countries/regions (Mainland China, Macao, Taiwan), the European Economic Area (EEA)*, or Singapore will be subject to the <a href="/shn-and-swab-summary" target="_blank">prevailing health measures</a>. All other travellers may be denied entry into Singapore.</p>
 
 <table>
 <tbody>
@@ -41,7 +43,7 @@ third_nav_title: VTL Air
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>Active VTL (Air) Countries/Regions</b></td>
 		</tr>
 	<tr>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Hong Kong, India, Indonesia, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey,  the United Arab Emirates, the United Kingdom<sup>6</sup> and the United States<sup>7</sup>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Hong Kong, India, Indonesia, Israel, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey,  the United Arab Emirates, the United Kingdom<sup>6</sup> and the United States<sup>7</sup>
 		<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 <p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
 		<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>3</sup>The Vatican City is an independent city state and is not considered part of Italy.</p>
@@ -58,11 +60,11 @@ third_nav_title: VTL Air
 <p style="margin-top:20px;"></p>
 <table>
 <tbody>
-	<tr>
-<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>For travellers entering Singapore from 3 Mar 2022, 2359h</b></td>
+		<tr>
+<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>New VTL (Air) Countries/Regions from 16 Mar 2022, SGT</b></td>
 		</tr>
 	<tr>
-	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Israel and the Philippines</td>
+	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Greece and Vietnam</td>
 	</tr>
 	</tbody>
 	</table>
@@ -224,6 +226,7 @@ input:checked + label + .content {
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a target="_blank" href="https://ta.sdaia.gov.sa/en/index">Tawakkalna app</a></li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Sri Lanka:</b> Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Thailand:</b> International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Vietnam</b><i>(for entry from 16 Mar, SGT)</i>: Certificate of COVID-19 Vaccination</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Kingdom:</b> 
 			<ol style="list-style-type:lower-alpha;">
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a target="_blank" href="https://www.gov.uk/guidance/nhs-covid-pass">National Health Service (“NHS”) COVID Pass</a> of vaccination; or</li>
@@ -254,7 +257,7 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;">Travellers must:</p>
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any <a href="#countries"> VTL (Air) countries/regions</a>, Category I countries/regions (Hong Kong, Macao, Mainland China, Taiwan), and/or Singapore, in the last 7 consecutive days before departure for Singapore.
+		<li style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.3;">Have only travelled to / transited via any <a href="#countries"> VTL (Air) countries/regions</a>, Category I countries/regions (Macao, Mainland China, Taiwan), the European Economic Area (EEA)* (from 16 March 2022, SGT), and/or Singapore, in the last 7 consecutive days before departure for Singapore.<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><i>* The EEA consists of the 27 European Union member states, Iceland, Liechtenstein, and Norway. Travel history to Andorra, Monaco, San Marino and Vatican City is also allowed. The broadening of travel history requirement will apply to travellers entering Singapore on or after 16 March 2022.</i></p>
 		</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a designated VTL (Air) flight (please click <a href="https://go.gov.sg/vtl-airlines" target="_blank">here</a> to check list of airlines approved to operate designated VTL (Air) flights). Travellers should note that <u><b>not all flights departing from the VTL (Air) countries/regions and operated by the approved airlines are designated</b></u>. They are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
 	</ol>
@@ -360,6 +363,18 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (AIR) [VTP(AIR)]</b>
 	</p>
+	<table>
+		<tbody>
+			<tr>
+					<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>VTL (Air) Country/Region</b></td>
+									<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Commencement of VTP (Air) Application</b></td>
+			</tr>
+						<tr>
+					<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Greece and Vietnam</td>
+									<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">13 Mar 2022, 1000hrs, SGT</td>
+			</tr>
+		</tbody>
+	</table>
 	<ol style="margin-top:0px; list-style-type:disc;">
 					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">	Long-Term Pass holders (excluding Work Permit holders) do not need to apply for a VTP (Air).  </li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTP (Air) applications are open for travellers intending to enter Singapore <b>3-60 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>

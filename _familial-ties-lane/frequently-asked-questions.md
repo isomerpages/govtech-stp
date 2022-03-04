@@ -30,7 +30,7 @@ New entry approvals into Singapore have been reduced or halted until further not
 
 #### 1. I am not eligible to apply for entry under the Familial Ties Lane and would like to submit an appeal to ICA for entry in Singapore as a short-term visitor, what should i do?
 
-For non-residents with exceptional reasons (e.g. death of a family member in Singapore) to seek entry into Singapore may write to us via the [enquiry form](https://go.gov.sg/sto-enquiry) with the relevant supporting documents to facilitate smooth processing (e.g. Doctor's memo, death certificate, traveller's passport biodata page). ICA wil respond to the request at the earliest time possible and expedite the approval if the applicant is eligible for enry, based on our assesment.
+For non-residents with exceptional reasons (e.g. death of a family member in Singapore) to seek entry into Singapore may write to us via the [enquiry form](https://go.gov.sg/sto-enquiry) with the relevant supporting documents to facilitate smooth processing (e.g. Doctor's memo, death certificate, traveller's passport biodata page). ICA wil respond to the request at the earliest time possible and expedite the approval if the applicant is eligible for entry, based on our assessment.
 
 #### 2. My entry request was rejected. How can i make an appeal? 
 
@@ -88,4 +88,4 @@ Please refer to the FAQ on vaccinated travellers [here](https://safetravel.ica.g
 
 #### 3. I was recently diagnosed with COVID-19 but am scheduled to travel to Singapore. Can I still visit Singapore? 
 
-Please refer to the FAQ on recovered travellers [here](https://safetravel.ica.gov.sg/health/faq#pcrtestQ5). Individuals would be advised acccordingly on the need to fulfil the SHN requirements.
+Please refer to the FAQ on recovered travellers [here](https://safetravel.ica.gov.sg/health/faq#pcrtestQ5). Individuals would be advised accordingly on the need to fulfil the SHN requirements.
