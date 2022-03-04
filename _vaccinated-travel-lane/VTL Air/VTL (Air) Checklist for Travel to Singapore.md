@@ -511,6 +511,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 			<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 			<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Reflects the date and result of the COVID-19 test</li>
 	</ol>
+	<div id="recovery"></div>
 		<table>
 	<tbody><tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b>A)</b></td>
