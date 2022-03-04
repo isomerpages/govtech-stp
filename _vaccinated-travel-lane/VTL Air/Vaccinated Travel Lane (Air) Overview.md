@@ -31,11 +31,11 @@ third_nav_title: VTL Air
 
 ### 1. VTL (Air) Countries/Regions
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions", Category I countries/regions, the European Economic Area (EEA)*, or Singapore within the past 7 days, for travellers entering Singapore based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. For instance, travellers entering Singapore on or after 14 Mar can have travel history to non-VTL countries/regins in the EEA* within the past 7 days. Those entering Singapore prior to 14 Mar may not have travel history to non-VTL countries/regions in the EEA.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions", Category I countries/regions, the European Economic Area (EEA)*, or Singapore within the past 7 days, for travellers entering Singapore based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. For instance, travellers entering Singapore on or after 16 Mar can have travel history to non-VTL countries/regins in the EEA* within the past 7 days. Those entering Singapore prior to 16 Mar may not have travel history to non-VTL countries/regions in the EEA.</p>
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><i>* The EEA consists of the 27 European Union member states, Iceland, Liechtenstein, and Norway. Travel history to Andorra, Monaco, San Marino and Vatican City is also allowed. The broadening of travel history requirement will apply to travellers entering Singapore on or after 16 March 2022.</i></p>
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">SC/PRs with travel history to countries/regions that are not listed within the "Active VTL (Air) Countries/Regions", Category I countries/regions (Mainland China, Macao, Taiwan), the European Economic Area (EEA), or Singapore will be subject to the <a href="/shn-and-swab-summary" target="_blank">prevailing health measures</a>. All other travellers may be denied entry into Singapore.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">SC/PRs with travel history to countries/regions that are not listed within the "Active VTL (Air) Countries/Regions", Category I countries/regions (Mainland China, Macao, Taiwan), the European Economic Area (EEA)*, or Singapore will be subject to the <a href="/shn-and-swab-summary" target="_blank">prevailing health measures</a>. All other travellers may be denied entry into Singapore.</p>
 
 <table>
 <tbody>
@@ -61,7 +61,7 @@ third_nav_title: VTL Air
 <table>
 <tbody>
 		<tr>
-<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>For travellers entering Singapore from 15 Mar 2022, 2359h</b></td>
+<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>For travellers entering Singapore from VTL (Air) Country/Region from 16 Mar 2022</b></td>
 		</tr>
 	<tr>
 	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Greece and Vietnam</td>
@@ -226,7 +226,7 @@ input:checked + label + .content {
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a target="_blank" href="https://ta.sdaia.gov.sa/en/index">Tawakkalna app</a></li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Sri Lanka:</b> Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Thailand:</b> International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Vietnam</b><i>(for entry from 15 Mar, 2359h)</i>: Certificate of COVID-19 Vaccination</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Vietnam</b><i>(for entry from 16 Mar)</i>: Certificate of COVID-19 Vaccination</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Kingdom:</b> 
 			<ol style="list-style-type:lower-alpha;">
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a target="_blank" href="https://www.gov.uk/guidance/nhs-covid-pass">National Health Service (“NHS”) COVID Pass</a> of vaccination; or</li>
