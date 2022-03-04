@@ -504,6 +504,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Use this <a target="_blank" href="https://go.gov.sg/recovered-traveller-checker">self-checker tool</a> determine if you are eligible for the Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the <a target="_blank" href="/vaccinated-recovered">Vaccinated-Recovered Traveller Protocol instead</a> for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">To travel on a VTL flight, requirements from Stage 1A-1D still apply.</li>
 	</ol>
+	<div id="recovery"></div>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
 	<ol style="padding-left: 20px;">
 		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Is not a handwritten document;</li>
