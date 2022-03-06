@@ -75,7 +75,7 @@ Please refer to the applicable VTL (Air) Conditions based on your date of entry 
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>The EEA consists of the 27 European Union member states, Iceland, Liechtenstein, and Norway. Travel history to Andorra, Monaco, San Marino and Vatican City is also allowed. The broadening of travel history requirement will apply to travellers entering Singapore on or after 16 March 2022.</p>
 
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>3</sup>If the scheduled day of departure of the flight is D (e.g. 8 March January 2022), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL (Air) countries/regions</a>, Category I countries/regions, and/or Singapore from D-7 to D (i.e. 1 March to 8 March 2022, if D is 8 March 2022).</p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>3</sup>If the scheduled day of departure of the flight is D (e.g. 8 March January 2022), the traveller must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL (Air) countries/regions</a>, Category I countries/regions, the European Economic Area (EEA) (from 16 Mar 2022, SGT) and/or Singapore from D-7 to D (i.e. 1 March to 8 March 2022, if D is 8 March 2022).</p>
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>4</sup>If the pre-departure test is taken on 1 March 2022, it will be valid for departures up to 3 March 2022, 2359 hours.</p>
 
