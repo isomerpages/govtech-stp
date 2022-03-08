@@ -2,9 +2,9 @@
 title: Vaccination Channels For Overseas Singaporeans
 permalink: /sc-pr/vcos
 ---
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">As part of MOH’s ongoing efforts to encourage medically eligible Singaporeans to be vaccinated under the national COVID-19 vaccination programme, overseas Singapore Citizens arriving via Changi Airport and Tanah Merah Ferry Terminal are eligible for immediate vaccination in Singapore.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">As part of MOH’s ongoing efforts to encourage medically eligible Singaporeans to be vaccinated under the national COVID-19 vaccination programme, <b>overseas Singapore Citizens who need to serve Stay Home Notice (SHN) upon arrival in Singapore can opt to receive one dose of vaccine while serving their SHN</b>. This is available to overseas Singaporeans (OS) arriving via Changi Airport and Tanah Merah Ferry Terminal.</p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Interested overseas Singaporeans (OS) can register their interest via <a href="https://go.gov.sg/vaccinationchannels" target="_blank">https://go.gov.sg/vaccinationchannels</a>, and indicate their preferred vaccination option, details below:</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Returning OS will have 2 options detailed below to take their vaccination while serving SHN and must register their interest in either option via <a href="https://go.gov.sg/vaccinationchannels" target="_blank">https://go.gov.sg/vaccinationchannels</a>Upon arrival in Singapore, arrangements will be made to transport them to the appointed SHN dedicated facility (SDF) that can provide vaccinations on-site. OS will have to pay for the associated costs, including accommodation at the SDF (approximately $145 per night based on prevailing SHN rates), swab tests and travel expenses.</p>
 
 <html>
 
@@ -98,29 +98,23 @@ input:checked + label + .content {
 </head>
 <body>
 <input class="test1" type="checkbox" id="title6" />
-<label class="test2" for="title6"><b>Option A</b></label>
+<label class="test2" for="title6"><b>Vaccination Channel (Option A)</b></label>
 
 <div id="scpr" class="content" style="background-color:#edf4fa;">	
-<p style="line-height:1.5; font-size:18px; "><b>Multi-trip Vaccination Arrangement:</b><ol style="margin-top:15px; list-style-type:disc;">
-<li style="line-height:1.5;">OS will receive their first vaccination dose upon arrival in Singapore and return to their resident country on the next available flight/ferry. Their vaccination regimen will be completed via subsequent trips.</li></ol>									    
-</p>
+<p style="line-height:1.5; font-size:18px; ">OS will receive one dose upon arrival at the appointed SDF, then return to their resident country on the next available flight/ferry 									    </p>
 <p style="line-height:1.5; font-size:18px; margin-top:20px; "><i>[Note: Prevailing border measures will apply depending on 7-day travel history.]</i></p>
 	</div>
 	
 <input class="test1" type="checkbox" id="title7"/>
-<label class="test2" for="title7"><b>Option B</b></label>
+<label class="test2" for="title7"><b>Vaccination Channel (Option B)</b></label>
 
 <div id="ltph" class="content" style="background-color:#edf4fa;">
-	<p style="line-height:1.5; font-size:18px; "><b>Single Trip Vaccination Arrangement:</b><ol style="margin-top:15px; list-style-type: disc;">
-<li style="line-height:1.5;">OS will receive their first vaccination dose upon arrival in Singapore and observe the prevailing travel requirements imposed based on their travel history. Successive vaccination doses will be administered, per the required dosing intervals, before the OS returns to their resident country.</li></ol>					
+	<p style="line-height:1.5; font-size:18px; ">OS will receive one dose upon arrival at the appointed SDF and serve the full prevailing SHN duration at the dedicated facility.		
 </p>
-<p style="line-height:1.5; font-size:18px; margin-top:20px; "><i>[Note: Prevailing border measures will apply depending on 7-day travel history.]</i></p>
 	</div>
 </body>
 </html>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Regardless of the OS’ country/region of embarkation, they will be required to stay at an appointed dedicated facility where the vaccination will be offered on-site, while they are under SHN. For more information on the entry requirements to Singapore for returning Singaporeans, please <a href="/sc-pr/overview" target="_blank">click here.</a></p>							     
-							     
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Prior to travelling to Singapore, OS should obtain the relevant re-entry approvals and return flight/ferry tickets to ensure they can return to their resident countries after their vaccination. </p>
-							       
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Original press statement is available on <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/09/20210911-COVID-19-Vaccination-Channels-for-Overseas-Singaporeans" target="_blank">MFA</a> and <a href="https://www.moh.gov.sg/news-highlights/details/covid-19-vaccination-channels-for-overseas-singaporeans_11Sep2021" target="_blank">MOH</a> website. FAQs are <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---vaccination-channels-for-overseas-singaporeans" target="_blank">available here</a>.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Prior to travelling to Singapore, OS are advised to obtain the relevant return flight/ferry tickets and ensure they can return to their resident countries (including securing approvals if necessary) after their vaccination.</p>							         
+							   
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">For more information on the entry requirements to Singapore for returning Singaporeans, please click <a href="/sc-pr/overview" target="_blank">here</a>. Original press statement is available on <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/09/20210911-COVID-19-Vaccination-Channels-for-Overseas-Singaporeans" target="_blank">MFA</a> and <a href="https://www.moh.gov.sg/news-highlights/details/covid-19-vaccination-channels-for-overseas-singaporeans_11Sep2021" target="_blank">MOH</a> website. FAQs are <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---vaccination-channels-for-overseas-singaporeans" target="_blank">available here</a>.</p>
