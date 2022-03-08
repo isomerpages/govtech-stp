@@ -102,7 +102,6 @@ input:checked + label + .content {
 
 <div id="scpr" class="content" style="background-color:#edf4fa;">	
 <p style="line-height:1.5; font-size:18px; ">OS will receive one dose upon arrival at the appointed SDF, then return to their resident country on the next available flight/ferry 									    </p>
-<p style="line-height:1.5; font-size:18px; margin-top:20px; "><i>[Note: Prevailing border measures will apply depending on 7-day travel history.]</i></p>
 	</div>
 	
 <input class="test1" type="checkbox" id="title7"/>
