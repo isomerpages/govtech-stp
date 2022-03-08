@@ -10,6 +10,8 @@ description: Start here to find out the travel requirements, restrictions and
 - [Listing of Safe Travel Lanes by Traveller Profile](#lanelist)
 - [Entry Information for Air/Sea Crew and Pleasure Craft Owners](#crew)
 
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Travellers transiting through Singapore should refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information.</p>
+
 <div id="selfhelptool"></div>
 
 ### 1) Self-Help Tool for Safe Travel Lanes and Entry Requirements
