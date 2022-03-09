@@ -22,7 +22,7 @@ This page is only meant as quick reference for the categories of travel health c
 </td>
       <td style="margin-top: 0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><ol style="list-style-type:decimal; vertical-align: middle;"><li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Pre-Departure Test, which can include any of the following, two days before departure:
 				<ol style="list-style-type:lower-latin; vertical-align: middle;">
-					<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">COVID-19 Polymerase Chain Reaction Test (PCR Test) at an internationally accredited or recognised lab/clinic/medical facility; or</li>
+					<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">COVID-19 Polymerase Chain Reaction Test (PCR Test) <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">at an internationally accredited or recognised lab/clinic/medical facility</a>; or</li>
 					<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed)</li>
 				</ol>
 				</li>
@@ -35,7 +35,7 @@ This page is only meant as quick reference for the categories of travel health c
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; vertical-align:middle;">All other countries/regions</p></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><ol style="list-style-type:decimal; vertical-align: middle;"><li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Pre-Departure Test, which can include any of the following, two days before departure:
 				<ol style="list-style-type:lower-latin; vertical-align: middle;">
-					<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">COVID-19 Polymerase Chain Reaction Test (PCR Test) at an internationally accredited or recognised lab/clinic/medical facility; or</li>
+					<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">COVID-19 Polymerase Chain Reaction Test (PCR Test) <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">at an internationally accredited or recognised lab/clinic/medical facility</a>; or</li>
 					<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed)</li>
 				</ol>
 				</li>
