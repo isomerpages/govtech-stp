@@ -4,7 +4,6 @@ permalink: /shn-and-swab-summary
 description: Only applicable for specific SafeTravel Lanes, check the Travelling
   to Singapore page for full list of SafeTravel lanes and requirements
 ---
-
 <b>Readers who have arrived at this page directly from a search engine or are new to the entry requirements imposed by Singapore during the pandemic, must start from the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page to determine the SafeTravel Lane they should use and the requirements/approvals under each SafeTravel Lane.</b>
 
 This page is only meant as quick reference for the categories of travel health control measures that are applicable to non-Vaccinated Travel Lane arrangements, and does not cover specially negotiated lanes such as the Reciprocal Green Lane, and specific arrangements for pass holders under the Work Pass Holder Lane or Student  Pass Holder lane, where other requirements such as vaccination are required.
@@ -12,7 +11,7 @@ This page is only meant as quick reference for the categories of travel health c
 <table>
   <thead>
     <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Travel Health Control Measure Category based on Past 7-Day Travel History before arrival in Singapore</b></th>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Travel Health Control Measure Category based on Past 7-Day Travel History before arrival in Singapore</b><br><br><i>Click on links for the </i></th>
 	    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Summary of Health Measures (excluding lane-specific administrative arrangements such as entry approvals, vaccination requirements)</b></th>
     </tr>
   </thead>
