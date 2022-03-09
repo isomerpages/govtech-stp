@@ -11,7 +11,7 @@ This page is only meant as quick reference for the categories of travel health c
 <table>
   <thead>
     <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Travel Health Control Measure Category based on Past 7-Day Travel History before arrival in Singapore</b><br><br><i>Click on links for the </i></th>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Travel Health Control Measure Category based on Past 7-Day Travel History before arrival in Singapore</b><br><br><i>(Click on links for the Travel Checklist)</i></th>
 	    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Summary of Health Measures (excluding lane-specific administrative arrangements such as entry approvals, vaccination requirements)</b></th>
     </tr>
   </thead>
