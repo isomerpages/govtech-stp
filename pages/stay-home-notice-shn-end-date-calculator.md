@@ -20,9 +20,9 @@ These calculators <u><b>cannot</b></u> provide a definitive SHN end date/time as
 
 <div id="cal"></div>
 
-## 10-day SHN Calculator
+<!--## 10-day SHN Calculator
 
-<iframe width="100%" height="620" src="https://www.checkfirst.gov.sg/c/d0561e7d-ec2d-4575-83a9-274d5629bb8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="620" src="https://www.checkfirst.gov.sg/c/d0561e7d-ec2d-4575-83a9-274d5629bb8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 ## 7-day SHN Calculator
 
