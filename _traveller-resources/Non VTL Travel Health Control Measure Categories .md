@@ -20,7 +20,12 @@ This page is only meant as quick reference for the categories of travel health c
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><p style="margin-top:15px; margin-bottom:0px; font-size:18px; vertical-align:middle;"><b>Category I – “Low Infection Category”</b></p>
 				<p style="margin-top:10px; margin-bottom:0px; font-size:18px; vertical-align:middle;">Mainland China, Macao, Taiwan</p>
 </td>
-      <td style="margin-top: 0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><ol style="list-style-type:disc; vertical-align: middle;"><li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Pre-Departure Test 2 days before departure</li>
+      <td style="margin-top: 0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><ol style="list-style-type:decimal; vertical-align: middle;"><li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Pre-Departure Test, which can include any of the following, two days before departure:
+				<ol style="list-style-type:lower-latin; vertical-align: middle;">
+					<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Pre-Departure Test, which can include any of the following, two days before departure:</li>
+					<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Pre-Departure Test, which can include any of the following, two days before departure:</li>
+				</ol>
+				</li>
 <li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Supervised ART within 24 hours of arrival and remain in self-isolation until a negative result is obtained</li>
 				</ol>
 				 </td>
