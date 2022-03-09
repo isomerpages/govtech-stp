@@ -17,7 +17,7 @@ notification: <h6 style="text-align:left;"><!--Scheduled maintenance will be
   e-Service</a> for a fee.                          </h6>
 sections:
   - hero:
-      title: <h3 style="font-size:25px; font-weight:bold; font-family:Arial;
+      title: <h3 style="font-size:20px; font-weight:bold; font-family:Arial;
         letter-spacing:0; line-height:1.4em; color:#333;">Singapore has
         implemented Safe Travel Lanes to facilitate travel while safeguarding
         public health amidst the COVID-19 pandemic. <br/><br/> Click the buttons
