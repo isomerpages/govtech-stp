@@ -71,8 +71,7 @@ description: ""
 	</table>
 </div>	
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1C"><label class="box" for="1B">&nbsp;&nbsp;<b>C) Obtain Medical Proof of COVID-19 infection detected 7 – 90 days before date of departure</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>C) Obtain Medical Proof of COVID-19 infection detected 7 – 90 days before date of departure</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">As proof of a past COVID-19 infection, Vaccinated-Recovered Travellers must obtain either of the following medical documents, which must be in English or translated to English. Handwritten documents will be rejected.</p>
 	<table>
@@ -101,8 +100,7 @@ description: ""
 	</table>
   </div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1D"><label class="box" for="1C">&nbsp;&nbsp;<b>D) [Short-Term visitors and Long-term Pass holders] Purchase COVID-19 Insurance</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>D) [Short-Term visitors and Long-term Pass holders] Purchase COVID-19 Insurance</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Purchase travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. <a href="/health/insurance-and-treatment" target="_blank">Click here</a> for the list of available travel insurance products offered in Singapore.</p>
 	</div>
