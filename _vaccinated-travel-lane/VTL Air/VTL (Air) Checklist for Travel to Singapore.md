@@ -94,8 +94,8 @@ input:checked + label + .content {
 </style>
 </head>
 <body>	
-<input id="title1" type="checkbox">
-	<label for="title1"><b>Singapore</b></label>
+<input id="Singapore-cert" type="checkbox">
+	<label for="Singapore-cert"><b>Singapore</b></label>
 <div style="background-color:#edf4fa;" class="content">
 	<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>
 <ol style="list-style-type:lower-alpha;"><li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code; or</li>
