@@ -38,8 +38,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Transits via other countries with a layover of less than 24 hours are not counted toward travel history. Visitors are not required to travel to Singapore on a direct flight; they may transit via a third country, so long as the transit duration is less than 24 hours.</p>
   </div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1B"><label class="box" for="1B">&nbsp;&nbsp;<b>B) Apply for Entry Approval</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>B) Apply for Entry Approval</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><b>Apply <u>between 7 and 60 calendar days</u> before the intended date of entry.</b></p>
 <div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="/atp/apply-now" target="_blank"><b>Foreign Short-Term Visitors<br>Click Here To Apply For an ATP</b></a></div>
