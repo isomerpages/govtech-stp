@@ -18,9 +18,9 @@ third_nav_title: VTL Air
 	<li style="line-height:1.35;"><a href="#Eligibility">Eligibility</a>
 		<ol>
 		<li style="line-height:1.35; list-style-type:lower-alpha;"><a href="#countries">VTL (Air) Countries/Regions and Allowed Travel History</a></li>
-			<li style="line-height:1.35; list-style-type:lower-alpha;">Traveller profile</li>
-			<li style="line-height:1.35; list-style-type:lower-alpha;">Recognised vaccinations and vaccination certificates</li>
-			<li style="line-height:1.35; list-style-type:lower-alpha;">VTL (Air) designated flight</li>
+			<li style="line-height:1.35; list-style-type:lower-alpha;"><a href="#profile">Traveller profile</a></li>
+			<li style="line-height:1.35; list-style-type:lower-alpha;"><a href="#proof">Recognised vaccinations and vaccination certificates</a></li>
+			<li style="line-height:1.35; list-style-type:lower-alpha;"><a href="#flight">VTL (Air) designated flight</a></li>
 		</ol>
 	</li>
 	<li style="line-height:1.35;"><a href="#Application">Application for Travel under the VTL (Air)</a></li>
@@ -119,8 +119,8 @@ input:checked + label + .content {
 <p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>7</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
 	</div>
 	
-<input id="title1" type="checkbox">
-<label for="title1">Criterion 2: Traveller Profile</label>
+<input id="profile" type="checkbox">
+<label for="profile">Criterion 2: Traveller Profile</label>
 <div style="background-color:#edf4fa;" class="content">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">All fully vaccinated travellers (click here for definition of <a href="/health/vtsg" target="_blank">fully vaccinated</a>) <b>except</b> the work permit holder types below are allowed to enter under the Vaccinated Travel Lanes (VTLs):</p>
 <ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
@@ -134,8 +134,8 @@ input:checked + label + .content {
 	</ul>
 	</div>
 
-<input id="title3" type="checkbox">
-<label for="title3">Criterion 3: Hold an Accepted Proof of Vaccination</label>
+<input id="proof" type="checkbox">
+<label for="proof">Criterion 3: Hold an Accepted Proof of Vaccination</label>
 
 <div style="background-color:#edf4fa;" class="content" id="criteria">
 <p style="line-height:1.3; font-size:18px; margin-bottom:15px;">Fully vaccinated travellers must hold an accepted proof of vaccination in any of the following formats issued by the respective countries/regions listed below. You are encouraged to verify that your vaccination certificates are valid using <a href="/vtl/faq#vaxcert" target="_blank">publicly available verification tools</a> if available, prior to your trip. Eligible MOM Long Term Pass Holders may also obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</p>
@@ -191,8 +191,8 @@ input:checked + label + .content {
 	</ol>
 </div>
 
-<input id="title4" type="checkbox">
-<label for="title4">Criterion 4: Arrive in Singapore on a designated VTL flight</label>
+<input id="flight" type="checkbox">
+<label for="flight">Criterion 4: Arrive in Singapore on a designated VTL flight</label>
 
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;">Travellers must arrive in Singapore on a designated VTL flight. You can click here to check list of airlines approved to operate designated VTL (Air) flights. Please note that not all flights operated by the airlines or flying out of the countries listed below are VTL flights.</p>
