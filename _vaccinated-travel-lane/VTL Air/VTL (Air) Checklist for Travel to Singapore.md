@@ -110,3 +110,4 @@ input:checked + label + .content {
 	</div>
 </body>
 </html>
+</div>
