@@ -187,44 +187,34 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 
 <i style="color:red;">Note: Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo an on-arrival COVID-19 test. Fully vaccinated recently-recovered travellers entering Singapore may qualify for exemption from the on-arrival COVID-19 test. Please refer <a href="/vaccinated-recovered" target="_blank">this page </a> for more information.</i>
 
-<i style="color:red;">Travellers must complete a supervised self-administered Antigen Rapid Test (ART) at a Quick Test Centre (QTC) or Combined Test Centre (CTC) within 24 hours of arrival in Singapore. Travellers can expect a refund from the Changi Airport Group (CAG) for their unutilised PCR test (excluding the S$3 administrative fee) 7 days after their scheduled booking date.</i>
+<i style="color:red;">Travellers entering Singapore <b>from 14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured authorised ART kits within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART. Travellers are required to report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore.</i>
 
+#### <u>SUPERVISED ART <i>(for travellers entering before 14 Mar 2022, 2359hrs)</i></u>
 	
 #### 1. What are the test centres that travellers can go to for their supervised ARTs?
 
 They can visit any of the <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres (QTCs) or Combined Test Centres (CTCs)</a>.
 
-#### 2. Can travellers choose to undergo the supervised ART at other clinics in Singapore?
-
-Yes, travellers may choose to undergo the on-arrival COVID-19 ART test at other clinics or hospitals in Singapore. However, the cost of the COVID-19 ART test may be higher than those at the QTC/CTCs. 
-
-#### 3. How much does the supervised ART cost?
-
-The cost of the supervised ART is S$15 (inclusive of Goods and Services Tax), with payment to be made at the QTC/CTC through cashless modes, such as Mastercard, NETS, PayNow and Visa.
-
-#### 4. Can travellers bring their own ART self-test kits to the test centres?
+#### 2. Can travellers bring their own ART self-test kits to the test centres?
 
 No, travellers must use the ART self-test kits provided at the test centres. The S$15 includes payment for the ART kits.
 
-#### 5. How do travellers book their appointments for their supervised ARTs?
+#### 3. How do travellers book their appointments for their supervised ARTs?
 
 Travellers will be provided with a weblink via the contact number and/or email address that they had declared in the Singapore Arrival Card (SGAC) and/or electronic Health Declaration Card (eHDC) to book their ART at a <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> upon arrival. Click here for more information about the QTC or CTC.
  
-#### 6. What do travellers need to bring for their supervised ART appointment?
 
-Travellers will need to bring along a photo identification for verification.
-
-#### 7. Are children required to undergo supervised ARTs?
+#### 4. Are children required to undergo supervised ARTs?
 
 Children aged 3 to 12 must undergo their supervised ART at the <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres (QTC) or Combined Test Centres (CTCs)</a> and be accompanied by a caregiver aged 21 years old and above. The caregiver may be required to help administer the test if the minor is unable to do so.
 
-#### 8. Do travellers need to self-isolate after their supervised ART?
+#### 5. Do travellers need to self-isolate after their supervised ART?
 
 Yes, travellers must self-isolate after their supervised ART until their test result is conveyed.
 
 Except for attending the supervised ART, travellers are required to self-isolate in their declared accommodation until they are notified that they have tested negative. Travellers may only take private transportation, taxi, or private hire car between the QTC/CTC and their accommodation. Public transportation is not allowed.
 
-#### 9. How soon will the results of the supervised ARTs be out?
+#### 6. How soon will the results of the supervised ARTs be out?
 
 If tested positive for their supervised ART, travellers will be informed via a phone call to their registered mobile number (regardless of whether it is a Singapore mobile number).
 
@@ -232,7 +222,7 @@ Travellers with a registered local mobile number can expect to receive their res
 
 Travellers should not wait for their test results at the test centre due to space constraints. They may leave the test centre once they have completed their self-administered ART and await notification of their test results via SMS or email.
 
-#### 10. What should travellers do if they have an invalid ART result for their supervised ART?
+#### 7. What should travellers do if they have an invalid ART result for their supervised ART?
 
 Travellers with an invalid ART result for their supervised ART will be required to return for a retest. This will be provided free-of-charge.
 
