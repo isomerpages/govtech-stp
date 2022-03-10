@@ -12,6 +12,28 @@ third_nav_title: VTL Air
 
 ### Vaccinated Travel Lane (Air) Travel Checklist
 
+
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><b>The following types of travellers are eligible for VTL (Air) but must fulfil the requirements in this checklist</b>. If requirements are not followed, SC/PRs will be subjected to prevailing Stay-Home Notice and testing requirements, and all other travellers may be denied entry into Singapore:</p>
+
+<p style="padding-left:50px; font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px; color:green;"><b>✓</b></span>&nbsp; Singapore Citizens and Permanent Residents ("SC/PRs")</p>
+
+<p style="padding-left:50px;font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px; color:green;"><b>✓</b></span>&nbsp; Holders of a Singapore-issued Long-Term Pass ("LTPHs") (<i>i.e. Holders of Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration &amp; Checkpoints Authority</i>)</p>
+
+<p style="padding-left:50px; font-size:18px; margin-top:10px; margin-bottom:30px;"><span style="font-size:25px; color:green;"><b>✓</b></span>&nbsp; Short-term Visitors ("STVs") (i.e. travellers who are not SC/PRs or LTPHs)</p>
+
+<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><b>The following travellers are not allowed to enter Singapore via VTL (Air) and should check the requirements of other lanes for entry to Singapore:</b></p>
+
+<p style="padding-left:50px; font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px;  color:red;"><b>✕</b></span> &nbsp; Fully Vaccinated travellers arriving in Singapore via land or sea should check the <a target="_blank" href="/vtl-land/overview">Vaccinated Travel Lane (Land)</a> or <a target="_blank" href="/vtl-sea/overview">Vaccinated Travel Lane (Sea)</a> for more details.</p>
+<p style="padding-left:50px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><span style="font-size:25px; color:red;"><b>✕</b></span> &nbsp; Non-Malaysian male Work Permit holders in the Construction, Marine shipyard or Process (CMP) Sector or staying in dormitories should apply for entry via the <a target="_blank" href="/wphl/overview">Work Pass Holder General Lane</a>.</p>
+<p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4;"><span style="color:black; font-size:25px;"><b>✍</b></span> &nbsp; Travellers may check against the box (☐) for completed actions.</p>
+	
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">
+&#9744; &nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></div>
+<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proof of vaccination to be eligible for the VTL. <br><br>You may check for the acceptable proof of vaccination based on their countries/regions of issuance below. The upload instructions for Short-Term Visitors (STVs) and MOM Work Permit Holders (WPHs) will be required for <b>Stage 1B</b>. The QR codes of certain vaccination certificates can be verified by travellers themselves before application. Travellers are encouraged to verify that their vaccination certificates are valid using these publicly available verification tools if available, before they apply for a VTP or travel to Singapore.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">MOM LTPHs may also obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</p>
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proof of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u> </p>
 <html>
 
 <head>
@@ -72,28 +94,6 @@ input:checked + label + .content {
 </style>
 </head>
 <body>	
-
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><b>The following types of travellers are eligible for VTL (Air) but must fulfil the requirements in this checklist</b>. If requirements are not followed, SC/PRs will be subjected to prevailing Stay-Home Notice and testing requirements, and all other travellers may be denied entry into Singapore:</p>
-
-<p style="padding-left:50px; font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px; color:green;"><b>✓</b></span>&nbsp; Singapore Citizens and Permanent Residents ("SC/PRs")</p>
-
-<p style="padding-left:50px;font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px; color:green;"><b>✓</b></span>&nbsp; Holders of a Singapore-issued Long-Term Pass ("LTPHs") (<i>i.e. Holders of Work Pass issued by the Ministry of Manpower, Student’s Pass issued by the Ministry of Education, or Long-Term Visit Pass issued by the Immigration &amp; Checkpoints Authority</i>)</p>
-
-<p style="padding-left:50px; font-size:18px; margin-top:10px; margin-bottom:30px;"><span style="font-size:25px; color:green;"><b>✓</b></span>&nbsp; Short-term Visitors ("STVs") (i.e. travellers who are not SC/PRs or LTPHs)</p>
-
-<p style="font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><b>The following travellers are not allowed to enter Singapore via VTL (Air) and should check the requirements of other lanes for entry to Singapore:</b></p>
-
-<p style="padding-left:50px; font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px;  color:red;"><b>✕</b></span> &nbsp; Fully Vaccinated travellers arriving in Singapore via land or sea should check the <a target="_blank" href="/vtl-land/overview">Vaccinated Travel Lane (Land)</a> or <a target="_blank" href="/vtl-sea/overview">Vaccinated Travel Lane (Sea)</a> for more details.</p>
-<p style="padding-left:50px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><span style="font-size:25px; color:red;"><b>✕</b></span> &nbsp; Non-Malaysian male Work Permit holders in the Construction, Marine shipyard or Process (CMP) Sector or staying in dormitories should apply for entry via the <a target="_blank" href="/wphl/overview">Work Pass Holder General Lane</a>.</p>
-<p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4;"><span style="color:black; font-size:25px;"><b>✍</b></span> &nbsp; Travellers may check against the box (☐) for completed actions.</p>
-	
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">
-&#9744; &nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></div>
-<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proof of vaccination to be eligible for the VTL. <br><br>You may check for the acceptable proof of vaccination based on their countries/regions of issuance below. The upload instructions for Short-Term Visitors (STVs) and MOM Work Permit Holders (WPHs) will be required for <b>Stage 1B</b>. The QR codes of certain vaccination certificates can be verified by travellers themselves before application. Travellers are encouraged to verify that their vaccination certificates are valid using these publicly available verification tools if available, before they apply for a VTP or travel to Singapore.</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">MOM LTPHs may also obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</p>
-	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proof of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u> </p>
 <input id="Singapore-cert" type="checkbox" class="accordion">
 <label style="background:linear-gradient(360deg, #aeb2b6, #eef2f3); color:black;" for="Singapore-cert" class="accordion"><b>Singapore</b></label>
 	<div style="background-color:#ededed;" class="content">
