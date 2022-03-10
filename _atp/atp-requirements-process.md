@@ -195,7 +195,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; The tests are not applicable to:</p>
 	<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:10px; list-style-type: disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Children aged two and below in this calendar year (i.e. born in or after 2020); and</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Fully vaccinated recovered travellers</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Fully vaccinated recently-recovered travellers</li>
 </ol>
 </div>
 
