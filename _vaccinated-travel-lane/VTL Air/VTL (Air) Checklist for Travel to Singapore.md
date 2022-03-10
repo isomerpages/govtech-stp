@@ -713,3 +713,4 @@ input:checked + label + .content {
     <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>[SC/PRs with an overseas-issued vaccination certificate]</b> If you are unable to upload your vaccination certificate successfully during SG Arrival Card submission, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, to be eligible for VDS, Your vaccination status will be updated on your TraceTogether app.</p>
 	    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b style="color:red">❓</b>&nbsp; Please click <a target="_blank" href="https://www.moh.gov.sg/covid-19-phase-advisory">here</a> for the latest public health measures and VDS and <a target="_blank" href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">here</a> for more FAQs on inland public health measures.</p>
 </div>
+ 
