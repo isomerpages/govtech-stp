@@ -665,26 +665,18 @@ input:checked + label + .content {
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px; color:red;"><span style="font-size:22px; color:red;"><b>✕</b>&nbsp;</span><b>Using public transport (e.g. trains or public buses) is prohibited for those required to undergo self-isolation. </b></p>
   </div>
 	
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Self-isolation</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-&#9744; &nbsp;&nbsp;<b>Stage 4A: Self-Isolate Pending OAT Results</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">All travellers who took an on-arrival test <b>must</b> self-isolate at their declared accommodation (per <a href="#1G">Stage 1G</a>) until they are notified of their negative COVID-19 test result (likely within 24 hours).</p>
-  </div>
+&#9744; &nbsp;&nbsp;<b>Stage 4A: Exit from Self-Isolation</b></div>
+<div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers can only leave their self-isolation accommodation <b>after</b> obtaining a negative result for their on-arrival COVID-19 test.</p>
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">The supervised self-administered ART test result could be released to the traveller via email or call, around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.</p>
+	    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers who test positive for COVID-19 must abide by the relevant COVID-19 recovery protocol immediately. For more information on what to do if you feel unwell while in Singapore, please refer to <a href="https://www.covid.gov.sg/travellers" target="_blank">this link</a>. Prevailing <a href="/health/insurance-and-treatment#cost" target="_blank">medical treatment charges</a> may apply.</p>
+</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-&#9744; &nbsp;&nbsp;<b>Stage 4B: Exit from Self-Isolation</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers can only leave their self-isolation accommodation <b>after</b> a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. </p>
-	    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">The result could be released to the traveller via email or call, around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether</a> or <a target="_blank" href="https://www.healthhub.sg/HealtheServices">HealthHub App</a>.</p>
-	 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers who test positive for COVID-19 must abide by the relevant COVID-19 recovery protocol immediately. You may refer to <a target="_blank" href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor">this link</a> for more details on Protocol 2. For more information on what to do if you feel unwell while in Singapore, please refer to <a target="_blank" href="https://www.covid.gov.sg/travellers">this link</a>. Prevailing <a target="_blank" href="/health/insurance-and-treatment#cost">medical treatment and recovery charges</a> may apply.</p>
-  </div>
-	
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 5: Stay in Singapore</b></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-&#9744; &nbsp;&nbsp;<b>Stage 5A: Proof of Vaccination for Local Safe Management Measures</b></div>
+&#9744; &nbsp;&nbsp;<b>Stage 4B: Proof of Vaccination for Local Safe Management Measures</b></div>
 <div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
     <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">You must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&amp;B establishments, entering shopping malls, attending certain events etc.). You must also comply with all other <a target="_blank" href="https://www.moh.gov.sg/covid-19-phase-advisory">public health measures</a>. This includes the use of the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a>. Some activities in Singapore may require you to present a proof of vaccination.</p>
     <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>[SC/PRs with an overseas-issued vaccination certificate]</b> If you are unable to upload your vaccination certificate successfully during SG Arrival Card submission, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, to be eligible for VDS, Your vaccination status will be updated on your TraceTogether app.</p>
