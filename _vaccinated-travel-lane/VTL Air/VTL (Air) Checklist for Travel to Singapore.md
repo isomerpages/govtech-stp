@@ -463,7 +463,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<b>Stage 1F: Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive </b></div>	
+&#9744; &nbsp;&nbsp;<b>Stage 1F: Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive </b></div>	
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">Monitor your health status. Travellers are advised to defer travel if you have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">If you have recently recovered from COVID-19 in the last 90 days before departure:</p>
@@ -505,4 +505,20 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 	</tbody></table>
 	</div>
 
-
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+&#9744; &nbsp;&nbsp;<b>Stage 1G: Secure self-isolation accommodation</b></div>	
+<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.5; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp;Travellers can self-isolate at any of the following locations::</p>
+	<ol style="padding-left: 20px; list-style-type:disc;">
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Residential accommodation, e.g. own/shared residence, rented residence (please note minimum rental period regulations for <a target="_blank" href="https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Accommodation">Private Property</a> and <a target="_blank" href="https://www.hdb.gov.sg/residential/renting-a-flat/renting-from-the-open-market/regulations-for-renting-out-your-flat">HDB flat / Bedroom</a>); or</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Non-residential accommodation, such as hotel (in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>) or <a href="/files/serviced-apartments.pdf" target="_blank">serviced apartment</a>. Before booking, travellers should confirm that the accommodation allows guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.</li>
+	</ol>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp;Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; Travellers residing with unvaccinated vulnerable household members, are strongly encouraged to serve their self-isolation in isolation in a room and minimise contact. If this is not feasible, please consider alternative accommodation.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; Designate a specific bathroom to be used by themselves. If a bathroom has to be shared, the following actions are suggested:</p>
+<ol style="padding-left:20px; list-style-type:disc;">
+	<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">Lower the lid before flushing the toilet;</li>
+	<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">Clean and disinfect contact surfaces after each use; and</li>
+	<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation. Clean and disinfect contact surfaces after each use.</li>
+	</ol>
+</div>
