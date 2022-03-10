@@ -278,7 +278,7 @@ Travellers should report their test result via https://www.sync.gov.sg. Singapor
 
 The results should be visible within 15 minutes and should be reflected as follows. If it appears as invalid, please repeat the test.
 
-<img>
+<img style="width:auto; height: auto;" src="/images/ARTresults.png">
 
 
 <div id="contact"></div>
