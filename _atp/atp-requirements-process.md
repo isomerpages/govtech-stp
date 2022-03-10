@@ -192,10 +192,10 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">As a travel requirement stipulated under the Infectious Diseases Act, travellers who fail to take the supervised self-administered ART will be penalised accordingly. This could amount to the revocation of relevant entry passes, and/or fines.</p>
 
 <p style="line-height:1.35;margin-top:20px; margin-bottom:10px;font-size:18px;"><i>Travellers entering Singapore from <b>14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kits</a> within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART. Travellers are required to report their test result via <a href="https://www.sync.gov.sg " target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</i></p>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Not applicable to:</p>
-	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:10px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Children aged two and below in this calendar year (i.e. born in or after 2020); and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Fully vaccinated recovered travellers</li>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; The tests are not applicable to:</p>
+	<ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:10px; list-style-type: disc;">
+<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Children aged two and below in this calendar year (i.e. born in or after 2020); and</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Fully vaccinated recovered travellers</li>
 </ol>
 	</div>
 
