@@ -32,13 +32,13 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-&#9744;&nbsp;<b>A) Check Travel/Transit History</b></label></div>
+&#9744;&nbsp;<b>A) Check Travel/Transit History</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Visitors must have been to only one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore within the last 7 consecutive days, before departing for Singapore. </p>
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Transits via other countries with a layover of less than 24 hours are not counted toward travel history. Visitors are not required to travel to Singapore on a direct flight; they may transit via a third country, so long as the transit duration is less than 24 hours.</p>
   </div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>B) Apply for Entry Approval</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>B) Apply for Entry Approval</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><b>Apply <u>between 7 and 60 calendar days</u> before the intended date of entry.</b></p>
 <div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="/atp/apply-now" target="_blank"><b>Foreign Short-Term Visitors<br>Click Here To Apply For an ATP</b></a></div>
@@ -47,7 +47,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 </p>
   </div>	
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>C)	Apply for Entry Visa (if applicable)</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>C)	Apply for Entry Visa (if applicable)</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. They need not apply for a visa if it is still valid or if they are eligible for the visa-free transit facility. <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Click here to check if a visa is required and to apply if needed</a>.</p>
 </div>
@@ -95,7 +95,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 	</table>
   </div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>E) COVID-19 Pre-Departure Tests (PDT)</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>E) COVID-19 Pre-Departure Tests (PDT)</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px;line-height:1.35;">All travellers, except the groups listed below, <b>must</b> take a Pre-Departure Test (PDT) <b>within 2 days before departure for Singapore</b>: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
@@ -128,13 +128,12 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 	</table>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>F) Purchase COVID-19 Travel Insurance</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>F) Purchase COVID-19 Travel Insurance</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Purchase travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/insurance-and-treatment" target="_blank">here</a>.</p>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input class="box" type="checkbox" style="width:20px; height:20px; vertical-align:middle;" id="1G"><label class="box" for="1G">&nbsp;&nbsp;<b>G) Secure Self-Isolation Accommodation</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>G) Secure Self-Isolation Accommodation</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px;line-height:1.35;">Visitors are required to be isolated at a declared accommodation until they receive a negative on-arrival COVID-19 PCR test result. They should secure an accommodation which is a:</p>
 <ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;font-size:18px;">
