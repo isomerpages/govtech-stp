@@ -432,3 +432,77 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; <b>Unvaccinated children aged 12 and below in this calendar year</b> (i.e. born in or after 2010) do not need to apply. However, they must comply with all other VTL (Air) conditions and be accompanied by a <a target="_blank" href="/health/vtsg">fully vaccinated</a> VTL (Air) traveller.</p>
 </div>
 
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+&#9744; &nbsp;&nbsp;<b>Stage 1C: [If required] Apply for Entry Visa</b></div>
+<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers who hold passports and travel documents issued by visa-required countries/regions must apply for an entry visa. Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b style="color:red">❓</b>&nbsp; Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a target="_blank" href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for more details.</p>
+</div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+&#9744; &nbsp;&nbsp;<b>Stage 1D: Check Travel/Transit History &amp; Secure Tickets for a Designated VTL (Air) Flight</b></div>
+<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">All VTL travellers MUST:</p>
+<ol style="list-style-type:lower-roman;">
+		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Have <b>only</b> travelled to / transited via any VTL (Air) countries/regions, Category I countries/regions (Macao, Mainland China, Taiwan), the European Economic Area (EEA)* (from 16 March 2022 only), and/or Singapore, in the last 7 consecutive days before departure for Singapore; and
+<p style="line-height:1.35; margin-top:10px; margin-bottom:18px; font-size:18px;"><i>* The EEA consists of the 27 European Union member states, Iceland, Liechtenstein, and Norway. Travel history to Andorra, Monaco, San Marino and Vatican City is also allowed. The broadening of travel history requirement will apply to travellers entering Singapore on or after 16 March 2022.</i></p>
+	</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Arrive in Singapore on a designated VTL (Air) flight. Please check the websites of the respective airlines for the date of commencement of VTL (Air) flights and the flight details. <u><b>Not all flights departing from the VTL (Air) countries/regions and operated by the approved airlines are designated.</b></u> Travellers are strongly encouraged to consult their airlines to confirm the flight numbers and days of operation of the designated VTL (Air) flights.</li>
+	</ol>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><a target="_blank" href="https://go.gov.sg/vtl-airlines">Click here to find out which airlines are offering VTL flights to Singapore based on your country/region of departure.</a>
+</p>
+</div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1E">
+&#9744; &nbsp;&nbsp;<b>Stage 1E: [Short Term Visitors and Long Term Pass Holders] Purchase COVID-19 Insurance</b></div>
+<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Short Term Visitors]</b> Purchase travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a target="_blank" href="/health/insurance-and-treatment">here</a>.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Long Term Pass Holders]</b> Please click <a target="_blank" href="/health/insurance-and-treatment#LTPH">here</a> for more information.
+</p>
+</div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<b>Stage 1F: Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive </b></div>	
+<div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">Monitor your health status. Travellers are advised to defer travel if you have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">If you have recently recovered from COVID-19 in the last 90 days before departure:</p>
+	<ol style="padding-left: 20px; list-style-type:disc;">
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Use this <a target="_blank" href="https://go.gov.sg/recovered-traveller-checker">self-checker tool</a> determine if you are eligible for the Vaccinated-Recovered Traveller Protocol. If eligible, refer to details of the <a target="_blank" href="/vaccinated-recovered">Vaccinated-Recovered Traveller Protocol instead</a> for details on documentation and administrative requirements, and ignore the remaining stages of this checklist.</li>
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">To travel on a VTL flight, requirements from Stage 1A-1D still apply.</li>
+	</ol>
+	<div id="recovery"></div>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">Any of the documentation (see A and B below) is acceptable as proof of recovery from COVID-19, as long as it:</p>
+	<ol style="padding-left: 20px;">
+		<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Is not a handwritten document;</li>
+			<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Is in English or accompanied with an English translation;</li>
+			<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+			<li style="line-height:1.35; margin-bottom:18px; font-size:18px;">Reflects the date and result of the COVID-19 test</li>
+	</ol>
+		<table>
+	<tbody><tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b>A)</b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Any of the following COVID-19 test results showing a positive COVID-19 infection <b>between 7 to 90 days (fully vaccinated travellers) or 14 to 90 days (non-fully vaccinated travellers)</b> before the date of departure for Singapore:
+<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a target="_blank" href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">	Antigen Rapid Test (ART) result administered by a trained professional</li>
+	</ol>
+</td>
+	</tr>
+<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;" colspan="2"><b> OR </b></td>
+		</tr>
+			<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;vertical-align:middle;"><b>B)</b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Medical discharge memo issued by the relevant state authority or licensed medical professional, showing:
+	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Name (per travel document used to enter Singapore);</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">ID number (per travel document used to enter Singapore), or Date of Birth; AND</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Date of infection which must fall within 7 to 90 days (fully vaccinated travellers) or 14 to 90 days (non-fully vaccinated travellers) before the date of departure for Singapore.</li>
+	</ol>
+</td>
+		</tr>
+	</tbody></table>
+	</div>
+
+
