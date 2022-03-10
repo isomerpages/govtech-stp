@@ -238,6 +238,48 @@ Further, the traveller’s ATP may be cancelled, and in such an event, he/she ma
 
 Please email <a href="mailto:testingops@hpb.gov.sg" target="_blank">testingops@hpb.gov.sg</a> for enquiries related to the supervised self-administered ART results.
 
+#### <u>UNSUPERVISED ART <i>(for travellers entering from 14 Mar 2022, 2359hrs)</i></u>
+
+#### 10. Where can travellers obtain ART self-test kits?
+
+Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along a maximum of 20 ART kits authorised for use in Singapore per individual from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmacy, retailer or e-commerce platform. ART kits will not be provided upon arrival.
+
+#### 11. Are there specific ART kits that travellers may use for self-testing?
+
+Travellers are advised to only purchase and use COVID-19 self-test kits authorised for use in Singapore by the Health Sciences Authority (HSA). As these tests are meant to be used by consumers, no doctor’s prescription is required for their purchase.
+
+#### 12. How much does an ART kit cost?
+
+ART kits typically cost less than S$15 and can be obtained from any local clinic, pharmacy, retailer or e-commerce platform.
+
+#### 13. How do travellers self-administer an ART?
+
+Travellers are strongly encouraged to view the materials here to learn how to self-administer an ART. They can follow the step-by-step instructions while administering their ART.
+
+Travellers may also refer to MOH’s guidelines on COVID-19 self-testing to ensure the correct use and appropriate follow-up actions based on the results of the self-testing. MOH’s simple guide to ART self-test kits is available in different languages at the following links:
+
+•	English
+•	Chinese
+•	Malay
+•	Tamil
+
+#### 14. Are there any age restrictions on the use of ART kits?
+
+Children under the age of 2 are not required to perform ARTs. Generally, those below 12 years old will require an adult’s assistance to administer the ART self-test.
+
+#### 15. When should travellers need to perform their ART?
+
+Travellers are required to self-administer their ART within 24 hours of arrival in Singapore and report their test result via https://www.sync.gov.sg before proceeding with their activities in Singapore. 
+
+#### 16. How do travellers report their test result?
+
+Travellers should report their test result via https://www.sync.gov.sg. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.
+
+#### 17. How long will it take to obtain the results of the self-administered ART?
+
+The results should be visible within 15 minutes and should be reflected as follows. If it appears as invalid, please repeat the test.
+
+<img>
 
 <div id="general"></div>
 
