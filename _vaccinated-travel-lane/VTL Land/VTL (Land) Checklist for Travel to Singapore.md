@@ -6,89 +6,6 @@ third_nav_title: VTL Land
 ---
 ### VTL Land Travel Checklist 
 
-
-
-
-<title>Test Accordion</title>
-
-<style>	
-input.accordion {
-    display: none;
-}
-
-label.accordion {
-    display: block;    
-    padding: 10px 30px;
-    margin: 0 0 1px 0;
-    cursor: pointer;
-    background: #153855;
-    border-radius: 3px;
-    color: #FFFFFF;
-    transition: ease .5s;
-		position: relative;
-}
-
-label.accordion:hover {
-    background: #346f9e;
-}
-
-label.accordion::after {
-	font-family: "Font Awesome 5 Free";
-	content: '\271A';
-	font-weight: bold;
-	font-size: 22px;
-	position: absolute;
-	right: 10px;
-	top: 6px;
-}
-
-input.accordion:checked + label.old::after {
-	content: '\2716';
-}
-
-.content {
-    background: #FFFFFF;
-    padding: 10px 25px;
-    margin: 0 0 1px 0;
-    border-radius: 3px;
-}
-
-input.accordion + label.accordion + .content {
-    display: none;
-}
-
-input.accordion:checked + label.accordion + .content {
-    display: block;
-}
-	
-input.box {
-		display: inline;
-		width: 20px;
-		height: 20px;
-		vertical-align:middle; 
-}	
-	
-label.box { 
-	  display: inline;    
-    padding: 0px;
-    margin: 0 0 0 0;
-    cursor: pointer;
-    background: #d5d5d5;
-    border-radius: 3px;
-    color: #000000;
-    transition: ease .5s;
-	  position: relative;
-}
-
-
-  
-</style>
-
-
-
-
-
-
 <p style="font-size:18px; line-height:1.35; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>✓</b></span>&nbsp; For travellers including Singapore Citizens, Permanent Residents, holders/in-principle approval ("IPA") holders of a Singapore-issued Long-Term Pass and Malaysia Citizens entering Singapore via the Causeway taking designated buses for the VTL (Land).</p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.35;"><span style="font-size:20px;  color:red;"><b>✕</b></span> &nbsp; Not for travellers arriving in Singapore by plane ✈. Fully vaccinated travellers who intend to fly from Malaysia to Singapore should check the <a target="_blank" href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a> for more details. </p>
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><span style="font-size:20px; color:red;"><b>✕</b></span> &nbsp; Not for non-Malaysian citizens holding an IPA of a Singapore-issued Long-Term Pass</p>
@@ -98,9 +15,7 @@ label.box {
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="1A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox">
-<label for="1A">&nbsp;&nbsp;<b>(1A) Obtain an accepted proof of vaccination</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(1A) Obtain an accepted proof of vaccination</b></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Obtain any of the following digitally verifiable vaccination certificates accepted by the Singapore Government:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px;">
@@ -114,7 +29,7 @@ label.box {
 <p style="padding-left:5px;font-size:18px; margin-bottom: 10px; line-height:1.35;">❓ &nbsp;<b>Frequently asked questions regarding vaccination proof can be found <a target="_blank" href="/vtl/faq#vaxcert">here</a>.</b></p>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1B">&nbsp;&nbsp;<b>(1B) Secure Tickets for a Designated VTL (Land) Bus Service</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(1B) Secure Tickets for a Designated VTL (Land) Bus Service</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; background-color:#f5f5f5; border-style: solid; border-width: 1px; text-align:center;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.4; color:red; text-algin:center;"><b><u><a href="#notice">SEE NOTICE</a></u></b></p>
@@ -128,12 +43,10 @@ label.box {
 	*<i>The list of bus operators and websites will be regularly updated.</i>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1C" style="width:20px; height:20px; vertical-align:middle;" type="checkbox">
-		<label for="1C">&nbsp;&nbsp;<b>(1C) <span style="color:red;">[Short-term Visitors Only]</span> COVID-19 Travel and/or Medical Insurance </b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(1C) <span style="color:red;">[Short-term Visitors Only]</span> COVID-19 Travel and/or Medical Insurance </b></div>
 <div style="padding:20px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">All short-term visitors (i.e. Malaysian citizens who are not Singapore Permanent Residents or holders of Singapore-issued long term passes),  travelling to Singapore under VTL (Land), must purchase a suitable COVID-19 travel and/or medical insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available insurance products offered in Singapore, click <a target="_blank" href="/health/insurance-and-treatment#insurance">here</a>.</p></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1D" style="width:20px; height:20px; vertical-align:middle;" type="checkbox">
-		<label for="1D">&nbsp;&nbsp;<b>(1D) [Short Term Visitors and Eligible Work Permit Holders only] Apply for Vaccinated Travel Pass (VTP) </b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(1D) [Short Term Visitors and Eligible Work Permit Holders only] Apply for Vaccinated Travel Pass (VTP) </b></div>
 <div style="padding:20px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a target="_blank" href="https://go.gov.sg/vtl-portal"><b>Click Here To Apply For a VTP</b></a></div>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">⏰ &nbsp; <b>Apply <u>between 3 and 60 calendar days</u> before the intended date of entry.</b></p>
@@ -151,8 +64,7 @@ label.box {
 </div>
 
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="1E" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1E" class="box">&nbsp;&nbsp;<b>(1E) Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive </b></label></div>	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(1E) Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive </b></div>	
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">Monitor your health status. Travellers are advised to defer travel if you have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;">If you have recently recovered from COVID-19 in the last 90 days before departure:</p>
@@ -194,7 +106,7 @@ label.box {
 	</div>
 
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1F" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1F">&nbsp;&nbsp;<b>(1F) Pre-departure COVID-19 Test (PDT)</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(1F) Pre-departure COVID-19 Test (PDT)</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 			<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">All travellers, except the groups listed below, must take a Pre-Departure Test (PDT) within 2 days before departure for Singapore (e.g. if the traveller is scheduled to depart for Singapore on 3 Nov 2021, the earliest he can take his PDT is on  Nov 2021, 0001h):</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
@@ -209,7 +121,7 @@ label.box {
 	</ol>
 	</div>
 	
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1G" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1G">&nbsp;&nbsp;<b>(1G) Submit Health Declaration</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(1G) Submit Health Declaration</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35;">⏰ &nbsp; <b>If you are fit for travel, submit the SG Arrival Card health and travel history declaration up to <u>3 days</u> before arriving in Singapore.</b></p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
@@ -222,7 +134,7 @@ label.box {
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; Work Permit holders and short-term visitors: You do not need to upload your vaccination certificates as they have already been verified as part of the VTP application.</p>
 	</div>
 	
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1H" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1H">&nbsp;&nbsp;<b>(1H) Passport Updates for Automated Immigration Clearance</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(1H) Passport Updates for Automated Immigration Clearance</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">To enjoy automated immigration clearance at Woodlands Checkpoint, travellers may follow the following steps to update their passports:</p>
 
@@ -264,7 +176,7 @@ label.box {
 <div id="stage2"></div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>(2A) Departure for Singapore</b></div>
-<div style="padding:10px 10px 5px 10px; margin-top:0px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="2A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="2A">&nbsp;&nbsp;<b>Pre-departure document checks</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-top:0px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Pre-departure document checks</b></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Present the following documents to transport operators for verification:</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Ticket for designated VTL (Land) bus services </li>
@@ -279,7 +191,7 @@ label.box {
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>(3A) Arrival in Singapore</b></div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="3A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="3A">&nbsp;&nbsp;<b>(3A) Immigration Clearance</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(3A) Immigration Clearance</b></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Follow the instructions provided by the officers and signages on arrival. Travellers must present the same set of documentation listed in <a href="#2A">Stage 2</a> for immigration clearance.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">⚠&nbsp;</span>Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration &amp; Checkpoints Authority (ICA).</p>
@@ -287,7 +199,7 @@ label.box {
 	<p style="line-height:1.35;font-size:18px;">If detected to be symptomatic or COVID positive on arrival, travellers may be subjected to additional tests at S$30 (inclusive of GST) per ART or S$138 (inclusive of GST) per PCR test. Officers stationed on the ground will provide the necessary instructions.</p>
 </div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="3B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="3B">&nbsp;&nbsp;<b>(3B) On-Arrival COVID-19 ART</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(3B) On-Arrival COVID-19 ART</b></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers will be ferried to Queen Street Terminal or Woodlands Temporary Bus Interchange, where they will take their on-arrival COVID-19 ART. Including GST, the test costs $15 and travellers can make e-payment for the test on the spot. Travellers may also take a supervised self-swab ART as their On-Arrival Covid-19 test at a <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre or Combined Test Centre</a>within 24 hours of arrival. The weblink to book the test will be provided in the Testing Notice issued on arrival.</p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">❌</span>&nbsp;Children aged two and below in this calendar year (i.e. born in or after 2020) do not require an on-arrival test.</p>
@@ -298,7 +210,7 @@ label.box {
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="4A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="4A">&nbsp;&nbsp;<b>(4A) COVID-19 Safe Management Measures and Proof of Vaccination</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(4A) COVID-19 Safe Management Measures and Proof of Vaccination</b></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">The vaccination status of all fully vaccinated VTL (Land) travellers vaccinated outside Singapore will be automatically reflected on their <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a> <b>1 day</b> after arrival in Singapore.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">All travellers must comply with the latest public health measures. This includes the use of the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Please visit the <a target="_blank" href="https://moh.gov.sg/covid-19-phase-advisory">Ministry of Health website</a> for details on the prevailing measures.</p>
