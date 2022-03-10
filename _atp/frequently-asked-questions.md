@@ -241,11 +241,11 @@ Please email <a href="mailto:testingops@hpb.gov.sg" target="_blank">testingops@h
 
 #### 10. Where can travellers obtain ART self-test kits?
 
-Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along a maximum of 20 ART kits authorised for use in Singapore per individual from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmacy, retailer or e-commerce platform. ART kits will not be provided upon arrival.
+Travellers may use their own self-test kits to administer their ART. If they do not have ART kits, they may either bring along a maximum of 20 <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">ART kits authorised for use in Singapore</a> per individual from their country/region of departure, or purchase authorised ART kits from any local clinic, pharmacy, retailer or e-commerce platform. ART kits will not be provided upon arrival.
 
 #### 11. Are there specific ART kits that travellers may use for self-testing?
 
-Travellers are advised to only purchase and use COVID-19 self-test kits authorised for use in Singapore by the Health Sciences Authority (HSA). As these tests are meant to be used by consumers, no doctor’s prescription is required for their purchase.
+Travellers are advised to only purchase and use <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">COVID-19 self-test kits authorised for use in Singapore</a> by the Health Sciences Authority (HSA). As these tests are meant to be used by consumers, no doctor’s prescription is required for their purchase.
 
 #### 12. How much does an ART kit cost?
 
@@ -253,14 +253,15 @@ ART kits typically cost less than S$15 and can be obtained from any local clinic
 
 #### 13. How do travellers self-administer an ART?
 
-Travellers are strongly encouraged to view the materials here to learn how to self-administer an ART. They can follow the step-by-step instructions while administering their ART.
+Travellers are strongly encouraged to <a href="https://artbuddy.healthpixel.co/" target="_blank">view the materials here</a> to learn how to self-administer an ART. They can follow the step-by-step instructions while administering their ART.
 
-Travellers may also refer to MOH’s guidelines on COVID-19 self-testing to ensure the correct use and appropriate follow-up actions based on the results of the self-testing. MOH’s simple guide to ART self-test kits is available in different languages at the following links:
+Travellers may also refer to <a href="https://www.covid.gov.sg/exposed/no-hrw" target="_blank">MOH’s guidelines on COVID-19 self-testing</a> to ensure the correct use and appropriate follow-up actions based on the results of the self-testing. MOH’s simple guide to ART self-test kits is available in different languages at the following links:
 
-•	English
-•	Chinese
-•	Malay
-•	Tamil
+- [English](https://go.gov.sg/bca-self-art-eng)
+- [Chinese](https://go.gov.sg/bca-self-art-chi)
+- [Malay](https://go.gov.sg/bca-self-art-mal)
+- [Tamil](https://go.gov.sg/bca-self-art-tam)
+
 
 #### 14. Are there any age restrictions on the use of ART kits?
 
