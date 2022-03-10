@@ -657,10 +657,11 @@ input:checked + label + .content {
   </div>		
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-&#9744; &nbsp;&nbsp;<b>Stage 3C: Travel to Declared Self-Isolation Accommodation</b></div>
+&#9744; &nbsp;&nbsp;<b>Stage 3C: Travel to Declared Accommodation</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Commute directly to your declared self-isolation accommodation immediately. You may do so using private transport, taxi, or private hire cars (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps).</p>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Fully vaccinated recently-recovered travellers who are exempted from the on-arrival COVID-19 test do not need to undergo self-isolation. They may leave the airport via any means of transportation.</p>
+		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Commute directly to your declared accommodation immediately. You may do so using private transport, taxi, or private hire cars (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps).</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Fully vaccinated recently-recovered travellers who are exempted from the on-arrival COVID-19 test may leave the airport via any means of transportation.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">All travellers who took an on-arrival test must self-isolate at their declared accommodation until they obtain a negative COVID-19 test result.</p>
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px; color:red;"><span style="font-size:22px; color:red;"><b>✕</b>&nbsp;</span><b>Using public transport (e.g. trains or public buses) is prohibited for those required to undergo self-isolation. </b></p>
   </div>
 	
