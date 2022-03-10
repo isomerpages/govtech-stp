@@ -87,6 +87,7 @@ input:checked + label + .content {
 </style>
 </head>
 <body>	
+	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">
 <label for="1A" class="box">&#9744; &nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></label></div>
@@ -112,5 +113,5 @@ input:checked + label + .content {
 		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_SG.png" style="width:44px; height:97px;"></li>
 </ol>
 </div>
-	</body>
-	</html>
+</body>
+</html>
