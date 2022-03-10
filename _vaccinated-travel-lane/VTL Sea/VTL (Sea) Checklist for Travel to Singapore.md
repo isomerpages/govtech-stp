@@ -55,8 +55,7 @@ third_nav_title: VTL Sea
 </div>
 
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="1D" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1D" class="box">&nbsp;&nbsp;<b>Stage 1D: Check Travel/Transit History &amp; Secure Tickets for a Designated VTL Regional Ferry Operator</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1D: Check Travel/Transit History &amp; Secure Tickets for a Designated VTL Regional Ferry Operator</b></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">All VTL travellers MUST:</p>
 <ol style="list-style-type:lower-roman;">
@@ -70,15 +69,14 @@ third_nav_title: VTL Sea
 	</ol>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1E">
-<input id="1E" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1E" class="box">&nbsp;&nbsp;<b>Stage 1E: [Short Term Visitors and Long Term Pass Holders] Purchase COVID-19 Insurance</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1E">&#9744;&nbsp;<b>Stage 1E: [Short Term Visitors and Long Term Pass Holders] Purchase COVID-19 Insurance</b></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Short Term Visitors]</b> Purchase travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a target="_blank" href="/health/insurance-and-treatment">here</a>.</p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Long Term Pass Holders]</b> Please click <a target="_blank" href="/health/insurance-and-treatment#LTPH">here</a> for more information.
 </p>
 </div>
 
-<div id="1F" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>Stage 1F: Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></i></div>
+<div id="1F" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1F: Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers are advised to defer travel if they have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
