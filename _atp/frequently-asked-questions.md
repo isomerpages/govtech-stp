@@ -226,7 +226,7 @@ Travellers should not wait for their test results at the test centre due to spac
 
 Travellers with an invalid ART result for their supervised ART will be required to return for a retest. This will be provided free-of-charge.
 
-#### 11. What are the penalties if travellers fail to undergo their supervised ART within 24 hours of arrival?
+#### 8. What are the penalties if travellers fail to undergo their supervised ART within 24 hours of arrival?
 
 Failure to undergo the supervised ART may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
 
@@ -234,7 +234,7 @@ A traveller who fails to undergo the supervised ART may also be required, for pu
 
 Further, the traveller’s ATP may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future ATP applications may also be rejected.
 
-#### 12. What should travellers do if they do not receive their supervised self-administered ART results after 24 hours?
+#### 9. What should travellers do if they do not receive their supervised self-administered ART results after 24 hours?
 
 Please email <a href="mailto:testingops@hpb.gov.sg" target="_blank">testingops@hpb.gov.sg</a> for enquiries related to the supervised self-administered ART results.
 
