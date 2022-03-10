@@ -192,7 +192,7 @@ input:checked + label + .content {
 </div>
 
 <input id="title4" type="checkbox">
-<label for="title4">Arrive in Singapore on a designated VTL flight</label>
+<label for="title4">Criterion 4: Arrive in Singapore on a designated VTL flight</label>
 
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;">Travellers must arrive in Singapore on a designated VTL flight. You can click here to check list of airlines approved to operate designated VTL (Air) flights. Please note that not all flights operated by the airlines or flying out of the countries listed below are VTL flights.</p>
