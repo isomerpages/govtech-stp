@@ -30,84 +30,11 @@ third_nav_title: VTL Air
 
 <div id="countries"></div>
 
-### 1. VTL (Air) Countries/Regions
-
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Travellers may only have travelled to or transited via "Active VTL (Air) Countries/Regions", Category I countries/regions, the European Economic Area (EEA)*, or Singapore within the past 7 days, for travellers entering Singapore based on their date of entry into Singapore. The effective dates for VTLs which have yet to commence are stated below. Travellers with travel history to non-VTL countries/regions in the European Economic Area (EEA)* within the last 7 days may only enter Singapore under the VTL from 16 March 2022, SGT.</p>
-
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><i>* The EEA consists of the 27 European Union member states, Iceland, Liechtenstein, and Norway. Travel history to Andorra, Monaco, San Marino and Vatican City is also allowed. The broadening of travel history requirement will apply to travellers entering Singapore on or after 16 March 2022.</i></p>
-
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">SC/PRs with travel history to countries/regions that are not listed within the "Active VTL (Air) Countries/Regions", Category I countries/regions (Mainland China, Macao, Taiwan), the European Economic Area (EEA)*, or Singapore will be subject to the <a href="/shn-and-swab-summary" target="_blank">prevailing health measures</a>. All other travellers may be denied entry into Singapore.</p>
-
-<table>
-<tbody>
-	<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855;color:white; line-height:1.35;"><b>Active VTL (Air) Countries/Regions</b></td>
-		</tr>
-	<tr>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle; line-height:1.35;"> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Hong Kong, India, Indonesia, Israel, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey,  the United Arab Emirates, the United Kingdom<sup>6</sup> and the United States<sup>7</sup>
-		<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
-		<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>3</sup>The Vatican City is an independent city state and is not considered part of Italy.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>4</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>5</sup>Including the Canary Islands</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>6</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>7</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>		
-		<!--<p style="font-size:14px; margin-top:20px; margin-bottom:0px; line-height:1.35;"><b>Note: The Vatican City is an independent city state and is not considered part of Italy.</b></p>-->	
-</td>
-	</tr>
-	</tbody>
-	</table>
-
-<p style="margin-top:20px;"></p>
-<table>
-<tbody>
-		<tr>
-<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>New VTL (Air) Countries/Regions from 16 Mar 2022, SGT</b></td>
-		</tr>
-	<tr>
-	<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Greece and Vietnam</td>
-	</tr>
-	</tbody>
-	</table>
-<p style="margin-top:20px;"></p>
-<!--<table>
-<tbody>
-	<tr>
-<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>[Active VTL Countries/Regions]</b></td>
-		<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;"> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></td>
-</tr>
-		<tr>
-<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b></td>
-		<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Finland, India, Indonesia, Malaysia and Sweden</td>
-</tr>
-			<tr>
-<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b></td>
-		<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Qatar, Saudi Arabia and the United Arab Emirates</td>
-</tr>
-	</tbody>
-	</table>
-
-<p style="margin-top:20px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>4</sup>Including the Canary Islands</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>5</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
-<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.35;"><sup>6</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
--->
-
-<!--<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.35;"><b>[Active VTL Countries/Regions]</b> Australia, Brunei Darussalam, Canada, Denmark<sup>1</sup>, France<sup>2</sup>, Germany, Italy, the Netherlands<sup>3</sup>, the Republic of Korea, Spain<sup>4</sup>, Switzerland, the United Kingdom<sup>5</sup> and the United States<sup>6</sup></p>
-
-<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.35;"><b>[For entry into Singapore from 28 Nov 2021, 2359hrs, SGT]</b> Finland, India, Indonesia, Malaysia and Sweden</p>
-
-<p style="font-size:18px; margin-top:0px; margin-bottom:15px; line-height:1.35;"><b>[For entry into Singapore from 5 Dec 2021, 2359hrs, SGT]</b> Qatar, Saudi Arabia, the United Arab Emirates</p>-->
-
-
-
 <div id="Eligibility"></div>
 
 ### 2. Eligibility
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic eligibility criteria and <a target="_blank" href="/vtl/conditions">conditions</a> of the VTL (Air) to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL (Air) should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic eligibility criteria of the VTL (Air) to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine. Travellers not eligible for the VTL (Air) should explore other Safe Travel Lanes at the  <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page. Singapore Citizens/Permanent Residents who do not fulfil the VTL eligibility criteria below will be subject to <a href="/sc-pr/overview" target="_blank">prevailing health measures</a>. All other travellers may be denied entry into Singapore.</p>
 
 
 <html>
@@ -171,6 +98,26 @@ input:checked + label + .content {
 </head>
 <body>
 
+<input id="criterion1" type="checkbox">
+<label for="criterion1">Criterion 1: VTL (Air) Countries/Regions and Allowed Travel History</label>
+<div style="background-color:#edf4fa;" class="content">
+<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35; list-style-type:disc;">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Active VTL (Air) Countries/Regions:</b> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Hong Kong, India, Indonesia, Israel, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey,  the United Arab Emirates, the United Kingdom<sup>6</sup> and the United States<sup>7</sup></li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>New VTL (Air) Countries/Regions from 16 Mar 2022, SGT:</b> Greece and Vietnam</li>
+	</ul>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">VTL (Air) travellers are also allowed to travel to or transit via the following list of countries/regions within the last 7 days before their date of entry into Singapore:</p>
+	<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35; list-style-type:disc;">
+		<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Travellers Entering Singapore before 16 March 2022, SGT :</b> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Hong Kong, India, Indonesia, Israel, Italy<sup>3</sup>, Macao, Mainland China, Malaysia, Maldives, the Netherlands<sup>4</sup>, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Turkey,  the United Arab Emirates, the United Kingdom<sup>6</sup> and the United States<sup>7</sup></li>
+		<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Travellers Entering Singapore from 16 Mar 2022, SGT:</b> Andorra, Australia, Austria, Belgium, Brunei Darussalam, Bulgaria, Cambodia, Canada, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup>, Estonia, Fiji, Finland, France<sup>2</sup>, Germany, Greece, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy<sup>3</sup>, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao, Mainland China, Malaysia, Maldives, Malta, Monaco, the Netherlands<sup>4</sup>, Norway, the Philippines, Poland, Portugal, Qatar, the Republic of Korea, Romania, San Marino, Saudi Arabia, Slovakia, Slovenia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Turkey, the United Arab Emirates, the United Kingdom<sup>6</sup> and the United States<sup>7</sup>, Vatican City, Vietnam</li>
+	</ul>
+	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
+		<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>3</sup>The Vatican City is an independent city state and is not considered part of Italy.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>4</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>5</sup>Including the Canary Islands</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>6</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
+<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>7</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
+	</div>
 	
 <input id="title1" type="checkbox">
 <label for="title1">Criterion 1: Fulfil Traveller Profile requirements</label>
