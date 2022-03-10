@@ -95,18 +95,22 @@ input:checked + label + .content {
 </head>
 <body>	
 <input id="title1" type="checkbox">
-<label for="title1">Criterion 1: Fulfil Traveller Profile requirements</label>
+	<label for="title1"><b>Singapore</b></label>
 <div style="background-color:#edf4fa;" class="content">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">All travellers <b>except</b> the work permit holder types below are allowed to enter under the Vaccinated Travel Lanes (VTLs):</p>
-<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian male Work Permit holders in the Construction, Marine shipyard or Process (CMP) sector</li>
-	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Work Permit holders  staying in dormitories</li>
-	</ul>
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">For the excluded work permit holder profiles, companies can still bring in such workers under:</p>
-<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
-	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">For all other workers- <a href="/wphl/overview" target="_blank">Work Pass Holder Lane</a></li>
-	</ul>
+	<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Accepted Proof of Vaccination</u></b></p>
+<ol style="list-style-type:lower-alpha;"><li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Singapore Vaccination HealthCerts issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a> with a QR code; or</li>
+<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Proof of vaccination on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub app</a>; or</li>
+		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Vaccination certificate issued by the Singapore Ministry of Health</li>
+		</ol>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Self-verification of Certificate Validity</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><a target="_blank" href="https://www.verify.gov.sg/">Verify.gov.sg</a> or regular QR code scanner on your mobile device</p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:20px;"><b><u>Instructions during VTP Application</u></b></p>
+<p style="font-size:18px; margin-bottom:0px; line-height:1.35; margin-top:10px;"><span style="font-size:18px; color:red;"><b>&#10005;</b></span> &nbsp;<b>WPHs/STVs who have received their vaccination in Singapore do not need to upload their vaccination QR code during application. The portal should be able to retrieve the vaccination records from Singapore’s National Immunisation Registry.</b></p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;">Should you experience issues with the retrieval, and you hold the proof of vaccination at (a), please refer to the instructions below to upload your vaccination certificate during application.</p>
+<ol style="list-style-type:disc;">
+		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>No. of QR codes to upload</b>: One</li>
+		<li style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>Location of QR code</b>:<br><img src="/images/QR_SG.png" style="width:44px; height:97px;"></li>
+</ol>
 	</div>
 </body>
 </html>
