@@ -34,7 +34,7 @@ third_nav_title: VTL Air
 
 ### 2. Eligibility
 
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic eligibility criteria of the VTL (Air) to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine. Travellers not eligible for the VTL (Air) should explore other Safe Travel Lanes at the  <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page. Singapore Citizens/Permanent Residents who do not fulfil the VTL eligibility criteria below will be subject to <a href="/sc-pr/overview" target="_blank">prevailing health measures</a>. All other travellers may be denied entry into Singapore.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic eligibility criteria of the VTL (Air) to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine. Travellers not eligible for the VTL (Air) should explore other Safe Travel Lanes at the  <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page</b>. Singapore Citizens/Permanent Residents who do not fulfil the VTL eligibility criteria below will be subject to <a href="/sc-pr/overview" target="_blank">prevailing health measures</a>. All other travellers may be denied entry into Singapore.</p>
 
 
 <html>
