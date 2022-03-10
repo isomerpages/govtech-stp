@@ -5,27 +5,28 @@ description: ""
 third_nav_title: VTL Air
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><span style="color:red; font-size:20px;">⚠&nbsp;</span><b>Important Note</b><span style="color:red; font-size:20px;">&nbsp;⚠</span></p>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Travellers who are not familiar with Singapore’s entry requirements or reached this page via search engine for the first time are advised to use this <a href="/arriving/overview#selfhelptool" target="_blank">self-help tool</a> to determine if they should be entering via the VTL or other non-VTL arrangements. Transit travellers should refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information.</p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><span style="color:red; font-size:20px;">⚠&nbsp;</span><b>Important Notes <i>before continuing</i></b><span style="color:red; font-size:20px;">&nbsp;⚠</span></p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Travellers who have reached this page via search engine for the first time and are intending to enter Singapore are advised to use this  <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">self-help tool</a> if they have not done so already, to determine if they should be entering via the Vaccinated Travel Lane (VTL) or other non-VTL arrangements. </p>
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Travellers who want to transit via Singapore do not need to follow VTL requirements and should refer to the <a href="/transit/overview" target="_blank">"Transiting through Singapore"</a> page for more information. </p>
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Travellers intending to depart Singapore for a VTL country must check with the authorities of their desired destination instead on the prevailing entry requirements and visit the <a href="/transit/overview" target="_blank">"Departing from Singapore"</a> page for travel advice.</p>
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">This page gives an overview of the VTL (Air) for quarantine-free travel to travel to Singapore via air only. Travellers intending to travel from Malaysia to Singapore via the Causeway should utilise the <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a>. Those who are intending to travel from Batam and Bintan to Singapore via ferry should use the <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a>. Vaccinated Travel Passes (where required) are not interchangeable between Air, Sea and Land.</p>
+	<!--<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Vaccinated travellers arriving from 1 April 2022 should refer the Green List – Vaccinated checklist instead.</p>-->
 </div>
-
-<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;">The Vaccinated Travel Lane (Air) [VTL (Air)] allows quarantine-free travel to Singapore <b>via air only</b>. Please note that:</p>
-
-<ol style="margin-top:10px; margin-bottom:20px; list-style-type:disc;">
-	<li style="font-size:18px; line-height:1.35;">Travellers intending to travel from Malaysia to Singapore via the Causeway should utilise the <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a>, and those who are intending to travel from Batam and Bintan to Singapore via ferry should use the <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a>. <b>VTP (Sea/Land) and VTP (Air) are not interchangeable</b>.</li>
-	<li style="font-size:18px; line-height:1.35;">Travellers holding an existing valid entry approval letter under other non-VTL SafeTravel Lanes but wish to travel under the Vaccinated Travel Lane should follow VTL procedures instead, including applying for a Vaccinated Travel Pass if necessary.</li>
-	</ol>
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">On this page, you will find the following key information on the VTL (Air):</p>
 <ol>
-	<li style="line-height:1.35;"><a href="#countries">VTL (Air) Countries/Regions</a></li>
-	<li style="line-height:1.35;"><a href="#Eligibility">Eligibility</a></li>
+	<li style="line-height:1.35;"><a href="#Eligibility">Eligibility</a>
+		<ol>
+		<li style="line-height:1.35; list-style-type:lower-alpha;"><a href="#countries">VTL (Air) Countries/Regions and Allowed Travel History</a></li>
+			<li style="line-height:1.35; list-style-type:lower-alpha;">Traveller profile</li>
+			<li style="line-height:1.35; list-style-type:lower-alpha;">Recognised vaccinations and vaccination certificates</li>
+			<li style="line-height:1.35; list-style-type:lower-alpha;">VTL (Air) designated flight</li>
+		</ol>
+	</li>
 	<li style="line-height:1.35;"><a href="#Application">Application for Travel under the VTL (Air)</a></li>
 	<li style="line-height:1.35;"><a href="#Documents">COVID-19 Tests and Documents Required</a></li>
 	<li style="line-height:1.35;"><a href="#FAQ">Frequently Asked Questions</a></li>
 </ol>
-
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Travellers intending to <b>leave</b> Singapore to a VTL (Air) country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination. For all departure-related advisories, please visit the <a target="_blank" href="/departing/overview">"Departing from Singapore"</a> page .</p>
 
 <div id="countries"></div>
 
