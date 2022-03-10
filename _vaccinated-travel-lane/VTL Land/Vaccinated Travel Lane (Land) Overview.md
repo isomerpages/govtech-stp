@@ -10,8 +10,6 @@ third_nav_title: VTL Land
 	<li style="font-size:18px; line-height:1.4;">Travellers holding an existing valid entry approval letter under other non-VTL SafeTravel Lanes but wish to travel under the Vaccinated Travel Lane should follow VTL procedures instead, including applying for a Vaccinated Travel Pass if necessary.</li>
 </ol>
 
-<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.4;">You can download the infographics <a target="_blank" href="/files/Singapore-Malaysia Vaccinated Travel Lane_Land.pdf">here</a> for an overview of VTL (Land) requirements.</p>
-
 <p style="font-size:18px; margin-top:20px; margin-bottom:20px; line-height:1.4;">On this page, you will find the following details on VTL (Land):</p>
 <ol style="font-size:18px;">
 	<li style="font-size:18px; line-height:1.4;"><a href="#Eligibility">Eligibility</a></li>
@@ -34,6 +32,26 @@ third_nav_title: VTL Land
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;"><b>Travellers must fulfil the following eligibility criteria found in this section before applying to travel under VTL (Land)</b>. Travellers who do not satisfy any of these criteria and conditions, should explore other Safe Travel Lanes at the <a target="_blank" href="/arriving/overview">Travelling to Singapore page</a>.</p>
 
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The following groups of travellers are disallowed from applying for entry under the VTL (Land). They may instead enter Singapore via alternative travel arrangements (see table below). </p>
+
+<table>
+		<tbody>
+			<tr>
+					<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Traveller Type</b></td>
+									<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>Alternative Travel Arrangement</b></td>
+			</tr>
+						<tr>
+					<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Non-Malaysian male Work Permit in the Construction, Marine shipyard or Process (CMP) sector</td>
+									<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;"><a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></td>
+			</tr>
+			<tr>
+					<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">Worker Permit holders staying in dormitories</td>
+									<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;"><a href="/wphl/overview">Work Pass Holder Lane</a></td>
+			</tr>
+		</tbody>
+	</table>
+
+<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">Malaysian male Work Permit holders in the CMP sector can enter Singapore via the VTL (Land), but isolate in a dormitory if they test positive for their on-arrival COVID-19 Antigen Rapid Test and are awaiting their confirmatory Polymerase Chain Reaction (PCR) test results.</p>
 
 <title>Test Accordion</title>
 <html>
@@ -97,7 +115,7 @@ input:checked + label + .content {
 
 
 <input id="title1" type="checkbox">
-<label for="title1">Criterion 1: Fulfil Traveller Profile Requirement</label>
+<label for="title1">Criterion 1: Fulfil the Residency or Citizenship Requirement</label>
 
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.4; font-size:18px;">Travellers must belong to any of the following categories:
@@ -107,12 +125,8 @@ input:checked + label + .content {
 			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Holder/In-Principal Approval (IPA) holder of a Singapore-issued Long-Term Pass (i.e. Work Pass Holders, Student’s Pass Holders, or Long-Term Visit Pass Holders)</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:20px; font-size:18px;">Malaysia Citizen</li>
 	</ol>
-	<p style="line-height:1.4; font-size:18px;">The traveller types below are <b>not</b> allowed to enter under the VTL (Land) and should utilise other SafeTravel Lanes to enter Singapore:</p>
-	<ol style="list-style-type:lower-alpha">
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Non-Malaysian male Work Permit Holders in the Construction, Marine shipyard or Process (CMP) sector: Enter via <a target="_blank" href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers">MOM’s entry approval</a> or <a target="_blank" href="https://www.scal.com.sg/">ongoing industry initiatives for the CMP sectors</a></li>
-		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Work Permit holders staying in dormitories: Enter via <a target="_blank" href="/wphl/overview">Work Pass Holder Lane</a></li>
-			<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Non-Malaysian In-Principal Approval (IPA) Long Term Pass Holders: Enter via <a target="_blank" href="/wphl/overview">Work Pass Holder Lane</a></li>
-	</ol>
+	<p style="line-height:1.4; font-size:18px;">*Holders of an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass) who are not Malaysia Citizens are not allowed to enter Singapore under the VTL (Land).</p>
+
 </div>
 
 <input id="title2" type="checkbox">
@@ -144,12 +158,12 @@ input:checked + label + .content {
 </div>
 	
 <input id="title4" type="checkbox">
-<label for="title4">Criterion 4: Fulfil Pre-Departure Test, Travel History &amp; Designated VTL (Land) Bus Requirements</label>
+<label for="title4">Criterion 4: Travel History &amp; Designated VTL (Land) Bus Requirements</label>
 
 <div style="background-color:#edf4fa;" class="content" id="criteria">	
 	<p style="line-height:1.4; font-size:18px;">Travellers must:
 		</p><ol style="list-style-type:lower-roman">
-		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category (I) country/region</a> in the last 7 consecutive days before departing for Singapore; and</li>
+		<li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;">Remain in Malaysia, Singapore, any other VTL country as recognised by the Government of Singapore, and/or any <a href="/shn-and-swab-summary" target="_blank">Category (I) country/region</a> (i.e. Mainland China, Macao or Taiwan) in the last 7 consecutive days before departing for Singapore; and</li>
 		<li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Arrive in Singapore from Malaysia on a designated VTL (Land) bus service offered by:
 					<ol style="list-style-type:disc;">
 <li style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:18px;"><a target="_blank" href="https://www.causewaylink.com.my">Handal Indah</a></li>
@@ -165,8 +179,6 @@ input:checked + label + .content {
 <div id="Application"></div>
 
 ### 2. Application for Vaccinated Travel Pass (Land)
-
-
 
 
 <html>
@@ -265,12 +277,12 @@ input:checked + label + .content {
 <label for="title6" class="test2">Singapore Citizens (SC), Permanent Residents (PR) &amp; Holders/IPA holders of a Singapore-issued Long-Term Pass (excluding Work Permit Holders)</label>
 
 <div style="background-color:#edf4fa;" class="content" id="scpr">	
-	<p style="line-height:1.4; font-size:18px;">SC/PRs/LTPHs (including IPA holders and excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) do not need to apply for entry via VTL (Land). </p>
+	<p style="line-height:1.4; font-size:18px;">SC/PRs/Long Term Pass Holders (excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) do not need to apply for entry via VTL (Land). </p>
 		<p style="line-height:1.4; font-size:18px; margin-top:15px;"><span style="color:red;">However, all travellers must comply with the requirements stated in the</span> <a target="_blank" href="/vtl-land/travel-checklist">VTL (Land) traveller checklist</a>, which summarises the <a target="_blank" href="/vtl-land/conditions">VTL (Land) Conditions</a>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</p>
 	</div>
 	
 <input id="title7" type="checkbox" class="test1">
-<label for="title7" class="test2">Short-Term Visitors &amp; Eligible Work Permit Holders</label>
+<label for="title7" class="test2">Work Permit Holders & Short-Term Visitors</label>
 
 <div style="background-color:#edf4fa;" class="content" id="ltph">
 	<p style="line-height:1.4; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (LAND) (VTP LAND)</b>.</p>
@@ -299,6 +311,8 @@ Travellers who are eligible for VTL (Land) and have already obtained their bus t
 	<li style="font-size:18px; line-height:1.4;">Negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) taken within 2 days before departure for Singapore;</li>
 	<li style="font-size:18px; line-height:1.4;">Filling up the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> (replaces the physical "White Card"). Travellers must complete this within three (3) days before arrival in Singapore to avoid delays at the checkpoint; and</li>
 <li style="font-size:18px; line-height:1.4;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at Woodlands and Queen Street Bus Terminals or any <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li> 
+	<li style="font-size:18px; line-height:1.4;"><b>[For arrivals before 14 Mar 2022, 2359h]</b> Supervised self-administered ART (S$15, payment onsite via cashless modes) at Woodlands and Queen Street Bus Terminals or any <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore </li>
+	<li style="font-size:18px; line-height:1.4;"><b>[For arrivals from 14 March 2022, 2359h]</b> Unsupervised Self Swab (USS) ART within 24 hours of arrival and submit test results <a href="https://www.sync.gov.sg/" target="_blank">here</a>.</li>
 </ol>
 
 Fully vaccinated and recently recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.
