@@ -52,3 +52,5 @@ third_nav_title: VTL Land
 	
 
 <p style="font-size:16px; line-height:1.5;"><sup>1</sup> If the pre-departure test is taken on 1 December 2021, it will be valid for departures up to 3 December 2021, 2359 hours.</p>
+
+<p style="font-size:16px; line-height:1.5;"><sup>2</sup>Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</p>
