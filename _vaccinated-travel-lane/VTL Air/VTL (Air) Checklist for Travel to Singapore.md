@@ -665,14 +665,13 @@ input:checked + label + .content {
 		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px; color:red;"><span style="font-size:22px; color:red;"><b>✕</b>&nbsp;</span><b>Using public transport (e.g. trains or public buses) is prohibited for those required to undergo self-isolation. </b></p>
   </div>
 	
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols during Stay in Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-&#9744; &nbsp;&nbsp;<b>Stage 4A: Exit from Self-Isolation</b></div>
+&#9744; &nbsp;&nbsp;<b>Stage 4A: Commuting Arrangements</b></div>
 <div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers can only leave their self-isolation accommodation <b>after</b> obtaining a negative result for their on-arrival COVID-19 test.</p>
-    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">The supervised self-administered ART test result could be released to the traveller via email or call, around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.</p>
-	    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers who test positive for COVID-19 must abide by the relevant COVID-19 recovery protocol immediately. For more information on what to do if you feel unwell while in Singapore, please refer to <a href="https://www.covid.gov.sg/travellers" target="_blank">this link</a>. Prevailing <a href="/health/insurance-and-treatment#cost" target="_blank">medical treatment charges</a> may apply.</p>
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">All commutes made before the traveller is tested negative for COVID-19 on their post-arrival 24-hour Antigen Rapid Test test should only be made using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers may use public transport (e.g. trains, buses) only after they have tested negative on their on-arrival test.</p>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
