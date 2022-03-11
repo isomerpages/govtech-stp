@@ -241,9 +241,7 @@ third_nav_title: VTL Sea
 	</ol>
   </div>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 5: Stay in Singapore</b></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 5A: Proof of Vaccination for Local Safe Management Measures</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 4C: Proof of Vaccination for Local Safe Management Measures</b></div>
 <div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
     <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">You must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&amp;B establishments, entering shopping malls, attending certain events etc.). You must also comply with all other <a target="_blank" href="https://www.moh.gov.sg/covid-19-phase-advisory">public health measures</a>. This includes the use of the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a>. Some activities in Singapore may require you to present a proof of vaccination.</p>
 	 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers should exercise personal responsibility, minimise their social interactions, and refrain from high-risk mask off activities (such as dining in F&B establishments, exercising in gyms and attending fitness classes), as well as avoid large gatherings and crowded places for 7 days from arrival, even if they have a negative daily ART result. Travellers who are unwell, including those showing early/mild symptoms should be socially responsible and seek medical attention immediately.</p>
