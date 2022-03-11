@@ -32,7 +32,7 @@ third_nav_title: VTL Air
 
 <div id="Eligibility"></div>
 
-### 2. Eligibility
+### 1. Eligibility
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>Travellers must fulfil the following basic eligibility criteria of the VTL (Air) to enjoy quarantine-free travel, otherwise they may be turned away by airlines/immigration, or be subject to the prevailing health requirements and quarantine. Travellers not eligible for the VTL (Air) should explore other Safe Travel Lanes at the  <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page</b>. Singapore Citizens/Permanent Residents who do not fulfil the VTL eligibility criteria below will be subject to <a href="/sc-pr/overview" target="_blank">prevailing health measures</a>. All other travellers may be denied entry into Singapore.</p>
 
@@ -197,7 +197,7 @@ input:checked + label + .content {
 <label for="title4">Criterion 4: Arrive in Singapore on a designated VTL flight</label>
 
 <div style="background-color:#edf4fa;" class="content">
-	<p style="line-height:1.3; font-size:18px;">Travellers must arrive in Singapore on a designated VTL flight. You can click here to check list of airlines approved to operate designated VTL (Air) flights. Please note that not all flights operated by the airlines or flying out of the countries listed below are VTL flights.</p>
+	<p style="line-height:1.3; font-size:18px;">Travellers must arrive in Singapore on a designated VTL flight. You can <a href="https://go.gov.sg/vtl-airlines" target="_blank">click here</a> to check list of airlines approved to operate designated VTL (Air) flights. Please note that not all flights operated by the airlines or flying out of the countries listed below are VTL flights.</p>
 	<p style="line-height:1.3; font-size:18px;"><i><b>VTL flights currently depart from the following VTL countries:</b></i> Australia, Brunei Darussalam, Cambodia, Canada, Denmark, Fiji, Finland, France, Germany, Hong Kong, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom and the United States</p>
 	<p style="line-height:1.3; font-size:18px;"><b>New Countries/Regions with VTL (Air) Flights, from 16 March 2022, SGT:</b> Greece and Vietnam</p>
 </div>
