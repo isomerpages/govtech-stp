@@ -201,7 +201,7 @@ input:checked + label + .content {
 
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;">Travellers must arrive in Singapore on a designated VTL flight. You can <a href="https://go.gov.sg/vtl-airlines" target="_blank">click here</a> to check list of airlines approved to operate designated VTL (Air) flights. Please note that not all flights operated by the airlines or flying out of the countries listed below are VTL flights.</p>
-	<p style="line-height:1.3; font-size:18px;"><b>VTL flights currently depart from the following VTL countries:</b> Australia, Brunei Darussalam, Cambodia, Canada, Denmark, Fiji, Finland, France, Germany, Hong Kong, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom and the United States</p>
+	<p style="line-height:1.3; font-size:18px;"><b>VTL flights currently depart from the following VTL countries/regions:</b> Australia, Brunei Darussalam, Cambodia, Canada, Denmark, Fiji, Finland, France, Germany, Hong Kong, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom and the United States</p>
 	<p style="line-height:1.3; font-size:18px;"><b>New Countries/Regions with VTL (Air) Flights, from 16 March 2022, SGT:</b> Greece and Vietnam</p>
 </div>
 </body>
