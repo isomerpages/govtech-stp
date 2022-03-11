@@ -641,7 +641,6 @@ input:checked + label + .content {
   <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Follow the instructions provided by the officers and signages on arrival.</p>
  <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#2A">Stage 2A</a>. </p>
  <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><b>Short-term visitors must also present a physical or electronic copy of their travel insurance policy.</b></p>
-	<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><b>SC/PR/LTPHs (excluding Work Permit holders) with an overseas-issued vaccination certificate </b></p>
  <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Travellers may only procure goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall.</p>
 	<p style="line-height:1.35;font-size:18px;">If detected to be symptomatic or COVID positive on arrival, travellers may be subjected to additional tests at S$30 (inclusive of GST) per ART or S$138 (inclusive of GST) per PCR test. Officers stationed on the ground will provide the necessary instructions.</p>
   </div>
