@@ -27,7 +27,7 @@ This page is only meant as quick reference for the categories of travel health c
 				</ol>
 				</li>
 <li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;"><b>[For arrivals before 14 March 2022, 2359h]</b> Supervised ART within 24 hours of arrival and remain in self-isolation until a negative result is obtained</li>
-				<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;"><b>[For arrivals from 14 March 2022, 2359h]</b> Unsupervised Self Swab (USS) ART within 24 hours of arrival and submit test results <a href="https://www.sync.gov.sg" target="_blank">here</a>.</li>
+				<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;"><b>[For arrivals from 14 March 2022, 2359h]</b> Unsupervised Self Swab (USS) ART within 24 hours of arrival and submit test results <a href="https://app.sync.gov.sg/dashboard" target="_blank">here</a>.</li>
 				</ol>
 				 </td>
     </tr>
