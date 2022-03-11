@@ -50,7 +50,7 @@ A list of available Singapore-based travel insurance products* are as follows:
 </tbody>
 </table>
 
-<b><i>All Short Term Visitors entering via [ATP](/atp/requirements-and-process), [RGL](/rgl/overview) and [VTL (Air)](/vtl/requirements-and-process) are required to prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore. </i></b>
+<b><i>All Short Term Visitors entering via [ATP](/atp/requirements-and-process), [RGL](/rgl/overview), [VTL (Air)](/vtl/requirements-and-process), [VTL (Land)](/vtl-land/overview) and [VTL (Sea)](/vtl-sea/overview) are required to prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore. </i></b>
 
 The mandatory travel insurance <u>does not</u> apply to Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to access Government subsidies and MediShield Life / Integrated Shield Plans to help pay for their medical bills, where applicable, should they develop onset of symptoms for COVID-19 within 14 days of their return.
 
