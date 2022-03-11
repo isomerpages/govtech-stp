@@ -269,11 +269,11 @@ Children under the age of 2 are not required to perform ARTs. Generally, those b
 
 #### 15. When should travellers need to perform their ART?
 
-Travellers are required to self-administer their ART within 24 hours of arrival in Singapore and report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. 
+Travellers are required to self-administer their ART within 24 hours of arrival in Singapore and report their test result via <a href="https://app.sync.gov.sg/dashboard" target="_blank">https://app.sync.gov.sg/dashboard</a> before proceeding with their activities in Singapore. 
 
 #### 16. How do travellers report their test result?
 
-Travellers should report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a>. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.
+Travellers should report their test result via <a href="https://app.sync.gov.sg/dashboard" target="_blank">https://app.sync.gov.sg/dashboard</a>. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.
 
 #### 17. How long will it take to obtain the results of the self-administered ART?
 
