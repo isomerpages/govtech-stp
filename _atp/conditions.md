@@ -16,8 +16,7 @@ permalink: /atp/conditions
 				 <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 test;</li>
 				 </ol>
 			 </li>
-       <li style="font-size:18px; list-style-type:lower-alpha;">immediately<sup>1</sup> take private transportation, taxi, or private hire car from the airport to the declared place of accommodation and remain isolated at the accommodation, apart from attending the supervised self-administered ART;</li>
-			        <li style="font-size:18px; list-style-type:lower-alpha;">take private transportation, taxi, or private hire car to and from the <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a>, undergo a COVID-19 supervised self-administered ART at a within 24 hours of arrival in Singapore, and remain isolated at the declared place of accommodation until the test result is confirmed to be negative;</li>
+			 <li style="font-size:18px; list-style-type:lower-alpha;"><i>(for travellers entering <b>before 14 Mar, 2359hrs, SGT</b>)</i> take private transportation, taxi, or private hire car to and from the <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a>, undergo a COVID-19 supervised self-administered ART at a within 24 hours of arrival in Singapore, and remain isolated at the declared place of accommodation until the test result is confirmed to be negative; <b>or</b> <p style="margin-top: 0px; font-size:18px;"><i>(for travellers entering <b>from 14 Mar, 2359hrs, SGT</b>)</i> undergo a COVID-19 unsupervised self-administered ART within 24 hours of arrival in Singapore, and report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore;</p></li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the medical provider disclosing his/her COVID-19 PCR test result to the relevant Singapore Government authorities for public health purposes;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> download the TraceTogether app on his/her mobile device and:
         <ol style="font-size:18px; list-style-type:lower-roman;">
@@ -33,7 +32,7 @@ permalink: /atp/conditions
   <br/>
     <li style="font-size:20px; list-style-type:decimal;"> The requirements in Condition 1(b), 1(c) and 1(d) do not apply to children aged 2 and below in the calendar year (i.e. born in or after 2020) as well as fully vaccinated recovered travellers.</li>
   <br/>  
-	<li style="font-size:20px; list-style-type:decimal;"> The requirement in Condition 1(b) does not apply to unvaccinated and non-fully vaccinated recovered travellers.</li>
+	<li style="font-size:20px; list-style-type:decimal;"> The requirement in Condition 1(b) does not apply to children, who are aged above 2 but below 12 years old (i.e. born between 2011 and 2019) in that calendar year and are recovered travellers.</li>
   <br/>
    <li style="font-size:20px; list-style-type:decimal;"> Condition 1(e) does not apply children aged 6 and below (i.e born in or after 2016) in the calendar year. Those unable to use a mobile device due to a certified disability or special need and those who are unable to download/register for the TraceTogether app may obtain a TraceTogether token. They must carry the TraceTogether token issued to them while in Singapore.
   </li>
@@ -45,4 +44,3 @@ permalink: /atp/conditions
 
 <p style="margin-top:10px; font-size:16px;"><sup>1</sup> If the scheduled day of departure of the flight is D (e.g. 8 March 2022), the traveller must have only been to one or more of the Category  I countries/regions and/or Singapore from D-7 to D (i.e. 1 March to 8 March 2022, if D is 8 March 2022).</p>
 <p style="margin-top:10px; font-size:16px;"><sup>2</sup> If the pre-departure test is taken on 1 March 2022, it will be valid for departures up to 3 March 2022, 2359 hours.</p>
-<p style="margin-top:10px; font-size:16px;"><sup>3</sup> Travellers are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall.</p>

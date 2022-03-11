@@ -1,6 +1,10 @@
 ---
-title: ATP Requirements & Process
-permalink: /atp/requirements-and-process
+title: VTL Air checklist test page
+permalink: /checklisttest
+date: 2022-02-17
+layout: post
+description: ""
+published: false
 ---
 <!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>NOTICE:</u></b></p>
@@ -53,7 +57,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 </div>
 
 <div id="recovery"></div>
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>D)	Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>D)	Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></label></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers are advised to defer travel if they have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">If you have recently recovered from COVID-19 within the last 90 days before departure:</p>
@@ -188,12 +192,16 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>B) Post-arrival 24-Hour Antigen Rapid Test</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px;line-height:1.35;">Travellers <b>must take a supervised self-administered Antigen Rapid Test (ART) within 24 hours of arrival in Singapore at any <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a></b>. Booking links for the test will be sent via SMS and found in the testing notice issued to travellers upon arrival. Payments for the test (S$15/per test) will be collected separately at the QTC/CTC.</p>
-	<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Upon the completion of the ART, travellers will receive their test result via SMS. Travellers who have yet to take their supervised self-administered ART must be in self-isolation until tested negative. Individuals who test positive for COVID-19 must adhere to the <a href="https://go.gov.sg/covid-travellers" target="_blank">prevailing recovery protocols</a>, including <a href="/health/insurance-and-treatment#treatment" target="_blank"> medical treatment</a> as necessary. The prevailing treatment charges will apply.</p>
+	<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Upon the completion of the ART, travellers will receive their test result via SMS. Travellers who have yet to take their supervised self-administered ART must be in self-isolation until tested negative. Individuals who test positive for COVID-19 must adhere to the <a href="https://covid.gov.sg/" target="_blank">prevailing recovery protocols</a>, including <a href="/health/insurance-and-treatment#treatment" target="_blank"> medical treatment</a> as necessary. The prevailing treatment charges will apply.</p>
 <p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">As a travel requirement stipulated under the Infectious Diseases Act, travellers who fail to take the supervised self-administered ART will be penalised accordingly. This could amount to the revocation of relevant entry passes, and/or fines.</p>
 
-<p style="line-height:1.35;margin-top:20px; margin-bottom:10px;font-size:18px;"><i>Travellers entering Singapore from <b>14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kits</a> within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART. Travellers are required to report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</i></p>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; The tests are not applicable to Children aged two and below in this calendar year (i.e. born in or after 2020)</p>
-</div>
+<p style="line-height:1.35;margin-top:20px; margin-bottom:10px;font-size:18px;"><i>Travellers entering Singapore from <b>14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kits</a> within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART. Travellers are required to report their test result via <a href="https://www.sync.gov.sg " target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</i></p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; Not applicable to:</p>
+	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:10px; list-style-type: disc;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Children aged two and below in this calendar year (i.e. born in or after 2020); and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Fully vaccinated recovered travellers</li>
+</ol>
+	</div>
 
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>C) Abide by Local COVID-19 Safe Management Measures</b></div>

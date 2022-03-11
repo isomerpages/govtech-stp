@@ -27,8 +27,7 @@ third_nav_title: VTL Sea
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Before Travelling to Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">
-<input id="1A" type="checkbox" class="box"><label for="1A" class="box">&nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">&#9744;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Obtain any of the following digitally verifiable vaccination certificates accepted by the Singapore Government:<ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the Notarise portal with a QR code, or Proof of vaccination on the TraceTogether or HealthHub app
@@ -39,8 +38,7 @@ third_nav_title: VTL Sea
 	</p>
 	</div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="1B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1B" class="box">&nbsp;&nbsp;<b>Stage 1B: [For STV/Eligible Work Permit Holders only] Apply for Vaccinated Travel Pass</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1B: [For STV/Eligible Work Permit Holders only] Apply for Vaccinated Travel Pass</b></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a target="_blank" href="https://go.gov.sg/vtl-portal"><b>Click Here To Apply For a VTP</b></a> 
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>There is no need to rush to apply as there is no limit on VTP applications and it is more important to secure VTL ferry tickets first</b></p>
 	</div><p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Apply <u>between 3 and 60 calendar days</u> before the intended date of entry.</b></p>
@@ -50,16 +48,14 @@ third_nav_title: VTL Sea
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; <b>Unvaccinated children aged 12 and below in this calendar year</b> (i.e. born in or after 2010) do not need to apply. However, they must comply with all other VTL (Sea) conditions and be accompanied by a <a target="_blank" href="/health/vtsg">fully vaccinated</a> VTL (Sea) traveller.</p>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="1C" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1C" class="box">&nbsp;&nbsp;<b>Stage 1C: [If required] Apply for Entry Visa</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1C: [If required] Apply for Entry Visa</b></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers who hold passports and travel documents issued by visa-required countries/regions must apply for an entry visa. Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Short-Term visitors who hold passports and travel documents issued by visa-required countries/regions must apply for an entry visa. Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore.</p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b style="color:red">❓</b>&nbsp; Travellers who are unsure if they require an entry visa or wish to apply for a visa should click <a target="_blank" href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for more details.</p>
 </div>
 
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="1D" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1D" class="box">&nbsp;&nbsp;<b>Stage 1D: Check Travel/Transit History &amp; Secure Tickets for a Designated VTL Regional Ferry Operator</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1D: Check Travel/Transit History &amp; Secure Tickets for a Designated VTL Regional Ferry Operator</b></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">All VTL travellers MUST:</p>
 <ol style="list-style-type:lower-roman;">
@@ -73,15 +69,14 @@ third_nav_title: VTL Sea
 	</ol>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1E">
-<input id="1E" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1E" class="box">&nbsp;&nbsp;<b>Stage 1E: [Short Term Visitors and Long Term Pass Holders] Purchase COVID-19 Insurance</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1E">&#9744;&nbsp;<b>Stage 1E: [Short Term Visitors and Long Term Pass Holders] Purchase COVID-19 Insurance</b></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Short Term Visitors]</b> Purchase travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a target="_blank" href="/health/insurance-and-treatment">here</a>.</p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>[Long Term Pass Holders]</b> Please click <a target="_blank" href="/health/insurance-and-treatment#LTPH">here</a> for more information.
 </p>
 </div>
 
-<div id="1F" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>Stage 1F: Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></i></div>
+<div id="1F" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1F: Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers are advised to defer travel if they have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
@@ -125,8 +120,7 @@ third_nav_title: VTL Sea
 	</tbody></table>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="1G" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1G" class="box">&nbsp;&nbsp;<b>Stage 1G: Secure self-isolation accommodation</b></label></div>	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1G: Secure self-isolation accommodation</b></div>	
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>[Short Term Visitors]</b> Hotel booking confirmation and payment for duration of stay in Singapore. For the list of available hotels in Singapore, <a href="https://www.stb.gov.sg/content/stb/en/home-pages/approved-hotels.html" target="_blank">click here</a></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; Other travellers can self-isolate at any of the following locations:
@@ -145,7 +139,7 @@ third_nav_title: VTL Sea
 	</ol>
 </div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1H" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1H">&nbsp;&nbsp;<b>Stage 1H: Take Pre-departure COVID-19 Test (PDT)</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1H: Take Pre-departure COVID-19 Test (PDT)</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">All travellers, except the groups listed below, must take a Pre-Departure Test (PDT) within 2 days before departure for Singapore (e.g. a traveller departing for Singapore on 3 December 2021 should take a pre-departure COVID-19 test no earlier than 1 December 2021):</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
@@ -160,7 +154,7 @@ third_nav_title: VTL Sea
 	</ol>	
 	</div>
 	
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;"><input id="1I" style="width:20px; height:20px; vertical-align:middle;" type="checkbox"><label for="1I">&nbsp;&nbsp;<b>Stage 1I: Submit Health Declaration</b></label></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1I: Submit Health Declaration</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35;"><!--&#9200; &nbsp; --><b>If you are fit for travel, submit the SG Arrival Card health and travel history declaration up to <u>3 days</u> before arriving in Singapore.</b></p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
@@ -168,23 +162,21 @@ third_nav_title: VTL Sea
 <li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;"><b>The SGAC replaces the physical arrival “White Card”, which is no longer in use.</b> SGAC is a free service and travellers should beware of websites offering to fill the SGAC declaration for a fee.</li>
 	</ol>
 <p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35; color:red;"><b><u>Note during submission</u></b>:</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; SC/PRs who are not vaccinated in Singapore: You are strongly encouraged to submit your overseas vaccination certificate in your health declaration as part of the SG Arrival Card submission.</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; SC/PRs who are vaccinated in Singapore: You are not required to upload your vaccination certificates as your records are already captured in the Singapore Ministry of Health (MOH) database.</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; Long-term pass holders and short-term visitors: You do not need to upload your vaccination certificates as they have already been verified as part of the VTP application.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; SC/PR/LTPHs (excluding Work Permit holders) who are not vaccinated in Singapore: You are strongly encouraged to submit your overseas vaccination certificate in your health declaration as part of the SG Arrival Card submission. If you are unable to upload your vaccination certificate successfully during SG Arrival Card submission, do not use the auto immigration gates on arrival in Singapore. Present your overseas vaccination certificates at the manual immigration counter for verification in order to have your vaccination status updated on your TraceTogether app.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; SC/PR/LTPHs (excluding Work Permit holders) who are vaccinated in Singapore: You are not required to upload your vaccination certificates as your records are already captured in the Singapore Ministry of Health (MOH) database.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; Work Permit holders and short-term visitors: You do not need to upload your vaccination certificates as they have already been verified as part of the VTP application.</p>
 	</div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">	
-<input id="1J" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1J" class="box">&nbsp;&nbsp;<b>Stage 1J: Undergo On-Arrival COVID-19 ART Test</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1J: Post-arrival COVID-19 ART Test</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">Undergo on-arrival COVID-19 ART test at <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres or Combined Test Centres</a> within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative.</p>
-
+	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><b><u>Note</u></b>: Travellers entering Singapore <b>from 14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured authorised ART kits within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART.  Travellers are required to report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp;Does not apply to children aged two and below in this calendar year (i.e. born in or after 2020).</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp; Fully vaccinated travellers who recently recovered from COVID-19 may qualify for exemption from the on-arrival COVID-19 PCR test and other inland border measures. Use this <a target="_blank" href="https://go.gov.sg/recovered-traveller-checker">self-checker tool</a> to determine if you qualify.</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="color:red; font-size:20px;">⚠</span>&nbsp; Travellers who did not do so will pay for their tests on the spot during arrival, and may experience delays in the administration of the tests and departure from the checkpoint.</p>
 </div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="1K" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="1K" class="box">&nbsp;&nbsp;<b>Stage 1K: [Short term visitors only] Contact Tracing App/Token</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1K: [Short term visitors only] Contact Tracing App/Token</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">All short-term VTL (Sea) travellers <b>must</b> download the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether</a> mobile application on their mobile phone and register their profile for contact tracing.</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">All travellers who are unable to use a mobile device or who are unable to download/register for the TraceTogether app may obtain TraceTogether tokens at S$13 per token from designated locations. For more details, please <a target="_blank" href="/health/tt-for-travellers#token">click here</a>.</p>
@@ -193,8 +185,7 @@ third_nav_title: VTL Sea
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="2A">
-<input id="2A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="2A" class="box">&nbsp;&nbsp;<b>Stage 2A: Pre-boarding document checks</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="2A">&#9744;&nbsp;<b>Stage 2A: Pre-boarding document checks</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="color:red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><span style="color:red; font-size:28px;">⚠</span> <b>Travellers may be denied boarding if they do not provide all the required documentation.</b></p>
 	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top: 0px;">When checking in at the ferry terminal, travellers must present to the regional ferry operator staff all the documents listed below, except the following groups of travellers.</p>
@@ -212,44 +203,35 @@ third_nav_title: VTL Sea
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="3A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="3A" class="box">&nbsp;&nbsp;<b>Stage 3A: Clear Arrival Immigration</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 3A: Clear Arrival Immigration</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="color:red; font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">⚠</span> <b>Travellers may be refused entry into Singapore by the Immigration &amp; Checkpoints Authority (ICA) if they do not provide all the required documentation.</b></p>
   <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Follow the instructions provided by the officers and signages on arrival.</p>
  <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#2A">Stage 2A</a>. </p>
  <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><b>Short-term visitors must also present a physical or electronic copy of their travel insurance policy, hotel booking confirmation and payment for duration of stay in Singapore, and a return ferry ticket corresponding to the duration of hotel stay in Singapore.</b></p>
-	   <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>[SC/PRs with an overseas-issued vaccination certificate]</b> If you are unable to upload your vaccination certificate successfully during SG Arrival Card submission, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, to be eligible for VDS, Your vaccination status will be updated on your TraceTogether app.</p>
+	   <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>SC/PRs with an overseas-issued vaccination certificate</b> </p>
 	<p style="line-height:1.35;font-size:18px;">If detected to be symptomatic or COVID positive on arrival, travellers may be subjected to additional tests at S$30 (inclusive of GST) per ART or S$138 (inclusive of GST) per PCR test. Officers stationed on the ground will provide the necessary instructions.</p>
   </div>
-  
-  <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="3C" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="3B" class="box">&nbsp;&nbsp;<b>Stage 3B: Travel to Declared Self-Isolation Accommodation</b></label></div>
+
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols during Stay in Singapore</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 4A: Commuting Arrangements</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Commute directly to your declared self-isolation accommodation immediately upon  arrival at the ferry terminal. You may do so using private transport, taxi, or private hire cars (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps).</p>
-		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px; color:red;"><span style="font-size:22px; color:red;"><b>✕</b>&nbsp;</span><b>Using public transport (e.g. trains or public buses) is prohibited for those required to undergo self-isolation. </b></p>
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">All commutes made <b>before</b> the traveller is tested negative for COVID-19 on their post-arrival 24-hour Antigen Rapid Test (see Stage 4B) should only be made using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Travellers may use public transport (e.g. trains, buses) only after they have tested negative on their post-arrival test.
+</p>
   </div>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Self-isolation</b></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="4A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="4A" class="box">&nbsp;&nbsp;<b>Stage 4A: Self-Isolate Pending OAT Results</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 4B: Post-arrival Antigen Rapid Test</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">All travellers <b>must</b> self-isolate at their declared accommodation (per <a href="#1F">Stage 1F</a>) until they receive a negative COVID-19 ART test result (likely within 24 hours).</p>
-  </div>
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Travellers <b>must take a supervised self-administered Antigen Rapid Test (ART) within 24 hours of arrival in Singapore at any <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a></b>. Booking links for the test will be sent via SMS and found in the testing notice issued to travellers upon arrival. Payments for the test (S$15/per test) will be collected separately at the QTC/CTC.</p>
+	 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upon the completion of the ART, travellers will receive their test result via SMS. Travellers who have yet to take their supervised self-administered ART must be in self-isolation until tested negative. Individuals who test positive for COVID-19 must adhere to the <a href="https://go.gov.sg/covid-travellers" target="_blank">prevailing recovery protocols</a>, including <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a> as necessary. The prevailing treatment charges will apply.</p>
+	 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">As a travel requirement stipulated under the Infectious Diseases Act, travellers who fail to take the supervised self-administered ART will be penalised accordingly. This could amount to the revocation of relevant entry passes, and/or fines.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><i>Travellers entering Singapore <b>from 14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kits</a> within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART. Travellers are required to report their test result via <a href="https://www.sync.gov.sg/" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</i></p>
+	<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp;The tests are not applicable to Children aged two and below in this calendar year (i.e. born in or after 2020)</p>
+	</div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="4B" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="4B" class="box">&nbsp;&nbsp;<b>Stage 4B: Exit from Self-Isolation</b></label></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers can only leave their self-isolation accommodation <b>after</b> a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. </p>
-	    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">The result could be released to the traveller via email or call, around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether</a> or <a target="_blank" href="https://www.healthhub.sg/HealtheServices">HealthHub App</a>.</p>
-	 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers who test positive for COVID-19 must abide by the relevant COVID-19 recovery protocol immediately. You may refer to <a target="_blank" href="https://www.covid.gov.sg/well-and-positive-or-condition-assessed-mild-by-doctor">this link</a> for more details on Protocol 2. For more information on what to do if you feel unwell while in Singapore, please refer to <a target="_blank" href="https://www.covid.gov.sg/travellers">this link</a>. Prevailing <a target="_blank" href="/health/insurance-and-treatment#cost">medical treatment and recovery charges</a> may apply.</p>
-  </div>
-
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 5: Stay in Singapore</b></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-<input id="5A" style="width:20px; height:20px; vertical-align:middle;" type="checkbox" class="box"><label for="5A" class="box">&nbsp;&nbsp;<b>Stage 5A: Proof of Vaccination for Local Safe Management Measures</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 4C: Proof of Vaccination for Local Safe Management Measures</b></div>
 <div style="padding:5px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
     <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">You must be vaccinated to participate in certain activities in Singapore (e.g. dining in F&amp;B establishments, entering shopping malls, attending certain events etc.). You must also comply with all other <a target="_blank" href="https://www.moh.gov.sg/covid-19-phase-advisory">public health measures</a>. This includes the use of the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a>. Some activities in Singapore may require you to present a proof of vaccination.</p>
 	 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers should exercise personal responsibility, minimise their social interactions, and refrain from high-risk mask off activities (such as dining in F&B establishments, exercising in gyms and attending fitness classes), as well as avoid large gatherings and crowded places for 7 days from arrival, even if they have a negative daily ART result. Travellers who are unwell, including those showing early/mild symptoms should be socially responsible and seek medical attention immediately.</p>

@@ -28,16 +28,7 @@ third_nav_title: VTL Sea
 ### 1. Eligibility
 
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>VTL (Sea) travellers must fulfil the following basic criteria, otherwise they may be turned away by the regional ferry operators, or be subject to the prevailing health requirements and quarantine</b>. Travellers not eligible for the VTL (Sea) should explore other Safe Travel Lanes at the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page.</p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">These groups of travellers are not allowed to apply for entry under the Vaccinated Travel Lanes (VTLs):</p>
-<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian male Work Permit or S Pass workers in the Construction, Marine shipyard or Process (CMP) sector</li>
-	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Workers staying in dormitories</li>
-	</ul>
-<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Companies can still bring in such workers under:</p>
-<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">For CMP workers- <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore#request-for-moms-entry-approval-for-cmp-workers" target="_blank">MOM’s entry approval</a> or <a href="https://www.scal.com.sg/" target="_blank">ongoing industry initiatives for the CMP sectors</a></li>
-	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">For all other workers- <a href="/wphl/overview" target="_blank">Work Pass Holder Lane</a></li>
-	</ul>
+
 
 <html>
 
@@ -119,14 +110,14 @@ input:checked + label + .content {
 
 <div style="background-color:#edf4fa;" class="content">
 <p style="line-height:1.3; font-size:18px;">Travellers must be fully vaccinated with WHO EUL vaccines (<a target="_blank" href="/health/vtsg">click here for definition</a> of fully vaccinated) at least two weeks before arrival in Singapore. </p>
-<p style="line-height:1.3; font-size:18px;">Unvaccinated travellers who are 12 and below (i.e. born in or after 2010) in this calendar year can travel to Singapore via the VTL (Sea) if accompanied by a fully vaccinated VTL (Sea) traveller.</p>
+<p style="line-height:1.3; font-size:18px;">Unvaccinated travellers who are 12 and below in this calendar year (i.e. born in or after 2010) can travel to Singapore via the VTL (Sea) if accompanied by a fully vaccinated VTL (Sea) traveller.</p>
 </div>
 
 <input id="title3" type="checkbox">
 <label for="title3">Criterion 3: Hold an Accepted Proof of Vaccination</label>
 
 <div style="background-color:#edf4fa;" class="content" id="criteria">
-<p style="line-height:1.3; font-size:18px;">Travellers must hold an accepted proof of vaccination in any of the following formats, depending on what is available in the traveller’s locality. More details can be found in our <a target="_blank" href="/vtl/faq#vaxcert">FAQs</a>.</p>
+<p style="line-height:1.3; font-size:18px;">Travellers must hold an accepted proof of vaccination in any of the following formats, depending on where the vaccination certificate was issued. More details can be found in our <a target="_blank" href="/vtl/faq#vaxcert">FAQs</a>.</p>
 	<p style="line-height:1.3; font-size:18px;">
 	</p><ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the Notarise portal with a QR code, or Proof of vaccination on the TraceTogether or HealthHub app
@@ -136,14 +127,14 @@ input:checked + label + .content {
 	</ol>
 </div>
 
-	<div id="transport"></div>	
+<div id="transport"></div>	
 <input id="title4" type="checkbox">
 <label for="title4">Criterion 4: Fulfil Travel/Transit History &amp; Designated VTL (Sea) Ferry Requirements</label>
 
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;">Travellers must:</p>
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries" target="_blank"> VTL countries/regions</a>, <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a>, and/or Singapore, in the last 7 consecutive days before departure for Singapore.
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries" target="_blank"> VTL countries/regions</a>, Category I countries/regions (i.e. Mainland China, Macao or Taiwan), and/or Singapore, in the last 7 consecutive days before departure for Singapore.
 		</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Arrive in Singapore on a <b>designated VTL (Sea) ferry</b> operated by the following regional ferry service operators:
 <ol style="padding-left:20px; margin-top:10px; list-style-type: disc;">
@@ -284,7 +275,8 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers will need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or professionally administered Antigen Rapid Test (ART) taken within 2 days before departure for Singapore</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">On-arrival COVID-19 ART test at <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres or Combined Test Centres</a> within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative. </li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><b>[Travellers entering Singapore before 14 Mar 2022, 2359h]</b> On-arrival COVID-19 ART test at <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres or Combined Test Centres</a> within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative. </li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;"><b>[Travellers entering Singapore from 14 Mar 2022, 2359h]</b> Unsupervised self-administered ART using self-procured authorised ART kits within 24 hours of arrival in Singapore. Travellers are required to report their negative test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore.</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</li>
 	</ol> 
 </p>

@@ -26,7 +26,8 @@ This page is only meant as quick reference for the categories of travel health c
 					<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed)</li>
 				</ol>
 				</li>
-<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Supervised ART within 24 hours of arrival and remain in self-isolation until a negative result is obtained</li>
+<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;"><b>[For arrivals before 14 March 2022, 2359h]</b> Supervised ART within 24 hours of arrival and remain in self-isolation until a negative result is obtained</li>
+				<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;"><b>[For arrivals from 14 March 2022, 2359h]</b> Unsupervised Self Swab (USS) ART within 24 hours of arrival and submit test results <a href="https://www.sync.gov.sg" target="_blank">here</a>.</li>
 				</ol>
 				 </td>
     </tr>
@@ -48,7 +49,7 @@ This page is only meant as quick reference for the categories of travel health c
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><p style="margin-top:15px; margin-bottom:0px; font-size:18px; vertical-align:middle; line-height: 1.35;"><b>Restricted Category</b></p> 
 <p style="margin-top:15px; margin-bottom:0px; font-size:18px; vertical-align:middle; line-height: 1.35;">Currently no countries/regions in the Restricted Category</p></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><ol style="list-style-type:decimal; vertical-align: middle;"><li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Pre-Departure COVID-19 Polymerase Chain Reaction Test (PCR test) <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">at an internationally accredited or recognised lab/clinic/medical facility</a>, two days before departure</li>
-<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">7-day Stay Home Notice in an SHN Dedicated Facility</li>
+<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">7-day Stay Home Notice (SHN) in an SHN Dedicated Facility</li>
 <li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">COVID-19 PCR test to exit SHN</li>
 	</ol>
 			 </td>
