@@ -222,7 +222,7 @@ input:checked + label + .content {
 
 <div id="Application"></div>
 
-### 3. Application for Travel under the VTL (Air)
+### 2. Application for Travel under the VTL (Air)
 
 <html>
 
@@ -338,7 +338,7 @@ input:checked + label + .content {
 
 <div id="Documents"></div>
 
-### 4. COVID-19 Tests and Documents Required
+### 3. COVID-19 Tests and Documents Required
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:15px; line-height:1.35;">Travellers who are eligible for VTL (Air), and have obtained their Vaccinated Travel Pass if needed, should refer to this <a target="_blank" href="/vtl/travel-checklist">VTL (Air) traveller checklist</a> for the full list of requirements to complete VTL (Air) travel. </p>
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers will need to undergo the following COVID-19 tests:</p>
@@ -399,7 +399,7 @@ input:checked + label + .content {
 
 <div id="FAQ"></div>
 
-### 5. Frequently Asked Questions
+### 4. Frequently Asked Questions
 
 <span style="font-size:18px;">Click <a target="_blank" href="/vtl/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:</span>
 - <a target="_blank" href="/vtl/faq#vaxcert">Recognised Vaccination Certificates for VTL (Air)</a>
