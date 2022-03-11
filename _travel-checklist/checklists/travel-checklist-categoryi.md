@@ -220,7 +220,7 @@ permalink: /travel-checklist/category-1
 </p>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Post-arrival 24-Hour Antigen Rapid Test</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Post-arrival Antigen Rapid Test</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px;line-height:1.35;">Travellers <b>must take a supervised self-administered Antigen Rapid Test (ART) within 24 hours of arrival in Singapore at any <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a></b>. Booking links for the test will be sent via SMS and found in the testing notice issued to travellers upon arrival. Payments for the test (S$15/per test) will be collected separately at the QTC/CTC.</p>
