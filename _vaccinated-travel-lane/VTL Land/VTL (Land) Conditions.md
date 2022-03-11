@@ -23,7 +23,8 @@ third_nav_title: VTL Land
 	</ol>
 	</li>
 	<li style="padding-top:10px;">purchase medical and/or travel insurance, with a minimum coverage of S$30,000 for covid-19-related medical treatment and hospitalisation costs in Singapore, prior to travelling to Singapore.</li>
-<li style="padding-top:10px;">Undergo an unsupervised self-swab (USS) Antigen Rapid Test (ART) within 24 hours of entry. Travellers are required to report their USS ART test result via <a href="https://app.sync.gov.sg/dashboard" target="_blank">https://app.sync.gov.sg/dashboard<sup>2</sup></a> before proceeding with their activities in Singapore.download the TraceTogether app on his/her mobile device and:
+<li style="padding-top:10px;">Undergo an unsupervised self-swab (USS) Antigen Rapid Test (ART) within 24 hours of entry. Travellers are required to report their USS ART test result via <a href="https://app.sync.gov.sg/dashboard" target="_blank">https://app.sync.gov.sg/dashboard<sup>2</sup></a> before proceeding with their activities in Singapore.</li>
+	<li style="padding-top:10px;">Download the TraceTogether app on his/her mobile device and:
 <ol style="list-style-type:lower-roman; line-height:1.5;padding-left:10px;">	
 	<li>keep the TraceTogether app activated at all times while in Singapore;</li>
 <li>upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore.</li>
