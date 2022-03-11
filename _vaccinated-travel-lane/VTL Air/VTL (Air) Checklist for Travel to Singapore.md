@@ -665,7 +665,7 @@ input:checked + label + .content {
 	<p style="padding-left:0px; font-size:18px; line-height:1.4; margin-top:10px; margin-bottom:0px;"><span style="font-size:25px;  color:red;"><b>✕</b></span> &nbsp; The tests are not applicable to:</p>
 	<ol style="list-style-type:lower-roman;">
 		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Children aged two and below in this calendar year (i.e. born in or after 2020); and</li>
-		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Fully vaccinated recently-recovered travellers</li>
+		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;"><a href="/vaccinated-recovered" target="_blank">Fully vaccinated recently-recovered travellers</a></li>
 	</ol>
 </div>
 
