@@ -231,7 +231,7 @@ third_nav_title: VTL Sea
 	<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp;The tests are not applicable to:</p>
 	<ol style="padding-left:20px; list-style-type:disc;">
 		<li style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Children aged two and below in this calendar year (i.e. born in or after 2020); and</li>
-		<li style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Fully vaccinated recently-recovered travellers</li>
+		<li style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;"><a href="/vaccinated-recovered" target="_blank">Fully vaccinated recently-recovered travellers</a></li>
 	</ol>
   </div>
 
