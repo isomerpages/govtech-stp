@@ -266,7 +266,7 @@ description: ""
 <p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers vaccinated overseas who require longer term vaccinated status beyond the temporary 30 day status granted on arrival, should visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH's website</a> (under "Recognising Overseas Vaccination") for more details. 
 	</p>
 	
-<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">If you feel unwell, please refer to the <a href="go.gov.sg/covid-travellers" target="_blank">MOH traveller recovery protocol</a>.</p>
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">If you feel unwell, please refer to the <a href="https://go.gov.sg/covid-travellers" target="_blank">MOH traveller recovery protocol</a>.</p>
 	</div>	
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) [Long Term Pass Holders aged 12-18] Fulfil Vaccination Requirements </b></i></div>
