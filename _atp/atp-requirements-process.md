@@ -53,7 +53,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 </div>
 
 <div id="recovery"></div>
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>D)	Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></label></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>D)	Monitor COVID-19 Status, and Check Eligibility for Recovered Protocol if Tested Positive</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">Monitor your health status. Travellers are advised to defer travel if they have onset of COVID-19 symptoms (e.g. fever, cough, runny nose, sore throat, loss of taste or smell) within the last 7 days before departure.</p>
 <p style="line-height:1.35;font-size:18px; margin-top: 20px;">If you have recently recovered from COVID-19 within the last 90 days before departure:</p>
