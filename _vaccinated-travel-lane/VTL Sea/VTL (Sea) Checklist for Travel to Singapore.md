@@ -212,18 +212,12 @@ third_nav_title: VTL Sea
 	   <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><b>[SC/PRs with an overseas-issued vaccination certificate]</b> If you are unable to upload your vaccination certificate successfully during SG Arrival Card submission, please be reminded to present your overseas vaccination certificates at the immigration counter for verification and processing, to be eligible for VDS, Your vaccination status will be updated on your TraceTogether app.</p>
 	<p style="line-height:1.35;font-size:18px;">If detected to be symptomatic or COVID positive on arrival, travellers may be subjected to additional tests at S$30 (inclusive of GST) per ART or S$138 (inclusive of GST) per PCR test. Officers stationed on the ground will provide the necessary instructions.</p>
   </div>
-  
-  <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 3B: Travel to Declared Self-Isolation Accommodation</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Commute directly to your declared self-isolation accommodation immediately upon  arrival at the ferry terminal. You may do so using private transport, taxi, or private hire cars (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps).</p>
-		<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px; color:red;"><span style="font-size:22px; color:red;"><b>✕</b>&nbsp;</span><b>Using public transport (e.g. trains or public buses) is prohibited for those required to undergo self-isolation. </b></p>
-  </div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols during Stay in Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 4A: Commuting Arrangements</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">All commutes made <b>before</b> the traveller is tested negative for COVID-19 on their post-arrival 24-hour Antigen Rapid Test test should only be made using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
+    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">All commutes made <b>before</b> the traveller is tested negative for COVID-19 on their post-arrival 24-hour Antigen Rapid Test test should only be made using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Travellers may use public transport (e.g. trains, buses) only after they have tested negative on their on-arrival test.
 </p>
   </div>
