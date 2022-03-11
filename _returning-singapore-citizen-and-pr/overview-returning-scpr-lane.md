@@ -73,7 +73,7 @@ permalink: /sc-pr/overview
   <thead>
     <tr>
      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Health Measure Category based on Past 7-Day Travel History before arrival in Singapore</b></th>
-	    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Detailed Entry Checklist and Summary of Health Measures</b></th>
+	    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Detailed Entry Checklist</b></th>
     </tr>
   </thead>
   <tbody>
@@ -81,12 +81,7 @@ permalink: /sc-pr/overview
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><p style="margin-top:15px; margin-bottom:0px; font-size:18px; vertical-align:middle;"><b>Category I – “Low Infection Category”</b></p>
 				<p style="margin-top:10px; margin-bottom:0px; font-size:18px; vertical-align:middle;">Mainland China, Macao, Taiwan</p>
 </td>
-      <td style="margin-top: 0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:0px; font-size:18px; vertical-align:middle;"><a href="/travel-checklist/category-1" target="_blank">Category I travel history checklist</a></p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:18px; vertical-align:middle;">Summary of health measures:</p>
-				<ol style="padding-left: 20px; list-style-type:disc; vertical-align: middle;"><li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Pre-Departure Test 2 days before departure</li>
-<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Supervised ART within 24 hours of arrival and remain in self-isolation until a negative result is obtained</li>
-				</ol>
-				 </td>
+      <td style="margin-top: 0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:0px; font-size:18px; vertical-align:middle;"><a href="/travel-checklist/category-1" target="_blank">Category I travel history checklist</a></p>				 </td>
     </tr>
 		 <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><p style="margin-top:15px; margin-bottom:0px; font-size:18px; vertical-align:middle; line-height: 1.35;"><b>Category II/III/IV – “General Travel Category”</b></p>
