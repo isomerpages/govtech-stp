@@ -186,7 +186,7 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 
 <i style="color:red;">Note: Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo an on-arrival COVID-19 test. Fully vaccinated recently-recovered travellers entering Singapore may qualify for exemption from the on-arrival COVID-19 test. Please refer <a href="/vaccinated-recovered" target="_blank">this page </a> for more information.</i>
 
-<i style="color:red;">Travellers entering Singapore <b>from 14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured authorised ART kits within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART. Travellers are required to report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore.</i>
+<i style="color:red;">Travellers entering Singapore <b>from 14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured authorised ART kits within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART. Travellers are required to report their test result via <a href="https://app.sync.gov.sg/dashboard" target="_blank">https://app.sync.gov.sg/dashboard</a> before proceeding with their activities in Singapore.</i>
 
 #### <u>SUPERVISED ART <i>(for travellers entering before 14 Mar 2022, 2359hrs)</i></u>
 	
