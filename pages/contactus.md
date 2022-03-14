@@ -36,10 +36,12 @@ You can find the following forms of commonly requested support on this page:
 </thead>
 <tbody>
 		   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Travel for recently-recovered travellers</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore will be waived of all testing and Stay-Home Notice requirements. Refer to the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Protocol</a> for details.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Non-fully vaccinated travellers who produce credible proof of having contracted COVID-19 between 14 and 90 days before departure for Singapore will be exempted from their pre-departure tests. No appeal is required.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">This <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> can help advise if you qualify for any pre-departure test or border measure exemptions resulting from your vaccinated or recovered status. Except for Singapore Citizens and PRs, entry approval under your respective Safe Travel Lane is still required.</p>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading QR codes to VTL application portal</b> </td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/vtl/faq#invalidcode" target="_blank">Click Here</a> for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
+</p>
+<ol style="padding-left: 20px; list-style-type: disc;"><li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li></ol>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.
+</p>
 </td>
  </tr>
 			   <tr>
@@ -53,12 +55,10 @@ You can find the following forms of commonly requested support on this page:
 </td>
  </tr>
 	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading QR codes to VTL application portal</b></td>
-		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;"><a href="/vtl/faq#invalidcode">Click Here</a> for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
-<ol style="list-style-type:disc;">
-<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
-<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.</li>
-				 </ol>
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Travel for recently-recovered travellers</b></td>
+		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">Travellers who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore will be waived of all testing and Stay-Home Notice requirements. Refer to the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Protocol</a> for details.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">Non-fully vaccinated travellers who produce credible proof of having contracted COVID-19 between 14 and 90 days before departure for Singapore will be exempted from their pre-departure tests. No appeal is required.</p>
+				 <p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">This <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> can help advise if you qualify for any pre-departure test or border measure exemptions resulting from your vaccinated or recovered status. Except for Singapore Citizens and PRs, entry approval under your respective Safe Travel Lane is still required.</p>
 </td>
   </tr>	
   </tbody>
@@ -131,19 +131,20 @@ You can find the following forms of commonly requested support on this page:
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Clarification on <a href="/arriving/overview#lanelist" target="_blank">Lane-specific Entry Requirements</a></li>
 				 </ol>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i><b>Note</b>: For Vaccinated Travel Pass (VTP) QR code uploading issues, write in via the <a href="https://go.gov.sg/sto-enquiry" target="_blank">SafeTravel enquiry form</a> instead and upload the relevant error screenshots, passport details and vaccination certificate as proof. The phone helpline will not be able to process these documents on the spot.</i></p>
 </td>
   </tr>
 	 <tr>
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;  line-height:1.35; "><a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">SafeTravel Enquiry Form</a> with supporting documents </td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px;">
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Vaccinated Travel Pass QR Code uploading error*</li>
+		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Submission of proof of vaccination as part of the Vaccinated Travel Pass (Air) application for travellers arriving from the United States</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals for <a href="/dcev/overview" target="_blank">Death and Critical Illness Emergency Visit Lane</a> </li>
 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Refund or fee waiver requests</li>
-<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals for <a href="/dcev/overview" target="_blank">Death and Critical Illness Emergency Visit Lane</a> </li>
-	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Technical issues during application submission, e.g. Vaccination QR Code rejection</li>
-	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Submission of proof of vaccination as part of the Vaccinated Travel Pass (Air) application for travellers arriving from the United States</li>
-	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Stay-Home Notice Dedicated Facility (SDF) special request</li>
 		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Difficulties getting a COVID-19 test before departure</li>
 				 </ol>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i><b>*Note</b>: For all errors with QR code uploading, please upload the relevant error screenshots, passport details and vaccination certificates in the enquiry form for quicker processing.</i></p>
 </td>
   </tr>	
 	</tbody>
