@@ -177,7 +177,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <p style="line-height:1.35; font-size:18px; margin-top: 10px;">If detected to be symptomatic or COVID positive on arrival, travellers may be subjected to additional tests at S$30 (inclusive of GST) per ART or S$138 (inclusive of GST) per PCR test. Officers stationed at the airport will provide the necessary instructions.</p>
 	</div>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Self-isolation</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols During Stay in Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>A) Commuting Arrangements</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
