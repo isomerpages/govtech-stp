@@ -131,19 +131,20 @@ You can find the following forms of commonly requested support on this page:
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Clarification on <a href="/arriving/overview#lanelist" target="_blank">Lane-specific Entry Requirements</a></li>
 				 </ol>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i><b>Note</b>: For Vaccinated Travel Pass (VTP) QR code uploading issues, write in via the <a href="https://go.gov.sg/sto-enquiry" target="_blank">SafeTravel enquiry form</a> instead and upload the relevant error screenshots, passport details and vaccination certificate as proof. The phone helpline will not be able to process these documents on the spot.</i></p>
 </td>
   </tr>
 	 <tr>
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;  line-height:1.35; "><a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">SafeTravel Enquiry Form</a> with supporting documents </td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px;">
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Vaccinated Travel Pass QR Code uploading error*</li>
+		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Submission of proof of vaccination as part of the Vaccinated Travel Pass (Air) application for travellers arriving from the United States</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals for <a href="/dcev/overview" target="_blank">Death and Critical Illness Emergency Visit Lane</a> </li>
 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Refund or fee waiver requests</li>
-<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals for <a href="/dcev/overview" target="_blank">Death and Critical Illness Emergency Visit Lane</a> </li>
-	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Technical issues during application submission, e.g. Vaccination QR Code rejection</li>
-	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Submission of proof of vaccination as part of the Vaccinated Travel Pass (Air) application for travellers arriving from the United States</li>
-	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Stay-Home Notice Dedicated Facility (SDF) special request</li>
 		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Difficulties getting a COVID-19 test before departure</li>
 				 </ol>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i><b>*Note</b>: For all errors with QR code uploading, please upload the relevant error screenshots, passport details and vaccination certificates in the enquiry form for quicker processing.</i></p>
 </td>
   </tr>	
 	</tbody>
