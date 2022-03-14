@@ -37,9 +37,11 @@ You can find the following forms of commonly requested support on this page:
 <tbody>
 		   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading QR codes to VTL application portal</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore will be waived of all testing and Stay-Home Notice requirements. Refer to the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Protocol</a> for details.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Non-fully vaccinated travellers who produce credible proof of having contracted COVID-19 between 14 and 90 days before departure for Singapore will be exempted from their pre-departure tests. No appeal is required.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">This <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> can help advise if you qualify for any pre-departure test or border measure exemptions resulting from your vaccinated or recovered status. Except for Singapore Citizens and PRs, entry approval under your respective Safe Travel Lane is still required.</p>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/vtl/faq#invalidcode" target="_blank">Click Here</a> for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
+</p>
+<ol style="padding-left: 20px; list-style-type: disc;"><li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li></ol>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.
+</p>
 </td>
  </tr>
 			   <tr>
