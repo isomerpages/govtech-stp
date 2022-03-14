@@ -110,7 +110,7 @@ When securing a transport booking, travellers must inform the transport operator
 
 Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
 
-All travellers are prohibited from taking public transport, e.g. public buses/trains.
+All travellers are prohibited from taking public transport, e.g. public buses/trains to their SHN location.
 
 <!--<div id="transportQ3"></div>
 
