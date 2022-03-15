@@ -199,7 +199,9 @@ third_nav_title: VTL Land
 	<p style="line-height:1.35;font-size:18px;">If detected to be symptomatic or COVID positive on arrival, travellers may be subjected to additional tests at S$30 (inclusive of GST) per ART or S$138 (inclusive of GST) per PCR test. Officers will provide the necessary instructions.</p>
 </div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(3B) On-Arrival COVID-19 ART</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols During Stay in Singapore</b></div>
+
+<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(4A) On-Arrival COVID-19 ART</b></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <!--<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers will be ferried to Queen Street Terminal or Woodlands Temporary Bus Interchange, where they will take their on-arrival COVID-19 ART. Including GST, the test costs $15 and travellers can make e-payment for the test on the spot. Travellers may also take a supervised self-swab ART as their On-Arrival Covid-19 test at a <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre or Combined Test Centre</a>within 24 hours of arrival. The weblink to book the test will be provided in the Testing Notice issued on arrival.</p>-->
 <!--	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">🚍 Travellers can use any transport to leave Queen Street Terminal or Woodlands Temporary Bus Interchange if they have tested negative for their on-arrival COVID-19 ART.</p>-->
@@ -209,9 +211,7 @@ third_nav_title: VTL Land
 <p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><span style="color:red;">❌</span>&nbsp;The post-arrival test is not applicable to children aged two and below in this calendar year (i.e. born in or after 2020).</p>
 </div>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;margin: 20px 0px 20px 0px;"><b>Stage 4: Stay in Singapore</b></div>
-
-<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(4A) COVID-19 Safe Management Measures and Proof of Vaccination</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom: 0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>(4B) COVID-19 Safe Management Measures and Proof of Vaccination</b></div>
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">The vaccination status of all fully vaccinated VTL (Land) travellers vaccinated outside Singapore will be automatically reflected on their <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a> after arrival in Singapore.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">All travellers must comply with the latest public health measures. This includes the use of the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. Please visit the <a target="_blank" href="https://moh.gov.sg/covid-19-phase-advisory">Ministry of Health website</a> for details on the prevailing measures.</p>
