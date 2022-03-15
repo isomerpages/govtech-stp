@@ -81,7 +81,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="transportQ2"></div>
 
-#### 1. What are the transport advisories for Travellers who are completing their Stay Home Notice at their accommodation?
+#### 1. What are the transport advisories for travellers who are completing their Stay Home Notice at their accommodation?
 
 Travellers can commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps. 
 
