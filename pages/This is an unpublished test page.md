@@ -1,11 +1,12 @@
 ---
-title: VTL Air checklist test page
+title: This is an unpublished test page
 permalink: /checklisttest
 date: 2022-02-17
 layout: post
 description: ""
 published: false
 ---
+
 <!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>NOTICE:</u></b></p>
 		<p style="font-size:16px; margin-top:15px; margin-bottom:0px;line-height:1.3;color:black;">The following measures are applicable for ATP holders entering Singapore <b>from 21 Feb 2022, 2359h (SGT)</b>.</p>
