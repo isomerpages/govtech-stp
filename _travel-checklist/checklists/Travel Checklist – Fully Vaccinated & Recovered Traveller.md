@@ -21,7 +21,7 @@ description: ""
 	<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Work Permit holders</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Short term visitors (including family members under the Familial Ties Lane and Student Pass Holder Lane)</li>
 	</ol>
-<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">Singapore Citizens, Permanent Residents and Long Term Pass Holders (excluding Work Permit Holders), <b>do not need to apply or present an entry approval to enter Singapore</b>. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes. Unsure which lane you’re eligible for entry, return to the  “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page.</p> 
+<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">Singapore Citizens, Permanent Residents and Long Term Pass Holders (excluding Work Permit Holders), <b>do not need to apply or present an entry approval to enter Singapore</b>. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes. If you are unsure which lane you’re eligible for entry, return to the  “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page.</p> 
 	<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">To check for the status of your application, <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">click here</a>.</p>
   </div>
   
