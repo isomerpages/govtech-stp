@@ -120,7 +120,7 @@ third_nav_title: VTL Sea
 	</tbody></table>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1G: Secure self-isolation accommodation</b></div>	
+<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1G: Secure self-isolation accommodation</b></div>	
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><b>[Short Term Visitors]</b> Hotel booking confirmation and payment for duration of stay in Singapore. For the list of available hotels in Singapore, <a href="https://www.stb.gov.sg/content/stb/en/home-pages/approved-hotels.html" target="_blank">click here</a></p>
 	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:0px;"><span style="font-size:22px; color:green;"><b>✓</b></span>&nbsp; Other travellers can self-isolate at any of the following locations:
@@ -137,9 +137,9 @@ third_nav_title: VTL Sea
 		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Clean and disinfect contact surfaces after each use; and</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving self-isolation. Clean and disinfect contact surfaces after each use.</li>
 	</ol>
-</div>
+</div>-->
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1H: Take Pre-departure COVID-19 Test (PDT)</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1G: Take Pre-departure COVID-19 Test (PDT)</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">All travellers, except the groups listed below, must take a Pre-Departure Test (PDT) within 2 days before departure for Singapore (e.g. a traveller departing for Singapore on 3 December 2021 should take a pre-departure COVID-19 test no earlier than 1 December 2021):</p>
 		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
@@ -154,7 +154,7 @@ third_nav_title: VTL Sea
 	</ol>	
 	</div>
 	
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1I: Submit Health Declaration</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1H: Submit Health Declaration</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom: 10px; line-height:1.35;"><!--&#9200; &nbsp; --><b>If you are fit for travel, submit the SG Arrival Card health and travel history declaration up to <u>3 days</u> before arriving in Singapore.</b></p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: disc; background-color:#f8f8f8;">
@@ -167,22 +167,15 @@ third_nav_title: VTL Sea
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><span style="font-size:22px; color:red;"><b>✕</b></span>&nbsp; Work Permit holders and short-term visitors: You do not need to upload your vaccination certificates as they have already been verified as part of the VTP application.</p>
 	</div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1J: Post-arrival COVID-19 ART Test</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1I: 24-Hour post-arrival COVID-19 ART Test</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">Undergo on-arrival COVID-19 ART test at <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centres or Combined Test Centres</a> within 24 hours of arrival and remain self-isolated until their test result is confirmed to be negative.</p>
-	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><b><u>Note</u></b>: Travellers entering Singapore <b>from 14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured authorised ART kits within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART.  Travellers are required to report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</p>
+	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">Travellers must take an unsupervised self-administered ART using self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kits</a> within 24 hours of arrival in Singapore. and submit their negative test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</p>
+	<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">Travellers are only allowed to take public transport (e.g. public buses/trains) and proceed with their activities after testing negative on the ART. If travellers wish to depart the airport to a testing centre or to isolate at their place of accommodation before submitting a negative test, they can only take private transportation, taxi, or private hire car.</p>
+<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp;The post-arrival test is not applicable to children aged two and below in this calendar year (i.e. born in or after 2020).</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp;Does not apply to children aged two and below in this calendar year (i.e. born in or after 2020).</p>
 <p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp; Fully vaccinated travellers who recently recovered from COVID-19 may qualify for exemption from the on-arrival COVID-19 PCR test and other inland border measures. Use this <a target="_blank" href="https://go.gov.sg/recovered-traveller-checker">self-checker tool</a> to determine if you qualify.</p>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:10px;"><span style="color:red; font-size:20px;">⚠</span>&nbsp; Travellers who did not do so will pay for their tests on the spot during arrival, and may experience delays in the administration of the tests and departure from the checkpoint.</p>
 </div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1K: [Short term visitors only] Contact Tracing App/Token</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">All short-term VTL (Sea) travellers <b>must</b> download the <a target="_blank" href="https://www.tracetogether.gov.sg/">TraceTogether</a> mobile application on their mobile phone and register their profile for contact tracing.</p>
-<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;">All travellers who are unable to use a mobile device or who are unable to download/register for the TraceTogether app may obtain TraceTogether tokens at S$13 per token from designated locations. For more details, please <a target="_blank" href="/health/tt-for-travellers#token">click here</a>.</p>
-		<p style="font-size:18px; margin-bottom:20px; line-height:1.35; margin-top:20px;"><span style="font-size:22px; color:red;"><b>✕</b></span> &nbsp; <b>Children aged 6 and below in this calendar year are exempted from this requirement (e.g. a child who turns 6 this calendar year)</b>.</p>
-  </div>
-
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="2A">&#9744;&nbsp;<b>Stage 2A: Pre-boarding document checks</b></div>
@@ -214,20 +207,11 @@ third_nav_title: VTL Sea
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols during Stay in Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 4A: Commuting Arrangements</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 4A: Post-arrival Antigen Rapid Test</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">All commutes made <b>before</b> the traveller is tested negative for COVID-19 on their post-arrival 24-hour Antigen Rapid Test (see Stage 4B) should only be made using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Travellers may use public transport (e.g. trains, buses) only after they have tested negative on their post-arrival test.
-</p>
-  </div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 4B: Post-arrival Antigen Rapid Test</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-    <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">Travellers <b>must take a supervised self-administered Antigen Rapid Test (ART) within 24 hours of arrival in Singapore at any <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a></b>. Booking links for the test will be sent via SMS and found in the testing notice issued to travellers upon arrival. Payments for the test (S$15/per test) will be collected separately at the QTC/CTC.</p>
-	 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Upon the completion of the ART, travellers will receive their test result via SMS. Travellers who have yet to take their supervised self-administered ART must be in self-isolation until tested negative. Individuals who test positive for COVID-19 must adhere to the <a href="https://go.gov.sg/covid-travellers" target="_blank">prevailing recovery protocols</a>, including <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a> as necessary. The prevailing treatment charges will apply.</p>
-	 <p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">As a travel requirement stipulated under the Infectious Diseases Act, travellers who fail to take the supervised self-administered ART will be penalised accordingly. This could amount to the revocation of relevant entry passes, and/or fines.</p>
-<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;"><i>Travellers entering Singapore <b>from 14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kits</a> within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART. Travellers are required to report their test result via <a href="https://www.sync.gov.sg/" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</i></p>
-	<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp;The tests are not applicable to Children aged two and below in this calendar year (i.e. born in or after 2020)</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers must take an unsupervised self-administered ART using self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kits</a> (ART kits approved for use in the country/region of embarkment are also allowed) within 24 hours of arrival in Singapore, and submit their negative test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:20px;">Travellers are only allowed to take public transport (e.g. public buses/trains) and proceed with their activities after testing negative on the ART. If travellers wish to depart from the arrival immigration to a testing centre or to isolate at their place of accommodation before submitting a negative test, they can only take private transportation, taxi, or private hire car.</p>
+	<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp;The tests are not applicable to children aged two and below in this calendar year (i.e. born in or after 2020).</p>
 	</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 4C: Proof of Vaccination for Local Safe Management Measures</b></div>

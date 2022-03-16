@@ -212,27 +212,16 @@ permalink: /travel-checklist/category-1
 
 
 ### Stage 4: Health Protocols during Stay in Singapore
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A)  Commuting Arrangements</b></i></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">All commutes made <b>before</b> the traveller is tested negative for COVID-19 on their post-arrival 24-hour Antigen Rapid Test (see Stage 4B) should only be made using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>
-<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers may use public transport (e.g. trains, buses) only after they have tested negative on their post-arrival test.
-</p>
-	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Post-arrival Antigen Rapid Test</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Post-arrival Antigen Rapid Test</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px;line-height:1.35;">Travellers <b>must take a supervised self-administered Antigen Rapid Test (ART) within 24 hours of arrival in Singapore at any <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a></b>. Booking links for the test will be sent via SMS and found in the testing notice issued to travellers upon arrival. Payments for the test (S$15/per test) will be collected separately at the QTC/CTC.</p>
-	<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Upon the completion of the ART, travellers will receive their test result via SMS. Travellers who have yet to take their supervised self-administered ART must be in self-isolation until tested negative. Individuals who test positive for COVID-19 must adhere to the <a href="https://go.gov.sg/covid-travellers" target="_blank">prevailing recovery protocols</a>, including <a href="/health/insurance-and-treatment#treatment" target="_blank"> medical treatment</a> as necessary. The prevailing treatment charges will apply.</p>
-<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">As a travel requirement stipulated under the Infectious Diseases Act, travellers who fail to take the supervised self-administered ART will be penalised accordingly. This could amount to the revocation of relevant entry passes, and/or fines.</p>
-
-<p style="line-height:1.35;margin-top:20px; margin-bottom:10px;font-size:18px;"><i>Travellers entering Singapore from <b>14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kits</a> within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART. Travellers are required to report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</i></p>
-<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp;The tests are not applicable to children aged two and below in this calendar year (i.e. born in or after 2020).
-</p>	
+<p style="font-size:18px;line-height:1.35;">Travellers must take an unsupervised self-administered ART using self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kits</a> (ART kits approved for use in the country/region of embarkment are also allowed) within 24 hours of arrival in Singapore. and submit their negative test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</p>
+	<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers are only allowed to take public transport (e.g. public buses/trains) and proceed with their activities after testing negative on the ART. If travellers wish to depart the airport to a testing centre or to isolate at their place of accommodation before submitting a negative test, they can only take private transportation, taxi, or private hire car.</p>
+<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;"><span style="font-size:22px; color:red;"><b>&#10005;</b></span> &nbsp; The post-arrival test is not applicable to children aged two and below in this calendar year (i.e. born in or after 2020).</p>	
 </div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Abide by Local COVID-19 Measures including Vaccination-Differentiated Measures</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Abide by Local COVID-19 Measures including Vaccination-Differentiated Measures</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">While in Singapore, travellers must comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>. This includes the use of TraceTogether, to facilitate the identification of close contacts of a COVID-positive case.</p>
 
@@ -244,7 +233,7 @@ permalink: /travel-checklist/category-1
 <p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">If you feel unwell, please refer to the <a href="https://go.gov.sg/covid-travellers" target="_blank">MOH traveller recovery protocol</a>.</p>
 	</div>	
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>D) [Long Term Pass Holders aged 12-18] Fulfil Vaccination Requirements </b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) [Long Term Pass Holders aged 12-18] Fulfil Vaccination Requirements </b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">As a condition for entry, unvaccinated or partially vaccinated long term pass holders above 12 years and below 18 years (by date of birth) must complete the full vaccination regimen within two months of arrival. Individuals whose medical condition disallows them from meeting this requirement, must be medically certified in Singapore to be ineligible for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>, within 30 days of arrival.</p>
 	</div>
