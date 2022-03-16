@@ -166,7 +166,7 @@ permalink: /travel-checklist/category-1
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>H) Secure Self-isolation Accommodation</b></i></div>
+<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>H) Secure Self-isolation Accommodation</b></i></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">Travellers are required to remain in self-isolation at a declared accommodation until they receive a negative COVID-19 test result, which includes:</p>
 <ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;font-size:18px;">
@@ -176,7 +176,7 @@ permalink: /travel-checklist/category-1
 </ol>
 <p style="line-height:1.35;font-size:18px;">For hotel bookings, travellers should check and ensure that the hotel can accommodate self-isolating guests waiting for their on-arrival COVID-19 Polymerase Chain Reaction Test ("PCR Test") result before a booking is made. During booking, they should indicate that they are serving self-isolation for the on-arrival test.</p>
 <p style="line-height:1.35;font-size:18px;">Travellers may serve self-isolation at their residence with other household members, regardless of vaccination status or travel history. Travellers residing with unvaccinated vulnerable household members, are strongly encouraged to isolate themselves in a room and minimise contact. They should also designate a specific bathroom to be used by themselves, if possible.</p>
-</div>
+</div>-->
 
 ### Stage 2: Departure for Singapore	
 
