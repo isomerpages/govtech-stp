@@ -105,14 +105,15 @@ Click here to return to the <a href="#lanelist">top</a>.
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Hong Kong, India, Indonesia, Israel, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom<sup>5</sup> and the United States<sup>6</sup>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Greece, Hong Kong, India, Indonesia, Israel, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom<sup>6</sup>, the United States<sup>7</sup> and Vietnam
 <p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>From 16 Mar 2022, SGT</b>: Greece and Vietnam</p>
 				<p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><i style="font-size:16px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:16px; line-height:1.35;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
-<i style="font-size:16px; line-height:1.35;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
-<i style="font-size:16px; line-height:1.35;"><sup>4</sup>Including the Canary Islands</i><br>
-<i style="font-size:16px; line-height:1.35;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
-<i style="font-size:16px; line-height:1.35;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i></p></td>
+<i style="font-size:16px; line-height:1.35;"><sup>3</sup>The Vatican City is an independent city state and is not considered part of Italy.</i><br>
+<i style="font-size:16px; line-height:1.35;"><sup>4</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
+<i style="font-size:16px; line-height:1.35;"><sup>5</sup>Including the Canary Islands</i><br>
+<i style="font-size:16px; line-height:1.35;"><sup>6</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
+<i style="font-size:16px; line-height:1.35;"><sup>7</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i></p></td>
     </tr>
 	</tbody>
 	</table>
