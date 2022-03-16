@@ -40,7 +40,7 @@ Travellers should secure the necessary transport to Singapore.
 
 ☐ <i><b>E) Secure Self-Isolation Accommodation</b></i>
 
-Travellers must self-isolate at a non-residential address, e.g. hotel, with an en-suite toilet. For hotel bookings, travellers may refer to this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive hotel list</a>. Before a booking is made, travellers should confirm with the hotel on their ability to accommodate guests on self-isolation whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.
+Travellers must self-isolate at a non-residential address, e.g. hotel, with an en-suite toilet. For hotel bookings, travellers may refer to this <a href="https://sha.org.sg/stay-home-notice" target="_blank">non-exhaustive hotel list</a>. Before a booking is made, travellers should confirm with the hotel on their ability to accommodate guests on self-isolation whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.
 
 <div id="1F"></div>
 
