@@ -169,7 +169,7 @@ input:checked + label + .content {
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a target="_blank" href="https://ta.sdaia.gov.sa/en/index">Tawakkalna app</a></li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Sri Lanka:</b> Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Thailand:</b> International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Vietnam</b><i>(for entry from 16 Mar, SGT)</i>: Certificate of COVID-19 Vaccination</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Vietnam</b>: Certificate of COVID-19 Vaccination</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Kingdom:</b> 
 			<ol style="list-style-type:lower-alpha;">
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a target="_blank" href="https://www.gov.uk/guidance/nhs-covid-pass">National Health Service (“NHS”) COVID Pass</a> of vaccination; or</li>
@@ -199,8 +199,7 @@ input:checked + label + .content {
 
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;">Travellers must arrive in Singapore on a designated VTL flight. You can <a href="https://go.gov.sg/vtl-airlines" target="_blank">click here</a> to check list of airlines approved to operate designated VTL (Air) flights. Please note that not all flights operated by the airlines or flying out of the countries listed below are VTL flights.</p>
-	<p style="line-height:1.3; font-size:18px;"><b>VTL flights currently depart from the following VTL countries/regions:</b> Australia, Brunei Darussalam, Cambodia, Canada, Denmark, Fiji, Finland, France, Germany, Hong Kong, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom and the United States</p>
-	<p style="line-height:1.3; font-size:18px;"><b>New Countries/Regions with VTL (Air) Flights, from 16 March 2022, SGT:</b> Greece and Vietnam</p>
+	<p style="line-height:1.3; font-size:18px;"><b>VTL flights currently depart from the following VTL countries/regions:</b> Australia, Brunei Darussalam, Cambodia, Canada, Denmark, Fiji, Finland, France, Germany, Greece Hong Kong, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom, the United States and Vietnam</p>
 </div>
 </body>
 </html>
@@ -301,7 +300,7 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (AIR) [VTP(AIR)]</b>
 	</p>
-	<table>
+	<!--<table>
 		<tbody>
 			<tr>
 					<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>VTL (Air) Country/Region</b></td>
@@ -312,7 +311,7 @@ input:checked + label + .content {
 									<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">13 Mar 2022, 1000hrs, SGT</td>
 			</tr>
 		</tbody>
-	</table>
+	</table>-->
 	<ol style="margin-top:0px; list-style-type:disc;">
 					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">	Long-Term Pass holders (excluding Work Permit holders) do not need to apply for a VTP (Air).  </li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTP (Air) applications are open for travellers intending to enter Singapore <b>3-60 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
