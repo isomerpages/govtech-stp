@@ -107,13 +107,11 @@ input:checked + label + .content {
 <label for="criterion1">Criterion 1: VTL (Air) Countries/Regions and Allowed Travel History</label>
 <div style="background-color:#edf4fa;" class="content">
 <ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35; list-style-type:disc;">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Active VTL (Air) Countries/Regions:</b> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Hong Kong, India, Indonesia, Israel, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey,  the United Arab Emirates, the United Kingdom<sup>6</sup> and the United States<sup>7</sup></li>
-	<li style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;"><b>New VTL (Air) Countries/Regions from 16 Mar 2022, SGT:</b> Greece and Vietnam</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Active VTL (Air) Countries/Regions:</b> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Greece, Hong Kong, India, Indonesia, Israel, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey,  the United Arab Emirates, the United Kingdom<sup>6</sup>, the United States<sup>7</sup> and Vietnam</li>
 	</ul>
 	<p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">VTL (Air) travellers are also allowed to travel to or transit via the following list of countries/regions within the last 7 days before their date of entry into Singapore:</p>
 	<ul style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35; list-style-type:disc;">
-		<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Travellers Entering Singapore before 16 March 2022, SGT :</b> Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Hong Kong, India, Indonesia, Israel, Italy<sup>3</sup>, Macao, Mainland China, Malaysia, Maldives, the Netherlands<sup>4</sup>, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Turkey,  the United Arab Emirates, the United Kingdom<sup>6</sup> and the United States<sup>7</sup></li>
-		<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Travellers Entering Singapore from 16 Mar 2022, SGT:</b> Andorra, Australia, Austria, Belgium, Brunei Darussalam, Bulgaria, Cambodia, Canada, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup>, Estonia, Fiji, Finland, France<sup>2</sup>, Germany, Greece, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy<sup>3</sup>, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao, Mainland China, Malaysia, Maldives, Malta, Monaco, the Netherlands<sup>4</sup>, Norway, the Philippines, Poland, Portugal, Qatar, the Republic of Korea, Romania, San Marino, Saudi Arabia, Slovakia, Slovenia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Turkey, the United Arab Emirates, the United Kingdom<sup>6</sup> and the United States<sup>7</sup>, Vatican City, Vietnam</li>
+		<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"> Andorra, Australia, Austria, Belgium, Brunei Darussalam, Bulgaria, Cambodia, Canada, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup>, Estonia, Fiji, Finland, France<sup>2</sup>, Germany, Greece, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy<sup>3</sup>, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao, Mainland China, Malaysia, Maldives, Malta, Monaco, the Netherlands<sup>4</sup>, Norway, the Philippines, Poland, Portugal, Qatar, the Republic of Korea, Romania, San Marino, Saudi Arabia, Slovakia, Slovenia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Turkey, the United Arab Emirates, the United Kingdom<sup>6</sup>, the United States<sup>7</sup>, Vatican City and Vietnam</li>
 	</ul>
 	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 <p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.35;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
@@ -171,7 +169,7 @@ input:checked + label + .content {
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Saudi Arabia:</b> Proof of vaccination (e.g. COVID-19 Vaccination Certificate) on the <a target="_blank" href="https://ta.sdaia.gov.sa/en/index">Tawakkalna app</a></li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Sri Lanka:</b> Certificate of COVID-19 Vaccination issued by the Sri Lankan Ministry of Health</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Thailand:</b> International COVID-19 Vaccination Certificate issued by the Department of Disease Control, Ministry of Public Health, Thailand</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Vietnam</b><i>(for entry from 16 Mar, SGT)</i>: Certificate of COVID-19 Vaccination</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Vietnam</b>: Certificate of COVID-19 Vaccination</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>United Kingdom:</b> 
 			<ol style="list-style-type:lower-alpha;">
 			<li style="line-height:1.3; margin-bottom:18px; font-size:18px;"><a target="_blank" href="https://www.gov.uk/guidance/nhs-covid-pass">National Health Service (“NHS”) COVID Pass</a> of vaccination; or</li>
@@ -201,8 +199,7 @@ input:checked + label + .content {
 
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;">Travellers must arrive in Singapore on a designated VTL flight. You can <a href="https://go.gov.sg/vtl-airlines" target="_blank">click here</a> to check list of airlines approved to operate designated VTL (Air) flights. Please note that not all flights operated by the airlines or flying out of the countries listed below are VTL flights.</p>
-	<p style="line-height:1.3; font-size:18px;"><b>VTL flights currently depart from the following VTL countries/regions:</b> Australia, Brunei Darussalam, Cambodia, Canada, Denmark, Fiji, Finland, France, Germany, Hong Kong, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom and the United States</p>
-	<p style="line-height:1.3; font-size:18px;"><b>New Countries/Regions with VTL (Air) Flights, from 16 March 2022, SGT:</b> Greece and Vietnam</p>
+	<p style="line-height:1.3; font-size:18px;"><b>VTL flights currently depart from the following VTL countries/regions:</b> Australia, Brunei Darussalam, Cambodia, Canada, Denmark, Fiji, Finland, France, Germany, Greece Hong Kong, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom, the United States and Vietnam</p>
 </div>
 </body>
 </html>
@@ -303,7 +300,7 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (AIR) [VTP(AIR)]</b>
 	</p>
-	<table>
+	<!--<table>
 		<tbody>
 			<tr>
 					<td style="font-size: 16px; line-height:1.35;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px; background-color:#153855; color:white;"><b>VTL (Air) Country/Region</b></td>
@@ -314,7 +311,7 @@ input:checked + label + .content {
 									<td style="font-size: 16px; line-height:1.35; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: left; vertical-align:middle;">13 Mar 2022, 1000hrs, SGT</td>
 			</tr>
 		</tbody>
-	</table>
+	</table>-->
 	<ol style="margin-top:0px; list-style-type:disc;">
 					<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">	Long-Term Pass holders (excluding Work Permit holders) do not need to apply for a VTP (Air).  </li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTP (Air) applications are open for travellers intending to enter Singapore <b>3-60 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
@@ -343,8 +340,7 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Travellers will need to undergo the following COVID-19 tests:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Pre-departure COVID-19 PCR or professionally administered ART taken within 2 days before departure for Singapore</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at a <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Travellers entering Singapore <b>from 14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kits</a> within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART. Travellers are required to report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore.</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Unsupervised self-administered ART using self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kits</a> within 24 hours of arrival in Singapore. Travellers are required to report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore.</li>
 </ol>
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">Fully vaccinated recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:15px; line-height:1.35;">For their journey to Singapore, travellers must carry along an electronic or physical copy of the documents applicable to them, and be prepared to present them to airline staff and immigration officers. The table below summarises the key documents travellers have to bring along.</p>

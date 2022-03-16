@@ -780,16 +780,17 @@ We are currently working on accepting digitally verifiable vaccination certifica
 
 ### (2) Travel History Requirement
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Travellers entering Singapore on or after 16 March 2022 may also have travel history to the European Economic Area (EEA) within the last 7 days prior to departure for Singapore. The EEA consists of the 27 European Union member states, Iceland, Liechtenstein, and Norway. Travel history to Andorra, Monaco, San Marino and Vatican City is also allowed.</i></p>
-
 
 #### 1. How is the 7-day travel history determined?
 
-If the traveller’s scheduled day of departure for Singapore is D (e.g. 8 March 2022), the traveller must have only travelled to or transited via one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore from D-7 to D (i.e. 1 to 8 March 2022, if D is 8 March 2022).
+If the traveller’s scheduled day of departure for Singapore is D (e.g. 8 March 2022), the traveller must have only travelled to or transited via one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a>, the European Economic Area (EEA)* and/or Singapore from D-7 to D (i.e. 1 to 8 March 2022, if D is 8 March 2022).
+
+<p style="font-size:20px; line-height:1.5;"><i>*The EEA consists of the 27 European Union member states, Iceland, Liechtenstein, and Norway. Travel history to Andorra, Monaco, San Marino and Vatican City is also allowed.</i></p>
+
 
 #### 2. I am travelling from Singapore to a [VTL country/region](/vtl/requirements-and-process#countries) and will be back in less than 7 consecutive days. Will I be eligible to return to Singapore on the VTL?
 
-Yes, you will be eligible for the VTL so long as your travel history within the <b>past 7 consecutive days</b> before departure for Singapore only consists of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore. For example, your 7-day travel history may include 5 days in Singapore, 5 days in the United Kingdom, and 4 days in Germany.
+Yes, you will be eligible for the VTL so long as your travel history within the <b>past 7 consecutive days</b> before departure for Singapore only consists of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries), <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a>, the European Economic Area (EEA), and/or Singapore. For example, your 7-day travel history may include 5 days in Singapore, 5 days in the United Kingdom, and 4 days in Germany.
 
 #### 3.  I intend to arrive in Singapore on a designated VTL (Air) flight and have an acceptable proof of vaccination, but I have travel history to or will transit via a non-VTL (Air) or non-Category I country/region prior to that flight. Will I be eligible for the VTL?
 
@@ -971,10 +972,6 @@ Please check the <a href="/transit/overview" target="_blank">Transiting through 
 
 <p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in this calendar year (i.e. born in or after 2020) are not required to undergo an on-arrival COVID-19 test. Fully vaccinated recently-recovered travellers may qualify for exemption from the on-arrival COVID-19 test. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.</i></p>
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Travellers entering Singapore <b>from 14 Mar 2022, 2359hrs (SGT)</b> will only need to undergo an unsupervised self-administered ART using self-procured authorised ART kits within 24 hours of arrival in Singapore. This will replace the previous requirement for a supervised self-administered ART. Travellers are required to report their negative test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore.</i></p>
-
-
-#### <u>UNSUPERVISED ART</u>
 
 #### 1. Where can travellers obtain ART self-test kits, and what test kits can be used?
 
