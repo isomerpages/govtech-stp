@@ -195,8 +195,6 @@ third_nav_title: VTL Land
 <div style="padding: 10px 10px 10px 10px; margin-top: 0px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Follow the instructions provided by the officers and signages on arrival. Travellers must present the same set of documentation listed in <a href="#2A">Stage 2</a> for immigration clearance.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><span style="color:red; font-size:28px;">⚠&nbsp;</span>Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration &amp; Checkpoints Authority (ICA).</p>
-	<p style="font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;">🚍 Travellers must board the same bus after clearing immigration, to be transported to the On-Arrival Test location.</p>
-	<p style="line-height:1.35;font-size:18px;">If detected to be symptomatic or COVID positive on arrival, travellers may be subjected to additional tests at S$30 (inclusive of GST) per ART or S$138 (inclusive of GST) per PCR test. Officers will provide the necessary instructions.</p>
 </div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols During Stay in Singapore</b></div>
