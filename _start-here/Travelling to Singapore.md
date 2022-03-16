@@ -60,8 +60,7 @@ description: Start here to find out the travel requirements, restrictions and
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Hong Kong, India, Indonesia, Israel, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom<sup>5</sup> and the United States<sup>6</sup>
-<p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><b>From 16 Mar 2022, SGT</b>: Greece and Vietnam</p>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Greece, Hong Kong, India, Indonesia, Israel, Italy<sup>3</sup>, Malaysia, Maldives, the Netherlands<sup>4</sup>, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>5</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom<sup>6</sup>, the United States<sup>7</sup> and Vietnam
 				<p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><i style="font-size:16px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:16px; line-height:1.35;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
 <i style="font-size:16px; line-height:1.35;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
