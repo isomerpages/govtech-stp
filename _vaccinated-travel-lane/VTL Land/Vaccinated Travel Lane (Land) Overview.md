@@ -310,9 +310,7 @@ Travellers who are eligible for VTL (Land) and have already obtained their bus t
 <ol style="font-size:18px; list-style-type:disc;">
 	<li style="font-size:18px; line-height:1.4;">Negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) taken within 2 days before departure for Singapore;</li>
 	<li style="font-size:18px; line-height:1.4;">Filling up the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> (replaces the physical "White Card"). Travellers must complete this within three (3) days before arrival in Singapore to avoid delays at the checkpoint; and</li>
-<li style="font-size:18px; line-height:1.4;">Supervised self-administered ART (S$15, payment onsite via cashless modes) at Woodlands and Queen Street Bus Terminals or any <a href="http://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore</li> 
-	<li style="font-size:18px; line-height:1.4;"><b>[For arrivals before 14 Mar 2022, 2359h]</b> Supervised self-administered ART (S$15, payment onsite via cashless modes) at Woodlands and Queen Street Bus Terminals or any <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)" target="_blank">Quick Test Centre (QTC) or Combined Test Centre (CTC)</a> within 24 hours of arrival in Singapore </li>
-	<li style="font-size:18px; line-height:1.4;"><b>[For arrivals from 14 March 2022, 2359h]</b> Unsupervised Self Swab (USS) ART within 24 hours of arrival and submit test results <a href="https://www.sync.gov.sg" target="_blank">here</a>.</li>
+	<li style="font-size:18px; line-height:1.4;">Unsupervised Self Swab (USS) ART within 24 hours of arrival and submit test results <a href="https://www.sync.gov.sg" target="_blank">here</a>.</li>
 </ol>
 
 Fully vaccinated and recently recovered travellers may qualify for exemption from COVID-19 tests. Please refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for more information.
