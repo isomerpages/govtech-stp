@@ -176,8 +176,8 @@ permalink: /travel-checklist/category-1
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">PDT reports or proof of recovery (per Stages <a href="#1C">1C</a> and <a href="#1D">1D</a>); and </li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid Entry Approval Letter (only for travellers requiring entry approval, see <a href="#1A">Stage 1A</a>)</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid long-term pass and credible proof of vaccination (for long term pass holders only)</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">[Only for travellers requiring entry approval, see <a href="#1A">Stage 1A</a>] Valid Entry Approval Letter </li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">[For long term pass holders only] Valid long-term pass and credible proof of vaccination (see <a href="#1B">Stage 1B</a>)</li>
 </ol>
 
 <p style="margin-top: 20px; line-height:1.35; font-size:18px;">Travellers who fail to produce these documents may be denied boarding.</p>
