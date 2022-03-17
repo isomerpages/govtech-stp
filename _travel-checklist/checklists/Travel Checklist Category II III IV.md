@@ -6,7 +6,7 @@ description: ""
 <p style="font-size:18px; line-height:1.35;">This checklist is for travellers who:</p>
 
 <ol>
-	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Have visited any country/region in the Category II/III/IV - "General Travel Category" (i.e. any country/region other than Mainland China, Macao or Taiwan) the past 7 days before arrival in Singapore;</li>
+	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;">Have visited any country/region in Category II/III/IV - "General Travel Category" (i.e. any country/region other than Mainland China, Macao or Taiwan) in the past 7 days before arrival in Singapore;</li>
 	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-alpha;"><b>Are not</b> entering Singapore via the Vaccinated Travel Lane (Air), (Land), (Sea), Reciprocal Green Lane, Periodic Commuting Arrangement, Work Pass Holder General Lane or Air Travel Pass. <i>(If unsure what these lanes/arrangements are, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page to determine an entry option that best suits your travel needs.)</i></li>
 </ol>
   
@@ -31,7 +31,7 @@ description: ""
   
 <div id="1B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Obtain Proof of Vaccination</b></i></div>	
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:15px;line-height:1.35;">Travellers may be asked for proof of vaccination for various travel-related declarations, and pre-boarding as well as immigration checks. Depending on where you have received your vaccination, the following documents are considered acceptable vaccination proof:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:15px;line-height:1.35;">Travellers may be asked for proof of vaccination for various travel-related declarations, and pre-boarding as well as immigration checks. Depending on where you have received your vaccination, the following documents are considered acceptable vaccination proof.</p>
 	<table>
   <thead>
     <tr>
@@ -73,6 +73,7 @@ description: ""
     </tr>
 		</tbody>
 	</table>
+	<p style="font-size:18px; margin-top:15px;line-height:1.35;">Travellers with digitally-verifiable vaccination certificates (i.e. certificates with QR codes) can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> to verify if their certificates can be digitally recognised. This is an optional step for travellers’ own assurance and to facilitate boarding checks by transport operators. If the verification fails, they can continue to show their vaccination app or vaccination certificates as proof of vaccination at the point of boarding or during immigration clearance.</p>
 </div>	
 
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Application for Entry Visa (if applicable)</b></i></div>
@@ -182,11 +183,11 @@ description: ""
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">PDT reports or proof of recovery (per Stages 1D and 1E); AND</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Valid Entry Approval Letter (only for travellers requiring entry approval, see <a href="#1A">Stage 1A</a>)</li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Valid long-term pass and credible proof of vaccination (for long term pass holders only)</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;"> [Only for travellers requiring entry approval, see <a href="#1A">Stage 1A</a>]Valid Entry Approval Letter</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">[For long term pass holders only] Valid long-term pass and credible proof of vaccination (see <a href="#1A">Stage 1B</a>) </li>
 </ol>
 
-<p style="line-height:1.35; font-size:18px;">Travellers who fail to produce these documents may be denied boarding.</p>
+<p style="line-height:1.35; font-size:18px;">Travellers who fail to produce the required documents may be denied boarding.</p>
 </div>
 
 
@@ -194,7 +195,7 @@ description: ""
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>A) Immigration Clearance and Registering Proof of Vaccination</b></i></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, foreign short term visit pass travellers will receive an email, as provided in their SGAC declaration (<a href="#1E">see Stage 1E</a>), of their <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted. Travellers who are cleared for entry via Land or Sea, will continue to have their passports physically endorsed.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35;font-size:18px;">During immigration clearance, provide all documents, including proof of tests, and information required by the immigration officer. Upon clearance, foreign short term visit pass travellers will receive an email, as provided in their SGAC declaration (<a href="#1E">see Stage 1E</a>), of their <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> which will state the period of stay granted.</p>
 
 <p style="line-height:1.35;font-size:18px;"><b><a target="_blank" href="/health/vtsg">Fully vaccinated travellers</a> who are vaccinated overseas and unable to upload their digital vaccination certificates via the SG Arrival Card declaration (per <a href="#1E">Stage 1E</a>)</b> should clear immigration at a manned counter. Here, the immigration officer will assist with the temporary registration of the traveller’s overseas vaccination status into their TraceTogether mobile application. With this, travellers will be able to show temporary proof of their vaccination status using TraceTogether in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a> for 30 days.</p>
 	
