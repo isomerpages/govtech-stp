@@ -180,7 +180,7 @@ permalink: /travel-checklist/category-1
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">[For long term pass holders only] Valid long-term pass and credible proof of vaccination (see <a href="#1B">Stage 1B</a>)</li>
 </ol>
 
-<p style="margin-top: 20px; line-height:1.35; font-size:18px;">Travellers who fail to produce these documents may be denied boarding.</p>
+<p style="margin-top: 20px; line-height:1.35; font-size:18px;">Travellers who fail to produce the required documents may be denied boarding.</p>
 </div>
 
 
