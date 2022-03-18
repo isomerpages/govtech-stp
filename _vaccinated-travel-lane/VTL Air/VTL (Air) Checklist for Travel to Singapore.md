@@ -30,8 +30,9 @@ third_nav_title: VTL Air
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">
 &#9744; &nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proof of vaccination to be eligible for the VTL. <br><br>You may check for the acceptable proof of vaccination based on their countries/regions of issuance below. The upload instructions for Short-Term Visitors (STVs) and MOM Work Permit Holders (WPHs) will be required for <b>Stage 1B</b>. The QR codes of certain vaccination certificates can be verified by travellers themselves before application. Travellers are encouraged to verify that their vaccination certificates are valid using these publicly available verification tools if available, before they apply for a VTP or travel to Singapore.</p>
-<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">MOM LTPHs may also obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</p>
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proof of vaccination to be eligible for the VTL. </p>
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">You may check for the acceptable proof of vaccination based on their countries/regions of issuance below. The upload instructions for Short-Term Visitors (STVs) and MOM Work Permit Holders (WPHs) will be required for <b>Stage 1B</b>. The QR codes of certain vaccination certificates can be verified by travellers themselves before application.</p>
+		<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">SCs/PRs and eligible LTPHs with digitally-verifiable vaccination certificates (i.e. certificates with QR codes) can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> to verify if their certificates can be digitally recognised. This is an optional step for travellers’ own assurance and to facilitate boarding checks by transport operators. If the verification fails, they can continue to show their vaccination app or vaccination certificates as proof of vaccination at the point of boarding or during immigration clearance.</p>
 	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proof of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u> </p>
 <html>
 
@@ -627,9 +628,9 @@ input:checked + label + .content {
 		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Vaccinated Travel Pass (Air) [VTP (Air)] for the specified period of entry;</li>
 		<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Valid pre-departure COVID-19 PCR test or Antigen Rapid Test (ART) for entry into Singapore showing a negative test result <u><b>or</b></u> <a href="#recovery">Proof of Recovery</a> (for recovered travellers);</li>
 				<li style="line-height:1.35 margin-bottom:10px; font-size:18px;">Valid visa (for visa-required visitors);</li>
-						<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Acceptable proof of vaccination (same proof as at <a href="#1A">Stage 1A</a>).</li>
+						<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Acceptable proof of vaccination (same proof as at <a href="#1A">Stage 1A</a>)*.</li>
 	</ol>
-	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;"><b>Note:</b><i> LTPHs (excluding Work Permit holders) will no longer be required to present a VTP (Air). MOM LTPHs may also obtain an acceptance letter from the  Vaccination Check Portal and present it in lieu of an accepted proof of vaccination.</i></p>
+	<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">*<i> LTPHs (excluding Work Permit holders) are no longer be required to present a VTP (Air). SCs/PRs and eligible LTPHs have the option to obtain an acceptance letter from the Vaccination Check Portal and present it in lieu of an accepted proof of vaccination.</i></p>
 	</div>
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
