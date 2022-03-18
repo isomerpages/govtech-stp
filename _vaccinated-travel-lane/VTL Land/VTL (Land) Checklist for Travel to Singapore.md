@@ -187,7 +187,7 @@ third_nav_title: VTL Land
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Valid digitally verifiable vaccination certificate issued by Malaysia, or any other digitally verifiable vaccination certificate accepted by Singapore under the VTL (Land) in English (per <a href="#1A">Stage 1A</a>)</li>
 			<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Valid pre-departure COVID-19 PCR test or ART showing a negative test result in English (per <a href="#1F">Stage 1F</a>), except for children who turn 2 this calendar year (i.e. born in or after 2020), and <a target="_blank" href="/vaccinated-recovered">recovered travellers</a></li>
 	</ol>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">SCs/PRs and eligible MOM LTPHs have the option to obtain an acceptance letter from the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">SCs/PRs and eligible LTPHs have the option to obtain an acceptance letter from the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</p>
 </div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
