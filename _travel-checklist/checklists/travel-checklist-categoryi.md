@@ -101,7 +101,7 @@ permalink: /travel-checklist/category-1
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  text-align:center;vertical-align:middle;"><b>A)</b></td>
 <td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  vertical-align:middle;">Any of the following COVID-19 test results showing a positive COVID-19 infection <b>between 7 to 90 days (fully vaccinated travellers) or 14 to 90 days (non-fully vaccinated travellers) before the date of departure for Singapore</b>:
 <ol style="padding-left:25px; font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a target="_blank" href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a target="_blank" href="https://go.gov.sg/accreditation-bodies-for-covid19-testing">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:8px; line-height:1.3;">	Antigen Rapid Test (ART) result administered by a trained professional</li>
 	</ol>
 	</td>
@@ -130,7 +130,7 @@ permalink: /travel-checklist/category-1
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this self-checker tool</a>, and can show relevant proof of recovery outlined at <a href="#1C">Stage 1C</a>.</li>
 	</ol>
 	
-<p style="font-size:18px; line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) <a target="_blank" href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing">at an internationally accredited or recognised lab/clinic/medical facility</a>, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). The PDT result must not be a handwritten document, and fulfil the following: </p>
+<p style="font-size:18px; line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) <a target="_blank" href="https://go.gov.sg/accreditation-bodies-for-covid19-testing">at an internationally accredited or recognised lab/clinic/medical facility</a>, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed). The PDT result must not be a handwritten document, and fulfil the following: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Is in English (or accompanied with an English translation);</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
