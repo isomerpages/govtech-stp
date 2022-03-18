@@ -139,7 +139,6 @@ Travellers need to:
 
 If your vaccination certificate(s) are valid, you will be granted <b>temporary vaccinated status lasting about 30 days or 180 days (only for travellers who uploaded their QR codes while applying for the Vaccinated Travel Pass)</b>. You will need to download the TraceTogether app and register with your passport number to view your vaccination status. The vaccinated status in your TraceTogether app will be your proof of vaccination while going around Singapore. 
 
-Please note that the temporary "Vaccinated" status will only be granted on your first time arriving in Singapore. The status will not be renewed after exiting Singapore and entering again.
 
 
 #### 2b. Maintaining vaccination status beyond the temporary status granted for those who have taken non-Sinovac/Sinopharm vaccines
