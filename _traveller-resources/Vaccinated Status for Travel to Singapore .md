@@ -139,7 +139,7 @@ Travellers need to:
 
 If your vaccination certificate(s) are valid, you will be granted <b>temporary vaccinated status lasting about 30 days or 180 days (only for travellers who uploaded their QR codes while applying for the Vaccinated Travel Pass)</b>. You will need to download the TraceTogether app and register with your passport number to view your vaccination status. The vaccinated status in your TraceTogether app will be your proof of vaccination while going around Singapore. 
 
-
+Travellers whose vaccination status is not accurately reflected on their TraceTogether/HealthHub apps may write in via this form: <a href="https://go.gov.sg/vds-query-form" target="_blank">https://go.gov.sg/vds-query-form</a>.
 
 #### 2b. Maintaining vaccination status beyond the temporary status granted for those who have taken non-Sinovac/Sinopharm vaccines
 
@@ -168,7 +168,9 @@ Travellers who entered Singapore with Sinovac/Sinopharm as part of their vaccina
 
 A full list of accepted 3-dose combinations involving Sinovac/Sinopharm and other WHO EUL vaccines, including for those recovered from COVID-19, can be found <a href="https://go.gov.sg/sinovac-mixed-vac-combi" target="_blank">here</a>. Travellers will be considered fully vaccinated immediately after their 3rd vaccination dose (i.e. they do not have to wait for 14 days to be considered fully vaccinated after their 3rd dose).
 
-For more information, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH FAQ </a>.
+### Further Information on Vaccination Status Matters
+
+For more information relating to vaccination status matters, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH FAQ </a>.
 
 <!--Travellers who entered Singapore with only 2 doses of Sinovac/Sinopharm as part of their vaccination, or had 1 Sinovac/Sinopharm dose as part of a mixed 2-dose regime, will be required to have a minimum number of 3 vaccination doses if they want to be eligible for Vaccination-Differentiated Measures beyond 4 months from the date of their 2nd dose. The 3rd vaccination dose<b>*</b> can be of any WHO EUL vaccine, at an appropriate dosing interval outlined below.
 
