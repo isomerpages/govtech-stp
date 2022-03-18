@@ -183,6 +183,7 @@ third_nav_title: VTL Sea
 	<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Show proof of hotel booking confirmation and payment for duration of stay in Singapore;</li>
 	<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Show proof of return ferry ticket corresponding to duration of hotel stay in Singapore.</li>
 	</ol>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">SCs/PRs and eligible LTPHs have the option to obtain an acceptance letter from the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</p>
 	</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
