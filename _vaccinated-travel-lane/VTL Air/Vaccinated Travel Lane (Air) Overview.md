@@ -140,7 +140,7 @@ input:checked + label + .content {
 <label for="title3">Criterion 3: Hold an Accepted Proof of Vaccination</label>
 
 <div style="background-color:#edf4fa;" class="content" id="criteria">
-<p style="line-height:1.3; font-size:18px; margin-bottom:15px;">Fully vaccinated travellers must hold an accepted proof of vaccination in any of the following formats issued by the respective countries/regions listed below. You are encouraged to verify that your vaccination certificates are valid using <a href="/vtl/faq#vaxcert" target="_blank">publicly available verification tools</a> if available, prior to your trip. Eligible MOM Long Term Pass Holders may also obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</p>
+<p style="line-height:1.3; font-size:18px; margin-bottom:15px;">Fully vaccinated travellers must hold an accepted proof of vaccination in any of the following formats issued by the respective countries/regions listed below. You are encouraged to verify that your vaccination certificates are valid using <a href="/vtl/faq#vaxcert" target="_blank">publicly available verification tools</a> if available, prior to your trip. </p>
 	<p style="line-height:1.3; font-size:18px;">
 	</p><ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b>
