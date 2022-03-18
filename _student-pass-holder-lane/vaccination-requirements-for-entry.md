@@ -41,7 +41,7 @@ permalink: /stpl/vaccination-requirements
 
 ### 2. Documents travellers should produce to prove they are fully vaccinated
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers must be able to produce documents to prove their vaccination status before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers must be able to produce documents to prove their vaccination status before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry. Travellers also have the option to upload their vaccination certificates onto the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal (VCP)</a> and provide the letter issued by the VCP along with their certificates for verification.</p>
 
 <table>
   <thead>

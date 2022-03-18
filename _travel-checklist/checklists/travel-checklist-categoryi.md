@@ -29,9 +29,9 @@ permalink: /travel-checklist/category-1
 </p>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Obtain Proof of Vaccination</b></i></div>	
+<div id="1B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Obtain Proof of Vaccination</b></i></div>	
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:15px;line-height:1.35;">Travellers may be asked for proof of vaccination for various travel-related declarations and pre-boarding as well as immigration checks. Depending on where you have received your vaccination, the following documents are considered acceptable vaccination proof:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-bottom:15px;line-height:1.35;">Travellers may be asked for proof of vaccination for various travel-related declarations and pre-boarding as well as immigration checks. Depending on where you have received your vaccination, the following documents are considered acceptable vaccination proof.</p>
 	<table>
   <thead>
     <tr>
@@ -73,6 +73,7 @@ permalink: /travel-checklist/category-1
     </tr>
 		</tbody>
 	</table>
+	<p style="font-size:18px; margin-top:15px;line-height:1.35;">Travellers with digitally-verifiable vaccination certificates (i.e. certificates with QR codes) can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> to verify if their certificates can be digitally recognised. This is an optional step for travellers’ own assurance and to facilitate boarding checks by transport operators. If the verification fails, they can continue to show their vaccination app or vaccination certificates as proof of vaccination at the point of boarding or during immigration clearance.</p>
 </div>	
 
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>C) Application for Entry Visa (if applicable)</b></i></div>
@@ -174,12 +175,12 @@ permalink: /travel-checklist/category-1
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">To ensure that the traveller is approved for entry into Singapore, travellers may be asked by the transport operator (e.g. airline) to produce the following during pre-boarding checks:</p>
 
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">PDT reports or proof of recovery (per Stages <a href="#1C">1C</a> and <a href="#1D">1D</a>); and </li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid Entry Approval Letter (only for travellers requiring entry approval, see <a href="#1A">Stage 1A</a>)</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">Valid long-term pass and credible proof of vaccination (for long term pass holders only)</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.35;">PDT reports or proof of recovery (per Stages <a href="#1D">1D</a> and <a href="#1E">1E</a>); and </li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">[Only for travellers requiring entry approval, see <a href="#1A">Stage 1A</a>] Valid Entry Approval Letter </li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;">[For long term pass holders only] Valid long-term pass and credible proof of vaccination (see <a href="#1B">Stage 1B</a>)</li>
 </ol>
 
-<p style="margin-top: 20px; line-height:1.35; font-size:18px;">Travellers who fail to produce these documents may be denied boarding.</p>
+<p style="margin-top: 20px; line-height:1.35; font-size:18px;">Travellers who fail to produce the required documents may be denied boarding.</p>
 </div>
 
 

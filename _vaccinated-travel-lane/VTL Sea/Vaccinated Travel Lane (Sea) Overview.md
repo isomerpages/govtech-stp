@@ -235,10 +235,6 @@ input:checked + label + .content {
 <p style="line-height:1.3; font-size:18px;">SC, PR, LTPH (including IPA holders, and excluding work permit holders) and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) do not need to apply for entry via VTL (Sea).</p>
 	
 <p style="line-height:1.3; font-size:18px;"><b style="color:red;">However, all travellers must comply with the requirements stated in the</b> <a href="/vtl-sea/travel-checklist" target="_blank">VTL (Sea) travel checklist</a>, which summarises the VTL (Sea) Conditions. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice</p>	
-
-<p style="line-height:1.3; font-size:18px;">SC/PRs who are not vaccinated in Singapore are strongly encouraged to submit their overseas vaccination certificate in their health declaration as part of the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> submission, to be submitted within 3 days prior to the date of their arrival in Singapore.</p>	
-	
-<p style="line-height:1.3; font-size:18px;">SC/PR travellers will need to present an acceptable proof of vaccination for verification at check-in and arrival immigration. You are encouraged to verify that your vaccination certificates are valid using <a target="_blank" href="/vtl/faq#vaxcert">publicly available verification tools</a> if available, prior to your trip. Those who are vaccinated in Singapore are not required to submit their vaccination certificates as their vaccination records are already captured in the Singapore Ministry of Health (MOH) database.</p>
 </div>
 	
 <input id="title7" type="checkbox">
@@ -247,7 +243,6 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 	<p style="line-height:1.3; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (SEA) [VTP (SEA)] </b>
 	</p>
-	<p style="line-height:1.3; font-size:18px; margin-top:15px;"><b>There is no need to rush to apply as there is no limit on VTP applications and it is more important to secure VTL ferry tickets first.</b></p>
 	<ol style="margin-top:0px; list-style-type:disc;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">VTP (Sea) applications are open for travellers intending <b>to enter Singapore 3-60 days after today</b>. Travellers entering Singapore after this date range should come back on a later date to apply.</li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;">Travellers do not need to rush to apply as there is no limit on VTPs issued per day.</li>
@@ -339,7 +334,7 @@ input:checked + label + .content {
 </tr>
 </tbody>
 </table>
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">* <i>MOM LTPHs may obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</i></p>
+<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">* <i>SCs/PRs and eligible LTPHs may obtain an acceptance letter from the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</i></p>
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;"><sup>#</sup> <i>Eligible Work Permit Holders may refer to MOM's website <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-and-shn-requirements-for-foreign-employees#what-are-the-covid-19-insurance-requirements-for-workers-entering-singapore" target="_blank">here</a> for more information on the insurance requirements.</i></p>
 
 <div id="FAQ"></div>

@@ -29,13 +29,13 @@ third_nav_title: VTL Sea
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">&#9744;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Obtain any of the following digitally verifiable vaccination certificates accepted by the Singapore Government:<ol style="margin-top:0px; list-style-type: disc;">
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Obtain any of the following digitally verifiable vaccination certificates accepted by the Singapore Government:</p><ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b> Singapore Vaccination HealthCerts issued via the Notarise portal with a QR code, or Proof of vaccination on the TraceTogether or HealthHub app
 	</li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Indonesia:</b> Proof of vaccination on the <a href="https://www.pedulilindungi.id/" target="_blank">PeduliLindungi app</a></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Other countries/regions:</b> Please refer to <a href="/vtl/faq#vaxcert" target="_blank">this guide</a> for acceptable proof of vaccination.</li>
 	</ol>
-	</p>
+	<p style="padding-left:5px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">SCs/PRs and eligible LTPHs with digitally-verifiable vaccination certificates (i.e. certificates with QR codes) can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> to verify if their certificates can be digitally recognised. This is an <b>optional</b> step for travellers’ own assurance and to facilitate boarding checks by transport operators. If the verification fails, they can continue to show their vaccination app or vaccination certificates as proof of vaccination at the point of boarding or during immigration clearance.</p>
 	</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Stage 1B: [For STV/Eligible Work Permit Holders only] Apply for Vaccinated Travel Pass</b></div>
@@ -183,6 +183,7 @@ third_nav_title: VTL Sea
 	<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Show proof of hotel booking confirmation and payment for duration of stay in Singapore;</li>
 	<li style="line-height:1.35; margin-bottom:10px; font-size:18px;">Show proof of return ferry ticket corresponding to duration of hotel stay in Singapore.</li>
 	</ol>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.35; margin-top:10px;">SCs/PRs and eligible LTPHs have the option to obtain an acceptance letter from the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</p>
 	</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Arrival in Singapore</b></div>
