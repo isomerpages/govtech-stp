@@ -140,7 +140,7 @@ input:checked + label + .content {
 <label for="title3">Criterion 3: Hold an Accepted Proof of Vaccination</label>
 
 <div style="background-color:#edf4fa;" class="content" id="criteria">
-<p style="line-height:1.3; font-size:18px; margin-bottom:15px;">Fully vaccinated travellers must hold an accepted proof of vaccination in any of the following formats issued by the respective countries/regions listed below. You are encouraged to verify that your vaccination certificates are valid using <a href="/vtl/faq#vaxcert" target="_blank">publicly available verification tools</a> if available, prior to your trip. Eligible MOM Long Term Pass Holders may also obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</p>
+<p style="line-height:1.3; font-size:18px; margin-bottom:15px;">Fully vaccinated travellers must hold an accepted proof of vaccination in any of the following formats issued by the respective countries/regions listed below. You are encouraged to verify that your vaccination certificates are valid using <a href="/vtl/faq#vaxcert" target="_blank">publicly available verification tools</a> if available, prior to your trip. </p>
 	<p style="line-height:1.3; font-size:18px;">
 	</p><ol style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.3;"><b>Singapore:</b>
@@ -197,7 +197,7 @@ input:checked + label + .content {
 <label for="title4">Criterion 4: Arrive in Singapore on a designated VTL flight</label>
 
 <div style="background-color:#edf4fa;" class="content">
-	<p style="line-height:1.3; font-size:18px;">Travellers must arrive in Singapore on a designated VTL flight. You can <a href="https://go.gov.sg/vtl-airlines" target="_blank">click here</a> to check list of airlines approved to operate designated VTL (Air) flights. Please note that not all flights operated by the airlines or flying out of the countries listed below are VTL flights.</p>
+	<p style="line-height:1.3; font-size:18px;">Travellers must arrive in Singapore on a designated VTL flight. You can <a href="https://go.gov.sg/vtl-airlines" target="_blank">click here</a> to check the list of airlines approved to operate designated VTL (Air) flights. Please note that not all flights operated by the airlines or flying out of the countries/regions listed below are VTL flights.</p>
 	<p style="line-height:1.3; font-size:18px;"><b>VTL flights currently depart from the following VTL countries/regions:</b> Australia, Brunei Darussalam, Cambodia, Canada, Denmark, Fiji, Finland, France, Germany, Greece Hong Kong, India, Indonesia, Italy, Malaysia, Maldives, the Netherlands, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom, the United States and Vietnam</p>
 </div>
 </body>
