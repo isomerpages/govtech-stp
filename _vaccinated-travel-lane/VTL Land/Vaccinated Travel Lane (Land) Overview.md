@@ -309,7 +309,7 @@ input:checked + label + .content {
 
 Travellers who are eligible for VTL (Land) and have already obtained their bus tickets and Vaccinated Travel Pass (Land) if needed should refer to this <a href="/vtl-land/travel-checklist" target="_blank">traveller checklist</a> for the full list of requirements to complete VTL (Land) travel. This includes:
 <ol style="font-size:18px; list-style-type:disc;">
-	<li style="font-size:18px; line-height:1.4;">Negative Pre-departure COVID-19 PCR, professionally administered ART, or remotely supervised self-administered ART <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">by a Singapore provider</a> (if eligible) taken within 2 days before departure for Singapore;</li>
+	<li style="font-size:18px; line-height:1.4;">Negative Pre-departure COVID-19 PCR, professionally administered ART, <!--or remotely supervised self-administered ART <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">by a Singapore provider</a> (if eligible)--> taken within 2 days before departure for Singapore;</li>
 	<li style="font-size:18px; line-height:1.4;">Filling up the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> (replaces the physical "White Card"). Travellers must complete this within three (3) days before arrival in Singapore to avoid delays at the checkpoint; and</li>
 	<li style="font-size:18px; line-height:1.4;">Unsupervised Self Swab (USS) ART within 24 hours of arrival and submit test results <a href="https://www.sync.gov.sg" target="_blank">here</a>.</li>
 </ol>
