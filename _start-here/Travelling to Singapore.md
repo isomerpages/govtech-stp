@@ -1,9 +1,9 @@
 ---
 title: Travelling to Singapore
 permalink: /arriving/overview
-description: Start here to find out the travel requirements, restrictions and
-  SafeTravel Lanes available when travelling to Singapore
+description: Entry requirements and SafeTravel Lanes available when travelling to Singapore
 ---
+
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">To manage travel during the COVID-19 pandemic, travellers entering Singapore will be subject to health-related protocols that are calibrated based on the traveller’s vaccination status and travel history. Travellers intending to visit Singapore can determine their entry options and corresponding health protocols using the links, below:</p>
 
 - [Self Help Tool for Safe Travel Lanes and Entry Requirements](#selfhelptool)

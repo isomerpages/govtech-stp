@@ -1,9 +1,10 @@
 ---
 title: Vaccinated Travel Lane (Land) Overview
 permalink: /vtl-land/overview
-description: ""
+description: Vaccinated Travel Lane (Land) requirements for travelling to Singapore via land
 third_nav_title: VTL Land
 ---
+
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] allows quarantine-free travel to Singapore via the Causeway. Please note that:</p>
 <ol style="padding-left: 20px; font-size:18px; list-style-type: disc">
 	<li style="font-size:18px; line-height:1.4;">Travellers intending to travel to Singapore by air should utilise the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>. <b>VTP (Land) and VTP (Air) approvals are not interchangeable.</b></li>
@@ -308,7 +309,7 @@ input:checked + label + .content {
 
 Travellers who are eligible for VTL (Land) and have already obtained their bus tickets and Vaccinated Travel Pass (Land) if needed should refer to this <a href="/vtl-land/travel-checklist" target="_blank">traveller checklist</a> for the full list of requirements to complete VTL (Land) travel. This includes:
 <ol style="font-size:18px; list-style-type:disc;">
-	<li style="font-size:18px; line-height:1.4;">Negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) taken within 2 days before departure for Singapore;</li>
+	<li style="font-size:18px; line-height:1.4;">Negative Pre-departure COVID-19 PCR, professionally administered ART, <!--or remotely supervised self-administered ART <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">by a Singapore provider</a> (if eligible)--> taken within 2 days before departure for Singapore;</li>
 	<li style="font-size:18px; line-height:1.4;">Filling up the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> (replaces the physical "White Card"). Travellers must complete this within three (3) days before arrival in Singapore to avoid delays at the checkpoint; and</li>
 	<li style="font-size:18px; line-height:1.4;">Unsupervised Self Swab (USS) ART within 24 hours of arrival and submit test results <a href="https://www.sync.gov.sg" target="_blank">here</a>.</li>
 </ol>

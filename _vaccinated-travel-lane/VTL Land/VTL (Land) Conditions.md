@@ -4,7 +4,6 @@ permalink: /vtl-land/conditions
 description: ""
 third_nav_title: VTL Land
 ---
-
 ### Conditions of the Vaccinated Travel Lane Land [VTL (Land)]
 
 <ol style="line-height:1.5; padding-bottom:10px;">
@@ -14,7 +13,7 @@ third_nav_title: VTL Land
 	<li>be <a href="/health/vtsg" target="_blank">fully vaccinated</a>, and have an <a href="/vtl/faq#vaxcert" target="_blank">acceptable proof of vaccination</a>;</li>
 	<li>have only travelled to / transited via any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL countries/regions</a>, [<a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a>] and/or Singapore, for the last 7 consecutive days before departing for Singapore;</li>
 <li>travel to Singapore on a designated VTL (Land) bus service;</li>
-<li>undergo a COVID-19 polymerase chain reaction (PCR) test or Antigen Rapid Test (ART), within 2 days<sup>1</sup> before the scheduled departure time of the bus service, at a <a href="https://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/ANNEX-4a-SENARAI-MAKMAL-YANG-MENJALANKAN-UJIAN-RT-PCR-BAGI-COVID-19-24012022.pdf" target="_blank">laboratory</a> or centre that is accredited or recognised by the Malaysia Ministry of Health, and obtain a test result certificate in English stating the following:
+<li>undergo a COVID-19 polymerase chain reaction (PCR) test or professionally administered ART at a <a href="https://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/ANNEX-4a-SENARAI-MAKMAL-YANG-MENJALANKAN-UJIAN-RT-PCR-BAGI-COVID-19-24012022.pdf" target="_blank">laboratory</a> or centre that is accredited or recognised by the Malaysia Ministry of Health, <!--or remotely supervised self-administered ART <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">by a Singapore provider</a> (if eligible)--> within 2 days<sup>1</sup> before the scheduled departure time of the bus service, and obtain a test result certificate in English stating the following:
 <ol style="list-style-type:lower-roman; line-height:1.5; padding-left:10px; padding:bottom:10px;">
 <li>the VTP traveller's name, and at least one other personal identifier such as the date of birth or passport number or NRIC number corresponding exactly with the information in the traveller’s passport or NRIC used for entry into Singapore;</li>
 		<li>a negative COVID-19 test result;</li>
