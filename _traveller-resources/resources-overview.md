@@ -10,7 +10,7 @@ Otherwise, click on the links below for the relevant resources on Singapore's tr
 	 <li style="margin-top:0px; margin-bottom:0px; font-size:18px; ">
   <a href="/travel-checklist/overview">Checklists for Inbound Travellers</a></li>
   <li style="margin-top:0px; margin-bottom:0px; font-size:18px; ">
-	<a href="/shn-and-swab-summary">Non-VTL Travel Health Control Measures Categories</a></li>
+	<a href="/shn-and-swab-summary">Non-VTL Travel Health Control Measure Categories</a></li>
 	 <li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">
 <a href="/health/vtsg">Vaccinated Status for Travel to Singapore </a></li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="/health/shn">Stay-Home Notice (SHN) & SHN Dedicated Facilities</a></li>
