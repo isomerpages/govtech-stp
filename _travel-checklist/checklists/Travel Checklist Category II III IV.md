@@ -138,7 +138,7 @@ description: ""
 	</ol>
 
 <div id="#note"></div>
-	<p style="font-size:16px; line-height:1.35;"><b>*Countries eligible for remotely supervised ART</b>: Australia, Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden</p>	
+<p style="font-size:16px; line-height:1.35;"><b>*Countries eligible for remotely supervised ART</b>: Australia, Austria, Bahrain, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Ireland, Italy, Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain and Sweden, the United Arab Emirates, the United Kingdom, the United States and Yemen</p>	
 
 
 <p style="font-size:18px; line-height:1.35;">The PDT result must not be a handwritten document, and fulfil the following: </p>
