@@ -129,8 +129,19 @@ description: ""
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Aged 2 or below in the current calendar year (i.e. born in or after 2020); OR</li>
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this self-checker tool</a>, and can show relevant proof of recovery outlined at <a href="#1C">Stage 1C</a>.</li>
 	</ol>
-	
-<p style="font-size:18px; line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) <a target="_blank" href="https://go.gov.sg/accreditation-bodies-for-covid19-testing">at an internationally accredited or recognised lab/clinic/medical facility</a>, or Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed), or self-administered and remotely supervised by an ART provider in Singapore providing such services. The PDT result must not be a handwritten document, and fulfil the following: </p>
+
+<p style="font-size:18px; line-height:1.35;">The PDT can include:</p>	
+	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) <a target="_blank" href="https://go.gov.sg/accreditation-bodies-for-covid19-testing">at an internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) administered by a trained professional; <b>OR</b></li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Only for Singapore Resident, Permanent Residents, Long-Term Pass Holders and Work Pass Holders departing from selected countries/regions<sup><a href="#note">[here*]</a></sup>]</b>&nbsp; Self-administered Antigen Rapid Test (ART) remotely supervised by an ART provider in Singapore providing such services.</li>
+	</ol>
+
+<div id="note"></div>
+<p style="font-size:16px; line-height:1.35;"><b>*Countries/regions eligible for remotely supervised ART</b>: Australia, Austria, Bahrain, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hungary, India, Iran, Ireland, Israel, Italy, Jordan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, the United Arab Emirates, the United Kingdom, the United States and Yemen</p>	
+
+
+<p style="font-size:18px; line-height:1.35;">The PDT result must not be a handwritten document, and fulfil the following: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Is in English (or accompanied with an English translation);</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
