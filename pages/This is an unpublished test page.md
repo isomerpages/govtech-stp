@@ -32,8 +32,11 @@ This page provides details on what COVID-19 vaccinations and certificates are re
 ### 1.	Accepted COVID-19 Vaccines for Entry to Singapore
 
 Travellers are considered fully vaccinated if they meet the following conditions at least 2 weeks before arrival in Singapore:
-- Received the full regimen of WHO EUL Vaccines (below) and met the minimum dose interval period; or
-- For travellers who contracted COVID-19 before being vaccinated, they must have received at least one dose of any WHO EUL Vaccines (below) <b>at least 28 days from their first diagnosis</b> of a COVID-19 infection. Travellers must produce acceptable proof of their first positive COVID-19 diagnosis .
+
+<ol style="padding-left: 20px; list-style-type:lower-roman;">
+		<li style="padding-left:10px; line-height:1.5;">Received the full regimen of WHO EUL Vaccines (below) and met the minimum dose interval period; or</li>
+		<li style="padding-left:10px; line-height:1.5;">For travellers who contracted COVID-19 before being vaccinated, they must have received at least one dose of any WHO EUL Vaccines (below) <b>at least 28 days from their first diagnosis</b> of a COVID-19 infection. Travellers must produce acceptable proof of their first positive COVID-19 diagnosis.</li>
+</ol>
 
 Travellers who do not meet any of the above requirements are not considered fully vaccinated for entry into Singapore.
 
