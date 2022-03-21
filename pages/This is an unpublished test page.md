@@ -6,7 +6,7 @@ layout: post
 description: ""
 published: false
 ---
-Travellers may be required to be fully vaccinated with WHO Emergency Use Listing (EUL) COVID-19 vaccines in order to be eligible for certain travel lanes to travel to Singapore, and domestic health measures requiring vaccinated status. This page outlines:
+This page provides details on what COVID-19 vaccinations and certificates are recognised for travelling to and staying in Singapore. COVID-19 vaccination is not the only requirement for entry to Singapore. Please ensure that you understand the relevant entry requirements via the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page  before proceeding with your travel plans.:
 
 <ol style="padding-left: 20px;">
 	<li style="padding-left:10px; line-height:1.5;"><a href="#acceptedvaccines">Accepted COVID-19 Vaccines for Entry to Singapore</a></li>
@@ -22,11 +22,13 @@ Travellers may be required to be fully vaccinated with WHO Emergency Use Listing
 
 <div id="acceptedvaccines"></div>
 
-### 1.	Accepted COVID-19 Vaccinations for Entry to Singapore
+### 1.	Accepted COVID-19 Vaccines for Entry to Singapore
 
 Travellers are considered fully vaccinated if they meet the following conditions at least 2 weeks before arrival in Singapore:
-- Received the full regimen of WHO EUL Vaccines (below), from a specific manufacturer, and 
-- Met the minimum dose interval period.
+- Received the full regimen of WHO EUL Vaccines (below) and met the minimum dose interval period; or
+- For travellers who contracted COVID-19 before being vaccinated, they must have received at least one dose of any WHO EUL Vaccines (below) <b>at least 28 days from their first diagnosis</b> of a COVID-19 infection. Travellers must produce acceptable proof of their first positive COVID-19 diagnosis .
+
+Travellers who do not meet any of the above requirements are not considered fully vaccinated for entry into Singapore.
 
 <table>
 	<thead>
