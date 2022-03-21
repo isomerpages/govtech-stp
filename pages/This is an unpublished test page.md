@@ -146,32 +146,21 @@ Travellers who do not hold Digitally Verifiable Vaccination Certificates or unab
 <div id="VDSMM"></div>
 
 
-### 2.	Vaccinated Status for Activities Within Singapore
+### 3.	Vaccinated Status for Activities Within Singapore
 
-As part of <a href="https://go.gov.sg/moh-smm" target="_blank">Singapore’s Vaccination-Differentiated Safe Management Measures (VDS)</a>, travellers should also display proof of their vaccinated status on TraceTogether to participate in certain activities in Singapore, such as dining, entering shopping malls or attending performances.
+Travellers will be required to prove their vaccination status to participate in certain activities in Singapore, as part of <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-Differentiated Safe Management Measures (VDS)</a>.
 
-#### 2a. Obtaining temporary vaccinated status after arrival
+Travellers who were fully vaccinated in Singapore will already have their records reflected in Singapore’s National Immunisation Registry and have their vaccination status reflected in their <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> apps.
 
-<b>Travellers who are vaccinated overseas</b> should get their overseas vaccination records reflected electronically in their [HealthHub](https://www.healthhub.sg/) or [TraceTogether](https://www.tracetogether.gov.sg/) apps to show on demand to be eligible for VDS. This can be done through:
 
-<ol style="padding-left: 20px; list-style-type: lower-latin;">
-<li style="padding-left:10px;">Uploading their digitally-verifiable vaccination certificate in their SG Arrival Card; or</li>
-<li style="padding-left:10px;">Presenting their vaccination certificate to the ICA officer at manual immigration clearance</li>
-	</ol>
+#### 3a. Obtaining temporary vaccinated status after arrival
 
-Travellers need to:
+Travellers who were vaccinated outside Singapore will be granted <b>temporary vaccinated status lasting about 30 days</b> if they successfully uploaded their digital vaccination certificates as part of their Singapore Arrival Card (SGAC) or manually presented their vaccination certificates and the manual immigration counters. 180 days temporary status will be granted for those who applied for a Vaccinated Travel Pass.  Such travellers will need to download the TraceTogether app and register with their passport number to view your vaccination status.
 
-<ol style="padding-left: 20px; list-style-type: lower-roman;">
-<li style="padding-left:10px;">Be aged 12 and above;</li>
-<li style="padding-left:10px;">Be fully vaccinated overseas with any vaccines approved under the WHO EUL; and</li>
-<li style="padding-left:10px;">Bring along the original overseas vaccination document that clearly states the type of vaccine taken and date(s) they were taken. The documents need to be in English or translated to English by a translation service provider, notary public or embassy of the country that issued the document.</li>
-	</ol>
+Travellers whose temporary vaccination status has not been displayed accurately on their TraceTogether app may submit a query via: <a href="https://go.gov.sg/vds-query-form" target="_blank">https://go.gov.sg/vds-query-form</a>.
 
-If your vaccination certificate(s) are valid, you will be granted <b>temporary vaccinated status lasting about 30 days or 180 days (only for travellers who uploaded their QR codes while applying for the Vaccinated Travel Pass)</b>. You will need to download the TraceTogether app and register with your passport number to view your vaccination status. The vaccinated status in your TraceTogether app will be your proof of vaccination while going around Singapore. 
 
-Travellers whose vaccination status is not accurately reflected on their TraceTogether/HealthHub apps may write in via this form: <a href="https://go.gov.sg/vds-query-form" target="_blank">https://go.gov.sg/vds-query-form</a>.
-
-#### 2b. Maintaining vaccination status beyond the temporary status granted for those who have taken non-Sinovac/Sinopharm vaccines
+#### 3b. Maintaining vaccination status beyond the temporary status granted for those who have taken non-Sinovac/Sinopharm vaccines
 
 The temporary vaccinated status on the TraceTogether app may expire 30 days or 180 days (only for travellers who uploaded their QR codes while applying for the Vaccinated Travel Pass) after your arrival in Singapore. If you require your vaccination status beyond the temporary status granted, please visit a private healthcare provider or <a href="https://phpc.gov.sg" target="_blank">Public Health Preparedness Clinics</a> for a serology test. Please call in advance to check if the service is available, and bring along your personal identification documents, vaccination certificate(s), as well as translated copies if necessary. 
 
