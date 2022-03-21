@@ -115,7 +115,32 @@ Travellers who do not meet any of the above requirements are not considered full
 
 ### 2. Accepted Vaccination Certificate
 
+Travellers must be able to prove their vaccination status on boarding and at Singapore immigration. This proof can be in any of the two forms listed below. 
 
+<ol style="padding-left: 20px; list-style-type:lower-latin;">
+		<li style="padding-left:10px; line-height:1.5;">Digitally-Verifiable Vaccination Certificates</li>
+		<li style="padding-left:10px; line-height:1.5;">Non-Digitally Verifiable Vaccination Certificates</li>
+		</ol>
+
+#### 2a. Digitally -Verifiable Vaccination Certificates
+
+Travellers with digitally-verifiable vaccination certificates (i.e. with QR codes) can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal (VCP)</a> to verify if their certificates can be digitally recognised. This is an <b>optional step</b> for travellers’ own assurance and planning. The VCP will issue a vaccination certificate acceptance letter if the certificate can be verified, and travellers can show this to transport operators and Singapore immigration as further proof of certificate verification. Travellers with difficulty verifying their certificates or are not sure where their QR codes are located can refer to the Frequently Asked Questions  on Vaccination Certificates.
+
+If the digital verification is unsuccessful, travellers can <b>show their vaccination app or vaccination certificates as proof of vaccination instead at the point of boarding or during immigration clearance </b> (see section below on <a href="#nondigitalvaxcert">non-digitally verifiable vaccination certificates</a>).
+
+Work Permit Holders and Short Term Visitors arriving before 31 March 2022, 2359h who are required to upload their vaccination certificates as part of a Vaccinated Travel Pass application should continue to do so as part of the Vaccinated Travel Lane requirement.  The VCP does not replace this requirement.
+
+<div id="nondigitalvaxcert"></div>
+
+#### 2b. Non-Digitally Verifiable Vaccination Certificates
+
+Travellers who do not hold Digitally Verifiable Vaccination Certificates or unable to verify them on the VCP should bring along their government vaccination app or original overseas vaccination document with the following details:
+
+-	Name (per travel document used for entry)
+-	At least one other personal identifier (e.g. date of birth or passport number)
+-	Country/region vaccination was taken in
+-	Clearly states the type of vaccine taken and date(s) they were taken
+-	Is in English or translated to English by a translation service provider, notary public or embassy of the country that issued the document
 
 
 <div id="VDSMM"></div>
