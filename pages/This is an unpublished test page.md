@@ -10,11 +10,18 @@ This page provides details on what COVID-19 vaccinations and certificates are re
 
 <ol style="padding-left: 20px;">
 	<li style="padding-left:10px; line-height:1.5;"><a href="#acceptedvaccines">Accepted COVID-19 Vaccines for Entry to Singapore</a></li>
-	<li style="padding-left:10px; line-height:1.5;"><a href="#VDSMM">Vaccinated status for activities within Singapore</a>
+	<li style="padding-left:10px; line-height:1.5;"><a href="#vaxcert">Accepted Vaccination Certificates</a><ol style="padding-left: 20px; list-style-type:lower-alpha;">
+		<li style="padding-left:10px; line-height:1.5;">Digitally-Verifiable Vaccination Certificates</li>
+		<li style="padding-left:10px; line-height:1.5;">Non-Digitally Verifiable Vaccination Certificates</li>
+		</ol></li>
+	<li style="padding-left:10px; line-height:1.5;"><a href="#VDSMM">Vaccinated status for Activities within Singapore</a>
 	<ol style="padding-left: 20px; list-style-type:lower-alpha;">
-		<li style="padding-left:10px; line-height:1.5;">Obtaining temporary vaccinated status after arrival</li>
-		<li style="padding-left:10px; line-height:1.5;">Maintaining vaccination status beyond the temporary status granted for those who have taken non-Sinovac/Sinopharm vaccines</li>
-		<li style="padding-left:10px; line-height:1.5;">Maintaining vaccination status beyond the temporary status granted for those who have taken Sinovac/Sinopharm vaccines</li>
+		<li style="padding-left:10px; line-height:1.5;">Temporary vaccinated status after arrival</li>
+		<li style="padding-left:10px; line-height:1.5;">Maintaining vaccination status beyond the temporary status granted<ol style="padding-left: 20px; list-style-type:lower-alpha;">
+		<li style="padding-left:10px; line-height:1.5;">Travellers who have taken vaccines other than Sinovac/Sinopharm</li>
+		<li style="padding-left:10px; line-height:1.5;">Travellers who have taken Sinovac/Sinopharm vaccines</li>
+		</ol>
+		</li>
 		</ol>
 	</li>
 	</ol> 
@@ -94,30 +101,19 @@ Travellers who do not meet any of the above requirements are not considered full
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">17 days</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>Any</b> WHO EUL vaccine (mixed):
-			<ol style="font-size: 16px; list-style-type: disc;">
-				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; line-height:1.5;">BNT162b2/COMIRNATY
-Tozinameran (INN)</li>
-				<li style="margin-top:8px; margin-bottom:0px; font-size:16px;  line-height:1.5;">mRNA-1273/Spikevax</li>
-				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</li>
-				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Covishield (ChAdOx1_nCoV-19)</li>
-				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Ad26.COV2.S</li>
-				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</li>
-				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></li>
-					<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Bharat Biotech BBV152 COVAXIN<sup>&#174;</sup></li>
-									<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">NVX-CoV2373/Covovax/Nuvaxovid</li>
-				</ol>
-			</td>
+			<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>Any</b> of the above WHO EUL vaccine (mixed):</td>
 										<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">2</td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">17 days</td>
 		</tr>
 	</tbody>
 	</table>
 	
+<div id="vaxcert"></div>
 
-Travellers who contracted COVID-19 before getting vaccinated can take one dose of any vaccines listed above <b>at least 28 days after the diagnosis of COVID-19 infection</b>, to be considered fully vaccinated for travel to Singapore. Acceptable proof of the first diagnosis date will be required if the traveller is using Safe Travel Lanes that require vaccination.
+### 2. Accepted Vaccination Certificate
 
-If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated for entry into Singapore.
+
+
 
 <div id="VDSMM"></div>
 
