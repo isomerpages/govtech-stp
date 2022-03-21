@@ -508,12 +508,18 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 &#9744; &nbsp;&nbsp;<b>Stage 1G: Take Pre-departure COVID-19 Test (PDT)</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">All travellers, except the groups listed below, must take a Pre-Departure Test (PDT) within 2 days before departure for Singapore:</p>
-		<ol style="padding:0px 10px 0px 10px; font-size:18px; list-style-type: lower-roman; background-color:#f8f8f8;">
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Aged two or below in this calendar year (i.e. born in or after 2020); OR</li>
-		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Recently recovered from COVID-19 and are eligible for pre-departure test waiver based on criteria outlined in this <a target="_blank" href="https://go.gov.sg/recovered-traveller-checker">self-checker tool</a>, and can show relevant proof of recovery outlined at <a href="#1F">Stage 1F</a>. </li>
+		<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">All travellers, except the groups listed below, must take a Pre-Departure Test (PDT) within 2 days before departure for Singapore.</p>
+<p style="font-size:18px; line-height:1.35;">The PDT can include:</p>	
+	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) <a target="_blank" href="https://go.gov.sg/accreditation-bodies-for-covid19-testing">at an internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) administered by a trained professional; <b>OR</b></li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Only for Singapore Resident, Permanent Residents, Long-Term Pass Holders and Work Pass Holders departing from selected countries/regions<sup><a href="#note">[here*]</a></sup>]</b>&nbsp; Self-administered Antigen Rapid Test (ART) remotely supervised by an ART provider in Singapore providing such services.</li>
 	</ol>
-	<p style="font-size:18px; margin-bottom:0px; line-height:1.35;">PDT can include a COVID-19 Polymerase Chain Reaction test (PCR test) at an <a target="_blank" href="https://go.gov.sg/accreditation-bodies-for-covid19-testing">internationally accredited or recognised lab/clinic/medical facility</a>, or Antigen Rapid Test (ART) administered by a trained professional, or self-administered and remotely supervised by an ART provider in Singapore providing such services. The PDT result must not be a handwritten document, and fulfil the following: </p>
+
+<div id="note"></div>
+<p style="font-size:16px; line-height:1.35;"><b>*Countries/regions eligible for remotely supervised ART</b>: Australia, Austria, Bahrain, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hungary, India, Iran, Ireland, Israel, Italy, Jordan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain and Sweden, the United Arab Emirates, the United Kingdom, the United States and Yemen</p>	
+		
+<p style="font-size:18px; line-height:1.35;">The PDT result must not be a handwritten document, and fulfil the following: </p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; background-color:#f8f8f8;">
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Is in English (or accompanied with an English translation);</li>
 		<li style="padding-left:10px; margin-bottom:0px; line-height:1.35; font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
