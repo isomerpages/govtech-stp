@@ -10,14 +10,14 @@ This page provides details on what COVID-19 vaccinations and certificates are re
 
 <ol style="padding-left: 20px;">
 	<li style="padding-left:10px; line-height:1.5;"><a href="#acceptedvaccines">Accepted COVID-19 Vaccines for Entry to Singapore</a></li>
-	<li style="padding-left:10px; line-height:1.5;"><a href="#vaxcert">Accepted Vaccination Certificates</a><ol style="padding-left: 20px; list-style-type:lower-alpha;">
+	<li style="padding-left:10px; line-height:1.5;"><a href="#vaxcert">Accepted Vaccination Certificates</a><ol style="padding-left: 20px; list-style-type:lower-latin;">
 		<li style="padding-left:10px; line-height:1.5;">Digitally-Verifiable Vaccination Certificates</li>
 		<li style="padding-left:10px; line-height:1.5;">Non-Digitally Verifiable Vaccination Certificates</li>
 		</ol></li>
 	<li style="padding-left:10px; line-height:1.5;"><a href="#VDSMM">Vaccinated status for Activities within Singapore</a>
-	<ol style="padding-left: 20px; list-style-type:lower-alpha;">
+	<ol style="padding-left: 20px; list-style-type:lower-latin;">
 		<li style="padding-left:10px; line-height:1.5;">Temporary vaccinated status after arrival</li>
-		<li style="padding-left:10px; line-height:1.5;">Maintaining vaccination status beyond the temporary status granted<ol style="padding-left: 20px; list-style-type:lower-alpha;">
+		<li style="padding-left:10px; line-height:1.5;">Maintaining vaccination status beyond the temporary status granted<ol style="padding-left: 20px; list-style-type:disc;">
 		<li style="padding-left:10px; line-height:1.5;">Travellers who have taken vaccines other than Sinovac/Sinopharm</li>
 		<li style="padding-left:10px; line-height:1.5;">Travellers who have taken Sinovac/Sinopharm vaccines</li>
 		</ol>
