@@ -9,4 +9,4 @@ permalink: /sc-pr/vcos
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Following the suspension of the vaccination channels, OS who wish to receive vaccine doses in Singapore can do so at the local Vaccination Centres after completing their SHN, if required.</p>
 							   
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The joint press statement is available on the <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/03/20220321-Suspension-of-COVID-19-Vaccination-Channels-for-Overseas-Singaporeans" target="_blank">Ministry of Foreign Affairs (MFA)</a> and the Ministry of Health (MOH) website. </p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The joint press statement is available on the <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/03/20220321-Suspension-of-COVID-19-Vaccination-Channels-for-Overseas-Singaporeans" target="_blank">Ministry of Foreign Affairs (MFA)</a> and the <a href="" target="_blank">Ministry of Health (MOH)</a> website. </p>
