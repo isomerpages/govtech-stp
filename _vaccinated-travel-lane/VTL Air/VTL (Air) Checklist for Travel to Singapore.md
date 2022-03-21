@@ -517,7 +517,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 	</ol>
 
 <div id="note"></div>
-<p style="font-size:16px; line-height:1.35;"><b>*Countries/regions eligible for remotely supervised ART</b>: Australia, Austria, Bahrain, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hungary, India, Iran, Ireland, Israel, Italy, Jordan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain and Sweden, the United Arab Emirates, the United Kingdom, the United States and Yemen</p>	
+<p style="font-size:16px; line-height:1.35;"><b>*Countries/regions eligible for remotely supervised ART</b>: Australia, Austria, Bahrain, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hungary, India, Iran, Ireland, Israel, Italy, Jordan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, the United Arab Emirates, the United Kingdom, the United States and Yemen</p>	
 		
 <p style="font-size:18px; line-height:1.35;">The PDT result must not be a handwritten document, and fulfil the following: </p>
 	<ol style="padding:0px 10px 0px 10px; font-size:18px; background-color:#f8f8f8;">
