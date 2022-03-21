@@ -137,7 +137,7 @@ description: ""
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Only for Singapore Resident, Permanent Residents, Long-Term Pass Holders and Work Pass Holders departing from selected countries<sup><a href="#note">[here*]</a></sup>]</b>&nbsp; Self-administered Antigen Rapid Test (ART) remotely supervised by an ART provider in Singapore providing such services.</li>
 	</ol>
 
-<div id="#note"></div>
+<div id="note"></div>
 <p style="font-size:16px; line-height:1.35;"><b>*Countries eligible for remotely supervised ART</b>: Australia, Austria, Bahrain, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hungary, India, Iran, Ireland, Israel, Italy, Jordan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain and Sweden, the United Arab Emirates, the United Kingdom, the United States and Yemen</p>	
 
 
