@@ -388,7 +388,7 @@ input:checked + label + .content {
 </tbody>
 </table>
 
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">* <i>SC/PRs and eligible LTPHs may obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination. Short-Term Visitors and Work Permit Holders who have verified their vaccination certificates on the VCP should still produce a valid Vaccinated Travel Pass (VTP) to be eligible for travel on the VTL.</i></p>
+<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">* <i>SC/PRs and eligible LTPHs may obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a> and present it in lieu of an accepted proof of vaccination. Short-Term Visitors and Work Permit Holders who have verified their vaccination certificates on the VCP should still produce a valid Vaccinated Travel Pass (VTP) to be eligible for travel on the VTL.</i></p>
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;"><sup>#</sup> <i>Eligible Work Permit Holders may refer to MOM's website <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-and-shn-requirements-for-foreign-employees#what-are-the-covid-19-insurance-requirements-for-workers-entering-singapore" target="_blank">here</a> for more information on the insurance requirements.</i></p>
 
 <div id="FAQ"></div>
