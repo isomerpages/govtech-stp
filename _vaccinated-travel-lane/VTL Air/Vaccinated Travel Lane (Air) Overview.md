@@ -4,7 +4,6 @@ permalink: /vtl/requirements-and-process
 description: Vaccinated Travel Lane (Air) requirements for travel to Singapore
 third_nav_title: VTL Air
 ---
-
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><span style="color:red; font-size:20px;">⚠&nbsp;</span><b>Important Notes before continuing</b><span style="color:red; font-size:20px;">&nbsp;⚠</span></p>
 	
@@ -357,8 +356,8 @@ input:checked + label + .content {
 </thead>
 <tbody>
 	<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;">1. Accepted Proof of Vaccination</td>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓<sup>*</sup></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:left;vertical-align:middle;padding:10px;">1. Accepted Proof of Vaccination<sup>*</sup></td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">✓</td>
 </tr>
@@ -389,7 +388,7 @@ input:checked + label + .content {
 </tbody>
 </table>
 
-<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">* <i>SC/PRs and eligible LTPHs may obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination.</i></p>
+<p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;">* <i>SC/PRs and eligible LTPHs may obtain an acceptance letter from the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> and present it in lieu of an accepted proof of vaccination. Short-Term Visitors and Work Permit Holders who have verified their vaccintion certificates on the VCP should still produce a valid Vaccinated Travel Pass (VTP) to be eligible for travel on the VTL.</i></p>
 <p style="font-size:18px; margin-top:15px; margin-bottom:15px; line-height:1.35;"><sup>#</sup> <i>Eligible Work Permit Holders may refer to MOM's website <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-and-shn-requirements-for-foreign-employees#what-are-the-covid-19-insurance-requirements-for-workers-entering-singapore" target="_blank">here</a> for more information on the insurance requirements.</i></p>
 
 <div id="FAQ"></div>
