@@ -41,9 +41,7 @@ This page is only meant as quick reference for the categories of travel health c
 	</ol>
 
 <div id="note"></div>
-<p style="font-size:16px; line-height:1.35;"><b>*Countries/regions eligible for remotely supervised ART</b>: Australia, Austria, Bahrain, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hungary, India, Iran, Ireland, Israel, Italy, Jordan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, the United Arab Emirates, the United Kingdom, the United States and Yemen</p>	
-
-				</li>
+<p style="font-size:16px; line-height:1.35;"><b>*Countries/regions eligible for remotely supervised ART</b>: Australia, Austria, Bahrain, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hungary, India, Iran, Ireland, Israel, Italy, Jordan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, the United Arab Emirates, the United Kingdom, the United States and Yemen</p></li>
 <li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">7-day Stay Home Notice (SHN)</li>
 				<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">COVID-19 PCR test to exit SHN</li>
 				</ol>
