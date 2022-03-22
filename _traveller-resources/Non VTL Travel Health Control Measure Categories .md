@@ -1,5 +1,5 @@
 ---
-title: "Non-VTL Travel Health Control Measure Categories "
+title: "Non-VTL Travel Health Control Measure Categories"
 permalink: /shn-and-swab-summary
 description: Only applicable for specific SafeTravel Lanes, check the Travelling
   to Singapore page for full list of SafeTravel lanes and requirements
@@ -34,10 +34,15 @@ This page is only meant as quick reference for the categories of travel health c
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><p style="margin-top:15px; margin-bottom:0px; font-size:18px; vertical-align:middle; line-height: 1.35;"><b><a href="/travel-checklist/category-2-3-4" target="_blank">Category II/III/IV – “General Travel Category”</a></b></p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px; vertical-align:middle;">All other countries/regions</p></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><ol style="list-style-type:decimal; vertical-align: middle;"><li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Pre-Departure Test, which can include any of the following, two days before departure:
-				<ol style="padding-left:20px; list-style-type:lower-latin; vertical-align: middle;">
-					<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">COVID-19 Polymerase Chain Reaction Test (PCR test) <a href="https://go.gov.sg/accreditation-bodies-for-covid19-testing" target="_blank">at an internationally accredited or recognised lab/clinic/medical facility</a>; or</li>
-					<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">Antigen Rapid Test (ART) administered by a trained professional (self-swabs are disallowed)</li>
-				</ol>
+					<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) <a target="_blank" href="https://go.gov.sg/accreditation-bodies-for-covid19-testing">at an internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) administered by a trained professional; <b>OR</b></li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Only for Singapore Resident, Permanent Residents and Long-Term Pass Holders travelling from specified countries/regions<sup><a href="#note">[here*]</a></sup>]</b>&nbsp; Self-administered Antigen Rapid Test (ART) remotely supervised by an ART provider in Singapore providing such services.</li>
+	</ol>
+
+<div id="note"></div>
+<p style="font-size:16px; line-height:1.35;"><b>*Countries/regions eligible for remotely supervised ART</b>: Australia, Austria, Bahrain, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hungary, India, Iran, Ireland, Israel, Italy, Jordan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, the United Arab Emirates, the United Kingdom, the United States and Yemen</p>	
+
 				</li>
 <li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">7-day Stay Home Notice (SHN)</li>
 				<li style="margin-top: 0px; margin-bottom:10px; font-size:18px; line-height: 1.35;">COVID-19 PCR test to exit SHN</li>
