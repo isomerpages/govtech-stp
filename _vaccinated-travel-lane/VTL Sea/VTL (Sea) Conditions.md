@@ -32,7 +32,7 @@ third_nav_title: VTL Sea
 					    <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 test.
 </li>
          </ol>
-			 <li style="font-size:18px; list-style-type:upper-alpha;">undergo a COVID-19 unsupervised self-administered ART within 24 hours of arrival in Singapore, and report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore;</p></li>
+			 <li style="font-size:18px; list-style-type:upper-alpha;">undergo a COVID-19 unsupervised self-administered ART within 24 hours of arrival in Singapore, and report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore;</li>
 			 <li style="font-size:18px; list-style-type:upper-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 test results to the relevant Singapore Government authorities for public health purposes;</li>
 	     <li style="font-size:18px; list-style-type:upper-alpha;">download the <a href="https://tracetogether.gov.sg" target="_blank">TraceTogether app</a> on his/her mobile device and:
 		<ol style="font-size:18px; list-style-type: upper-alpha;">

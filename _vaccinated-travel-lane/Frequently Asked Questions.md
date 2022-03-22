@@ -1008,7 +1008,7 @@ Travellers should report their negative test result via <a href="https://www.syn
 
 #### 7. Can I depart the airport before testing negative and submitting my result?
 
-Travellers who have not taken their unsupervised self-swab ART and submitted their negative test result before leaving the airport, can only take private transportation, taxi, or private hire car to their accommodation or to a testing centre. Travellers are only allowed to take public transport (e.g. public buses/trains) and stop self-isolation at their accommodation after the submission of a negative test result.
+Travellers may only proceed with their activities after testing negative on their ART and submitting their result. Otherwise, they must immediately proceed to their place of accommodation and test negative before heading out. They are allowed to depart from the airport via any form of transportation (e.g. public bus, train, private transport, taxi or private hire car). 
 
 #### 8. How long will it take to obtain the results of the self-administered ART?
 

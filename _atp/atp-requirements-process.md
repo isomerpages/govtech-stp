@@ -12,7 +12,6 @@ permalink: /atp/requirements-and-process
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;color:black;">ATP holders who enter Singapore before 21 Feb 2022, 2359h (SGT) are required to continue with the existing testing regime (i.e. on-arrival PCR test).</p>
 </div>-->
 
-
 ### Eligibility 
 
 Foreigners who are short-term visitors (including business and official travellers) travelling from one of the following countries/regions may apply for an Air Travel Pass (ATP) for travel to Singapore:
@@ -190,7 +189,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>A) Post-arrival Antigen Rapid Test</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px;line-height:1.35;">Travellers must take an unsupervised self-administered ART using self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kits</a> (ART kits approved for use in the country/region of embarkment are also allowed) within 24 hours of arrival in Singapore, and submit their negative test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) with SingPass accounts should log into Sync using SingPass to submit their results. LTPHs and Short-Term Visitors (STVs) without SingPass accounts should log into Sync using their passport number, date of birth and nationality.</p>
-	<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers are only allowed to take public transport (e.g. public buses/trains) and proceed with their activities after testing negative on the ART. If travellers wish to depart the airport to a testing centre or to isolate at their place of accommodation before submitting a negative test, they can only take private transportation, taxi, or private hire car.</p>
+	<p style="line-height:1.35;margin-top:10px; margin-bottom:10px;font-size:18px;">Travellers are allowed to depart from the airport via any form of transportation (e.g. public bus, train, private transport, taxi or private hire car). However, they may only proceed with their activities after testing negative on their ART and submitting their result.</p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><span style="font-size:25px; color:red;"><b>&#10005;</b></span> &nbsp; The post-arrival test is not applicable to children aged two and below in this calendar year (i.e. born in or after 2020).</p>
 </div>
 
