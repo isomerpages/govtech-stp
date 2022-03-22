@@ -16,7 +16,7 @@ permalink: /atp/conditions
 				 <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 test;</li>
 				 </ol>
 			 </li>
-			 <li style="font-size:18px; list-style-type:lower-alpha;">undergo a COVID-19 unsupervised self-administered ART within 24 hours of arrival in Singapore, and report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore;</p></li>
+			 <li style="font-size:18px; list-style-type:lower-alpha;">undergo a COVID-19 unsupervised self-administered ART within 24 hours of arrival in Singapore, and report their test result via <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a> before proceeding with their activities in Singapore;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the medical provider disclosing his/her COVID-19 PCR test result to the relevant Singapore Government authorities for public health purposes;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> download the TraceTogether app on his/her mobile device and:
         <ol style="font-size:18px; list-style-type:lower-roman;">
