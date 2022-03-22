@@ -135,12 +135,8 @@ description: ""
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) <a target="_blank" href="https://go.gov.sg/accreditation-bodies-for-covid19-testing">at an internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) administered by a trained professional; <b>OR</b></li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Only for Singapore Residents, Permanent Residents and Long-Term Pass Holders travelling from specified countries/regions<sup><a href="#note">[here*]</a></sup>]</b>&nbsp; Self-administered Antigen Rapid Test (ART) remotely supervised by an <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">ART provider in Singapore providing such services</a>.</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Eligible travellers only]</b>&nbsp; Self-administered Antigen Rapid Test (ART) remotely supervised by an approved ART provider in Singapore. Please refer to <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">MOH’s listing of remote supervised self-swab providers</a> (under section on “<i>Antigen Rapid Test (ART) Providers</i>”) for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
 	</ol>
-
-<div id="note"></div>
-<p style="font-size:16px; line-height:1.35;"><b>*Countries/regions eligible for remotely supervised ART</b>: Australia, Austria, Bahrain, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hungary, India, Iran, Ireland, Israel, Italy, Jordan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, the United Arab Emirates, the United Kingdom, the United States and Yemen</p>	
-
 
 <p style="font-size:18px; line-height:1.35;">The PDT result must not be a handwritten document, and fulfil the following: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
