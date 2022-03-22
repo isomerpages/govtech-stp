@@ -516,7 +516,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) <a target="_blank" href="https://go.gov.sg/accreditation-bodies-for-covid19-testing">at an internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) administered by a trained professional; <b>OR</b></li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Only for Singapore Residents, Permanent Residents and Long-Term Pass Holders travelling from specified countries/regions<sup><a href="#note">[here*]</a></sup>]</b>&nbsp; Self-administered Antigen Rapid Test (ART) remotely supervised by an ART provider in Singapore providing such services.</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Only for Singapore Residents, Permanent Residents and Long-Term Pass Holders travelling from specified countries/regions<sup><a href="#note">[here*]</a></sup>]</b>&nbsp; Self-administered Antigen Rapid Test (ART) remotely supervised by an <a href=" https:/www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">ART provider in Singapore providing such services</a>.</li>
 	</ol>
 
 <div id="note"></div>
