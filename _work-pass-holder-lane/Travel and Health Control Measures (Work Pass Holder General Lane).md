@@ -163,7 +163,7 @@ input:checked + label + .content {
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of these COVID-19 tests <b>within 2 days before departure</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test</b>: Done with an <a href="https://go.gov.sg/accreditation-bodies-for-covid19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: Done by a trained professional (e.g. medical professional or Government-recognised trained professional), or self-administered and remotely supervised by an ART provider in Singapore providing such services.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: Done by a trained professional (e.g. medical professional or Government-recognised trained professional), or self-administered and remotely supervised by an <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">ART provider in Singapore providing such services</a>.</li>
 	</ol></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 		<ol style="margin-top:0px; list-style-type: disc;">
@@ -200,7 +200,7 @@ input:checked + label + .content {
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of these COVID-19 tests <b>within 2 days before departure</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test</b>: Done with an <a href="https://go.gov.sg/accreditation-bodies-for-covid19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: Done by a trained professional (e.g. medical professional or Government-recognised trained professional), or self-administered and remotely supervised by an ART provider in Singapore providing such services.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: Done by a trained professional (e.g. medical professional or Government-recognised trained professional), or self-administered and remotely supervised by an <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">ART provider in Singapore providing such services</a>.</li>
 	</ol></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 		<ol style="margin-top:0px; list-style-type: disc;">
@@ -255,9 +255,14 @@ input:checked + label + .content {
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of these COVID-19 tests <b>within 2 days before departure</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test</b>: Done with an <a href="https://go.gov.sg/accreditation-bodies-for-covid19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: Done by a trained professional (e.g. medical professional or Government-recognised trained professional), or self-administered and remotely supervised by an ART provider in Singapore providing such services.</li>
-	</ol></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test</b>: Done with an <a href="https://go.gov.sg/accreditation-bodies-for-covid19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>; OR</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: 
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Done by a trained professional (e.g. medical professional or Government-recognised trained professional); or</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <b>[For eligible travellers only]</b>	Self-administered and remotely supervised by an ART provider in Singapore providing such services. Please refer to <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">MOH’s listing of remote supervised self-swab providers</a> (under section on “<i>Antigen Rapid Test (ART) Providers</i>”) for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
+</ol>			
+</li>
+</ol></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 		<ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
@@ -303,9 +308,14 @@ input:checked + label + .content {
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take <b>1</b> of these COVID-19 tests <b>within 2 days before departure</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test</b>: Done with an <a href="https://go.gov.sg/accreditation-bodies-for-covid19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: Done by a trained professional (e.g. medical professional or Government-recognised trained professional), or self-administered and remotely supervised by an ART provider in Singapore providing such services.</li>
-	</ol></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>PCR test</b>: Done with an <a href="https://go.gov.sg/accreditation-bodies-for-covid19-testing" target="_blank">internationally accredited or recognised lab, clinic or medical facility</a>; OR</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: 
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Done by a trained professional (e.g. medical professional or Government-recognised trained professional); or</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <b>[For eligible travellers only]</b>	Self-administered and remotely supervised by an ART provider in Singapore providing such services. Please refer to <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">MOH’s listing of remote supervised self-swab providers</a> (under section on “<i>Antigen Rapid Test (ART) Providers</i>”) for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
+</ol>
+</li>
+</ol></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Present a valid negative test report, that meets <b>all the requirements</b> below, before departure and upon arrival in Singapore:
 		<ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>

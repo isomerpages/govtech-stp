@@ -986,7 +986,7 @@ ART kits typically cost less than S$15 and can be obtained from any local clinic
 
 Travellers are strongly encouraged to <a href="https://artbuddy.healthpixel.co/" target="_blank">view the materials here</a> to learn how to self-administer an ART. They can follow the step-by-step instructions while administering their ART.
 
-Travellers may also refer to <a href="https://www.covid.gov.sg/exposed/no-hrw" target="_blank">MOH’s guidelines on COVID-19 self-testing</a> to ensure the correct use and appropriate follow-up actions based on the results of the self-testing. MOH’s simple guide to ART self-test kits is available in different languages at the following links:
+Travellers may also refer to <a href="https://www.covid.gov.sg/exposed/no-hrn" target="_blank">MOH’s guidelines on COVID-19 self-testing</a> to ensure the correct use and appropriate follow-up actions based on the results of the self-testing. MOH’s simple guide to ART self-test kits is available in different languages at the following links:
 
 - [English](https://go.gov.sg/bca-self-art-eng)
 - [Chinese](https://go.gov.sg/bca-self-art-chi)
@@ -1028,6 +1028,11 @@ The results should be visible within 15 minutes and should be reflected as follo
 
 ### (7) Additional Requirements for Short-Term Visitors
 
+
+#### 1. Is there a list of hotels for VTL travellers to choose from?
+
+There are currently no restrictions on the accommodation types for VTL travellers. VTL travellers may refer to a non-exhaustive list of hotels on the Singapore Hotel Association (SHA) website at <a href="https://sha.org.sg/vaccinated-travel-lane" target="_blank">https://sha.org.sg/vaccinated-travel-lane</a>. It is also strongly encouraged for travellers to reach out to the hotel of choice to confirm acceptance of their booking.
+
 <div id="insurance"></div> 
 
 ### (a) Mandatory COVID-19 Travel Insurance Coverage
@@ -1046,7 +1051,7 @@ Purchase of travel insurance is a condition of the VTL. Non-compliance with any 
 
 #### 1. What hotels are approved for stay for short-term VTL (Sea) travellers?
 
-Please refer to the Singapore Tourism Board’s (STB) <a href="https://www.stb.gov.sg/content/stb/en/home-pages/approved-hotels.html" target="_blank">list of approved hotels</a>.
+Please refer to the <a href="https://sha.org.sg/vaccinated-travel-lanel" target="_blank">list of approved hotels</a> on the Singapore Hotel Association (SHA) website.
 
 #### 2. Why are short-term VTL (Sea) travellers not allowed to stay with their friends or relatives in Singapore?
 
