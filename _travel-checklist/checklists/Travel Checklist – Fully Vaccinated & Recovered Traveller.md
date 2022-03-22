@@ -69,6 +69,8 @@ description: ""
     </tr>
 		</tbody>
 	</table>
+<p style="font-size:18px; margin-top:15px;line-height:1.35;">Travellers with digitally-verifiable vaccination certificates (i.e. certificates with QR codes) can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> to verify if their certificates can be digitally recognised. This is an optional step for travellers’ own assurance and to facilitate boarding checks by transport operators. If the verification fails, they can continue to show their vaccination app or vaccination certificates as proof of vaccination at the point of boarding or during immigration clearance.</p>
+<p style="font-size:18px; margin-top:15px;line-height:1.35;">Travellers who are travelling from a country/region in Africa or South America that is endemic for Yellow Fever, are also required to produce a valid <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever vaccination certificate</a> for entry.</p>
 </div>	
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>C) Obtain Medical Proof of COVID-19 infection detected 7 – 90 days before date of departure</b></div>
