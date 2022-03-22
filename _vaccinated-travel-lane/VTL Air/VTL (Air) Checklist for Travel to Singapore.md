@@ -30,10 +30,10 @@ third_nav_title: VTL Air
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">
 &#9744; &nbsp;&nbsp;<b>Stage 1A: Obtain an accepted proof of vaccination</b></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proof of vaccination to be eligible for the VTL. </p>
-	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">You may check for the acceptable proof of vaccination based on their countries/regions of issuance below. The upload instructions for Short-Term Visitors (STVs) and MOM Work Permit Holders (WPHs) will be required for <b>Stage 1B</b>. The QR codes of certain vaccination certificates can be verified by travellers themselves before application.</p>
-		<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">SCs/PRs and eligible LTPHs with digitally-verifiable vaccination certificates (i.e. certificates with QR codes) can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> to verify if their certificates can be digitally recognised. This is an optional step for travellers’ own assurance and to facilitate boarding checks by transport operators. If the verification fails, they can continue to show their vaccination app or vaccination certificates as proof of vaccination at the point of boarding or during immigration clearance.</p>
-	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proof of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u> </p>
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Travellers <u>must</u> obtain any of the acceptable proof of vaccination to be eligible for the VTL. You may check for the acceptable proof of vaccination based on their countries/regions of issuance below.</p>
+	<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">Short-Term Visitors (STVs) and Work Permit Holders may be asked to upload their digitally verifiable vaccination certificate as part of their Vaccinated Travel Pass application at <b><a href="#1B">Stage 1B</a></b>.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;">All other VTL travellers with digitally-verifiable vaccination certificates (i.e. certificates with QR codes) can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> to verify if their certificates can be digitally recognised. This is an <b>optional</b> step for travellers’ planning purposes and to facilitate boarding checks by transport operators. If the verification fails, they can continue to show their vaccination app or vaccination certificates as proof of vaccination at the point of boarding or during immigration clearance.</p>
+<p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proof of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u> </p>
 <html>
 
 <head>
@@ -422,7 +422,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 </html>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<div id="1B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 &#9744; &nbsp;&nbsp;<b>Stage 1B: [For STV/Eligible Work Permit Holders only] Apply for Vaccinated Travel Pass</b></div>
 <div style="padding:10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a target="_blank" href="https://go.gov.sg/vtl-portal"><b>Click Here To Apply For a VTP</b></a></div><p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b>Apply <u>between 3 and 60 calendar days</u> before the intended date of entry.</b></p>
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><b style="color:red">❓</b>&nbsp; Refer to <a target="_blank" href="/vtl/faq#invalidcode">FAQs</a> here if you have issues with uploading your QR code.</p>
