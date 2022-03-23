@@ -160,7 +160,13 @@ Travellers who were vaccinated outside Singapore will be granted <b>temporary va
 Travellers whose temporary vaccination status has not been displayed accurately on their TraceTogether app may submit a query via: <a href="https://go.gov.sg/vds-query-form" target="_blank">https://go.gov.sg/vds-query-form</a>.
 
 
-#### 3b. Maintaining vaccination status beyond the temporary status granted for those who have taken non-Sinovac/Sinopharm vaccines
+#### 3b. Maintaining vaccination status beyond the temporary status 
+
+Travellers who wish to have their vaccination records ingested into the National Immunisation Registry (NIR) beyond their temporary vaccinated status period (explained in section 3a above) can do so but procedures differ depending on what vaccination they have taken.
+
+
+
+granted for those who have taken non-Sinovac/Sinopharm vaccines
 
 The temporary vaccinated status on the TraceTogether app may expire 30 days or 180 days (only for travellers who uploaded their QR codes while applying for the Vaccinated Travel Pass) after your arrival in Singapore. If you require your vaccination status beyond the temporary status granted, please visit a private healthcare provider or <a href="https://phpc.gov.sg" target="_blank">Public Health Preparedness Clinics</a> for a serology test. Please call in advance to check if the service is available, and bring along your personal identification documents, vaccination certificate(s), as well as translated copies if necessary. 
 
