@@ -1,5 +1,5 @@
 ---
-title: Accepted COVID-19 Vaccinations and Vaccination Certificates
+title: Accepted COVID19 Vaccinations and Vaccination Certificates
 permalink: /health/vtsg
 description: ""
 ---
