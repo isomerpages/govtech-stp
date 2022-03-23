@@ -43,6 +43,11 @@ No. We regret to inform you that no changes to the date of entry are allowed onc
 
 For PCA applications, please note that should your employee be unable to enter on the approved date, you will not be able to apply for another PCA for the same employee for a date of entry within 90 days from his/her last approved date of entry.
 
+---
+	
+Click here to [Go Back To Top](#top).
+
+---
 
 ### b. Receipts and Approval Letters
 
@@ -62,7 +67,13 @@ If the problem persists, please contact us via the enquiry form [here](https://g
 <li>(If applicable) FIN and FIN expiry number of your employee(s)</li>
 </ul>
 
-Requests to have the approval letter sent to a different email address, not stated in the application, will not be entertained.
+Requests to have the approval letter sent to a different email address not stated in the application, will not be entertained.
+
+---
+	
+Click here to [Go Back To Top](#top).
+
+---
 
 ### c. Traveller Details
 
