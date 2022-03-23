@@ -84,7 +84,7 @@ third_nav_title: Vaccinated Green List
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Up to 72 hours before arrival in Singapore, complete the electronic SG Arrival Card (SGAC) by submitting your:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Pre-trip health and travel history details</li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Digitally verifiable vaccination certificate (DVC), i.e. vaccination certificate with a QR code, if applicable</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="/faq" target="_blank">Digitally verifiable vaccination certificate</a> (DVC), i.e. vaccination certificate with a QR code, if applicable</li>
 				</ol>	
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you are unable to perform step (b) above, please obtain any alternative proof listed below of recent COVID-19 vaccination to qualify as a “fully vaccinated” traveller:</p>
 	<table>
