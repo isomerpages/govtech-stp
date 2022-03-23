@@ -241,7 +241,30 @@ Click here to [Go Back To Top](#top).
 
 ### d. Document Uploads
 
+#### 1.	What file formats can be uploaded?
 
+The application system only accepts PDF file format.
+
+
+#### 2.	 What is the maximum number of files I can upload in the application?
+
+The application system can accept up to a <u>maximum</u> of <u>2 files</u>.
+
+
+#### 3.	What is the file size limit for uploaded documents?
+
+Please note that the <u>maximum</u> file size limit for uploaded document is <u>1 megabyte (1MB) per file</u>.   
+
+
+#### 4.	I encountered an error message when uploading my file. What should I do?
+
+If you encountered errors while uploading, please follow the following troubleshooting steps.
+<ol style="padding-left: 20px; list-style-type:disc;">
+  <li style="padding-left:20px; margin-bottom: 0px; line-height:1.35;">Use Google Chrome or Microsoft Edge Web Browsers</li>
+  <li style="padding-left:20px; margin-bottom: 0px; line-height:1.35;">Use <u>only</u> English Characters for all input fields, including file names for the file uploads</li>
+  <li style="padding-left:20px; margin-bottom: 0px; line-height:1.35;">Remove any special characters and symbols</li>
+  <li style="padding-left:20px; margin-bottom: 0px; line-height:1.35;">Shorten the file's name to 10-15 characters.</li>
+</ol>
 
 ### e. Other General Application Issues
 
