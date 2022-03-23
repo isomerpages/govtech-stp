@@ -1,5 +1,5 @@
 ---
-title: Checklist for Non Fully Vaccinated Travellers Aged 13 and Above
+title: Checklist for Non-Fully Vaccinated Travellers Aged 13 and Above
 permalink: /greenlist-non-fully-vaccinated
 description: ""
 third_nav_title: Vaccinated Green List
