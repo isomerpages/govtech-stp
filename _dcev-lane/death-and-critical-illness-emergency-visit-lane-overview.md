@@ -106,11 +106,11 @@ Travellers can refer to the checklists below to have a sense of what baseline en
 <table>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-top: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>Frequently Asked Questions</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; border-top: 1px solid #D8D8D8;">Click <a href="/health/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
+<td style="font-size:16px;border-right:1px solid #D8D8D8; border-top: 1px solid #D8D8D8;">Click <a href="/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#payments">Payments and refunds</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#shnsdf">SDF issues</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#pcrtest">COVID-19 PCR test</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/faq#payments">Payments and refunds</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/faq#shnsdf">SDF issues</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/faq#pcrtest">COVID-19 PCR test</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/vtsg">Travellers Vaccinated Overseas</a></li>
 </ul>
 For issues related to Visa or Visit Pass validity, please visit the <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">ICA webpage</a> for more information.
