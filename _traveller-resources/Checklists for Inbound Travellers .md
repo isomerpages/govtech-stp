@@ -11,9 +11,9 @@ permalink: /travel-checklist/overview
 #### For travellers arriving from 31 March 2022, 2359h
 
 <ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="" target="_blank">Green List – Vaccinated Travellers and Children</a>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/greenlist-fully-vaccinated" target="_blank">Green List – Fully Vaccinated Travellers and Children</a>
 	</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="" target="_blank">Green List – Unvaccinated Travellers</a>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/greenlist-non-fully-vaccinated" target="_blank">Green List – Non-Fully Vaccinated Travellers</a>
 	</li>
 	</ol>
 
