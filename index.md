@@ -31,7 +31,8 @@ sections:
           description: Click Here
           url: /departing/overview
   - infobar:
-      title: test
+      title: Are you Fully Vaccinated?
+      description: Click the link below for the definition of fully vaccinated
   - resources:
       title: Press Releases
       button: View More
