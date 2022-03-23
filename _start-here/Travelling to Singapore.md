@@ -46,7 +46,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="before31"></div>
 
-### Travellers arriving by Air or Sea, before 31 March 2022, 2359h
+### Travellers arriving before 31 March 2022, 2359h
 
 
 #### i) Vaccinated Travel Lanes (VTL)
@@ -108,7 +108,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="after31"></div>
 
-#### Travellers arriving by Air or Sea, from 31 March 2022, 2359h
+#### Travellers arriving from 31 March 2022, 2359h
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Under the new Vaccinated Travel Framework, all travel requirements are calibrated based mainly on the traveller’s COVID-19 vaccination status. Please note that the timeline and exact border measures for entry via land may be subject to further updates as discussions with Malaysia are ongoing.</p>
 
