@@ -2,7 +2,9 @@
 title: Frequently Asked Questions
 permalink: /FAQ
 ---
-This page contains FAQs on the following matters related to travelling to Singapore:
+<b>This page contains FAQs on the following matters related to travelling to Singapore:</b>
+
+
 
 
 
