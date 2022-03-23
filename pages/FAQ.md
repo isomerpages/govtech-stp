@@ -59,7 +59,7 @@ Please attempt re-uploading your QR code, and ensure that:
 	</li>
 	<li style="line-height:1.35; margin-top:20px;">Your QR code was uploaded in a high-resolution, .png <i>(preferred)</i>, .pdf or .jpg format.</li>
 	<li style="line-height:1.35; margin-top:10px;list-style-type:disc;">Your date of birth was keyed in the correct format (DD/MM/YYYY)</li>
-	<li style="line-height:1.35; margin-top:10px;list-style-type:disc;">Your proof of vaccination is an accepted <a href="">acceptable digital proof of vaccination</a></li>
+	<li style="line-height:1.35; margin-top:10px;list-style-type:disc;">Your proof of vaccination is an accepted <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">acceptable digital proof of vaccination</a></li>
 		<li style="line-height:1.35; margin-top:10px;list-style-type:disc;">You are using the correct method of QR code upload:
 			<ol style="padding-left: 20px; list-style-type:circle;"><li style="line-height:1.35; margin-top:10px; ">QR code is cropped from the vaccination certificate document when uploaded</li>
 				<li style="line-height:1.35; margin-top:10px;">[For International COVID-19 Vaccination Certificate] Full 1-page PDF file was uploaded</li></ol>
