@@ -258,7 +258,7 @@ third_nav_title: Vaccinated Green List
 	        <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Traveller B cleared immigration on 1 March 2022. The effective period of her SHN is 1 – 8 March 2022. As she did not receive a negative PCR test report on 8 March, she must remain in her SHN accommodation until she receives a negative PCR test result.</p>
 	      <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>Q3) Getting daily essentials:</b></p>
 	      <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You can opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. You may also contact the SafeTravel Helpline at 6812 5555 for advice.</p>
-	           <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Q4) I received a call claiming to check on me during SHN, is it a scam?</p>
+	           <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>Q4) I received a call claiming to check on me during SHN, is it a scam?</b></p>
 	           <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">During the SHN period, randomised in-person or phone/video compliance calls will be conducted.</p>
 	           <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM), or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked for the last four digits of their identity card or travel document for identity verification.</p>
 	      <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
@@ -269,11 +269,26 @@ third_nav_title: Vaccinated Green List
 		</div>
 	
 	
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 5: End of Stay-Home Notice & Stay in Singapore</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+&#9744; &nbsp;&nbsp;<b>A) Abide by Local COVID-19 Safe Management Measures</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">After you have completed your SHN, comply with the latest public health measures while in Singapore. Unvaccinated travellers who are not medically exempted from COVID-19 vaccinations will not be able to enter any vaccination-differentiated settings (e.g. attendance at large scale events, dining restrictions).</p>
+	</div>
 	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+&#9744; &nbsp;&nbsp;<b>A) Abide by Local COVID-19 Safe Management Measures</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">After you have completed your SHN, comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a> while in Singapore. Unvaccinated travellers who are not medically exempted from COVID-19 vaccinations will not be able to enter any vaccination-differentiated settings (e.g. attendance at large scale events, dining restrictions).</p>
+	</div>	
 	
-	
-	
-	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+&#9744; &nbsp;&nbsp;<b>C) Fulfil Pass Requirements [Long Term Pass Holders only]</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Travellers between the ages of 13 and 18 years old (by date of birth) and hold a long-term pass, e.g. Student’s Pass, Work Pass, must complete the full vaccination regimen within two months of arrival.</p>
+	<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">If you suffer from a medical condition that disallows you from being vaccinated against COVID-19, obtain medical certification within 30 days of your arrival in Singapore to prove your ineligibility for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</p>
+	</div>		
 	
 	
 	
