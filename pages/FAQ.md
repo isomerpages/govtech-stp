@@ -2,8 +2,21 @@
 title: Frequently Asked Questions
 permalink: /FAQ
 ---
-## Safe Travel Lane FAQs
 
+
+
+
+
+
+
+
+
+
+
+
+### 6) Safe Travel Lane FAQs
+
+   Please refer to the individual Safe Travel Lane FAQs if you have questions on specific procedures related to each Safe Travel Lane.
 
 <table>
   <thead>
@@ -14,20 +27,10 @@ permalink: /FAQ
   </thead>
   <tbody>
 		  <tr style="border-bottom:1.2px solid #E8E8E8;">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air) </a></td>
-      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/vtl/faq">FAQ</a> 
-      </td>
-    </tr>  
-	      <tr style="border-bottom:1.2px solid #E8E8E8;">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/vtl-land/overview">Vaccinated Travel Lane (Land) </a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air/Land/Sea) </a></td>
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/vtl/faq">FAQ</a> 
       </td>
     </tr>
-		<tr style="border-bottom:1.2px solid #E8E8E8;">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/vtl-sea/overview">Vaccinated Travel Lane (Sea) </a></td>
-      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/vtl/faq">FAQ</a> 
-      </td>
-    </tr>  
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"> <a href="/atp/requirements-and-process">Air Travel Pass</a>
 </td> 
