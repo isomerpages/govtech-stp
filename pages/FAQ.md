@@ -2,19 +2,44 @@
 title: Frequently Asked Questions
 permalink: /FAQ
 ---
+This page contains FAQs on the following matters related to travelling to Singapore:
 
 
 
+### 1) Digitally Verifiable Vaccination Certificate 
+
+### 2) Common Portal Technical Issues
+
+### a. Amendment of Approved Applications (non-Vaccinated Travel Lanes)
+
+### b. Receipts and Approval Letters
+
+### c. Traveller Details
+
+### d. Document Uploads
 
 
 
+### e. Other General Application Issues
 
 
 
+### 3) Stay Home Notice (SHN) 
+
+
+### 4) Transport Advisories
 
 
 
-### 6) Safe Travel Lane FAQs
+### 5) COVID-19 Tests for Travellers 
+
+
+
+### 6) Payments and Refunds
+
+
+
+### 7) Safe Travel Lane FAQs
 
    Please refer to the individual Safe Travel Lane FAQs if you have questions on specific procedures related to each Safe Travel Lane.
 
