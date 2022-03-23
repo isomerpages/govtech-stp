@@ -31,12 +31,13 @@ permalink: /FAQ
 #### 1. What is considered a digitally verifiable vaccination certificate and how can I check its validity?
 
 Travellers with a digitally verifiable certificate listed below can use the Vaccination Check Portal prior to their trip to see if the certificate can be verified by the Singapore authorities, and also upload it via the SG Arrival Card up to 3 days before arrival. If verification fails, travellers should not worry as they can show their physical vaccination certificate or app with the following details in English, or translated to English with notarisation:
-
-i.	Name (per travel document used for entry)
-ii.	At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)
-iii.	Country of vaccination
-iv.	Name of vaccine(s) administered, i.e. different names for different vaccine type
-v.	Vaccination date(s)
+<ol style="padding-left: 20px; list-style-type: lower-roman;">
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Country of vaccination</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
+	</ol>
 
 However, Short Term Visitors and eligible Work Permit Holders <b>arriving before 31 March 2359h via the Vaccinated Travel Lane</b> will also need to upload the digital proof of vaccination as part of their Vaccinated Travel Pass application.
 
