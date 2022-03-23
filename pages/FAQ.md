@@ -2,9 +2,9 @@
 title: Frequently Asked Questions
 permalink: /FAQ
 ---
-<div id="top"></div>
-
 <b>This page contains FAQs on the following matters related to travelling to Singapore:</b>
+
+<div id="top"></div>
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
 		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#vaxcert">Digitally Verifiable Vaccination Certificate </a></li>
