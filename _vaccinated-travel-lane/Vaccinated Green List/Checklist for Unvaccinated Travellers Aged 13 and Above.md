@@ -191,7 +191,7 @@ third_nav_title: Vaccinated Green List
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="2A">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 &#9744; &nbsp;&nbsp;<b>Pre-boarding Document Checks</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Transport operators may ask for the documents listed at Stage 1 during pre-boarding checks. Failing which, you may be denied boarding.	
@@ -210,7 +210,7 @@ third_nav_title: Vaccinated Green List
 	</p>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<div id="3B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 &#9744; &nbsp;&nbsp;<b>B) Commute to declared Stay-Home Notice (SHN) accommodatione</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Following immigration clearance, you will:
@@ -221,3 +221,77 @@ third_nav_title: Vaccinated Green List
 	</p>
 	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory.</a></p>
 	</div>
+	
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Stay-Home Notice & COVID-19 Tests</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+&#9744; &nbsp;&nbsp;<b>A) Stay-Home Notice (SHN) Requirements</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">The 7-day Stay-Home Notice (SHN) takes effect immediately upon its issuance. You must remain in your declared SHN accommodation for the period specified in the notice, unless you are: 
+	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Directed by the relevant authority to leave your accommodation; OR</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (PCR Test) at the end of the SHN period.</li>
+	</ol>
+	</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You will be scheduled for a mandatory COVID-19 Polymerase Chain Reaction Test (PCR Test) before the end of your Stay-Home Notice (SHN). Pay for the test using the payment link found in your SHN (sent to your email address) before your appointment to avoid queues. Including GST, each test comes up to S$125.
+	</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, please contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
+	</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, whichever is later. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked.</p>	
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please refer to the Frequently Asked SHN questions below</p>
+	<table>
+  <thead>
+    <tr>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>SHN Frequently Asked Questions</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
+	      <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> <b> Q1) Commuting to SHN location and to/from COVID-19 test site</b></p>
+	      <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The commuting arrangement stated at <a href="#3B">Stage 3B</a> will continue to apply for the SHN duration. </p>
+	        <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>Q2) SHN end date:</b></p>
+	        <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Use the <a href="/shn-calculator" target="_blank">SHN calculator</a> for your estimated SHN end date or refer to the illustrations below. If you need to leave your SHN for an emergency, e.g. funeral or hospital visits, submit a <a href="https://go.gov.sg/sto-enquiry" target="_blank">written request</a> to the SafeTravel Office for assistance.</p>
+	      <p style="font-size:18px; margin-top: 10px;  line-height:1.35;"><u>Illustration 1:</u></p>
+	        <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Traveller A cleared immigration on 1 March 2022. The effective period of his SHN is 1 – 8 March 2022. He had received a negative PCR test on 8 March and can exit his SHN accommodation on the same day.</p>
+	        <p style="font-size:18px; margin-top: 10px; line-height:1.35;"><u>Illustration 2:</u></p>
+	        <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Traveller B cleared immigration on 1 March 2022. The effective period of her SHN is 1 – 8 March 2022. As she did not receive a negative PCR test report on 8 March, she must remain in her SHN accommodation until she receives a negative PCR test result.</p>
+	      <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>Q3) Getting daily essentials:</b></p>
+	      <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You can opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. You may also contact the SafeTravel Helpline at 6812 5555 for advice.</p>
+	           <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Q4) I received a call claiming to check on me during SHN, is it a scam?</p>
+	           <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">During the SHN period, randomised in-person or phone/video compliance calls will be conducted.</p>
+	           <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM), or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked for the last four digits of their identity card or travel document for identity verification.</p>
+	      <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
+	    </td>
+	  </tr>
+	</tbody>
+	</table>	
+		</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
