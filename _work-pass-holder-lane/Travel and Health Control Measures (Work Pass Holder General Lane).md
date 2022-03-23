@@ -270,7 +270,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Done by a trained professional (e.g. medical professional or Government-recognised trained professional); or</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <b>[For eligible travellers only]</b>	Self-administered and remotely supervised by an ART provider in Singapore providing such services. Please refer to <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">MOH’s listing of remote supervised self-swab providers</a> (under section on “<i>Antigen Rapid Test (ART) Providers</i>”) for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <b>[For eligible travellers only]</b>	Self-administered and remotely supervised by an ART provider in Singapore providing such services. Please refer to <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">MOH’s listing of remote supervised self-swab providers</a> for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
 </ol>			
 </li>
 </ol></li>
@@ -323,7 +323,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Done by a trained professional (e.g. medical professional or Government-recognised trained professional); or</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <b>[For eligible travellers only]</b>	Self-administered and remotely supervised by an ART provider in Singapore providing such services. Please refer to <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">MOH’s listing of remote supervised self-swab providers</a> (under section on “<i>Antigen Rapid Test (ART) Providers</i>”) for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <b>[For eligible travellers only]</b>	Self-administered and remotely supervised by an ART provider in Singapore providing such services. Please refer to <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">MOH’s listing of remote supervised self-swab providers</a> for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
 </ol>
 </li>
 </ol></li>
