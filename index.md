@@ -14,7 +14,7 @@ notification: <h6 style="text-align:left;"><!--Scheduled maintenance will be
   services offered by commercial entities who claim to provide assistance to
   travellers to fill up ICA's free <a
   href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card (SGAC)
-  e-Service</a> for a fee.                          </h6>
+  e-Service</a> for a fee.                            </h6>
 sections:
   - hero:
       title: <h3 style="font-size:20px; font-weight:bold; font-family:Arial; letter-spacing:0; line-height:1.35em; color:#333; margin-bottom:-50px; margin-top:-50px;">Singapore has implemented Safe Travel Lanes to facilitate travel while safeguarding public health amidst the COVID-19 pandemic. <br/><br/> Click the buttons below for the latest information on Safe Travel arrangements for arrival, transit or departure.</h3>
