@@ -9,15 +9,16 @@ This page provides details on what COVID-19 vaccinations and certificates are re
 <ol style="padding-left: 20px;">
 	<li style="padding-left:10px; line-height:1.5;"><a href="#acceptedvaccines">Accepted COVID-19 Vaccines for Entry to Singapore</a></li>
 	<li style="padding-left:10px; line-height:1.5;"><a href="#vaxcert">Accepted Vaccination Certificates</a><ol style="padding-left: 20px; list-style-type:lower-latin;">
-		<li style="padding-left:10px; line-height:1.5;">Digitally-Verifiable Vaccination Certificates</li>
-		<li style="padding-left:10px; line-height:1.5;">Non-Digitally Verifiable Vaccination Certificates</li>
+		<li style="padding-left:10px; line-height:1.5;"><a href="#digitalvaxcert">Digitally-Verifiable Vaccination Certificates</a></li>
+		<li style="padding-left:10px; line-height:1.5;"><a href="#nondigitalvaxcert">Non-Digitally Verifiable Vaccination Certificates</a></li>
 		</ol></li>
 	<li style="padding-left:10px; line-height:1.5;"><a href="#VDSMM">Vaccinated status for Activities within Singapore</a>
 	<ol style="padding-left: 20px; list-style-type:lower-latin;">
-		<li style="padding-left:10px; line-height:1.5;">Temporary vaccinated status after arrival</li>
-		<li style="padding-left:10px; line-height:1.5;">Maintaining vaccination status beyond the temporary status granted<ol style="padding-left: 20px; list-style-type:disc;">
-		<li style="padding-left:10px; line-height:1.5;">Travellers who have taken vaccines other than Sinovac/Sinopharm</li>
-		<li style="padding-left:10px; line-height:1.5;">Travellers who have taken Sinovac/Sinopharm vaccines</li>
+		<li style="padding-left:10px; line-height:1.5;"><a href="#tempstatus">Temporary vaccinated status after arrival</a></li>
+		<li style="padding-left:10px; line-height:1.5;"><a href="#beyondtempstatus">Maintaining vaccination status beyond the temporary status granted</a>
+			<ol style="padding-left: 20px; list-style-type:disc;">
+		<li style="padding-left:10px; line-height:1.5;"><a href="#nonsinovacsinopharm">Travellers who have taken vaccines other than Sinovac/Sinopharm</a></li>
+		<li style="padding-left:10px; line-height:1.5;"><a href="#sinovacsinopharm">Travellers who have taken Sinovac/Sinopharm vaccines</a></li>
 		</ol>
 		</li>
 		</ol>
@@ -120,6 +121,8 @@ Travellers must be able to prove their vaccination status on boarding and at Sin
 		<li style="padding-left:10px; line-height:1.5;">Non-Digitally Verifiable Vaccination Certificates</li>
 		</ol>
 
+<div id="digitalvaxcert"></div>
+
 #### 2a. Digitally -Verifiable Vaccination Certificates
 
 Travellers with digitally-verifiable vaccination certificates (i.e. with QR codes) can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal (VCP)</a> to verify if their certificates can be digitally recognised. This is an <b>optional step</b> for travellers’ own assurance and planning. The VCP will issue a vaccination certificate acceptance letter if the certificate can be verified, and travellers can show this to transport operators and Singapore immigration as further proof of certificate verification. Travellers with difficulty verifying their certificates or are not sure where their QR codes are located can refer to the Frequently Asked Questions  on Vaccination Certificates.
@@ -143,7 +146,6 @@ Travellers who do not hold Digitally Verifiable Vaccination Certificates or unab
 
 <div id="VDSMM"></div>
 
-
 ### 3.	Vaccinated Status for Activities Within Singapore
 
 Travellers will be required to prove their vaccination status to participate in certain activities in Singapore, as part of <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-Differentiated Safe Management Measures (VDS)</a>.
@@ -151,12 +153,16 @@ Travellers will be required to prove their vaccination status to participate in 
 Travellers who were fully vaccinated in Singapore will already have their records reflected in Singapore’s National Immunisation Registry and have their vaccination status reflected in their <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> apps.
 
 
+<div id="tempstatus"></div>
+
 #### 3a. Obtaining temporary vaccinated status after arrival
 
 Travellers who were vaccinated outside Singapore will be granted <b>temporary vaccinated status lasting about 30 days</b> if they successfully uploaded their digital vaccination certificates as part of their Singapore Arrival Card (SGAC) or manually presented their vaccination certificates and the manual immigration counters. 180 days temporary status will be granted for those who applied for a Vaccinated Travel Pass.  Such travellers will need to download the TraceTogether app and register with their passport number to view your vaccination status.
 
 Travellers whose temporary vaccination status has not been displayed accurately on their TraceTogether app may submit a query via: <a href="https://go.gov.sg/vds-query-form" target="_blank">https://go.gov.sg/vds-query-form</a>.
 
+
+<div id="beyondtempstatus"></div>
 
 #### 3b. Maintaining vaccination status beyond the temporary status 
 
