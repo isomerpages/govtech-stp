@@ -4,27 +4,36 @@ permalink: /arriving/overview
 description: Entry requirements and SafeTravel Lanes available when travelling to Singapore
 ---
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">To manage travel during the COVID-19 pandemic, travellers entering Singapore will be subject to health-related protocols that are calibrated based on the traveller’s vaccination status and travel history. Travellers intending to visit Singapore can determine their entry options and corresponding health protocols using the links, below:</p>
+<div id="top"></div>
 
-- [Self Help Tool for Safe Travel Lanes and Entry Requirements](#selfhelptool)
-- [Listing of Safe Travel Lanes by Traveller Profile](#lanelist)
-- [Entry Information for Air/Sea Crew and Pleasure Craft Owners](#crew)
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">To manage travel during the COVID-19 pandemic, travellers entering Singapore will be subject to health-related protocols that are calibrated based on the traveller’s vaccination status and travel history. You may determine your entry options using the following tools:</p>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Travellers transiting through Singapore should refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information.</p>
+- [Automated Self Help Tool for Entry Requirements](#selfhelptool)
+- [List of Entry Requirements and Travel Lanes ](#lanelist)
+
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are transiting through Singapore without clearing immigration, refer to the  "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="#crew">click here</a> for more instructions</p>
 
 <div id="selfhelptool"></div>
 
-### 1) Self-Help Tool for Safe Travel Lanes and Entry Requirements
+### 1. Automated Self-Help Tool
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">This self-help tool will output the most relevant Safe Travel Lanes to use based on the traveller’s profile, and travellers can click on the relevant lane to find out about the specific health requirements (e.g. Stay Home Notice, COVID-19 tests) under that lane.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">The self-help tool below will help you determine the latest entry and health requirements based on the individual traveller’s profile. For travel groups, users should input options specific to each traveller. To start a new query session, users can either edit their previous response or restart the checker using the buttons at the end of the tool. Personal information will not be captured by this tool.</p>
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">No information will be stored by this tool. If the tool below does not work in your browser, try opening it in a <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">separate window</a>, or refer to the list of <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">SafeTravel Lanes</a>. </p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are unable to access the tool below, <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">click here</a> to open it in a separate window or go through the listing of entry requirements instead.</p>
 
 <iframe width="100%" height="2600px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+---
+
+Click here to return to the <a href="#top">top</a>.
+
+---
+
 <div id="lanelist"></div>
 
-### 2) List of SafeTravel Lanes by Traveller Profile
+### 2. List of Entry Requirements and Travel Lanes
+
 
 <ul style="list-style-type: lower-alpha; line-height:1.35;">
 	<li><a href="#ReturningSCPR">Singapore Citizens and Permanent Residents</a></li>
