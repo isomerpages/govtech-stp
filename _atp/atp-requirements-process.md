@@ -16,8 +16,8 @@ permalink: /atp/requirements-and-process
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">This page contains a checklist only for Air Travel Pass travellers who are <b>arriving before 31 March 2022, 2359h (SGT)</b>. All unutilised ATPs will be <b><u>cancelled</u></b> after 31 March 2022, 2359h (SGT).</p>
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect for arrivals from 31 March 2022, 2359h (SGT). Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
 	<ol style="list-style-type:disc;">
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/greenlist-fully-vaccinated" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/greenlist-non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
 	</ol>
 	</p>
 	</div>
