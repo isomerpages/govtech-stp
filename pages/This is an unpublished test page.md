@@ -164,7 +164,21 @@ Travellers whose temporary vaccination status has not been displayed accurately 
 
 Travellers who wish to have their vaccination records ingested into the National Immunisation Registry (NIR) beyond their temporary vaccinated status period (explained in section 3a above) can do so but procedures differ depending on what vaccination they have taken.
 
-
+<table>
+<thead>
+<tr>
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:left;"><b>A) Travellers who have taken vaccines other than Sinovac/Sinopharm</b></th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">
+<p style="font-size:18px; margin-top:0px; line-height:1.5;">No entry application is required. However, pass holders are still required to undergo Category I or II/III/IV travel health control measures depending on their travel history before arrival in Singapore.</p>
+<p style="font-size:18px; margin-top:0px; line-height:1.5;">Please check the <a href="/shn-and-swab-summary" target="_blank">Travel Health Control Measures</a> page to determine what category of health measures they are required to follow.</p>
+		</td>
+	</tr>
+	</tbody>
+	</table>
 
 granted for those who have taken non-Sinovac/Sinopharm vaccines
 
