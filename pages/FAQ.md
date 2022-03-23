@@ -66,6 +66,8 @@ Please attempt re-uploading your QR code, and ensure that:
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">QR Codes for boosters are not included.</li>
 	</ol>
 
+For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide supporting details and screenshots of the errors encountered.
+
 #### 3. Why are only SMART Health Cards by certain issuers accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed here and here) and Vaccination Credential Initiative (issuers listed here).
