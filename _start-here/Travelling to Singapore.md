@@ -39,8 +39,8 @@ Click here to return to the <a href="#top">top</a>.
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Select your expected mode and period of arrival in Singapore:</p>
 
 <ul style="list-style-type: lower-alpha; line-height:1.35;">
-	<li><a href="#before31"><b>By Air or Sea</b>, before 31 March 2022, 2359h</a></li>
-	<li><a href="#after31"><b>By Air or Sea</b>, from 31 March 2022, 2359h</a></li>
+	<li><a href="#before31">Before 31 March 2022, 2359h</a></li>
+	<li><a href="#after31">From 31 March 2022, 2359h</a></li>
 </ul>
 
 
@@ -56,6 +56,7 @@ Click here to return to the <a href="#top">top</a>.
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">For details concerning VTL travel, e.g. travel conditions and admin procedures, click on the links below:
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.35;"><a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> - Entry using designated VTL flight from a VTL country/region;</li>
+	<li style="line-height:1.35;"><a href="/vtl-land/overview" target="_blank">VTL (Land)</a> - Entry using designated VTL bus via the Causeway;</li>
 	<li style="line-height:1.35; margin-top:10px;"><a href="/vtl-sea/overview" target="_blank">VTL (Sea)</a> - Entry using designated VTL ferry from Indonesia (Batam/Bintan).</li>
 </ol>
 	</p>
@@ -101,7 +102,7 @@ Click here to return to the <a href="#top">top</a>.
 
 #### Travellers arriving by Air or Sea, from 31 March 2022, 2359h
 
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Under the new travel concept, all travel requirements are calibrated based mainly on the traveller’s COVID-19 vaccination status.</p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Under the new Vaccinated Travel Framework, all travel requirements are calibrated based mainly on the traveller’s COVID-19 vaccination status. Please note that the timeline and exact border measures for entry via land may be subject to further updates as discussions with Malaysia are ongoing.</p>
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">There are no Red List countries/regions today; all countries/regions come under the COVID-19 Green List. For the detailed entry and health protocols, click on the checklist that best describes the traveller’s profile:<p>
 
@@ -116,8 +117,8 @@ Click here to return to the <a href="#top">top</a>.
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
 	    <ol style="list-style-type:disc;">
-		    <li style="line-height:1.35;margin-top:10px;">Aged 13 and above (i.e. born before 2010) and fully vaccinated against COVID-19; OR</li>
-		     <li style="line-height:1.35;margin-top:10px;">Aged 12 and below (i.e. born in or after 2010) regardless of vaccination status</li>
+		    <li style="line-height:1.35;margin-top:10px;">Fully vaccinated against COVID-19; OR</li>
+		     <li style="line-height:1.35;margin-top:10px;">Aged 12 and below (i.e. born in or after 2010) and not fully vaccinated against COVID-19</li>
 	      </ol>
 	    </td>
 	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="" target="_blank">Green List - Vaccinated Traveller and Children’s Checklist</a></td>
@@ -125,9 +126,8 @@ Click here to return to the <a href="#top">top</a>.
 	     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Aged 13 and above (i.e. born before 2010) and is:     	    
 	      <ol style="list-style-type:disc;">
-		    <li style="line-height:1.35;margin-top:10px;">Medically ineligible for COVID-19 vaccines;</li>
-		     <li style="line-height:1.35;margin-top:10px;">Not fully vaccinated against COVID-19; and/or</li>
-		       <li style="line-height:1.35;margin-top:10px;">Not fully vaccinated and has had a COVID-19 infection between 14 – 90 days before departure for Singapore</li>
+		    <li style="line-height:1.35;margin-top:10px;">Is medically ineligible for COVID-19 vaccines;</li>
+		     <li style="line-height:1.35;margin-top:10px;">Is not fully vaccinated against COVID-19r</li>
 	      </ol>
 		     </td>
 	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="" target="_blank">Green List - Unvaccinated Traveller Checklist</a></td>
@@ -143,24 +143,6 @@ Click here to return to the <a href="#top">top</a>.
     </tr>
 	</tbody>
 	</table>
-
-
-
-<!--#### Travellers entering by Land from Malaysia
-
-<div id="land"></div>
-
-<ol style="list-style-type:lower-roman;">
-	<li style="line-height:1.35;margin-top:10px;"><a href="/vtl-land/overview" target="_blank">VTL (Land)</a> - Fully vaccinated Malaysia and Singapore residents entering using designated VTL bus via the Causeway;</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/sc-pr/overview" target="_blank">Returning Singapore Citizen and Permanent Resident Lane </a> - <b>All Singapore Citizens and Permanent Residents</b></li>
-<li style="line-height:1.35;margin-top:10px;"><a href="/wphl/overview" target="_blank">Work Pass Holder General Lane </a> - <b>All MOM Long-Term Pass Holders, including Work Permit holders and dependant pass holders</b>. Vaccination Requirements apply </li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/stpl/overview" target="_blank">Student’s Pass Holder Lane </a> – <b>Student’s Pass Holders or their accompanying family members</b>. Vaccination requirements apply.</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a> – <b>Immediate family member of a Singapore Citizen/Permanent Resident in Singapore, Permanent Resident In-Principle holder, or former Student’s Pass Holder</b></li>
-<li style="line-height:1.35;margin-top:10px;"><a href="/pca/requirements-and-process" target="_blank">Periodic Commuting Arrangement</a> – <b>Workers</b> travelling from Malaysia via land</li>
-<li style="line-height:1.35;margin-top:10px;"><a href="/dcev/overview" target="_blank">Death and Critical Illness Emergency Visits Lane </a> – <b>Travellers seeking emergency short-term entry</b> to attend to a family crisis (e.g. death or critical illness of family member in Singapore). Only a maximum of <u>two visitors per case</u> is allowed.</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/vaccinated-recovered" target="_blank">Vaccinated & Recently Recovered Traveller Protocol</a><b>Fully vaccinated travellers</b> who can prove a COVID-19 infection between 7 – 90 days (inclusive) before departure for Singapore.</li>
-</ol>-->
-
 
 
 ### 3) Air/Sea Crew and Pleasure Craft Owners
