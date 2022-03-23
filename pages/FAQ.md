@@ -343,6 +343,37 @@ Click here to [Go Back To Top](#top).
 
 ### 4) Transport Advisories
 
+#### 1. What are the transport advisories for travellers who are completing their Stay Home Notice at their accommodation?
+
+Travellers can commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps. 
+
+<div id="note1"></div>
+	
+(i) <u><b>Private Transport Use</b></u>
+
+Travellers may be picked up from the airport by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller, and the traveller must be ferried directly to their declared place of accommodation.
+
+If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.
+
+All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
+
+<ol style="list-style-type:disc;">
+	<li>Vehicle windows must be wound down with air conditioning turned off.</li>
+		<li>Where practicable, the front passenger seat should be left unoccupied;</li>
+			<li>The back seat should only be occupied by the traveller(s)</li>			
+			<li>The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for more information.</li>
+</ol>
+
+<div id="note2"></div>
+
+(ii) <u><b>Taxi/private-hire vehicles</b></u>
+
+When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a>. Travellers who opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
+
+Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
+
+All travellers are prohibited from taking public transport, e.g. public buses/trains to their SHN location.
+
 
 ---
 	
@@ -353,6 +384,16 @@ Click here to [Go Back To Top](#top).
 
 
 ### 5) COVID-19 Tests for Travellers 
+
+
+#### 1. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
+
+Travellers arriving from countries requiring a COVID-19 test must do so if they are three years old and above this calendar year. Individuals aged two or below this calendar year (i.e. born in or after 2020) are, by default, exempted from this testing requirement. 
+
+
+#### 2. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from COVID-19 Polymerase Chain Reaction Tests (“PCR test”) ?
+
+In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
 
 ---
