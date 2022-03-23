@@ -23,6 +23,7 @@ permalink: /FAQ
 </ol>
 
 
+---
 
 
 ### 1) Digitally Verifiable Vaccination Certificate 
