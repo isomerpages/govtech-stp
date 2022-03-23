@@ -203,6 +203,13 @@ third_nav_title: Vaccinated Green List
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for the latest public health measures.</p>
 </div>
 
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>C) Register Overseas Vaccination Record [Mandatory for Long Term Pass Holders]</b></div>
+
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">All travellers must comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> for the identification of close contacts of a positive COVID-19 case, and/or showing proof of vaccination in settings where <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-differentiated Safe Management Measures (VDS)</a> apply.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you are vaccinated overseas, your vaccination status will be reflected on the <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> or <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application after arrival in Singapore. If your vaccination status is inaccurately reflected, use this form for assistance.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for the latest public health measures.</p>
+</div>
 
 
 
