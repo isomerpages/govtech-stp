@@ -342,4 +342,4 @@ input:checked + label + .content {
 </html>
 
 
-##### For the more information on COVID-19 vaccinations, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">Ministry of Health’s FAQ</a>.
+##### For more information on COVID-19 vaccinations, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">Ministry of Health’s FAQ</a>.
