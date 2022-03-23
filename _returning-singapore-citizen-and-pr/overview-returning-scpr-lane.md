@@ -6,8 +6,8 @@ permalink: /sc-pr/overview
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">The information on this page is only for travellers who are arriving before 31 March 2022, 2359h (SGT).</p>
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect for air and sea arrivals from 31 March 2022, 2359h (SGT). Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
 	<ol style="list-style-type:disc;">
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="https://go.gov.sg/green-fv" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="https://go.gov.sg/green-nfv" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/greenlist-fully-vaccinated" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/greenlist-non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
 	</ol>
 	</p>
 	</div>
