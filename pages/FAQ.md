@@ -28,7 +28,12 @@ permalink: /FAQ
 
 ### 1) Digitally Verifiable Vaccination Certificate 
 
+
+<div id="tech"></div>
+
 ### 2) Common Portal Technical Issues
+
+<div id="amendment"></div>
 
 ### a. Amendment of Approved Applications (non-Vaccinated Travel Lanes)
 
@@ -48,6 +53,8 @@ For PCA applications, please note that should your employee be unable to enter o
 Click here to [Go Back To Top](#top).
 
 ---
+
+<div id="receiptandapproval"></div>
 
 ### b. Receipts and Approval Letters
 
@@ -75,7 +82,13 @@ Click here to [Go Back To Top](#top).
 
 ---
 
+<div id="TravellerDetails"></div>
+
 ### c. Traveller Details
+
+
+
+
 
 ### d. Document Uploads
 
