@@ -31,6 +31,7 @@ permalink: /FAQ
 #### 1. What is considered a digitally verifiable vaccination certificate and how can I check its validity?
 
 Travellers with a digitally verifiable certificate listed below can use the Vaccination Check Portal prior to their trip to see if the certificate can be verified by the Singapore authorities, and also upload it via the SG Arrival Card up to 3 days before arrival. If verification fails, travellers should not worry as they can show their physical vaccination certificate or app with the following details in English, or translated to English with notarisation:
+
 i.	Name (per travel document used for entry)
 ii.	At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)
 iii.	Country of vaccination
@@ -38,18 +39,19 @@ iv.	Name of vaccine(s) administered, i.e. different names for different vaccine 
 v.	Vaccination date(s)
 
 However, Short Term Visitors and eligible Work Permit Holders arriving before 31 March 2359h via the Vaccinated Travel Lane will also need to upload the digital proof of vaccination as part of their Vaccinated Travel Pass application.
-<list of accepted digital certs to be provided by MOT in their excel sheet – combine where possible e.g. all the EUDCC countries in the same row>
+
+<!--list of accepted digital certs to be provided by MOT in their excel sheet – combine where possible e.g. all the EUDCC countries in the same row-->
 
 #### 2. Why are my vaccination QR codes not accepted in my Vaccinated Travel Pass (VTP) application or Vaccination Check Portal?
 
 Please attempt re-uploading your QR code, and ensure that:
 <ol style="list-style-type:disc;">
 	<li style="line-height:1.5; margin-top:10px;">You are using the ‘International’/‘Travel’ version of your vaccination certificate. A common issue is that travellers holding certificates issued by the following countries upload their domestic certificate instead of their travel certificate.
-	<ol style="list-style-type: lower-roman;">
-		<li style="line-height:1.35; margin-top:10px;">India</li>
-		<li style="line-height:1.35; margin-top:10px;">Indonesia</li>
-		<li style="line-height:1.35; margin-top:10px;">Thailand</li>
-		<li style="line-height:1.35; margin-top:10px;">The United Arab Emirates</li>
+	<ol style="padding-left: 20px; list-style-type: lower-roman;">
+		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">India</li>
+		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Indonesia</li>
+		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Thailand</li>
+		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">The United Arab Emirates</li>
 		</ol>
 	</li>
 	<li style="line-height:1.5; margin-top:20px;">Your QR code was uploaded in a high-resolution, .png <i>(preferred)</i>, .pdf or .jpg format.</li>
