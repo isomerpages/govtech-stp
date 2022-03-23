@@ -4,7 +4,6 @@ permalink: /green-unvaccinated
 description: ""
 third_nav_title: Vaccinated Green List
 ---
-
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
   <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This travel checklist is for travellers aged 13 and above (i.e. born before 2010) who are entering Singapore via <b>air or sea</b> from 31 March 2022, 2359H, and are:
@@ -167,7 +166,7 @@ third_nav_title: Vaccinated Green List
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;"><a href="/files/serviced-apartments.pdf" target="_blank">Serviced apartment</a>; or</li>
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Hotel of choice from this <a href="https://sha.org.sg/stay-home-notice" target="_blank">non-exhaustive list</a>.</li>
 </ol>	
-	<p style="font-size:18px;margin-top:30px;line-height:1.35;"><b><u>Accommodation Tips</u></b></p>
+	<p style="font-size:18px;margin-top:30px;line-height:1.35;">💡 <b><u>Accommodation Tips</u></b></p>
 <p style="font-size:18px;margin-top:10px;line-height:1.35;">Before making a hotel booking, travellers should check and ensure that the hotel can accommodate guests serving SHN.</p>
 <p style="line-height:1.35; margin-top:15px; font-size:18px;">Travellers serving SHN at their residence may do so with other household members of different vaccination status or travel history. However, the following precautions are strongly advised:
 		<ol style="padding-left: 20px; margin-top:20px;">
