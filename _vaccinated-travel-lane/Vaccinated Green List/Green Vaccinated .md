@@ -174,7 +174,16 @@ third_nav_title: Vaccinated Green List
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">Transport operators may ask for documents listed at Stage 1 during pre-boarding checks. Failing which, you may be denied boarding.</p>
 	</div>
 
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Immigration Clearance in Singapore</b></div>
 
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Immigration Clearance</b></div>
+
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you did not successfully upload your vaccination certificate via the SG Arrival Card (see Stage 1C) and were not vaccinated in Singapore, you should seek immigration clearance at a manned immigration counter and provide all documents, including proof of tests, and information requested by the immigration officer. There, the immigration officer will register your overseas vaccination status (temporary vaccinated status for 30 days) on the HealthHub or TraceTogether mobile application for use in vaccination-differentiated settings in Singapore (details in Stage 4). </p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">Upon clearance, an  e-Pass (i.e. Visit Pass) stating the period of stay granted will be issued to foreign short-term visit pass travellers via the email address indicated in the SGAC. Passports will no longer be stamped.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you are symptomatic on arrival, you may be directed to take a COVID-19 test. Each Antigen Rapid Test (ART) administered will cost S$30, while each COVID-19 Polymerase Chain Reaction Test (PCR Test) will cost S$138. </p>
+</div>
 
 
 
