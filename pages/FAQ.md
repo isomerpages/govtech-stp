@@ -374,9 +374,9 @@ Click here to [Go Back To Top](#top).
 <div id="procedures"></div>
 
 
-### 7) Safe Travel Lane FAQs
+### 7) FAQs on Specific Safe Travel Lane Procedures
 
-   Please refer to the individual Safe Travel Lane FAQs if you have questions on specific procedures related to each Safe Travel Lane.
+Please refer to the individual Safe Travel Lane FAQs if you have questions on specific procedures related to each Safe Travel Lane.
 
 <table>
   <thead>
