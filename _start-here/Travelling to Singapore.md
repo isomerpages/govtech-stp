@@ -58,7 +58,8 @@ Click here to return to the <a href="#top">top</a>.
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.35;"><a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> - Entry using designated VTL flight from a VTL country/region;</li>
 	<li style="line-height:1.35; margin-top:10px;"><a href="/vtl-sea/overview" target="_blank">VTL (Sea)</a> - Entry using designated VTL ferry from Indonesia (Batam/Bintan).</li>
-</b>
+</ol>
+	</p>
 
 <table id="vtlcountries">
   <thead>
