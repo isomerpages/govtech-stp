@@ -41,7 +41,6 @@ Click here to return to the <a href="#top">top</a>.
 <ul style="list-style-type: lower-alpha; line-height:1.35;">
 	<li><a href="#before31"><b>By Air or Sea</b>, before 31 March 2022, 2359h</a></li>
 	<li><a href="#after31"><b>By Air or Sea</b>, from 31 March 2022, 2359h</a></li>
-	<li><a href="#land"><b>By land</b> from Malaysia</a></li>
 </ul>
 
 
