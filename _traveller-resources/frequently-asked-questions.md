@@ -1,6 +1,7 @@
 ---
 title: Frequently Asked Questions
 permalink: /health/FAQ
+published: false
 ---
 ## Click to jump to the following sections:
 
