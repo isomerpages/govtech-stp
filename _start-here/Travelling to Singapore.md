@@ -56,12 +56,14 @@ Click here to return to the <a href="#top">top</a>.
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">For details concerning VTL travel, e.g. travel conditions and admin procedures, click on the links below:
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.35;"><a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> - Entry using designated VTL flight from a VTL country/region;</li>
-	<li style="line-height:1.35;"><a href="/vtl-land/overview" target="_blank">VTL (Land)</a> - Entry using designated VTL bus via the Causeway;</li>
+	<!--<li style="line-height:1.35;"><a href="/vtl-land/overview" target="_blank">VTL (Land)</a> - Entry using designated VTL bus via the Causeway;</li>-->
 	<li style="line-height:1.35; margin-top:10px;"><a href="/vtl-sea/overview" target="_blank">VTL (Sea)</a> - Entry using designated VTL ferry from Indonesia (Batam/Bintan).</li>
 </ol>
 	</p>
 
-<table id="vtlcountries">
+<div id="vtlcountries"></div>
+
+<table>
   <thead>
     <tr>
      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccinated Travel Lane Countries/Regions</b></th>
