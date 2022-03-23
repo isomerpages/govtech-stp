@@ -199,7 +199,7 @@ Employers should remind their employees to present the following documents to th
 
 <a href="#top">Click here to return to the top.</a>
 
-##### Click [here](/health/faq#shnsdf) to for general FAQs on SHN and SDF.
+##### Click [here](/faq#shnsdf) to for general FAQs on SHN and SDF.
 
 <div id="payment"></div>
 
