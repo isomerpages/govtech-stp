@@ -57,12 +57,12 @@ Please attempt re-uploading your QR code, and ensure that:
 	<li style="line-height:1.5; margin-top:20px;">Your QR code was uploaded in a high-resolution, .png <i>(preferred)</i>, .pdf or .jpg format.</li>
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your date of birth was keyed in the correct format (DD/MM/YYYY)</li>
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your proof of vaccination is an accepted <a href="/vtl/faq#QRcode">proof of vaccination</a></li>
-		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You have uploaded the <a href="/vtl/faq#numberofcodes" target="_blank">correct number of QR codes</a>, and you are using the correct method of QR code upload
-			<ol><li style="line-height:1.5; margin-top:10px; list-style-type:square;">QR code is cropped from the vaccination certificate document when uploaded</li>
-				<li style="line-height:1.5; margin-top:10px; list-style-type:square;">[For International COVID-19 Vaccination Certificate] Full 1-page PDF file was uploaded</li>
-				<li style="line-height:1.5; margin-top:10px; list-style-type:square;">QR code is in an acceptable format and by specific issuers</li></ol>
+		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You have uploaded the <a href="/vtl/faq#numberofcodes" target="_blank">correct number of QR codes</a>, and you are using the correct method of QR code upload:
+			<ol style="padding-left: 20px; list-style-type:circle;"><li style="line-height:1.5; margin-top:10px; ">QR code is cropped from the vaccination certificate document when uploaded</li>
+				<li style="line-height:1.35; margin-top:10px;">[For International COVID-19 Vaccination Certificate] Full 1-page PDF file was uploaded</li>
+				<li style="line-height:1.35; margin-top:10px;">QR code is in an acceptable format and by specific issuers</li></ol>
 	</li>
-		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You are fully vaccinated, based on <a href="/health/vtsg" target="_blank">this criteria</a></li>
+		<li style="line-height:1.5; margin-top:20px;list-style-type:disc;">You are fully vaccinated, based on <a href="/health/vtsg" target="_blank">this criteria</a></li>
 		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your passport particulars match with your vaccination certificate. If not, where possible, please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.</li>
 		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You replaced the special characters in your name as per this <a href="#specialchar">FAQ</a>.</li>
 	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">QR Codes for boosters are not included.</li>
