@@ -25,6 +25,8 @@ permalink: /FAQ
 
 ---
 
+<div id="vaxcert"></div>
+
 
 ### 1) Digitally Verifiable Vaccination Certificate 
 
