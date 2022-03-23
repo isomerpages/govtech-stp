@@ -4,7 +4,7 @@ permalink: /travel-checklist/overview
 ---
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">These checklists provide a comprehensive step-by-step guide for travellers who are intending to travel to Singapore and have already identified an appropriate SafeTravel Lane to enter Singapore by. If you have yet to identify a suitable Safe Travel Lane for entry, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page and use the self-help tool for details.</p>
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><b>Singapore is transitioning towards a new travel framework based on COVID-19 vaccination status</b>. You can refer to the appropriate checklist below depending on your arrival date, travel lane used, vaccination status and travel history. Travellers from Malaysia who wish to travel to Singapore via land should use existing travel lanes until further details are available on the land border reopening.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><b>Singapore is transitioning towards a new travel framework based on COVID-19 vaccination status</b>. You can refer to the appropriate checklist below depending on your arrival date, travel lane used, vaccination status and travel history. Travellers from Malaysia who wish to travel to Singapore via land should use <a href="#malaysia">existing travel lanes</a> until further details are available on the land border reopening.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers who had identified a suitable Safe Travel Lane for entry into Singapore and referenced the relevant checklist, have reported being much better prepared for the trip.</p>
 
@@ -41,6 +41,9 @@ permalink: /travel-checklist/overview
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vaccinated-recovered" target="_blank">Fully Vaccinated & Recently-Recovered Traveller Protocol</a>
 	</li>
 	</ol>
+	
+<div id="malaysia"></div>	
+	
 #### For travellers arriving from Malaysia via land
 
 <ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
