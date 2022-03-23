@@ -266,9 +266,48 @@ If you encountered errors while uploading, please follow the following troublesh
   <li style="padding-left:20px; margin-bottom: 0px; line-height:1.35;">Shorten the file's name to 10-15 characters.</li>
 </ol>
 
+---
+	
+Click here to [Go Back To Top](#top).
+
+---
+
+
 ### e. Other General Application Issues
 
+#### 1. What are the browsers compatible with Safe Travel Portal?
 
+For best user experience, please use Google Chrome (version 84 or later) or Microsoft Edge (Version 95 or later) Web Browser. Please also ensure that your pop-up blocker has been turned off to facilitate the payment process.
+
+#### 2. Why am I unable to access the Safe Travel Portal despite having a Corppass?
+
+The login process for Corppass has been changed to first verify your identity via Singpass, before you can proceed to access and transact with government digital services.
+
+Please ensure that your Singpass ID is linked to your business's Corppass account to log in to the Safe Travel Portal. You may contact your business's Corppass administrator to ensure that you have been added and assigned the <i>‘Safe Travel Portal’</i> e-service to your Corppass e-services and the administrator had assigned you administrative rights to access the Safe Travel Portal.
+
+For foreign users, you would have received an email about your pre-registered Singpass account. Your newly created Singpass account has been linked to your existing Corppass accounts and will be the new login method. For more information, please visit the Singpass website at www.singpass.gov.sg or https://go.gov.sg/corporate-login.
+
+#### 3. On the “Terms and Conditions” and “Declaration” pages, why am I unable to click the “I AGREE”/ “SUBMIT” buttons?
+
+Please ensure you have read through the terms and conditions/ declaration and ensure that the checkbox is ticked before clicking the “I AGREE”/ “SUBMIT” button.
+
+#### 4. Why am I unable to click ‘NEXT’ to proceed to the next step of application?
+
+There may be compulsory fields in the form that have not been filled in.
+
+#### 5. Why was I logged out mid-way through my application?
+
+Users will be logged out of their accounts after approximately 20 minutes of inactivity and will have to re-submit any previously entered application details. This will help prevent any unauthorised access to the application data.
+
+#### 6. I am still encountering errors when using the portal and I am unable to locate a solution in this FAQ. Who may I contact for assistance?
+
+Should you still encounter error messages with your application, please contact us using the enquiry form [here](https://go.gov.sg/sto-enquiry).
+
+---
+	
+Click here to [Go Back To Top](#top).
+
+---
 
 ### 3) Stay Home Notice (SHN) 
 
