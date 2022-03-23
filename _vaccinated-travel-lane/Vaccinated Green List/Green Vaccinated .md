@@ -125,7 +125,25 @@ third_nav_title: Vaccinated Green List
 	</table>
   </div>
 
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT)</b></div>
 
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">If you are born before 2020 (i.e. above 2 years old), take any of the following COVID-19 tests within 2 days before departure:</p>
+	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) <a target="_blank" href="https://go.gov.sg/accreditation-bodies-for-covid19-testing">at an internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) that is:
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Administered by a trained professional; <b>or</b></li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Eligible travellers only]</b>&nbsp; Self-administered Antigen Rapid Test (ART) remotely supervised by an approved ART provider in Singapore. Please refer to <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">MOH’s listing of remote supervised self-swab providers</a> for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
+</ol>			
+</li>
+</ol>
+<p style="font-size:18px; line-height:1.35;">Ask for a non-handwritten PDT report that is in English (or accompanied by a notarised English Translation) with the following details:</p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:decimal;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the COVID-19 test.</li>
+	</ol>
+
+	</div>
 
 
 
