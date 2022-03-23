@@ -314,8 +314,29 @@ Click here to [Go Back To Top](#top).
 
 ---
 
+
+<div id="shnsdf"></div>
+
+
 ### 3) Stay Home Notice (SHN) 
 
+
+#### 1. What should I do if I need to attend to an emergency before serving my Stay-Home Notice?
+
+As a condition for entry into Singapore, all travellers must commute directly to their SHN accommodation or SDF **immediately** after clearing immigration. The failure to do so constitutes a breach of the SHN requirements which is punishable under Singapore’s laws.
+
+In the event of an emergency, travellers may contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
+
+#### 2. I am supposed to serve my SHN at my own place of residence instead of at an SHN Dedicated Facility. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should i do?
+
+Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to <a href="https://go.gov.sg/shnhotelneeds" target="_blank">this page</a> for more details, or contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
+
+
+---
+	
+Click here to [Go Back To Top](#top).
+
+---
 
 ### 4) Transport Advisories
 
