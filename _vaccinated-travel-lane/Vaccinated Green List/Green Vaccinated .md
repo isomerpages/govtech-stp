@@ -54,6 +54,41 @@ third_nav_title: Vaccinated Green List
   </div>
 
 
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>B) Monitor Health Status</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you had tested positive for COVID-19 <b>between 7 to 90 days before your date of departure for Singapore</b>, use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if you qualify for entry as a Vaccinated-Recovered Traveller. To qualify for the Vaccinated-Recovered traveller protocol (VR Protocol), you must produce a valid COVID-19 positive certificate/proof (definition below). If you qualify for VR Protocol, please refer to the <a href="/vaccinated-recovered" target="_blank">VR Protocol Checklist</a> for the admin/entry process.</p>
+	<table>
+  <thead>
+    <tr>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Traveller Type</b></th>
+			     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Application/Resource links</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Newly hired non-Malaysian Construction, Marine shipyard, or Process sector workers (CMP workers)</td>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Apply for Entry Approval from Ministry of Manpower at least 3 working days before the intended date of departure</td>
+    </tr>
+		    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Foreign short-term visitors holding passports or travel documents issued by visa-required countries/regions</td>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Click to check if visa is required and to apply for an Entry Visa</a></td>
+    </tr>
+				    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Short-term Visitors</td>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges. Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>)</td>
+    </tr>
+						    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Arriving in Singapore from countries/regions in Africa and South America with Yellow Fever risk</td>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Click to check if you are required to have a Yellow Fever vaccination certificate</a></td>
+    </tr>
+								    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Driver of a foreign vehicle entering Singapore by land</td>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Ensure that your <a href="https://onemotoring.lta.gov.sg/vepds/captcha" target="_blank">Vehicle Entry Permit</a> is valid</td>
+    </tr>
+		</tbody>
+	</table>
+  </div>
 
 
 
@@ -70,26 +105,6 @@ third_nav_title: Vaccinated Green List
 
 
 
-
-
-
-
-### Stage 1: Pre-Departure for Singapore
-
-<div id="1A" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>A) Application for Entry Approval</b></i></div>
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px;line-height:1.35;">Entry Approvals are needed only for travellers who are:<ol>
-	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;">Work Permit holders</li>
-	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;">Short term visitors (including family members under the Familial Ties Lane and Student Pass Holder Lane)</li>
-	</ol>	
-	</p>
-<p style=" font-size:18px;line-height:1.35;">Singapore Citizens, Permanent Residents and <a href="/health/vtsg" target="_blank">fully vaccinated</a> Long Term Pass Holders (excluding Work Permit Holders) <b>do not need to apply or present an entry approval to enter Singapore</b>. However, this is subject to their ability to meet the eligibility criteria and/or fulfil the vaccination requirement prescribed under their respective entry lanes:
-<ol>
-	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;"><a href="/sc-pr/overview" target="_blank">Returning Singapore Citizen/Permanent Resident Lane</a></li>
-	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;"><a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a></li>
-	<li style="line-height:1.35; font-size:18px;margin-top:10px; list-style-type:lower-roman;"><a href="/stpl/overview" target="_blank">Student’s Pass Holder Lane</a></li>
-	</ol>
-</p>
-	</div>
   
 <div id="1B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">☐  <i><b>B) Obtain Proof of Vaccination</b></i></div>	
 	
