@@ -2,6 +2,18 @@
 title: Frequently Asked Questions
 permalink: /atp/faq
 ---
+
+<div style="padding-left: 5px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">The information on this page is only for travellers who are arriving before 31 March 2022, 2359h (SGT).</p>
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect for arrivals from 31 March 2022, 2359h (SGT). Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
+	<ol style="list-style-type:disc;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
+	</ol>
+	</p>
+	</div>
+
+
 ## **Air Travel Pass (ATP) Frequently Asked Questions**
 
 #### Click to jump to the following sections:
@@ -30,6 +42,8 @@ An ATP allows visitors  travelling from one of the following countries/regions t
 - Taiwan
 
 The ATP comes with [conditions](/atp/conditions) of travel that the applicant must comply with.
+
+There is no need to apply for an ATP for entry into Singapore from 31 March 2022, 2359h (SGT). 
 
 #### 2. How can visitors apply for an ATP?
 
