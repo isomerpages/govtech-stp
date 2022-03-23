@@ -30,12 +30,6 @@ sections:
         - title: Departing from Singapore <span style="font-size:20px;"> &#187; </span>
           description: Click Here
           url: /departing/overview
-  - infobar:
-      title: Are you Fully Vaccinated?
-      subtitle: 
-      description: Click the link below for the definition of Fully Vaccinated
-      button: Click Here
-      url: /health/vtsg
  - resources:
       title: Press Releases
       button: View More
