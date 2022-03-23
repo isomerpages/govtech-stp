@@ -32,6 +32,18 @@ permalink: /FAQ
 
 ### a. Amendment of Approved Applications (non-Vaccinated Travel Lanes)
 
+
+#### 1. There is a mistake in my application. Do I need to submit a new application? If so, can I ask for a refund for the previous application?
+
+Yes, a fresh application must be submitted. Employers must ensure that the information submitted during application is accurate. There will be no refunds for applications that have been approved.
+
+#### 2. Can I change the traveller’s entry date?
+
+No. We regret to inform you that no changes to the date of entry are allowed once an application has been approved. If there are exceptional circumstances for a change in entry date, please write to us using our enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide the traveller’s details including passport number, FIN number (where applicable) and approval reference number.
+
+For PCA applications, please note that should your employee be unable to enter on the approved date, you will not be able to apply for another PCA for the same employee for a date of entry within 90 days from his/her last approved date of entry.
+
+
 ### b. Receipts and Approval Letters
 
 ### c. Traveller Details
