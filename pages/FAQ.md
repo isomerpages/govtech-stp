@@ -46,6 +46,24 @@ For PCA applications, please note that should your employee be unable to enter o
 
 ### b. Receipts and Approval Letters
 
+#### 1. Can I obtain a copy of the COVID-19 PCR test payment receipt which I paid for during entry application?
+
+The receipt for the COVID-19 PCR test payment would have been generated and displayed at the point of payment via a pop-up window, if the pop-up blocker has been turned off per the instructions during the payment process. We regret to inform that we are unable to generate the same receipt a second time.
+
+#### 2. I have completed payment for my application. However, I did not receive an approval letter. What should I do?
+
+The approval letter will be sent as an email from the SafeTravel Office (SafeTravelOffice@ica.gov.sg) to the email address provided by the applicant shortly after payment. This will be the email address that an email verification OTP is sent to during the application process. Depending on the recipient’s email settings, the approval letter could be found in the recipient’s spam or junk folder.
+
+If the problem persists, please contact us via the enquiry form [here](https://go.gov.sg/sto-enquiry) with the following information:
+<ul>
+<li>Application Reference Number</li>
+<li>Contact details</li>
+<li>Screenshot of your application status or payment invoice</li>
+<li>(If applicable) FIN and FIN expiry number of your employee(s)</li>
+</ul>
+
+Requests to have the approval letter sent to a different email address, not stated in the application, will not be entertained.
+
 ### c. Traveller Details
 
 ### d. Document Uploads
