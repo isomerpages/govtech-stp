@@ -2,6 +2,7 @@ collections:
   travel-checklist:
     output: true
     order:
+      - Arrivals from 31 March 2359h/.keep
       - Arrivals before 31 March 2359h/.keep
       - Green List /.keep
       - checklists/.keep
