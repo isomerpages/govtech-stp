@@ -237,17 +237,71 @@ third_nav_title: Vaccinated Green List
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, please contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
 	</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, whichever is later. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked.</p>	
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please refer to the Frequently Asked SHN questions below</p>
-	<table>
-  <thead>
-    <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>SHN Frequently Asked Questions</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
-	      <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> <b> Q1) Commuting to SHN location and to/from COVID-19 test site</b></p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please refer to the Frequently Asked SHN questions below.</p>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>Test Accordion</title>
+
+<style>
+
+input {
+    display: none;
+}
+
+label {
+    display: block;    
+    padding: 10px 30px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #153855;
+    border-radius: 3px;
+    color: #FFF;
+    transition: ease .5s;
+	position: relative;
+}
+
+label:hover {
+    background: #346f9e;
+}
+
+label::after {
+	font-family: "Font Awesome 5 Free";
+	content: '\271A';
+	font-weight: bold;
+	font-size: 22px;
+	position: absolute;
+	right: 10px;
+	top: 6px;
+}
+
+input:checked + label::after {
+	content: '\2716';
+}
+
+.content {
+    background: #FFFFFF;
+    padding: 10px 25px;
+    margin: 0 0 1px 0;
+    border-radius: 3px;
+}
+
+input + label + .content {
+    display: none;
+}
+
+input:checked + label + .content {
+    display: block;
+}
+	
+</style>
+</head>
+<body>	
+<input id="SHN-FAQ" type="checkbox">
+<label for="SHN-FAQ"><b>SHN Frequently Asked Questions</b></label>
+<div style="background-color:#edf4fa;" class="content">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> <b> Q1) Commuting to SHN location and to/from COVID-19 test site</b></p>
 	      <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The commuting arrangement stated at <a href="#3B">Stage 3B</a> will continue to apply for the SHN duration. </p>
 	        <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>Q2) SHN end date:</b></p>
 	        <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Use the <a href="/shn-calculator" target="_blank">SHN calculator</a> for your estimated SHN end date or refer to the illustrations below. If you need to leave your SHN for an emergency, e.g. funeral or hospital visits, submit a <a href="https://go.gov.sg/sto-enquiry" target="_blank">written request</a> to the SafeTravel Office for assistance.</p>
@@ -261,11 +315,10 @@ third_nav_title: Vaccinated Green List
 	           <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">During the SHN period, randomised in-person or phone/video compliance calls will be conducted.</p>
 	           <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM), or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked for the last four digits of their identity card or travel document for identity verification.</p>
 	      <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
-	    </td>
-	  </tr>
-	</tbody>
-	</table>	
-		</div>
+</div>
+</body>
+</html>
+</div>
 	
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 5: End of Stay-Home Notice & Stay in Singapore</b></div>
