@@ -8,13 +8,13 @@ permalink: /scpr-familial-ties-lane/FAQ
  2. [ICA Approval Letter of Entry (ALE) - Entry Request](#ale)
  3. [Approved SafeTravel Pass](#stp)
  4. [Entering Singapore](#entry)
- 5. [Health Measures](#healthmeasures)
+
  
 <div id="portal"></div>
 
 ### SafeTravel Pass (STP) - Application via the SafeTravel Portal 
 
-#### 1. I will be submitting an entry application to ICA via the SafeTravel Portal (<https://go.gov.sg/scpr-ftl-application>), when will i receive the outcome of my application? 
+#### 1. I will be submitting an entry application to ICA via the SafeTravel Portal (<https://go.gov.sg/scpr-ftl-application>), when will I receive the outcome of my application? 
 
 Eligible applicant will receive the SafeTravel Pass (STP) via email after making the necessary payment (if applicable) for the stay at the SHN Dedicated Facility (SDF) and COVID-19 swab test at the end of the application  via the SafeTravel Portal. 
 
@@ -70,4 +70,4 @@ Visitors who are granted entry into Singapore will be issued with a visit pass b
 
 #### 3. Are visitors able to extend their duration of stay in Singapore? 
 
-Visitors who require a longer period of stay beyond the Visit Pass granted on entry into Singapore may submit an application for extension of stay online via the ICA's [e-Service](https://eservices.ica.gov.sg/esvclandingpage/extend) which allows a foreign visitor to apply for an extension of their short-term Visit Pass. The application has to be submitted at least 7 days prior to the expiry of the Visit Pass to avoid overstaying. Extension of Visit Pass will not be accepted over the counter. Each application will be considered on its own merit and there is no guarantee that an extension will be granted. 
+Visitors who require a longer period of stay beyond the Visit Pass granted on entry into Singapore may submit an application for extension of stay online via the ICA's [e-Service](https://eservices.ica.gov.sg/esvclandingpage/extend) which allows a foreign visitor to apply for an extension of their short-term Visit Pass. The application has to be submitted at least 7 days prior to the expiry of the Visit Pass to avoid overstaying. Extension of Visit Pass will not be accepted over the counter. Each application will be considered on its own merit and there is no guarantee that an extension will be granted.
