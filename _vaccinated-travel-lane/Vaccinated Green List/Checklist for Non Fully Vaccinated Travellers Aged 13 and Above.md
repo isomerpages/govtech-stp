@@ -36,21 +36,27 @@ third_nav_title: Vaccinated Green List
 	    <ol>
 		    <li style="line-height:1.35;margin-top:10px; font-size:18px;">Permanent Resident In-Principle Approval holder (IPA)</li>
 		     <li style="line-height:1.35;margin-top:10px; font-size:18px;">Immediate family member of a Singapore Citizen/Permanent Resident who is a non-resident or holder of a valid Work Pass, Student’s Pass (STP) or STP-IPA</li>
-        		     <li style="line-height:1.35;margin-top:10px; font-size:18px;">Former Student’s Pass holder returning to Singapore to fulfil scholarship obligations</li>
         		     <li style="line-height:1.35;margin-top:10px; font-size:18px;">Adopted child of a Singapore Citizen/Permanent Resident holding a Dependant’s Pass-IPA issued by the Ministry of Social and Family Development</li>
 	      </ol>
 	    </td>
-	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Applications must be submitted at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></td>
+	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Applications must be submitted <b>at least 4 days before</b> the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></td>
     </tr>
         <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
 	    <ol>
 		    <li style="line-height:1.35;margin-top:10px; font-size:18px;">Long-term Pass Holders aged 18 and above who are medically ineligible for vaccines</li>
-		     <li style="line-height:1.35;margin-top:10px; font-size:18px;">Short-term visitors entering for a compassionate reason</li>
+		     <li style="line-height:1.35;margin-top:10px; font-size:18px;">Former Student’s Pass holder returning to Singapore to fulfil scholarship obligations</li>
 	      </ol>
 	    </td>
-	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Applications must be submitted at least 4 days before the desired date of entry using this <a href="https://go.gov.sg/sto-enquiry" target="_blank">form</a></td>
+	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP) and STP In-Principle Approval Holders</u></b></p><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this form</a>.</p><p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;"><b><u>Long-term passes issued by MOM</u></b></p> 
+<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;"><a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry</a>. The request must be approved before pass holders can enter Singapore. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.
+</p>
+</td>
     </tr>
+		<tr>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Short-term visitors entering for a compassionate reason</td>
+			  <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Applications must be submitted <b>at least 4 days before</b> the desired date of entry using this <a href="https://go.gov.sg/sto-enquiry" target="_blank">form</a></td>
+		</tr>
     </tbody>
   </table>  
   
