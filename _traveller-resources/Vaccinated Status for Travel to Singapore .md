@@ -1,5 +1,5 @@
 ---
-title: "Vaccinated Status for Travel to Singapore "
+title: "Accepted COVID-19 Vaccinations and Vaccination Certificates "
 permalink: /health/vtsg
 ---
 This page provides details on what COVID-19 vaccinations and certificates are recognised for travelling to and staying in Singapore. COVID-19 vaccination is not the only requirement for entry to Singapore. Please ensure that you understand the relevant entry requirements via the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page  before proceeding with your travel plans.:
