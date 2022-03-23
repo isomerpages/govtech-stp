@@ -22,7 +22,7 @@ The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Disease
 
 In general, travellers under SHN are required to take a mandatory COVID-19 Polymerase Chain Reaction test (“PCR Test”) towards the end of their SHN. <b>Travellers can check their required SHN duration and required COVID-19 tests on the individual <a href="/arriving/overview" target="_blank">SafeTravel Lanes pages</a></b>. Travellers approved for entry into Singapore should refer to their Entry Approval Letter or SafeTravel Pass for details on whether they are required to serve their SHN and COVID-19 test to take.
 
-Travellers issued with an SHN should refer to the conditions inside the SHN, and watch the video below for a quick overview of SHN requirements. Travellers who have questions regarding their SHN may also refer to the <a href="/health/faq#shnsdf" target="_blank">Frequently Asked Questions (FAQ) section</a> . Those in need of additional support can refer to <a href="https://www.gov.sg/article/call-these-helplines-if-you-need-emotional-or-psychological-support" target="_blank">this page</a> for a list of local helplines and resources.
+Travellers issued with an SHN should refer to the conditions inside the SHN, and watch the video below for a quick overview of SHN requirements. Travellers who have questions regarding their SHN may also refer to the <a href="/faq#shnsdf" target="_blank">Frequently Asked Questions (FAQ) section</a> . Those in need of additional support can refer to <a href="https://www.gov.sg/article/call-these-helplines-if-you-need-emotional-or-psychological-support" target="_blank">this page</a> for a list of local helplines and resources.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/171I93ldXzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -36,7 +36,7 @@ Travellers issued with an SHN should refer to the conditions inside the SHN, and
 
 Travellers arriving from <a href="/shn-and-swab-summary#from">Category (IV) countries/regions</a> are required by default to serve their SHN at an SDF. Due to the fast-changing demands for SDFs, <b>travellers will be assigned to an available SDF only upon arrival</b>. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click <a href="/health/shn/sdfupgrade">here</a> to find out more.
 
-The cost of a 7-day SDF stay is typically S$1,015 per person per room. A further breakdown is provided in the table below*. The exact costs for the SDF stay will be made known to travellers during the entry approval application process for pass holders, or during check-in at the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the <a href="/health/faq#shnsdf">FAQs</a> for more information.
+The cost of a 7-day SDF stay is typically S$1,015 per person per room. A further breakdown is provided in the table below*. The exact costs for the SDF stay will be made known to travellers during the entry approval application process for pass holders, or during check-in at the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the <a href="/faq#shnsdf">FAQs</a> for more information.
 
 <table>
   <tbody><tr>
@@ -78,7 +78,7 @@ Travellers who are already serving SHN at an SDF with special requests should co
 
 SHN will begin <b>immediately</b> from the time the notice is issued on the day of the traveller's arrival in Singapore. It will remain in effect until the traveller is notified of a negative test result from the final PCR test taken at the end of the SHN. 
 
-Travellers serving their SHN at a place of residence or self-sourced accommodation will be scheduled to take a COVID-19 Polymerase Chain Reaction ("PCR Test") before the end of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers may end their SHN arrangements <a href="/health/faq#testresult" target="_blank">upon receipt of a negative test result</a> or when they complete the 7-day or 10-day SHN period applicable to them, whichever is later. 
+Travellers serving their SHN at a place of residence or self-sourced accommodation will be scheduled to take a COVID-19 Polymerase Chain Reaction ("PCR Test") before the end of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. Travellers may end their SHN arrangements upon receipt of a negative test result or when they complete the 7-day SHN period applicable to them, whichever is later. 
 
 For travellers serving SHN in an SDF, <b>the SDF will inform the traveller of the check-out time after it receives confirmation of the negative COVID-19 test result from the relevant government agency</b>. Travellers will only be allowed to leave the SDF thereafter. 
 
