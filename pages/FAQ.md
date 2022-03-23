@@ -172,6 +172,12 @@ To apply for or renew a pass, please <a href="https://www.mom.gov.sg/passes-and-
 
 If the error persists even though the traveller’s work pass is valid, please write us using our enquiry form [here](https://go.gov.sg/sto-enquiry) and provide the FIN number and FIN expiry date of the employee(s) to be sponsored for entry into Singapore under the PCA scheme.
 
+---
+	
+Click here to [Go Back To Top](#top).
+
+---
+
 
 ### d. Document Uploads
 
