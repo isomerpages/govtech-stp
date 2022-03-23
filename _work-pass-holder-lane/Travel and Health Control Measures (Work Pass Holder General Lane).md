@@ -3,6 +3,17 @@ title: Travel and Health Control Measures (Work Pass Holder General Lane)
 permalink: /wphl/shn-and-swab-summary
 description: Work Pass Holder Lane travel and health control measures
 ---
+
+<div style="padding-left: 5px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">The information on this page is only for travellers who are arriving before 31 March 2022, 2359h (SGT).</p>
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect for air and sea arrivals from 31 March 2022, 2359h (SGT). Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
+	<ol style="list-style-type:disc;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
+	</ol>
+	</p>
+	</div>
+
 As a condition for entry into Singapore, pass holders with an approval under the Work Pass Holder General Lane (WPHL) must comply with the prevailing travel health control measures (e.g. Stay-Home Notice (SHN) and COVID-19 tests). Employers and employment agencies, which submitted the entry applications (“Submitters”), must pay for pass holders’ entry charges and ensure they comply with the measures.
 
 Pass holders who do not need an entry approval will still need to comply with the prevailing travel health control measures (e.g. Stay-Home Notice (SHN) and COVID-19 tests).
