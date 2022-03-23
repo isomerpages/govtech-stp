@@ -21,7 +21,7 @@ permalink: /stpl/faq
    <li style="line-height:1.5;"><a href="#vtl">Student's Pass Holders who are considering travel under the Vaccinated Travel Lanes (VTL)</a></li>
   </ol>
   
-Can't find what you are looking for? Please check <a href="/health/faq" target="_blank">here</a> for more information.   
+Can't find what you are looking for? Please check <a href="/faq" target="_blank">here</a> for more information.   
   
 <div id="requirements"></div>
 
