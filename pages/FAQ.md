@@ -28,6 +28,45 @@ permalink: /FAQ
 
 ### 1) Digitally Verifiable Vaccination Certificate 
 
+#### 1. What is considered a digitally verifiable vaccination certificate and how can I check its validity?
+
+Travellers with a digitally verifiable certificate listed below can use the Vaccination Check Portal prior to their trip to see if the certificate can be verified by the Singapore authorities, and also upload it via the SG Arrival Card up to 3 days before arrival. If verification fails, travellers should not worry as they can show their physical vaccination certificate or app with the following details in English, or translated to English with notarisation:
+i.	Name (per travel document used for entry)
+ii.	At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)
+iii.	Country of vaccination
+iv.	Name of vaccine(s) administered, i.e. different names for different vaccine type
+v.	Vaccination date(s)
+
+However, Short Term Visitors and eligible Work Permit Holders arriving before 31 March 2359h via the Vaccinated Travel Lane will also need to upload the digital proof of vaccination as part of their Vaccinated Travel Pass application.
+<list of accepted digital certs to be provided by MOT in their excel sheet – combine where possible e.g. all the EUDCC countries in the same row>
+
+#### 2. Why are my vaccination QR codes not accepted in my Vaccinated Travel Pass (VTP) application or Vaccination Check Portal?
+
+Please attempt re-uploading your QR code, and ensure that:
+•	You are using the ‘International’/‘Travel’ version of your vaccination certificate. A common issue is that travellers holding certificates issued by the following countries upload their domestic certificate instead of their travel certificate.
+-	India
+-	Indonesia
+-	Thailand
+-	The United Arab Emirates
+•	Your QR code was uploaded in a high-resolution, .png (preferred), .pdf or .jpg format.
+•	Your date of birth was keyed in the correct format (DD/MM/YYYY)
+•	Your proof of vaccination is an accepted proof of vaccination
+•	You have uploaded the correct number of QR codes, and you are using the correct method of QR code upload
+	QR code is cropped from the vaccination certificate document when uploaded
+	[For International COVID-19 Vaccination Certificate] Full 1-page PDF file was uploaded
+	QR code is in an acceptable format and by specific issuers
+•	You are fully vaccinated, based on this criteria
+•	Your passport particulars match with your vaccination certificate. If not, where possible, please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.
+•	You replaced the special characters in your name as per this FAQ.
+•	QR Codes for boosters are not included.
+For further assistance, please write to the Safe Travel Office using the enquiry form here and provide supporting details and screenshots of the errors encountered.
+
+#### 3. Why are only SMART Health Cards by certain issuers accepted?
+
+There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed here and here) and Vaccination Credential Initiative (issuers listed here).
+Please note that individuals with an Excelsior Pass issued by the New York State in United States will need to obtain an Excelsior Pass Plus, which is an SHC accepted for travel on the VTL. More information on the Excelsior Pass and Excelsior Pass Plus can be found here.
+We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more states and issuers are onboarded.
+
 
 <div id="tech"></div>
 
