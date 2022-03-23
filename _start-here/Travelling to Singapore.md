@@ -146,9 +146,10 @@ Click here to return to the <a href="#top">top</a>.
 	</table>
 
 
-<div id="land"></div>
 
 #### Travellers entering by Land from Malaysia
+
+<div id="land"></div>
 
 <ol style="list-style-type:lower-roman;">
 	<li style="line-height:1.35;margin-top:10px;"><a href="/vtl-land/overview" target="_blank">VTL (Land)</a> - Fully vaccinated Malaysia and Singapore residents entering using designated VTL bus via the Causeway;</li>
@@ -161,9 +162,11 @@ Click here to return to the <a href="#top">top</a>.
 	<li style="line-height:1.35;margin-top:10px;"><a href="/vaccinated-recovered" target="_blank">Vaccinated & Recently Recovered Traveller Protocol</a><b>Fully vaccinated travellers</b> who can prove a COVID-19 infection between 7 – 90 days (inclusive) before departure for Singapore.</li>
 </ol>
 
-<div id="crew"></div>
+
 
 ### 3) Air/Sea Crew and Pleasure Craft Owners
+
+<div id="crew"></div>
 
 <b><u>Air Crew</u></b>
 
