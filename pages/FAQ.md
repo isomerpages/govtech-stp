@@ -327,6 +327,7 @@ As a condition for entry into Singapore, all travellers must commute directly to
 
 In the event of an emergency, travellers may contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
+
 #### 2. I am supposed to serve my SHN at my own place of residence instead of at an SHN Dedicated Facility. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should i do?
 
 Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to <a href="https://go.gov.sg/shnhotelneeds" target="_blank">this page</a> for more details, or contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
@@ -338,16 +339,39 @@ Click here to [Go Back To Top](#top).
 
 ---
 
+<div id="transport"></div>
+
 ### 4) Transport Advisories
+
+
+---
+	
+Click here to [Go Back To Top](#top).
+
+---
 
 
 
 ### 5) COVID-19 Tests for Travellers 
 
 
+---
+	
+Click here to [Go Back To Top](#top).
+
+---
+
 
 ### 6) Payments and Refunds
 
+
+---
+	
+Click here to [Go Back To Top](#top).
+
+---
+
+<div id="procedures"></div>
 
 
 ### 7) Safe Travel Lane FAQs
