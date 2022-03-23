@@ -129,7 +129,7 @@ Click here to return to the <a href="#top">top</a>.
 		     <li style="line-height:1.35;margin-top:10px;">Aged 12 and below (i.e. born in or after 2010) and not fully vaccinated against COVID-19</li>
 	      </ol>
 	    </td>
-	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="" target="_blank">Green List - Vaccinated Traveller and Children’s Checklist</a></td>
+	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/green-fv" target="_blank">Green List - Vaccinated Traveller and Children’s Checklist</a></td>
     </tr>
 	     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Aged 13 and above (i.e. born before 2010) and is:     	    
@@ -138,7 +138,7 @@ Click here to return to the <a href="#top">top</a>.
 		     <li style="line-height:1.35;margin-top:10px;">Is not fully vaccinated against COVID-19r</li>
 	      </ol>
 		     </td>
-	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="" target="_blank">Green List - Unvaccinated Traveller Checklist</a></td>
+	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/green-nfv" target="_blank">Green List - Unvaccinated Traveller Checklist</a></td>
     </tr>
 	   <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated, and had a COVID-19 infection between 7 – 90 days before departure for Singapore
