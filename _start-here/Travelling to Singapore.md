@@ -34,32 +34,31 @@ Click here to return to the <a href="#top">top</a>.
 
 ### 2. List of Entry Requirements and Travel Lanes
 
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">This section provides a full listing of entry requirements and travel lanes. Readers are advised to use the <a href="#selfhelptool">self-check tool</a> at Section 1 for answers on the entry requirements applicable to your travel profile.</p>
+
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Select your expected mode and period of arrival in Singapore:</p>
 
 <ul style="list-style-type: lower-alpha; line-height:1.35;">
-	<li><a href="#ReturningSCPR">Singapore Citizens and Permanent Residents</a></li>
-	<li><a href="#LTPH">Long Term Pass Holders</a></li>
-	<!--<li><a href="#st-business">Short-term business visits</a></li>-->
-	<li><a href="#social">Short-term visitors</a></li>
-	<li><a href="#DCEV">Death and critical illness emergency visit</a></li>
-	<!--<li><a href="#crew">Entry Information for Air/Sea Crew and Pleasure Craft Owners</a></li>-->
+	<li><a href="#before31"><b>By Air or Sea</b>, before 31 March 2022, 2359h</a></li>
+	<li><a href="#after31"><b>By Air or Sea</b>, from 31 March 2022, 2359h</a></li>
+	<li><a href="#land"><b>By land</b> from Malaysia</a></li>
 </ul>
 
 
-<div id="ReturningSCPR"></div>
+<div id="before31"></div>
 
-### a. Returning Singapore Citizens and Permanent Residents
+### Travellers arriving by Air or Sea, before 31 March 2022, 2359h
 
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Singapore Citizens (SC) and Permanent Residents (PRs) can enter Singapore from any overseas country/region without an Entry Approval. However, SC/PRs should read the requirements of the relevant SafeTravel Lanes below, as they will be subject to administrative and health measures corresponding with their travel history and SafeTravel Lane used. </p>
 
+#### i) Vaccinated Travel Lanes (VTL)
+
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;"><b>The Vaccinated Travel Lanes (VTL)</b> allow quarantine-free travel for <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> travelling from VTL countries/regions (<a href="#vtlcountries">see Table below</a>) via designated VTL transport. Male Work Permit holders who are non-Malaysians employed in the Construction, Marine Shipyard and Process sector are <b>not</b> eligible for VTL travel.</p>
+
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">For details concerning VTL travel, e.g. travel conditions and admin procedures, click on the links below:
 <ol style="list-style-type:lower-roman;">
-	<li style="line-height:1.35;"><a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a> – Quarantine-free measures if travelling by flight from a Vaccinated Travel Lane (VTL) country/region (<a href="#vtlcountries">see Table below</a>), is fully vaccinated and able to satisfy the travel conditions such as use of designated VTL flight.</li>
-	<li style="line-height:1.35; margin-top:10px;"><a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL bus from Malaysia via the Causeway.</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a> - Quarantine-free measures if fully vaccinated and travelling by designated VTL ferry from Indonesia.</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/sc-pr/overview" target="_blank">Returning Singapore Citizen and Permanent Resident Lane</a> – Prevailing health measures apply including Stay Home Notice, depending on travel history. Travellers who do not fulfil Vaccinated Travel Lane requirements will be subject to these prevailing measures by default. </li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/vaccinated-recovered" target="_blank">Vaccinated & Recently Recovered Traveller Protocol</a> - Fully vaccinated and able to prove recovery from a COVID-19 infection between 7 – 90 days before departure for Singapore.</li>
-</ol>
-
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Non-SC/PR spouse or family members of an SC/PR should refer to the sections for <a href="#LTPH">Long Term Pass Holders</a> or <a href="#social">Short-Term Visitors</a>.</p>
+	<li style="line-height:1.35;"><a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> - Entry using designated VTL flight from a VTL country/region;</li>
+	<li style="line-height:1.35; margin-top:10px;"><a href="/vtl-sea/overview" target="_blank">VTL (Sea)</a> - Entry using designated VTL ferry from Indonesia (Batam/Bintan).</li>
+</b>
 
 <table id="vtlcountries">
   <thead>
@@ -80,11 +79,14 @@ Click here to return to the <a href="#top">top</a>.
 	</tbody>
 	</table>
 
----
 
-Click here to return to the <a href="#lanelist">top</a>.
 
----
+
+
+
+
+
+
 
 <div id="LTPH"></div>
 
