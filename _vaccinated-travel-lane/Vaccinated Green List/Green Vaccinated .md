@@ -31,7 +31,7 @@ third_nav_title: Vaccinated Green List
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Non-Malaysian Work Permit In-principle Approval holders employed in the Construction, Marine shipyard and Process Sector (CMP worker)</td>
-			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Apply for <a href="" target="_blank">Entry Approval from Ministry of Manpower</a> <b>at least 3 working days</b> before the intended date of departure</td>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">Apply for Entry Approval from Ministry of Manpower</a> <b>at least 3 working days</b> before the intended date of departure</td>
     </tr>
 		    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Foreign short-term visitors holding passports or travel documents issued by visa-required countries/regions</td>
