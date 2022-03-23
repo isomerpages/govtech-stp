@@ -39,7 +39,7 @@ Travellers with a digitally verifiable certificate listed below can use the Vacc
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
 	</ol>
 
-However, Short Term Visitors and eligible Work Permit Holders <b>arriving before 31 March 2359h via the Vaccinated Travel Lane</b> will also need to upload the digital proof of vaccination as part of their Vaccinated Travel Pass application.
+However, <b>Short Term Visitors and eligible Work Permit Holders arriving before 31 March 2359h via the Vaccinated Travel Lane</b> will also need to upload the digital proof of vaccination as part of their Vaccinated Travel Pass application.
 
 <!--list of accepted digital certs to be provided by MOT in their excel sheet – combine where possible e.g. all the EUDCC countries in the same row-->
 
