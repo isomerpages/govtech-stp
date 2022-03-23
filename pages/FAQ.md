@@ -46,8 +46,8 @@ However, <b>Short Term Visitors and eligible Work Permit Holders arriving before
 #### 2. Why are my vaccination QR codes not accepted in my Vaccinated Travel Pass (VTP) application or Vaccination Check Portal?
 
 Please attempt re-uploading your QR code, and ensure that:
-<ol style="padding-left: 20px; list-style-type:disc;">
-	<li style="padding-left: 20px;line-height:1.35; margin-top:10px;">You are using the ‘International’/‘Travel’ version of your vaccination certificate. A common issue is that travellers holding certificates issued by the following countries upload their domestic certificate instead of their travel certificate.
+<ol style="list-style-type:disc;">
+	<li style="line-height:1.35; margin-top:10px;">You are using the ‘International’/‘Travel’ version of your vaccination certificate. A common issue is that travellers holding certificates issued by the following countries upload their domestic certificate instead of their travel certificate.
 	<ol style="padding-left: 20px; list-style-type: lower-roman;">
 		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">India</li>
 		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Indonesia</li>
