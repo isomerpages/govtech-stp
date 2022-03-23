@@ -8,7 +8,7 @@ permalink: /travel-checklist/overview
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers who had identified a suitable Safe Travel Lane for entry into Singapore and referenced the relevant checklist, have reported being much better prepared for the trip.</p>
 
-#### For travellers arriving from 31 March 2022, 2359h via air and sea
+#### For travellers arriving from 31 March 2022, 2359h
 
 <ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="" target="_blank">Green List – Vaccinated Travellers and Children</a>
@@ -17,7 +17,7 @@ permalink: /travel-checklist/overview
 	</li>
 	</ol>
 
-#### For travellers arriving before 31 March 2022, 2359h via air and sea
+#### For travellers arriving before 31 March 2022, 2359h
 
 <ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl/travel-checklist" target="_blank">Vaccinated Travel Lane (Air)</a>
@@ -44,17 +44,3 @@ permalink: /travel-checklist/overview
 	
 <div id="malaysia"></div>	
 	
-#### For travellers arriving from Malaysia via land
-
-<ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl-land/travel-checklist"  target="_blank">Vaccinated Travel Lane (Land)</a>
-	</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/wphl/shn-and-swab-summary" target="_blank">Work Pass Holder Lane</a>
-	</li>
-	<li style="font-size: 18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/category-2-3-4" target="_blank">Returning Singapore Citizens and Permanent Residents Lane, Familial Ties Lane, and Student’s Pass Lane</a>
-	</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vaccinated-recovered" target="_blank">Fully Vaccinated & Recently-Recovered Traveller Protocol</a>
-	</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/pca/requirements-and-process" target="_blank">Periodic Commuting Arrangement</a>
-	</li>
-</ol>
