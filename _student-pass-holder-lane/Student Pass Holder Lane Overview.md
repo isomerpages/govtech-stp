@@ -163,7 +163,7 @@ description: Overview of the Student Pass Holder Lane
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">Visas and Pass validity</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.ica.gov.sg/reside/STP/apply">Student’s Passes</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.ica.gov.sg/enter-depart/extend_short_stay">Short-term passes</a></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/faq#pcrtest">COVID-19 PCR test</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/faq#pcrtest" target="_blank">COVID-19 PCR test</a></li>
 					</ul>
  </td>
 </tr>
