@@ -161,32 +161,9 @@ Click here to return to the <a href="#top">top</a>.
 	<li style="line-height:1.35;margin-top:10px;"><a href="/vaccinated-recovered" target="_blank">Vaccinated & Recently Recovered Traveller Protocol</a><b>Fully vaccinated travellers</b> who can prove a COVID-19 infection between 7 – 90 days (inclusive) before departure for Singapore.</li>
 </ol>
 
-
 <div id="crew"></div>
 
-### d. Death and Critical Illness Emergency Visits
-
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Travellers from <u>all countries/regions</u> may enter Singapore on a urgent short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane (DCEV). Only a maximum of <u>two visitors per case</u> is allowed. The applicable category of travel health measures announced by the Ministry of Health, will depend on the traveller's travel history before arrival in Singapore and can be found in the <a href="/dcev/overview" target="_blank">"DCEV overview"</a>.</p>
-		
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px; text-algin:center;"><p style="margin-top:20px; margin-bottom:20px; line-height:1.35; text-align:center;"><a href="/dcev/overview" target="_blank">Click here</a> for an overview of the DCEV and entry requirements. </p>
-		</div>
-
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Applications for urgent emergency entry can be submitted via this <a href="https://go.gov.sg/sto-enquiry">enquiry form</a>, selecting <i>“appeal for entry into Singapore under compassionate reasons”</i> as the enquiry category. </p>
-
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">To expedite the assessment process, travellers who are requesting for emergency entry are strongly encouraged to submit the following supporting documents:</p>
-<ul style="list-style-type: decimal; line-height:1.35;">
-<li style="line-height:1.35;">Death certificate or any other documents as proof of death, or Doctor’s letter/memo proving critical illness of the immediate family member in Singapore;</li>
-<li style="line-height:1.35;">Official documents proving familial connection with the deceased or critically ill in Singapore;</li>
-<li style="line-height:1.35;">Passport biodata page of all travellers; and</li>
-<li style="line-height:1.35;">Any other supporting documents.</li>
-</ul>
-
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.</p>
-
-
-<div id="crew"></div>
-
-### 3) Air/Sea Crew and Pleasure Craft Owners
+#### 3) Air/Sea Crew and Pleasure Craft Owners
 
 <b><u>Air Crew</u></b>
 
