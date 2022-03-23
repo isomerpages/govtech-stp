@@ -2,7 +2,8 @@ collections:
   vaccinated-travel-lane:
     output: true
     order:
-      - Vaccinated Green List/Green unvaccinated.md
+      - Vaccinated Green List/Checklist for Unvaccinated Travellers Aged 13 and
+        Above.md
       - Vaccinated Green List/Green Vaccinated .md
       - Vaccinated Green List/.keep
       - VTL Air/.keep
