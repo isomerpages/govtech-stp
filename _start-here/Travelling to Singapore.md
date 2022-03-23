@@ -104,7 +104,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Under the new Vaccinated Travel Framework, all travel requirements are calibrated based mainly on the traveller’s COVID-19 vaccination status. Please note that the timeline and exact border measures for entry via land may be subject to further updates as discussions with Malaysia are ongoing.</p>
 
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">There are no Red List countries/regions today; all countries/regions come under the COVID-19 Green List. For the detailed entry and health protocols, click on the checklist that best describes the traveller’s profile:<p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">There are no Red List countries/regions today; all countries/regions come under the COVID-19 Green List. For the detailed entry and health protocols, click on the checklist that best describes the traveller’s profile:</p>
 
 <table>
   <thead>
