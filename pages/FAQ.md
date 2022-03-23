@@ -43,23 +43,28 @@ However, Short Term Visitors and eligible Work Permit Holders arriving before 31
 #### 2. Why are my vaccination QR codes not accepted in my Vaccinated Travel Pass (VTP) application or Vaccination Check Portal?
 
 Please attempt re-uploading your QR code, and ensure that:
-•	You are using the ‘International’/‘Travel’ version of your vaccination certificate. A common issue is that travellers holding certificates issued by the following countries upload their domestic certificate instead of their travel certificate.
--	India
--	Indonesia
--	Thailand
--	The United Arab Emirates
-•	Your QR code was uploaded in a high-resolution, .png (preferred), .pdf or .jpg format.
-•	Your date of birth was keyed in the correct format (DD/MM/YYYY)
-•	Your proof of vaccination is an accepted proof of vaccination
-•	You have uploaded the correct number of QR codes, and you are using the correct method of QR code upload
-	QR code is cropped from the vaccination certificate document when uploaded
-	[For International COVID-19 Vaccination Certificate] Full 1-page PDF file was uploaded
-	QR code is in an acceptable format and by specific issuers
-•	You are fully vaccinated, based on this criteria
-•	Your passport particulars match with your vaccination certificate. If not, where possible, please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.
-•	You replaced the special characters in your name as per this FAQ.
-•	QR Codes for boosters are not included.
-For further assistance, please write to the Safe Travel Office using the enquiry form here and provide supporting details and screenshots of the errors encountered.
+<ol style="list-style-type:disc;">
+	<li style="line-height:1.5; margin-top:10px;">You are using the ‘International’/‘Travel’ version of your vaccination certificate. A common issue is that travellers holding certificates issued by the following countries upload their domestic certificate instead of their travel certificate.
+	<ol style="list-style-type: lower-roman;">
+		<li style="line-height:1.35; margin-top:10px;">India</li>
+		<li style="line-height:1.35; margin-top:10px;">Indonesia</li>
+		<li style="line-height:1.35; margin-top:10px;">Thailand</li>
+		<li style="line-height:1.35; margin-top:10px;">The United Arab Emirates</li>
+		</ol>
+	</li>
+	<li style="line-height:1.5; margin-top:20px;">Your QR code was uploaded in a high-resolution, .png <i>(preferred)</i>, .pdf or .jpg format.</li>
+	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your date of birth was keyed in the correct format (DD/MM/YYYY)</li>
+	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your proof of vaccination is an accepted <a href="/vtl/faq#QRcode">proof of vaccination</a></li>
+		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You have uploaded the <a href="/vtl/faq#numberofcodes" target="_blank">correct number of QR codes</a>, and you are using the correct method of QR code upload
+			<ol><li style="line-height:1.5; margin-top:10px; list-style-type:square;">QR code is cropped from the vaccination certificate document when uploaded</li>
+				<li style="line-height:1.5; margin-top:10px; list-style-type:square;">[For International COVID-19 Vaccination Certificate] Full 1-page PDF file was uploaded</li>
+				<li style="line-height:1.5; margin-top:10px; list-style-type:square;">QR code is in an acceptable format and by specific issuers</li></ol>
+	</li>
+		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You are fully vaccinated, based on <a href="/health/vtsg" target="_blank">this criteria</a></li>
+		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">Your passport particulars match with your vaccination certificate. If not, where possible, please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.</li>
+		<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">You replaced the special characters in your name as per this <a href="#specialchar">FAQ</a>.</li>
+	<li style="line-height:1.5; margin-top:10px;list-style-type:disc;">QR Codes for boosters are not included.</li>
+	</ol>
 
 #### 3. Why are only SMART Health Cards by certain issuers accepted?
 
@@ -124,6 +129,8 @@ Click here to [Go Back To Top](#top).
 <div id="TravellerDetails"></div>
 
 ### c. Traveller Details
+
+<div id="specialchar"></div>
 
 #### 1. I have been asked to enter my name in basic Latin characters only. My name contains national characters of the Latin/Cyrillic/Arabic families of languages. What do I do?
 
