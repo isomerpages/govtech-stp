@@ -12,7 +12,7 @@ third_nav_title: Vaccinated Green List
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Aged 12 and below (i.e. born in or after 2010) and not fully vaccinated</li>
 	</ol>
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Travellers transiting in Singapore to another destination without clearing immigration should refer to the “<a href="/transit/overview" target="_blank">Transiting through Singapore</a>” page for information. If this checklist does not apply to you, return to the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for the entry requirements most relevant to you.</p>
-		<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><b>Please note that the timeline and exact border measures for entry via land may be subject to further updates as discussions with Malaysia are ongoing.</b></p>
+		<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><b>Please note that details on border measures for entry to Singapore via land will be announced separately.</b></p>
 			<p style="font-size:16px; margin-top:10px; margin-bottom:10px;line-height:1.3;">Readers referencing this checklist can indicate “☑” in the boxes (☐) for any completed activities.</p>
 	</div>
 	
