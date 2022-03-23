@@ -13,7 +13,7 @@ third_nav_title: Vaccinated Green List
 	</ol>
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Travellers transiting in Singapore to another destination without clearing immigration should refer to the “Transiting through Singapore” page for information. If this checklist does not apply to you, return to the “Travelling to Singapore” page for the entry requirements most relevant to you.</p>
 		<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><b>Please note that the timeline and exact border measures for entry via land may be subject to further updates as discussions with Malaysia are ongoing.</b></p>
-			<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Readers referencing this checklist can indicate “” in the boxes (☐) for any completed activities.</p>
+			<p style="font-size:16px; margin-top:10px; margin-bottom:10px;line-height:1.3;">Readers referencing this checklist can indicate “” in the boxes (☐) for any completed activities.</p>
 	</div>
 	
 <p style="font-size:18px; line-height:1.35;">This checklist is for travellers who:</p>
