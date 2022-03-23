@@ -98,6 +98,12 @@ Click here to return to the <a href="#top">top</a>.
 </ol>
 </p>
 
+---
+
+Click here to return to the <a href="#top">top</a>.
+
+---
+
 <div id="after31"></div>
 
 #### Travellers arriving by Air or Sea, from 31 March 2022, 2359h
@@ -144,6 +150,12 @@ Click here to return to the <a href="#top">top</a>.
 	</tbody>
 	</table>
 
+---
+
+Click here to return to the <a href="#top">top</a>.
+
+---
+
 
 ### 3) Air/Sea Crew and Pleasure Craft Owners
 
@@ -166,4 +178,9 @@ Click here to return to the <a href="#top">top</a>.
 	<li style="line-height:1.35;">Extension of stay of crew</li>
 </ul>
 
+---
+
+Click here to return to the <a href="#top">top</a>.
+
+---
 
