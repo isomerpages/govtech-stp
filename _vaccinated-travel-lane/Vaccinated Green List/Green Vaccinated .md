@@ -106,7 +106,7 @@ third_nav_title: Vaccinated Green List
 				    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Outside Singapore</b></td>
 			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">		<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:upper-alpha;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="/faq" target="_blank">Digitally-verifiable vaccination certificate</a>; OR </li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="/faq" target="_blank">Digitally-verifiable vaccination certificate</a>; <b>OR</b> </li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">English, or English translated and notarised vaccination certificate with the following details:
 			<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Name (per travel document used for entry)</li>
