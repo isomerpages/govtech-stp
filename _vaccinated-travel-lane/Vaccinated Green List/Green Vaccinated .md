@@ -30,7 +30,7 @@ third_nav_title: Vaccinated Green List
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Newly hired non-Malaysian Construction, Marine shipyard, or Process sector workers (CMP workers)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Non-malaysian Work Permit In-principle Approval holders employed in the Construction, Marine shipyard and Process Sector (CMP worker)</td>
 			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Apply for Entry Approval from Ministry of Manpower at least 3 working days before the intended date of departure</td>
     </tr>
 		    <tr>
