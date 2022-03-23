@@ -3,7 +3,6 @@ title: Accepted COVID-19 Vaccinations and Vaccination Certificates
 permalink: /health/vtsg
 description: ""
 ---
-
 This page provides details on what COVID-19 vaccinations and certificates are recognised for travelling to and staying in Singapore. COVID-19 vaccination is not the only requirement for entry to Singapore. Please ensure that you understand the relevant entry requirements via the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page  before proceeding with your travel plans.:
 
 <ol style="padding-left: 20px;">
@@ -117,7 +116,7 @@ Travellers who do not meet any of the above requirements are not considered full
 Travellers must be able to prove their vaccination status on boarding and at Singapore immigration. This proof can be in any of the two forms listed below. 
 
 <ol style="padding-left: 20px; list-style-type:lower-latin;">
-		<li style="padding-left:10px; line-height:1.5;">Digitally-Verifiable Vaccination Certificates</li>
+		<li style="padding-left:10px; line-height:1.5;"><a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally-Verifiable Vaccination Certificates</a></li>
 		<li style="padding-left:10px; line-height:1.5;">Non-Digitally Verifiable Vaccination Certificates</li>
 		</ol>
 
@@ -125,11 +124,11 @@ Travellers must be able to prove their vaccination status on boarding and at Sin
 
 #### 2a. Digitally -Verifiable Vaccination Certificates
 
-Travellers with digitally-verifiable vaccination certificates (i.e. with QR codes) can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal (VCP)</a> to verify if their certificates can be digitally recognised. This is an <b>optional step</b> for travellers’ own assurance and planning. The VCP will issue a vaccination certificate acceptance letter if the certificate can be verified, and travellers can show this to transport operators and Singapore immigration as further proof of certificate verification. Travellers with difficulty verifying their certificates or are not sure where their QR codes are located can refer to the Frequently Asked Questions  on Vaccination Certificates.
+Travellers with <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">digitally-verifiable vaccination certificates</a> (i.e. with QR codes) can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal (VCP)</a> to verify if their certificates can be digitally recognised. This is an <b>optional step</b> for travellers’ own assurance and planning. The VCP will issue a vaccination certificate acceptance letter if the certificate can be verified, and travellers can show this to transport operators and Singapore immigration as further proof of certificate verification. Travellers with difficulty verifying their certificates or are not sure where their QR codes are located can refer to the <a href="/faq#vaxcert" target="_blank">Frequently Asked Questions on Vaccination Certificates</a>.
 
 If the digital verification is unsuccessful, travellers can <b>show their vaccination app or vaccination certificates as proof of vaccination instead at the point of boarding or during immigration clearance </b> (see section below on <a href="#nondigitalvaxcert">non-digitally verifiable vaccination certificates</a>).
 
-Work Permit Holders and Short Term Visitors arriving before 31 March 2022, 2359h who are required to upload their vaccination certificates as part of a Vaccinated Travel Pass application should continue to do so as part of the Vaccinated Travel Lane requirement.  The VCP does not replace this requirement.
+Work Permit Holders and Short Term Visitors arriving <b>before 31 March 2022, 2359h</b> who are required to upload their vaccination certificates as part of a Vaccinated Travel Pass application should continue to do so as part of the Vaccinated Travel Lane requirement.  The VCP does not replace this requirement.
 
 <div id="nondigitalvaxcert"></div>
 
