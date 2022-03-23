@@ -2,14 +2,25 @@
 title: "Checklists for Inbound Travellers "
 permalink: /travel-checklist/overview
 ---
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">These checklists provide a comprehensive step-by-step guide for travellers who are intending to travel to Singapore and have already identified an appropriate SafeTravel Lane to enter Singapore by. If you have yet to identify a suitable Safe Travel Lane for entry, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page for details.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">These checklists provide a comprehensive step-by-step guide for travellers who are intending to travel to Singapore and have already identified an appropriate SafeTravel Lane to enter Singapore by. If you have yet to identify a suitable Safe Travel Lane for entry, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page and use the self-help tool for details.</p>
+
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;"><b>Singapore is transitioning towards a new travel framework based on COVID-19 vaccination status</b>. You can refer to the appropriate checklist below depending on your arrival date, travel lane used, vaccination status and travel history. Travellers from Malaysia who wish to travel to Singapore via land should use existing travel lanes until further details are available on the land border reopening.</p>
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Travellers who had identified a suitable Safe Travel Lane for entry into Singapore and referenced the relevant checklist, have reported being much better prepared for the trip.</p>
 
+#### For travellers arriving from 31 March 2022, 2359h via air and sea
+
+<ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="" target="_blank">Green List – Vaccinated Travellers and Children</a>
+	</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="" target="_blank">Green List – Unvaccinated Travellers</a>
+	</li>
+	</ol>
+
+#### For travellers arriving before 31 March 2022, 2359h via air and sea
+
 <ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl/travel-checklist" target="_blank">Vaccinated Travel Lane (Air)</a>
-	</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl-land/travel-checklist"  target="_blank">Vaccinated Travel Lane (Land)</a>
 	</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl-sea/travel-checklist"  target="_blank">Vaccinated Travel Lane (Sea)</a>
 	</li>
@@ -28,6 +39,18 @@ permalink: /travel-checklist/overview
 		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/dcev" target="_blank">Death and Critical Illness Emergency Visit Lane</a>
 	</li>-->
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vaccinated-recovered" target="_blank">Fully Vaccinated & Recently-Recovered Traveller Protocol</a>
+	</li>
+	</ol>
+#### For travellers arriving from Malaysia via land
+
+<ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl-land/travel-checklist"  target="_blank">Vaccinated Travel Lane (Land)</a>
+	</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/wphl/shn-and-swab-summary" target="_blank">Work Pass Holder Lane</a>
+	</li>
+	<li style="font-size: 18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/category-2-3-4" target="_blank">Returning Singapore Citizens and Permanent Residents Lane, Familial Ties Lane, and Student’s Pass Lane</a>
+	</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vaccinated-recovered" target="_blank">Fully Vaccinated & Recently-Recovered Traveller Protocol</a>
 	</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/pca/requirements-and-process" target="_blank">Periodic Commuting Arrangement</a>
 	</li>
