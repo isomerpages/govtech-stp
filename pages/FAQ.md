@@ -518,14 +518,9 @@ Please refer to the individual Safe Travel Lane FAQs if you have questions on sp
   </tbody>
   </table>
 
------------
 
-### Safe Travel Portal Technical FAQ
+---
+	
+Click here to [Go Back To Top](#top).
 
-Click [here](/FAQ/tech) for troubleshooting FAQ on common issues encountered with applications via the Safe Travel Portal.
-
-------------
-
-### Health Control Measures FAQ
-
-Click [here](https://safetravel.ica.gov.sg/health/faq) for the FAQs on [Health Control Measures](/health) that are in place for travellers such as SHN, COVID-19 tests and COVID-19 insurance.
+---
