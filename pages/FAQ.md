@@ -240,6 +240,7 @@ Click here to [Go Back To Top](#top).
 
 ---
 
+<div id="uploads"></div>
 
 ### d. Document Uploads
 
@@ -275,6 +276,7 @@ Click here to [Go Back To Top](#top).
 
 ---
 
+<div id="GenAppIssues"></div>
 
 ### e. Other General Application Issues
 
