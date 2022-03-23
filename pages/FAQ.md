@@ -381,7 +381,7 @@ Click here to [Go Back To Top](#top).
 
 ---
 
-
+<div id="pcrtest"></div>
 
 ### 5) COVID-19 Tests for Travellers 
 
@@ -402,6 +402,7 @@ Click here to [Go Back To Top](#top).
 
 ---
 
+<div id="payments"></div>
 
 ### 6) Payments and Refunds
 
