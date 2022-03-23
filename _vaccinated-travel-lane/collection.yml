@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Vaccinated Green List/.keep
-      - Vaccinated Green List/Checklist for Non-Fully Vaccinated Travellers Aged
-        13 and Above.md
       - VTL Air/.keep
       - VTL Air/Vaccinated Travel Lane (Air) Overview.md
       - VTL Air/VTL (Air) Checklist for Travel to Singapore.md
