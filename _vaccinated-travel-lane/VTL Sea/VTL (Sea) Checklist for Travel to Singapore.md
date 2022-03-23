@@ -5,9 +5,10 @@ description: ""
 third_nav_title: VTL Sea
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:black; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; color:red;line-height:1.35;">This page contains a checklist for Vaccinated Travel Lane (Sea) [VTL (Sea)] travellers who already understand the entry requirements into Singapore via the VTL (Sea). If you are not clear on the VTL (Sea) requirements, please refer to the VTL (Sea) <a href="/vtl-sea/overview" target="_blank">Overview page</a> here before reading this checklist. </p>
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px;color:red;line-height:1.35;">Travellers intending to travel out of Singapore to a VTL (Sea) country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For useful information regarding preparing to depart from Singapore (e.g. obtaining pre-departure tests, vaccination certificates), please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</p>
-	</div>
+<p style="font-size:18px; margin-top:10px; margin-bottom:10px; color:red;line-height:1.35;">This page contains a checklist only for Vaccinated Travel Lane (Sea) [VTL (Sea)] travellers who are <b>arriving before 31 March 2022, 2359h</b>.</p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:10px; color:red;line-height:1.35;"><b>Please note that all fully vaccinated travellers and children aged 12 and below entering Singapore from 31 March 2022, 2359h (SGT) will be able to enter Singapore quarantine-free via any ferry and refer to the <a href="" target="_blank">Green List Requirements for Fully Vaccinated Travellers and Non-Fully Vaccinated Children</a> instead of the VTL requirements on this page</b>. Short-term visitors and Work Permit holders will also no longer need to apply for a Vaccinated Travel Pass (VTP) or present their VTP if they already have one. </p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; color:red;line-height:1.35;">Travellers intending to travel <u>out</u> of Singapore to Batam/Bintan are advised to check the prevailing entry requirements of the destination. For useful information regarding preparing to depart from Singapore (e.g. obtaining pre-departure tests, vaccination certificates), please visit the, please visit the "<a href="/departing/overview" target="_blank">"Departing from Singapore"</a>" page.</p>
+</div>
 
 ### Vaccinated Travel Lane (Sea) Travel Checklist
 
