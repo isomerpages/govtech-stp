@@ -2,6 +2,7 @@ collections:
   travel-checklist:
     output: true
     order:
+      - Arrivals from 31 March 2359h/Green Vaccinated .md
       - Arrivals from 31 March 2359h/.keep
       - Arrivals before 31 March 2359h/Travel Checklist Category II III IV.md
       - Arrivals before 31 March 2359h/travel-checklist-categoryi.md
