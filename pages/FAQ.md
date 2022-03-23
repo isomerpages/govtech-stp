@@ -405,6 +405,56 @@ Click here to [Go Back To Top](#top).
 
 ### 6) Payments and Refunds
 
+#### 1. Do I have to pay for my stay at a Stay-Home Notice Dedicated facility (SDF) if I request for it?
+
+Yes, all travellers serving their Stay-Home Notice at an [SDF](/health/shn#sdf) are required to pay for the cost of the accommodation directly to the hotel.
+
+#### 2. How do I request a refund for my COVID-19 Polymerase Chain Reaction test (“PCR test’) as well as stay at the Stay-Home Notice (SHN) dedicated facility (SDF)?
+
+Pre-payments made for relevant costs such as [SDF](/health/shn#sdf) and COVID-19 test fees during the entry application process are non-refundable for drop-outs and last minute cancellations. All forfeited pre-payments will go toward covering the relevant costs have been incurred to secure and prepare the accommodation for the traveller.
+ 
+Requests for refunds will only be considered if there are strong mitigating factors. These may include flight cancellation by the airline, or changes in border policies that has prevented the traveller from leaving for Singapore. In such instances, travellers may submit a refund request to the channels, below, based on their corresponding pass type and/or scheme of entry:
+
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Traveller pass type/ Scheme of entry</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Refund Channels</b></th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Singapore Citizens (SC) and Singapore Permanent Residents (PR) and <a href="/scpr-familial-ties-lane/overview">Familial Ties Lane users</a>  </td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/sto-enquiry">go.gov.sg/sto-enquiry</a></td>
+    </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Work Pass Holders travelling to Singapore via the <a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg </a></td>
+    </tr>
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder Lane</a><br><br> <i>(Helpers and Confinement Nannies)</i></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the helper or nanny's entry approval <b>at least 5 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a> </li>
+           </ol>
+   </td>
+    </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder Lane</a><br><br><i>(All other Work Pass Holders and their dependents)</i></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the pass holder's entry approval <b>at least 7 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-entry-approval">For Work Pass holder or dependant</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-entry-individual">For Personalised Empoyer Pass holder without employer, Entrepass and Work Holiday Pass and their dependants</a> </li>
+           </ol>
+   </td>
+    </tr>
+      <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/overview">Student’s Pass Holder Lane user</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://form.gov.sg/#!/5f6858d80666cb0011cae36e">Refund Form</a><br/><br/> Refund requests must be submitted within <b><u>3 months</u></b> from the end of SHN or the end of the SafeTravel Pass validity period, whichever is later. Late requests will <b><u>not</u></b> be considered.
+</td>
+   </tr> 
+  </tbody>
+  </table>
+
+
 
 ---
 	
