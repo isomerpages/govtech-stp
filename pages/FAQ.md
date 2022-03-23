@@ -4,6 +4,22 @@ permalink: /FAQ
 ---
 <b>This page contains FAQs on the following matters related to travelling to Singapore:</b>
 
+<div id="top"></div>
+
+<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
+		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#shnsdf">Digitally Verifiable Vaccination Certificate </a></li>
+		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#shnsdf">Common Portal Technical Issues</a><ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-latin;">
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#shnsdf">Amendment of Approved Applications</a></li>
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#transport">Receipts and Approval Letters</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers <!--(including COVID-19 Recovered Travellers)--></a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
+</ol></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN) and Dedicated SHN Facility</a></li>
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#transport">Transport Advisories</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers <!--(including COVID-19 Recovered Travellers)--></a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
+		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN) and Dedicated SHN Facility</a></li>
+</ol>
 
 
 
