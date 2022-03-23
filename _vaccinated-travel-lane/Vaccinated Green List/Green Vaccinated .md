@@ -7,12 +7,13 @@ third_nav_title: Vaccinated Green List
 <div style="padding-left: 5px; margin-bottom:20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use</u>:</b></p>
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This travel checklist is for travellers entering Singapore from 31 March 2022, 2359H, and:</p>
-	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect for air and sea arrivals from 31 March 2022, 2359h (SGT). Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
-	<ol style="list-style-type:disc;">
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
+		<ol style="list-style-type:disc;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><a href="/health/vtsg" target="_blank">Fully vaccinated against COVID-19</a>; OR</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Aged 12 and below (i.e. born in or after 2010) and not fully vaccinated</li>
 	</ol>
-	</p>
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Travellers transiting in Singapore to another destination without clearing immigration should refer to the “Transiting through Singapore” page for information. If this checklist does not apply to you, return to the “Travelling to Singapore” page for the entry requirements most relevant to you.</p>
+		<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><b>Please note that the timeline and exact border measures for entry via land may be subject to further updates as discussions with Malaysia are ongoing.</b></p>
+			<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Readers referencing this checklist can indicate “” in the boxes (☐) for any completed activities.</p>
 	</div>
 	
 <p style="font-size:18px; line-height:1.35;">This checklist is for travellers who:</p>
