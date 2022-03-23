@@ -145,11 +145,14 @@ Click here to return to the <a href="#top">top</a>.
 	</tbody>
 	</table>
 
+
+
 ---
 
 Click here to return to the <a href="#top">top</a>.
 
 ---
+
 
 
 <div id="land"></div>
@@ -167,11 +170,15 @@ Click here to return to the <a href="#top">top</a>.
 	<li style="line-height:1.35;margin-top:10px;"><a href="/vaccinated-recovered" target="_blank">Vaccinated & Recently Recovered Traveller Protocol</a><b>Fully vaccinated travellers</b> who can prove a COVID-19 infection between 7 – 90 days (inclusive) before departure for Singapore.</li>
 </ol>
 
+
+
 ---
 
 Click here to return to the <a href="#top">top</a>.
 
 ---
+
+
 
 <div id="crew"></div>
 
@@ -194,11 +201,15 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.</p>
 
+
+
 ---
 
 Click here to return to the <a href="#lanelist">top</a>.
 
 ---
+
+
 
 <div id="crew"></div>
 
