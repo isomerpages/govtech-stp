@@ -181,16 +181,16 @@ third_nav_title: Vaccinated Green List
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
-	<p style="font-size:18px;margin-top:10px;line-height:1.35;">Before making a hotel booking, travellers should check and ensure that the hotel can accommodate guests serving SHN.</p>
-<p style="line-height:1.35; margin-top:15px; font-size:18px;">Travellers serving SHN at their residence may do so with other household members of different vaccination status or travel history. However, the following precautions are strongly advised:</p>
-		<ol style="padding-left: 20px; margin-top:20px;">
-<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Isolate in their own room during the 7-day period;</li>
-<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Minimise contact with any household members and avoid sharing bathrooms. If bathroom sharing cannot be avoided, all members in the household should:</li>
+	<p style="font-size:18px;margin-top:10px;line-height:1.35;">Before making a hotel booking, check and ensure that the hotel can accommodate guests serving SHN.</p>
+<p style="line-height:1.35; margin-top:15px; font-size:18px;">If you are serving your SHN at a place of residence, please take ensure that the accommodation allows you to do the following:</p>
+		<ol style="padding-left: 20px; margin-top:20px; list-style-type: lower-roman;">
+<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Remain in isolation for the full 7-day period;</li>
+<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Minimise contact with household members and avoid sharing bathrooms. If this cannot be avoided, all members of the household should:</li>
 </ol>
-<ol style="padding-left: 60px; margin-top:20px; list-style-type: lower-roman;">
-<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Lower the lid before flushing the toilet;</li>
-<li style="font-size:18px; padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Clean and disinfect contact surfaces after each use; and</li>
-<li style="font-size:18px; padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Avoid using the toilet after the self-isolating individual for at least 20 minutes.</li>
+<ol style="padding-left: 60px; margin-top:20px; list-style-type: lower-latin;">
+<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;">a.	Lower the toilet lid before flushing;</li>
+<li style="font-size:18px; padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Clean and disinfect contact surfaces after each bathroom visit; and</li>
+<li style="font-size:18px; padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Avoid using the toilet immediately after the SHN-serving member.</li>
 </ol></td>
     </tr>
 		</tbody>
@@ -248,7 +248,7 @@ third_nav_title: Vaccinated Green List
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (PCR Test) at the end of the SHN period.</li>
 	</ol>
 	</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You will be scheduled for a mandatory COVID-19 Polymerase Chain Reaction Test (PCR Test) before the end of your Stay-Home Notice (SHN). Pay for the test using the payment link found in your SHN (sent to your email address) before your appointment to avoid queues. Including GST, each test comes up to S$125.
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You will be scheduled for a mandatory COVID-19 Polymerase Chain Reaction Test (PCR Test) before the end of your Stay-Home Notice (SHN). To avoid queues, pay for your test during your application for Entry Approval. Otherwise, pay for the test using the payment link found in your SHN (sent to your email address) before your appointment to avoid queues. Including GST, each test comes up to S$125.
 	</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, please contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
 	</p>
