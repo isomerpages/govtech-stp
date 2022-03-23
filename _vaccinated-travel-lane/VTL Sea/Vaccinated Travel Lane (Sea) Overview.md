@@ -4,6 +4,15 @@ permalink: /vtl-sea/overview
 description: ""
 third_nav_title: VTL Sea
 ---
+<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><span style="color:red; font-size:20px;">⚠&nbsp;</span><b>Important Notes before continuing</b><span style="color:red; font-size:20px;">&nbsp;⚠</span></p>
+
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b>Please note that all fully vaccinated travellers and children aged 12 and below entering Singapore from 31 March 2022, 2359h (SGT) will be able to enter Singapore quarantine-free via any ferry and refer to the <a href="" target="_blank">Green List Requirements for Fully Vaccinated Travellers and Non-Fully Vaccinated Children</a> instead of the VTL requirements on this page.</b> Short-term visitors and Work Permit holders will also no longer need to apply for a Vaccinated Travel Pass (VTP) or present their VTP if they already have one.</p> 
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Travellers entering Singapore before 28 March 2022, 2359h (SGT), can continue to use the VTL (Sea) to enter Singapore.</p>
+
+<!--<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Vaccinated travellers arriving from 1 April 2022 should refer the Green List – Vaccinated checklist instead.</p>-->
+</div>
+
 <p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;">The Vaccinated Travel Lane (Sea) [VTL (Sea)] allows quarantine-free travel from Indonesia to Singapore via sea. Please note that: </p>
 
 <ol style="list-style-type:disc;">
