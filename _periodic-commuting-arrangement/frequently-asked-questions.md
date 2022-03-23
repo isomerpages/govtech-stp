@@ -93,7 +93,7 @@ Your personal privacy is protected while using these devices. The device does no
 
 #### 1. I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
-Please refer to the <a href="/health/faq#transport" target="_blank">latest transport advisory</a>.
+Please refer to the <a href="/faq#transport" target="_blank">latest transport advisory</a>.
 
 ##### Click here to go to the [top](#top).
 
