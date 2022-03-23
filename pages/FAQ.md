@@ -86,6 +86,18 @@ Click here to [Go Back To Top](#top).
 
 ### c. Traveller Details
 
+#### 1. I have been asked to enter my name in basic Latin characters only. My name contains national characters of the Latin/Cyrillic/Arabic families of languages. What do I do?
+
+To facilitate the smooth processing and clearance of your application, please note that we are only able to accept name entries containing the following:-
+
+- Basic Latin characters (A to Z and a to z)
+
+For applicant’s names with other characters which are not accepted above, please provide the name as reflected in the machine-readable zone of the passport. An illustration can be found below to show how to input your name according to the passport’s machine-readable zone.
+
+<img src="/images/MRZ.png" style="width:auto; height:auto;">
+
+You may also try the following character replacements in the table below. 
+
 
 
 
