@@ -33,6 +33,8 @@ sections:
   - infobar:
       title: Are you Fully Vaccinated?
       description: Click the link below for the definition of fully vaccinated
+      button: Click Here
+      url: /health/vtsg
   - resources:
       title: Press Releases
       button: View More
