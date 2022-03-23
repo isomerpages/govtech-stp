@@ -151,7 +151,26 @@ You may also try the following character replacements in the table below.
 
 If you are still facing name mismatch errors, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>.
 
+#### 2. I see an “invalid FIN number” prompt during my application. What does it mean?
 
+This error has likely occurred because the traveller’s Singapore work pass <b>is invalid, has expired or will expire in less than 15 days from the date of entry into Singapore.</b>  
+
+Travellers with the following types of MOM-issued work passes are allowed to travel under the PCA:
+
+<ol style="padding-left: 20px; list-style-type:lower-roman">
+  <li style="padding-left:20px; margin-bottom: 0px;">Employment Pass;</li>
+  <li style="padding-left:20px; margin-bottom: 0px;">EntrePass;</li> 
+  <li style="padding-left:20px; margin-bottom: 0px;">Personalised Employment Pass;</li> 
+  <li style="padding-left:20px; margin-bottom: 0px;">S Pass;</li> 
+  <li style="padding-left:20px; margin-bottom: 0px;">Work Permit;</li> 
+  <li style="padding-left:20px; margin-bottom: 0px;">Training Employment Pass;</li> 
+  <li style="padding-left:20px; margin-bottom: 0px;">Training Work Permit; and</li> 
+  <li style="padding-left:20px; margin-bottom: 0px;">Work Holiday Pass. </li>
+</ol>
+
+To apply for or renew a pass, please <a href="https://www.mom.gov.sg/passes-and-permits">visit MOM’s website</a> and click on the relevant pass for more details.
+
+If the error persists even though the traveller’s work pass is valid, please write us using our enquiry form [here](https://go.gov.sg/sto-enquiry) and provide the FIN number and FIN expiry date of the employee(s) to be sponsored for entry into Singapore under the PCA scheme.
 
 
 ### d. Document Uploads
