@@ -2,6 +2,7 @@ collections:
   vaccinated-travel-lane:
     output: true
     order:
+      - Vaccinated Green List/Green Vaccinated .md
       - Vaccinated Green List/.keep
       - VTL Air/.keep
       - VTL Air/Vaccinated Travel Lane (Air) Overview.md
