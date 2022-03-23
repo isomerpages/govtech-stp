@@ -4,7 +4,6 @@ permalink: /greenlist-fully-vaccinated
 description: ""
 third_nav_title: Vaccinated Green List
 ---
-
 <div style="padding-left: 5px; margin-bottom:20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use</u>:</b></p>
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This travel checklist is for travellers entering Singapore from 31 March 2022, 2359H, and:</p>
@@ -85,7 +84,7 @@ third_nav_title: Vaccinated Green List
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Up to 72 hours before arrival in Singapore, complete the electronic <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> by submitting your:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Pre-trip health and travel history details</li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="/faq" target="_blank">Digitally verifiable vaccination certificate</a> (DVC), i.e. vaccination certificate with a QR code, if applicable</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally verifiable vaccination certificate</a> (DVC), i.e. vaccination certificate with a QR code, if applicable</li>
 				</ol>	
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you are unable to perform step (b) above, please obtain any alternative proof listed below of recent COVID-19 vaccination to qualify as a “fully vaccinated” traveller:</p>
 	<table>
@@ -120,6 +119,7 @@ third_nav_title: Vaccinated Green List
 	</ol>
 <p style=" font-size:18px; margin-top:20px; margin-bottom: 0px; line-height:1.35; color:red;">💡 <b><u>DVC Quick Tips</u></b>:</p>
 <p style=" font-size:18px; margin-top:20px; margin-bottom: 0px; line-height:1.35;">For quicker pre-boarding checks and immigration clearance, travellers are encouraged to verify their DVC via the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal (VCP)</a> before arrival in Singapore. This is an optional step, and travellers can continue to enter Singapore if they produce the requisite vaccination and entry (if required) documents.</p>
+<p style=" font-size:18px; margin-top:20px; margin-bottom: 0px; line-height:1.35;">For more information on DVCs, please refer to the FAQ <a href="/faq#vaxcert" target="_blank">here</a>.</p>
 </td>
     </tr>
 		</tbody>
