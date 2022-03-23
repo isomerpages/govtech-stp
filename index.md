@@ -30,7 +30,7 @@ sections:
         - title: Departing from Singapore <span style="font-size:20px;"> &#187; </span>
           description: Click Here
           url: /departing/overview
- - resources:
+  - resources:
       title: Press Releases
       button: View More
       subtitle: News on border measures
