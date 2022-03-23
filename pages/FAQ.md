@@ -38,7 +38,7 @@ iii.	Country of vaccination
 iv.	Name of vaccine(s) administered, i.e. different names for different vaccine type
 v.	Vaccination date(s)
 
-However, Short Term Visitors and eligible Work Permit Holders arriving before 31 March 2359h via the Vaccinated Travel Lane will also need to upload the digital proof of vaccination as part of their Vaccinated Travel Pass application.
+However, Short Term Visitors and eligible Work Permit Holders <b>arriving before 31 March 2359h via the Vaccinated Travel Lane</b> will also need to upload the digital proof of vaccination as part of their Vaccinated Travel Pass application.
 
 <!--list of accepted digital certs to be provided by MOT in their excel sheet – combine where possible e.g. all the EUDCC countries in the same row-->
 
