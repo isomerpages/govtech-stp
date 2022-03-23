@@ -235,7 +235,7 @@ third_nav_title: Arrivals from 31 March 2359h
 		<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Commute directly to your declared SHN accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is prohibited.</li>
 	</ol>
 	</p>
-	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory.</a></p>
+	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><a href="/faq#transport" target="_blank">Click here for the latest transport advisory.</a></p>
 	</div>
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Stay-Home Notice & COVID-19 Tests</b></div>
