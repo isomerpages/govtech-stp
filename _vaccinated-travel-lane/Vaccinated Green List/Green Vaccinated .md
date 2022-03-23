@@ -161,7 +161,11 @@ third_nav_title: Vaccinated Green List
 	</table>
 	</div>
 
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>E) Install and Activate TraceTogether</b></div>
 
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 0px; line-height:1.35;">Travellers aged 6 or below this year, or are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p>
+	</div>
 
 
 
