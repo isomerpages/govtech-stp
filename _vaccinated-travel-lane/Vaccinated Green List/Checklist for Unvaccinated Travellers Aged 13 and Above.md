@@ -181,3 +181,43 @@ third_nav_title: Vaccinated Green List
 </ol>
 		</p>  
 </div>	
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;  <i><b>F) Install and Activate TraceTogether</b></i></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="line-height:1.35; margin-bottom:10px; font-size:18px;">Install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application.</p>
+	<p style="line-height:1.35; font-size:18px;">Travellers aged 6 or below this year, or are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p>
+	</div>
+	
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="2A">
+&#9744; &nbsp;&nbsp;<b>Pre-boarding Document Checks</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Transport operators may ask for the documents listed at Stage 1 during pre-boarding checks. Failing which, you may be denied boarding.	
+	</p>
+	</div>
+	
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 3: Immigration Clearance in Singapore</b></div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+&#9744; &nbsp;&nbsp;<b>A) Immigration Clearance</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes, and provide all documents, including proof of tests, and information required by the immigration officer. </p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Upon clearance, an <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> stating the period of stay granted will be issued to foreign short-term visit pass travellers via the email address indicated in the SGAC. Passports will no longer be stamped.
+	</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you are symptomatic on arrival, you may be directed to take a COVID-19 test. Each Antigen Rapid Test (ART) administered will cost S$30, while each COVID-19 Polymerase Chain Reaction Test (PCR Test) will cost S$138.
+	</p>
+	</div>
+	
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+&#9744; &nbsp;&nbsp;<b>B) Commute to declared Stay-Home Notice (SHN) accommodatione</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Following immigration clearance, you will:
+	<ol style="padding-left: 20px; margin-top:20px;">
+<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Receive a 7-day Stay-Home Notice (SHN) via the email address provided in your SGAC declaration; and</li>
+		<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Commute directly to your declared SHN accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is prohibited.</li>
+	</ol>
+	</p>
+	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory.</a></p>
+	</div>
