@@ -90,7 +90,7 @@ The following groups of travellers are <b>responsible for all costs associated w
 
 <ol style="list-style-type:lower-roman;">
 <li style="padding-left:10px; line-height:1.5;">All Short-Term Pass Holders, throughout their stay in Singapore</li>
-	<li style="padding-left:10px; line-height:1.5;">SCs/PRs/LTPHs who are not fully vaccinated– specifically, those aged above 12 years (i.e., born before 2010), and have not been formally certified to be medically ineligible for COVID-19 vaccines on the National Vaccination Programme</li>
+	<li style="padding-left:10px; line-height:1.5;">SCs/PRs/LTPHs who are not fully vaccinated– specifically, those aged above 12 years (i.e. born before 2010), and have not been formally certified to be medically ineligible for COVID-19 vaccines on the National Vaccination Programme</li>
 <li style="padding-left:10px; line-height:1.5;">All SCs/PRs/LTPHs who are subjected to Restricted Category* border measures and test positive or develop onset of symptoms for COVID-19 within 7 days of their arrival to Singapore, regardless of their vaccination status. (* <i>There are currently no Restricted Category countries/regions</i>.)</li>
 </ol>
 
