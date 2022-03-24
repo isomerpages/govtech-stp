@@ -14,7 +14,7 @@ third_nav_title: VTL Air
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Travellers intending to depart Singapore for a VTL country must check with the authorities of their desired destination instead on the prevailing entry requirements and visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page for travel advice.</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">This page gives an overview of the VTL (Air) for quarantine-free travel to travel to Singapore via air only. Travellers intending to travel from Malaysia to Singapore via the Causeway should utilise the <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a>. Those who are intending to travel from Batam and Bintan to Singapore via ferry should use the <a href="/vtl-sea/overview" target="_blank">Vaccinated Travel Lane (Sea)</a>. Vaccinated Travel Passes (where required) are not interchangeable between Air, Sea and Land.</li>
 	</ol>
-	<!--<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Vaccinated travellers arriving from 1 April 2022 should refer the Green List – Vaccinated checklist instead.</p>-->
+	<!--<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Vaccinated travellers arriving from 1 April 2022 should refer the General Travel Category List – Vaccinated checklist instead.</p>-->
 </div>
 
 <p style="font-size:18px; margin-top:10px; margin-bottom:10px; line-height:1.35;">On this page, you will find the following key information on the VTL (Air):</p>
