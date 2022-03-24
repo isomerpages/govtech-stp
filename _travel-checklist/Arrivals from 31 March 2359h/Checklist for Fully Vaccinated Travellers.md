@@ -52,6 +52,15 @@ third_nav_title: Arrivals from 31 March 2359h
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Driver of a foreign vehicle entering Singapore by land</td>
 			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html#extension_staying_more_14days" target="_blank">Ensure that your Vehicle Entry Permit</a> is valid</td>
     </tr>-->
+										<!--<tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Drivers of foreign-registered vehicles</td>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Drivers of foreign-registered vehicles must present LTA’s Vehicle Entry Permit (VEP) approval email and valid Autopass cards during immigration clearance. They are not allowed to apply for VEP/ Autopass cards or update their road tax and motor insurance for existing Autopass cards at Singapore’s land checkpoints.</p>
+ <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"></p>
+<ol>
+</ol>
+ <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"></p>
+</td>
+    </tr>-->
 		</tbody>
 	</table>
   </div>
