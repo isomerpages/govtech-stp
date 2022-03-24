@@ -8,13 +8,13 @@ permalink: /scpr-familial-ties-lane/FAQ
  2. [ICA Approval Letter of Entry (ALE) - Entry Request](#ale)
  3. [Approved SafeTravel Pass](#stp)
  4. [Entering Singapore](#entry)
- 5. [Health Measures](#healthmeasures)
+
  
 <div id="portal"></div>
 
 ### SafeTravel Pass (STP) - Application via the SafeTravel Portal 
 
-#### 1. I will be submitting an entry application to ICA via the SafeTravel Portal (<https://go.gov.sg/scpr-ftl-application>), when will i receive the outcome of my application? 
+#### 1. I will be submitting an entry application to ICA via the SafeTravel Portal (<https://go.gov.sg/scpr-ftl-application>), when will I receive the outcome of my application? 
 
 Eligible applicant will receive the SafeTravel Pass (STP) via email after making the necessary payment (if applicable) for the stay at the SHN Dedicated Facility (SDF) and COVID-19 swab test at the end of the application  via the SafeTravel Portal. 
 
@@ -32,7 +32,7 @@ New entry approvals into Singapore have been reduced or halted until further not
 
 For non-residents with exceptional reasons (e.g. death of a family member in Singapore) to seek entry into Singapore may write to us via the [enquiry form](https://go.gov.sg/sto-enquiry) with the relevant supporting documents to facilitate smooth processing (e.g. Doctor's memo, death certificate, traveller's passport biodata page). ICA wil respond to the request at the earliest time possible and expedite the approval if the applicant is eligible for entry, based on our assessment.
 
-#### 2. My entry request was rejected. How can i make an appeal? 
+#### 2. My entry request was rejected. How can I make an appeal? 
 
 Each entry request is carefully considered and reviewed before a decision is made. If there are additional or updated information/documents since your last request, you may consider writing to us using our enquiry form [here](http://go.gov.sg/sto-enquiry).
 
@@ -46,13 +46,13 @@ Please note that the outcome of a re-appeal will remain the same if there are no
 
 Please write to us using the enquiry form [here](https://go.gov.sg/sto-enquiry) with the STP reference number and explaining the details of the error. Kindly also include a copy of the applicant passport biodata page.
 
-#### 2. What if i am unable to enter Singapore within the validity of my STP? 
+#### 2. What if I am unable to enter Singapore within the validity of my STP? 
 
 You are not allowed to amend the date of entry or seek a refund or the payment (if applicable) of the COVID-19 PCR test and SHN dedicated facility once the application has been approved. You would need to resubmit a new application via the [SafeTravel Portal](https://go.gov.sg/scpr-ftl-application) and make a second payment for the new STP. 
 
 If you require an amendment of the entry date on the STP due to unforeseen circumstances (e.g. cancellation of flight by the airline provider). You may write in to ICA for consideration via our enquiry form [here](https://go.gov.sg/sto-enquiry), with the relevant supporting documents attached.
 
-#### 3. If i decide not to enter Singapore after applying for the STP, is the payment made for stay at the SHN dedicated Facility (SDF) and COVID-19 swab test during the STP application transferable? 
+#### 3. If I decide not to enter Singapore after applying for the STP, is the payment made for stay at the SHN dedicated Facility (SDF) and COVID-19 swab test during the STP application transferable? 
 
 No. All payments made via the SafeTravel portal are non-transferrable. If the applicant is not able to enter Singapore within the validity of the STP, no refund will be provided. 
 
@@ -70,22 +70,4 @@ Visitors who are granted entry into Singapore will be issued with a visit pass b
 
 #### 3. Are visitors able to extend their duration of stay in Singapore? 
 
-Visitors who require a longer period of stay beyond the Visit Pass granted on entry into Singapore may submit an application for extension of stay online via the ICA's [e-Service](https://eservices.ica.gov.sg/esvclandingpage/extend) which allows a foreign visitor to apply for an extension of their short-term Visit Pass. The application has to be submitted at least 7 days prior to the expiry of the Visit Pass to avoid overstaying. Extension of Visit Pass will not be accepted over the counter. Each application will be considered on its own merit and there is no guarantee that an extension will be granted. 
-
-<div id="healthmeasures"></div>
-
-### Health Measures
-
-#### 1. Is travel insurance covering COVID-19 mandatory for travellers entering Singapore under the Singapore Citizen/Permanent Resident Familial Ties Lane? 
-
-Travel insurance covering COVID-19 is not mandatory for travellers entering Singapore under the Singapore Citizen/Permanent Resident Familial Ties Lane. For more details, please click [here](/health/insurance-and-treatment#insurance).
-
-
-#### 2. I have received a COVID-19 vaccination. Will I still be subjected to prevailing border measures and stay-home-notice requirement? 
-
-Please refer to the FAQ on vaccinated travellers [here](https://safetravel.ica.gov.sg/health/faq#vaccinated).
-
-
-#### 3. I was recently diagnosed with COVID-19 but am scheduled to travel to Singapore. Can I still visit Singapore? 
-
-Please refer to the FAQ on recovered travellers [here](https://safetravel.ica.gov.sg/health/faq#pcrtestQ5). Individuals would be advised accordingly on the need to fulfil the SHN requirements.
+Visitors who require a longer period of stay beyond the Visit Pass granted on entry into Singapore may submit an application for extension of stay online via the ICA's [e-Service](https://eservices.ica.gov.sg/esvclandingpage/extend) which allows a foreign visitor to apply for an extension of their short-term Visit Pass. The application has to be submitted at least 7 days prior to the expiry of the Visit Pass to avoid overstaying. Extension of Visit Pass will not be accepted over the counter. Each application will be considered on its own merit and there is no guarantee that an extension will be granted.

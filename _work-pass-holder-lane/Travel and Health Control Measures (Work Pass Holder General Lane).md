@@ -3,6 +3,16 @@ title: Travel and Health Control Measures (Work Pass Holder General Lane)
 permalink: /wphl/shn-and-swab-summary
 description: Work Pass Holder Lane travel and health control measures
 ---
+<div style="padding-left: 5px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">The information on this page is only for travellers who are arriving <b>before 31 March 2022, 2359h (SGT)</b>.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect for arrivals <b>from 31 March 2022, 2359h (SGT)</b>. Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
+	<ol style="list-style-type:disc;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
+	</ol>
+	</p>
+	</div>
+
 As a condition for entry into Singapore, pass holders with an approval under the Work Pass Holder General Lane (WPHL) must comply with the prevailing travel health control measures (e.g. Stay-Home Notice (SHN) and COVID-19 tests). Employers and employment agencies, which submitted the entry applications (“Submitters”), must pay for pass holders’ entry charges and ensure they comply with the measures.
 
 Pass holders who do not need an entry approval will still need to comply with the prevailing travel health control measures (e.g. Stay-Home Notice (SHN) and COVID-19 tests).
@@ -259,7 +269,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Done by a trained professional (e.g. medical professional or Government-recognised trained professional); or</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <b>[For eligible travellers only]</b>	Self-administered and remotely supervised by an ART provider in Singapore providing such services. Please refer to <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">MOH’s listing of remote supervised self-swab providers</a> (under section on “<i>Antigen Rapid Test (ART) Providers</i>”) for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <b>[For eligible travellers only]</b>	Self-administered and remotely supervised by an ART provider in Singapore providing such services. Please refer to <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">MOH’s listing of remote supervised self-swab providers</a> for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
 </ol>			
 </li>
 </ol></li>
@@ -312,7 +322,7 @@ input:checked + label + .content {
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>ART</b>: 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Done by a trained professional (e.g. medical professional or Government-recognised trained professional); or</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <b>[For eligible travellers only]</b>	Self-administered and remotely supervised by an ART provider in Singapore providing such services. Please refer to <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">MOH’s listing of remote supervised self-swab providers</a> (under section on “<i>Antigen Rapid Test (ART) Providers</i>”) for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <b>[For eligible travellers only]</b>	Self-administered and remotely supervised by an ART provider in Singapore providing such services. Please refer to <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">MOH’s listing of remote supervised self-swab providers</a> for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
 </ol>
 </li>
 </ol></li>

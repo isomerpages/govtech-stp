@@ -4,6 +4,11 @@ permalink: /vtl-land/travel-checklist
 description: ""
 third_nav_title: VTL Land
 ---
+
+<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b>Notice:</b> Singapore and Malaysia are working towards the full resumption of land travel with Malaysia for fully vaccinated persons. Details on the revised border measures for fully vaccinated travellers entering Singapore via the land borders will be announced jointly with Malaysia soon.</p>
+	</div>
+
 ### VTL Land Travel Checklist 
 
 <p style="font-size:18px; line-height:1.35; margin-bottom:0px;"><span style="font-size:20px; color:green;"><b>✓</b></span>&nbsp; For travellers including Singapore Citizens, Permanent Residents, holders/in-principle approval ("IPA") holders of a Singapore-issued Long-Term Pass and Malaysia Citizens entering Singapore via the Causeway taking designated buses for the VTL (Land).</p>

@@ -12,6 +12,17 @@ permalink: /atp/requirements-and-process
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;color:black;">ATP holders who enter Singapore before 21 Feb 2022, 2359h (SGT) are required to continue with the existing testing regime (i.e. on-arrival PCR test).</p>
 </div>-->
 
+<div style="padding-left: 5px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">This page contains a checklist only for Air Travel Pass travellers who are <b>arriving before 31 March 2022, 2359h (SGT)</b>. All unutilised ATPs will be <b><u>cancelled</u></b> after 31 March 2022, 2359h (SGT).</p>
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect for arrivals from 31 March 2022, 2359h (SGT). Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
+	<ol style="list-style-type:disc;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
+	</ol>
+	</p>
+	</div>
+
+
 ### Eligibility 
 
 Foreigners who are short-term visitors (including business and official travellers) travelling from one of the following countries/regions may apply for an Air Travel Pass (ATP) for travel to Singapore:
@@ -182,7 +193,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 
 <!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>A) Commuting Arrangements</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">All commutes made <b>before</b> the traveller is tested negative for COVID-19 on their post-arrival 24-hour Antigen Rapid Test test should only be made using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/health/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>	
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">All commutes made <b>before</b> the traveller is tested negative for COVID-19 on their post-arrival 24-hour Antigen Rapid Test test should only be made using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). <a href="/faq#transport" target="_blank">Click here for the latest transport advisory</a>.</p>	
 <p style=" font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers may use public transport (e.g. trains, buses) only after they have tested negative on their on-arrival test.</p>
 	</div>-->
 

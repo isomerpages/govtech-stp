@@ -2,6 +2,10 @@
 title: Frequently Asked Questions
 permalink: /malaysia/pca/faq
 ---
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red;">NOTICE:</span></b> Singapore and Malaysia are working towards the full resumption of land travel with Malaysia for fully vaccinated persons. Details on the revised border measures for fully vaccinated travellers entering Singapore via the land borders will be announced jointly with Malaysia soon.</p>
+	</div>
+
 <div id="top"></div>
 
 ### Contents
@@ -93,7 +97,7 @@ Your personal privacy is protected while using these devices. The device does no
 
 #### 1. I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
-Please refer to the <a href="/health/faq#transport" target="_blank">latest transport advisory</a>.
+Please refer to the <a href="/faq#transport" target="_blank">latest transport advisory</a>.
 
 ##### Click here to go to the [top](#top).
 

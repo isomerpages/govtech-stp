@@ -8,15 +8,14 @@ Otherwise, click on the links below for the relevant resources on Singapore's tr
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
 	 <li style="margin-top:0px; margin-bottom:0px; font-size:18px; ">
-  <a href="/travel-checklist/overview">Checklists for Inbound Travellers</a></li>
+  <a href="/travel-checklist/overview">Checklists for Travel to Singapore</a></li>
   <li style="margin-top:0px; margin-bottom:0px; font-size:18px; ">
-	<a href="/shn-and-swab-summary">Non-VTL Travel Health Control Measure Categories</a></li>
+	<a href="/shn-and-swab-summary">Non-VTL Travel Health Control Measure Categories (for arrivals before 31 March 2022, 2359h)</a></li>
 	 <li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">
-<a href="/health/vtsg">Vaccinated Status for Travel to Singapore </a></li>
+<a href="/health/vtsg">Accepted COVID-19 Vaccinations and Vaccination Certificates</a></li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="/health/shn">Stay-Home Notice (SHN) & SHN Dedicated Facilities</a></li>
 	 <li style="margin-top:10px; margin-bottom:0px; font-size:18px;">
 <a href="/health/insurance-and-treatment">COVID-19 Travel Insurance and Medical Treatment</a></li>
 	  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">
 <a href="/health/tt-for-travellers">TraceTogether for Travellers</a></li>
-		  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="/health/faq">Frequently Asked Questions</a></li>
-		    </ol>
+</ol>

@@ -1,6 +1,7 @@
 ---
 title: Technical Help for Safe Travel Portal
 permalink: /FAQ/tech
+published: false
 ---
 ## Click to jump to the following sections:
 

@@ -2,6 +2,16 @@
 title: Frequently Asked Questions
 permalink: /wphl/faq
 ---
+<div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">The information on this page is only for travellers who are arriving <b>before 31 March 2022, 2359h (SGT)</b>.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect arrivals <b>from 31 March 2022, 2359h (SGT)</b>. Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
+	<ol style="list-style-type:disc;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
+	</ol>
+	</p>
+	</div>
+
 <div id="top"></div>
 
 Click to jump to the following sections:
@@ -11,7 +21,7 @@ Click to jump to the following sections:
  4. [Stay-Home Notice (SHN) and SHN-Dedicated Facilities](#shn)
  5. [Payment, Cost-sharing Matters and Refunds](#payment)
  6. [COVID-19 Vaccination Requirements for Work Pass Holders and Dependants](#vaccinated)
- 7. [Technical Issues with Application Portal](/faq/tech)
+ 7. [Technical Issues with Application Portal](/faq#tech)
 
 Can’t find what you’re looking for? You may also visit MOM’s site [here](https://mom.gov.sg/covid-19/migrant-worker-onboarding-centre) for more information on domestic measures after arrival (e.g. <a href="https://www.mom.gov.sg/covid-19/onboard-centre" target="_blank">Onboard Centre</a>, Rostered Routine Testing). 
 
@@ -188,7 +198,7 @@ Employers should remind their employees to present the following documents to th
 
 <a href="#top">Click here to return to the top.</a>
 
-##### Click [here](/health/faq#shnsdf) to for general FAQs on SHN and SDF.
+##### Click [here](/faq#shnsdf) to for general FAQs on SHN and SDF.
 
 <div id="payment"></div>
 

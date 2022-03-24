@@ -36,7 +36,7 @@ You can find the following forms of commonly requested support on this page:
 </thead>
 <tbody>
 		   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading QR codes to VTL application portal</b> </td>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading Digitally Verifiable Certificate (DVC) to VTL application portal and Vaccination Check Portal</b> </td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/vtl/faq#invalidcode" target="_blank">Click Here</a> for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
 </p>
 <ol style="padding-left: 20px; list-style-type: disc;"><li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li></ol>
@@ -45,20 +45,17 @@ You can find the following forms of commonly requested support on this page:
 </td>
  </tr>
 			   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Date of exit from Stay Home Notice (SHN)</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">A Stay-Home Notice (SHN) takes effect immediately on the day of its issuance and travellers must remain in their SHN accommodation for the period specified in the notice. An SHN ends <b>after</b> the traveller receives a negative exit COVID-19 Polymerase Chain Reaction Test ("exit PCR test"), or completes the specified SHN period, <b>whichever is later</b>. See illustration below, and use the SHN end date calculator <a href="/shn-calculator" target="_blank">here</a>.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><b>Illustration:</b></p><p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Travellers Y and Z were issued a 7-day SHN on 1 January 2022. Their 7-day SHN period will stretch from 1 to 8 January 2022. Both travellers have gone for their exit PCR test.</p>
-<ol style="padding-left:20px; list-style-type:disc; margin-top:10px; margin-bottom:0px;">
-	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Traveller Y received his negative exit PCR test result on 7 January 2022, but can only leave his SHN accommodation on 8 January 2022. </li>
-		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Traveller Z only received her negative exit PCR test result on 9 January 2022 (day after 7-day SHN was supposed to end). Traveller Z can only leave SHN accommodation on 9 January 2022.</li>
-	</ol>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Vaccinated Travel Framework</b> </td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">The Vaccinated Travel Framework (VTF) will commence for arrivals <b>from 31 March 2022, 2359H</b>. If you are entering before this date/time, you are ineligible for the entry and travel protocols accorded under VTF.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">For travellers arriving from Malaysia via land, details on the revised border measures for fully vaccinated travellers will be announced jointly with Malaysia soon.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Visit the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for full details on entry and travel protocols. </p>
 </td>
  </tr>
 	 <tr>
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Travel for recently-recovered travellers</b></td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">Travellers who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore will be waived of all testing and Stay-Home Notice requirements. Refer to the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Protocol</a> for details.</p>
 <p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">Non-fully vaccinated travellers who produce credible proof of having contracted COVID-19 between 14 and 90 days before departure for Singapore will be exempted from their pre-departure tests. No appeal is required.</p>
-				 <p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">This <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> can help advise if you qualify for any pre-departure test or border measure exemptions resulting from your vaccinated or recovered status. Except for Singapore Citizens and PRs, entry approval under your respective Safe Travel Lane is still required.</p>
+				 <p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">This <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> can help advise if you qualify for any pre-departure test or border measure exemptions resulting from your vaccinated or recovered status.</p>
 </td>
   </tr>	
   </tbody>

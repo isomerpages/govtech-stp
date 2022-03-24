@@ -164,7 +164,7 @@ See Annex for partner countries/regions where RGL has been suspended.
 <tr>
 <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="/images/G.png" width="80" height="20">
 </td>
-<td rowspan="2" style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><a href="">Vaccinated Travel Lane</a>
+<td rowspan="2" style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a>
 </td>
 </tr>
 <tr>
