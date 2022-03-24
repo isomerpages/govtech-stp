@@ -237,7 +237,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	</div>
 	
 <div id="3B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
-&#9744; &nbsp;&nbsp;<b>B) Commute to declared Stay-Home Notice (SHN) accommodatione</b></div>
+&#9744; &nbsp;&nbsp;<b>B) Commute to declared Stay-Home Notice (SHN) accommodation</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Following immigration clearance, you will:
 	<ol style="padding-left: 20px; margin-top:20px;">
