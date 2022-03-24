@@ -1,6 +1,6 @@
 ---
 title: Checklist for Non-Fully Vaccinated Travellers Aged 13 and Above
-permalink: /greenlist-non-fully-vaccinated
+permalink: /arriving/general-travel/non-fully-vaccinated
 description: ""
 third_nav_title: Arrivals from 31 March 2359h
 ---
