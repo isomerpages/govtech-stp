@@ -150,6 +150,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Reflects the date and result of the COVID-19 test.</li>
 	</ol>
+<p style="margin-top: 0px; margin-bottom:20px; font-size:18px; line-height:1.35;"><span style="font-size:25px;  color:red;"><b>✕</b></span> &nbsp;Travellers arriving by land do not need a Pre-Departure Test.</p>
 	<table>
   <thead>
     <tr>
