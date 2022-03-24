@@ -127,7 +127,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	</ol>
 <p style=" font-size:18px; margin-top:20px; margin-bottom: 20px; line-height:1.35;"><a href="/health/vtsg" target="_blank">Click here</a> for the list of acceptable vaccines.</p>
 <div style="padding: 5px; margin-bottom:20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 2px;">
-<p style=" font-size:18px; margin-top:20px; margin-bottom: 0px; line-height:1.35; color:red;">💡 <b><u><a href="/health/vtsg" target="_blank">DVC Quick Tips</a></u></b>:</p>
+<p style=" font-size:18px; margin-top:20px; margin-bottom: 0px; line-height:1.35; color:red;">💡 <b><u>DVC Quick Tips</u></b>:</p>
 <p style=" font-size:18px; margin-top:20px; margin-bottom: 0px; line-height:1.35;">For quicker pre-boarding checks and immigration clearance, travellers are encouraged to verify their DVC via the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal (VCP)</a> before arrival in Singapore. This is an optional step, and travellers can continue to enter Singapore if they produce the requisite vaccination and entry (if required) documents.</p>
 <p style=" font-size:18px; margin-top:20px; margin-bottom: 0px; line-height:1.35;">For more information on DVCs, please refer to the FAQ <a href="/faq#vaxcert" target="_blank">here</a>.</p>
 	</div>
