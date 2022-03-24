@@ -52,7 +52,7 @@ third_nav_title: Arrivals from 31 March 2359h
     </tr>
 								    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Driver of a foreign vehicle entering Singapore by land</td>
-			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Ensure that your <a href="https://onemotoring.lta.gov.sg/vepds/captcha" target="_blank">Vehicle Entry Permit</a> is valid</td>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Ensure that your <a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html#extension_staying_more_14days" target="_blank">Vehicle Entry Permit</a> is valid</td>
     </tr>
 		</tbody>
 	</table>
