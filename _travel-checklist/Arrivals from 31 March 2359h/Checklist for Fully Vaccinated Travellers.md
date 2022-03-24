@@ -133,7 +133,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	</table>
   </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT) [for arrivals by air and sea only] </b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT) (for arrivals by air and sea only)</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">If you are <b>born before 2020</b> (i.e. above 2 years old), take any of the following COVID-19 tests <b>within 2 days before departure</b>:</p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
