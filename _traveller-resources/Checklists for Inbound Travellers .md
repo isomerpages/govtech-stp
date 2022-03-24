@@ -11,9 +11,9 @@ permalink: /travel-checklist/overview
 #### For travellers arriving from 31 March 2022, 2359h
 
 <ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category – Fully Vaccinated Travellers and Children</a>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category – Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a>
 	</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">General Travel Category – Non-Fully Vaccinated Travellers</a>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">General Travel Category – Non-fully vaccinated travellers aged 13 and above</a>
 	</li>
 	</ol>
 
