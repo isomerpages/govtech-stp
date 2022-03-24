@@ -35,7 +35,7 @@ third_nav_title: Arrivals from 31 March 2359h
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
 	    <ol>
 		    <li style="line-height:1.35;margin-top:10px; font-size:18px;">Permanent Resident In-Principle Approval holder (IPA)</li>
-		     <li style="line-height:1.35;margin-top:10px; font-size:18px;">Immediate family member of a Singapore Citizen/Permanent Resident who is a non-resident or holder of a valid Work Pass, Student’s Pass (STP) or STP-IPA</li>
+		     <li style="line-height:1.35;margin-top:10px; font-size:18px;">Immediate family member of a Singapore Citizen/Permanent Resident</li>
         		     <li style="line-height:1.35;margin-top:10px; font-size:18px;">Adopted child of a Singapore Citizen/Permanent Resident holding a Dependant’s Pass-IPA issued by the Ministry of Social and Family Development</li>
 	      </ol>
 	    </td>
