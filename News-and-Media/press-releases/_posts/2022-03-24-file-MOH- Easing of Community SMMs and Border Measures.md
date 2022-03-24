@@ -1,5 +1,5 @@
 ---
-title: MOH Easing of Community SMMs and Border Measures
+title: MOH- Easing of Community SMMs and Border Measures
 date: 2022-03-24
 layout: file
 description: ""
