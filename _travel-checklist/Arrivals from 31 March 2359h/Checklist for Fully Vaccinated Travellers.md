@@ -4,9 +4,6 @@ permalink: /greenlist-fully-vaccinated
 description: ""
 third_nav_title: Arrivals from 31 March 2359h
 ---
-
-
-
 <div style="padding-left: 5px; margin-bottom:20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use</u>:</b></p>
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This travel checklist is for travellers entering Singapore from 31 March 2022, 2359H, and:</p>
@@ -43,6 +40,10 @@ third_nav_title: Arrivals from 31 March 2359h
 				    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Short-term Visitors</td>
 			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges. Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>)</td>
+    </tr>
+		 <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Long-term pass and in-principle approval (IPA) holders</td>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Travellers should have a valid pass card or IPA letters which will be shown during pre-boarding checks or on arrival</td>
     </tr>
 						    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Arriving in Singapore from countries/regions in Africa and South America with Yellow Fever risk</td>
@@ -109,7 +110,7 @@ third_nav_title: Arrivals from 31 March 2359h
 				    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Outside Singapore</b></td>
 			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">		<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:upper-alpha;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="/faq" target="_blank">Digitally-verifiable vaccination certificate</a>; <b>OR</b> </li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally-verifiable vaccination certificate</a>; <b>OR</b> </li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination certificate with the following details in English, or translated to English with notarisation:
 			<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Name (per travel document used for entry)</li>
