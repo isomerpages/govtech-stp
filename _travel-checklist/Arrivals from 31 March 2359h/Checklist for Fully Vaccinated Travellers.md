@@ -17,7 +17,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9633;&nbsp; &#9634; <b>A) Obtain Additional Approvals and Travel-Related Documents (if necessary)</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp; <b>A) Obtain Additional Approvals and Travel-Related Documents (if necessary)</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Additional travel documents are required for travellers listed in the table below for entry into Singapore. If you are not any of the traveller types listed below, you can enter Singapore without these additional documents, but are reminded to ensure that your passport is valid for at least 6 months.</p>
 	<table>
@@ -64,7 +64,7 @@ third_nav_title: Arrivals from 31 March 2359h
   </div>
 
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>B) Monitor Health Status</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Monitor Health Status</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you had tested positive for COVID-19 <b>between 7 to 90 days before your date of departure for Singapore</b>, use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if you qualify for entry as a Vaccinated-Recovered Traveller. To qualify for the Vaccinated-Recovered traveller protocol (VR Protocol), you must produce a valid COVID-19 positive certificate/proof (definition below). If you qualify for VR Protocol, please refer to the <a href="/vaccinated-recovered" target="_blank">VR Protocol Checklist</a> for the admin/entry process.</p>
@@ -89,7 +89,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	</table>
   </div>
 
-<div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>C) Pre-trip Declarations and Vaccination Checks</b></div>
+<div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>C) Pre-trip Declarations and Vaccination Checks</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Up to 72 hours before arrival in Singapore, complete the electronic <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> by submitting your:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
@@ -139,7 +139,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	</table>
   </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT) (for arrivals by air and sea only)</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT) (for arrivals by air and sea only)</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">If you are <b>born before 2020</b> (i.e. above 2 years old) and arriving by air or sea, take any of the following COVID-19 tests <b>within 2 days before departure</b>:</p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
@@ -176,7 +176,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	</table>
 	</div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>E) Install and Activate TraceTogether</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>E) Install and Activate TraceTogether</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">Install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application.</p>
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 0px; line-height:1.35;">Travellers aged 6 or below this year, or are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p>
@@ -184,14 +184,14 @@ third_nav_title: Arrivals from 31 March 2359h
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Pre-boarding Document Checks</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>Pre-boarding Document Checks</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">Transport operators may ask for documents listed at Stage 1 during pre-boarding checks. Failing which, you may be denied boarding.</p>
 	</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Immigration Clearance in Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>Immigration Clearance</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>Immigration Clearance</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes.</p>
@@ -202,7 +202,7 @@ third_nav_title: Arrivals from 31 March 2359h
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols during Stay in Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">All travellers must comply with the latest public health measures. This includes the use of the TraceTogether app for the identification of close contacts of a positive COVID-19 case, and/or showing proof of vaccination in settings where <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-differentiated Safe Management Measures (VDS)</a> apply.</p>
@@ -210,7 +210,7 @@ third_nav_title: Arrivals from 31 March 2359h
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for the latest public health measures.</p>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>B) Register Overseas Vaccination Record [Mandatory for Long Term Pass Holders]</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Register Overseas Vaccination Record [Mandatory for Long Term Pass Holders]</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you are vaccinated overseas and hold a long-term pass, e.g. Student’s Pass, Work Pass, you must register your overseas vaccination record into the Singapore National Immunisation Registry (NIR) if you have not done so already.</p>
