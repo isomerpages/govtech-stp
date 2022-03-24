@@ -86,11 +86,11 @@ third_nav_title: Arrivals from 31 March 2359h
 	    Travellers arriving in Singapore from countries/regions in Africa and South America with Yellow Fever risk</td>
 	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Click to check if you are required to have a Yellow Fever vaccination certificate</a></td>
     </tr>
-	     <tr>
+	<!--     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
 	    Driver of a Foreign vehicle entering Singapore by Land</td>
 	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html#extension_staying_more_14days" target="_blank">Ensure that your Vehicle Entry Permit is valid</a></td>
-    </tr>
+    </tr>-->
     </tbody>
   </table>  
 	</div>
