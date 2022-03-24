@@ -112,7 +112,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Under the new Vaccinated Travel Framework, all travel requirements are calibrated based mainly on the traveller’s COVID-19 vaccination status. <b>Please note that details on border measures for entry to Singapore via land will be announced separately.</b></p>
 
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">There are no Red List countries/regions today; all countries/regions come under the COVID-19 Green List. For the detailed entry and health protocols, click on the checklist that best describes the traveller’s profile:</p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">There are no Red List countries/regions today; all countries/regions come under the COVID-19 General Travel List. For the detailed entry and health protocols, click on the checklist that best describes the traveller’s profile:</p>
 
 <table>
   <thead>
@@ -129,7 +129,7 @@ Click here to return to the <a href="#top">top</a>.
 		     <li style="line-height:1.35;margin-top:10px;">Aged 12 and below (i.e. born in or after 2010) and not fully vaccinated against COVID-19</li>
 	      </ol>
 	    </td>
-	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="/greenlist-fully-vaccinated" target="_blank">Green List - Fully Vaccinated Traveller and Children’s Checklist</a></td>
+	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel - Fully Vaccinated Traveller and Children’s Checklist</a></td>
     </tr>
 	     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Aged 13 and above (i.e. born before 2010) and is:     	    
@@ -138,7 +138,7 @@ Click here to return to the <a href="#top">top</a>.
 		     <li style="line-height:1.35;margin-top:10px;">Is not fully vaccinated against COVID-19</li>
 	      </ol>
 		     </td>
-	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="/greenlist-non-fully-vaccinated" target="_blank">Green List - Non-Fully Vaccinated Traveller Checklist</a></td>
+	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">General Travel - Non-Fully Vaccinated Traveller Checklist</a></td>
     </tr>
 	   <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated, and had a COVID-19 infection between 7 – 90 days before departure for Singapore
