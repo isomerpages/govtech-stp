@@ -124,8 +124,8 @@ Click here to return to the <a href="#top">top</a>.
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
 	    <ol style="list-style-type:disc;">
-		    <li style="line-height:1.35;margin-top:10px;">Fully vaccinated against COVID-19; OR</li>
-		     <li style="line-height:1.35;margin-top:10px;">Aged 12 and below (i.e. born in or after 2010) and not fully vaccinated against COVID-19</li>
+		    <li style="line-height:1.35;margin-top:10px;font-size:18px;">Fully vaccinated against COVID-19; OR</li>
+		     <li style="line-height:1.35;margin-top:10px;font-size:18px;">Aged 12 and below (i.e. born in or after 2010) and not fully vaccinated against COVID-19</li>
 	      </ol>
 	    </td>
 	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category - Fully Vaccinated Traveller and Children’s Checklist</a></td>
