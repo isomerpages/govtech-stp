@@ -41,6 +41,10 @@ third_nav_title: Arrivals from 31 March 2359h
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Short-term Visitors</td>
 			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges. Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>)</td>
     </tr>
+	    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Long-term pass and in-principle approval (IPA) holders</td>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Travellers should have a valid pass card or IPA letters which will be shown during pre-boarding checks or on arrival</td>
+    </tr>
 		 <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Long-term pass and in-principle approval (IPA) holders</td>
 			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Travellers should have a valid pass card or IPA letters which will be shown during pre-boarding checks or on arrival</td>
