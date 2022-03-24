@@ -2,7 +2,20 @@
 title: Frequently Asked Questions
 permalink: /wphl/faq
 ---
-<div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<div style="padding: 10px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px;line-height:1.3; color:red;">The information on this page is only for pass holders who are <b>arriving before 31 March 2022, 2359h (SGT)</b>.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b>Note: For arrivals from 31 March 2022, 2359h:</b></p>
+	<ol style="list-style-type:disc;">
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Only non-Malaysian Work Permit holders with in-principle approvals (IPAs) in Construction, Marine shipyard or Process (CMP) sector need <a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">entry approvals to enter Singapore</a>. </li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">All other pass holders do not need entry approvals. They will have to comply with the travel requirements to enter Singapore:
+		<ol style="list-style-type:disc;">
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b>Fully vaccinated pass holders and non-fully vaccinated pass holders aged 12 and below</b> entering Singapore should refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Fully Vaccinated Travellers</a></li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b>Non-fully vaccinated pass holders aged 13 and above</b> should refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">General Travel Category Requirements for Non-Fully Vaccinated Travellers</a></li>
+				</ol>
+		</li>
+	</ol>
+</div>
+<!--<div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">The information on this page is only for travellers who are arriving <b>before 31 March 2022, 2359h (SGT)</b>.</p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect arrivals <b>from 31 March 2022, 2359h (SGT)</b>. Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
 	<ol style="list-style-type:disc;">
@@ -10,7 +23,7 @@ permalink: /wphl/faq
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
 	</ol>
 	</p>
-	</div>
+	</div>-->
 
 <div id="top"></div>
 
