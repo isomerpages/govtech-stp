@@ -3,7 +3,6 @@ title: Travelling to Singapore
 permalink: /arriving/overview
 description: Entry requirements and SafeTravel Lanes available when travelling to Singapore
 ---
-
 <div id="top"></div>
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">To manage travel during the COVID-19 pandemic, travellers entering Singapore will be subject to health-related protocols that are calibrated based on the traveller’s vaccination status and travel history. You may determine your entry options using the following tools:</p>
@@ -112,7 +111,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Under the new Vaccinated Travel Framework, all travel requirements are calibrated based mainly on the traveller’s COVID-19 vaccination status. <b>Please note that details on border measures for entry to Singapore via land will be announced separately.</b></p>
 
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">There are no Red List countries/regions today; all countries/regions come under the COVID-19 General Travel List. For the detailed entry and health protocols, click on the checklist that best describes the traveller’s profile:</p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">There are no Restricted Category countries/regions today; all countries/regions come under the COVID-19 General Travel Category. For the detailed entry and health protocols, click on the checklist that best describes the traveller’s profile:</p>
 
 <table>
   <thead>
@@ -185,4 +184,3 @@ Click here to return to the <a href="#top">top</a>.
 Click here to return to the <a href="#top">top</a>.
 
 ---
-
