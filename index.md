@@ -18,7 +18,7 @@ notification: <h6 style="text-align:left;"><!--Scheduled maintenance will be
 sections:
   - hero:
       title: <h3 style="font-size:20px; font-weight:bold; font-family:Arial; letter-spacing:0; line-height:1.35em; color:#333; margin-bottom:-50px; margin-top:-50px;">Singapore has reopened to travellers who are fully vaccinated against COVID-19. </h3>
-      subtitle: Click the buttons below for the latest travel requirements and advisories for arrival, transit or departure.
+      subtitle: <h3 style="font-size:20px; font-weight:bold; font-family:Arial; letter-spacing:0; line-height:1.35em; color:#333; margin-bottom:-50px; margin-top:-50px;">Click the buttons below for the latest travel requirements and advisories for arrival, transit or departure.</h3>
       background: /images/homepage2.png
       key_highlights:
         - title: Travelling to Singapore <span style="font-size:20px;"> &#187; </span>
