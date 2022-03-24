@@ -1051,7 +1051,7 @@ Purchase of travel insurance is a condition of the VTL. Non-compliance with any 
 
 #### 1. What hotels are approved for stay for short-term VTL (Sea) travellers?
 
-Please refer to the <a href="https://sha.org.sg/vaccinated-travel-lanel" target="_blank">list of approved hotels</a> on the Singapore Hotel Association (SHA) website.
+Please refer to the <a href="https://sha.org.sg/vaccinated-travel-lane" target="_blank">list of approved hotels</a> on the Singapore Hotel Association (SHA) website.
 
 #### 2. Why are short-term VTL (Sea) travellers not allowed to stay with their friends or relatives in Singapore?
 
