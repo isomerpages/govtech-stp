@@ -34,7 +34,7 @@ description: ""
 
 <div id="stage1" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 1: Pre-Departure for Singapore</b></div>
 
-<p id="stage1a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>A) Apply for SafeTravel Periodic Commuting Arrangement (PCA) Pass</b></i></u></p>
+<p id="stage1a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9634;  <u><i><b>A) Apply for SafeTravel Periodic Commuting Arrangement (PCA) Pass</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Singapore-based companies (i.e. application sponsors) must <a href="https://go.gov.sg/pcamsia" target="_blank">apply for a PCA Pass on behalf of employees via the application portal here.</a></p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">The employees must spend <b>at least 90 days in Singapore for work upon entry</b>. Applications must be submitted at least 7 calendar days before the planned date of entry. Eligible employees must be:
@@ -58,7 +58,7 @@ description: ""
 		 </li>
 	</ol>
 
-<p id="stage1b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>B) Secure Self-Isolation Accommodation</b></i></u></p>
+<p id="stage1b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9634;  <u><i><b>B) Secure Self-Isolation Accommodation</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Travellers will be placed on 7-day Stay-Home Notice (SHN), which they must complete before going about with their activities in Singapore. They may complete their SHN at a place of residence (see advisory below), self-sourced hotel, or <a href="/files/serviced-apartments.pdf" target="_blank">serviced apartment</a>. For hotel bookings, travellers may refer to this <a href="https://sha.org.sg/stay-home-notice" target="_blank">non-exhaustive hotel list</a>. </p>
 
@@ -75,7 +75,7 @@ description: ""
 	</p>
 </div>
 
-<p id="stage1c" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction (PCR) Test or Antigen Rapid Test (ART)</b></i></u></p>
+<p id="stage1c" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9634;  <u><i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction (PCR) Test or Antigen Rapid Test (ART)</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Travellers must take a pre-departure COVID-19 PCR test or ART <b>within 2 days before departure for Singapore</b>. The test must be taken at a <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm" target="_blank">recognised or accredited laboratory in Malaysia</a>.</p>
 
@@ -86,7 +86,7 @@ description: ""
 	</ol>
 </p>
 
-<p id="stage1d" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9744;  <u><i><b>D) Submission of Health Declaration</b></i></u></p>
+<p id="stage1d" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">&#9634;  <u><i><b>D) Submission of Health Declaration</b></i></u></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration, within 3 days before arriving in Singapore</p>
 
@@ -98,13 +98,13 @@ description: ""
 	</ol>
 </p>
 
-<p id="stage1e" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>E) Contact Tracing</b></i></u></p>
+<p id="stage1e" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9634;  <u><i><b>E) Contact Tracing</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:30px; line-height:1.5;">Travellers must download the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a>, <a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank"> FWMOMCARE</a>  and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications and register their profile on these applications to facilitate contact tracing. Individuals who are unable to use a mobile device due to a certified disability or special need, are eligible to be issued physical TraceTogether tokens.</p>
 
 <div id="stage2" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 2: Departure for Singapore</b></div>
 
-<p id="stage2a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>Pre-Departure Checks</b></i></u></p>
+<p id="stage2a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9634;  <u><i><b>Pre-Departure Checks</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Travellers are strongly advised to prepare the following documents, which may be requested by the Malaysian authorities during departure:
 <ol style="list-style-type:lower-roman; padding-left:25px;">
@@ -117,13 +117,13 @@ description: ""
 
 <div id="stage3" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 3: Arrival in Singapore</b></div>
 
-<p id="stage3a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>A) Immigration Clearance</b></i></u></p>
+<p id="stage3a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9634;  <u><i><b>A) Immigration Clearance</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Follow the instructions provided by the ground officers and signages on arrival.</p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">As part of immigration clearance, travellers may be required to present the same set of documentation listed in <a href="#stage2">Stage 2</a>. Travellers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> overseas should also present their vaccination certificate(s) to the immigration officer, who will facilitate the registration of the traveller’s vaccination status into TraceTogether. This will allow the traveller to qualify for vaccination-differentiated safe management measures (VDS) adopted in Singapore for up to 30 days. </p>
 <p style="line-height:1.35;font-size:18px;">If detected to be symptomatic or COVID positive on arrival, travellers may be subjected to additional tests at S$30 (inclusive of GST) per ART or S$138 (inclusive of GST) per PCR test. Officers stationed on the ground will provide the necessary instructions.</p>
 
-<p id="stage3b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) Transport to Declared SHN Accommodation</b></i></u></p>
+<p id="stage3b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9634;  <u><i><b>B) Transport to Declared SHN Accommodation</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:20px; line-height:1.5;">Travellers must commute directly to their declared accommodation for the completion of their 7-day Stay Home Notice. They may do so using private transport, taxi, or private hire cars (see advisories below). The use of public transport, e.g. trains or buses, is prohibited.</p>
 
@@ -159,7 +159,7 @@ description: ""
 
 <div id="stage4" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 4: Stay-Home Notice and COVID-19 Test</b></div>
 
-<p id="stage4a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>A) Stay-Home Notice (SHN)</b></i></u></p>
+<p id="stage4a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9634;  <u><i><b>A) Stay-Home Notice (SHN)</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">
 Travellers must serve a 7-day Stay-Home Notice (SHN) which takes effect immediately upon its issuance. Travellers must remain in the declared SHN accommodation for the period specified in their SHN, unless they have/have been:
@@ -174,7 +174,7 @@ Travellers must serve a 7-day Stay-Home Notice (SHN) which takes effect immediat
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act and a breach of the additional work pass conditions. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. <a href="/health/shn" target="_blank">Click here</a> for information on SHN-compliance. </p>
 
-<p id="stage4b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) End-of-SHN COVID-19 Test</b></i></u></p>
+<p id="stage4b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9634;  <u><i><b>B) End-of-SHN COVID-19 Test</b></i></u></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) before the end of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance by <a href="https://go.gov.sg/sto-enquiry" target="_blank">completing this form</a>. </p>
 
@@ -182,7 +182,7 @@ Travellers must serve a 7-day Stay-Home Notice (SHN) which takes effect immediat
 
 <div id="stage5" style="background-color:#153855; color: #FFFFFF; font-size: 20px; line-height:1.5; margin-top:30px; margin: 20px 0px 20px 0px;"><b style="padding-left:10px;">Stage 5: End of Stay-Home Notice</b></div>
 
-<p id="stage5a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>A) Release from Stay-Home Notice (SHN)</b></i></u></p>
+<p id="stage5a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9634;  <u><i><b>A) Release from Stay-Home Notice (SHN)</b></i></u></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">
 Travellers may end their SHN upon the receipt of a negative COVID-19 PCR test result, or upon completion of the 7-day SHN, whichever is later. The result could be released to the traveller via email or call in around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>.
@@ -190,7 +190,7 @@ Travellers may end their SHN upon the receipt of a negative COVID-19 PCR test re
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Travellers who test positive for COVID-19 must receive <a href="/health/insurance-and-treatment#treatment" target="_blank">medical treatment</a>. The medical expenses incurred will be borne by the employer if the traveller infected with COVID-19 within 14 days of their entry into Singapore. Otherwise, the prevailing medical treatment charges will apply. Singapore Permanent Residents, may, access Government subsidies and Medishield Life/Integrated Shield Plans to pay for their medical bills.</p>
 
-<p id="stage5b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9744;  <u><i><b>B) Abide by local COVID-19 Safe Management Measures</b></i></u></p>
+<p id="stage5b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9634;  <u><i><b>B) Abide by local COVID-19 Safe Management Measures</b></i></u></p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">After self-isolation, travellers may go about their activities but must comply with the latest public health measures. </p>
 
