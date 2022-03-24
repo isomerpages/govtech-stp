@@ -94,10 +94,10 @@ The following groups of travellers are <b>responsible for all costs associated w
 <li style="padding-left:10px; line-height:1.5;">All SCs/PRs/LTPHs who are subjected to Restricted Category* border measures and test positive or develop onset of symptoms for COVID-19 within 7 days of their arrival to Singapore, regardless of their vaccination status. (* <i>There are currently no Restricted Category countries/regions</i>.)</li>
 </ol>
 
-SC/PR/LTPH travellers who are subjected to Low Infection Category or General Travel Category border measures will be subject to the prevailing charging policy for treatment of local community COVID-19 cases (i.e. non-travellers). This means that travellers who have been fully vaccinated, medically exempted from vaccination or are aged 12 years and below (i.e. born in or before 2010) will no longer be required to pay for medical bills incurred for COVID-19 treatment in hospitals and CTFs, even if they develop onset of symptoms or test positive for COVID-19 within 14 days of their return to Singapore.
+In line with the prevailing charging policy for local community cases (i.e., non-travellers), SC/PR/LTPH travellers who (i) have been fully vaccinated or (ii) are certified to be medically ineligible for COVID-19 vaccines under the National Vaccination Programme or (iii) are children aged 12 years and below (i.e., born in or after 2010), <b>and</b> are subjected to Low Infection Category or General Travel Category border measures will not be required to pay for the medical bills incurred if they require admission for COVID-19 treatment in hospitals and CTFs. 
 
 SCs and PRs may access Government subsidies, MediSave and MediShield Life/Integrated Shield Plans, where applicable. LTPHs and STVPs may tap on private insurance, if applicable. There are no subsidies available to LTPHs and STVPs and they will have to rely on their <a href="#insurance">private insurance</a> if any, to cover their medical costs.
 
-Charges for hospitals and community facilities are billed separately. All paying patients may enquire about the relevant charges during financial counselling at the point of admission to the hospital or CCF.
+Charges for hospitals and community facilities are billed separately. All paying patients may enquire about the relevant charges during financial counselling at the point of admission to the facility.
 
 This cost of hospitalisation at the hospitals and/or community facilities are separate from the cost of <a href="/health/shn#sdf" target="_blank">Stay-Home-Notice (SHN) Dedicated Facilities</a>.
