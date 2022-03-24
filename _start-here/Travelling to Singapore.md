@@ -109,7 +109,7 @@ Click here to return to the <a href="#top">top</a>.
 
 #### Travellers arriving from 31 March 2022, 2359h
 
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Under the new Vaccinated Travel Framework, all travel requirements are calibrated based mainly on the traveller’s COVID-19 vaccination status. <b>Please note that details on border measures for entry to Singapore via land will be announced separately.</b></p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Under the new Vaccinated Travel Framework, all travel requirements are calibrated based mainly on the traveller’s COVID-19 vaccination status.</p>
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">There are no Restricted Category countries/regions today; all countries/regions come under the COVID-19 General Travel Category. For the detailed entry and health protocols, click on the checklist that best describes the traveller’s profile:</p>
 
