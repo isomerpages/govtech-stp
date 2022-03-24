@@ -210,7 +210,7 @@ third_nav_title: Arrivals from 31 March 2359h
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for the latest public health measures.</p>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>C) Register Overseas Vaccination Record [Mandatory for Long Term Pass Holders]</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>B) Register Overseas Vaccination Record [Mandatory for Long Term Pass Holders]</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you are vaccinated overseas and hold a long-term pass, e.g. Student’s Pass, Work Pass, you must register your overseas vaccination record into the Singapore National Immunisation Registry (NIR) if you have not done so already.</p>
