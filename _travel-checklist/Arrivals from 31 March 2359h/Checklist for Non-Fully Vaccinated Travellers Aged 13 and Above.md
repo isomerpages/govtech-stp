@@ -13,8 +13,8 @@ third_nav_title: Arrivals from 31 March 2359h
        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Certified medically ineligible for COVID-19 vaccination</li>
   </ol>
   </p>
-    <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. If this checklist does not apply to you, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page for the entry requirements most relevant to you.</p>
-   <p style="font-size:16px; margin-top:10px;margin-bottom:0px;  line-height:1.4; color:black;">Readers referencing this checklist can indicate "<b>✓</b>" in the boxes (☐) for completed activities.</p>
+    <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. If this checklist does not apply to you, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page for the entry requirements most relevant to you.</p>
+   <p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4; color:black;">Readers referencing this checklist can indicate "<b>✓</b>" in the boxes (☐) for completed activities.</p>
   </div>
   
   
