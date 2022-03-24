@@ -46,9 +46,9 @@ You can find the following forms of commonly requested support on this page:
  </tr>
 			   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Vaccinated Travel Framework</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">The Vaccinated Travel Framework (VTF) will commence for arrivals from 31 March 2022, 2359H. If you are entering before this date/time, you are ineligible for the entry and travel protocols accorded under VTF.</p>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">The Vaccinated Travel Framework (VTF) will commence for arrivals <b>from 31 March 2022, 2359H</b>. If you are entering before this date/time, you are ineligible for the entry and travel protocols accorded under VTF.</p>
 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">For travellers arriving from Malaysia via land, details on the revised border measures for fully vaccinated travellers will be announced jointly with Malaysia soon.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Visit the “Travelling to Singapore” page for full details on entry and travel protocols. </p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Visit the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for full details on entry and travel protocols. </p>
 </td>
  </tr>
 	 <tr>
