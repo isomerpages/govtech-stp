@@ -3,6 +3,10 @@ title: Additional Work Pass Conditions
 permalink: /malaysia/pca/terms-and-conditions
 description: ""
 ---
+<div style="padding-left: 5px; padding-bottom: 20px; padding-top: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+	<p style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;"><b><span style="color:red;">NOTICE:</span></b> Singapore and Malaysia are working towards the full resumption of land travel with Malaysia for fully vaccinated persons. Details on the revised border measures for fully vaccinated travellers entering Singapore via the land borders will be announced jointly with Malaysia soon.</p>
+	</div>
+
 ### **Application for the Periodic Commuting Arrangement (“PCA”) Scheme**
 
 <ol>
