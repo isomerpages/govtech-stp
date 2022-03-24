@@ -10,15 +10,6 @@ third_nav_title: VTL Land
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b>Notice:</b> Singapore and Malaysia are working towards the full resumption of land travel with Malaysia for fully vaccinated persons. Details on the revised border measures for fully vaccinated travellers entering Singapore via the land borders will be announced jointly with Malaysia soon.</p>
 	</div>
 
-
-<!-- 3pm -->
-
-<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">The conditions on this page are only for Vaccinated Travel Lane (Land) [VTL (Land)] travellers who are arriving before 31 March 2022, 2359h. </p>
-	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b>Please note that all fully vaccinated travellers and children aged 12 and below entering Singapore from 31 March 2022, 2359h (SGT) will be able to enter Singapore quarantine-free via any mode of transport and refer to the <a href="/greenlist-fully-vaccinated" target="_blank">Green List Requirements for Fully Vaccinated Travellers and Non-Fully Vaccinated Children</a> instead of the VTL requirements on this page.</b> Short-term visitors and Work Permit holders will also no longer need to apply for a Vaccinated Travel Pass (VTP) or present their VTP if they already have one. </p>
-	</div>
--->
-
 <p style="font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.4;">The Vaccinated Travel Lane (Land) [VTL (Land)] allows quarantine-free travel to Singapore via the Causeway. Please note that:</p>
 <ol style="padding-left: 20px; font-size:18px; list-style-type: disc">
 	<li style="font-size:18px; line-height:1.4;">Travellers intending to travel to Singapore by air should utilise the <a href="/vtl/requirements-and-process" target="_blank">Vaccinated Travel Lane (Air)</a>. <b>VTP (Land) and VTP (Air) approvals are not interchangeable.</b></li>
