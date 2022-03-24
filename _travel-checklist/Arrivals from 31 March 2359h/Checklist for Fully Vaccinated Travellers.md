@@ -54,11 +54,11 @@ third_nav_title: Arrivals from 31 March 2359h
     </tr>-->
 										<!--<tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Drivers of foreign-registered vehicles</td>
-			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Drivers of foreign-registered vehicles must present LTA’s Vehicle Entry Permit (VEP) approval email and valid Autopass cards during immigration clearance. They are not allowed to apply for VEP/ Autopass cards or update their road tax and motor insurance for existing Autopass cards at Singapore’s land checkpoints.</p>
- <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"></p>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Drivers of foreign-registered vehicles must present LTA’s Vehicle Entry Permit (VEP) approval email and valid Autopass cards during immigration clearance. They are not allowed to apply for VEP/ Autopass cards or update their road tax and motor insurance for existing Autopass cards at Singapore’s land checkpoints.</p>
+ <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Instructions for applying for new VEP/ Autopass cards and updating road tax and insurance details for foreign-registered vehicles are as follow:</p>
 <ol>
 </ol>
- <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"></p>
+ <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Travellers are advised to plan at least two weeks ahead of their intended travel dates to allow sufficient time for VEP application and approval.</p>
 </td>
     </tr>-->
 		</tbody>
