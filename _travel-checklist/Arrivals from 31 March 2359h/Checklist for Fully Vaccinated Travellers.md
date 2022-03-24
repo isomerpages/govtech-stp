@@ -17,7 +17,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9633;&nbsp; &#9633; <b>A) Obtain Additional Approvals and Travel-Related Documents (if necessary)</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9633;&nbsp; &#9634; <b>A) Obtain Additional Approvals and Travel-Related Documents (if necessary)</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Additional travel documents are required for travellers listed in the table below for entry into Singapore. If you are not any of the traveller types listed below, you can enter Singapore without these additional documents, but are reminded to ensure that your passport is valid for at least 6 months.</p>
 	<table>
