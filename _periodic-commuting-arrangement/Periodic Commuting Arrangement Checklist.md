@@ -4,7 +4,7 @@ permalink: /pca/requirements-and-process
 description: ""
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">The conditions on this page are only for travellers who are <b>arriving before 31 March 2022, 2359h</b>. </p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">The information on this page is only for travellers who are <b>arriving before 31 March 2022, 2359h</b>. </p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Please note that Vaccinated Travel Framework takes effect <b>for arrivals from 31 March 2022, 2359h (SGT):</b></p>
 <ol style="list-style-type: disc; padding-left:20px;">
 	 <li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</b> entering Singapore should refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Vaccinated Travellers</a></li>
