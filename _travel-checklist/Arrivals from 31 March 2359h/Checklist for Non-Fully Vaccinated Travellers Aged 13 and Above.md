@@ -50,7 +50,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	      </ol>
 	    </td>
 	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP) and STP In-Principle Approval Holders</u></b></p><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this form</a>.</p><p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.35;"><b><u>Long-term passes issued by MOM</u></b></p> 
-<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;"><a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry</a>. The request must be approved before pass holders can enter Singapore. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.
+<p style="font-size:18px; margin-top:10px; margin-bottom:20px; line-height:1.35;"><a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry</a>. Request is subject to approval. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.
 </p>
 </td>
     </tr>
@@ -95,7 +95,7 @@ third_nav_title: Arrivals from 31 March 2359h
 &#9744; &nbsp;&nbsp;<b>B) Monitor Health Status</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
-<p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you had tested positive for COVID-19 between 14 to 90 days before the date of departure for Singapore, use this tool to check if you qualify as a recovered traveller. You will be eligible for the recovered traveller protocols, if you can produce a valid COVID-19 positive certificate/proof (definition below):
+<p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you had tested positive for COVID-19 <b>between 14 to 90 days before the date of departure for Singapore</b>, use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if you qualify as a recovered traveller. You will be eligible for the recovered traveller protocols, if you can produce a valid COVID-19 positive certificate/proof (definition below):
 </p>
 	
 <table>
@@ -129,13 +129,13 @@ third_nav_title: Arrivals from 31 March 2359h
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1D">
 &#9744; &nbsp;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT)</b></div>
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">If you are born before 2020 (i.e. above 2 years old), take any of the following COVID-19 tests within 2 days before departure: </p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">If you are born before 2020 (i.e. above 2 years old) & not a recovered traveller, take any of the following COVID-19 tests within 2 days before departure: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) that is:
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Administered by a trained professional; or</li>
-			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">[Eligible travellers only] Self-administered Antigen Rapid Test (ART) remotely supervised by an approved ART provider in Singapore. Please refer to <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">MOH’s listing of remote supervised self-swab providers</a> for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Eligible travellers only]</b> Self-administered Antigen Rapid Test (ART) remotely supervised by an approved ART provider in Singapore. Please refer to <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">MOH’s listing of remote supervised self-swab providers</a> for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
 				</ol>
 	</li>
 	</ol>
@@ -249,12 +249,13 @@ third_nav_title: Arrivals from 31 March 2359h
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (PCR Test) at the end of the SHN period.</li>
 	</ol>
 	</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You will be scheduled for a mandatory COVID-19 Polymerase Chain Reaction Test (PCR Test) before the end of your Stay-Home Notice (SHN). To avoid queues, pay for your test during your application for Entry Approval. Otherwise, pay for the test using the payment link found in your SHN (sent to your email address) before your appointment to avoid queues. Including GST, each test comes up to S$125.
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You will be scheduled for a mandatory COVID-19 Polymerase Chain Reaction Test (PCR Test) before the end of your Stay-Home Notice (SHN). To avoid queues, pay for your test during your application for Entry Approval. Otherwise, pay for the test using the payment link found in your SHN (sent to your email address) before your appointment. Including GST, each test comes up to S$125.
 	</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, please contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
 	</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, whichever is later. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked.</p>	
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, <b>whichever is later</b>. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked.</p>	
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please refer to the Frequently Asked SHN questions below.</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Click "+" for details</p>
 <html>
 
 <head>
