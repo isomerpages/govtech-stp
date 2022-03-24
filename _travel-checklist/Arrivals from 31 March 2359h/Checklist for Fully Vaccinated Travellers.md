@@ -44,11 +44,7 @@ third_nav_title: Arrivals from 31 March 2359h
     </tr>
 	    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Long-term pass and in-principle approval (IPA) holders</td>
-			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Travellers should have a valid pass card or IPA letters which will be shown during pre-boarding checks or on arrival</td>
-    </tr>
-		 <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Long-term pass and in-principle approval (IPA) holders</td>
-			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Travellers should have a valid pass card or IPA letters which will be shown during pre-boarding checks or on arrival</td>
+			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Travellers should have a valid pass card or IPA letter which will be shown during pre-boarding checks or on arrival</td>
     </tr>
 						    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Arriving in Singapore from countries/regions in Africa and South America with Yellow Fever risk</td>
@@ -140,7 +136,7 @@ third_nav_title: Arrivals from 31 March 2359h
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT)</b></div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">If you are born before 2020 (i.e. above 2 years old), take any of the following COVID-19 tests <b>within 2 days before departure</b>:</p>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">If you are <b>born before 2020</b> (i.e. above 2 years old), take any of the following COVID-19 tests <b>within 2 days before departure</b>:</p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) <a target="_blank" href="https://go.gov.sg/accreditation-bodies-for-covid19-testing">at an internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b></li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) that is:
@@ -203,8 +199,8 @@ third_nav_title: Arrivals from 31 March 2359h
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>A) Post-arrival Antigen Rapid Test (Land Arrivals only)</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you are born before 2020 (i.e. above 2 years old) and had arrived in Singapore via land checkpoint, take an unsupervised self-administered Antigen Rapid Test (ART) within 24 hours of arrival. You can take the ART using a self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kit</a>, or kit approved for use in the country/region of embarkment.</p>
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">You can proceed with your activities in Singapore, only after testing negative on your ART. Your ART result must also be submitted to <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a>. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) can submit their results using Singpass. If you do not have a Singpass account, submit your results using your passport number, date of birth and nationality. If you test positive on your ART, these health protocols will apply.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you are <b>born before 2020</b> (i.e. above 2 years old) and had arrived in Singapore via <b>land checkpoint</b>, take an unsupervised self-administered Antigen Rapid Test (ART) within 24 hours of arrival. You can take the ART using a self-procured <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests" target="_blank">authorised ART kit</a>, or kit approved for use in the country/region of embarkment.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">You can proceed with your activities in Singapore, only after testing negative on your ART. Your ART result must also be submitted to <a href="https://www.sync.gov.sg" target="_blank">https://www.sync.gov.sg</a>. Singapore Citizens, Permanent Residents and Long-Term Pass Holders (LTPHs) can submit their results using Singpass. If you do not have a Singpass account, submit your results using your passport number, date of birth and nationality. If you test positive on your ART, these <a href="https://covid.gov.sg/travellers" target="_blank">health protocols will apply</a>.</p>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9744;&nbsp;<b>B) COVID-19 Safe Management Measures and Proof of Vaccination</b></div>
