@@ -10,8 +10,8 @@ description: ""
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Only non-Malaysian Work Permit holders with in-principle approvals (IPAs) in Construction, Marine shipyard or Process (CMP) sector need <u>entry approvals to enter Singapore</u>. </li>
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">All other pass holders do not need entry approvals. They will have to comply with the travel requirements to enter Singapore:
 		<ol style="list-style-type:disc;">
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b>Fully vaccinated pass holders and non-fully vaccinated pass holders aged 12 and below</b> entering Singapore should refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Requirements for Vaccinated Travellers</a></li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b>Non-fully vaccinated pass holders aged 13 and above</b> should refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">General Travel Requirements for Non-Fully Vaccinated Travellers</a></li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b>Fully vaccinated pass holders and non-fully vaccinated pass holders aged 12 and below</b> entering Singapore should refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Requirements for Fully Vaccinated Travellers</a></li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b>Non-fully vaccinated pass holders aged 13 and above</b> should refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">General Travel Requirements for Non-Fully Vaccinated Travellers</a></li>
 				</ol>
 		</li>
 	</ol>
