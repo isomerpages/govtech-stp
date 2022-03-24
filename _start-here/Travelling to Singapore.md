@@ -133,8 +133,8 @@ Click here to return to the <a href="#top">top</a>.
 	     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Aged 13 and above (i.e. born before 2010) and is:     	    
 	      <ol style="list-style-type:disc;">
-		    <li style="line-height:1.35;margin-top:10px;">Is medically ineligible for COVID-19 vaccines;</li>
-		     <li style="line-height:1.35;margin-top:10px;">Is not fully vaccinated against COVID-19</li>
+		    <li style="line-height:1.35;margin-top:10px;font-size:18px;">Medically ineligible for COVID-19 vaccines;</li>
+		     <li style="line-height:1.35;margin-top:10px; font-size:18px;">Not fully vaccinated against COVID-19</li>
 	      </ol>
 		     </td>
 	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">General Travel Category - Non-Fully Vaccinated Traveller Checklist</a></td>
