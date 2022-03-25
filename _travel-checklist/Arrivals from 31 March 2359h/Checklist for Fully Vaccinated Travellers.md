@@ -91,53 +91,22 @@ third_nav_title: Arrivals from 31 March 2359h
 
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>C) Pre-trip Declarations and Vaccination Checks</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Up to 72 hours before arrival in Singapore, complete the electronic <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> by submitting your:</p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Travellers are strongly encouraged to complete the electronic <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> declaration <b>before departure</b>, up to 72 hours before arrival in Singapore. <b>The acknowledgement email issued upon submission can be shown on boarding or on arrival for smoother document checks.</b> The submission is free of charge and simply involves submission of:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Pre-trip health and travel history details</li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally verifiable vaccination certificate</a> (DVC), i.e. vaccination certificate with a QR code, if applicable</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Recognised <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally verifiable vaccination certificate</a> (DVC), if you had been vaccinated outside Singapore. Travellers who had been fully vaccinated in Singapore or do who do not hold a recognised DVC do not need to submit their certificates. You can refer to the <a href="/faq#vaxcert" target="_blank">vaccination certificate FAQ</a> if you face problems uploading.</li>
 				</ol>	
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you are unable to perform step (b) above, please obtain any alternative proof listed below of recent COVID-19 vaccination to qualify as a “fully vaccinated” traveller:</p>
-	<table>
-  <thead>
-    <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Place of vaccination</b></th>
-			     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Acceptable proof of recent COVID-19 vaccination</b></th>
-    </tr>
-  </thead>
-  <tbody>
-		    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Singapore</b></td>
-			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: lower-roman;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination certificate </li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination status as shown in the <a href="https://www.healthhub.sg/" target="_blank">HealthHub mobile application</a></li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination status as shown in the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile application</a></li>
-	</ol></td>
-    </tr>
-				    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Outside Singapore</b></td>
-			      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">		<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:upper-alpha;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally-verifiable vaccination certificate</a>; <b>OR</b> </li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination certificate with the following details in English, or translated to English with notarisation:
-			<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+<p style=" font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">If you did not upload your DVC at step (b) above or faced errors, please ensure you have your vaccination certificate if needed for boarding/immigration with the following details in English, or translated to English with notarisation:</p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Name (per travel document used for entry)</li>
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Country of vaccination</li>
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination date(s)</li>
 			</ol>
-		</li>
-	</ol>
-<p style=" font-size:18px; margin-top:20px; margin-bottom: 20px; line-height:1.35;"><a href="/health/vtsg" target="_blank">Click here</a> for the list of acceptable vaccines.</p>
-<div style="padding: 5px; margin-bottom:20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 2px;">
-<p style=" font-size:18px; margin-top:20px; margin-bottom: 0px; line-height:1.35; color:red;">💡 <b><u>DVC Quick Tips</u></b>:</p>
-<p style=" font-size:18px; margin-top:20px; margin-bottom: 0px; line-height:1.35;">For quicker pre-boarding checks and immigration clearance, travellers are encouraged to verify their DVC via the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal (VCP)</a> before arrival in Singapore. This is an optional step, and travellers can continue to enter Singapore if they produce the requisite vaccination and entry (if required) documents.</p>
-<p style=" font-size:18px; margin-top:20px; margin-bottom: 0px; line-height:1.35;">For more information on DVCs, please refer to the FAQ <a href="/faq#vaxcert" target="_blank">here</a>.</p>
-	</div>
-</td>
-    </tr>
-		</tbody>
-	</table>
-  </div>
+
+<p style=" font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">For planning purposes, travellers can also optionally verify their DVC via the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal (VCP)</a> before arrival in Singapore, at any time before their trip. </p>
+ </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT) (for arrivals by air and sea only)</b></div>
 

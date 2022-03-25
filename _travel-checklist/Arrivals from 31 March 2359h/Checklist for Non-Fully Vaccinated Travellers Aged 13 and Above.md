@@ -4,16 +4,16 @@ permalink: /arriving/general-travel/non-fully-vaccinated
 description: ""
 third_nav_title: Arrivals from 31 March 2359h
 ---
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
   <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This travel checklist is for travellers aged 13 and above (i.e. born before 2010) who are entering Singapore from 31 March 2022, 2359H, and are:
   <ol style="padding-left:25px; list-style-type:disc;">
-    <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><b>Not</b> considered <a href="/health/vtsg" target="_blank">fully vaccinated against COVID-19</a>; OR</li>
+    <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><b>Not</b> considered <a href="/health/vtsg" target="_blank">fully vaccinated against COVID-19</a>; <b>OR</b></li>
        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Certified medically ineligible for COVID-19 vaccination</li>
   </ol>
   </p>
     <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. If this checklist does not apply to you, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page for the entry requirements most relevant to you.</p>
-   <p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4; color:black;">Readers referencing this checklist can indicate "<b>✓</b>" in the boxes (☐) for completed activities.</p>
+   <p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4; color:black;">Readers referencing this checklist can indicate "<b>✓</b>" in the boxes (&#9634;) for completed activities.</p>
   </div>
   
   
@@ -133,8 +133,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1C">
 &#9634; &nbsp;&nbsp;<b>C) Pre-trip Declarations</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Up to 72 hours before arrival in Singapore, complete the electronic <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> by submitting your pre-trip health and travel history details. All SGAC submissions are free of charge.</p>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers are strongly encouraged to complete the electronic <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> declaration <b>before departure</b>, up to 72 hours before arrival in Singapore. <b>The acknowledgement email issued upon submission can be shown on boarding or on arrival for smoother document checks.</b> The submission is free of charge and simply involves submission of pre-trip health and travel history details.</p>
 	</div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1D">
@@ -264,8 +263,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, please contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
 	</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, <b>whichever is later</b>. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked.</p>	
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please refer to the Frequently Asked SHN questions below.</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Click "+" for details</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please refer to the Frequently Asked SHN questions below. (<i>Click "+" for details</i>)</p>
 <html>
 
 <head>
