@@ -49,12 +49,17 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
   </div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Apply for Entry Approval</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><b>Apply <u>between 7 and 60 calendar days</u> before the intended date of entry.</b></p>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect for arrivals from 31 March 2022, 2359h (SGT). Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
+	<ol style="list-style-type:disc;">
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
+	</ol>
+	</p>
+<!--	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><b>Apply <u>between 7 and 60 calendar days</u> before the intended date of entry.</b></p>
 <div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="/atp/apply-now" target="_blank"><b>Foreign Short-Term Visitors<br>Click Here To Apply For an ATP</b></a></div>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Successful applicants will receive an approval letter via email, usually within 2 to 3 days.</p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.
-</p>
+</p>-->
   </div>	
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>C)	Apply for Entry Visa (if applicable)</b></div>
