@@ -64,12 +64,13 @@ Travellers who do not meet any of the above requirements are not considered full
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Astrazeneca</td>
 								<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</td>
 								<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
-								<td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">24 days</td>
+								<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">24 days</td>
 		</tr>
 				<tr>
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Serum Institute of India</td>
 								<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Covishield (ChAdOx1_nCoV-19)</td>
 					<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
+													<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">24 days</td>
 		</tr>
 				<tr>
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Janssen</td>
