@@ -91,7 +91,7 @@ third_nav_title: Arrivals from 31 March 2359h
 
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>C) Pre-trip Declarations and Vaccination Checks</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Up to 72 hours before arrival in Singapore, complete the electronic <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> by submitting your:</p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Travellers are strongly encouraged to complete the electronic SG Arrival Card (SGAC) declaration before departure, up to 72 hours before arrival in Singapore. The acknowledgement email issued upon submission can be shown on boarding or on arrival for smoother document checks. The submission is free of charge and simply involves submission of:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Pre-trip health and travel history details</li>
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally verifiable vaccination certificate</a> (DVC), i.e. vaccination certificate with a QR code, if applicable</li>
