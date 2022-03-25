@@ -96,9 +96,30 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges. Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>)</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Short term visitors holding passports or travel documents issued by visa-required countries/regions should also <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">click here to check if visa is required and to apply for an Entry Visa</p>
 </div>
+	<input id="LTP-IPA" type="checkbox">
+<label for="LTP-IPA"><b>Long-term pass and in-principle approval (IPA) holders </b></label>
+<div style="background-color:#edf4fa;" class="content">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers should have a valid pass card or IPA letter which will be shown during pre-boarding checks or on arrival.</p>
+</div>
+	<input id="YF" type="checkbox">
+<label for="YF"><b>Arriving in Singapore from countries/regions in Africa and South America with Yellow Fever risk </b></label>
+<div style="background-color:#edf4fa;" class="content">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Click to check if you are required to have a Yellow Fever vaccination certificate</p>
+</div>
+<input id="Foreign-vehicle" type="checkbox">
+<label for="Foreign-vehicle"><b>Drivers of foreign-registered vehicles entering by land </b></label>
+<div style="background-color:#edf4fa;" class="content">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Drivers of foreign-registered vehicles must ensure they have a valid Vehicle Entry Permit (VEP) approval email, valid Autopass card and motor insurance. <b>They are not allowed to apply for or update these documents at Singapore's land checkpoints but must do so online on the OneMotoring website:</b></p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Apply for VEP/Autopass card (applications only open from 31 March 2022):</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> > Digital Services > Apply for VEP / Autopass Card
+</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Update the foreign-registered car and motorcycle road tax and motor insurance for existing valid Autopass cards:</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</b> > Digital Services > Update Road Tax and Insurance Validity for VEP (Foreign Cars and Motorcycles).
+</li>
+	</ol>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers are advised to plan at least two weeks ahead of their intended travel dates to allow sufficient time for VEP application and approval</p>	
+</div>
 	</body>	
   </div>
-
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Monitor Health Status</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
