@@ -19,10 +19,9 @@ third_nav_title: Arrivals from 31 March 2359h
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp; <b>A) Obtain Additional Approvals and Travel-Related Documents (if necessary)</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Additional travel documents are required for travellers listed in the table below for entry into Singapore. If you are not any of the traveller types listed below, you can enter Singapore without these additional documents, but are reminded to ensure that your passport is valid for at least 6 months.</p>
-
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>Traveller Type and Application/Resource links [Click on ‘+’ below to expand]</b></p>	
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Please refer to the requirements for all traveller types that apply. E.g. Long Term Pass holders entering by foreign-registered private vehicle via land should refer to both ‘Long-term pass and in-principle approval holders’ and ‘Drivers of foreign-registered vehicles entering by land’  from the list below.)</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Additional travel documents are required for travellers listed in the table below for entry into Singapore. If you are not any of the traveller types listed below, you can enter Singapore without these additional documents, but are reminded to ensure that your passport is valid for at least 6 months.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>Traveller Type and Application/Resource links [Click on ‘+’ below to expand]</b></p>	
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Please refer to the requirements for all traveller types that apply. E.g. Long Term Pass holders entering by foreign-registered private vehicle via land should refer to both ‘Long-term pass and in-principle approval holders’ and ‘Drivers of foreign-registered vehicles entering by land’  from the list below.)</p>
 	
 	
 <html>
