@@ -19,7 +19,7 @@ third_nav_title: Arrivals from 31 March 2359h
   
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="2A">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">
 &#9634; &nbsp;&nbsp;<b>A) Obtain Entry Permissions and Travel-Related Documents</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"> Singapore Citizen/Permanent Resident or a Long-term Pass holder aged 13 to 17 <b>do not</b> need to apply for an Entry Approval.</p> <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For all other travellers, only the following traveller types may apply for entry.</p>
@@ -109,9 +109,12 @@ input:checked + label + .content {
 	<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Emergency cases will be prioritised for reply. All other cases will take <b>around 3 working days</b> to process.</p>
 </div>
 </body>
-</html>
+	</html>
+</div>
 
-<p style=" font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Please note that additional travel-related documents are also required for traveller types listed in the table below.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1B">
+&#9634; &nbsp;&nbsp;<b>B) Obtain Additional Travel-Related Documents</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Additional travel-related documents are also required for traveller types listed in the table below.</p>
 	<p style=" font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Traveller Type and Application/Resource links</u> &nbsp;[Click on ‘+’ for details on requirements]</b></p> 
 		<p style=" font-size:16px; margin-top: 0px; margin-bottom:20px; line-height:1.35; color:red;">(Please refer to the requirements for all traveller types that apply. E.g. Short Term Visitors entering by foreign-registered private vehicle via land should refer to both ‘<i>Short Term Visitors</i>’ <u>and</u> ‘<i>Drivers of foreign-registered vehicles entering by land</i>’  from the list below.)</p> 
 	
@@ -202,8 +205,8 @@ input:checked + label + .content {
 </html>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1B">
-&#9634; &nbsp;&nbsp;<b>B) Monitor Health Status</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1C">
+&#9634; &nbsp;&nbsp;<b>C) Monitor Health Status</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 <p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you had tested positive for COVID-19 <b>between 14 to 90 days before the date of departure for Singapore</b>, use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if you qualify as a recovered traveller. You will be eligible for the recovered traveller protocols, if you can produce a valid COVID-19 positive certificate/proof (definition below):
