@@ -21,7 +21,7 @@ third_nav_title: Arrivals from 31 March 2359h
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Additional travel documents are required for travellers listed in the table below for entry into Singapore. If you are not any of the traveller types listed below, you can enter Singapore without these additional documents, but are reminded to ensure that your passport is valid for at least 6 months.</p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>Traveller Type and Application/Resource links [Click on ‘+’ below to expand]</b></p>	
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Please refer to the requirements for all traveller types that apply. E.g. Long Term Pass holders entering by foreign-registered private vehicle via land should refer to both ‘Long-term pass and in-principle approval holders’ and ‘Drivers of foreign-registered vehicles entering by land’  from the list below.)</p>
+<p style=" font-size:16px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Please refer to the requirements for all traveller types that apply. E.g. Long Term Pass holders entering by foreign-registered private vehicle via land should refer to both ‘Long-term pass and in-principle approval holders’ and ‘Drivers of foreign-registered vehicles entering by land’  from the list below.)</p>
 	
 	
 <html>
@@ -88,7 +88,7 @@ input:checked + label + .content {
 <input id="CMP" type="checkbox">
 <label for="CMP"><b>Non-Malaysian Work Permit In-principle Approval holders employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">Apply for Entry Approval from Ministry of Manpower</a> at least 3 working days before the intended date of departure</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">Apply for Entry Approval from Ministry of Manpower</a> <b>at least 3 working days</b> before the intended date of departure</p>
 </div>
 <input id="STV" type="checkbox">
 <label for="STV"><b>Short-Term Visitors</b></label>
