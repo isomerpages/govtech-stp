@@ -45,6 +45,8 @@ However, <b>Short Term Visitors and eligible Work Permit Holders arriving before
 
 <!--list of accepted digital certs to be provided by MOT in their excel sheet – combine where possible e.g. all the EUDCC countries in the same row-->
 
+<div id="invalidcode"></div>
+
 #### 2. Why are my vaccination QR codes not accepted in my Vaccinated Travel Pass (VTP) application or Vaccination Check Portal?
 
 Please attempt re-uploading your QR code, and ensure that:
