@@ -150,7 +150,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	</ol>
 	
 <p style="font-size:18px; line-height:1.35;">Ask for a non-handwritten PDT report that is in English (or accompanied by a notarised English Translation) with the following details:</p>
-<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the COVID-19 test.</li>
 	</ol>
