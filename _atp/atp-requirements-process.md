@@ -20,7 +20,7 @@ permalink: /atp/requirements-and-process
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
 	</ol>
 	</p>
-			<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Applications for new Air Travel Passes have been suspended. <b>If you need to enter Singapore for urgent reasons before 31 March 2359h,</b> please submit an appeal with supporting documents to the Safe Travel Office via <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a></p>
+			<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Applications for new Air Travel Passes have been suspended. <b>If you need to enter Singapore for urgent reasons before 31 March 2359h,</b> please submit an appeal with supporting documents to the Safe Travel Office via <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a>.</p>
 	</div>
 
 
@@ -56,7 +56,7 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
 	</ol>
 	</p>
-		<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Applications for new Air Travel Passes have been suspended. <b>If you need to enter Singapore for urgent reasons before 31 March 2359h,</b> please submit an appeal with supporting documents to the Safe Travel Office via <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a></p>
+		<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Applications for new Air Travel Passes have been suspended. <b>If you need to enter Singapore for urgent reasons before 31 March 2359h,</b> please submit an appeal with supporting documents to the Safe Travel Office via <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a>.</p>
 <!--	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;"><b>Apply <u>between 7 and 60 calendar days</u> before the intended date of entry.</b></p>
 <div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:18px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="/atp/apply-now" target="_blank"><b>Foreign Short-Term Visitors<br>Click Here To Apply For an ATP</b></a></div>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Successful applicants will receive an approval letter via email, usually within 2 to 3 days.</p>
