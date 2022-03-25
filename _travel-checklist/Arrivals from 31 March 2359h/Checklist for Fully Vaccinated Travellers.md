@@ -111,12 +111,12 @@ input:checked + label + .content {
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Drivers of foreign-registered vehicles must ensure they have a valid Vehicle Entry Permit (VEP) approval email, valid Autopass card and motor insurance. <b>They are not allowed to apply for or update these documents at Singapore's land checkpoints but must do so online on the OneMotoring website:</b></p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Apply for VEP/Autopass card (applications only open from 31 March 2022):</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> > Digital Services > Apply for VEP / Autopass Card
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Apply for VEP/Autopass card (applications only open from 31 March 2022):</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> > Digital Services > Apply for VEP / Autopass Card
 </li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Update the foreign-registered car and motorcycle road tax and motor insurance for existing valid Autopass cards:</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a></b> > Digital Services > Update Road Tax and Insurance Validity for VEP (Foreign Cars and Motorcycles).
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Update the foreign-registered car and motorcycle road tax and motor insurance for existing valid Autopass cards:</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a></b> > Digital Services > Update Road Tax and Insurance Validity for VEP (Foreign Cars and Motorcycles).
 </li>
-	</ol>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers are advised to plan at least two weeks ahead of their intended travel dates to allow sufficient time for VEP application and approval</p>	
+</ol>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers are advised to plan at least two weeks ahead of their intended travel dates to allow sufficient time for VEP application and approval</p>	
 </div>
 	</body>	
   </div>
