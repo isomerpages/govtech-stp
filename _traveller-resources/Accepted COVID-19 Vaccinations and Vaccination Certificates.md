@@ -120,7 +120,7 @@ Travellers vaccinated outside of Singapore must be able to prove their vaccinati
 		<li style="padding-left:10px; line-height:1.5;"><a href="#nondigitalvaxcert">Non-Digitally Verifiable Vaccination Certificates</a> </li>
 		</ol>
 		
-Travellers who were fully vaccinated in Singapore have their records stored in the National Immunisation Registry and can show their vaccination status on their TraceTogether or HealthHub apps if needed.
+Travellers who were fully vaccinated in Singapore have their records stored in the National Immunisation Registry and can show their vaccination status on their TraceTogether or HealthHub apps if needed. They can also generate a Vaccination Acceptance Letter via the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal</a> if they cannot access their <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub apps</a>.
 
 <div id="digitalvaxcert"></div>
 
