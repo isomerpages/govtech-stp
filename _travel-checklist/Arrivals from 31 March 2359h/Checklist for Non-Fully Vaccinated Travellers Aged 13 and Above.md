@@ -94,7 +94,7 @@ input:checked + label + .content {
 <input id="LTPHabove18" type="checkbox">
 	<label for="LTPHabove18"><b>Long-term Pass Holders aged 18 and above who are medically ineligible for vaccines</b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate family members*</u></b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate Family Members*</u></b></p>
 	<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><i>*Eligibility criteria for family members explained in the application form – can include family members who are short term visitors</i></p>
 <p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Long-term passes issued by MOM</u></b></p>
