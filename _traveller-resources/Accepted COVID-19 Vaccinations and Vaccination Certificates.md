@@ -3,7 +3,7 @@ title: Accepted COVID-19 Vaccinations and Vaccination Certificates
 permalink: /health/vtsg
 description: ""
 ---
-This page provides details on what COVID-19 vaccinations and certificates are recognised for travelling to and staying in Singapore. COVID-19 vaccination is not the only requirement for entry to Singapore. Please ensure that you understand the relevant entry requirements via the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page  before proceeding with your travel plans.:
+This page provides details on what COVID-19 vaccinations and certificates are recognised for travelling to and staying in Singapore. COVID-19 vaccination is not the only requirement for entry to Singapore. Please ensure that you understand the relevant entry requirements via the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page  before proceeding with your travel plans.
 
 <ol style="padding-left: 20px;">
 	<li style="padding-left:10px; line-height:1.5;"><a href="#acceptedvaccines">Accepted COVID-19 Vaccines for Entry to Singapore</a></li>
@@ -156,7 +156,7 @@ Travellers who were fully vaccinated in Singapore will already have their record
 
 #### 3a. Obtaining temporary vaccinated status after arrival
 
-Travellers who were vaccinated outside Singapore will be granted <b>temporary vaccinated status lasting about 30 days</b> if they successfully uploaded their digital vaccination certificates as part of their Singapore Arrival Card (SGAC) or manually presented their vaccination certificates and the manual immigration counters. 180 days temporary status will be granted for those who applied for a Vaccinated Travel Pass.  Such travellers will need to download the TraceTogether app and register with their passport number to view your vaccination status.
+Travellers who were vaccinated outside Singapore will be granted <b>temporary vaccinated status lasting about 30 days</b> if they successfully uploaded their digital vaccination certificates as part of their Singapore Arrival Card (SGAC) or manually presented their vaccination certificates and the manual immigration counters. 180 days temporary status will be granted for those who applied for a Vaccinated Travel Pass.  Such travellers will need to download the TraceTogether app and register with their passport number to view their vaccination status.
 
 Travellers whose temporary vaccination status has not been displayed accurately on their TraceTogether app may submit a query via: <a href="https://go.gov.sg/vds-query-form" target="_blank">https://go.gov.sg/vds-query-form</a>.
 
