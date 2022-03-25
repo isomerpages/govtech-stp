@@ -113,12 +113,14 @@ Travellers who do not meet any of the above requirements are not considered full
 
 ### 2. Accepted Vaccination Certificate
 
-Travellers must be able to prove their vaccination status on boarding and at Singapore immigration. This proof can be in any of the two forms listed below. 
+Travellers vaccinated outside of Singapore must be able to prove their vaccination status on boarding and at Singapore immigration. This proof can be in any of the two forms listed below. 
 
 <ol style="padding-left: 20px; list-style-type:lower-latin;">
-		<li style="padding-left:10px; line-height:1.5;"><a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally-Verifiable Vaccination Certificates</a></li>
-		<li style="padding-left:10px; line-height:1.5;">Non-Digitally Verifiable Vaccination Certificates</li>
+		<li style="padding-left:10px; line-height:1.5;"><a href="#digitalvaxcert">Digitally-Verifiable Vaccination Certificates</a></li>
+		<li style="padding-left:10px; line-height:1.5;"><a href="#nondigitalvaxcert">Non-Digitally Verifiable Vaccination Certificates</a> </li>
 		</ol>
+		
+Travellers who were fully vaccinated in Singapore have their records stored in the National Immunisation Registry and can show their vaccination status on their TraceTogether or HealthHub apps if needed.
 
 <div id="digitalvaxcert"></div>
 
