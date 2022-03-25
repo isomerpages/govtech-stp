@@ -113,7 +113,7 @@ input:checked + label + .content {
 
 <p style=" font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Please note that additional travel-related documents are also required for traveller types listed in the table below.</p>
 	<p style=" font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Traveller Type and Application/Resource links</u> &nbsp;[Click on ‘+’ below to expand]</b></p> 
-		<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35; color:red;">(Please refer to the requirements for all traveller types that apply. E.g. Short Term Visitors entering by foreign-registered private vehicle via land should refer to both ‘<i>Short Term Visitors</i>’ <u>and</u> ‘<i>Drivers of foreign-registered vehicles entering by land</i>’  from the list below.)</p> 
+		<p style=" font-size:16px; margin-top: 0px; margin-bottom:20px; line-height:1.35; color:red;">(Please refer to the requirements for all traveller types that apply. E.g. Short Term Visitors entering by foreign-registered private vehicle via land should refer to both ‘<i>Short Term Visitors</i>’ <u>and</u> ‘<i>Drivers of foreign-registered vehicles entering by land</i>’  from the list below.)</p> 
 	
 <html>
 
