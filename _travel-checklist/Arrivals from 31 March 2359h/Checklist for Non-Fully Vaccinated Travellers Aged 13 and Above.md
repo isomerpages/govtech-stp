@@ -22,8 +22,90 @@ third_nav_title: Arrivals from 31 March 2359h
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="2A">
 &#9634; &nbsp;&nbsp;<b>A) Obtain Entry Permissions and Travel-Related Documents</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Apply for an Entry Approval if you are not a Singapore Citizen/Permanent Resident or a Long-term Pass holder aged 13 to 17:</p>
-  <table>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Apply for an Entry Approval if you are not a Singapore Citizen/Permanent Resident or a Long-term Pass holder aged 13 to 17. Only the following traveller types may apply for entry:</p>
+	
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>Test Accordion</title>
+
+<style>
+
+input {
+    display: none;
+}
+
+label {
+    display: block;    
+    padding: 10px 30px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #153855;
+    border-radius: 3px;
+    color: #FFF;
+    transition: ease .5s;
+	position: relative;
+}
+
+label:hover {
+    background: #346f9e;
+}
+
+label::after {
+	font-family: "Font Awesome 5 Free";
+	content: '\271A';
+	font-weight: bold;
+	font-size: 22px;
+	position: absolute;
+	right: 10px;
+	top: 6px;
+}
+
+input:checked + label::after {
+	content: '\2716';
+}
+
+.content {
+    background: #FFFFFF;
+    padding: 10px 25px;
+    margin: 0 0 1px 0;
+    border-radius: 3px;
+}
+
+input + label + .content {
+    display: none;
+}
+
+input:checked + label + .content {
+    display: block;
+}
+	
+</style>
+</head>
+<body>	
+<input id="IPA-Family" type="checkbox">
+	<label for="IPA-Family"><ol style="list-style-type: disc;"><li style="font-size:18px; margin-top: 0px; margin-bottom:0px; line-height:1.35;"><b>Permanent Resident In-Principle Approval holder (IPA)</b></li><li style="font-size:18px; margin-top: 0px; margin-bottom:0px; line-height:1.35;"><b>Immediate family member of a Singapore Citizen/Permanent Resident</b></li><li style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>Adopted child of a Singapore Citizen/Permanent Resident holding a Dependant’s Pass-IPA issued by the Ministry of Social and Family Development</b></li></ol></label>
+<div style="background-color:#edf4fa;" class="content">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Applications must be submitted at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
+</div>
+	
+<input id="LTPHabove18" type="checkbox">
+	<label for="LTPHabove18"><b>Long-term Pass Holders aged 18 and above who are medically ineligible for vaccines</b></label>
+<div style="background-color:#edf4fa;" class="content">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate family members*</u></b></p>
+	<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><i>*Eligibility criteria for family members explained in the application form – can include family members who are short term visitors</i></p>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Long-term passes issued by MOM</u></b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry.</a> Request is subject to approval. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Applications must be submitted at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
+</div>
+</body>
+</html>
+</div>
+
+
+ <!-- <table>
   <thead>
     <tr>
      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Traveller Type</b></th>
@@ -58,7 +140,7 @@ third_nav_title: Arrivals from 31 March 2359h
 			  <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Applications must be submitted <b>at least 4 days before</b> the desired date of entry using this <a href="https://go.gov.sg/sto-enquiry" target="_blank">form</a></td>
 		</tr>
     </tbody>
-  </table>  
+  </table>  -->
   
   <p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Additional travel-related documents are required for travellers listed in the table below. If you are not any of the traveller types listed below, you can enter Singapore without these additional documents, but are reminded to ensure that your passport is valid for at least 6 months.</p>
   
