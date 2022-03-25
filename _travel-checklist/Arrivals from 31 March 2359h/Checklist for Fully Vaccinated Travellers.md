@@ -87,15 +87,15 @@ input:checked + label + .content {
 	
 <body>	
 <input id="CMP" type="checkbox">
-	<label for="CMP"><b>Non-Malaysian Work Permit In-principle Approval holders employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></label>
+<label for="CMP"><b>Non-Malaysian Work Permit In-principle Approval holders employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></label>
 <div style="background-color:#edf4fa;" class="content">
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">Apply for Entry Approval from Ministry of Manpower</a> at least 3 working days before the intended date of departure</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">Apply for Entry Approval from Ministry of Manpower</a> at least 3 working days before the intended date of departure</p>
 </div>
 <input id="STV" type="checkbox">
-	<label for="STV"><b>Short-Term Visitors</b></label>
+<label for="STV"><b>Short-Term Visitors</b></label>
 <div style="background-color:#edf4fa;" class="content">
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges. Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>)</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Short term visitors holding passports or travel documents issued by visa-required countries/regions should also <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">click here to check if visa is required and to apply for an Entry Visa</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges. Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>)</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Short term visitors holding passports or travel documents issued by visa-required countries/regions should also <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">click here to check if visa is required and to apply for an Entry Visa</p>
 </div>
 	</body>	
   </div>
