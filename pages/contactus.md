@@ -40,8 +40,7 @@ You can find the following forms of commonly requested support on this page:
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/vtl/faq#invalidcode" target="_blank">Click Here</a> for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
 </p>
 <ol style="padding-left: 20px; list-style-type: disc;"><li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
-	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">For vaccination certificates with one QR code per dose, uploading multiple QR codes in one file instead of uploading one QR Code per file.</li>
-	</ol></td>
+	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Upload failure for documents containing more than one QR code. In such a case, extract/crop the last QR code and only upload that QR code.</li></ol></td>
  </tr>
 			   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Vaccinated Travel Framework</b> </td>
