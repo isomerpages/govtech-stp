@@ -116,11 +116,11 @@ input:checked + label + .content {
 <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Update the foreign-registered car and motorcycle road tax and motor insurance for existing valid Autopass cards:</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a></b> > Digital Services > Update Road Tax and Insurance Validity for VEP (Foreign Cars and Motorcycles).
 </li>
 </ol>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers are advised to plan at least two weeks ahead of their intended travel dates to allow sufficient time for VEP application and approval</p>	
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers are advised to plan at least two weeks ahead of their intended travel dates to allow sufficient time for VEP application and approval</p>	
 </div>
-</body>	
+</body>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Monitor Health Status</b></div>
+<div style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Monitor Health Status</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you had tested positive for COVID-19 <b>between 7 to 90 days before your date of departure for Singapore</b>, use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if you qualify for entry as a Vaccinated-Recovered Traveller. To qualify for the Vaccinated-Recovered traveller protocol (VR Protocol), you must produce a valid COVID-19 positive certificate/proof (definition below). If you qualify for VR Protocol, please refer to the <a href="/vaccinated-recovered" target="_blank">VR Protocol Checklist</a> for the admin/entry process.</p>
