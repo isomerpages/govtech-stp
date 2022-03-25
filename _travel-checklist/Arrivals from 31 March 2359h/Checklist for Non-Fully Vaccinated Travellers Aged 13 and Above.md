@@ -22,7 +22,7 @@ third_nav_title: Arrivals from 31 March 2359h
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="2A">
 &#9634; &nbsp;&nbsp;<b>A) Obtain Entry Permissions and Travel-Related Documents</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"> Singapore Citizen/Permanent Resident or a Long-term Pass holder aged 13 to 17 do not need to apply for an Entry Approval.</p> <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For all other travellers, only the following traveller types may apply for entry.</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"> Singapore Citizen/Permanent Resident or a Long-term Pass holder aged 13 to 17 <b>do not</b> need to apply for an Entry Approval.</p> <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For all other travellers, only the following traveller types may apply for entry.</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click '+' for details on application process)</b></p>
 
 <html>
