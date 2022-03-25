@@ -235,13 +235,13 @@ input:checked + label + .content {
 	</div>
 	
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1C">
-&#9634; &nbsp;&nbsp;<b>C) Pre-trip Declarations</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1D">
+&#9634; &nbsp;&nbsp;<b>D) Pre-trip Declarations</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers are strongly encouraged to complete the electronic <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> declaration <b>before departure</b>, up to 72 hours before arrival in Singapore. <b>The acknowledgement email issued upon submission can be shown on boarding or on arrival for smoother document checks.</b> The submission is free of charge and simply involves submission of pre-trip health and travel history details.</p>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1D">
-&#9634; &nbsp;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT)</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1E">
+&#9634; &nbsp;&nbsp;<b>E) COVID-19 Pre-Departure Test (PDT)</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">If you are born before 2020 (i.e. above 2 years old) & not a recovered traveller, take any of the following COVID-19 tests within 2 days before departure: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
@@ -277,7 +277,7 @@ input:checked + label + .content {
 	</table>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;  <i><b>E) Secure Stay Home Notice (SHN) Accommodation for at least 7 days</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634; <b>F) Secure Stay Home Notice (SHN) Accommodation for at least 7 days</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">You will be required to serve a 7-day Stay Home Notice (SHN) upon arrival in Singapore, where you must remain in the SHN accommodation (see Stage 4 for details).</p>
 <p style="line-height:1.35; font-size:18px;">Secure any of the following accommodation for at least 7 days for your SHN:</p>
@@ -311,7 +311,7 @@ input:checked + label + .content {
 	</table>
 </div>	
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;  <i><b>F) Install and Activate TraceTogether</b></i></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;  <b>G) Install and Activate TraceTogether</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="line-height:1.35; margin-bottom:10px; font-size:18px;">Install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application.</p>
@@ -368,7 +368,7 @@ input:checked + label + .content {
 	</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, <b>whichever is later</b>. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked.</p>	
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please refer to the Frequently Asked SHN questions below. (<i>Click "+" for details</i>)</p>
-<!--<html>
+<html>
 
 <head>
 <meta charset="utf-8">
@@ -448,7 +448,7 @@ input:checked + label + .content {
 </div>
 </body>
 </html>
-</div>-->
+</div>
 	
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 5: End of Stay-Home Notice & Stay in Singapore</b></div>
