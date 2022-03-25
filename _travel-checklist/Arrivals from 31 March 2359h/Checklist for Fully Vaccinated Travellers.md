@@ -104,8 +104,6 @@ third_nav_title: Arrivals from 31 March 2359h
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Vaccination date(s)</li>
 			</ol>
-		</li>
-	</ol>	
 
 <p style=" font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">For planning purposes, travellers can also optionally verify their DVC via the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal (VCP)</a> before arrival in Singapore, at any time before their trip. </p>
  </div>
