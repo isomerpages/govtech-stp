@@ -13,13 +13,14 @@ permalink: /atp/requirements-and-process
 </div>-->
 
 <div style="padding-left: 5px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">This page contains a checklist only for Air Travel Pass travellers who are <b>arriving before 31 March 2022, 2359h (SGT)</b>. All unutilised ATPs will be <b><u>cancelled</u></b> after 31 March 2022, 2359h (SGT).</p>
-	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect <b>for arrivals from 31 March 2022, 2359h (SGT)</b> and travellers no longer need to apply for an ATP. Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">This page contains a checklist only for Air Travel Pass travellers who are <b>arriving before 31 March 2022, 2359h (SGT)</b>. All unutilised ATPs will be <b><u>cancelled</u></b> after 31 March 2022, 2359h (SGT).</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect <b>for arrivals from 31 March 2022, 2359h (SGT)</b> and travellers no longer need to apply for an ATP. Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
 	<ol style="list-style-type:disc;">
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
 	</ol>
 	</p>
+			<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Applications for new Air Travel Passes have been suspended. <b>If you need to enter Singapore for urgent reasons before 31 March 2359h,</b> please submit an appeal with supporting documents to the Safe Travel Office via <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a></p>
 	</div>
 
 
@@ -51,8 +52,8 @@ Travellers may print out this page and indicate with a "☑" in the box (☐) fo
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Apply for Entry Approval</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.35; color:red;">A new Vaccinated Travel Framework takes effect for arrivals <b>from 31 March 2022, 2359h (SGT)</b>. Travellers arriving from this date do not need to apply for an ATP and should click their relevant traveller profile below for a detailed travel requirements checklist:
 	<ol style="list-style-type:disc;">
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</a></li>
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully vaccinated travellers aged 13 and above</a></li>
 	</ol>
 	</p>
 		<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Applications for new Air Travel Passes have been suspended. <b>If you need to enter Singapore for urgent reasons before 31 March 2359h,</b> please submit an appeal with supporting documents to the Safe Travel Office via <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a></p>
