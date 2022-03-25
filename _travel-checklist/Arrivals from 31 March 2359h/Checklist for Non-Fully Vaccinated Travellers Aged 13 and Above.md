@@ -105,7 +105,7 @@ input:checked + label + .content {
 </div>
 
 
- <!-- <table>
+<table>
   <thead>
     <tr>
      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Traveller Type</b></th>
@@ -140,7 +140,7 @@ input:checked + label + .content {
 			  <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Applications must be submitted <b>at least 4 days before</b> the desired date of entry using this <a href="https://go.gov.sg/sto-enquiry" target="_blank">form</a></td>
 		</tr>
     </tbody>
-  </table>  -->
+  </table>
   
   <p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Additional travel-related documents are required for travellers listed in the table below. If you are not any of the traveller types listed below, you can enter Singapore without these additional documents, but are reminded to ensure that your passport is valid for at least 6 months.</p>
   
