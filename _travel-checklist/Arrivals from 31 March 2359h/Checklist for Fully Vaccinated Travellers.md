@@ -104,7 +104,7 @@ input:checked + label + .content {
 	<input id="YF" type="checkbox">
 <label for="YF"><b>Arriving in Singapore from countries/regions in Africa and South America with Yellow Fever risk </b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Click to check if you are required to have a Yellow Fever vaccination certificate</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Click to check if you are required to have a Yellow Fever vaccination certificate</a></p>
 </div>
 <input id="Foreign-vehicle" type="checkbox">
 <label for="Foreign-vehicle"><b>Drivers of foreign-registered vehicles entering by land </b></label>
