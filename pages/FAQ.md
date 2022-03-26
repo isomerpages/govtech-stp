@@ -32,7 +32,7 @@ permalink: /FAQ
 
 #### 1. What is considered a digitally verifiable vaccination certificate and how can I check its validity?
 
-Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">digitally verifiable certificate</a> can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> prior to their trip to see if the certificate can be verified by the Singapore authorities, and also upload it via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> up to 3 days before arrival. If verification fails, travellers should not worry as they can show their physical vaccination certificate or app with the following details in English, or translated to English with notarisation:
+Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised digitally verifiable certificate</a> can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> prior to their trip to see if the certificate can be verified by the Singapore authorities, and also upload it via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> up to 3 days before arrival. If verification fails, travellers should not worry as they can show their physical vaccination certificate or app with the following details in English, or translated to English with notarisation:
 <ol style="padding-left: 20px; list-style-type: lower-roman;">
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
@@ -61,13 +61,12 @@ Please attempt re-uploading your QR code, and ensure that:
 	</li>
 	<li style="line-height:1.35; margin-top:20px;">Your QR code was uploaded in a high-resolution, .png <i>(preferred)</i>, .pdf or .jpg format.</li>
 	<li style="line-height:1.35; margin-top:10px;list-style-type:disc;">Your date of birth was keyed in the correct format (DD/MM/YYYY)</li>
-	<li style="line-height:1.35; margin-top:10px;list-style-type:disc;">Your proof of vaccination is an accepted <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">acceptable digital proof of vaccination</a></li>
+	<li style="line-height:1.35; margin-top:10px;list-style-type:disc;">Your digital proof of vaccination is currently a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised digital proof of vaccination</a>. More digital certificates will be added to this list in future.</li>
 		<li style="line-height:1.35; margin-top:10px;list-style-type:disc;">If the upload failure involves documents containing more than one QR code, extract/crop the QR code with the latest dose and only upload that QR code.
 	</li>
 		<li style="line-height:1.35; margin-top:20px;">You are fully vaccinated, based on <a href="/health/vtsg" target="_blank">this criteria</a></li>
 		<li style="line-height:1.35; margin-top:10px;">Your passport particulars match with your vaccination certificate. If not, where possible, please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.</li>
-		<li style="line-height:1.35; margin-top:10px;">You replaced the special characters in your name as per this <a href="#specialchar">FAQ</a>.</li>
-	<li style="line-height:1.35; margin-top:10px;">QR Codes for boosters are not included.</li>
+		<li style="line-height:1.35; margin-top:10px;">You replaced any non-latin special characters in your name as per this <a href="#specialchar">FAQ</a>.</li>
 	</ol>
 
 For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide supporting details and screenshots of the errors encountered.
@@ -79,7 +78,7 @@ There is a need for us to verify the identity of the issuer by checking against 
 
 Please note that individuals with an Excelsior Pass issued by the New York State in United States will need to obtain an Excelsior Pass Plus, which is an SHC accepted for vaccinated travel. More information on the Excelsior Pass and Excelsior Pass Plus can be found <a href="https://forward.ny.gov/excelsior-pass-and-excelsior-pass-plus-frequently-asked-questions" target="_blank">here</a>.
 
-We are currently working on accepting digitally verifiable vaccination certificates by other issuers. This list will be expanded as more states and issuers are onboarded.
+We are currently working on accepting digitally verifiable vaccination certificates by other issuers. The list will be expanded as more states and issuers are onboarded.
 
 ---
 	
