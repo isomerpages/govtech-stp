@@ -88,7 +88,7 @@ input:checked + label + .content {
 </head>
 <body>	
 <input id="IPA-Family" type="checkbox">
-	<label for="IPA-Family"><ol style="list-style-type: disc;"><b>Short Term Visitor who is an Immediate Family Member of a Singapore Citizen/Permanent Resident </b></label>
+	<label for="IPA-Family"><b>Short Term Visitor who is an Immediate Family Member of a Singapore Citizen/Permanent Resident </b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications must be submitted at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
