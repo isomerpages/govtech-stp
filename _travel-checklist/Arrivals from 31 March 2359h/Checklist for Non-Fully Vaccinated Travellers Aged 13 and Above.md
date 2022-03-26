@@ -113,7 +113,6 @@ input:checked + label + .content {
 </div>
 </body>
 	</html>
-</div>
 
 	
 <!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1B">
@@ -207,6 +206,7 @@ input:checked + label + .content {
 </div>
 </body>
 </html>
+</div>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1C">
