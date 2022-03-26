@@ -22,7 +22,9 @@ third_nav_title: Arrivals from 31 March 2359h
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">
 &#9634; &nbsp;&nbsp;<b>A) Obtain Entry Permissions (if necessary) </b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"> Singapore Citizen, Permanent Resident and Long-term Pass holder aged 13 to 17 <b>do not</b> need to apply for an Entry Approval.</p> <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For all other travellers, only the following traveller types may apply for entry.</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Singapore Citizens and Permanent Residents <b>do not</b> need to apply for an Entry Approval. </p> 
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Long-term Pass holders (including In-Principle Approval holders) aged 13 to 17 also <b>do not</b> need to apply for an Entry Approval.</p>
+		<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For all other travellers, only the following traveller types may apply for entry.</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click '+' for details on application process)</b></p>
 
 <html>
@@ -86,9 +88,9 @@ input:checked + label + .content {
 </head>
 <body>	
 <input id="IPA-Family" type="checkbox">
-	<label for="IPA-Family"><ol style="list-style-type: disc;"><li style="font-size:18px; margin-top: 0px; margin-bottom:0px; line-height:1.35;"><b>Permanent Resident In-Principle Approval holder (IPA)</b></li><li style="font-size:18px; margin-top: 0px; margin-bottom:0px; line-height:1.35;"><b>Immediate family member of a Singapore Citizen/Permanent Resident</b></li><li style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>Adopted child of a Singapore Citizen/Permanent Resident holding a Dependant’s Pass-IPA issued by the Ministry of Social and Family Development</b></li></ol></label>
+	<label for="IPA-Family"><ol style="list-style-type: disc;"><b>Short Term Visitor who is an Immediate Family Member of a Singapore Citizen/Permanent Resident </b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Applications must be submitted at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications must be submitted at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
 	
 <input id="LTPHabove18" type="checkbox">
@@ -99,6 +101,7 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Long-Term Passes Issued by MOM</u></b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry.</a> Request is subject to approval. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Permanent Resident In-Principle Approval holder (IPA), Long Term Visit Pass In-Principle Approval holder (IPA), or Adopted child of a Singapore Citizen/Permanent Resident holding a Dependant’s Pass-IPA issued by the Ministry of Social and Family Development</u></b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Applications must be submitted at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
 	
@@ -112,9 +115,10 @@ input:checked + label + .content {
 	</html>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1B">
-&#9634; &nbsp;&nbsp;<b>B) Obtain Additional Travel-Related Documents</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Additional travel-related documents are also required for traveller types listed in the table below.</p>
+	
+<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1B">
+&#9634; &nbsp;&nbsp;<b>B) Obtain Additional Travel-Related Documents</b></div>-->
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please note that additional travel-related documents are also required for traveller types listed in the table below.</p>
 	<p style=" font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Traveller Type and Application/Resource links</u> &nbsp;[Click on ‘+’ for details on requirements]</b></p> 
 		<p style=" font-size:16px; margin-top: 0px; margin-bottom:20px; line-height:1.35; color:red;">(Please refer to the requirements for all traveller types that apply. E.g. Short Term Visitors entering by foreign-registered private vehicle via land should refer to both ‘<i>Short Term Visitors</i>’ <u>and</u> ‘<i>Drivers of foreign-registered vehicles entering by land</i>’  from the list below.)</p> 
 	
@@ -206,7 +210,7 @@ input:checked + label + .content {
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1C">
-&#9634; &nbsp;&nbsp;<b>C) Monitor Health Status</b></div>
+&#9634; &nbsp;&nbsp;<b>B) Monitor Health Status</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 <p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you had tested positive for COVID-19 <b>between 14 to 90 days before the date of departure for Singapore</b>, use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if you qualify as a recovered traveller. You will be eligible for the recovered traveller protocols, if you can produce a valid COVID-19 positive certificate/proof (definition below):
@@ -236,12 +240,12 @@ input:checked + label + .content {
 	
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1D">
-&#9634; &nbsp;&nbsp;<b>D) Pre-trip Declarations</b></div>
+&#9634; &nbsp;&nbsp;<b>C) Pre-trip Declarations</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers are strongly encouraged to complete the electronic <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> declaration <b>before departure</b>, up to 72 hours before arrival in Singapore. <b>The acknowledgement email issued upon submission can be shown on boarding or on arrival for smoother document checks.</b> The submission is free of charge and simply involves submission of pre-trip health and travel history details.</p>
 	</div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1E">
-&#9634; &nbsp;&nbsp;<b>E) COVID-19 Pre-Departure Test (PDT)</b></div>
+&#9634; &nbsp;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT)</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">If you are born before 2020 (i.e. above 2 years old) & not a recovered traveller, take any of the following COVID-19 tests within 2 days before departure: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
@@ -277,7 +281,7 @@ input:checked + label + .content {
 	</table>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634; <b>F) Secure Stay Home Notice (SHN) Accommodation for at least 7 days</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634; <b>E) Secure Stay Home Notice (SHN) Accommodation for at least 7 days</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">You will be required to serve a 7-day Stay Home Notice (SHN) upon arrival in Singapore, where you must remain in the SHN accommodation (see Stage 4 for details).</p>
 <p style="line-height:1.35; font-size:18px;">Secure any of the following accommodation for at least 7 days for your SHN:</p>
@@ -311,7 +315,7 @@ input:checked + label + .content {
 	</table>
 </div>	
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;  <b>G) Install and Activate TraceTogether</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;  <b>F) Install and Activate TraceTogether</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="line-height:1.35; margin-bottom:10px; font-size:18px;">Install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application.</p>
