@@ -14,7 +14,7 @@ description: ""
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>A) Application for Entry Approval</b></div>
+<div id="1A" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>A) Application for Entry Approval</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Entry Approvals are needed only for travellers who are:</p>
 <ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
@@ -73,7 +73,7 @@ description: ""
 <p style="font-size:18px; margin-top:15px;line-height:1.35;">Travellers who are travelling from a country/region in Africa or South America that is endemic for Yellow Fever, are also required to produce a valid <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever vaccination certificate</a> for entry.</p>
 </div>	
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>C) Obtain Medical Proof of COVID-19 infection detected 7 – 90 days before date of departure</b></div>
+<div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>C) Obtain Medical Proof of COVID-19 infection detected 7 – 90 days before date of departure</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">As proof of a past COVID-19 infection, Vaccinated-Recovered Travellers must obtain either of the following medical documents, which must be in English or translated to English. Handwritten documents will be rejected.</p>
 	<table>
@@ -102,24 +102,24 @@ description: ""
 	</table>
   </div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>D) [Short-Term visitors and Long-term Pass holders] Purchase COVID-19 Insurance</b></div>
+<div id="1D" style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>D) [Short-Term visitors and Long-term Pass holders] Purchase COVID-19 Insurance</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Purchase travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. <a href="/health/insurance-and-treatment" target="_blank">Click here</a> for the list of available travel insurance products offered in Singapore.</p>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>E) Application for Entry Visa (if applicable)</b></div>
+<div id="1E" style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>E) Application for Entry Visa (if applicable)</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Foreign short term visitors holding passports or travel documents issued by visa-required countries/regions must apply for an entry visa. <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Click here to check if a visa is required and to apply if needed</a>.</p>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>F) Submission of Health Declaration and Digital Vaccination Certificate</b></div>
+<div id="1F" style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>F) Submission of Health Declaration and Digital Vaccination Certificate</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Up to 72 hours before arrival in Singapore, travellers should submit their pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a>. This includes indicating in the declaration that they had been “diagnosed or suspected to have a COVID-19 infection in the past 90 days”.</p>
 		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">All SGAC submissions are free-of-charge, and travellers should also upload their digitally-verifiable vaccination certificate if they have one (i.e. certificate with a QR code). Upon verification, the travellers’ vaccination status will be reflected in HealthHub or the TraceTogether application for 30 days, which can be used in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings</a>.</p>
 		<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers should defer their travels if they are feeling unwell, e.g. fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>G) Installation of TraceTogether app</b></div>
+<div id="1G" style="padding:10px 10px 10px 10px; margin-bottom:0px; margin-top:15px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>G) Installation of TraceTogether app</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Travellers must install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phones for contact tracing. Travellers aged 6 or below in this calendar year, and individuals who are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p>
 	</div>
@@ -144,7 +144,7 @@ description: ""
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>A) Immigration Clearance and Registering Proof of Vaccination</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Follow the instructions of officers and signages on arrival, and they will channel you to the right clearance lanes.</p>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Fully vaccinated travellers <b>who are vaccinated overseas and unable to upload their digital vaccination certificates via the SG Arrival Card declaration (per <a href="#1F">Stage 1E</a>)</b> should seek immigration via the manual lanes and request the immigration officer to assist with the temporary registration of the traveller’s overseas vaccination status into their TraceTogether mobile application. With this, travellers will be able to show proof of their vaccination status using TraceTogether in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a> for 30 days.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:10px; line-height:1.35;">Fully vaccinated travellers <b>who are vaccinated overseas and unable to upload their digital vaccination certificates via the SG Arrival Card declaration (per <a href="#1F">Stage 1F</a>)</b> should seek immigration via the manual lanes and request the immigration officer to assist with the temporary registration of the traveller’s overseas vaccination status into their TraceTogether mobile application. With this, travellers will be able to show proof of their vaccination status using TraceTogether in <a href="https://go.gov.sg/moh-smm" target="_blank">vaccination-differentiated settings (e.g. malls, dining out)</a> for 30 days.</p>
 		<p style=" font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><b>To facilitate the temporary registration of overseas vaccination records into TraceTogether, travellers must (be):</b></p>
 	<ol style="padding-left:25px; font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
 				<li style="font-size:16px; margin-top:10px; margin-bottom:8px; line-height:1.3; ">Aged 12 and above; and</li>
