@@ -113,10 +113,10 @@ input:checked + label + .content {
 </div>
 </body>
 	</html>
-
+</div>
 	
-<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1B">
-&#9634; &nbsp;&nbsp;<b>B) Obtain Additional Travel-Related Documents</b></div>-->
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1B">
+&#9634; &nbsp;&nbsp;<b>B) Obtain Additional Travel-Related Documents</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please note that additional travel-related documents are also required for traveller types listed in the table below.</p>
 	<p style=" font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Traveller Type and Application/Resource links</u> &nbsp;[Click on ‘+’ for details on requirements]</b></p> 
 		<p style=" font-size:16px; margin-top: 20px; margin-bottom:25px; line-height:1.35; color:red;">(Please refer to the requirements for all traveller types that apply. E.g. Short Term Visitors entering by foreign-registered private vehicle via land should refer to both ‘<i>Short Term Visitors</i>’ <u>and</u> ‘<i>Drivers of foreign-registered vehicles entering by land</i>’  from the list below.)</p> 
@@ -207,10 +207,9 @@ input:checked + label + .content {
 </body>
 </html>
 </div>
-</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1C">
-&#9634; &nbsp;&nbsp;<b>B) Monitor Health Status</b></div>
+&#9634; &nbsp;&nbsp;<b>C) Monitor Health Status</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 <p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you had tested positive for COVID-19 <b>between 14 to 90 days before the date of departure for Singapore</b>, use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if you qualify as a recovered traveller. You will be eligible for the recovered traveller protocols, if you can produce a valid COVID-19 positive certificate/proof (definition below):
@@ -240,7 +239,7 @@ input:checked + label + .content {
 	
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1D">
-&#9634; &nbsp;&nbsp;<b>C) Pre-trip Declarations</b></div>
+&#9634; &nbsp;&nbsp;<b>D) Pre-trip Declarations</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers are strongly encouraged to complete the online <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) with Electronic Health declaration</a> <b>before departure</b>, up to 72 hours before arrival in Singapore. <b>The acknowledgement email issued upon submission can be shown on boarding or on arrival for smoother document checks.</b> The submission is free of charge and simply involves submission of pre-trip health and travel history details.</p>
 	</div>
 	
