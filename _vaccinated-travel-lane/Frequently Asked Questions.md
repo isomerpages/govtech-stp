@@ -582,7 +582,7 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 	</div>
 </body>
 </html>
-</div>
+
 
 
 <div id="invalidcode"></div>
@@ -783,9 +783,9 @@ No, you will not be eligible for the VTL. Return to the <a href="/arriving/overv
 
 ### 3)	Application for the Vaccinated Travel Pass
 
-<i style="color:red;"><p style="line-height:1.3; font-size:18px;"><b>Short-term visitors and Work Permit holders aged 13 and above who are fully vaccinated and entering Singapore from 31 March 2022, 2359h (SGT)</b> will no longer need to apply for a Vaccinated Travel Pass (VTP) or present their VTP if they already have one. They can refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Fully Vaccinated Travellers and Non-Fully Vaccinated Children</a> for the entry requirements.</p>
+<p style="line-height:1.3; color:red; font-size:18px;"><b>Short-term visitors and Work Permit holders aged 13 and above who are fully vaccinated and entering Singapore from 31 March 2022, 2359h (SGT)</b> will no longer need to apply for a Vaccinated Travel Pass (VTP) or present their VTP if they already have one. They can refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Fully Vaccinated Travellers and Non-Fully Vaccinated Children</a> for the entry requirements.</p>
 
-<p style="line-height:1.3; font-size:18px;"><b>Applications for new Vaccinated Travel Passes have been suspended.</b> If you need a VTP to enter Singapore urgently via the VTL <b>before 31 March 2359h</b>, please submit an appeal with supporting documents to the Safe Travel Office via <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a></p></i>
+<p style="line-height:1.3; font-size:18px;"><b>Applications for new Vaccinated Travel Passes have been suspended.</b> If you need a VTP to enter Singapore urgently via the VTL <b>before 31 March 2359h</b>, please submit an appeal with supporting documents to the Safe Travel Office via <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a></p>
 
 
 #### 1. I have an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass). Am I allowed to travel under the VTL (Land)?
