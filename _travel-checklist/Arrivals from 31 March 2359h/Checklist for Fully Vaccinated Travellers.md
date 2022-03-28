@@ -89,6 +89,7 @@ input:checked + label + .content {
 <label for="CMP"><b>Non-Malaysian Work Permit In-principle Approval holders employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">Apply for Entry Approval from Ministry of Manpower</a> <b>at least 3 working days</b> before the intended date of departure</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">All other fully vaccinated IPA holders should refer to the “<b>Long-term pass and in-principle approval (IPA) holders</b>” section below.</p>
 </div>
 <input id="STV" type="checkbox">
 <label for="STV"><b>Short-Term Visitors</b></label>
@@ -99,7 +100,7 @@ input:checked + label + .content {
 	<input id="LTP-IPA" type="checkbox">
 <label for="LTP-IPA"><b>Long-term pass and in-principle approval (IPA) holders </b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers should have a valid pass card or IPA letter which will be shown during pre-boarding checks or on arrival.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Travellers should have a valid pass card or IPA letter which will be shown during pre-boarding checks or on arrival. No application is required.</p>
 </div>
 	<input id="YF" type="checkbox">
 <label for="YF"><b>Arriving in Singapore from countries/regions in Africa and South America with Yellow Fever risk </b></label>
@@ -224,7 +225,8 @@ input:checked + label + .content {
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes.</p>
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you did not successfully upload your vaccination certificate via the SG Arrival Card (see <a href="#1C">Stage 1C</a>) and were not vaccinated in Singapore, you should seek immigration clearance at a manned immigration counter and provide all documents, including proof of tests, and information requested by the immigration officer. There, the immigration officer will register your overseas vaccination status (temporary vaccinated status for 30 days) on the HealthHub or TraceTogether mobile application for use in vaccination-differentiated settings in Singapore (details in Stage 4). </p>
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Upon clearance, an <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> stating the period of stay granted will be issued to foreign short-term visit pass travellers via the email address indicated in the SGAC. Passports will no longer be stamped.</p>
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you are symptomatic on arrival, you may be directed to take a COVID-19 test. Each Antigen Rapid Test (ART) administered will cost S$30, while each COVID-19 Polymerase Chain Reaction Test (PCR Test) will cost S$138. </p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Travellers may depart the airport/checkpoints via any mode of transportation.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">However, if you are symptomatic on arrival, you may be directed to take a COVID-19 test. Each Antigen Rapid Test (ART) administered will cost S$30, while each COVID-19 Polymerase Chain Reaction Test (PCR Test) will cost S$138. Travellers awaiting the results of their tests may only commute to their accommodation via private transport, taxis (including street-hailed taxis) or private-hire cars [GrabSHN, Go-Jek, Ryde, MVL (Tada)].</p>
 </div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols during Stay in Singapore</b></div>
