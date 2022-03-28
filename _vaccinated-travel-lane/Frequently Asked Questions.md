@@ -806,7 +806,7 @@ Malaysia Permanent Residents or holders of a Malaysia-issued long-term pass are 
 
 #### 4. How do I change the validity of my VTP?
 
-A VTP is valid for single entry into Singapore anytime from your intended date of entry and up to 13 calendar days after. If your travel plans change and you need to enter before or after the validity period, please submit a new VTP application.
+A VTP is valid for single entry into Singapore anytime from your intended date of entry and up to 13 calendar days after.
 
 <b>Should you require assistance to seek urgent entry into Singapore within the next 2 days, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> or call the SafeTravel Enquiries helpline at 6812 5555. Kindly note that all appeals are assessed on a case-by-case basis.</b>
 
@@ -816,7 +816,7 @@ If your particulars have changed, please write to the Safe Travel Office using t
 
 #### 6. How can I change my passport number on my VTP?
 
-You will not be able to change the passport number on an existing VTP. Please submit a new application with the correct details reflected. Do note that travellers with an inaccurate passport number on their VTP may be denied boarding and entry into Singapore.
+You will not be able to change the passport number on an existing VTP. Do note that travellers with an inaccurate passport number on their VTP may be denied boarding and entry into Singapore.
 
 If your intended date of entry is no longer available on the VTP application portal, please adjust your travel plans. You will not be allowed to board the designated VTL transport if you are unable to present a valid VTP.
 
