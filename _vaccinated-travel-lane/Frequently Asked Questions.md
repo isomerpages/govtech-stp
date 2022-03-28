@@ -60,35 +60,16 @@ Persons who are medically unfit to be vaccinated are not allowed to travel under
 
 Use the self-checker tool on the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> to determine the alternative Travel Lanes that are available.
 
-
-<div id="Q4"></div>
- 
-#### 2. How do I prove my vaccination status when applying for a VTP if: 
-
-<ol style="list-style-type: lower-latin;"><li style="line-height:1.35; font-size:24px; color:#d30000;">I am a Work Permit/Work Permit IPA Holder or Short-Term Visitor with Singapore-issued vaccination records; or</li><li style="line-height:1.35; font-size:24px; color: #d30000;">I was fully vaccinated in a non-VTL country/region and had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR)?</li></ol>
-
-Please check if your Singapore vaccination records are valid through <a href="https://go.gov.sg/health-cert-query" target="_blank">this link</a> and, if necessary, re-tag your records to your most updated identification (e.g. passport/FIN/IC) number. The retagging process takes around 2 – 4 weeks. Please attempt to resubmit a VTP application only after receiving confirmation from the Ministry of Health/ Health Promotion Board that your records have been successfully retagged. More information on updating your vaccination records can be found on <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">this link</a>.
-
-You may also choose to upload the QR code on your Singapore Vaccination HealthCert issued via the  <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, if you have one. Please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code.
-
-You do not need to upload your QR code for booster vaccinations.
-
-<div id="Q6"></div>
-
-#### 3. I was fully vaccinated in a non-VTL (Air) country/region and have an <a href="/vtl/faq#QRcode">accepted proof of vaccination</a>. Do I satisfy the vaccination requirement?
-
-Yes. Please refer to the instructions <a href="/vtl/faq#vaxcert" target="_blank">here</a> for the accepted proof of vaccination.
-
 <div id="Q7"></div>
 
-#### 4. What information does the vaccination certificates need to contain?
+#### 2. What information does the vaccination certificates need to contain?
 
 The electronic or physical vaccination certificate(s) must be an accepted proof of vaccination, and clearly state the following:
 - your name, and at least one other personal identifier such as your date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;
 - the name(s) of vaccine(s) used; and
 - the date(s) of vaccination. The date of the last dose should be administered at least 14 days before your arrival in Singapore. 
 
-#### 5. I am recovered from COVID-19 and have been administered only one vaccine dose of a typically two-dose regimen after my recovery. Do I fulfil the VTL vaccination requirement?
+#### 3. I am recovered from COVID-19 and have been administered only one vaccine dose of a typically two-dose regimen after my recovery. Do I fulfil the VTL vaccination requirement?
 
 Yes, if the date of your vaccine dose is:
 - at least 28 days after the date of your first positive COVID-19 test; and
@@ -96,12 +77,10 @@ Yes, if the date of your vaccine dose is:
 
 You must present a recovery certificate or discharge memo, which shows the date of your first positive COVID-19 test, in addition to your vaccination certificate to the airline at check-in, and at arrival immigration if required.
 
-If you are required to apply for a VTP, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo.
-
-You do not need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination or any other certificate that shows that you have obtained only 1 vaccine dose and completed the final dose in the series (i.e. “1/1”). If you are required to apply for a VTP, you need only upload the QR code found on your vaccination certificate.
+You do not need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination or any other certificate that shows that you have obtained only 1 vaccine dose and completed the final dose in the series (i.e. “1/1”). 
 
 
-#### 6. Are travellers required to obtain a booster dose to be eligible for the VTL?
+#### 4. Are travellers required to obtain a booster dose to be eligible for the VTL?
 
 Currently, VTL travellers are not required to obtain a booster dose. They are only required to be fully vaccinated with their primary vaccination series to be eligible for entry into Singapore.
 
@@ -122,7 +101,7 @@ If your vaccination certificate contains information about your booster dose, yo
 
 <div id="QRcode"></div>
 
-#### 1. What is considered an accepted proof of vaccination, how can I check its validity and which can I upload onto the VTP portal?
+#### 1. What is considered an accepted proof of vaccination and how can I check its validity?
 
 <html>
 <head>
@@ -211,11 +190,9 @@ If you are a Singapore Citizen or Permanent Resident, or a Long Term Pass Holder
 
 <b style="color:red;">For Short-Term Visitors and eligible Work Permit Holders</b>
 
-If you are a Short-Term Visitor (STV) or Work Permit Holder (WPH) in Singapore, you need to apply for a VTP. Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP application portal. <b>You should upload the QR code(s) of your final dose only (i.e. first and second doses); regardless of whether you have obtained a booster dose</b>.
+<b>Short-term visitors and Work Permit holders aged 13 and above who are fully vaccinated and entering Singapore from 31 March 2022, 2359h (SGT)</b> will no longer need to apply for a Vaccinated Travel Pass (VTP) or present their VTP if they already have one. They can refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Fully Vaccinated Travellers and Non-Fully Vaccinated Children</a> for the entry requirements.
 
-Those who are required to upload a QR code but cannot do so are to write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation (e.g. passport) and other supporting documents. If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.
-
-You may check for the acceptable proof of vaccination, how to verify its validity and how to use the certificates during VTP application (if required) based on the certificate’s country/region of issuance below. 
+<b>Applications for new Vaccinated Travel Passes have been suspended.</b> If you need a VTP to enter Singapore urgently via the VTL <b>before 31 March 2359h</b>, please submit an appeal with supporting documents to the Safe Travel Office via <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a>
 
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proof of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u></p>
 
