@@ -294,18 +294,9 @@ input:checked + label + .content {
 <label for="title7" class="test2">Work Permit Holders & Short-Term Visitors</label>
 
 <div style="background-color:#edf4fa;" class="content" id="ltph">
-	<p style="line-height:1.4; font-size:18px;"><b><a target="_blank" href="https://go.gov.sg/vtl-portal">CLICK HERE TO APPLY</a> FOR A VACCINATED TRAVEL PASS (LAND) (VTP LAND)</b>.</p>
-	<p style="line-height:1.4; margin-top:20px; font-size:18px;">Please note the following before applying:
-		</p><ol style="margin-top:0px; list-style-type:disc;">
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Applicants <b>are advised to secure their bus tickets first (see Criterion 4).</b> VTPs will be issued immediately if your application is in order and vaccination records can be verified by the application system.</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"><b>Applicants must apply for VTPs between 3 and 60 calendar days before their date of departure.</b></li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTPs are valid for up to <b>13 calendar days</b> from the traveller's chosen date of entry. Travellers not travelling during this date range can apply for a VTP later. Travellers not travelling during this date range can apply for a VTP later.</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Accompanying children aged 12 and below (i.e. born in or after 2010) and are unvaccinated do <b><u>not</u></b> need to apply. </li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">Travellers must comply with the <a target="_blank" href="/vtl-land/conditions">VTL (Land) conditions</a>, details can be found this <a target="_blank" href="/vtl-land/travel-checklist">VTL (Land) travel checklist</a>. Failing which, they may be denied entry to Singapore.</li>
-			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;">VTP (Land) and VTP (Air) are not interchangeable, a separate application for VTP (Air) is required if travelling by air.</li>
-		<!--<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.4;"> If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements (<b>see Criterion 3 above</b>), please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate.</li>-->
-	</ol>
-	<p></p>
+<p style="line-height:1.4; font-size:18px;"><b>Short-term visitors and Work Permit holders aged 13 and above who are fully vaccinated and entering Singapore from 31 March 2022, 2359h (SGT)</b> will no longer need to apply for a Vaccinated Travel Pass (VTP) or present their VTP if they already have one. They can refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Fully Vaccinated Travellers and Non-Fully Vaccinated Children</a> for the entry requirements.</p>
+
+<p style="line-height:1.4; font-size:18px;"><b>Applications for new Vaccinated Travel Passes have been suspended.</b> If you need a VTP to enter Singapore urgently via the VTL <b>before 31 March 2359h</b>, please submit an appeal with supporting documents to the Safe Travel Office via <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a></p>
 	</div>
 	</body>
 </html>

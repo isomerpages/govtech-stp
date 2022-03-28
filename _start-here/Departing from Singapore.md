@@ -3,7 +3,6 @@ title: Departing from Singapore
 permalink: /departing/overview
 description: Advisories and resources when departing from Singapore
 ---
-
 <div id="top"></div>
 
 On this page, travellers intending to depart from Singapore can find information on:
@@ -80,7 +79,7 @@ On this page, travellers intending to depart from Singapore can find information
 
 <p style="margin-top:0px; margin-bottom:20px; font-size:16px; line-height:1.35;">*<i>This is based on the European Commissions’ recommendation for travel to Europe. The rules of EU member states may vary, and you are recommended to perform checks on the requirements of your destination country prior to travel.</i></p>
 
-<p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Travellers who have expiring Foreign Identification Number or FIN are advised to get their Vaccination HealthCert early or can read more <a href="http://www.notarise.gov.sg/faq#vaccination" target="_blank">here</a>.</p>
+<p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Travellers who have expiring Foreign Identification Number or FIN are advised to get their Vaccination HealthCert early or can read more <a href="https://faq.notarise.gov.sg/hc/en-gb/articles/4573705170713-Who-can-obtain-a-Vaccination-HealthCert-" target="_blank">here</a>.</p>
 
 <img src="/images/notarisevaccinationhealthcert_1.jpg" width="960" height="1358">
 

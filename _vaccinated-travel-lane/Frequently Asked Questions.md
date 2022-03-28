@@ -60,35 +60,16 @@ Persons who are medically unfit to be vaccinated are not allowed to travel under
 
 Use the self-checker tool on the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> to determine the alternative Travel Lanes that are available.
 
-
-<div id="Q4"></div>
- 
-#### 2. How do I prove my vaccination status when applying for a VTP if: 
-
-<ol style="list-style-type: lower-latin;"><li style="line-height:1.35; font-size:24px; color:#d30000;">I am a Work Permit/Work Permit IPA Holder or Short-Term Visitor with Singapore-issued vaccination records; or</li><li style="line-height:1.35; font-size:24px; color: #d30000;">I was fully vaccinated in a non-VTL country/region and had my vaccination records ingested into the Singapore Ministry of Health (MOH)’s National Immunisation Registry (NIR)?</li></ol>
-
-Please check if your Singapore vaccination records are valid through <a href="https://go.gov.sg/health-cert-query" target="_blank">this link</a> and, if necessary, re-tag your records to your most updated identification (e.g. passport/FIN/IC) number. The retagging process takes around 2 – 4 weeks. Please attempt to resubmit a VTP application only after receiving confirmation from the Ministry of Health/ Health Promotion Board that your records have been successfully retagged. More information on updating your vaccination records can be found on <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">this link</a>.
-
-You may also choose to upload the QR code on your Singapore Vaccination HealthCert issued via the  <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a>, if you have one. Please select ‘No’ when prompted if you have a ‘Vaccination Certificate Issued in Singapore or Vaccination Record Ingested into Singapore’s National Immunisation Registry’ on the portal and proceed to upload your QR code.
-
-You do not need to upload your QR code for booster vaccinations.
-
-<div id="Q6"></div>
-
-#### 3. I was fully vaccinated in a non-VTL (Air) country/region and have an <a href="/vtl/faq#QRcode">accepted proof of vaccination</a>. Do I satisfy the vaccination requirement?
-
-Yes. Please refer to the instructions <a href="/vtl/faq#vaxcert" target="_blank">here</a> for the accepted proof of vaccination.
-
 <div id="Q7"></div>
 
-#### 4. What information does the vaccination certificates need to contain?
+#### 2. What information does the vaccination certificates need to contain?
 
 The electronic or physical vaccination certificate(s) must be an accepted proof of vaccination, and clearly state the following:
 - your name, and at least one other personal identifier such as your date of birth or passport number corresponding exactly with the information in your passport used for entry into Singapore;
 - the name(s) of vaccine(s) used; and
 - the date(s) of vaccination. The date of the last dose should be administered at least 14 days before your arrival in Singapore. 
 
-#### 5. I am recovered from COVID-19 and have been administered only one vaccine dose of a typically two-dose regimen after my recovery. Do I fulfil the VTL vaccination requirement?
+#### 3. I am recovered from COVID-19 and have been administered only one vaccine dose of a typically two-dose regimen after my recovery. Do I fulfil the VTL vaccination requirement?
 
 Yes, if the date of your vaccine dose is:
 - at least 28 days after the date of your first positive COVID-19 test; and
@@ -96,12 +77,10 @@ Yes, if the date of your vaccine dose is:
 
 You must present a recovery certificate or discharge memo, which shows the date of your first positive COVID-19 test, in addition to your vaccination certificate to the airline at check-in, and at arrival immigration if required.
 
-If you are required to apply for a VTP, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your proof of vaccination and recovery certificate or discharge memo.
-
-You do not need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination or any other certificate that shows that you have obtained only 1 vaccine dose and completed the final dose in the series (i.e. “1/1”). If you are required to apply for a VTP, you need only upload the QR code found on your vaccination certificate.
+You do not need to present a separate recovery certificate or discharge memo if you hold an EU Digital COVID Certificate (EU DCC) of vaccination or any other certificate that shows that you have obtained only 1 vaccine dose and completed the final dose in the series (i.e. “1/1”). 
 
 
-#### 6. Are travellers required to obtain a booster dose to be eligible for the VTL?
+#### 4. Are travellers required to obtain a booster dose to be eligible for the VTL?
 
 Currently, VTL travellers are not required to obtain a booster dose. They are only required to be fully vaccinated with their primary vaccination series to be eligible for entry into Singapore.
 
@@ -122,7 +101,7 @@ If your vaccination certificate contains information about your booster dose, yo
 
 <div id="QRcode"></div>
 
-#### 1. What is considered an accepted proof of vaccination, how can I check its validity and which can I upload onto the VTP portal?
+#### 1. What is considered an accepted proof of vaccination and how can I check its validity?
 
 <html>
 <head>
@@ -211,11 +190,9 @@ If you are a Singapore Citizen or Permanent Resident, or a Long Term Pass Holder
 
 <b style="color:red;">For Short-Term Visitors and eligible Work Permit Holders</b>
 
-If you are a Short-Term Visitor (STV) or Work Permit Holder (WPH) in Singapore, you need to apply for a VTP. Depending on your proof of vaccination, you may be required to upload your vaccination certificate QR code on the VTP application portal. <b>You should upload the QR code(s) of your final dose only (i.e. first and second doses); regardless of whether you have obtained a booster dose</b>.
+<b>Short-term visitors and Work Permit holders aged 13 and above who are fully vaccinated and entering Singapore from 31 March 2022, 2359h (SGT)</b> will no longer need to apply for a Vaccinated Travel Pass (VTP) or present their VTP if they already have one. They can refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Fully Vaccinated Travellers and Non-Fully Vaccinated Children</a> for the entry requirements.
 
-Those who are required to upload a QR code but cannot do so are to write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and produce their vaccination certificate, travel documentation (e.g. passport) and other supporting documents. If you encounter an error upon uploading the QR code on your vaccination certificate onto the VTP application portal, despite meeting the requirements above, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> and provide your vaccination certificate. If you are unable to obtain one of the digitally verifiable vaccination certificates listed above, you will not be eligible for travel on the VTL.
-
-You may check for the acceptable proof of vaccination, how to verify its validity and how to use the certificates during VTP application (if required) based on the certificate’s country/region of issuance below. 
+<b>Applications for new Vaccinated Travel Passes have been suspended.</b> If you need a VTP to enter Singapore urgently via the VTL <b>before 31 March 2359h</b>, please submit an appeal with supporting documents to the Safe Travel Office via <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a>
 
 <p style="padding: 0px; margin-top:10px; font-size:18px; line-height:1.35;"><u><b>Accepted Proof of Vaccination by Countries/Regions of Issuance (Click to Expand)</b></u></p>
 
@@ -605,12 +582,12 @@ COVID-19 Vaccination Certificate on the <a target="_blank" href="http://www.moh.
 	</div>
 </body>
 </html>
-</div>
+
 
 
 <div id="invalidcode"></div>
 
-#### 2. Why was/were my vaccination QR code(s) not accepted in my VTP application?
+#### 2. Why was/were my vaccination QR code(s) not accepted during upload?
 
 Please attempt re-uploading your QR code, and ensure that:
 
@@ -806,70 +783,48 @@ No, you will not be eligible for the VTL. Return to the <a href="/arriving/overv
 
 ### 3)	Application for the Vaccinated Travel Pass
 
-<i style="color:red;">Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in this calendar year (i.e. born in or after 2010) are not required to apply for a VTP (Air)/VTP (Land)/VTP (Sea). However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL (Air)</a> conditions/<a href="/vtl-land/conditions" target="_blank">VTL (Land)</a>/<a href="/vtl-sea/conditions" target="_blank">VTL (Sea)</a>. Long-Term Pass holders (including IPA holders and excluding Work Permit holders) are not required to apply for a VTP.</i>
+<p style="line-height:1.3; color:red; font-size:18px;"><b>Short-term visitors and Work Permit holders aged 13 and above who are fully vaccinated and entering Singapore from 31 March 2022, 2359h (SGT)</b> will no longer need to apply for a Vaccinated Travel Pass (VTP) or present their VTP if they already have one. They can refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Fully Vaccinated Travellers and Non-Fully Vaccinated Children</a> for the entry requirements.</p>
+
+<p style="line-height:1.3; font-size:18px; color:red;"><b>Applications for new Vaccinated Travel Passes have been suspended.</b> If you need a VTP to enter Singapore urgently via the VTL <b>before 31 March 2359h</b>, please submit an appeal with supporting documents to the Safe Travel Office via <a href="https://go.gov.sg/sto-enquiry" target="_blank">https://go.gov.sg/sto-enquiry</a></p>
 
 
-#### 1. How long will it take for a VTP application to be processed?
-
-All travellers who successfully submit their application will be issued with a VTP  immediately.
-
-#### 2. Is there a fee to apply for a VTP?
-
-No, there is no fee payable for the application of a VTP.
-
-#### 3. Do travellers travelling with family members need to apply a VTP for every individual?
-
-Yes, each traveller will require a VTP.
-
-#### 4. Is there a limit to the number of times travellers can apply for a VTP?
-
-There is no limit to the number of times travellers can apply for a VTP. Every entry into Singapore requires a new VTP application.
-
-
-#### 5. I have an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass). Am I allowed to travel under the VTL (Land)?
+#### 1. I have an In-Principle Approval (IPA) for a Singapore-issued Long-Term Pass (i.e. Work Permit, Employment Pass, Student Pass, or Long-Term Visit Pass). Am I allowed to travel under the VTL (Land)?
 
 IPA holders are not eligible to utilise the VTL (Land) for travel to Singapore, unless they are Malaysia Citizens. However, they may still travel to Singapore with necessary approvals under the <a href="/wphl/overview" target="_blank">Work Pass Holder General Lane</a> and will be subject to the prevailing border measures upon entry into Singapore, including any Stay-Home Notice (SHN) and COVID-19 test requirements.
 
-#### 6. I am a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land). Can my spouse, child or family member who is not a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass accompany me to enter Singapore under the VTL (Land)?
+#### 2. I am a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass entering Singapore using the VTL (Land). Can my spouse, child or family member who is not a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore Long-Term Pass accompany me to enter Singapore under the VTL (Land)?
 
 Your family member can accompany you to enter Singapore under the VTL (Land), only if he or she is a Malaysia Citizen.
 
 Otherwise, your family member will not be allowed to accompany you. During the initial phase of the VTL (Land), only citizens of both countries, along with permanent residents and long-term pass holders of the country that they are entering are eligible to travel under this arrangement. Given the high demand for cross-border land travel, we are prioritising persons who have been impacted by COVID-19 and separated from their families for many months during the initial phase.
 
-#### 7. If I am a Malaysia Citizen, Malaysia Permanent Resident or holder of a Malaysia Long-Term Pass entering Malaysia using the VTL (Land), can I use the VTL (Land) to re-enter to Singapore?
+#### 3. If I am a Malaysia Citizen, Malaysia Permanent Resident or holder of a Malaysia Long-Term Pass entering Malaysia using the VTL (Land), can I use the VTL (Land) to re-enter to Singapore?
 
 Malaysia Citizens can enter Singapore under VTL (Land).
 
 Malaysia Permanent Residents or holders of a Malaysia-issued long-term pass are not allowed to enter Singapore under VTL (land) unless they are a Singapore Citizen, Singapore Permanent Resident or holder of a Singapore-issued Long-Term pass.
 
-#### 8. Why did I face errors while applying for a VTP?
+#### 4. How do I change the validity of my VTP?
 
-A VTP application may be unsuccessful for reasons such as:
-- <a href="/vtl/faq#invalidcode" target="_blank">Invalid vaccination QR code</a>
-- Incomplete and/or incorrect information submitted
-- Passport validity is less than 6 months
-
-#### 9. How do I change the validity of my VTP?
-
-A VTP is valid for single entry into Singapore anytime from your intended date of entry and up to 13 calendar days after. If your travel plans change and you need to enter before or after the validity period, please submit a new VTP application.
+A VTP is valid for single entry into Singapore anytime from your intended date of entry and up to 13 calendar days after.
 
 <b>Should you require assistance to seek urgent entry into Singapore within the next 2 days, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> or call the SafeTravel Enquiries helpline at 6812 5555. Kindly note that all appeals are assessed on a case-by-case basis.</b>
 
-#### 10. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
+#### 5. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
 
 If your particulars have changed, please write to the Safe Travel Office using the <a href="https://go.gov.sg/sto-enquiry" target="_blank">enquiry form here</a> with your revised particulars.
 
-#### 11. How can I change my passport number on my VTP?
+#### 6. How can I change my passport number on my VTP?
 
-You will not be able to change the passport number on an existing VTP. Please submit a new application with the correct details reflected. Do note that travellers with an inaccurate passport number on their VTP may be denied boarding and entry into Singapore.
+You will not be able to change the passport number on an existing VTP. Do note that travellers with an inaccurate passport number on their VTP may be denied boarding and entry into Singapore.
 
 If your intended date of entry is no longer available on the VTP application portal, please adjust your travel plans. You will not be allowed to board the designated VTL transport if you are unable to present a valid VTP.
 
-#### 12. How can I cancel my VTP as I no longer wish to travel to Singapore?
+#### 7. How can I cancel my VTP as I no longer wish to travel to Singapore?
 
 You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, it will automatically expire.
 
-#### 13. Can travellers use the VTP (Air) to transit/transfer through Singapore?
+#### 8. Can travellers use the VTP (Air) to transit/transfer through Singapore?
 
 No, the VTP (Air) is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. 
 Please refer to the Transiting through Singapore page for more details.
@@ -1037,7 +992,7 @@ There are currently no restrictions on the accommodation types for VTL traveller
 
 ### (a) Mandatory COVID-19 Travel Insurance Coverage
 
-#### 1. Do visitors need to show proof of travel insurance purchase when they apply for the VTP?
+#### 1. Do visitors need to show proof of travel insurance purchase?
 
 Visitors will have to declare, at the point of VTP application, that they will purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
 
