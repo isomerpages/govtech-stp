@@ -992,7 +992,7 @@ There are currently no restrictions on the accommodation types for VTL traveller
 
 ### (a) Mandatory COVID-19 Travel Insurance Coverage
 
-#### 1. Do visitors need to show proof of travel insurance purchase when they apply for the VTP?
+#### 1. Do visitors need to show proof of travel insurance purchase?
 
 Visitors will have to declare, at the point of VTP application, that they will purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
 
