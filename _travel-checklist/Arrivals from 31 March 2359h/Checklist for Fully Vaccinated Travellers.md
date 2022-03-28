@@ -86,7 +86,7 @@ input:checked + label + .content {
 	
 <body>	
 <input id="CMP" type="checkbox">
-<label for="CMP"><b>Non-Malaysian Work Permit In-principle Approval holders employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></label>
+<label for="CMP"><b>Non-Malaysian Work Permit In-principle Approval (IPA) holders employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">Apply for Entry Approval from Ministry of Manpower</a> <b>at least 3 working days</b> before the intended date of departure</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">All other fully vaccinated IPA holders should refer to the “<b>Long-term pass and in-principle approval (IPA) holders</b>” section below.</p>
