@@ -2,7 +2,6 @@
 title: Frequently Asked Questions
 permalink: /atp/faq
 ---
-
 <div style="padding-left: 5px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">The information on this page is only for travellers who are arriving before 31 March 2022, 2359h (SGT).</p>
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">A new Vaccinated Travel Framework takes effect for arrivals from 31 March 2022, 2359h (SGT). Travellers arriving from this date should click their relevant traveller profile below for a detailed travel requirements checklist:
@@ -45,61 +44,23 @@ The ATP comes with [conditions](/atp/conditions) of travel that the applicant mu
 
 There is no need to apply for an ATP for entry into Singapore from 31 March 2022, 2359h (SGT). 
 
-#### 2. How can visitors apply for an ATP?
 
-To apply for an ATP, please [click here](/atp/apply-now). Do note that applications for the ATP must be made between seven and 60 calendar days prior to the intended date of entry into Singapore.
-
-
-#### 3. How long will it take for an ATP application to be processed?
-
-We will endeavour to get back to the applicant within three working days.
-
-#### 4. Is there a fee payable to travel under the ATP?
-
-No, there is no fee payable for the application of an ATP. 
-
-However, there are <a href="#oat">costs for testing</a> which must be borne by the traveller. 
-
-
-#### 5. Do visitors travelling with family members need to apply an ATP for every individual?
-
-Yes, each visitor will require an ATP. In the case of a minor (below 18 years old), consent must be given by the parent or guardian for the application.
-
-#### 6. Is there a limit to the number of times visitors can apply for an ATP?
-
-There is no limit to the number of times visitors can apply for an ATP. Every entry into Singapore requires a new ATP application.
-
-#### 7. How long is the validity of an ATP?
+#### 2. How long is the validity of an ATP?
 
 An ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
 
 For example, visitors who hold a valid ATP to enter Singapore on 1 October 2021, have up to 8 October 2021 to do so should they need to make changes to their flight departure date.
 
-#### 8. Once an ATP application is approved, can the relevant authorities change the conditions of travel or even cancel the ATP?
+#### 3. Once an ATP application is approved, can the relevant authorities change the conditions of travel or even cancel the ATP?
 
 Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may introduce new measures or requirements as and when necessary to safeguard public health. 
 This may result in changes to the conditions or cancellation of the ATP at short notice. Applicants will be notified of any such changes or cancellation of their ATP.
 
-#### 9. Do Singapore Citizens / Permanent Residents / Long-Term Pass holders need to apply for an Air Travel Pass?
 
-No, Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders must travel via the Returning SC/PRs lane, Work Pass Holder General Lane or Student’s Pass Holder Lane. These travellers should not apply for an ATP to travel to Singapore.
-
-For information on border control measures, please refer to ICA’s website <a href="https://safetravel.ica.gov.sg">here</a>.
-
-#### 10. Can travel agents apply for Air Travel Pass on behalf of their clients?
-
-No. Visitors will need to submit the application themselves as they are required to agree to the conditions of the ATP, read and agree to the Privacy Statement, as well as verify all submitted information.
-
-#### 11. Why was I unsuccessful in applying for an ATP?
-
-An ATP application may be unsuccessful for reasons such as:
-- Incomplete and/or incorrect information submitted
-- Passport validity is less than 6 months
-- Failure to complete payment for your on-arrival COVID-19 Polymerase Chain Reaction (PCR) test 
-
-#### 12. Can visitors use the ATP to transit/transfer through Singapore?
+#### 4. Can visitors use the ATP to transit/transfer through Singapore?
 
 No, the ATP is for visitors who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
+
 
 <div id="requirements"></div>
 
