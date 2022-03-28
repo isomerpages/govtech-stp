@@ -61,6 +61,7 @@ This may result in changes to the conditions or cancellation of the ATP at short
 
 No, the ATP is for visitors who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
+
 <div id="requirements"></div>
 
 ### ATP Requirements for Entry into Singapore
