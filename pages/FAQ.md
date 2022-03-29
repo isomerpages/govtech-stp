@@ -542,7 +542,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="TT"></div>
 
-### (8) TraceTogether for Travellers
+### 8) TraceTogether for Travellers
 
 <i>For the full requirements and conditions governing the use of TraceTogether, please click <a href="/health/tt-for-travellers">here</a>.</i>
 
