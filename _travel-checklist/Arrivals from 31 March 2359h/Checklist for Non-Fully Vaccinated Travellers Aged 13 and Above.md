@@ -24,7 +24,7 @@ third_nav_title: Arrivals from 31 March 2359h
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Singapore Citizens and Permanent Residents <b>do not</b> need to apply for an Entry Approval. </p> 
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Long-term Pass holders (including In-Principle Approval holders) aged 13 to 17 also <b>do not</b> need to apply for an Entry Approval.</p>
-		<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For all other travellers, only the following traveller types may apply for entry.</p>
+		<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For all other travellers, only the following non-fully traveller types may apply for entry.</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click '+' for details on application process)</b></p>
 
 <html>
@@ -88,7 +88,7 @@ input:checked + label + .content {
 </head>
 <body>	
 <input id="IPA-Family" type="checkbox">
-	<label for="IPA-Family"><b>Long-term Pass Holder or Short-term visitor who is a Family Member of a Singapore Citizen/Permanent Resident </b></label>
+	<label for="IPA-Family"><b>Eligible Long-term Pass Holder or Short-term visitor who is a Family Member of a Singapore Citizen/Permanent Resident </b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications must be submitted by the Singapore Citizen/PR family member using SingPass at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
@@ -183,8 +183,8 @@ input:checked + label + .content {
 <body>	
 <input id="STVs" type="checkbox">
 	<label for="STVs"><b>Short-Term Visitors</b></label>
-<div style="background-color:#edf4fa;" class="content"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges<sup>1</sup>. Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>).</p>
-	<p style="font-size:15px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><sup>1</sup>Insurance is not mandatory but is <b>strongly encouraged</b> for those who applied for entry approval via the SafeTravel Office Application Portal. </p>	
+<div style="background-color:#edf4fa;" class="content"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges.<sup>1</sup> Insurance can be purchased with any insurer  (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>).</p>
+	<p style="font-size:15px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><sup>1</sup>Insurance is strongly encouraged but not mandatory for those who received entry approval via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a>. Short-term visitors are responsible for all costs associated with COVID-19 treatment and recovery throughout their stay in Singapore.  </p>	
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Short term visitors holding passports or travel documents issued by visa-required countries/regions should also <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">click here to check if visa is required and to apply for an Entry Visa</a>.</p>
 </div>
 	
