@@ -9,7 +9,7 @@ permalink: /FAQ
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
 		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#vaxcert">Digitally Verifiable Vaccination Certificate </a></li>
 		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Common Portal Technical Issues</a><ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-latin;">
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#amendment">Amendment of Approved Applications</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#amendment">Amendment of Approved Entry Applications</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#receiptandapproval">Receipts and Approval Letters</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#TravellerDetails">Traveller Details</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#upload">Document Uploads</a></li>
@@ -20,6 +20,7 @@ permalink: /FAQ
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
 		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#procedures">FAQs on Specific Safe Travel Lane Procedures</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#procedures">TraceTogether for Travellers</a></li>
 </ol>
 
 
@@ -41,13 +42,11 @@ Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_b
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
 	</ol>
 
-However, <b>Short Term Visitors and eligible Work Permit Holders arriving before 31 March 2359h via the Vaccinated Travel Lane</b> will also need to upload the digital proof of vaccination as part of their Vaccinated Travel Pass application.
-
 <!--list of accepted digital certs to be provided by MOT in their excel sheet – combine where possible e.g. all the EUDCC countries in the same row-->
 
 <div id="invalidcode"></div>
 
-#### 2. Why are my vaccination QR codes not accepted in my Vaccinated Travel Pass (VTP) application or Vaccination Check Portal?
+#### 2. What should I do if my Vaccination Certificates are not accepted in the Vaccination Check Portal or SG Arrival Card?
 
 Please attempt re-uploading your QR code, and ensure that:
 <ol style="list-style-type:disc;">
@@ -69,7 +68,18 @@ Please attempt re-uploading your QR code, and ensure that:
 		<li style="line-height:1.35; margin-top:10px;">You replaced any non-latin special characters in your name as per this <a href="#specialchar">FAQ</a>.</li>
 	</ol>
 
-For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide supporting details and screenshots of the errors encountered.
+Even if you have faced uploading errors, you may continue to show your vaccination app or certificate at boarding/immigration with the following details if they are in English or translated to English with notarisation:
+
+<ol style="padding-left: 20px; list-style-type: lower-roman;">
+		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Country of vaccination</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
+		</ol>
+
+
+For further assistance on certificate uploading issues, you may write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide supporting details and screenshots of the errors encountered. If the issue is with your vaccination certificate itself (e.g. issued certificate does not have a name matching with your passport), you must approach your certificate issuer instead.
 
 
 #### 3. Why are only SMART Health Cards by certain issuers accepted?
