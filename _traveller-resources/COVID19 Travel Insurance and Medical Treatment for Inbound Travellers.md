@@ -14,9 +14,7 @@ This page contains information on the following issues:
 
 ### 1. COVID-19 Travel Insurance
 
-#### Mandatory Insurance for Short-term Visitors
-
-All short-term visitors will need to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore, with a minimum coverage of S$30,000 (based on COVID-19 bill sizes at private hospitals). This is a requirement regardless of the traveller’s vaccination or recovery status, as there is still a risk that these travellers can get a COVID-19 infection and require medical attention.
+Short-term visitors who are unvaccinated and are required to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore should ensure that their insurance has a minimum coverage of S$30,000 (based on COVID-19 bill sizes at private hospitals). [<b>Note:</b> From 1 April 2022, short-term visitors who are fully vaccinated are not required to have travel insurance for their COVID-19 related medical treatment and hospitalisation costs in Singapore for entry into Singapore.]
 
 The travel insurance will help with the costs of their medical treatment in Singapore. Please ensure sufficient coverage as travellers will have to pay for their own treatment costs beyond their insurance coverage.
 
@@ -49,10 +47,6 @@ A list of available Singapore-based travel insurance products* are as follows:
 </tr>
 </tbody>
 </table>
-
-<b><i>All Short Term Visitors are required to prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore. </i></b>
-
-The mandatory travel insurance <u>does not</u> apply to Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to access Government subsidies and MediShield Life / Integrated Shield Plans to help pay for their medical bills, where applicable, should they develop onset of symptoms for COVID-19 within 14 days of their return.
 
 <div id="LTPH"></div> 
 
