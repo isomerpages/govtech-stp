@@ -31,6 +31,11 @@ sections:
         - title: Departing from Singapore <span style="font-size:20px;"> &#187; </span>
           description: Click Here
           url: /departing/overview
+  - infopic:
+      title: Accepted COVID-19 Vaccinations and Vaccination Certificates
+      description: This page provides details on what COVID-19 vaccinations and certificates are recognised for travelling to and staying in Singapore. 
+      alt: Vaccination Certificates
+      image: /images/covid-vaccinated.png
   - resources:
       title: Press Releases
       button: View More
