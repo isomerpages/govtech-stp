@@ -6,7 +6,11 @@ published: true
 ---
 
 <head>
-	<style>
+<meta charset="utf-8">
+<title>Test Accordion</title>
+
+<style>
+
 input { display: none; }
 input + label { display: inline-block }
 
@@ -33,9 +37,8 @@ input ~ .tab {
   border-top: 1px solid #999;
   padding: 12px;
 		}
-	</style>
-	</head>
-	
+</style>
+</head>
 <body>
 	<input type="radio" name="tabs" id="tab1" checked />
 <label for="tab1">Tab1</label>
