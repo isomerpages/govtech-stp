@@ -40,17 +40,22 @@ input ~ .tab {
 </style>
 </head>
 <body>
-	<input type="radio" name="tabs" id="tab1" checked />
+<input type="radio" name="tabs" id="tab1" checked />
 <label for="tab1">Tab1</label>
+
 <input type="radio" name="tabs" id="tab2" />
 <label for="tab2">Tab2</label>
+
 <input type="radio" name="tabs" id="tab3" />
 <label for="tab3">Tab3</label>
+
 <input type="radio" name="tabs" id="tab4" />
 <label for="tab4">tab4</label>
+
 <input type="radio" name="tabs" id="tab5" />
 <label for="tab5">tab5</label>
-	<div class="tab content1">Tab1 Contents</div>
+
+<div class="tab content1">Tab1 Contents</div>
 <div class="tab content2">Tab2 Contents</div>
 <div class="tab content3">Tab3 Contents</div>
 <div class="tab content4">Tab4 Contents</div>
