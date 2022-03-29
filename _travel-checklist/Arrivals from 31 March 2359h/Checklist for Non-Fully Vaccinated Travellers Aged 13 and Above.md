@@ -184,7 +184,7 @@ input:checked + label + .content {
 <input id="STVs" type="checkbox">
 	<label for="STVs"><b>Short-Term Visitors</b></label>
 <div style="background-color:#edf4fa;" class="content"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges<sup>1</sup>. Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>).</p>
-	<p style="font-size:14px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><sup>1<sup>Insurance is not mandatory but is <b>strongly encouraged</b> for those applying for entry approval via the SafeTravel Office Application Portal. </p>	
+	<p style="font-size:14px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><sup>1</sup>Insurance is not mandatory but is <b>strongly encouraged</b> for those applying for entry approval via the SafeTravel Office Application Portal. </p>	
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Short term visitors holding passports or travel documents issued by visa-required countries/regions should also <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">click here to check if visa is required and to apply for an Entry Visa</a>.</p>
 </div>
 	
