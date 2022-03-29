@@ -9,7 +9,7 @@ permalink: /FAQ
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
 		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#vaxcert">Digitally Verifiable Vaccination Certificate </a></li>
 		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Common Portal Technical Issues</a><ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-latin;">
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#amendment">Amendment of Approved Applications</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#amendment">Amendment of Approved Entry Applications</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#receiptandapproval">Receipts and Approval Letters</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#TravellerDetails">Traveller Details</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#upload">Document Uploads</a></li>
@@ -20,6 +20,7 @@ permalink: /FAQ
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
 		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#procedures">FAQs on Specific Safe Travel Lane Procedures</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#TT">TraceTogether for Travellers</a></li>
 </ol>
 
 
@@ -32,7 +33,7 @@ permalink: /FAQ
 
 #### 1. What is considered a digitally verifiable vaccination certificate and how can I check its validity?
 
-Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised digitally verifiable certificate</a> can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> prior to their trip to see if the certificate can be verified by the Singapore authorities, and also upload it via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> up to 3 days before arrival. If verification fails, travellers should not worry as they can show their physical vaccination certificate or app with the following details in English, or translated to English with notarisation:
+Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised digitally verifiable vaccination certificate</a> can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> prior to their trip to see if the certificate can be verified by the Singapore authorities, and also upload it via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> up to 3 days before arrival. If verification fails, travellers should not worry as they can show their physical vaccination certificate or app with the following details in English, or translated to English with notarisation:
 <ol style="padding-left: 20px; list-style-type: lower-roman;">
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
@@ -41,18 +42,16 @@ Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_b
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
 	</ol>
 
-However, <b>Short Term Visitors and eligible Work Permit Holders arriving before 31 March 2359h via the Vaccinated Travel Lane</b> will also need to upload the digital proof of vaccination as part of their Vaccinated Travel Pass application.
-
 <!--list of accepted digital certs to be provided by MOT in their excel sheet – combine where possible e.g. all the EUDCC countries in the same row-->
 
 <div id="invalidcode"></div>
 
-#### 2. Why are my vaccination QR codes not accepted in my Vaccinated Travel Pass (VTP) application or Vaccination Check Portal?
+#### 2. What should I do if my Vaccination Certificates are not accepted in the Vaccination Check Portal or SG Arrival Card?
 
 Please attempt re-uploading your QR code, and ensure that:
 <ol style="list-style-type:disc;">
 	<li style="line-height:1.35; margin-top:10px;">You are using the ‘International’/‘Travel’ version of your vaccination certificate. A common issue is that travellers holding certificates issued by the following countries upload their domestic certificate instead of their travel certificate.
-	<ol style="padding-left: 20px; list-style-type: lower-roman;">
+	<ol style="padding-left: 20px; list-style-type: square;">
 		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">India</li>
 		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Indonesia</li>
 		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Thailand</li>
@@ -69,7 +68,18 @@ Please attempt re-uploading your QR code, and ensure that:
 		<li style="line-height:1.35; margin-top:10px;">You replaced any non-latin special characters in your name as per this <a href="#specialchar">FAQ</a>.</li>
 	</ol>
 
-For further assistance, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide supporting details and screenshots of the errors encountered.
+Even if you have faced uploading errors, you may continue to show your vaccination app or certificate at boarding/immigration with the following details if they are in English or translated to English with notarisation:
+
+<ol style="padding-left: 20px; list-style-type: lower-roman;">
+		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Country of vaccination</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
+		</ol>
+
+
+For further assistance on certificate uploading issues, you may write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide supporting details and screenshots of the errors encountered. If the issue is with your vaccination certificate itself (e.g. issued certificate does not have a name matching with your passport), you must approach your certificate issuer instead.
 
 
 #### 3. Why are only SMART Health Cards by certain issuers accepted?
@@ -93,7 +103,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="amendment"></div>
 
-### a. Amendment of Approved Applications (non-Vaccinated Travel Lanes)
+### a. Amendment of Approved Applications (non-fully Vaccinated Travel Lanes)
 
 
 #### 1. There is a mistake in my application. Do I need to submit a new application? If so, can I ask for a refund for the previous application?
@@ -103,8 +113,6 @@ Yes, a fresh application must be submitted. Employers must ensure that the infor
 #### 2. Can I change the traveller’s entry date?
 
 No. We regret to inform you that no changes to the date of entry are allowed once an application has been approved. If there are exceptional circumstances for a change in entry date, please write to us using our enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide the traveller’s details including passport number, FIN number (where applicable) and approval reference number.
-
-For PCA applications, please note that should your employee be unable to enter on the approved date, you will not be able to apply for another PCA for the same employee for a date of entry within 90 days from his/her last approved date of entry.
 
 ---
 	
@@ -126,10 +134,10 @@ The approval letter will be sent as an email from the SafeTravel Office (SafeTra
 
 If the problem persists, please contact us via the enquiry form [here](https://go.gov.sg/sto-enquiry) with the following information:
 <ul>
-<li>Application Reference Number</li>
-<li>Contact details</li>
-<li>Screenshot of your application status or payment invoice</li>
-<li>(If applicable) FIN and FIN expiry number of your employee(s)</li>
+<li style="padding-left:15px;">Application Reference Number</li>
+<li style="padding-left:15px;">Contact details</li>
+<li style="padding-left:15px;">Screenshot of your application status or payment invoice</li>
+<li style="padding-left:15px;">(If applicable) FIN and FIN expiry number of your employee(s)</li>
 </ul>
 
 Requests to have the approval letter sent to a different email address not stated in the application, will not be entertained.
@@ -326,9 +334,9 @@ As a condition for entry into Singapore, all travellers must commute directly to
 In the event of an emergency, travellers may contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
 
-#### 2. I am supposed to serve my SHN at my own place of residence instead of at an SHN Dedicated Facility. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should i do?
+#### 2. I am supposed to serve my SHN at my own place of residence. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
 
-Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to <a href="https://go.gov.sg/shnhotelneeds" target="_blank">this page</a> for more details, or contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
+Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to <a href="https://go.gov.sg/shnhotelneeds" target="_blank">this page</a> for more details, or contact the SafeTravel Enquiries helpline at 6812 5555 for assistance and advice. Do not leave your residence until you have received further instructions.
 
 
 ---
@@ -341,7 +349,7 @@ Click here to [Go Back To Top](#top).
 
 ### 4) Transport Advisories
 
-#### 1. What are the transport advisories for travellers who are completing their Stay Home Notice at their accommodation?
+#### 1. What are the transport advisories for travellers who have to serve Stay Home Notice?
 
 Travellers can commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps. 
 
@@ -349,17 +357,17 @@ Travellers can commute using their own private vehicle, taxis (including street-
 	
 (i) <u><b>Private Transport Use</b></u>
 
-Travellers may be picked up from the airport by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller, and the traveller must be ferried directly to their declared place of accommodation.
+Travellers can commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider’s respective apps. This also applies to travellers who have to leave their place of SHN to take their mandatory scheduled PCR test to exit from SHN at the approved testing facility.
 
 If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.
 
 All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
 
 <ol style="list-style-type:disc;">
-	<li>Vehicle windows must be wound down with air conditioning turned off.</li>
-		<li>Where practicable, the front passenger seat should be left unoccupied;</li>
-			<li>The back seat should only be occupied by the traveller(s)</li>			
-			<li>The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for more information.</li>
+	<li style="padding-left:15px;">Vehicle windows must be wound down with air conditioning turned off.</li>
+		<li style="padding-left:15px;">Where practicable, the front passenger seat should be left unoccupied;</li>
+			<li style="padding-left:15px;">The back seat should only be occupied by the traveller(s)</li>			
+			<li style="padding-left:15px;">The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for more information.</li>
 </ol>
 
 <div id="note2"></div>
@@ -384,12 +392,24 @@ Click here to [Go Back To Top](#top).
 ### 5) COVID-19 Tests for Travellers 
 
 
-#### 1. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
+#### 1. If I am entering a foreign country/region for a very short trip, can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for departure, to fulfil the pre-departure test requirement for my return leg to Singapore?
 
-Travellers arriving from countries requiring a COVID-19 test must do so if they are three years old and above this calendar year. Individuals aged two or below this calendar year (i.e. born in or after 2020) are, by default, exempted from this testing requirement. 
+You will fulfil the pre-departure test requirement <b>only if the PCR test or professionally administered/supervised ART was taken within 2 days before departure for Singapore.</b>
 
+As an example, a traveller takes a pre-departure ART in Singapore on 1 March 2022 and enters Indonesia on the same day. If he intends to return to Singapore between 1 and 3 March 2022, the ART taken on 1 March 2022 will fulfil the pre-departure test requirement for entry into Singapore.
 
-#### 2. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from COVID-19 Polymerase Chain Reaction Tests (“PCR test”) ?
+#### 2. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
+
+Travellers born before 2020 (i.e. above two years old) who belong to any category of travellers below are required to do a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
+
+<ol style="list-style-type:lower-alpha;">
+	<li style="padding-left:15px;">Fully-vaccinated travellers arriving in Singapore via air or sea; or</li>
+		<li style="padding-left:15px;">All non-fully vaccinated travellers</li>
+	</ol>
+
+Individuals aged two or below this calendar year (i.e. born in or after 2020) are, by default, exempted from this testing requirement. Recently-recovered travellers who are fully vaccinated are exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 7 to 90 days before their date of departure from Singapore.
+
+#### 3. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from COVID-19 Polymerase Chain Reaction Tests (“PCR test”) ?
 
 In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
@@ -404,11 +424,7 @@ Click here to [Go Back To Top](#top).
 
 ### 6) Payments and Refunds
 
-#### 1. Do I have to pay for my stay at a Stay-Home Notice Dedicated facility (SDF) if I request for it?
-
-Yes, all travellers serving their Stay-Home Notice at an [SDF](/health/shn#sdf) are required to pay for the cost of the accommodation directly to the hotel.
-
-#### 2. How do I request a refund for my COVID-19 Polymerase Chain Reaction test (“PCR test’) as well as stay at the Stay-Home Notice (SHN) dedicated facility (SDF)?
+#### 1. How do I request a refund for my COVID-19 Polymerase Chain Reaction test (“PCR test’) as well as stay at the Stay-Home Notice (SHN) dedicated facility (SDF)?
 
 Pre-payments made for relevant costs such as [SDF](/health/shn#sdf) and COVID-19 test fees during the entry application process are non-refundable for drop-outs and last minute cancellations. All forfeited pre-payments will go toward covering the relevant costs have been incurred to secure and prepare the accommodation for the traveller.
  
@@ -417,20 +433,20 @@ Requests for refunds will only be considered if there are strong mitigating fact
 <table>
   <thead>
     <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Traveller pass type/ Scheme of entry</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Refund Channels</b></th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Traveller pass type</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Refund Channels</b></th>
     </tr>
   </thead>
   <tbody>
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Singapore Citizens (SC) and Singapore Permanent Residents (PR) and <a href="/scpr-familial-ties-lane/overview">Familial Ties Lane users</a>  </td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Singapore Citizens (SC) and Singapore Permanent Residents (PR)</td>
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/sto-enquiry">go.gov.sg/sto-enquiry</a></td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Work Pass Holders travelling to Singapore via the <a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a></td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg </a></td>
     </tr>
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder Lane</a><br><br> <i>(Helpers and Confinement Nannies)</i></td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Helpers and Confinement Nannies</i></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the helper or nanny's entry approval <b>at least 5 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a> </li>
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a> </li>
@@ -438,7 +454,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
    </td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder Lane</a><br><br><i>(All other Work Pass Holders and their dependents)</i></td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">All other Work Pass Holders and their dependents</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the pass holder's entry approval <b>at least 7 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-entry-approval">For Work Pass holder or dependant</a> </li>
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-entry-individual">For Personalised Empoyer Pass holder without employer, Entrepass and Work Holiday Pass and their dependants</a> </li>
@@ -446,7 +462,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
    </td>
     </tr>
       <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/overview">Student’s Pass Holder Lane user</a></td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/overview">Student’s Pass Holders</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://form.gov.sg/#!/5f6858d80666cb0011cae36e">Refund Form</a><br/><br/> Refund requests must be submitted within <b><u>3 months</u></b> from the end of SHN or the end of the SafeTravel Pass validity period, whichever is later. Late requests will <b><u>not</u></b> be considered.
 </td>
    </tr> 
@@ -522,3 +538,111 @@ Please refer to the individual Safe Travel Lane FAQs if you have questions on sp
 Click here to [Go Back To Top](#top).
 
 ---
+
+
+<div id="TT"></div>
+
+### 8) TraceTogether for Travellers
+
+<i>For the full requirements and conditions governing the use of TraceTogether, please click <a href="/health/tt-for-travellers">here</a>.</i>
+
+<i>General FAQs on TraceTogether can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg">here</a>.</i>
+
+#### 1. Must every visitor use TraceTogether?
+
+Yes. All visitors to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, visitors must activate and use the app for the duration of their stay in Singapore.
+
+Travellers may also obtain a TraceTogether token after arriving in Singapore. More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+
+Children aged 6 and below in this calendar year are exempted from the TraceTogether requirement.
+
+
+#### 2. After downloading the TraceTogether app, how do I activate it?
+
+After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that you are using to enter Singapore.
+ 
+Please ensure that your TraceTogether App is updated to the latest version. You will see the Holding Screen after you have registered your profile. <b>You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore</b>. Follow the instructions until you reach the Home Screen.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;">Holding Screen</th>
+      <th style="text-align:center;">Home Screen</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;"></td>
+      <td><img src="/images/TraceTogether Home Screen_Vaccinated.png" style="width:179px; height:318px;"></td>
+    </tr>
+  </tbody>
+</table>
+ 	 
+For more information, please refer to the TraceTogether <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-">website</a>.
+
+If you require assistance on how to download and activate the TraceTogether app, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a>.
+
+#### 3. I have downloaded the TraceTogether app, but I cannot activate the app. What should I do?
+
+Please check that your app has been updated to the latest version.
+
+You can activate your app only <u>after</u> clearing Singapore immigration. There might be a short lag time between after your have cleared immigration and before you can activate the app.
+ 
+If you still are unable to activate your app after immigration clearance, it could be because you did not register your profile with the same identification number, nationality and date of birth as those shown in the passport that you have used to enter Singapore. If so, follow the instructions to be navigated back to the Holding Screen.
+
+You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
+
+<img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;">
+ 
+If you still face issues, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a> with your query and details of the issue you are facing. 
+
+#### 4. If I change my mobile device or SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
+
+If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. 
+
+If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
+
+Please ensure that you keep your mobile device’s Bluetooth function turned on so that the TraceTogether app remains activated throughout your stay in Singapore.
+
+#### 5. What happens if visitors do not have a mobile device to download the TraceTogether app?
+
+All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the <a href="https://apps.apple.com/sg/app/tracetogether/id1498276074">iOS App Store</a>, <a href="https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace">Google Play Store</a> and Huawei App Gallery.
+
+Visitors with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is TraceTogether-compatible. Alternatively, they may obtain a TraceTogether token (S$13/token) at designated locations in Singapore. Click <a href="/health/tt-for-travellers#token" target="_blank">here</a> for more details.
+
+Visitors must carry their rented mobile device or TraceTogether token with them at all times during their stay in Singapore. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
+
+   
+#### 6. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
+
+Visitors who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can purchase a Singapore SIM card. Upon purchase, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport used to enter Singapore.
+
+#### 7. Can visitors switch off their mobile devices while in Singapore?
+
+No, visitors must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
+
+
+#### 8. Will my vaccination status show on my TraceTogether app? What should I do if my vaccination status is not updated in TraceTogether or if it expires?
+
+If you were fully vaccinated in <b>Singapore</b>, you should be able to see your vaccination status on your TraceTogether and HealthHub apps. Your vaccination status will not expire.
+
+If you were fully vaccinated <b>overseas</b>, please ensure that you have:
+
+<ol style="list-style-type:lower-roman;">
+	<li>Uploaded your vaccination certificate on your SG Arrival Card submission; or</li>
+	<li>Present your overseas vaccination certificate at the immigration counter on-arrival. </li>
+	</ol>
+
+Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore. If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: <a href="https://go.gov.sg/vax-status-query" target="_blank">https://go.gov.sg/vax-status-query</a>.
+
+If you have uploaded a digitally-verifiable vaccination QR code via the Vaccinated Travel Pass (VTP) application portal, you may be granted a 180-day temporary status. All other travellers may be granted a 30-day temporary status by either uploading their digtially-verifiable vaccination certificate in their SG Arrival Card, or by presenting their vaccination certificate to the ICA officer at immigration clearance. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministy of Health's FAQs on these measures.
+
+You may also wish to refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">TraceTogether FAQs</a> for more information.
+
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
+
