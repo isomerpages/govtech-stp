@@ -17,16 +17,6 @@ Otherwise, a list of SafeTravel Lanes and their respective application portals c
     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Application Portal</th>
   </thead>
   <tbody>
-			         <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane (Air)</a></td>
-      <td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align: middle;">Apply <a href="https://go.gov.sg/vtl-portal">here</a></td>
-    </tr>
-			         <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl-land/overview">Vaccinated Travel Lane (Land)</a></td>
-    </tr>
-			         <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl-sea/overview">Vaccinated Travel Lane (Sea)</a></td>
-    </tr>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; vertical-align:middle;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Check <a href="/wphl/overview">here</a> for the various application processes depending on the worker's profile</td>
