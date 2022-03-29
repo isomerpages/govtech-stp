@@ -88,7 +88,7 @@ input:checked + label + .content {
 </head>
 <body>	
 <input id="IPA-Family" type="checkbox">
-	<label for="IPA-Family"><b>Short Term Visitor who is an Immediate Family Member of a Singapore Citizen/Permanent Resident </b></label>
+	<label for="IPA-Family"><b>Long-term Pass Holder or Short-term visitor who is a Family Member of a Singapore Citizen/Permanent Resident </b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications must be submitted by the Singapore Citizen/PR family member using SingPass at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
@@ -101,7 +101,7 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Long-Term Passes Issued by MOM</u></b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry.</a> Request is subject to approval. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.</p>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Permanent Resident In-Principle Approval holder (IPA), Long Term Visit Pass In-Principle Approval holder (IPA), or Adopted child of a Singapore Citizen/Permanent Resident holding a Dependant’s Pass-IPA issued by the Ministry of Social and Family Development</u></b></p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Permanent Resident In-Principle Approval (IPA) holder, Long Term Visit Pass IPA holder, or Adopted child of a Singapore Citizen/Permanent Resident holding a Dependant’s Pass-IPA issued by the Ministry of Social and Family Development</u></b></p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"> Applications must be submitted by the Singapore Citizen/PR family member using SingPass at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a>. Those without a Singapore Citizen/PR to apply for entry on their behalf should write in via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>.</p>
 </div>
 	
@@ -183,7 +183,8 @@ input:checked + label + .content {
 <body>	
 <input id="STVs" type="checkbox">
 	<label for="STVs"><b>Short-Term Visitors</b></label>
-<div style="background-color:#edf4fa;" class="content"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges. Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>).</p>
+<div style="background-color:#edf4fa;" class="content"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges<sup>1</sup>. Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>).</p>
+	<p style="font-size:14px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><sup>1<sup>Insurance is not mandatory but is <b>strongly encouraged</b> for those applying for entry approval via the SafeTravel Office Application Portal. </p>	
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Short term visitors holding passports or travel documents issued by visa-required countries/regions should also <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">click here to check if visa is required and to apply for an Entry Visa</a>.</p>
 </div>
 	
