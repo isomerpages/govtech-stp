@@ -538,3 +538,111 @@ Please refer to the individual Safe Travel Lane FAQs if you have questions on sp
 Click here to [Go Back To Top](#top).
 
 ---
+
+
+<div id="TT"></div>
+
+### (8) TraceTogether for Travellers
+
+<i>For the full requirements and conditions governing the use of TraceTogether, please click <a href="/health/tt-for-travellers">here</a>.</i>
+
+<i>General FAQs on TraceTogether can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg">here</a>.</i>
+
+#### 1. Must every visitor use TraceTogether?
+
+Yes. All visitors to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, visitors must activate and use the app for the duration of their stay in Singapore.
+
+Travellers may also obtain a TraceTogether token after arriving in Singapore. More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+
+Children aged 6 and below in this calendar year are exempted from the TraceTogether requirement.
+
+
+#### 2. After downloading the TraceTogether app, how do I activate it?
+
+After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that you are using to enter Singapore.
+ 
+Please ensure that your TraceTogether App is updated to the latest version. You will see the Holding Screen after you have registered your profile. <b>You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore</b>. Follow the instructions until you reach the Home Screen.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;">Holding Screen</th>
+      <th style="text-align:center;">Home Screen</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;"></td>
+      <td><img src="/images/TraceTogether Home Screen_Vaccinated.png" style="width:179px; height:318px;"></td>
+    </tr>
+  </tbody>
+</table>
+ 	 
+For more information, please refer to the TraceTogether <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-">website</a>.
+
+If you require assistance on how to download and activate the TraceTogether app, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a>.
+
+#### 3. I have downloaded the TraceTogether app, but I cannot activate the app. What should I do?
+
+Please check that your app has been updated to the latest version.
+
+You can activate your app only <u>after</u> clearing Singapore immigration. There might be a short lag time between after your have cleared immigration and before you can activate the app.
+ 
+If you still are unable to activate your app after immigration clearance, it could be because you did not register your profile with the same identification number, nationality and date of birth as those shown in the passport that you have used to enter Singapore. If so, follow the instructions to be navigated back to the Holding Screen.
+
+You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
+
+<img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;">
+ 
+If you still face issues, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a> with your query and details of the issue you are facing. 
+
+#### 4. If I change my mobile device or SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
+
+If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. 
+
+If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
+
+Please ensure that you keep your mobile device’s Bluetooth function turned on so that the TraceTogether app remains activated throughout your stay in Singapore.
+
+#### 5. What happens if visitors do not have a mobile device to download the TraceTogether app?
+
+All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the <a href="https://apps.apple.com/sg/app/tracetogether/id1498276074">iOS App Store</a>, <a href="https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace">Google Play Store</a> and Huawei App Gallery.
+
+Visitors with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is TraceTogether-compatible. Alternatively, they may obtain a TraceTogether token (S$13/token) at designated locations in Singapore. Click <a href="/health/tt-for-travellers#token" target="_blank">here</a> for more details.
+
+Visitors must carry their rented mobile device or TraceTogether token with them at all times during their stay in Singapore. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
+
+   
+#### 6. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
+
+Visitors who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can purchase a Singapore SIM card. Upon purchase, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport used to enter Singapore.
+
+#### 7. Can visitors switch off their mobile devices while in Singapore?
+
+No, visitors must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
+
+
+#### 8. Will my vaccination status show on my TraceTogether app? What should I do if my vaccination status is not updated in TraceTogether or if it expires?
+
+If you were fully vaccinated in <b>Singapore</b>, you should be able to see your vaccination status on your TraceTogether and HealthHub apps. Your vaccination status will not expire.
+
+If you were fully vaccinated <b>overseas</b>, please ensure that you have:
+
+<ol style="list-style-type:lower-roman;">
+	<li>Uploaded your vaccination certificate on your SG Arrival Card submission; or</li>
+	<li>Present your overseas vaccination certificate at the immigration counter on-arrival. </li>
+	</ol>
+
+Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore. If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: <a href="https://go.gov.sg/vax-status-query" target="_blank">https://go.gov.sg/vax-status-query</a>.
+
+If you have uploaded a digitally-verifiable vaccination QR code via the Vaccinated Travel Pass (VTP) application portal, you may be granted a 180-day temporary status. All other travellers may be granted a 30-day temporary status by either uploading their digtially-verifiable vaccination certificate in their SG Arrival Card, or by presenting their vaccination certificate to the ICA officer at immigration clearance. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministy of Health's FAQs on these measures.
+
+You may also wish to refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">TraceTogether FAQs</a> for more information.
+
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
+
