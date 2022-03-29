@@ -51,7 +51,7 @@ Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_b
 Please attempt re-uploading your QR code, and ensure that:
 <ol style="list-style-type:disc;">
 	<li style="line-height:1.35; margin-top:10px;">You are using the ‘International’/‘Travel’ version of your vaccination certificate. A common issue is that travellers holding certificates issued by the following countries upload their domestic certificate instead of their travel certificate.
-	<ol style="padding-left: 20px; list-style-type: lower-roman;">
+	<ol style="padding-left: 20px; list-style-type: square;">
 		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">India</li>
 		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Indonesia</li>
 		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Thailand</li>
