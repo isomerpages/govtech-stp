@@ -18,9 +18,9 @@ Short-term visitors who are not fully vaccinated and are required to have travel
 
 The travel insurance will help with the costs of their medical treatment in Singapore. Please ensure sufficient coverage as travellers will have to pay for their own treatment costs beyond their insurance coverage.
 
-Visitors should <u>purchase such travel insurance prior to travelling to Singapore</u>, either from Singapore-based or overseas insurers. 
+Visitors should purchase such travel insurance prior to travelling to Singapore, from <b>any insurer providing such services in their country/region</b>.
 
-A list of available Singapore-based travel insurance products* are as follows:
+Travellers may also consider Singapore-based insurers* offering such services if it suits their needs:
 
 <table>
 <thead>
