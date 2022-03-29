@@ -103,7 +103,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="amendment"></div>
 
-### a. Amendment of Approved Applications (non-Vaccinated Travel Lanes)
+### a. Amendment of Approved Applications (non-fully Vaccinated Travel Lanes)
 
 
 #### 1. There is a mistake in my application. Do I need to submit a new application? If so, can I ask for a refund for the previous application?
@@ -113,8 +113,6 @@ Yes, a fresh application must be submitted. Employers must ensure that the infor
 #### 2. Can I change the traveller’s entry date?
 
 No. We regret to inform you that no changes to the date of entry are allowed once an application has been approved. If there are exceptional circumstances for a change in entry date, please write to us using our enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide the traveller’s details including passport number, FIN number (where applicable) and approval reference number.
-
-For PCA applications, please note that should your employee be unable to enter on the approved date, you will not be able to apply for another PCA for the same employee for a date of entry within 90 days from his/her last approved date of entry.
 
 ---
 	
@@ -136,10 +134,10 @@ The approval letter will be sent as an email from the SafeTravel Office (SafeTra
 
 If the problem persists, please contact us via the enquiry form [here](https://go.gov.sg/sto-enquiry) with the following information:
 <ul>
-<li>Application Reference Number</li>
-<li>Contact details</li>
-<li>Screenshot of your application status or payment invoice</li>
-<li>(If applicable) FIN and FIN expiry number of your employee(s)</li>
+<li style="padding-left:15px;">Application Reference Number</li>
+<li style="padding-left:15px;">Contact details</li>
+<li style="padding-left:15px;">Screenshot of your application status or payment invoice</li>
+<li style="padding-left:15px;">(If applicable) FIN and FIN expiry number of your employee(s)</li>
 </ul>
 
 Requests to have the approval letter sent to a different email address not stated in the application, will not be entertained.
@@ -336,9 +334,9 @@ As a condition for entry into Singapore, all travellers must commute directly to
 In the event of an emergency, travellers may contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
 
-#### 2. I am supposed to serve my SHN at my own place of residence instead of at an SHN Dedicated Facility. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should i do?
+#### 2. I am supposed to serve my SHN at my own place of residence. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
 
-Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to <a href="https://go.gov.sg/shnhotelneeds" target="_blank">this page</a> for more details, or contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
+Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to <a href="https://go.gov.sg/shnhotelneeds" target="_blank">this page</a> for more details, or contact the SafeTravel Enquiries helpline at 6812 5555 for assistance and advice. Do not leave your residence until you have received further instructions.
 
 
 ---
@@ -351,7 +349,7 @@ Click here to [Go Back To Top](#top).
 
 ### 4) Transport Advisories
 
-#### 1. What are the transport advisories for travellers who are completing their Stay Home Notice at their accommodation?
+#### 1. What are the transport advisories for travellers who have to serve Stay Home Notice?
 
 Travellers can commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps. 
 
@@ -359,17 +357,17 @@ Travellers can commute using their own private vehicle, taxis (including street-
 	
 (i) <u><b>Private Transport Use</b></u>
 
-Travellers may be picked up from the airport by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller, and the traveller must be ferried directly to their declared place of accommodation.
+Travellers can commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider’s respective apps. This also applies to travellers who have to leave their place of SHN to take their mandatory scheduled PCR test to exit from SHN at the approved testing facility.
 
 If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.
 
 All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
 
 <ol style="list-style-type:disc;">
-	<li>Vehicle windows must be wound down with air conditioning turned off.</li>
-		<li>Where practicable, the front passenger seat should be left unoccupied;</li>
-			<li>The back seat should only be occupied by the traveller(s)</li>			
-			<li>The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for more information.</li>
+	<li style="padding-left:15px;">Vehicle windows must be wound down with air conditioning turned off.</li>
+		<li style="padding-left:15px;">Where practicable, the front passenger seat should be left unoccupied;</li>
+			<li style="padding-left:15px;">The back seat should only be occupied by the traveller(s)</li>			
+			<li style="padding-left:15px;">The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for more information.</li>
 </ol>
 
 <div id="note2"></div>
@@ -394,12 +392,24 @@ Click here to [Go Back To Top](#top).
 ### 5) COVID-19 Tests for Travellers 
 
 
-#### 1. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
+#### 1. If I am entering a foreign country/region for a very short trip, can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for departure, to fulfil the pre-departure test requirement for my return leg to Singapore?
 
-Travellers arriving from countries requiring a COVID-19 test must do so if they are three years old and above this calendar year. Individuals aged two or below this calendar year (i.e. born in or after 2020) are, by default, exempted from this testing requirement. 
+You will fulfil the pre-departure test requirement <b>only if the PCR test or professionally administered/supervised ART was taken within 2 days before departure for Singapore.</b>
 
+As an example, a traveller takes a pre-departure ART in Singapore on 1 March 2022 and enters Indonesia on the same day. If he intends to return to Singapore between 1 and 3 March 2022, the ART taken on 1 March 2022 will fulfil the pre-departure test requirement for entry into Singapore.
 
-#### 2. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from COVID-19 Polymerase Chain Reaction Tests (“PCR test”) ?
+#### 2. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
+
+Travellers born before 2020 (i.e. above two years old) who belong to any category of travellers below are required to do a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
+
+<ol style="list-style-type:lower-alpha;">
+	<li style="padding-left:15px;">Fully-vaccinated travellers arriving in Singapore via air or sea; or</li>
+		<li style="padding-left:15px;">All non-fully vaccinated travellers</li>
+	</ol>
+
+Individuals aged two or below this calendar year (i.e. born in or after 2020) are, by default, exempted from this testing requirement. Recently-recovered travellers who are fully vaccinated are exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 7 to 90 days before their date of departure from Singapore.
+
+#### 3. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from COVID-19 Polymerase Chain Reaction Tests (“PCR test”) ?
 
 In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
 
