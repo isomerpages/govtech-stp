@@ -60,5 +60,5 @@ input ~ .tab {
 <div class="tab content3">Tab3 Contents</div>
 <div class="tab content4">Tab4 Contents</div>
 <div class="tab content5">Tab5 Contents</div>
-	</body>
+</body>
 	
