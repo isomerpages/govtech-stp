@@ -90,6 +90,11 @@ Please note that individuals with an Excelsior Pass issued by the New York State
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. The list will be expanded as more states and issuers are onboarded.
 
+#### 4. My vaccination certificate was issued in Hong Kong SAR, but I am having issues uploading the QR code. What’s going wrong?
+
+Please attempt re-uploading your QR code and ensure that your electronic vaccination record <b>has the name and ID displayed</b> (unmasked). You may refer to the following <a href="https://www.evt.gov.hk/portal/en/workflow2" target="_blank">workflow</a> on the instructions provided to download your electronic vaccination records. 
+
+
 ---
 	
 Click here to [Go Back To Top](#top).
