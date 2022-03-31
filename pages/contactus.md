@@ -71,18 +71,18 @@ Summarised below are some of the top questions asked in the past week. If your q
 
 ### 2) Application Status Checker
 
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Use the <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">STO Application Status Checker</a> to check on the status of any application you had submitted via the STO portal. This includes any online entry applications submitted by non-fully vaccinated travellers, as well as the use of the Vaccination Check Portal.
+<p style=" line-height:1.35; margin-top:10px; margin-bottom:20px;">Use the <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">STO Application Status Checker</a> to check on the status of any application you had submitted via the STO portal. This includes any online entry applications submitted by non-fully vaccinated travellers, as well as the use of the Vaccination Check Portal.
 </p>
 
 <!--<div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:20px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank"><b>Application status checker</b></a></div>-->
 
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Do not use the checker if you are non-fully vaccinated and a: </p>
+<p style=" line-height:1.35; margin-top:10px; margin-bottom:15px;">Do not use the checker if you are non-fully vaccinated and a: </p>
 <ul>
 				<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Short-term visitor who had sought entry on compassionate grounds; OR</li>
 				<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Long-term pass holder who had sought entry permission directly with the Ministry of Education (MOE) and Ministry of Manpower (MOM).</li>
 			</ul>
 
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">If you are any of the above-mentioned travellers, your entry approval letters will be sent to you via email. If you did not receive the approval letter, <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office for assistance.</a></p>
+<p style=" line-height:1.35; margin-top:20px; margin-bottom:10px;">If you are any of the above-mentioned travellers, your entry approval letters will be sent to you via email. If you did not receive the approval letter, <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office for assistance.</a></p>
 
 
 <div id="enquiry"></div>
