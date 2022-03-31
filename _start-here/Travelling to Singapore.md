@@ -39,11 +39,11 @@ Click here to return to the <a href="#top">top</a>.
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Travellers aged 12 and below do not need to be vaccinated for entry to Singapore. Travellers aged 13 and above are only considered “fully vaccinated” for purposes of entry to Singapore if they meet either of the following conditions at least 2 weeks before arrival in Singapore, if not they are considered “non-fully vaccinated”:</p>
 
 <ul style="list-style-type: lower-roman; line-height:1.35;">
-	<li style="line-height:1.35; font-size:18px;">Received the full regimen of WHO EUL Vaccines in the list of accepted vaccinations <a href="#table">below</a> and met the minimum dose interval period; or</li>
-	<li style="line-height:1.35; font-size:18px;">Contracted COVID-19 before being vaccinated, and received at least one dose of any WHO EUL Vaccines (<a href="#table">listed below</a>) <b>at least 28 days from their first diagnosis</b> of a COVID-19 infection. Travellers must produce acceptable proof of their first positive COVID-19 diagnosis.</li>
+	<li style="line-height:1.35; font-size:20px;">Received the full regimen of WHO EUL Vaccines in the list of accepted vaccinations <a href="#table">below</a> and met the minimum dose interval period; or</li>
+	<li style="line-height:1.35; font-size:20px; margin-top: 20px;">Contracted COVID-19 before being vaccinated, and received at least one dose of any WHO EUL Vaccines (<a href="#table">listed below</a>) <b>at least 28 days from their first diagnosis</b> of a COVID-19 infection. Travellers must produce acceptable proof of their first positive COVID-19 diagnosis.</li>
 </ul>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Fully vaccinated travellers and children aged 12 and below should refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">this travel checklist</a> for more details including how to show proof of vaccination, and maintaining that vaccination status for activities within Singapore. Travellers who do not meet the vaccination criteria for entry should refer to the Travel Checklist for Non-fully Vaccinated Travellers aged 13 and above.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Fully vaccinated travellers and children aged 12 and below should refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">this travel checklist</a> for more details including how to show proof of vaccination, and maintaining that vaccination status for activities within Singapore. Travellers who do not meet the vaccination criteria for entry should refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist for Non-fully Vaccinated Travellers</a> aged 13 and above.</p>
 
 <div id="table"></div>
 
