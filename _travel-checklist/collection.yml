@@ -1,9 +1,0 @@
-collections:
-  travel-checklist:
-    output: true
-    order:
-      - Arrivals from 31 March 2359h/.keep
-      - Green List /.keep
-      - checklists/.keep
-      - checklists/travel-checklist-categoryiv.md
-      - checklists/Travel Checklist – Fully Vaccinated & Recovered Traveller.md
