@@ -90,7 +90,7 @@ Summarised below are some of the top questions asked in the past week. If your q
 
 ### 3) SafeTravel Office Helpline and Query Form
 
-<p style="line-height:1.35;">You can contact the SafeTravel Office for assistance you have application issues or are unable to find the relevant information on the SafeTravel website (including <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> and notices above).</p>
+<p style="line-height:1.35;">Contact the SafeTravel Office for assistance if you have application issues or are unable to find the relevant information on the SafeTravel website (including <a href="/faq" target="_blank">common FAQs</a> and notices above).</p>
 
 <p style="line-height:1.35;">To assist you better, please refer to the table below for the most appropriate support channel.</p>
 
@@ -103,7 +103,7 @@ Summarised below are some of the top questions asked in the past week. If your q
 </thead>
 <tbody>
 	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;  line-height:1.35; ">Call SafeTravel Enquiry Helpline Number: 
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;  line-height:1.35; ">Call SafeTravel Enquiry Helpline Number:
 		<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><b>+65 6812 5555*</b></p> 
 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i>(* Regular call charges apply)</i></p>
 </td>
@@ -113,20 +113,18 @@ Summarised below are some of the top questions asked in the past week. If your q
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Clarification on <a href="/arriving/overview#lanelist" target="_blank">Lane-specific Entry Requirements</a></li>
 				 </ol>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i><b>Note</b>: For Vaccinated Travel Pass (VTP) QR code uploading issues, write in via the <a href="https://go.gov.sg/sto-enquiry" target="_blank">SafeTravel enquiry form</a> instead and upload the relevant error screenshots, passport details and vaccination certificate as proof. The phone helpline will not be able to process these documents on the spot.</i></p>
 </td>
   </tr>
 	 <tr>
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;  line-height:1.35; "><a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">SafeTravel Enquiry Form</a> with supporting documents </td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px;">
-<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Vaccinated Travel Pass QR Code uploading error*</li>
-		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Submission of proof of vaccination as part of the Vaccinated Travel Pass (Air) application for travellers arriving from the United States</li>
-	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals for <a href="/dcev/overview" target="_blank">Death and Critical Illness Emergency Visit Lane</a> </li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">QR Code uploading error</li>
+		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals for short-term non-fully vaccinated travellers 
+</li>
 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Refund or fee waiver requests</li>
 		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Difficulties getting a COVID-19 test before departure</li>
 				 </ol>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i><b>*Note</b>: For all errors with QR code uploading, please upload the relevant error screenshots, passport details and vaccination certificates in the enquiry form for quicker processing.</i></p>
 </td>
   </tr>	
 	</tbody>
