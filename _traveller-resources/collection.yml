@@ -2,7 +2,6 @@ collections:
   traveller-resources:
     output: true
     order:
-      - Checklists for Inbound Travellers .md
       - Info on Stay Home Notice/.keep
       - Info on Stay Home Notice/Stay Home Notice (SHN) & SHN Dedicated
         Facilities (SDF).md
