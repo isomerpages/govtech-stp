@@ -247,7 +247,7 @@ Please ensure that you keep your mobile device's Bluetooth function turned on so
 
 All travellers must have a mobile device to download the TraceTogether app from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace) and Huawei App Gallery. Travellers should consider renting a TraceTogether-compatible mobile device if they do not have one.
 
-Alternatively, travellers may also obtain a TraceTogether token. Click <a href="/health/tt-for-travellers#token" target="_blank">here</a> for more information. 
+Alternatively, travellers may also obtain a TraceTogether token. Click <a href="/faq#TT" target="_blank">here</a> for more information. 
 
 
 #### 24. Can travellers switch off their mobile devices while in Singapore?
