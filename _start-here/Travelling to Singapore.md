@@ -62,7 +62,7 @@ Click here to return to the <a href="#top">top</a>.
 		</tr>
 	<tr>
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Astrazeneca <br> AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</td>
-								<td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2 doses at least 24 days apart</td>
+								<td rowspan="4" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2 doses at least 24 days apart</td>
 		</tr>	
 		<tr>
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Covaxin <br> Bharat Biotech BBV152 COVAXIN<sup>&#174;</sup></td>
