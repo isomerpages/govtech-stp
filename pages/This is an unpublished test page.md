@@ -337,9 +337,14 @@ Click here to [Go Back To Top](#top).
 
 #### 1. What should I do if I need to attend to an emergency before serving my Stay-Home Notice (SHN)?
 
-As a condition for entry into Singapore, all non-fully vaccinated travellers who are required to serve SHN must commute directly to their SHN accommodation or SDF **immediately** after clearing immigration. The failure to do so constitutes a breach of the SHN requirements which is punishable under Singapore’s laws.
+All travellers must use TraceTogether, except children aged 6 and below in this calendar year.
 
-In the event of an emergency, travellers may contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
+Travellers to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, travellers must activate and use the app for the duration of their stay in Singapore.
+
+Travellers may also obtain a TraceTogether token after arriving in Singapore. As each token is uniquely tagged to each individual, travellers are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+
+A more comprehensive TraceTogether (TT) FAQ can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg" target="_blank">here</a>.
+
 
 
 #### 2. I am supposed to serve my SHN at my own place of residence. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
