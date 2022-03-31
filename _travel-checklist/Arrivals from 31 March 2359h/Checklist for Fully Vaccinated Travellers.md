@@ -240,21 +240,21 @@ input:checked + label + .content {
     <tr>
      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Traveller Type</b></th>
 	     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>When must registration be done</b></th>
-    </tr>
+</tr>
   </thead>
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
 	A Construction, Marine Shipyard or Process Sector (CMP worker) on Work Permit, S Pass or In-Principle Approval holder of these 3 passes</td>
-	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Within 7 days of arrival</b>	</td>
+	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Within 7 days of arrival</b></td>
     </tr>
 	    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
 	Staying in Singapore for more than 30 days (including all Long-Term Pass Holders)</td>
 	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Within 30 days of arrival</b></td>
     </tr>
-		</tbody>
-	</table>	
+</tbody>
+</table>	
 	
 <p style=" font-size:18px; margin-top:20px; margin-bottom: 20px; line-height:1.35;">Registration can be done at any <a href="https://flu.gowhere.gov.sg/" target="_blank"> Public Health Preparedness Clinic</a>. Confirm if your chosen clinic can facilitate the registration before heading down with the following documents:
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
@@ -266,14 +266,14 @@ input:checked + label + .content {
 </p>
 
 <table>
-  <thead>
+ <thead>
     <tr>
      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccine Type</b></th>
 	     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>When an additional dose is recommended to maintain good protection against COVID-19<b></th>
 	        <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>When you will lose your vaccinated status for Vaccination-Differentiated Measures</b></th>
     </tr>
-  </thead>
-  <tbody>
+ </thead>
+ <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
 	Sinovac/Sinopharm vaccines</td>
@@ -285,8 +285,8 @@ input:checked + label + .content {
 	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Booster dose: Around 5 months from the last dose of your primary series</td>
 		       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">270 days from the last dose of your primary series if you have not taken a booster</td>
     </tr>
-		</tbody>
-	</table>	
+</tbody>
+/table>	
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b> C) Contracting and Recovering from COVID-19</b></div>
