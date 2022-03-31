@@ -3,9 +3,6 @@ collections:
     output: true
     order:
       - Arrivals from 31 March 2359h/.keep
-      - Arrivals before 31 March 2359h/.keep
-      - Arrivals before 31 March 2359h/travel-checklist-categoryi.md
-      - Arrivals before 31 March 2359h/Travel Checklist Category II III IV.md
       - Green List /.keep
       - checklists/.keep
       - checklists/travel-checklist-categoryiv.md
