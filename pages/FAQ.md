@@ -68,7 +68,7 @@ Please attempt re-uploading your QR code, and ensure that:
 	<li style="line-height:1.35; margin-top:10px;list-style-type:disc;">Your digital proof of vaccination is currently a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised digital proof of vaccination</a>. More digital certificates will be added to this list in future.</li>
 		<li style="line-height:1.35; margin-top:10px;list-style-type:disc;">If the upload failure involves documents containing more than one QR code, extract/crop the QR code with the latest dose and only upload that QR code.
 	</li>
-		<li style="line-height:1.35; margin-top:20px;">You are fully vaccinated, based on <a href="/health/vtsg" target="_blank">this criteria</a></li>
+		<li style="line-height:1.35; margin-top:20px;">You are fully vaccinated, based on <a href="/arriving/overview#vaccination" target="_blank">this criteria</a></li>
 		<li style="line-height:1.35; margin-top:10px;">Your passport particulars match with your vaccination certificate. If not, where possible, please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.</li>
 		<li style="line-height:1.35; margin-top:10px;">You replaced any non-latin special characters in your name as per this <a href="#specialchar">FAQ</a>.</li>
 	</ol>
