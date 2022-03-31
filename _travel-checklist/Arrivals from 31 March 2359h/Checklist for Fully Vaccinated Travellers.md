@@ -287,7 +287,7 @@ input:checked + label + .content {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b> C) Contracting and Recovering from COVID-19</b></div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you test positive for COVID-19 during your stay, <a href="https://www.covid.gov.sg/travellers" target="_blank">adhere to these recovery protocols.</p>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you test positive for COVID-19 during your stay, <a href="https://www.covid.gov.sg/travellers" target="_blank">adhere to these recovery protocols.</a></p>
 	<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">In the event where you are assessed to be ineligible for home or in-situ recovery, you may be conveyed to a suitable COVID-19 care facility. Information on treatment and costs for COVID-19 for travellers can be found on this page.
 </p>
 </div>
