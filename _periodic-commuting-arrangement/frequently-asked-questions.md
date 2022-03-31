@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 permalink: /malaysia/pca/faq
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Please note that travellers can use the Vaccinated Travel Framework instead of the PCA:</b></p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Please note that travellers can use the Vaccinated Travel Framework instead of the PCA:</p>
 <ol style="list-style-type: disc; padding-left:20px;">
 	 <li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</b> entering Singapore may refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Vaccinated Travellers</a></li>
 <li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Non-fully vaccinated travellers aged 13 and above</b> may refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">General Travel Category Requirements for Non-Fully Vaccinated Travellers</a></li>
