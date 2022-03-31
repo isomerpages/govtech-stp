@@ -7,10 +7,11 @@ description: Entry requirements and SafeTravel Lanes available when travelling t
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to reopen to travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane. On this page, you will find the following important information for your travel to Singapore:</p>
 
-- [Automated Self Help Tool for Entry Requirements](#selfhelptool)
-- [List of Entry Requirements and Travel Lanes ](#lanelist)
+- [Automated Self-Help Tool for Entry Requirements](#selfhelptool)
+- [Accepted COVID-19 Vaccinations for Entry to Singapore ](#vaccination)
+- [Vaccinated Travel Framework – Summary of Border Measures](#VTF)
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are transiting through Singapore without clearing immigration, refer to the  "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="#crew">click here</a> for more instructions</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are transiting through Singapore to another destination without clearing immigration, refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="#crew">click here</a> for more instructions</p>
 
 <div id="selfhelptool"></div>
 
@@ -29,11 +30,59 @@ Click here to return to the <a href="#top">top</a>.
 
 ---
 
-<div id="lanelist"></div>
+<div id="vaccination"></div>
 
-### 2. List of Entry Requirements and Travel Lanes
+### 2. Accepted Vaccinations for Entry
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">This section provides a full listing of entry requirements and travel lanes. Readers are advised to use the <a href="#selfhelptool">self-check tool</a> at Section 1 for answers on the entry requirements applicable to your travel profile.</p>
+
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Travellers aged 12 and below do not need to be vaccinated for entry to Singapore. Travellers aged 13 and above are only considered “fully vaccinated” for purposes of entry to Singapore if they meet either of the following conditions at least 2 weeks before arrival in Singapore, if not they are considered “non-fully vaccinated”:</p>
+
+<ul style="list-style-type: lower-roman; line-height:1.35;">
+	<li style="line-height:1.35; font-size:18px;">Received the full regimen of WHO EUL Vaccines in the list of accepted vaccinations <a href="#table">below</a> and met the minimum dose interval period; or</li>
+	<li style="line-height:1.35; font-size:18px;">Contracted COVID-19 before being vaccinated, and received at least one dose of any WHO EUL Vaccines (listed below) <b>at least 28 days from their first diagnosis</b> of a COVID-19 infection. Travellers must produce acceptable proof of their first positive COVID-19 diagnosis.</li>
+</ul>
+
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Fully vaccinated travellers and children aged 12 and below should refer to this travel checklist for more details including how to show proof of vaccination, and maintaining that vaccination status for activities within Singapore. Travellers who do not meet the vaccination criteria for entry should refer to the Travel Checklist for Non-fully Vaccinated Travellers aged 13 and above.</p>
+
+<div id="table"></div>
+
+#### List of accepted Vaccinations for Entry
+
+<table>
+	<thead>
+		<tr>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#d5d5d5;"><b>Manufacturer / Name of Vaccine</b></th>
+			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#d5d5d5;"><b>Dose(s) Required and Minimum Interval between Doses</b></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Janssen <br> Ad26.COV2.S</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">1 dose</td>
+		</tr>
+	<tr>
+			<td colspan="3" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Astrazeneca <br> AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</td>
+								<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2 doses at least 24 days apart</td>
+		</tr>	
+		<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Covaxin <br> Bharat Biotech BBV152 COVAXIN<sup>&#174;</sup></td>
+		</tr>
+		<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Moderna <br> mRNA-1273 / Spikevax</td>
+		</tr>
+		<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Serum Institute of India <br> Covishield (ChAdOx1_nCoV-19)</td>
+		</tr>
+	</tbody>
+	</table>
+
+
+
+
+
+
+
+
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Select your expected mode and period of arrival in Singapore:</p>
 
