@@ -118,9 +118,9 @@ input:checked + label + .content {
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1B">
 &#9634; &nbsp;&nbsp;<b>B) Obtain Additional Travel-Related Documents</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please note that additional travel-related documents are also required for traveller types listed in the table below.</p>
-	<p style=" font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Traveller Type and Application/Resource links</u> &nbsp;[Click on ‘+’ for details on requirements]</b></p> 
-		<p style=" font-size:16px; margin-top: 20px; margin-bottom:25px; line-height:1.35; color:red;">(Please refer to the requirements for all traveller types that apply. E.g. Short Term Visitors entering by foreign-registered private vehicle via land should refer to both ‘<i>Short Term Visitors</i>’ <u>and</u> ‘<i>Drivers of foreign-registered vehicles entering by land</i>’  from the list below.)</p> 
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Prepare the travel documents below, if required, and ensure that your passport is valid for <b>at least 6 months</b>. Entries may be denied if the requisite documents are not produced during pre-boarding or immigration clearance.</p>
+	<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b><i>[Click on ‘+’ for details on requirements]</i></b></p> 
+
 	
 <html>
 
@@ -183,10 +183,13 @@ input:checked + label + .content {
 </head>
 <body>	
 <input id="STVs" type="checkbox">
-	<label for="STVs"><b>Short-Term Visitors</b></label>
-<div style="background-color:#edf4fa;" class="content"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges.<sup>1</sup> Insurance can be purchased with any insurer  (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>).</p>
-	<p style="font-size:15px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><sup>1</sup>Insurance is strongly encouraged but not mandatory for those who received entry approval via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a>. Short-term visitors are responsible for all costs associated with COVID-19 treatment and recovery throughout their stay in Singapore.  </p>	
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Short term visitors holding passports or travel documents issued by visa-required countries/regions should also <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">click here to check if visa is required and to apply for an Entry Visa</a>.</p>
+	<label for="STVs"><b>Foreigners without Singapore Long-Term Pass</b></label>
+<div style="background-color:#edf4fa;" class="content">
+	<ol style="list-style-type: decimal;">
+		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Travel insurance with minimum coverage of S$30,000 for any COVID-19 related medical charges.<sup>1</sup> Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>)</li>
+		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions </li>
+	</ol>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><sup>Footnote 1</sup> Insurance is strongly encouraged but not mandatory for those who received entry approval via the SafeTravel Office Application Portal. Short-term visitors are responsible for all costs associated with COVID-19 treatment and recovery throughout their stay in Singapore.</p>
 </div>
 	
 <input id="yellowfever" type="checkbox">
