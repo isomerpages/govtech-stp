@@ -5,7 +5,7 @@ description: Entry requirements and SafeTravel Lanes available when travelling t
 ---
 <div id="top"></div>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">To manage travel during the COVID-19 pandemic, travellers entering Singapore will be subject to health-related protocols that are calibrated based on the traveller’s vaccination status and travel history. You may determine your entry options using the following tools:</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to reopen to travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane. On this page, you will find the following important information for your travel to Singapore:</p>
 
 - [Automated Self Help Tool for Entry Requirements](#selfhelptool)
 - [List of Entry Requirements and Travel Lanes ](#lanelist)
