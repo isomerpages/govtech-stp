@@ -145,9 +145,37 @@ Click here to return to the <a href="#top">top</a>.
 	</table>
 
 
+<p style="margin-top:20px; line-height:1.35;">If your 7-day travel history includes at least one Restricted Category country, you will be subject to the following border measures.</p>
 
+<table>
+	<thead>
+		<tr>
+		<th rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>Restricted Category Countries/Regions</b></th>
+			<th colspan="2" style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Summary of Travel Requirements</b></th>
+		</tr>
+		<tr>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>All Travellers Regardless of Vaccination Status</b></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+		<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Currently none</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">
+			<ol style="list-style-type: lower-roman; line-height:1.35;">
+				<li style="line-height:1.35; font-size:18px;">COVID-19 Polymerase Chain Reaction Test (PCR Test) within 2 days before departure for Singapore;</li>
+				<li style="line-height:1.35; font-size:18px;">On-arrival PCR test; </li>
+				<li style="line-height:1.35; font-size:18px;">7-day SHN at a dedicated <a href="/health/shn#sdf" target="_blank">Stay-Home Notice facility (SDF)</a></li>
+				</ol>
+			</td>
+		</tr>
+	</tbody>
+	</table>
 
+---
 
+Click here to return to the <a href="#top">top</a>.
+
+---
 
 
 
