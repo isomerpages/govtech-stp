@@ -244,7 +244,7 @@ input:checked + label + .content {
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
-	Worker in Construction, Marine Shipyard or Process Sector (CMP worker) on Work Permit, Training Work Permit, S PAss or In-Principle Approval of these 3 passes</td>
+	Worker in Construction, Marine Shipyard or Process Sector (CMP worker) on Work Permit, Training Work Permit, S-Pass or In-Principle Approval of these 3 passes</td>
 	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Within 7 days of arrival</b></td>
     </tr>
 	    <tr>
