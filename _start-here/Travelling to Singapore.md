@@ -162,9 +162,9 @@ Click here to return to the <a href="#top">top</a>.
 		<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Currently none</td>
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">
 			<ol style="list-style-type: lower-roman; line-height:1.35;">
-				<li style="line-height:1.35; font-size:18px;">COVID-19 Polymerase Chain Reaction Test (PCR Test) within 2 days before departure for Singapore;</li>
-				<li style="line-height:1.35; font-size:18px;">On-arrival PCR test; </li>
-				<li style="line-height:1.35; font-size:18px;">7-day SHN at a dedicated <a href="/health/shn#sdf" target="_blank">Stay-Home Notice facility (SDF)</a></li>
+				<li style="line-height:1.35; font-size:16px;">COVID-19 Polymerase Chain Reaction Test (PCR Test) within 2 days before departure for Singapore;</li>
+				<li style="line-height:1.35; font-size:16px;">On-arrival PCR test; </li>
+				<li style="line-height:1.35; font-size:16px;">7-day SHN at a dedicated <a href="/health/shn#sdf" target="_blank">Stay-Home Notice facility (SDF)</a></li>
 				</ol>
 			</td>
 		</tr>
