@@ -54,7 +54,7 @@ Travellers may also consider Singapore-based insurers* offering such services if
 
 Employers are not required to buy COVID-19 travel insurance for all (new and existing) Work Permit, Training Work Permit and S Pass holders, before they enter Singapore.
 
-For more information, please refer to <a href="" target="_blank">MOM's website</a>.
+For more information, please refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">MOM's website</a>.
 
 <!--Employers must buy COVID-19 medical insurance for all (both new and existing) Work Permit, Training Work Permit and S Pass holders, before they enter Singapore. Please refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-and-shn-requirements-for-foreign-employees#what-are-the-covid-19-insurance-requirements-for-workers-entering-singapore" target="_blank">MOM’s website</a> to check the coverage required or <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">where to buy</a> the insurance from.
 
