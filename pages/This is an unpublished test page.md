@@ -337,14 +337,9 @@ Click here to [Go Back To Top](#top).
 
 #### 1. What should I do if I need to attend to an emergency before serving my Stay-Home Notice (SHN)?
 
-All travellers must use TraceTogether, except children aged 6 and below in this calendar year.
+As a condition for entry into Singapore, all non-fully vaccinated travellers who are required to serve SHN must commute directly to their SHN accommodation or SDF **immediately** after clearing immigration. The failure to do so constitutes a breach of the SHN requirements which is punishable under Singapore’s laws.
 
-Travellers to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, travellers must activate and use the app for the duration of their stay in Singapore.
-
-Travellers may also obtain a TraceTogether token after arriving in Singapore. As each token is uniquely tagged to each individual, travellers are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
-
-A more comprehensive TraceTogether (TT) FAQ can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg" target="_blank">here</a>.
-
+In the event of an emergency, travellers may contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
 
 #### 2. I am supposed to serve my SHN at my own place of residence. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
@@ -498,18 +493,21 @@ Click here to [Go Back To Top](#top).
 
 #### 1. Are all travellers required to use TraceTogether?
 
-Yes. All visitors to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, visitors must activate and use the app for the duration of their stay in Singapore.
+All travellers must use TraceTogether, <b>except children aged 6 and below</b> in this calendar year.
 
-Travellers may also obtain a TraceTogether token after arriving in Singapore. More details can be found <a href="/health/tt-for-travellers" target="_blank">here</a>. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+Travellers to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, travellers must activate and use the app for the duration of their stay in Singapore. 
 
-Children aged 6 and below in this calendar year are exempted from the TraceTogether requirement.
+Travellers may also obtain a TraceTogether token after arriving in Singapore. As each token is uniquely tagged to each individual, travellers are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+
+A more comprehensive TraceTogether (TT) FAQ can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg" target="_blank">here</a>.
+
 
 
 #### 2. After downloading the TraceTogether app, how do I activate it?
 
 After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that you are using to enter Singapore.
  
-Please ensure that your TraceTogether App is updated to the latest version. You will see the Holding Screen after you have registered your profile. <b>You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore</b>. Follow the instructions until you reach the Home Screen.
+Please ensure that your TraceTogether App is updated to the latest version. You will see the Holding Screen after you have registered your profile. <b>You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore</b>. Please follow the instructions until you reach the Home Screen.
 
 <table>
   <thead>
@@ -526,17 +524,15 @@ Please ensure that your TraceTogether App is updated to the latest version. You 
   </tbody>
 </table>
  	 
-For more information, please refer to the TraceTogether <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-">website</a>.
-
-If you require assistance on how to download and activate the TraceTogether app, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a>.
+If you require assistance on how to download and activate the TraceTogether app, please refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-" target="_blank">TraceTogether website</a> or email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a>.
 
 #### 3. I have downloaded the TraceTogether app, but I cannot activate the app. What should I do?
 
 Please check that your app has been updated to the latest version.
 
-You can activate your app only <u>after</u> clearing Singapore immigration. There might be a short lag time between after your have cleared immigration and before you can activate the app.
+You can activate your app only <u>after</u> clearing Singapore immigration. There might be a short lag time between after you have cleared immigration and before you can activate the app.
  
-If you still are unable to activate your app after immigration clearance, it could be because you did not register your profile with the same identification number, nationality and date of birth as those shown in the passport that you have used to enter Singapore. If so, follow the instructions to be navigated back to the Holding Screen.
+If you still are unable to activate your app after immigration clearance, it could be because you did not register your profile with the same identification number, nationality and date of birth as those shown in the passport that you have used to enter Singapore. If so, please follow the instructions to be navigated back to the Holding Screen.
 
 You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
 
