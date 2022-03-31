@@ -4,7 +4,6 @@ permalink: /arriving/general-travel/fully-vaccinated
 description: ""
 third_nav_title: Travelling to Singapore
 ---
-
 <div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use</u>:</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This travel checklist is for travellers entering Singapore from 31 March 2022, 2359H, and:</p>
@@ -22,7 +21,7 @@ third_nav_title: Travelling to Singapore
 
 <div id="1A" style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>A) Ensure Vaccination Documentation is in Order</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;">If you <b style="color:red;">have</b> a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised Digitally Verifiable Vaccination Certificate (DVC)</a>, use the Vaccination Check Portal (VCP) to verify that your DVC is recognised by the Singapore authorities. You will receive a vaccination acceptance letter if the verification is successful, which you can use for boarding and immigration checks. If you are unable to get your DVC verified, troubleshoot your submission with the <a href="/faq#vaxcert" target="_blank">vaccination certificate FAQ</a>. If still faced with uploading issues, refer to the instructions below for travellers with non-DVCs.
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;">If you <b>have</b> a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised Digitally Verifiable Vaccination Certificate (DVC)</a>, use the Vaccination Check Portal (VCP) to verify that your DVC is recognised by the Singapore authorities. You will receive a vaccination acceptance letter if the verification is successful, which you can use for boarding and immigration checks. If you are unable to get your DVC verified, troubleshoot your submission with the <a href="/faq#vaxcert" target="_blank">vaccination certificate FAQ</a>. If still faced with uploading issues, refer to the instructions below for travellers with non-DVCs.
 </p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you do not have a recognised DVC, or have had difficulties verifying your DVC on VCP, prepare a Vaccination Certificate (including certificate on a vaccination app) that is in English, or accompanied with notarised English Translation, with the following details:
 	<ol style="padding-left:25px; list-style-type:decimal;">
