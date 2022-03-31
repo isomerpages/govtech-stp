@@ -233,7 +233,7 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Register Overseas Vaccination Record and Take COVID-19 Boosters</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Travellers who were vaccinated overseas must register their vaccination status into the Singapore National Immunisation Registry (NIR), if you are any of the following traveller types and have not previously registered before.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;"><b>Travellers who were vaccinated overseas</b> must register their vaccination status into the Singapore National Immunisation Registry (NIR), if you are any of the following traveller types and have not previously registered before.</p>
 	
 <table>
   <thead>
@@ -245,7 +245,7 @@ input:checked + label + .content {
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
-	A Construction, Marine Shipyard or Process Sector (CMP worker) on Work Permit, S Pass or In-Principle Approval holder</td>
+	A Construction, Marine Shipyard or Process Sector (CMP worker) on Work Permit, S Pass or In-Principle Approval holder of these 3 passes</td>
 	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Within 7 days of arrival</b>	</td>
     </tr>
 	    <tr>
@@ -262,25 +262,28 @@ input:checked + label + .content {
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Valid vaccination certificate (see <a href="#1A">Stage 1A</a> for details).</li>
 	</ol>
 	</p>
-<p style=" font-size:18px; margin-top:20px; margin-bottom: 20px; line-height:1.35;">During NIR registration, you may be reminded to take additional COVID-19 vaccination shots to continue to qualify for Vaccination-Differentiated Measures in Singapore. This is determined based on the date of the last dose of your primary vaccination series and the vaccine type you have taken (summary in table below). For more information on NIR registration and COVID-19 booster vaccinations, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a>.
+<p style=" font-size:18px; margin-top:20px; margin-bottom: 20px; line-height:1.35;">You may also need to take additional COVID-19 vaccination doses to maintain good protection against COVID-19, and to continue to qualify for Vaccination-Differentiated Measures in Singapore. This is determined based on the date of the last dose of your primary vaccination series and the vaccine type you have taken (summary in table below). For ore information on NIR registration and COVID-19 booster vaccinations, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a>.
 </p>
 
 <table>
   <thead>
     <tr>
      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccine Type</b></th>
-	     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>When an additional vaccination shot may be required</b></th>
+	     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>When an additional dose is recommended to maintain good protection against COVID-19<b></th>
+	        <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>When you will lose your vaccinated status for Vaccination-Differentiated Measures</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
 	Sinovac/Sinopharm vaccines</td>
-	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">120 days from when second dose was administered	</td>
+	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Third dose: Around 3 months from your second dose <br><br> Booster Dose: Around 3 Months from your third dose</td>
+	    	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">120 days after your second dose if you have not taken a third dose <br><br> 270 days from your third dose if you have not taken a booster</td>
     </tr>
 	    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">All other WHO-EUL vaccines (excluding Sinovac/Sinopharm)</td>
-	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">270 days from when the last primary series dose was administered</td>
+	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Booster dose: Around 5 months from the last dose of your primary series</td>
+		       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">270 days from the last dose of your primary series if you have not taken a booster</td>
     </tr>
 		</tbody>
 	</table>	
@@ -289,6 +292,6 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b> C) Contracting and Recovering from COVID-19</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you test positive for COVID-19 during your stay, <a href="https://www.covid.gov.sg/travellers" target="_blank">adhere to these recovery protocols.</a></p>
-	<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">In the event where you are assessed to be ineligible for home or in-situ recovery, you may be conveyed to a suitable COVID-19 care facility. Information on treatment and costs for COVID-19 for travellers can be found on this page.
+	<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">In the event where you are assessed to be ineligible for home or in-situ recovery, you may be conveyed to a suitable COVID-19 care facility. Information on treatment and costs for COVID-19 for travellers can be found on <a href="/health/insurance-and-treatment#treatment" target="_blank"> this page</a>.
 </p>
 </div>
