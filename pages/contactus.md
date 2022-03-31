@@ -111,7 +111,7 @@ Summarised below are some of the top questions asked in the past week. If your q
 <ol style="list-style-type:disc; margin-top: 0px; ">
 <li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">COVID-19 Test Scheduling Issues</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
-<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Clarification on <a href="/arriving/overview#lanelist" target="_blank">Lane-specific Entry Requirements</a></li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Clarification on <a href="/arriving/overview#lanelist" target="_blank">Entry Requirements</a></li>
 				 </ol>
 </td>
   </tr>
