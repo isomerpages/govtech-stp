@@ -106,7 +106,7 @@ input:checked + label + .content {
 	
 <input id="STVs-compassionate" type="checkbox">
 	<label style="background-color:#820000;" for="STVs-compassionate"><b>Short-term visitors entering for exceptional reasons (e.g. attending death or critical illness of family)</b></label>
-<div style="background-color:#edf4fa;" class="content">
+<div style="background-color:#fffafa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Applications must be submitted using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>, with the appropriate supporting documents (e.g. doctor’s memo, death certificate) to facilitate processing.</p>
 	<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Emergency cases will be prioritised for reply. All other cases will take <b>around 3 working days</b> to process.</p>
 </div>
