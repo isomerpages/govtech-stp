@@ -436,7 +436,7 @@ input:checked + label + .content {
 &#9634; &nbsp;&nbsp;<b>B) Testing Positive for COVID-19</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">If you test positive for COVID-19, <a href="https://www.covid.gov.sg/travellers" target="_blank">adhere to these recovery protocols</a>.</p>
-<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">In the event where you are assessed to be ineligible for home or in-situ recovery, you may be conveyed to a suitable COVID-19 care facility. Information on treatment and costs for COVID-19 for travellers can be found on <a href="/health/insurance-and-treatment" target="_blank">this page</a>.
+<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">In the event where you are assessed to be ineligible for home or in-situ recovery, you may be conveyed to a suitable COVID-19 care facility. Information on treatment and costs for COVID-19 for travellers can be found on <a href="/health/insurance-and-treatment#treatment" target="_blank">this page</a>.
 </p>
 </div>	
 	
