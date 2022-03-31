@@ -263,4 +263,31 @@ input:checked + label + .content {
 	</p>
 <p style=" font-size:18px; margin-top:20px; margin-bottom: 10px; line-height:1.35;">During NIR registration, you may be reminded to take additional COVID-19 vaccination shots to continue to qualify for Vaccination-Differentiated Measures in Singapore. This is determined based on the date of the last dose of your primary vaccination series and the vaccine type you have taken (summary in table below). For more information on NIR registration and COVID-19 booster vaccinations, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a>.
 </p>
+
+<table>
+  <thead>
+    <tr>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccine Type</b></th>
+	     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>When an additional vaccination shot may be required</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
+	Sinovac/Sinopharm vaccines</td>
+	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">120 days from when second dose was administered	</td>
+    </tr>
+	    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">All other WHO-EUL vaccines (excluding Sinovac/Sinopharm)</td>
+	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">270 days from when the last primary series dose was administered</td>
+    </tr>
+		</tbody>
+	</table>	
+</div>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b> C) Contracting and Recovering from COVID-19</b></div>
+
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you test positive for COVID-19 during your stay, <a href="https://www.covid.gov.sg/travellers" target="_blank">adhere to these recovery protocols.</p>
+	<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">In the event where you are assessed to be ineligible for home or in-situ recovery, you may be conveyed to a suitable COVID-19 care facility. Information on treatment and costs for COVID-19 for travellers can be found on this page.
+</p>
 </div>
