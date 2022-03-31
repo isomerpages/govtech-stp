@@ -140,7 +140,7 @@ input:checked + label + .content {
 
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>C) SG Arrival Card with Electronic Health Declaration </b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Complete the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with Electronic Health declaration <b>within 3 days before arrival</b>. You are strongly encouraged to <b>complete the declaration before departure</b> as upon submission of your SGAC declaration, you will receive an email acknowledgement which you can present for smoother pre-boarding and immigration checks.
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Complete the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with Electronic Health declaration <b>within 3 days before arrival</b>. Upon completion of your declaration, you will receive an email acknowledgement which you can use for smoother preboarding and immigration clearance.
 </p>
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.
 </p>
