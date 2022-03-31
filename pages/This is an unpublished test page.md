@@ -560,31 +560,37 @@ Payment can be made via PayNow, EZ-link, Nets Flashpay, Mastercard, VISA, JCB, a
 
 Visitors must carry their rented mobile device or TraceTogether token with them at all times during their stay in Singapore. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
 
-
    
 #### 6. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
 
 Travellers who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can purchase a Singapore SIM card. Upon purchase, travellers are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport used to enter Singapore.
 
-#### 7. Can visitors switch off their mobile devices while in Singapore?
 
-No, visitors must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
+#### 7. Can travellers switch off their mobile devices while in Singapore?
+
+No, travellers must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
+
+Travellers must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore.
+
+For TraceTogether token users, authorised personnel may ask to retrieve the token should he/she tests positive for COVID-19 while in Singapore.
+
+Tokens will be replaced free-of-charge if they stop working due to (1) battery lifespan, (2) manufacturing defect or (3) damage not due to visitor’s negligence. Otherwise, replacements are subject to the same fee.
 
 
 #### 8. Will my vaccination status show on my TraceTogether app? What should I do if my vaccination status is not updated in TraceTogether or if it expires?
 
-If you were fully vaccinated in <b>Singapore</b>, you should be able to see your vaccination status on your TraceTogether and HealthHub apps. Your vaccination status will not expire.
+If you were fully vaccinated in <b>Singapore</b>, you should be able to see your vaccination status on your TraceTogether and HealthHub apps.
 
 If you were fully vaccinated <b>overseas</b>, please ensure that you have:
 
 <ol style="list-style-type:lower-roman;">
-	<li>Uploaded your vaccination certificate on your SG Arrival Card submission; or</li>
+	<li>Uploaded your vaccination certificate on your Vaccination Check Portal/SG Arrival Card submission; or</li>
 	<li>Present your overseas vaccination certificate at the immigration counter on-arrival. </li>
 	</ol>
 
-Your vaccination status will be updated on your TraceTogether app around 1 day after arrival in Singapore. If your vaccination status has not been updated on your TraceTogether app. Kindly submit a query here for the relevant team to look into your case: <a href="https://go.gov.sg/vax-status-query" target="_blank">https://go.gov.sg/vax-status-query</a>.
+Your vaccination status will be updated on your TraceTogether app within 1 day after arrival in Singapore. If your vaccination status has not been updated on your TraceTogether app, kindly submit a query for the relevant team to look into your case: <a href="https://go.gov.sg/vax-status-query" target="_blank">https://go.gov.sg/vax-status-query</a>.
 
-If you have uploaded a digitally-verifiable vaccination QR code via the Vaccinated Travel Pass (VTP) application portal, you may be granted a 180-day temporary status. All other travellers may be granted a 30-day temporary status by either uploading their digtially-verifiable vaccination certificate in their SG Arrival Card, or by presenting their vaccination certificate to the ICA officer at immigration clearance. Thereafter, your vaccination status will expire. For your vaccination status to be permanently valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministy of Health's FAQs on these measures.
+Travellers vaccinated overseas will be granted a 30-day temporary status by uploading their digitally-verifiable vaccination certificate via the Vaccination Check Portal or SG Arrival Card, or by presenting their vaccination certificate to the ICA officer at immigration clearance. Thereafter, the vaccination status will expire. For your vaccination status to continue to be valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministry of Health's FAQs on these measures.
 
 You may also wish to refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">TraceTogether FAQs</a> for more information.
 
