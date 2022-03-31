@@ -24,7 +24,7 @@ third_nav_title: Travelling to Singapore
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry permissions are <b style="color:red;">not</b> required for Long-term Pass holders (including In-Principle Approval holders) aged 13 to 17 as well as Singapore Citizens and Permanent Residents.</p>
 		<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Otherwise, apply for an entry approval based on your pass type/profile, via the channels below:</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click '+' for details on application process)</b></p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click '+' for details)</b></p>
 
 <html>
 
@@ -119,7 +119,7 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1B">
 &#9634; &nbsp;&nbsp;<b>B) Obtain Additional Travel-Related Documents</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Prepare the travel documents below, if required, and ensure that your passport is valid for <b>at least 6 months</b>. Entries may be denied if the requisite documents are not produced during pre-boarding or immigration clearance.</p>
-	<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b><i>(Click on ‘+’ for details on requirements)</i></b></p> 
+	<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>(Click on ‘+’ for details on requirements)</b></p> 
 
 	
 <html>
@@ -349,7 +349,7 @@ input:checked + label + .content {
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
 	</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, <b>whichever is later</b>. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked. Watch these videos for a walkthrough on the <a href="https://youtube.com/watch?v=171l93ldXzg&t=228s" target="_blank">SHN Requirements (English)</a>, <a href="https://youtu.be/300gtMksKrw" target="_blank">SHN Requirements (Mandarin)</a>, <a href="https://youtu.be/TcgBoA0Hrn0" target="_blank">SHN Requirements (Bahasa Indonesia)</a> and the penalties for <a href="https://youtube.com/watch?v=Om-hkGPvHOc&t=2s" target="_blank">SHN Breaches</a>.</p>	
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><i>Click "+" for details</i></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click "+" for details)</b></p>
 <html>
 
 <head>
