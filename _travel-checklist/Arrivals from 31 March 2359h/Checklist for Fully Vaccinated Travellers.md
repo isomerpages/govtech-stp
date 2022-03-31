@@ -215,10 +215,8 @@ input:checked + label + .content {
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes.</p>
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you did not successfully upload your vaccination certificate via the SG Arrival Card (see <a href="#1C">Stage 1C</a>) and were not vaccinated in Singapore, you should seek immigration clearance at a manned immigration counter and provide all documents, including proof of tests, and information requested by the immigration officer. There, the immigration officer will register your overseas vaccination status (temporary vaccinated status for 30 days) on the HealthHub or TraceTogether mobile application for use in vaccination-differentiated settings in Singapore (details in Stage 4). </p>
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Upon clearance, an <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> stating the period of stay granted will be issued to foreign short-term visit pass travellers via the email address indicated in the SGAC. Passports will no longer be stamped.</p>
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Travellers may depart the airport/checkpoints via any mode of transportation.</p>
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">However, if you are symptomatic on arrival, you may be directed to take a COVID-19 test. Each Antigen Rapid Test (ART) administered will cost S$30, while each COVID-19 Polymerase Chain Reaction Test (PCR Test) will cost S$138. Travellers awaiting the results of their tests may only commute to their accommodation via private transport, taxis (including street-hailed taxis) or private-hire cars [GrabSHN, Go-Jek, Ryde, MVL (Tada)].</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Upon clearance, an <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> stating the period of stay granted will be issued to foreign visitors via the email address indicated in SGAC. Passports will no longer be stamped.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you are symptomatic on arrival, you may be directed to take a COVID-19 test or other requirements as instructed by officers. Each Antigen Rapid Test (ART) administered will cost S$30, while each COVID-19 Polymerase Chain Reaction Test (PCR Test) will cost S$138.</p>
 </div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols during Stay in Singapore</b></div>
@@ -226,20 +224,37 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">All travellers must comply with the latest public health measures. This includes the use of the TraceTogether app for the identification of close contacts of a positive COVID-19 case, and/or showing proof of vaccination in settings where <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-differentiated Safe Management Measures (VDS)</a> apply.</p>
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you are vaccinated overseas, your vaccination status will be reflected on the <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> or <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application after arrival in Singapore. If your vaccination status is inaccurately reflected, use <a href="https://go.gov.sg/vds-query-form" target="_blank">this form</a> for assistance.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Comply with the latest public health measures, including the use of the TraceTogether app to show proof of vaccination in settings where <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-differentiated Safe Management Measures (VDS)</a> apply.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you are vaccinated overseas, a temporary vaccination status which is valid for 30 days will be reflected on the <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> or <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application. If your vaccination status has not been reflected correctly within a few hours after arrival, write in using <a href="https://go.gov.sg/vds-query-form" target="_blank">this form</a> for assistance.</p>
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for the latest public health measures.</p>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Register Overseas Vaccination Record [Mandatory for Long Term Pass Holders]</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Register Overseas Vaccination Record and Take COVID-19 Boosters</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you are vaccinated overseas and hold a long-term pass, e.g. Student’s Pass, Work Pass, you must register your overseas vaccination record into the Singapore National Immunisation Registry (NIR) if you have not done so already.</p>
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Registration can be done with the help of a local private healthcare provider or <a href="https://flu.gowhere.gov.sg/" target="_blank">Public Health Preparedness Clinic</a>. If you are a Construction, Marine Shipyard or Process Sector (CMP worker) on Work Permit, S Pass or In-Principle Approval holder, you must register your overseas vaccination record within 7 days of arrival in Singapore. In all other cases, registration should be done within 30 days of arrival. </p>
-	<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Ensure that your healthcare provider of choice can facilitate the registration before heading down with the following documents:</p>
-<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Personal identification documents</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Valid vaccination certificate (see <a href="#1C">Stage 1C</a> for details).</li>
-	</ol>
-<p style=" font-size:18px; margin-top:20px; margin-bottom: 10px; line-height:1.35;">For more information on NIR registration, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a> for details.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Travellers who were vaccinated overseas must register their vaccination status into the Singapore National Immunisation Registry (NIR), if you are any of the following traveller types and have not previously registered before.</p>
+	
+<table>
+  <thead>
+    <tr>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Traveller Type</b></th>
+	     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>When must registration be done</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
+	A Construction, Marine Shipyard or Process Sector (CMP worker) on Work Permit, S Pass or In-Principle Approval holder</td>
+	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Within 7 days of arrival</b>	</td>
+    </tr>
+	    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
+	Staying in Singapore for more than 30 days (including all Long-Term Pass Holders)</td>
+	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Within 30 days of arrival</b></td>
+    </tr>
+		</tbody>
+	</table>	
+	
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;"></p>
+<p style=" font-size:18px; margin-top:20px; margin-bottom: 10px; line-height:1.35;"></p>
 </div>
