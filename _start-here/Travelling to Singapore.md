@@ -51,7 +51,7 @@ Click here to return to the <a href="#top">top</a>.
 <table>
 	<thead>
 		<tr>
-		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#d5d5d5;"><b>Manufacturer / Name of Vaccine</b></th>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#d5d5d5; width:200px;"><b>Manufacturer / Name of Vaccine</b></th>
 			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#d5d5d5;"><b>Dose(s) Required and Minimum Interval between Doses</b></th>
 		</tr>
 	</thead>
@@ -94,138 +94,30 @@ Click here to return to the <a href="#top">top</a>.
 	</tbody>
 	</table>
 
-
-
-
-
-
-
-
-
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Select your expected mode and period of arrival in Singapore:</p>
-
-<ul style="list-style-type: lower-alpha; line-height:1.35;">
-	<li><a href="#before31">Before 31 March 2022, 2359h</a></li>
-	<li><a href="#after31">From 31 March 2022, 2359h</a></li>
-</ul>
-
-
-<div id="before31"></div>
-
-### Travellers arriving before 31 March 2022, 2359h
-
-
-#### i) Vaccinated Travel Lanes (VTL)
-
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;"><b>The Vaccinated Travel Lanes (VTL)</b> allow quarantine-free travel for <a href="/health/vtsg" target="_blank">fully vaccinated travellers</a> travelling from VTL countries/regions (<a href="#vtlcountries">see Table below</a>) via designated VTL transport. Male Work Permit holders who are non-Malaysians employed in the Construction, Marine Shipyard and Process sector are <b>not</b> eligible for VTL travel.</p>
-
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">For details concerning VTL travel, e.g. travel conditions and admin procedures, click on the links below:
-<ol style="list-style-type:lower-roman;">
-	<li style="line-height:1.35;"><a href="/vtl/requirements-and-process" target="_blank">VTL (Air)</a> - Entry using designated VTL flight from a VTL country/region;</li>
-	<li style="line-height:1.35;"><a href="/vtl-land/overview" target="_blank">VTL (Land)</a> - Entry using designated VTL bus via the Causeway;</li>
-	<li style="line-height:1.35; margin-top:10px;"><a href="/vtl-sea/overview" target="_blank">VTL (Sea)</a> - Entry using designated VTL ferry from Indonesia (Batam/Bintan).</li>
-</ol>
-	</p>
-
-<div id="vtlcountries"></div>
-
-<table>
-  <thead>
-    <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccinated Travel Lane Countries/Regions</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Australia, Brunei Darussalam, Cambodia, Canada, Denmark<sup>1</sup>, Fiji, Finland, France<sup>2</sup>, Germany, Greece, Hong Kong, India, Indonesia, Israel, Italy, Malaysia, Maldives, the Netherlands<sup>3</sup>, the Philippines, Qatar, the Republic of Korea, Saudi Arabia, Spain<sup>4</sup>, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Arab Emirates, the United Kingdom<sup>5</sup>, the United States<sup>6</sup> and Vietnam
-				<p style="margin-top:20px; font-size:18px; margin-bottom:20px; line-height:1.35;"><i style="font-size:16px; line-height:1.35;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
-<i style="font-size:16px; line-height:1.35;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
-<i style="font-size:16px; line-height:1.35;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
-<i style="font-size:16px; line-height:1.35;"><sup>4</sup>Including the Canary Islands</i><br>
-<i style="font-size:16px; line-height:1.35;"><sup>5</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
-<i style="font-size:16px; line-height:1.35;"><sup>6</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i></p></td>
-    </tr>
-	</tbody>
-	</table>
-
-
-#### ii) Non-VTL Travel Lanes
-
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Travellers who cannot qualify for entry via any of the VTLs, will enter via lane arrangements that are scoped based on their residency status or pass type. Upon entry, they will be subject to the prevailing health measures depending on travel history. </p>
-
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">For details concerning these lane arrangements, e.g. travel conditions and admin procedures, click on the links below:
-<ol style="list-style-type:lower-roman;">
-	<li style="line-height:1.35;margin-top:10px;"><a href="/sc-pr/overview" target="_blank">Returning Singapore Citizen and Permanent Resident Lane </a> - <b>Singapore Citizens and Permanent Residents</b></li>
-<li style="line-height:1.35;margin-top:10px;"><a href="/wphl/overview" target="_blank">Work Pass Holder General Lane </a> - <b>All MOM Long-Term Pass Holders, including Work Permit holders and dependant pass holders</b>. Vaccination Requirements apply </li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/stpl/overview" target="_blank">Student’s Pass Holder Lane </a> – <b>Student’s Pass Holders or their accompanying family members</b>. Vaccination requirements apply.</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/scpr-familial-ties-lane/overview" target="_blank">Familial Ties Lane</a> – <b>Immediate family member of a Singapore Citizen/Permanent Resident in Singapore, Permanent Resident In-Principle holder, or former Student’s Pass Holder</b></li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/atp/requirements-and-process" target="_blank">Air Travel Pass </a> - <b>Short Term Visitors</b> travelling from Mainland China, Macao, or Taiwan</li>
-<li style="line-height:1.35;margin-top:10px;"><a href="/dcev/overview" target="_blank">Death and Critical Illness Emergency Visits Lane </a> – <b>Travellers seeking emergency short-term entry</b> to attend to a family crisis (e.g. death or critical illness of family member in Singapore). Only a maximum of <u>two visitors per case</u> is allowed.</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/pca/requirements-and-process" target="_blank">Periodic Commuting Arrangement</a> – <b>Workers</b> travelling from Malaysia via land</li>
-	<li style="line-height:1.35;margin-top:10px;"><a href="/vaccinated-recovered" target="_blank">Vaccinated & Recently Recovered Traveller Protocol</a><b>Fully vaccinated travellers</b> who can prove a COVID-19 infection between 7 – 90 days (inclusive) before departure for Singapore.</li>
-</ol>
-</p>
-
 ---
 
 Click here to return to the <a href="#top">top</a>.
 
 ---
 
-<div id="after31"></div>
+### 3. Vaccinated Travel Framework – Summary of Border Measures
 
-#### Travellers arriving from 31 March 2022, 2359h
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to Green or Red List countries, as well as COVID-19 vaccination status.</p>
 
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">Under the new Vaccinated Travel Framework, all travel requirements are calibrated based mainly on the traveller’s COVID-19 vaccination status.</p>
-
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">There are no Restricted Category countries/regions today; all countries/regions come under the COVID-19 General Travel Category. For the detailed entry and health protocols, click on the checklist that best describes the traveller’s profile:</p>
-
-<table>
-  <thead>
-    <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Traveller who is…</b></th>
-	         <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Travel Checklist</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
-	    <ol style="list-style-type:disc;">
-		    <li style="line-height:1.35;margin-top:10px;font-size:18px;">Fully vaccinated against COVID-19; OR</li>
-		     <li style="line-height:1.35;margin-top:10px;font-size:18px;">Aged 12 and below (i.e. born in or after 2010) and not fully vaccinated against COVID-19</li>
-	      </ol>
-	    </td>
-	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category - Fully Vaccinated Traveller and Children’s Checklist</a></td>
-    </tr>
-	     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Aged 13 and above (i.e. born before 2010) and is:     	    
-	      <ol style="list-style-type:disc;">
-		    <li style="line-height:1.35;margin-top:10px;font-size:18px;">Medically ineligible for COVID-19 vaccines;</li>
-		     <li style="line-height:1.35;margin-top:10px; font-size:18px;">Not fully vaccinated against COVID-19</li>
-	      </ol>
-		     </td>
-	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">General Travel Category - Non-Fully Vaccinated Traveller Checklist</a></td>
-    </tr>
-	   <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated, and had a COVID-19 infection between 7 – 90 days before departure for Singapore
-		     </td>
-	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Traveller Checklist</a></td>
-    </tr>
-	     <tr>
-      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Note: <a href="/health/vtsg" target="_blank">Click here</a> for definition of “Fully vaccinated”.
-		     </td>
-    </tr>
-	</tbody>
-	</table>
-
----
-
-Click here to return to the <a href="#top">top</a>.
-
----
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If your 7-day travel history consists only of countries in the General Category, you will be subject to the following border measures.</p>
 
 
-### 3) Air/Sea Crew and Pleasure Craft Owners
+
+
+
+
+
+
+
+
+
+
+### 4) Air/Sea Crew and Pleasure Craft Owners
 
 <div id="crew"></div>
 
