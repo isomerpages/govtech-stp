@@ -13,7 +13,7 @@ permalink: /contact-us
 
 <p style="line-height:1.35;">The SafeTravel website is designed to provide prospective travellers with the latest information and tools to plan their journey to and from Singapore. Readers who have landed on this page without browsing the rest of this website should begin their journey from the <a href="https://safetravel.ica.gov.sg/" target="_blank">SafeTravel Home Page</a>.</p>
 
-You can find the following forms of commonly requested support on this page:
+Use the links below for quick access to the commonly requested support:
 
 <ol style="list-style-type: decimal; line-height:1.35;">
 	<li style="line-height:1.35;"><a href="#FAQ">Latest Travel Notices and Answers to Top FAQ</a></li> 
@@ -25,7 +25,9 @@ You can find the following forms of commonly requested support on this page:
 <div id="FAQ"></div>
 
 
-### 1) Latest Travel Notices and Answers to Top FAQ
+### 1)  Frequently Asked Questions
+
+Summarised below are some of the top questions asked in the past week. If your query is not listed below, it may already be addressed in the <a href="/faq" target="blank">full set of FAQs</a>.
 
 <table>
 <thead>
@@ -36,8 +38,9 @@ You can find the following forms of commonly requested support on this page:
 </thead>
 <tbody>
 		   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading Digitally Verifiable Certificate (DVC) to VTL application portal and Vaccination Check Portal</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/vtl/faq#invalidcode" target="_blank">Click Here</a> for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading Digitally Verifiable Certificate (DVC) to the Vaccination Check Portal (VCP) or SG Arrival Card (SGAC)</b> </td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/vtl/faq#invalidcode" target="_blank">Click Here</a> for instructions to troubleshoot common errors. 
+</p>
 </p>
 <ol style="padding-left: 20px; list-style-type: disc;"><li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Upload failure for documents containing more than one QR code. In such a case, extract/crop the QR code of the latest dose and only upload that QR code.</li></ol></td>
