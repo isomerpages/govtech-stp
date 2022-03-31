@@ -39,11 +39,18 @@ Summarised below are some of the top questions asked in the past week. If your q
 <tbody>
 		   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading Digitally Verifiable Certificate (DVC) to the Vaccination Check Portal (VCP) or SG Arrival Card (SGAC)</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/vtl/faq#invalidcode" target="_blank">Click Here</a> for instructions to troubleshoot common errors. 
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/vtl/faq#invalidcode" target="_blank">Click Here</a> for instructions to troubleshoot common errors. 
 </p>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Even if your upload fails, you may continue to enter Singapore if you hold a valid vaccination certificate that is in English, or accompanied with notarised English Translation, with the following details:
 </p>
-<ol style="padding-left: 20px; list-style-type: disc;"><li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
-	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Upload failure for documents containing more than one QR code. In such a case, extract/crop the QR code of the latest dose and only upload that QR code.</li></ol></td>
+<ol style="padding-left: 20px; list-style-type: lower-roman;"><li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Name (per travel document used for entry)</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Country of vaccination</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Vaccination date(s)</li>
+	   </ol>
+	   <p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">However, if you continue to wish to resolve your QR code uploading issue, submit the relevant screenshots of the errors encountered as well as your vaccination certificate details using <a href="https://go.gov.sg/sto-enquiry" target="_bank">this form</a>.</p>			   
+			   </td>
  </tr>
 			   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Vaccinated Travel Framework</b> </td>
