@@ -199,7 +199,7 @@ Click here to return to the <a href="#top">top</a>.
 		<li style="line-height:1.35;">Completed quarantine in your home country for at least 7 days before arrival.</li>
 		</ol>
 	</li>
-	<li style="line-height:1.35;">Submit the following types of applications to ICA via <a href="https://digitalport.mpa.gov.sg/" target="_blank">digitalPORT@SG</a>:
+	<li style="line-height:1.35; margin-top:20px;">Submit the following types of applications to ICA via <a href="https://digitalport.mpa.gov.sg/" target="_blank">digitalPORT@SG</a>:
 	<ol style="line-height:1.35; list-style-type:disc;">
 		<li style="line-height:1.35;">Arrival or departure immigration clearance of vessel and crew</li>
 		<li style="line-height:1.35;">Crew sign-on or sign-off</li>
