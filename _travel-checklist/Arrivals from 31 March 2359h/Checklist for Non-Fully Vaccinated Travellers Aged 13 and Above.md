@@ -87,13 +87,13 @@ input:checked + label + .content {
 </head>
 <body>	
 <input id="IPA-Family" type="checkbox">
-	<label style="background-color:#244e70" for="IPA-Family"><b>Family Members of a Singapore Citizen/Permanent Resident, including adopted child holding a Dependant's Pass In-Principle Approval</b></label>
+	<label for="IPA-Family"><b>Family Members of a Singapore Citizen/Permanent Resident, including adopted child holding a Dependant's Pass In-Principle Approval</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
 	
 <input id="PR-LTVP-IPA" type="checkbox">
-	<label style="background-color: #455663;" for="PR-LTVP-IPA"><b>Holders of Permanent Resident In-Principle Approval (IPA) or ICA Long-Term Visit Pass IPA Aged 18 and Above</b></label>
+	<label style="background-color:#244e70;" for="PR-LTVP-IPA"><b>Holders of Permanent Resident In-Principle Approval (IPA) or ICA Long-Term Visit Pass IPA Aged 18 and Above</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
