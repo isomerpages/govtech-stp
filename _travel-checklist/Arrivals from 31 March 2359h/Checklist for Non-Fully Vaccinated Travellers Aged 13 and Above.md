@@ -92,23 +92,25 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
 	
+<input id="PR-LTVP-IPA" type="checkbox">
+	<label style="background-color: #455663;" for="PR-LTVP-IPA"><b>Holders of Permanent Resident In-Principle Approval (IPA) or ICA Long-Term Visit Pass IPA Aged 18 and Above</b></label>
+<div style="background-color:#edf4fa;" class="content">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
+</div>
+	
 <input id="LTPHabove18" type="checkbox">
-	<label style="background-color: #455663;" for="LTPHabove18"><b>Long-term Pass Holders aged 18 and above who are medically ineligible for vaccines</b></label>
+	<label style="background-color: #455663;" for="LTPHabove18"><b>MOE or MOM Long-Term Pass Holders Aged 18 and Above who are Medically Ineligible for Vaccines</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate Family Members*</u></b></p>
-	<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><i>*Eligibility criteria for family members explained in the application form – can include family members who are short term visitors</i></p>
-<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Long-Term Passes Issued by MOM</u></b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry.</a> Request is subject to approval. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.</p>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Permanent Resident In-Principle Approval (IPA) holder, Long Term Visit Pass IPA holder, or Adopted child of a Singapore Citizen/Permanent Resident holding a Dependant’s Pass-IPA issued by the Ministry of Social and Family Development</u></b></p>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"> Applications must be submitted by the Singapore Citizen/PR family member using SingPass at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a>. Those without a Singapore Citizen/PR to apply for entry on their behalf should write in via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">- Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Long-Term Pass Issued by MOM</u></b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">- <a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry</a>. Request is subject to approval. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.</p>
 </div>
 	
 <input id="STVs-compassionate" type="checkbox">
-	<label style="background-color:#820000;" for="STVs-compassionate"><b>Short-term visitors entering for exceptional reasons (e.g. attending death or critical illness of family)</b></label>
+	<label style="background-color:#820000;" for="STVs-compassionate"><b>Short-term Visitors Entering for Exceptional reasons (e.g. tend to critically ill family, or death of family member)</b></label>
 <div style="background-color:#fffafa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Applications must be submitted using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>, with the appropriate supporting documents (e.g. doctor’s memo, death certificate) to facilitate processing.</p>
-	<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Emergency cases will be prioritised for reply. All other cases will take <b>around 3 working days</b> to process.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Entry request should be submitted <a href="https://go.gov.sg/sto-enquiry" target="_blank">using this form</a>, with the relevant supporting documents (e.g. doctor’s memo, death certificate) to facilitate processing.</p>
 </div>
 </body>
 	</html>
