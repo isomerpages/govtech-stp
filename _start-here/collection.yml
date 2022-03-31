@@ -2,6 +2,7 @@ collections:
   start-here:
     output: true
     order:
+      - Checklist for Fully Vaccinated Travellers.md
       - Travelling to Singapore.md
       - Departing from Singapore.md
       - Transiting through Singapore.md
