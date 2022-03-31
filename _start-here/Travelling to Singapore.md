@@ -1,7 +1,8 @@
 ---
-title: Travelling to Singapore
+title: Travelling to Singapore - Overview
 permalink: /arriving/overview
 description: Entry requirements and SafeTravel Lanes available when travelling to Singapore
+third_nav_title: Travelling to Singapore
 ---
 <div id="top"></div>
 
