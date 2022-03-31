@@ -348,7 +348,7 @@ input:checked + label + .content {
 	</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
 	</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, <b>whichever is later</b>. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked. Watch these videos for a walkthrough on the SHN Requirements (English), SHN Requirements (Mandarin), SHN Requirements (Bahasa Indonesia) and the penalties for SHN Breaches.</p>	
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, <b>whichever is later</b>. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked. Watch these videos for a walkthrough on the <a href="https://youtube.com/watch?v=171l93ldXzg&t=228s" target="_blank">SHN Requirements (English)</a>, <a href="https://youtu.be/300gtMksKrw" target="_blank">SHN Requirements (Mandarin)</a>, <a href="https://youtu.be/TcgBoA0Hrn0" target="_blank">SHN Requirements (Bahasa Indonesia)</a> and the penalties for <a href="https://youtube.com/watch?v=Om-hkGPvHOc&t=2s" target="_blank">SHN Breaches</a>.</p>	
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><i>Click "+" for details</i></p>
 <html>
 
@@ -431,19 +431,30 @@ input:checked + label + .content {
 </body>
 </html>
 </div>
-	
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+&#9634; &nbsp;&nbsp;<b>B) Testing Positive for COVID-19</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">If you test positive for COVID-19, <a href="https://www.covid.gov.sg/travellers" target="_blank">adhere to these recovery protocols</a>.</p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">In the event where you are assessed to be ineligible for home or in-situ recovery, you may be conveyed to a suitable COVID-19 care facility. Information on treatment and costs for COVID-19 for travellers can be found on <a href="/health/insurance-and-treatment" target="_blank">this page</a>.
+</p>
+</div>	
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 5: End of Stay-Home Notice & Stay in Singapore</b></div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>A) Abide by Local COVID-19 Safe Management Measures</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">After you have completed your SHN, comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a> while in Singapore. Non-fully vaccinated travellers who are <u>not</u> medically exempted from COVID-19 vaccinations will not be able to enter any vaccination-differentiated settings (e.g. attendance at large scale events, dining restrictions).</p>
-	</div>	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">You may go about with your activities after completing SHN. However, you should comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>.</p> 
+<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">If you are not medically exempted from COVID-19 vaccination, you will not qualify for entry into any vaccination-differentiated settings (e.g. attendance at large scale events, dining restrictions).</p>
+</div>	
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>B) Fulfil Pass Requirements [Long-Term Pass Holders only]</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Travellers aged 13 and above who hold a long-term pass, e.g. Student’s Pass, Work Pass, <b>must</b> complete the full vaccination regimen within two months of arrival.</p>
-	<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">If you suffer from a medical condition that disallows you from being vaccinated against COVID-19, obtain medical certification within 30 days of your arrival in Singapore to prove your ineligibility for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</p>
-	</div>
+<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Complete the full vaccination regimen <b>within two months of arrival</b> if you are:</p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Aged 13 and above; AND</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Hold a Long-term Pass, e.g. Student’s Pass, Work Pass.</li>
+	</ol>
+<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">By completing the requisite vaccination regimen, you will be eligible for the renewal or extension of your long-term pass. If you suffer from a medical condition that disallows you from being vaccinated against COVID-19, obtain medical certification within 30 days of your arrival in Singapore to prove your ineligibility for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</p>
+</div>
