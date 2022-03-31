@@ -79,7 +79,7 @@ permalink: /stpl/vaccination-requirements
 		</tbody>
 	</table>
 
-<p style="font-size:18px; margin-top:10px; line-height:1.5;">Travellers who had earlier recovered from COVID-19 and took 1 dose of a WHO EUL vaccine thereafter must present <a href="/vaccinated-recovered" target="_blank"> acceptable proof of the first diagnosis date</a> in addition to the vaccination certificate. </p>
+<p style="font-size:18px; margin-top:10px; line-height:1.5;">Travellers who had earlier recovered from COVID-19 and took 1 dose of a WHO EUL vaccine thereafter must present acceptable proof of the first diagnosis date in addition to the vaccination certificate. </p>
 
 <div id="additional-requirements"></div>
 
