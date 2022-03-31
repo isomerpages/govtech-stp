@@ -202,7 +202,7 @@ input:checked + label + .content {
 	<label style="background-color: #23537a;" for="VEP"><b>Drivers of Foreign-Registered Vehicles Entering by Land</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Valid Vehicle Entry Permit (VEP) approval email, Autopass card and motor insurance. Those with valid documents need not apply again</p>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;"><b style="color:red;">Application or insurance/Autopass update services are unavailable at Singapore's land checkpoints.</b> Applications <b style="color:red;">must</b> be made via the OneMotoring website <b>at least two weeks before</b> your intended travel dates (steps below):</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;"><b style="color:red;">Application or insurance/Autopass update services are unavailable at Singapore's land checkpoints.</b> Applications must be made via the OneMotoring website <b>at least two weeks before</b> your intended travel dates (steps below):</p>
 
 <ol style="padding-left:10px; list-style-type:lower-latin;">
 <li style=" padding-left:10px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><b>Apply for VEP/Autopass card (applications only open from 31 March 2022):</b> <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;"><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> <b>></b> Digital Services <b>></b> Apply for VEP / Autopass Card</p></li>
