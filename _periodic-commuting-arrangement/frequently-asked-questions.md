@@ -150,26 +150,20 @@ SCs/SPRs holding the Malaysia-issued MyTravelPass may access Government subsidie
 
 ### **Eligibility (Singapore Citizens and Singapore Permanent Residents)**
 
-#### 1. I am a Singapore Citizen presently living/working in Malaysia. Do I need to apply for a PCA pass to return to Singapore?
-
-Singapore citizens <b>do not</b> need any entry approval, including a PCA pass to return to Singapore. Returning Singapore citizens should refer to this <a href="/sc-pr/overview">page</a> for more information on the general return process and latest health control requirements that they will be subject to.
-
-#### 2. I am a Malaysian citizen and a Singapore Permanent Resident (PR) who is presently in Malaysia. Do I need to apply for a PCA pass to enter Singapore?
+#### 1. I am a Malaysian citizen and a Singapore Permanent Resident (PR) who is presently in Malaysia. Do I need to apply for a PCA pass to enter Singapore?
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
 - A COVID-19 Antigen Rapid Test ("ART Test") or Polymerase Chain Reaction Test (“PCR Test”) taken within 2 days before departure<b> at a <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>;
 - Serving 7-day Stay-Home Notice (SHN) at a declared SHN accommodation; and
 - An exit PCR test
 
-Click <a href="/sc-pr/overview">here</a> for more information on the prevailing measures for Singapore Citizens and PRs.
-
 Singapore PRs whose employer in Singapore is willing to facilitate their home leave in Malaysia may return to Singapore under the PCA. 
 
-#### 3. I am a Singapore-based Singapore Citizen/Singapore Permanent Resident holding a Malaysia Work Pass. Am I eligible for a PCA pass to return to Malaysia for business/work?
+#### 2. I am a Singapore-based Singapore Citizen/Singapore Permanent Resident holding a Malaysia Work Pass. Am I eligible for a PCA pass to return to Malaysia for business/work?
 
 Yes, you are eligible to work in Malaysia under the PCA scheme. However, you are required to apply for entry approval, i.e. MyTravelPass, with the Malaysian authorities. You can reach out to the <a href="https://www.kln.gov.my/" target="_blank">Malaysian Ministry of Foreign Affairs</a>, <a href="https://www.imi.gov.my/" target="_blank">Malaysian Immigration Department</a> or the <a href="https://www.kln.gov.my/web/sgp_singapore" target="_blank">Malaysian High Commission in Singapore</a> for advice.
 
-#### 4. I am a Malaysian citizen and a Singapore PR. I am currently working in Singapore but I wish to return to Malaysia. Do I need to apply for a PCA pass to do so?
+#### 3. I am a Malaysian citizen and a Singapore PR. I am currently working in Singapore but I wish to return to Malaysia. Do I need to apply for a PCA pass to do so?
 
 For further clarification on entry to Malaysia, you may wish to reach out to the <a href="https://www.kln.gov.my" target="_blank">Malaysian Ministry of Foreign Affairs</a>, the <a href="https://www.imi.gov.my" target="_blank">Malaysian Immigration Department</a> or the <a href="https://www.kln.gov.my/web/sgp_singapore" target="_blank">Malaysian High Commission in Singapore</a> for further advice regarding entry to Malaysia.
 
@@ -181,11 +175,8 @@ For further clarification on entry to Malaysia, you may wish to reach out to the
  
 #### 5. I am a confinement nanny. Do I apply for a PCA pass to enter Singapore?
 
-No. Confinement nannies can only enter Singapore using a MOM-issued Letter of Entry Approval. Employers will need to apply for entry approval via MOM on behalf of the confinement nannies. Click <a href="/wphl/overview">here</a> for more information.
+No. Confinement nannies cannot use the PCA to enter Singapore.
 
-#### 6. I do not have a FIN number as am an In-Principle Approval (IPA) pass holder. How do I apply for a PCA to fulfil my employment obligation in Singapore?
-
-Entries into Singapore under the PCA must be sponsored by a Singapore-based company. The PCA scheme is not open to IPA holders, and they may be sponsored for an Entry Approval under the <a href="/wphl/overview">Work Pass Holder General Lane</a> instead.
 
 ##### Click here to go to the [top](#top).
 
@@ -247,27 +238,18 @@ Employers are only required to submit a fresh PCA application if an employee had
 
 Travellers approved to visit Singapore under the PCA are only permitted to enter the country via the two land crossings, i.e. Second Link and Woodlands Causeway. Travellers entering Singapore from Malaysia via other means, e.g. air, should seek for an entry approval from [MOM](http://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore).
 
-#### 4. Are there any materials I can disseminate to my employees to prepare them for their SHN and COVID-19 test in Singapore?
-
-For more information on the prevailing health control measures, including SHN and COVID-19 tests, you may go to [this page](/health). You may also wish to share with your employees the [additional work pass conditions](/malaysia/pca/terms-and-conditions) imposed on them as a condition for entry into Singapore via the PCA.
-
 ##### Click here to go to the [top](#top).
 
 <div id="Eligibility"></div>
 
 ### **Eligibility**
 
-#### 1. Can I sponsor a PCA application for an employee who is given in-principle approval (IPA) or Letter of Consent (LOC) to work in Singapore?
- 
-No. An application for Entry Approval must be submitted under the [Work Pass Holder General Lane](/wphl/overview) for all IPA and LOC holders.
 
-For employees who are concurrently an LOC and ICA-issued Long-Term Visit Pass holder, an application Entry Approval must be submitted under the [Singapore Citizen/Permanent Resident Familial Ties Lane](/scpr-familial-ties-lane/overview).
-
-#### 2. I run a domestic helper agency. Can I apply for a PCA for the domestic helpers on behalf of my clients?
+#### 1. I run a domestic helper agency. Can I apply for a PCA for the domestic helpers on behalf of my clients?
 
 No.
 
-#### 3. I must send an employee to Malaysia for work/business purposes. Do I apply for a PCA pass using the SafeTravel application portal?
+#### 2. I must send an employee to Malaysia for work/business purposes. Do I apply for a PCA pass using the SafeTravel application portal?
 
 No. While the SafeTravel application portal is open to Singapore-based companies, it does not process entry applications for the Malaysian authorities.
 
