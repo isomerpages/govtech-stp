@@ -16,7 +16,7 @@ permalink: /contact-us
 Use the links below for quick access to the commonly requested support:
 
 <ol style="list-style-type: decimal; line-height:1.35;">
-	<li style="line-height:1.35;"><a href="#FAQ">Latest Travel Notices and Answers to Top FAQ</a></li> 
+	<li style="line-height:1.35;"><a href="#FAQ">Frequently Asked Questions</a></li> 
 	<li style="line-height:1.35;"><a href="#checker">Application Status Checker</a></li>
 	<li style="line-height:1.35;"><a href="#enquiry">SafeTravel Office Helpline Number and Enquiry Form</a></li>
 </ol>
