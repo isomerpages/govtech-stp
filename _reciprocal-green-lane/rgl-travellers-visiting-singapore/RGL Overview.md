@@ -33,7 +33,7 @@ Currently, Brunei Darussalam and selected regions in Mainland China (i.e. Chongq
 </tbody>
 </table>-->
 
-<!--If not, an overview of the RGL requirements can be found below. --> For the list of RGLs that have been suspended, see the Annex for more details.
+<!--If not, an overview of the RGL requirements can be found below. --> <!--For the list of RGLs that have been suspended, see the Annex for more details.-->
 
 <table>
 <thead>
@@ -151,8 +151,8 @@ See Annex for partner countries/regions where RGL has been suspended.
 </tbody>
 </table>
 <br><br>
-<u><b>Annex: RGL Suspended Countries/Regions</b></u>
-<table>
+<!--<u><b>Annex: RGL Suspended Countries/Regions</b></u>-->
+<!--<table>
 <thead>
 <tr>
 <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Suspended RGLs</b></th>
@@ -182,4 +182,4 @@ See Annex for partner countries/regions where RGL has been suspended.
 <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="/images/M.png" width="147" height="53"></td>
 </tr>
 </tbody>
-</table>
+</table>-->
