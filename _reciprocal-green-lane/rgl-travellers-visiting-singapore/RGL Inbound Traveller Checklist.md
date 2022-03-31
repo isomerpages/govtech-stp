@@ -162,4 +162,4 @@ After self-isolation, travellers may go about their activities but <b>must</b>:
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Comply with the latest public health measures, which includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> to facilitate Contact Tracing. For details on the prevailing public health measures, please visit the Ministry of Health <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">website</a>.</li>
 </ol>
 
-To qualify for vaccination-differentiated safe management measures (VDS) in Singapore, travellers will need to show proof of their vaccination status via the TraceTogether application. <a href="/health/vtsg#VDSMM" target="_blank">Click here for more details on VDS</a>.
+To qualify for vaccination-differentiated safe management measures (VDS) in Singapore, travellers will need to show proof of their vaccination status via the TraceTogether application. <a href="https://go.gov.sg/moh-smm" target="_blank">Click here for more details on VDS</a>.
