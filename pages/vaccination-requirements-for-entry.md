@@ -2,7 +2,7 @@
 title: Vaccination Requirements for Entry
 permalink: /stpl/vaccination-requirements
 ---
-##### All travellers entering Singapore under the Student’s Pass Holder Lane must be fully vaccinated before arrival. This page outlines:
+##### Student's Pass Holders and their accompanying family members must be fully vaccinated before arrival. This page outlines:
 
 <ol>
 	<li style="line-height:1.5;"><a href="#criteria">Criteria to be considered fully vaccinated </a></li>
@@ -31,7 +31,7 @@ permalink: /stpl/vaccination-requirements
     </tr>
 	      <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">All others</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">The full vaccination regimen of <u>WHO EUL vaccines</u> at least 14 days before arriving in Singapore. <p style="font-size:18px; margin-top:10px; line-height:1.5;">Example: If the traveller received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is <b>15 Sep</b>.</p> <p style="font-size:18px; margin-top:10px; line-height:1.5;">Vaccines requiring 2 or 3 doses must be completed either using the <a href="/health/vtsg" target="_blank">same or different brands</a> and taken based on recommended intervals between each dose. The list of vaccinations accepted by Singapore can be found <a href="/health/vtsg" target="_blank">here</a>.</p><p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Those who were vaccinated overseas must also <a href="#additional-requirements">update their vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival. </p>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">The full vaccination regimen of <u>WHO EUL vaccines</u> at least 14 days before arriving in Singapore. <p style="font-size:18px; margin-top:10px; line-height:1.5;">Example: If the traveller received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is <b>15 Sep</b>.</p> <p style="font-size:18px; margin-top:10px; line-height:1.5;">Vaccines requiring 2 or 3 doses must be completed either using the <a href="/arriving/overview#vaccination" target="_blank">same or different brands</a> and taken based on recommended intervals between each dose. The list of vaccinations accepted by Singapore can be found <a href="/arriving/overview#vaccination" target="_blank">here</a>.</p><p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Those who were vaccinated overseas must also <a href="#additional-requirements">update their vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival. </p>
 	      </td>
     </tr>
 	</tbody>
@@ -79,7 +79,7 @@ permalink: /stpl/vaccination-requirements
 		</tbody>
 	</table>
 
-<p style="font-size:18px; margin-top:10px; line-height:1.5;">Travellers who had earlier recovered from COVID-19 and took 1 dose of a WHO EUL vaccine thereafter must present <a href="/vaccinated-recovered" target="_blank"> acceptable proof of the first diagnosis date</a> in addition to the vaccination certificate. </p>
+<p style="font-size:18px; margin-top:10px; line-height:1.5;">Travellers who had earlier recovered from COVID-19 and took 1 dose of a WHO EUL vaccine thereafter must present acceptable proof of the first diagnosis date in addition to the vaccination certificate. </p>
 
 <div id="additional-requirements"></div>
 
@@ -142,7 +142,7 @@ permalink: /stpl/vaccination-requirements
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated with <a href="/health/vtsg" target="_blank">full regimen of WHO Emergency Use Listing (WHO EUL) vaccines</a> at least two weeks before arrival</td>
+      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated with <a href="/arriving/overview#vaccination" target="_blank">full regimen of WHO Emergency Use Listing (WHO EUL) vaccines</a> at least two weeks before arrival</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated in Singapore</td>
 	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">None</td>
     </tr>
@@ -171,7 +171,7 @@ permalink: /stpl/vaccination-requirements
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated with <a href="/health/vtsg" target="_blank">full regimen of WHO Emergency Use Listing (WHO EUL) vaccines</a> at least two weeks before arrival</td>
+      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated with <a href="/arriving/overview#vaccination" target="_blank">full regimen of WHO Emergency Use Listing (WHO EUL) vaccines</a> at least two weeks before arrival</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated in Singapore</td>
 	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Show <a href="#documents">proof of vaccination</a> at the port of departure/ checkpoint.</td>
     </tr>

@@ -2,30 +2,29 @@
 title: Checklist for Non-Fully Vaccinated Travellers Aged 13 and Above
 permalink: /arriving/general-travel/non-fully-vaccinated
 description: ""
-third_nav_title: Arrivals from 31 March 2359h
+third_nav_title: Travelling to Singapore
 ---
 <div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
-  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This travel checklist is for travellers aged 13 and above (i.e. born before 2010) who are entering Singapore from 31 March 2022, 2359H, and are:
+  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This travel checklist is for travellers aged 13 and above (i.e. born before 2010), and:
   <ol style="padding-left:25px; list-style-type:disc;">
-    <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><b>Not</b> considered <a href="/health/vtsg" target="_blank">fully vaccinated against COVID-19</a>; <b>OR</b></li>
+    <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><b>Not</b> considered fully vaccinated against COVID-19; <b>OR</b></li>
        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Certified medically ineligible for COVID-19 vaccination</li>
   </ol>
   </p>
-    <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. If this checklist does not apply to you, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page for the entry requirements most relevant to you.</p>
-   <p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4; color:black;">Readers referencing this checklist can indicate "<b>✓</b>" in the boxes (&#9634;) for completed activities.</p>
+    <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">If you do not meet the above criteria or are not sure on the definition of "fully vaccinated", return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page to determine the entry requirements most relevant to you. Travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information.</p>
+   <p style="font-size:18px; margin-top:20px;margin-bottom:0px;  line-height:1.4; color:black;">Users of this checklist can indicate "<b>✓</b>" in the boxes (&#9634;) for completed activities.</p>
   </div>
   
   
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">
-&#9634; &nbsp;&nbsp;<b>A) Obtain Entry Permissions (if necessary) </b></div>
+&#9634; &nbsp;&nbsp;<b>A) Obtain Entry Permissions</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Singapore Citizens and Permanent Residents <b>do not</b> need to apply for an Entry Approval. </p> 
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Long-term Pass holders (including In-Principle Approval holders) aged 13 to 17 also <b>do not</b> need to apply for an Entry Approval.</p>
-		<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For all other travellers, only the following non-fully traveller types may apply for entry.</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click '+' for details on application process)</b></p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry permissions are <b style="color:red;">not</b> required for Long-term Pass holders (including In-Principle Approval holders) aged 13 to 17 as well as Singapore Citizens and Permanent Residents.</p>
+		<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Otherwise, apply for an entry approval based on your pass type/profile, via the channels below:</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click '+' for details)</b></p>
 
 <html>
 
@@ -88,28 +87,30 @@ input:checked + label + .content {
 </head>
 <body>	
 <input id="IPA-Family" type="checkbox">
-	<label for="IPA-Family"><b>Eligible Long-term Pass Holder or Short-term visitor who is a Family Member of a Singapore Citizen/Permanent Resident </b></label>
+	<label style="background-color: #23537a; color:#f7f7f7;" for="IPA-Family"><b>Family Members of a Singapore Citizen/Permanent Resident, including adopted child holding a Dependant's Pass In-Principle Approval</b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications must be submitted by the Singapore Citizen/PR family member using SingPass at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
+</div>
+	
+<input id="PR-LTVP-IPA" type="checkbox">
+	<label style="background-color: #23537a; color:#f7f7f7;" for="PR-LTVP-IPA"><b>Holders of Permanent Resident In-Principle Approval (IPA) or ICA Long-Term Visit Pass IPA Aged 18 and Above</b></label>
+<div style="background-color:#edf4fa;" class="content">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
 	
 <input id="LTPHabove18" type="checkbox">
-	<label for="LTPHabove18"><b>Long-term Pass Holders aged 18 and above who are medically ineligible for vaccines</b></label>
+	<label style="background-color: #23537a; color:#f7f7f7;" for="LTPHabove18"><b>MOE or MOM Long-Term Pass Holders Aged 18 and Above who are Medically Ineligible for Vaccines</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate Family Members*</u></b></p>
-	<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><i>*Eligibility criteria for family members explained in the application form – can include family members who are short term visitors</i></p>
-<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Long-Term Passes Issued by MOM</u></b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry.</a> Request is subject to approval. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.</p>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Permanent Resident In-Principle Approval (IPA) holder, Long Term Visit Pass IPA holder, or Adopted child of a Singapore Citizen/Permanent Resident holding a Dependant’s Pass-IPA issued by the Ministry of Social and Family Development</u></b></p>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"> Applications must be submitted by the Singapore Citizen/PR family member using SingPass at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a>. Those without a Singapore Citizen/PR to apply for entry on their behalf should write in via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">- Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Long-Term Pass Issued by MOM</u></b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">- <a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry</a>. Request is subject to approval. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.</p>
 </div>
 	
 <input id="STVs-compassionate" type="checkbox">
-	<label for="STVs-compassionate"><b>Short-term visitors entering for exceptional reasons (e.g. attending death or critical illness of family)</b></label>
+	<label style="background-color: #23537a; color:#f7f7f7;" for="STVs-compassionate"><b>Short-term Visitors Entering for Exceptional reasons (e.g. tend to critically ill family, or death of family member)</b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Applications must be submitted using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>, with the appropriate supporting documents (e.g. doctor’s memo, death certificate) to facilitate processing.</p>
-	<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Emergency cases will be prioritised for reply. All other cases will take <b>around 3 working days</b> to process.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Entry request should be submitted <a href="https://go.gov.sg/sto-enquiry" target="_blank">using this form</a>, with the relevant supporting documents (e.g. doctor’s memo, death certificate) to facilitate processing.</p>
 </div>
 </body>
 	</html>
@@ -117,9 +118,9 @@ input:checked + label + .content {
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1B">
 &#9634; &nbsp;&nbsp;<b>B) Obtain Additional Travel-Related Documents</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please note that additional travel-related documents are also required for traveller types listed in the table below.</p>
-	<p style=" font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Traveller Type and Application/Resource links</u> &nbsp;[Click on ‘+’ for details on requirements]</b></p> 
-		<p style=" font-size:16px; margin-top: 20px; margin-bottom:25px; line-height:1.35; color:red;">(Please refer to the requirements for all traveller types that apply. E.g. Short Term Visitors entering by foreign-registered private vehicle via land should refer to both ‘<i>Short Term Visitors</i>’ <u>and</u> ‘<i>Drivers of foreign-registered vehicles entering by land</i>’  from the list below.)</p> 
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Prepare the travel documents below, if required, and ensure that your passport is valid for <b>at least 6 months</b>. Entries may be denied if the requisite documents are not produced during pre-boarding or immigration clearance.</p>
+	<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>(Click on ‘+’ for details on requirements)</b></p> 
+
 	
 <html>
 
@@ -182,82 +183,59 @@ input:checked + label + .content {
 </head>
 <body>	
 <input id="STVs" type="checkbox">
-	<label for="STVs"><b>Short-Term Visitors</b></label>
-<div style="background-color:#edf4fa;" class="content"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers should be insured for a minimum coverage of S$30,000 for any COVID-19 related medical charges.<sup>1</sup> Insurance can be purchased with any insurer  (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>).</p>
-	<p style="font-size:15px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><sup>1</sup>Insurance is strongly encouraged but not mandatory for those who received entry approval via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a>. Short-term visitors are responsible for all costs associated with COVID-19 treatment and recovery throughout their stay in Singapore.  </p>	
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Short term visitors holding passports or travel documents issued by visa-required countries/regions should also <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">click here to check if visa is required and to apply for an Entry Visa</a>.</p>
+	<label style="background-color: #23537a;" for="STVs"><b>Foreigners without Singapore Long-Term Pass</b></label>
+<div style="background-color:#edf4fa;" class="content">
+	<ol style="list-style-type: decimal;">
+		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Travel insurance with minimum coverage of S$30,000 for any COVID-19 related medical charges.<sup>1</sup> Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>)</li>
+		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions </li>
+	</ol>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><sup>Footnote 1</sup> Insurance is strongly encouraged but not mandatory for those who received entry approval via the SafeTravel Office Application Portal. Short-term visitors are responsible for all costs associated with COVID-19 treatment and recovery throughout their stay in Singapore.</p>
 </div>
 	
 <input id="yellowfever" type="checkbox">
-	<label for="yellowfever"><b>Travellers arriving in Singapore from countries/regions in Africa and South America with Yellow Fever risk</b></label>
+	<label style="background-color: #23537a;" for="yellowfever"><b>Travellers arriving in Singapore from countries/regions in Africa and South America with Yellow Fever risk</b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Click to check if you are required to have a Yellow Fever vaccination certificate</a></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Obtain a Yellow Fever vaccination certificate</a></p>
 </div>
 	
 <input id="VEP" type="checkbox">
-	<label for="VEP"><b>Drivers of foreign-registered vehicles entering by land</b></label>
+	<label style="background-color: #23537a;" for="VEP"><b>Drivers of Foreign-Registered Vehicles Entering by Land</b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Drivers of foreign-registered vehicles must ensure they have a valid Vehicle Entry Permit (VEP) approval email, valid Autopass card and motor insurance. <b>They are not allowed to apply for or update these documents at Singapore's land checkpoints but must do so online on the OneMotoring website:</b></p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Valid Vehicle Entry Permit (VEP) approval email, Autopass card and motor insurance. Those with valid documents need not apply again</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;"><b style="color:red;">Application or insurance/Autopass update services are unavailable at Singapore's land checkpoints.</b> Applications must be made via the OneMotoring website <b>at least two weeks before</b> your intended travel dates (steps below):</p>
 
 <ol style="padding-left:10px; list-style-type:lower-latin;">
 <li style=" padding-left:10px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><b>Apply for VEP/Autopass card (applications only open from 31 March 2022):</b> <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;"><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> <b>></b> Digital Services <b>></b> Apply for VEP / Autopass Card</p></li>
 <li style=" padding-left:10px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><b>Update the foreign-registered car and motorcycle road tax and motor insurance for existing valid Autopass cards:</b> <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;"> <a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> <b>></b> Digital Services <b>></b> Update Road Tax and Insurance Validity for VEP (Foreign Cars and Motorcycles).</p></li>
 </ol>
- <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Travellers are advised to plan at least two weeks ahead of their intended travel dates to allow sufficient time for VEP application and approval.</p>
 </div>
 </body>
 </html>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1C">
-&#9634; &nbsp;&nbsp;<b>C) Monitor Health Status</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
-<p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you had tested positive for COVID-19 <b>between 14 to 90 days before the date of departure for Singapore</b>, use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if you qualify as a recovered traveller. You will be eligible for the recovered traveller protocols, if you can produce a valid COVID-19 positive certificate/proof (definition below):
-</p>
-	
-<table>
-<thead>
-    <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Acceptable proof of recent COVID-19 infection</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
-	Any of the following documents which must be non-handwritten, in English or translated to English:
-	     <ol style="list-style-type:lower-alpha;">
-		     <li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; ">Medical discharge memo issued by the relevant state authority or licensed medical professional; OR</li>
-		       <li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; ">Result of a positive COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a>; OR</li>
-		       <li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; ">Result of a positive Antigen Rapid Test (ART) administered by a trained professional</li>
-	      </ol>
-	      <p style="font-size:18px; margin-top: 10px;line-height:1.35;">The document must contain the traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore), the documentary proof must also reflect the date of infection that falls between 14 to 90 days before the date of departure from Singapore.</p>
-	    </td>
-	  </tr>
-	</tbody>
-	</table>
-	</div>
-	
-	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1D">
-&#9634; &nbsp;&nbsp;<b>D) Pre-trip Declarations</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers are strongly encouraged to complete the online <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) with Electronic Health declaration</a> <b>before departure</b>, up to 72 hours before arrival in Singapore. <b>The acknowledgement email issued upon submission can be shown on boarding or on arrival for smoother document checks.</b> The submission is free of charge and simply involves submission of pre-trip health and travel history details.</p>
-	</div>
+&#9634; &nbsp;&nbsp;<b>C) SG Arrival Card with Electronic Health Declaration </b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Complete the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) with Electronic Health declaration</a> <b>within 3 days before arrival</b>. You are strongly encouraged to <b>complete the declaration before departure</b> as upon completion of your declaration, you will receive an email acknowledgement which you can use for smoother preboarding and immigration clearance.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
+</div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1E">
 &#9634; &nbsp;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT)</b></div>
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">If you are born before 2020 (i.e. above 2 years old) & not a recovered traveller, take any of the following COVID-19 tests within 2 days before departure: </p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style="font-size:18px; line-height:1.35;">PDT is <b style="color:red;">not</b> required if you tested positive for COVID-19 <b>between 14 to 90 days before your date of departure for Singapore</b> - use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if the pre-departure test can be waived, and the documentation required to prove their first infection or recovery.</p>
+<p style="font-size:18px;line-height:1.35; margin-top: 10px;">Otherwise, if you are born before 2020 (i.e. above 2 years old) take any of the following COVID-19 tests within 2 days before departure: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) that is:
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Administered by a trained professional; or</li>
-			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Eligible travellers only]</b> Self-administered Antigen Rapid Test (ART) remotely supervised by an approved ART provider in Singapore. Please refer to <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">MOH’s listing of remote supervised self-swab providers</a> for information on eligible traveller profiles, eligible countries/regions and approved remote ART service providers.</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Eligible travellers only]</b> Self-administered Antigen Rapid Test (ART) remotely supervised by an <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">approved ART provider in Singapore</a>.</li>
 				</ol>
 	</li>
 	</ol>
 	
-<p style="font-size:18px; line-height:1.35;">Ask for a non-handwritten PDT report that is in English (or accompanied by a notarised English Translation) with the following details:</p>
+<p style="font-size:18px; line-height:1.35;margin-top:10px;">Ask for a non-handwritten PDT report that is in English (or accompanied by a notarised English Translation) with the following details:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the COVID-19 test.</li>
@@ -265,7 +243,7 @@ input:checked + label + .content {
 	<table>
   <thead>
     <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Illustrations for when a PDT must be taken:</b></th>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#23537a; color:white;"><b>When Should I Take My PDT:</b></th>
     </tr>
   </thead>
   <tbody>
@@ -283,8 +261,8 @@ input:checked + label + .content {
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634; <b>E) Secure Stay Home Notice (SHN) Accommodation for at least 7 days</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">You will be required to serve a 7-day Stay Home Notice (SHN) upon arrival in Singapore, where you must remain in the SHN accommodation (see Stage 4 for details).</p>
-<p style="line-height:1.35; font-size:18px;">Secure any of the following accommodation for at least 7 days for your SHN:</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">You will be placed on 7-day Stay Home Notice (SHN) upon arrival. During this period, you will remain in your declared SHN accommodation for the full 7 days (see Stage 4 for details).</p>
+<p style="line-height:1.35; font-size:18px; margin-top:10px;">Secure any of the following accommodation for at least 7 days for your SHN:</p>
 <ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;">
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Place of residence;</li> 
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;"><a href="/files/serviced-apartments.pdf" target="_blank">Serviced apartment</a>; or</li>
@@ -293,19 +271,15 @@ input:checked + label + .content {
 	<table>
   <thead>
     <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;">💡 <b><u>Accommodation Tips</u></b></th>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#23537a; color:white;">💡 <b><u>Accommodation Tips</u></b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
 	<p style="font-size:18px;margin-top:10px;line-height:1.35;">Before making a hotel booking, check and ensure that the hotel can accommodate guests serving SHN.</p>
-<p style="line-height:1.35; margin-top:15px; font-size:18px;">If you are serving your SHN at a place of residence, please take ensure that the accommodation allows you to do the following:</p>
-		<ol style="padding-left: 20px; margin-top:20px; list-style-type: lower-roman;">
-<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Remain in isolation for the full 7-day period;</li>
-<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Minimise contact with household members and avoid sharing bathrooms. If this cannot be avoided, all members of the household should:</li>
-</ol>
-<ol style="padding-left: 60px; margin-top:20px; list-style-type: lower-latin;">
+<p style="line-height:1.35; margin-top:15px; font-size:18px;">If you are serving your SHN at a place of residence, remain in isolation for the full 7-day period and minimise contact with household members. This includes the use of personal bathrooms. Take the following precautions, if bathroom sharing is unavoidable:</p>
+<ol style="padding-left: 20px; margin-top:20px; list-style-type: lower-latin;">
 <li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Lower the toilet lid before flushing;</li>
 <li style="font-size:18px; padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Clean and disinfect contact surfaces after each bathroom visit; and</li>
 <li style="font-size:18px; padding-left: 20px; margin-top:5px; margin-bottom:10px; line-height:1.35;">Avoid using the toilet immediately after the SHN-serving member.</li>
@@ -318,8 +292,12 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;  <b>F) Install and Activate TraceTogether</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="line-height:1.35; margin-bottom:10px; font-size:18px;">Install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application.</p>
-	<p style="line-height:1.35; font-size:18px;">Travellers aged 6 or below this year, or are unable to use a mobile device due to a certified disability/special need can obtain a <a href="/health/tt-for-travellers" target="_blank">TraceTogether token</a> after arrival in Singapore.</p>
+	<p style="line-height:1.35; margin-bottom:10px; font-size:18px;">Install and activate <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application using <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-" target="_blank">this guide</a>. Only travellers aged 6 or below this year are exempted from installing TraceTogether.</p>
+	<p style="line-height:1.35; font-size:18px; margin-top: 20px; margin-bottom:10px;">If you encounter issues activating TraceTogether:</p>
+	<ol style="padding-left: 20px; margin-top:10px; list-style-type: decimal;">
+		<li style="font-size:18px; padding-left: 20px; margin-top:20px; margin-bottom:0px; line-height:1.35;">Submit a request for assistance to <a href="support@tracetogether.gov.sg" target="_blank">support@tracetogether.gov.sg</a>; <b>OR</b></li>
+		<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;"><a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674443" target="_blank">Collect your TraceTogether token for a one-time fee of S$13</a></li>
+</ol>
 	</div>
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
@@ -336,7 +314,7 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>A) Immigration Clearance</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes, and provide all documents, including proof of tests, and information required by the immigration officer. </p>
+	 <p style="font-size:18px; margin-top: 10px; margin-bottom: 10px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes, and provide all documents, including proof of tests, and information required by the immigration officer. </p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Upon clearance, an <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> stating the period of stay granted will be issued to foreign short-term visit pass travellers via the email address indicated in the SGAC. Passports will no longer be stamped.
 	</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you are symptomatic on arrival, you may be directed to take a COVID-19 test. Each Antigen Rapid Test (ART) administered will cost S$30, while each COVID-19 Polymerase Chain Reaction Test (PCR Test) will cost S$138.
@@ -360,18 +338,18 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>A) Stay-Home Notice (SHN) Requirements</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">The 7-day Stay-Home Notice (SHN) takes effect immediately upon its issuance. You must remain in your declared SHN accommodation for the period specified in the notice, unless you are: 
+	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">The 7-day Stay-Home Notice (SHN) takes effect immediately upon its issuance. Remain in your declared SHN accommodation for the period specified in the notice, unless you are: 
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Directed by the relevant authority to leave your accommodation; OR</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (PCR Test) at the end of the SHN period.</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Scheduled to take your mandatory SHN-exit COVID-19 Polymerase Chain Reaction Test (PCR Test).</li>
 	</ol>
 	</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You will be scheduled for a mandatory COVID-19 Polymerase Chain Reaction Test (PCR Test) before the end of your Stay-Home Notice (SHN). To avoid queues, pay for your test during your application for Entry Approval. Otherwise, pay for the test using the payment link found in your SHN (sent to your email address) before your appointment. Including GST, each test comes up to S$125.
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To avoid queues, pay for your SHN-exit PCR test during your application for Entry Approval. Otherwise, pay for the test using the payment link found in your SHN (sent to your email address) before your appointment. Including GST, each test comes up to S$125.
 	</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, please contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
 	</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, <b>whichever is later</b>. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked.</p>	
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please refer to the Frequently Asked SHN questions below. (<i>Click "+" for details</i>)</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, <b>whichever is later</b>. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked. Watch these videos for a walkthrough on the <a href="https://youtube.com/watch?v=171l93ldXzg&t=228s" target="_blank">SHN Requirements (English)</a>, <a href="https://youtu.be/300gtMksKrw" target="_blank">SHN Requirements (Mandarin)</a>, <a href="https://youtu.be/TcgBoA0Hrn0" target="_blank">SHN Requirements (Bahasa Indonesia)</a> and the penalties for <a href="https://youtube.com/watch?v=Om-hkGPvHOc&t=2s" target="_blank">SHN Breaches</a>.</p>	
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click "+" for details)</b></p>
 <html>
 
 <head>
@@ -453,19 +431,30 @@ input:checked + label + .content {
 </body>
 </html>
 </div>
-	
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+&#9634; &nbsp;&nbsp;<b>B) Testing Positive for COVID-19</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">If you test positive for COVID-19, <a href="https://www.covid.gov.sg/travellers" target="_blank">adhere to these recovery protocols</a>.</p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">In the event where you are assessed to be ineligible for home or in-situ recovery, you may be conveyed to a suitable COVID-19 care facility. Information on treatment and costs for COVID-19 for travellers can be found on <a href="/health/insurance-and-treatment#treatment" target="_blank">this page</a>.
+</p>
+</div>	
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 5: End of Stay-Home Notice & Stay in Singapore</b></div>
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>A) Abide by Local COVID-19 Safe Management Measures</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">After you have completed your SHN, comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a> while in Singapore. Non-fully vaccinated travellers who are <u>not</u> medically exempted from COVID-19 vaccinations will not be able to enter any vaccination-differentiated settings (e.g. attendance at large scale events, dining restrictions).</p>
-	</div>	
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">You may go about with your activities after completing SHN. However, you should comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>.</p> 
+<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">If you are not medically exempted from COVID-19 vaccination, you will not qualify for entry into any vaccination-differentiated settings (e.g. attendance at large scale events, dining restrictions).</p>
+</div>	
 	
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>B) Fulfil Pass Requirements [Long-Term Pass Holders only]</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Travellers aged 13 and above who hold a long-term pass, e.g. Student’s Pass, Work Pass, <b>must</b> complete the full vaccination regimen within two months of arrival.</p>
-	<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">If you suffer from a medical condition that disallows you from being vaccinated against COVID-19, obtain medical certification within 30 days of your arrival in Singapore to prove your ineligibility for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</p>
-	</div>
+<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Complete the full vaccination regimen <b>within two months of arrival</b> if you are:</p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Aged 13 and above; AND</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Hold a Long-term Pass, e.g. Student’s Pass, Work Pass.</li>
+	</ol>
+<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">By completing the requisite vaccination regimen, you will be eligible for the renewal or extension of your long-term pass. If you suffer from a medical condition that disallows you from being vaccinated against COVID-19, obtain medical certification within 30 days of your arrival in Singapore to prove your ineligibility for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</p>
+</div>

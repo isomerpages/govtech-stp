@@ -5,7 +5,7 @@ third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
 The RGL is a bilaterally negotiated dual-way Safe Travel Lane. Travellers will be able to visit an RGL partner country/region for short-term business and official purposes, subject to approval of the relevant foreign authorities. Travellers seeking entry into Singapore via RGL, should refer to the “<a href="/rgl/overview">Reciprocal Green Lane – Inbound to Singapore</a>”  page instead.
 
-Travellers who leave Singapore via RGL can return to Singapore without the need for any entry approvals. However, they must show their outbound RGL passes/approvals during boarding and at immigration when returning to Singapore. Travellers should note that the <a href="/shn-and-swab-summary">prevailing travel and health control measures</a> will apply on return, depending on the RGL country/region visited.
+Travellers who leave Singapore via RGL can return to Singapore without the need for any entry approvals. However, they must show their outbound RGL passes/approvals during boarding and at immigration when returning to Singapore. Travellers should note that the prevailing travel and health control measures will apply on return, depending on the RGL country/region visited.
 
 Listed below, are resources relevant for outbound RGL trips. For additional departure related information, including travel advisories, travellers should refer to the “<a href="/departing/overview">Departing from Singapore</a>” page. Travellers departing Singapore via RGL should work with their foreign RGL sponsors, i.e. company or government agency, to ensure that they meet the RGL conditions for entry into the receiving country/region.
 

@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="padding: 5px; font-size:16px; line-height:1.5; border-style: solid; border-width: 1px; margin-bottom:10px; background-color:#f5f5f5;"><br>!! Readers who have arrived at this page directly from search engine or are new to the entry requirements imposed by Singapore, should start from the “<a href="/arriving/overview">Travelling to Singapore</a>" page found on this site. The self-help tool found on the page will help travellers identify the most suitable travel lane for their needs. Travellers who fail to comply with entry requirements will be turned away.
 
-<p style="font-size:16px; line-height:1.5; margin-bottom:15px;">Travellers who have left Singapore via RGL and are returning to the country, do not need an entry approval to enter. However, they will be subject to the <a href="/shn-and-swab-summary">prevailing travel and health control measures</a> depending on which RGL country/region they visited.</p>
+<p style="font-size:16px; line-height:1.5; margin-bottom:15px;">Travellers who have left Singapore via RGL and are returning to the country, do not need an entry approval to enter. However, they will be subject to the prevailing travel and health control measures depending on which RGL country/region they visited.</p>
 </div>
 
 ### Reciprocal Green Lane Checklist (Travellers Inbound to Singapore)
@@ -162,4 +162,4 @@ After self-isolation, travellers may go about their activities but <b>must</b>:
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Comply with the latest public health measures, which includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> to facilitate Contact Tracing. For details on the prevailing public health measures, please visit the Ministry of Health <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">website</a>.</li>
 </ol>
 
-To qualify for vaccination-differentiated safe management measures (VDS) in Singapore, travellers will need to show proof of their vaccination status via the TraceTogether application. <a href="/health/vtsg#VDSMM" target="_blank">Click here for more details on VDS</a>.
+To qualify for vaccination-differentiated safe management measures (VDS) in Singapore, travellers will need to show proof of their vaccination status via the TraceTogether application. <a href="https://go.gov.sg/moh-smm" target="_blank">Click here for more details on VDS</a>.

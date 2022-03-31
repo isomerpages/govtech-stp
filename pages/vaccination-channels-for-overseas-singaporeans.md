@@ -3,6 +3,7 @@ title: Vaccination Channels For Overseas Singaporeans
 permalink: /sc-pr/vcos
 ---
 
+
 ### Suspension of Vaccination Channels for Overseas Singaporeans
 
 <p style="font-size:18px; margin-bottom:10px; line-height:1.5;">In view of the improved access to COVID-19 vaccines globally and the recent easing of border measures, Singapore will be suspending the vaccination channels for overseas Singaporeans (OS). OS who had earlier registered their interest to use the channels but have not yet returned to Singapore for the vaccination will have to do so <b>by 31 March 2022</b>.</p>

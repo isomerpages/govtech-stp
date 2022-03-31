@@ -1,7 +1,0 @@
-collections:
-  dcev-lane:
-    output: true
-    order:
-      - death-and-critical-illness-emergency-visit-lane-overview.md
-      - returnees-from-malaysia.md
-      

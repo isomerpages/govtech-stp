@@ -4,7 +4,7 @@ permalink: /pca/requirements-and-process
 description: ""
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Please note that the Vaccinated Travel Framework takes effect <b>for arrivals from 31 March 2022, 2359h (SGT):</b></p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Please note that travellers can use the Vaccinated Travel Framework instead of the PCA:</b></p>
 <ol style="list-style-type: disc; padding-left:20px;">
 	 <li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</b> entering Singapore may refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Vaccinated Travellers</a></li>
 <li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Non-fully vaccinated travellers aged 13 and above</b> may refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">General Travel Category Requirements for Non-Fully Vaccinated Travellers</a></li>
@@ -18,8 +18,6 @@ description: ""
 	 	 <li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;">Be subject to the prevailing health measures including SHN (currently 7-day SHN at a residence or self-sourced accommodation) and COVID-19 tests</li>
 	 </ol>
 </p>
-
-<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should consider using the <a href="/vtl-land/overview" target="_blank">Vaccinated Travel Lane (Land)</a> instead of the PCA, if they wish to have quarantine-free measures on arrival in Singapore or Malaysia. </p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">The checklist below provides a step-by-step guide for reference for travellers and companies wishing to utilise the PCA, split into the following stages:
  <ol style="list-style-type:disc; padding-left:25px;">
@@ -45,7 +43,7 @@ description: ""
 </p>
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><i>*Includes the following MOM-issued work passes: Employment Pass, Entre Pass, Personalised Employment Pass, S Pass, Work Permit, Training Employment Pass, Training Work Permit and Work Holiday Pass. <b>Work Pass in-principle approval holders are ineligible for PCA and should obtain their <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore" target="_blank">entry approvals from MOM.</a></b></i></p>
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><b>Travellers who are fully vaccinated and recently-recovered within 90 days of their last infection</b> will be exempted from all testing and SHN requirements if they are able to provide appropriate documentary proof. Travellers should refer to <a href="/vaccinated-recovered" target="_blank">this page</a> for the list of documentation that travellers should present at arrival immigration to qualify for this exemption. </p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><b>Travellers who are fully vaccinated and recently-recovered within 90 days of their last infection</b> will be exempted from all testing and SHN requirements if they are able to provide appropriate documentary proof. Travellers should use <a href="https://www.checkfirst.gov.sg/c/7f36b15e-3d3d-4b95-a904-7a5de6c6ddfb" target="_blank">this self-help tool</a> to verify if they quality, and determine the documentation required. </p>
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;"><b>Non-fully vaccinated and recently-recovered travellers within 90 days of their last infection</b> will be exempted from pre-departure testing requirements, but will be subjected to all other prevailing border measures. Travellers may present the following documentation to depart for/enter Singapore without a valid Pre-Departure Test (PDT) result:</p>
 <ol style="list-style-type:lower-alpha; padding-left:25px;">
 		 <li style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:18px;">Positive COVID-19 PCR test or professionally-administered ART result between 14 – 90 days before date of departure for Singapore for non-fully vaccinated persons; and </li>
@@ -120,7 +118,7 @@ description: ""
 <p id="stage3a" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9634;  <u><i><b>A) Immigration Clearance</b></i></u></p>
 
 <p style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.5;">Follow the instructions provided by the ground officers and signages on arrival.</p>
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">As part of immigration clearance, travellers may be required to present the same set of documentation listed in <a href="#stage2">Stage 2</a>. Travellers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> overseas should also present their vaccination certificate(s) to the immigration officer, who will facilitate the registration of the traveller’s vaccination status into TraceTogether. This will allow the traveller to qualify for vaccination-differentiated safe management measures (VDS) adopted in Singapore for up to 30 days. </p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">As part of immigration clearance, travellers may be required to present the same set of documentation listed in <a href="#stage2">Stage 2</a>. Travellers who are <a href="/arriving/overview#vaccination" target="_blank">fully vaccinated</a> overseas should also present their vaccination certificate(s) to the immigration officer, who will facilitate the registration of the traveller’s vaccination status into TraceTogether. This will allow the traveller to qualify for vaccination-differentiated safe management measures (VDS) adopted in Singapore for up to 30 days. </p>
 <p style="line-height:1.35;font-size:18px;">If detected to be symptomatic or COVID positive on arrival, travellers may be subjected to additional tests at S$30 (inclusive of GST) per ART or S$138 (inclusive of GST) per PCR test. Officers stationed on the ground will provide the necessary instructions.</p>
 
 <p id="stage3b" style="font-size:18px; margin-top:30px; margin-bottom:0px; line-height:1.4;">&#9634;  <u><i><b>B) Transport to Declared SHN Accommodation</b></i></u></p>
@@ -194,4 +192,4 @@ Travellers may end their SHN upon the receipt of a negative COVID-19 PCR test re
 
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">After self-isolation, travellers may go about their activities but must comply with the latest public health measures. </p>
 
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">To qualify for vaccination-differentiated safe management measures (VDS) in Singapore, travellers will need to show proof of their vaccination status via the TraceTogether application. <a href="/health/vtsg#VDSMM" target="_blank">Click here for more details on VDS</a>. Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which facilitates the identification of close contacts of a positive COVID-19 case.</p>
+<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5;">To qualify for vaccination-differentiated safe management measures (VDS) in Singapore, travellers will need to show proof of their vaccination status via the TraceTogether application. Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which facilitates the identification of close contacts of a positive COVID-19 case.</p>

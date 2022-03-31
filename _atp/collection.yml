@@ -1,7 +1,0 @@
-collections:
-  atp:
-    output: true
-    order:
-      - atp-requirements-process.md
-      - conditions.md
-      - frequently-asked-questions.md

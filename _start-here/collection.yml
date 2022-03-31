@@ -3,5 +3,8 @@ collections:
     output: true
     order:
       - Travelling to Singapore.md
+      - Checklist for Fully Vaccinated Travellers.md
+      - Checklist for non fully vaccinated aged 13 and above.md
+      - Checklist for Non-Fully Vaccinated Travellers Aged 13 and Above.md
       - Departing from Singapore.md
       - Transiting through Singapore.md

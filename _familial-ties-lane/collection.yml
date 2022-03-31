@@ -1,6 +1,0 @@
-collections:
-  familial-ties-lane:
-    output: true
-    order:
-      - FTL Overview.md
-      - frequently-asked-questions.md

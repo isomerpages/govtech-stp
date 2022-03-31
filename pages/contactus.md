@@ -13,10 +13,10 @@ permalink: /contact-us
 
 <p style="line-height:1.35;">The SafeTravel website is designed to provide prospective travellers with the latest information and tools to plan their journey to and from Singapore. Readers who have landed on this page without browsing the rest of this website should begin their journey from the <a href="https://safetravel.ica.gov.sg/" target="_blank">SafeTravel Home Page</a>.</p>
 
-You can find the following forms of commonly requested support on this page:
+Use the links below for quick access to the commonly requested support:
 
 <ol style="list-style-type: decimal; line-height:1.35;">
-	<li style="line-height:1.35;"><a href="#FAQ">Latest Travel Notices and Answers to Top FAQ</a></li> 
+	<li style="line-height:1.35;"><a href="#FAQ">Frequently Asked Questions</a></li> 
 	<li style="line-height:1.35;"><a href="#checker">Application Status Checker</a></li>
 	<li style="line-height:1.35;"><a href="#enquiry">SafeTravel Office Helpline Number and Enquiry Form</a></li>
 </ol>
@@ -25,7 +25,9 @@ You can find the following forms of commonly requested support on this page:
 <div id="FAQ"></div>
 
 
-### 1) Latest Travel Notices and Answers to Top FAQ
+### 1)  Frequently Asked Questions
+
+Summarised below are some of the top questions asked in the past week. If your query is not listed below, it may already be addressed in the <a href="/faq" target="blank">full set of FAQs</a>.
 
 <table>
 <thead>
@@ -36,65 +38,50 @@ You can find the following forms of commonly requested support on this page:
 </thead>
 <tbody>
 		   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading Digitally Verifiable Certificate (DVC) to VTL application portal and Vaccination Check Portal</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/vtl/faq#invalidcode" target="_blank">Click Here</a> for solutions to common QR Code upload errors. Some common mistakes reported include:</p>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading Digitally Verifiable Certificate (DVC) to the Vaccination Check Portal (VCP) or SG Arrival Card (SGAC)</b> </td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/faq#vaxcert" target="_blank">Click Here</a> for instructions to troubleshoot common errors. 
 </p>
-<ol style="padding-left: 20px; list-style-type: disc;"><li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Uploading domestic vaccination certificate instead of international vaccination certificate issued in India or Thailand</li>
-	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Upload failure for documents containing more than one QR code. In such a case, extract/crop the QR code of the latest dose and only upload that QR code.</li></ol></td>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Even if your upload fails, you may continue to enter Singapore if you hold a valid vaccination certificate that is in English, or accompanied with notarised English Translation, with the following details:
+</p>
+<ol style="padding-left: 20px; list-style-type: lower-roman;"><li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Name (per travel document used for entry)</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Country of vaccination</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
+	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Vaccination date(s)</li>
+	   </ol>
+	   <p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">However, if you continue to wish to resolve your QR code uploading issue, submit the relevant screenshots of the errors encountered as well as your vaccination certificate details using <a href="https://go.gov.sg/sto-enquiry" target="_bank">this form</a>.</p>			   
+			   </td>
  </tr>
 			   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Vaccinated Travel Framework</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">The Vaccinated Travel Framework (VTF) will commence for arrivals <b>from 31 March 2022, 2359H</b>. If you are entering before this date/time, you are ineligible for the entry and travel protocols accorded under VTF.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Visit the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for full details on entry and travel protocols. </p>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Travel for recently-recovered travellers</b> </td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore do not need to take a pre-departure test. No appeal is required.Refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel – Fully Vaccinated Traveller Checklist</a> for details.
+</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Non-fully vaccinated travellers who produce credible proof of having contracted COVID-19 between 14 and 90 days before departure for Singapore do not need to take a pre-departure test. No appeal is required. Refer to the General Travel – <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-Fully Vaccinated Traveller Checklist</a> for details.
+</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Alternatively, use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> for quick answers and to check infection and departure dates. 
+</p>
 </td>
  </tr>
-	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Travel for recently-recovered travellers</b></td>
-		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">Travellers who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore will be waived of all testing and Stay-Home Notice requirements. Refer to the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Protocol</a> for details.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">Non-fully vaccinated travellers who produce credible proof of having contracted COVID-19 between 14 and 90 days before departure for Singapore will be exempted from their pre-departure tests. No appeal is required.</p>
-				 <p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">This <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> can help advise if you qualify for any pre-departure test or border measure exemptions resulting from your vaccinated or recovered status.</p>
-</td>
-  </tr>	
   </tbody>
   </table>
-
-<p style="line-height:1.35;"> Travelers can also check the <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> for other frequently asked questions and use the <a href="/arriving/overview#selfhelptool" target="_blank">self-help tool</a> for determining which Safe Travel Lanes to use to enter Singapore.</p>
-
 
 <div id="checker"></div>
 
 
 ### 2) Application Status Checker
 
-<p style="line-height:1.35;">You can use the STO Application Status Checker below to check for the status of your entry approval application if you have previously applied using the Safe Travel Portal. However, you will not be able to retrieve your entry approval letters from this checker. All entry approval letters would have been sent to you via email upon completion of your application. If you did not receive the approval letter, you can <a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">write to the Safe Travel Office for assistance</a>.</p>
+<p style=" line-height:1.35; margin-top:10px; margin-bottom:20px;">Use the <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">STO Application Status Checker</a> to check on the status of any application you had submitted via the STO portal. This includes any online entry applications submitted by non-fully vaccinated travellers, as well as the use of the Vaccination Check Portal.
+</p>
 
-<div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:20px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank"><b>Application status checker</b></a></div>
+<!--<div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:20px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank"><b>Application status checker</b></a></div>-->
 
-<p style="line-height:1.35;">For reference, the list of lanes/passes covered by the checker tool are the following: </p>
-
-<table style="margin-bottom:0px;">
-  <tr>
-		<td>
-			<ul>
-				<li style="line-height:1.35;">Air Travel Pass</li>
-				<li style="line-height:1.35;">Familial Ties Lane</li>
-				<li style="line-height:1.35;">Periodic Commuting Arrangement</li>
-				<li style="line-height:1.35;">Reciprocal Green Lane</li>
-				<li style="line-height:1.35;">Student's Pass Holder Lane</li>
+<p style=" line-height:1.35; margin-top:10px; margin-bottom:15px;">Do not use the checker if you are non-fully vaccinated and a: </p>
+<ul>
+				<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Short-term visitor who had sought entry on compassionate grounds; OR</li>
+				<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Long-term pass holder who had sought entry permission directly with the Ministry of Education (MOE) and Ministry of Manpower (MOM).</li>
 			</ul>
-		</td>
-		    <td>
-					<ul>
-				<li style="line-height:1.35;">Vaccinated Travel Lane (Air)</li>
-				<li style="line-height:1.35;">Vaccinated Travel Lane (Land)</li>
-				<li style="line-height:1.35;">Vaccinated Travel Lane (Sea)</li>
-				<li style="line-height:1.35;">Work Pass Holder General Lane*</li>
-			</ul>
-		</td>
-  </tr>
-	</table>
 
-<p style="margin-top:0px; line-height:1.35;"><i>*Please contact MOM for assistance if an entry application was made directly with MOM.</i></p>
+<p style=" line-height:1.35; margin-top:20px; margin-bottom:10px;">If you are any of the above-mentioned travellers, your entry approval letters will be sent to you via email. If you did not receive the approval letter, <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office for assistance.</a></p>
 
 
 <div id="enquiry"></div>
@@ -102,7 +89,7 @@ You can find the following forms of commonly requested support on this page:
 
 ### 3) SafeTravel Office Helpline and Query Form
 
-<p style="line-height:1.35;">You can contact the SafeTravel Office for assistance you have application issues or are unable to find the relevant information on the SafeTravel website (including <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> and notices above).</p>
+<p style="line-height:1.35;">Contact the SafeTravel Office for assistance if you have application issues or are unable to find the relevant information on the SafeTravel website (including <a href="/faq" target="_blank">common FAQs</a> and notices above).</p>
 
 <p style="line-height:1.35;">To assist you better, please refer to the table below for the most appropriate support channel.</p>
 
@@ -115,7 +102,7 @@ You can find the following forms of commonly requested support on this page:
 </thead>
 <tbody>
 	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;  line-height:1.35; ">Call SafeTravel Enquiry Helpline Number: 
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;  line-height:1.35; ">Call SafeTravel Enquiry Helpline Number:
 		<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><b>+65 6812 5555*</b></p> 
 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i>(* Regular call charges apply)</i></p>
 </td>
@@ -123,22 +110,20 @@ You can find the following forms of commonly requested support on this page:
 <ol style="list-style-type:disc; margin-top: 0px; ">
 <li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">COVID-19 Test Scheduling Issues</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
-<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Clarification on <a href="/arriving/overview#lanelist" target="_blank">Lane-specific Entry Requirements</a></li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Clarification on <a href="/arriving/overview#lanelist" target="_blank">Entry Requirements</a></li>
 				 </ol>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i><b>Note</b>: For Vaccinated Travel Pass (VTP) QR code uploading issues, write in via the <a href="https://go.gov.sg/sto-enquiry" target="_blank">SafeTravel enquiry form</a> instead and upload the relevant error screenshots, passport details and vaccination certificate as proof. The phone helpline will not be able to process these documents on the spot.</i></p>
 </td>
   </tr>
 	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;  line-height:1.35; "><a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">SafeTravel Enquiry Form</a> with supporting documents </td>
+  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;  line-height:1.35; "><a href="https://go.gov.sg/sto-enquiry" target="_blank">SafeTravel Enquiry Form</a> with supporting documents </td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px;">
-<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Vaccinated Travel Pass QR Code uploading error*</li>
-		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Submission of proof of vaccination as part of the Vaccinated Travel Pass (Air) application for travellers arriving from the United States</li>
-	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals for <a href="/dcev/overview" target="_blank">Death and Critical Illness Emergency Visit Lane</a> </li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">QR Code uploading error</li>
+		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals for short-term non-fully vaccinated travellers 
+</li>
 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Refund or fee waiver requests</li>
 		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Difficulties getting a COVID-19 test before departure</li>
 				 </ol>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i><b>*Note</b>: For all errors with QR code uploading, please upload the relevant error screenshots, passport details and vaccination certificates in the enquiry form for quicker processing.</i></p>
 </td>
   </tr>	
 	</tbody>

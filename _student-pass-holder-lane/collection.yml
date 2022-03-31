@@ -1,8 +1,0 @@
-collections:
-  student-pass-holder-lane:
-    output: true
-    order:
-      - Student Pass Holder Lane Overview.md
-      - entry-application-portal-user-guide.md
-      - frequently-asked-questions.md
-      - vaccination-requirements-for-entry.md
