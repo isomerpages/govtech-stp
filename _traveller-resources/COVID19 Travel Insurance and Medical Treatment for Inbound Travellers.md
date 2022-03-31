@@ -20,18 +20,6 @@ Short-term visitors who are fully vaccinated, and non-fully vaccinated children 
 
 Visitors can purchase travel insurance prior to travelling to Singapore, from <b>any insurer providing such services in their country/region</b>. Travellers may also consider Singapore-based insurers* offering such services if it suits their needs:
 
-
-
-
-
-Short-term visitors who are not fully vaccinated and are required to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore should ensure that their insurance has a minimum coverage of S$30,000 (based on COVID-19 bill sizes at private hospitals). [<b>Note:</b> From 1 April 2022, short-term visitors who are fully vaccinated are not required to have travel insurance for their COVID-19 related medical treatment and hospitalisation costs in Singapore for entry into Singapore.]
-
-The travel insurance will help with the costs of their medical treatment in Singapore. Please ensure sufficient coverage as travellers will have to pay for their own treatment costs beyond their insurance coverage.
-
-Visitors should purchase such travel insurance prior to travelling to Singapore, from <b>any insurer providing such services in their country/region</b>.
-
-Travellers may also consider Singapore-based insurers* offering such services if it suits their needs:
-
 <table>
 <thead>
 <tr>
@@ -62,9 +50,9 @@ Travellers may also consider Singapore-based insurers* offering such services if
 
 #### Insurance for Long-Term Pass Holders
 
-Employers are no longer required to buy COVID-19 travel insurance for all (new and existing) Work Permit, Training Work Permit and S Pass holders, before they enter Singapore. For more information, please refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">MOM's website</a>.
+Employers are no longer required to buy COVID-19 travel insurance for all (new and existing) Work Permit, Training Work Permit and S Pass holders, before they enter Singapore. For more information please refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">MOM's website</a>.
 
-All other pass holders are responsible for all costs associated with COVID-19 related treatment and recovery (see <a href="#cost">Section 3</a>) and are <b>encouraged</b> to buy medical insurance with the appropriate coverage <b>before entering Singapore</b> to ensure sufficient coverage should they develop COVID-19 symptoms or test positive for COVID-19 in Singapore.
+All other pass holders are responsible for all costs associated with COVID-19 related treatment an recovery (see Section 3) and are encouraged to buy medical insurance with the appropriate coverage <b>before entering Singapore</b>, and should ensure sufficient coverage should they develop COVID-19 symptoms or test positive for COVID-19 in Singapore. 
 
 
 <div id="treatment"></div>
