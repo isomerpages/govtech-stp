@@ -93,7 +93,7 @@ input:checked + label + .content {
 </div>
 	
 <input id="LTPHabove18" type="checkbox">
-	<label style="background-color: #455663" for="LTPHabove18"><b>Long-term Pass Holders aged 18 and above who are medically ineligible for vaccines</b></label>
+	<label style="background-color: #455663;" for="LTPHabove18"><b>Long-term Pass Holders aged 18 and above who are medically ineligible for vaccines</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate Family Members*</u></b></p>
 	<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><i>*Eligibility criteria for family members explained in the application form – can include family members who are short term visitors</i></p>
@@ -105,7 +105,7 @@ input:checked + label + .content {
 </div>
 	
 <input id="STVs-compassionate" type="checkbox">
-	<label for="STVs-compassionate"><b>Short-term visitors entering for exceptional reasons (e.g. attending death or critical illness of family)</b></label>
+	<label style="background-color:#820000;" for="STVs-compassionate"><b>Short-term visitors entering for exceptional reasons (e.g. attending death or critical illness of family)</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Applications must be submitted using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>, with the appropriate supporting documents (e.g. doctor’s memo, death certificate) to facilitate processing.</p>
 	<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Emergency cases will be prioritised for reply. All other cases will take <b>around 3 working days</b> to process.</p>
