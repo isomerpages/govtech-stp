@@ -144,7 +144,7 @@ input:checked + label + .content {
 </p>
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.
 </p>
- </div>
+</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT)</b></div>
 
@@ -172,7 +172,7 @@ input:checked + label + .content {
 				<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the COVID-19 test.</li>
 			</ol>
 			</p>
-	<table>
+<table>
   <thead>
     <tr>
      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>When Should I take my PDT:</b></th>
@@ -189,7 +189,7 @@ input:checked + label + .content {
     </tr>
 		</tbody>
 	</table>
-	</div>
+</div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>E) Install and Activate TraceTogether</b></div>
 
@@ -200,8 +200,7 @@ input:checked + label + .content {
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674443" target="_blank">Collect a TraceTogether token after arrival for a one-time fee of S$13</a></li>
 	</ol>
 	</p>
-	
-	</div>
+</div>
 
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
 
