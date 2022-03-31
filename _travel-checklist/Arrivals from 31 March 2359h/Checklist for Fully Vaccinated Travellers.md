@@ -11,17 +11,33 @@ third_nav_title: Arrivals from 31 March 2359h
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><a href="/health/vtsg" target="_blank">Fully vaccinated against COVID-19</a>; OR</li>
 			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Aged 12 and below (i.e. born in or after 2010) and not fully vaccinated</li>
 	</ol>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Travellers transiting in Singapore to another destination without clearing immigration should refer to the “<a href="/transit/overview" target="_blank">Transiting through Singapore</a>” page for information. If this checklist does not apply to you, return to the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for the entry requirements most relevant to you.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">If you do not meet the above criteria or are not sure on the definition of “fully vaccinated”, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page to determine the entry requirements most relevant to you. Travellers transiting in Singapore to another destination without clearing immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. </p>
 			<p style="font-size:18px; margin-top:10px; margin-bottom:10px;line-height:1.3;">Readers referencing this checklist can indicate “☑” in the boxes (&#9634;) for any completed activities.</p>
 	</div>
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
+	
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"></p>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp; <b>A) Obtain Additional Approvals and Travel-Related Documents (if necessary)</b></div>
+<div style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>A) Ensure Vaccination Documentation is in Order</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Additional travel documents are required for travellers listed in the table below for entry into Singapore. If you are not any of the traveller types listed below, you can enter Singapore without these additional documents, but are reminded to ensure that your passport is valid for at least 6 months.</p>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>Traveller Type and Application/Resource links [Click on ‘+’ below to expand]</b></p>	
-<p style=" font-size:16px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Please refer to the requirements for all traveller types that apply. E.g. Long Term Pass holders entering by foreign-registered private vehicle via land should refer to both ‘Long-term pass and in-principle approval holders’ and ‘Drivers of foreign-registered vehicles entering by land’  from the list below.)</p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;">If you have a recognised <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally Verifiable Vaccination Certificate (DVC)</a>, use the Vaccination Check Portal (VCP) to verify that your DVC is recognised by the Singapore authorities. You will receive a vaccination acceptance letter if the verification is successful, which you can use for boarding and immigration checks. If you are unable to get your DVC verified, troubleshoot your submission with the <a href="/faq#vaxcert" target="_blank">vaccination certificate FAQ</a>. If still faced with uploading issues, refer to the instructions below for travellers with non-DVCs.
+</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you do not have a DVC, or have had difficulties verifying your DVC on VCP, prepare a Vaccination Certificate (including certificate on a vaccination app) that is in English, or accompanied with notarised English Translation, with the following details:
+	<ol style="padding-left:25px; list-style-type:disc;">
+		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Name (per travel document used for entry)</li>
+			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
+		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Country of vaccination</li>
+		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
+		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Vaccination date(s)</li>
+	</ol>
+</p>
+  </div>
+  
+ <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp; <b>B) Obtain Approvals and Prepare Travel-Related Documents</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"Prepare the travel documents below, if required, and ensure that your passport is valid for at least 6 months. Entries for non-Citizens or Permanent Residents can be denied if the requisite documents are not produced during pre-boarding or immigration clearance.</p>
+<p style=" font-size:16px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
 	
 	
 <html>
@@ -119,34 +135,8 @@ input:checked + label + .content {
 </ol>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers are advised to plan at least two weeks ahead of their intended travel dates to allow sufficient time for VEP application and approval</p>	
 </div>
-</body>
-	
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"></p>
+</body> 
 
-<div style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Monitor Health Status</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you had tested positive for COVID-19 <b>between 7 to 90 days before your date of departure for Singapore</b>, use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if you qualify for entry as a Vaccinated-Recovered Traveller. To qualify for the Vaccinated-Recovered traveller protocol (VR Protocol), you must produce a valid COVID-19 positive certificate/proof (definition below). If you qualify for VR Protocol, please refer to the <a href="/vaccinated-recovered" target="_blank">VR Protocol Checklist</a> for the admin/entry process.</p>
-	<table>
-  <thead>
-    <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Acceptable proof of recent COVID-19 infection</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;">Any of the following documents which must be non-handwritten, in English or translated to English:</p>
-<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Medical discharge memo issued by the relevant state authority or licensed medical professional; OR</li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Result of a positive COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a>; OR</li>
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Result of a positive Antigen Rapid Test (ART) administered by a trained professional</li>
-				</ol>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;">The document must contain the traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore), the documentary proof must also reflect the date of infection that falls between 7 to 90 days before the date of departure from Singapore.</p>
-</td>
-    </tr>
-		</tbody>
-	</table>
-  </div>
 
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>C) Pre-trip Declarations and Vaccination Checks</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
