@@ -265,7 +265,7 @@ For employees who are concurrently an LOC and ICA-issued Long-Term Visit Pass ho
 
 #### 2. I run a domestic helper agency. Can I apply for a PCA for the domestic helpers on behalf of my clients?
 
-No. Domestic helpers are only permitted to enter Singapore via the [Work Pass Holder General Lane (Helper/CN)](/wphl/overview).
+No.
 
 #### 3. I must send an employee to Malaysia for work/business purposes. Do I apply for a PCA pass using the SafeTravel application portal?
 
@@ -286,28 +286,6 @@ Employees who fail to satisfy conditions (i) or (ii) above, e.g. Long-Term Visit
 #### 5. My employee, who has been approved to enter Singapore under the PCA scheme, wishes to bring his/her family to Singapore. Can I sponsor a PCA application for the family member(s) of the said employee? They (family members) presently hold a Dependant’s Pass/Long-Term Visit Pass.
 
 No. The PCA scheme facilitates travel <u>strictly</u> for a work or business purpose.
-
-Approved PCA travellers whose non-Singapore Citizen/Singapore Permanent Resident family members are keen to enter Singapore must apply for Entry Approval under the following schemes (below):
-
-<table>
-<tr>
-<th style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Prospective travellers who are:</th>
-<th style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Agency</th>
-</tr>
-<tr>
-<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Holders of the Ministry of Manpower issued:
-<ul>
-<li style="font-size:16px;">Dependents Pass</li>
-<li style="font-size:16px;">Long-Term Visit Pass</li>
-</ul>
-</td>
-<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
-</tr>
-<tr>
-<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Foreigners with familial ties to a Singapore Citizen/ Singapore Permanent Resident</td>
-<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/overview">Singapore Citizen/Permanent Resident Familial Ties Lane</a></td>
-</tr>
-</table>
 
 ##### Click here to go to the [top](#top).
 
