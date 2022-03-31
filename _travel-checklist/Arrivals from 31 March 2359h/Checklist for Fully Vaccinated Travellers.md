@@ -277,7 +277,7 @@ input:checked + label + .content {
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
 	Sinovac/Sinopharm vaccines</td>
-	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Third dose: Around 3 months from your second dose <br><br> Booster Dose: Around 3 Months from your third dose</td>
+	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Third dose: Around 3 months from your second dose <br><br> Booster dose: Around 3 Months from your third dose</td>
 	    	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">120 days after your second dose if you have not taken a third dose <br><br> 270 days from your third dose if you have not taken a booster</td>
     </tr>
 	    <tr>
