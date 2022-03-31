@@ -1,5 +1,5 @@
 ---
-title: Accepted COVID-19 Vaccinations and Vaccination Certificates
+title: Accepted COVID-19 Vaccinations for Travel to Singapore
 permalink: /health/vtsg
 description: ""
 ---
