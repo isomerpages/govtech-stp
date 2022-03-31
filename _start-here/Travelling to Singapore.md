@@ -129,7 +129,7 @@ Click here to return to the <a href="#top">top</a>.
 					<p style="margin-top:20px; line-height:1.35;font-size:16px;">The above is unapplicable to travellers taking Land routes</p>
 					<p style="margin-top:20px; line-height:1.35;font-size:16px;">Detailed requirements available in the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully Vaccinated Traveller’s checklist</a></p>
 			</td>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><ul style="line-height:1.35;">
+				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><ul style="line-height:1.35; list-style-type: decimal;">
 					<li style="line-height:1.35; font-size:16px;">Any of the following COVID-19 test, within 2 days before departure for SG:
 					<ul style="list-style-type: lower-roman; line-height:1.35;">
 						<li style="line-height:1.35; font-size:16px;">COVID-19 Polymerase Chain Reaction Test (PCR Test)</li>
