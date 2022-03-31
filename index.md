@@ -14,7 +14,7 @@ notification: <h6 style="text-align:left;"><!--Scheduled maintenance will be
   services offered by commercial entities who claim to provide assistance to
   travellers to fill up ICA's free <a
   href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card (SGAC)
-  e-Service</a> for a fee.                            </h6>
+  e-Service</a> for a fee.                             </h6>
 sections:
   - hero:
       title: <h3 style="font-size:30px; font-weight:bold; font-family:Lato,sans-serif; letter-spacing:0; line-height:1.35em; color:#333; margin-bottom:-50px; margin-top:-50px;">Singapore has launched a COVID-19 Vaccinated Travel Framework to facilitate the reopening of borders</h3>
