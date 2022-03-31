@@ -53,58 +53,36 @@ Summarised below are some of the top questions asked in the past week. If your q
 			   </td>
  </tr>
 			   <tr>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Vaccinated Travel Framework</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">The Vaccinated Travel Framework (VTF) will commence for arrivals <b>from 31 March 2022, 2359H</b>. If you are entering before this date/time, you are ineligible for the entry and travel protocols accorded under VTF.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Visit the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for full details on entry and travel protocols. </p>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Travel for recently-recovered travellers</b> </td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore do not need to take a pre-departure test. No appeal is required.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel – Fully Vaccinated Traveller Checklist</a> for details.
+</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Non-fully vaccinated travellers who produce credible proof of having contracted COVID-19 between 14 and 90 days before departure for Singapore do not need to take a pre-departure test. No appeal is required. Refer to the General Travel – <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-Fully Vaccinated Traveller Checklist</a> for details.
+</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Alternatively, use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> for quick answers and to check infection and departure dates. 
+</p>
 </td>
  </tr>
-	 <tr>
-  <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Travel for recently-recovered travellers</b></td>
-		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">Travellers who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore will be waived of all testing and Stay-Home Notice requirements. Refer to the <a href="/vaccinated-recovered" target="_blank">Vaccinated-Recovered Protocol</a> for details.</p>
-<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">Non-fully vaccinated travellers who produce credible proof of having contracted COVID-19 between 14 and 90 days before departure for Singapore will be exempted from their pre-departure tests. No appeal is required.</p>
-				 <p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:20px;">This <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> can help advise if you qualify for any pre-departure test or border measure exemptions resulting from your vaccinated or recovered status.</p>
-</td>
-  </tr>	
   </tbody>
   </table>
-
-<p style="line-height:1.35;"> Travelers can also check the <a href="https://safetravel.ica.gov.sg/faq" target="_blank">common FAQs</a> for other frequently asked questions and use the <a href="/arriving/overview#selfhelptool" target="_blank">self-help tool</a> for determining which Safe Travel Lanes to use to enter Singapore.</p>
-
 
 <div id="checker"></div>
 
 
 ### 2) Application Status Checker
 
-<p style="line-height:1.35;">You can use the STO Application Status Checker below to check for the status of your entry approval application if you have previously applied using the Safe Travel Portal. However, you will not be able to retrieve your entry approval letters from this checker. All entry approval letters would have been sent to you via email upon completion of your application. If you did not receive the approval letter, you can <a href="https://form.gov.sg/60e693e777fd6b00111885d5" target="_blank">write to the Safe Travel Office for assistance</a>.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Use the <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">STO Application Status Checker</a> to check on the status of any application you had submitted via the STO portal. This includes any online entry applications submitted by non-fully vaccinated travellers, as well as the use of the Vaccination Check Portal.
+</p>
 
-<div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:20px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank"><b>Application status checker</b></a></div>
+<!--<div style="padding:10px 20px 10px; 20px; vertical-align:middle; text-align:center;  margin-bottom:20px; font-size:20px; line-height:1.0; background-color:#E8E8E8; border-style: solid; border-width: 1px;"><a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank"><b>Application status checker</b></a></div>-->
 
-<p style="line-height:1.35;">For reference, the list of lanes/passes covered by the checker tool are the following: </p>
-
-<table style="margin-bottom:0px;">
-  <tr>
-		<td>
-			<ul>
-				<li style="line-height:1.35;">Air Travel Pass</li>
-				<li style="line-height:1.35;">Familial Ties Lane</li>
-				<li style="line-height:1.35;">Periodic Commuting Arrangement</li>
-				<li style="line-height:1.35;">Reciprocal Green Lane</li>
-				<li style="line-height:1.35;">Student's Pass Holder Lane</li>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Do not use the checker if you are non-fully vaccinated and a: </p>
+<ul>
+				<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Short-term visitor who had sought entry on compassionate grounds; OR</li>
+				<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Long-term pass holder who had sought entry permission directly with the Ministry of Education (MOE) and Ministry of Manpower (MOM).</li>
 			</ul>
-		</td>
-		    <td>
-					<ul>
-				<li style="line-height:1.35;">Vaccinated Travel Lane (Air)</li>
-				<li style="line-height:1.35;">Vaccinated Travel Lane (Land)</li>
-				<li style="line-height:1.35;">Vaccinated Travel Lane (Sea)</li>
-				<li style="line-height:1.35;">Work Pass Holder General Lane*</li>
-			</ul>
-		</td>
-  </tr>
-	</table>
 
-<p style="margin-top:0px; line-height:1.35;"><i>*Please contact MOM for assistance if an entry application was made directly with MOM.</i></p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">If you are any of the above-mentioned travellers, your entry approval letters will be sent to you via email. If you did not receive the approval letter, write to the Safe Travel Office for assistance.</p>
 
 
 <div id="enquiry"></div>
