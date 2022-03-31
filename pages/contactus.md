@@ -39,7 +39,7 @@ Summarised below are some of the top questions asked in the past week. If your q
 <tbody>
 		   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading Digitally Verifiable Certificate (DVC) to the Vaccination Check Portal (VCP) or SG Arrival Card (SGAC)</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/vtl/faq#invalidcode" target="_blank">Click Here</a> for instructions to troubleshoot common errors. 
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/faq#vaxcert" target="_blank">Click Here</a> for instructions to troubleshoot common errors. 
 </p>
 <p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Even if your upload fails, you may continue to enter Singapore if you hold a valid vaccination certificate that is in English, or accompanied with notarised English Translation, with the following details:
 </p>
