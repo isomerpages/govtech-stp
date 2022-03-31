@@ -114,7 +114,7 @@ Click here to return to the <a href="#top">top</a>.
 		</tr>
 		<tr>
 		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>Fully Vaccinated Traveller and Travellers Aged 12 and Below</b></th>
-			<th colspan="2" style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Non-fully Vaccinated Traveller</b></th>
+			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Non-fully Vaccinated Traveller</b></th>
 		</tr>
 	</thead>
 	<tbody>
