@@ -82,7 +82,7 @@ Summarised below are some of the top questions asked in the past week. If your q
 				<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Long-term pass holder who had sought entry permission directly with the Ministry of Education (MOE) and Ministry of Manpower (MOM).</li>
 			</ul>
 
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">If you are any of the above-mentioned travellers, your entry approval letters will be sent to you via email. If you did not receive the approval letter, write to the Safe Travel Office for assistance.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">If you are any of the above-mentioned travellers, your entry approval letters will be sent to you via email. If you did not receive the approval letter, <a href="https://go.gov.sg/sto-enquiry" target="_blank">write to the Safe Travel Office for assistance.</a></p>
 
 
 <div id="enquiry"></div>
