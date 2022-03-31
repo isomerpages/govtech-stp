@@ -150,8 +150,8 @@ Click here to return to the <a href="#top">top</a>.
 <table>
 	<thead>
 		<tr>
-		<th rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>Restricted Category Countries/Regions</b></th>
-			<th colspan="2" style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Summary of Travel Requirements</b></th>
+		<th rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:100px;"><b>Restricted Category Countries/Regions</b></th>
+			<th colspan="2" style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center"><b>Summary of Travel Requirements</b></th>
 		</tr>
 		<tr>
 		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>All Travellers Regardless of Vaccination Status</b></th>
@@ -178,28 +178,36 @@ Click here to return to the <a href="#top">top</a>.
 ---
 
 
-
-
-### 4) Air/Sea Crew and Pleasure Craft Owners
+### 4) Entry for Air/Sea Crew and Pleasure Craft Owners
 
 <div id="crew"></div>
 
 <b><u>Air Crew</u></b>
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Arriving air crew members are not required to apply for entry approval to enter Singapore via Safe Travel Lanes. Flight operators and air crew should instead refer to the <a href="https://www.caas.gov.sg/legislation-regulations/covid-19-publications" target="_blank">latest circulars and directives</a> issued by the Civil Aviation Authority of Singapore concerning border and health control measures.</p>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Arriving air crew members are not required to apply for entry approval to enter Singapore. Flight operators and air crew should instead refer to the <a href="https://www.caas.gov.sg/legislation-regulations/covid-19-publications" target="_blank">latest circulars and directives</a> issued by the Civil Aviation Authority of Singapore concerning border and health control measures.</p>
 
 <b><u>Sea Crew & Pleasure Craft Owners</u></b>
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Sea Crew and Pleasure Craft Owners should visit the MPA website for information on the <a href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change" target="_blank"> application of crew changes under various circumstances</a>, and refer to <a href="https://www.mpa.gov.sg/web/portal/home/maritime-singapore/what-maritime-singapore-offers/covid-19_for_maritime_community" target="_blank">MPA’s latest circulars and notices</a>.</p>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Under the Vaccinated Travel Framework, fully vaccinated foreign Sea Crew and Pleasure Craft owners can enter Singapore without submitting an undertaking to MPA or ICA. <b>If you are non-fully vaccinated</b>, you will continue to:</p>
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Applications for the following matters can be made via <a href="https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info" target="_blank">ICA’s CREW system</a>:</p>
+<ol style="line-height:1.35;">
+	<li style="line-height:1.35;">Submit to MPA an undertaking via <a href="https://transact.mpa.gov.sg/Crews" target="_blank">this link</a>, for having:
+	<ol style="line-height:1.35; list-style-type:lower-alpha;">
+		<li style="line-height:1.35;">Taken a pre-departure test within 2 days before arrival in Singapore; and</li>
+		<li style="line-height:1.35;">Completed quarantine in your home country for at least 7 days before arrival.</li>
+		</ol>
+	</li>
+	<li style="line-height:1.35;">Submit the following types of applications to ICA via <a href="https://digitalport.mpa.gov.sg/" target="_blank">digitalPORT@SG</a>:
+	<ol style="line-height:1.35; list-style-type:disc;">
+		<li style="line-height:1.35;">Arrival or departure immigration clearance of vessel and crew</li>
+		<li style="line-height:1.35;">Crew sign-on or sign-off</li>
+		<li style="line-height:1.35;">Transfer of crew from one vessel to another</li>
+		<li style="line-height:1.35;">Extension of stay of crew</li>
+		</ol>
+	</li>
+</ol>
 
-<ul style="line-height:1.35;">
-	<li style="line-height:1.35;">Arrival or departure immigration clearance of vessel</li>
-	<li style="line-height:1.35;">Crew sign-on or sign-off</li>
-	<li style="line-height:1.35;">Transfer of crew from one vessel to another</li>
-	<li style="line-height:1.35;">Extension of stay of crew</li>
-</ul>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;"><a href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/circulars-and-notices" target="_blank">Click here</a> for the latest Port Marine Circulars/Notices. For further information or assistance, write to: <a href="mailto:crew_change@mpa.gov.sg">crew_change@mpa.gov.sg</a></p>
 
 ---
 
