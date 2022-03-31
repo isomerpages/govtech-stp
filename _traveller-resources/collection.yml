@@ -1,6 +1,0 @@
-collections:
-  traveller-resources:
-    output: true
-    order:
-      - Info on Stay Home Notice/.keep
-      - covid-19-tests-for-travel-to-singapore.md
