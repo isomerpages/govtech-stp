@@ -245,12 +245,12 @@ input:checked + label + .content {
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
-	A Construction, Marine Shipyard or Process Sector (CMP worker) on Work Permit, S Pass or In-Principle Approval holder of these 3 passes</td>
+	Worker in Construction, Marine Shipyard or Process Sector (CMP worker) on Work Permit, Training Work Permit, S PAss or In-Principle Approval holder of these 3 passes</td>
 	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Within 7 days of arrival</b></td>
     </tr>
 	    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
-	Staying in Singapore for more than 30 days (including all Long-Term Pass Holders)</td>
+	Staying in Singapore for more than 30 days (including all Long-Term Pass Holders not mentioned above)</td>
 	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><b>Within 30 days of arrival</b></td>
     </tr>
 </tbody>
