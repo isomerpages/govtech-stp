@@ -33,7 +33,7 @@ Currently, Brunei Darussalam and selected regions in Mainland China (i.e. Chongq
 </tbody>
 </table>-->
 
-<!--If not, an overview of the RGL requirements can be found below. --> <!--For the list of RGLs that have been suspended, see the Annex for more details.-->
+<!--If not, an overview of the RGL requirements can be found below. --> For the list of RGLs that have been suspended, see the Annex for more details.
 
 <table>
 <thead>
@@ -151,21 +151,21 @@ See Annex for partner countries/regions where RGL has been suspended.
 </tbody>
 </table>
 <br><br>
-<!--<u><b>Annex: RGL Suspended Countries/Regions</b></u>-->
-<!--<table>
+<u><b>Annex: RGL Suspended Countries/Regions</b></u>
+<table>
 <thead>
 <tr>
 <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Suspended RGLs</b></th>
-<!--<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Alternative Entry Lanes</b>
-</th>-->
+<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Alternative Entry Lanes</b>
+</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="/images/G.png" width="80" height="20">
 </td>
-<!--<td rowspan="2" style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a>
-</td>-->
+<td rowspan="5" style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;">Return to the “<a href="/arriving/overview">Travelling to Singapore</a>” page for more entry lanes.
+</td>
 </tr>
 <tr>
 <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="/images/R.png" width="147" height="53">
@@ -173,7 +173,6 @@ See Annex for partner countries/regions where RGL has been suspended.
 </tr>
 <tr>
 <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="/images/I.png" width="147" height="53"></td>
-<!--<td rowspan="3" style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;">Return to the “<a href="/arriving/overview">Travelling to Singapore</a>” page for more entry lanes.</td>-->
 </tr>
 <tr>
 <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="/images/J.png" width="147" height="53"></td>
@@ -182,4 +181,4 @@ See Annex for partner countries/regions where RGL has been suspended.
 <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="/images/M.png" width="147" height="53"></td>
 </tr>
 </tbody>
-</table>-->
+</table>
