@@ -6,25 +6,24 @@ third_nav_title: Arrivals from 31 March 2359h
 ---
 <div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
-  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This travel checklist is for travellers aged 13 and above (i.e. born before 2010) who are entering Singapore from 31 March 2022, 2359H, and are:
+  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This travel checklist is for travellers aged 13 and above (i.e. born before 2010), and:
   <ol style="padding-left:25px; list-style-type:disc;">
-    <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><b>Not</b> considered <a href="/health/vtsg" target="_blank">fully vaccinated against COVID-19</a>; <b>OR</b></li>
+    <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><b>Not</b> considered fully vaccinated against COVID-19; <b>OR</b></li>
        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Certified medically ineligible for COVID-19 vaccination</li>
   </ol>
   </p>
-    <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. If this checklist does not apply to you, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page for the entry requirements most relevant to you.</p>
-   <p style="font-size:18px; margin-top:10px;margin-bottom:0px;  line-height:1.4; color:black;">Readers referencing this checklist can indicate "<b>✓</b>" in the boxes (&#9634;) for completed activities.</p>
+    <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">If you do not meet the above criteria or are not sure on the definition of "fully vaccinated", return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page to determine the entry requirements most relevant to you. Travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information.</p>
+   <p style="font-size:18px; margin-top:20px;margin-bottom:0px;  line-height:1.4; color:black;">Users of this checklist can indicate "<b>✓</b>" in the boxes (&#9634;) for completed activities.</p>
   </div>
   
   
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1A">
-&#9634; &nbsp;&nbsp;<b>A) Obtain Entry Permissions (if necessary) </b></div>
+&#9634; &nbsp;&nbsp;<b>A) Obtain Entry Permissions</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Singapore Citizens and Permanent Residents <b>do not</b> need to apply for an Entry Approval. </p> 
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Long-term Pass holders (including In-Principle Approval holders) aged 13 to 17 also <b>do not</b> need to apply for an Entry Approval.</p>
-		<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For all other travellers, only the following non-fully traveller types may apply for entry.</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry permissions are <b style="color:red;">not</b> required for Long-term Pass holders (including In-Principle Approval holders) aged 13 to 17 as well as Singapore Citizens and Permanent Residents.</p>
+		<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Otherwise, apply for an entry approval based on your pass type/profile, via the channels below:</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click '+' for details on application process)</b></p>
 
 <html>
@@ -88,9 +87,9 @@ input:checked + label + .content {
 </head>
 <body>	
 <input id="IPA-Family" type="checkbox">
-	<label for="IPA-Family"><b>Eligible Long-term Pass Holder or Short-term visitor who is a Family Member of a Singapore Citizen/Permanent Resident </b></label>
+	<label for="IPA-Family"><b>Family Members of a Singapore Citizen/Permanent Resident, including adopted child holding a Dependant's Pass In-Principle Approval</b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications must be submitted by the Singapore Citizen/PR family member using SingPass at least 4 days before the desired date of entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
 	
 <input id="LTPHabove18" type="checkbox">
