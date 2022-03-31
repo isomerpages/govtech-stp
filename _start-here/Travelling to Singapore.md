@@ -22,7 +22,7 @@ third_nav_title: Travelling to Singapore
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are unable to access the tool below, <a href="https://www.checkfirst.gov.sg/c/c8e279da-781f-4f6b-a3bc-a8552057ee3f" target="_blank">click here</a> to open it in a separate window or go through the listing of entry requirements instead.</p>
 
-<iframe width="100%" height="1400px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/dd77809b-88f7-4fa9-a93e-e5dd4862f692" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="2400px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/dd77809b-88f7-4fa9-a93e-e5dd4862f692" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
