@@ -3,7 +3,6 @@ title: COVID-19 Travel Insurance and Medical Treatment for Inbound Travellers
 permalink: /health/insurance-and-treatment
 description: ""
 ---
-
 This page contains information on the following issues:
 
 1. [COVID-19 Travel Insurance](#insurance)
@@ -15,7 +14,7 @@ This page contains information on the following issues:
 
 ### 1. COVID-19 Travel Insurance
 
-<i>Short-term visitors who are unvaccinated and are required to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore should ensure that their insurance has a minimum coverage of S$30,000 (based on COVID-19 bill sizes at private hospitals).</i>
+Short-term visitors who are not fully vaccinated and are required to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore should ensure that their insurance has a minimum coverage of S$30,000 (based on COVID-19 bill sizes at private hospitals).
 
 Short-term visitors who are fully vaccinated, and non-fully vaccinated children aged 12 and below, are <b>not</b> required to have travel insurance for their COVID-19 related medical treatment and hospitalisation costs in Singapore. However, travellers are still encouraged to ensure sufficient travel insurance coverage as they will have to pay for their own treatment costs if the insurance coverage is insufficient. 
 
