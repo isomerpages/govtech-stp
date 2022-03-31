@@ -8,7 +8,7 @@ third_nav_title: Arrivals from 31 March 2359h
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use</u>:</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This travel checklist is for travellers entering Singapore from 31 March 2022, 2359H, and:</p>
 		<ol style="padding-left:25px; list-style-type:disc;">
-		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><a href="/health/vtsg" target="_blank">Fully vaccinated against COVID-19</a>; OR</li>
+		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Fully vaccinated against COVID-19; OR</li>
 			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Aged 12 and below (i.e. born in or after 2010) and not fully vaccinated</li>
 	</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">If you do not meet the above criteria or are not sure on the definition of “fully vaccinated”, return to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page to determine the entry requirements most relevant to you. Travellers transiting in Singapore to another destination without clearing immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. </p>
