@@ -23,7 +23,7 @@ third_nav_title: Arrivals from 31 March 2359h
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;">If you have a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised Digitally Verifiable Vaccination Certificate (DVC)</a>, use the Vaccination Check Portal (VCP) to verify that your DVC is recognised by the Singapore authorities. You will receive a vaccination acceptance letter if the verification is successful, which you can use for boarding and immigration checks. If you are unable to get your DVC verified, troubleshoot your submission with the <a href="/faq#vaxcert" target="_blank">vaccination certificate FAQ</a>. If still faced with uploading issues, refer to the instructions below for travellers with non-DVCs.
 </p>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you do not have a DVC, or have had difficulties verifying your DVC on VCP, prepare a Vaccination Certificate (including certificate on a vaccination app) that is in English, or accompanied with notarised English Translation, with the following details:
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you do not have a recognised DVC, or have had difficulties verifying your DVC on VCP, prepare a Vaccination Certificate (including certificate on a vaccination app) that is in English, or accompanied with notarised English Translation, with the following details:
 	<ol style="padding-left:25px; list-style-type:disc;">
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Name (per travel document used for entry)</li>
 			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
@@ -36,7 +36,7 @@ third_nav_title: Arrivals from 31 March 2359h
   
  <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp; <b>B) Obtain Approvals and Prepare Travel-Related Documents</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"Prepare the travel documents below, if required, and ensure that your passport is valid for at least 6 months. Entries for non-Citizens or Permanent Residents can be denied if the requisite documents are not produced during pre-boarding or immigration clearance.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Prepare the travel documents below, if required, and ensure that your passport is valid for at least 6 months. Entries for non-Citizens or Permanent Residents can be denied if the requisite documents are not produced during pre-boarding or immigration clearance.</p>
 <p style=" font-size:16px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
 	
 	
