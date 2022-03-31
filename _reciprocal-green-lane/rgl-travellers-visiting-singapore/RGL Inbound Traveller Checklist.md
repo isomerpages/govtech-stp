@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="padding: 5px; font-size:16px; line-height:1.5; border-style: solid; border-width: 1px; margin-bottom:10px; background-color:#f5f5f5;"><br>!! Readers who have arrived at this page directly from search engine or are new to the entry requirements imposed by Singapore, should start from the “<a href="/arriving/overview">Travelling to Singapore</a>" page found on this site. The self-help tool found on the page will help travellers identify the most suitable travel lane for their needs. Travellers who fail to comply with entry requirements will be turned away.
 
-<p style="font-size:16px; line-height:1.5; margin-bottom:15px;">Travellers who have left Singapore via RGL and are returning to the country, do not need an entry approval to enter. However, they will be subject to the <a href="/shn-and-swab-summary">prevailing travel and health control measures</a> depending on which RGL country/region they visited.</p>
+<p style="font-size:16px; line-height:1.5; margin-bottom:15px;">Travellers who have left Singapore via RGL and are returning to the country, do not need an entry approval to enter. However, they will be subject to the prevailing travel and health control measures depending on which RGL country/region they visited.</p>
 </div>
 
 ### Reciprocal Green Lane Checklist (Travellers Inbound to Singapore)
