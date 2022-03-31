@@ -286,7 +286,7 @@ input:checked + label + .content {
 		       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">270 days from the last dose of your primary series if you have not taken a booster</td>
     </tr>
 </tbody>
-/table>	
+</table>	
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b> C) Contracting and Recovering from COVID-19</b></div>
