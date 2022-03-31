@@ -87,19 +87,19 @@ input:checked + label + .content {
 </head>
 <body>	
 <input id="IPA-Family" type="checkbox">
-	<label style="background-color: #265780; color:#f7f7f7;" for="IPA-Family"><b>Family Members of a Singapore Citizen/Permanent Resident, including adopted child holding a Dependant's Pass In-Principle Approval</b></label>
+	<label style="background-color: #23537a; color:#f7f7f7;" for="IPA-Family"><b>Family Members of a Singapore Citizen/Permanent Resident, including adopted child holding a Dependant's Pass In-Principle Approval</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
 	
 <input id="PR-LTVP-IPA" type="checkbox">
-	<label style="background-color: #265780; color:#f7f7f7;" for="PR-LTVP-IPA"><b>Holders of Permanent Resident In-Principle Approval (IPA) or ICA Long-Term Visit Pass IPA Aged 18 and Above</b></label>
+	<label style="background-color: #23537a; color:#f7f7f7;" for="PR-LTVP-IPA"><b>Holders of Permanent Resident In-Principle Approval (IPA) or ICA Long-Term Visit Pass IPA Aged 18 and Above</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
 	
 <input id="LTPHabove18" type="checkbox">
-	<label style="background-color: #265780; color:#f7f7f7;" for="LTPHabove18"><b>MOE or MOM Long-Term Pass Holders Aged 18 and Above who are Medically Ineligible for Vaccines</b></label>
+	<label style="background-color: #23537a; color:#f7f7f7;" for="LTPHabove18"><b>MOE or MOM Long-Term Pass Holders Aged 18 and Above who are Medically Ineligible for Vaccines</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate Family Members*</u></b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">- Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
@@ -108,7 +108,7 @@ input:checked + label + .content {
 </div>
 	
 <input id="STVs-compassionate" type="checkbox">
-	<label style="background-color: #265780; color:#f7f7f7;" for="STVs-compassionate"><b>Short-term Visitors Entering for Exceptional reasons (e.g. tend to critically ill family, or death of family member)</b></label>
+	<label style="background-color: #23537a; color:#f7f7f7;" for="STVs-compassionate"><b>Short-term Visitors Entering for Exceptional reasons (e.g. tend to critically ill family, or death of family member)</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Entry request should be submitted <a href="https://go.gov.sg/sto-enquiry" target="_blank">using this form</a>, with the relevant supporting documents (e.g. doctor’s memo, death certificate) to facilitate processing.</p>
 </div>
