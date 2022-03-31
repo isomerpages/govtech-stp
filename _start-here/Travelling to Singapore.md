@@ -73,6 +73,31 @@ Click here to return to the <a href="#top">top</a>.
 		<tr>
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Serum Institute of India <br> Covishield (ChAdOx1_nCoV-19)</td>
 		</tr>
+		<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Novavax <br> NVX-CoV2373/Covovax/Nuvaxovid</td>
+							<td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2 doses at least 17 days apart</td>
+		</tr>
+		<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Pfizer/BioNTech  <br> BNT162b2/COMIRNATY Tozinameran (INN)</td>
+		</tr>
+		<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Sinopharm   <br> SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</td>
+		</tr>
+			<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Sinovac  <br> COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2 doses at least 13 days apart</td>
+		</tr>
+		<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>Any</b> of the above WHO EUL vaccine (mixed):</td>
+										<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">2 doses at least 17 days apart</td>
+		</tr>
+		
+		
+		
+		
+		
+		
+		
 	</tbody>
 	</table>
 
