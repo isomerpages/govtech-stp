@@ -2,6 +2,7 @@
 title: Checklist for Fully Vaccinated Travellers
 permalink: /arriving/general-travel/fully-vaccinated
 description: ""
+third_nav_title: Travelling to Singapore
 ---
 
 <div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red;">
