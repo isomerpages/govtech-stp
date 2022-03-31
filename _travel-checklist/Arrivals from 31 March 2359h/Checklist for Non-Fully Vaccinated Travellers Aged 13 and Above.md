@@ -314,7 +314,7 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>A) Immigration Clearance</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes, and provide all documents, including proof of tests, and information required by the immigration officer. </p>
+	 <p style="font-size:18px; margin-top: 10px; margin-bottom: 10px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes, and provide all documents, including proof of tests, and information required by the immigration officer. </p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Upon clearance, an <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> stating the period of stay granted will be issued to foreign short-term visit pass travellers via the email address indicated in the SGAC. Passports will no longer be stamped.
 	</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you are symptomatic on arrival, you may be directed to take a COVID-19 test. Each Antigen Rapid Test (ART) administered will cost S$30, while each COVID-19 Polymerase Chain Reaction Test (PCR Test) will cost S$138.
@@ -338,18 +338,18 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>A) Stay-Home Notice (SHN) Requirements</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">The 7-day Stay-Home Notice (SHN) takes effect immediately upon its issuance. You must remain in your declared SHN accommodation for the period specified in the notice, unless you are: 
+	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">The 7-day Stay-Home Notice (SHN) takes effect immediately upon its issuance. Remain in your declared SHN accommodation for the period specified in the notice, unless you are: 
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Directed by the relevant authority to leave your accommodation; OR</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Scheduled to take a COVID-19 Polymerase Chain Reaction Test (PCR Test) at the end of the SHN period.</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Scheduled to take your mandatory SHN-exit COVID-19 Polymerase Chain Reaction Test (PCR Test).</li>
 	</ol>
 	</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You will be scheduled for a mandatory COVID-19 Polymerase Chain Reaction Test (PCR Test) before the end of your Stay-Home Notice (SHN). To avoid queues, pay for your test during your application for Entry Approval. Otherwise, pay for the test using the payment link found in your SHN (sent to your email address) before your appointment. Including GST, each test comes up to S$125.
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To avoid queues, pay for your SHN-exit PCR test during your application for Entry Approval. Otherwise, pay for the test using the payment link found in your SHN (sent to your email address) before your appointment. Including GST, each test comes up to S$125.
 	</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, please contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
 	</p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, <b>whichever is later</b>. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked.</p>	
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please refer to the Frequently Asked SHN questions below. (<i>Click "+" for details</i>)</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end on the day specified in the notice, or upon receipt of a negative PCR test result, <b>whichever is later</b>. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked. Watch these videos for a walkthrough on the SHN Requirements (English), SHN Requirements (Mandarin), SHN Requirements (Bahasa Indonesia) and the penalties for SHN Breaches.</p>	
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><i>Click "+" for details</i></p>
 <html>
 
 <head>
