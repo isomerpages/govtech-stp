@@ -548,18 +548,23 @@ If you change your SIM card but are still using the same mobile device, you will
 
 Please ensure that you keep your mobile device’s Bluetooth function turned on so that the TraceTogether app remains activated throughout your stay in Singapore.
 
-#### 5. What happens if visitors do not have a mobile device to download the TraceTogether app?
+#### 5. What happens if travellers do not have a mobile device to download the TraceTogether app?
 
-All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the <a href="https://apps.apple.com/sg/app/tracetogether/id1498276074">iOS App Store</a>, <a href="https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace">Google Play Store</a> and Huawei App Gallery.
+All travellers must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the <a href="https://apps.apple.com/sg/app/tracetogether/id1498276074">iOS App Store</a>, <a href="https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace">Google Play Store</a> and Huawei App Gallery.
 
-Visitors with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is TraceTogether-compatible. Alternatively, they may obtain a TraceTogether token (S$13/token) at designated locations in Singapore. Click <a href="/health/tt-for-travellers#token" target="_blank">here</a> for more details.
+Travellers with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is TraceTogether-compatible. Alternatively, they may obtain a TraceTogether token (S$13/token) from the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> (open from 10am-7pm daily), or any of the TT Token collection booths found at community centres. The community centre booths and their operating hours can be found at <a href="https://token.gowhere.gov.sg" target="_blank">https://token.gowhere.gov.sg</a>. Travellers do not need to return their tokens before departing from Singapore.
+
+Payment can be made via PayNow, EZ-link, Nets Flashpay, Mastercard, VISA, JCB, and Union Pay. Cash payments are not accepted.
+
+<b>Short-Term Visitors may collect or replace Tokens on behalf of family/friends at the Token counters at Community Centres. Visitors will be required to provide the Token owner’s passport and mobile number for verification purposes when collecting and replacing the tokens.</b>
 
 Visitors must carry their rented mobile device or TraceTogether token with them at all times during their stay in Singapore. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
+
 
    
 #### 6. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
 
-Visitors who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can purchase a Singapore SIM card. Upon purchase, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport used to enter Singapore.
+Travellers who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can purchase a Singapore SIM card. Upon purchase, travellers are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport used to enter Singapore.
 
 #### 7. Can visitors switch off their mobile devices while in Singapore?
 
