@@ -2,7 +2,7 @@
 title: Checklist for Non-Fully Vaccinated Travellers Aged 13 and Above
 permalink: /arriving/general-travel/non-fully-vaccinated
 description: ""
-third_nav_title: Arrivals from 31 March 2359h
+third_nav_title: Travelling to Singapore
 ---
 <div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
