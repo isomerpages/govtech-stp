@@ -128,7 +128,6 @@ input:checked + label + .content {
 <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Update the foreign-registered car and motorcycle road tax and motor insurance for existing valid Autopass cards:</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> > Digital Services > Update Road Tax and Insurance Validity for VEP (Foreign Cars and Motorcycles).
 </li>
 </ol>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Travellers are advised to plan at least two weeks ahead of their intended travel dates to allow sufficient time for VEP application and approval</p>	
 </div>
 <input id="YF" type="checkbox">
 <label style="margin-top:2px;" for="YF"><b>Arriving in Singapore from countries/regions in Africa and South America with Yellow Fever Risk </b></label>
