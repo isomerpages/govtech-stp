@@ -60,7 +60,7 @@ permalink: /brunei/rgl/terms-and-conditions
 
 6. For those travelling by air, the traveller is only allowed to travel to Singapore via a non-stop flight from the exit country. Transit through other countries are prohibited. 
 
-7. The traveller must download and install in advance the TraceTogether app on his/her mobile phone or alternatively, secure in advance the rental of a TraceTogether-compatible device if his/her mobile phone is not TraceTogether-compatible. If this is not possible, the traveller may obtain a TraceTogether token (click <a href="/health/tt-for-travellers#token" target="_blank">here</a> for more information).
+7. The traveller must download and install in advance the TraceTogether app on his/her mobile phone or alternatively, secure in advance the rental of a TraceTogether-compatible device if his/her mobile phone is not TraceTogether-compatible. If this is not possible, the traveller may obtain a TraceTogether token (click <a href="/faq#TT" target="_blank">here</a> for more information).
 
 8. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;

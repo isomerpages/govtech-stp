@@ -11,6 +11,7 @@ third_nav_title: Travelling to Singapore
 - [Automated Self-Help Tool for Entry Requirements](#selfhelptool)
 - [Accepted COVID-19 Vaccinations for Entry to Singapore ](#vaccination)
 - [Vaccinated Travel Framework – Summary of Border Measures](#VTF)
+- [Entry for Air/Sea Crew and Pleasure Craft Owners](#crew)
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are transiting through Singapore to another destination without clearing immigration, refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="#crew">click here</a> for more instructions</p>
 
@@ -49,6 +50,7 @@ Click here to return to the <a href="#top">top</a>.
 
 #### List of accepted Vaccinations for Entry
 
+<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 <table>
 	<thead>
 		<tr>
@@ -101,6 +103,8 @@ Click here to return to the <a href="#top">top</a>.
 
 ---
 
+<div id="VTF"></div>
+
 ### 3. Vaccinated Travel Framework – Summary of Border Measures
 
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to Green or Red List countries, as well as COVID-19 vaccination status.</p>
@@ -125,7 +129,7 @@ Click here to return to the <a href="#top">top</a>.
 				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:20px; line-height:1.35;font-size:16px;">Any of the following COVID-19 test, within 2 days before departure for Singapore:</p>
 			<ul style="list-style-type: lower-roman; line-height:1.35;">
 				<li style="line-height:1.35; font-size:16px;">COVID-19 Polymerase Chain Reaction Test (PCR Test)</li>
-				<li style="line-height:1.35; font-size:16px;">Antigen Rapid Test (ART) which are professionally administered, or administered remotely</li>
+				<li style="line-height:1.35; font-size:16px;">Antigen Rapid Test (ART) which is professionally administered, or administered remotely</li>
 					</ul>
 					<p style="margin-top:20px; line-height:1.35;font-size:16px;">The above is not applicable to travellers arriving by land.</p>
 					<p style="margin-top:20px; line-height:1.35;font-size:16px;">Detailed requirements available in the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully Vaccinated Traveller’s checklist</a></p>
@@ -134,7 +138,7 @@ Click here to return to the <a href="#top">top</a>.
 					<li style="line-height:1.35; font-size:16px;">Any of the following COVID-19 test, within 2 days before departure for Singapore:
 					<ul style="list-style-type: lower-roman; line-height:1.35;">
 						<li style="line-height:1.35; font-size:16px;">COVID-19 Polymerase Chain Reaction Test (PCR Test)</li>
-						<li style="line-height:1.35; font-size:16px;">Antigen Rapid Test (ART) which are professionally administered, or administered remotely</li>
+						<li style="line-height:1.35; font-size:16px;">Antigen Rapid Test (ART) which is professionally administered, or administered remotely</li>
 						</ul>
 					</li>
 					<li style="line-height:1.35; font-size:16px;">7-day Stay-Home Notice (SHN) at declared place of accommodation</li>
@@ -180,9 +184,11 @@ Click here to return to the <a href="#top">top</a>.
 ---
 
 
+<div id="crew"></div>
+
+
 ### 4) Entry for Air/Sea Crew and Pleasure Craft Owners
 
-<div id="crew"></div>
 
 <b><u>Air Crew</u></b>
 
