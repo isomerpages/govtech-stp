@@ -11,6 +11,7 @@ third_nav_title: Travelling to Singapore
 - [Automated Self-Help Tool for Entry Requirements](#selfhelptool)
 - [Accepted COVID-19 Vaccinations for Entry to Singapore ](#vaccination)
 - [Vaccinated Travel Framework – Summary of Border Measures](#VTF)
+- [Entry for Air/Sea Crew and Pleasure Craft Owners](#crew)
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are transiting through Singapore to another destination without clearing immigration, refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="#crew">click here</a> for more instructions</p>
 
@@ -183,9 +184,11 @@ Click here to return to the <a href="#top">top</a>.
 ---
 
 
+<div id="crew"></div>
+
+
 ### 4) Entry for Air/Sea Crew and Pleasure Craft Owners
 
-<div id="crew"></div>
 
 <b><u>Air Crew</u></b>
 
