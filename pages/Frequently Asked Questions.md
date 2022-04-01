@@ -5,4 +5,4 @@ description: ""
 ---
 <b>This page is no longer available. </b>
 
-The Frequently Asked Questions have been moved to **[this page](/faq)**.
+The Frequently Asked Questions have been moved to **[this page](/faq#TravellerDetails)**.
