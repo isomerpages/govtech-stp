@@ -171,6 +171,7 @@ Click here to return to the <a href="#top">top</a>.
 				<li style="line-height:1.35; font-size:16px;">COVID-19 Polymerase Chain Reaction Test (PCR Test) within 2 days before departure for Singapore;</li>
 				<li style="line-height:1.35; font-size:16px;">On-arrival PCR test; </li>
 				<li style="line-height:1.35; font-size:16px;">7-day SHN at a dedicated <a href="/health/shn#sdf" target="_blank">Stay-Home Notice facility (SDF)</a></li>
+				<li style="line-height:1.35; font-size:16px;">SHN-exit PCR test</li>
 				</ol>
 			</td>
 		</tr>
