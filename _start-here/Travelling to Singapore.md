@@ -49,6 +49,7 @@ Click here to return to the <a href="#top">top</a>.
 
 #### List of accepted Vaccinations for Entry
 
+<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 <table>
 	<thead>
 		<tr>
