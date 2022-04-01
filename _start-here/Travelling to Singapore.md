@@ -102,6 +102,8 @@ Click here to return to the <a href="#top">top</a>.
 
 ---
 
+<div id="VTF"></div>
+
 ### 3. Vaccinated Travel Framework – Summary of Border Measures
 
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to Green or Red List countries, as well as COVID-19 vaccination status.</p>
