@@ -6,14 +6,15 @@ third_nav_title: Travelling to Singapore
 ---
 <div id="top"></div>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to facilitate the resumption of travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane. On this page, you will find the following important information for your travel to Singapore:</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to facilitate the resumption of travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane. Click on the links below for important information for your travel to Singapore:</p>
 
 - [Automated Self-Help Tool for Entry Requirements](#selfhelptool)
 - [Accepted COVID-19 Vaccinations for Entry to Singapore ](#vaccination)
 - [Vaccinated Travel Framework – Summary of Border Measures](#VTF)
-- [Entry for Air/Sea Crew and Pleasure Craft Owners](#crew)
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are transiting through Singapore to another destination without clearing immigration, refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="#crew">click here</a> for more instructions</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are transiting through Singapore to another destination without clearing immigration, refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information.</p>
+
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="#crew">click here</a> for more instructions.</p>
 
 <div id="selfhelptool"></div>
 
