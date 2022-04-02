@@ -130,7 +130,7 @@ input:checked + label + .content {
 </ol>
 </div>
 <input id="YF" type="checkbox">
-<label style="margin-top:2px;" for="YF"><b>Arriving in Singapore from countries/regions in Africa and South America with Yellow Fever Risk </b></label>
+<label style="margin-top:2px;" for="YF"><b>Arriving in Singapore from countries/regions in Africa and Latin America with Yellow Fever Risk </b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a></p>
 </div>
