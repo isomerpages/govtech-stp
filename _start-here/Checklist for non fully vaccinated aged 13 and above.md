@@ -23,7 +23,7 @@ third_nav_title: Travelling to Singapore
 &#9634; &nbsp;&nbsp;<b>A) Obtain Entry Permissions</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry permissions are <b style="color:red;">not</b> required for Long-term Pass holders (including In-Principle Approval holders) aged 13 to 17 as well as Singapore Citizens and Permanent Residents.</p>
-		<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Otherwise, apply for an entry approval based on your pass type/profile, via the channels below:</p>
+		<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All other non-fully vaccinated Long-Term Pass Holders aged 18 and above, and non-fully vaccinated Short-Term Visitors aged 13 and above are generally <b>not allowed</b> to enter Singapore. Only the following non-fully vaccinated travellers may apply for entry approval via the channels listed below:</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click '+' for details)</b></p>
 
 <html>
