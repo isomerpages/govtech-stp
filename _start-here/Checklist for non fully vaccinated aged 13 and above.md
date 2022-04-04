@@ -230,7 +230,7 @@ input:checked + label + .content {
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) that is:
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Administered by a trained professional; or</li>
-			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[<a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">Eligible travellers only (click for details)</a>]</b> Self-administered Antigen Rapid Test (ART) remotely supervised by an approved ART provider in Singapore</a>.</li>
+			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[<a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">Eligible travellers only (click for details)</a>]</b> Self-administered Antigen Rapid Test (ART) remotely supervised by an approved ART provider in Singapore.</li>
 				</ol>
 	</li>
 	</ol>

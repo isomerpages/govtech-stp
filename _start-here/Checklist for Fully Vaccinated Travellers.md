@@ -261,6 +261,7 @@ input:checked + label + .content {
 <p style=" font-size:18px; margin-top:20px; margin-bottom: 20px; line-height:1.35;">You may also need to take additional COVID-19 vaccination doses to maintain good protection and continue to qualify for Vaccination-Differentiated Measures in Singapore. This is determined based on the date of the last dose of your primary vaccination series and the vaccine type you have taken (summary in table below). For more information on NIR registration and COVID-19 booster vaccinations, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a>.
 </p>
 
+<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 <table>
  <thead>
     <tr>
