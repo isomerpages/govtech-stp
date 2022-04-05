@@ -6,7 +6,7 @@ third_nav_title: Travelling to Singapore
 ---
 <div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for all modes of arrival to Singapore via air, land or sea.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>all modes of arrival to Singapore via air, land or sea.</b></p>
   <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This travel checklist is for <b>all travellers, including Singapore Citizens and Permanent Residents</b>, aged 13 and above (i.e. born before 2010) who are:
   <ol style="padding-left:25px; list-style-type:disc;">
     <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><b>Not</b> considered fully vaccinated against COVID-19; <b>OR</b></li>
