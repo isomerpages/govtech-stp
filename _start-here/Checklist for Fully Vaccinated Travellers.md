@@ -148,7 +148,7 @@ input:checked + label + .content {
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">A Pre-Departure Test (PDT) is only <b style="color:red;">not</b> required if you:</p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Are entering Singapore via Land; or
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Are entering Singapore via Land; Or
 </li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Tested positive for COVID-19 <b>between 7 to 90 days</b> before your date of departure for Singapore - use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if the pre-departure test can be waived, and the documentation required to prove recovery. 
 </li>
