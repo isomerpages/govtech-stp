@@ -6,7 +6,7 @@ third_nav_title: Travelling to Singapore
 ---
 <div id="top"></div>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to facilitate the resumption of travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane. Click on the links below for important information for your travel to Singapore:</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to facilitate the resumption of travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane (VTL), <b>and applies to all travellers entering Singapore, including Singapore Citizens/Permanent Residents</b>.</p>
 
 - [Automated Self-Help Tool for Entry Requirements](#selfhelptool)
 - [Accepted COVID-19 Vaccinations for Entry to Singapore ](#vaccination)
@@ -20,7 +20,7 @@ third_nav_title: Travelling to Singapore
 
 ### 1. Automated Self-Help Tool
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">The self-help tool below will help you determine the latest entry and health requirements based on the individual traveller’s profile. <b>For those travelling in groups, users should input options specific to each traveller</b>. To start a new query session, users can either edit their previous response or restart the checker using the buttons at the end of the tool. Personal information will not be captured by this tool.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">The self-help tool below will help you quickly determine the latest entry and health requirements. <b>For travel groups, users should input options specific to one traveller during each session</b>. To start a new query session, you can either edit your previous response or restart the checker using the buttons at the end of the tool. Personal information will not be captured by this tool.</p>
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are unable to access the tool below, <a href="https://www.checkfirst.gov.sg/c/dd77809b-88f7-4fa9-a93e-e5dd4862f692" target="_blank">click here</a> to open it in a separate window or go through the listing of entry requirements instead.</p>
 
@@ -38,7 +38,7 @@ Click here to return to the <a href="#top">top</a>.
 ### 2. Accepted Vaccinations for Entry
 
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Travellers aged 12 and below do not need to be vaccinated for entry to Singapore. Travellers aged 13 and above are only considered “fully vaccinated” for purposes of entry to Singapore if they meet either of the following conditions at least 2 weeks before arrival in Singapore, if not they are considered “non-fully vaccinated”:</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">All travellers aged 12 and below do not need to be vaccinated for entry to Singapore. Travellers aged 13 and above are only considered “fully vaccinated” for purposes of entry to Singapore if they meet either of the following conditions at least 2 weeks before arrival in Singapore, if not they are considered “non-fully vaccinated”:</p>
 
 <ul style="list-style-type: lower-roman; line-height:1.35;">
 	<li style="line-height:1.35; font-size:20px;">Received the full regimen of WHO EUL Vaccines in the list of accepted vaccinations <a href="#table">below</a> and met the minimum dose interval period; or</li>
