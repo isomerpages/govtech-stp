@@ -37,7 +37,7 @@ third_nav_title: Travelling to Singapore
   
  <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp; <b>B) Obtain Approvals and Prepare Travel-Related Documents</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Prepare the travel documents below, if required, and ensure that your passport is <b>valid for at least 6 months</b>. Entries for non-Citizens or Permanent Residents can be denied if the required documents are not produced during pre-boarding or immigration clearance.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Prepare the travel documents below, if required, and visitors should ensure that their passport is <b>valid for at least 6 months</b>. Entries for non-Citizens or Permanent Residents can be denied if the required documents are not produced during pre-boarding or immigration clearance.</p>
 <p style=" font-size:16px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
 	
 	
