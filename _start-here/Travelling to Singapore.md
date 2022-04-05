@@ -38,7 +38,7 @@ Click here to return to the <a href="#top">top</a>.
 ### 2. Accepted Vaccinations for Entry
 
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">All Travellers aged 12 and below do not need to be vaccinated for entry to Singapore. Travellers aged 13 and above are only considered “fully vaccinated” for purposes of entry to Singapore if they meet either of the following conditions at least 2 weeks before arrival in Singapore, if not they are considered “non-fully vaccinated”:</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">All travellers aged 12 and below do not need to be vaccinated for entry to Singapore. Travellers aged 13 and above are only considered “fully vaccinated” for purposes of entry to Singapore if they meet either of the following conditions at least 2 weeks before arrival in Singapore, if not they are considered “non-fully vaccinated”:</p>
 
 <ul style="list-style-type: lower-roman; line-height:1.35;">
 	<li style="line-height:1.35; font-size:20px;">Received the full regimen of WHO EUL Vaccines in the list of accepted vaccinations <a href="#table">below</a> and met the minimum dose interval period; or</li>
