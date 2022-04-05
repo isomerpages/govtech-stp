@@ -161,7 +161,7 @@ input:checked + label + .content {
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Antigen Rapid Test (ART) that is:
 		<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Administered by a trained professional; <b>OR</b></li>
-					<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Singapore Citizens, PRs and Long Term Pass Holders (excluding In-Principle Approval holders) only]</b> Self-administered Antigen Rapid Test (ART) remotely supervised by an <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">approved ART provider in Singapore</a></li>
+					<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Singapore Citizens, PRs and Long-Term Pass Holders (excluding In-Principle Approval holders) only]</b> Self-administered Antigen Rapid Test (ART) remotely supervised by an <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">approved ART provider in Singapore</a></li>
 			</ol></li>
 	</ol>
 <p style="margin-top: 0px; margin-bottom:20px; font-size:18px; line-height:1.35;">Ask for a non-handwritten PDT report that is in English (or accompanied with a notarised English Translation) containing the following details:
