@@ -215,9 +215,9 @@ input:checked + label + .content {
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1D">
-&#9634; &nbsp;&nbsp;<b>C) SG Arrival Card with Electronic Health Declaration </b></div>
+&#9634; &nbsp;&nbsp;<b>C) SG Arrival Card with electronic Health Declaration </b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All travellers including Singapore Citizens and PRs must complete the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) with Electronic Health declaration</a> <b>within 3 days before arrival</b>. You are strongly encouraged to <b>complete the declaration before departure</b> as upon completion of your declaration, you will receive an email acknowledgement which you can use for smoother preboarding and immigration clearance.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All travellers including Singapore Citizens and PRs must complete the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) with electronic Health declaration</a> <b>within 3 days before arrival</b>. You are strongly encouraged to <b>complete the declaration before departure</b> as upon completion of your declaration, you will receive an email acknowledgement which you can use for smoother preboarding and immigration clearance.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 </div>
 	
