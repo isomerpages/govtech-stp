@@ -9,7 +9,7 @@ On this page, travellers intending to depart from Singapore can find information
 
 <ol style="margin-top:10px; margin-bottom:10px; font-size:20px;">
   <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#advisories">Departure advisories and requirements</a> </li>
-  <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#PDT">Obtaining a pre-departure COVID-19 test in Singapore for overseas travel (if required)</a></li>
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#PDT">Obtaining a pre-departure COVID-19 test or proof of infection/recovery in Singapore for overseas travel (if required)</a></li>
   <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#Digital">Obtaining a digitally authenticated pre-departure COVID-19 test result (if required)</a></li>
     <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#Proof">Obtaining digitally authenticated vaccination certificate (if required)</a></li>
 </ol>
