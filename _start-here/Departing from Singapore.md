@@ -25,7 +25,7 @@ On this page, travellers intending to depart from Singapore can find information
 
 <div id="PDT"></div>
 
-### 2) Obtaining a Pre-Departure COVID-19 Test in Singapore for Overseas Travel 
+### 2) Obtaining a Pre-Departure COVID-19 Test or Proof of Infection/Recovery in Singapore for Overseas Travel 
 
 <p style="margin-top:20px; margin-bottom:20px; font-size:20px; line-height:1.35;">Travellers who are required by their destination country/region to take a pre-departure COVID-19 test must <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">book an appointment with any clinic found on this list that provides such services</a>. Travellers should check with the clinics on the expected turnaround time for their test report and allocate sufficient lead time when scheduling a test appointment.</p>
 
