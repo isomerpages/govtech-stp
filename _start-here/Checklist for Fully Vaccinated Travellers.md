@@ -23,7 +23,7 @@ third_nav_title: Travelling to Singapore
 <div id="1A" style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>A) Ensure Vaccination Documentation is in Order</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">To qualify for the health and entry protocols accorded to fully vaccinated travellers, ensure that you have the relevant proof of vaccination if you are aged 13 and above.</p>
-<p style=" font-size:16px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Click “+” below for details on acceptable vaccination documents:</p>
+<p style=" font-size:18px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Click “+” below for details on acceptable vaccination documents:</p>
 
 <html>
 
