@@ -9,7 +9,7 @@ On this page, travellers intending to depart from Singapore can find information
 
 <ol style="margin-top:10px; margin-bottom:10px; font-size:20px;">
   <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#advisories">Departure advisories and requirements</a> </li>
-  <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#PDT">Obtaining a pre-departure COVID-19 test in Singapore for overseas travel (if required)</a></li>
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#PDT">Obtaining a pre-departure COVID-19 test or proof of infection/recovery in Singapore for overseas travel (if required)</a></li>
   <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#Digital">Obtaining a digitally authenticated pre-departure COVID-19 test result (if required)</a></li>
     <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#Proof">Obtaining digitally authenticated vaccination certificate (if required)</a></li>
 </ol>
@@ -25,7 +25,7 @@ On this page, travellers intending to depart from Singapore can find information
 
 <div id="PDT"></div>
 
-### 2) Obtaining a Pre-Departure COVID-19 Test in Singapore for Overseas Travel 
+### 2) Obtaining a Pre-Departure COVID-19 Test or Proof of Infection/Recovery in Singapore for Overseas Travel 
 
 <p style="margin-top:20px; margin-bottom:20px; font-size:20px; line-height:1.35;">Travellers who are required by their destination country/region to take a pre-departure COVID-19 test must <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">book an appointment with any clinic found on this list that provides such services</a>. Travellers should check with the clinics on the expected turnaround time for their test report and allocate sufficient lead time when scheduling a test appointment.</p>
 
@@ -38,6 +38,8 @@ On this page, travellers intending to depart from Singapore can find information
 </ol>
 
 <p style="margin-top:20px; margin-bottom:10px; font-size:20px; line-height:1.35;">For details related to the cost and administration of the test, travellers should enquire directly with the clinic. Travellers should note that government subsidies cannot be used to offset the cost of the test, and a test memo will not be issued for any government-paid-for tests.</p>
+
+<p style="margin-top:20px; margin-bottom:10px; font-size:20px; line-height:1.35;">Travellers who had recovered from COVID-19 and who are required to show proof of first infection or recovery can also visit any <a href="https://go.gov.sg/community-ART-test" target="_blank">Combined Test Centre/Quick Test Centre</a> to undergo a supervised ART and have their results documented.</p>
 
 ---
 

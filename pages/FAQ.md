@@ -38,7 +38,9 @@ Travellers may click on the links below for FAQs relating to the following agenc
 
 #### 1. What is considered a digitally verifiable vaccination certificate and how can I check its validity?
 
-Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised digitally verifiable vaccination certificate</a> can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> prior to their trip to see if the certificate can be verified by the Singapore authorities, and also upload it via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> up to 3 days before arrival. If verification fails, travellers should not worry as they can show their physical vaccination certificate or app with the following details in English, or translated to English with notarisation:
+Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised digitally verifiable vaccination certificate</a> can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> prior to their trip to see if the certificate can be verified by the Singapore authorities, or upload it via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> up to 3 days before arrival. 
+
+<b>If verification fails or if travellers do not have a digitally verifiable vaccination certificate, travellers can show their physical vaccination certificate or app instead </b> with the following details in English, or translated to English with notarisation:
 <ol style="padding-left: 20px; list-style-type: lower-roman;">
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
@@ -47,13 +49,23 @@ Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_b
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
 	</ol>
 
-<!--list of accepted digital certs to be provided by MOT in their excel sheet – combine where possible e.g. all the EUDCC countries in the same row-->
+<b>Travellers who are vaccinated in Singapore</b> may also produce the hardcopy Singapore Vaccination Card as an accepted proof of vaccination.
+
 
 <div id="invalidcode"></div>
 
 #### 2. What should I do if my Vaccination Certificates are not accepted in the Vaccination Check Portal or SG Arrival Card?
 
-Please attempt re-uploading your QR code, and ensure that:
+<b>If verification fails or if travellers do not have a digitally verifiable vaccination certificate, travellers can show their physical vaccination certificate or app instead </b> with the following details in English, or translated to English with notarisation:
+<ol style="padding-left: 20px; list-style-type: lower-roman;">
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Country of vaccination</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
+	</ol>
+
+<b>Travellers who are vaccinated in Singapore</b> may produce the hardcopy Singapore Vaccination Card as an accepted proof of vaccination. You can also attempt to re-upload your digital certificate QR code, and ensure that:
 <ol style="list-style-type:disc;">
 	<li style="line-height:1.35; margin-top:10px;">You are using the ‘International’/‘Travel’ version of your vaccination certificate. A common issue is that travellers holding certificates issued by the following countries upload their domestic certificate instead of their travel certificate.
 	<ol style="padding-left: 20px; list-style-type: square;">
@@ -72,17 +84,6 @@ Please attempt re-uploading your QR code, and ensure that:
 		<li style="line-height:1.35; margin-top:10px;">Your passport particulars match with your vaccination certificate. If not, where possible, please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation.</li>
 		<li style="line-height:1.35; margin-top:10px;">You replaced any non-latin special characters in your name as per this <a href="#specialchar">FAQ</a>.</li>
 	</ol>
-
-Even if you have faced uploading errors, you may continue to show your vaccination app or certificate at boarding/immigration with the following details if they are in English or translated to English with notarisation:
-
-<ol style="padding-left: 20px; list-style-type: lower-roman;">
-		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Country of vaccination</li>
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
-		</ol>
-
 
 For further assistance on certificate uploading issues, you may write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide supporting details and screenshots of the errors encountered. If the issue is with your vaccination certificate itself (e.g. issued certificate does not have a name matching with your passport), you must approach your certificate issuer instead.
 
@@ -401,27 +402,28 @@ Click here to [Go Back To Top](#top).
 
 ### 5) COVID-19 Tests for Travellers 
 
+#### 1. Which travellers are required to do a pre-departure COVID-19 test?
 
-#### 1. If I am entering a foreign country/region for a very short trip, can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for departure, to fulfil the pre-departure test requirement for my return leg to Singapore?
+Only travellers born before 2020 (i.e. above two years old) who belong to any category of travellers below are required to do a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
+
+<ol style="list-style-type:lower-alpha;">
+<li style="padding-left:15px;">Fully-vaccinated travellers arriving in Singapore via air or sea; or</li>
+	<li style="padding-left:15px;">All non-fully vaccinated travellers</li>
+	</ol>
+	
+Recently-recovered travellers who are fully vaccinated are exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 7 to 90 days before their date of departure from Singapore.
+
+
+#### 2. If I am entering a foreign country/region for a very short trip, can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for departure, to fulfil the pre-departure test requirement for my return leg to Singapore?
 
 You will fulfil the pre-departure test requirement <b>only if the PCR test or professionally administered/supervised ART was taken within 2 days before departure for Singapore.</b>
 
 As an example, a traveller takes a pre-departure ART in Singapore on 1 March 2022 and enters Indonesia on the same day. If he intends to return to Singapore between 1 and 3 March 2022, the ART taken on 1 March 2022 will fulfil the pre-departure test requirement for entry into Singapore.
 
-#### 2. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
-Travellers born before 2020 (i.e. above two years old) who belong to any category of travellers below are required to do a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
+#### 3. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
-<ol style="list-style-type:lower-alpha;">
-	<li style="padding-left:15px;">Fully-vaccinated travellers arriving in Singapore via air or sea; or</li>
-		<li style="padding-left:15px;">All non-fully vaccinated travellers</li>
-	</ol>
-
-Individuals aged two or below this calendar year (i.e. born in or after 2020) are, by default, exempted from this testing requirement. Recently-recovered travellers who are fully vaccinated are exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 7 to 90 days before their date of departure from Singapore.
-
-#### 3. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from COVID-19 Polymerase Chain Reaction Tests (“PCR test”) ?
-
-In Singapore’s context, the COVID-19 Polymerase Chain Reaction Test (“PCR test”) is carried out by trained personnel in adherence with the prevailing safety protocols/procedures. Should your child be assessed to have medical contraindications and is unsuitable for the PCR test, alternative arrangements may be made.
+Travellers aged two or below in this calendar year (i.e. born in or after 2020) are, by default, exempted from testing. 
 
 
 ---
