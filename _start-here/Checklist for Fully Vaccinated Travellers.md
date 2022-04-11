@@ -22,9 +22,86 @@ third_nav_title: Travelling to Singapore
 
 <div id="1A" style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>A) Ensure Vaccination Documentation is in Order</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;">If you <b>have</b> a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised Digitally Verifiable Vaccination Certificate (DVC)</a>, use the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a> to verify that your DVC is recognised by the Singapore authorities. The VCP will issue a vaccination acceptance letter if the verification is successful, which you can use for boarding and immigration checks. If you are unable to get your DVC verified, troubleshoot your submission with the <a href="/faq#vaxcert" target="_blank">vaccination certificate FAQ</a>. If still faced with uploading issues, refer to the instructions below for travellers with non-DVCs.
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">To qualify for the health and entry protocols accorded to fully vaccinated travellers, ensure that you have the relevant proof of vaccination if you are aged 13 and above.</p>
+<p style=" font-size:16px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Click “+” below for details on acceptable vaccination documents:</p>
+
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>Test Accordion</title>
+
+<style>
+
+input {
+    display: none;
+}
+
+label {
+    display: block;    
+    padding: 10px 30px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #153855;
+    border-radius: 3px;
+    color: #FFF;
+    transition: ease .5s;
+	position: relative;
+}	
+	
+label:hover {
+    background: #346f9e;
+}
+
+label::after {
+	font-family: "Font Awesome 5 Free";
+	content: '\271A';
+	font-weight: bold;
+	font-size: 22px;
+	position: absolute;
+	right: 10px;
+	top: 6px;
+}
+
+input:checked + label::after {
+	content: '\2716';
+}
+
+.content {
+    background: #FFFFFF;
+    padding: 10px 25px;
+    margin: 0 0 1px 0;
+    border-radius: 3px;
+}
+
+input + label + .content {
+    display: none;
+}
+
+input:checked + label + .content {
+    display: block;
+}
+	
+</style>
+</head>	
+	
+<body>	
+<input id="vaxSG" type="checkbox">
+<label for="vaxSG"><b>I am Vaccinated in Singapore</b></label>
+<div style="background-color:#edf4fa;" class="content">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b>If you <font style="color:red;">have</font> an active Singpass account</b>, your vaccination status can be retrieved from your <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> mobile applications.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b>If you <font style="color:red;">do not have</font> an active Singpass account, or have difficulties retrieving your vaccination status via <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></b>, you can prove your vaccination status by:</p>
+	<ol style="padding-left:25px; list-style-type:lower-roman;">
+		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Obtaining a vaccination acceptance letter using the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a>; OR</li>
+			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Showing your MOH hardcopy vaccination certificate</li>
+	</ol>	
+</div>
+<input id="vaxoverseas" type="checkbox">
+<label for="vaxoverseas"><b>I am Vaccinated Outside Singapore</b></label>
+<div style="background-color:#edf4fa;" class="content">
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;"><b>If you <font style="color:red;">have</font> a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised Digitally Verifiable Vaccination Certificate (DVC)</a></b>, use the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a> to verify that your DVC is recognised by the Singapore authorities. The VCP will issue a vaccination acceptance letter if the verification is successful, which you can use for boarding and immigration checks. If you are unable to get your DVC verified, troubleshoot your submission with the <a href="/faq#vaxcert" target="_blank">vaccination certificate FAQ</a>. If still faced with uploading issues, refer to the instructions below for travellers with non-DVCs.
 </p>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you <b>do not have</b> a recognised DVC, or have had difficulties verifying your DVC on the VCP, prepare a Vaccination Certificate (including certificate on a vaccination app) that is in English, or accompanied with notarised English Translation, with the following details:
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>If you <font style="color:red;">do not have</font> a DVC, or have had difficulties verifying your vaccination certificate on the VCP</b>, prepare a Vaccination Certificate (including certificate on a vaccination app) that is in English, or accompanied with notarised English Translation, with the following details:
 	<ol style="padding-left:25px; list-style-type:decimal;">
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Name (per travel document used for entry)</li>
 			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
@@ -33,7 +110,12 @@ third_nav_title: Travelling to Singapore
 		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Vaccination date(s)</li>
 	</ol>
 </p>
-  </div>
+</div>
+</body>
+	</html>
+	</div>
+	
+	
   
  <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp; <b>B) Obtain Approvals and Prepare Travel-Related Documents</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
