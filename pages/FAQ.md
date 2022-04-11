@@ -40,7 +40,7 @@ Travellers may click on the links below for FAQs relating to the following agenc
 
 Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised digitally verifiable vaccination certificate</a> can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> prior to their trip to see if the certificate can be verified by the Singapore authorities, or upload it via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> up to 3 days before arrival. 
 
-<b>If verification fails or if travellers do not have a digitally verifiable vaccination certificate, travellers should not worry as they can show their physical vaccination certificate or app with the following details in English, or translated to English with notarisation:
+<b>If verification fails or if travellers do not have a digitally verifiable vaccination certificate, travellers should not worry as they can show their physical vaccination certificate or app instead </b> with the following details in English, or translated to English with notarisation:
 <ol style="padding-left: 20px; list-style-type: lower-roman;">
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
