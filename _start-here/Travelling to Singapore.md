@@ -108,15 +108,15 @@ Click here to return to the <a href="#top">top</a>.
 
 ### 3. Vaccinated Travel Framework – Summary of Border Measures
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to Green or Red List countries, as well as COVID-19 vaccination status.</p>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to countries/regions in the General Travel or Restricted Category, as well as COVID-19 vaccination status.</p>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If your 7-day travel history consists only of countries in the General Category, you will be subject to the following border measures.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If your 7-day travel history consists only of countries in the General Travel Category, you will be subject to the following border measures.</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 <table>
 	<thead>
 		<tr>
-		<th rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>General Category Countries/Regions</b></th>
+		<th rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>General Travel Category Countries/Regions</b></th>
 			<th colspan="2" style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center"><b>Summary of Travel Requirements</b></th>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ Click here to return to the <a href="#top">top</a>.
 			<ol style="list-style-type: lower-roman; line-height:1.35;">
 				<li style="line-height:1.35; font-size:16px;">COVID-19 Polymerase Chain Reaction Test (PCR Test) within 2 days before departure for Singapore;</li>
 				<li style="line-height:1.35; font-size:16px;">On-arrival PCR test; </li>
-				<li style="line-height:1.35; font-size:16px;">7-day SHN at a dedicated <a href="/health/shn#sdf" target="_blank">Stay-Home Notice facility (SDF)</a></li>
+				<li style="line-height:1.35; font-size:16px;">7-day SHN at a <a href="/health/shn#sdf" target="_blank">Stay-Home Notice dedicated facility (SDF)</a></li>
 				<li style="line-height:1.35; font-size:16px;">SHN-exit PCR test</li>
 				</ol>
 			</td>

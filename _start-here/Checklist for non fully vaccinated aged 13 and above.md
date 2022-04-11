@@ -186,7 +186,7 @@ input:checked + label + .content {
 <input id="STVs" type="checkbox">
 	<label style="background-color: #23537a;" for="STVs"><b>Foreigners without Singapore Long-Term Pass</b></label>
 <div style="background-color:#edf4fa;" class="content">
-	<ol style="list-style-type: decimal;">
+	<ol style="list-style-type: lower-latin;">
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Travel insurance with minimum coverage of S$30,000 for any COVID-19 related medical charges.<sup>1</sup> Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>)</li>
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions </li>
 	</ol>
@@ -250,7 +250,7 @@ input:checked + label + .content {
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">
-		<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+		<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Direct Journey to Singapore</b>: Traveller A is scheduled to depart for Singapore on 3 Nov 2022, 2359h. The earliest he can take his PDT is on 1 Nov 2022, 0001h. </li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Less than 24-hour stay at transit location before arrival in Singapore: </b>: Traveller B is scheduled for departure on 3 Nov 2022 from Airport A. He will transit at Airport B for a period lasting less than 24 hours. The earliest he should take his PDT is on 1 Nov 2022, before his departure from Airport A.</li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>More than 24-hour stay at transit location before arrival in Singapore: </b>: Traveller C is scheduled for departure from Airport A on 3 Nov 2022. He will transit in Airport B for a period lasting more than 24 hours. In this scenario, he will take his PDT at Airport B, within 2 days before his connecting flight to Singapore.</li>
@@ -264,7 +264,7 @@ input:checked + label + .content {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="line-height:1.35; font-size:18px;">You will be placed on 7-day Stay Home Notice (SHN) upon arrival. During this period, you will remain in your declared SHN accommodation for the full 7 days (see Stage 4 for details).</p>
 <p style="line-height:1.35; font-size:18px; margin-top:10px;">Secure any of the following accommodation for at least 7 days for your SHN:</p>
-<ol style="padding-left: 20px; margin-bottom:0px; list-style-type:disc;">
+<ol style="padding-left: 20px; margin-bottom:0px; list-style-type:lower-latin;">
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Place of residence;</li> 
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;"><a href="/files/serviced-apartments.pdf" target="_blank">Serviced apartment</a>; or</li>
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Hotel of choice from this <a href="https://sha.org.sg/stay-home-notice" target="_blank">non-exhaustive list</a>.</li>
@@ -295,7 +295,7 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	<p style="line-height:1.35; margin-bottom:10px; font-size:18px;">If you are a visitor and do not already have the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether contact tracing mobile application</a>, install it using <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-" target="_blank">this guide</a>, and only activate the app after clearing immigration. Only travellers aged 6 or below this year are exempted from installing TraceTogether.</p>
 	<p style="line-height:1.35; font-size:18px; margin-top: 20px; margin-bottom:10px;">If you encounter issues activating TraceTogether:</p>
-	<ol style="padding-left: 20px; margin-top:10px; list-style-type: decimal;">
+	<ol style="padding-left: 20px; margin-top:10px; list-style-type: lower-latin;">
 		<li style="font-size:18px; padding-left: 20px; margin-top:20px; margin-bottom:0px; line-height:1.35;">Submit a request for assistance to <a href="mailto:support@tracetogether.gov.sg" target="_blank">support@tracetogether.gov.sg</a>; <b>OR</b></li>
 		<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;"><a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674443" target="_blank">Collect your TraceTogether token for a one-time fee of S$13</a></li>
 </ol>
@@ -326,7 +326,7 @@ input:checked + label + .content {
 &#9634; &nbsp;&nbsp;<b>B) Commute to declared Stay-Home Notice (SHN) accommodation</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Following immigration clearance, you will:
-	<ol style="padding-left: 20px; margin-top:20px;">
+	<ol style="padding-left: 20px; margin-top:20px; list-style-type: lower-latin;">
 <li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Receive a 7-day Stay-Home Notice (SHN) via the email address provided in your SGAC declaration; and</li>
 		<li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Commute directly to your declared SHN accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is prohibited.</li>
 	</ol>
@@ -453,7 +453,7 @@ input:checked + label + .content {
 &#9634; &nbsp;&nbsp;<b>B) Fulfil Pass Requirements [Long-Term Pass Holders only]</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Complete the full vaccination regimen <b>within two months of arrival</b> if you are:</p>
-<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Aged 13 and above; AND</li>
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Hold a Long-term Pass, e.g. Student’s Pass, Work Pass.</li>
 	</ol>
