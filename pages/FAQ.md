@@ -85,17 +85,6 @@ Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_b
 		<li style="line-height:1.35; margin-top:10px;">You replaced any non-latin special characters in your name as per this <a href="#specialchar">FAQ</a>.</li>
 	</ol>
 
-Even if you have faced uploading errors, you may continue to show your vaccination app or certificate at boarding/immigration with the following details if they are in English or translated to English with notarisation:
-
-<ol style="padding-left: 20px; list-style-type: lower-roman;">
-		<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Country of vaccination</li>
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
-		</ol>
-
-
 For further assistance on certificate uploading issues, you may write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide supporting details and screenshots of the errors encountered. If the issue is with your vaccination certificate itself (e.g. issued certificate does not have a name matching with your passport), you must approach your certificate issuer instead.
 
 
