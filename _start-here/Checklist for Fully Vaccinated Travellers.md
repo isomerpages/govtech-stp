@@ -87,7 +87,7 @@ input:checked + label + .content {
 	
 <body>	
 <input id="vaxSG" type="checkbox">
-<label for="vaxSG"><b>I am Vaccinated In Singapore</b></label>
+<label for="vaxSG"><b>I am Vaccinated in Singapore</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b>If you <font style="color:red;">have</font> an active Singpass account</b>, your vaccination status can be retrieved from your <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> mobile applications.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b>If you <font style="color:red;">do not have</font> an active Singpass account, or have difficulties retrieving your vaccination status via <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></b>, you can prove your vaccination status by:</p>
@@ -97,7 +97,7 @@ input:checked + label + .content {
 	</ol>	
 </div>
 <input id="vaxoverseas" type="checkbox">
-<label for="vaxoverseas"><b>I am Vaccinated Outside Singapore</b></label>
+<label for="vaxoverseas"><b>I am Vaccinated outside Singapore</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;"><b>If you <font style="color:red;">have</font> a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised Digitally Verifiable Vaccination Certificate (DVC)</a></b>, use the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a> to verify that your DVC is recognised by the Singapore authorities. The VCP will issue a vaccination acceptance letter if the verification is successful, which you can use for boarding and immigration checks. If you are unable to get your DVC verified, troubleshoot your submission with the <a href="/faq#vaxcert" target="_blank">vaccination certificate FAQ</a>. If still faced with uploading issues, refer to the instructions below for travellers with non-DVCs.
 </p>
