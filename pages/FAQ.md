@@ -49,7 +49,8 @@ Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_b
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
 	</ol>
 
-<!--list of accepted digital certs to be provided by MOT in their excel sheet – combine where possible e.g. all the EUDCC countries in the same row-->
+<b>Travellers who are vaccinated in Singapore</b> may also produce the hardcopy Singapore Vaccination Card as an accepted proof of vaccination.
+
 
 <div id="invalidcode"></div>
 
