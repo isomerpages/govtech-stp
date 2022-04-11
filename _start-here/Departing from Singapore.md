@@ -39,6 +39,8 @@ On this page, travellers intending to depart from Singapore can find information
 
 <p style="margin-top:20px; margin-bottom:10px; font-size:20px; line-height:1.35;">For details related to the cost and administration of the test, travellers should enquire directly with the clinic. Travellers should note that government subsidies cannot be used to offset the cost of the test, and a test memo will not be issued for any government-paid-for tests.</p>
 
+<p style="margin-top:20px; margin-bottom:10px; font-size:20px; line-height:1.35;">Travellers who had recovered from COVID-19 and who are required to show proof of first infection or recovery can also visit any <a href="https://go.gov.sg/community-ART-test" target="_blank">Combined Test Centre/Quick Test Centre</a> to undergo a supervised ART and have their results documented.</p>
+
 ---
 
 <a href="#top">Click here</a> to return to the top.
