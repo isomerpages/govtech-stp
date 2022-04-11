@@ -56,6 +56,17 @@ Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_b
 
 #### 2. What should I do if my Vaccination Certificates are not accepted in the Vaccination Check Portal or SG Arrival Card?
 
+<b>If verification fails or if travellers do not have a digitally verifiable vaccination certificate, travellers can show their physical vaccination certificate or app instead </b> with the following details in English, or translated to English with notarisation:
+<ol style="padding-left: 20px; list-style-type: lower-roman;">
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Country of vaccination</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
+	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
+	</ol>
+
+<b>Travellers who are vaccinated in Singapore</b> may also produce the hardcopy Singapore Vaccination Card as an accepted proof of vaccination.
+
 Please attempt re-uploading your QR code, and ensure that:
 <ol style="list-style-type:disc;">
 	<li style="line-height:1.35; margin-top:10px;">You are using the ‘International’/‘Travel’ version of your vaccination certificate. A common issue is that travellers holding certificates issued by the following countries upload their domestic certificate instead of their travel certificate.
