@@ -87,7 +87,7 @@ input:checked + label + .content {
 	
 <body>	
 <input id="vaxSG" type="checkbox">
-<label for="vaxSG"><b>I am Vaccinated in Singapore</b></label>
+<label for="vaxSG"><b>I am Vaccinated In Singapore</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b>If you <font style="color:red;">have</font> an active Singpass account</b>, your vaccination status can be retrieved from your <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> mobile applications.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b>If you <font style="color:red;">do not have</font> an active Singpass account, or have difficulties retrieving your vaccination status via <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></b>, you can prove your vaccination status by:</p>
