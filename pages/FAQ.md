@@ -402,6 +402,18 @@ Click here to [Go Back To Top](#top).
 
 ### 5) COVID-19 Tests for Travellers 
 
+#### 1. Which travellers are required to do a pre-departure COVID-19 test?
+
+Only travellers born before 2020 (i.e. above two years old) who belong to any category of travellers below are required to do a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
+
+<ol style="list-style-type:lower-alpha;">
+<li style="padding-left:15px;">Fully-vaccinated travellers arriving in Singapore via air or sea; or</li>
+	<li style="padding-left:15px;">All non-fully vaccinated travellers</li>
+	</ol>
+	
+Recently-recovered travellers who are fully vaccinated are exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 7 to 90 days before their date of departure from Singapore.
+
+
 
 #### 1. If I am entering a foreign country/region for a very short trip, can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for departure, to fulfil the pre-departure test requirement for my return leg to Singapore?
 
