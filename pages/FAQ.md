@@ -415,7 +415,7 @@ Recently-recovered travellers who are fully vaccinated are exempted from pre-dep
 
 
 
-#### 1. If I am entering a foreign country/region for a very short trip, can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for departure, to fulfil the pre-departure test requirement for my return leg to Singapore?
+#### 2. If I am entering a foreign country/region for a very short trip, can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for departure, to fulfil the pre-departure test requirement for my return leg to Singapore?
 
 You will fulfil the pre-departure test requirement <b>only if the PCR test or professionally administered/supervised ART was taken within 2 days before departure for Singapore.</b>
 
