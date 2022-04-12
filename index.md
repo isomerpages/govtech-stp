@@ -31,12 +31,26 @@ sections:
         - title: Departing from Singapore <span style="font-size:20px;"> &#187; </span>
           description: Click Here
           url: /departing/overview
-  - resources:
-      title: Press Releases
-      button: View More
-      subtitle: News on border measures
   - infopic:
-      title: An Inter-Agency Collaboration
+      title: <span style="color:#153e66; font-size:38px;">Ministry of Health Website</span>
+      subtitle: Other Resources
+      description: For details on the latest COVID-19 measures, news, and statistics
+      button: Read More
+      url: https://www.moh.gov.sg/
+      image: /images/1200px-MOH_Logo_infopic.svg.png
+      alt: MOH News Highlights
+  - infopic:
+      title: <span style="color:#153e66; font-size:38px;">COVID Recovery for
+        Travellers</span>
+      subtitle: Other resources
+      description: What to do if tested positive for COVID after arriving in Singapore
+      button: Read More
+      url: https://www.covid.gov.sg
+      image: /images/covid_banner.PNG
+      alt: COVID Recovery
+  - infopic:
+      title: <span style="color:#153e66; font-size:38px;">An Inter-Agency
+        Collaboration</span>
       description: The SafeTravel Website is brought to you by the <a
         href="https://www.ica.gov.sg/">Immigration & Checkpoints Authority</a>
         and these agencies<span>:</span>
