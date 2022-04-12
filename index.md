@@ -42,4 +42,12 @@ sections:
         and these agencies<span>:</span>
       alt: Inter Agencies Collaboration
       image: /images/STO_Banner.gif
+  - infopic:
+      title: Ministry of Health News Highlights
+      subtitle: Other Resources
+      description: Latest news on local and border health measures
+      button: Read More
+      url: https://www.moh.gov.sg/news-highlights
+      image: /images/1200px-MOH_Logo.svg.png
+      alt: MOH News Highlights
 ---
