@@ -32,7 +32,7 @@ sections:
           description: Click Here
           url: /departing/overview
   - infopic:
-      title: COVID Recovery for Travellers
+      title: <span style="color:black; font-size:36px;">COVID Recovery for Travellers</span>
       subtitle: Other resources
       description: What to do if tested positive for COVID after arriving in Singapore
       button: Read More
@@ -40,7 +40,7 @@ sections:
       image: /images/covid_banner.PNG
       alt: COVID Recovery
   - infopic:
-      title: <span style="color:black; font-size:34px;">Ministry of Health News Highlights</span>
+      title: <span style="color:black; font-size:36px;">Ministry of Health News Highlights</span>
       subtitle: Other Resources
       description: Latest news on local and border health measures
       button: Read More
@@ -49,7 +49,7 @@ sections:
       alt: MOH News Highlights
       background-color: #7787a3
   - infopic:
-      title: An Inter-Agency Collaboration
+      title: <span style="color:black; font-size:36px;">An Inter-Agency Collaboration</span>
       description: The SafeTravel Website is brought to you by the <a
         href="https://www.ica.gov.sg/">Immigration & Checkpoints Authority</a>
         and these agencies<span>:</span>
