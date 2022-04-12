@@ -101,7 +101,7 @@ permalink: /stpl/vaccination-requirements
 
 ### 4. Travellers who may enter without proof of vaccination
 
-<p style="font-size:18px; margin-top:10px; line-height:1.5;">The following travellers may enter Singapore under the Student’s Pass Holder Lane without proof of vaccination:</p>
+<p style="font-size:18px; margin-top:10px; line-height:1.5;">The following Student's Pass Holders and eligible accompanying family members may enter Singapore without proof of vaccination; subject to prevailing health protocols which may include a 7-day Stay-Home Notice:</p>
 
 <ol>
 	<li style="line-height:1.5; font-size:18px;">Travellers who are below 18 years old on the date of entry.
