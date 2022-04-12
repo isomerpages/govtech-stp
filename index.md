@@ -47,7 +47,7 @@ sections:
       url: https://www.moh.gov.sg/news-highlights
       image: /images/1200px-MOH_Logo_infopic.svg.png
       alt: MOH News Highlights
-      background: #7787a3;
+      background-color: #7787a3;
   - infopic:
       title: An Inter-Agency Collaboration
       description: The SafeTravel Website is brought to you by the <a
