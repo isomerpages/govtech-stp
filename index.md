@@ -45,7 +45,7 @@ sections:
       description: Latest news on local and border health measures
       button: Read More
       url: https://www.moh.gov.sg/news-highlights
-      image: <img src="/images/1200px-MOH_Logo_infopic.svg.png" margin:auto;">
+      image: /images/1200px-MOH_Logo_infopic.svg.png
       alt: MOH News Highlights
   - infopic:
       title: <span style="color:black; font-size:36px;">An Inter-Agency Collaboration</span>
