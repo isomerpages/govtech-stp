@@ -72,7 +72,7 @@ permalink: /stpl/vaccination-requirements
 									  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Vaccination date(s) (if more than 1 dose, the dates each dose was administered)</li>
 				</ul>
 								<p style="margin-top:0px; font-size:16px; line-height:1.5;">
-									<b>Note</b> If the vaccination certificate is not in English, it should be translated to English and notarised.
+									<b>Note:</b> If the vaccination certificate is not in English, it should be translated to English and notarised.
 				</p>
  </td>
     </tr>
