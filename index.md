@@ -32,6 +32,14 @@ sections:
           description: Click Here
           url: /departing/overview
   - infopic:
+      title: COVID Recovery for Travellers
+      subtitle: Other resources
+      description: What to do if tested positive for COVID after arriving in Singapore
+      button: Read More
+      url: https://www.covid.gov.sg
+      image: /images/covid_banner.PNG
+      alt: COVID Recovery
+  - infopic:
       title: Ministry of Health News Highlights
       subtitle: Other Resources
       description: Latest news on local and border health measures
