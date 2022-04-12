@@ -18,7 +18,7 @@ third_nav_title: Travelling to Singapore
 	</div>
 	
 <p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35;">Travellers are advised to follow all the steps in the checklist below to ensure that their journey to Singapore is smooth and that they will be accorded the measures for vaccinated travellers. Details can be found in the respective steps below. </p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Step 1.	<a href="">Ensure COVID-19 vaccination documentation is in order</a></p>
+<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Step 1.	<a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></p>
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Step 2.	<a href="">Obtain entry approvals and additional travel documentation if needed</a></p>
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Step 3.	<a href="">Fill SG Arrival Card up to 3 days before arrival</a> </p>
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Step 4.	<a href="">Take a COVID-19 Pre-Departure Test (PDT) if required, up to 2 days before departure</a></p>
@@ -26,11 +26,13 @@ third_nav_title: Travelling to Singapore
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Step 6.	<a href="">Immigration clearance in Singapore</a></p>
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Step 7.	<a href="">Observe local health protocols</a></p>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
-	
+<!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>-->
+
+<div id="step1"></div>
+
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"></p>
 
-<div id="1A" style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>A) Ensure Vaccination Documentation is in Order</b></div>
+<div id="1A" style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c); font-size:18px;">&#9634;&nbsp;<b>Step 1: Ensure COVID-19 Vaccination Documentation is in Order</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">To qualify for the health and entry protocols accorded to fully vaccinated travellers, ensure that you have the relevant proof of vaccination if you are aged 13 and above.</p>
 <p style=" font-size:18px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Click “+” below for details on acceptable vaccination documents:</p>
