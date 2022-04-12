@@ -40,7 +40,7 @@ sections:
       image: /images/covid_banner.PNG
       alt: COVID Recovery
   - infopic:
-      title: <font style="color:black;">Ministry of Health News Highlights</font>
+      title: <font style="color:black; size:16px;">Ministry of Health News Highlights</font>
       subtitle: Other Resources
       description: Latest news on local and border health measures
       button: Read More
