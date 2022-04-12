@@ -129,7 +129,7 @@ input:checked + label + .content {
 	
 <div id="step2"></div>
 
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"></p>	
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>	
   
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp; <b>Step 2:  Obtain entry approvals and additional documentation if needed</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
@@ -232,7 +232,10 @@ input:checked + label + .content {
 </body>
 	</html>
 	</div>
+	
+<div id="step3"></div>
 
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
 
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 3:  Fill SG Arrival Card up to 3 days before arrival </b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
@@ -318,6 +321,7 @@ input:checked + label + .content {
 	<p style="font-size:16px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><i>Footnote 1: If you are entering Singapore on 1, 2 and 3 March, three separate SGAC submissions must be made.</i></p>
 </div>	
 </body>
+	</html>
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT)</b></div>
