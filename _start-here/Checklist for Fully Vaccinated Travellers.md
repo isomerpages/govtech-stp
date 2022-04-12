@@ -54,9 +54,9 @@ label {
     padding: 10px 30px;
     margin: 0 0 1px 0;
     cursor: pointer;
-    background: #d5d5d5;
+    background: #346f9e;
     border-radius: 3px;
-    color: #000;
+    color: #FFF;
     transition: ease .5s;
 	position: relative;
 }	
