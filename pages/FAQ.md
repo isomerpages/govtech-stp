@@ -572,7 +572,7 @@ If you were fully vaccinated in <b>Singapore</b>, you should be able to see your
 If you were fully vaccinated <b>overseas</b>, please ensure that you have:
 
 <ol style="list-style-type:lower-roman;">
-	<li>Uploaded your vaccination certificate on your Vaccination Check Portal/SG Arrival Card submission; or</li>
+	<li><a href="#invalidcode">Uploaded your vaccination certificate on your Vaccination Check Portal/SG Arrival Card submission</a>; or</li>
 	<li>Present your overseas vaccination certificate at the immigration counter on-arrival. </li>
 	</ol>
 
