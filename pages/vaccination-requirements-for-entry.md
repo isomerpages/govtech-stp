@@ -128,13 +128,13 @@ permalink: /stpl/vaccination-requirements
 
 <div id="summary"></div>
 
-### 6. Summary of the vaccination requirements for entry under the Student’s Pass Holder Lane (STPHL)  
+### 6. Summary of the vaccination requirements for entry for Student’s Pass (STP) Holders and eligible accompanying family members 
 
-<p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged below 12 years old on the date of entry:</u></b></p>
+<p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged 12 years old and below on the date of entry:</u></b></p>
 
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">The vaccination condition for entry will not apply to you.</p>
 
-<p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged 12 years old to below 18 years old on the date of entry</u>:</b></p>
+<p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged 13 years old to below 18 years old on the date of entry</u>:</b></p>
 <table>
   <thead>
     <tr>
