@@ -45,9 +45,8 @@ sections:
       description: Latest news on local and border health measures
       button: Read More
       url: https://www.moh.gov.sg/news-highlights
-      image: /images/1200px-MOH_Logo_infopic.svg.png
+      image: <img src="/images/1200px-MOH_Logo_infopic.svg.png" margin:auto;">
       alt: MOH News Highlights
-      background-color: #7787a3
   - infopic:
       title: <span style="color:black; font-size:36px;">An Inter-Agency Collaboration</span>
       description: The SafeTravel Website is brought to you by the <a
