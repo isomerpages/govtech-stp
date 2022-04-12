@@ -52,5 +52,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+resources_name:
 google_analytics: ""
 is_government: false
