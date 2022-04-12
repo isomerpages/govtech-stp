@@ -324,7 +324,11 @@ input:checked + label + .content {
 	</html>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT)</b></div>
+<div id="step4"></div>
+
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 4:  Take a COVID-19 Pre-Departure Test (PDT) if required, up to 2 days before departure</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style="font-size:18px;line-height:1.35;">A Pre-Departure Test (PDT) is only <b style="color:red;">not</b> required if you:</p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
@@ -333,7 +337,7 @@ input:checked + label + .content {
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Tested positive for COVID-19 <b>between 7 to 90 days</b> before your date of departure for Singapore - use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if the pre-departure test can be waived, and the documentation required to prove recovery. 
 </li>
 </ol>
-<p style="font-size:18px; line-height:1.35;">Otherwise, if you are arriving by air/sea, and born before 2020 (i.e. above 2 years old), take any of the following COVID-19 tests within 2 days before departure:
+<p style="font-size:18px; line-height:1.35;">Otherwise, if you are arriving by air/sea, and born before 2020 (i.e. above 2 years old), take any of the following COVID-19 tests <b>within 2 days before departure</b>:
 </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) at an <a href="https://go.gov.sg/accreditation-bodies-for-covid19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a>; <b>OR</b>
@@ -344,7 +348,7 @@ input:checked + label + .content {
 					<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Singapore Citizens, PRs and Long-Term Pass Holders (including In-Principle Approval holders) only]</b> Self-administered Antigen Rapid Test (ART) remotely supervised by an <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">approved ART provider in Singapore</a></li>
 			</ol></li>
 	</ol>
-<p style="margin-top: 0px; margin-bottom:20px; font-size:18px; line-height:1.35;">Ask for a non-handwritten PDT report that is in English (or accompanied with a notarised English Translation) containing the following details:
+<p style="margin-top: 0px; margin-bottom:20px; font-size:18px; line-height:1.35;">The Pre-Departure Test report must be in English (or accompanied with a notarised English Translation) containing the following details:
 			<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 				<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Reflects the date and result of the COVID-19 test.</li>
@@ -353,7 +357,7 @@ input:checked + label + .content {
 <table>
   <thead>
     <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>When Should I take my PDT:</b></th>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Illustration of acceptable 2-day period for PDT</b></th>
     </tr>
   </thead>
   <tbody>
