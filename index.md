@@ -36,13 +36,6 @@ sections:
       button: View More
       subtitle: News on border measures
   - infopic:
-      title: An Inter-Agency Collaboration
-      description: The SafeTravel Website is brought to you by the <a
-        href="https://www.ica.gov.sg/">Immigration & Checkpoints Authority</a>
-        and these agencies<span>:</span>
-      alt: Inter Agencies Collaboration
-      image: /images/STO_Banner.gif
-  - infopic:
       title: Ministry of Health News Highlights
       subtitle: Other Resources
       description: Latest news on local and border health measures
@@ -50,4 +43,11 @@ sections:
       url: https://www.moh.gov.sg/news-highlights
       image: /images/1200px-MOH_Logo.svg.png
       alt: MOH News Highlights
+  - infopic:
+      title: An Inter-Agency Collaboration
+      description: The SafeTravel Website is brought to you by the <a
+        href="https://www.ica.gov.sg/">Immigration & Checkpoints Authority</a>
+        and these agencies<span>:</span>
+      alt: Inter Agencies Collaboration
+      image: /images/STO_Banner.gif
 ---
