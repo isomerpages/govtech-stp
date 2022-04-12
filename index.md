@@ -40,14 +40,14 @@ sections:
       image: /images/covid_banner.PNG
       alt: COVID Recovery
   - infopic:
-      title: <span style="color:black; font-size:40px;">Ministry of Health News Highlights</span>
+      title: <span style="color:black; font-size:32px;">Ministry of Health News Highlights</span>
       subtitle: Other Resources
       description: Latest news on local and border health measures
       button: Read More
       url: https://www.moh.gov.sg/news-highlights
       image: /images/1200px-MOH_Logo_infopic.svg.png
       alt: MOH News Highlights
-      background-color: #7787a3;
+      background-color: #7787a3
   - infopic:
       title: An Inter-Agency Collaboration
       description: The SafeTravel Website is brought to you by the <a
