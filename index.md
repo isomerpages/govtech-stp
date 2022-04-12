@@ -32,7 +32,7 @@ sections:
           description: Click Here
           url: /departing/overview
   - infopic:
-      title: <span style="color:black; font-size:38px;">Ministry of Health Website</span>
+      title: <span style="color:#153e66; font-size:38px;">Ministry of Health Website</span>
       subtitle: Other Resources
       description: For details on the latest COVID-19 measures, news, and statistics
       button: Read More
