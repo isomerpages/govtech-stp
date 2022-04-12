@@ -373,7 +373,11 @@ input:checked + label + .content {
 	</table>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>E) Install and Activate TraceTogether</b></div>
+<div id="step5"></div>
+
+<p style="font-size:18px; margin-top: 10px; margin-bottom:30px; line-height:1.35;"></p>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 5:  Install TraceTogether App</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you are a visitor and do not already have the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether contact tracing mobile application</a>, install it using <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-" target="_blank"> this guide</a>, and only activate the app after clearing immigration. Only travellers aged 6 or below this year are exempted from installing TraceTogether.</p>
 	<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you encounter issues activating TraceTogether:
@@ -384,16 +388,20 @@ input:checked + label + .content {
 	</p>
 </div>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
+<!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>-->
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>Pre-boarding Document Checks</b></div>
+<div id="step6"></div>
+
+<p style="font-size:18px; margin-top: 10px; margin-bottom:30px; line-height:1.35;"></p>
+
+<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 6:  Immigration Clearance in Singapore</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">Transport operators may ask for documents listed at Stage 1 during pre-boarding checks. Failing which, you may be denied boarding.</p>
 	</div>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Immigration Clearance in Singapore</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Immigration Clearance in Singapore</b></div>-->
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>Immigration Clearance</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 6:  Immigration Clearance in Singapore</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes.</p>
@@ -401,9 +409,13 @@ input:checked + label + .content {
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you are symptomatic on arrival, you may be directed to take a COVID-19 test or  be subjected to other requirements as instructed by officers. Each Antigen Rapid Test (ART) administered will cost S$30, while each COVID-19 Polymerase Chain Reaction Test (PCR Test) will cost S$138.</p>
 </div>
 
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols during Stay in Singapore</b></div>
+<!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols during Stay in Singapore</b></div>-->
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></div>
+<div id="step6"></div>
+
+<p style="font-size:18px; margin-top: 10px; margin-bottom:30px; line-height:1.35;"></p>
+
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 7:  Observe Local Health Protocols</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Comply with the latest public health measures, including the use of the TraceTogether app to show proof of vaccination in settings where <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-differentiated Safe Management Measures (VDS)</a> apply.</p>
