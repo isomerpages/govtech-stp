@@ -31,10 +31,6 @@ sections:
         - title: Departing from Singapore <span style="font-size:20px;"> &#187; </span>
           description: Click Here
           url: /departing/overview
-  - resources:
-      title: Press Releases
-      button: View More
-      subtitle: News on border measures
   - infopic:
       title: Ministry of Health News Highlights
       subtitle: Other Resources
