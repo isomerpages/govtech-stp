@@ -186,7 +186,7 @@ permalink: /stpl/vaccination-requirements
     </tr>	
 	    <tr>
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Partially vaccinated/ Unvaccinated</td>
-		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Not allowed entry. <br><br> Those with extenuating reasons for not being fully vaccinated before arrival may submit an entry appeal <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">here</a>, at least 3 weeks before the intended date of entry.</td>
+		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Not allowed entry. <br><br> Those with extenuating reasons for not being fully vaccinated before arrival may submit an entry appeal <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">here</a>, at least 1 week before the intended date of entry.</td>
     </tr>	  
 	</tbody>
 	</table>
