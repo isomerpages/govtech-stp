@@ -145,19 +145,19 @@ permalink: /stpl/vaccination-requirements
     <tr>
       <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated with <a href="/arriving/overview#vaccination" target="_blank">full regimen of WHO Emergency Use Listing (WHO EUL) vaccines</a> at least two weeks before arrival</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated in Singapore</td>
-	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">None</td>
+	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Show proof of vaccination at the port of departure/ checkpoint.</td>
     </tr>
 	   <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated overseas</td>
-			 	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><a href="#additional-requirements">Update vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival </td>
+			 	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Show proof of vaccination at the port of departure/ checkpoint.<br><br><a href="#additional-requirements">Update vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival </td>
     </tr>
 	   <tr>
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Medically ineligible for vaccination</td>
-		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Undergo medical review in Singapore within 30 days of arrival and be certified medically ineligible for all COVID-19 vaccines under Singapore’s National Vaccination Programme. Otherwise, complete full vaccination regime within 2 months of arrival.</td>
+		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Undergo medical review in Singapore within 30 days of arrival and be certified medically ineligible for all COVID-19 vaccines under Singapore’s National Vaccination Programme. Otherwise, complete full vaccination regime within 2 months of arrival.<br><br><b>[For eligible accompanying family members of STP holders who do not hold Long-Term Passes only]</b> Submit a request for exemption (with doctor’s memo) at least 1 week before arrival.</td>
     </tr>	
 	    <tr>
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Partially vaccinated/ Unvaccinated</td>
-		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Complete full vaccination regime within 2 months of arrival</td>
+		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Complete full vaccination regime within 2 months of arrival<br><br><b>[For eligible accompanying family members of STP holders who do not hold Long-Term Passes only]</b> Not allowed entry. Those with extenuating reasons for not being fully vaccinated before arrival may submit an entry appeal here, at least 1 week before the intended date of entry.</td>
     </tr>	  
 	</tbody>
 	</table>
@@ -182,7 +182,7 @@ permalink: /stpl/vaccination-requirements
     </tr>
 	   <tr>
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Medically ineligible for vaccination</td>
-		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">Submit a request</a> for exemption <b>(with doctor’s memo)</b> 3 weeks before arrival.<br><br>Undergo medical review in Singapore within 30 days of arrival and be certified medically ineligible for all COVID-19 vaccines under Singapore’s National Vaccination Programme. Otherwise, complete full vaccination regime within 2 months of arrival.</td>
+		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">Submit a request</a> for exemption <b>(with doctor’s memo)</b> at least 1 week before arrival.<br><br>Undergo medical review in Singapore within 30 days of arrival and be certified medically ineligible for all COVID-19 vaccines under Singapore’s National Vaccination Programme. Otherwise, complete full vaccination regime within 2 months of arrival.</td>
     </tr>	
 	    <tr>
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Partially vaccinated/ Unvaccinated</td>
