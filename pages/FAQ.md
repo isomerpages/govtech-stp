@@ -36,27 +36,11 @@ Travellers may click on the links below for FAQs relating to the following agenc
 
 ### 1) Digitally Verifiable Vaccination Certificate 
 
-#### 1. What is considered a digitally verifiable vaccination certificate and how can I check its validity?
-
-Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised digitally verifiable vaccination certificate</a> can use the <a href="https://go.gov.sg/vcp-portal" target="_blank">Vaccination Check Portal</a> prior to their trip to see if the certificate can be verified by the Singapore authorities, or upload it via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card</a> up to 3 days before arrival. 
-
-<b>If verification fails or if travellers do not have a digitally verifiable vaccination certificate, travellers can show their physical vaccination certificate or app instead </b> with the following details in English, or translated to English with notarisation:
-<ol style="padding-left: 20px; list-style-type: lower-roman;">
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Country of vaccination</li>
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
-	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
-	</ol>
-
-<b>Travellers who are vaccinated in Singapore</b> may also produce the hardcopy Singapore Vaccination Card as an accepted proof of vaccination.
-
-
 <div id="invalidcode"></div>
 
-#### 2. What should I do if my Vaccination Certificates are not accepted in the Vaccination Check Portal or SG Arrival Card?
+#### 1. What should I do if my Vaccination Certificates are not accepted in the Vaccination Check Portal or SG Arrival Card?
 
-<b>If verification fails or if travellers do not have a digitally verifiable vaccination certificate, travellers can show their physical vaccination certificate or app instead </b> with the following details in English, or translated to English with notarisation:
+<b>If verification fails or if travellers do not have a digitally verifiable vaccination certificate, travellers can show their physical vaccination certificate or vaccination app instead</b> with the following details in English, or translated to English with notarisation:
 <ol style="padding-left: 20px; list-style-type: lower-roman;">
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Name (per travel document used for entry)</li>
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
@@ -65,7 +49,7 @@ Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_b
 	<li style="padding-left: 20px; line-height:1.35; margin-top:10px;">Vaccination date(s)</li>
 	</ol>
 
-<b>Travellers who are vaccinated in Singapore</b> may produce the hardcopy Singapore Vaccination Card as an accepted proof of vaccination. You can also attempt to re-upload your digital certificate QR code, and ensure that:
+You can also attempt to re-upload your digital certificate QR code, and ensure that:
 <ol style="list-style-type:disc;">
 	<li style="line-height:1.35; margin-top:10px;">You are using the ‘International’/‘Travel’ version of your vaccination certificate. A common issue is that travellers holding certificates issued by the following countries upload their domestic certificate instead of their travel certificate.
 	<ol style="padding-left: 20px; list-style-type: square;">
@@ -88,7 +72,7 @@ Travellers with a <a href="/files/acceptedvaccinationcertificate.pdf" target="_b
 For further assistance on certificate uploading issues, you may write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> and provide supporting details and screenshots of the errors encountered. If the issue is with your vaccination certificate itself (e.g. issued certificate does not have a name matching with your passport), you must approach your certificate issuer instead.
 
 
-#### 3. Why are only SMART Health Cards by certain issuers accepted?
+#### 2. Why are only SMART Health Cards by certain issuers accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
 
@@ -96,7 +80,7 @@ Please note that individuals with an Excelsior Pass issued by the New York State
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. The list will be expanded as more states and issuers are onboarded.
 
-#### 4. My vaccination certificate was issued in Hong Kong SAR, but I am having issues uploading the QR code. What’s going wrong?
+#### 3. My vaccination certificate was issued in Hong Kong SAR, but I am having issues uploading the QR code. What’s going wrong?
 
 Please attempt re-uploading your QR code and ensure that your electronic vaccination record <b>has the name and ID displayed</b> (unmasked). You may refer to <a href="https://www.evt.gov.hk/portal/en/workflow2" target="_blank">these instructions to download your electronic vaccination records</a>.
 
@@ -114,7 +98,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="amendment"></div>
 
-### a. Amendment of Approved Applications (Non-fully Vaccinated Travel Lanes)
+### a. Amendment of Approved Entry Applications
 
 
 #### 1. There is a mistake in my application. Do I need to submit a new application? If so, can I ask for a refund for the previous application?
