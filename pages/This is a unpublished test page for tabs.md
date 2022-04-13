@@ -91,11 +91,11 @@ input ~ .tab {
 </style>
 	</head>
 <body>	
-<button class="pushable" onclick="window.location.href='https://google.com';">
+<a href="https://google.com"><button class="pushable">
   <span class="front">
 	 Push me
   </span>
-</button>
+	</button></a>
 </body>
 </html>
 
