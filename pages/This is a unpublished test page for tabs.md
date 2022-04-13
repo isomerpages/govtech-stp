@@ -2,9 +2,10 @@
 title: This is a unpublished test page for tabs
 permalink: /tabs
 description: ""
-published: false
+published: true
 ---
 
+<html>
 <head>
 <meta charset="utf-8">
 <title>Test Accordion</title>
@@ -61,4 +62,42 @@ input ~ .tab {
 <div class="tab content4">Tab4 Contents</div>
 <div class="tab content5">Tab5 Contents</div>
 </body>
-	
+</html>
+
+<html>
+<head>
+<style>
+  .pushable {
+    background: hsl(340deg 100% 32%);
+    border-radius: 12px;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline-offset: 4px;
+  }
+  .front {
+    display: block;
+    padding: 12px 42px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    background: hsl(345deg 100% 47%);
+    color: white;
+    transform: translateY(-6px);
+  }
+
+  .pushable:active .front {
+    transform: translateY(-2px);
+  }
+</style>
+	</head>
+<body>
+<button class="pushable">
+  <span class="front">
+    Push me
+  </span>
+</button>
+</body>
+</html>
+
+
+
