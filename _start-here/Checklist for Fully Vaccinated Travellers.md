@@ -9,7 +9,7 @@ third_nav_title: Travelling to Singapore
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This checklist is for <b>all modes of arrival to Singapore via air, land or sea.</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This travel checklist is for <b>all travellers, including Singapore Citizens or Permanent Residents</b>, who are:</p>
 		<ol style="padding-left:25px; list-style-type:disc;">
-		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Fully vaccinated against COVID-19; OR</li>
+		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Fully vaccinated against COVID-19 with WHO EUL vaccines*; OR</li>
 			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Aged 12 and below (i.e. born in or after 2010) and not fully vaccinated</li>
 	</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">If you do not meet the above criteria, you can refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">checklist for travellers who are non-fully vaccinated</a>. Travellers transiting in Singapore to another destination without clearing immigration should refer to the<a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. </p>
