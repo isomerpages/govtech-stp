@@ -239,7 +239,7 @@ input:checked + label + .content {
 
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 3:  Fill SG Arrival Card up to 3 days before arrival </b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">The SG arrival card is a simple and free arrival declaration of your travel and health details. </p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">The SG arrival card (SGAC) is a simple and free arrival declaration of your travel and health details. </p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Upon the completion of your SGAC, you will receive an email acknowledgement which you can present for smoother pre-boarding and immigration checks. Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 
 
