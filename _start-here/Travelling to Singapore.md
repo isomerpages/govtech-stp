@@ -112,7 +112,7 @@ Click here to return to the <a href="#top">top</a>.
   <span class="frontT">
 	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align:justify;"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
   <ul style="list-style-type: disc; line-height:1.35; width:auto;">
-	  <li style="line-height:1.35; font-size:20px; text-align:justify;">Aged 13 and above and not fully vaccinated with WHO Emergency Use Listing Vaccines; or  </li>
+	  <li style="line-height:1.35; font-size:20px; text-align:justify;">Aged 13 and above and not fully vaccinated with <br> WHO Emergency Use Listing Vaccines; or  </li>
 	   <li style="line-height:1.35; font-size:20px; text-align:justify;">Certified medically ineligible for COVID-19 vaccinations </li>
 	  </ul>
 	</span>
