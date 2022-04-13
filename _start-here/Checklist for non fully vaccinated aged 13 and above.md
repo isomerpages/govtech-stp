@@ -118,7 +118,7 @@ input:checked + label + .content {
 	</html>
 </div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1B">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad;" id="1B">
 &#9634; &nbsp;&nbsp;<b>B) Obtain Additional Travel-Related Documents</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Prepare the travel documents below, if required, and ensure that your passport is valid for <b>at least 6 months</b>. Entries may be denied if the requisite documents are not produced during pre-boarding or immigration clearance.</p>
 	<p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>(Click on ‘+’ for details on requirements)</b></p> 
@@ -215,14 +215,14 @@ input:checked + label + .content {
 </html>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1D">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;" id="1D">
 &#9634; &nbsp;&nbsp;<b>C) SG Arrival Card</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Complete your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> <b>within 3 days before arrival</b>. This is applicable to all travellers, including Singapore Citizens and Permanent Residents. Upon the completion of your SGAC submission, you will receive an email acknowledgement which you can present for smoother pre-boarding and immigration checks.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 </div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;" id="1E">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;" id="1E">
 &#9634; &nbsp;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT)</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
 <p style="font-size:18px; line-height:1.35;">A Pre-Departure Test (PDT) is only <b style="color:red;">not</b> required if you tested positive for COVID-19 <b>between 14 to 90 days before your date of departure for Singapore</b> - use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if the pre-departure test can be waived, and the documentation required to prove their first infection or recovery.</p>
@@ -261,7 +261,7 @@ input:checked + label + .content {
 	</table>
 	</div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634; <b>E) Secure Stay Home Notice (SHN) Accommodation for at least 7 days</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">&#9634; <b>E) Secure Stay Home Notice (SHN) Accommodation for at least 7 days</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;"><p style="line-height:1.35; font-size:18px;">You will be placed on 7-day Stay Home Notice (SHN) upon arrival. During this period, you will remain in your declared SHN accommodation for the full 7 days (see Stage 4 for details).</p>
 <p style="line-height:1.35; font-size:18px; margin-top:10px;">Secure any of the following accommodation for at least 7 days for your SHN:</p>
@@ -291,7 +291,7 @@ input:checked + label + .content {
 	</table>
 </div>	
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;  <b>F) Install and Activate TraceTogether</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">&#9634;  <b>F) Install and Activate TraceTogether</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
 	<p style="line-height:1.35; margin-bottom:10px; font-size:18px;">If you are a visitor and do not already have the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether contact tracing mobile application</a>, install it using <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-" target="_blank">this guide</a>, and only activate the app after clearing immigration. Only travellers aged 6 or below this year are exempted from installing TraceTogether.</p>
@@ -304,7 +304,7 @@ input:checked + label + .content {
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>Pre-boarding Document Checks</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;; border-bottom:2px solid #adadad; font-size:18px;">
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Transport operators may ask for the documents listed at Stage 1 during pre-boarding checks. Failing which, you may be denied boarding.	
@@ -313,7 +313,7 @@ input:checked + label + .content {
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 3: Immigration Clearance in Singapore</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>A) Immigration Clearance</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
 	 <p style="font-size:18px; margin-top: 10px; margin-bottom: 10px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes, and provide all documents, including proof of tests, and information required by the immigration officer. </p>
@@ -323,7 +323,7 @@ input:checked + label + .content {
 	</p>
 	</div>
 	
-<div id="3B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<div id="3B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>B) Commute to declared Stay-Home Notice (SHN) accommodation</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
 	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Following immigration clearance, you will:
@@ -337,7 +337,7 @@ input:checked + label + .content {
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 4: Stay-Home Notice & COVID-19 Tests</b></div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>A) Stay-Home Notice (SHN) Requirements</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
 	 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">The 7-day Stay-Home Notice (SHN) takes effect immediately upon its issuance. Remain in your declared SHN accommodation for the period specified in the notice, unless you are: 
@@ -434,7 +434,7 @@ input:checked + label + .content {
 </html>
 </div>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>B) Testing Positive for COVID-19</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;border-bottom:2px solid #adadad; font-size:18px;">
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">If you test positive for COVID-19, <a href="https://www.covid.gov.sg/travellers" target="_blank">adhere to these recovery protocols</a>.</p>
@@ -444,13 +444,13 @@ input:checked + label + .content {
 	
 <div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;	margin: 20px 0px 20px 0px;"><b>Stage 5: End of Stay-Home Notice & Stay in Singapore</b></div>
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>A) Abide by Local COVID-19 Safe Management Measures</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;"><p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">You may go about with your activities after completing SHN. However, you should comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>.</p> 
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">If you are not medically exempted from COVID-19 vaccination, you will not qualify for entry into any vaccination-differentiated settings (e.g. attendance at large scale events, dining restrictions).</p>
 </div>	
 	
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>B) Fulfil Pass Requirements [Long-Term Pass Holders only]</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad;font-size:18px;">
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Complete the full vaccination regimen <b>within two months of arrival</b> if you are:</p>
