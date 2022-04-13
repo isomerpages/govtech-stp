@@ -334,7 +334,7 @@ input:checked + label + .content {
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Are entering Singapore via land from Malaysia; <b>OR</b>
 </li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Tested positive for COVID-19 <b>between 7 to 90 days</b> before your date of departure for Singapore - use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if the pre-departure test can be waived, and the documentation required to prove recovery. 
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Tested positive for COVID-19 <b>between 7 to 90 days before your date of departure for Singapore</b> - use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if the pre-departure test can be waived, and the documentation required to prove recovery. 
 </li>
 </ol>
 <p style="font-size:18px; line-height:1.35;">Otherwise, if you are arriving by air/sea, and born before 2020 (i.e. above 2 years old), take any of the following COVID-19 tests <b>within 2 days before departure</b>:
