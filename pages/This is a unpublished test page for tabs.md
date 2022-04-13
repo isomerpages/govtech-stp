@@ -106,7 +106,7 @@ input ~ .tab {
 <html>
 <head>
 <style>
-  .pushable {
+  .pushableT {
     background: hsl(50deg, 100%, 62%);
     border-radius: 12px;
     border: none;
@@ -114,7 +114,7 @@ input ~ .tab {
     cursor: pointer;
     outline-offset: 4px;
   }
-  .front {
+  .frontT {
     display: block;
     padding: 12px 42px;
     border-radius: 12px;
@@ -124,14 +124,14 @@ input ~ .tab {
     transform: translateY(-6px);
   }
 
-  .pushable:active .front {
+  .pushableT:active .front {
     transform: translateY(-2px);
   }
 </style>
 	</head>
 <body>	
-<a href="/arriving/general-travel/non-fully-vaccinated"><button class="pushable">
-  <span class="front">
+<a href="/arriving/general-travel/non-fully-vaccinated"><button class="pushableT">
+  <span class="frontT">
 	 <p style="font-size:20px; margin-top:10px; margin-bottom:20px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
   <ul style="list-style-type: disc; line-height:1.35; text-algin:left">
 	  <li style="line-height:1.35; font-size:20px;">Aged 13 and above and not fully vaccinated with WHO Emergency Use Listing Vaccines; or</li>
