@@ -135,7 +135,7 @@ input ~ .tab {
 <a href="/arriving/general-travel/non-fully-vaccinated"><button class="pushableT">
   <span class="frontT">
 	 <p style="font-size:20px; margin-top:10px; margin-bottom:20px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
-  <ul style="list-style-type: disc; line-height:1.35;">
+  <ul style="list-style-type: disc; line-height:1.35; width:498px;">
 	  <li style="line-height:1.35; font-size:20px; text-align:justify;">Aged 13 and above and not fully vaccinated with WHO Emergency Use Listing Vaccines; or  </li>
 	   <li style="line-height:1.35; font-size:20px; text-align:justify;">Certified medically ineligible for COVID-19 vaccinations </li>
 	  </ul>
