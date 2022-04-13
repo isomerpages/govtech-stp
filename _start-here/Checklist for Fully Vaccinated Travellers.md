@@ -109,7 +109,7 @@ input:checked + label + .content {
 	</ol>	
 </div>
 <input id="vaxoverseas" type="checkbox">
-<label for="vaxoverseas"><b>I am Vaccinated outside Singapore</b></label>
+<label style="background-color: #23537a;" for="vaxoverseas"><b>I am Vaccinated outside Singapore</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;"><b>If you have a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">recognised Digitally Verifiable Vaccination Certificate (DVC)</a></b>, use the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a> to verify that your DVC is recognised by the Singapore authorities. The VCP will issue a vaccination acceptance letter if the verification is successful, which you can use for boarding and immigration checks. If you are unable to get your DVC verified, troubleshoot your submission with the <a href="/faq#vaxcert" target="_blank">vaccination certificate FAQ</a>. If still faced with uploading issues, refer to the instructions below for travellers without DVCs.
 </p>
@@ -199,23 +199,23 @@ input:checked + label + .content {
 	
 <body>	
 <input id="CMP" type="checkbox">
-<label for="CMP"><b>Non-Malaysian Work Permit In-principle Approval holders Employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></label>
+<label style="background-color: #23537a;" for="CMP"><b>Non-Malaysian Work Permit In-principle Approval holders Employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">At least 3 working days before the intended date of departure, <a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">apply for Entry Approval from Ministry of Manpower</a></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">All other fully vaccinated IPA holders should refer to the “<b>Long-term pass and in-principle approval (IPA) holders</b>” section below.</p>
 </div>
 <input id="LTP-IPA" type="checkbox">
-<label for="LTP-IPA"><b>Long-Term Pass and in-principle approval (IPA) holders</b></label>
+<label style="background-color: #23537a;" for="LTP-IPA"><b>Long-Term Pass and in-principle approval (IPA) holders</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Valid pass card or IPA letter for pre-boarding checks or immigration clearance</p>
 </div>
 <input id="STV" type="checkbox">
-<label for="STV"><b>Foreigners without a Singapore Long-Term Pass</b></label>
+<label style="background-color: #23537a;" for="STV"><b>Foreigners without a Singapore Long-Term Pass</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"> <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions</p>
 </div>
 <input id="Foreign-vehicle" type="checkbox">
-<label for="Foreign-vehicle"><b>Drivers of Foreign-Registered Vehicles Entering by Land </b></label>
+<label style="background-color: #23537a;" for="Foreign-vehicle"><b>Drivers of Foreign-Registered Vehicles Entering by Land </b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Valid Vehicle Entry Permit (VEP) approval email, Autopass card and motor insurance. <b style="color:red;">Application or insurance/Autopass update services are unavailable at Singapore's land checkpoints</b>.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Applications <b style="color:red;">must</b> be made via the OneMotoring website at least two weeks before your intended travel dates (steps below):</p>
@@ -225,7 +225,7 @@ input:checked + label + .content {
 </ol>
 </div>
 <input id="YF" type="checkbox">
-<label style="margin-top:2px;" for="YF"><b>Arriving in Singapore from countries/regions in Africa and Latin America with Yellow Fever Risk </b></label>
+<label style="background-color: #23537a;" for="YF"><b>Arriving in Singapore from countries/regions in Africa and Latin America with Yellow Fever Risk </b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a></p>
 </div>
@@ -305,12 +305,12 @@ input:checked + label + .content {
 	
 <body>	
 <input id="beforeArr" type="checkbox">
-<label for="beforeArr"><b>Instructions for Arrival before 14 Apr 2022, 2359H</b></label>
+<label style="background-color: #23537a;" for="beforeArr"><b>Instructions for Arrival before 14 Apr 2022, 2359H</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Complete your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> <b>within 3 days before your arrival in Singapore. This applies to all travellers, including Singapore Citizens and Permanent Residents, entering Singapore via Air, Land and Sea.</b></p>
 </div>	
 <input id="afterArr" type="checkbox">
-<label for="afterArr"><b>Instructions for Arrival from 14 Apr 2022, 2359H</b></label>
+<label style="background-color: #23537a;" for="afterArr"><b>Instructions for Arrival from 14 Apr 2022, 2359H</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Complete your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> <b>within 3 days before your arrival in Singapore, if you are:</b>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
