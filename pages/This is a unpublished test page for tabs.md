@@ -93,7 +93,7 @@ input ~ .tab {
 <body>
 <button class="pushable">
   <span class="front">
-    Push me
+	  <a href="https://www.google.com" target="_blank">Push me</a>
   </span>
 </button>
 </body>
