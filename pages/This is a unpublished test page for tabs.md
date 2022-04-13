@@ -77,7 +77,7 @@ input ~ .tab {
   }
   .front {
     display: block;
-    padding: 12px 42px;
+    padding: 40px 20px;
     border-radius: 12px;
     font-size: 1.25rem;
     background: hsl(150deg, 50%, 47%);
