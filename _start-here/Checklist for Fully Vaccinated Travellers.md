@@ -450,7 +450,7 @@ input:checked + label + .content {
 <p style=" font-size:18px; margin-top:20px; margin-bottom: 20px; line-height:1.35;">Registration can be done at any <a href="https://flu.gowhere.gov.sg/" target="_blank"> Public Health Preparedness Clinic</a>. Confirm if your chosen clinic can facilitate the registration before heading down with the following documents:
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Personal identification documents</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Valid vaccination certificate (see <a href="#1A">Stage 1A</a> for details).</li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Valid vaccination certificate (see <a href="#1A">Step 1</a> for details).</li>
 	</ol>
 	</p>
 <p style=" font-size:18px; margin-top:20px; margin-bottom: 20px; line-height:1.35;">You may also need to take additional COVID-19 vaccination doses to maintain good protection and continue to qualify for Vaccination-Differentiated Measures in Singapore. This is determined based on the date of the last dose of your primary vaccination series and the vaccine type you have taken (summary in table below). For more information on NIR registration and COVID-19 booster vaccinations, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s website</a>.
