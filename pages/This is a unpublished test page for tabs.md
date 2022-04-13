@@ -90,10 +90,10 @@ input ~ .tab {
   }
 </style>
 	</head>
-<body>
-<button class="pushable">
+<body>	
+<button class="pushable" action="https://google.com">
   <span class="front">
-	  <a href="https://www.google.com" target="_blank">Push me</a>
+	 Push me
   </span>
 </button>
 </body>
