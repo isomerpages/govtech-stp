@@ -130,7 +130,7 @@ input ~ .tab {
 </style>
 	</head>
 <body>	
-<a href="/arriving/general-travel/fully-vaccinated"><button class="pushable">
+<a href="/arriving/general-travel/non-fully-vaccinated"><button class="pushable">
   <span class="front">
 	 <p style="font-size:20px; margin-top:10px; margin-bottom:20px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
   <ul style="list-style-type: disc; line-height:1.35; text-algin:left">
