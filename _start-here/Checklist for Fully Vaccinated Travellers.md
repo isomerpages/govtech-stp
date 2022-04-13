@@ -315,7 +315,7 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Complete your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> <b>within 3 days before your arrival in Singapore, if you are:</b>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>A Singapore Citizen, Permanent Resident or Long Term Pass Holder arriving via air or sea</b> – SGAC is not required for those arriving by land</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>A non-resident (i.e. do not hold any Singapore-issued pass, citizenship or permanent residency), or In-Principle Approval Pass Holder entering Singapore via land</b>. This also applies to travellers entering Singapore daily.<sup>1</sup></li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>A non-resident (i.e. do not hold any Singapore-issued pass, citizenship or permanent residency), or In-Principle Approval Pass Holder entering Singapore</b>. This also applies to travellers entering Singapore daily.<sup>1</sup></li>
 	</ol>
 	</p>
 	<p style="font-size:16px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><i>Footnote 1: If you are entering Singapore on 1, 2 and 3 March, three separate SGAC submissions must be made.</i></p>

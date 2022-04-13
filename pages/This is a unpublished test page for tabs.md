@@ -5,6 +5,7 @@ description: ""
 published: false
 ---
 
+<html>
 <head>
 <meta charset="utf-8">
 <title>Test Accordion</title>
@@ -61,4 +62,85 @@ input ~ .tab {
 <div class="tab content4">Tab4 Contents</div>
 <div class="tab content5">Tab5 Contents</div>
 </body>
-	
+</html>
+
+<html>
+<head>
+<style>
+  .pushable {
+    background: hsl(150deg, 50%, 32%);
+    border-radius: 12px;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline-offset: 4px;
+  }
+  .front {
+    display: block;
+    padding: 40px 20px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    background: hsl(150deg, 50%, 47%);
+    color: white;
+    transform: translateY(-6px);
+  }
+
+  .pushable:active .front {
+    transform: translateY(-2px);
+  }
+</style>
+	</head>
+<body>	
+<a href="/arriving/general-travel/fully-vaccinated"><button class="pushable">
+  <span class="front">
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:20px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Fully Vaccinated Travellers</b></p>
+  <ul style="list-style-type: disc; line-height:1.35; text-algin:left">
+	  <li style="line-height:1.35; font-size:20px;">Fully Vaccinated with WHO Emergency Use Listing Vaccines; or</li>
+	   <li style="line-height:1.35; font-size:20px;">Aged 12 and below regardless of vaccination status &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+	  </ul>
+	</span>
+	</button></a>
+</body>
+</html>
+
+ <p style="font-size:20px; margin-top:20px; margin-bottom:20px; line-height:1.35;"></p>
+
+<html>
+<head>
+<style>
+  .pushableT {
+    background: hsl(50deg, 150%, 40%);
+    border-radius: 12px;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline-offset: 4px;
+  }
+  .frontT {
+    display: block;
+    padding: 12px 42px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    background: hsl(50deg, 150%, 48%);
+    color: white;
+    transform: translateY(-6px);
+  }
+
+  .pushableT:active .front {
+    transform: translateY(-2px);
+  }
+</style>
+	</head>
+<body>	
+<a href="/arriving/general-travel/non-fully-vaccinated"><button class="pushableT">
+  <span class="frontT">
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:20px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
+  <ul style="list-style-type: disc; line-height:1.35; text-algin:left">
+	  <li style="line-height:1.35; font-size:20px;">Aged 13 and above and not fully vaccinated with WHO Emergency Use Listing Vaccines; or</li>
+	   <li style="line-height:1.35; font-size:20px;">Certified medically ineligible for COVID-19 vaccinations </li>
+	  </ul>
+	</span>
+	</button></a>
+</body>
+</html>
+
