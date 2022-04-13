@@ -110,7 +110,7 @@ input:checked + label + .content {
 </div>
 	
 <input id="STVs-compassionate" type="checkbox">
-	<label style="background-color: #23537a; color:#f7f7f7;" for="STVs-compassionate"><b>Short-term Visitors Entering for Exceptional reasons (e.g. tend to critically ill family, or death of family member)</b></label>
+	<label style="background-color: #23537a; color:#f7f7f7; margin-top:3px;" for="STVs-compassionate"><b>Short-term Visitors Entering for Exceptional reasons (e.g. tend to critically ill family, or death of family member)</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Entry request should be submitted <a href="https://go.gov.sg/sto-enquiry" target="_blank">using this form</a>, with the relevant supporting documents (e.g. doctor’s memo, death certificate) to facilitate processing.</p>
 </div>
