@@ -44,7 +44,7 @@ Click here to return to the <a href="#top">top</a>.
 <div id="testleft" style="text-algin:left; width:200px;">
 test
 </div>
-	<div id="testright" style="text-algin:right;width:200px;">
+<div id="testright" style="text-algin:right;width:200px;">
 test
 </div>
 </div>
