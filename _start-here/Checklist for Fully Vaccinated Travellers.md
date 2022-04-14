@@ -133,7 +133,7 @@ input:checked + label + .content {
   
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp; <b>Step 2:  Obtain entry approvals and additional documentation if needed</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Prepare the travel documents below, if required, and visitors should ensure that their passport is <b>valid for at least 6 months</b>. Entries for non-Citizens or Permanent Residents can be denied if the required documents are not produced during pre-boarding or immigration clearance.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Prepare the travel documents below, if required, and visitors should ensure that their passport is <b>valid for at least 6 months</b>. Entries for Long Term Pass holders and visitors can be denied if the required documents are not produced during pre-boarding or immigration clearance.</p>
 <p style=" font-size:16px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
 	
 	
