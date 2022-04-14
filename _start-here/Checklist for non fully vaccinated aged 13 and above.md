@@ -228,7 +228,7 @@ input:checked + label + .content {
 <p style="font-size:18px; line-height:1.35;">A Pre-Departure Test (PDT) is only <b style="color:red;">not</b> required if you tested positive for COVID-19 <b>between 14 to 90 days before your date of departure for Singapore</b> - use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if the pre-departure test can be waived, and the documentation required to prove their first infection or recovery.</p>
 <p style="font-size:18px;line-height:1.35; margin-top: 10px;">Otherwise, if you are born before 2020 (i.e. above 2 years old) take any of the following COVID-19 tests within 2 days before departure: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) at an <a href="https://www.moh.gov.sg/covid-19/statistics/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility;</a> OR</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) at an internationally accredited or recognised lab/clinic/medical facility; OR</li>
 			<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) that is:
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Administered by a trained professional; or</li>
