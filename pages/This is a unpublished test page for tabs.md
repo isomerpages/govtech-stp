@@ -93,7 +93,7 @@ input ~ .tab {
 <body>	
 <a href="/arriving/general-travel/fully-vaccinated"><button class="pushable">
   <span class="front">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:20px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Fully Vaccinated Travellers</b></p>
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align:justify;"> <b>CLICK HERE for Travel Checklist for Fully Vaccinated Travellers</b></p>
   <ul style="list-style-type: disc; line-height:1.35; text-align:justify;">
 	  <li style="line-height:1.35; font-size:20px;">Fully Vaccinated with WHO Emergency Use Listing Vaccines; or</li>
 	   <li style="line-height:1.35; font-size:20px; text-align:justify;">Aged 12 and below regardless of vaccination status </li>
@@ -134,13 +134,12 @@ input ~ .tab {
 <body>	
 <a href="/arriving/general-travel/non-fully-vaccinated"><button class="pushableT">
   <span class="frontT">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; "> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align:justify;"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
   <ul style="list-style-type: disc; line-height:1.35; width:auto;">
-	  <li style="line-height:1.35; font-size:20px; text-align:justify;">Aged 13 and above and not fully vaccinated with WHO Emergency Use Listing Vaccines; or  </li>
+	  <li style="line-height:1.35; font-size:20px; text-align:justify;">Aged 13 and above and not fully vaccinated with <br> WHO Emergency Use Listing Vaccines; or  </li>
 	   <li style="line-height:1.35; font-size:20px; text-align:justify;">Certified medically ineligible for COVID-19 vaccinations </li>
 	  </ul>
 	</span>
 	</button></a>
 </body>
 </html>
-
