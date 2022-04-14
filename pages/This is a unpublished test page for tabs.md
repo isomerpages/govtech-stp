@@ -121,7 +121,7 @@ input ~ .tab {
     padding: 12px 42px;
     border-radius: 12px;
     font-size: 1.25rem;
-    background: hsl(205deg, 40%, 30%);
+    background: hsl(205deg, 40%, 20%);
     color: white;
     transform: translateY(-6px);
   }
