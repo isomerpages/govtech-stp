@@ -85,7 +85,7 @@ Click here to return to the <a href="#top">top</a>.
 <head>
 <style>
   .pushableT {
-    background: hsl(50deg, 150%, 40%);
+    background: hsl(30deg, 100%, 37%);
     border-radius: 12px;
     border: none;
     padding: 0;
@@ -97,7 +97,7 @@ Click here to return to the <a href="#top">top</a>.
     padding: 12px 42px;
     border-radius: 12px;
     font-size: 1.25rem;
-    background: hsl(50deg, 150%, 48%);
+    background: hsl(30deg, 100%, 45%);
     color: white;
     transform: translateY(-6px);
   }
