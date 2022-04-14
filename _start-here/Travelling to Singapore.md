@@ -40,7 +40,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to countries/regions in the General Travel or Restricted Category, as well as vaccination with WHO Emergency Use Listing COVID-19 vaccines*. <b>Click the relevant button below for a full step-by-step traveller checklist according to your profile.</b></p>
 
-<p style="font-size:16px; margin-top:20px; margin-bottom:10px; line-height:1.35;"> <i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to the section on <a href="#vaccination">acceptable vaccines for entry</a>.</i></p>
+<p style="font-size:16px; margin-top:20px; margin-bottom:10px; line-height:1.35;"> <i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to the section on <a href="#vaccination">acceptable vaccines for entry</a>.</i></p>
 
 <hr style="margin-top:20px;">
 
