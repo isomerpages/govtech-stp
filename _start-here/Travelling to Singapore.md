@@ -38,7 +38,7 @@ Click here to return to the <a href="#top">top</a>.
 
 #### 1. Traveller Entry Checklists under Vaccinated Travel Framework
 
-<p style="margin-top:10px; margin-bottom:5px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to countries/regions in the General Travel or Restricted Category, as well as vaccination with WHO Emergency Use Listing COVID-19 vaccines. Click the relevant button below for a full step-by-step traveller checklist according to your profile.</p>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to countries/regions in the General Travel or Restricted Category, as well as vaccination with WHO Emergency Use Listing COVID-19 vaccines. Click the relevant button below for a full step-by-step traveller checklist according to your profile.</p>
 
 <hr style="margin-top:20px;">
 
