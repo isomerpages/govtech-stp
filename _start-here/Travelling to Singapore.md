@@ -41,10 +41,10 @@ Click here to return to the <a href="#top">top</a>.
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to countries/regions in the General Travel or Restricted Category, as well as vaccination with WHO Emergency Use Listing COVID-19 vaccines. Click the relevant button below for a full step-by-step traveller checklist according to your profile.</p>
 
 <div id="testmain" style="width:400px; height:auto;">
-<div id="testleft" style="text-algin:left; width:200px;">
+<div id="testleft" style="float:left; width:200px;">
 test
 </div>
-<div id="testright" style="text-algin:right;width:200px;">
+<div id="testright" style="float:right;width:200px;">
 test
 </div>
 </div>
