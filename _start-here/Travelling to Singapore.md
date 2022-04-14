@@ -40,6 +40,16 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to countries/regions in the General Travel or Restricted Category, as well as vaccination with WHO Emergency Use Listing COVID-19 vaccines. Click the relevant button below for a full step-by-step traveller checklist according to your profile.</p>
 
+<table>
+	<tbody>
+		<tr>
+		<td style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;"> <b>Travellers who are</b></p>
+  <ul style="list-style-type: disc; line-height:1.35;">
+	  <li style="line-height:1.35; font-size:20px;">Fully Vaccinated with WHO Emergency Use Listing Vaccines; or</li>
+	   <li style="line-height:1.35; font-size:20px; ">Aged 12 and below regardless of vaccination status </li>
+	  </ul></td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;">
+			
 <html>
 <head>
 <style>
@@ -69,19 +79,21 @@ Click here to return to the <a href="#top">top</a>.
 <body>	
 <a href="/arriving/general-travel/fully-vaccinated"><button class="pushable">
   <span class="front">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align:justify;"> <b>CLICK HERE for Travel Checklist for Fully Vaccinated Travellers</b></p>
-  <ul style="list-style-type: disc; line-height:1.35; text-align:justify;">
-	  <li style="line-height:1.35; font-size:20px;">Fully Vaccinated with WHO Emergency Use Listing Vaccines; or</li>
-	   <li style="line-height:1.35; font-size:20px; text-align:justify;">Aged 12 and below regardless of vaccination status </li>
-	  </ul>
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Fully Vaccinated Travellers</b></p>
 	</span>
 	</button></a>
 </body>
 </html>
-
- <p style="font-size:20px; margin-top:20px; margin-bottom:20px; line-height:1.35;"></p>
-
-<html>
+</td>
+		</tr>
+		<tr>
+		<td style="margin-top:0px; margin-bottom:0px; font-size:16px;"><p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; "> <b>Travellers who are:</b></p>
+  <ul style="list-style-type: disc; line-height:1.35; width:auto;">
+	  <li style="line-height:1.35; font-size:20px; ">Aged 13 and above and <b>not</b> fully vaccinated with <br> WHO Emergency Use Listing Vaccines; or  </li>
+	   <li style="line-height:1.35; font-size:20px; ">Certified medically ineligible for COVID-19 vaccinations </li>
+	  </ul></td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;">
+			<html>
 <head>
 <style>
   .pushableT {
@@ -110,15 +122,16 @@ Click here to return to the <a href="#top">top</a>.
 <body>	
 <a href="/arriving/general-travel/non-fully-vaccinated"><button class="pushableT">
   <span class="frontT">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align:justify;"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
-  <ul style="list-style-type: disc; line-height:1.35; width:auto;">
-	  <li style="line-height:1.35; font-size:20px; text-align:justify;">Aged 13 and above and not fully vaccinated with <br> WHO Emergency Use Listing Vaccines; or  </li>
-	   <li style="line-height:1.35; font-size:20px; text-align:justify;">Certified medically ineligible for COVID-19 vaccinations </li>
-	  </ul>
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; "> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
 	</span>
 	</button></a>
 </body>
 </html>
+			</td>
+		</tr>
+	</tbody>
+	</table>
+
 
 <p style="margin-top:30px; margin-bottom:20px; line-height:1.35;">The tables below summarise the border measures under the Vaccinated Travel Framework. </p>
 
