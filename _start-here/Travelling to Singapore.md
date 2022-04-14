@@ -269,7 +269,7 @@ Click here to return to the <a href="#top">top</a>.
 	</tbody>
 	</table>
 
-<p style="margin-top:30px; margin-bottom:20px; line-height:1.35;">Fully vaccinated travellers and children aged 12 and below should refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">this travel checklist</a> for more details including how to show proof of vaccination, and maintaining that vaccination status for activities within Singapore. Travellers who do not meet the vaccination criteria for entry should refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist for Non-fully Vaccinated Travellers aged 13 and above</a>.</p>
+<p style="margin-top:30px; margin-bottom:20px; line-height:1.35;">Fully vaccinated travellers and children aged 12 and below should refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel checklist for Fully Vaccinated Travellers</a> for more details including how to show proof of vaccination, and maintaining that vaccination status for activities within Singapore. Travellers who do not meet the vaccination criteria for entry should refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist for Non-fully Vaccinated Travellers aged 13 and above</a>.</p>
 
 ---
 
