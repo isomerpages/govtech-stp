@@ -13,7 +13,7 @@ third_nav_title: Travelling to Singapore
 - [Accepted COVID-19 Vaccinations for Entry to Singapore ](#vaccination)
 
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are transiting through Singapore to another destination without clearing immigration, refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page for more information.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are transiting through Singapore to another destination without clearing immigration, refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page instead.</p>
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="#crew">click here</a> for more instructions.</p>
 
