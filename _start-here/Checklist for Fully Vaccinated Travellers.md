@@ -340,7 +340,7 @@ input:checked + label + .content {
 <p style="font-size:18px; line-height:1.35;">Otherwise, if you are arriving by air/sea, and born before 2020 (i.e. above 2 years old), take any of the following COVID-19 tests <b>within 2 days before departure</b>:
 </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) at an internationally accredited or recognised lab/clinic/medical facility; <b>OR</b>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) at an internationally accredited or recognised lab/clinic/medical facility - travellers should seek advice from the country’s/region's Ministry of Health equivalent for approved COVID-19 PCR test providers; <b>OR</b>
 </li>
 		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Antigen Rapid Test (ART) that is:
 		<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
