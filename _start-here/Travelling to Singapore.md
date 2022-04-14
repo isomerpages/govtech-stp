@@ -40,17 +40,51 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to countries/regions in the General Travel or Restricted Category, as well as vaccination with WHO Emergency Use Listing COVID-19 vaccines. Click the relevant button below for a full step-by-step traveller checklist according to your profile.</p>
 
-<div id="testmain" style="width:400px; height:auto;">
-<div id="testleft" style="float:left; width:200px;">
-test
+<div id="testmain" style="width:600px; height:auto;">
+<div id="testleft" style="float:left; width:300px;">
+<p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;"> <b>Travellers who are</b></p>
+  <ul style="list-style-type: disc; line-height:1.35;">
+	  <li style="line-height:1.35; font-size:20px;">Fully Vaccinated with WHO Emergency Use Listing Vaccines; or</li>
+	   <li style="line-height:1.35; font-size:20px; ">Aged 12 and below regardless of vaccination status </li>
+	  </ul>
 </div>
-<div id="testright" style="float:right;width:200px;">
-test
+<div id="testright" style="float:right;width:300px;">
+<html>
+<head>
+<style>
+  .pushable {
+    background: hsl(150deg, 55%, 25%);
+    border-radius: 12px;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline-offset: 4px;
+  }
+  .front {
+    display: block;
+    padding: 12px 42px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    background: hsl(150deg, 55%, 35%);
+    color: white;
+    transform: translateY(-6px);
+  }
+
+  .pushable:active .front {
+    transform: translateY(-2px);
+  }
+</style>
+	</head>
+<body>	
+<a href="/arriving/general-travel/fully-vaccinated"><button class="pushable">
+  <span class="front">
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Fully Vaccinated Travellers</b></p>
+	</span>
+	</button></a>
+</body>
+</html>
 </div>
 </div>
-
-
-
 
 
 
