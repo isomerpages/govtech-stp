@@ -44,7 +44,7 @@ Click here to return to the <a href="#top">top</a>.
 <head>
 <style>
   .pushable {
-    background: hsl(150deg, 50%, 32%);
+    background: hsl(150deg, 55%, 30%);
     border-radius: 12px;
     border: none;
     padding: 0;
@@ -56,7 +56,7 @@ Click here to return to the <a href="#top">top</a>.
     padding: 12px 42px;
     border-radius: 12px;
     font-size: 1.25rem;
-    background: hsl(150deg, 50%, 47%);
+    background: hsl(150deg, 55%, 40%);
     color: white;
     transform: translateY(-6px);
   }
