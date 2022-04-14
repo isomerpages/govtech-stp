@@ -127,7 +127,7 @@ Click here to return to the <a href="#top">top</a>.
 
 ---
 
-<p style="margin-top:30px; margin-bottom:20px; line-height:1.35;">The tables below summarise the border measures under the Vaccinated Travel Framework. </p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">The tables below summarise the border measures under the Vaccinated Travel Framework. </p>
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If your 7-day travel history consists only of countries in the General Travel Category, you will be subject to the following border measures.</p>
 
