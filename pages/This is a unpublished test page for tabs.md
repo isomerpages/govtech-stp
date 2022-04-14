@@ -109,7 +109,7 @@ input ~ .tab {
 <head>
 <style>
   .pushableT {
-    background: hsl(200deg, 50%, 30%);
+    background: hsl(205deg, 40%, 30%);
     border-radius: 12px;
     border: none;
     padding: 0;
@@ -121,7 +121,7 @@ input ~ .tab {
     padding: 12px 42px;
     border-radius: 12px;
     font-size: 1.25rem;
-    background: hsl(205deg, 80%, 40%);
+    background: hsl(205deg, 40%, 30%);
     color: white;
     transform: translateY(-6px);
   }
