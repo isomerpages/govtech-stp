@@ -49,41 +49,7 @@ Click here to return to the <a href="#top">top</a>.
 	  </ul>
 </div>
 <div id="testright" style="float:right; width:300px;">
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<head>
-<style>
-  .pushable {
-    background: hsl(150deg, 55%, 25%);
-    border-radius: 12px;
-    border: none;
-    padding: 0;
-    cursor: pointer;
-    outline-offset: 4px;
-  }
-  .front {
-    display: block;
-    padding: 12px 42px;
-    border-radius: 12px;
-    font-size: 1.25rem;
-    background: hsl(150deg, 55%, 35%);
-    color: white;
-    transform: translateY(-6px);
-  }
-
-  .pushable:active .front {
-    transform: translateY(-2px);
-  }
-</style>
-	</head>
-<body>	
-<a href="/arriving/general-travel/fully-vaccinated"><button class="pushable">
-  <span class="front">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Fully Vaccinated Travellers</b></p>
-	</span>
-	</button></a>
-</body>
-</html>
+	test
 </div>
 </div>
 
