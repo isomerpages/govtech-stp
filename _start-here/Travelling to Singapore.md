@@ -40,19 +40,87 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to countries/regions in the General Travel or Restricted Category, as well as vaccination with WHO Emergency Use Listing COVID-19 vaccines. Click the relevant button below for a full step-by-step traveller checklist according to your profile.</p>
 
-<div id="testmain" style="width:800px;">
-<div id="testleft" style="float:left; width:400px;">
+
 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;"> <b>Travellers who are</b></p>
   <ul style="list-style-type: disc; line-height:1.35;">
 	  <li style="line-height:1.35; font-size:20px;">Fully Vaccinated with WHO Emergency Use Listing Vaccines; or</li>
 	   <li style="line-height:1.35; font-size:20px; ">Aged 12 and below regardless of vaccination status </li>
 	  </ul>
-</div>
-<div id="testright" style="float:right; width:400px;">
-	test
-</div>
-</div>
 
+<html>
+<head>
+<style>
+  .pushable {
+    background: hsl(150deg, 55%, 25%);
+    border-radius: 12px;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline-offset: 4px;
+  }
+  .front {
+    display: block;
+    padding: 12px 42px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    background: hsl(150deg, 55%, 35%);
+    color: white;
+    transform: translateY(-6px);
+  }
+
+  .pushable:active .front {
+    transform: translateY(-2px);
+  }
+</style>
+	</head>
+<body>	
+<a href="/arriving/general-travel/fully-vaccinated"><button class="pushable">
+  <span class="front">
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Fully Vaccinated Travellers</b></p>
+	</span>
+	</button></a>
+</body>
+</html>
+
+<p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; "> <b>Travellers who are:</b></p>
+  <ul style="list-style-type: disc; line-height:1.35; width:auto;">
+	  <li style="line-height:1.35; font-size:20px; ">Aged 13 and above and <b>not</b> fully vaccinated with <br> WHO Emergency Use Listing Vaccines; or  </li>
+	   <li style="line-height:1.35; font-size:20px; ">Certified medically ineligible for COVID-19 vaccinations </li>
+	  </ul>
+<html>
+<head>
+<style>
+  .pushableT {
+    background: hsl(30deg, 100%, 37%);
+    border-radius: 12px;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline-offset: 4px;
+  }
+  .frontT {
+    display: block;
+    padding: 12px 42px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    background: hsl(30deg, 100%, 45%);
+    color: white;
+    transform: translateY(-6px);
+  }
+
+  .pushableT:active .front {
+    transform: translateY(-2px);
+  }
+</style>
+	</head>
+<body>	
+<a href="/arriving/general-travel/non-fully-vaccinated"><button class="pushableT">
+  <span class="frontT">
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; "> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
+	</span>
+	</button></a>
+</body>
+</html>
 
 <p style="margin-top:30px; margin-bottom:20px; line-height:1.35;">The tables below summarise the border measures under the Vaccinated Travel Framework. </p>
 
