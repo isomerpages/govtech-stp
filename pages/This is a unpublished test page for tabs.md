@@ -2,7 +2,7 @@
 title: This is a unpublished test page for tabs
 permalink: /tabs
 description: ""
-published: false
+published: true
 ---
 
 <html>
@@ -68,7 +68,7 @@ input ~ .tab {
 <head>
 <style>
   .pushable {
-    background: hsl(150deg, 50%, 32%);
+    background: hsl(345deg, 100%, 76%);
     border-radius: 12px;
     border: none;
     padding: 0;
@@ -77,10 +77,10 @@ input ~ .tab {
   }
   .front {
     display: block;
-    padding: 40px 20px;
+    padding: 12px 42px;
     border-radius: 12px;
     font-size: 1.25rem;
-    background: hsl(150deg, 50%, 47%);
+    background: hsl(345deg, 100%, 84%);
     color: white;
     transform: translateY(-6px);
   }
@@ -93,10 +93,10 @@ input ~ .tab {
 <body>	
 <a href="/arriving/general-travel/fully-vaccinated"><button class="pushable">
   <span class="front">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:20px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Fully Vaccinated Travellers</b></p>
-  <ul style="list-style-type: disc; line-height:1.35; text-algin:left">
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align:justify;"> <b>CLICK HERE for Travel Checklist for Fully Vaccinated Travellers</b></p>
+  <ul style="list-style-type: disc; line-height:1.35; text-align:justify;">
 	  <li style="line-height:1.35; font-size:20px;">Fully Vaccinated with WHO Emergency Use Listing Vaccines; or</li>
-	   <li style="line-height:1.35; font-size:20px;">Aged 12 and below regardless of vaccination status &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+	   <li style="line-height:1.35; font-size:20px; text-align:justify;">Aged 12 and below regardless of vaccination status </li>
 	  </ul>
 	</span>
 	</button></a>
@@ -109,7 +109,7 @@ input ~ .tab {
 <head>
 <style>
   .pushableT {
-    background: hsl(50deg, 150%, 40%);
+    background: hsl(205deg, 40%, 30%);
     border-radius: 12px;
     border: none;
     padding: 0;
@@ -121,7 +121,7 @@ input ~ .tab {
     padding: 12px 42px;
     border-radius: 12px;
     font-size: 1.25rem;
-    background: hsl(50deg, 150%, 48%);
+    background: hsl(205deg, 40%, 20%);
     color: white;
     transform: translateY(-6px);
   }
@@ -134,13 +134,12 @@ input ~ .tab {
 <body>	
 <a href="/arriving/general-travel/non-fully-vaccinated"><button class="pushableT">
   <span class="frontT">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:20px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
-  <ul style="list-style-type: disc; line-height:1.35; text-algin:left">
-	  <li style="line-height:1.35; font-size:20px;">Aged 13 and above and not fully vaccinated with WHO Emergency Use Listing Vaccines; or</li>
-	   <li style="line-height:1.35; font-size:20px;">Certified medically ineligible for COVID-19 vaccinations </li>
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align:justify;"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
+  <ul style="list-style-type: disc; line-height:1.35; width:auto;">
+	  <li style="line-height:1.35; font-size:20px; text-align:justify;">Aged 13 and above and not fully vaccinated with <br> WHO Emergency Use Listing Vaccines; or  </li>
+	   <li style="line-height:1.35; font-size:20px; text-align:justify;">Certified medically ineligible for COVID-19 vaccinations </li>
 	  </ul>
 	</span>
 	</button></a>
 </body>
 </html>
-
