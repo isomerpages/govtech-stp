@@ -326,7 +326,7 @@ input:checked + label + .content {
 
 <!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Immigration Clearance in Singapore</b></div>-->
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 6:  Immigration Clearance and Temporary Vaccination Status in Singapore</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 6:  Immigration Clearance</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes.</p>
