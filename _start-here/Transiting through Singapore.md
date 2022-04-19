@@ -3,7 +3,7 @@ title: Transiting through Singapore
 permalink: /transit/overview
 description: Requirements for transiting through Singapore
 ---
-Singapore is open to all transit travellers with no specific COVID-19 regulations or requirements. However, please note the following points to ensure that you have a smooth transit experience:
+<p style="font-size:20px; line-height:1.35;">Singapore is open to all transit travellers with no specific COVID-19 regulations or requirements. However, please note the following points to ensure that you have a smooth transit experience:</p>
 
 <ol style="margin-top:10px; margin-bottom:10px; font-size:20px;">
   <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#transittraveller">Qualifying as a transit traveller</a> </li>
@@ -14,7 +14,7 @@ Singapore is open to all transit travellers with no specific COVID-19 regulation
 
 ### 1. Qualifying as a transit traveller
 
-<p style="font-size:20px; line-height:1.35;"><b>Transit travellers refer to those who depart for a third country via Singapore <u>without clearing arrival immigration</u>. Singapore does not require COVID-19 tests, travel visas or entry approvals for transit travellers.</b> However, travellers who transit in Changi must have their flights booked on the same itinerary, in order to ensure that their checked-in luggage can be tagged-through from the origin airport to their final destination. Travelling with flights operated by different airlines on the same journey is allowed, so long as the flights are made under the same booking. Travellers interested in connecting through Changi Airport should consult their airline on the options available.</p>
+<p style="font-size:20px; line-height:1.35;"><b>Transit travellers refer to those who depart for a third country via Singapore <u>without clearing arrival immigration</u>. Singapore does not require COVID-19 tests, travel visas or entry approvals for transit travellers.</b> However, travellers who transit in Changi must have their flights booked on the same itinerary, in order to ensure that their checked-in luggage can be tagged-through from the origin airport to their final destination. Travelling with flights operated by different airlines on the same journey is allowed, if the flights are made under the same booking. Travellers interested in connecting through Changi Airport should consult their airline on the options available.</p>
 
 <p style="font-size:20px; line-height:1.35;"><b>Travellers who intend to clear arrival immigration to enter Singapore, or booked separate flights under different itineraries, which requires them to enter Singapore to collect baggage and check-in again for the connecting flight, are not considered transit travellers.</b> They are responsible for ensuring that they fulfill all requirements for entry into Singapore, and should refer to the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for more information on entry requirements.</p>
 
