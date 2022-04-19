@@ -32,4 +32,3 @@ Singapore is open to all transit travellers with no specific COVID-19 regulation
   <li style="padding-left:20px; margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><b>Entry requirements:</b> Whether the authorities of destination <b><i>Country Y</i></b> impose conditions of entry such as visas, entry approvals, vaccinations or other documentation. The airline will check upon boarding if you have the relevant documentation on hand.</li>
     <li style="padding-left:20px; margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><b>Pre-departure testing (PDT) requirements:</b> If <b><i>Country Y</i></b> requires travellers to take a COVID-19 test for entry into <b><i>Country Y</i></b>. Such COVID-19 tests are <u>not</u> available in the transit area of Changi Airport and travellers should take their PDT in <b><i>Country X</i></b>, if <b><i>Country Y</i></b> requires them to do so.</li>
 </ol>
-
