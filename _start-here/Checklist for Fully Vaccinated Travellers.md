@@ -255,7 +255,7 @@ input:checked + label + .content {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 4:  Take a COVID-19 Pre-Departure Test (PDT) if required, up to 2 days before departure</b></div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;"><p style="font-size:18px;line-height:1.35;">A Pre-Departure Test (PDT) is only <b style="color:red;">not</b> required if you:</p>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;"><p style="font-size:18px;line-height:1.35;">A Pre-Departure Test (PDT) is <b style="color:red;">not</b> required if you:</p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Are entering Singapore via land from Malaysia; <b>OR</b>
 </li>
