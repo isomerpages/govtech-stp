@@ -6,11 +6,14 @@ description: Requirements for transiting through Singapore
 Singapore is open to all transit travellers with no specific COVID-19 regulations or requirements. However, please note the following points to ensure that you have a smooth transit experience:
 
 <ol style="margin-top:10px; margin-bottom:10px; font-size:20px;">
-  <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#advisories">Qualifying as a transit traveller</a> </li>
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#transittraveller">Qualifying as a transit traveller</a> </li>
   <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#PDT">Transit travellers must fulfil destination country requirements</a></li>
 </ol>
 
-### 1. Qualifying as a transit traveller 
+<div id="transittraveller"></div>
+
+### 1. Qualifying as a transit traveller
+
 <p style="font-size:20px; line-height:1.35;"><b>Transit travellers refer to those who depart for a third country via Singapore <u>without clearing arrival immigration</u>.</b> Travellers who intend to clear arrival immigration and enter Singapore, before departing for a third country, are not considered as transit travellers. They are responsible for ensuring that they fulfill all requirements for entry into Singapore, and should refer to the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for more information.</p>
 
 <p style="font-size:20px; line-height:1.35;"><b>Singapore does not require COVID-19 tests, travel visas or entry approvals for transit travellers.</b> However, travellers who transit in Changi must have  their checked-in luggage tagged-through from the origin airport to their final destination. Travellers interested in connecting through Changi Airport should consult their airline on the options available.</p>
