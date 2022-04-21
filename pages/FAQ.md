@@ -384,30 +384,34 @@ Click here to [Go Back To Top](#top).
 
 <div id="pcrtest"></div>
 
-### 5) COVID-19 Tests for Travellers 
+### 5) COVID-19 Tests for Travellers
 
 #### 1. Which travellers are required to do a pre-departure COVID-19 test?
 
 Only travellers born before 2020 (i.e. above two years old) who belong to any category of travellers below are required to do a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
 
 <ol style="list-style-type:lower-alpha;">
-<li style="padding-left:15px;">Fully-vaccinated travellers arriving in Singapore via air or sea; or</li>
-	<li style="padding-left:15px;">All non-fully vaccinated travellers</li>
-	</ol>
-	
-Recently-recovered travellers who are fully vaccinated are exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 7 to 90 days before their date of departure from Singapore.
+<li style="padding-left:15px;"><b>[For arrivals before 26 Apr 2022]</b> Fully-vaccinated travellers arriving in Singapore via air or sea; or</li>
+<li style="padding-left:15px;">All non-fully vaccinated travellers</li>
+</ol>
+
+Recently-recovered travellers who are fully vaccinated may be exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 7 to 90 days (for fully vaccinated travellers) or 14-90 days (for non-fully vaccinated travellers) before their date of departure from Singapore.
+
+The following groups of travellers are required to do a pre-departure COVID-19 test Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
+
+<ol style="list-style-type:disc;">
+<li style="padding-left:15px;">Non-fully vaccinated travellers aged 13 and above born before 2010 (i.e. above 13 years old)</li>
+<li style="padding-left:15px;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval in the Construction, Marine Shipyard and Process (CMP) sectors, as part of their pre-departure on-boarding process.</li>
+</ol>
+
+Recently-recovered travellers who are not fully vaccinated may be exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 14 - 90 days before their date of departure from Singapore.
 
 
 #### 2. If I am entering a foreign country/region for a very short trip, can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for departure, to fulfil the pre-departure test requirement for my return leg to Singapore?
 
 You will fulfil the pre-departure test requirement <b>only if the PCR test or professionally administered/supervised ART was taken within 2 days before departure for Singapore.</b>
 
-As an example, a traveller takes a pre-departure ART in Singapore on 1 March 2022 and enters Indonesia on the same day. If he intends to return to Singapore between 1 and 3 March 2022, the ART taken on 1 March 2022 will fulfil the pre-departure test requirement for entry into Singapore.
-
-
-#### 3. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
-
-Travellers aged two or below in this calendar year (i.e. born in or after 2020) are, by default, exempted from testing. 
+As an example, a traveller takes a pre-departure ART in Singapore on 1 March 2022 and enters Indonesia on the same day. If he intends to return to Singapore between 1 and 3 March 2022, the ART taken on 1 March 2022 will fulfil the pre-departure test requirement for entry into Singapore.Travellers aged two or below in this calendar year (i.e. born in or after 2020) are, by default, exempted from testing. 
 
 
 ---
