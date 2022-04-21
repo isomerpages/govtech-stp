@@ -261,8 +261,8 @@ input:checked + label + .content {
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval (IPA) in the Construction, Marine Shipyard and Process (CMP) sectors</li>
 	</ol>
 	<p style="font-size:18px;line-height:1.35; magin-top:10px;">Please read the instructions below for all travellers arriving <b>before 26 Apr 2022</b>.</p>
-	<p style="font-size:18px;line-height:1.35; magin-top:10px; color:red;"><b>Instructions for arrivals before 26 Apr 2022</b></p>
-	<p style="font-size:18px;line-height:1.35; margin-top:10px;">Pre-departure test is not required for all fully vaccinated travellers arriving from 26 Apr 2022 except for: </p>
+	<p style="font-size:18px;line-height:1.35; magin-top:0px; color:red;"><b>Instructions for arrivals before 26 Apr 2022</b></p>
+	<p style="font-size:18px;line-height:1.35; margin-top:10px;">A Pre-Departure Test (PDT) is only <b style="color:red;">not</b> required if you: </p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Are entering Singapore via land from Malaysia; <b>OR</b>
 </li>
@@ -333,7 +333,7 @@ input:checked + label + .content {
 
 <!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Immigration Clearance in Singapore</b></div>-->
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 6:  Immigration Clearance</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 6:  Immigration Clearance in Singapore</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Follow the instructions of officers and signages on arrival for the appropriate clearance lanes.</p>
@@ -348,10 +348,10 @@ input:checked + label + .content {
 
 <p style="font-size:18px; margin-top: 10px; margin-bottom:30px; line-height:1.35;"></p>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 7:  Observe Local Health Protocols</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 7: Comply with Local Health Protocols</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Comply with the latest public health measures, including the use of the TraceTogether app to show proof of vaccination in settings where <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-differentiated Safe Management Measures (VDS)</a> apply. Visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for the latest public health measures. If you test positive for COVID-19 during your stay, adhere to these <a href="https://www.covid.gov.sg/travellers" target="_blank">recovery protocols</a>.</p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Comply with the latest public health measures, including the use of the TraceTogether app to show proof of vaccination in settings where <a href="https://go.gov.sg/moh-smm" target="_blank">Vaccination-Differentiated Safe Management Measures (VDS)</a> apply. Visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for the latest public health measures. If you test positive for COVID-19 during your stay, adhere to these <a href="https://www.covid.gov.sg/travellers" target="_blank">recovery protocols</a>.</p>
 <!--<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you are vaccinated overseas, a temporary vaccination status which is valid for 30 days will be reflected on the <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> or <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application. If your vaccination status has not been reflected correctly within a few hours after arrival, write in using <a href="https://go.gov.sg/vds-query-form" target="_blank">this form</a> for assistance.</p>-->
 
 <!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Register Overseas Vaccination Record and Take COVID-19 Boosters</b></div>-->
