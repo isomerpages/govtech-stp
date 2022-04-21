@@ -397,14 +397,14 @@ Only travellers born before 2020 (i.e. above two years old) who belong to any ca
 
 Recently-recovered travellers who are fully vaccinated may be exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 7 to 90 days (for fully vaccinated travellers) or 14-90 days (for non-fully vaccinated travellers) before their date of departure from Singapore.
 
-The following groups of travellers are required to do a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
+<!--The following groups of travellers are required to do a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
 
 <ol style="list-style-type:disc;">
 <li style="padding-left:15px;">Non-fully vaccinated travellers aged 13 and above born before 2010 (i.e. above 13 years old)</li>
 <li style="padding-left:15px;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval in the Construction, Marine Shipyard and Process (CMP) sectors, as part of their pre-departure on-boarding process.</li>
 </ol>
 
-Recently-recovered travellers who are not fully vaccinated may be exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 14 - 90 days before their date of departure from Singapore.
+Recently-recovered travellers who are not fully vaccinated may be exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 14 - 90 days before their date of departure from Singapore.-->
 
 
 #### 2. If I am entering a foreign country/region for a very short trip, can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for departure, to fulfil the pre-departure test requirement for my return leg to Singapore?
