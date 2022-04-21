@@ -261,7 +261,8 @@ input:checked + label + .content {
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval (IPA) in the Construction, Marine Shipyard and Process (CMP) sectors</li>
 	</ol>
 	<p style="font-size:18px;line-height:1.35; magin-top:10px;">Please read the instructions below for all travellers arriving <b>before 26 Apr 2022</b>.</p>
-	<p style="font-size:18px;line-height:1.35;">Pre-departure test is not required for all fully vaccinated travellers arriving from 26 Apr 2022 except for: </p>
+	<p style="font-size:18px;line-height:1.35; magin-top:10px; color:red;"><b>Instructions for arrivals before 26 Apr 2022</b></p>
+	<p style="font-size:18px;line-height:1.35; margin-top:10px;">Pre-departure test is not required for all fully vaccinated travellers arriving from 26 Apr 2022 except for: </p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Are entering Singapore via land from Malaysia; <b>OR</b>
 </li>
