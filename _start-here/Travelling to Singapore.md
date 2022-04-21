@@ -157,7 +157,7 @@ Click here to return to the <a href="#top">top</a>.
 					<p style="margin-top:10px; line-height:1.35;font-size:16px;">The above is not applicable to travellers arriving by land.</p>
 					<p style="margin-top:20px; line-height:1.35;font-size:16px;"><b>For arrivals from 26 Apr 2022]</b> <br> COVID-19 pre-departure test is not required except for:</p>
 					<ul style="list-style-type: disc; line-height:1.35;">
-						<li style="line-height:1.35; font-size:16px;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval (IPA) in the Construction, Marine Shipyard and Process (CMP) sectors from Bangladesh, India and Myanmar</li>
+						<li style="line-height:1.35; font-size:16px;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval (IPA) in the Construction, Marine Shipyard and Process (CMP) sectors.</li>
 					</ul>
 			</td>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><ul style="line-height:1.35; list-style-type: decimal;">
