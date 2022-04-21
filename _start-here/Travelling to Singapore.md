@@ -155,7 +155,10 @@ Click here to return to the <a href="#top">top</a>.
 				<li style="line-height:1.35; font-size:16px;">Antigen Rapid Test (ART) which is professionally administered, or administered remotely</li>
 					</ul>
 					<p style="margin-top:20px; line-height:1.35;font-size:16px;">The above is not applicable to travellers arriving by land.</p>
-					<p style="margin-top:20px; line-height:1.35;font-size:16px;"><!--<b>For arrivals from 19 Apr 2022]</b> <br> Pre-departure test is not required--></p>
+					<p style="margin-top:20px; line-height:1.35;font-size:16px;"><b>For arrivals from 26 Apr 2022]</b> <br> COVID-19 pre-departure test is not required except for:</p>
+					<ul style="list-style-type: disc; line-height:1.35;">
+						<li style="line-height:1.35; font-size:16px;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval (IPA) in the Construction, Marine Shipyard and Process (CMP) sectors from Bangladesh, India and Myanmar</li>
+					</ul>
 			</td>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><ul style="line-height:1.35; list-style-type: decimal;">
 					<li style="line-height:1.35; font-size:16px;">Any of the following COVID-19 test, within 2 days before departure for Singapore:
@@ -209,7 +212,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="vaccination"></div>
 
-### 2. Accepted Vaccinations for Entry
+### 2. Accepted COVID-19 Vaccinations for Entry
 
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">All travellers aged 12 and below do not need to be vaccinated for entry to Singapore. Travellers aged 13 and above are only considered “fully vaccinated” for purposes of entry to Singapore if they meet either of the following conditions at least 2 weeks before arrival in Singapore, if not they are considered “non-fully vaccinated”:</p>
