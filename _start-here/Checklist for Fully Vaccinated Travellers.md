@@ -201,23 +201,24 @@ input:checked + label + .content {
 <input id="CMP" type="checkbox">
 <label style="background-color: #23537a;" for="CMP"><b>Non-Malaysian Work Permit In-principle Approval holders Employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">At least 3 working days before the intended date of departure, <a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">apply for Entry Approval from Ministry of Manpower</a></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b>For arrivals from 1 May 2022</b>, fully vaccinated CMP workers are no longer required to apply for entry approvals but must book a slot at <a href="https://www.mom.gov.sg/covid-19/onboard-centre" target="_blank">MOM’s Onboard Centre</a> to undergo a residential onboarding programme upon arrival. Please refer to the <a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">MOM website</a> for details. </p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;">For travellers <b>arriving before 1 May 2022</b>, <a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">apply for Entry Approval from Ministry of Manpower</a> at least 3 working days before the intended date of departure. </p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">All other fully vaccinated IPA holders should refer to the “<b>Long-term pass and in-principle approval (IPA) holders</b>” section below.</p>
 </div>
 <input id="LTP-IPA" type="checkbox">
 <label style="background-color: #23537a;" for="LTP-IPA"><b>Long-Term Pass and in-principle approval (IPA) holders</b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Valid pass card or IPA letter for pre-boarding checks or immigration clearance</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Ensure you have a valid Long-Term Pass or IPA letter for pre-boarding checks or immigration clearance.</p>
 </div>
 <input id="STV" type="checkbox">
 <label style="background-color: #23537a;" for="STV"><b>Foreigners without a Singapore Long-Term Pass</b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"> <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"> <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions.</p>
 </div>
 <input id="Foreign-vehicle" type="checkbox">
 <label style="background-color: #23537a;" for="Foreign-vehicle"><b>Drivers of Foreign-Registered Vehicles Entering by Land </b></label>
 <div style="background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Valid Vehicle Entry Permit (VEP) approval email, Autopass card and motor insurance. <b style="color:red;">Application or insurance/Autopass update services are unavailable at Singapore's land checkpoints</b>.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Ensure you have a valid Vehicle Entry Permit (VEP) approval email, Autopass card and motor insurance. <b style="color:red;">Application or insurance/Autopass update services are unavailable at Singapore's land checkpoints</b>.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Applications <b style="color:red;">must</b> be made via the OneMotoring website at least two weeks before your intended travel dates (steps below):</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: lower-latin;">
 <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Apply for VEP/Autopass card:</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> > Digital Services > Apply for VEP / Autopass Card</li>
