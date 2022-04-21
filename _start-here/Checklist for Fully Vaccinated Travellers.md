@@ -240,14 +240,13 @@ input:checked + label + .content {
 
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 3:  Fill SG Arrival Card up to 3 days before arrival </b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
-	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">The SG arrival card (SGAC) is a simple and free arrival declaration of your travel and health details. </p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">The SG arrival card (SGAC) is a simple and free arrival declaration of your travel and health details. Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Complete your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> <b>within 3 days before your arrival in Singapore, if you are:</b></p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>A Singapore Citizen, Permanent Resident or Long Term Pass Holder arriving via air or sea</b> – SGAC is not required for those arriving by land</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>A non-resident (i.e. do not hold any Singapore-issued pass, citizenship or permanent residency), or In-Principle Approval Pass Holder entering Singapore</b>. This also applies to travellers entering Singapore daily.<sup>1</sup></li>
+		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>A non-resident (i.e. do not hold any Singapore-issued pass, citizenship or permanent residency), or In-Principle Approval Pass Holder entering Singapore</b>. This also applies to travellers entering Singapore daily.(e.g. If you are entering Singapore on 1, 2 and 3 March, three separate SGAC submissions must be made).</li>
 	</ol>
-	<p style="font-size:16px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><i>Footnote 1: If you are entering Singapore on 1, 2 and 3 March, three separate SGAC submissions must be made.</i></p>
-<p style=" font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Upon the completion of your SGAC, you will receive an email acknowledgement which you can present for smoother pre-boarding and immigration checks. Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
+<p style=" font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Upon the completion of your SGAC, you will receive an email acknowledgement which you can present for smoother pre-boarding and immigration checks. </p>
 </div>
 
 <div id="step4"></div>
