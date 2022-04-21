@@ -26,7 +26,7 @@ third_nav_title: Travelling to Singapore
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad;font-size:18px;">
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry permissions are <b style="color:red;">not</b> required for Singapore Citizens and Permanent Residents as well as Long-Term Pass holders (including In-Principle Approval holders) aged 13 to 17.</p>
         <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All other non-fully vaccinated Long-Term Pass Holders aged 18 and above, and non-fully vaccinated Short-Term Visitors aged 13 and above are generally <b>not allowed</b> to enter Singapore. </p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>For arrivals from 1 Jul 2022</b>, all Long-Term Pass holders aged 13 and above who are not fully vaccinated with WHO EUL Vaccines must also obtain entry permissions.</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>For arrivals from 1 Jul 2022</b>, all Long-Term Pass holders aged 13 and above who are not fully vaccinated with WHO EUL Vaccines must  obtain entry permissions.</p>
 
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The following non-fully vaccinated travellers may apply for entry approval via the channels listed below:</p>
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click '+' for details)</b></p>
