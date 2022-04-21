@@ -397,7 +397,7 @@ Only travellers born before 2020 (i.e. above two years old) who belong to any ca
 
 Recently-recovered travellers who are fully vaccinated may be exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 7 to 90 days (for fully vaccinated travellers) or 14-90 days (for non-fully vaccinated travellers) before their date of departure from Singapore.
 
-The following groups of travellers are required to do a pre-departure COVID-19 test Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
+The following groups of travellers are required to do a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
 
 <ol style="list-style-type:disc;">
 <li style="padding-left:15px;">Non-fully vaccinated travellers aged 13 and above born before 2010 (i.e. above 13 years old)</li>
