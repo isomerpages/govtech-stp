@@ -260,7 +260,7 @@ input:checked + label + .content {
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:disc;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval (IPA) in the Construction, Marine Shipyard and Process (CMP) sectors</li>
 	</ol>
-	<p style="font-size:18px;line-height:1.35; magin-top:10px;">Please read the instructions below for all travellers arriving <b>before 26 Apr 2022</b>.</p>
+	<p style="font-size:18px;line-height:1.35; magin-top:0px;">Please read the instructions below for all travellers arriving <b>before 26 Apr 2022</b>.</p>
 	<p style="font-size:18px;line-height:1.35; magin-top:0px; color:red;"><b>Instructions for arrivals before 26 Apr 2022</b></p>
 	<p style="font-size:18px;line-height:1.35; margin-top:10px;">A Pre-Departure Test (PDT) is only <b style="color:red;">not</b> required if you: </p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
