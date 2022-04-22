@@ -28,7 +28,7 @@ third_nav_title: Travelling to Singapore
         <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All other non-fully vaccinated Long-Term Pass Holders aged 18 and above, and non-fully vaccinated Short-Term Visitors aged 13 and above are generally <b>not allowed</b> to enter Singapore. </p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>For arrivals from 1 Jul 2022</b>, all Long-Term Pass holders aged 13 and above who are not fully vaccinated with WHO EUL Vaccines must  obtain entry permissions.</p>
 
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The following non-fully vaccinated travellers may apply for entry approval via the channels listed below:</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Only the following non-fully vaccinated travellers may apply for entry approval via the channels listed below:</p>
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click '+' for details)</b></p>
 
 <html>
