@@ -261,7 +261,7 @@ input:checked + label + .content {
 	<p style="font-size:18px;line-height:1.35; margin-top:0px; color:red;"><b>Instructions for arrivals from 26 Apr 2022</b></p>
 	<p style="font-size:18px;line-height:1.35; margin-top:10px;"><b>Pre-departure test is <u>not required except for</u>: </b></p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:disc;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval (IPA) in the Construction, Marine Shipyard and Process (CMP) sectors - for FAQs on PDTs for this group of workers, please refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-and-shn-requirements-for-foreign-employees#momrsquos-entry-approval-for-non-malaysian-cmp-workers-on-ipa" target="_blank">MOM's FAQ</a>.</li>
+	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval (IPA) in the Construction, Marine Shipyard and Process (CMP) sectors - for FAQs on PDT for this group of workers, please refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-and-shn-requirements-for-foreign-employees#momrsquos-entry-approval-for-non-malaysian-cmp-workers-on-ipa" target="_blank">MOM's FAQ</a>.</li>
 	</ol>
 	</div>
 <div style="margin-top: 20px; margin-bottom: 10px; padding: 10px; background-color:#edf4fa;">
