@@ -257,12 +257,11 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 4:  Take a COVID-19 Pre-Departure Test (PDT) if required, up to 2 days before departure</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
-	<p style="font-size:18px;line-height:1.35; margin-top:0px; color:red;">Instructions for arrivals <b>from 26 Apr 2022</b>.</p>
-	<p style="font-size:18px;line-height:1.35; magin-top:10px;"><b>Pre-departure test is not required for all fully vaccinated travellers arriving from 26 Apr 2022 except for: </b></p>
+	<p style="font-size:18px;line-height:1.35; margin-top:0px; color:red;"><b>Instructions for arrivals from 26 Apr 2022</b></p>
+	<p style="font-size:18px;line-height:1.35; magin-top:10px;"><b>Pre-departure test is not required for arrivals from 26 Apr 2022 except for: </b></p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:disc;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval (IPA) in the Construction, Marine Shipyard and Process (CMP) sectors - for FAQs on PDTs for this group of workers, please refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-and-shn-requirements-for-foreign-employees#momrsquos-entry-approval-for-non-malaysian-cmp-workers-on-ipa" target="_blank">MOM's FAQ</a>.</li>
 	</ol>
-	<p style="font-size:18px;line-height:1.35; margin-top:0px;">Please read the instructions below for all travellers arriving <b>before 26 Apr 2022</b>.</p>
 	<p style="font-size:18px;line-height:1.35; margin-top:0px; color:red;"><b>Instructions for arrivals before 26 Apr 2022</b></p>
 	<p style="font-size:18px;line-height:1.35; margin-top:10px;">A Pre-Departure Test (PDT) is only <b style="color:red;">not</b> required if you: </p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
