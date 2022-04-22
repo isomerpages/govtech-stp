@@ -266,7 +266,7 @@ input:checked + label + .content {
 	</div>
 <div style="margin-top: 20px; margin-bottom: 10px; padding: 10px; background-color:#edf4fa;">
 	<p style="font-size:18px;line-height:1.35; margin-top:0px; color:red;"><b>Instructions for arrivals before 26 Apr 2022</b></p>
-	<p style="font-size:18px;line-height:1.35; margin-top:10px;">A Pre-Departure Test (PDT) is only <b style="color:red;">not</b> required if you: </p>
+	<p style="font-size:18px;line-height:1.35; margin-top:10px;">A Pre-Departure Test (PDT) is <b>not</b> required if you: </p>
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Are entering Singapore via land from Malaysia; <b>OR</b>
 </li>
