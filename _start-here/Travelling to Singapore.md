@@ -155,7 +155,7 @@ Click here to return to the <a href="#top">top</a>.
 				<li style="line-height:1.35; font-size:16px;">Antigen Rapid Test (ART) which is professionally administered, or administered remotely</li>
 					</ul>
 					<p style="margin-top:10px; line-height:1.35;font-size:16px;">The above is not applicable to travellers arriving by land.</p>
-					<p style="margin-top:20px; line-height:1.35;font-size:16px;"><b>For arrivals from 26 Apr 2022]</b> <br> COVID-19 pre-departure test is not required except for:</p>
+					<p style="margin-top:20px; line-height:1.35;font-size:16px;"><b>[For arrivals from 26 Apr 2022]</b> <br> COVID-19 pre-departure test is not required except for:</p>
 					<ul style="list-style-type: disc; line-height:1.35;">
 						<li style="line-height:1.35; font-size:16px;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval (IPA) in the Construction, Marine Shipyard and Process (CMP) sectors.</li>
 					</ul>
