@@ -219,7 +219,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <ul style="list-style-type: lower-roman; line-height:1.35;">
 	<li style="line-height:1.35; font-size:20px;">Received the full regimen of WHO EUL Vaccines in the list of accepted vaccinations <a href="#table">below</a> and met the minimum dose interval period; or</li>
-	<li style="line-height:1.35; font-size:20px; margin-top: 20px;">Contracted COVID-19 before being vaccinated, and received at least one dose of any WHO EUL Vaccines (<a href="#table">listed below</a>) <b>at least 28 days from their first diagnosis</b> of a COVID-19 infection. Travellers must produce acceptable proof of their first positive COVID-19 diagnosis.</li>
+	<li style="line-height:1.35; font-size:20px; margin-top: 20px;">Contracted COVID-19 before being vaccinated, and received at least one dose of any WHO EUL Vaccines (<a href="#table">listed below</a>) <b>at least 28 days after their first diagnosis</b> of a COVID-19 infection. Travellers must produce acceptable proof of their first positive COVID-19 diagnosis.</li>
 </ul>
 
 
