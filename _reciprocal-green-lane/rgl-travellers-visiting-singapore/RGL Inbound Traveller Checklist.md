@@ -127,7 +127,7 @@ When checking in at the departure airport, travellers must present to the airlin
 
 Follow the instructions provided by the ground officers and signages on arrival. 
 
-As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#stage2">Stage 2</a> . Travellers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> should also present their vaccination certificate(s) to the immigration officer, who will facilitate the registration of the traveller’s vaccination status into TraceTogether. This will allow the traveller to qualify for vaccination-differentiated safe management measures (VDS) adopted in Singapore for up to 30 days. 
+As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#stage2">Stage 2</a> . Travellers who are <a href="/arriving/overview#vaccination" target="_blank">fully vaccinated</a> should also present their vaccination certificate(s) to the immigration officer, who will facilitate the registration of the traveller’s vaccination status into TraceTogether. This will allow the traveller to qualify for vaccination-differentiated safe management measures (VDS) adopted in Singapore for up to 30 days. 
 
 Following immigration clearance, travellers will receive a digital Visit Pass (“e-Pass”), which will indicate the permissible period of stay granted; traveller’s passport will no longer be stamped. Travellers will receive their e-Pass via the email indicated in their SG Arrival Card.
 

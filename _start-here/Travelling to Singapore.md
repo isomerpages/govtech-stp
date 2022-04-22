@@ -36,11 +36,11 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="checklist"></div>
 
-#### 1. Traveller Entry Checklists under Vaccinated Travel Framework
+#### 1. Traveller Entry Checklists under COVID-19 Vaccinated Travel Framework
 
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to countries/regions in the General Travel or Restricted Category, as well as vaccination with WHO Emergency Use Listing COVID-19 vaccines*. <b>Click the relevant button below for a full step-by-step traveller checklist according to your profile.</b></p>
 
-<p style="font-size:16px; margin-top:20px; margin-bottom:10px; line-height:1.35;"> <i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to the section on <a href="#vaccination">acceptable vaccines for entry</a>.</i></p>
+<p style="font-size:16px; margin-top:20px; margin-bottom:10px; line-height:1.35;"> <i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to the section on <a href="#vaccination">acceptable COVID-19 vaccinations for entry</a>.</i></p>
 
 <hr style="margin-top:20px;">
 
@@ -142,20 +142,23 @@ Click here to return to the <a href="#top">top</a>.
 			<th colspan="2" style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center"><b>Summary of Travel Requirements</b></th>
 		</tr>
 		<tr>
-		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>Fully Vaccinated Traveller and Travellers Aged 12 and Below</b></th>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>Traveller Fully Vaccinated with WHO EUL COVID-19 Vaccines and Travellers Aged 12 and Below</b></th>
 			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Non-fully Vaccinated Traveller</b></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 		<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">All countries/regions</td>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:20px; line-height:1.35;font-size:16px;"><!--<b>[For arrivals before 19 Apr 2022]</b>--> Any of the following COVID-19 test, within 2 days before departure for Singapore:</p>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:20px; line-height:1.35;font-size:16px;"><b>[For arrivals before 26 Apr 2022]</b> Any of the following COVID-19 tests, within 2 days before departure for Singapore:</p>
 			<ul style="list-style-type: lower-roman; line-height:1.35;">
 				<li style="line-height:1.35; font-size:16px;">COVID-19 Polymerase Chain Reaction Test (PCR Test)</li>
 				<li style="line-height:1.35; font-size:16px;">Antigen Rapid Test (ART) which is professionally administered, or administered remotely</li>
 					</ul>
-					<p style="margin-top:20px; line-height:1.35;font-size:16px;">The above is not applicable to travellers arriving by land.</p>
-					<p style="margin-top:20px; line-height:1.35;font-size:16px;"><!--<b>For arrivals from 19 Apr 2022]</b> <br> Pre-departure test is not required--></p>
+					<p style="margin-top:10px; line-height:1.35;font-size:16px;">The above is not applicable to travellers arriving by land.</p>
+					<p style="margin-top:20px; line-height:1.35;font-size:16px;"><b>[For arrivals from 26 Apr 2022]</b> <br> COVID-19 pre-departure test is not required except for:</p>
+					<ul style="list-style-type: disc; line-height:1.35;">
+						<li style="line-height:1.35; font-size:16px;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval (IPA) in the Construction, Marine Shipyard and Process (CMP) sectors.</li>
+					</ul>
 			</td>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><ul style="line-height:1.35; list-style-type: decimal;">
 					<li style="line-height:1.35; font-size:16px;">Any of the following COVID-19 test, within 2 days before departure for Singapore:
@@ -209,14 +212,14 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="vaccination"></div>
 
-### 2. Accepted Vaccinations for Entry
+### 2. Accepted COVID-19 Vaccinations for Entry
 
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">All travellers aged 12 and below do not need to be vaccinated for entry to Singapore. Travellers aged 13 and above are only considered “fully vaccinated” for purposes of entry to Singapore if they meet either of the following conditions at least 2 weeks before arrival in Singapore, if not they are considered “non-fully vaccinated”:</p>
 
 <ul style="list-style-type: lower-roman; line-height:1.35;">
 	<li style="line-height:1.35; font-size:20px;">Received the full regimen of WHO EUL Vaccines in the list of accepted vaccinations <a href="#table">below</a> and met the minimum dose interval period; or</li>
-	<li style="line-height:1.35; font-size:20px; margin-top: 20px;">Contracted COVID-19 before being vaccinated, and received at least one dose of any WHO EUL Vaccines (<a href="#table">listed below</a>) <b>at least 28 days from their first diagnosis</b> of a COVID-19 infection. Travellers must produce acceptable proof of their first positive COVID-19 diagnosis.</li>
+	<li style="line-height:1.35; font-size:20px; margin-top: 20px;">Contracted COVID-19 before being vaccinated, and received at least one dose of any WHO EUL Vaccines (<a href="#table">listed below</a>) <b>at least 28 days after their first diagnosis</b> of a COVID-19 infection. <i>(E.g. If traveller was first diagnosed with COVID-19 on 1 March, the vaccination should only be taken from 29 March onwards.)</i> Travellers must produce acceptable proof of their first positive COVID-19 diagnosis.</li>
 </ul>
 
 
