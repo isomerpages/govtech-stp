@@ -79,7 +79,7 @@ Click here to return to the <a href="#top">top</a>.
 <body>	
 <a href="/arriving/general-travel/fully-vaccinated" target="_blank"><button class="pushable">
   <span class="front">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Fully Vaccinated Travellers</b></p>
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;"> <b>CLICK HERE for Travel Checklist for Fully Vaccinated Travellers<br>(including non-fully vaccinated children 12 and below)</b></p>
 	</span>
 	</button></a>
 </body>
@@ -149,16 +149,7 @@ Click here to return to the <a href="#top">top</a>.
 	<tbody>
 		<tr>
 		<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">All countries/regions</td>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:20px; line-height:1.35;font-size:16px;"><b>[For arrivals before 26 Apr 2022]</b> Any of the following COVID-19 tests, within 2 days before departure for Singapore:</p>
-			<ul style="list-style-type: lower-roman; line-height:1.35;">
-				<li style="line-height:1.35; font-size:16px;">COVID-19 Polymerase Chain Reaction Test (PCR Test)</li>
-				<li style="line-height:1.35; font-size:16px;">Antigen Rapid Test (ART) which is professionally administered, or administered remotely</li>
-					</ul>
-					<p style="margin-top:10px; line-height:1.35;font-size:16px;">The above is not applicable to travellers arriving by land.</p>
-					<p style="margin-top:20px; line-height:1.35;font-size:16px;"><b>[For arrivals from 26 Apr 2022]</b> <br> COVID-19 pre-departure test is not required except for:</p>
-					<ul style="list-style-type: disc; line-height:1.35;">
-						<li style="line-height:1.35; font-size:16px;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval (IPA) in the Construction, Marine Shipyard and Process (CMP) sectors.</li>
-					</ul>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:20px; line-height:1.35;font-size:16px;">No specific COVID-19 measures, <b>but refer to the Travel Checklist for Fully Vaccinated Travellers</b> for a step-by-step guide for travelling to Singapore. Certain traveller types additional documents in order to enter Singapore (e.g. tourist visas, yellow fever vaccinations, foreign vehicle permits) and these are explained in the checklist.</p>
 			</td>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><ul style="line-height:1.35; list-style-type: decimal;">
 					<li style="line-height:1.35; font-size:16px;">Any of the following COVID-19 test, within 2 days before departure for Singapore:
