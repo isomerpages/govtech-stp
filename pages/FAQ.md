@@ -388,23 +388,7 @@ Click here to [Go Back To Top](#top).
 
 #### 1. Which travellers are required to do a pre-departure COVID-19 test?
 
-Only travellers born before 2020 (i.e. above two years old) who belong to any category of travellers below are required to do a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
-
-<ol style="list-style-type:lower-alpha;">
-<li style="padding-left:15px;"><b>[For arrivals before 26 Apr 2022]</b> Fully-vaccinated travellers arriving in Singapore via air or sea; or</li>
-<li style="padding-left:15px;">All non-fully vaccinated travellers</li>
-</ol>
-
-Recently-recovered travellers who are fully vaccinated may be exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 7 to 90 days (for fully vaccinated travellers) or 14-90 days (for non-fully vaccinated travellers) before their date of departure from Singapore.
-
-<!--The following groups of travellers are required to do a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore:
-
-<ol style="list-style-type:disc;">
-<li style="padding-left:15px;">Non-fully vaccinated travellers aged 13 and above born before 2010 (i.e. above 13 years old)</li>
-<li style="padding-left:15px;">Non-Malaysian Work Permit Holders (WPHs) holding an In-Principle Approval in the Construction, Marine Shipyard and Process (CMP) sectors, as part of their pre-departure on-boarding process.</li>
-</ol>
-
-Recently-recovered travellers who are not fully vaccinated may be exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 14 - 90 days before their date of departure from Singapore.-->
+Non-fully vaccinated travellers aged 13 and above born before 2010 (i.e. above 13 years old) are required to do a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test within two days before departing for Singapore. Recently-recovered travellers who are not fully vaccinated may be exempted from pre-departure test if they produce a valid proof of recovery indicating a positive COVID-19 diagnosis that falls between 14 to 90 days before their date of departure for Singapore.
 
 
 #### 2. If I am entering a foreign country/region for a very short trip, can I use my negative pre-departure COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) results, taken in Singapore for departure, to fulfil the pre-departure test requirement for my return leg to Singapore?
@@ -558,18 +542,7 @@ Visitors must carry their rented mobile device or TraceTogether token with them 
 Travellers who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can purchase a Singapore SIM card. Upon purchase, travellers are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport used to enter Singapore.
 
 
-#### 7. Can travellers switch off their mobile devices while in Singapore?
-
-No, travellers must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
-
-Travellers must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore.
-
-For TraceTogether token users, authorised personnel may ask to retrieve the token should he/she tests positive for COVID-19 while in Singapore.
-
-Tokens will be replaced free-of-charge if they stop working due to (1) battery lifespan, (2) manufacturing defect or (3) damage not due to visitor’s negligence. Otherwise, replacements are subject to the same fee.
-
-
-#### 8. Will my vaccination status show on my TraceTogether app? What should I do if my vaccination status is not updated in TraceTogether or if it expires?
+#### 7. Will my vaccination status show on my TraceTogether app? What should I do if my vaccination status is not updated in TraceTogether or if it expires?
 
 If you were fully vaccinated in <b>Singapore</b>, you should be able to see your vaccination status on your TraceTogether and HealthHub apps.
 
@@ -580,9 +553,9 @@ If you were fully vaccinated <b>overseas</b>, please ensure that you have:
 	<li>Present your overseas vaccination certificate at the immigration counter on-arrival. </li>
 	</ol>
 
-Your vaccination status will be updated on your TraceTogether app within 1 day after arrival in Singapore. If your vaccination status has not been updated on your TraceTogether app, kindly submit a query for the relevant team to look into your case: <a href="https://go.gov.sg/vds-query-form" target="_blank">https://go.gov.sg/vds-query-form</a>.
+Your vaccination status will be updated on your TraceTogether app shortly after arrival in Singapore. If your vaccination status has not been updated on your TraceTogether app, kindly submit a query using the following form to look into your case: <a href="https://go.gov.sg/vds-query-form" target="_blank">https://go.gov.sg/vds-query-form</a>.
 
-Travellers vaccinated overseas will be granted a 30-day temporary status by uploading their digitally-verifiable vaccination certificate via the Vaccination Check Portal or SG Arrival Card, or by presenting their vaccination certificate to the ICA officer at immigration clearance. Thereafter, the vaccination status will expire. For your vaccination status to continue to be valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministry of Health's FAQs on these measures.
+Travellers vaccinated overseas will be granted a 30-day temporary status automatically after clearing immigration, after which the vaccination status will expire. For your vaccination status to continue to be valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministry of Health's FAQs on these measures.
 
 You may also wish to refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">TraceTogether FAQs</a> for more information.
 

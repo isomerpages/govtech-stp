@@ -41,7 +41,7 @@ Summarised below are some of the top questions asked in the past week. If your q
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading Digitally Verifiable Certificate (DVC) to the Vaccination Check Portal (VCP) or SG Arrival Card (SGAC)</b> </td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/faq#vaxcert" target="_blank">Click Here</a> for instructions to troubleshoot common errors. 
 </p>
-<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Even if your upload fails, you may continue to enter Singapore if you hold a valid vaccination certificate that is in English, or accompanied with notarised English Translation, with the following details:
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><b>Even if your upload fails, you may continue to enter Singapore if you hold a valid vaccination certificate</b> that is in English, or accompanied with notarised English translation, with the following details:
 </p>
 <ol style="padding-left: 20px; list-style-type: lower-roman;"><li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Name (per travel document used for entry)</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
@@ -54,12 +54,8 @@ Summarised below are some of the top questions asked in the past week. If your q
  </tr>
 			   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Travel for recently-recovered travellers</b> </td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Travellers who are fully vaccinated and able to produce credible proof of having contracted COVID-19 between 7 and 90 days before departure for Singapore do not need to take a pre-departure test. No appeal is required.Refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel – Fully Vaccinated Traveller Checklist</a> for details.
-</p>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Non-fully vaccinated travellers who produce credible proof of having contracted COVID-19 between 14 and 90 days before departure for Singapore do not need to take a pre-departure test. No appeal is required. Refer to the General Travel – <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-Fully Vaccinated Traveller Checklist</a> for details.
-</p>
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Alternatively, use this <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">self-check tool</a> for quick answers and to check infection and departure dates. 
-</p>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Fully vaccinated travellers and children aged 12 and below do not need to take a pre-departure test even after they have recovered from COVID-19. However, they should defer their travels if they have experienced onset of COVID-19 symptoms in the last 7 days before departure. Refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel – Fully Vaccinated Traveller Checklist</a> for full details.</p>
+<p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Non-fully vaccinated travellers aged 13 and above who produce credible proof of having contracted COVID-19 between 14 and 90 days before departure for Singapore do not need to take a pre-departure test. No appeal is required. Refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">General Travel – Non-Fully Vaccinated Traveller Checklist</a> for details.</p>
 </td>
  </tr>
   </tbody>
@@ -110,7 +106,7 @@ Summarised below are some of the top questions asked in the past week. If your q
 <ol style="list-style-type:disc; margin-top: 0px; ">
 <li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">COVID-19 Test Scheduling Issues</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
-<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Clarification on <a href="/arriving/overview#lanelist" target="_blank">Entry Requirements</a></li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Clarifications on Entry and Health Protocols</li>
 				 </ol>
 </td>
   </tr>
@@ -122,7 +118,6 @@ Summarised below are some of the top questions asked in the past week. If your q
 		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals for short-term non-fully vaccinated travellers 
 </li>
 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Refund or fee waiver requests</li>
-		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Difficulties getting a COVID-19 test before departure</li>
 				 </ol>
 </td>
   </tr>	
