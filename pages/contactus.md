@@ -45,7 +45,6 @@ Summarised below are some of the top questions asked in the past week. If your q
 </p>
 <ol style="padding-left: 20px; list-style-type: lower-roman;"><li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Name (per travel document used for entry)</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
-	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Country of vaccination</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Name of vaccine(s) administered, i.e. different names for different vaccine type</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">Vaccination date(s)</li>
 	   </ol>
