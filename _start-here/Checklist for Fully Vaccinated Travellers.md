@@ -294,8 +294,7 @@ input:checked + label + .content {
 <!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Register Overseas Vaccination Record and Take COVID-19 Boosters</b></div>-->
 
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;"><b>Travellers who were vaccinated overseas</b> must register their vaccination status into the Singapore National Immunisation Registry (NIR), if you are any of the following traveller types and have not previously registered before.</p>
-
-<div style="width:500%; overflow:hidden;">	
+	
 <table>
   <thead>
     <tr>
@@ -349,7 +348,6 @@ input:checked + label + .content {
     </tr>
 </tbody>
 </table>
-	</div>
 </div>
 
 <!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b> C) Contracting and Recovering from COVID-19</b></div>
