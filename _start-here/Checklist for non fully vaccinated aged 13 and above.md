@@ -318,19 +318,10 @@ input:checked + label + .content {
 </ol>
     </div>
     
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 2: Requirements on Arrival</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 2: Arrival in Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
-&#9634; &nbsp;&nbsp;<b>Pre-boarding Document Checks</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;; border-bottom:2px solid #adadad; font-size:18px;">
-    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Transport operators may ask for the documents listed at Stage 1 during pre-boarding checks. Failing which, you may be denied boarding.    
-    </p>
-    </div>
-    
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 3: Immigration Clearance in Singapore</b></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
-&#9634; &nbsp;&nbsp;<b>A) Immigration Clearance</b></div>
+&#9634; &nbsp;&nbsp;<b>2A) Immigration Clearance</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
      <p style="font-size:18px; margin-top: 10px; margin-bottom: 10px; line-height:1.35;">Follow the instructions of officers and signage on arrival for the appropriate clearance lanes, and provide all documents, including proof of tests, and information required by the immigration officer. </p>
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Upon clearance, an <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> stating the period of stay granted will be issued to foreign short-term visit pass travellers via the email address indicated in the SGAC. Passports will no longer be stamped.
@@ -339,8 +330,8 @@ input:checked + label + .content {
     </p>
     </div>
     
-<div id="3B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
-&#9634; &nbsp;&nbsp;<b>B) Commute to declared Stay-Home Notice (SHN) accommodation</b></div>
+<div id="2B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
+&#9634; &nbsp;&nbsp;<b>2B) Commute to declared Stay-Home Notice (SHN) accommodation</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
      <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Following immigration clearance, you will:
     <ol style="padding-left: 20px; margin-top:20px; list-style-type: lower-latin;">
@@ -351,10 +342,10 @@ input:checked + label + .content {
      <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><a href="/faq#transport" target="_blank">Click here for the latest transport advisory.</a></p>
     </div>
     
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 4: Stay-Home Notice & COVID-19 Tests</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 3: Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
-&#9634; &nbsp;&nbsp;<b>A) Stay-Home Notice (SHN) Requirements</b></div>
+&#9634; &nbsp;&nbsp;<b>3A) Stay-Home Notice (SHN) Requirements</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
      <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">The 7-day Stay-Home Notice (SHN) takes effect immediately upon its issuance. Remain in your declared SHN accommodation for the period specified in the notice, unless you are: 
     <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
@@ -362,7 +353,7 @@ input:checked + label + .content {
         <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Scheduled to take your mandatory SHN-exit COVID-19 Polymerase Chain Reaction Test (PCR Test).</li>
     </ol>
     </p>
-    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To avoid queues, pay for your SHN-exit PCR test during your application for Entry Approval. Otherwise, pay for the test using the payment link found in your SHN (sent to your email address) before your appointment. Including GST, each test comes up to S$125.
+    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To avoid queues, pay for your SHN-exit PCR test during your application for Entry Approval. Otherwise, pay for the test using the payment link found in your SHN (sent to your email address) before your appointment. Including GST, each test is S$125.
     </p>
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
     </p>
@@ -432,7 +423,7 @@ input:checked + label + .content {
 <label for="SHN-FAQ"><b>SHN Frequently Asked Questions</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> <b> Q1) Commuting to SHN location and to/from COVID-19 test site</b></p>
-          <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The commuting arrangement stated at <a href="#3B">Stage 3B</a> will continue to apply for the SHN duration. </p>
+          <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The commuting arrangement stated at <a href="#2B">Stage 2B</a> will continue to apply for the SHN duration. </p>
             <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>Q2) SHN end date:</b></p>
             <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Use the <a href="/shn-calculator" target="_blank">SHN calculator</a> for your estimated SHN end date or refer to the illustrations below. If you need to leave your SHN for an emergency, e.g. funeral or hospital visits, submit a <a href="https://go.gov.sg/sto-enquiry" target="_blank">written request</a> to the SafeTravel Office for assistance.</p>
           <p style="font-size:18px; margin-top: 10px;  line-height:1.35;"><u>Illustration 1:</u></p>
@@ -451,23 +442,23 @@ input:checked + label + .content {
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
-&#9634; &nbsp;&nbsp;<b>B) Testing Positive for COVID-19</b></div>
+&#9634; &nbsp;&nbsp;<b>3B) Testing Positive for COVID-19</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;border-bottom:2px solid #adadad; font-size:18px;">
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">If you test positive for COVID-19, <a href="https://www.covid.gov.sg/travellers" target="_blank">adhere to these recovery protocols</a>.</p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">In the event where you are assessed to be ineligible for home or in-situ recovery, you may be conveyed to a suitable COVID-19 care facility. Information on treatment and costs for COVID-19 for travellers can be found on <a href="/health/insurance-and-treatment#treatment" target="_blank">this page</a>.
 </p>
 </div>    
     
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 5: End of Stay-Home Notice & Stay in Singapore</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 4: Comply with Local Health Protocols</b></div>
     
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
-&#9634; &nbsp;&nbsp;<b>A) Abide by Local COVID-19 Safe Management Measures</b></div>
+&#9634; &nbsp;&nbsp;<b>4A) Abide by Local COVID-19 Safe Management Measures</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;"><p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">You may go about with your activities after completing SHN. However, you should comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures</a>.</p> 
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">If you are not medically exempted from COVID-19 vaccination, you will not qualify for entry into any vaccination-differentiated settings (e.g. attendance at large scale events, dining restrictions).</p>
 </div>    
     
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
-&#9634; &nbsp;&nbsp;<b>B) Fulfil Pass Requirements [Long-Term Pass Holders only]</b></div>
+&#9634; &nbsp;&nbsp;<b>4B) Fulfil Pass Requirements [Long-Term Pass Holders only]</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad;font-size:18px;">
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Complete the full vaccination regimen <b>within two months of arrival</b> if you are:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
