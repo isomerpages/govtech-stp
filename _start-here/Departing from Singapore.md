@@ -14,7 +14,7 @@ On this page, travellers intending to depart from Singapore can find information
     <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#Proof">Obtaining digitally authenticated vaccination certificate (if required)</a></li>
 </ol>
 
-<div id="advisories"></div>w
+<div id="advisories"></div>
 
 ### 1) Departure Advisories and Requirements
 
