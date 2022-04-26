@@ -116,7 +116,6 @@ input:checked + label + .content {
 	<ol style="padding-left:25px; list-style-type:lower-latin;">
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Name (per travel document used for entry)</li>
 			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
-		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Country of vaccination</li>
 		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Name of vaccine(s) administered</li>
 		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Vaccination date(s)</li>
 	</ol>
