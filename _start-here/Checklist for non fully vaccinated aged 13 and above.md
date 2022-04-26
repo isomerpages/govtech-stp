@@ -17,17 +17,31 @@ third_nav_title: Travelling to Singapore
      <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
    <!--<p style="font-size:18px; margin-top:20px;margin-bottom:0px;  line-height:1.4; color:black;">Users of this checklist can indicate "<b>✓</b>" in the boxes (&#9634;) for completed activities.</p>-->
   </div>
+
+<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35;">Travellers are advised to read carefully and follow all the steps in the checklist below. Travellers can be turned away at pre-boarding or immigration or subject to penalties if they do not comply with the requirements.</p>
+<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 1: Pre-Departure Requirements</p>
+<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 2: Requirements on Arrival</p>
+<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 3: Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</p>
+<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 4: Comply with Local Health Protocols</p>
+
   
-  
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure Requirements</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;" id="1A">
-&#9634; &nbsp;&nbsp;<b>A) Obtain Entry Permissions</b></div>
+&#9634; &nbsp;&nbsp;<b>1A) Obtain Entry Approval</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad;font-size:18px;">
-    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry permissions are <b style="color:red;">not</b> required for Singapore Citizens and Permanent Residents as well as Long-Term Pass holders (including In-Principle Approval holders) aged 13 to 17.</p>
-        <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All other non-fully vaccinated Long-Term Pass Holders aged 18 and above, and non-fully vaccinated Short-Term Visitors aged 13 and above are generally <b>not allowed</b> to enter Singapore. Please note that all Long-Term Pass holders aged 13 and above <b>arriving <u>from 1 Jul 2022</u></b> who are not fully vaccinated with WHO EUL Vaccines will not be able to enter without entry approval.</p>
-
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Only the following non-fully vaccinated travellers may apply for entry approval via the channels listed below:</p>
+    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry approvals are <b style="color:red;">not</b> required for:</p>
+ <ol style="list-style-type: disc; padding-left:25px;">
+        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Singapore Citizens and Permanent Residents</li>
+<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Long-Term Pass holders (including In-Principle Approval holders) aged 13 to 17 (i.e. born between 2010 and 2005 inclusive) arriving <b>before 1 Jul 2022.</b></li>
+	</ol>
+	    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The following types of travellers are generally not allowed to enter Singapore:</p>
+	 <ol style="list-style-type: disc; padding-left:25px;">
+        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Non-fully vaccinated Long-Term Pass Holders aged 18 and above (i.e. born before 2005)</li>
+<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Non-fully vaccinated Long-Term Pass holders aged 13 and above (i.e. born before 2010) <b>arriving from 1 Jul 2022</b></li>
+<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Non-fully vaccinated Short-Term Visitors aged 13 and above (i.e. born before 2010)</li> 
+	</ol>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Only the following types of non-fully vaccinated travellers may apply for entry approval via the channels listed below:</p>
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click '+' for details)</b></p>
 
 <html>
@@ -462,4 +476,3 @@ input:checked + label + .content {
     </ol>
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">By completing the requisite vaccination regimen, you will be eligible for the renewal or extension of your long-term pass. If you suffer from a medical condition that disallows you from being vaccinated against COVID-19, obtain medical certification within 30 days of your arrival in Singapore to prove your ineligibility for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</p>
 </div>
-	
