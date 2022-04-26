@@ -13,7 +13,7 @@ third_nav_title: Travelling to Singapore
        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Certified medically ineligible for COVID-19 vaccination</li>
   </ol>
   </p>
-    <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">If you are fully vaccinated or below 12 regardless of vaccinated status, refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">this checklist</a> instead. For travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information.</p>
+    <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">If you are fully vaccinated or below 12 regardless of vaccinated status, refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">this checklist</a> instead. Travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information.</p>
      <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
    <!--<p style="font-size:18px; margin-top:20px;margin-bottom:0px;  line-height:1.4; color:black;">Users of this checklist can indicate "<b>✓</b>" in the boxes (&#9634;) for completed activities.</p>-->
   </div>
@@ -272,7 +272,6 @@ input:checked + label + .content {
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;"><a href="/files/serviced-apartments.pdf" target="_blank">Serviced apartment</a>; or</li>
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Hotel of choice from this <a href="https://sha.org.sg/stay-home-notice" target="_blank">non-exhaustive list</a>.</li>
 </ol>
-<p style="line-height:1.35; font-size:18px; margin-top:20px;">Work pass holders are not allowed to serve SHN in dormitories.</p>
     <table>
   <thead>
     <tr>
