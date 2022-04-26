@@ -30,7 +30,7 @@ third_nav_title: Travelling to Singapore
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;" id="1A">
 &#9634; &nbsp;&nbsp;<b>1A) Obtain Entry Approval</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad;font-size:18px;">
-    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry approvals are <b style="color:red;">not</b> required for:</p>
+    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry approvals are <b>not</b> required for:</p>
  <ol style="list-style-type: disc; padding-left:25px;">
         <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Singapore Citizens and Permanent Residents</li>
 <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Long-Term Pass holders (including In-Principle Approval holders) aged 13 to 17 (i.e. born between 2010 and 2005 inclusive) arriving <b>before 1 Jul 2022.</b></li>
@@ -111,13 +111,13 @@ input:checked + label + .content {
 </div>
     
 <input id="PR-LTVP-IPA" type="checkbox">
-    <label style="background-color: #23537a; color:#f7f7f7;" for="PR-LTVP-IPA"><b>Holders of Permanent Resident In-Principle Approval (IPA) or ICA Long-Term Visit Pass IPA Aged 18 and Above</b></label>
+    <label style="background-color: #23537a; color:#f7f7f7;" for="PR-LTVP-IPA"><b>Holders of Permanent Resident In-Principle Approval (IPA) or ICA Long-Term Visit Pass IPA</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
 </div>
     
 <input id="LTPHabove18" type="checkbox">
-    <label style="background-color: #23537a; color:#f7f7f7;" for="LTPHabove18"><b>MOE or MOM Long-Term Pass Holders Aged 18 and Above who are Medically Ineligible for Vaccines</b></label>
+    <label style="background-color: #23537a; color:#f7f7f7;" for="LTPHabove18"><b>MOE or MOM Long-Term Pass Holders who are Medically Ineligible for Vaccines</b></label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate Family Members</u></b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">- Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
@@ -135,8 +135,8 @@ input:checked + label + .content {
 </div>
     
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad;" id="1B">
-&#9634; &nbsp;&nbsp;<b>B) Obtain Additional Travel-Related Documents</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Prepare the travel documents below, if required, and ensure that your passport is valid for <b>at least 6 months</b>. Entries may be denied if the requisite documents are not produced during pre-boarding or immigration clearance.</p>
+&#9634; &nbsp;&nbsp;<b>1B) Obtain Additional Travel-Related Documents</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Prepare the travel documents below, if required, and visitors should ensure that your passport is valid for <b>at least 6 months</b>. Entries may be denied if the required documents are not produced during pre-boarding or immigration clearance.</p>
     <p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>(Click on ‘+’ for details on requirements)</b></p> 
 
     
@@ -204,7 +204,7 @@ input:checked + label + .content {
     <label style="background-color: #23537a;" for="STVs"><b>Foreigners without Singapore Long-Term Pass</b></label>
 <div style="background-color:#edf4fa;" class="content">
     <ol style="list-style-type: lower-latin;">
-        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Travel insurance with minimum coverage of S$30,000 for any COVID-19 related medical charges.<sup>1</sup> Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>)</li>
+        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Buy travel insurance with minimum coverage of S$30,000 for any COVID-19 related medical charges.<sup>1</sup> Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>)</li>
         <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions </li>
     </ol>
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><sup>Footnote 1</sup> Insurance is strongly encouraged but not mandatory for those who received entry approval via the SafeTravel Office Application Portal. Short-term visitors are responsible for all costs associated with COVID-19 treatment and recovery throughout their stay in Singapore.</p>
@@ -232,16 +232,16 @@ input:checked + label + .content {
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;" id="1D">
-&#9634; &nbsp;&nbsp;<b>C) SG Arrival Card</b></div>
+&#9634; &nbsp;&nbsp;<b>1C) Fill SG Arrival Card up to 3 Days before Arrival</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Complete your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> <b>within 3 days before arrival</b>. This is applicable to all travellers, including Singapore Citizens and Permanent Residents. Upon the completion of your SGAC submission, you will receive an email acknowledgement which you can present for smoother pre-boarding and immigration checks.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Complete your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> <b>up to 3 days before arrival</b>. This is applicable to all travellers, including Singapore Citizens and Permanent Residents. Upon the completion of your SGAC submission, you will receive an email acknowledgement which you can present for smoother pre-boarding and immigration checks.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 </div>
     
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;" id="1E">
-&#9634; &nbsp;&nbsp;<b>D) COVID-19 Pre-Departure Test (PDT)</b></div>
+&#9634; &nbsp;&nbsp;<b>1D) COVID-19 Pre-Departure Test (PDT)</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
-<p style="font-size:18px; line-height:1.35;">A Pre-Departure Test (PDT) is only <b style="color:red;">not</b> required if you tested positive for COVID-19 <b>between 14 to 90 days before your date of departure for Singapore</b> - use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if the pre-departure test can be waived, and the documentation required to prove their first infection or recovery.</p>
+<p style="font-size:18px; line-height:1.35;">A Pre-Departure Test (PDT) is <b>not</b> required if you tested positive for COVID-19 <b>between 14 to 90 days before your date of departure for Singapore</b> - use <a href="https://go.gov.sg/recovered-traveller-checker" target="_blank">this tool</a> to check if the pre-departure test can be waived, and the documentation required to prove their first infection or recovery.</p>
 <p style="font-size:18px;line-height:1.35; margin-top: 10px;">Otherwise, if you are born before 2020 (i.e. above 2 years old) take any of the following COVID-19 tests within 2 days before departure: </p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
     <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">COVID-19 Polymerase Chain Reaction test (PCR test) at an internationally accredited or recognised lab/clinic/medical facility - travellers should seek advice from the country’s/region's Ministry of Health equivalent for the approved COVID-19 PCR test providers; OR</li>
@@ -277,12 +277,12 @@ input:checked + label + .content {
     </table>
     </div>
     
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">&#9634; <b>E) Secure Stay Home Notice (SHN) Accommodation for at least 7 days</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">&#9634; <b>1E) Secure Stay Home Notice (SHN) Accommodation for at least 7 days</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;"><p style="line-height:1.35; font-size:18px;">You will be placed on 7-day Stay Home Notice (SHN) upon arrival. During this period, you will remain in your declared SHN accommodation for the full 7 days (see Stage 4 for details).</p>
 <p style="line-height:1.35; font-size:18px; margin-top:10px;">Secure any of the following accommodation for at least 7 days for your SHN:</p>
 <ol style="padding-left: 20px; margin-bottom:0px; list-style-type:lower-latin;">
-<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Place of residence;</li> 
+<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Place of residence (excluding worker dormitories);</li> 
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;"><a href="/files/serviced-apartments.pdf" target="_blank">Serviced apartment</a>; or</li>
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Hotel of choice from this <a href="https://sha.org.sg/stay-home-notice" target="_blank">non-exhaustive list</a>.</li>
 </ol>
@@ -307,7 +307,7 @@ input:checked + label + .content {
     </table>
 </div>    
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">&#9634;  <b>F) Install and Activate TraceTogether</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">&#9634;  <b>1F) Install and Activate TraceTogether</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
     <p style="line-height:1.35; margin-bottom:10px; font-size:18px;">If you are a visitor and do not already have the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether contact tracing mobile application</a>, install it using <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-" target="_blank">this guide</a>, and only activate the app after clearing immigration. Only travellers aged 6 or below this year are exempted from installing TraceTogether.</p>
@@ -318,7 +318,7 @@ input:checked + label + .content {
 </ol>
     </div>
     
-<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>
+<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 2: Requirements on Arrival</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>Pre-boarding Document Checks</b></div>
