@@ -294,8 +294,9 @@ input:checked + label + .content {
 <!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b>B) Register Overseas Vaccination Record and Take COVID-19 Boosters</b></div>-->
 
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;"><b>Travellers who were vaccinated overseas</b> must register their vaccination status into the Singapore National Immunisation Registry (NIR), if you are any of the following traveller types and have not previously registered before.</p>
-	
-<table style="overflow:hidden; width:500%;">
+
+<div style="width:500%; overflow:hidden;">	
+<table>
   <thead>
     <tr>
      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; "><b>Traveller Type</b></th>
@@ -347,7 +348,8 @@ input:checked + label + .content {
 		       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">270 days from the last dose of your primary series if you have not taken a booster</td>
     </tr>
 </tbody>
-</table>	
+</table>
+	</div>
 </div>
 
 <!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b> C) Contracting and Recovering from COVID-19</b></div>
