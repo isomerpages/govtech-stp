@@ -295,10 +295,10 @@ input:checked + label + .content {
 
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;"><b>Travellers who were vaccinated overseas</b> must register their vaccination status into the Singapore National Immunisation Registry (NIR), if you are any of the following traveller types and have not previously registered before.</p>
 	
-<table>
+<table style="width:1000px;">
   <thead>
     <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; width:1000px;"><b>Traveller Type</b></th>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; "><b>Traveller Type</b></th>
 	     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>When must registration be done</b></th>
 </tr>
   </thead>
