@@ -272,7 +272,7 @@ input:checked + label + .content {
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;"><a href="/files/serviced-apartments.pdf" target="_blank">Serviced apartment</a>; or</li>
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Hotel of choice from this <a href="https://sha.org.sg/stay-home-notice" target="_blank">non-exhaustive list</a>.</li>
 </ol>
-<p style="line-height:1.35; font-size:18px; margin-top:10px;">Work pass holders are not allowed to serve SHN in dormitories.</p>
+<p style="line-height:1.35; font-size:18px; margin-top:20px;">Work pass holders are not allowed to serve SHN in dormitories.</p>
     <table>
   <thead>
     <tr>
