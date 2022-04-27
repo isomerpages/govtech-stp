@@ -20,26 +20,31 @@ description: ""
 <html>
 	<head>
 	<style>
-			
-ol {
-  list-style-type: none;
-  counter-reset: elementcounter;
-  padding-left: 0;
+.custom-ol {
+    counter-reset: nCounter 0;
+    padding: 0 0 0 50px;
+    margin: 20px;
 }
-
-li: before {
-  content: "Stage " counter(elementcounter) ". ";
-  counter-increment: elementcounter;
-  font-weight: bold;
+.custom-ol li {
+    list-style: none outside;
+    padding: 0 20px ;
+}
+.custom-ol li:before {
+    content: "Stage " counter(nCounter) ".";
+    counter-increment: nCounter;
+    font-weight: bold;
+    margin: 0 0 0 -110px;
+    padding: 24px;
+    width: 50px;
 }
 	</style>
 	</head>
 <body>
-<ol style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">
-<li style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage1">Pre-Departure Requirements</a></li>
-<li style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage2">Requirements on Arrival</a></li>
-<li style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
-<li style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage4">Comply with Local Health Protocols</a></li>
+<ol class="custom-ol">
+<li style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage1">Pre-Departure Requirements</a></li>
+<li style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage2">Requirements on Arrival</a></li>
+<li style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
+<li style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage4">Comply with Local Health Protocols</a></li>
 </ol>
 	</body>
 	</html>
