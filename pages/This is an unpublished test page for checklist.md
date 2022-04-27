@@ -27,10 +27,10 @@ description: ""
 }
 .custom-ol li {
     list-style: none outside;
-    padding: 0 0 0 15px ;
+    padding: 0 0 0 15px;
 }
 .custom-ol li:before {
-    content: "Stage " counter(nCounter) ".";
+    content: "Stage " counter(nCounter) "." ;
     counter-increment: nCounter;
     font-weight: bold;
     margin: 0 0 0 -110px;
