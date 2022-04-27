@@ -16,7 +16,7 @@ description: ""
      <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
    <!--<p style="font-size:18px; margin-top:20px;margin-bottom:0px;  line-height:1.4; color:black;">Users of this checklist can indicate "<b>✓</b>" in the boxes (&#9634;) for completed activities.</p>-->
   </div>
-
+<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35;">Travellers are advised to read carefully and follow all the steps in the checklist below. Travellers can be turned away at pre-boarding or immigration or subject to penalties if they do not comply with the requirements.</p>
 <html>
 	<head>
 	<style>
