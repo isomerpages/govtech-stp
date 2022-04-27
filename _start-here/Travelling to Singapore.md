@@ -38,13 +38,13 @@ Click here to return to the <a href="#top">top</a>.
 
 #### 1. Traveller Entry Checklists under COVID-19 Vaccinated Travel Framework
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history to countries/regions in the General Travel or Restricted Category, as well as vaccination with WHO Emergency Use Listing COVID-19 vaccines*. <b>Click the relevant button below for a full step-by-step traveller checklist according to your profile.</b></p>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history, as well as vaccination with WHO Emergency Use Listing COVID-19 vaccines*. <b>Click the relevant button below for a full step-by-step traveller checklist according to your profile.</b></p>
 
 <p style="font-size:16px; margin-top:20px; margin-bottom:10px; line-height:1.35;"> <i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to the section on <a href="#vaccination">acceptable COVID-19 vaccinations for entry</a>.</i></p>
 
 <hr style="margin-top:20px;">
 
-<p style="font-size:20px; margin-top:30px; margin-bottom:0px; line-height:1.35;"> <b>Travellers who are:</b></p>
+<p style="font-size:20px; margin-top:30px; margin-bottom:0px; line-height:1.35;"> <b>Travellers departing from all countries/regions who are:</b></p>
   <ul style="list-style-type: disc; line-height:1.35;">
 	  <li style="line-height:1.35; font-size:20px;">Fully Vaccinated with WHO Emergency Use Listing Vaccines; or</li>
 	   <li style="line-height:1.35; font-size:20px; ">Aged 12 and below (i.e. born in or after 2010) regardless of vaccination status </li>
@@ -87,7 +87,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <hr style="margin-top:40px;">
 
-<p style="font-size:20px; margin-top:30px; margin-bottom:0px; line-height:1.35; "> <b>Travellers who are:</b></p>
+<p style="font-size:20px; margin-top:30px; margin-bottom:0px; line-height:1.35; "> <b>Travellers departing from all countries/regions who are:</b></p>
   <ul style="list-style-type: disc; line-height:1.35; width:auto;">
 	  <li style="line-height:1.35; font-size:20px; ">Aged 13 and above (i.e. born before 2010) and <b>not</b> fully vaccinated with WHO Emergency Use Listing Vaccines; or  </li>
 	   <li style="line-height:1.35; font-size:20px; ">Certified medically ineligible for COVID-19 vaccinations </li>
