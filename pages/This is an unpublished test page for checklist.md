@@ -56,7 +56,7 @@ description: ""
 	</html>
 
   
-<div id="stage1" style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 0px 0px;"><b>Stage 1: Pre-Departure Requirements</b></div>
+<div id="stage1" style="background-color: #102a40; border-left:10px #102a40 solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 0px 0px;"><b>Stage 1: Pre-Departure Requirements</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad; border-top:2px solid #adadad; border-right:2px solid #adadad; font-size:18px;" id="1A">
 &#9634; &nbsp;&nbsp;<b>1A) Obtain Entry Approval</b></div>
@@ -349,7 +349,7 @@ input:checked + label + .content {
 </ol>
     </div>
     
-<div id="stage2" style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 0px 0px;"><b>Stage 2: Arrival in Singapore</b></div>
+<div id="stage2" style="background-color: #102a40; border-left:10px #102a40 solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 0px 0px;"><b>Stage 2: Arrival in Singapore</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad; border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>2A) Immigration Clearance</b></div>
@@ -373,7 +373,7 @@ input:checked + label + .content {
      <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><a href="/faq#transport" target="_blank">Click here for the latest transport advisory.</a></p>
     </div>
     
-<div id="stage3" style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 0px 0px;"><b>Stage 3: Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</b></div>
+<div id="stage3" style="background-color: #102a40; border-left:10px #102a40 solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 0px 0px;"><b>Stage 3: Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>3A) Stay-Home Notice (SHN) Requirements</b></div>
@@ -480,7 +480,7 @@ input:checked + label + .content {
 </p>
 </div>    
     
-<div id="stage4" style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 0px 0px;"><b>Stage 4: Comply with Local Health Protocols</b></div>
+<div id="stage4" style="background-color: #102a40; border-left:10px #102a40 solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 0px 0px;"><b>Stage 4: Comply with Local Health Protocols</b></div>
     
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>4A) Abide by Local COVID-19 Safe Management Measures</b></div>
