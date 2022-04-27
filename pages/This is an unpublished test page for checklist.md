@@ -18,8 +18,8 @@ description: ""
   </div>
 
 <html>
+	<head>
 	<style>
-		<head>
 			
 ol {
   list-style-type: none;
@@ -28,19 +28,19 @@ ol {
 }
 
 li: before {
-  content: "Step " counter(elementcounter) ". ";
+  content: "Stage " counter(elementcounter) ". ";
   counter-increment: elementcounter;
   font-weight: bold;
 }
 	</style>
-		</head>
-	<body>
+	</head>
+<body>
 <ol style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">
-<li style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 1: <a href="#stage1">Pre-Departure Requirements</a></li>
-<li style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 2: <a href="#stage2">Requirements on Arrival</a></li>
-<li style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 3: <a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
-<li style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 4: <a href="#stage4">Comply with Local Health Protocols</a></li>
-		</ol>
+<li style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage1">Pre-Departure Requirements</a></li>
+<li style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage2">Requirements on Arrival</a></li>
+<li style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
+<li style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage4">Comply with Local Health Protocols</a></li>
+</ol>
 	</body>
 	</html>
 	
