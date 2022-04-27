@@ -27,24 +27,24 @@ description: ""
 }
 .custom-ol li {
     list-style: none outside;
-    padding: 0 20px ;
+    padding: 0 0 0 15px ;
 }
 .custom-ol li:before {
     content: "Stage " counter(nCounter) ".";
     counter-increment: nCounter;
     font-weight: bold;
-    margin: 0 0 0 -110px;
-    padding: 24px;
+    margin: 0 0 0 -105px;
+    padding: 20px;
     width: 50px;
 }
 	</style>
 	</head>
 <body>
 <ol class="custom-ol">
-<li style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage1">Pre-Departure Requirements</a></li>
-<li style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage2">Requirements on Arrival</a></li>
-<li style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
-<li style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="#stage4">Comply with Local Health Protocols</a></li>
+<li style="font-size:18px; line-height:1.35;"><a href="#stage1">Pre-Departure Requirements</a></li>
+<li style="font-size:18px; line-height:1.35;"><a href="#stage2">Requirements on Arrival</a></li>
+<li style="font-size:18px; line-height:1.35;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
+<li style="font-size:18px; line-height:1.35;"><a href="#stage4">Comply with Local Health Protocols</a></li>
 </ol>
 	</body>
 	</html>
