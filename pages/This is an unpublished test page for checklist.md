@@ -353,7 +353,7 @@ input:checked + label + .content {
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>2A) Immigration Clearance</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; font-size:18px;">
      <p style="font-size:18px; margin-top: 10px; margin-bottom: 10px; line-height:1.35;">Follow the instructions of officers and signage on arrival for the appropriate clearance lanes, and provide all documents, including proof of tests, and information required by the immigration officer. </p>
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Upon clearance, an <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">e-Pass (i.e. Visit Pass)</a> stating the period of stay granted will be issued to foreign short-term visit pass travellers via the email address indicated in the SGAC. Passports will no longer be stamped.
     </p>
@@ -361,7 +361,7 @@ input:checked + label + .content {
     </p>
     </div>
     
-<div id="2B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;">
+<div id="2B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad;border-right:2px solid #adadad; font-size:18px;">
 &#9634; &nbsp;&nbsp;<b>2B) Commute to declared Stay-Home Notice (SHN) accommodation</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
      <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Following immigration clearance, you will:
