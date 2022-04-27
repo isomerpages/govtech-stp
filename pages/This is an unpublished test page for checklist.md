@@ -17,7 +17,13 @@ published: false
      <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
    <!--<p style="font-size:18px; margin-top:20px;margin-bottom:0px;  line-height:1.4; color:black;">Users of this checklist can indicate "<b>✓</b>" in the boxes (&#9634;) for completed activities.</p>-->
   </div>
+
 <p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35;">Travellers are advised to read carefully and follow all the steps in the checklist below. Travellers can be turned away at pre-boarding or immigration or subject to penalties if they do not comply with the requirements.</p>
+<!--<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 1: <a href="#stage1">Pre-Departure Requirements</a></p>
+<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 2: <a href="#stage2">Requirements on Arrival</a></p>
+<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 3: <a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></p>
+<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 4: <a href="#stage4">Comply with Local Health Protocols</a></p>-->
+
 <html>
 	<head>
 	<style>
@@ -28,7 +34,7 @@ published: false
 }
 .custom-ol li {
     list-style: none outside;
-    padding: 0 0 0 15px;
+    padding: 0 0 0 45px;
 }
 .custom-ol li:before {
     content: "Stage " counter(nCounter) "." ;
@@ -49,7 +55,8 @@ published: false
 </ol>
 	</body>
 	</html>
-	
+
+  
 <div id="stage1" style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure Requirements</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px;" id="1A">
