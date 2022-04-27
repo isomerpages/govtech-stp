@@ -314,7 +314,7 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;"><p style="line-height:1.35; font-size:18px;">You will be placed on 7-day Stay Home Notice (SHN) upon arrival. During this period, you will remain in your declared SHN accommodation for the full 7 days (see Stage 4 for details).</p>
 <p style="line-height:1.35; font-size:18px; margin-top:10px;">Secure any of the following accommodation for at least 7 days for your SHN:</p>
 <ol style="padding-left: 20px; margin-bottom:0px; list-style-type:lower-latin;">
-<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Place of residence (excluding worker dormitories);</li> 
+<li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Place of residence (excluding workers' dormitories);</li> 
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;"><a href="/files/serviced-apartments.pdf" target="_blank">Serviced apartment</a>; or</li>
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Hotel of choice from this <a href="https://sha.org.sg/stay-home-notice" target="_blank">non-exhaustive list</a>.</li>
 </ol>
