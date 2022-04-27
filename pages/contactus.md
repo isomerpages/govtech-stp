@@ -37,6 +37,12 @@ Summarised below are some of the top questions asked in the past week. If your q
   </tr>
 </thead>
 <tbody>
+	   <tr>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Pre-departure Test Requirements</b> </td>
+		      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">All <b>fully vaccinated traellers</b> and <b> non-fully vaccinated children aged 12 and below</b> are <b>not</b> required to take a pre-departure test before departing for Singapore.</p>
+			      <p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">All <b>non-fully vaccinated travellers aged 13 and above</b> who have obtained entry approvals to enter Singapore must continue to take a pre-departure test within 2 days before departure for Singapore.</p>
+		   </td>
+	</tr>
 		   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>Errors uploading Digitally Verifiable Certificate (DVC) to the Vaccination Check Portal (VCP) or SG Arrival Card (SGAC)</b> </td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><a href="/faq#vaxcert" target="_blank">Click Here</a> for instructions to troubleshoot common errors. 

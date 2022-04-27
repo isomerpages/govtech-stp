@@ -4,7 +4,7 @@ permalink: /arriving/general-travel/fully-vaccinated
 description: ""
 third_nav_title: Travelling to Singapore
 ---
-<div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red;">
+<div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red; ">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use</u>:</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This checklist is for <b>all modes of arrival to Singapore via air, land or sea.</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This travel checklist is for <b>all travellers, including Singapore Citizens or Permanent Residents</b>, who are:</p>
@@ -17,13 +17,42 @@ third_nav_title: Travelling to Singapore
 			<!--<p style="font-size:18px; margin-top:10px; margin-bottom:10px;line-height:1.3;">Readers referencing this checklist can indicate “☑” in the boxes (&#9634;) for any completed activities.</p>-->
 	</div>
 	
-<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35;">Travellers are advised to follow all the steps in the checklist below to ensure that their journey to Singapore is smooth and that they will be accorded the measures for vaccinated travellers. Details can be found in the respective steps below. </p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Step 1.	<a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Step 2.	<a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Step 3.	<a href="#step3">Fill SG Arrival Card up to 3 days before arrival</a> </p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Step 4.	<a href="#step5">Install TraceTogether app</a></p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Step 5.	<a href="#step6">Immigration clearance in Singapore</a></p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Step 6.	<a href="#step7">Comply with local health protocols</a></p>
+<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35;">Travellers are advised to follow all the steps in the checklist below to ensure that their journey to Singapore is smooth and that they will be accorded the measures for vaccinated travellers. Details can be found in the respective steps below. Please note that fully vaccinated travellers and travellers aged 12 and below <b> do not need to take a pre-departure test before departing for Singapore</b>. </p>
+
+<html>
+	<head>
+	<style>
+.custom-ol {
+    counter-reset: nCounter 0;
+    padding: 0 0 0 55px;
+    margin: 20px;
+}
+.custom-ol li {
+    list-style: none outside;
+    padding: 0 0 0 45px;
+}
+.custom-ol li:before {
+    content: "Step " counter(nCounter) "." ;
+    counter-increment: nCounter;
+    font-weight: bold;
+    margin: 0 0 0 -110px;
+    padding: 20px;
+    width: 50px;
+}
+	</style>
+	</head>
+<body>
+<ol class="custom-ol">
+<li style="font-size:18px; line-height:1.35;"><a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></li>
+<li style="font-size:18px; line-height:1.35;"><a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></li>
+<li style="font-size:18px; line-height:1.35;"><a href="#step3">Fill SG Arrival Card up to 3 days before arrival</a></li>
+<li style="font-size:18px; line-height:1.35;"><a href="#step5">Install TraceTogether app</a></li>
+<li style="font-size:18px; line-height:1.35;"><a href="#step6">Immigration clearance in Singapore</a></li>
+<li style="font-size:18px; line-height:1.35;"><a href="#step7">Comply with local health protocols</a></li>
+</ol>
+	</body>
+	</html>
+
 
 <!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>-->
 
