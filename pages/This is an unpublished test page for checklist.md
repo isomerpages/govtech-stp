@@ -33,7 +33,7 @@ description: ""
     content: "Stage " counter(nCounter) ".";
     counter-increment: nCounter;
     font-weight: bold;
-    margin: 0 0 0 -105px;
+    margin: 0 0 0 -110px;
     padding: 20px;
     width: 50px;
 }
