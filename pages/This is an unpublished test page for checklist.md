@@ -22,7 +22,7 @@ description: ""
 	<style>
 .custom-ol {
     counter-reset: nCounter 0;
-    padding: 0 0 0 50px;
+    padding: 0 0 0 55px;
     margin: 20px;
 }
 .custom-ol li {
