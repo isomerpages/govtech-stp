@@ -18,11 +18,43 @@ third_nav_title: Travelling to Singapore
    <!--<p style="font-size:18px; margin-top:20px;margin-bottom:0px;  line-height:1.4; color:black;">Users of this checklist can indicate "<b>✓</b>" in the boxes (&#9634;) for completed activities.</p>-->
   </div>
 
-<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35;">Travellers are advised to read carefully and follow all the steps in the checklist below. Travellers can be turned away at pre-boarding or immigration or subject to penalties if they do not comply with the requirements.</p>
+<!--<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35;">Travellers are advised to read carefully and follow all the steps in the checklist below. Travellers can be turned away at pre-boarding or immigration or subject to penalties if they do not comply with the requirements.</p>
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 1: <a href="#stage1">Pre-Departure Requirements</a></p>
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 2: <a href="#stage2">Requirements on Arrival</a></p>
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 3: <a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 4: <a href="#stage4">Comply with Local Health Protocols</a></p>
+<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 4: <a href="#stage4">Comply with Local Health Protocols</a></p>-->
+
+<html>
+	<head>
+	<style>
+.custom-ol {
+    counter-reset: nCounter 0;
+    padding: 0 0 0 55px;
+    margin: 20px;
+}
+.custom-ol li {
+    list-style: none outside;
+    padding: 0 0 0 15px;
+}
+.custom-ol li:before {
+    content: "Stage " counter(nCounter) "." ;
+    counter-increment: nCounter;
+    font-weight: bold;
+    margin: 0 0 0 -110px;
+    padding: 20px;
+    width: 50px;
+}
+	</style>
+	</head>
+<body>
+<ol class="custom-ol">
+<li style="font-size:18px; line-height:1.35;"><a href="#stage1">Pre-Departure Requirements</a></li>
+<li style="font-size:18px; line-height:1.35;"><a href="#stage2">Requirements on Arrival</a></li>
+<li style="font-size:18px; line-height:1.35;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
+<li style="font-size:18px; line-height:1.35;"><a href="#stage4">Comply with Local Health Protocols</a></li>
+</ol>
+	</body>
+	</html>
 
   
 <div id="stage1" style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure Requirements</b></div>
