@@ -42,7 +42,7 @@ third_nav_title: Travelling to Singapore
     content: "Stage " counter(nCounter) "." ;
     counter-increment: nCounter;
     font-weight: bold;
-    margin: 0 0 0 -50px;
+    margin: 0 0 0 -100px;
     padding: 20px;
     width: 50px;
 }
