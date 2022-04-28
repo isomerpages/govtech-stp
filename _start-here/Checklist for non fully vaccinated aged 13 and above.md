@@ -33,7 +33,7 @@ margin-left:80px;
    <!--<p style="font-size:18px; margin-top:20px;margin-bottom:0px;  line-height:1.4; color:black;">Users of this checklist can indicate "<b>✓</b>" in the boxes (&#9634;) for completed activities.</p>-->
   </div>
 
-<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35;">Travellers are advised to read carefully and follow all the steps in the checklist below. Travellers can be turned away at pre-boarding or immigration or subject to penalties if they do not comply with the requirements.</p>
+<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:120.1%;">Travellers are advised to read carefully and follow all the steps in the checklist below. Travellers can be turned away at pre-boarding or immigration or subject to penalties if they do not comply with the requirements.</p>
 <!--<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 1: <a href="#stage1">Pre-Departure Requirements</a></p>
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 2: <a href="#stage2">Requirements on Arrival</a></p>
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 3: <a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></p>
