@@ -33,8 +33,8 @@ third_nav_title: Travelling to Singapore
     counter-increment: nCounter;
     font-weight: bold;
 		padding: 20px;
-		margin-left: -110px;
-		width: 1500px;
+		margin-left: -100px;
+		width: 1000px;
 }
 	</style>
 	</head>
