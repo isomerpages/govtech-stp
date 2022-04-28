@@ -11,6 +11,10 @@ third_nav_title: Travelling to Singapore
 .col.is-offset-1-desktop{
 	margin-left:-30px;
  }
+
+.col.is-1, .col.is-1-tablet{
+margin-left:50px;
+	}
 	</style>
 		</head>
 		<body>
