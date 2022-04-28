@@ -4,6 +4,21 @@ permalink: /arriving/general-travel/fully-vaccinated
 description: ""
 third_nav_title: Travelling to Singapore
 ---
+
+<html>
+<head>
+<style>
+
+.col.is-offset-1-desktop{
+	margin-left:-30px;
+ }
+
+.col.is-1, .col.is-1-tablet{
+margin-left:80px;
+	}
+	</style>
+		</head>
+		<body>
 <div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red; width:108%; ">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use</u>:</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This checklist is for <b>all modes of arrival to Singapore via air, land or sea.</b></p>
@@ -378,6 +393,8 @@ input:checked + label + .content {
 </tbody>
 </table>
 </div>
+</body>
+</html>
 
 <!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b> C) Contracting and Recovering from COVID-19</b></div>
 
