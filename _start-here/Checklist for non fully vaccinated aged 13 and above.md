@@ -4,6 +4,15 @@ permalink: /arriving/general-travel/non-fully-vaccinated
 description: ""
 third_nav_title: Travelling to Singapore
 ---
+<html>
+<head>
+<style>
+.col.is-offset-1-desktop{
+margin-left:0px;
+ }
+	</style>
+		</head>
+		<body>
 
 <div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px; width:110%">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
@@ -501,4 +510,5 @@ input:checked + label + .content {
     </ol>
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">By completing the requisite vaccination regimen, you will be eligible for the renewal or extension of your long-term pass. If you suffer from a medical condition that disallows you from being vaccinated against COVID-19, obtain medical certification within 30 days of your arrival in Singapore to prove your ineligibility for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</p>
 </div>
-
+</body>
+</html>
