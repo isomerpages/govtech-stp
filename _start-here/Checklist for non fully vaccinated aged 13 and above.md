@@ -7,10 +7,6 @@ third_nav_title: Travelling to Singapore
 <html>
 <head>
 <style>
-.content{
-	width:105%;
-	margin-left:-20px;
-}
 
 .col.is-offset-1-desktop{
 	margin-left:0px;
