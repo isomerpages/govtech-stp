@@ -282,7 +282,7 @@ input:checked + label + .content {
             <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) that is:
     <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
     <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Administered by a trained professional; or</li>
-            <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Singapore Citizens, PRs and Long-Term Pass Holders (including In-Principle Approval holders) only]</b> Self-administered Antigen Rapid Test (ART) remotely supervised by an <!--<a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">--><a href="https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/list-of-approved-art-providers-for-remote-supervised-self-swab-for-overseas-travellers-(05042022).pdf" target="_blank">approved ART provider in Singapore</a>.</li>
+            <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Singapore Citizens, PRs and Long-Term Pass Holders (including In-Principle Approval holders) only]</b> Self-administered Antigen Rapid Test (ART) remotely supervised by an <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">approved ART provider in Singapore</a>.</li>
                 </ol>
     </li>
     </ol>
