@@ -53,10 +53,10 @@ margin-left:20px;
 	</head>
 <body>
 <ol class="custom-ol">
-<li style="font-size:18px; line-height:1.35; overflow-wrap: break-word;"><a href="#stage1">Pre-Departure Requirements</a></li>
-<li style="font-size:18px; line-height:1.35; overflow-wrap: break-word;"><a href="#stage2">Requirements on Arrival</a></li>
-<li style="font-size:18px; line-height:1.35; overflow-wrap: break-word;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
-<li style="font-size:18px; line-height:1.35; overflow-wrap: break-word;"><a href="#stage4">Comply with Local Health Protocols</a></li>
+<li style="font-size:18px; line-height:1.35; word-break: break-all;"><a href="#stage1">Pre-Departure Requirements</a></li>
+<li style="font-size:18px; line-height:1.35; word-break: break-all;"><a href="#stage2">Requirements on Arrival</a></li>
+<li style="font-size:18px; line-height:1.35; word-break: break-all;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
+<li style="font-size:18px; line-height:1.35; word-break: break-all;"><a href="#stage4">Comply with Local Health Protocols</a></li>
 </ol>
 	</body>
 	</html>
