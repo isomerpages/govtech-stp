@@ -18,7 +18,7 @@ third_nav_title: Travelling to Singapore
 	</div>
 	
 <p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35;">Travellers are advised to follow all the steps in the checklist below to ensure that their journey to Singapore is smooth and that they will be accorded the measures for vaccinated travellers. Details can be found in the respective steps below. Please note that fully vaccinated travellers and travellers aged 12 and below <b> do not need to take a pre-departure test before departing for Singapore</b>. </p>
-
+-99
 <html>
 	<head>
 	<style>
@@ -33,7 +33,7 @@ third_nav_title: Travelling to Singapore
     counter-increment: nCounter;
     font-weight: bold;
 		padding: 20px;
-		margin-left: -100px;
+		margin-left: -99px;
 		width: 1000px;
 }
 	</style>
