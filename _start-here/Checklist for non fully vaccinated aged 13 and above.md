@@ -4,8 +4,8 @@ permalink: /arriving/general-travel/non-fully-vaccinated
 description: ""
 third_nav_title: Travelling to Singapore
 ---
-<div class="col is-8 is-offset-1-desktop is-12-touch print-content" style="margin-left:-30px; width:140%">
-<div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px; width:110%;">
+
+<div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px; 110%">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
     <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>all modes of arrival to Singapore via air, land or sea.</b></p>
   <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This travel checklist is for <b>all travellers, including Singapore Citizens and Permanent Residents</b>, aged 13 and above (i.e. born before 2010) who are:
@@ -30,7 +30,7 @@ third_nav_title: Travelling to Singapore
 	<style>
 .custom-ol {
     counter-reset: nCounter 0;
-    padding: 0 0 0 55px;
+    padding: 0 0 0 75px;
     margin: 20px;
 }
 .custom-ol li {
@@ -41,21 +41,19 @@ third_nav_title: Travelling to Singapore
     content: "Stage " counter(nCounter) "." ;
     counter-increment: nCounter;
     font-weight: bold;
-    margin: 0 0 0 -50px;
+    margin: 0 0 0 -100px;
     padding: 20px;
     width: 50px;
+    font-size:18px;
 }
-.custom-ol .custom-ol li{
-margin-left:20px;
-		}
 	</style>
 	</head>
 <body>
 <ol class="custom-ol">
-<li style="font-size:18px; line-height:1.35;"><a href="#stage1">Pre-Departure Requirements</a></li>
-<li style="font-size:18px; line-height:1.35;"><a href="#stage2">Requirements on Arrival</a></li>
-<li style="font-size:18px; line-height:1.35;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
-<li style="font-size:18px; line-height:1.35;"><a href="#stage4">Comply with Local Health Protocols</a></li>
+<li style="font-size:18px; line-height:1.35; word-break: normal;"><a href="#stage1">Pre-Departure Requirements</a></li>
+<li style="font-size:18px; line-height:1.35; wword-break: normal;"><a href="#stage2">Requirements on Arrival</a></li>
+<li style="font-size:18px; line-height:1.35; word-break: normal;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
+<li style="font-size:18px; line-height:1.35; word-break: normal;"><a href="#stage4">Comply with Local Health Protocols</a></li>
 </ol>
 	</body>
 	</html>
@@ -284,7 +282,7 @@ input:checked + label + .content {
             <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Antigen Rapid Test (ART) that is:
     <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-roman;">
     <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Administered by a trained professional; or</li>
-            <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Singapore Citizens, PRs and Long-Term Pass Holders (including In-Principle Approval holders) only]</b> Self-administered Antigen Rapid Test (ART) remotely supervised by an <!--<a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">--><a href="https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/list-of-approved-art-providers-for-remote-supervised-self-swab-for-overseas-travellers-(05042022).pdf" target="_blank">approved ART provider in Singapore</a>.</li>
+            <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>[Singapore Citizens, PRs and Long-Term Pass Holders (including In-Principle Approval holders) only]</b> Self-administered Antigen Rapid Test (ART) remotely supervised by an <a href="https://go.gov.sg/remote-art-overseas-sg" target="_blank">approved ART provider in Singapore</a>.</li>
                 </ol>
     </li>
     </ol>
@@ -503,4 +501,4 @@ input:checked + label + .content {
     </ol>
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">By completing the requisite vaccination regimen, you will be eligible for the renewal or extension of your long-term pass. If you suffer from a medical condition that disallows you from being vaccinated against COVID-19, obtain medical certification within 30 days of your arrival in Singapore to prove your ineligibility for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</p>
 </div>
-</div>
+

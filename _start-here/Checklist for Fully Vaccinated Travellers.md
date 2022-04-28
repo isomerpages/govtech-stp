@@ -24,31 +24,31 @@ third_nav_title: Travelling to Singapore
 	<style>
 .custom-ol {
     counter-reset: nCounter 0;
-    padding: 0 0 0 105px;
+    padding: 0 0 0 75px;
     margin: 20px;
 }
 .custom-ol li {
     list-style: none outside;
-    padding: 0 0 0 0px;
 }
 .custom-ol li:before {
-    content: "Step " counter(nCounter) "." ;
+    content: "Stage " counter(nCounter) "." ;
     counter-increment: nCounter;
     font-weight: bold;
-    margin: 0 0 0 -95px;
+    margin: 0 0 0 -100px;
     padding: 20px;
     width: 50px;
+    font-size:18px;
 }
 	</style>
 	</head>
 <body>
 <ol class="custom-ol">
-<li style="font-size:18px; line-height:1.35;"><a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></li>
-<li style="font-size:18px; line-height:1.35;"><a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></li>
-<li style="font-size:18px; line-height:1.35;"><a href="#step3">Fill SG Arrival Card up to 3 days before arrival</a></li>
-<li style="font-size:18px; line-height:1.35;"><a href="#step5">Install TraceTogether app</a></li>
-<li style="font-size:18px; line-height:1.35;"><a href="#step6">Immigration clearance in Singapore</a></li>
-<li style="font-size:18px; line-height:1.35;"><a href="#step7">Comply with local health protocols</a></li>
+<li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></li>
+<li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></li>
+<li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step3">Fill SG Arrival Card up to 3 days before arrival</a></li>
+<li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step5">Install TraceTogether app</a></li>
+<li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step6">Immigration clearance in Singapore</a></li>
+<li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step7">Comply with local health protocols</a></li>
 </ol>
 	</body>
 	</html>
