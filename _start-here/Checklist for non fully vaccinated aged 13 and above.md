@@ -9,7 +9,7 @@ third_nav_title: Travelling to Singapore
 <style>
 
 .col.is-offset-1-desktop{
-	margin-left:-30px;
+	margin-left:-20px;
  }
 
 .col.is-1, .col.is-1-tablet{
@@ -20,7 +20,7 @@ margin-left:50px;
 		<body>
 
 <div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px; width:120%">
-<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
+<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:*</u></b></p>
     <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>all modes of arrival to Singapore via air, land or sea.</b></p>
   <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This travel checklist is for <b>all travellers, including Singapore Citizens and Permanent Residents</b>, aged 13 and above (i.e. born before 2010) who are:
   <ol style="padding-left:25px; list-style-type:disc;">
