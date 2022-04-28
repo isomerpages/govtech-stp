@@ -35,7 +35,7 @@ third_nav_title: Travelling to Singapore
     content: "Step " counter(nCounter) "." ;
     counter-increment: nCounter;
     font-weight: bold;
-    margin: 0 0 0 -95px;
+    margin: 0 0 0 -100px;
     padding: 20px;
     width: 50px;
 }
