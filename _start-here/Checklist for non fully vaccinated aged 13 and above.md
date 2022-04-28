@@ -4,7 +4,7 @@ permalink: /arriving/general-travel/non-fully-vaccinated
 description: ""
 third_nav_title: Travelling to Singapore
 ---
-<div class="col is-8 is-offset-1-desktop is-12-touch print-content" style="margin-left:-30px;">
+<div class="col is-8 is-offset-1-desktop is-12-touch print-content" style="margin-left:-30px; width:130%">
 <div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px; width:110%;">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
     <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>all modes of arrival to Singapore via air, land or sea.</b></p>
