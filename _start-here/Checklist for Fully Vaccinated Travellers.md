@@ -41,7 +41,7 @@ third_nav_title: Travelling to Singapore
 	</style>
 	</head>
 <body>
-<ol style="padding-left:100px; " class="custom-ol">
+<ol class="custom-ol">
 <li style="font-size:18px; line-height:1.35;"><a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></li>
 <li style="font-size:18px; line-height:1.35;"><a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></li>
 <li style="font-size:18px; line-height:1.35;"><a href="#step3">Fill SG Arrival Card up to 3 days before arrival</a></li>
