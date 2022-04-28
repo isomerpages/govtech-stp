@@ -171,7 +171,7 @@ input:checked + label + .content {
     
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad; border-right:2px solid #adadad; font-size:18px; width:108%;" id="1B">
 &#9634; &nbsp;&nbsp;<b>1B) Obtain Additional Travel-Related Documents</b></div>
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35; width:108%;">Prepare the travel documents below, if required, and visitors should ensure that your passport is valid for <b>at least 6 months</b>. Entries may be denied if the required documents are not produced during pre-boarding or immigration clearance.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:108%"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35; width:108%;">Prepare the travel documents below, if required, and visitors should ensure that your passport is valid for <b>at least 6 months</b>. Entries may be denied if the required documents are not produced during pre-boarding or immigration clearance.</p>
     <p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>(Click on ‘+’ for details on requirements)</b></p> 
 
     
