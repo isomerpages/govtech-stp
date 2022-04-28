@@ -31,7 +31,7 @@ third_nav_title: Travelling to Singapore
 	<style>
 .custom-ol {
     counter-reset: nCounter 0;
-    padding: 0 0 0 55px;
+    padding: 0 0 0 75px;
     margin: 20px;
 }
 .custom-ol li {
