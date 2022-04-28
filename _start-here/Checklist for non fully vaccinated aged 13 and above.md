@@ -46,9 +46,6 @@ third_nav_title: Travelling to Singapore
     padding: 20px;
     width: 50px;
 }
-li li{
-margin-left:20px;
-		}
 	</style>
 	</head>
 <body>
