@@ -171,7 +171,7 @@ input:checked + label + .content {
     
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad; border-right:2px solid #adadad; font-size:18px; width:108%;" id="1B">
 &#9634; &nbsp;&nbsp;<b>1B) Obtain Additional Travel-Related Documents</b></div>
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:108%"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35; width:108%;">Prepare the travel documents below, if required, and visitors should ensure that your passport is valid for <b>at least 6 months</b>. Entries may be denied if the required documents are not produced during pre-boarding or immigration clearance.</p>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:108%"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35; ">Prepare the travel documents below, if required, and visitors should ensure that your passport is valid for <b>at least 6 months</b>. Entries may be denied if the required documents are not produced during pre-boarding or immigration clearance.</p>
     <p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>(Click on ‘+’ for details on requirements)</b></p> 
 
     
@@ -314,7 +314,7 @@ input:checked + label + .content {
     
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad; border-right:2px solid #adadad; font-size:18px; width:108%;" id="1E">&#9634; &nbsp;<b>1E) Secure Stay Home Notice (SHN) Accommodation for at least 7 days</b></div>
 
-<div style="padding:10px 10px 20px 10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;"><p style="line-height:1.35; font-size:18px; width:108%;">You will be placed on 7-day Stay Home Notice (SHN) upon arrival. During this period, you will remain in your declared SHN accommodation for the full 7 days (see Stage 4 for details).</p>
+<div style="padding:10px 10px 20px 10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:108%"><p style="line-height:1.35; font-size:18px;">You will be placed on 7-day Stay Home Notice (SHN) upon arrival. During this period, you will remain in your declared SHN accommodation for the full 7 days (see Stage 4 for details).</p>
 <p style="line-height:1.35; font-size:18px; margin-top:10px;">Secure any of the following accommodation for at least 7 days for your SHN:</p>
 <ol style="padding-left: 20px; margin-bottom:20px; list-style-type:lower-latin;">
 <li style="padding-left: 20px; margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:18px;">Place of residence (excluding workers' dormitories);</li> 
