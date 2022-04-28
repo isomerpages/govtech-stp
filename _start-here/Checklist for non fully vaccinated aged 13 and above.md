@@ -13,7 +13,7 @@ third_nav_title: Travelling to Singapore
  }
 
 .col.is-1, .col.is-1-tablet{
-margin-left:50px;
+margin-left:80px;
 	}
 	</style>
 		</head>
