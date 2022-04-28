@@ -34,16 +34,19 @@ third_nav_title: Travelling to Singapore
 }
 .custom-ol li {
     list-style: none outside;
-    padding: 0 0 0 45px;
+    padding: 0 0 0 0px;
 }
 .custom-ol li:before {
     content: "Stage " counter(nCounter) "." ;
     counter-increment: nCounter;
     font-weight: bold;
-    margin: 0 0 0 -110px;
+    margin: 0 0 0 -50px;
     padding: 20px;
     width: 50px;
 }
+.custom-ol .custom-ol li{
+margin-left:20px;
+		}
 	</style>
 	</head>
 <body>
