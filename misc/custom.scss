@@ -352,7 +352,4 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
 }
-.col.is-offset-1-desktop{
-margin-left:0px;
- }
 }
