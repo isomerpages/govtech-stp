@@ -8,12 +8,12 @@ third_nav_title: Travelling to Singapore
 <head>
 <style>
 .col.is-offset-1-desktop{
-margin-left:0px;
+	margin-left:0px;
+	width:110%;
  }
 	</style>
 		</head>
 		<body>
-
 <div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px; width:110%">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
     <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>all modes of arrival to Singapore via air, land or sea.</b></p>
