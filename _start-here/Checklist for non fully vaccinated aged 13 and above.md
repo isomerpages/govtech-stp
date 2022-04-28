@@ -505,3 +505,4 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">By completing the requisite vaccination regimen, you will be eligible for the renewal or extension of your long-term pass. If you suffer from a medical condition that disallows you from being vaccinated against COVID-19, obtain medical certification within 30 days of your arrival in Singapore to prove your ineligibility for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</p>
 </div>
 </div>
+</div>
