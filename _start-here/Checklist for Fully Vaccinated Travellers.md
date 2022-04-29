@@ -46,7 +46,7 @@ margin-left:80px;
     list-style: none outside;
 }
 .custom-ol li:before {
-    content: "Stage " counter(nCounter) "." ;
+    content: "Step " counter(nCounter) "." ;
     counter-increment: nCounter;
     font-weight: bold;
     margin: 0 0 0 -100px;
