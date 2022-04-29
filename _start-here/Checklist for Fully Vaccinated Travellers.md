@@ -51,7 +51,7 @@ margin-left:80px;
   <tbody>
  <tr>
 	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; width:85px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 1</b></td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step1">Proof of COVID-19 vaccination</a></td>
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 2</b></td>
