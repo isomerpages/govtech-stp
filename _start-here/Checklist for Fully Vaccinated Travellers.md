@@ -39,7 +39,7 @@ margin-left:80px;
 	<style>
 .custom-ol {
     counter-reset: nCounter 0;
-    padding: 0 0 0 75px;
+    padding: 0 0 0 85px;
     margin: 20px;
 }
 .custom-ol li {
