@@ -57,13 +57,30 @@ margin-left:80px;
      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:right;"><b>Step 2</b></td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></td>
 	  </tr>
+	       <tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:right;"><b>Step 3</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step3">Fill SG Arrival Card up to 3 days before arrival</a></td>
+	  </tr>
+	        <tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:right;"><b>Step 4</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step5">Install TraceTogether app</a></td>
+	  </tr>
+	          <tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:right;"><b>Step 5</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step6">Immigration clearance in Singapore</a></td>
+	  </tr>
+	  
+	          <tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:right;"><b>Step 6</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step7">Comply with local health protocols</a></td>
+	  </tr>
 	  </tbody>
 			</table>
 	</body>
 			</html>
 			
 
-<html>
+<!--<html>
 	<head>
 	<style>
 .custom-ol {
@@ -95,7 +112,7 @@ margin-left:80px;
 <li style="word-break: normal; font-size:18px; line-height:1.35; "><a href="#step7">Comply with local health protocols</a></li>
 </ol>
 	</body>
-	</html>
+	</html>-->
 
 
 <!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>-->
