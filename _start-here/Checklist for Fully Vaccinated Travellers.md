@@ -47,10 +47,10 @@ margin-left:80px;
 	</style>
 	</head>
 	<body>
-		<table style="width:108%;">
+		<table style="width:118%;">
   <tbody>
     <tr>
-	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:right;"><b>Step 1</b></td>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; width:80px; text-align:right;"><b>Step 1</b></td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></td>
 	  </tr>
 	     <tr>
