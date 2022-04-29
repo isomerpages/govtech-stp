@@ -33,8 +33,53 @@ margin-left:80px;
 	</div>
 	
 <p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:120.1%;">Travellers are advised to follow all the steps in the checklist below to ensure that their journey to Singapore is smooth and that they will be accorded the measures for vaccinated travellers. Details can be found in the respective steps below. Please note that fully vaccinated travellers and travellers aged 12 and below <b> do not need to take a pre-departure test before departing for Singapore</b>. </p>
-
+			
 <html>
+<head>
+<style>
+
+.horizontal-scroll{
+	overflow:visible;
+ }
+.content table td, .content table th{
+	    border: 0px solid #d6d6d6;
+	}
+	</style>
+	</head>
+	<body>
+<table style="width:118%;">
+  <tbody>
+ <tr>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; width:85px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 1</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step1">Proof of COVID-19 vaccination</a></td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 2</b></td>
+ <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step2">Obtain additional entry documents (if required)</a></td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 3</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step3">Fill SG Arrival Card up to 3 days before arrival</a></td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;padding-left:0px; padding-right:0px;  text-align:right;"><b>Step 4</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step5">Install TraceTogether app</a></td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;padding-left:0px; padding-right:0px;  text-align:right;"><b>Step 5</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step6">Immigration clearance in Singapore</a></td>
+	  </tr>
+	  <tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;padding-left:0px; padding-right:0px;  text-align:right;"><b>Step 6</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step7">Comply with local health protocols</a></td>
+	  </tr>
+	  </tbody>
+			</table>
+	</body>
+			</html>
+			
+
+<!--<html>
 	<head>
 	<style>
 .custom-ol {
@@ -46,10 +91,10 @@ margin-left:80px;
     list-style: none outside;
 }
 .custom-ol li:before {
-    content: "Stage " counter(nCounter) "." ;
+    content: "Step " counter(nCounter) "." ;
     counter-increment: nCounter;
     font-weight: bold;
-    margin: 0 0 0 -100px;
+    margin: 0 0 0 -94px;
     padding: 20px;
     width: 50px;
     font-size:18px;
@@ -57,16 +102,16 @@ margin-left:80px;
 	</style>
 	</head>
 <body>
-<ol class="custom-ol">
-<li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></li>
-<li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></li>
+<ol class="custom-ol" style="width:118%;">
+<li style="word-break: normal; font-size:18px; line-height:1.35; "><a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></li>
+<li style="word-break: normal; font-size:18px; line-height:1.35; "><a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></li>
 <li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step3">Fill SG Arrival Card up to 3 days before arrival</a></li>
-<li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step5">Install TraceTogether app</a></li>
-<li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step6">Immigration clearance in Singapore</a></li>
-<li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step7">Comply with local health protocols</a></li>
+<li style="word-break: normal; font-size:18px; line-height:1.35; "><a href="#step5">Install TraceTogether app</a></li>
+<li style="word-break: normal; font-size:18px; line-height:1.35; "><a href="#step6">Immigration clearance in Singapore</a></li>
+<li style="word-break: normal; font-size:18px; line-height:1.35; "><a href="#step7">Comply with local health protocols</a></li>
 </ol>
 	</body>
-	</html>
+	</html>-->
 
 
 <!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>-->
