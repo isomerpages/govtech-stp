@@ -38,8 +38,47 @@ margin-left:80px;
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 2: <a href="#stage2">Requirements on Arrival</a></p>
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 3: <a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></p>
 <p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 4: <a href="#stage4">Comply with Local Health Protocols</a></p>-->
+	
 
 <html>
+<head>
+<style>
+
+.horizontal-scroll{
+	overflow:visible;
+ }
+.content table td, .content table th{
+	    border: 0px solid #d6d6d6;
+	}
+	</style>
+	</head>
+	<body>
+<table style="width:118%;">
+  <tbody>
+ <tr>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; width:80px; text-align:right;"><b>Stage 1</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#stage1">Pre-Departure Requirements</a></td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:right;"><b>Stage 2</b></td>
+ <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#stage2">Requirements on Arrival</a></td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:right;"><b>Stage 3</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:right;"><b>Stage 4</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#stage4">Comply with Local Health Protocols</a></td>
+	  </tr>
+	  </tbody>
+			</table>
+	</body>
+	</html>
+	
+	
+
+<!--<html>
 	<head>
 	<style>
 .custom-ol {
@@ -70,8 +109,7 @@ margin-left:80px;
 <li style="font-size:18px; line-height:1.35; word-break: normal;"><a href="#stage4">Comply with Local Health Protocols</a></li>
 </ol>
 	</body>
-	</html>
-
+	</html>-->
   
 <div id="stage1" style="background-color: #102a40; border-left:10px #102a40 solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 0px 0px;width:120.1%;"><b>Stage 1: Pre-Departure Requirements</b></div>
 
