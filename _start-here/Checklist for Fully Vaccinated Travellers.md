@@ -50,27 +50,27 @@ margin-left:80px;
 <table style="width:118%;">
   <tbody>
  <tr>
-	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; width:85px; text-align:left;"><b>Step 1</b></td>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; width:85px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 1</b></td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><b>Step 2</b></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 2</b></td>
  <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><b>Step 3</b></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 3</b></td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step3">Fill SG Arrival Card up to 3 days before arrival</a></td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><b>Step 4</b></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;padding-left:0px; padding-right:0px;  text-align:right;"><b>Step 4</b></td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step5">Install TraceTogether app</a></td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><b>Step 5</b></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;padding-left:0px; padding-right:0px;  text-align:right;"><b>Step 5</b></td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step6">Immigration clearance in Singapore</a></td>
 	  </tr>
 	  <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><b>Step 6</b></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;padding-left:0px; padding-right:0px;  text-align:right;"><b>Step 6</b></td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step7">Comply with local health protocols</a></td>
 	  </tr>
 	  </tbody>
