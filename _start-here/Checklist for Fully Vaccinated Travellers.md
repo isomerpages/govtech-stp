@@ -41,6 +41,9 @@ margin-left:80px;
 .horizontal-scroll{
 	overflow:visible;
  }
+.content table td, .content table th{
+	    border: 0px solid #d6d6d6;
+	}
 	</style>
 	</head>
 	<body>
