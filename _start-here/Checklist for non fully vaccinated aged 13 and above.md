@@ -63,7 +63,7 @@ margin-left:80px;
 	</style>
 	</head>
 <body>
-<ol class="custom-ol">
+<ol class="custom-ol" style="width:118%;">
 <li style="font-size:18px; line-height:1.35; word-break: normal;"><a href="#stage1">Pre-Departure Requirements</a></li>
 <li style="font-size:18px; line-height:1.35; wword-break: normal;"><a href="#stage2">Requirements on Arrival</a></li>
 <li style="font-size:18px; line-height:1.35; word-break: normal;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
