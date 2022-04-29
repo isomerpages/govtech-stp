@@ -33,6 +33,25 @@ margin-left:80px;
 	</div>
 	
 <p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:120.1%;">Travellers are advised to follow all the steps in the checklist below to ensure that their journey to Singapore is smooth and that they will be accorded the measures for vaccinated travellers. Details can be found in the respective steps below. Please note that fully vaccinated travellers and travellers aged 12 and below <b> do not need to take a pre-departure test before departing for Singapore</b>. </p>
+			
+			
+			
+			
+			
+
+<table>
+  <tbody>
+    <tr>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Step 1</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></td>
+	  </tr>
+	     <tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Step 2</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></td>
+	  </tr>
+	  </tbody>
+			</table>
+			
 
 <html>
 	<head>
