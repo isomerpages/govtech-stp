@@ -49,7 +49,7 @@ margin-left:80px;
     content: "Step " counter(nCounter) "." ;
     counter-increment: nCounter;
     font-weight: bold;
-    margin: 0 0 0 -100px;
+    margin: 0 0 0 -94px;
     padding: 20px;
     width: 50px;
     font-size:18px;
