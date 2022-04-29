@@ -51,8 +51,8 @@ margin-left:80px;
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></td>
 	  </tr>
 	     <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Step 2</b></td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:right;"><b>Step 2</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></td>
 	  </tr>
 	  </tbody>
 			</table>
