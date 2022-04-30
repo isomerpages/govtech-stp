@@ -624,9 +624,9 @@ Click here to return to the <a href="#top">top</a>.
 </td>
 		</tr>
 	<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Non-Fully Vaccinated<br>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Non-Fully Vaccinated<br>
 <i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size:16px;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:</p>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size:16px;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:</p>
 <ol style="list-style-type: lower-latin; line-height:1.35;">
 				<li style="line-height:1.35; font-size:16px;">Only vaccinated with COVID-19 vaccines not listed above; OR</li>
 				<li style="line-height:1.35; font-size:16px;">Did not complete the minimum dosage of the vaccines mentioned above; OR</li>
