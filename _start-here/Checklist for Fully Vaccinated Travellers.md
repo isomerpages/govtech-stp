@@ -4,7 +4,6 @@ permalink: /arriving/general-travel/fully-vaccinated
 description: ""
 third_nav_title: Travelling to Singapore
 ---
-
 <html>
 <head>
 <style>
@@ -288,9 +287,8 @@ input:checked + label + .content {
 <input id="CMP" type="checkbox">
 <label style="background-color:#CEDEED; color:#182657;" for="CMP"><b>Non-Malaysian Work Permit In-principle Approval holders Employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b>From 1 May 2022</b>, fully vaccinated male CMP workers no longer need to apply for entry into Singapore but must book a slot at <a href="https://www.mom.gov.sg/covid-19/onboard-centre" target="_blank">Ministry of Manpower's (MOM) Onboard centre</a> to undergo a residential onboarding programme upon arrival. </p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">CMP workers entering from Bangladesh, India or Myanmar are also required to undergo a Pre-Departure Preparatory Programme. Please refer to the <a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">MOM website</a> for details.</p>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b>Before 1 May 2022</b>, <a href="https://www.mom.gov.sg/covid-19/entry-approval-requirements" target="_blank">apply for entry from MOM</a> at least 3 working days before the intended date of departure and fulfil all of MOM's entry requirements. </p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated male CMP workers must book a slot at <a href="https://www.mom.gov.sg/covid-19/onboard-centre" target="_blank">Ministry of Manpower's (MOM) Onboard centre</a> for onboarding upon arrival.</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">All CMP workers entering from Bangladesh, India or Myanmar are also required to undergo a <a href="https://go.gov.sg/bca-pdpp" target="_blank">Pre-Departure Preparatory Programme</a> before entering Singapore.</p>
 </div>
 <input id="STV" type="checkbox">
 <label style="background-color:#CEDEED; color:#182657;" for="STV"><b>Visitors/tourists without a Singapore Long-Term Pass</b></label>

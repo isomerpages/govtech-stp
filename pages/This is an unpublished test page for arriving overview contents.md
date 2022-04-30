@@ -1,15 +1,21 @@
 ---
-title: Travelling to Singapore - Overview
-permalink: /arriving/overview
-description: Entry requirements and SafeTravel Lanes available when travelling to Singapore
-third_nav_title: Travelling to Singapore
+title: This is an unpublished test page for arriving overview contents
+permalink: /thisisatestpageforarrivingoverview
+description: ""
+published: false
 ---
+
+
+
+
+### Test version
+
 <div id="top"></div>
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to facilitate the resumption of travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane (VTL), <b>and applies to all travellers entering Singapore, including Singapore Citizens/Permanent Residents</b>.</p>
 
 <!--- [Automated Self-Help Tool for Entry Requirements](#selfhelptool)-->
-- [Traveller entry checklists under Vaccinated Travel Framework](#checklist)
+- [Checklist of Requirements for Entry](#checklist)
 - [Accepted COVID-19 Vaccinations for Entry to Singapore ](#vaccination)
 
 
@@ -36,11 +42,11 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="checklist"></div>
 
-#### 1. Traveller Entry Checklists under COVID-19 Vaccinated Travel Framework
+#### 1. Checklist of Requirements for Entry
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history, as well as vaccination with WHO Emergency Use Listing COVID-19 vaccines*. <b>Click the relevant button below for a full step-by-step traveller checklist according to your profile.</b></p>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history, age, and vaccination status.* <b>Click the relevant button below for a full step-by-step traveller checklist according to your profile.</b></p>
 
-<p style="font-size:16px; margin-top:20px; margin-bottom:10px; line-height:1.35;"> <i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to the section on <a href="#vaccination">acceptable COVID-19 vaccinations for entry</a>.</i></p>
+<p style="font-size:16px; margin-top:20px; margin-bottom:10px; line-height:1.35;"> <i>*To be considered fully vaccinated, travellers aged 13 and above must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to the section on <a href="#vaccination">acceptable COVID-19 vaccinations for entry</a>.</i></p>
 
 <hr style="margin-top:20px;">
 
@@ -206,64 +212,49 @@ Click here to return to the <a href="#top">top</a>.
 ### 2. Accepted COVID-19 Vaccinations for Entry
 
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">All travellers aged 12 and below do not need to be vaccinated for entry to Singapore. Travellers aged 13 and above are only considered “fully vaccinated” for purposes of entry to Singapore if they meet either of the following conditions at least 2 weeks before arrival in Singapore, if not they are considered “non-fully vaccinated”:</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Travellers aged 12 and below (i.e. born in 2010 or after) do not need to be vaccinated against COVID-19 for the purpose of entry into Singapore, and will follow the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">border measures for fully vaccinated travellers</a>.</p>
 
-<ul style="list-style-type: lower-roman; line-height:1.35;">
-	<li style="line-height:1.35; font-size:20px;">Received the full regimen of WHO EUL Vaccines in the list of accepted vaccinations <a href="#table">below</a> and met the minimum dose interval period; or</li>
-	<li style="line-height:1.35; font-size:20px; margin-top: 20px;">Contracted COVID-19 before being vaccinated, and received at least one dose of any WHO EUL Vaccines (<a href="#table">listed below</a>) <b>at least 28 days after their first diagnosis</b> of a COVID-19 infection. <i>(E.g. If traveller was first diagnosed with COVID-19 on 1 March, the vaccination should only be taken from 29 March onwards.)</i> Travellers must produce acceptable proof of their first positive COVID-19 diagnosis.</li>
-</ul>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">For the purpose of entry into Singapore, all travellers aged 13 and above are considered “fully vaccinated” or “non-fully vaccinated” based on the definitions below:</p>
 
-
-<div id="table"></div>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 <table>
 	<thead>
 		<tr>
-		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>Manufacturer / Name of Vaccine</b></th>
-			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Dose(s) Required and Minimum Interval between Doses</b></th>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>Vaccination Status Classifications</b></th>
+			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Definition</b></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Janssen</b> <br> Ad26.COV2.S</td>
-							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">1 dose</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size: 16px;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:</p>
+<ol style="list-style-type: lower-latin; line-height:1.35;">
+				<li style="padding-left:20px; line-height:1.35; font-size:16px;">One dose of Janssen/J&J vaccine; OR</li>
+				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</li>
+				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</li>
+				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Two doses of Sinovac vaccine, administered 13 days apart; OR</li>
+				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</li>
+				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</li>
+				<li style="padding-left:20px; line-height:1.35; font-size:16px;">At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</li>
+</ol>
+</td>
 		</tr>
 	<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Astrazeneca</b> <br> AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</td>
-								<td rowspan="4" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2 doses at least 24 days apart</td>
-		</tr>	
-		<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Covaxin</b> <br> Bharat Biotech BBV152 COVAXIN<sup>&#174;</sup></td>
-		</tr>
-		<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Moderna</b> <br> mRNA-1273 / Spikevax</td>
-		</tr>
-		<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Serum Institute of India</b> <br> Covishield (ChAdOx1_nCoV-19)</td>
-		</tr>
-		<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Novavax</b> <br> NVX-CoV2373/Covovax/Nuvaxovid</td>
-							<td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2 doses at least 17 days apart</td>
-		</tr>
-		<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Pfizer/BioNTech</b>  <br> BNT162b2/COMIRNATY Tozinameran (INN)</td>
-		</tr>
-		<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Sinopharm</b>   <br> SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</td>
-		</tr>
-			<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Sinovac</b>  <br> COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></td>
-							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2 doses at least 13 days apart</td>
-		</tr>
-		<tr>
-			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>Any</b> of the above WHO EUL vaccines (mixed)</td>
-										<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">2 doses at least 17 days apart</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Non-Fully Vaccinated<br>
+<i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size:16px;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:</p>
+<ol style="list-style-type: lower-latin; line-height:1.35;">
+				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Only vaccinated with COVID-19 vaccines not listed above; OR</li>
+				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Did not complete the minimum dosage of the vaccines mentioned above; OR</li>
+				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</li>
+				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</li>
+</ol>
+</td>
 		</tr>
 	</tbody>
 	</table>
 
-<p style="margin-top:30px; margin-bottom:20px; line-height:1.35;">Fully vaccinated travellers and children aged 12 and below should refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel checklist for Fully Vaccinated Travellers</a> for more details including how to show proof of vaccination, and maintaining that vaccination status for activities within Singapore. Travellers who do not meet the vaccination criteria for entry should refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist for Non-fully Vaccinated Travellers aged 13 and above</a>.</p>
 
 ---
 
@@ -387,4 +378,3 @@ Click here to return to the <a href="#top">top</a>.
 Click here to return to the <a href="#top">top</a>.
 
 ---
-
