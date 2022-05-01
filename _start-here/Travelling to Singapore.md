@@ -606,7 +606,7 @@ Click here to return to the <a href="#top">top</a>.
 	<thead>
 		<tr>
 		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:10px;"><b>Vaccination Status</b></th>
-			<th style="padding: 0px 100px 10px 10px; width:10px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; vertical-align:middle;"><b>Definition</b></th>
+			<th style="padding: 0px 100px 10px 10px; width:10px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Definition</b></th>
 		</tr>
 	</thead>
 	<tbody>
