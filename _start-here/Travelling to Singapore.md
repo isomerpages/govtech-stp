@@ -605,7 +605,7 @@ Click here to return to the <a href="#top">top</a>.
 <table>
 	<thead>
 		<tr>
-		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:150px;"><b>Vaccination Status</b></th>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:50px;"><b>Vaccination Status</b></th>
 			<th style=" width:50px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Definition</b></th>
 		</tr>
 	</thead>
