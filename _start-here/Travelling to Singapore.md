@@ -606,13 +606,13 @@ Click here to return to the <a href="#top">top</a>.
 	<thead>
 		<tr>
 		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:10px;"><b>Vaccination Status</b></th>
-			<th style="padding: 5px 30px 10px 5px; width:10px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center"><b>Definition</b></th>
+			<th style="padding: 0px 100px 10px 10px; width:10px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center"><b>Definition</b></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
-							<td style="padding: 5px 30px 10px 5px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; text-align: left;"><p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size: 16px;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:</p>
+							<td style="padding: 0px 100px 10px 10px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; text-align: left;"><p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size: 16px;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:</p>
 <ol style="list-style-type: lower-latin; line-height:1.35;">
 				<li style="padding-left:10px; line-height:1.35; font-size:16px;">One dose of Janssen/J&J vaccine; OR</li>
 				<li style="padding-left:10px; line-height:1.35; font-size:16px;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</li>
