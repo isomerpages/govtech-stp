@@ -135,7 +135,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
-<table style="width:103%; overflow: visible;">
+<table style="width:100%; overflow: visible;">
 	<thead>
 		<tr>
 		<th rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:10%;"><b>General Travel Category Countries/Regions</b></th>
