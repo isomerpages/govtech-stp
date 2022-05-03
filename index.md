@@ -3,7 +3,7 @@ layout: landing-page-stp
 title: SafeTravel
 description: Singapore’s latest border measures in response to COVID-19
 permalink: /
-notification: <b>NOTICE:</b> The ICA <a
+notification: <h6 style="text-align:left;"><b>NOTICE:</b> The ICA <a
   href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card (SGAC)
   e-Service</a> is a simple pre-arrival declaration and no submission fees are
   required. ICA does not support or endorse services offered by commercial
