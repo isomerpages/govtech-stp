@@ -334,7 +334,7 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 #### 3. Am I exempted from SHN if I am aged 13 and above and certified to be medically ineligible for vaccination?
 
-No. Travellers 13 and above and are certified to be medically ineligible for vaccination, are considered non-fully vaccinated. They will therefore be issued with an SHN upon arrival into Singapore. For more details on the travel and health protocols accorded to non-fully vaccinated travellers, visit: <a href="/arriving/general-travel/non-fullly-vaccinated" target="_blank">https://safetravel.ica.gov.sg/arriving/general-travel/non-fullly-vaccinated</a>.
+No. Travellers 13 and above and are certified to be medically ineligible for vaccination, are considered non-fully vaccinated. They will therefore be issued with an SHN upon arrival into Singapore. For more details on the travel and health protocols accorded to non-fully vaccinated travellers, visit: <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">https://safetravel.ica.gov.sg/arriving/general-travel/non-fully-vaccinated</a>.
 
 
 ---
