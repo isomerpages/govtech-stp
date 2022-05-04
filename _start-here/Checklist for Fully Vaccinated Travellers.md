@@ -62,15 +62,15 @@ margin-left:80px;
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;padding-left:0px; padding-right:0px;  text-align:right;"><b>Step 4</b></td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step5">Install TraceTogether app</a></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step4">Install TraceTogether app</a></td>
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;padding-left:0px; padding-right:0px;  text-align:right;"><b>Step 5</b></td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step6">Immigration clearance in Singapore</a></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step5">Immigration clearance in Singapore</a></td>
 	  </tr>
 	  <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;padding-left:0px; padding-right:0px;  text-align:right;"><b>Step 6</b></td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step7">Comply with local health protocols</a></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step6">Comply with local health protocols</a></td>
 	  </tr>
 	  </tbody>
 			</table>
