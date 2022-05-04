@@ -7,7 +7,7 @@ permalink: /FAQ
 <div id="top"></div>
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
-		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#vaxcert">Digitally Verifiable Vaccination Certificate </a></li>
+		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#vaxcert">Digitally Verifiable Vaccination Certificate</a></li>
 		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Common Portal Technical Issues</a><ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-latin;">
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#amendment">Amendment of Approved Entry Applications</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#receiptandapproval">Receipts and Approval Letters</a></li>
@@ -331,6 +331,10 @@ In the event of an emergency, travellers may contact the SafeTravel Enquiries he
 #### 2. I am supposed to serve my SHN at my own place of residence. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
 
 Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to <a href="https://go.gov.sg/shnhotelneeds" target="_blank">this page</a> for more details, or contact the SafeTravel Enquiries helpline at 6812 5555 for assistance and advice. Do not leave your residence until you have received further instructions.
+
+#### 3. Am I exempted from SHN if I am aged 13 and above and certified to be medically ineligible for vaccination?
+
+No. Travellers 13 and above and are certified to be medically ineligible for vaccination, are considered non-fully vaccinated. They will therefore be issued with an SHN upon arrival into Singapore. For more details on the travel and health protocols accorded to non-fully vaccinated travellers, visit: <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">https://safetravel.ica.gov.sg/arriving/general-travel/non-fully-vaccinated</a>.
 
 
 ---
