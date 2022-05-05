@@ -398,11 +398,6 @@ input:checked + label + .content {
 <p style=" font-size:18px; margin-top:20px; margin-bottom: 20px; line-height:1.35;">Apart from calling your clinic of choice to ensure that it can facilitate the registration, please also ask the clinic for the documents needed for registration. Depending on the date which you had received the last dose of your primary vaccination series, you may be advised to take additional COVID-19 vaccination doses (see summary below) to qualify for domestic vaccination-differentiated requirements.</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
-	
-</div>
-</body>
-</html>
-
 <table>
  <thead>
     <tr>
@@ -413,25 +408,25 @@ input:checked + label + .content {
  <tbody>
     <tr>
       <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Sinovac/Sinopharm vaccines</td>
-	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">If you had received <b>two vaccine doses</b>: <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: disc;">
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Third dose is recommended around 3 months from the second dose</li>
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">If third dose is not taken, vaccination status will lapse 120 days from the second dose</li>
+	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">If you had received <b>two vaccine doses</b>: <ol style="font-size:18px; margin-bottom:0px; list-style-type: disc;">
+<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Third dose is recommended around 3 months from the second dose</li>
+<li style=" font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">If third dose is not taken, vaccination status will lapse 120 days from the second dose</li>
 			 </ol>
 	    </td>
     </tr>
 	 <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">	      If you had received <b>three vaccine doses</b>: <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: disc;">
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Booster dose is recommended around 3 months from the third dose</li>
-			 <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">If booster dose is not taken, vaccination status will lapse 270 days from the third dose</li>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">	      If you had received <b>three vaccine doses</b>: <ol style=" font-size:18px; margin-bottom:0px; list-style-type: disc;">
+<li style=" font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Booster dose is recommended around 3 months from the third dose</li>
+			 <li style=" font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">If booster dose is not taken, vaccination status will lapse 270 days from the third dose</li>
 	      </ol>
 		 </td>
 	 </tr>
 	    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">All WHO-EUL vaccines, except Sinovac / Sinopharm</td>
 	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">If you had completed your <b>primary vaccine series</b>:
-		    <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: disc;">
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Booster dose is recommended around 5 months from the last primary vaccine series dose </li>
-			    <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">If booster is not taken, vaccination status will lapse 270 days from the last primary series dose</li>
+		    <ol style=" font-size:18px; margin-bottom:0px; list-style-type: disc;">
+<li style="p font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Booster dose is recommended around 5 months from the last primary vaccine series dose </li>
+			    <li style=" font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">If booster is not taken, vaccination status will lapse 270 days from the last primary series dose</li>
 			 </ol>
 		    </td>
     </tr>
@@ -440,7 +435,11 @@ input:checked + label + .content {
 </td>
 	 </tr>
 </tbody>
-</table>
+</table>	
+</div>
+</body>
+</html>
+
 
 <!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b> C) Contracting and Recovering from COVID-19</b></div>
 
