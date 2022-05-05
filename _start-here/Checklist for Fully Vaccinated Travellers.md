@@ -30,7 +30,7 @@ margin-left:80px;
 			<!--<p style="font-size:18px; margin-top:10px; margin-bottom:10px;line-height:1.3;">Readers referencing this checklist can indicate “☑” in the boxes (&#9634;) for any completed activities.</p>-->
 	</div>
 	
-<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:120.1%;">Please read each step below carefully in order to ensure a smooth travel experience. Please note that <b>you are no longer required to take any COVID-19 tests to enter Singapore.</b> </p>
+<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:120.1%;">For a smooth travel experience, read each step below carefully. Please note that <b>you are no longer required to take any COVID-19 tests to enter Singapore.</b> </p>
 			
 <html>
 <head>
