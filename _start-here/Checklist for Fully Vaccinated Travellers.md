@@ -416,8 +416,7 @@ input:checked + label + .content {
 	    </td>
     </tr>
 	 <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">All 
-	      If you had received <b>three vaccine doses</b>: <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: disc;">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">	      If you had received <b>three vaccine doses</b>: <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: disc;">
 <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Booster dose is recommended around 3 months from the third dose</li>
 			 <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">If booster dose is not taken, vaccination status will lapse 270 days from the third dose</li>
 	      </ol>
