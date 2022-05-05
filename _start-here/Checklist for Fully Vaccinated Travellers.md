@@ -431,6 +431,10 @@ input:checked + label + .content {
 			 </ol>
 		    </td>
     </tr>
+	   <tr>
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Source: MOH. For more details on NIR and vaccination matters, visit: <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH Post-Vaccination FAQs</a>.
+</td>
+	 </tr>
 </tbody>
 </table>
 </div>
