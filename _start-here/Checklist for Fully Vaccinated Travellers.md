@@ -215,7 +215,7 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%;">&#9634;&nbsp; <b>Step 2:  Obtain additional documentation/approvals for entry if needed</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">The following types of travellers must prepare the additional documents below if necessary, for pre-boarding and immigration clearance. Visitors must also ensure that your passport is valid for <b>at least 6 months</b>.</p>
-<p style=" font-size:16px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
+<p style=" font-size:18px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
 	
 	
 <html>
