@@ -371,7 +371,7 @@ input:checked + label + .content {
 
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you test positive for COVID-19 during your stay, follow these <a href="https://www.covid.gov.sg/travellers" target="_blank">recovery protocols</a>.</p>	
 	
-<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;"><b><u>Maintaining Vaccinated Status</u></b></p>
+<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;"><b><u>Maintaining Vaccination Status</u></b></p>
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you are <b>vaccinated overseas</b>, your vaccination status will be temporarily reflected in your TraceTogether application for <b>up to 30 days</b>. Write in using <a href="https://go.gov.sg/vds-query-form" target="_blank">this form</a> if your details are not reflected correctly.</p>
 	<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">If you have not already done so, register your vaccination status into the Singapore National Immunisation Registry (NIR) at a <a href="https://flu.gowhere.gov.sg/" target="_blank">Public Health Preparedness Clinic</a>, if you are:</p>
 
@@ -399,7 +399,7 @@ input:checked + label + .content {
 <p style=" font-size:18px; margin-top:20px; margin-bottom: 20px; line-height:1.35;">Apart from calling your clinic of choice to ensure that it can facilitate the registration, please also ask the clinic for the documents needed for registration. Depending on the date which you had received the last dose of your primary vaccination series, you may be advised to take additional COVID-19 vaccination doses (see summary below) to qualify for domestic vaccination-differentiated requirements.</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
-<table>
+<table style="width:100%;">
  <thead>
     <tr>
      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccine Brand / Manufacturer</b></th>
