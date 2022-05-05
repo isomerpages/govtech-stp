@@ -83,6 +83,9 @@ We are currently working on accepting digitally verifiable vaccination certifica
 
 Please attempt re-uploading your QR code and ensure that your electronic vaccination record <b>has the name and ID displayed</b> (unmasked). You may refer to <a href="https://www.evt.gov.hk/portal/en/workflow2" target="_blank">these instructions to download your electronic vaccination records</a>.
 
+#### 4. Am I considered fully vaccinated if I only have one dose of an accepted WHO Emergency Use Listing (EUL) vaccine, and subsequently contracted and recovered from COVID-19?
+
+Recovering from COVID-19 after only one vaccination dose is not considered “Fully Vaccinated”, unless the vaccination taken was Janssen/J&J, which only requires one dose as part of the primary series. Travellers are considered fully vaccinated only if they have taken at least 1 dose of WHO-EUL vaccine, dated at least 28 days after the COVID-19 positive diagnosis.
 
 ---
 	
