@@ -39,7 +39,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="checklist"></div>
 
-#### 1. Checklist of Requirements for Entry
+#### 1. Travel Checklists and Entry Requirements
 
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history, age, and vaccination status.* <b>Click the relevant button below for a full step-by-step traveller checklist according to your profile.</b></p>
 
