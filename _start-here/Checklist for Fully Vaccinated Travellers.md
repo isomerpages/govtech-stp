@@ -424,9 +424,13 @@ input:checked + label + .content {
 		 </td>
 	 </tr>
 	    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">All other WHO-EUL vaccines (excluding Sinovac/Sinopharm)</td>
-	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Booster dose: Around 5 months from the last dose of your primary series</td>
-		       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">270 days from the last dose of your primary series if you have not taken a booster</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">All WHO-EUL vaccines, except Sinovac / Sinopharm</td>
+	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">If you had completed your <b>primary vaccine series</b>:
+		    <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: disc;">
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Booster dose is recommended around 5 months from the last primary vaccine series dose </li>
+			    <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">If booster is not taken, vaccination status will lapse 270 days from the last primary series dose</li>
+			 </ol>
+		    </td>
     </tr>
 </tbody>
 </table>
