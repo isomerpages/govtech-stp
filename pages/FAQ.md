@@ -83,7 +83,6 @@ We are currently working on accepting digitally verifiable vaccination certifica
 
 Please attempt re-uploading your QR code and ensure that your electronic vaccination record <b>has the name and ID displayed</b> (unmasked). You may refer to <a href="https://www.evt.gov.hk/portal/en/workflow2" target="_blank">these instructions to download your electronic vaccination records</a>.
 
-
 ---
 	
 Click here to [Go Back To Top](#top).
