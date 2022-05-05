@@ -21,26 +21,15 @@ margin-left:80px;
 
 <div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px; width:120.1%">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
-    <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>all modes of arrival to Singapore via air, land or sea.</b></p>
-  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This travel checklist is for <b>all travellers, including Singapore Citizens and Permanent Residents</b>, aged 13 and above (i.e. born before 2010) who are:
+  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>travellers, including Singapore Citizens and Permanent Residents</b>, aged 13 and above (i.e. born before 2010) who are entering Singapore from <b>any country</b> via air, land or sea, <b>and</b> are:
   <ol style="padding-left:25px; list-style-type:disc;">
-    <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><b>Not</b> considered fully vaccinated against COVID-19 with WHO EUL vaccines*; <b>OR</b></li>
+    <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Non-fully vaccinated against COVID-19 with WHO EUL vaccines;* <b>OR</b></li>
        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Certified medically ineligible for COVID-19 vaccination</li>
   </ol>
   </p>
     <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">If you are fully vaccinated or below 12 regardless of vaccinated status, refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">this checklist</a> instead. Travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information.</p>
-     <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
-   <!--<p style="font-size:18px; margin-top:20px;margin-bottom:0px;  line-height:1.4; color:black;">Users of this checklist can indicate "<b>✓</b>" in the boxes (&#9634;) for completed activities.</p>-->
-  </div>
-
-<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:120.1%;">Travellers are advised to read carefully and follow all the steps in the checklist below. Travellers can be turned away at pre-boarding or immigration or subject to penalties if they do not comply with the requirements.</p>
-<!--<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 1: <a href="#stage1">Pre-Departure Requirements</a></p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 2: <a href="#stage2">Requirements on Arrival</a></p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 3: <a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 4: <a href="#stage4">Comply with Local Health Protocols</a></p>-->
-	
-
-<html>
+			  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">For ease of reading, this checklist is structured into four key steps, below, which you are strongly advised to review in the following order:</p>
+			<html>
 <head>
 <style>
 
@@ -56,26 +45,33 @@ margin-left:80px;
 <table style="width:118%;">
   <tbody>
  <tr>
-	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; width:85px; padding-left:0px; padding-right:0px; text-align:right;"><b>Stage 1</b></td>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; width:85px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 1</b></td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#stage1">Pre-Departure Requirements</a></td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Stage 2</b></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 2</b></td>
  <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#stage2">Requirements on Arrival</a></td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Stage 3</b></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 3</b></td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Stage 4</b></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 4</b></td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#stage4">Comply with Local Health Protocols</a></td>
 	  </tr>
 	  </tbody>
 			</table>
 	</body>
 	</html>
-	
+     <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
+  </div>
+
+<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:120.1%;">Travellers are advised to read carefully and follow all the steps in the checklist below. Travellers can be turned away at pre-boarding or immigration or subject to penalties if they do not comply with the requirements.</p>
+<!--<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 1: <a href="#stage1">Pre-Departure Requirements</a></p>
+<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 2: <a href="#stage2">Requirements on Arrival</a></p>
+<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 3: <a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></p>
+<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 4: <a href="#stage4">Comply with Local Health Protocols</a></p>-->
 	
 
 <!--<html>
