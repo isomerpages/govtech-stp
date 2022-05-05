@@ -115,7 +115,7 @@ margin-left:80px;
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry approval is <b>not</b> required if you are a:</p>
  <ol style="list-style-type: disc; padding-left:25px;">
         <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Singapore Citizens and Permanent Residents</li>
-<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Long-Term Pass holder, including In-Principle Approval holders, aged 13 to 17 (i.e. born between 2005 and 2010 inclusive) arriving <b style="color:red;">before 1 Jul 2022 only.</b> Entries from 1 Jul 2022 will require entry approvals.</li>
+<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Long-Term Pass holder, including In-Principle Approval holders, aged 13 to 17 (i.e. born between 2005 and 2010 inclusive) arriving <b>before 1 Jul 2022 only.</b> Entries from 1 Jul 2022 will require entry approvals.</li>
 	</ol>
 	    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For all other non-fully vaccinated travellers, entry to Singapore is not allowed unless entry approval is obtained. Click your traveller profile below for details on how to apply:</p>
 	 <!--<ol style="list-style-type: disc; padding-left:25px;">
