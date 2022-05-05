@@ -343,7 +343,7 @@ input:checked + label + .content {
     <table>
   <thead>
     <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#C2D3DA; color:black;"><b>When Should I Take My PDT:</b></th>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#C2D3DA; color:black;"><b>Examples of when to take PDT:</b></th>
     </tr>
   </thead>
   <tbody>
