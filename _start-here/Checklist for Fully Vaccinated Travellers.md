@@ -399,7 +399,7 @@ input:checked + label + .content {
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 	
-<table style="width:95%;">
+<table>
  <thead>
     <tr>
      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white; width:100px;"><b>Vaccine Brand / Manufacturer</b></th>
@@ -431,10 +431,6 @@ input:checked + label + .content {
 			 </ol>
 		    </td>
     </tr>
-	   <tr>
-      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><i><b>Source:</b> MOH. For more details on NIR and vaccination matters, visit: <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH Post-Vaccination FAQs</a></i>.
-</td>
-	 </tr>
 </tbody>
 </table>
 </div>
