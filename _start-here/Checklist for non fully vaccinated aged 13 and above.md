@@ -28,7 +28,7 @@ margin-left:80px;
   </ol>
   </p>
     <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">If you are fully vaccinated or below 12 regardless of vaccinated status, refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">this checklist</a> instead. Travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information.</p>
-			  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">For ease of reading, this checklist is structured into four key steps, below, which you are strongly advised to review in the following order:</p>
+			  <p style="font-size:18px; margin-top:10px; margin-bottom:20px;line-height:1.3; color:black;">For ease of reading, this checklist is structured into four key steps, below, which you are strongly advised to review in the following order:</p>
 			<html>
 <head>
 <style>
