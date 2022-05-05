@@ -124,7 +124,7 @@ margin-left:80px;
 <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Non-fully vaccinated Short-Term Visitors aged 13 and above (i.e. born before 2010)</li> 
 	</ol>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Only the following types of non-fully vaccinated travellers may apply for entry approval via the channels listed below:</p>-->
-    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click “+” to expand for details)</b></p>
+    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35; color:red;"><b>(Click “+” to expand for details)</b></p>
 
 <html>
 
@@ -219,7 +219,7 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad; border-right:2px solid #adadad; font-size:18px; width:120.1%;" id="1B">
 &#9634; &nbsp;&nbsp;<b>1B) Obtain Additional Travel-Related Documents</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#f8f8f8; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%"><p style=" font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35; ">Ensure that your passport is valid for <b>at least 6 months</b>, and prepare the following travel documents, as necessary, for pre-boarding or immigration clearance. Failing which, you may be denied boarding/entry.</p>
-    <p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35;"><b>(Click ‘+’ to expand for details)</b></p> 
+    <p style=" font-size:18px; margin-top: 20px; margin-bottom:10px; line-height:1.35; color:red;"><b>(Click ‘+’ to expand for details)</b></p> 
 
     
 <html>
@@ -440,7 +440,7 @@ input:checked + label + .content {
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
     </p>
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end upon completion of the 7-day SHN period applicable, or upon receipt of a negative PCR test result, <b>whichever is later</b>. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked. Watch these videos for a walkthrough on the <a href="https://youtu.be/171I93ldXzg" target="_blank">SHN Requirements (English)</a>, <a href="https://youtu.be/300gtMksKrw" target="_blank">SHN Requirements (Mandarin)</a>, <a href="https://youtu.be/TcgBoA0Hrn0" target="_blank">SHN Requirements (Bahasa Indonesia)</a> and the penalties for <a href="https://youtube.com/watch?v=Om-hkGPvHOc&t=2s" target="_blank">SHN Breaches</a>.</p>    
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>(Click "+" to expand for details)</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35; color:red;"><b>(Click "+" to expand for details)</b></p>
 <html>
 
 <head>
