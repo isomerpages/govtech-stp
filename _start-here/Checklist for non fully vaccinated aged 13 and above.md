@@ -302,7 +302,7 @@ input:checked + label + .content {
     <label style="background-color: #CEDEED; color:#182657;" for="VEP"><b>Drivers of Foreign-Registered Vehicles Entering by Land</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color: #edf4fa;" class="content">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Ensure you have a valid Vehicle Entry Permit (VEP) approval email, Autopass card and motor insurance. <b>Application or insurance/Autopass update services are unavailable at Singapore's land checkpoints.</b></p>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;"><b style="color:red;">Applications <b>must</b> be made via the OneMotoring website at least two weeks before your intended travel dates (steps below):</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Applications <b style="color:red;">must</b> be made via the OneMotoring website at least two weeks before your intended travel dates (steps below):</p>
 
 <ol style="padding-left:10px; list-style-type:lower-latin;">
 <li style=" padding-left:10px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><b>Apply for VEP/Autopass card</b> <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;"><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> <b>></b> Digital Services <b>></b> Apply for VEP / Autopass Card</p></li>
