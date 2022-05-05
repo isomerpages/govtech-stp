@@ -408,7 +408,7 @@ input:checked + label + .content {
  </thead>
  <tbody>
     <tr>
-      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Sinovac/Sinopharm vaccines</td>
+      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Sinovac / Sinopharm vaccines</td>
 	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">If you had received <b>two vaccine doses</b>: <ol style="font-size:18px; margin-bottom:0px; list-style-type: disc;">
 <li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Third dose is recommended around 3 months from the second dose</li>
 <li style=" font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">If third dose is not taken, vaccination status will lapse 120 days from the second dose</li>
