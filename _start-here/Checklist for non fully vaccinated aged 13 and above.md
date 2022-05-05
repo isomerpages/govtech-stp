@@ -45,20 +45,20 @@ margin-left:80px;
 <table style="width:118%;">
   <tbody>
  <tr>
-	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; width:85px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 1</b></td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#stage1">Pre-Departure Requirements</a></td>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; width:85px; padding-left:0px; padding-right:0px; text-align:right; color:black;"><b>Step 1</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left; color:black;"><a href="#stage1">Pre-Departure Requirements</a></td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 2</b></td>
- <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#stage2">Requirements on Arrival</a></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right; color:black;"><b>Step 2</b></td>
+ <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left; color:black;"><a href="#stage2">Requirements on Arrival</a></td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 3</b></td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right; color:black;"><b>Step 3</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left; color:black;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 4</b></td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#stage4">Comply with Local Health Protocols</a></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right; color:black;"><b>Step 4</b></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; color:black; text-align:left;"><a href="#stage4">Comply with Local Health Protocols</a></td>
 	  </tr>
 	  </tbody>
 			</table>
