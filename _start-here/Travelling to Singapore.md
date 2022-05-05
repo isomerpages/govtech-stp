@@ -7,10 +7,12 @@ third_nav_title: Travelling to Singapore
 
 <div id="top"></div>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to facilitate the resumption of travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane (VTL), <b>and applies to all travellers entering Singapore, including Singapore Citizens/Permanent Residents</b>.</p>
+<p style="margin-top:10px; margin-bottom:15px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to facilitate the resumption of travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane (VTL), <b>and applies to all travellers entering Singapore, including Singapore Citizens/Permanent Residents</b>.</p>
 
 <!--- [Automated Self-Help Tool for Entry Requirements](#selfhelptool)-->
-- [Checklist of Requirements for Entry](#checklist)
+
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">On this page, you will find the following information for travelling to Singapore</p>
+- [Travel Checklists and Entry Requirements](#checklist)
 - [Accepted COVID-19 Vaccinations for Entry to Singapore ](#vaccination)
 
 
