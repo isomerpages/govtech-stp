@@ -399,6 +399,10 @@ input:checked + label + .content {
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 	
+</div>
+</body>
+</html>
+
 <table>
  <thead>
     <tr>
@@ -431,11 +435,12 @@ input:checked + label + .content {
 			 </ol>
 		    </td>
     </tr>
+	    <tr>
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><i><b>Source:</b> MOH. For more details on NIR and vaccination matters, visit: <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH Post-Vaccination FAQs</a></i>.
+</td>
+	 </tr>
 </tbody>
 </table>
-</div>
-</body>
-</html>
 
 <!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b> C) Contracting and Recovering from COVID-19</b></div>
 
