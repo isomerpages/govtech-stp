@@ -400,7 +400,7 @@ input:checked + label + .content {
 </ol>
     </div>-->
     
-<div id="stage2" style="background-color: #102a40; border-left:10px #102a40 solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 0px 0px; width:120.1%;"><b>Step 2: Arrival in Singapore</b></div>
+<div id="stage2" style="background-color: #102a40; border-left:10px #102a40 solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 0px 0px; width:120.1%;"><b>Step 2: Requirements on Arrival</b></div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad; border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px; width:120.1%;">
 &#9634; &nbsp;&nbsp;<b>2A) Immigration Clearance</b></div>
