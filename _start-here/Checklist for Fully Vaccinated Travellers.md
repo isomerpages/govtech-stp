@@ -20,7 +20,7 @@ margin-left:80px;
 		<body>
 <div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red; width:120.1%; ">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use</u>:</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This checklist is for <b>all modes of arrival to Singapore via air, land or sea.</b></p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This checklist is for <b>all travellers, including Singapore Citizens or Permanent Residents, entering Singapore from any country/region via air, land, or sea</b>, and are:</p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This travel checklist is for <b>all travellers, including Singapore Citizens or Permanent Residents</b>, who are:</p>
 		<ol style="padding-left:25px; list-style-type:disc;">
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Fully vaccinated with WHO EUL COVID-19 vaccines*; OR</li>
