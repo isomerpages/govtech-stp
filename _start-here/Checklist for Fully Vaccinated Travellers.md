@@ -21,17 +21,16 @@ margin-left:80px;
 <div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red; width:120.1%; ">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use</u>:</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This checklist is for <b>all travellers, including Singapore Citizens or Permanent Residents, entering Singapore from any country/region via air, land, or sea</b>, and are:</p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This travel checklist is for <b>all travellers, including Singapore Citizens or Permanent Residents</b>, who are:</p>
 		<ol style="padding-left:25px; list-style-type:disc;">
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Fully vaccinated with WHO EUL COVID-19 vaccines*; OR</li>
 			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Aged 12 and below (i.e. born in or after 2010) and not fully vaccinated</li>
 	</ol>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">If you do not meet the above criteria, you can refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">checklist for travellers who are non-fully vaccinated</a>. Travellers transiting in Singapore to another destination without clearing immigration should refer to the<a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. </p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">If you do not meet the above criteria, refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">checklist for travellers who are non-fully vaccinated</a>. Travellers transiting in Singapore to another destination without clearing immigration should refer to the<a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. </p>
 	 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
 			<!--<p style="font-size:18px; margin-top:10px; margin-bottom:10px;line-height:1.3;">Readers referencing this checklist can indicate “☑” in the boxes (&#9634;) for any completed activities.</p>-->
 	</div>
 	
-<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:120.1%;">Travellers are advised to follow all the steps in the checklist below to ensure that their journey to Singapore is smooth and that they will be accorded the measures for vaccinated travellers. Details can be found in the respective steps below. Please note that fully vaccinated travellers and travellers aged 12 and below <b> do not need to take a pre-departure test before departing for Singapore</b>. </p>
+<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:120.1%;">Please read each step below carefully in order to ensure a smooth travel experience. Please note that <b>you are no longer required to take any COVID-19 tests to enter Singapore.</b> </p>
 			
 <html>
 <head>
