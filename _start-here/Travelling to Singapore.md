@@ -231,8 +231,8 @@ Click here to return to the <a href="#top">top</a>.
 				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY,<br> or Sinopharm vaccine, administered at least 17 days apart; OR</li>
 				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Two doses of Sinovac vaccine, administered 13 days apart; OR</li>
 				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Mixture of any two doses of vaccines listed in points a – d,<br>administered at least 17 days apart; OR</li>
-				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Any of the vaccination combinations listed in points a – e<br>and subsequently recovered from COVID-19; OR</li>
-				<li style="padding-left: 2.5px; line-height:1.35; font-size:16px;">At least one dose any WHO EUL approved vaccines listed in <br>points b – d,taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</li>
+				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Any of the vaccination combinations listed in <br>points a – e and subsequently recovered from COVID-19; OR</li>
+				<li style="padding-left: 2.5px; line-height:1.35; font-size:16px;">At least one dose any WHO EUL approved vaccines listed <br>in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</li>
 </ol>
 </td>
 		</tr>
@@ -241,9 +241,9 @@ Click here to return to the <a href="#top">top</a>.
 <i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size:16px;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:</p>
 <ol style="list-style-type: lower-latin; line-height:1.35;">
-				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Only vaccinated with COVID-19 vaccines not listed above; OR</li>
+				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Only vaccinated with COVID-19 vaccines not listed above; <br>OR</li>
 				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Did not complete the minimum dosage of the vaccines mentioned above; OR</li>
-				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</li>
+				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Recovered from COVID-19 but did not complete <br>the minimum dosage of the vaccines mentioned above; OR</li>
 				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</li>
 </ol>
 </td>
