@@ -217,8 +217,8 @@ Click here to return to the <a href="#top">top</a>.
 <table>
 	<thead>
 		<tr>
-		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccination Status</b></th>
-			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width: 50px;"><b>Definition</b></th>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;width: 50px;"><b>Vaccination Status</b></th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:"><b>Definition</b></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -232,7 +232,7 @@ Click here to return to the <a href="#top">top</a>.
 				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Two doses of Sinovac vaccine, administered 13 days apart; <p style="margin-top: 5px; margin-bottom: 5px;font-size:16px;">OR</p></li>
 				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Mixture of any two doses of vaccines listed in points a – d,<br>administered at least 17 days apart; <p style="margin-top: 5px; margin-bottom: 5px;font-size:16px;">OR</p></li>
 				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Any of the vaccination combinations listed in <br>points a – e and subsequently recovered from COVID-19; <p style="margin-top: 5px; margin-bottom: 5px;font-size:16px;">OR</p></li>
-				<li style="padding-left: 2.5px; line-height:1.35; font-size:16px;">At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 <br>positive diagnosis, if traveller was not vaccinated before <br>their first infection.</li>
+				<li style="padding-left: 2.5px; line-height:1.35; font-size:16px;">At least one dose any WHO EUL approved vaccines listed in <br>points b – d, taken at least 28 days after the first COVID-19 <br>positive diagnosis, if traveller was not vaccinated before <br>their first infection.</li>
 </ol>
 </td>
 		</tr>
