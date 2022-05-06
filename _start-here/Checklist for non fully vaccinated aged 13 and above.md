@@ -300,7 +300,7 @@ input:checked + label + .content {
 <input id="VEP" type="checkbox">
     <label style="background-color: #CEDEED; color:#182657;" for="VEP"><b>Drivers of Foreign-Registered Vehicles Entering by Land</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color: #edf4fa;" class="content">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Ensure you have a valid Vehicle Entry Permit (VEP) approval email, Autopass card and motor insurance. VEP, insurance and autopass services are <b>not</b> available at Singapore's land checkpoints.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Ensure you have a valid Vehicle Entry Permit (VEP) approval email, Autopass card and motor insurance. VEP, insurance and Autopass services are <b>not</b> available at Singapore's land checkpoints.</p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Visit the OneMotoring website to:</p>
 
 <ol style="padding-left:10px; list-style-type:lower-latin;">
