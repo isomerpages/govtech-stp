@@ -21,7 +21,7 @@ margin-left:80px;
 
 <div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px; width:120.1%">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
-  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>all travellers, including Singapore Citizens and Permanent Residents</b>, aged 13 and above (i.e. born before 2010) who are entering Singapore from <b>any country</b> via air, land or sea, <b>and</b> are:
+  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>all travellers, including Singapore Citizens and Permanent Residents</b>, aged 13 and above (i.e. born before 2010) who are entering Singapore from <b>any country/region</b> via air, land or sea, <b>and</b> are:
   <ol style="padding-left:25px; list-style-type:disc;">
     <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Non-fully vaccinated against COVID-19 with WHO EUL vaccines;* <b>OR</b></li>
        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Certified medically ineligible for COVID-19 vaccination</li>
