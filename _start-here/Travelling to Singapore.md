@@ -4,7 +4,6 @@ permalink: /arriving/overview
 description: Entry requirements and SafeTravel Lanes available when travelling to Singapore
 third_nav_title: Travelling to Singapore
 ---
-
 <div id="top"></div>
 
 <p style="margin-top:10px; margin-bottom:15px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to facilitate the resumption of travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane (VTL), <b>and applies to all travellers entering Singapore, including Singapore Citizens/Permanent Residents</b>.</p>
@@ -375,4 +374,3 @@ Click here to return to the <a href="#top">top</a>.
 Click here to return to the <a href="#top">top</a>.
 
 ---
-

@@ -193,7 +193,7 @@ input:checked + label + .content {
 <input id="vaxoverseas" type="checkbox">
 <label style="background-color:#CEDEED; color:#182657;" for="vaxoverseas"><b>I am Vaccinated outside Singapore</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;"><b>If you hold a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally Verifiable Vaccination Certificate (DVC)</a></b> issued by the countries/regions listed in this document, you can verify your DVC using the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a>. Travellers whose DVC was successfully verified using VCP can use their vaccination acceptance letter for smoother boarding and immigration checks – please note that VCP is <b>not</b> a mandatory entry requirement.
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;"><b>If you hold a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally Verifiable Vaccination Certificate (DVC) issued by the countries/regions listed in this document</a></b>, you can verify your DVC using the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a>. Travellers whose DVC was successfully verified using VCP can use their vaccination acceptance letter for smoother boarding and immigration checks – please note that VCP is <b>not</b> a mandatory entry requirement.
 </p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>If you do not have a DVC, or are unable to verify your vaccination certificate on VCP even after troubleshooting using <a href="/faq#vaxcert" target="_blank">this guide</a></b>, you can prove your vaccination status using a Vaccination Certificate (including certificate on a vaccination app) that is in English, or accompanied with notarised English translation, with the following details:
 	<ol style="padding-left:25px; list-style-type:lower-latin;">
@@ -287,7 +287,7 @@ input:checked + label + .content {
 <input id="YF" type="checkbox">
 <label style="background-color:#CEDEED; color:#182657;" for="YF"><b>Travelled to countries/regions in Africa and Latin America with Yellow Fever Risk</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>, if not you will sujected to 6 days quarantine on arrival</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>, if not you will be subjected to 6 days quarantine on arrival</p>
 </div>
 <input id="Foreign-vehicle" type="checkbox">
 <label style="background-color:#CEDEED; color:#182657;" for="Foreign-vehicle"><b>Drivers of Foreign-Registered Vehicles Entering by Land </b></label>
