@@ -217,22 +217,22 @@ Click here to return to the <a href="#top">top</a>.
 <table>
 	<thead>
 		<tr>
-		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width: 50px;"><b>Vaccination Status</b></th>
-			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:80px;"><b>Definition</b></th>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccination Status</b></th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width: 50px;"><b>Definition</b></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
-							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size: 16px;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:</p>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size: 16px;">At least two weeks before arrival in Singapore, the traveller <br>must minimally have taken the following WHO EUL vaccines:</p>
 <ol style="list-style-type: lower-latin; line-height:1.35;">
-				<li style="padding-left: 2.5px; line-height:1.35; font-size:16px;">One dose of Janssen/J&J vaccine; <br>OR</li>
-				<li style=" padding-left:2.5px;line-height:1.35; font-size:16px;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax,<br> or Covishield vaccine, administered at least 24 days apart; <br>OR</li>
-				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY,<br> or Sinopharm vaccine, administered at least 17 days apart; <br>OR</li>
-				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Two doses of Sinovac vaccine, administered 13 days apart; <br>OR</li>
-				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Mixture of any two doses of vaccines listed in points a – d,<br>administered at least 17 days apart; <br>OR</li>
-				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Any of the vaccination combinations listed in <br>points a – e and subsequently recovered from COVID-19; <br>OR</li>
-				<li style="padding-left: 2.5px; line-height:1.35; font-size:16px;">At least one dose any WHO EUL approved vaccines listed in <br>points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</li>
+				<li style="padding-left: 2.5px; line-height:1.35; font-size:16px;">One dose of Janssen/J&J vaccine; <p style="margin-bottom: 5px;font-size:16px;">OR</p></li>
+				<li style=" padding-left:2.5px;line-height:1.35; font-size:16px;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax,<br> or Covishield vaccine, administered at least 24 days apart; <p style="margin-top: 5px; margin-bottom: 5px; font-size:16px;">OR</p></li>
+				<li style=" padding-left: 2.5px; line-height:1.35; font-size:16px;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY,<br> or Sinopharm vaccine, administered at least 17 days apart; <p style="margin-top:5px; margin-bottom: 5px; font-size:16px;">OR</p></li>
+				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Two doses of Sinovac vaccine, administered 13 days apart; <p style="margin-top: 5px; margin-bottom: 5px;font-size:16px;">OR</p></li>
+				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Mixture of any two doses of vaccines listed in points a – d,<br>administered at least 17 days apart; <p style="margin-top: 5px; margin-bottom: 5px;font-size:16px;">OR</p></li>
+				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Any of the vaccination combinations listed in <br>points a – e and subsequently recovered from COVID-19; <p style="margin-top: 5px; margin-bottom: 5px;font-size:16px;">OR</p></li>
+				<li style="padding-left: 2.5px; line-height:1.35; font-size:16px;">At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 <br>positive diagnosis, if traveller was not vaccinated before <br>their first infection.</li>
 </ol>
 </td>
 		</tr>
@@ -242,9 +242,9 @@ Click here to return to the <a href="#top">top</a>.
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:10px; line-height:1.35; font-size:16px;">Travellers are considered non-fully vaccinated <br>if they do not satisfy the conditions above, which includes:</p>
 <ol style="margin-top:0px; list-style-type: lower-latin; line-height:1.35;">
 				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Only vaccinated with COVID-19 vaccines not listed above; <p style="margin-bottom: 5px;font-size:16px;">OR</p></li>
-				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Did not complete the minimum dosage of the vaccines mentioned above; <p style="margin-bottom: 5px;font-size:16px;">OR</p></li>
+				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Did not complete the minimum dosage of the vaccines <br>mentioned above; <p style="margin-top: 0px; margin-bottom: 5px;font-size:16px;">OR</p></li>
 				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Recovered from COVID-19 but did not complete <br>the minimum dosage of the vaccines mentioned above; <p style="margin-top: 5px; margin-bottom: 5px; font-size:16px;">OR</p></li>
-				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</li>
+				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Medically certified to be ineligible for any COVID-19 <br>vaccines mentioned above.</li>
 </ol>
 </td>
 		</tr>
