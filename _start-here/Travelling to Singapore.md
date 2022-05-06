@@ -227,12 +227,12 @@ Click here to return to the <a href="#top">top</a>.
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size: 16px;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:</p>
 <ol style="list-style-type: lower-latin; line-height:1.35;">
 				<li style="padding-left: 2.5px; line-height:1.35; font-size:16px;">One dose of Janssen/J&J vaccine; OR</li>
-				<li style=" padding-left:2.5px;line-height:1.35; font-size:16px;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</li>
-				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</li>
+				<li style=" padding-left:2.5px;line-height:1.35; font-size:16px;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax,<br> or Covishield vaccine, administered at least 24 days apart; OR</li>
+				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY,<br> or Sinopharm vaccine, administered at least 17 days apart; OR</li>
 				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Two doses of Sinovac vaccine, administered 13 days apart; OR</li>
-				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</li>
+				<li style="padding-left: 2.5px;line-height:1.35; font-size:16px;">Mixture of any two doses of vaccines listed in points a – d, administered at least 17 days apart; OR</li>
 				<li style=" padding-left: 2.5px;line-height:1.35; font-size:16px;">Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</li>
-				<li style="padding-left: 2.5px; line-height:1.35; font-size:16px;">At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</li>
+				<li style="padding-left: 2.5px; line-height:1.35; font-size:16px;">At least one dose any WHO EUL approved vaccines listed in points <br>b – d, <br>taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</li>
 </ol>
 </td>
 		</tr>
