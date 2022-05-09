@@ -1,5 +1,5 @@
 ---
-title: Checklist for Fully Vaccinated Travellers
+title: Checklist for Fully Vaccinated Travellers & Childeren below 12
 permalink: /arriving/general-travel/fully-vaccinated
 description: ""
 third_nav_title: Travelling to Singapore
