@@ -258,7 +258,7 @@ Click here to return to the <a href="#top">top</a>.
 <table style="width:80%;">
   <tbody>
 		<tr>
-		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:</p>
+		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:
 			</td>
 		</tr>
  <tr>
