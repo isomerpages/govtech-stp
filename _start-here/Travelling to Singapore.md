@@ -239,7 +239,7 @@ Click here to return to the <a href="#top">top</a>.
 	</style>
 	</head>
 	<body>
-<table style="width:100%;">
+<table style="width:90%;">
   <tbody>
 		<tr>
 		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:
@@ -295,7 +295,7 @@ Click here to return to the <a href="#top">top</a>.
 	</style>
 	</head>
 	<body>
-<table style="width:100%;">
+<table style="width:90%;">
   <tbody>
 		<tr>
 		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:
