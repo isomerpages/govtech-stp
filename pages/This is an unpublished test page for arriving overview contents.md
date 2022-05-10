@@ -4,14 +4,16 @@ permalink: /thisisatestpageforarrivingoverview
 description: ""
 published: false
 ---
-### Test version
+### This is a test page
 
 <div id="top"></div>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to facilitate the resumption of travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane (VTL), <b>and applies to all travellers entering Singapore, including Singapore Citizens/Permanent Residents</b>.</p>
+<p style="margin-top:10px; margin-bottom:15px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to facilitate the resumption of travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane (VTL), <b>and applies to all travellers entering Singapore, including Singapore Citizens/Permanent Residents</b>.</p>
 
 <!--- [Automated Self-Help Tool for Entry Requirements](#selfhelptool)-->
-- [Checklist of Requirements for Entry](#checklist)
+
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">On this page, you will find the following information for travelling to Singapore:</p>
+- [Travel Checklists and Entry Requirements](#checklist)
 - [Accepted COVID-19 Vaccinations for Entry to Singapore ](#vaccination)
 
 
@@ -38,7 +40,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="checklist"></div>
 
-#### 1. Checklist of Requirements for Entry
+#### 1. Travel Checklists and Entry Requirements
 
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history, age, and vaccination status.* <b>Click the relevant button below for a full step-by-step traveller checklist according to your profile.</b></p>
 
@@ -212,6 +214,356 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">For the purpose of entry into Singapore, all travellers aged 13 and above are considered “fully vaccinated” or “non-fully vaccinated” based on the definitions below:</p>
 
+##### This is the final test table.
+
+<table style="width: 85%;">
+	<thead>
+		<tr>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:150px;">Vaccination Status</th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;">Definition</th>
+		</tr>
+	</thead>
+<tbody>
+	<tr>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+<td style="font-size:16px; border-right: 2px solid #E0E0E0; padding: 0px;">
+<html>
+<head>
+<style>
+
+.horizontal-scroll{
+	overflow:visible;
+ }
+.content table td, .content table th{
+	    border: 0px solid #d6d6d6;
+	}
+	</style>
+	</head>
+	<body>
+<table>
+  <tbody>
+		<tr>
+		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:
+			</td>
+		</tr>
+ <tr>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">a.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px;  text-align:left;">One dose of Janssen/J&J vaccine; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">b.</td>
+ <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left; padding-left: 0px;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">c.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">d.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Two doses of Sinovac vaccine, administered 13 days apart; OR</td>
+	  </tr>
+		<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">e.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</td>
+	  </tr>
+		<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">f.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</td>
+	  </tr>
+		<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">g.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</td>
+	  </tr>
+	  </tbody>
+			</table>
+	</body>
+			</html>
+		</td>
+	</tr>
+	<tr>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-top: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0;">Non-Fully Vaccinated<br><i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+		<td style="font-size:16px; border-top: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0; padding:0px;">
+<html>
+<head>
+<style>
+
+.horizontal-scroll{
+	overflow:visible;
+ }
+.content table td, .content table th{
+	    border: 0px solid #d6d6d6;
+	}
+	</style>
+	</head>
+	<body>
+<table>
+  <tbody>
+		<tr>
+		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:
+			</td>
+		</tr>
+ <tr>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">a.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Only vaccinated with COVID-19 vaccines not listed above; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; padding-right:0px; text-align:left;">b.</td>
+ <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Did not complete the minimum dosage of the vaccines mentioned above; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">c.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">d.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left; padding-left: 0px;">Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</td>
+	  </tr>
+	  </tbody>
+			</table>
+	</body>
+			</html>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+	
+	
+##### This is yet another test table*.
+
+<table>
+	<thead>
+		<tr>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:110px;">Vaccination Status</th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;">Definition</th>
+		</tr>
+	</thead>
+<tbody>
+	<tr>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+<td style="font-size:16px; border-right: 2px solid #E0E0E0; padding: 0px;">
+<html>
+<head>
+<style>
+
+.horizontal-scroll{
+	overflow:visible;
+ }
+.content table td, .content table th{
+	    border: 0px solid #d6d6d6;
+	}
+	</style>
+	</head>
+	<body>
+<table style="width:85%;">
+  <tbody>
+		<tr>
+		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:
+			</td>
+		</tr>
+ <tr>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; padding-right:0px; text-align:left;">a.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">One dose of Janssen/J&J vaccine; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; padding-right:0px; text-align:left;">b.</td>
+ <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">c.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">d.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Two doses of Sinovac vaccine, administered 13 days apart; OR</td>
+	  </tr>
+		<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">e.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</td>
+	  </tr>
+		<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">f.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</td>
+	  </tr>
+		<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">g.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</td>
+	  </tr>
+	  </tbody>
+			</table>
+	</body>
+			</html>
+		</td>
+	</tr>
+	<tr>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-top: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0;">Non-Fully Vaccinated<br><i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+		<td style="font-size:16px; border-top: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0; padding:0px;">
+<html>
+<head>
+<style>
+
+.horizontal-scroll{
+	overflow:visible;
+ }
+.content table td, .content table th{
+	    border: 0px solid #d6d6d6;
+	}
+	</style>
+	</head>
+	<body>
+<table style="width:90%;">
+  <tbody>
+		<tr>
+		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:
+			</td>
+		</tr>
+ <tr>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; padding-right:0px; text-align:left;">a.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Only vaccinated with COVID-19 vaccines not listed above; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; padding-right:0px; text-align:left;">b.</td>
+ <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Did not complete the minimum dosage of the vaccines mentioned above; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">c.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">d.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</td>
+	  </tr>
+	  </tbody>
+			</table>
+	</body>
+			</html>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### This is another test table.
+
+<table>
+	<thead>
+		<tr>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:150px;">Vaccination Status</th>
+			<th  style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;">Definition</th>
+		</tr>
+	</thead>
+<tbody>
+	<tr>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+<td style="font-size:16px; border-right: 2px solid #E0E0E0;  padding:0px;"><table>
+	<tr>
+		<td style="font-size:16px; line-height:1.35;"><p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:</p><p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">a. &nbsp; One dose of Janssen/J&J vaccine; OR</p>
+<p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">b. &nbsp; Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</p>
+<p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">c. &nbsp; Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</p>
+<p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">d. &nbsp; Two doses of Sinovac vaccine, administered 13 days apart; OR</p>
+<p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">e. &nbsp; Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</p>
+<p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">f. &nbsp; Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</p>
+<p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">g. &nbsp; At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</p>
+		</td>
+		</tr>
+	</table>
+		</td>
+	</tr>
+	<tr>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0;">Non-Fully Vaccinated<br><i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+		<td style="font-size:16px; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0; padding:0px;"><table>
+	<tr>
+		<td style="font-size:16px; line-height:1.35;"><p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:</p>
+<p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">a. &nbsp; Only vaccinated with COVID-19 vaccines not listed above; OR</p>
+<p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">b. &nbsp; Did not complete the minimum dosage of the vaccines mentioned above; OR</p>
+<p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">c. &nbsp; Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</p>
+<p style="margin-top:0px; margin-bottom:10px; line-height:1.35; font-size:16px;">d. &nbsp; Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</p>
+		</td>
+			</tr>
+	</table>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+
+##### This is a test table.
+
+<table>
+	<thead>
+		<tr>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:150px;">Vaccination Status</th>
+			<th  style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;">Definition</th>
+		</tr>
+	</thead>
+<tbody>
+	<tr>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+<td style="font-size:16px; border-right: 2px solid #E0E0E0;  padding:0px;"><table>
+	<tr>
+		<td style="font-size:16px; line-height:1.35;"><p style="margin-top:0px; margin-bottom:0px; line-height:1.35; font-size:16px;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:</p></td>
+		</tr>
+		<tr>
+		<td style="font-size:16px; line-height:1.35; ">a. &nbsp; One dose of Janssen/J&J vaccine; OR</td>
+		</tr>
+				<tr>
+		<td style="font-size:16px; line-height:1.35;">b. &nbsp; Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</td>
+		</tr>
+			<tr>
+		<td style="font-size:16px; line-height:1.35;">c. &nbsp; Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</td>
+		</tr>
+				<tr>
+		<td style="font-size:16px; line-height:1.35;">d. &nbsp; Two doses of Sinovac vaccine, administered 13 days apart; OR</td>
+		</tr>
+							<tr>
+		<td style="font-size:16px; line-height:1.35;">e. &nbsp; Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</td>
+		</tr>
+							<tr>
+		<td style="font-size:16px; line-height:1.35;">f. &nbsp; Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</td>
+		</tr>
+							<tr>
+		<td style="font-size:16px; line-height:1.35;">g. &nbsp; At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</td>
+		</tr>
+	</table>
+		</td>
+	</tr>
+	<tr>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0;">Non-Fully Vaccinated<br><i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+		<td style="font-size:16px; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0;  padding:0px;"><table>
+	<tr>
+		<td style="font-size:16px; line-height:1.35;"><p style="margin-top:0px; margin-bottom:0px; line-height:1.35; font-size:16px;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:</p></td>
+		</tr>
+		<tr>
+		<td style="line-height:1.35; font-size:16px;">a. &nbsp; Only vaccinated with COVID-19 vaccines not listed above; OR</td>
+		</tr>
+				<tr>
+		<td style="line-height:1.35; font-size:16px;">b. &nbsp; Did not complete the minimum dosage of the vaccines mentioned above; OR</td>
+		</tr>
+						<tr>
+		<td style="line-height:1.35; font-size:16px;">c. &nbsp; Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</td>
+		</tr>
+				<tr>
+		<td style="line-height:1.35; font-size:16px;">d. &nbsp; Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</td>
+		</tr>
+	</table>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+
+
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 <table>
@@ -226,13 +578,13 @@ Click here to return to the <a href="#top">top</a>.
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size: 16px;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:</p>
 <ol style="list-style-type: lower-latin; line-height:1.35;">
-				<li style="padding-left:20px; line-height:1.35; font-size:16px;">One dose of Janssen/J&J vaccine; OR</li>
-				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</li>
-				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</li>
-				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Two doses of Sinovac vaccine, administered 13 days apart; OR</li>
-				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</li>
-				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</li>
-				<li style="padding-left:20px; line-height:1.35; font-size:16px;">At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</li>
+				<li style="padding-left:15px; line-height:1.35; font-size:16px;">One dose of Janssen/J&J vaccine; OR</li>
+				<li style=" padding-left:15px;line-height:1.35; font-size:16px;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</li>
+				<li style=" padding-left:15px;line-height:1.35; font-size:16px;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</li>
+				<li style="padding-left:15px;line-height:1.35; font-size:16px;">Two doses of Sinovac vaccine, administered 13 days apart; OR</li>
+				<li style="padding-left:15px;line-height:1.35; font-size:16px;">Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</li>
+				<li style=" padding-left:15px;line-height:1.35; font-size:16px;">Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</li>
+				<li style="padding-left:15px; line-height:1.35; font-size:16px;">At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</li>
 </ol>
 </td>
 		</tr>
@@ -241,10 +593,10 @@ Click here to return to the <a href="#top">top</a>.
 <i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
 			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size:16px;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:</p>
 <ol style="list-style-type: lower-latin; line-height:1.35;">
-				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Only vaccinated with COVID-19 vaccines not listed above; OR</li>
-				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Did not complete the minimum dosage of the vaccines mentioned above; OR</li>
-				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</li>
-				<li style="padding-left:20px; line-height:1.35; font-size:16px;">Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</li>
+				<li style=" padding-left:15px;line-height:1.35; font-size:16px;">Only vaccinated with COVID-19 vaccines not listed above; OR</li>
+				<li style=" padding-left:15px;line-height:1.35; font-size:16px;">Did not complete the minimum dosage of the vaccines mentioned above; OR</li>
+				<li style=" padding-left:15px;line-height:1.35; font-size:16px;">Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</li>
+				<li style=" padding-left:15px;line-height:1.35; font-size:16px;">Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</li>
 </ol>
 </td>
 		</tr>
