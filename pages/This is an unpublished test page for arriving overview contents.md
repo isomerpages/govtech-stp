@@ -214,7 +214,120 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">For the purpose of entry into Singapore, all travellers aged 13 and above are considered “fully vaccinated” or “non-fully vaccinated” based on the definitions below:</p>
 
+##### This is the final test table.
 
+<table style="width: 85%;">
+	<thead>
+		<tr>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:150px;">Vaccination Status</th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;">Definition</th>
+		</tr>
+	</thead>
+<tbody>
+	<tr>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+<td style="font-size:16px; border-right: 2px solid #E0E0E0; padding: 0px;">
+<html>
+<head>
+<style>
+
+.horizontal-scroll{
+	overflow:visible;
+ }
+.content table td, .content table th{
+	    border: 0px solid #d6d6d6;
+	}
+	</style>
+	</head>
+	<body>
+<table>
+  <tbody>
+		<tr>
+		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:
+			</td>
+		</tr>
+ <tr>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">a.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px;  text-align:left;">One dose of Janssen/J&J vaccine; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">b.</td>
+ <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left; padding-left: 0px;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">c.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">d.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Two doses of Sinovac vaccine, administered 13 days apart; OR</td>
+	  </tr>
+		<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">e.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</td>
+	  </tr>
+		<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">f.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</td>
+	  </tr>
+		<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">g.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</td>
+	  </tr>
+	  </tbody>
+			</table>
+	</body>
+			</html>
+		</td>
+	</tr>
+	<tr>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-top: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0;">Non-Fully Vaccinated<br><i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+		<td style="font-size:16px; border-top: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0; padding:0px;">
+<html>
+<head>
+<style>
+
+.horizontal-scroll{
+	overflow:visible;
+ }
+.content table td, .content table th{
+	    border: 0px solid #d6d6d6;
+	}
+	</style>
+	</head>
+	<body>
+<table>
+  <tbody>
+		<tr>
+		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:
+			</td>
+		</tr>
+ <tr>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">a.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Only vaccinated with COVID-19 vaccines not listed above; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; padding-right:0px; text-align:left;">b.</td>
+ <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Did not complete the minimum dosage of the vaccines mentioned above; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">c.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</td>
+	  </tr>
+<tr>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">d.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left; padding-left: 0px;">Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</td>
+	  </tr>
+	  </tbody>
+			</table>
+	</body>
+			</html>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+	
+	
 ##### This is yet another test table*.
 
 <table>
