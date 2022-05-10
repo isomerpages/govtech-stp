@@ -329,7 +329,7 @@ Click here to return to the <a href="#top">top</a>.
 
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
-<table>
+<table style="width:90%;">
 	<thead>
 		<tr>
 		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>Vaccination Status</b></th>
