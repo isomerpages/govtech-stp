@@ -224,7 +224,6 @@ Click here to return to the <a href="#top">top</a>.
 	<tr>
 		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
 <td style="font-size:16px; border-right: 2px solid #E0E0E0;"><table>
-		<tbody>
 	<tr>
 		<td style="font-size:16px; line-height:1.35;"><p style="margin-top:0px; margin-bottom:0px; line-height:1.35; font-size:16px;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:</p></td>
 		</tr>
@@ -275,11 +274,6 @@ Click here to return to the <a href="#top">top</a>.
 	</tr>
 	</tbody>
 	</table>
-
-
-
-
-
 
 
 
