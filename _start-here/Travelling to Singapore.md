@@ -215,7 +215,7 @@ Click here to return to the <a href="#top">top</a>.
 
 ##### This is a test table.
 
-<table style="width: 85%;">
+<table style="width: 80%;">
 	<thead>
 		<tr>
 			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:150px;">Vaccination Status</th>
