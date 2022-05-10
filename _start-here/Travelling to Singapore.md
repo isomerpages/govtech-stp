@@ -240,8 +240,8 @@ Click here to return to the <a href="#top">top</a>.
 		</td>
 	</tr>
 	<tr>
-		<td style="padding-top: 20px; font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0;">Non-Fully Vaccinated<br><i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
-		<td style="font-size:16px; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0; padding:0px;">
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-top: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0;">Non-Fully Vaccinated<br><i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+		<td style="font-size:16px; border-top: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0; padding:0px;">
 <html>
 <head>
 <style>
@@ -271,7 +271,7 @@ Click here to return to the <a href="#top">top</a>.
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;padding-left:20px; text-align:left;">d.</td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">d.</td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</td>
 	  </tr>
 	  </tbody>
