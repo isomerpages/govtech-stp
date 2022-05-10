@@ -213,7 +213,7 @@ Click here to return to the <a href="#top">top</a>.
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">For the purpose of entry into Singapore, all travellers aged 13 and above are considered “fully vaccinated” or “non-fully vaccinated” based on the definitions below:</p>
 
 
-##### This is yet another test table.
+##### This is a test table.
 
 <table style="width: 85%;">
 	<thead>
