@@ -213,6 +213,76 @@ Click here to return to the <a href="#top">top</a>.
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">For the purpose of entry into Singapore, all travellers aged 13 and above are considered “fully vaccinated” or “non-fully vaccinated” based on the definitions below:</p>
 
 
+<table>
+	<thead>
+		<tr>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;">Vaccination Status</th>
+			<th  style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;">Definition</th>
+		</tr>
+	</thead>
+<tbody>
+	<tr>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+<td style="font-size:16px; border-right: 2px solid #E0E0E0;"><table>
+		<tbody>
+	<tr>
+		<td style="font-size:16px; line-height:1.35;"><p style="margin-top:0px; margin-bottom:0px; line-height:1.35; font-size:16px;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:</p></td>
+		</tr>
+		<tr>
+		<td style="font-size:16px; line-height:1.35; ">a. &nbsp; One dose of Janssen/J&J vaccine; OR</td>
+		</tr>
+				<tr>
+		<td style="font-size:16px; line-height:1.35;">b. &nbsp; Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</td>
+		</tr>
+			<tr>
+		<td style="font-size:16px; line-height:1.35;">c. &nbsp; Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</td>
+		</tr>
+				<tr>
+		<td style="font-size:16px; line-height:1.35;">d. &nbsp; Two doses of Sinovac vaccine, administered 13 days apart; OR</td>
+		</tr>
+							<tr>
+		<td style="font-size:16px; line-height:1.35;">e. &nbsp; Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</td>
+		</tr>
+							<tr>
+		<td style="font-size:16px; line-height:1.35;">f. &nbsp; Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</td>
+		</tr>
+							<tr>
+		<td style="font-size:16px; line-height:1.35;">g. &nbsp; At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</td>
+		</tr>
+	</table>
+		</td>
+	</tr>
+	<tr>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0;">Non-Fully Vaccinated<br><i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+		<td style="font-size:16px; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0;"><table>
+	<tr>
+		<td style="font-size:16px; line-height:1.35;"><p style="margin-top:0px; margin-bottom:0px; line-height:1.35; font-size:16px;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:</p></td>
+		</tr>
+		<tr>
+		<td style="line-height:1.35; font-size:16px;">a. &nbsp; Only vaccinated with COVID-19 vaccines not listed above; OR</td>
+		</tr>
+				<tr>
+		<td style="line-height:1.35; font-size:16px;">b. &nbsp; Did not complete the minimum dosage of the vaccines mentioned above; OR</td>
+		</tr>
+						<tr>
+		<td style="line-height:1.35; font-size:16px;">c. &nbsp; Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</td>
+		</tr>
+				<tr>
+		<td style="line-height:1.35; font-size:16px;">d. &nbsp; Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</td>
+		</tr>
+	</table>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+
+
+
+
+
+
+
+
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 <table>
 	<thead>
