@@ -215,17 +215,17 @@ Click here to return to the <a href="#top">top</a>.
 
 ##### This is yet another test table.
 
-<table>
+<table style="width: 90%;">
 	<thead>
 		<tr>
-			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:100px;">Vaccination Status</th>
-			<th  style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;">Definition</th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:150px;">Vaccination Status</th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;">Definition</th>
 		</tr>
 	</thead>
 <tbody>
 	<tr>
 		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
-<td style="font-size:16px; border-right: 2px solid #E0E0E0; padding:0px;">
+<td style="font-size:16px; border-right: 2px solid #E0E0E0; padding: 0px;">
 <html>
 <head>
 <style>
