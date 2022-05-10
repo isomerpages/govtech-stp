@@ -215,7 +215,7 @@ Click here to return to the <a href="#top">top</a>.
 
 ##### This is yet another test table*.
 
-<table style="width: 80%;">
+<table>
 	<thead>
 		<tr>
 			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:110px;">Vaccination Status</th>
@@ -239,7 +239,7 @@ Click here to return to the <a href="#top">top</a>.
 	</style>
 	</head>
 	<body>
-<table style="width:90%;">
+<table style="width:85%;">
   <tbody>
 		<tr>
 		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:
