@@ -246,32 +246,32 @@ Click here to return to the <a href="#top">top</a>.
 			</td>
 		</tr>
  <tr>
-	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; padding-right:0px; text-align:left;">a.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">One dose of Janssen/J&J vaccine; OR</td>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">a.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px;  text-align:left;">One dose of Janssen/J&J vaccine; OR</td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; padding-right:0px; text-align:left;">b.</td>
- <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">b.</td>
+ <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left; padding-left: 0px;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</td>
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">c.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</td>
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">d.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Two doses of Sinovac vaccine, administered 13 days apart; OR</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Two doses of Sinovac vaccine, administered 13 days apart; OR</td>
 	  </tr>
 		<tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">e.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</td>
 	  </tr>
 		<tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">f.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</td>
 	  </tr>
 		<tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">g.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</td>
 	  </tr>
 	  </tbody>
 			</table>
@@ -302,20 +302,20 @@ Click here to return to the <a href="#top">top</a>.
 			</td>
 		</tr>
  <tr>
-	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; padding-right:0px; text-align:left;">a.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Only vaccinated with COVID-19 vaccines not listed above; OR</td>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">a.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Only vaccinated with COVID-19 vaccines not listed above; OR</td>
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; padding-right:0px; text-align:left;">b.</td>
- <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Did not complete the minimum dosage of the vaccines mentioned above; OR</td>
+ <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Did not complete the minimum dosage of the vaccines mentioned above; OR</td>
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">c.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Recovered from COVID-19 but did not complete the minimum dosage of the vaccines mentioned above; OR</td>
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:20px; text-align:left;">d.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left;">Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left; padding-left: 0px;">Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</td>
 	  </tr>
 	  </tbody>
 			</table>
