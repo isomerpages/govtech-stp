@@ -61,7 +61,7 @@ permalink: /contact-us
 		<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"> For checks on status of applications/submissions via the SafeTravel Portal (<a href="https://eservices.ica.gov.sg/STO" target="_blank">https://eservices.ica.gov.sg/STO</a>) for the following eServices only:</p>
 			 <ol style="list-style-type:disc; margin-top: 0px;">
 				 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Vaccination Check Portal</li>
-				  <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Non-fully Vaccinated Travellers Entry Application portal (Familial Ties)</li>
+				  <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Non-fully Vaccinated Travellers Entry Application Portal (Familial Ties)</li>
 				  <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Periodic Commuting Arrangement</li>
 				  <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Reciprocal Green Lane</li>
 			 </ol>
