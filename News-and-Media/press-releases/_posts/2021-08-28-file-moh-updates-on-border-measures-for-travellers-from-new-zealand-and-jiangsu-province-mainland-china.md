@@ -1,7 +1,0 @@
----
-title: MOH- UPDATES ON BORDER MEASURES FOR TRAVELLERS FROM NEW ZEALAND AND
-  JIANGSU PROVINCE, MAINLAND CHINA
-date: 2021-08-28
-file_url: /files/MOH_NZ_JS.pdf
-published: false
----

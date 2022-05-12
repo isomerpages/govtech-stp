@@ -1,7 +1,0 @@
----
-title: MOH- UPDATES ON BORDER MEASURES FOR TRAVELLERS FROM AUSTRALIA AND
-  GUANGDONG PROVINCE, MAINLAND CHINA
-date: 2021-06-30
-file_url: /files/MOH_Updates%20On%20Border%20Measures_30%20Jun%202021.pdf
-published: false
----
