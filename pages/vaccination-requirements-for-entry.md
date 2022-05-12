@@ -67,7 +67,6 @@ permalink: /stpl/vaccination-requirements
 				<ul style="margin-top:0px; list-style-type: lower-roman;">
 		  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Name (as stated on the passport)</li>
 						  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">At least 1 other personal identifier, e.g. date of birth or passport number</li>
-						  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Country of vaccination</li>
 									  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Name of vaccine used (if more than 1 dose, the name of each vaccine administered)</li>
 									  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Vaccination date(s) (if more than 1 dose, the dates each dose was administered)</li>
 				</ul>
