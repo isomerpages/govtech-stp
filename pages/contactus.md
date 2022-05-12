@@ -58,7 +58,7 @@ permalink: /contact-us
 	 <tr>
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;  line-height:1.35; "><b><a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">Application Status Check Portal (Click Here)</a></b></td>
 		 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;  line-height:1.35; ">
-		<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"> For checks on status of applications/submissions via the SafeTravel Portal for the following eServices only:</p>
+		<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"> For checks on status of applications/submissions via the <a href="https://eservices.ica.gov.sg/STO" target="_blank">SafeTravel Portal</a> for the following eServices only:</p>
 			 <ol style="list-style-type:disc; margin-top: 0px;">
 				 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Vaccination Check Portal</li>
 				  <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Non-fully Vaccinated Travellers Entry Application Portal (Familial Ties)</li>
