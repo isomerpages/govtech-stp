@@ -11,7 +11,7 @@ permalink: /contact-us
 <p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">ICA does not request for payments in any form over the phone, or solicit for personal and credit card details. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
 </div>-->
 
-<p style="line-height:1.5;">Before contacting us for assistance, please ensure you have already referred to the latest travel information and processes on the following pages that may be relevant to you: <a href="/arriving/overview" target="_blank">Entries into Singapore</a>, <a href="/transit/overview" target="_blank">Transits (without clearing immigration) through Singapore</a>, or <a href="/departing/overview" target="_blank">Departures from Singapore</a>. </p>
+<p style="line-height:1.5;">Before contacting us for assistance, please ensure you have already referred to the latest travel information and processes on the following pages that may be relevant to you: <a href="/arriving/overview" target="_blank">Entries into Singapore</a>, <a href="/transit/overview" target="_blank">Transits through Singapore</a>, or <a href="/departing/overview" target="_blank">Departures from Singapore</a>. </p>
 
 <p style="line-height:1.5; margin-top:15px; margin-bottom:15px">For queries that are not covered in this website or <a href="/faq" target="_blank">FAQ</a>, refer to table below for assistance:</p>
 
