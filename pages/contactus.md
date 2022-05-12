@@ -65,7 +65,7 @@ permalink: /contact-us
 				  <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Periodic Commuting Arrangement</li>
 				  <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Reciprocal Green Lane</li>
 			 </ol>
-			 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">[<i><b style="color:red;"><u>Note:</u></b> Travellers who had applied to the Ministry of Education (MOE) or Ministry of Manpower (MOM) or other government agencies for entry approvals should seek assistance directly from those agencies instead.</i>]</p>
+			 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i><b style="color:red;"><u>Note:</u></b> Travellers who had applied to the Ministry of Education (MOE) or Ministry of Manpower (MOM) or other government agencies for entry approvals should seek assistance directly from those agencies instead.</i></p>
 		 </td>
 	</tr>
 	</tbody>
