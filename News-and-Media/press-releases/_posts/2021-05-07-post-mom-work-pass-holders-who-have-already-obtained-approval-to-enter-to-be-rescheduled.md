@@ -4,6 +4,7 @@ title: MOM - WORK PASS HOLDERS WHO HAVE ALREADY OBTAINED APPROVAL TO ENTER TO BE
 date: 2021-05-07
 permalink: /press-releases/wphl-rescheduled
 layout: post
+published: false
 ---
 
 In view of the resurgence of COVID-19 cases in several countries and emergence of new virus variants, the Government is reducing entry approvals for work pass holders1 entering Singapore in the coming weeks.  
