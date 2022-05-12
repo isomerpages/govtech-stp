@@ -34,7 +34,7 @@ permalink: /contact-us
 <tbody>
 	   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>SafeTravel Enquiry Helpline:</b>
-		<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Call: <b>+65 6812 5555*</b></p> 
+		<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Call: <b>+65 68125555*</b></p> 
 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i>* Regular call charges apply</i></p></td>
 		      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><ol style="list-style-type:disc; margin-top: 0px; ">
 <li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">COVID-19 Test Scheduling Issues</li>
