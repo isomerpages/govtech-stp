@@ -2,7 +2,6 @@
 title: Vaccinated Travel Applications for Travel Between Singapore and Malaysia
   to Start from 22 Nov 2021
 date: 2021-11-18
-permalink: /News-and-Media/press-releases/vtl-app-SG-and-MYS
 layout: post
 ---
 <a href="https://www.caas.gov.sg/who-we-are/newsroom/Detail/vaccinated-travel-applications-for-travel-between-singapore-and-malaysia-to-start-from-22-november-2021/"><b style="font-size:25px;">Click here for the actual Press Release</b></a> 
