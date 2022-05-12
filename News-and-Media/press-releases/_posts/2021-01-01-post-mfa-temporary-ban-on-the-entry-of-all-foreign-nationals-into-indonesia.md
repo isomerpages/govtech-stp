@@ -3,6 +3,7 @@ title: MFA - TEMPORARY BAN ON THE ENTRY OF ALL FOREIGN NATIONALS INTO INDONESIA
 date: 2021-01-01
 permalink: /press-releases/rgl-indon-suspension
 layout: post
+published: false
 ---
 
 
