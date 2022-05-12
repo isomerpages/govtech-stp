@@ -4,6 +4,7 @@ permalink: /News-and-Media/press-releases/Suspension-of-COVID-19-Vaccination-Cha
 date: 2022-03-21
 layout: post
 description: ""
+published: false
 ---
 **The original press statement can be found on the [MFA](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/03/20220321-Suspension-of-COVID-19-Vaccination-Channels-for-Overseas-Singaporeans) website.**
 
