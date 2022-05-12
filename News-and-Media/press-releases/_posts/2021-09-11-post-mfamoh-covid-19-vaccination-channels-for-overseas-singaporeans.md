@@ -3,6 +3,7 @@ title: MFA/MOH - COVID-19 Vaccination Channels for Overseas Singaporeans
 date: 2021-09-11
 permalink: /press-releases/vaccination-channels
 layout: post
+published: false
 ---
 **The original press statement can be found on the [MFA](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/09/20210911-COVID-19-Vaccination-Channels-for-Overseas-Singaporeans) and [MOH](https://www.moh.gov.sg/news-highlights/details/covid-19-vaccination-channels-for-overseas-singaporeans_11Sep2021) website.**
 
