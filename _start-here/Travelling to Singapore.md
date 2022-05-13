@@ -419,11 +419,12 @@ Click here to return to the <a href="#top">top</a>.
 			<!--<p style="margin-top:20px; line-height:1.35;font-size:16px;">Detailed requirements available in the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully Vaccinated Traveller’s checklist</a></p>-->
 			</td>
 		</tr>
-	</tbody>
-	</table>
+</tbody>
+</table>
 
 
 <p style="margin-top:20px; line-height:1.35;">If your 7-day travel history includes at least one Restricted Category country, you will be subject to the following border measures.</p>
+
 
 <table>
 	<thead>
@@ -447,8 +448,8 @@ Click here to return to the <a href="#top">top</a>.
 				</ol>
 			</td>
 		</tr>
-	</tbody>
-	</table>
+</tbody>
+</table>
 
 
 ---
