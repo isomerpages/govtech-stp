@@ -20,17 +20,17 @@ margin-left:80px;
 		<body>
 <div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red; width:120.1%; ">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use</u>:</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This checklist is for <b>all travellers, including Singapore Citizens or Permanent Residents, entering Singapore from any country/region via air, land, or sea</b>, who are:</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This checklist is for <b>all travellers, including Singapore Citizens or Permanent Residents, entering Singapore from any country/region via air, land, or sea</b>, and are:</p>
 		<ol style="padding-left:25px; list-style-type:disc;">
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Fully vaccinated with WHO EUL COVID-19 vaccines;* <u>OR</u></li>
-			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Born in or after 2010 (i.e. aged 12 and below by year of birth), regardless of vaccination status</li>
+			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Born in or <b>after</b> 2010 (i.e. aged 12 and below by year of birth), regardless of vaccination status</li>
 	</ol>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">If you do not meet the above criteria, refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">checklist for travellers who are non-fully vaccinated</a>. Travellers transiting in Singapore to another destination without clearing immigration should refer to the<a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. </p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">If you do not meet the above criteria, refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">checklist for non-fully vaccinated travellers</a>. Travellers transiting in Singapore to another destination without clearing immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. </p>
 	 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
 			<!--<p style="font-size:18px; margin-top:10px; margin-bottom:10px;line-height:1.3;">Readers referencing this checklist can indicate “☑” in the boxes (&#9634;) for any completed activities.</p>-->
 	</div>
 	
-<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:120.1%;">For a smooth travel experience, read each step below carefully. Please note that <b>you are no longer required to take any COVID-19 tests to enter Singapore.</b> </p>
+<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:120.1%;">For a smooth travel experience, read each step below carefully. Please note that <b>you are no longer required to take any COVID-19 tests before departure for Singapore.</b> </p>
 			
 <html>
 <head>
@@ -116,7 +116,7 @@ margin-left:80px;
 
 <div id="1A" style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%; ">&#9634;&nbsp;<b>Step 1: Prepare Proof of Vaccination</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you are born in or before 2009 (i..e aged 13 and above by year of birth) ensure that you have the necessary proof of COVID-19 vaccination for pre-boarding and immigration checks.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you are born in or <b>before</b> 2009 (i.e. aged 13 and above by year of birth) ensure that you have the necessary proof of COVID-19 vaccination for pre-boarding and immigration checks.</p>
 <p style=" font-size:18px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click “+” to expand for details)</p>
 
 <html>
@@ -187,7 +187,7 @@ input:checked + label + .content {
 </p>
 	<ol style="padding-left:25px; list-style-type:lower-latin;">
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Obtaining a vaccination acceptance letter using the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a>; OR</li>
-			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Showing your MOH hardcopy vaccination certificate</li>
+			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Showing your MOH-issued hardcopy vaccination certificate</li>
 	</ol>	
 </div>
 <input id="vaxoverseas" type="checkbox">
@@ -215,7 +215,7 @@ input:checked + label + .content {
   
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%;">&#9634;&nbsp; <b>Step 2:  Obtain additional entry documents (if required)</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">The following types of travellers must prepare the additional documents below if necessary, for pre-boarding and immigration clearance. Visitors must also ensure that your passport is valid for <b>at least 6 months</b>.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>The following types of travellers must prepare</b> the additional documents below if necessary, for pre-boarding and immigration clearance. Visitors must also ensure that your passport is <b>valid for at least 6 months</b>.</p>
 <p style=" font-size:18px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
 	
 	
@@ -284,11 +284,6 @@ input:checked + label + .content {
 <label style="background-color:#CEDEED; color:#182657;" for="STV"><b>Visitors/tourists without a Singapore Long-Term Pass</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"> <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions.</p>
-</div>
-<input id="YF" type="checkbox">
-<label style="background-color:#CEDEED; color:#182657;" for="YF"><b>Travelled to countries/regions in Africa and Latin America with Yellow Fever Risk</b></label>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>, if not you will be subjected to 6 days quarantine on arrival</p>
 </div>
 <input id="Foreign-vehicle" type="checkbox">
 <label style="background-color:#CEDEED; color:#182657;" for="Foreign-vehicle"><b>Drivers of Foreign-Registered Vehicles Entering by Land </b></label>
