@@ -23,7 +23,7 @@ margin-left:80px;
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This checklist is for <b>all travellers, including Singapore Citizens or Permanent Residents, entering Singapore from any country/region via air, land, or sea</b>, who are:</p>
 		<ol style="padding-left:25px; list-style-type:disc;">
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Fully vaccinated with WHO EUL COVID-19 vaccines;* <u>OR</u></li>
-			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Aged 12 and below (i.e. born in or after 2010, regardless of their vaccination status)</li>
+			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Born in or after 2010 (i.e. aged 12 and below by year of birth), regardless of vaccination status</li>
 	</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">If you do not meet the above criteria, refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">checklist for travellers who are non-fully vaccinated</a>. Travellers transiting in Singapore to another destination without clearing immigration should refer to the<a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. </p>
 	 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
@@ -49,7 +49,7 @@ margin-left:80px;
   <tbody>
  <tr>
 	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; width:85px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 1</b></td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step1">Proof of COVID-19 vaccination</a></td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:left;"><a href="#step1">Prepare proof of vaccination</a></td>
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 2</b></td>
@@ -114,9 +114,9 @@ margin-left:80px;
 
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"></p>
 
-<div id="1A" style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%; ">&#9634;&nbsp;<b>Step 1: Proof of COVID-19 Vaccination</b></div>
+<div id="1A" style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%; ">&#9634;&nbsp;<b>Step 1: Prepare Proof of Vaccination</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you are aged 13 and above, ensure that you have the necessary proof of vaccination for pre-boarding and immigration checks:</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you are born in or before 2009 (i..e aged 13 and above by year of birth) ensure that you have the necessary proof of COVID-19 vaccination for pre-boarding and immigration checks.</p>
 <p style=" font-size:18px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click “+” to expand for details)</p>
 
 <html>
@@ -181,7 +181,7 @@ input:checked + label + .content {
 	
 <body>	
 <input id="vaxSG" type="checkbox">
-<label style="background-color:#CEDEED; color:#182657;" for="vaxSG"><b>I am Vaccinated in Singapore</b></label>
+<label style="background-color:#CEDEED; color:#182657;" for="vaxSG"><b>I took my COVID-19 vaccination in Singapore</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Your vaccination status can be retrieved from the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and/or <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> mobile applications. If you are unable to retrieve your vaccination status via these applications, you can prove your vaccination status by:
 </p>
@@ -191,7 +191,7 @@ input:checked + label + .content {
 	</ol>	
 </div>
 <input id="vaxoverseas" type="checkbox">
-<label style="background-color:#CEDEED; color:#182657;" for="vaxoverseas"><b>I am Vaccinated outside Singapore</b></label>
+<label style="background-color:#CEDEED; color:#182657;" for="vaxoverseas"><b>I took my COVID-19 vaccination outside Singapore</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;"><b>If you hold a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally Verifiable Vaccination Certificate (DVC) issued by the countries/regions listed in this document</a></b>, you can verify your DVC using the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a>. Travellers whose DVC was successfully verified using VCP can use their vaccination acceptance letter for smoother boarding and immigration checks – please note that VCP is <b>not</b> a mandatory entry requirement.
 </p>
@@ -203,6 +203,7 @@ input:checked + label + .content {
 		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Vaccination date(s)</li>
 	</ol>
 </p>
+	<p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;">All travellers who have travel history to countries/regions in Africa and Latin America with Yellow Fever Risk are also required to obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>, if not they will be turned away from Singapore or subject to up to 6 days quarantine on arrival.</p>
 </div>
 </body>
 	</html>
@@ -351,6 +352,7 @@ input:checked + label + .content {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%;">&#9634;&nbsp;<b>Step 4:  Immigration Clearance in Singapore</b></div>
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
+	<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">All travellers are encouraged to use the automated clearance gates if they are eligible.</p>
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">For foreign visitors, an <a href="https://www.ica.gov.sg/public-education/roll-out-of-e-pass-to-all-checkpoints-and-launch-of-ica's-e-pass-enquiry-portal" target="_blank">e-Pass (i.e. Visit Pass)</a> stating the period of stay granted will be issued via the email address indicated in SGAC. Passports will no longer be stamped.</p>
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you are symptomatic on arrival, you may be directed to take a COVID-19 test or other requirements as instructed by officers. Each Antigen Rapid Test (ART) administered will cost S$30, while each COVID-19 Polymerase Chain Reaction Test (PCR Test) will cost S$138.</p>
 </div>
