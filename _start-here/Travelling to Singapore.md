@@ -13,7 +13,7 @@ third_nav_title: Travelling to Singapore
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size:20px;">On this page, you will find the following information on travel to Singapore:</p>
  <ol style="line-height:1.35;">
 	<li style=" padding-left:20px; line-height:1.35; font-size:20px; margin-bottom:15px;"><a href="#checklist">Entry Criteria and Travel Checklists</a></li>
-		<li style=" padding-left:20px;line-height:1.35; font-size:20px;"><a href="#vaccination">Accepted COVID-19 vaccinations for entry to Singapore</a></li>
+		<li style=" padding-left:20px;line-height:1.35; font-size:20px;"><a href="#vaccination">Accepted COVID-19 Vaccinations for Entry to Singapore</a></li>
 	</ol>
 
 <!--<div id="selfhelptool"></div>
@@ -40,7 +40,7 @@ Click here to return to the <a href="#top">top</a>.
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35; font-size:20px;">Under Singapore’s Vaccinated Travel Framework, <b>all travellers</b> including Singapore Citizens and Permanent Residents <b>arriving from all countries/regions can enter Singapore without quarantine, testing or entry approvals if they meet the following requirements:</b></p>
   <ol style="line-height:1.35;">
 	  <li style="line-height:1.35; font-size:20px; margin-bottom:15px;"><b>Be a child born in or after 2010 (i.e. aged 12 and below by year of birth)</b> – children who meet this age criteria can enter regardless of COVID-19 vaccination status</li>
-	   <li style="line-height:1.35; font-size:20px;margin-bottom:15px; "><b>Be fully vaccinated with WHO EUL vaccines if born in or before 2009 (i.e. aged 13 and above by year of birth)</b> – “Fully vaccinated” means at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and vaccination with recovery is also acceptable. For full definition, see <a href="/arriving/overview#vaccination" target="_blank">Accepted COVID-19 vaccinations for entry to Singapore</a>.</li>
+	   <li style="line-height:1.35; font-size:20px;margin-bottom:15px; "><b>Be fully vaccinated with WHO EUL vaccines if born in or before 2009 (i.e. aged 13 and above by year of birth)</b> – “Fully vaccinated” means at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and vaccination with recovery is also acceptable. For full definition, see <a href="/arriving/overview#vaccination" target="_blank">Accepted COVID-19 Vaccinations for Entry to Singapore</a>.</li>
 	   <li style="line-height:1.35; font-size:20px; margin-bottom:10px;"><b>Be vaccinated against yellow fever if you have visited Yellow Fever high risk countries in Africa and Latin America</b> - a valid <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever vaccination certificate</a> is required.</li>
 	  </ol>
 
