@@ -543,7 +543,7 @@ input:checked + label + .content {
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad; border-right:2px solid #adadad; border-bottom:2px solid #adadad;font-size:18px; width:120.1%;">
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Complete the full vaccination regimen <b>within two months of arrival</b> if you are:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
-    <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Born in or before 2009 (i.e. aged 13 and above by year of birth) ;  AND</li>
+    <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Born in or before 2009 (i.e. aged 13 and above by year of birth);  AND</li>
     <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Hold a Long-term Pass, e.g. Student’s Pass, Work Pass.</li>
     </ol>
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">By completing the requisite vaccination regimen, you will be eligible for the renewal or extension of your long-term pass. If you suffer from a medical condition that disallows you from being vaccinated against COVID-19, obtain medical certification within 30 days of your arrival in Singapore to prove your ineligibility for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</p>
