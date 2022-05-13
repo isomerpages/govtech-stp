@@ -88,11 +88,14 @@ Click here to return to the <a href="#top">top</a>.
   <ol style="list-style-type: disc; line-height:1.35; width:auto;">
 	<li style="line-height:1.35; font-size:18px;margin-bottom:15px; ">Are medically exempted from COVID-19 vaccination</li>
 	<li style="line-height:1.35; font-size:18px;margin-bottom:15px; ">Took non-WHO EUL vaccines and/or did not complete the full dosage of WHO EUL COVID-19 vaccines</li>
-	<li style="line-height:1.35; font-size:18px;margin-bottom:15px; ">Recovered from COVID-19 but did not complete the minimum dosage of WHO EUL COVID-19 vaccines </li>
+	<li style="line-height:1.35; font-size:18px; ">Recovered from COVID-19 but did not complete the minimum dosage of WHO EUL COVID-19 vaccines </li>
 	  </ol>
 	  
 <p style="font-size:18px; margin-top:0px; margin-bottom:30px; line-height:1.35; "><b>Generally, non-fully vaccinated long term pass holders and short-term visitors are not allowed to enter Singapore unless in exceptional circumstances.</b> Non-fully vaccinated travellers should click the orange button below for a detailed checklist of travel requirements and documents required. </p>
-	  
+
+<p style=" margin-bottom:20px; "></p>
+
+
 <html>
 <head>
 <style>
