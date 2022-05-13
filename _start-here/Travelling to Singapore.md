@@ -398,7 +398,7 @@ Click here to return to the <a href="#top">top</a>.
 		</tr>
 		<tr>
 		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>Fully Vaccinated with WHO EUL COVID-19 Vaccines OR Travellers born in or after 2010 (i.e. age 12 and below by year of birth)</b></th>
-			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Non-fully Vaccinated Traveller born in or before 2009 (i.e. age 13 and above by year of birth)/b></th>
+			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Non-fully Vaccinated Traveller born in or before 2009 (i.e. age 13 and above by year of birth)</b></th>
 		</tr>
 	</thead>
 	<tbody>
