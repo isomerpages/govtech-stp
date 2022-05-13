@@ -11,8 +11,10 @@ third_nav_title: Travelling to Singapore
 <!--- [Automated Self-Help Tool for Entry Requirements](#selfhelptool)-->
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size:18px;">On this page, you will find the following information on travel to Singapore:</p>
-- [Entry Criteria and Travel Checklists](#checklist)
-- [Accepted COVID-19 vaccinations for entry to Singapore](#vaccination)
+ <ol style="line-height:1.35;">
+	<li style="line-height:1.35; font-size:18px; margin-bottom:15px;"><a href="#checklist">Entry Criteria and Travel Checklists</a></li>
+		<li style="line-height:1.35; font-size:18px;"><a href="#vaccination">Accepted COVID-19 vaccinations for entry to Singapore</a></li>
+	</ol>
 
 <!--<div id="selfhelptool"></div>
 
