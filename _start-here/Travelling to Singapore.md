@@ -133,7 +133,11 @@ Click here to return to the <a href="#top">top</a>.
 </body>
 </html>
 
-<hr style="margin-top:40px;">
+---
+
+Click here to return to the <a href="#top">top</a>.
+
+---
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">The tables below summarise the border measures under the Vaccinated Travel Framework. </p>
 
