@@ -145,14 +145,14 @@ Click here to return to the <a href="#top">top</a>.
 ### 2. Accepted COVID-19 Vaccinations for Entry
 
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">Travellers aged 12 and below (i.e. born in 2010 or after) do not need to be vaccinated against COVID-19 for the purpose of entry into Singapore, and will follow the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">border measures for fully vaccinated travellers</a>.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born in or after 2010 (i.e. aged 12 and below by year of birth)</b> will follow the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">border measures for fully vaccinated travellers</a>, regardless of their vaccination status.</p>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">For the purpose of entry into Singapore, all travellers aged 13 and above are considered “fully vaccinated” or “non-fully vaccinated” based on the definitions below:</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born in or before 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on the definitions in the table below, based on WHO’s list of EUL COVID-19 vaccines. Not all vaccines being administered outside Singapore may be under the WHO EUL list.</p>
 
 <table style="width: 90%;">
 	<thead>
 		<tr>
-			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:160px;">Vaccination Status</th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:160px;">Vaccination Status Classifications</th>
 			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center;">Definition</th>
 		</tr>
 	</thead>
@@ -386,9 +386,7 @@ Click here to return to the <a href="#top">top</a>.
 
 ### Annex – Vaccinated Travel Framework
 
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">The tables below summarise the border measures under the Vaccinated Travel Framework. </p>
-
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If your 7-day travel history consists only of countries in the General Travel Category, you will be subject to the following border measures.</p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">An overview of the COVID-19 Vaccinated Travel Framework announced on 1 Apr 2022 can be found below for reference. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane (VTL). If your 7-day travel history consists only of countries in the General Travel Category, you will be subject to the following border measures.</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
@@ -399,8 +397,8 @@ Click here to return to the <a href="#top">top</a>.
 			<th colspan="2" style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center"><b>Summary of Travel Requirements</b></th>
 		</tr>
 		<tr>
-		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>Traveller Fully Vaccinated with WHO EUL COVID-19 Vaccines and Travellers Aged 12 and Below</b></th>
-			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Non-fully Vaccinated Traveller</b></th>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>Fully Vaccinated with WHO EUL COVID-19 Vaccines OR Travellers born in or after 2010 (i.e. age 12 and below by year of birth)</b></th>
+			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Non-fully Vaccinated Traveller born in or before 2009 (i.e. age 13 and above by year of birth)/b></th>
 		</tr>
 	</thead>
 	<tbody>
