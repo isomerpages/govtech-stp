@@ -10,7 +10,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 ## For Suite Bookings Before Arrival
 
-**Step 1:** Travellers who require entry approval to Singapore will need to obtain entry approval before making a suite booking. If you are unsure whether you need entry approval, please check the list of Safe Travel Lanes [here](/arriving/overview).
+**Step 1:** Non-fully vaccinated travellers who require entry approval to Singapore should obtain their entry approval before making a suite booking. For more information on the entry requirements for non-fully vaccinated travellers, please click [here](/arriving/general-travel/non-fully-vaccinated).
 
 **Step 2:** Travellers should contact the SDFs listed under the [Suite Options](#options) section below to directly enquire and book their preferred suite, if available. Travellers should check their eligibility based on their travel history before booking their suite.
 
