@@ -6,18 +6,13 @@ third_nav_title: Travelling to Singapore
 ---
 <div id="top"></div>
 
-<p style="margin-top:10px; margin-bottom:15px; line-height:1.35;">Singapore has implemented a COVID-19 Vaccinated Travel Framework to facilitate the resumption of travel. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane (VTL), <b>and applies to all travellers entering Singapore, including Singapore Citizens/Permanent Residents</b>.</p>
+<p style="margin-top:10px; margin-bottom:15px; line-height:1.35;"><i><b>Note:</b> If you are transiting through Singapore to another destination without clearing immigration, refer to the <a href="/transit/overview" target="_blank">"Transiting through Singapore"</a> page instead. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="/arriving/overview#crew" target="_blank">click here</a> for more instructions.</i></p>
 
 <!--- [Automated Self-Help Tool for Entry Requirements](#selfhelptool)-->
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">On this page, you will find the following information for travelling to Singapore:</p>
-- [Travel Checklists and Entry Requirements](#checklist)
-- [Accepted COVID-19 Vaccinations for Entry to Singapore ](#vaccination)
-
-
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are transiting through Singapore to another destination without clearing immigration, refer to the "<a href="/transit/overview" target="_blank">Transiting through Singapore</a>" page instead.</p>
-
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="#crew">click here</a> for more instructions.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;">On this page, you will find the following information on travel to Singapore:</p>
+- [Entry Criteria and Travel Checklists](#checklist)
+- [Accepted COVID-19 vaccinations for entry to Singapore](#vaccination)
 
 <!--<div id="selfhelptool"></div>
 
@@ -38,19 +33,20 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="checklist"></div>
 
-#### 1. Travel Checklists and Entry Requirements
+#### 1. Entry Criteria and Travel Checklists
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Singapore’s border measures are categorised according to travel history, age, and vaccination status.* <b>Click the relevant button below for a full step-by-step traveller checklist according to your profile.</b></p>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Under Singapore’s Vaccinated Travel Framework, <b>all travellers</b> including Singapore Citizens and Permanent Residents <b>arriving from all countries/regions can enter Singapore without quarantine, testing or entry approvals if they meet the following requirements:</b></p>
+  <ol style="line-height:1.35;">
+	  <li style="line-height:1.35; font-size:20px;"><b>Be a child born in or after 2010 (i.e. aged 12 and below by year of birth)</b> – children who meet this age criteria can enter regardless of COVID-19 vaccination status</li>
+	   <li style="line-height:1.35; font-size:20px; "><b>Be fully vaccinated with WHO EUL vaccines if born in or before 2009 (i.e. aged 13 and above by year of birth)</b> – “Fully vaccinated” means at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and vaccination with recovery is also acceptable. For full definition, see <a href="/arriving/overview#vaccination" target="_blank">acceptable COVID-19 vaccinations for entry to Singapore</a>.</li>
+	   <li style="line-height:1.35; font-size:20px; "><b>Be vaccinated against yellow fever if you have visited Yellow Fever high risk countries in Africa and Latin America</b> - a valid Yellow Fever vaccination certificate is required.</li>
+	  </ol>
 
-<p style="font-size:16px; margin-top:20px; margin-bottom:10px; line-height:1.35;"> <i>*To be considered fully vaccinated, travellers aged 13 and above must have taken at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and recovery from COVID-19 with vaccination, are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to the section on <a href="#vaccination">acceptable COVID-19 vaccinations for entry</a>.</i></p>
+<p style="font-size:16px; margin-top:20px; margin-bottom:10px; line-height:1.35;">If you meet the requirements above, click the green button below for a detailed step-by-step travel checklist. The checklist will explain documentation requirements including proof of vaccination, visas, SG arrival card and other administrative requirements to ensure you have a smooth journey. 
+ </p>
 
 <hr style="margin-top:20px;">
 
-<p style="font-size:20px; margin-top:30px; margin-bottom:0px; line-height:1.35;"> <b>Travellers departing from all countries/regions who are:</b></p>
-  <ul style="list-style-type: disc; line-height:1.35;">
-	  <li style="line-height:1.35; font-size:20px;">Fully Vaccinated with WHO Emergency Use Listing Vaccines; or</li>
-	   <li style="line-height:1.35; font-size:20px; ">Aged 12 and below (i.e. born in or after 2010) regardless of vaccination status </li>
-	  </ul>
 
 <html>
 <head>
