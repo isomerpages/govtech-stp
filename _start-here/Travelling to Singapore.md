@@ -45,7 +45,7 @@ Click here to return to the <a href="#top">top</a>.
 <p style="font-size:18px; margin-top:20px; margin-bottom:10px; line-height:1.35;">If you meet the requirements above, click the green button below for a detailed step-by-step travel checklist. The checklist will explain documentation requirements including proof of vaccination, visas, SG arrival card and other administrative requirements to ensure you have a smooth journey. 
  </p>
 
-<hr style="margin-top:40px;">
+<hr style="margin-bottom:40px; margin-top:20px;">
 
 
 <html>
