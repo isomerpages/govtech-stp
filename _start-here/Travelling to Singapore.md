@@ -6,7 +6,7 @@ third_nav_title: Travelling to Singapore
 ---
 <div id="top"></div>
 
-<p style="margin-top:10px; margin-bottom:15px; line-height:1.35; font-size:20px;"><i><b>Note:</b> If you are transiting through Singapore to another destination without clearing immigration, refer to the <a href="/transit/overview" target="_blank">"Transiting through Singapore"</a> page instead. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="/arriving/overview#crew" target="_blank">click here</a> for more instructions.</i></p>
+<p style="margin-top:0px; margin-bottom:15px; line-height:1.35; font-size:20px;"><i><b>Note:</b> If you are transiting through Singapore to another destination without clearing immigration, refer to the <a href="/transit/overview" target="_blank">"Transiting through Singapore"</a> page instead. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="/arriving/overview#crew" target="_blank">click here</a> for more instructions.</i></p>
 
 <!--- [Automated Self-Help Tool for Entry Requirements](#selfhelptool)-->
 
@@ -93,7 +93,7 @@ Click here to return to the <a href="#top">top</a>.
 	<li style="line-height:1.35; font-size:20px; ">Recovered from COVID-19 but did not complete the minimum dosage of WHO EUL COVID-19 vaccines </li>
 	  </ol>
 	  
-<p style="font-size:20px; margin-top:0px; margin-bottom:30px; line-height:1.35; "><b>Generally, non-fully vaccinated long term pass holders and short-term visitors are not allowed to enter Singapore unless in exceptional circumstances.</b> Non-fully vaccinated travellers should click the orange button below for a detailed checklist of travel requirements and documents required. </p>
+<p style="font-size:20px; margin-top:0px; margin-bottom:30px; line-height:1.35; "><b>Generally, non-fully vaccinated long term pass holders and short-term visitors are not allowed to enter Singapore unless in exceptional circumstances.</b> Non-fully vaccinated travellers should click the orange button below for a detailed checklist of travel requirements. </p>
 
 <p style=" margin-bottom:20px; "></p>
 
@@ -147,7 +147,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born in or after 2010 (i.e. aged 12 and below by year of birth)</b> will follow the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">border measures for fully vaccinated travellers</a>, regardless of their vaccination status.</p>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born in or before 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on the definitions of the WHO’s list of EUL COVID-19 vaccines administered in the table below. Not all vaccines being administered outside Singapore may be under the WHO EUL list.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born in or before 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on the WHO’s list of EUL COVID-19 vaccines in the table below. Not all vaccines being administered outside Singapore may be under the WHO EUL list.</p>
 
 <table style="width: 90%;">
 	<thead>
