@@ -116,7 +116,7 @@ margin-left:80px;
 
 <div id="1A" style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%; ">&#9634;&nbsp;<b>Step 1: Prepare Proof of Vaccination</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you are born in or <b>before</b> 2009 (i.e. aged 13 and above by year of birth) ensure that you have the necessary proof of COVID-19 vaccination for pre-boarding and immigration checks.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>If you are born in or <b>before</b> 2009 (i.e. aged 13 and above by year of birth)</b>, ensure that you have the necessary proof of COVID-19 vaccination for pre-boarding and immigration checks.</p>
 <p style=" font-size:18px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click “+” to expand for details)</p>
 
 <html>
@@ -206,7 +206,7 @@ input:checked + label + .content {
 </div>
 </body>
 	</html>
-<p style=" font-size:18px; margin-top: 20px; margin-bottom:15px; line-height:1.35;">All travellers who have travel history to countries/regions in Africa and Latin America with Yellow Fever Risk are also required to obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>, if not they will be turned away from Singapore or subject to up to 6 days quarantine on arrival.</p>
+<p style=" font-size:18px; margin-top: 20px; margin-bottom:15px; line-height:1.35;"><b>All travellers who have travel history to countries/regions in Africa and Latin America with Yellow Fever Risk</b> are also required to obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>, if not they will be turned away from Singapore or subject to up to 6 days quarantine on arrival.</p>
 	</div>
 	
 <div id="step2"></div>
@@ -215,7 +215,7 @@ input:checked + label + .content {
   
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%;">&#9634;&nbsp; <b>Step 2:  Obtain additional entry documents (if required)</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>The following types of travellers must prepare</b> the additional documents below if necessary, for pre-boarding and immigration clearance. Visitors must also ensure that your passport is <b>valid for at least 6 months</b>.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>The following types of travellers must prepare the additional documents below if necessary</b>, for pre-boarding and immigration clearance. Visitors must also ensure that your passport is <b>valid for at least 6 months</b>.</p>
 <p style=" font-size:18px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
 	
 	
@@ -312,7 +312,7 @@ input:checked + label + .content {
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%;">&#9634;&nbsp;<b>Step 3: Fill SG Arrival Card up to 3 days before arrival </b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Otherwise, complete your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> <b>up to 3 days before your arrival in Singapore</b>. The SG arrival card (SGAC) is a simple and free arrival declaration of your travel and health details. You are exempted from submitting your SGAC if you are a <b> Singapore Citizen, Permanent Resident or Long-Term Pass Holders arriving by Land.</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Otherwise, complete your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> <b>up to 3 days before your arrival in Singapore</b>. The SG arrival card (SGAC) is a simple and free arrival declaration of your travel and health details. You are exempted from submitting your SGAC if you are a <b> Singapore Citizen, Permanent Resident or Long-Term Pass Holder arriving by Land.</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Upon the completion of your SGAC, you will receive an email acknowledgement which you can present for smoother pre-boarding and immigration checks.</p>
 </div>
 
