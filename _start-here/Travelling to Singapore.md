@@ -44,8 +44,7 @@ Click here to return to the <a href="#top">top</a>.
 	   <li style="line-height:1.35; font-size:20px; margin-bottom:10px;"><b>Be vaccinated against Yellow Fever if you have visited Yellow Fever high risk countries/regions in Africa and Latin America</b> - a valid <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever vaccination certificate</a> is required.</li>
 	  </ol>
 
-<p style="font-size:20px; margin-top:20px; margin-bottom:10px; line-height:1.35;">If you meet the requirements above, click the green button below for a detailed step-by-step travel checklist. The checklist will explain documentation requirements including proof of vaccination, visas, SG arrival card and other administrative requirements to ensure you have a smooth journey. 
- </p>
+<p style="font-size:20px; margin-top:20px; margin-bottom:10px; line-height:1.35;">If you meet the requirements above, click the green button below for a detailed step-by-step travel checklist that explains the administrative requirements (e.g. proof of vaccination, SG Arrival Card, etc) for entry </p>
 
 <p style="margin-bottom:20px;"></p>
 
