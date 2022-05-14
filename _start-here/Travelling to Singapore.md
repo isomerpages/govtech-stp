@@ -147,7 +147,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born in or after 2010 (i.e. aged 12 and below by year of birth)</b> will follow the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">border measures for fully vaccinated travellers</a>, regardless of their vaccination status.</p>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born in or before 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on the definitions in the table below, based on WHO’s list of EUL COVID-19 vaccines. Not all vaccines being administered outside Singapore may be under the WHO EUL list.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born in or before 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on the definitions of the WHO’s list of EUL COVID-19 vaccines administered in the table below. Not all vaccines being administered outside Singapore may be under the WHO EUL list.</p>
 
 <table style="width: 90%;">
 	<thead>
