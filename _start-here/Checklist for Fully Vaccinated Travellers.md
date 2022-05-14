@@ -206,7 +206,7 @@ input:checked + label + .content {
 </div>
 </body>
 	</html>
-<p style=" font-size:18px; margin-top: 10px; margin-bottom:15px; line-height:1.35;">All travellers who have travel history to countries/regions in Africa and Latin America with Yellow Fever Risk are also required to obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>, if not they will be turned away from Singapore or subject to up to 6 days quarantine on arrival.</p>
+<p style=" font-size:18px; margin-top: 20px; margin-bottom:15px; line-height:1.35;">All travellers who have travel history to countries/regions in Africa and Latin America with Yellow Fever Risk are also required to obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>, if not they will be turned away from Singapore or subject to up to 6 days quarantine on arrival.</p>
 	</div>
 	
 <div id="step2"></div>
