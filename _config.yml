@@ -53,5 +53,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 resources_name: News-and-Media
-google_analytics: "UA-229160098-1"
+google_analytics: "UA-229139116-1"
 is_government: false
