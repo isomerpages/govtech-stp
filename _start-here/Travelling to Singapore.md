@@ -127,7 +127,7 @@ Click here to return to the <a href="#top">top</a>.
 <body>	
 <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank"><button class="pushableT">
   <span class="frontT">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; "> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; "> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
 	</span>
 	</button></a>
 </body>
