@@ -48,6 +48,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-bottom:20px;"></p>
 
+<div style="margin-right:50px;">
 <html>
 <head>
 <style>
@@ -83,6 +84,7 @@ Click here to return to the <a href="#top">top</a>.
 	<!---->
 </body>
 </html>
+</div>
 
 <hr style="margin-top:40px;">
 
