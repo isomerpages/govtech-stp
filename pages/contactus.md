@@ -53,6 +53,7 @@ permalink: /contact-us
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; padding-top:20px;  line-height:1.35; "><a href="https://go.gov.sg/sto-enquiry" target="_blank"><b>SafeTravel Enquiry Form (Click Here)</b></a></td>
 		   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">
 <ol style="list-style-type:disc; margin-top: 0px;">
+	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Clarifications on Entry and Health Protocols</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Entry Appeals for short-term non-fully vaccinated travellers</li>
 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Application challenges, e.g. errors uploading QR Code, difficulties submitting SGAC declaration</li>
 		<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Reissuance of entry approval letters 
