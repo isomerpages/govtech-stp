@@ -75,9 +75,9 @@ Click here to return to the <a href="#top">top</a>.
 </style>
 	</head>
 <body>	
-<a href="/arriving/general-travel/fully-vaccinated" target="_blank"><button class="pushable">
+<a href="/arriving/general-travel/fully-vaccinated" target="_blank"><button class="pushable" style="width:100%;">
   <span class="front">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align: center;"> <b>CLICK HERE for Fully Vaccinated Travel Checklist (including children 12 and below by year of birth) </b></p>
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align: center;"> <b>CLICK HERE for Fully Vaccinated Travel Checklist <br>(including children 12 and below by year of birth) </b></p>
 	</span>
 	</button></a>
 	<!---->
@@ -125,7 +125,7 @@ Click here to return to the <a href="#top">top</a>.
 </style>
 	</head>
 <body>	
-<a href="/arriving/general-travel/non-fully-vaccinated" target="_blank"><button class="pushableT">
+<a href="/arriving/general-travel/non-fully-vaccinated" target="_blank"><button class="pushableT" style="width:100%;">
   <span class="frontT">
 	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;  text-algin:center"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
 	</span>
