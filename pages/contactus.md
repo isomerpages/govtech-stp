@@ -35,7 +35,13 @@ permalink: /contact-us
 	   <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>SafeTravel Enquiry Helpline:</b>
 		<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><b>+65 68125555*</b></p> 
-<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i>* Regular call charges apply</i></p></td>
+<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i>* Regular call charges apply</i></p>
+			 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><b>Operating Hours (Singapore time)</b></p>
+			 <ol style="list-style-type:disc; margin-top: 0px; ">
+				 <li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><b>Call agents on duty:</b><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">8.30 am to 11.59pm daily (including weekends and public holidays)</p></li>
+	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><b>Automated voice only:</b><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">12 midnight to 8.29am daily</p></li>
+				 </ol>
+			 </td>
 		      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><ol style="list-style-type:disc; margin-top: 0px; ">
 <li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">COVID-19 Test Scheduling Issues</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
@@ -70,4 +76,3 @@ permalink: /contact-us
 	</tr>
 	</tbody>
 	</table>
-
