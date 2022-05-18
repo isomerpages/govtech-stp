@@ -47,7 +47,7 @@ permalink: /contact-us
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
 <li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:20px;">Clarifications on Entry and Health Protocols</li>
 				 </ol>
-			      <p style="font-size:18px; line-height:1.35; margin-bottom:15px;"><b>Live call agent operating hours:</b> 8.30am to 11.59pm daily (including weekends and public holidays), Singapore Time. Please use the SafeTravel Enquiry Form to contact us outside these hours.</p>
+			      <p style="font-size:18px; line-height:1.35; margin-bottom:15px;"><b>Live call agent operating hours:</b> 8.30am to 11.59pm daily (including weekends and public holidays), Singapore Time. Please use the <a href="https://go.gov.sg/sto-enquiry" target="_blank">SafeTravel Enquiry Form</a> to contact us outside these hours.</p>
 		   </td>
 	</tr>
 		 <tr>
