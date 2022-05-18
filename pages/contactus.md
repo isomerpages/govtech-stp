@@ -45,8 +45,9 @@ permalink: /contact-us
 		      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><ol style="list-style-type:disc; margin-top: 0px; ">
 <li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">COVID-19 Test Scheduling Issues</li>
 	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Assistance during Stay-Home Notice (SHN)</li>
-<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;">Clarifications on Entry and Health Protocols</li>
+<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:20px;">Clarifications on Entry and Health Protocols</li>
 				 </ol>
+			      <p style="font-size:18px; line-height:1.35; margin-bottom:15px;"><b>Live call agent operating hours:</b> 8.30am to 11.59pm daily (including weekends and public holidays), Singapore Time. Please use the SafeTravel Enquiry Form to contact us outside these hours.</p>
 		   </td>
 	</tr>
 		 <tr>
