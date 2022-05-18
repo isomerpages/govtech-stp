@@ -189,7 +189,7 @@ Click here to return to the <a href="#top">top</a>.
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">c.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Two doses of Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</td>
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">d.</td>
