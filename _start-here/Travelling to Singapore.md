@@ -48,6 +48,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-bottom:20px;"></p>
 
+<div style="margin-right:50px;">
 <html>
 <head>
 <style>
@@ -75,13 +76,15 @@ Click here to return to the <a href="#top">top</a>.
 </style>
 	</head>
 <body>	
-<a href="/arriving/general-travel/fully-vaccinated" target="_blank"><button class="pushable">
+<a href="/arriving/general-travel/fully-vaccinated" target="_blank"><button class="pushable" style="">
   <span class="front">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;"> <b>CLICK HERE for Fully Vaccinated Travel Checklist<br>(including children 12 and below by year of birth)</b></p>
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align: center;"> <b>CLICK HERE for Fully Vaccinated Travel Checklist <br>(including children 12 and below by year of birth) </b></p>
 	</span>
 	</button></a>
+	<!---->
 </body>
 </html>
+</div>
 
 <hr style="margin-top:40px;">
 
@@ -124,9 +127,9 @@ Click here to return to the <a href="#top">top</a>.
 </style>
 	</head>
 <body>	
-<a href="/arriving/general-travel/non-fully-vaccinated" target="_blank"><button class="pushableT">
+<a href="/arriving/general-travel/non-fully-vaccinated" target="_blank"><button class="pushableT" style="">
   <span class="frontT">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; "> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
+	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;  text-algin:center"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
 	</span>
 	</button></a>
 </body>
@@ -188,7 +191,7 @@ Click here to return to the <a href="#top">top</a>.
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">c.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Two doses of Novavax, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Two doses of Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</td>
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">d.</td>
