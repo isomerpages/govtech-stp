@@ -62,7 +62,7 @@ label::after {
 	font-family: "Font Awesome 5 Free";
 	content: '\271A';
 	font-weight: bold;
-	font-size: 22px;
+	font-size: 25px;
 	position: absolute;
 	right: 10px;
 	top: 6px;
