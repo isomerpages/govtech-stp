@@ -24,7 +24,7 @@ description: Advisories and resources when departing from Singapore
 
 ### 2) Obtaining COVID-19 Medical Proof (e.g. vaccination/recovery certificates, test reports)
 
-<p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">To manage the spread of COVID-19, some destinations may require trvellers to present any combination of the following documents, which can be obtained in Singapore.</p>
+<p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">To manage the spread of COVID-19, some destinations may require travellers to present any combination of the following documents, which can be obtained in Singapore.</p>
 
 <p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">Click “+” to expand for details on how to obtain the documents</p>
 
