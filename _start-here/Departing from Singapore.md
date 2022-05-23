@@ -28,7 +28,7 @@ margin-left:80px;
 
 <div id="advisories"></div>
 
-<p style="margin-top:20px; margin-bottom:10px; font-size:28px; line-height:1.35; color:#cd0000;"><b> 1) Travel Requirements Imposed by Destination Country/Region</b></p>
+<h3> 1) Travel Requirements Imposed by Destination Country/Region</h3>
 
 <p style="margin-top:10px; margin-bottom:15px; font-size:20px; line-height:1.35;">Many destinations still have COVID-19 travel restrictions in place, in addition to other required travel documentation required. These may include COVID-19 tests, entry approvals/declarations, and proof of vaccination. </p>
 
@@ -36,7 +36,7 @@ margin-left:80px;
 
 <div id="proof" style="margin-bottom:-20px;"></div>
 			
-<p style="margin-top:20px; margin-bottom:10px; font-size:28px; line-height:1.35; color:#cd0000;"><b> 2) Obtaining COVID-19 Medical Proof (e.g. vaccination/recovery certificates, test reports)</b></p>
+<h3> 2) Obtaining COVID-19 Medical Proof (e.g. vaccination/recovery certificates, test reports)</h3>
 
 <p style="margin-top:10px; margin-bottom:15px; font-size:20px; line-height:1.35;">To manage the spread of COVID-19, some destinations may require travellers to present any combination of the following documents, which can be obtained in Singapore.</p>
 
