@@ -94,7 +94,7 @@ input:checked + label + .content {
 <input id="PDT" type="checkbox">
 <label style="background-color:#CEDEED; color:#182657; font-size:20px;" for="PDT"><b>Pre-Departure COVID-19 Test Report</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
-<p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">A pre-departure COVID-19 test can be booked with an clinic found on <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">this list</a>. Before booking, check with the clinic on the type of test administered, cost and estimated turnaround time for the release of the report.
+<p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">A pre-departure COVID-19 test can be booked with an clinic found on <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">this list</a>. Before booking, check with the clinic on the type of test administered, cost and estimated turnaround time for the release of the report, and ensure that these are appropriate for your travel plans and the requirements of the destination country.
 </p>
  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">On the day of the test, travellers should bring the following documents for registration to facilitate report preparation:</p>
   <ol style="margin-top:10px; margin-bottom:10px; font-size:20px; list-style-type:disc;">
@@ -102,7 +102,7 @@ input:checked + label + .content {
  <li style="margin-bottom:10px; font-size:20px; line-height:1.35;">Passport to be used for travelling</li>
  <li style=" margin-bottom:10px; font-size:20px; line-height:1.35;">Flight booking details showing the departure timing</li>
 </ol>
-  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">For PCR tests, the clinic will send you a digitally authenticated test result via email in the form of a QR code, which can be used for boarding and immigration clearance. For ART results, seek the help of the clinic to issue a digitally authenticated report.</p>
+  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">For PCR tests, the clinic will send you a digitally authenticated test result via email in the form of a QR code, which can be used for boarding and immigration clearance. For ART results, check with the clinic on how they will issue the test results to you.</p>
 </div>
   <input id="VaxCert" type="checkbox">
 <label style="background-color:#CEDEED; color:#182657; font-size:20px;" for="VaxCert"><b>Vaccination Certificates</b></label>
@@ -117,12 +117,8 @@ input:checked + label + .content {
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Some destinations offer testing exemptions to travellers who recovered from COVID-19. 
 </p>
- <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">You can apply for a digital Recovery HealthCert via <a href="https://www.notarise.go.sg" target="_blank">Notarise</a> for yourself and/or your child, only if you have:</p>
-  <ol style="margin-top:10px; margin-bottom:10px; font-size:20px; list-style-type:disc;">
-	  <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;">A hardcopy report of a positive COVID-19 Polymerase Chain Reaction Test taken in Singapore; OR</li>
-	  	  <li style=" margin-bottom:10px; font-size:20px; line-height:1.35;">Tested positive for COVID-19 on a supervised Antigen Rapid Test taken at a <a href="https://go.gov.sg/communitry-ART-test" target="_blank">Combined Test Centre/Quick Test Centre</a></li>
-	</ol>
-	<p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">If you have trouble obtaining a Recovery HealthCert, you may also wish to check with the authorities of your destination if other forms of proof of past infection are accepted (e.g. positive test result slip).</p>
+ <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Apply for a digitally authenticated recovery certificate via <a href="https://www.notarise.gov.sg" target="_blank">Notarise</a> for yourself and/or your child, only if you had previously tested positive for COVID-19 on a professionally administered or supervised test at a healthcare provider or test centre in Singapore. </p>
+	<p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">For further details on the use of Recovery HealthCerts, visit <a href="https://www.notarise.gov.sg" target="_blank">Notarise</a> or write to <a href="mailto:support@notarise.gov.sg" target="_blank">support@notarise.gov.sg</a> for assistance. If you have trouble obtaining a Recovery HealthCert, you may also wish to check with the authorities of your destination if other forms of proof of past infection are accepted (e.g. positive test result slip). </p>
 </div>
   </body>
   </html>
