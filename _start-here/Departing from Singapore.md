@@ -12,13 +12,13 @@ description: Advisories and resources when departing from Singapore
     <li style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.35;"><a href="#proof">How to obtain COVID-19 Medical Proof (e.g. vaccination/recovery certificates, and test reports)</a></li>
   </ol>
 
-<p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">Please note that travellers will be subjected to the prevailing entry requirements for their return to Singapore. This may include entry approvals for non-ully vaccinated travellers. Details are available on the <a href="/arriving/overview" target="_blank">"Travelling to Singapore"</a> page.</p>
+<p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">Please note that travellers will be subjected to the prevailing entry requirements for their return to Singapore. This may include entry approvals for non-fully vaccinated travellers. Details are available on the <a href="/arriving/overview" target="_blank">"Travelling to Singapore"</a> page.</p>
 
 <div id="advisories"></div>
 
 ### 1) Travel Requirements Imposed by Destination Country/Region
 
-<p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">Many destiantions still have COVID-19 travel restrictions in place, in addition to other usual travel documentation required. These may include COVID-19 tests, entry approvals/declarations, and proof of vaccination. </p>
+<p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">Many destinations still have COVID-19 travel restrictions in place, in addition to other usual travel documentation required. These may include COVID-19 tests, entry approvals/declarations, and proof of vaccination. </p>
 
 <p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;"> Please check with the authorities of your destination on the entry requirements imposed on travellers departing from Singapore, or refer to the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">Ministry of Foreign Affairs' travel guides</a> for details sorted by destination.</p>
 
@@ -28,7 +28,7 @@ description: Advisories and resources when departing from Singapore
 
 <p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">To manage the spread of COVID-19, some destinations may require travellers to present any combination of the following documents, which can be obtained in Singapore.</p>
 
-<p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">Click “+” to expand for details on how to obtain the documents</p>
+<p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">Click “+” to expand for details on how to obtain the documents.</p>
 
 <html>
 
