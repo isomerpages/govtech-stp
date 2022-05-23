@@ -26,7 +26,7 @@ margin-left:80px;
 
 <p style="margin-top:10px; margin-bottom:5px; font-size:20px; line-height:1.35;">Please note that travellers will be subjected to the prevailing entry requirements for their return to Singapore. This may include entry approvals for non-fully vaccinated travellers. Details are available on the <a href="/arriving/overview" target="_blank">"Travelling to Singapore"</a> page.</p>
 
-<div id="advisories"></div>
+<div id="advisories" style="margin-bottom:-20px;"></div>
 
 <h3> 1) Travel Requirements Imposed by Destination Country/Region</h3>
 
