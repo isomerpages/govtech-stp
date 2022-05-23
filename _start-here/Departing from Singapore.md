@@ -18,7 +18,7 @@ description: Advisories and resources when departing from Singapore
 
 ### 1) Travel Requirements Imposed by Destination Country/Region
 
-<p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">Many destiations still have COVID-19 travel restrictions in place, in addition to other usual travel documentation required. These may include COVID-19 tests, entry approvals/declarations, and proof of vaccination. Please check with the authorities of your destination on the entry requirements imposed on travellers departing from Singapore, or refer to the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">Ministry of Foreign Affairs' travel guides</a> for details sorted by destination.</p>
+<p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">Many destiantions still have COVID-19 travel restrictions in place, in addition to other usual travel documentation required. These may include COVID-19 tests, entry approvals/declarations, and proof of vaccination. Please check with the authorities of your destination on the entry requirements imposed on travellers departing from Singapore, or refer to the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">Ministry of Foreign Affairs' travel guides</a> for details sorted by destination.</p>
 
 <div id="proof"></div>
 
