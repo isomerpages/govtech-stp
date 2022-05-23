@@ -8,8 +8,8 @@ description: Advisories and resources when departing from Singapore
 <p style="margin-top:0px; margin-bottom:15px; font-size:18px; line-height:1.35;">There are <b>no restrictions</b> imposed on departures from Singapore. However, <b>travellers must abide by the travel requirements imposed by their overseas destination</b>. Review the following if you are planning to leave Singapore:</p>
 
 <ol style="margin-top:10px; margin-bottom:10px; font-size:18px;">
-  <li style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.35;"><a href="#advisories">Travel Requirements Imposed by Destination Coutnry/Region</a></li>
-    <li style="margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.35;"><a href="#proof">How to obtain COVID-19 Medical Proof (e.g. vaccination/recovery certificates, and test reports)</a></li>
+  <li style="padding-left:20px; margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.35;"><a href="#advisories">Travel Requirements Imposed by Destination Coutnry/Region</a></li>
+    <li style="padding-left:20px;margin-top:10px; margin-bottom:10px; font-size:18px; line-height:1.35;"><a href="#proof">How to obtain COVID-19 Medical Proof (e.g. vaccination/recovery certificates, and test reports)</a></li>
   </ol>
 
 <p style="margin-top:10px; margin-bottom:15px; font-size:18px; line-height:1.35;">Please note that travellers will be subjected to the prevailing entry requirements for their return to Singapore. This may include entry approvals for non-fully vaccinated travellers. Details are available on the <a href="/arriving/overview" target="_blank">"Travelling to Singapore"</a> page.</p>
