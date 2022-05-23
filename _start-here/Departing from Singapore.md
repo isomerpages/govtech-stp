@@ -62,7 +62,7 @@ label::after {
 	font-family: "Font Awesome 5 Free";
 	content: '\271A';
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 22px;
 	position: absolute;
 	right: 10px;
 	top: 6px;
@@ -92,7 +92,7 @@ input:checked + label + .content {
 	
 <body>	
 <input id="PDT" type="checkbox">
-<label style="background-color:#CEDEED; color:#182657;" for="PDT"><b>Pre-Departure COVID-19 Test Report</b></label>
+<label style="background-color:#CEDEED; color:#182657; font-size:20px;" for="PDT"><b>Pre-Departure COVID-19 Test Report</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">A pre-departure COVID-19 test can be booked with an clinic found on <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">this list</a>. Before booking, check with the clinic on the type of test administered, cost and estimated turnaround time for the release of the report.
 </p>
@@ -105,7 +105,7 @@ input:checked + label + .content {
   <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">For PCR tests, the clinic will send you a digitally authenticated test result via email in the form of a QR code, which can be used for boarding and immigration clearance. For ART results, seek the help of the clinic to issue a digitally authenticated report.</p>
 </div>
   <input id="VaxCert" type="checkbox">
-<label style="background-color:#CEDEED; color:#182657;" for="VaxCert"><b>Vaccination Certificates</b></label>
+<label style="background-color:#CEDEED; color:#182657; font-size:20px;" for="VaxCert"><b>Vaccination Certificates</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Not all travel destinations accept hardcopy vaccination cards/slips issued in Singapore, or vaccination records found in the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg" target="_blank">HealthHub</a> mobile application.
 </p>
@@ -113,7 +113,7 @@ input:checked + label + .content {
   <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">For further details on the use of Vaccination HealthCerts, visit <a href="https://www.notarise.gov.sg" target="_blank">Notarise</a> or write to <a href="mailto:support@notarise.gov.sg" target="_blank">support@notarise.gov.sg</a></p>
 </div>
 	 <input id="Recovery" type="checkbox">
-<label style="background-color:#CEDEED; color:#182657;" for="Recovery"><b>COVID-19 Recovery Certificate</b></label>
+<label style="background-color:#CEDEED; color:#182657; font-size:20px;" for="Recovery"><b>COVID-19 Recovery Certificate</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Some destinations offer testing exemptions to travellers who recovered from COVID-19. 
 </p>
