@@ -125,8 +125,3 @@ input:checked + label + .content {
   </body>
   </html>
 
----
-
-<a href="#top">Click here</a> to return to the top.
-
----
