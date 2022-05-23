@@ -3,8 +3,21 @@ title: Departing from Singapore
 permalink: /departing/overview
 description: Advisories and resources when departing from Singapore
 ---
-<div id="top"></div>
 
+<html>
+<head>
+<style>
+
+.col.is-offset-1-desktop{
+	margin-left:-30px;
+ }
+
+.col.is-1, .col.is-1-tablet{
+margin-left:80px;
+	}
+	</style>
+		</head>
+		<body>
 <p style="margin-top:0px; margin-bottom:15px; font-size:20px; line-height:1.35;">There are <b>no restrictions</b> imposed on departures from Singapore. However, <b>travellers must abide by the travel requirements imposed by their overseas destination</b>. Review the following if you are planning to leave Singapore:</p>
 
 <ol style="padding-left:20px;margin-top:10px; margin-bottom:10px; font-size:20px;">
@@ -122,4 +135,5 @@ input:checked + label + .content {
 </div>
   </body>
   </html>
-
+	</body>
+	</html>
