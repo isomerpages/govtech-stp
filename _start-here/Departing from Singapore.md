@@ -3,7 +3,6 @@ title: Departing from Singapore
 permalink: /departing/overview
 description: Advisories and resources when departing from Singapore
 ---
-
 <html>
 <head>
 <style>
@@ -33,7 +32,7 @@ margin-left:80px;
 
 <h3> 1) Travel Requirements Imposed by Destination Country/Region</h3>
 
-<p style="margin-top:10px; margin-bottom:15px; font-size:20px; line-height:1.35;">Many destinations still have COVID-19 travel restrictions in place, in addition to other required travel documentation required. These may include COVID-19 tests, entry approvals/declarations, and proof of vaccination. </p>
+<p style="margin-top:10px; margin-bottom:15px; font-size:20px; line-height:1.35;">Many destinations still have COVID-19 travel restrictions in place, in addition to other required travel documentation. These may include COVID-19 tests, entry approvals/declarations, and proof of vaccination. </p>
 
 <p style="margin-top:10px; margin-bottom:5px; font-size:20px; line-height:1.35;"> Please check with the authorities of your destination on the entry requirements imposed on travellers departing from Singapore, or refer to the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">Ministry of Foreign Affairs' travel guides</a> for details sorted by destination.</p>
 
@@ -124,8 +123,8 @@ input:checked + label + .content {
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa; width:100%;" class="content">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Not all travel destinations accept hardcopy vaccination cards/slips issued in Singapore, or vaccination records found in the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg" target="_blank">HealthHub</a> mobile application.
 </p>
- <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Apply for a digitally authenticated vaccination certificate using <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a>, if you are vaccinated in Singapore and required to present such a certificate for entry into the destination country. Upon authentication, Not&alpha;rise will send a Vaccination HealthCert (i.e. QR code) to your email and/pr SingPass app (for users who logged in using SingPass app/credentials). The QR code can be presented to the relevant foreign authority for scanning as proof of your vaccination status.</p>
-  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">For further details on the use of Vaccination HealthCerts, visit <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a> or write to <a href="mailto:support@notarise.gov.sg" target="_blank">support@notarise.gov.sg</a></p>
+ <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Apply for a digitally authenticated vaccination certificate using <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a>, if you are vaccinated in Singapore and required to present such a certificate for entry into the destination country. Upon authentication, Not&alpha;rise will send a Vaccination HealthCert (i.e. QR code) to your email and/or SingPass app (for users who logged in using SingPass app/credentials). The QR code can be presented to the relevant foreign authority for scanning as proof of your vaccination status.</p>
+  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">If you have queries about Vaccination HealthCerts, refer to <a href="https://faq.notarise.gov.sg/hc/en-gb/sections/4571963962649-Outbound-travellers-from-Singapore-Vaccination-" target="_blank">this FAQ</a> or write to <a href="mailto:support@notarise.gov.sg" target="_blank">support@notarise.gov.sg</a> for assistance.</p>
 </div>
 	 <input id="Recovery" type="checkbox">
 <label style="background-color:#CEDEED; color:#182657; font-size:20px;" for="Recovery"><b>COVID-19 Recovery Certificate</b></label>
@@ -133,10 +132,9 @@ input:checked + label + .content {
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Some destinations offer testing exemptions to travellers who recovered from COVID-19. 
 </p>
  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Apply for a digitally authenticated recovery certificate via <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a> for yourself and/or your child, only if you had previously tested positive for COVID-19 on a professionally administered or supervised test at a healthcare provider or test centre in Singapore. </p>
-	<p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">For further details on the use of Recovery HealthCerts, visit <a href="https://faq.notarise.gov.sg/hc/en-gb/sections/6825502910361-Outbound-travellers-from-Singapore-Recovery-" target="_blank">Not&alpha;rise</a> or write to <a href="mailto:support@notarise.gov.sg" target="_blank">support@notarise.gov.sg</a> for assistance. If you have trouble obtaining a Recovery HealthCert, you may also wish to check with the authorities of your destination if other forms of proof of past infection are accepted (e.g. positive test result slip). </p>
+	<p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">If you have queries about Recovery HealthCerts, refer to <a href="https://faq.notarise.gov.sg/hc/en-gb/sections/6825502910361-Outbound-travellers-from-Singapore-Recovery-" target="_blank">this FAQ</a> or write to <a href="mailto:support@notarise.gov.sg" target="_blank">support@notarise.gov.sg</a> for assistance. If you have trouble obtaining a Recovery HealthCert, you may also wish to check with the authorities of your destination if other forms of proof of past infection are accepted (e.g. positive test result slip). </p>
 </div>
   </body>
   </html>
 	</body>
 	</html>
-
