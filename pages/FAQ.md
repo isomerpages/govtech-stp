@@ -471,15 +471,13 @@ Click here to [Go Back To Top](#top).
 
 #### 1. Are all travellers required to use TraceTogether?
 
-All travellers must use TraceTogether, <b>except children aged 6 and below</b> in this calendar year.
+Travellers must use TraceTogether to enter settings that require vaccination-differentiated safe management measures (VDS). Please refer to <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">MOH's website</a> to check which community settings still have VDS in place.
 
-Travellers to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, travellers must activate and use the app for the duration of their stay in Singapore. 
+Travellers to Singapore can download the TraceTogether app prior to their departure for Singapore. Upon arrival, travellers can activate and use the app for the duration of their stay in Singapore.
 
 Travellers may also obtain a TraceTogether token after arriving in Singapore. As each token is uniquely tagged to each individual, travellers are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
 
 A more comprehensive TraceTogether (TT) FAQ can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg" target="_blank">here</a>.
-
-
 
 #### 2. After downloading the TraceTogether app, how do I activate it?
 
@@ -528,7 +526,7 @@ Please ensure that you keep your mobile device’s Bluetooth function turned on 
 
 #### 5. What happens if travellers do not have a mobile device to download the TraceTogether app?
 
-All travellers must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the <a href="https://apps.apple.com/sg/app/tracetogether/id1498276074">iOS App Store</a>, <a href="https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace">Google Play Store</a> and Huawei App Gallery.
+<!--All travellers must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the <a href="https://apps.apple.com/sg/app/tracetogether/id1498276074">iOS App Store</a>, <a href="https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace">Google Play Store</a> and Huawei App Gallery.-->
 
 Travellers with mobile devices that are unable to download the TraceTogether app, may wish to rent a mobile device that is TraceTogether-compatible. Alternatively, they may obtain a TraceTogether token (S$13/token) from the <a href="https://www.visitsingapore.com/travel-guide-tips/getting-around/tourism-centre/" target="_blank">Singapore Visitor Centre at Orchard Gateway</a> (open from 10am-7pm daily), or any of the TT Token collection booths found at community centres. The community centre booths and their operating hours can be found at <a href="https://token.gowhere.gov.sg" target="_blank">https://token.gowhere.gov.sg</a>. Travellers do not need to return their tokens before departing from Singapore.
 
@@ -536,7 +534,7 @@ Payment can be made via PayNow, EZ-link, Nets Flashpay, Mastercard, VISA, JCB, a
 
 <b>Short-Term Visitors may collect or replace Tokens on behalf of family/friends at the Token counters at Community Centres. Visitors will be required to provide the Token owner’s passport and mobile number for verification purposes when collecting and replacing the tokens.</b>
 
-Visitors must carry their rented mobile device or TraceTogether token with them at all times during their stay in Singapore. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.
+<!--Visitors must carry their rented mobile device or TraceTogether token with them at all times during their stay in Singapore. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay.-->
 
    
 #### 6. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
@@ -557,7 +555,9 @@ If you were fully vaccinated <b>overseas</b>, please ensure that you have:
 
 Your vaccination status will be updated on your TraceTogether app shortly after arrival in Singapore. If your vaccination status has not been updated on your TraceTogether app, kindly submit a query using the following form to look into your case: <a href="https://go.gov.sg/vds-query-form" target="_blank">https://go.gov.sg/vds-query-form</a>.
 
-Travellers vaccinated overseas will be granted a 30-day temporary status automatically after clearing immigration, after which the vaccination status will expire. For your vaccination status to continue to be valid, you will need to present your overseas vaccination certificate and undergo a serology test at participating clinics in Singapore. Please call the clinic prior to your visit, to confirm that they provide such services. Please click <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">here</a> for the latest public health measures and <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">here</a> for the Ministry of Health's FAQs on these measures.
+Travellers vaccinated overseas will be granted a 30-day temporary status automatically after clearing immigration, after which the vaccination status will expire. For your vaccination status to continue to be valid, you will need to present your overseas vaccination certificate at a private clinic in Singapore to have your overseas records ingested into the National Immunisation Registry (NIR). Please call the clinic prior to your visit, to confirm that they provide such services. 
+
+Please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH FAQs</a> for more details regarding vaccination status.
 
 You may also wish to refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/4404525098137-My-Vaccination-status-is-not-updated-in-the-TraceTogether-App-What-should-I-do-" target="_blank">TraceTogether FAQs</a> for more information.
 
