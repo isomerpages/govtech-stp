@@ -386,6 +386,8 @@ Click here to return to the <a href="#top">top</a>.
 
 ---
 
+<div id="VTF"></div>
+
 ### Annex – Vaccinated Travel Framework
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">An overview of the COVID-19 Vaccinated Travel Framework announced on 1 Apr 2022 can be found below for reference. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane (VTL). If your 7-day travel history consists only of countries in the General Travel Category, you will be subject to the following border measures.</p>
