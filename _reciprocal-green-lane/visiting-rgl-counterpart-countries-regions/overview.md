@@ -6,7 +6,7 @@ third_nav_title: Visiting RGL Counterpart Countries/Regions
 
 Travellers can use the Reciprocal Green Lane (RGL) to visit a partner country/region for short-term business and official purposes, subject to approval of the relevant foreign authorities. Travellers seeking entry into Singapore should refer to the <a href="/arriving/overview" target="_bank">Travelling to Singapore</a> page instead. 
 
-Travellers departing to the RGL countries/regions listed in the table below should work with the foreign RGL sponsors, i.e. company or government agency, to ensure that they meet the RGL conditions for entry into the receiving country/region.
+Travellers departing to the RGL countries/regions listed in the table below should work with their foreign RGL sponsors, i.e. company or government agency, to ensure that they meet the RGL conditions for entry into the receiving country/region.
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 <table>
