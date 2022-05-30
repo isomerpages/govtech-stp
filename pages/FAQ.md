@@ -471,13 +471,14 @@ Click here to [Go Back To Top](#top).
 
 #### 1. Are all travellers required to use TraceTogether?
 
-Travellers must use TraceTogether to enter settings that require vaccination-differentiated safe management measures (VDS). Please refer to <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">MOH's website</a> to check which community settings still have VDS in place.
+Travellers are only required to use TraceTogether to enter settings that require vaccination-differentiated safe management measures (VDS). Please refer to <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">MOH's website</a> to check which community settings still have VDS in place.
 
-Travellers to Singapore can download the TraceTogether app prior to their departure for Singapore. Upon arrival, travellers can activate and use the app for the duration of their stay in Singapore.
+Travellers to Singapore can download the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> prior to their departure for Singapore. Upon arrival, travellers can activate and use the app for the duration of their stay in Singapore.
 
-Travellers may also obtain a TraceTogether token after arriving in Singapore. As each token is uniquely tagged to each individual, travellers are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+Travellers with difficulty downloading the app may also <a href="#TTtoken">obtain a TraceTogether token</a> after arriving in Singapore for S$13. As each token is uniquely tagged to each individual, travellers are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
 
 A more comprehensive TraceTogether (TT) FAQ can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg" target="_blank">here</a>.
+
 
 #### 2. After downloading the TraceTogether app, how do I activate it?
 
@@ -523,6 +524,8 @@ If you change your mobile device, you are required to download the TraceTogether
 If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
 
 Please ensure that you keep your mobile device’s Bluetooth function turned on so that the TraceTogether app remains activated throughout your stay in Singapore.
+
+<div id="TTtoken"></div>
 
 #### 5. What happens if travellers do not have a mobile device to download the TraceTogether app?
 
