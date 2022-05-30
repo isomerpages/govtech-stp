@@ -471,6 +471,16 @@ Click here to [Go Back To Top](#top).
 
 #### 1. Are all travellers required to use TraceTogether?
 
+Travellers are only required to use TraceTogether to enter settings that require vaccination-differentiated safe management measures (VDS). Please refer to <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">MOH's website</a> to check which community settings still have VDS in place.
+
+Travellers to Singapore can download the TraceTogether app prior to their departure for Singapore. Upon arrival, travellers can activate and use the app for the duration of their stay in Singapore.
+
+Travellers with difficulty downloading the app may also obtain a TraceTogether token after arriving in Singapore for S$13. As each token is uniquely tagged to each individual, travellers are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+
+A more comprehensive TraceTogether (TT) FAQ can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg" target="_blank">here</a>.
+
+
+
 Travellers must use TraceTogether to enter settings that require vaccination-differentiated safe management measures (VDS). Please refer to <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">MOH's website</a> to check which community settings still have VDS in place.
 
 Travellers to Singapore can download the TraceTogether app prior to their departure for Singapore. Upon arrival, travellers can activate and use the app for the duration of their stay in Singapore.
