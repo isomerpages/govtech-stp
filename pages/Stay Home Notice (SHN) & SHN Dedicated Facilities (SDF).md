@@ -3,7 +3,6 @@ title: Stay Home Notice (SHN) & SHN Dedicated Facilities (SDF)
 permalink: /health/shn
 description: ""
 ---
-
 On this page, you will find information on:
 - [Stay Home Notice (SHN) Requirements](#requirements)
 - [SHN-Dedicated Facilities (SDF) and Cost of Stay](#sdf)
@@ -11,7 +10,8 @@ On this page, you will find information on:
 - [SHN Start and End Date](#date)
 - [SHN Compliance Checks](#compliance)
 
-Only some Safe Travel Lanes to Singapore require travellers to serve an SHN, if they have travel history to certain countries/regions. If you need information on what Safe Travel Lanes to use and whether a Stay Home Notice will be imposed when you enter Singapore, please start from the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page instead to find out more.
+Most travellers do not need to serve an SHN, unless they are not fully vaccinated with WHO EUL vaccines. If you need information on entry requirements when travelling to Singapore, or are unsure whether you need to serve an SHN, please start from the <a href="/arriving/overview" target="_blank">Travelling to Singapore</a> page instead to find out more.
+
 
 <div id="requirements"></div>
 
