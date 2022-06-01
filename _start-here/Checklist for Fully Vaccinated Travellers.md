@@ -131,7 +131,7 @@ input {
     display: none;
 }
 
-button {
+label {
     display: block;    
     padding: 10px 30px;
     margin: 0 0 1px 0;
@@ -143,11 +143,11 @@ button {
 	position: relative;
 }	
 	
-button:hover {
+label:hover {
     background: #346f9e;
 }
 
-button::after {
+label::after {
 	font-family: "Font Awesome 5 Free";
 	content: '\271A';
 	font-weight: bold;
@@ -157,7 +157,7 @@ button::after {
 	top: 6px;
 }
 
-input:checked + button::after {
+input:checked + label::after {
 	content: '\2716';
 }
 
@@ -168,11 +168,11 @@ input:checked + button::after {
     border-radius: 3px;
 }
 
-input + button + .content {
+input + label + .content {
     display: none;
 }
 
-input:checked + button + .content {
+input:checked + label + .content {
     display: block;
 }
 	
@@ -181,7 +181,7 @@ input:checked + button + .content {
 	
 <body>	
 <input id="vaxSG" type="checkbox">
-<button style="background-color:#CEDEED; color:#182657;" for="vaxSG"><b>I took my COVID-19 vaccination in Singapore</b></button>
+<label style="background-color:#CEDEED; color:#182657;" for="vaxSG"><b>I took my COVID-19 vaccination in Singapore</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Your vaccination status can be retrieved from the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and/or <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> mobile applications. If you are unable to retrieve your vaccination status via these applications, you can prove your vaccination status by:
 </p>
@@ -190,7 +190,7 @@ input:checked + button + .content {
 			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Showing your MOH-issued hardcopy vaccination certificate</li>
 	</ol>	
 </div>
-<!--<input id="vaxoverseas" type="checkbox">
+<input id="vaxoverseas" type="checkbox">
 <label style="background-color:#CEDEED; color:#182657;" for="vaxoverseas"><b>I took my COVID-19 vaccination outside Singapore</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;"><b>If you hold a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally Verifiable Vaccination Certificate (DVC) issued by the countries/regions listed in this document</a></b>, you can verify your DVC using the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a>. Travellers whose DVC was successfully verified using VCP can use their vaccination acceptance letter for smoother boarding and immigration checks – please note that VCP is <b>not</b> a mandatory entry requirement.
@@ -203,7 +203,7 @@ input:checked + button + .content {
 		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Vaccination date(s)</li>
 	</ol>
 </p>
-</div>-->
+</div>
 </body>
 	</html>
 <p style=" font-size:18px; margin-top: 20px; margin-bottom:15px; line-height:1.35;"><b>All travellers who have travel history to countries/regions in Africa and Latin America with Yellow Fever Risk</b> are also required to obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>, if not they will be turned away from Singapore or subject to up to 6 days quarantine on arrival.</p>
