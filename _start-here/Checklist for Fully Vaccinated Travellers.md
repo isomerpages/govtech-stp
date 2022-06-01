@@ -153,6 +153,7 @@ label::after {
 	font-weight: bold;
 	font-size: 22px;
 	position: absolute;
+	cursor: pointer;
 	right: 10px;
 	top: 6px;
 }
