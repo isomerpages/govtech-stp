@@ -168,11 +168,11 @@ input:checked + label::after {
     border-radius: 3px;
 }
 
-input + label + .content + ::after{
+input + label + .content{
     display: none;
 }
 
-input:checked + label + .content + ::after{
+input:checked + label + .content{
     display: block;
 }
 	
