@@ -159,7 +159,6 @@ label::after {
 
 input:checked + label::after {
 	content: '\2716';
-	display: block;
 }
 
 .content {
@@ -169,11 +168,11 @@ input:checked + label::after {
     border-radius: 3px;
 }
 
-input + label + .content {
+input + label + .content + ::after{
     display: none;
 }
 
-input:checked + label + .content {
+input:checked + label + .content + ::after{
     display: block;
 }
 	
