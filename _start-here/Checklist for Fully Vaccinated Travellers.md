@@ -159,6 +159,7 @@ label::after {
 
 input:checked + label::after {
 	content: '\2716';
+	display: block;
 }
 
 .content {
