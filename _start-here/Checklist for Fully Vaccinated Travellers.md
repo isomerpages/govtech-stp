@@ -187,7 +187,7 @@ input:checked + label::after + .content  {
 	
 <body>	
 <input id="vaxSG" type="checkbox">
-<label style="background-color:#CEDEED; color:#182657;" for="vaxSG"><b>I took my COVID-19 vaccination in Singapore*</b></label>
+<label style="background-color:#CEDEED; color:#182657;" for="vaxSG"><b>I took my COVID-19 vaccination in Singapore</b></label>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Your vaccination status can be retrieved from the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and/or <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> mobile applications. If you are unable to retrieve your vaccination status via these applications, you can prove your vaccination status by:
 </p>
