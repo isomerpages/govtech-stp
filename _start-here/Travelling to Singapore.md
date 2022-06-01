@@ -40,7 +40,7 @@ Click here to return to the <a href="#top">top</a>.
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35; font-size:20px;">Under Singapore’s Vaccinated Travel Framework, <b>all travellers</b> including Singapore Citizens and Permanent Residents <b>arriving from all countries/regions can enter Singapore without quarantine, testing or entry approvals if they meet the following requirements:</b></p>
   <ol style="line-height:1.35;">
 	  <li style="line-height:1.35; font-size:20px; margin-bottom:15px;"><b>Be a child born in or after 2010 (i.e. aged 12 and below by year of birth)</b> – children who meet this age criteria can enter regardless of COVID-19 vaccination status</li>
-	   <li style="line-height:1.35; font-size:20px;margin-bottom:15px; "><b>Be fully vaccinated with WHO EUL vaccines if born in or before 2009 (i.e. aged 13 and above by year of birth)</b> – “Fully vaccinated” means at least one dose of Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixtures and boosters of these WHO EUL vaccines, and vaccination with recovery is also acceptable. For full definition, see <a href="/arriving/overview#vaccination" target="_blank">Accepted COVID-19 Vaccinations for Entry to Singapore</a>.</li>
+	   <li style="line-height:1.35; font-size:20px;margin-bottom:15px; "><b>Be fully vaccinated with WHO EUL vaccines if born in or before 2009 (i.e. aged 13 and above by year of birth)</b> – “Fully vaccinated” means at least one dose of CanSinoBIO/Convidecia or Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixed doses and boosters using these WHO EUL vaccines, and vaccination with recovery are also acceptable. For full definition, see <a href="/arriving/overview#vaccination" target="_blank">Accepted COVID-19 Vaccinations for Entry to Singapore</a>.</li>
 	   <li style="line-height:1.35; font-size:20px; margin-bottom:10px;"><b>Be vaccinated against Yellow Fever if you have visited Yellow Fever high risk countries/regions in Africa and Latin America</b> - a valid <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever vaccination certificate</a> is required.</li>
 	  </ol>
 
@@ -183,30 +183,34 @@ Click here to return to the <a href="#top">top</a>.
 		</tr>
  <tr>
 	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">a.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px;  text-align:left;">One dose of CanSinoBIO/Convidecia vaccine; OR</td>
+	  </tr>
+ <tr>
+	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">b.</td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px;  text-align:left;">One dose of Janssen/J&J vaccine; OR</td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">b.</td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">c.</td>
  <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left; padding-left: 0px;">Two doses of AstraZeneca, Covaxin, Moderna/Spikevax, or Covishield vaccine, administered at least 24 days apart; OR</td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">c.</td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">d.</td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Two doses of Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, or Sinopharm vaccine, administered at least 17 days apart; OR</td>
 	  </tr>
 <tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">d.</td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">e.</td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Two doses of Sinovac vaccine, administered 13 days apart; OR</td>
 	  </tr>
 		<tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">e.</td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">f.</td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Mixture of any two doses of vaccines listed in points a-d, administered at least 17 days apart; OR</td>
 	  </tr>
 		<tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">f.</td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">g.</td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">Any of the vaccination combinations listed in points a-e and subsequently recovered from COVID-19; OR</td>
 	  </tr>
 		<tr>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">g.</td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">h.</td>
 	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px; text-align:left;">At least one dose any WHO EUL approved vaccines listed in points b – d, taken at least 28 days after the first COVID-19 positive diagnosis, if traveller was not vaccinated before their first infection.</td>
 	  </tr>
 	  </tbody>
@@ -251,7 +255,7 @@ Click here to return to the <a href="#top">top</a>.
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">d.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left; padding-left: 0px;">Medically certified to be ineligible for any COVID-19 vaccines mentioned above.</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; text-align:left; padding-left: 0px;">Medically certified to be ineligible for any of the WHO EUL COVID-19 vaccines mentioned above.</td>
 	  </tr>
 	  </tbody>
 			</table>
