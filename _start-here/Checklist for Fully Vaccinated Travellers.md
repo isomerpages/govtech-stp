@@ -153,6 +153,8 @@ label::after {
 	font-weight: bold;
 	font-size: 22px;
 	position: absolute;
+	cursor: pointer;
+	display: block;
 	right: 10px;
 	top: 6px;
 }
@@ -168,11 +170,15 @@ input:checked + label::after {
     border-radius: 3px;
 }
 
-input + label  + label::after + .content {
+input + label + .content {
+    display: none;
+}
+	
+input + label::after + .content {
     display: none;
 }
 
-input:checked + label + label::after + .content  {
+input:checked + label::after + .content  {
     display: block;
 }
 	
