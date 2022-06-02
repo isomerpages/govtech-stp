@@ -168,11 +168,11 @@ input:checked + label::after {
     border-radius: 3px;
 }
 
-input + label + .content {
+input + label + .content{
     display: none;
 }
 
-input:checked + label + .content {
+input:checked + label + .content{
     display: block;
 }
 	
@@ -259,6 +259,7 @@ label::after {
 
 input:checked + label::after {
 	content: '\2716';
+	display: block;
 }
 
 .content {
