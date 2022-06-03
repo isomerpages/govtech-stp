@@ -13,12 +13,12 @@ third_nav_title: Travelling to Singapore
  }
 
 .col.is-1, .col.is-1-tablet{
-margin-left:100px;
+margin-left:90px;
 	}
 	</style>
 		</head>
 		<body>
-<div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red; width:120.1%; ">
+<div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 2px; border-color:red; width:110.1%; ">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use</u>:</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This checklist is for <b>all travellers, including Singapore Citizens or Permanent Residents, entering Singapore from any country/region via air, land, or sea</b>, and are:</p>
 		<ol style="padding-left:25px; list-style-type:disc;">
@@ -30,7 +30,7 @@ margin-left:100px;
 			<!--<p style="font-size:18px; margin-top:10px; margin-bottom:10px;line-height:1.3;">Readers referencing this checklist can indicate “☑” in the boxes (&#9634;) for any completed activities.</p>-->
 	</div>
 	
-<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:120.1%;">For a smooth travel experience, read each step below carefully. Please note that <b>you are no longer required to take any COVID-19 tests before departure for Singapore.</b> </p>
+<p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:110.1%;">For a smooth travel experience, read each step below carefully. Please note that <b>you are no longer required to take any COVID-19 tests before departure for Singapore.</b> </p>
 			
 <html>
 <head>
@@ -114,8 +114,8 @@ margin-left:100px;
 
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"></p>
 
-<div id="1A" style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%; ">&#9634;&nbsp;<b>Step 1: Prepare Proof of Vaccination</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
+<div id="1A" style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:110.1%; ">&#9634;&nbsp;<b>Step 1: Prepare Proof of Vaccination</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:110.1%;">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>If you are born in or <b>before</b> 2009 (i.e. aged 13 and above by year of birth)</b>, ensure that you have the necessary proof of COVID-19 vaccination for pre-boarding and immigration checks.</p>
 <p style=" font-size:18px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click “+” to expand for details)</p>
 
@@ -263,8 +263,8 @@ details[open] summary::before {
 
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>	
   
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%;">&#9634;&nbsp; <b>Step 2:  Obtain additional entry documents (if required)</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:110.1%;">&#9634;&nbsp; <b>Step 2:  Obtain additional entry documents (if required)</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:110.1%;">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>The following types of travellers must prepare the additional documents below if necessary</b>, for pre-boarding and immigration clearance. Visitors must also ensure that your passport is <b>valid for at least 6 months</b>.</p>
 <p style=" font-size:18px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
 	
@@ -409,8 +409,8 @@ details[open] summary::before {
 
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
 
-<div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%;">&#9634;&nbsp;<b>Step 3: Fill SG Arrival Card up to 3 days before arrival </b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
+<div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:110.1%;">&#9634;&nbsp;<b>Step 3: Fill SG Arrival Card up to 3 days before arrival </b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:110.1%;">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Otherwise, complete your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> <b>up to 3 days before your arrival in Singapore</b>. The SG arrival card (SGAC) is a simple and free arrival declaration of your travel and health details. You are exempted from submitting your SGAC if you are a <b> Singapore Citizen, Permanent Resident or Long-Term Pass Holder arriving by Land.</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Upon the completion of your SGAC, you will receive an email acknowledgement which you can present for smoother pre-boarding and immigration checks.</p>
@@ -420,9 +420,9 @@ details[open] summary::before {
 
 <p style="font-size:18px; margin-top: 10px; margin-bottom:30px; line-height:1.35;"></p>
 
-<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%;">&#9634;&nbsp;<b>Step 4:  Install TraceTogether App</b></div>
+<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:110.1%;">&#9634;&nbsp;<b>Step 4:  Install TraceTogether App</b></div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you are a visitor and do not already have the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether contact tracing mobile application</a>, install it using <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-" target="_blank"> this guide</a>, and only activate the app after clearing immigration. Only travellers aged 6 or below this year are exempted from installing TraceTogether.</p>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:110.1%;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you are a visitor and do not already have the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether contact tracing mobile application</a>, install it using <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-" target="_blank"> this guide</a>, and only activate the app after clearing immigration. Only travellers aged 6 or below this year are exempted from installing TraceTogether.</p>
 	<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you encounter issues activating TraceTogether:
 	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
 	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Submit a request for assistance to <a href="mailto:support@tracetogether.gov.sg" target="_blank">support@tracetogether.gov.sg</a>; OR</li>
@@ -444,9 +444,9 @@ details[open] summary::before {
 
 <!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Immigration Clearance in Singapore</b></div>-->
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%;">&#9634;&nbsp;<b>Step 4:  Immigration Clearance in Singapore</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:110.1%;">&#9634;&nbsp;<b>Step 4:  Immigration Clearance in Singapore</b></div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:110.1%;">
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">All travellers are encouraged to use the automated clearance gates if they are eligible.</p>
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Passports will no longer be stamped at immigration. Foreign short-term visitors will be sent an e-Pass (i.e. Visit Pass) via email <b>after clearing arrival immigration</b>, stating the period of stay granted. The e-Pass will be sent to the email address indicated in the SGAC submission. Travellers who did not receive their e-Pass after immigration clearance <a href="https://eservices.ica.gov.sg/sgarrivalcard/epassenquiry" target="_blank">may retrieve their e-Pass using this e-service</a>, using the DE Number found in their SGAC acknowledgement email.</p>
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you are symptomatic on arrival, you may be directed to take a COVID-19 test or be subject to other requirements as instructed by officers. Each Antigen Rapid Test (ART) administered will cost S$30, while each COVID-19 Polymerase Chain Reaction Test (PCR Test) will cost S$138.</p>
@@ -458,9 +458,9 @@ details[open] summary::before {
 
 <p style="font-size:18px; margin-top: 10px; margin-bottom:30px; line-height:1.35;"></p>
 
-<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120.1%;">&#9634;&nbsp;<b>Step 5: Local Health Protocols & Maintenance of Vaccination Status</b></div>
+<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:110.1%;">&#9634;&nbsp;<b>Step 5: Local Health Protocols & Maintenance of Vaccination Status</b></div>
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:110.1%;">
 	<p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;"><b><u>Local Health Protocols</u></b></p>
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">There are no quarantine or COVID-19 testing measures for fully vaccinated travellers and travellers aged 12 and below. However, you must comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile application</a> for contact tracing and to show proof of vaccination in Vaccination-Differentiated settings (VDS). Refer to <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/360050333633-Guide-How-to-set-up-TraceTogether-App-available-in-different-languages-" target="_blank">this guide</a> to activate your TraceTogether application or write to <a href="mailto:support@tracetogether.gov.sg" target="_blank">support@tracetogether.gov.sg</a> for assistance. </p>
 	
