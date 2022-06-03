@@ -263,6 +263,21 @@ details[open] summary::before {
 	</ol>	
   </div>
 </details>
+<details class="style6">
+	<summary><b>I took my COVID-19 vaccination outside Singapore</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
+  <p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;"><b>If you hold a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally Verifiable Vaccination Certificate (DVC) issued by the countries/regions listed in this document</a></b>, you can verify your DVC using the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a>. Travellers whose DVC was successfully verified using VCP can use their vaccination acceptance letter for smoother boarding and immigration checks – please note that VCP is <b>not</b> a mandatory entry requirement.
+</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>If you do not have a DVC, or are unable to verify your vaccination certificate on VCP even after troubleshooting using <a href="/faq#vaxcert" target="_blank">this guide</a></b>, you can prove your vaccination status using a Vaccination Certificate (including certificate on a vaccination app) that is in English, or accompanied with notarised English translation, with the following details:
+	<ol style="padding-left:25px; list-style-type:lower-latin;">
+		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Name (per travel document used for entry)</li>
+			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
+		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Name of vaccine(s) administered</li>
+		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Vaccination date(s)</li>
+	</ol>
+</p>
+  </div>
+</details>
 </body>
 </html>
 
