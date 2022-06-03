@@ -217,7 +217,7 @@ img { max-width: 100%; }
 p { margin: 0; padding-bottom: 10px; }
 p:last-child { padding: 0; }
 details {
-  max-width: 500px;
+  /*max-width: 500px;*/
   box-sizing: border-box;
   margin-top: 5px;
   background: white;
