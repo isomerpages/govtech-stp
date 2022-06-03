@@ -293,10 +293,10 @@ details.style6 summary::before {
   transform: rotate(0);
 }
 details.style6:hover > summary:before {
-  content: "👁️‍🗨️";
+  content: "\271A";
 }
 details[open].style6 > summary:before {
-  content: "❌";
+  content: "\2716";
   transform: rotate(0deg);
 }
 
