@@ -254,7 +254,7 @@ details[open] summary::before {
 	<body>
 <details class="style6">
 	<summary><b>I took my COVID-19 vaccination in Singapore.</b></summary>
-  <div class="content">
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
    <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Your vaccination status can be retrieved from the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and/or <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> mobile applications. If you are unable to retrieve your vaccination status via these applications, you can prove your vaccination status by:
 </p>
    <ol style="padding-left:25px; list-style-type:lower-latin;">
