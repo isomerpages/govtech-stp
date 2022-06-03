@@ -45,7 +45,7 @@ margin-left:80px;
 	</style>
 	</head>
 	<body>
-<table style="width:118%;">
+<table style="width:114%;">
   <tbody>
  <tr>
 	    <td style="margin-top:0px; margin-bottom:0px; font-size:18px; width:85px; padding-left:0px; padding-right:0px; text-align:right;"><b>Step 1</b></td>
