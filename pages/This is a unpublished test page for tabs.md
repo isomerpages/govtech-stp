@@ -378,7 +378,6 @@ details[open] summary::before {
 </style>
 </head>
 	<body>
-
 <details class="style6">
   <summary>Yet another <strong>STYLE</strong> of indicator.</summary>
   <div class="content">
@@ -386,19 +385,6 @@ details[open] summary::before {
       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi unde, ex rem voluptates autem aliquid veniam quis temporibus repudiandae illo, nostrum, pariatur quae! At animi modi dignissimos corrupti placeat voluptatum!
     </p>
     <img src="https://placebear.com/400/200" alt="">
-    <p>
-      Facilis ducimus iure officia quos possimus quaerat iusto, quas, laboriosam sapiente autem ab assumenda eligendi voluptatum nisi eius cumque, tempore reprehenderit optio placeat praesentium non sint repellendus consequuntur? Nihil, soluta.
-    </p>
-  </div>
-</details>
-
-<details class="style7">
-  <summary><span class="moon-new">Want to learn about the <strong>MOON</strong>?</span><span class="moon-full">The <strong>MOON</strong> is <strong>AMAZING</strong>!</span></summary>
-  <div class="content">
-    <p>
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi unde, ex rem voluptates autem aliquid veniam quis temporibus repudiandae illo, nostrum, pariatur quae! At animi modi dignissimos corrupti placeat voluptatum!
-    </p>
-    <img src="https://spaceholder.cc/400x200" alt="">
     <p>
       Facilis ducimus iure officia quos possimus quaerat iusto, quas, laboriosam sapiente autem ab assumenda eligendi voluptatum nisi eius cumque, tempore reprehenderit optio placeat praesentium non sint repellendus consequuntur? Nihil, soluta.
     </p>
