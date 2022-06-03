@@ -148,7 +148,137 @@ input ~ .tab {
 <meta charset="utf-8">
 <title>Test Accordion</title>
 <style>
-	
+/* # The Rotating Marker # */
+details summary::-webkit-details-marker { display: none; }
+summary::before {
+  font-family: "Hiragino Mincho ProN", "Open Sans", sans-serif;
+  content: "▶";
+  position: absolute;
+  top: 1rem;
+  left: 0.8rem;
+  transform: rotate(0);
+  transform-origin: center;
+  transition: 0.2s transform ease;
+}
+details[open] > summary:before {
+  transform: rotate(90deg);
+  transition: 0.45s transform ease;
+}
+
+/* # The Sliding Summary # */
+details { overflow: hidden; }
+details summary {
+  position: relative;
+  z-index: 10;
+}
+@keyframes details-show {
+  from {
+    margin-bottom: -80%;
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+}
+details > *:not(summary) {
+  animation: details-show 500ms ease-in-out;
+  position: relative;
+  z-index: 1;
+  transition: all 0.3s ease-in-out;
+  color: transparent;
+  overflow: hidden;
+}
+details[open] > *:not(summary) { color: inherit; }
+
+/* # Style 2 # */
+details.style2 summary::before {
+  content: "×";
+  color: #FFF;
+  font-size: 2rem;
+  line-height: 1rem;
+  transform: rotate(-45deg);
+  top: 1.2rem;
+  left: 0.5rem;
+}
+details[open].style2 > summary:before {
+  transform: rotate(90deg);
+  color: #F00 !important;
+  transition: color ease 2s, transform ease 1s;
+}
+
+/* # Style 3 # */
+details.style3 summary::before {
+  content: "›";
+  font-size: 2.5rem;
+  line-height: 1rem;
+  top: 1.3rem;
+  left: 0rem;
+  margin: -0.5rem -0.5rem 0 0.5rem;
+  transform-origin: bottom center;
+  transition: margin linear 0.05s;
+}
+details.style3:hover > summary:before {
+  color: #FFF;
+}
+details[open].style3 > summary:before {
+  left: 0rem;
+  color: #CCC;
+  transform: rotate(90deg);
+  margin-left: 0.4rem;
+  transition: color ease 2s, transform ease 1s, margin ease 1s;
+}
+@supports (-webkit-touch-callout: none) {
+  details.style3 summary::before { top: 1.6rem; }
+  details[open].style3 > summary:before { top: 1.3rem; transition: all 0.8s; }
+}
+
+/* # Style 4 # */
+details.style4 summary {
+  padding-right: 2.2rem;
+  padding-left: 1rem;
+}
+details.style4 summary::before {
+  content: "×";
+  color: #FFF;
+  font-size: 2rem;
+  line-height: 1rem;
+  transform: rotate(-45deg);
+  top: 1.2rem;
+  left: unset;
+  right: 0.6rem;
+}
+details[open].style4 > summary:before {
+  transform: rotate(90deg);
+  color: #F00 !important;
+  transition: color ease 2s, transform ease 1s;
+}
+
+/* # Style 5 # */
+details.style5 summary {
+  padding-right: 2.2rem;
+  padding-left: 1rem;
+}
+details.style5 summary::before {
+  content: "🙈";
+  font-size: 1.5rem;
+  top: 0.5rem;
+  left: unset;
+  right: 0.5rem;
+  transform: rotate(0);
+}
+details.style5:hover > summary::before {
+  content: "🙊";
+}
+details[open].style5 > summary::before {
+  content: "🐵";
+  transform: rotate(0deg);
+}
+details[open].style5 > summary:hover::before {
+  content: "🙉";
+}
+details .monkey-see { display: inline; }
+details .monkey-hide { display: none; }
+details[open] .monkey-see { display: none; }
+details[open] .monkey-hide { display: inline; }
+
 /* # Style 6 # */
 details.style6 summary {
   padding-right: 2.2rem;
