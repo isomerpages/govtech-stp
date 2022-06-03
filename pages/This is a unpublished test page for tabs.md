@@ -244,7 +244,7 @@ summary:hover::before,
 details[open] summary::before {
   color: #000;
 }
-.content {
+.contenttest {
   padding: 10px;
   border: 2px solid #888;
   border-top: none;
@@ -253,29 +253,27 @@ details[open] summary::before {
 </head>
 	<body>
 <details class="style6">
-	<summary><b>I took my COVID-19 vaccination in Singapore.</b></summary>
-  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
-   <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Your vaccination status can be retrieved from the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and/or <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> mobile applications. If you are unable to retrieve your vaccination status via these applications, you can prove your vaccination status by:
-</p>
-   <ol style="padding-left:25px; list-style-type:lower-latin;">
-		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Obtaining a vaccination acceptance letter using the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a>; OR</li>
-			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Showing your MOH-issued hardcopy vaccination certificate</li>
-	</ol>	
+	<summary><b>Visitors/tourists without a Singapore Long-Term Pass</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
+  <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"> <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions.</p>
   </div>
 </details>
 <details class="style6">
-	<summary><b>I took my COVID-19 vaccination outside Singapore</b></summary>
-  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="content">
-  <p style=" font-size:18px; margin-top: 0px; margin-bottom:15px; line-height:1.35;"><b>If you hold a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">Digitally Verifiable Vaccination Certificate (DVC) issued by the countries/regions listed in this document</a></b>, you can verify your DVC using the <a href="https://eservices.ica.gov.sg/STO1/VCP" target="_blank">Vaccination Check Portal (VCP)</a>. Travellers whose DVC was successfully verified using VCP can use their vaccination acceptance letter for smoother boarding and immigration checks – please note that VCP is <b>not</b> a mandatory entry requirement.
-</p>
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>If you do not have a DVC, or are unable to verify your vaccination certificate on VCP even after troubleshooting using <a href="/faq#vaxcert" target="_blank">this guide</a></b>, you can prove your vaccination status using a Vaccination Certificate (including certificate on a vaccination app) that is in English, or accompanied with notarised English translation, with the following details:
-	<ol style="padding-left:25px; list-style-type:lower-latin;">
-		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Name (per travel document used for entry)</li>
-			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">At least one other personal identifier, e.g. date of birth or passport number (per travel document used for entry)</li>
-		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Name of vaccine(s) administered</li>
-		<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Vaccination date(s)</li>
-	</ol>
-</p>
+	<summary><b>Drivers of Foreign-Registered Vehicles Entering by Land </b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Ensure you have a valid Vehicle Entry Permit (VEP) approval email, Autopass card and motor insurance. VEP, insurance and Autopass services are <b>not</b> available at Singapore's land checkpoints.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Visit the OneMotoring website to:</p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: lower-latin;">
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Apply for VEP/Autopass card:</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> > Digital Services > Apply for VEP / Autopass Card</li>
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Update the foreign-registered car and motorcycle road tax and motor insurance for existing valid Autopass cards:</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> > Digital Services > Update Road Tax and Insurance Validity for VEP (Foreign Cars and Motorcycles).</li>
+</ol>
+  </div>
+</details>
+<details class="style6">
+	<summary><b>Non-Malaysian Work Permit In-principle Approval holders Employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated male CMP workers must book a slot at <a href="https://www.mom.gov.sg/covid-19/onboard-centre" target="_blank">Ministry of Manpower's (MOM) Onboard centre</a> to undergo a residential onboarding programme upon arrival. </p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">All CMP workers entering from Bangladesh, India or Myanmar must undergo a <a href="https://go.gov.sg/bca-pdpp" target="_blank">Pre-Departure Preparatory Programme</a> before entering Singapore.</p>
   </div>
 </details>
 </body>
