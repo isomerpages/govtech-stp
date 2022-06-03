@@ -228,21 +228,21 @@ summary {
   padding: 1rem;
   display: block;
   background: #CEDEED;
-  color: white;
+  color: #000;
   padding-left: 2.2rem;
   position: relative;
   cursor: pointer;
 }
 details[open] summary,
 summary:hover {
-  color: #FFCA28;
+  color: #000;
   background: #9ac5ed;
 }
 summary:hover strong,
 details[open] summary strong,
 summary:hover::before,
 details[open] summary::before {
-  color: #FFA128;
+  color: #000;
 }
 .content {
   padding: 10px;
