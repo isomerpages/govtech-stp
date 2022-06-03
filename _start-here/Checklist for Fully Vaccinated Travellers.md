@@ -407,7 +407,7 @@ details[open] summary::before {
 	
 <div id="step3"></div>
 
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"></p>
 
 <div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:104.1%;">&#9634;&nbsp;<b>Step 3: Fill SG Arrival Card up to 3 days before arrival </b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:104.1%;">
@@ -418,7 +418,7 @@ details[open] summary::before {
 
 <div id="step4"></div>
 
-<p style="font-size:18px; margin-top: 10px; margin-bottom:30px; line-height:1.35;"></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"></p>
 
 <!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:104.1%;">&#9634;&nbsp;<b>Step 4:  Install TraceTogether App</b></div>
 
