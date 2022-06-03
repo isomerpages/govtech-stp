@@ -227,7 +227,7 @@ summary {
   outline: none;
   padding: 1rem;
   display: block;
-  background: #666;
+  background: #CEDEED;
   color: white;
   padding-left: 2.2rem;
   position: relative;
@@ -236,7 +236,7 @@ summary {
 details[open] summary,
 summary:hover {
   color: #FFCA28;
-  background: #444;
+  background: #9ac5ed;
 }
 summary:hover strong,
 details[open] summary strong,
