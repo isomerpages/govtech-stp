@@ -195,7 +195,7 @@ details.style6 summary {
   padding-left: 1rem;
 }
 details.style6 summary::before {
-  content: "❔";
+  content: "\271A";
   font-size: 1.5rem;
   top: 0.5rem;
   left: unset;
