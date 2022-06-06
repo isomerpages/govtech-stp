@@ -130,7 +130,7 @@ permalink: /FAQ
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For payments made during the Entry Application process, e.g. Stay-Home Notice (SHN) exit-swabs, refund requests will be considered if there are strong mitigating factors. This may include flight cancellations by the airline, or changes in border policies which prevent the traveller from leaving for Singapore.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please submit your cancellation or refund requests via the respective channels below:</p>
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
-<table>
+<table style="width: 90%;">
   <thead>
     <tr>
       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; background-color:#4f728e; color: white;"><b>Traveller pass type</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; background-color:#4f728e; color:white;"><b>Refund Channels</b></th>
