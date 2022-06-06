@@ -6,9 +6,9 @@ published: false
 ---
 ### New FAQ
 
-This page contains answers to frequently asked questions and clarifications regarding travelling to Singapore. If you have not done so already, you should visit the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for an overview of entry requirements.  For departure or transit-related information, visit the “<a href="/departing/overview">Departure from Singapore</a>” or “<a href="/transit/overview" target="_blank">Transiting through Singapore</a>” pages.
+<p style="font-size:20px; line-height:1.5;">This page contains answers to frequently asked questions and clarifications regarding travelling to Singapore. If you have not done so already, you should visit the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for an overview of entry requirements.  For departure or transit-related information, visit the “<a href="/departing/overview">Departure from Singapore</a>” or “<a href="/transit/overview" target="_blank">Transiting through Singapore</a>” pages.</p>
 
-If you have a query that has not been addressed, click on the categories below to refer to the relevant traveller FAQs:
+<p style="font-size:20px; line-height:1.5;">If you have a query that has not been addressed, click on the categories below to refer to the relevant traveller FAQs:</p>
 
 <div id="top"></div>
 
@@ -22,21 +22,25 @@ If you have a query that has not been addressed, click on the categories below t
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#TT">TraceTogether App Issues</a></li>
 </ol>
 
-Please refer to MOH’s FAQs and info for issues related to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">vaccination status and boosters within Singapore</a>, and <a href="https://www.covid.gov.sg/" target="_blank">what to do if tested positive while in Singapore</a>. Foreign workers and their employers may also wish to refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions" target="_blank">MOM’s FAQs for details on MOM-specific requirements</a>.
+<p style="font-size:20px; line-height:1.5;"> Please refer to MOH’s FAQs and info for issues related to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">vaccination status and boosters within Singapore</a>, and <a href="https://www.covid.gov.sg/" target="_blank">what to do if tested positive while in Singapore</a>. Foreign workers and their employers may also wish to refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions" target="_blank">MOM’s FAQs for details on MOM-specific requirements</a>.</p>
 
 ---
 
-<div id="VTF"></div>
-
 <!--<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"></p>-->
 
-<div id="1C" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:20px; width:104.1%;"><b>1) Vaccinated Travel Framework</b></div>
+<div id="VTF" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:20px; width:104.1%;"><b>1) Vaccinated Travel Framework</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:104.1%;">
-	
 
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Defer your travels if you have experienced the onset of any COVID-19 symptoms in the last 7 days before departure. This may include fever, cough, runny nose, sore throat, loss of taste or smell.</p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Otherwise, complete your <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> <b>up to 3 days before your arrival in Singapore</b>. The SG arrival card (SGAC) is a simple and free arrival declaration of your travel and health details. You are exempted from submitting your SGAC if you are a <b> Singapore Citizen, Permanent Resident or Long-Term Pass Holder arriving by Land.</b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Upon the completion of your SGAC, you will receive an email acknowledgement which you can present for smoother pre-boarding and immigration checks.</p>
+<p style="color: red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>1a. Are there travel requirements specific to nationality, or country/region I’m departing from?</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> There are currently <b>no</b> COVID-19 entry requirements based on nationality or country/region of travel. Entry requirements related to COVID-19 are currently only based on age and COVID-19 vaccination status.</p>
+
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> There are additional entry requirements based on traveller profile and country of travel only if you are:</p>
+<ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A short-term visitor holding a passport of a visa-required country</li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A traveller who has visited Yellow Fever high risk countries/regions</li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:20px; font-size:18px; line-height:1.35;">A non-Malaysian work permit In-Principle Approval holder in the Construction, Marine shipyard or Process sectors</li>
+</ol>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">For details, please visit the <a href="/arriving/overview" target="_blank">Travelling to Singapore></a> page and then read the fully vaccinated checklist or non-fully vaccinated checklist depending on your age and COVID-19 vaccination status.</p>
 </div>
 
 
