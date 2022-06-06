@@ -93,7 +93,11 @@ published: false
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120%;">
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>4a. Can I be exempted from Stay-Home Notice (SHN)?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">As a condition for entry into Singapore, non-fully vaccinated travellers must serve a 7-day SHN. An electronic copy the SHN will be issued upon your clearance of arrival immigration and commence immediately. See illustration below on the SHN period to be served.</p>
-
+<div style="padding: 5px; margin-bottom:0px; line-height:1.35; border:2px solid #000000; font-size:18px;"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><i><b><u>Illustration:</u></b></i></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Traveller A had cleared arrival immigration on 1 March 2021. His SHN will start immediately on 1 March and end on 8 March 2021, or after the release of a negative COVID-19 test result, whichever is later.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Alternatively use <a href="/shn-calculator" target="_blank">this calculator</a> for your estimated SHN-end date.</p>
+	</div>
+	
 <div id="vaxcert"></div>
 
 <p style="color: #d30000; font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><b>3b. Am I required to verify my vaccination certificate using the Vaccination Check Portal (VCP) before arrival?</b></p>
