@@ -32,19 +32,19 @@ Please refer to MOH’s FAQs and info for issues related to <a href="https://www
 <div id="definition"></div>
 
 
-<div id="definition"></div>
+<div id="FVorBelow12"></div>
 
 
-<div id="definition"></div>
+<div id="NFV"></div>
 
 
-<div id="definition"></div>
+<div id="tech"></div>
 
 
-<div id="definition"></div>
+<div id="SGAC"></div>
 
 
-<div id="definition"></div>
+<div id="TT"></div>
 
 
 
