@@ -93,7 +93,7 @@ Travellers may click on the links below for FAQs relating to the following agenc
 
 ### 1) Digitally Verifiable Vaccination Certificate 
 
-<div id="invalidcode"></div>
+<div id="invalidcode"></div> [To remove as the Q containing the link to this anchor at the TT section is no longer needed in the new FAQ]
 
 #### 1. What should I do if my Vaccination Certificates are not accepted in the Vaccination Check Portal or SG Arrival Card?
 
