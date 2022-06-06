@@ -340,19 +340,19 @@ permalink: /FAQ
 <div id="top"></div>
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
-		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#vaxcert">Digitally Verifiable Vaccination Certificate</a></li>
-		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Common Portal Technical Issues</a><ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-latin;">
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#amendment">Amendment of Approved Entry Applications</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#receiptandapproval">Receipts and Approval Letters</a></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#TravellerDetails">Traveller Details</a></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#upload">Document Uploads</a></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#GenAppIssues">Other General Application Issues</a></li>
+		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#vaxcert">Digitally Verifiable Vaccination Certificate</a></li> [Anchor at Q3b of revamped FAQ]
+		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Common Portal Technical Issues</a> [Anchor at Section 5 of revamped FAQ]<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-latin;"> 
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#amendment">Amendment of Approved Entry Applications</a></li> [Anchor at Q5f of revamped FAQ]
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#receiptandapproval">Receipts and Approval Letters</a></li>[Anchor at Q5e of revamped FAQ]
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#TravellerDetails">Traveller Details</a></li>[Anchor at Q5c of revamped FAQ]
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#upload">Document Uploads</a></li>[Anchor at Q5b of revamped FAQ]
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#GenAppIssues">Other General Application Issues</a></li>[Anchor at Q5i of revamped FAQ]
 </ol></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN)</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#transport">Transport Advisories</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN)</a></li>[Anchor at Q4a of revamped FAQ]
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#transport">Transport Advisories</a></li>[Anchor at Q4b of revamped FAQ]
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers</a></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#TT">TraceTogether for Travellers</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>[Anchor at Q4d of revamped FAQ]
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#TT">TraceTogether for Travellers</a></li>[Anchor at Section 7 of revamped FAQ]
 </ol>
 
 Travellers may click on the links below for FAQs relating to the following agencies:-
@@ -369,7 +369,7 @@ Travellers may click on the links below for FAQs relating to the following agenc
 
 ### 1) Digitally Verifiable Vaccination Certificate 
 
-<div id="invalidcode"></div>
+<div id="invalidcode"></div> 
 
 #### 1. What should I do if my Vaccination Certificates are not accepted in the Vaccination Check Portal or SG Arrival Card?
 
