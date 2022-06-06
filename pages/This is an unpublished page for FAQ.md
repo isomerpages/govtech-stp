@@ -91,6 +91,9 @@ published: false
 
 <div id="NFV" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120%;"><b>4) Entry Requirements for Travellers born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth) and are Non-Fully Vaccinated</b><p style="color:white; font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><i><u><b>Note</b></u>: Full entry requirements can be found in the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully Vaccinated Traveller Checklist</a> (click to access).</i></p></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120%;">
+
+<div id="shnsdf"></div>
+
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>4a. Can I be exempted from Stay-Home Notice (SHN)?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">As a condition for entry into Singapore, non-fully vaccinated travellers must serve a 7-day SHN. An electronic copy the SHN will be issued upon your clearance of arrival immigration and commence immediately. See illustration below on the SHN period to be served.</p>
 <div style="padding: 5px; margin-bottom:0px; line-height:1.35; border:2px solid #000000; font-size:18px;"><p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><i><b><u>Illustration:</u></b></i></p>
@@ -100,9 +103,9 @@ published: false
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Non-compliance with any SHN condition is an offence punishable under Singapore’s laws. If you encounter any difficulties during your SHN or need to leave your SHN accommodation for emergency reasons, contact the SafeTravel Enquiries Helpline at 6812 5555 for assistance and advice.</p>
 	
 
-<div id="vaxcert"></div>
+<div id="transport"></div>
 
-<p style="color: #d30000; font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><b>3b. Am I required to verify my vaccination certificate using the Vaccination Check Portal (VCP) before arrival?</b></p>
+<p style="color: #d30000; font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><b>4b. What are my transport options to my SHN venue and to my COVID-19 testing location?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The VCP can only verify <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">digitally verifiable vaccination certificates (DVC) issued by selected countries/regions</a>.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you do not possess a VCP-compatible vaccination certificate or are unable to submit your vaccination certificate due to technical difficulties, you can show a <a href="/arriving/general-travel/fully-vaccinated#step1" target="_blank">physical hardcopy or app containing the required details</a>. If you still wish to troubleshoot your VCP submission, refer to “<a href="#tech">Portal FAQs</a>” section for details.</p>
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>3c. I am fully vaccinated but I tested COVID-19 positive just before travelling to Singapore, what should I do?</b></p>
