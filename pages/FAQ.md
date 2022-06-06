@@ -129,6 +129,7 @@ permalink: /FAQ
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If payment was made directly to a 3rd party service provider, e.g. selected hotel accommodation, please contact the service provider directly for assistance.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For payments made during the Entry Application process, e.g. Stay-Home Notice (SHN) exit-swabs, refund requests will be considered if there are strong mitigating factors. This may include flight cancellations by the airline, or changes in border policies which prevent the traveller from leaving for Singapore.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please submit your cancellation or refund requests via the respective channels below:</p>
+<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 <table>
   <thead>
     <tr>
