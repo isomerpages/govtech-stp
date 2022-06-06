@@ -271,7 +271,6 @@ details[open] summary::before {
 
     
 <html>
-<html>
 <head>
 <meta charset="utf-8">
 <title>Test Accordion</title>
