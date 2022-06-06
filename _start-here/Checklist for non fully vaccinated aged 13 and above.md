@@ -21,12 +21,11 @@ margin-left:60px;
 
 <div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px; width:104.1%">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
-  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>all travellers, including Singapore Citizens and Permanent Residents</b>, born in or before 2009 (i.e. aged 13 and above by year of birth), who are entering Singapore from <b>any country/region</b> via air, land or sea, <b>and</b> are:
+  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>all travellers, including Singapore Citizens and Permanent Residents</b>, born in or before 2009 (i.e. aged 13 and above by year of birth), who are entering Singapore from <b>any country/region</b> via air, land or sea, <b>and</b> are:</p>
   <ol style="padding-left:25px; list-style-type:disc;">
     <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Non-fully vaccinated against COVID-19 with WHO EUL vaccines;* <b>OR</b></li>
        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Certified medically ineligible for COVID-19 vaccination</li>
   </ol>
-  </p>
     <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">If you are fully vaccinated or born in or after 2010, refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">this checklist</a> instead. Travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information.</p>
      <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken at least one dose of CanSinoBIO/Convidecia or Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixed doses and boosters using these WHO EUL vaccines, and vaccination with recovery are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
   </div>
