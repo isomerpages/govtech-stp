@@ -260,7 +260,7 @@ published: false
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Periodic Commuting Arrangement</li>
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Reciprocal Green Lane</li>
 </ol>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Certificates reflecting incomplete information, e.g. redacted/partial names or identification numbers, will be rejected. If you continue to encounter technical difficulties verifying your DVC, you have <a href="#vaxcert">these options</a> to show proof of vaccination. If you presently hold a DVC issued in Hong Kong SAR containing masked information, <a href="https://www.evt.gov.hk/portal/en/workflow2" target="_blank">click here</a> for instructions to unmask your info and download an VCP-compatible vaccination certificate.</p>	
+<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">For all successful submissions made using the portals above, the SafeTravel Office will send the relevant approvals and acceptance letters directly to the email indicated in your submissions. Depending on email settings, these letters may be found in your junk/spam folder. If you are unable to locate your approvals / acceptance letter, submit the following details via this form for assistance: (a) application reference number, (b) your contact details, and (c) screenshots of your application status or payment invoice.</p>	
 
 	
 
