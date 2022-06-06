@@ -287,7 +287,29 @@ published: false
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
 </div>
 
-<div id="SGAC"></div>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
+
+<div id="SGAC" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120%;"><b>6) SG Arrival Card (SGAC) and e-Pass Issues</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120%;">
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>6a. Am I required to submit my SG Arrival Card (SGAC)?</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Yes, all travellers must complete their SGAC up to three days before arrival in Singapore. </p>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">You do not need to submit an SGAC declaration only if you are a fully vaccinated Singapore Citizen, Permanent Resident or Long-term Pass Holder arriving in Singapore <b>via Land</b>.</p>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">To troubleshoot your SGAC submission, visit these ICA pages: <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card" target="_blank">What is SGAC</a> and <a href="https://va.ecitizen.gov.sg/cfp/customerpages/ICA/explorefaq.aspx?Category=48674" target="_blank">SGAC FAQs</a>.</p>
+	
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>6b. How do I retrieve my SG Arrival Card (SGAC) acknowledgement e-mail after submission?</b></p>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Upon the submission of your SG Arrival Card, you will receive an acknowledgement slip which you can download in PDF format online. The same acknowledgement slip will also be sent to your email inbox (check your spam/junk folder). If there is a mistake in your submission, or if you are unable to retrieve your acknowledgement slip, you can submit a fresh declaration if you have not yet cleared immigration.</p>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you have already cleared arrival immigration in Singapore, and are unable to retrieve your acknowledgement slip for the disembarkation (DE) number, provide the following information via this form to the Safe Travel Office for assistance: (a) full name (per passport), (b) date of birth, (c) nationality, (d) passport number, (e) passport expiry date, (f) date of arrival in Singapore.</p>
+	
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>6c. I am unable to retrieve my e-Pass from the ICA system. What should I do?</b></p>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">An e-Pass (e-visit pass) is only sent to foreign visitors <b>after they have cleared arrival immigration. Please do not attempt to retrieve your e-pass before clearing arrival immigration as it will result in an error.</b></p>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you have already arrived in Singapore and had submitted more than one SGAC for the same trip, please use the DE number from the latest SGAC acknowledgement e-mail.</p>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><a href="https://www.ica.gov.sg/public-education/roll-out-of-e-pass-to-all-checkpoints-and-launch-of-ica's-e-pass-enquiry-portal" target="_blank">Click here for more information on the e-Pass</a>.</p>
+	
+	
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
+</div>
+
 
 
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
