@@ -536,70 +536,119 @@ details[open] summary::before {
     </p>
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your SHN will end upon completion of the 7-day SHN period applicable, or upon receipt of a negative PCR test result, <b>whichever is later</b>. The failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers will first be issued an Electronic Monitoring Device (EMD) from ICA. For subsequent breaches, traveller can be fined, imprisoned, and/or have their residency/work permits revoked. Watch these videos for a walkthrough on the <a href="https://youtu.be/171I93ldXzg" target="_blank">SHN Requirements (English)</a>, <a href="https://youtu.be/300gtMksKrw" target="_blank">SHN Requirements (Mandarin)</a>, <a href="https://youtu.be/TcgBoA0Hrn0" target="_blank">SHN Requirements (Bahasa Indonesia)</a> and the penalties for <a href="https://youtube.com/watch?v=Om-hkGPvHOc&t=2s" target="_blank">SHN Breaches</a>.</p>    
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35; color:red;">(Click "+" to expand for details)</p>
-<html>
 
+<html>
 <head>
 <meta charset="utf-8">
 <title>Test Accordion</title>
-
 <style>
-
-input {
-    display: none;
+	
+/* # The Rotating Marker # */
+details summary::-webkit-details-marker { display: none; }
+summary::before {
+  font-family: "Hiragino Mincho ProN", "Open Sans", sans-serif;
+  content: "▶";
+  position: absolute;
+  top: 1rem;
+  left: 0.8rem;
+  transform: rotate(0);
+  transform-origin: center;
+  transition: 0.2s transform ease;
+}
+details[open] > summary:before {
+  transform: rotate(90deg);
+  transition: 0.45s transform ease;
 }
 
-label {
-    display: block;    
-    padding: 10px 30px;
-    margin: 0 0 1px 0;
-    cursor: pointer;
-    background: #153855;
-    border-radius: 3px;
-    color: #FFF;
-    transition: ease .5s;
-    position: relative;
+/* # The Sliding Summary # */
+details { overflow: hidden; }
+details summary {
+  position: relative;
+  z-index: 10;
+}
+@keyframes details-show {
+  from {
+    margin-bottom: -80%;
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+}
+details > *:not(summary) {
+  animation: details-show 500ms ease-in-out;
+  position: relative;
+  z-index: 1;
+  transition: all 0.3s ease-in-out;
+  color: transparent;
+  overflow: hidden;
+}
+details[open] > *:not(summary) { color: inherit; }
+
+/* # Style 6 # */
+details.style6 summary {
+  padding-right: 2.2rem;
+  padding-left: 1rem;
+}
+details.style6 summary::before {
+  content: "\271A";
+  font-size: 1.5rem;
+  top: 0.5rem;
+  left: unset;
+  right: 0.5rem;
+  transform: rotate(0);
+}
+details.style6:hover > summary:before {
+  content: "\271A";
+}
+details[open].style6 > summary:before {
+  content: "\2716";
+  transform: rotate(0deg);
 }
 
-label:hover {
-    background: #346f9e;
+/* # Just Some Pretty Styles # */
+body { font-family: "Open Sans", sans-serif; padding-bottom: 400px; }
+img { max-width: 100%; }
+p { margin: 0; padding-bottom: 10px; }
+p:last-child { padding: 0; }
+details {
+  /*max-width: 500px;*/
+  box-sizing: border-box;
+  margin-top: 5px;
+  background: white;
 }
-
-label::after {
-    font-family: "Font Awesome 5 Free";
-    content: '\271A';
-    font-weight: bold;
-    font-size: 22px;
-    position: absolute;
-    right: 10px;
-    top: 6px;
+summary {
+  border: 4px solid transparent;
+  outline: none;
+  padding: 1rem;
+  display: block;
+  background: #CEDEED;
+  color: #000;
+  padding-left: 2.2rem;
+  position: relative;
+  cursor: pointer;
 }
-
-input:checked + label::after {
-    content: '\2716';
+details[open] summary,
+summary:hover {
+  color: #000;
+  background: #9ac5ed;
 }
-
-.content {
-    background: #FFFFFF;
-    padding: 10px 25px;
-    margin: 0 0 1px 0;
-    border-radius: 3px;
+summary:hover strong,
+details[open] summary strong,
+summary:hover::before,
+details[open] summary::before {
+  color: #000;
 }
-
-input + label + .content {
-    display: none;
+.contenttest {
+  padding: 10px;
+  border: 2px solid #888;
+  border-top: none;
 }
-
-input:checked + label + .content {
-    display: block;
-}
-    
 </style>
 </head>
-<body>    
-<input id="SHN-FAQ" type="checkbox">
-<label style="background-color: #CEDEED; color:#182657;" for="SHN-FAQ"><b>SHN Frequently Asked Questions</b></label>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color: #edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> <b> Q1) Commuting to SHN location and to/from COVID-19 test site</b></p>
+<body>
+<details class="style6">
+	<summary><b>SHN Frequently Asked Questions</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
+ <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> <b> Q1) Commuting to SHN location and to/from COVID-19 test site</b></p>
           <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The commuting arrangement stated at <a href="#2B">Stage 2B</a> will continue to apply for the SHN duration. </p>
             <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>Q2) SHN end date:</b></p>
             <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Use the <a href="/shn-calculator" target="_blank">SHN calculator</a> for your estimated SHN end date or refer to the illustrations below. If you need to leave your SHN for an emergency, e.g. funeral or hospital visits, submit a <a href="https://go.gov.sg/sto-enquiry" target="_blank">written request</a> to the SafeTravel Office for assistance.</p>
@@ -613,9 +662,10 @@ input:checked + label + .content {
                <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">During the SHN period, randomised in-person or phone/video compliance calls will be conducted.</p>
                <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM), or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked for the last four digits of their identity card or travel document for identity verification.</p>
           <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
-</div>
+  </div>
+</details>
 </body>
-</html>
+</html>	
 </div>
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad;border-right:2px solid #adadad; font-size:18px; width:120.1%;">
