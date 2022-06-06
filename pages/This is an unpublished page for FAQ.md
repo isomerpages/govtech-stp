@@ -118,14 +118,11 @@ Common Portal Technical Issues
 TraceTogether for Travellers
 </ol>
 
-Travellers may click on the links below for FAQs relating to the following agencies:-
 
-<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="https://ask.gov.sg/agency/moh" target="_blank">Ministry of Health (MOH)</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions" target="_blank">Ministry of Manpower (MOM)</a></li>
-</ol>
 
 ---
+
+
 
 <div id="vaxcert"></div>
 
