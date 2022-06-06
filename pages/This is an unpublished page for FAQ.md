@@ -244,7 +244,13 @@ published: false
 </tr>
 </tbody>
 </table>	
+
+
+<div id="upload"></div>
 	
+<p style="color: #d30000; font-size:18px; margin-top: 30px; margin-bottom:20px; line-height:1.35;"><b>5d. I was logged out of the system mid-way through my application. Why has this happened, and can I continue with my earlier application?</b></p>
+
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All application sessions will expire after 20 minutes of inactivity. As this is to prevent unauthorised access to your application information, you will not be able to continue with your earlier application.</p>	
 
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
