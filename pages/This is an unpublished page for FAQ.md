@@ -245,12 +245,24 @@ published: false
 </tbody>
 </table>	
 
-
-<div id="upload"></div>
-	
 <p style="color: #d30000; font-size:18px; margin-top: 30px; margin-bottom:20px; line-height:1.35;"><b>5d. I was logged out of the system mid-way through my application. Why has this happened, and can I continue with my earlier application?</b></p>
 
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All application sessions will expire after 20 minutes of inactivity. As this is to prevent unauthorised access to your application information, you will not be able to continue with your earlier application.</p>	
+
+<div id="receiptandapproval"></div>
+	
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5e. I did not receive my entry approval or vaccination acceptance letter. What should I do?</b></p>
+
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you had applied for entry with an agency that is not the ICA SafeTravel Office, check with the relevant agency for the status of your application. Otherwise, use the SafeTravel Application Checker to check on the status of your submissions/applications made using any of the following portals:</p>
+<ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Vaccination Check Portal</li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Non-fully vaccinated Travellers Entry Application Portal (Familial Ties)</li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Periodic Commuting Arrangement</li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Reciprocal Green Lane</li>
+</ol>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Certificates reflecting incomplete information, e.g. redacted/partial names or identification numbers, will be rejected. If you continue to encounter technical difficulties verifying your DVC, you have <a href="#vaxcert">these options</a> to show proof of vaccination. If you presently hold a DVC issued in Hong Kong SAR containing masked information, <a href="https://www.evt.gov.hk/portal/en/workflow2" target="_blank">click here</a> for instructions to unmask your info and download an VCP-compatible vaccination certificate.</p>	
+
+	
 
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
