@@ -47,12 +47,8 @@ published: false
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>There are no countries/regions on the Restricted Travel list today, and all countries are currently under the General Travel list.</b> Your entry/travel requirements are therefore currently based on only your age and COVID-19 vaccination status, regardless of your travel history or country/region of departure.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Countries/regions may subsequently be shifted to the “Restricted Travel” list to limit the risk of importing new and potentially dangerous disease variants if they arise.</p>
 
-	
----
-
-
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="top">Content Page</a> for other more relevant questions.</p>
-
 </div>
 
 
