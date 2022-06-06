@@ -26,11 +26,8 @@ published: false
 
 ---
 
-<!--<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"></p>-->
-
 <div id="VTF" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120%;"><b>1) Vaccinated Travel Framework</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120%;">
-
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>1a. Are there travel requirements specific to nationality, or country/region I’m departing from?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> There are currently <b>no</b> COVID-19 entry requirements based on nationality or country/region of travel. Entry requirements related to COVID-19 are currently only based on age and COVID-19 vaccination status.</p>
 
@@ -51,9 +48,24 @@ published: false
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="top">Content Page</a> for other more relevant questions.</p>
 </div>
 
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
 
 
-<div id="definition"></div>
+<div id="definition" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120%;"><b>2) Definition of “Fully Vaccinated” and “Non-fully Vaccinated” Travellers</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120%;">
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>2a. I took non-WHO EUL COVID-19 vaccines and am considered fully vaccinated in my home country. Do I qualify for entry into Singapore as a fully vaccinated traveller?</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Completing the vaccination regime in your home country does not automatically qualify you for entry into Singapore as a fully vaccinated traveller.</p>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">You are only considered a fully vaccinated traveller for entry to Singapore only if you have received <a href="/arriving/overview#vaccination" target="_blank">the required WHO-EUL COVID-19 vaccine type/dose(s)</a> and can produce the relevant vaccination proof. If you had only taken COVID-19 vaccines that are not approved under the WHO-EUL, or did not receive the required minimum vaccine doses, you are considered non-fully vaccinated.</p>
+	
+<p style="color: #d30000; font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><b>2b. Am I considered fully or non-fully vaccinated for entry to Singapore? Is my previous COVID-19 infection or recovery a consideration?</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Children <b>born on or after 1 January 2010</b> (i.e. aged 12 and below by year of birth) will follow the quarantine-free entry requirements for fully vaccinated travellers, regardless of their vaccination or recovery status.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Travellers <b>born on or before 31 Dec 2009</b> (i.e. aged 13 and above by year of birth) must receive at least <a href="/arriving/overview#vaccination" target="_blank">the minimum required WHO-EUL vaccines</a> to qualify for entry to Singapore as a fully vaccinated traveller. This applies to travellers who have recovered from COVID-19 as well. Travellers who have taken only non-WHO EUL vaccines, or are certified medically ineligible for vaccination, are not eligible for quarantine-free entry.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To continue to qualify for any <a href="https://file.go.gov.sg/vdsmminfo.pdf" target="_blank">vaccination-differentiated measures during your stay</a>, you must satisfy the prevailing domestic vaccination requirements in Singapore. For more information on vaccination requirements within Singapore, visit: <a href="https://moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s Post-Vaccination Matters FAQs</a>.</p>
+
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="top">Content Page</a> for other more relevant questions.</p>
+</div>
+
 
 
 <div id="FVorBelow12"></div>
