@@ -131,6 +131,41 @@ published: false
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If payment was made directly to a 3rd party service provider, e.g. selected hotel accommodation, please contact the service provider directly for assistance.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For payments made during the Entry Application process, e.g. Stay-Home Notice (SHN) exit-swabs, refund requests will be considered if there are strong mitigating factors. This may include flight cancellations by the airline, or changes in border policies which prevent the traveller from leaving for Singapore.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please submit your cancellation or refund requests via the respective channels below:</p>
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>Traveller pass type</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>Refund Channels</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg </a></td>
+    </tr>
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Helpers and Confinement Nannies</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the helper or nanny's entry approval <b>at least 5 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a> </li>
+           </ol>
+   </td>
+    </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">All other Work Pass Holders and their dependents</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the pass holder's entry approval <b>at least 7 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-entry-approval">For Work Pass holder or dependant</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-entry-individual">For Personalised Empoyer Pass holder without employer, Entrepass and Work Holiday Pass and their dependants</a> </li>
+           </ol>
+   </td>
+    </tr>
+      <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Student’s Pass Holders</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://form.gov.sg/#!/5f6858d80666cb0011cae36e">Refund Form</a><br/><br/> Refund requests must be submitted within <b><u>3 months</u></b> from the end of SHN or the end of the SafeTravel Pass validity period, whichever is later. Late requests will <b><u>not</u></b> be considered.
+</td>
+   </tr> 
+  </tbody>
+  </table>
+
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
 </div>
