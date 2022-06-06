@@ -389,6 +389,12 @@ details[open] summary::before {
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><sup>Footnote 1</sup> Insurance is strongly encouraged but not mandatory for those who received entry approval via the SafeTravel Office Application Portal. Short-term visitors are responsible for all costs associated with COVID-19 treatment and recovery throughout their stay in Singapore.</p>
   </div>
 </details>
+	<details class="style6">
+	<summary><b>Travelled to countries/regions in Africa and Latin America with Yellow Fever Risk</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
+ <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>, if not you will be subjected to 6 days quarantine on arrival.</p>
+  </div>
+</details>
 <details class="style6">
 	<summary><b>Drivers of Foreign-Registered Vehicles Entering by Land</b></summary>
   <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
