@@ -126,93 +126,142 @@ margin-left:80px;
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35; color:red;">(Click “+” to expand for details)</p>
 
 <html>
-
 <head>
 <meta charset="utf-8">
 <title>Test Accordion</title>
-
 <style>
-
-input {
-    display: none;
+	
+/* # The Rotating Marker # */
+details summary::-webkit-details-marker { display: none; }
+summary::before {
+  font-family: "Hiragino Mincho ProN", "Open Sans", sans-serif;
+  content: "▶";
+  position: absolute;
+  top: 1rem;
+  left: 0.8rem;
+  transform: rotate(0);
+  transform-origin: center;
+  transition: 0.2s transform ease;
+}
+details[open] > summary:before {
+  transform: rotate(90deg);
+  transition: 0.45s transform ease;
 }
 
-label {
-    display: block;    
-    padding: 10px 30px;
-    margin: 0 0 1px 0;
-    cursor: pointer;
-    background: #153855;
-    border-radius: 3px;
-    color: #FFF;
-    transition: ease .5s;
-    position: relative;
+/* # The Sliding Summary # */
+details { overflow: hidden; }
+details summary {
+  position: relative;
+  z-index: 10;
+}
+@keyframes details-show {
+  from {
+    margin-bottom: -80%;
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+}
+details > *:not(summary) {
+  animation: details-show 500ms ease-in-out;
+  position: relative;
+  z-index: 1;
+  transition: all 0.3s ease-in-out;
+  color: transparent;
+  overflow: hidden;
+}
+details[open] > *:not(summary) { color: inherit; }
+
+/* # Style 6 # */
+details.style6 summary {
+  padding-right: 2.2rem;
+  padding-left: 1rem;
+}
+details.style6 summary::before {
+  content: "\271A";
+  font-size: 1.5rem;
+  top: 0.5rem;
+  left: unset;
+  right: 0.5rem;
+  transform: rotate(0);
+}
+details.style6:hover > summary:before {
+  content: "\271A";
+}
+details[open].style6 > summary:before {
+  content: "\2716";
+  transform: rotate(0deg);
 }
 
-label:hover {
-    background: #346f9e;
+/* # Just Some Pretty Styles # */
+body { font-family: "Open Sans", sans-serif; padding-bottom: 400px; }
+img { max-width: 100%; }
+p { margin: 0; padding-bottom: 10px; }
+p:last-child { padding: 0; }
+details {
+  /*max-width: 500px;*/
+  box-sizing: border-box;
+  margin-top: 5px;
+  background: white;
 }
-
-label::after {
-    font-family: "Font Awesome 5 Free";
-    content: '\271A';
-    font-weight: bold;
-    font-size: 22px;
-    position: absolute;
-    right: 10px;
-    top: 6px;
+summary {
+  border: 4px solid transparent;
+  outline: none;
+  padding: 1rem;
+  display: block;
+  background: #CEDEED;
+  color: #000;
+  padding-left: 2.2rem;
+  position: relative;
+  cursor: pointer;
 }
-
-input:checked + label::after {
-    content: '\2716';
+details[open] summary,
+summary:hover {
+  color: #000;
+  background: #9ac5ed;
 }
-
-.content {
-    background: #FFFFFF;
-    padding: 10px 25px;
-    margin: 0 0 1px 0;
-    border-radius: 3px;
+summary:hover strong,
+details[open] summary strong,
+summary:hover::before,
+details[open] summary::before {
+  color: #000;
 }
-
-input + label + .content {
-    display: none;
+.contenttest {
+  padding: 10px;
+  border: 2px solid #888;
+  border-top: none;
 }
-
-input:checked + label + .content {
-    display: block;
-}
-    
 </style>
 </head>
-<body>    
-<input id="IPA-Family" type="checkbox">
-    <label style="background-color: #CEDEED; color:#182657;" for="IPA-Family"><b>Family Members of a Singapore Citizen/Permanent Resident, including adopted child holding a Dependant's Pass In-Principle Approval</b></label>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color: #edf4fa;" class="content">
+<body>
+<details class="style6">
+<summary><b>Family Members of a Singapore Citizen/Permanent Resident, including adopted child holding a Dependant's Pass In-Principle Approval</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
-</div>
-    
-<input id="LTPHabove18" type="checkbox">
-    <label style="background-color:#CEDEED; color:#182657;" for="LTPHabove18"><b>MOE or MOM Long-Term Pass Holders who are Medically Ineligible for Vaccines</b></label>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color: #edf4fa;" class="content">
+  </div>
+</details>
+<details class="style6">
+	<summary><b>MOE or MOM Long-Term Pass Holders who are Medically Ineligible for Vaccines</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate Family Members</u></b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">- Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Long-Term Pass Issued by MOM</u></b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">- <a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry</a>. Request is subject to approval. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.</p>
-</div>
-
-<input id="PR-LTVP-IPA" type="checkbox">
-    <label style="background-color: #CEDEED; color:#182657;" for="PR-LTVP-IPA"><b>Holders of Permanent Resident In-Principle Approval (IPA) or ICA Long-Term Visit Pass IPA</b></label>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color: #edf4fa;" class="content">
+  </div>
+</details>
+<details class="style6">
+	<summary><b>Holders of Permanent Resident In-Principle Approval (IPA) or ICA Long-Term Visit Pass IPA</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
-</div>
-    
-<input id="STVs-compassionate" type="checkbox">
-    <label style="background-color: #CEDEED; color:#182657; margin-top:2px;" for="STVs-compassionate"><b>Short-term Visitors Entering for Exceptional reasons (e.g. tend to critically ill family, or death of family member)</b></label>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color: #edf4fa;" class="content">
+  </div>
+</details>
+<details class="style6">
+	<summary><b>Short-term Visitors Entering for Exceptional reasons (e.g. tend to critically ill family, or death of family member)</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Entry request must be submitted <a href="https://go.gov.sg/sto-enquiry" target="_blank">using this form</a>, with the relevant supporting documents (e.g. doctor’s memo, death certificate).</p>
-</div>
+  </div>
+</details>
 </body>
-    </html>
+</html>
 </div>
     
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad; border-right:2px solid #adadad; font-size:18px; width:120.1%;" id="1B">
