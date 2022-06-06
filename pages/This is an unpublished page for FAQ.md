@@ -14,9 +14,9 @@ If you have a query that has not been addressed, click on the categories below t
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#VTF">Vaccinated Travel Framework</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Definition of “Fully Vaccinated” and “Non-fully Vaccinated” Travellers</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Entry requirements for Fully Vaccinated Travellers & Travellers born on or after 1 Jan 2010</a></li> 
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Entry requirements for Travellers born on or before 31 Dec 2009 and are Non-Fully Vaccinated</a></li> 
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#definition">Definition of “Fully Vaccinated” and “Non-fully Vaccinated” Travellers</a></li>
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#FVorBelow12">Entry requirements for Fully Vaccinated Travellers & Travellers born on or after 1 Jan 2010</a></li> 
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#NFV">Entry requirements for Travellers born on or before 31 Dec 2009 and are Non-Fully Vaccinated</a></li> 
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Troubleshooting for SafeTravel Portal Errors (Vaccination Check Portal, Entry Application Portal)</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#SGAC">SG Arrival Card and e-Pass Issues</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#TT">TraceTogether App Issues</a></li>
@@ -68,7 +68,6 @@ Common Portal Technical Issues
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#TravellerDetails">Traveller Details</a></li>[For Q5c of new FAQ]
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#upload">Document Uploads</a></li> [For Q5b of new FAQ]
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#GenAppIssues">Other General Application Issues</a></li> [For Q5i of new FAQ]
-</ol></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN)</a></li>[For Q4a of new FAQ]
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#transport">Transport Advisories</a></li>[For Q4b of new FAQ]
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers</a></li> [For Q4d of new FAQ]
