@@ -87,13 +87,9 @@ published: false
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
 </div>
 
-
-
-<div id="NFV"></div>
-
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
 
-<div id="definition" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120%;"><b>3) Entry Requirements for Fully Vaccinated Travellers & Travellers born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth)</b><p style="color:white; font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><i><u><b>Note</b></u>: Full entry requirements can be found in the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully Vaccinated Traveller Checklist</a> (click to access). </i></p></div>
+<div id="NFV" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120%;"><b>4) Entry Requirements for Travellers born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth) and are Non-Fully Vaccinated</b><p style="color:white; font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><i><u><b>Note</b></u>: Full entry requirements can be found in the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully Vaccinated Traveller Checklist</a> (click to access).</i></p></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120%;">
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>3a. Do I need to take a pre-departure test (PDT) when travelling to Singapore?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">No.</p>
