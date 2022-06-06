@@ -21,12 +21,11 @@ margin-left:60px;
 
 <div style="padding: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px; width:104.1%">
 <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;"><b><u>Instructions before use:</u></b></p>
-  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>all travellers, including Singapore Citizens and Permanent Residents</b>, born in or before 2009 (i.e. aged 13 and above by year of birth), who are entering Singapore from <b>any country/region</b> via air, land or sea, <b>and</b> are:
+  <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">This checklist is for <b>all travellers, including Singapore Citizens and Permanent Residents</b>, born in or before 2009 (i.e. aged 13 and above by year of birth), who are entering Singapore from <b>any country/region</b> via air, land or sea, <b>and</b> are:</p>
   <ol style="padding-left:25px; list-style-type:disc;">
     <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Non-fully vaccinated against COVID-19 with WHO EUL vaccines;* <b>OR</b></li>
        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">Certified medically ineligible for COVID-19 vaccination</li>
   </ol>
-  </p>
     <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;">If you are fully vaccinated or born in or after 2010, refer to <a href="/arriving/general-travel/fully-vaccinated" target="_blank">this checklist</a> instead. Travellers transiting in Singapore to another destination and not clearing Singapore immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information.</p>
      <p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken at least one dose of CanSinoBIO/Convidecia or Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixed doses and boosters using these WHO EUL vaccines, and vaccination with recovery are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
   </div>
@@ -510,12 +509,11 @@ details[open] summary::before {
 <div id="2B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad;border-right:2px solid #adadad; font-size:18px; width:104.1%;">
 &#9634; &nbsp;&nbsp;<b>2B) Commute to declared Stay-Home Notice (SHN) accommodation</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:104.1%;">
-     <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Following immigration clearance, you will:
+     <p style="font-size:18px; margin-top: 20px; margin-bottom: 0px; line-height:1.35;">Following immigration clearance, you will:</p>
     <ol style="padding-left: 20px; margin-top:20px; list-style-type: lower-latin;">
 <li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Receive a 7-day Stay-Home Notice (SHN) via the email address provided in your SGAC declaration; and</li>
-        <li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Commute directly to your declared SHN accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is prohibited.</li>
+        <li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Commute directly to your declared SHN accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is prohibited.</li>
     </ol>
-    </p>
      <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><a href="/faq#transport" target="_blank">Click here for the latest transport advisory.</a></p>
     </div>
     
@@ -524,12 +522,11 @@ details[open] summary::before {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px; width:104.1%;">
 &#9634; &nbsp;&nbsp;<b>3A) Stay-Home Notice (SHN) Requirements</b></div>
 <div style="padding:5px 10px 20px 10px; margin-bottom:0px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad; font-size:18px; width:104.1%;">
-     <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">The 7-day Stay Home Noticerequires you to quarantine and takes effect immediately upon its issuance. Remain in your declared SHN accommodation for the period specified in the notice, unless you are: 
+     <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">The 7-day Stay Home Notice requires you to quarantine and takes effect immediately upon its issuance. Remain in your declared SHN accommodation for the period specified in the notice, unless you are:</p> 
     <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
     <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Directed by the relevant authority to leave your accommodation; OR</li>
-        <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Scheduled to take your mandatory SHN-exit COVID-19 Polymerase Chain Reaction Test (PCR Test).</li>
+        <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Scheduled to take your mandatory SHN-exit COVID-19 Polymerase Chain Reaction Test (PCR Test).</li>
     </ol>
-    </p>
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To avoid queues, pay for your SHN-exit PCR test during your application for Entry Approval. Otherwise, pay for the test using the payment link found in your SHN (sent to your email address) before your appointment. Including GST, each test is S$125.
     </p>
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you did not receive your test appointment details a day before the end of your SHN, contact the SafeTravel Office at 6812 5555 for assistance. If you are unwell on the day of your test, remain in your SHN accommodation and <a href="https://go.gov.sg/tc" target="_blank">alert the relevant authorities</a>.
@@ -671,8 +668,8 @@ details[open] summary::before {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad;border-right:2px solid #adadad; font-size:18px; width:104.1%;">
 &#9634; &nbsp;&nbsp;<b>3B) Testing Positive for COVID-19</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-bottom:2px solid #adadad; font-size:18px; width:104.1%;">
-<p style="font-size:18px; margin-top: 10px; margin-bottom: 10px; line-height:1.35;">If you test positive for COVID-19, <a href="https://www.covid.gov.sg/travellers" target="_blank">adhere to these recovery protocols</a>.</p>
-<p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">In the event where you are assessed to be ineligible for home or in-situ recovery, you may be conveyed to a suitable COVID-19 care facility. Information on treatment and costs for COVID-19 for travellers can be found on <a href="/health/insurance-and-treatment#treatment" target="_blank">this page</a>.
+<p style="font-size:18px; margin-top: 10px; margin-bottom: 20px; line-height:1.35;">If you test positive for COVID-19, <a href="https://www.covid.gov.sg/travellers" target="_blank">adhere to these recovery protocols</a>.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom: 20px; line-height:1.35;">In the event where you are assessed to be ineligible for home or in-situ recovery, you may be conveyed to a suitable COVID-19 care facility. Information on treatment and costs for COVID-19 for travellers can be found on <a href="/health/insurance-and-treatment#treatment" target="_blank">this page</a>.
 </p>
 </div>    
     
@@ -690,7 +687,7 @@ details[open] summary::before {
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Complete the full vaccination regimen <b>within two months of arrival</b> if you are:</p>
 <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
     <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Born in or before 2009 (i.e. aged 13 and above by year of birth);  AND</li>
-    <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Hold a Long-term Pass, e.g. Student’s Pass, Work Pass.</li>
+    <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Hold a Long-term Pass, e.g. Student’s Pass, Work Pass.</li>
     </ol>
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">By completing the requisite vaccination regimen, you will be eligible for the renewal or extension of your long-term pass. If you suffer from a medical condition that disallows you from being vaccinated against COVID-19, obtain medical certification within 30 days of your arrival in Singapore to prove your ineligibility for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</p>
 </div>
