@@ -25,6 +25,9 @@ If you have a query that has not been addressed, click on the categories below t
 
 Please refer to MOH’s FAQs and info for issues related to vaccination status and boosters within Singapore, and what to do if tested positive while in Singapore. Foreign workers and their employers may also wish to refer to MOM’s FAQs for details on MOM-specific requirements.
 
+---
+
+
 
 
 
