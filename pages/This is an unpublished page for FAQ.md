@@ -8,9 +8,9 @@ published: false
 
 <p style="font-size:18px; line-height:1.5;">This page contains answers to frequently asked questions and clarifications regarding travelling to Singapore. If you have not done so already, you should visit the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for an overview of entry requirements.  For departure or transit-related information, visit the “<a href="/departing/overview">Departure from Singapore</a>” or “<a href="/transit/overview" target="_blank">Transiting through Singapore</a>” pages.</p>
 
-<p style="font-size:18px; line-height:1.5;">If you have a query that has not been addressed, click on the categories below to refer to the relevant traveller FAQs:</p>
-
 <div id="top"></div>
+
+<p style="font-size:18px; line-height:1.5;">If you have a query that has not been addressed, click on the categories below to refer to the relevant traveller FAQs:</p>
 
 <ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:decimal;">
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.5;"><a href="#VTF">Vaccinated Travel Framework</a></li>
@@ -45,7 +45,7 @@ published: false
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Countries/regions may subsequently be shifted to the “Restricted Travel” list to limit the risk of importing new and potentially dangerous disease variants if they arise.</p>
 
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
-<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="top">Content Page</a> for other more relevant questions.</p>
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
 </div>
 
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
@@ -63,7 +63,7 @@ published: false
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To continue to qualify for any <a href="https://file.go.gov.sg/vdsmminfo.pdf" target="_blank">vaccination-differentiated measures during your stay</a>, you must satisfy the prevailing domestic vaccination requirements in Singapore. For more information on vaccination requirements within Singapore, visit: <a href="https://moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s Post-Vaccination Matters FAQs</a>.</p>
 
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
-<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="top">Content Page</a> for other more relevant questions.</p>
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
 </div>
 
 
