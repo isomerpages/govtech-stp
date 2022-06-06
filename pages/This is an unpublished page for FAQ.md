@@ -5,6 +5,26 @@ description: ""
 published: false
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Old FAQ
+
+
 <b>This page contains FAQs on the following matters related to travelling to Singapore:</b>
 
 <div id="top"></div>
