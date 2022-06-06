@@ -106,13 +106,31 @@ published: false
 <div id="transport"></div>
 
 <p style="color: #d30000; font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><b>4b. What are my transport options to my SHN venue and to my COVID-19 testing location?</b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The VCP can only verify <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">digitally verifiable vaccination certificates (DVC) issued by selected countries/regions</a>.</p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you do not possess a VCP-compatible vaccination certificate or are unable to submit your vaccination certificate due to technical difficulties, you can show a <a href="/arriving/general-travel/fully-vaccinated#step1" target="_blank">physical hardcopy or app containing the required details</a>. If you still wish to troubleshoot your VCP submission, refer to “<a href="#tech">Portal FAQs</a>” section for details.</p>
-<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>3c. I am fully vaccinated but I tested COVID-19 positive just before travelling to Singapore, what should I do?</b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Follow the COVID-19 recovery protocols and laws that are in place in your country of departure, if any. If there are no specific recovery protocols in place, you can consider travelling again if you are feeling well and have subsequently tested negative, or it has been at least 7 days after you first tested positive.</p>	
-<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>3d. How do I show proof of my vaccination status after clearing immigration in Singapore?</b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You can show proof of vaccination via the TraceTogether mobile application or HealthHub application (Singpass users only). If you were vaccinated overseas, your vaccination status only lasts up to 30 days, or when you leave Singapore, whichever is earlier. For extended stays in Singapore, visit a <a href="https://flu.gowhere.gov.sg/" target="_blank">Public Health Preparedness Clinic</a> to register your vaccination status into the National Immunisation Registry (NIR). A booster vaccination dose may also be required.</p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If your vaccination status is reflected incorrectly in TraceTogether, write to <a href="https://go.gov.sg/vds-query-form" target="_blank">https://go.gov.sg/vds-query-form</a> for assistance.</p>	
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You can take any form of transportation <b>except</b> public trains and buses.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you are travelling with a private transport operator, including private-hire cars, inform the operator/driver of your SHN status by indicating <i>“SHN”</i> in your transport booking or telling the driver directly. You should sit alone in the back seat with windows down and air-conditioning turned off. Only travellers with the same travel history and heading to the same place are allowed to share a taxi or private hire vehicle.</p>
+
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>4c. I was issued an Electronic Monitoring Device (EMD) while serving my Stay-Home Notice (SHN). How do I use it?</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you are issued with an EMD, download the StayHome@SG mobile application (AppStore, Google PlayStore) and follow this EMD set-up guide or video. Once the EMD is ready, you must wear the wristband throughout the SHN. In the event of an SHN breach, an alert will be sent from the EMD to the relevant authorities and enforcement action will be taken. Upon the completion of your SHN, ICA will contact you on the collection of the gateway device. You may dispose the wristband based on existing e-waste disposal methods.</p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Additional EMD resources available here: Infographics, FAQ.</p>
+	
+<div id="pcrtest"></div>
+
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>4d. Can I be exempted from COVID-19 tests?</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The COVID-19 tests are mandatory.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Exemption from a pre-departure COVID-19 test is allowed only if you can produce valid proof of having contracted and recovered from COVID-19 in the past 14 – 90 days before departure for Singapore. A valid proof of recovery can include any document below, if it is in English, or translated to English, and contains your name, date of birth, ID or Passport Number, date of infection:</p>
+<ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-latin;">
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Medical discharge memo issued by the relevant state authority or licensed medical professional;</li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Result of a positive COVID-19 Polymerase Chain Reaction Test (PCR Test) administered at an internationally accredited or recognised lab/clinic/medical facility; or</li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:20px; font-size:18px; line-height:1.35;">Result of a positive Antigen Rapid Test (ART) administered by a trained professional.
+</li>
+</ol>
+	
+<div id="payments"></div>
+
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>4e. My trip to Singapore was cancelled. Can I ask for a refund for fees paid?</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If payment was made directly to a 3rd party service provider, e.g. selected hotel accommodation, please contact the service provider directly for assistance.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For payments made during the Entry Application process, e.g. Stay-Home Notice (SHN) exit-swabs, refund requests will be considered if there are strong mitigating factors. This may include flight cancellations by the airline, or changes in border policies which prevent the traveller from leaving for Singapore.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Please submit your cancellation or refund requests via the respective channels below:</p>
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
 </div>
