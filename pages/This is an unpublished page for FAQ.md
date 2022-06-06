@@ -191,6 +191,61 @@ published: false
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Vaccination certificate clearly reflects your personal information that is identical to your passport</li>
 </ol>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Certificates reflecting incomplete information, e.g. redacted/partial names or identification numbers, will be rejected. If you continue to encounter technical difficulties verifying your DVC, you have <a href="#vaxcert">these options</a> to show proof of vaccination. If you presently hold a DVC issued in Hong Kong SAR containing masked information, <a href="https://www.evt.gov.hk/portal/en/workflow2" target="_blank">click here</a> for instructions to unmask your info and download an VCP-compatible vaccination certificate.</p>
+
+<div id="TravellerDetails"></div>
+	
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5c. My name contains non-Latin/Roman alphabets (e.g. á, à, â, ä, å). How should I input my name?</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications containing non-Latin/Roman alphabets and punctuations (e.g. commas, hyphens) cannot be processed.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To get around this issue, submit the machine-readable name found in your passport (see image below for example). Alternatively, you may refer to <a href="#charactertable">the table</a> for the list of replacement characters. If your name contains a punctuation, replace these characters with a space instead.</p>
+<img src="/images/MRZ.png" style="width:auto; height:auto; border: 2px solid #B7B7B7;">
+
+<div id="charactertable"></div>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><b>Character replacement table:</b></p>
+<table>
+<thead>
+<tr>
+<th style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#4f728e; color:white; text-align:center;"><b>Non-Latin/Roman Alphabets</b></th>
+<th style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#4f728e; color:white; text-align:center;"><b>Replacement Characters</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">á, à, â, ä, å</td>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">a</td>
+</tr>
+<tr>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">è, é, ê, ë</td>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">e</td>
+</tr>	
+					<tr>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ì, í, î, ï</td>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">i</td>
+</tr>
+					<tr>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ò, ó, õ, ö</td>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">o</td>
+</tr>
+						<tr>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ù, ú, û</td>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">u</td>
+</tr>
+<tr>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">β</td>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ss</td>
+</tr>
+<tr>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ø</td>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">oe</td>
+</tr>
+							<tr>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ü</td>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">ue</td>
+</tr>
+</tbody>
+</table>	
+	
+
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
 </div>
