@@ -100,7 +100,7 @@ published: false
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Traveller A had cleared arrival immigration on 1 March 2021. His SHN will start immediately on 1 March and end on 8 March 2021, or after the release of a negative COVID-19 test result, whichever is later.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;">Alternatively use <a href="/shn-calculator" target="_blank">this calculator</a> for your estimated SHN-end date.</p>
 </div>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Non-compliance with any SHN condition is an offence punishable under Singapore’s laws. If you encounter any difficulties during your SHN or need to leave your SHN accommodation for emergency reasons, contact the SafeTravel Enquiries Helpline at 6812 5555 for assistance and advice.</p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Non-compliance with any SHN condition is an offence punishable under Singapore’s laws. If you encounter any difficulties during your SHN or need to leave your SHN accommodation for emergency reasons, contact the SafeTravel Enquiries Helpline at 6812 5555 for assistance and advice.</p>
 	
 
 <div id="transport"></div>
