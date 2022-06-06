@@ -253,14 +253,14 @@ published: false
 	
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5e. I did not receive my entry approval or vaccination acceptance letter. What should I do?</b></p>
 
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you had applied for entry with an agency that is not the ICA SafeTravel Office, check with the relevant agency for the status of your application. Otherwise, use the SafeTravel Application Checker to check on the status of your submissions/applications made using any of the following portals:</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you had applied for entry with an agency that is not the ICA SafeTravel Office, check with the relevant agency for the status of your application. Otherwise, use the <a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">SafeTravel Application Checker</a> to check on the status of your submissions/applications made using any of the following portals:</p>
 <ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Vaccination Check Portal</li>
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Non-fully vaccinated Travellers Entry Application Portal (Familial Ties)</li>
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Periodic Commuting Arrangement</li>
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Reciprocal Green Lane</li>
 </ol>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">For all successful submissions made using the portals above, the SafeTravel Office will send the relevant approvals and acceptance letters directly to the email indicated in your submissions. Depending on email settings, these letters may be found in your junk/spam folder. If you are unable to locate your approvals / acceptance letter, submit the following details via this form for assistance: (a) application reference number, (b) your contact details, and (c) screenshots of your application status or payment invoice.</p>	
+<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">For all successful submissions made using the portals above, the SafeTravel Office will send the relevant approvals and acceptance letters directly to the email indicated in your submissions. Depending on email settings, these letters may be found in your junk/spam folder. If you are unable to locate your approvals / acceptance letter, submit the following details via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a> for assistance: (a) application reference number, (b) your contact details, and (c) screenshots of your application status or payment invoice.</p>	
 
 	
 
