@@ -12,14 +12,14 @@ If you have a query that has not been addressed, click on the categories below t
 
 <div id="top"></div>
 
-<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#VTF">Vaccinated Travel Framework</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#definition">Definition of “Fully Vaccinated” and “Non-fully Vaccinated” Travellers</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#FVorBelow12">Entry requirements for Fully Vaccinated Travellers & Travellers born on or after 1 Jan 2010</a></li> 
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#NFV">Entry requirements for Travellers born on or before 31 Dec 2009 and are Non-Fully Vaccinated</a></li> 
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Troubleshooting for SafeTravel Portal Errors (Vaccination Check Portal, Entry Application Portal)</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#SGAC">SG Arrival Card and e-Pass Issues</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#TT">TraceTogether App Issues</a></li>
+<ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#VTF">Vaccinated Travel Framework</a></li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#definition">Definition of “Fully Vaccinated” and “Non-fully Vaccinated” Travellers</a></li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#FVorBelow12">Entry requirements for Fully Vaccinated Travellers & Travellers born on or after 1 Jan 2010</a></li> 
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#NFV">Entry requirements for Travellers born on or before 31 Dec 2009 and are Non-Fully Vaccinated</a></li> 
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Troubleshooting for SafeTravel Portal Errors (Vaccination Check Portal, Entry Application Portal)</a></li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#SGAC">SG Arrival Card and e-Pass Issues</a></li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#TT">TraceTogether App Issues</a></li>
 </ol>
 
 Please refer to MOH’s FAQs and info for issues related to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">vaccination status and boosters within Singapore</a>, and <a href="https://www.covid.gov.sg/" target="_blank">what to do if tested positive while in Singapore</a>. Foreign workers and their employers may also wish to refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions" target="_blank">MOM’s FAQs for details on MOM-specific requirements</a>.
