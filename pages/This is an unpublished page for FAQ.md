@@ -185,13 +185,12 @@ published: false
 	
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5b. I cannot get my Digitally Verifiable Vaccination Certificate (DVC) verified on the Vaccination Check Portal (VCP). What has gone wrong and what can I do?</b></p>
 
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Check that your DVC is issued in a VCP-compatible form by these countries/regions, if it is, ensure that:</p>
-<ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
-<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A short-term visitor holding a passport of a visa-required country</li>
-<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A traveller who has visited Yellow Fever high risk countries/regions</li>
-<li style="padding-left:20px; margin-top:8px; margin-bottom:20px; font-size:18px; line-height:1.35;">A non-Malaysian work permit In-Principle Approval holder in the Construction, Marine shipyard or Process sectors</li>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Check that your DVC is issued in a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">VCP-compatible form by these countries/regions</a>, if it is, ensure that:</p>
+<ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A high-resolution QR Code in JPG, PDF, or PNG format is submitted; and</li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Vaccination certificate clearly reflects your personal information that is identical to your passport</li>
 </ol>
-<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">For details, please visit the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> and then read the fully vaccinated checklist or non-fully vaccinated checklist depending on your age and COVID-19 vaccination status.</p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Certificates reflecting incomplete information, e.g. redacted/partial names or identification numbers, will be rejected. If you continue to encounter technical difficulties verifying your DVC, you have <a href="#vaxcert">these options</a> to show proof of vaccination. If you presently hold a DVC issued in Hong Kong SAR containing masked information, <a href="https://www.evt.gov.hk/portal/en/workflow2" target="_blank">click here</a> for instructions to unmask your info and download an VCP-compatible vaccination certificate.</p>
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
 </div>
