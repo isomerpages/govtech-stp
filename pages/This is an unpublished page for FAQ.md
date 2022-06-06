@@ -6,7 +6,7 @@ published: false
 ---
 ### New FAQ
 
-This page contains answers to frequently asked questions and clarifications regarding travelling to Singapore. If you have not done so already, you should visit the “Travelling to Singapore” page for an overview of entry requirements.  For departure or transit-related information, visit the “Departure from Singapore” or “Transiting through Singapore” pages.
+This page contains answers to frequently asked questions and clarifications regarding travelling to Singapore. If you have not done so already, you should visit the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for an overview of entry requirements.  For departure or transit-related information, visit the “<a href="/departing/overview">Departure from Singapore</a>” or “<a href="/transit/overview" target="_blank">Transiting through Singapore</a>” pages.
 
 If you have a query that has not been addressed, click on the categories below to refer to the relevant traveller FAQs:
 
