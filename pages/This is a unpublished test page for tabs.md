@@ -2,10 +2,10 @@
 title: This is a unpublished test page for tabs
 permalink: /tabs
 description: ""
-published: true
+published: false
 ---
 
-<html>
+<!--<html>
 <head>
 <meta charset="utf-8">
 <title>Test Accordion</title>
@@ -142,4 +142,141 @@ input ~ .tab {
 	</span>
 	</button></a>
 </body>
+</html>-->
+
+<html>
+<head>
+<meta charset="utf-8">
+<title>Test Accordion</title>
+<style>
+	
+/* # The Rotating Marker # */
+details summary::-webkit-details-marker { display: none; }
+summary::before {
+  font-family: "Hiragino Mincho ProN", "Open Sans", sans-serif;
+  content: "▶";
+  position: absolute;
+  top: 1rem;
+  left: 0.8rem;
+  transform: rotate(0);
+  transform-origin: center;
+  transition: 0.2s transform ease;
+}
+details[open] > summary:before {
+  transform: rotate(90deg);
+  transition: 0.45s transform ease;
+}
+
+/* # The Sliding Summary # */
+details { overflow: hidden; }
+details summary {
+  position: relative;
+  z-index: 10;
+}
+@keyframes details-show {
+  from {
+    margin-bottom: -80%;
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+}
+details > *:not(summary) {
+  animation: details-show 500ms ease-in-out;
+  position: relative;
+  z-index: 1;
+  transition: all 0.3s ease-in-out;
+  color: transparent;
+  overflow: hidden;
+}
+details[open] > *:not(summary) { color: inherit; }
+
+/* # Style 6 # */
+details.style6 summary {
+  padding-right: 2.2rem;
+  padding-left: 1rem;
+}
+details.style6 summary::before {
+  content: "\271A";
+  font-size: 1.5rem;
+  top: 0.5rem;
+  left: unset;
+  right: 0.5rem;
+  transform: rotate(0);
+}
+details.style6:hover > summary:before {
+  content: "\271A";
+}
+details[open].style6 > summary:before {
+  content: "\2716";
+  transform: rotate(0deg);
+}
+
+
+/* # Just Some Pretty Styles # */
+body { font-family: "Open Sans", sans-serif; padding-bottom: 400px; }
+img { max-width: 100%; }
+p { margin: 0; padding-bottom: 10px; }
+p:last-child { padding: 0; }
+details {
+  /*max-width: 500px;*/
+  box-sizing: border-box;
+  margin-top: 5px;
+  background: white;
+}
+summary {
+  border: 4px solid transparent;
+  outline: none;
+  padding: 1rem;
+  display: block;
+  background: #CEDEED;
+  color: #000;
+  padding-left: 2.2rem;
+  position: relative;
+  cursor: pointer;
+}
+details[open] summary,
+summary:hover {
+  color: #000;
+  background: #9ac5ed;
+}
+summary:hover strong,
+details[open] summary strong,
+summary:hover::before,
+details[open] summary::before {
+  color: #000;
+}
+.contenttest {
+  padding: 10px;
+  border: 2px solid #888;
+  border-top: none;
+}
+</style>
+</head>
+	<body>
+<details class="style6">
+	<summary><b>Visitors/tourists without a Singapore Long-Term Pass</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
+  <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"> <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions.</p>
+  </div>
+</details>
+<details class="style6">
+	<summary><b>Drivers of Foreign-Registered Vehicles Entering by Land </b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Ensure you have a valid Vehicle Entry Permit (VEP) approval email, Autopass card and motor insurance. VEP, insurance and Autopass services are <b>not</b> available at Singapore's land checkpoints.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Visit the OneMotoring website to:</p>
+<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: lower-latin;">
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Apply for VEP/Autopass card:</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> > Digital Services > Apply for VEP / Autopass Card</li>
+<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Update the foreign-registered car and motorcycle road tax and motor insurance for existing valid Autopass cards:</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> > Digital Services > Update Road Tax and Insurance Validity for VEP (Foreign Cars and Motorcycles).</li>
+</ol>
+  </div>
+</details>
+<details class="style6">
+	<summary><b>Non-Malaysian Work Permit In-principle Approval holders Employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated male CMP workers must book a slot at <a href="https://www.mom.gov.sg/covid-19/onboard-centre" target="_blank">Ministry of Manpower's (MOM) Onboard centre</a> to undergo a residential onboarding programme upon arrival. </p>
+	<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">All CMP workers entering from Bangladesh, India or Myanmar must undergo a <a href="https://go.gov.sg/bca-pdpp" target="_blank">Pre-Departure Preparatory Programme</a> before entering Singapore.</p>
+  </div>
+</details>
+</body>
 </html>
+
