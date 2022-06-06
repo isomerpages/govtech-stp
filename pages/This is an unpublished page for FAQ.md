@@ -71,7 +71,7 @@ Common Portal Technical Issues
 </ol></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN)</a></li>[For Q4a of new FAQ]
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#transport">Transport Advisories</a></li>[For Q4b of new FAQ]
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers</a></li> [For Q4d of new FAQ]
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>[For Q4e of new FAQ]
 TraceTogether for Travellers
 </ol>
