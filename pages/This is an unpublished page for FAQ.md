@@ -18,8 +18,8 @@ If you have a query that has not been addressed, click on the categories below t
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Entry requirements for Fully Vaccinated Travellers & Travellers born on or after 1 Jan 2010</a></li> 
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Entry requirements for Travellers born on or before 31 Dec 2009 and are Non-Fully Vaccinated</a></li> 
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Troubleshooting for SafeTravel Portal Errors (Vaccination Check Portal, Entry Application Portal)</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">SG Arrival Card and e-Pass Issues</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">TraceTogether App Issues</a></li>
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#SGAC">SG Arrival Card and e-Pass Issues</a></li>
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#TT">TraceTogether App Issues</a></li>
 </ol>
 
 Please refer to MOH’s FAQs and info for issues related to vaccination status and boosters within Singapore, and what to do if tested positive while in Singapore. Foreign workers and their employers may also wish to refer to MOM’s FAQs for details on MOM-specific requirements.
@@ -64,18 +64,19 @@ Please refer to MOH’s FAQs and info for issues related to vaccination status a
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
 		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#vaxcert">Digitally Verifiable Vaccination Certificate</a></li> [For Q3b in new FAQ]
-		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Common Portal Technical Issues</a><ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-latin;">
+Common Portal Technical Issues
+<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-latin;">
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#amendment">Amendment of Approved Entry Applications</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#receiptandapproval">Receipts and Approval Letters</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#TravellerDetails">Traveller Details</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#upload">Document Uploads</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#GenAppIssues">Other General Application Issues</a></li>
 </ol></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN)</a></li>
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#transport">Transport Advisories</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN)</a></li>[For Q4a of new FAQ]
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#transport">Transport Advisories</a></li>[For Q4b of new FAQ]
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#pcrtest">COVID-19 Tests for Travellers</a></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
-	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#TT">TraceTogether for Travellers</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>[For Q4e of new FAQ]
+TraceTogether for Travellers
 </ol>
 
 Travellers may click on the links below for FAQs relating to the following agencies:-
