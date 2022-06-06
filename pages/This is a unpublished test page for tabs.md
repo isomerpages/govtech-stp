@@ -2,7 +2,7 @@
 title: This is a unpublished test page for tabs
 permalink: /tabs
 description: ""
-published: false
+published: true
 ---
 
 <!--<html>
@@ -160,11 +160,11 @@ summary::before {
   left: 0.8rem;
   transform: rotate(0);
   transform-origin: center;
-  transition: 0.2s transform ease;
+  /*transition: 0.2s transform ease;*/
 }
 details[open] > summary:before {
   transform: rotate(90deg);
-  transition: 0.45s transform ease;
+  /*transition: 0.45s transform ease;*/
 }
 
 /* # The Sliding Summary # */
@@ -181,10 +181,10 @@ details summary {
   }
 }
 details > *:not(summary) {
-  animation: details-show 500ms ease-in-out;
+  /*animation: details-show 500ms ease-in-out;*/
   position: relative;
   z-index: 1;
-  transition: all 0.3s ease-in-out;
+  /*transition: all 0.3s ease-in-out;*/
   color: transparent;
   overflow: hidden;
 }
@@ -254,27 +254,22 @@ details[open] summary::before {
 </head>
 	<body>
 <details class="style6">
-	<summary><b>Visitors/tourists without a Singapore Long-Term Pass</b></summary>
+	<summary><b>SHN Frequently Asked Questions</b></summary>
   <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
-  <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"> <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions.</p>
-  </div>
-</details>
-<details class="style6">
-	<summary><b>Drivers of Foreign-Registered Vehicles Entering by Land </b></summary>
-  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Ensure you have a valid Vehicle Entry Permit (VEP) approval email, Autopass card and motor insurance. VEP, insurance and Autopass services are <b>not</b> available at Singapore's land checkpoints.</p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Visit the OneMotoring website to:</p>
-<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type: lower-latin;">
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Apply for VEP/Autopass card:</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> > Digital Services > Apply for VEP / Autopass Card</li>
-<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><b>Update the foreign-registered car and motorcycle road tax and motor insurance for existing valid Autopass cards:</b><br/><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> > Digital Services > Update Road Tax and Insurance Validity for VEP (Foreign Cars and Motorcycles).</li>
-</ol>
-  </div>
-</details>
-<details class="style6">
-	<summary><b>Non-Malaysian Work Permit In-principle Approval holders Employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></summary>
-  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated male CMP workers must book a slot at <a href="https://www.mom.gov.sg/covid-19/onboard-centre" target="_blank">Ministry of Manpower's (MOM) Onboard centre</a> to undergo a residential onboarding programme upon arrival. </p>
-	<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">All CMP workers entering from Bangladesh, India or Myanmar must undergo a <a href="https://go.gov.sg/bca-pdpp" target="_blank">Pre-Departure Preparatory Programme</a> before entering Singapore.</p>
+ <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> <b> Q1) Commuting to SHN location and to/from COVID-19 test site</b></p>
+          <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The commuting arrangement stated at <a href="#2B">Stage 2B</a> will continue to apply for the SHN duration. </p>
+            <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>Q2) SHN end date:</b></p>
+            <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Use the <a href="/shn-calculator" target="_blank">SHN calculator</a> for your estimated SHN end date or refer to the illustrations below. If you need to leave your SHN for an emergency, e.g. funeral or hospital visits, submit a <a href="https://go.gov.sg/sto-enquiry" target="_blank">written request</a> to the SafeTravel Office for assistance.</p>
+          <p style="font-size:18px; margin-top: 10px;  line-height:1.35;"><u>Illustration 1:</u></p>
+            <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Traveller A cleared immigration on 1 March 2022. The effective period of his SHN is 1 – 8 March 2022. He had received a negative PCR test on 8 March and can exit his SHN accommodation on the same day.</p>
+            <p style="font-size:18px; margin-top: 10px; line-height:1.35;"><u>Illustration 2:</u></p>
+            <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Traveller B cleared immigration on 1 March 2022. The effective period of her SHN is 1 – 8 March 2022. As she did not receive a negative PCR test report on 8 March, she must remain in her SHN accommodation until she receives a negative PCR test result.</p>
+          <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>Q3) Getting daily essentials:</b></p>
+          <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You can opt for home delivery service or enlist the help of others. When collecting these items, avoid collecting them personally. You may also contact the SafeTravel Helpline at 6812 5555 for advice.</p>
+               <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>Q4) I received a call claiming to check on me during SHN, is it a scam?</b></p>
+               <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">During the SHN period, randomised in-person or phone/video compliance calls will be conducted.</p>
+               <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">All in-person or phone/video compliance checks are conducted by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM), or the Ministry of Education (MOE). Authorised officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked for the last four digits of their identity card or travel document for identity verification.</p>
+          <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Any request for payment or credit card details made over phone may be a scam. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
   </div>
 </details>
 </body>
