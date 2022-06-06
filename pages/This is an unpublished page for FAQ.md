@@ -195,7 +195,7 @@ published: false
 <div id="TravellerDetails"></div>
 	
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5c. My name contains non-Latin/Roman alphabets (e.g. á, à, â, ä, å). How should I input my name?</b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications containing non-Latin/Roman alphabets and punctuations (e.g. commas, hyphens) cannot be processed.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications containing non-Latin/Roman alphabets and punctuations (e.g. commas, hyphens) <b>cannot</b> be processed.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To get around this issue, submit the machine-readable name found in your passport (see image below for example). Alternatively, you may refer to <a href="#charactertable">the table</a> for the list of replacement characters. If your name contains a punctuation, replace these characters with a space instead.</p>
 <img src="/images/MRZ.png" style="width:auto; height:auto; border: 2px solid #B7B7B7;">
 
