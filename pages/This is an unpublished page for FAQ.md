@@ -71,7 +71,10 @@ published: false
 <div id="definition" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120%;"><b>3) Entry Requirements for Fully Vaccinated Travellers & Travellers born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth)</b><p style="color:white; font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><i><u><b>Note</b></u>: Full entry requirements can be found in the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully Vaccinated Traveller Checklist</a> (click to access). </i></p></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120%;">
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>3a. Do I need to take a pre-departure test (PDT) when travelling to Singapore?</b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">No.</p>	
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">No.</p>
+
+<div id="vaxcert"></div>
+
 <p style="color: #d30000; font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;"><b>3b. Am I required to verify my vaccination certificate using the Vaccination Check Portal (VCP) before arrival?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">The VCP can only verify <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">digitally verifiable vaccination certificates (DVC) issued by selected countries/regions</a>.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If you do not possess a VCP-compatible vaccination certificate or are unable to submit your vaccination certificate due to technical difficulties, you can show a <a href="/arriving/general-travel/fully-vaccinated#step1" target="_blank">physical hardcopy or app containing the required details</a>. If you still wish to troubleshoot your VCP submission, refer to “<a href="#tech">Portal FAQs</a>” section for details.</p>
