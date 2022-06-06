@@ -174,9 +174,27 @@ published: false
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
 </div>
 
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
 
-<div id="tech"></div>
+<div id="tech" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:120%;"><b>5) Troubleshooting for SafeTravel Portal Errors</b></div>
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120%;">
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5a. Which browser should I use to access the portals?</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For the best user experience, submit your application or verify your vaccination certificate using Google Chrome (version 84 or later) or Microsoft Edge (Version 95 or later) Web Browser. To facilitate payment, please also disable your pop-up blocker.</p>
 
+<div id="upload"></div>
+	
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5b. I cannot get my Digitally Verifiable Vaccination Certificate (DVC) verified on the Vaccination Check Portal (VCP). What has gone wrong and what can I do?</b></p>
+
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Check that your DVC is issued in a VCP-compatible form by these countries/regions, if it is, ensure that:</p>
+<ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A short-term visitor holding a passport of a visa-required country</li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A traveller who has visited Yellow Fever high risk countries/regions</li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:20px; font-size:18px; line-height:1.35;">A non-Malaysian work permit In-Principle Approval holder in the Construction, Marine shipyard or Process sectors</li>
+</ol>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">For details, please visit the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> and then read the fully vaccinated checklist or non-fully vaccinated checklist depending on your age and COVID-19 vaccination status.</p>
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
+</div>
 
 <div id="SGAC"></div>
 
@@ -216,7 +234,6 @@ published: false
 
 
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#vaxcert">Digitally Verifiable Vaccination Certificate</a></li> [For Q3b in new FAQ]
-Common Portal Technical Issues
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#amendment">Amendment of Approved Entry Applications</a></li> [For Q5f of new FAQ]
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#receiptandapproval">Receipts and Approval Letters</a></li> [For Q5e of new FAQ]
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#TravellerDetails">Traveller Details</a></li>[For Q5c of new FAQ]
