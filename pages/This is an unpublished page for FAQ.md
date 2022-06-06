@@ -262,7 +262,26 @@ published: false
 </ol>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">For all successful submissions made using the portals above, the SafeTravel Office will send the relevant approvals and acceptance letters directly to the email indicated in your submissions. Depending on email settings, these letters may be found in your junk/spam folder. If you are unable to locate your approvals / acceptance letter, submit the following details via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a> for assistance: (a) application reference number, (b) your contact details, and (c) screenshots of your application status or payment invoice.</p>	
 
+<div id="amendment"></div>
 	
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5f. Can I change/update the details of my entry approval?</b></p>
+
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Amendments to applications approved by the SafeTravel Office will only be entertained if there are strong mitigating reasons. If there are compelling reasons for the amendments, submit the relevant supporting documents as well as traveller passport/FIN number and approval reference number via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For applications submitted directly with an agency that is not the SafeTravel Office, approach the relevant agency for assistance.</p>
+
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5g. What does “invalid FIN number” mean?</b></p>
+
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Your FIN document is likely invalid, expired, or expiring in less than 15 days from the date of entry into Singapore. Renew or apply for a new pass before you attempt a second application.</p>
+
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5h. Nothing happens when I click “SUBMIT” or “NEXT”. Why?</b></p>
+
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To proceed to the next stage of your application, check that all (i) required fields are correctly filled (e.g. DD/MM/YYYY format for date of birth), and (ii) acknowledgement boxes are checked.</p>
+	
+<div id="GenAppIssues"></div>
+	
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5i. I have followed the instructions on the SafeTravel Application portal but am still unable to submit my application. What should I do?</b></p>
+
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Submit screenshots of the error message(s) that you are seeing to the SafeTravel Office using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>.</p>
 
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
