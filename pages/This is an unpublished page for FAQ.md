@@ -40,7 +40,7 @@ published: false
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A traveller who has visited Yellow Fever high risk countries/regions</li>
 <li style="padding-left:20px; margin-top:8px; margin-bottom:20px; font-size:18px; line-height:1.35;">A non-Malaysian work permit In-Principle Approval holder in the Construction, Marine shipyard or Process sectors</li>
 </ol>
-<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">For details, please visit the <a href="/arriving/overview" target="_blank">Travelling to Singapore></a> page and then read the fully vaccinated checklist or non-fully vaccinated checklist depending on your age and COVID-19 vaccination status.</p>
+<p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">For details, please visit the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> and then read the fully vaccinated checklist or non-fully vaccinated checklist depending on your age and COVID-19 vaccination status.</p>
 </div>
 
 
