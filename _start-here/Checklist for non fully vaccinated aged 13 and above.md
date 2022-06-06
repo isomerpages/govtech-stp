@@ -141,11 +141,11 @@ summary::before {
   left: 0.8rem;
   transform: rotate(0);
   transform-origin: center;
-  transition: 0.2s transform ease;
+  /*transition: 0.2s transform ease;*/
 }
 details[open] > summary:before {
   transform: rotate(90deg);
-  transition: 0.45s transform ease;
+  /*transition: 0.45s transform ease;*/
 }
 
 /* # The Sliding Summary # */
@@ -162,10 +162,10 @@ details summary {
   }
 }
 details > *:not(summary) {
-  animation: details-show 500ms ease-in-out;
+  /*animation: details-show 500ms ease-in-out;*/
   position: relative;
   z-index: 1;
-  transition: all 0.3s ease-in-out;
+  /*transition: all 0.3s ease-in-out;*/
   color: transparent;
   overflow: hidden;
 }
@@ -286,11 +286,11 @@ summary::before {
   left: 0.8rem;
   transform: rotate(0);
   transform-origin: center;
-  transition: 0.2s transform ease;
+  /*transition: 0.2s transform ease;*/
 }
 details[open] > summary:before {
   transform: rotate(90deg);
-  transition: 0.45s transform ease;
+  /*transition: 0.45s transform ease;*/
 }
 
 /* # The Sliding Summary # */
@@ -307,10 +307,10 @@ details summary {
   }
 }
 details > *:not(summary) {
-  animation: details-show 500ms ease-in-out;
+  /*animation: details-show 500ms ease-in-out;*/
   position: relative;
   z-index: 1;
-  transition: all 0.3s ease-in-out;
+  /*transition: all 0.3s ease-in-out;*/
   color: transparent;
   overflow: hidden;
 }
@@ -553,11 +553,11 @@ summary::before {
   left: 0.8rem;
   transform: rotate(0);
   transform-origin: center;
-  transition: 0.2s transform ease;
+  /*transition: 0.2s transform ease;*/
 }
 details[open] > summary:before {
   transform: rotate(90deg);
-  transition: 0.45s transform ease;
+  /*transition: 0.45s transform ease;*/
 }
 
 /* # The Sliding Summary # */
@@ -574,10 +574,10 @@ details summary {
   }
 }
 details > *:not(summary) {
-  animation: details-show 500ms ease-in-out;
+  /*animation: details-show 500ms ease-in-out;*/
   position: relative;
   z-index: 1;
-  transition: all 0.3s ease-in-out;
+  /*transition: all 0.3s ease-in-out;*/
   color: transparent;
   overflow: hidden;
 }
