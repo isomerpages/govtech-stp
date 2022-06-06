@@ -25,7 +25,7 @@ permalink: /FAQ
 ---
 
 <div id="VTF" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px;"><b>1) Vaccinated Travel Framework</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; text-align: justify;">
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>1a. Are there travel requirements specific to nationality, or country/region I’m departing from?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> There are currently <b>no</b> COVID-19 entry requirements based on nationality or country/region of travel. Entry requirements related to COVID-19 are currently only based on age and COVID-19 vaccination status.</p>
 
@@ -49,7 +49,7 @@ permalink: /FAQ
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
 
 <div id="definition" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px;"><b>2) Definition of “Fully Vaccinated” and “Non-fully Vaccinated” Travellers</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; text-align: justify;">
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>2a. I took non-WHO EUL COVID-19 vaccines and am considered fully vaccinated in my home country. Do I qualify for entry into Singapore as a fully vaccinated traveller?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Completing the vaccination regime in your home country does not automatically qualify you for entry into Singapore as a fully vaccinated traveller.</p>
 <p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">You are only considered a fully vaccinated traveller for entry to Singapore only if you have received <a href="/arriving/overview#vaccination" target="_blank">the required WHO-EUL COVID-19 vaccine type/dose(s)</a> and can produce the relevant vaccination proof. If you had only taken COVID-19 vaccines that are not approved under the WHO-EUL, or did not receive the required minimum vaccine doses, you are considered non-fully vaccinated.</p>
@@ -67,7 +67,7 @@ permalink: /FAQ
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
 
 <div id="FVorBelow13" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px;"><b>3) Entry Requirements for Fully Vaccinated Travellers & Travellers born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth)</b><p style="color:white; font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><i><u><b>Note</b></u>: Full entry requirements can be found in the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">Fully Vaccinated Traveller Checklist</a> (click to access). </i></p></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; text-align: justify;">
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>3a. Do I need to take a pre-departure test (PDT) when travelling to Singapore?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">No.</p>
 
@@ -88,7 +88,7 @@ permalink: /FAQ
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
 
 <div id="NFV" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px;"><b>4) Entry Requirements for Travellers born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth) and are Non-Fully Vaccinated</b><p style="color:white; font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><i><u><b>Note</b></u>: Full entry requirements can be found in the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully Vaccinated Traveller Checklist</a> (click to access).</i></p></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; text-align: justify">
 
 <div id="shnsdf"></div>
 
@@ -176,7 +176,7 @@ permalink: /FAQ
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
 
 <div id="tech" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px;"><b>5) Troubleshooting for SafeTravel Portal Errors</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; text-align: justify;">
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5a. Which browser should I use to access the portals?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For the best user experience, submit your application or verify your vaccination certificate using Google Chrome (version 84 or later) or Microsoft Edge (Version 95 or later) Web Browser. To facilitate payment, please also disable your pop-up blocker.</p>
 
@@ -289,7 +289,7 @@ permalink: /FAQ
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
 
 <div id="SGAC" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px;"><b>6) SG Arrival Card (SGAC) and e-Pass Issues</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; text-align: justify;">
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>6a. Am I required to submit my SG Arrival Card (SGAC)?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Yes, all travellers must complete their SGAC up to three days before arrival in Singapore. </p>
 <p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">You do not need to submit an SGAC declaration only if you are a fully vaccinated Singapore Citizen, Permanent Resident or Long-term Pass Holder arriving in Singapore <b>via Land</b>.</p>
@@ -314,7 +314,7 @@ permalink: /FAQ
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
 
 <div id="TT" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px;"><b>7) TraceTogether App Issues</b></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; text-align: justify;">
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>7a. Do I need to use the TraceTogether mobile application while in Singapore?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> Travellers are only required to use TraceTogether to enter settings that require vaccination-differentiated safe management measures (VDS). Please refer to <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">MOH’s website</a> to check which community settings still have VDS in place.</p>
 <p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">Travellers to Singapore can use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether App</a> to show their proof of vaccination. Please refer to the <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-" target="_blank">TraceTogether installation guide</a> to install the App, or you can write to <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a> for any application installation issues.</p>
