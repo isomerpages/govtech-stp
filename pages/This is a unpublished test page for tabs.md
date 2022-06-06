@@ -160,7 +160,7 @@ summary::before {
   left: 0.8rem;
   transform: rotate(0);
   transform-origin: center;
-  transition: 0.2s transform ease;
+  /*transition: 0.2s transform ease;*/
 }
 details[open] > summary:before {
   transform: rotate(90deg);
