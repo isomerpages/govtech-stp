@@ -509,10 +509,10 @@ details[open] summary::before {
 <div id="2B" style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad;border-right:2px solid #adadad; font-size:18px; width:104.1%;">
 &#9634; &nbsp;&nbsp;<b>2B) Commute to declared Stay-Home Notice (SHN) accommodation</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:104.1%;">
-     <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">Following immigration clearance, you will:</p>
+     <p style="font-size:18px; margin-top: 20px; margin-bottom: 0px; line-height:1.35;">Following immigration clearance, you will:</p>
     <ol style="padding-left: 20px; margin-top:20px; list-style-type: lower-latin;">
 <li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Receive a 7-day Stay-Home Notice (SHN) via the email address provided in your SGAC declaration; and</li>
-        <li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:0px; line-height:1.35;">Commute directly to your declared SHN accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is prohibited.</li>
+        <li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;">Commute directly to your declared SHN accommodation using private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). The use of public transport (e.g. trains, buses) is prohibited.</li>
     </ol>
      <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;"><a href="/faq#transport" target="_blank">Click here for the latest transport advisory.</a></p>
     </div>
@@ -522,7 +522,7 @@ details[open] summary::before {
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad;border-right:2px solid #adadad; border-top:2px solid #adadad; font-size:18px; width:104.1%;">
 &#9634; &nbsp;&nbsp;<b>3A) Stay-Home Notice (SHN) Requirements</b></div>
 <div style="padding:5px 10px 20px 10px; margin-bottom:0px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad; font-size:18px; width:104.1%;">
-     <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">The 7-day Stay Home Noticerequires you to quarantine and takes effect immediately upon its issuance. Remain in your declared SHN accommodation for the period specified in the notice, unless you are:</p> 
+     <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">The 7-day Stay Home Notice requires you to quarantine and takes effect immediately upon its issuance. Remain in your declared SHN accommodation for the period specified in the notice, unless you are:</p> 
     <ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-alpha;">
     <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Directed by the relevant authority to leave your accommodation; OR</li>
         <li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:20px; line-height:1.35;">Scheduled to take your mandatory SHN-exit COVID-19 Polymerase Chain Reaction Test (PCR Test).</li>
