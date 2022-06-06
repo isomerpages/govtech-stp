@@ -22,7 +22,7 @@ If you have a query that has not been addressed, click on the categories below t
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#TT">TraceTogether App Issues</a></li>
 </ol>
 
-Please refer to MOH’s FAQs and info for issues related to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">vaccination status and boosters within Singapore</a>, and <a href="https://covid.gov.sg" target="_blank">what to do if tested positive while in Singapore</a>. Foreign workers and their employers may also wish to refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions" target="_blank">MOM’s FAQs for details on MOM-specific requirements</a>.
+Please refer to MOH’s FAQs and info for issues related to <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">vaccination status and boosters within Singapore</a>, and <a href="https://www.covid.gov.sg/" target="_blank">what to do if tested positive while in Singapore</a>. Foreign workers and their employers may also wish to refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions" target="_blank">MOM’s FAQs for details on MOM-specific requirements</a>.
 
 ---
 
