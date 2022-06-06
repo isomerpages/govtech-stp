@@ -13,7 +13,7 @@ If you have a query that has not been addressed, click on the categories below t
 <div id="top"></div>
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
-<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Vaccinated Travel Framework</a></li>
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#VTF">Vaccinated Travel Framework</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Definition of “Fully Vaccinated” and “Non-fully Vaccinated” Travellers</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Entry requirements for Fully Vaccinated Travellers & Travellers born on or after 1 Jan 2010</a></li> 
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Entry requirements for Travellers born on or before 31 Dec 2009 and are Non-Fully Vaccinated</a></li> 
