@@ -88,7 +88,7 @@ permalink: /FAQ
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
 
 <div id="NFV" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px;"><b>4) Entry Requirements for Travellers born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth) and are Non-Fully Vaccinated</b><p style="color:white; font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"><i><u><b>Note</b></u>: Full entry requirements can be found in the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully Vaccinated Traveller Checklist</a> (click to access).</i></p></div>
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; text-align: justify">
+<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
 
 <div id="shnsdf"></div>
 
