@@ -184,7 +184,7 @@ details > *:not(summary) {
   animation: details-show 500ms ease-in-out;
   position: relative;
   z-index: 1;
-  transition: all 0.3s ease-in-out;
+  /*transition: all 0.3s ease-in-out;*/
   color: transparent;
   overflow: hidden;
 }
