@@ -31,7 +31,7 @@ published: false
 <div id="VTF" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:104.1%;"><b>1) Vaccinated Travel Framework</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:104.1%;">
 
-<p style="color: red; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>1a. Are there travel requirements specific to nationality, or country/region I’m departing from?</b></p>
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>1a. Are there travel requirements specific to nationality, or country/region I’m departing from?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> There are currently <b>no</b> COVID-19 entry requirements based on nationality or country/region of travel. Entry requirements related to COVID-19 are currently only based on age and COVID-19 vaccination status.</p>
 
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> There are additional entry requirements based on traveller profile and country of travel only if you are:</p>
