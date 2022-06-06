@@ -271,92 +271,135 @@ details[open] summary::before {
 
     
 <html>
-
+<html>
 <head>
 <meta charset="utf-8">
 <title>Test Accordion</title>
-
 <style>
-
-input {
-    display: none;
+	
+/* # The Rotating Marker # */
+details summary::-webkit-details-marker { display: none; }
+summary::before {
+  font-family: "Hiragino Mincho ProN", "Open Sans", sans-serif;
+  content: "▶";
+  position: absolute;
+  top: 1rem;
+  left: 0.8rem;
+  transform: rotate(0);
+  transform-origin: center;
+  transition: 0.2s transform ease;
+}
+details[open] > summary:before {
+  transform: rotate(90deg);
+  transition: 0.45s transform ease;
 }
 
-label {
-    display: block;    
-    padding: 10px 30px;
-    margin: 0 0 1px 0;
-    cursor: pointer;
-    background: #153855;
-    border-radius: 3px;
-    color: #FFF;
-    transition: ease .5s;
-    position: relative;
+/* # The Sliding Summary # */
+details { overflow: hidden; }
+details summary {
+  position: relative;
+  z-index: 10;
+}
+@keyframes details-show {
+  from {
+    margin-bottom: -80%;
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+}
+details > *:not(summary) {
+  animation: details-show 500ms ease-in-out;
+  position: relative;
+  z-index: 1;
+  transition: all 0.3s ease-in-out;
+  color: transparent;
+  overflow: hidden;
+}
+details[open] > *:not(summary) { color: inherit; }
+
+/* # Style 6 # */
+details.style6 summary {
+  padding-right: 2.2rem;
+  padding-left: 1rem;
+}
+details.style6 summary::before {
+  content: "\271A";
+  font-size: 1.5rem;
+  top: 0.5rem;
+  left: unset;
+  right: 0.5rem;
+  transform: rotate(0);
+}
+details.style6:hover > summary:before {
+  content: "\271A";
+}
+details[open].style6 > summary:before {
+  content: "\2716";
+  transform: rotate(0deg);
 }
 
-label:hover {
-    background: #346f9e;
+/* # Just Some Pretty Styles # */
+body { font-family: "Open Sans", sans-serif; padding-bottom: 400px; }
+img { max-width: 100%; }
+p { margin: 0; padding-bottom: 10px; }
+p:last-child { padding: 0; }
+details {
+  /*max-width: 500px;*/
+  box-sizing: border-box;
+  margin-top: 5px;
+  background: white;
 }
-
-label::after {
-    font-family: "Font Awesome 5 Free";
-    content: '\271A';
-    font-weight: bold;
-    font-size: 22px;
-    position: absolute;
-    right: 10px;
-    top: 6px;
+summary {
+  border: 4px solid transparent;
+  outline: none;
+  padding: 1rem;
+  display: block;
+  background: #CEDEED;
+  color: #000;
+  padding-left: 2.2rem;
+  position: relative;
+  cursor: pointer;
 }
-
-input:checked + label::after {
-    content: '\2716';
+details[open] summary,
+summary:hover {
+  color: #000;
+  background: #9ac5ed;
 }
-
-.content {
-    background: #FFFFFF;
-    padding: 10px 25px;
-    margin: 0 0 1px 0;
-    border-radius: 3px;
+summary:hover strong,
+details[open] summary strong,
+summary:hover::before,
+details[open] summary::before {
+  color: #000;
 }
-
-input + label + .content {
-    display: none;
+.contenttest {
+  padding: 10px;
+  border: 2px solid #888;
+  border-top: none;
 }
-
-input:checked + label + .content {
-    display: block;
-}
-    
 </style>
 </head>
-<body>    
-<input id="STVs" type="checkbox">
-    <label style="background-color: #CEDEED; color:#182657;" for="STVs"><b>Foreigners without Singapore Long-Term Pass</b></label>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color: #edf4fa;" class="content">
-    <ol style="list-style-type: lower-latin;">
+<body>
+<details class="style6">
+	<summary><b>Foreigners without Singapore Long-Term Pass</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
+  <ol style="list-style-type: lower-latin;">
         <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Buy travel insurance with minimum coverage of S$30,000 for any COVID-19 related medical charges.<sup>1</sup> Insurance can be purchased with a Singapore or overseas-based insurer (see examples <a href="/health/insurance-and-treatment" target="_blank">here</a>)</li>
         <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions </li>
     </ol>
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><sup>Footnote 1</sup> Insurance is strongly encouraged but not mandatory for those who received entry approval via the SafeTravel Office Application Portal. Short-term visitors are responsible for all costs associated with COVID-19 treatment and recovery throughout their stay in Singapore.</p>
-</div>
-    
-<input id="yellowfever" type="checkbox">
-    <label style="background-color: #CEDEED; color:#182657;" for="yellowfever"><b>Travelled to countries/regions in Africa and Latin America with Yellow Fever Risk</b></label>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color: #edf4fa;" class="content">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>, if not you will be subjected to 6 days quarantine on arrival.</p>
-</div>
-    
-<input id="VEP" type="checkbox">
-    <label style="background-color: #CEDEED; color:#182657;" for="VEP"><b>Drivers of Foreign-Registered Vehicles Entering by Land</b></label>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color: #edf4fa;" class="content">
+  </div>
+</details>
+<details class="style6">
+	<summary><b>Drivers of Foreign-Registered Vehicles Entering by Land</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Ensure you have a valid Vehicle Entry Permit (VEP) approval email, Autopass card and motor insurance. VEP, insurance and Autopass services are <b>not</b> available at Singapore's land checkpoints.</p>
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;">Visit the OneMotoring website to:</p>
-
 <ol style="padding-left:10px; list-style-type:lower-latin;">
 <li style=" padding-left:10px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><b>Apply for VEP/Autopass card</b> <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;"><a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> <b>></b> Digital Services <b>></b> Apply for VEP / Autopass Card</p></li>
 <li style=" padding-left:10px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><b>Update the foreign-registered car and motorcycle road tax and motor insurance for existing valid Autopass cards:</b> <p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.3;"> <a href="https://onemotoring.lta.gov.sg" target="_blank">https://onemotoring.lta.gov.sg</a> <b>></b> Digital Services <b>></b> Update Road Tax and Insurance Validity for VEP (Foreign Cars and Motorcycles).</p></li>
 </ol>
-</div>
+  </div>
+</details>
 </body>
 </html>
 </div>
