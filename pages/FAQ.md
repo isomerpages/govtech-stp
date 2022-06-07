@@ -39,10 +39,10 @@ permalink: /FAQ
 </ol>
 <p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">For details, please visit the <a href="/arriving/overview" target="_blank">Travelling to Singapore page</a> and then read the fully vaccinated checklist or non-fully vaccinated checklist depending on your age and COVID-19 vaccination status.</p>
 	
-<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>1b. Am I on the General or Restricted Travel list?</b></p>
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>1b. Am I subjected to General Travel Category or Restricted Category travel measures?</b></p>
 
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>There are no countries/regions on the Restricted Travel list today, and all countries are currently under the General Travel list.</b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Countries/regions may subsequently be shifted to the “Restricted Travel” list to limit the risk of importing new and potentially dangerous disease variants if they arise.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>All countries are currently under the General Travel Category and there are no countries/regions in the Restricted Category today.</b></p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Countries/regions may subsequently be shifted to the Restricted Category to limit the risk of importing new and potentially dangerous disease variants if they arise.</p>
 
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Contents</a> for other more relevant FAQs.</p>
