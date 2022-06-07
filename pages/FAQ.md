@@ -191,8 +191,7 @@ permalink: /FAQ
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You can use the VCP to verify your certificate only if it is a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">digitally verifiable vaccination certificate (DVC) issued by certain countries/regions</a>. If it is, ensure that:</p>
 <ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A high-resolution QR Code in JPG, PDF, or PNG format is submitted; and</li>
-<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Vaccination certificate clearly reflects your personal information that is identical to your passport</li>
-	<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Your name and travel document number are reflected in full and not masked</li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Vaccination certificate clearly reflects your full, unmasked personal information that is identical to your passport</li>
 </ol>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">If you do not possess a VCP-compatible vaccination certificate or are unable to submit your vaccination certificate due to technical difficulties, you can show a <a href="/arriving/general-travel/fully-vaccinated#step1" target="_blank">physical hardcopy or app contaning the required details</a>.</p>
 
