@@ -178,7 +178,7 @@ permalink: /FAQ
 
 <div id="tech" style="padding:10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px;"><b>5) Troubleshooting for SafeTravel Portal Errors</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px;">
-<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5a. Which browser should I use to access the portals?</b></p>
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5a. Which web browser should I use to access the SafeTravel Portal?</b></p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">For the best user experience, submit your application or verify your vaccination certificate using Google Chrome (version 84 or later) or Microsoft Edge (Version 95 or later) Web Browser. To facilitate payment, please also disable your pop-up blocker.</p>
 
 <div id="upload"></div>
