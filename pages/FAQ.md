@@ -43,7 +43,7 @@ permalink: /FAQ
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Countries/regions may subsequently be shifted to the “Restricted Travel” list to limit the risk of importing new and potentially dangerous disease variants if they arise.</p>
 
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
-<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Contents</a> for other more relevant FAQs.</p>
 </div>
 
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
@@ -60,7 +60,7 @@ permalink: /FAQ
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To continue to qualify for any <a href="https://file.go.gov.sg/vdsmminfo.pdf" target="_blank">vaccination-differentiated measures during your stay</a>, you must satisfy the prevailing domestic vaccination requirements in Singapore. For more information on vaccination requirements within Singapore, visit: <a href="https://moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH’s Post-Vaccination Matters FAQs</a>.</p>
 
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
-<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Contents</a> for other more relevant FAQs.</p>
 </div>
 
 
@@ -82,7 +82,7 @@ permalink: /FAQ
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You can show proof of vaccination via the TraceTogether mobile application or HealthHub application (Singpass users only). If you were vaccinated overseas, your vaccination status only lasts up to 30 days, or when you leave Singapore, whichever is earlier. For extended stays in Singapore, visit a <a href="https://flu.gowhere.gov.sg/" target="_blank">Public Health Preparedness Clinic</a> to register your vaccination status into the National Immunisation Registry (NIR). A booster vaccination dose may also be required.</p>
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">If your vaccination status is reflected incorrectly in TraceTogether, write to <a href="https://go.gov.sg/vds-query-form" target="_blank">https://go.gov.sg/vds-query-form</a> for assistance.</p>	
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
-<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Contents</a> for other more relevant FAQs.</p>
 </div>
 
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
@@ -170,7 +170,7 @@ permalink: /FAQ
   </table>
 
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
-<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Contents</a> for other more relevant FAQs.</p>
 </div>
 
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
@@ -283,7 +283,7 @@ permalink: /FAQ
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Submit screenshots of the error message(s) that you are seeing to the SafeTravel Office using <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>.</p>
 
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
-<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Contents</a> for other more relevant FAQs.</p>
 </div>
 
 <p style=" font-size:18px; margin-top: 0px; margin-bottom:30px; line-height:1.35;"></p>
@@ -303,10 +303,8 @@ permalink: /FAQ
 <p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">An e-Pass (e-visit pass) is only sent to foreign visitors <b>after they have cleared arrival immigration. Please do not attempt to retrieve your e-pass before clearing arrival immigration as it will result in an error.</b></p>
 <p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;">If you have already arrived in Singapore and had submitted more than one SGAC for the same trip, please use the DE number from the latest SGAC acknowledgement e-mail.</p>
 <p style="font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><a href="https://www.ica.gov.sg/public-education/roll-out-of-e-pass-to-all-checkpoints-and-launch-of-ica's-e-pass-enquiry-portal" target="_blank">Click here for more information on the e-Pass</a>.</p>
-	
-	
 <p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">-----</p>
-<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Content Page</a> for other more relevant questions.</p>
+<p style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Can’t find what you’re looking for? Return to the <a href="#top">Contents</a> for other more relevant FAQs.</p>
 </div>
 
 
