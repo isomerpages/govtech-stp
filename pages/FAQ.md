@@ -32,7 +32,7 @@ permalink: /FAQ
 
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"> There are additional entry requirements based on traveller profile and country of travel only if you are:</p>
 <ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
-<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A short-term visitor holding a passport of a visa-required country</li>
+<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A short-term visitor holding a passport of a visa-required country; OR</li>
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A traveller who has visited Yellow Fever high risk countries/regions</li>
 <li style="padding-left:20px; margin-top:8px; margin-bottom:20px; font-size:18px; line-height:1.35;">A non-Malaysian work permit In-Principle Approval holder in the Construction, Marine shipyard or Process sectors</li>
 </ol>
