@@ -183,14 +183,15 @@ permalink: /FAQ
 
 <div id="upload"></div>
 	
-<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5b. I cannot get my Digitally Verifiable Vaccination Certificate (DVC) verified on the Vaccination Check Portal (VCP). What has gone wrong and what can I do?</b></p>
+<p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5b. I cannot get my Digitally Verifiable Vaccination Certificate (DVC) verified on the Vaccination Check Portal (VCP). What can I do?</b></p>
 
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Check that your DVC is issued in a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">VCP-compatible form by these countries/regions</a>, if it is, ensure that:</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You can use the VCP to verify your certificate only if it is a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">digitally verifiable vaccination certificate (DVC) issued by selected countries/regions</a>. If it is, ensure that:</p>
 <ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A high-resolution QR Code in JPG, PDF, or PNG format is submitted; and</li>
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Vaccination certificate clearly reflects your personal information that is identical to your passport</li>
+	<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Your name and travel document number are reflected in full and not masked</li>
 </ol>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">Certificates reflecting incomplete information, e.g. redacted/partial names or identification numbers, will be rejected. If you continue to encounter technical difficulties verifying your DVC, you have <a href="#vaxcert">these options</a> to show proof of vaccination. If you presently hold a DVC issued in Hong Kong SAR containing masked information, <a href="https://www.evt.gov.hk/portal/en/workflow2" target="_blank">click here</a> for instructions to unmask your info and download an VCP-compatible vaccination certificate.</p>
+<p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">If you do not possess a VCP-compatible vaccination certificate or are unable to submit your vaccination certificate due to technical difficulties, you can show a <a href="/arriving/general-travel/fully-vaccinated#step1" target="_blank">physical hardcopy or app contaning the required details</a>.</p>
 
 <div id="TravellerDetails"></div>
 	
