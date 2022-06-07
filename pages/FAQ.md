@@ -8,7 +8,7 @@ permalink: /FAQ
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
 		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#vaxcert">Digitally Verifiable Vaccination Certificate</a></li>
-		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Common Portal Technical Issues</a><ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-latin;">
+		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"><a href="#tech">Common Portal Technical Issues</a><ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-latin;"> 
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#amendment">Amendment of Approved Entry Applications</a></li>
 <li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#receiptandapproval">Receipts and Approval Letters</a></li>
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; line-height:1.5;"> <a href="#TravellerDetails">Traveller Details</a></li>
@@ -36,7 +36,7 @@ Travellers may click on the links below for FAQs relating to the following agenc
 
 ### 1) Digitally Verifiable Vaccination Certificate 
 
-<div id="invalidcode"></div>
+<div id="invalidcode"></div> 
 
 #### 1. What should I do if my Vaccination Certificates are not accepted in the Vaccination Check Portal or SG Arrival Card?
 
