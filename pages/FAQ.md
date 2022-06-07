@@ -186,7 +186,7 @@ permalink: /FAQ
 	
 <p style="color: #d30000; font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>5b. I cannot get my Digitally Verifiable Vaccination Certificate (DVC) verified on the Vaccination Check Portal (VCP). What can I do?</b></p>
 
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You can use the VCP to verify your certificate only if it is a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">digitally verifiable vaccination certificate (DVC) issued by selected countries/regions</a>. If it is, ensure that:</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">You can use the VCP to verify your certificate only if it is a <a href="/files/acceptedvaccinationcertificate.pdf" target="_blank">digitally verifiable vaccination certificate (DVC) issued by certain countries/regions</a>. If it is, ensure that:</p>
 <ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">A high-resolution QR Code in JPG, PDF, or PNG format is submitted; and</li>
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Vaccination certificate clearly reflects your personal information that is identical to your passport</li>
