@@ -152,6 +152,9 @@ details[open] summary::before {
 </style>
 </head>
 	<body>
+		<details class="style6">
+<summary style="font-size:30px;"><b>testing width here</b></summary>
+		</details>
 <details class="style6">
 <summary style="font-size:20px;"><b>Pre-Departure COVID-19 Test Report nono20px</b></summary>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
