@@ -156,7 +156,7 @@ details[open] summary::before {
 	
 <body>	
 <details class="style6">
-<summary><b>Pre-Departure COVID-19 Test Report</b></summary>
+<summary><b style="font-size: 20px;">Pre-Departure COVID-19 Test Report</b></summary>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">A pre-departure COVID-19 test can be booked with an clinic found on <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">this list</a>. Before booking, check with the clinic on the type of test administered, cost and estimated turnaround time for the release of the report, and ensure that these are appropriate for your travel plans and the requirements of the destination country.
 </p>
@@ -170,7 +170,7 @@ details[open] summary::before {
 </div>
 </details>
 <details class="style6">
-<summary><b>Vaccination Certificates</b></summary>
+<summary><b style="font-size: 20px;">Vaccination Certificates</b></summary>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Not all travel destinations accept hardcopy vaccination cards/slips issued in Singapore, or vaccination records found in the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg" target="_blank">HealthHub</a> mobile application.
 </p>
@@ -179,7 +179,7 @@ details[open] summary::before {
 </div>
 </details>
 <details class="style6">
-<summary><b>COVID-19 Recovery Certificate</b></summary>
+<summary><b style="font-size: 20px;">COVID-19 Recovery Certificate</b></summary>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Some destinations offer testing exemptions to travellers who recovered from COVID-19. 
 </p>
