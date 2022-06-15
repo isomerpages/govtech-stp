@@ -154,7 +154,7 @@ details[open] summary::before {
 	<body>
 <details class="style6">
 <summary><b>Pre-Departure COVID-19 Test Report</b></summary>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa; width:100%;" class="contenttest">
+<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">A pre-departure COVID-19 test can be booked with an clinic found on <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">this list</a>. Before booking, check with the clinic on the type of test administered, cost and estimated turnaround time for the release of the report, and ensure that these are appropriate for your travel plans and the requirements of the destination country.
 </p>
  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">On the day of the test, travellers should bring the following documents for registration to facilitate report preparation:</p>
@@ -165,17 +165,17 @@ details[open] summary::before {
 </ol>
   <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">For PCR tests, the clinic will send you a digitally authenticated test result via email in the form of a QR code, which can be used for boarding and immigration clearance. For ART results, check with the clinic on how they will issue the test results to you.</p>
 </div>
-		</details>
+</details>
 <details class="style6">
 <summary><b>Vaccination Certificates</b></summary>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa; width:100%;" class="contenttest">
+<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Not all travel destinations accept hardcopy vaccination cards/slips issued in Singapore, or vaccination records found in the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg" target="_blank">HealthHub</a> mobile application.
 </p>
  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Apply for a digitally authenticated vaccination certificate using <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a>, if you are vaccinated in Singapore and required to present such a certificate for entry into the destination country. Upon authentication, Not&alpha;rise will send a Vaccination HealthCert (i.e. QR code) to your email and/or SingPass app (for users who logged in using SingPass app/credentials). The QR code can be presented to the relevant foreign authority for scanning as proof of your vaccination status.</p>
   <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">If you have queries about Vaccination HealthCerts, refer to <a href="https://faq.notarise.gov.sg/hc/en-gb/sections/4571963962649-Outbound-travellers-from-Singapore-Vaccination-" target="_blank">this FAQ</a> or write to <a href="mailto:support@notarise.gov.sg" target="_blank">support@notarise.gov.sg</a> for assistance.</p>
 </div>
-		</details>
-		<details class="style6">
+</details>
+<details class="style6">
 <summary><b>COVID-19 Recovery Certificate</b></summary>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Some destinations offer testing exemptions to travellers who recovered from COVID-19. 
@@ -183,6 +183,8 @@ details[open] summary::before {
  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Apply for a digitally authenticated recovery certificate via <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a> for yourself and/or your child, only if you had previously tested positive for COVID-19 on a professionally administered or supervised test at a healthcare provider or test centre in Singapore. </p>
 	<p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">If you have queries about Recovery HealthCerts, refer to <a href="https://faq.notarise.gov.sg/hc/en-gb/sections/6825502910361-Outbound-travellers-from-Singapore-Recovery-" target="_blank">this FAQ</a> or write to <a href="mailto:support@notarise.gov.sg" target="_blank">support@notarise.gov.sg</a> for assistance. If you have trouble obtaining a Recovery HealthCert, you may also wish to check with the authorities of your destination if other forms of proof of past infection are accepted (e.g. positive test result slip). </p>
 </div>
-		</details>
+</details>
+  </body>
+  </html>
   </body>
   </html>
