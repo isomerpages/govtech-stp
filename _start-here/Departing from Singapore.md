@@ -15,7 +15,7 @@ description: Advisories and resources when departing from Singapore
 margin-left: 60px;
 	}
 .content{
-	width:100%;
+	width:110%;
 	}
 	</style>
 		</head>
@@ -44,7 +44,7 @@ margin-left: 60px;
 
 <p style="margin-top:10px; margin-bottom:15px; font-size:20px; line-height:1.35;">Click “+” to expand for details on how to obtain the documents.</p>
 
-<div style="padding: 10px; border-left:0px; border-right:0px; border-top:0px; border-bottom:0px;">
+<div style="padding: 5px; border-left:0px; border-right:0px; border-top:0px; border-bottom:0px;">
 	
 <html>
 <head>
