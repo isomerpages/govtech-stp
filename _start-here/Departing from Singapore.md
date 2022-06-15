@@ -8,7 +8,7 @@ description: Advisories and resources when departing from Singapore
 <style>
 
 .col.is-offset-1-desktop{
-	margin-left:-30px;
+	margin-left:-80px;
  }
 
 .col.is-1, .col.is-1-tablet{
@@ -97,7 +97,7 @@ details.style6 summary {
 }
 details.style6 summary::before {
   content: "\271A";
-  font-size: 2.0rem;
+  font-size: 1.5rem;
   top: 0.5rem;
   left: unset;
   right: 0.5rem;
