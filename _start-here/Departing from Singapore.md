@@ -12,10 +12,10 @@ description: Advisories and resources when departing from Singapore
  }
 
 .col.is-1, .col.is-1-tablet{
-margin-left: 50px;
+margin-left: 100px;
 	}
 .content{
-	width:110%;
+	width:95%;
 	}
 	</style>
 		</head>
