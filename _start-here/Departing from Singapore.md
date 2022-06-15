@@ -166,7 +166,7 @@ details[open] summary::before {
  <li style="margin-bottom:10px; font-size:20px; line-height:1.35;">Passport to be used for travelling</li>
  <li style=" margin-bottom:10px; font-size:20px; line-height:1.35;">Flight booking details showing the departure timing</li>
 </ol>
-  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">For PCR tests, the clinic will send you a digitally authenticated test result via email in the form of a QR code, which can be used for boarding and immigration clearance. For ART results, check with the clinic on how they will issue the test results to you.</p>
+  <p style="margin-top:20px; margin-bottom:20px; font-size:20px; line-height:1.35;">For PCR tests, the clinic will send you a digitally authenticated test result via email in the form of a QR code, which can be used for boarding and immigration clearance. For ART results, check with the clinic on how they will issue the test results to you.</p>
 </div>
 </details>
 <details class="style6">
