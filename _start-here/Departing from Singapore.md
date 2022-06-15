@@ -177,7 +177,7 @@ details[open] summary::before {
 		</details>
 		<details class="style6">
 <summary><b>COVID-19 Recovery Certificate</b></summary>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa; width:100%;" class="contenttest">
+<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Some destinations offer testing exemptions to travellers who recovered from COVID-19. 
 </p>
  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Apply for a digitally authenticated recovery certificate via <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a> for yourself and/or your child, only if you had previously tested positive for COVID-19 on a professionally administered or supervised test at a healthcare provider or test centre in Singapore. </p>
@@ -186,5 +186,3 @@ details[open] summary::before {
 		</details>
   </body>
   </html>
-	</body>
-	</html>
