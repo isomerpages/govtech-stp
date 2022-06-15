@@ -8,14 +8,14 @@ description: Advisories and resources when departing from Singapore
 <style>
 
 .col.is-offset-1-desktop{
-	margin-left:-10px;
+	margin-left:-5px;
  }
 
 .col.is-1, .col.is-1-tablet{
 margin-left: 60px;
 	}
 .content{
-	width:110%;
+	width:100.5%;
 	}
 	</style>
 		</head>
