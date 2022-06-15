@@ -97,7 +97,7 @@ details.style6 summary {
 }
 details.style6 summary::before {
   content: "\271A";
-  font-size: 1.5rem;
+  font-size: 2.0rem;
   top: 0.5rem;
   left: unset;
   right: 0.5rem;
