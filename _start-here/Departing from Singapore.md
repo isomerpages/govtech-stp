@@ -97,7 +97,7 @@ details.style6 summary {
 }
 details.style6 summary::before {
   content: "\271A";
-  font-size: 5.5rem;
+  font-size: 1.5rem;
   top: 0.5rem;
   left: unset;
   right: 0.5rem;
@@ -152,8 +152,8 @@ details[open] summary::before {
 </style>
 </head>
 	<body>
-<details class="stylenono">
-<summary><b>Pre-Departure COVID-19 Test Report nono</b></summary>
+<details class="style6">
+<summary style="font-size:20px;"><b>Pre-Departure COVID-19 Test Report nono</b></summary>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">A pre-departure COVID-19 test can be booked with an clinic found on <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">this list</a>. Before booking, check with the clinic on the type of test administered, cost and estimated turnaround time for the release of the report, and ensure that these are appropriate for your travel plans and the requirements of the destination country.
 </p>
