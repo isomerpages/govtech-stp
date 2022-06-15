@@ -43,7 +43,9 @@ margin-left: 50px;
 <p style="margin-top:10px; margin-bottom:15px; font-size:20px; line-height:1.35;">To manage the spread of COVID-19, some destinations may require travellers to present any combination of the following documents, which can be obtained in Singapore.</p>
 
 <p style="margin-top:10px; margin-bottom:15px; font-size:20px; line-height:1.35;">Click “+” to expand for details on how to obtain the documents.</p>
-			
+
+<div style="padding: 5px; border-left:0px; border-right:0px; border-top:0px; border-bottom:0px; width:104.1%;">
+	
 <html>
 <head>
 <meta charset="utf-8">
@@ -187,5 +189,6 @@ details[open] summary::before {
 </details>
   </body>
   </html>
+			</div>
 	</body>
 	</html>
