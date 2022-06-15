@@ -12,7 +12,7 @@ description: Advisories and resources when departing from Singapore
  }
 
 .col.is-1, .col.is-1-tablet{
-margin-left:80px;
+margin-left: 50px;
 	}
 .content{
 	width:110.1%;
