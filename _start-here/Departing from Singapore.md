@@ -160,7 +160,7 @@ details[open] summary::before {
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">A pre-departure COVID-19 test can be booked with an clinic found on <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">this list</a>. Before booking, check with the clinic on the type of test administered, cost and estimated turnaround time for the release of the report, and ensure that these are appropriate for your travel plans and the requirements of the destination country.
 </p>
- <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">On the day of the test, travellers should bring the following documents for registration to facilitate report preparation:</p>
+ <p style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;">On the day of the test, travellers should bring the following documents for registration to facilitate report preparation:</p>
   <ol style="margin-top:10px; margin-bottom:10px; font-size:20px; list-style-type:disc;">
  <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;">Identity card (for Singapore Citizens, Permanent Residents, and Long-Term Pass Holders)</li> 
  <li style="margin-bottom:10px; font-size:20px; line-height:1.35;">Passport to be used for travelling</li>
