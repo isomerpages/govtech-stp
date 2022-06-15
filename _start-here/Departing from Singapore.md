@@ -168,7 +168,7 @@ details[open] summary::before {
 		</details>
 <details class="style6">
 <summary><b>Vaccination Certificates</b></summary>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa; width:100%;" class="content">
+<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa; width:100%;" class="contenttest">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Not all travel destinations accept hardcopy vaccination cards/slips issued in Singapore, or vaccination records found in the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg" target="_blank">HealthHub</a> mobile application.
 </p>
  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Apply for a digitally authenticated vaccination certificate using <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a>, if you are vaccinated in Singapore and required to present such a certificate for entry into the destination country. Upon authentication, Not&alpha;rise will send a Vaccination HealthCert (i.e. QR code) to your email and/or SingPass app (for users who logged in using SingPass app/credentials). The QR code can be presented to the relevant foreign authority for scanning as proof of your vaccination status.</p>
@@ -177,7 +177,7 @@ details[open] summary::before {
 		</details>
 		<details class="style6">
 <summary><b>COVID-19 Recovery Certificate</b></summary>
-<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa; width:100%;" class="content">
+<div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa; width:100%;" class="contenttest">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Some destinations offer testing exemptions to travellers who recovered from COVID-19. 
 </p>
  <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Apply for a digitally authenticated recovery certificate via <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a> for yourself and/or your child, only if you had previously tested positive for COVID-19 on a professionally administered or supervised test at a healthcare provider or test centre in Singapore. </p>
