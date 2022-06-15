@@ -15,7 +15,7 @@ description: Advisories and resources when departing from Singapore
 margin-left: 50px;
 	}
 .content{
-	width:110.1%;
+	width:110%;
 	}
 	</style>
 		</head>
