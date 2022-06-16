@@ -1,5 +1,5 @@
 ---
-title: Checklist for Non-Fully Vaccinated Travellers Aged 13 and Above
+title: Checklist for Non-Fully Vaccinated Travellers Aged 13 and Above by Year of Birth
 permalink: /arriving/general-travel/non-fully-vaccinated
 description: ""
 third_nav_title: Travelling to Singapore
