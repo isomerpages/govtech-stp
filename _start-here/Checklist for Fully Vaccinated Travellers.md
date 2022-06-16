@@ -23,7 +23,7 @@ margin-left:50px;
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This checklist is for <b>all travellers, including Singapore Citizens or Permanent Residents, entering Singapore from any country/region via air, land, or sea</b>, and are:</p>
 		<ol style="padding-left:25px; list-style-type:disc;">
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Fully vaccinated with WHO EUL COVID-19 vaccines;* <u>OR</u></li>
-			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Born in or <b>after</b> 2010 (i.e. aged 12 and below by year of birth), regardless of vaccination status</li>
+			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Born on or <b>after</b> 1 Jan 2010 (i.e. aged 12 and below by year of birth), regardless of vaccination status</li>
 	</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">If you do not meet the above criteria, refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">checklist for non-fully vaccinated travellers</a>. Travellers transiting in Singapore to another destination without clearing immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. </p>
 	 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken at least one dose of CanSinoBIO/Convidecia or Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixed doses and boosters using these WHO EUL vaccines, and vaccination with recovery are also acceptable. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
@@ -116,7 +116,7 @@ margin-left:50px;
 
 <div id="1A" style="padding:10px 10px 10px 10px; margin-top:10px margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:104.1%; ">&#9634;&nbsp;<b>Step 1: Prepare Proof of Vaccination</b></div>
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:104.1%;">
-<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>If you are born in or <b>before</b> 2009 (i.e. aged 13 and above by year of birth)</b>, ensure that you have the necessary proof of COVID-19 vaccination for pre-boarding and immigration checks.</p>
+<p style=" font-size:18px; margin-top: 0px; margin-bottom:20px; line-height:1.35;"><b>If you are born on or <b>before</b> 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b>, ensure that you have the necessary proof of COVID-19 vaccination for pre-boarding and immigration checks.</p>
 <p style=" font-size:18px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click “+” to expand for details)</p>
 
 <html>
