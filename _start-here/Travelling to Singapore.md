@@ -37,14 +37,14 @@ Click here to return to the <a href="#top">top</a>.
 
 #### 1. Entry Criteria and Travel Checklists
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35; font-size:20px;">Under Singapore’s Vaccinated Travel Framework, <b>all travellers</b> including Singapore Citizens and Permanent Residents <b>arriving from all countries/regions can enter Singapore without quarantine, testing or entry approvals if they meet the following requirements:</b></p>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35; font-size:20px;">Under Singapore’s Vaccinated Travel Framework, currently <b>all travellers</b> including Singapore Citizens and Permanent Residents <b>arriving from all countries/regions can enter Singapore without quarantine, testing or entry approvals if they meet the following requirements:</b></p>
   <ol style="line-height:1.35;">
-	  <li style="line-height:1.35; font-size:20px; margin-bottom:15px;"><b>Be a child born in or after 2010 (i.e. aged 12 and below by year of birth)</b> – children who meet this age criteria can enter regardless of COVID-19 vaccination status</li>
-	   <li style="line-height:1.35; font-size:20px;margin-bottom:15px; "><b>Be fully vaccinated with WHO EUL vaccines if born in or before 2009 (i.e. aged 13 and above by year of birth)</b> – “Fully vaccinated” means at least one dose of CanSinoBIO/Convidecia or Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixed doses and boosters using these WHO EUL vaccines, and vaccination with recovery are also acceptable. For full definition, see <a href="/arriving/overview#vaccination" target="_blank">Accepted COVID-19 Vaccinations for Entry to Singapore</a>.</li>
+	  <li style="line-height:1.35; font-size:20px; margin-bottom:15px;"><b>Be a child born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth)</b> – children who meet this criteria can enter regardless of COVID-19 vaccination status</li>
+	   <li style="line-height:1.35; font-size:20px;margin-bottom:15px; "><b>Be fully vaccinated with WHO EUL vaccines if born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b> – “Fully vaccinated” means at least one dose of CanSinoBIO/Convidecia or Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixed doses and boosters using these WHO EUL vaccines, and vaccination with recovery are also acceptable. For full definition, see <a href="/arriving/overview#vaccination" target="_blank">Accepted COVID-19 Vaccinations for Entry to Singapore</a>.</li>
 	   <li style="line-height:1.35; font-size:20px; margin-bottom:10px;"><b>Be vaccinated against Yellow Fever if you have visited Yellow Fever high risk countries/regions in Africa and Latin America</b> - a valid <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever vaccination certificate</a> is required.</li>
 	  </ol>
 
-<p style="font-size:20px; margin-top:20px; margin-bottom:10px; line-height:1.35;">If you meet the requirements above, click the green button below for a detailed step-by-step travel checklist that explains the administrative requirements (e.g. proof of vaccination, SG Arrival Card, etc) for entry. </p>
+<p style="font-size:20px; margin-top:20px; margin-bottom:10px; line-height:1.35;">If you meet the requirements above, click the green button below for a step-by-step travel checklist that explains the administrative requirements (e.g. proof of vaccination, SG Arrival Card, etc) for entry. </p>
 
 <p style="margin-bottom:20px;"></p>
 
@@ -88,10 +88,10 @@ Click here to return to the <a href="#top">top</a>.
 
 <hr style="margin-top:40px;">
 
-<p style="font-size:20px; margin-top:20px; margin-bottom:20px; line-height:1.35; "><b>Travellers born in or before 2009 (i.e. age 13 and above by year of birth) who do not meet the vaccination requirements above</b> are considered non-fully vaccinated travellers and will be subject to entry approvals, tests and quarantine. This includes travellers who:</p>
+<p style="font-size:20px; margin-top:20px; margin-bottom:20px; line-height:1.35; "><b>Travellers born on or before 31 Dec 2009 (i.e. age 13 and above by year of birth) who do not meet the vaccination requirements above</b> are considered non-fully vaccinated travellers and will be subject to entry approvals, tests and quarantine. This includes travellers who:</p>
   <ol style="list-style-type: disc; line-height:1.35; width:auto;">
 	<li style="line-height:1.35; font-size:20px;margin-bottom:15px; ">Are medically exempted from COVID-19 vaccination</li>
-	<li style="line-height:1.35; font-size:20px;margin-bottom:15px; ">Took non-WHO EUL vaccines and/or did not complete the full dosage of WHO EUL COVID-19 vaccines</li>
+	<li style="line-height:1.35; font-size:20px;margin-bottom:15px; ">Took non-WHO EUL vaccines only and did not take the minimum dosage of WHO EUL COVID-19 vaccines</li>
 	<li style="line-height:1.35; font-size:20px; ">Recovered from COVID-19 but did not complete the minimum dosage of WHO EUL COVID-19 vaccines </li>
 	  </ol>
 	  
@@ -147,9 +147,9 @@ Click here to return to the <a href="#top">top</a>.
 ### 2. Accepted COVID-19 Vaccinations for Entry
 
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born in or after 2010 (i.e. aged 12 and below by year of birth)</b> will follow the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">border measures for fully vaccinated travellers</a>, regardless of their vaccination status.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth)</b> will follow the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">border measures for fully vaccinated travellers</a>, regardless of their vaccination status.</p>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born in or before 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on the WHO’s list of EUL COVID-19 vaccines in the table below. Not all vaccines being administered outside Singapore may be under the WHO EUL list.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on the WHO’s list of EUL COVID-19 vaccines in the table below. Not all vaccines being administered outside Singapore may be under the WHO EUL list.</p>
 
 <table style="width: 90%;">
 	<thead>
