@@ -137,7 +137,7 @@ Click here to return to the <a href="#top">top</a>.
 
 ---
 
-Click here to return to the <a href="#top">top</a>.
+<p style="margin-top:-10px; margin-bottom:-10px"><a href="#top">Click here to return to the top</a></p>.
 
 ---
 
