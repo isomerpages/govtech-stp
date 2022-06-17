@@ -93,7 +93,7 @@ Click here to return to the <a href="#top">top</a>.
 <p style="font-size:20px; margin-top:20px; margin-bottom:20px; line-height:1.35; "><b>Travellers born on or before 31 Dec 2009 (i.e. age 13 and above by year of birth) who do not meet the vaccination requirements above</b> are considered non-fully vaccinated travellers and will be subject to entry approvals, tests and quarantine. This includes travellers who:</p>
   <ol style="list-style-type: disc; line-height:1.35; width:auto;">
 	<li style="line-height:1.35; font-size:20px;margin-bottom:15px; ">Are medically exempted from COVID-19 vaccination</li>
-	<li style="line-height:1.35; font-size:20px;margin-bottom:15px; ">Took non-WHO EUL vaccines only and did not take the minimum dosage of WHO EUL COVID-19 vaccines</li>
+	<li style="line-height:1.35; font-size:20px;margin-bottom:15px; ">Took non-WHO EUL vaccines only, and did not take the minimum dosage of WHO EUL COVID-19 vaccines</li>
 	<li style="line-height:1.35; font-size:20px; ">Recovered from COVID-19 but did not complete the minimum dosage of WHO EUL COVID-19 vaccines </li>
 	  </ol>
 	  
