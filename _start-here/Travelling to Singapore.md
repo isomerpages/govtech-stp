@@ -7,12 +7,12 @@ third_nav_title: Travelling to Singapore
 
 <div id="top"></div>
 
-<p style="margin-top:-20px; margin-bottom:15px; line-height:1.35; font-size:20px; background-color: #f7f7f7;"><i><b>Note:</b> If you are transiting through Singapore to another destination without clearing immigration, refer to the <a href="/transit/overview" target="_blank">"Transiting through Singapore"</a> page instead. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="/arriving/overview#crew" target="_blank">click here</a> for more instructions.</i></p>
+<p style="margin-top:-20px; margin-bottom:15px; line-height:1.35; font-size:20px; background-color: #d7d7d7;"><i><b>Note:</b> If you are transiting through Singapore to another destination without clearing immigration, refer to the <a href="/transit/overview" target="_blank">"Transiting through Singapore"</a> page instead. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="/arriving/overview#crew" target="_blank">click here</a> for more instructions.</i></p>
 
 
 <!--- [Automated Self-Help Tool for Entry Requirements](#selfhelptool)-->
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35; font-size:20px;">On this page, you will find the following information on travel to Singapore:</p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35; font-size:20px;">On this page, you will find the following information on travel to Singapore:</p>
  <ol style="line-height:1.35;">
 	<li style=" padding-left:20px; line-height:1.35; font-size:20px; margin-bottom:15px;"><a href="#checklist">Entry Criteria and Travel Checklists</a></li>
 		<li style=" padding-left:20px;line-height:1.35; font-size:20px;"><a href="#vaccination">Accepted COVID-19 Vaccinations for Entry to Singapore</a></li>
