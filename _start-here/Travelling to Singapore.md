@@ -6,7 +6,7 @@ third_nav_title: Travelling to Singapore
 ---
 <div id="top"></div>
 
-<div style="padding-left: 5px; margin-bottom:20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 2px; border-color:#f7f7f7; background-color: #f7f7f7;">
+<div style="padding-left: 5px; margin-top: -15px; margin-bottom:20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 2px; border-color:#f7f7f7; background-color: #f7f7f7;">
 <p style="margin-top:-20px; margin-bottom:15px; line-height:1.35; font-size:20px;"><i><b>Note:</b> If you are transiting through Singapore to another destination without clearing immigration, refer to the <a href="/transit/overview" target="_blank">"Transiting through Singapore"</a> page instead. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="/arriving/overview#crew" target="_blank">click here</a> for more instructions.</i></p>
 </div>
 
