@@ -20,13 +20,13 @@ margin-left: 60px;
 	</style>
 		</head>
 		<body>
-<p style="margin-top:0px; margin-bottom:15px; font-size:20px; line-height:1.35;">There are <b>no restrictions</b> imposed on departures from Singapore. However, <b>travellers must abide by the travel requirements imposed by their overseas destination</b>. Review the following if you are planning to leave Singapore:</p>
+<p style="margin-top:0px; margin-bottom:15px; font-size:20px; line-height:1.35;">There are <b>no restrictions</b> imposed on departures from Singapore. However, <b>travellers must abide by the travel requirements imposed by their overseas destination</b>. Please note the following points if you are planning to leave Singapore:</p>
 <ol style="padding-left:20px;margin-top:10px; margin-bottom:10px; font-size:20px;">
   <li style="padding-left:20px; margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#advisories">Travel Requirements Imposed by Destination Country/Region</a></li>
     <li style="padding-left:20px;margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#proof">How to obtain COVID-19 Medical Proof (e.g. vaccination/recovery certificates, and test reports)</a></li>
   </ol>
 
-<p style="margin-top:10px; margin-bottom:5px; font-size:20px; line-height:1.35;">Please note that travellers will be subjected to the prevailing entry requirements for their return to Singapore. This may include entry approvals for non-fully vaccinated travellers. Details are available on the <a href="/arriving/overview" target="_blank">"Travelling to Singapore"</a> page.</p>
+<p style="margin-top:10px; margin-bottom:5px; font-size:20px; line-height:1.35;">Travellers will be subjected to the prevailing entry requirements for their return to Singapore. This may include entry approvals for non-fully vaccinated travellers. Details are available on the <a href="/arriving/overview" target="_blank">"Travelling to Singapore"</a> page.</p>
 
 <div id="advisories" style="margin-bottom:-20px;"></div>
 
@@ -40,7 +40,7 @@ margin-left: 60px;
 			
 <h3> 2) Obtaining COVID-19 Medical Proof (e.g. vaccination/recovery certificates, test reports)</h3>
 
-<p style="margin-top:10px; margin-bottom:15px; font-size:20px; line-height:1.35;">To manage the spread of COVID-19, some destinations may require travellers to present any combination of the following documents, which can be obtained in Singapore.</p>
+<p style="margin-top:10px; margin-bottom:15px; font-size:20px; line-height:1.35;">Some destinations may require travellers to present any combination of the following documents, which can be obtained in Singapore.</p>
 
 <p style="margin-top:10px; margin-bottom:15px; font-size:20px; line-height:1.35;">Click “+” to expand for details on how to obtain the documents.</p>
 
@@ -158,7 +158,7 @@ details[open] summary::before {
 <details class="style6">
 <summary><b style="font-size: 20px;">Pre-Departure COVID-19 Test Report</b></summary>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
-<p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">A pre-departure COVID-19 test can be booked with an clinic found on <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">this list</a>. Before booking, check with the clinic on the type of test administered, cost and estimated turnaround time for the release of the report, and ensure that these are appropriate for your travel plans and the requirements of the destination country.
+<p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">A pre-departure COVID-19 test can be booked with <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">any clinic found on this list</a>. Before booking, check with the clinic on the type of test administered, cost and estimated turnaround time for the release of the report, and ensure that these can meet the requirements of the destination country.
 </p>
  <p style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;">On the day of the test, travellers should bring the following documents for registration to facilitate report preparation:</p>
   <ol style="margin-top:10px; margin-bottom:10px; font-size:20px; list-style-type:disc;">
@@ -166,15 +166,14 @@ details[open] summary::before {
  <li style="margin-bottom:10px; font-size:20px; line-height:1.35;">Passport to be used for travelling</li>
  <li style=" margin-bottom:10px; font-size:20px; line-height:1.35;">Flight booking details showing the departure timing</li>
 </ol>
-  <p style="margin-top:20px; margin-bottom:20px; font-size:20px; line-height:1.35;">For PCR tests, the clinic will send you a digitally authenticated test result via email in the form of a QR code, which can be used for boarding and immigration clearance. For ART results, check with the clinic on how they will issue the test results to you.</p>
+  <p style="margin-top:20px; margin-bottom:20px; font-size:20px; line-height:1.35;">For PCR tests, the clinic will send you a digitally authenticated test result via email in the form of a QR code, which can be used for boarding and immigration clearance. For ART results, ask the clinic to issue a digitally authenticated report.</p>
 </div>
 </details>
 <details class="style6">
 <summary><b style="font-size: 20px;">Vaccination Certificates</b></summary>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
-<p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Not all travel destinations accept hardcopy vaccination cards/slips issued in Singapore, or vaccination records found in the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg" target="_blank">HealthHub</a> mobile application.
-</p>
- <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Apply for a digitally authenticated vaccination certificate using <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a>, if you are vaccinated in Singapore and required to present such a certificate for entry into the destination country. Upon authentication, Not&alpha;rise will send a Vaccination HealthCert (i.e. QR code) to your email and/or SingPass app (for users who logged in using SingPass app/credentials). The QR code can be presented to the relevant foreign authority for scanning as proof of your vaccination status.</p>
+<p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">If you are vaccinated in Singapore and need to show proof of vaccination overseas, you can apply for a digitally authenticated vaccination certificate using <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a>, as not all destinations may recognise physical vaccination certs or the vaccination status on the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>/<a href="https://www.healthhub.sg" target="_blank">HealthHub</a> apps. </p>
+ <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Upon authentication, Not&alpha;rise will send a Vaccination HealthCert QR code to your email and/or Singpass app (if you used Singpass to log in), which foreign authorities can scan to check your vaccination status.</p>
   <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">If you have queries about Vaccination HealthCerts, refer to <a href="https://faq.notarise.gov.sg/hc/en-gb/sections/4571963962649-Outbound-travellers-from-Singapore-Vaccination-" target="_blank">this FAQ</a> or write to <a href="mailto:support@notarise.gov.sg" target="_blank">support@notarise.gov.sg</a> for assistance.</p>
 </div>
 </details>
@@ -183,7 +182,7 @@ details[open] summary::before {
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Some destinations offer testing exemptions to travellers who recovered from COVID-19. 
 </p>
- <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">Apply for a digitally authenticated recovery certificate via <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a> for yourself and/or your child, only if you had previously tested positive for COVID-19 on a professionally administered or supervised test at a healthcare provider or test centre in Singapore. </p>
+ <p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">You can apply for a digitally authenticated recovery certificate via <a href="https://www.notarise.gov.sg" target="_blank">Not&alpha;rise</a> for yourself and/or your child, only if you had previously tested positive for COVID-19 on a professionally administered or supervised test at a healthcare provider or test centre in Singapore. </p>
 	<p style="margin-top:10px; margin-bottom:20px; font-size:20px; line-height:1.35;">If you have queries about Recovery HealthCerts, refer to <a href="https://faq.notarise.gov.sg/hc/en-gb/sections/6825502910361-Outbound-travellers-from-Singapore-Recovery-" target="_blank">this FAQ</a> or write to <a href="mailto:support@notarise.gov.sg" target="_blank">support@notarise.gov.sg</a> for assistance. If you have trouble obtaining a Recovery HealthCert, you may also wish to check with the authorities of your destination if other forms of proof of past infection are accepted (e.g. positive test result slip). </p>
 </div>
 </details>
