@@ -158,7 +158,7 @@ details[open] summary::before {
 <details class="style6">
 <summary><b style="font-size: 20px;">Pre-Departure COVID-19 Test Report</b></summary>
 <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
-<p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">A pre-departure COVID-19 test can be booked with any clinic found on <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">this list</a>. Before booking, check with the clinic on the type of test administered, cost and estimated turnaround time for the release of the report, and ensure that these can meet the requirements of the destination country.
+<p style="font-size:20px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">A pre-departure COVID-19 test can be booked with <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">any clinic found on this list</a>. Before booking, check with the clinic on the type of test administered, cost and estimated turnaround time for the release of the report, and ensure that these can meet the requirements of the destination country.
 </p>
  <p style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;">On the day of the test, travellers should bring the following documents for registration to facilitate report preparation:</p>
   <ol style="margin-top:10px; margin-bottom:10px; font-size:20px; list-style-type:disc;">
