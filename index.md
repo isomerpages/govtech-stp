@@ -3,11 +3,11 @@ layout: landing-page-stp
 title: SafeTravel
 description: Singapore’s latest border measures in response to COVID-19
 permalink: /
-notification: <h6 style="text-align:left;">Scheduled maintenance will be taking place on:<br>&bull; 19 June 2022, from 12am to 8am. During this period, the Vaccination Check Portal and SafeTravel Application Portal will not be available.<br><br><b>NOTICE:</b> The ICA <a
+notification: <h6 style="text-align:left;"><b>NOTICE:</b> The ICA <a
   href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card (SGAC)
   e-Service</a> is a simple pre-arrival declaration and no submission fees are
   required. ICA does not support or endorse services offered by commercial
-  entities who claim to help travellers to fill the SGAC for a fee. </h6> 
+  entities who claim to help travellers to fill the SGAC for a fee. </h6>
 sections:
   - hero:
       title: <h3 style="font-size:30px; font-weight:bold; font-family:Lato,sans-serif;
@@ -32,7 +32,8 @@ sections:
           description: Click Here
           url: /departing/overview
   - infopic:
-      title: <span style="color:#153e66; font-size:38px;">Ministry of Health Website</span>
+      title: <span style="color:#153e66; font-size:38px;">Ministry of Health
+        Website</span>
       subtitle: Other Resources
       description: For details on the latest COVID-19 measures, news, and statistics
       button: Read More
