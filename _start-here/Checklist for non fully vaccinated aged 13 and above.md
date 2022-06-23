@@ -239,15 +239,19 @@ details[open] summary::before {
   </div>
 </details>
 <details class="style6">
-	<summary><b>MOE or MOM Long-Term Pass Holders who are Medically Ineligible for Vaccines</b></summary>
+	<summary><b>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate Family Members</b></summary>
   <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate Family Members</u></b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">- Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Long-Term Pass Issued by MOM</u></b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">- <a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry</a>. Request is subject to approval. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To apply, applicants must: (a) be medically ineligible for vaccination, or (b) have compelling reasons for being non-fully vaccinated before entry.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this form</a>.</p>
   </div>
 </details>
 <details class="style6">
+	<summary><b>MOM Long-Term Pass Holders who are Medically Ineligible for Vaccines</b></summary>
+  <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><a href="https://www.mom.gov.sg/exempt-vaccination" target="_blank">Submit an exemption request before entry</a>. Request is subject to approval. Visit the <a href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination" target="_blank">MOM website</a> for more details.</p>
+  </div>
+</details>
+	<details class="style6">
 	<summary><b>Holders of Permanent Resident In-Principle Approval (IPA) or ICA Long-Term Visit Pass IPA</b></summary>
   <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">At least 4 days before the desired date of entry, apply for entry via the <a href="https://eservices.ica.gov.sg/STO/" target="_blank">SafeTravel Office Application Portal</a></p>
