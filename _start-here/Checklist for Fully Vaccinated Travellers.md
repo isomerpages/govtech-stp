@@ -23,7 +23,7 @@ margin-left:50px;
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">This checklist is for <b>all travellers, including Singapore Citizens or Permanent Residents, entering Singapore from any country/region via air, land, or sea</b>, and are:</p>
 		<ol style="padding-left:25px; list-style-type:disc;">
 		<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Fully vaccinated with WHO EUL COVID-19 vaccines;* <u>OR</u></li>
-			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Born <b>on</b> or <b>after</b> 1 Jan 2010 (i.e. aged 12 and below by year of birth), regardless of vaccination status</li>
+			<li style=" padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth), regardless of vaccination status</li>
 	</ol>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Travellers transiting in Singapore to another destination without clearing immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. </p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><b>Travellers born on or before 31 Dec 2009 who are medically ineligible for vaccination, not vaccinated or have recovered from COVID-19 without taking the minimum required WHO EUL vaccines are considered non-fully-vaccinated and should refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">checklist for non-fully vaccinated travellers</a> instead.</b></p>
