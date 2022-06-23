@@ -39,14 +39,14 @@ Click here to return to the <a href="#top">top</a>.
 
 #### 1. Entry Criteria and Travel Checklists
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35; font-size:20px;">Under Singapore’s Vaccinated Travel Framework, currently <b>all travellers</b> including Singapore Citizens and Permanent Residents <b>arriving from all countries/regions can enter Singapore without quarantine, testing or entry approvals if they meet the following requirements:</b></p>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35; font-size:20px;">Under Singapore’s Vaccinated Travel Framework, <b>all travellers</b> including Singapore Citizens and Permanent Residents <b>arriving from all countries/regions can enter Singapore without quarantine, testing or entry approvals if they:</b></p>
   <ol style="line-height:1.35; list-style-type: lower-latin;">
-	  <li style="line-height:1.35; font-size:20px; margin-bottom:15px;"><b>Be a child born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth)</b> – children who meet this criteria can enter regardless of COVID-19 vaccination status</li>
-	   <li style="line-height:1.35; font-size:20px;margin-bottom:15px; "><b>Be fully vaccinated with WHO EUL vaccines if born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b> – “Fully vaccinated” means at least one dose of CanSinoBIO/Convidecia or Janssen/J&J, or at least 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixed doses and boosters using these WHO EUL vaccines, and vaccination with recovery are also acceptable. For full definition, see <a href="/arriving/overview#vaccination" target="_blank">Accepted COVID-19 Vaccinations for Entry to Singapore</a>.</li>
-	   <li style="line-height:1.35; font-size:20px; margin-bottom:10px;"><b>Be vaccinated against Yellow Fever if you have visited Yellow Fever high risk countries/regions in Africa and Latin America</b> - a valid <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever vaccination certificate</a> is required.</li>
+	  <li style="line-height:1.35; font-size:20px; margin-bottom:15px;"><b>Are a child born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth)</b> – children who meet this criteria can enter regardless of COVID-19 vaccination status</li>
+	   <li style="line-height:1.35; font-size:20px;margin-bottom:15px; "><b>Are fully vaccinated with WHO EUL vaccines if born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b> – “Fully vaccinated” means minimally one dose of CanSinoBIO/Convidecia or Janssen/J&J, or minimally 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixed doses using these WHO EUL vaccines, and one vaccination dose after a COVID-19 infection are also acceptable. Boosters are not necessary for entry. However, to maintain vaccinated status after 30 days from entry into Singapore, travellers must receive a booster dose if their primary series vaccination was completed more than 270 days ago. For more details, see <a href="/arriving/overview#vaccination" target="_blank">Accepted COVID-19 Vaccinations for Entry to Singapore</a>.</li>
+	   <li style="line-height:1.35; font-size:20px; margin-bottom:10px;"><b>Are vaccinated against Yellow Fever if travelling from Yellow Fever high risk countries/regions in Africa and Latin America</b> - a valid <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever vaccination certificate</a> is required.</li>
 	  </ol>
 
-<p style="font-size:20px; margin-top:20px; margin-bottom:10px; line-height:1.35;">If you meet the requirements above, click the green button below for a step-by-step travel checklist that explains the administrative requirements (e.g. proof of vaccination, SG Arrival Card, etc) for entry. </p>
+<p style="font-size:20px; margin-top:20px; margin-bottom:10px; line-height:1.35;">If you meet the requirements above, click the green button below for a step-by-step travel checklist that explains the administrative requirements (e.g. proof of vaccination, SG Arrival Card, etc) for entry. <b>Travellers born on or before 31 Dec 2009 who are medically ineligible for vaccination, not vaccinated or have recovered from COVID-19 without taking the minimum required WHO EUL Vaccines are considered non-fully vaccinated and should refer to the next section for non-fully vaccinated travellers.</b></p>
 
 <p style="margin-bottom:20px;"></p>
 
@@ -151,7 +151,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth)</b> will follow the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">border measures for fully vaccinated travellers</a>, regardless of their vaccination status.</p>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on the WHO’s list of EUL COVID-19 vaccines in the table below. Not all vaccines being administered outside Singapore may be under the WHO EUL list.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on their vaccination status using the WHO’s list of EUL COVID-19 vaccines in the table below. Not all vaccines being administered outside Singapore are approved under the WHO EUL. Travellers who have not yet received a booster dose after their primary series are still considered "fully vaccinated" for entry to Singapore, but may be required to take a booster dose to maintain their "fully vaccinated" status within Singapore if staying for more than 30 days. Travellers may receive additional vaccination doses in Singapore at their own expense under the <a href="https://www.vaccine.gov.sg/locations/pvp" target="_blank">Private Vaccination Programme</a> if they are not eligible for the National Vaccination Programme.</p>
 
 <table style="width: 90%;">
 	<thead>
@@ -396,7 +396,7 @@ Click here to return to the <a href="#top">top</a>.
 
 ### Annex – Vaccinated Travel Framework
 
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">An overview of the COVID-19 Vaccinated Travel Framework announced on 1 Apr 2022 can be found below for reference. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane (VTL). If your 7-day travel history consists only of countries in the General Travel Category, you will be subject to the following border measures.</p>
+<p style="margin-top:20px; margin-bottom:20px; line-height:1.35;">An overview of the COVID-19 Vaccinated Travel Framework implemented on 1 Apr 2022 can be found below for reference. This new travel framework replaces previous SafeTravel Lanes such as the Vaccinated Travel Lane (VTL). If your 7-day travel history consists only of countries in the General Travel Category, you will be subject to the following border measures.</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
