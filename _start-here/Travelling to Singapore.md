@@ -46,7 +46,7 @@ Click here to return to the <a href="#top">top</a>.
 	   <li style="line-height:1.35; font-size:20px; margin-bottom:10px;"><b>Be vaccinated against Yellow Fever if you have visited Yellow Fever high risk countries/regions in Africa and Latin America</b> - a valid <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever vaccination certificate</a> is required.</li>
 	  </ol>
 
-<p style="font-size:20px; margin-top:20px; margin-bottom:10px; line-height:1.35;">If you meet the requirements above, click the green button below for a step-by-step travel checklist that explains the administrative requirements (e.g. proof of vaccination, SG Arrival Card, etc) for entry. Travellers born on or before 31 Dec 2009 who are medically ineligible for vaccination, not vaccinated or have recovered from COVID-19 without taking the minimum required WHO EUL Vaccines are considered non-fully vaccinated and should refer to the next section for non-fully vaccinated travellers.</p>
+<p style="font-size:20px; margin-top:20px; margin-bottom:10px; line-height:1.35;">If you meet the requirements above, click the green button below for a step-by-step travel checklist that explains the administrative requirements (e.g. proof of vaccination, SG Arrival Card, etc) for entry. <b>Travellers born on or before 31 Dec 2009 who are medically ineligible for vaccination, not vaccinated or have recovered from COVID-19 without taking the minimum required WHO EUL Vaccines are considered non-fully vaccinated and should refer to the next section for non-fully vaccinated travellers.</b></p>
 
 <p style="margin-bottom:20px;"></p>
 
@@ -151,7 +151,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth)</b> will follow the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">border measures for fully vaccinated travellers</a>, regardless of their vaccination status.</p>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on the WHO’s list of EUL COVID-19 vaccines in the table below. Not all vaccines being administered outside Singapore may be under the WHO EUL list.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on their vaccination status using the WHO’s list of EUL COVID-19 vaccines in the table below. Not all vaccines being administered outside Singapore are approved under the WHO EUL. Travellers who have not yet received a booster dose after their primary series are still considered "fully vaccinated" for entry to Singapore, but may be required to take a booster dose to maintain their "fully vaccinated" status within Singapore if staying for more than 30 days.</p>
 
 <table style="width: 90%;">
 	<thead>
