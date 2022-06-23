@@ -242,7 +242,7 @@ details[open] summary::before {
 	<summary><b>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate Family Members</b></summary>
   <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">To apply, applicants must: (a) be medically ineligible for vaccination, or (b) have compelling reasons for being non-fully vaccinated before entry.</p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this application form</a>.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">this form</a>.</p>
   </div>
 </details>
 <details class="style6">
