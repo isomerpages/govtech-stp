@@ -494,7 +494,7 @@ details[open] summary::before {
 </tbody>
 </table>	
 	
-<p style=" font-size:18px; margin-top:20px; margin-bottom: 20px; line-height:1.35;">Apart from calling your clinic of choice to ensure that it can facilitate the registration, please also ask the clinic for the documents needed for registration. Depending on the date which you had received the last dose of your primary vaccination series, you may be advised to take additional COVID-19 vaccination doses (see summary below) to qualify for domestic vaccination-differentiated requirements. Travellers may receive additional vaccination doses in Singapore at their own expense under the <a href="https://www.vaccine.gov.sg/locations/pvp" target="_blank">Private Vaccination Programme</a> if they are not eligible for the National Vaccination Programme.</p></p>
+<p style=" font-size:18px; margin-top:20px; margin-bottom: 20px; line-height:1.35;">Apart from calling your clinic of choice to ensure that it can facilitate the registration, please also ask the clinic for the documents needed for registration. Depending on the date which you had received the last dose of your primary vaccination series, you may be advised to take additional COVID-19 vaccination doses (see summary below) to qualify for domestic vaccination-differentiated requirements. Travellers may receive additional vaccination doses in Singapore at their own expense under the <a href="https://www.vaccine.gov.sg/locations/pvp" target="_blank">Private Vaccination Programme</a> if they are not eligible for the National Vaccination Programme.</p>
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 <table>
