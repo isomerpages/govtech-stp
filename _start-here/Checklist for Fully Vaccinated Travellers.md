@@ -257,7 +257,7 @@ details[open] summary::before {
 </body>
 </html>	
 	
-<p style=" font-size:18px; margin-top: 20px; margin-bottom:15px; line-height:1.35;"><b>All travellers who have travel history to countries/regions in Africa and Latin America with Yellow Fever Risk</b> are also required to obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>, if not they will be turned away from Singapore or subject to up to 6 days quarantine on arrival.</p>
+<p style=" font-size:18px; margin-top: 20px; margin-bottom:15px; line-height:1.35;"><b>All travellers who have travel history to countries/regions in Africa and Latin America with Yellow Fever Risk</b> must obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>. Travellers who do not have a valid Yellow Fever Vaccination Certificate, <b>including children 1 year old and below and travellers who are medically ineligible for the vaccination</b>, will be subject to 6 days quarantine on arrival or turned away from Singapore.</p>
 	</div>
 	
 <div id="step2"></div>
@@ -524,7 +524,7 @@ details[open] summary::before {
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">All WHO-EUL vaccines, except Sinovac / Sinopharm</td>
 	         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">If you had completed your <b>primary vaccine series</b>:
 		    <ol style=" font-size:18px; margin-bottom:0px; list-style-type: disc;">
-<li style="p font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Booster dose is recommended around 5 months from the last primary vaccine series dose </li>
+<li style="font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Booster dose is recommended around 5 months from the last primary vaccine series dose </li>
 			    <li style=" font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">If booster is not taken, vaccination status will lapse 270 days from the last primary series dose</li>
 			 </ol>
 		    </td>

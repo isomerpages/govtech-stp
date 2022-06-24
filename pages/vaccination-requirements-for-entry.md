@@ -31,7 +31,7 @@ permalink: /stpl/vaccination-requirements
     </tr>
 	      <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">All others</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">The full vaccination regimen of <u>WHO EUL vaccines</u> at least 14 days before arriving in Singapore. <p style="font-size:18px; margin-top:10px; line-height:1.5;">Example: If the traveller received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is <b>15 Sep</b>.</p> <p style="font-size:18px; margin-top:10px; line-height:1.5;">Vaccines requiring 2 or 3 doses must be completed either using the <a href="/arriving/overview#vaccination" target="_blank">same or different brands</a> and taken based on recommended intervals between each dose. The list of vaccinations accepted by Singapore can be found <a href="/arriving/overview#vaccination" target="_blank">here</a>.</p><p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Those who were vaccinated overseas must also <a href="#additional-requirements">update their vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival. </p>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">The full vaccination regimen of <u>WHO EUL vaccines</u> at least 14 days before arriving in Singapore. This refers to minimally dose of CanSinoBIO/Convidecia or Janssen/J&J, or minimally 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxoid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixed doses and boosters using these WHO EUL vaccines are also acceptable. Boosters are not necessary for entry. For the full definition of acceptable vaccinations and dose interals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">Those who were vaccinated overseas must also <a href="#additional-requirements">update their vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival. </p>
 	      </td>
     </tr>
 	</tbody>
@@ -98,10 +98,15 @@ permalink: /stpl/vaccination-requirements
 	
 <div id="woproof"></div>
 
-### 4. Travellers who may enter without proof of vaccination
+### 4. Travellers who cannot be vaccinated due to medical conditions
 
-<p style="font-size:18px; margin-top:10px; line-height:1.5;">The following Student's Pass Holders and eligible accompanying family members may enter Singapore without proof of vaccination; subject to prevailing health protocols which may include a 7-day Stay-Home Notice:</p>
+<p style="font-size:18px; margin-top:10px; line-height:1.5;">Student's Pass Holders and eligible accompanying family members who are medically ineligible for COVID-19 vaccination may submit a request for exemption. If approved, they may enter Singapore, subject to prevailing health protocols which may include a 7-day Stay-Home Notice.</p>
 
+<!--<p style="font-size:18px; margin-top:10px; line-height:1.5;">To be considered for exemption, travellers must <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">submit a request</a> and upload a doctor's memo. This should be done at least 1 week before the intended date of entry.</p>
+
+<p style="font-size:18px; margin-top:10px; line-height:1.5;">Such travellers will need to undergo a medical review in Singapore with a Singapore-registered doctor within 30 days of arrival, and be certified to be medically ineligible for all COVID-19 vaccines under Singapore's National Vaccination Programme. Otherwise, they must complete the full vaccination regime within 2 months of arrival.</p>
+
+<p style="font-size:18px; margin-top:10px; line-height:1.5;">The exemption request must be approved before the traveller can enter Singapore.</p>-->
 <ol>
 	<li style="line-height:1.5; font-size:18px;">Travellers who are below 18 years old on the date of entry.
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">Unvaccinated travellers who are 13 years old to below 18 years old on the date of entry will need to complete the full vaccination regime within 2 months of arrival. You may visit <a href="https://www.vaccine.gov.sg" target="_blank">https://www.vaccine.gov.sg</a> for information on the COVID-19 vaccination programme in Singapore.</p><p style="font-size:18px; margin-top:10px; line-height:1.5;">Travellers who are 13 years old to below 18 years old on the date of entry, and who were fully vaccinated overseas, must <a href="#additional-requirements">update their vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival.</p>
@@ -185,7 +190,7 @@ permalink: /stpl/vaccination-requirements
     </tr>	
 	    <tr>
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Partially vaccinated/ Unvaccinated</td>
-		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Not allowed entry. <br><br> Those with extenuating reasons for not being fully vaccinated before arrival may submit an entry appeal <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">here</a>, at least 1 week before the intended date of entry.</td>
+		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Not allowed entry. <br><br> Those with compelling reasons for not being fully vaccinated before arrival may submit an entry appeal <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">here</a>, at least 1 week before the intended date of entry.</td>
     </tr>	  
 	</tbody>
 	</table>
