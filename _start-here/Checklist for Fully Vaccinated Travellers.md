@@ -257,7 +257,7 @@ details[open] summary::before {
 </body>
 </html>	
 	
-<p style=" font-size:18px; margin-top: 20px; margin-bottom:15px; line-height:1.35;"><b>All travellers who have travel history to countries/regions in Africa and Latin America with Yellow Fever Risk</b> must obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>. Travellers who do not have a valid Yellow Fever Vaccination Certificate, including children 1 year old and below and travellers who are medically ineligible for the vaccination, will be subject to 6 days quarantine on arrival or turned away from Singapore.</p>
+<p style=" font-size:18px; margin-top: 20px; margin-bottom:15px; line-height:1.35;"><b>All travellers who have travel history to countries/regions in Africa and Latin America with Yellow Fever Risk</b> must obtain a <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever Vaccination Certificate</a>. Travellers who do not have a valid Yellow Fever Vaccination Certificate, <b>including children 1 year old and below and travellers who are medically ineligible for the vaccination</b>, will be subject to 6 days quarantine on arrival or turned away from Singapore.</p>
 	</div>
 	
 <div id="step2"></div>
