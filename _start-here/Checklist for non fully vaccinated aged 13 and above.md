@@ -111,11 +111,11 @@ margin-left:60px;
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad; border-top:2px solid #adadad; border-right:2px solid #adadad; font-size:18px;width:104.1%;" id="1A">
 &#9634; &nbsp;&nbsp;<b>1A) Obtain Entry Approval</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom: 0px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad;font-size:18px;width:104.1%;">
-    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry approval is <b>not</b> required if you are a Singapore Citizen or Permanent Resident.</p>
-<!-- <ol style="list-style-type: disc; padding-left:25px;">
+    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry approval is <b>not</b> required if you are a:</p>
+<ol style="list-style-type: disc; padding-left:25px;">
         <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Singapore Citizen or Permanent Resident</li>
 <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Long-Term Pass holder, including In-Principle Approval holders, born between 2005 and 2010 (inclusive), and <b>arriving before 1 Jul 2022 only.</b> Entries from 1 Jul 2022 will require entry approvals.</li>
-	</ol>-->
+	</ol>
 	    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>For all other non-fully vaccinated travellers, entry to Singapore is not allowed unless entry approval is obtained.</b></p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Click your traveller profile below for details on how to apply:</p>
 	 <!--<ol style="list-style-type: disc; padding-left:25px;">
