@@ -17,7 +17,7 @@ permalink: /stpl/vaccination-requirements
 
 ### 1. Criteria to be considered fully vaccinated
 
-<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The following conditions for entry apply to travellers aged 13 and above on the date of entry.</p>
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The following conditions for entry apply to travellers aged 13 and above on the date of entry:</p>
 <p></p>
 
 <table>
