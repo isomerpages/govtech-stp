@@ -2,7 +2,7 @@
 title: Vaccination Requirements for Entry
 permalink: /stpl/vaccination-requirements
 ---
-##### Student's Pass Holders and their accompanying family members must be fully vaccinated before arrival. This page outlines:
+##### Student's Pass Holders and their accompanying family members <!-- who are aged 13 and above--> must be fully vaccinated before arrival. This page outlines:
 
 <ol>
 	<li style="line-height:1.5;"><a href="#criteria">Criteria to be considered fully vaccinated </a></li>
