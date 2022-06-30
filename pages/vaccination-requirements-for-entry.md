@@ -141,7 +141,7 @@ permalink: /stpl/vaccination-requirements
 
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">The vaccination condition for entry will not apply to you.</p>
 
-<p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged 13 years old to below 18 years old on the date of entry</u>:</b></p>
+<!--<p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged 13 years old to below 18 years old on the date of entry</u>:</b></p>
 <table>
   <thead>
     <tr>
@@ -167,9 +167,9 @@ permalink: /stpl/vaccination-requirements
 		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Complete full vaccination regime within 2 months of arrival<br><br><b>[For eligible accompanying family members of STP holders who do not hold Long-Term Passes only]</b> Not allowed entry. Those with extenuating reasons for not being fully vaccinated before arrival may submit an entry appeal here, at least 1 week before the intended date of entry.</td>
     </tr>	  
 	</tbody>
-	</table>
+	</table>-->
 	
-<p style="font-size:18px; margin-top:20px; line-height:1.5;"><b><u>If you are aged <!--13 -->18 years old and above on the date of entry:</u></b></p>
+<p style="font-size:18px; margin-top:20px; line-height:1.5;"><b><u>If you are aged 13 years old and above on the date of entry:</u></b></p>
 
 <table>
   <thead>
