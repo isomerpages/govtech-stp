@@ -398,8 +398,8 @@ details[open] summary::before {
 	<summary><b>Non-Malaysian Work Permit In-principle Approval holders Employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></summary>
   <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated male CMP workers must book a slot at <a href="https://www.mom.gov.sg/covid-19/onboard-centre" target="_blank">Ministry of Manpower's (MOM) Onboard centre</a> to undergo a residential onboarding programme upon arrival. </p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">All CMP workers entering from Bangladesh, India or Myanmar must undergo a <a href="https://go.gov.sg/bca-pdpp" target="_blank">Pre-Departure Preparatory Programme</a> (PDPP) before entering Singapore.</p>
-	  <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b>[From 1 July 2022]</b> CMP workers entering from Bangladesh, India or Myanmar do not need to go for the PDPP. However, they will still need to attend the onboarding programme upon arrival.</p>
+<!--<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">All CMP workers entering from Bangladesh, India or Myanmar must undergo a <a href="https://go.gov.sg/bca-pdpp" target="_blank">Pre-Departure Preparatory Programme</a> (PDPP) before entering Singapore.</p>
+	  <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b>[From 1 July 2022]</b> CMP workers entering from Bangladesh, India or Myanmar do not need to go for the PDPP. However, they will still need to attend the onboarding programme upon arrival.</p>-->
   </div>
 </details>
 </body>

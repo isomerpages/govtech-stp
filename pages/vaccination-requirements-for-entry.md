@@ -2,7 +2,7 @@
 title: Vaccination Requirements for Entry
 permalink: /stpl/vaccination-requirements
 ---
-##### Student's Pass Holders and their accompanying family members <!--who are aged 13 and above--> must be fully vaccinated before arrival. This page outlines:
+##### Student's Pass Holders and their accompanying family members who are aged 13 and above must be fully vaccinated before arrival. This page outlines:
 
 <ol>
 	<li style="line-height:1.5;"><a href="#criteria">Criteria to be considered fully vaccinated </a></li>
@@ -17,8 +17,8 @@ permalink: /stpl/vaccination-requirements
 
 ### 1. Criteria to be considered fully vaccinated
 
-<!--<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The following conditions for entry apply to travellers aged 13 and above on the date of entry:</p>
-<p></p>-->
+<p style="font-size:18px; margin-bottom:10px; line-height:1.5;">The following conditions for entry apply to travellers aged 13 and above on the date of entry:</p>
+<p></p>
 
 <table>
   <thead>
@@ -105,19 +105,19 @@ permalink: /stpl/vaccination-requirements
 
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">Student's Pass Holders and eligible accompanying family members who are medically ineligible for COVID-19 vaccination may submit a request for exemption. If approved, they may enter Singapore, subject to prevailing health protocols which may include a 7-day Stay-Home Notice.</p>
 
-<!--<p style="font-size:18px; margin-top:10px; line-height:1.5;">To be considered for exemption, travellers must <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">submit a request</a> and upload a doctor's memo. This should be done at least 1 week before the intended date of entry.</p>
+<p style="font-size:18px; margin-top:10px; line-height:1.5;">To be considered for exemption, travellers must <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">submit a request</a> and upload a doctor's memo. This should be done at least 1 week before the intended date of entry.</p>
 
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">Such travellers will need to undergo a medical review in Singapore with a Singapore-registered doctor within 30 days of arrival, and be certified to be medically ineligible for all COVID-19 vaccines under Singapore's National Vaccination Programme. Otherwise, they must complete the full vaccination regime within 2 months of arrival.</p>
 
-<p style="font-size:18px; margin-top:10px; line-height:1.5;">The exemption request must be approved before the traveller can enter Singapore.</p>-->
-<ol>
+<p style="font-size:18px; margin-top:10px; line-height:1.5;">The exemption request must be approved before the traveller can enter Singapore.</p>
+<!--<ol>
 	<li style="line-height:1.5; font-size:18px;">Travellers who are below 18 years old on the date of entry.
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">Unvaccinated travellers who are 13 years old to below 18 years old on the date of entry will need to complete the full vaccination regime within 2 months of arrival. You may visit <a href="https://www.vaccine.gov.sg" target="_blank">https://www.vaccine.gov.sg</a> for information on the COVID-19 vaccination programme in Singapore.</p><p style="font-size:18px; margin-top:10px; line-height:1.5;">Travellers who are 13 years old to below 18 years old on the date of entry, and who were fully vaccinated overseas, must <a href="#additional-requirements">update their vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival.</p>
 <p style="font-size:18px; margin-top:10px; line-height:1.5;"><i>Note: Student’s Pass and other Long-Term Pass (including In-Principle Approval) holders below 18 years old may enter without entry approvals. However, eligible accompanying family members aged 13 to below 18 years old who do not hold Long-Term Passes must have a valid entry approval if they are not fully vaccinated.</i></p>
 	</li>
 	<li style="line-height:1.5; font-size:18px; margin-top:20px;">Travellers who cannot be vaccinated due to medical conditions <p style="font-size:18px; margin-top:10px; line-height:1.5;">To be considered for exemption, travellers must <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">submit a request</a> and upload a doctor's memo. This should be done at least 1 week before the intended date of entry.</p> <p style="font-size:18px; margin-top:10px; line-height:1.5;">Such travellers will need to undergo a medical review in Singapore with a Singapore-registered doctor within 30 days of arrival, and <b>be certified to be medically ineligible</b> for all COVID-19 vaccines under Singapore’s National Vaccination Programme. Otherwise, they must complete the full vaccination regime within 2 months of arrival.</p><p style="font-size:18px; margin-top:10px; line-height:1.5;">The exemption request must be approved before the traveller can enter Singapore.</p>
 	</li>
-	</ol>
+	</ol>-->
 	
 <div id="penalties"></div>
 
@@ -141,7 +141,7 @@ permalink: /stpl/vaccination-requirements
 
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">The vaccination condition for entry will not apply to you.</p>
 
-<p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged 13 years old to below 18 years old on the date of entry</u>:</b></p>
+<!--<p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged 13 years old to below 18 years old on the date of entry</u>:</b></p>
 <table>
   <thead>
     <tr>
@@ -167,9 +167,9 @@ permalink: /stpl/vaccination-requirements
 		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Complete full vaccination regime within 2 months of arrival<br><br><b>[For eligible accompanying family members of STP holders who do not hold Long-Term Passes only]</b> Not allowed entry. Those with extenuating reasons for not being fully vaccinated before arrival may submit an entry appeal here, at least 1 week before the intended date of entry.</td>
     </tr>	  
 	</tbody>
-	</table>
+	</table>-->
 	
-<p style="font-size:18px; margin-top:20px; line-height:1.5;"><b><u>If you are aged <!--13-->18 years old and above on the date of entry:</u></b></p>
+<p style="font-size:18px; margin-top:20px; line-height:1.5;"><b><u>If you are aged 13 years old and above on the date of entry:</u></b></p>
 
 <table>
   <thead>
