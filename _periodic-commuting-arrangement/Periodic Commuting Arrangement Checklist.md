@@ -2,6 +2,7 @@
 title: Periodic Commuting Arrangement Checklist
 permalink: /pca/requirements-and-process
 description: ""
+published: false
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Please note that travellers can use the Vaccinated Travel Framework instead of the PCA:</p>

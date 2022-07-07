@@ -139,10 +139,10 @@ permalink: /FAQ
     </tr>
   </thead>
   <tbody>
-    <tr style="border-bottom:1.2px solid #E8E8E8;">
+    <!--<tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg </a></td>
-    </tr>
+    </tr>-->
    <tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Helpers and Confinement Nannies</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the helper or nanny's entry approval <b>at least 5 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
@@ -258,7 +258,7 @@ permalink: /FAQ
 <ol style="padding-left:20px; margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Vaccination Check Portal</li>
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Non-fully vaccinated Travellers Entry Application Portal (Familial Ties)</li>
-<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Periodic Commuting Arrangement</li>
+<!--<li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Periodic Commuting Arrangement</li>-->
 <li style="padding-left:20px; margin-top:8px; margin-bottom:0px; font-size:18px; line-height:1.35;">Reciprocal Green Lane</li>
 </ol>
 <p style="font-size:18px; margin-top: 20px; margin-bottom:20px; line-height:1.35;">For all successful submissions made using the portals above, the SafeTravel Office will send the relevant approvals and acceptance letters directly to the email indicated in your submissions. Depending on email settings, these letters may be found in your junk/spam folder. If you are unable to locate your approvals / acceptance letter, submit the following details via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a> for assistance: (a) application reference number, (b) your contact details, and (c) screenshots of your application status or payment invoice.</p>	

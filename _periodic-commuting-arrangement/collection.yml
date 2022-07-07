@@ -1,6 +1,6 @@
 collections:
   periodic-commuting-arrangement:
-    output: true
+    output: false
     order:
       - Periodic Commuting Arrangement Checklist.md
       - Additional Work Pass Conditions.md
