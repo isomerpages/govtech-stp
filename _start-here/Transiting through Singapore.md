@@ -20,7 +20,7 @@ description: Requirements for transiting through Singapore
 
 <p style="font-size:20px; line-height:1.35;"><b>Travellers who intend to clear arrival immigration to enter Singapore, or booked flights which require them to enter Singapore to collect tickets or baggage and check-in again for the connecting flight, are <u>not</u> considered transit travellers.</b> Several Low Cost Carriers require travellers to clear immigration to collect their onward connecting tickets in the Departure Check-In hall. Such travellers should ensure that they fulfil all requirements found on the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page, including entry visas and submission of the SG Arrival Card.</p>
 
-<p style="font-size:20px; line-height:1.35;">For more information about Singapore Changi Airport’s transit area, including shopping and dining options within the departure transit area, please check the <a href="https://www.changiairport.com/en/airport-guide/Covid-19/transiting-through-airport.html" target="_blank">Changi Airport website</a>.</p>
+<p style="font-size:20px; line-height:1.35;">If unsure, travellers connecting through Singapore should consult their airline on whether they need to go through immigration, or if they can remain in the transit area to connect to their next flight.</p>
 
 
 <div id="destinationrequirements"></div>
