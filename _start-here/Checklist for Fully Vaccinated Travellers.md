@@ -381,6 +381,7 @@ details[open] summary::before {
 	<summary><b>Visitors/tourists without a Singapore Long-Term Pass</b></summary>
   <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
   <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"> <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">Apply for an Entry Visa</a> if you hold a passport or travel documents issued by visa-required countries/regions.</p>
+	    <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Some visa-required travellers may be eligible for the <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa-free-transit-facility" target="_blank">Visa-Free Transit Facility</a> for short stays of 96 hours or less.</p>
   </div>
 </details>
 <details class="style6">
