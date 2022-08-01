@@ -83,7 +83,7 @@ Travellers serving their SHN at a place of residence or self-sourced accommodati
 
 For travellers serving SHN in an SDF, <b>the SDF will inform the traveller of the check-out time after it receives confirmation of the negative COVID-19 test result from the relevant government agency</b>. Travellers will only be allowed to leave the SDF thereafter. 
 
-Refer below for an example of determining SHN duration. You may also <a href="/shn-calculator" target="_blank">use this SHN Calculator</a> to calculate the estimated end date of your SHN. 
+An example of how to determine SHN duration can be found below. You may also <a href="/shn-calculator" target="_blank">use this SHN Calculator</a> to calculate the estimated end date of your SHN. 
 
 <table>
   <thead>
