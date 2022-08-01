@@ -83,7 +83,7 @@ Travellers serving their SHN at a place of residence or self-sourced accommodati
 
 For travellers serving SHN in an SDF, <b>the SDF will inform the traveller of the check-out time after it receives confirmation of the negative COVID-19 test result from the relevant government agency</b>. Travellers will only be allowed to leave the SDF thereafter. 
 
-Reflected in the table below are two examples of indicative SHN durations. You may also <a href="/shn-calculator" target="_blank">use this SHN Calculator</a> to calculate the estimated end date of your SHN. 
+An example of how to determine SHN duration can be found below. You may also <a href="/shn-calculator" target="_blank">use this SHN Calculator</a> to calculate the estimated end date of your SHN. 
 
 <table>
   <thead>
@@ -129,13 +129,3 @@ Reflected in the table below are two examples of indicative SHN durations. You m
 ### SHN Compliance Checks
 
 Travellers issued with the Stay-Home Notice (SHN) will be subjected to on-site or electronic compliance checks (SMS, phone/video calls) from the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or Ministry of Education (MOE). Travellers should note that officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked to provide the last four digits of his/her Identity Card or Travel Document for verification. Any payment request made by the caller may be a scam. Travellers with SHN issues may call the SafeTravel Helpline at 6812 5555 for further enquiries or assistance.
-
-Some travellers may be issued with an Electronic Monitoring Device (EMD) from ICA during their SHN period to ensure compliance. Users are required to download the StayHome@SG mobile application (<a href="https://apps.apple.com/sg/app/stayhome-sg/id1517984071" target="_blank">App Store</a>, <a href="https://play.google.com/store/apps/details?id=com.hitachi.shn_mobile&hl=en_SG&gl=US" target="_blank">Google Play Store</a>) to use the EMD, which comprises of a paired gateway device and wristband (image below). Travellers must wear the wristband throughout the entire duration of their SHN. 
-
-<img src="/images/ica-wristband.jpg" style="width:auto; height:auto;">
-
-The EMD will alert the relevant authorities to errant travellers who leave their declared SHN accommodation before the end of the SHN period. As such, travellers should ensure that their EMD is properly set up. Travellers should refer to <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf" target="_blank">this guide</a>, <a href="https://www.youtube.com/watch?v=zKhawlenncA" target="_blank">video</a>, <a href="/images/stayhomesg-infographics-1.png" target="_blank">infographic</a> or <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stay@homesg-faqs.pdf" target="_blank">FAQ</a>, for instructions on EMD set up and troubleshooting issues with the EMD.
-
-All EMDs are not equipped with audio or video recording capabilities – personal privacy is therefore protected. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.
-
-Travellers will be contacted by ICA at the end of their SHN period for the return of their gateway device. They may, however, dispose the wristband based on existing <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste" target="_blank"> e-waste disposal methods</a>.
