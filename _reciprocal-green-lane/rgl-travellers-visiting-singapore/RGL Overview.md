@@ -4,6 +4,11 @@ permalink: /rgl/overview
 third_nav_title: RGL Travellers Visiting Singapore
 description: ""
 ---
+
+<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;">
+<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> RGL information on the SafeTravel website will move permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/safe-travel-lanes/reciprocal-green-lane/inbound" target="_blank">ICA's "RGL Page"</a>. <br><br> Thank you for visiting the SafeTravel Website</p>
+</div>
+
 <div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Please note that travellers can use the Vaccinated Travel Framework instead of the RGL:</p>
 <ol style="list-style-type: disc; padding-left:20px;">
