@@ -3,7 +3,7 @@ layout: landing-page-stp
 title: SafeTravel
 description: Singapore’s latest border measures in response to COVID-19
 permalink: /
-notification: <h6 style="text-align:left;"><!--Scheduled maintenance will be taking place on:<br>&bull; 07 August 2022, from 12am to 8am. During this period, the Vaccination Check Portal and SafeTravel Application Portal will not be available.<br/><br/>--> <b>From 1 Sep 2022, this page will no longer be accessible. Travel-related information will move permanently to ICA's Corporate website.</b> Existing services under the Safe Travel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br/><br/> Thank you for visiting the SafeTravel Website. <br/><br/> <b>NOTICE:</b> The ICA <a
+notification: <h6 style="text-align:left;"><!--Scheduled maintenance will be taking place on:<br>&bull; 07 August 2022, from 12am to 8am. During this period, the Vaccination Check Portal and SafeTravel Application Portal will not be available.<br/><br/>--> <b>From 1 Sep 2022, this page will no longer be accessible. Travel-related information will move permanently to <a href="https://www.ica.gov.sg/enter-transit-depart" target="_blank">ICA's Corporate website</a>.</b> Existing services under the Safe Travel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br/><br/> Thank you for visiting the SafeTravel Website. <br/><br/> <b>NOTICE:</b> The ICA <a
   href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card (SGAC)
   e-Service</a> is a simple pre-arrival declaration and no submission fees are
   required. ICA does not support or endorse services offered by commercial
