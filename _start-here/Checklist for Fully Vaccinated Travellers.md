@@ -6,7 +6,7 @@ third_nav_title: Travelling to Singapore
 ---
 
 <div id="top"></div>
-<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
+<div id="notes" style="width:104.1px; border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
 <p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Arrival-related information will move permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank">ICA's "Entering Singapore"</a> page. Existing services under the Safe Travel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website</p>
 </div>
 
