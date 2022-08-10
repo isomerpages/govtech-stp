@@ -4,7 +4,7 @@ permalink: /FAQ
 ---
 
 <div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> All SafeTravel-related FAQs will move permanently to the <a href="[https://va.ecitizen.gov.sg/cfp.customerpages/ICA/explorefaq.aspx](https://va.ecitizen.gov.sg/cfp/customerpages/ICA/explorefaq.aspx)" target="_blank">ICA FAQ page</a>. Existing services under the SafeTravel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website</p>
+<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> All SafeTravel-related FAQs will move permanently to the <a href="https://va.ecitizen.gov.sg/cfp.customerpages/ICA/explorefaq.aspx" target="_blank">ICA FAQ page</a>. Existing services under the SafeTravel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website</p>
 </div>
 
 <p style="font-size:18px; line-height:1.5;">This page contains answers to frequently asked questions and clarifications regarding travelling to Singapore. If you have not done so already, you should visit the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for an overview of entry requirements.  For departure or transit-related information, visit the “<a href="/departing/overview">Departure from Singapore</a>” or “<a href="/transit/overview" target="_blank">Transiting through Singapore</a>” pages.</p>
