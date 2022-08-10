@@ -7,6 +7,8 @@ third_nav_title: Travelling to Singapore
 
 <div id="top"></div>
 
+<p style="border-style: solid; border-color: #B4B4B4;">From 1 Sep 2022, this page will no longer be accessible. Travel-related information will move permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank">ICA's "Entering Singapore"</a>. Existing services under the Safe Travel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br> Thank you for visiting the SafeTravel Website</p>
+
 <p style="margin-top:-20px; margin-bottom:15px; line-height:1.35; font-size:18px; background-color: #e3e3e3;"><b>Note:</b> If you are transiting through Singapore to another destination without clearing immigration, refer to the <a href="/transit/overview" target="_blank">"Transiting through Singapore"</a> page instead. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="/arriving/overview#crew" target="_blank">click here</a> for more instructions.</p>
 
 
