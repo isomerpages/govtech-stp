@@ -14,37 +14,11 @@ This page contains information on the following issues:
 
 ### 1. COVID-19 Travel Insurance
 
-Short-term visitors who are not fully vaccinated and are required to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore should ensure that their insurance has a minimum coverage of S$30,000 (based on COVID-19 bill sizes at private hospitals).
+All visitors to Singapore are strongly encouraged to buy travel insurance covering costs related to COVID-19, with coverage of at least S$30,000 (based on COVID-19 bill sizes at private hospitals). Travellers will have to pay for their own treatment costs if the insurance coverage is insufficient.
 
-Short-term visitors who are fully vaccinated, and non-fully vaccinated children aged 12 and below, are <b>not</b> required to have travel insurance for their COVID-19 related medical treatment and hospitalisation costs in Singapore. However, travellers are still encouraged to ensure sufficient travel insurance coverage as they will have to pay for their own treatment costs if the insurance coverage is insufficient. 
+Short-term visitors who are not fully vaccinated with WHO EUL vaccines may be required to purchase travel insurance covering COVID-19 as a condition of their entry approval.
 
-Visitors can purchase travel insurance prior to travelling to Singapore, from <b>any insurer providing such services in their country/region</b>. Travellers may also consider Singapore-based insurers* offering such services if it suits their needs:
-
-<table>
-<thead>
-<tr>
-<th style="font-size: 20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; background-color:#d5d5d5;">Insurer</th>
-<th style="font-size: 20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;background-color:#d5d5d5;">Product Name and Application Page</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>AIG Asia Pacific Insurance Pte. Ltd.</b></td>
-<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://www.aig.sg/singapore-travel-assist" target="_blank">Singapore Travel Assist</a></td>
-</tr>
-<tr>
-<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>Chubb Insurance Singapore Limited</b></td>
-<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://sgtravelinsured.chubbtravelinsurance.com/" target="_blank">SG Travel Insured</a></td>
-</tr>
-<tr>
-<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>HL Assurance Pte. Ltd.</b></td>
-<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://changiassure.changirecommends.com/" target="_blank">ChangiAssure Covid Insurance</a></td>
-</tr>
-<tr>
-<td colspan="2" style="font-size:16px; line-height:1.5; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><i>*Note: ICA has no affiliations to the insurers listed above and we are unable to assist with any queries relating to product information or the application process. Should you require further assistance during the course of application, <b>please enquire directly with the insurers</b>. For more information on our third-party sites' policy, please click <a href="/terms-of-use#ThirdPartySitesPolicy">here</a>.</i></td>
-</tr>
-</tbody>
-</table>
+Visitors should purchase travel insurance prior to travelling to Singapore, from any insurer providing such services.
 
 <div id="LTPH"></div> 
 
@@ -52,8 +26,7 @@ Visitors can purchase travel insurance prior to travelling to Singapore, from <b
 
 Employers are no longer required to buy COVID-19 travel insurance for all (new and existing) Work Permit, Training Work Permit and S Pass holders, before they enter Singapore. For more information please refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">MOM's website</a>.
 
-All other pass holders are responsible for all costs associated with COVID-19 related treatment an recovery (see <a href="#cost">Section 3</a>) and are encouraged to buy medical insurance with the appropriate coverage <b>before entering Singapore</b>, and should ensure sufficient coverage should they develop COVID-19 symptoms or test positive for COVID-19 in Singapore. 
-
+All Long-Term pass holders, [excluding some MOM-issued pass holders](http://mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment), will bear the full cost of COVID-19 related treatment received in Singapore. This cost can be offset using medical insurance with the appropriate coverage.
 
 <div id="treatment"></div>
 
