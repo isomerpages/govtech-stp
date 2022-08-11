@@ -151,16 +151,16 @@ permalink: /FAQ
    <tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Helpers and Confinement Nannies</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the helper or nanny's entry approval <b>at least 5 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="www.mom.gov.sg/enquire-shn-payment">For employers</a> </li>
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="www.mom.gov.sg/enquire-shn-payment">For employment agents</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/enquire-shn-payment">For employers</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/enquire-shn-payment">For employment agents</a> </li>
            </ol>
    </td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">All other Work Pass Holders and their dependents</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the pass holder's entry approval <b>at least 7 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="www.mom.gov.sg/enquire-shn-payment">For Work Pass holder or dependant</a> </li>
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="www.mom.gov.sg/enquire-shn-payment">For Personalised Employer Pass holder without employer, Entrepass and Work Holiday Pass and their dependants</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/enquire-shn-payment">For Work Pass holder or dependant</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/enquire-shn-payment">For Personalised Employer Pass holder without employer, Entrepass and Work Holiday Pass and their dependants</a> </li>
            </ol>
    </td>
     </tr>
