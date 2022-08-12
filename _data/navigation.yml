@@ -3,11 +3,11 @@ links:
   - title: Start Here
     sublinks:
       - title: Travelling to Singapore
-        url: /arriving/overview
+        url: https://www.ica.gov.sg/enter-transit-depart/entering-singapore
       - title: Departing from Singapore
-        url: /departing/overview
+        url: https://www.ica.gov.sg/enter-transit-depart/departing-singapore
       - title: Transiting through Singapore
-        url: /transit/overview
+        url: https://www.ica.gov.sg/enter-transit-depart/transiting-singapore
   - title: FAQ
     url: /FAQ
   - title: Contact Us
