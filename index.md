@@ -31,14 +31,14 @@ sections:
       key_highlights:
         - title: Travelling to Singapore <span style="font-size:20px;"> &#187; </span>
           description: Click Here
-          url: /arriving/overview
+          url: https://www.ica.gov.sg/entering-singapore
         - title: Transiting through Singapore <span style="font-size:20px;"> &#187;
             </span>
           description: Click Here
-          url: /transit/overview
+          url: https://www.ica.gov.sg/transiting-singapore
         - title: Departing from Singapore <span style="font-size:20px;"> &#187; </span>
           description: Click Here
-          url: /departing/overview
+          url: https://www.ica.gov.sg/departing-singapore
   - infopic:
       title: <span style="color:#153e66; font-size:38px;">Ministry of Health
         Website</span>
