@@ -60,7 +60,6 @@ The cost of a 7-day SDF stay is typically S$1,015 per person per room. A further
   </tr>
  </tbody></table>
  
-<!--<sup>*</sup><i>Applicable to all travellers except migrant domestic workers (MDW) and confinement nannies. For more information on costs for MDWs and confinement nannies, click  <a href="/wphl/shn-and-swab-summary">here</a>.</i><br><br>-->
 <sup>**</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) who are serving SHN with the same travel history and duration are permitted to share a room.</i><br><br>
 <sup>***</sup><i>Most standard rooms are able to accommodate a maximum of 2 adults and 2 minors. For greater comfort, families may also request for inter-connecting rooms upon arrival at the SDF, subject to availability and charges for the additional room.</i>
 
