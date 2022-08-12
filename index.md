@@ -8,7 +8,7 @@ notification: <h6 style="text-align:left;"><!--Scheduled maintenance will be
   period, the Vaccination Check Portal and SafeTravel Application Portal will
   not be available.<br/><br/>--> <b>From 1 Sep 2022, the SafeTravel Website will
   no longer be accessible.</b> All travel-related information can be found on <a
-  href="https://www.ica.gov.sg/" target="_blank">ICA's Corporate Website</a>
+  href="https://www.ica.gov.sg/enter-transit-depart" target="_blank">ICA's Corporate Website</a>
   instead. Existing services under the SafeTravel Office (STO), e.g. STO Contact
   Centre and Vaccination Check Portal, are unaffected. <br/><br/> <b>NOTICE:</b>
   The ICA <a href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card
