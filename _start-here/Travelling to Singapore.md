@@ -4,21 +4,20 @@ permalink: /arriving/overview
 description: Entry requirements and SafeTravel Lanes available when travelling to Singapore
 third_nav_title: Travelling to Singapore
 ---
-
 <div id="top"></div>
-<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Arrival-related information will move permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank">ICA's "Entering Singapore"</a> page. Existing services under the Safe Travel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website.</p>
+<div style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;" id="notes">
+<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Arrival-related information will move permanently to <a target="_blank" href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">ICA's "Entering Singapore"</a> page. Services under the Safe Travel Office such as the SafeTravel Enquiry Helpline will operate as usual, and existing entry approvals are not affected. <br><br> Thank you for visiting the SafeTravel Website.</p>
 </div>
 	
-<p style="margin-top:20px; margin-bottom:15px; line-height:1.35; font-size:18px; background-color: #e3e3e3;"><b>Note:</b> If you are transiting through Singapore to another destination without clearing immigration, refer to the <a href="/transit/overview" target="_blank">"Transiting through Singapore"</a> page instead. If you are an Air/Sea Crew or Pleasure Craft Owner, <a href="/arriving/overview#crew" target="_blank">click here</a> for more instructions.</p>
+<p style="margin-top:20px; margin-bottom:15px; line-height:1.35; font-size:18px; background-color: #e3e3e3;"><b>Note:</b> If you are transiting through Singapore to another destination without clearing immigration, refer to the <a target="_blank" href="/transit/overview">"Transiting through Singapore"</a> page instead. If you are an Air/Sea Crew or Pleasure Craft Owner, <a target="_blank" href="/arriving/overview#crew">click here</a> for more instructions.</p>
 
 
 <!--- [Automated Self-Help Tool for Entry Requirements](#selfhelptool)-->
 
 <p style="margin-top:20px; margin-bottom:20px; line-height:1.35; font-size:20px;">On this page, you will find the following information on travel to Singapore:</p>
  <ol style="line-height:1.35;">
-	<li style=" padding-left:20px; line-height:1.35; font-size:20px; margin-bottom:15px;"><a href="#checklist">Entry Criteria and Travel Checklists</a></li>
-		<li style=" padding-left:20px;line-height:1.35; font-size:20px;"><a href="#vaccination">Accepted COVID-19 Vaccinations for Entry to Singapore</a></li>
+	<li style="padding-left:20px; line-height:1.35; font-size:20px; margin-bottom:15px;"><a href="#checklist">Entry Criteria and Travel Checklists</a></li>
+		<li style="padding-left:20px;line-height:1.35; font-size:20px;"><a href="#vaccination">Accepted COVID-19 Vaccinations for Entry to Singapore</a></li>
 	</ol>
 
 <!--<div id="selfhelptool"></div>
@@ -45,8 +44,8 @@ Click here to return to the <a href="#top">top</a>.
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35; font-size:20px;">Under Singapore’s Vaccinated Travel Framework, <b>all travellers</b> including Singapore Citizens and Permanent Residents <b>arriving from all countries/regions can enter Singapore without quarantine, testing or entry approvals if they:</b></p>
   <ol style="line-height:1.35; list-style-type: lower-latin;">
 	  <li style="line-height:1.35; font-size:20px; margin-bottom:15px;"><b>Are a child born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth)</b> – children who meet this criteria can enter regardless of COVID-19 vaccination status</li>
-	   <li style="line-height:1.35; font-size:20px;margin-bottom:15px; "><b>Are fully vaccinated with WHO EUL vaccines if born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b> – “Fully vaccinated” means minimally one dose of CanSinoBIO/Convidecia or Janssen/J&J, or minimally 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixed doses using these WHO EUL vaccines, and one vaccination dose after a COVID-19 infection are also acceptable. Boosters are not necessary for entry. However, to maintain vaccinated status after 30 days from entry into Singapore, travellers must receive a booster dose if their primary series vaccination was completed more than 270 days ago. For more details, see <a href="/arriving/overview#vaccination" target="_blank">Accepted COVID-19 Vaccinations for Entry to Singapore</a>.</li>
-	   <li style="line-height:1.35; font-size:20px; margin-bottom:10px;"><b>Are vaccinated against Yellow Fever if travelling from Yellow Fever high risk countries/regions in Africa and Latin America</b> - a valid <a href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate" target="_blank">Yellow Fever vaccination certificate</a> is required. Travellers who do not have a valid Yellow Fever Vaccination Certificate, <b>including children 1 year old and below and travellers who are medically ineligible for the vaccination</b>, will be subject to 6 days quarantine on arrival or turned away from Singapore.</li>
+	   <li style="line-height:1.35; font-size:20px;margin-bottom:15px;"><b>Are fully vaccinated with WHO EUL vaccines if born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b> – “Fully vaccinated” means minimally one dose of CanSinoBIO/Convidecia or Janssen/J&amp;J, or minimally 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixed doses using these WHO EUL vaccines, and one vaccination dose after a COVID-19 infection are also acceptable. Boosters are not necessary for entry. However, to maintain vaccinated status after 30 days from entry into Singapore, travellers must receive a booster dose if their primary series vaccination was completed more than 270 days ago. For more details, see <a target="_blank" href="/arriving/overview#vaccination">Accepted COVID-19 Vaccinations for Entry to Singapore</a>.</li>
+	   <li style="line-height:1.35; font-size:20px; margin-bottom:10px;"><b>Are vaccinated against Yellow Fever if travelling from Yellow Fever high risk countries/regions in Africa and Latin America</b> - a valid <a target="_blank" href="https://ica.gov.sg/enter-depart/entry_requirements/yellow-fever-vaccination-certificate">Yellow Fever vaccination certificate</a> is required. Travellers who do not have a valid Yellow Fever Vaccination Certificate, <b>including children 1 year old and below and travellers who are medically ineligible for the vaccination</b>, will be subject to 6 days quarantine on arrival or turned away from Singapore.</li>
 	  </ol>
 
 <p style="font-size:20px; margin-top:20px; margin-bottom:10px; line-height:1.35;">If you meet the requirements above, click the green button below for a step-by-step travel checklist that explains the administrative requirements (e.g. proof of vaccination, SG Arrival Card, etc) for entry. <b>Travellers born on or before 31 Dec 2009 who are medically ineligible for vaccination, not vaccinated or have recovered from COVID-19 without taking the minimum required WHO EUL Vaccines are considered non-fully vaccinated and should refer to the next section for non-fully vaccinated travellers.</b></p>
@@ -54,8 +53,8 @@ Click here to return to the <a href="#top">top</a>.
 <p style="margin-bottom:20px;"></p>
 
 <div style="margin-right:50px;">
-<html>
-<head>
+
+
 <style>
   .pushable {
     background: hsl(150deg, 55%, 25%);
@@ -79,34 +78,34 @@ Click here to return to the <a href="#top">top</a>.
     transform: translateY(-2px);
   }
 </style>
-	</head>
-<body>	
-<a href="/arriving/general-travel/fully-vaccinated" target="_blank"><button class="pushable" style="">
+	
+	
+<a target="_blank" href="/arriving/general-travel/fully-vaccinated"><button style="" class="pushable">
   <span class="front">
 	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align: center;"> <b>CLICK HERE for Fully Vaccinated Travel Checklist <br>(including children 12 and below by year of birth) </b></p>
 	</span>
 	</button></a>
 	<!---->
-</body>
-</html>
+
+
 </div>
 
 <hr style="margin-top:40px;">
 
-<p style="font-size:20px; margin-top:20px; margin-bottom:20px; line-height:1.35; "><b>Travellers born on or before 31 Dec 2009 (i.e. age 13 and above by year of birth) who do not meet the vaccination requirements above</b> are considered non-fully vaccinated travellers and will be subject to entry approvals, tests and quarantine. This includes travellers who:</p>
+<p style="font-size:20px; margin-top:20px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or before 31 Dec 2009 (i.e. age 13 and above by year of birth) who do not meet the vaccination requirements above</b> are considered non-fully vaccinated travellers and will be subject to entry approvals, tests and quarantine. This includes travellers who:</p>
   <ol style="list-style-type: disc; line-height:1.35; width:auto;">
-	<li style="line-height:1.35; font-size:20px;margin-bottom:15px; ">Are medically exempted from COVID-19 vaccination</li>
-	<li style="line-height:1.35; font-size:20px;margin-bottom:15px; ">Took non-WHO EUL vaccines only, and did not take the minimum dosage of WHO EUL COVID-19 vaccines</li>
-	<li style="line-height:1.35; font-size:20px; ">Recovered from COVID-19 but did not complete the minimum dosage of WHO EUL COVID-19 vaccines </li>
+	<li style="line-height:1.35; font-size:20px;margin-bottom:15px;">Are medically exempted from COVID-19 vaccination</li>
+	<li style="line-height:1.35; font-size:20px;margin-bottom:15px;">Took non-WHO EUL vaccines only, and did not take the minimum dosage of WHO EUL COVID-19 vaccines</li>
+	<li style="line-height:1.35; font-size:20px;">Recovered from COVID-19 but did not complete the minimum dosage of WHO EUL COVID-19 vaccines </li>
 	  </ol>
 	  
-<p style="font-size:20px; margin-top:0px; margin-bottom:30px; line-height:1.35; "><b>Generally, non-fully vaccinated long term pass holders and short-term visitors are not allowed to enter Singapore unless in exceptional circumstances.</b> Non-fully vaccinated travellers should click the orange button below for a detailed checklist of travel requirements. </p>
+<p style="font-size:20px; margin-top:0px; margin-bottom:30px; line-height:1.35;"><b>Generally, non-fully vaccinated long term pass holders and short-term visitors are not allowed to enter Singapore unless in exceptional circumstances.</b> Non-fully vaccinated travellers should click the orange button below for a detailed checklist of travel requirements. </p>
 
-<p style=" margin-bottom:20px; "></p>
+<p style="margin-bottom:20px;"></p>
 
 
-<html>
-<head>
+
+
 <style>
   .pushableT {
     background: hsl(30deg, 100%, 37%);
@@ -130,15 +129,15 @@ Click here to return to the <a href="#top">top</a>.
     transform: translateY(-2px);
   }
 </style>
-	</head>
-<body>	
-<a href="/arriving/general-travel/non-fully-vaccinated" target="_blank"><button class="pushableT" style="">
+	
+	
+<a target="_blank" href="/arriving/general-travel/non-fully-vaccinated"><button style="" class="pushableT">
   <span class="frontT">
 	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;  text-algin:center"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
 	</span>
 	</button></a>
-</body>
-</html>
+
+
 
 ---
 
@@ -152,9 +151,9 @@ Click here to return to the <a href="#top">top</a>.
 ### 2. Accepted COVID-19 Vaccinations for Entry
 
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth)</b> will follow the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">border measures for fully vaccinated travellers</a>, regardless of their vaccination status.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or after 1 Jan 2010 (i.e. aged 12 and below by year of birth)</b> will follow the <a target="_blank" href="/arriving/general-travel/fully-vaccinated">border measures for fully vaccinated travellers</a>, regardless of their vaccination status.</p>
 
-<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on their vaccination status using the WHO’s list of EUL COVID-19 vaccines in the table below. Not all vaccines being administered outside Singapore are approved under the WHO EUL. Travellers who have not yet received a booster dose after their primary series are still considered "fully vaccinated" for entry to Singapore, but may be required to take a booster dose to maintain their "fully vaccinated" status within Singapore if staying for more than 30 days. Travellers may receive additional vaccination doses in Singapore at their own expense under the <a href="https://www.vaccine.gov.sg/locations/pvp" target="_blank">Private Vaccination Programme</a> if they are not eligible for the National Vaccination Programme.</p>
+<p style="margin-top:10px; margin-bottom:20px; line-height:1.35;"><b>Travellers born on or before 31 Dec 2009 (i.e. aged 13 and above by year of birth)</b> are considered “fully vaccinated” or “non-fully vaccinated” based on their vaccination status using the WHO’s list of EUL COVID-19 vaccines in the table below. Not all vaccines being administered outside Singapore are approved under the WHO EUL. Travellers who have not yet received a booster dose after their primary series are still considered "fully vaccinated" for entry to Singapore, but may be required to take a booster dose to maintain their "fully vaccinated" status within Singapore if staying for more than 30 days. Travellers may receive additional vaccination doses in Singapore at their own expense under the <a target="_blank" href="https://www.vaccine.gov.sg/locations/pvp">Private Vaccination Programme</a> if they are not eligible for the National Vaccination Programme.</p>
 
 <table style="width: 90%;">
 	<thead>
@@ -165,10 +164,10 @@ Click here to return to the <a href="#top">top</a>.
 	</thead>
 <tbody>
 	<tr>
-		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0;">Fully Vaccinated<br><i><a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0;">Fully Vaccinated<br><i><a target="_blank" href="/arriving/general-travel/fully-vaccinated">Travel Checklist available here</a></i></td>
 <td style="font-size:16px; border-right: 2px solid #E0E0E0; padding: 0px;">
-<html>
-<head>
+
+
 <style>
 
 .horizontal-scroll{
@@ -178,12 +177,12 @@ Click here to return to the <a href="#top">top</a>.
 	    border: 0px solid #d6d6d6;
 	}
 	</style>
-	</head>
-	<body>
+	
+	
 <table>
   <tbody>
 		<tr>
-		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:
+		<td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;" colspan="2">At least two weeks before arrival in Singapore, the traveller must minimally have taken the following WHO EUL vaccines:
 			</td>
 		</tr>
  <tr>
@@ -192,7 +191,7 @@ Click here to return to the <a href="#top">top</a>.
 	  </tr>
  <tr>
 	    <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">b.</td>
-	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px;  text-align:left;">One dose of Janssen/J&J vaccine; OR</td>
+	      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left: 0px;  text-align:left;">One dose of Janssen/J&amp;J vaccine; OR</td>
 	  </tr>
 <tr>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">c.</td>
@@ -220,15 +219,15 @@ Click here to return to the <a href="#top">top</a>.
 	  </tr>
 	  </tbody>
 			</table>
-	</body>
-			</html>
+	
+			
 		</td>
 	</tr>
 	<tr>
-		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-top: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0;">Non-Fully Vaccinated<br><i><a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Travel Checklist available here</a></i></td>
+		<td style="font-size:16px; line-height:1.35; border-left: 2px solid #E0E0E0; border-top: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0;">Non-Fully Vaccinated<br><i><a target="_blank" href="/arriving/general-travel/non-fully-vaccinated">Travel Checklist available here</a></i></td>
 		<td style="font-size:16px; border-top: 2px solid #E0E0E0; border-right: 2px solid #E0E0E0; border-bottom: 2px solid #E0E0E0; padding:0px;">
-<html>
-<head>
+
+
 <style>
 
 .horizontal-scroll{
@@ -238,12 +237,12 @@ Click here to return to the <a href="#top">top</a>.
 	    border: 0px solid #d6d6d6;
 	}
 	</style>
-	</head>
-	<body>
+	
+	
 <table>
   <tbody>
 		<tr>
-		<td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:
+		<td style="margin-top:0px; margin-bottom:0px; font-size:16px; padding-left:10px; text-align:left;" colspan="2">Travellers are considered non-fully vaccinated if they do not satisfy the conditions above, which includes:
 			</td>
 		</tr>
  <tr>
@@ -264,8 +263,8 @@ Click here to return to the <a href="#top">top</a>.
 	  </tr>
 	  </tbody>
 			</table>
-	</body>
-			</html>
+	
+			
 		</td>
 	</tr>
 	</tbody>
@@ -364,20 +363,20 @@ Click here to return to the <a href="#top">top</a>.
 
 <b><u>Air Crew</u></b>
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Arriving air crew members are not required to apply for entry approval to enter Singapore. Flight operators and air crew should instead refer to the <a href="https://www.caas.gov.sg/legislation-regulations/covid-19-publications" target="_blank">latest circulars and directives</a> issued by the Civil Aviation Authority of Singapore concerning border and health control measures.</p>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Arriving air crew members are not required to apply for entry approval to enter Singapore. Flight operators and air crew should instead refer to the <a target="_blank" href="https://www.caas.gov.sg/legislation-regulations/covid-19-publications">latest circulars and directives</a> issued by the Civil Aviation Authority of Singapore concerning border and health control measures.</p>
 
-<b><u>Sea Crew & Pleasure Craft Owners</u></b>
+<b><u>Sea Crew &amp; Pleasure Craft Owners</u></b>
 
 <p style="margin-top:10px; margin-bottom:10px; line-height:1.35;">Under the Vaccinated Travel Framework, fully vaccinated foreign Sea Crew and Pleasure Craft owners can enter Singapore without submitting an undertaking to MPA or ICA. <b>If you are non-fully vaccinated</b>, you will continue to:</p>
 
 <ol style="line-height:1.35;">
-	<li style="line-height:1.35;">Submit to MPA an undertaking via <a href="https://transact.mpa.gov.sg/Crews" target="_blank">this link</a>, for having:
+	<li style="line-height:1.35;">Submit to MPA an undertaking via <a target="_blank" href="https://transact.mpa.gov.sg/Crews">this link</a>, for having:
 	<ol style="line-height:1.35; list-style-type:lower-alpha;">
 		<li style="line-height:1.35;">Taken a pre-departure test within 2 days before arrival in Singapore; and</li>
 		<li style="line-height:1.35;">Completed quarantine in your home country for at least 7 days before arrival.</li>
 		</ol>
 	</li>
-	<li style="line-height:1.35; margin-top:20px;">Submit the following types of applications to ICA via <a href="https://digitalport.mpa.gov.sg/" target="_blank">digitalPORT@SG</a>:
+	<li style="line-height:1.35; margin-top:20px;">Submit the following types of applications to ICA via <a target="_blank" href="https://digitalport.mpa.gov.sg/">digitalPORT@SG</a>:
 	<ol style="line-height:1.35; list-style-type:disc;">
 		<li style="line-height:1.35;">Arrival or departure immigration clearance of vessel and crew</li>
 		<li style="line-height:1.35;">Crew sign-on or sign-off</li>
@@ -387,7 +386,7 @@ Click here to return to the <a href="#top">top</a>.
 	</li>
 </ol>
 
-<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;"><a href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/circulars-and-notices" target="_blank">Click here</a> for the latest Port Marine Circulars/Notices. For further information or assistance, write to: <a href="mailto:crew_change@mpa.gov.sg">crew_change@mpa.gov.sg</a></p>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.35;"><a target="_blank" href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/circulars-and-notices">Click here</a> for the latest Port Marine Circulars/Notices. For further information or assistance, write to: <a href="mailto:crew_change@mpa.gov.sg">crew_change@mpa.gov.sg</a></p>
 
 ---
 
@@ -406,18 +405,18 @@ Click here to return to the <a href="#top">top</a>.
 <table>
 	<thead>
 		<tr>
-		<th rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>General Travel Category Countries/Regions</b></th>
-			<th colspan="2" style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center"><b>Summary of Travel Requirements</b></th>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;" rowspan="2"><b>General Travel Category Countries/Regions</b></th>
+			<th style="width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center" colspan="2"><b>Summary of Travel Requirements</b></th>
 		</tr>
 		<tr>
 		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>Fully Vaccinated with WHO EUL COVID-19 Vaccines OR Travellers born in or after 2010 (i.e. age 12 and below by year of birth)</b></th>
-			<th style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Non-fully Vaccinated Traveller born in or before 2009 (i.e. age 13 and above by year of birth)</b></th>
+			<th style="width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Non-fully Vaccinated Traveller born in or before 2009 (i.e. age 13 and above by year of birth)</b></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 		<td style="margin-top: 0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">All countries/regions</td>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:5px; line-height:1.35;font-size:16px;">No specific COVID-19 measures, <b>but refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">Travel Checklist for Fully Vaccinated Travellers</a></b> for a step-by-step guide for travelling to Singapore. Certain traveller types need additional documents in order to enter Singapore (e.g. tourist visas, yellow fever vaccinations, foreign vehicle permits) and these are explained in the checklist.</p>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><p style="margin-top:5px; line-height:1.35;font-size:16px;">No specific COVID-19 measures, <b>but refer to the <a target="_blank" href="/arriving/general-travel/fully-vaccinated">Travel Checklist for Fully Vaccinated Travellers</a></b> for a step-by-step guide for travelling to Singapore. Certain traveller types need additional documents in order to enter Singapore (e.g. tourist visas, yellow fever vaccinations, foreign vehicle permits) and these are explained in the checklist.</p>
 			</td>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><ul style="line-height:1.35; list-style-type: decimal; margin-top: 0px;">
 					<li style="line-height:1.35; font-size:16px;">Any of the following COVID-19 test, within 2 days before departure for Singapore:
@@ -442,8 +441,8 @@ Click here to return to the <a href="#top">top</a>.
 <table>
 	<thead>
 		<tr>
-		<th rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:100px;"><b>Restricted Category Countries/Regions</b></th>
-			<th colspan="2" style=" width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center"><b>Summary of Travel Requirements</b></th>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:100px;" rowspan="2"><b>Restricted Category Countries/Regions</b></th>
+			<th style="width:90px; margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; text-align:center" colspan="2"><b>Summary of Travel Requirements</b></th>
 		</tr>
 		<tr>
 		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153854; color:white; width:200px;"><b>All Travellers Regardless of Vaccination Status</b></th>
@@ -456,7 +455,7 @@ Click here to return to the <a href="#top">top</a>.
 			<ol style="list-style-type: lower-roman; line-height:1.35;">
 				<li style="line-height:1.35; font-size:16px;">COVID-19 Polymerase Chain Reaction Test (PCR Test) within 2 days before departure for Singapore;</li>
 				<li style="line-height:1.35; font-size:16px;">On-arrival PCR test; </li>
-				<li style="line-height:1.35; font-size:16px;">7-day SHN at a <a href="/health/shn#sdf" target="_blank">Stay-Home Notice dedicated facility (SDF)</a></li>
+				<li style="line-height:1.35; font-size:16px;">7-day SHN at a <a target="_blank" href="/health/shn#sdf">Stay-Home Notice dedicated facility (SDF)</a></li>
 				<li style="line-height:1.35; font-size:16px;">SHN-exit PCR test</li>
 				</ol>
 			</td>
