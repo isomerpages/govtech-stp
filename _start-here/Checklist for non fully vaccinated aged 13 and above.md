@@ -4,6 +4,12 @@ permalink: /arriving/general-travel/non-fully-vaccinated
 description: ""
 third_nav_title: Travelling to Singapore
 ---
+
+<div id="top"></div>
+<div id="notes" style=" width:104.1%; border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
+<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Arrival-related information will move permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank">ICA's "Entering Singapore"</a> page. Services under the Safe Travel Office such as the SafeTravel Enquiry Helpline will operate as usual, and existing entry approvals are not affected. <br><br> Thank you for visiting the SafeTravel Website.</p>
+</div>
+
 <html>
 <head>
 <style>

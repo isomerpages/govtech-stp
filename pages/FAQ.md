@@ -2,6 +2,11 @@
 title: Frequently Asked Questions
 permalink: /FAQ
 ---
+
+<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;">
+<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> All SafeTravel-related FAQs will move permanently to the <a href="https://www.ica.gov.sg/faqs" target="_blank">ICA FAQ page</a>. Existing services under the SafeTravel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website</p>
+</div>
+
 <p style="font-size:18px; line-height:1.5;">This page contains answers to frequently asked questions and clarifications regarding travelling to Singapore. If you have not done so already, you should visit the “<a href="/arriving/overview" target="_blank">Travelling to Singapore</a>” page for an overview of entry requirements.  For departure or transit-related information, visit the “<a href="/departing/overview">Departure from Singapore</a>” or “<a href="/transit/overview" target="_blank">Transiting through Singapore</a>” pages.</p>
 
 <div id="top"></div>
@@ -143,22 +148,22 @@ permalink: /FAQ
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/pca/requirements-and-process">Periodic Commuting Arrangement</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg </a></td>
     </tr>-->
-   <tr style="border-bottom:1.2px solid #E8E8E8;">
+  <!-- <tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Helpers and Confinement Nannies</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the helper or nanny's entry approval <b>at least 5 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a> </li>
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/enquire-shn-payment">For employers</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/enquire-shn-payment">For employment agents</a> </li>
            </ol>
    </td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">All other Work Pass Holders and their dependents</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the pass holder's entry approval <b>at least 7 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-entry-approval">For Work Pass holder or dependant</a> </li>
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-entry-individual">For Personalised Employer Pass holder without employer, Entrepass and Work Holiday Pass and their dependants</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/enquire-shn-payment">For Work Pass holder or dependant</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/enquire-shn-payment">For Personalised Employer Pass holder without employer, Entrepass and Work Holiday Pass and their dependants</a> </li>
            </ol>
    </td>
-    </tr>
+    </tr>-->
       <tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Student’s Pass Holders</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://form.gov.sg/#!/5f6858d80666cb0011cae36e">Refund Form</a><br/><br/> Refund requests must be submitted within <b><u>3 months</u></b> from the end of SHN or the end of the SafeTravel Pass validity period, whichever is later. Late requests will <b><u>not</u></b> be considered.

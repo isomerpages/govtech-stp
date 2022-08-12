@@ -3,6 +3,10 @@ title: COVID-19 Travel Insurance and Medical Treatment for Inbound Travellers
 permalink: /health/insurance-and-treatment
 description: ""
 ---
+<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;">
+<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> COVID-Insurance information on the SafeTravel Website will move permanently to this <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/COVID-insurance" target="_blank">ICA page</a>. Existing services under the SafeTravel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website.</p>
+</div>
+
 This page contains information on the following issues:
 
 1. [COVID-19 Travel Insurance](#insurance)
@@ -23,8 +27,6 @@ Visitors should purchase travel insurance prior to travelling to Singapore, from
 <div id="LTPH"></div> 
 
 #### Insurance for Long-Term Pass Holders
-
-Employers are no longer required to buy COVID-19 travel insurance for all (new and existing) Work Permit, Training Work Permit and S Pass holders, before they enter Singapore. For more information please refer to <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">MOM's website</a>.
 
 All Long-Term pass holders, [excluding some MOM-issued pass holders](http://mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment), will bear the full cost of COVID-19 related treatment received in Singapore. This cost can be offset using medical insurance with the appropriate coverage.
 

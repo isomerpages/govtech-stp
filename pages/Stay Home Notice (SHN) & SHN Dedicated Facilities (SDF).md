@@ -3,6 +3,11 @@ title: Stay Home Notice (SHN) & SHN Dedicated Facilities (SDF)
 permalink: /health/shn
 description: ""
 ---
+
+<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;">
+<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Stay-Home Notice(SHN) and SHN Dedicated Facility (SDF) related information will move permanently to this <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/stay-home-notice-shn-dedicated-facilities" target="_blank">ICA page</a>. Existing services under the SafeTravel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website</p>
+</div>
+
 On this page, you will find information on:
 - [Stay Home Notice (SHN) Requirements](#requirements)
 - [SHN-Dedicated Facilities (SDF) and Cost of Stay](#sdf)
@@ -35,7 +40,7 @@ Travellers issued with an SHN should refer to the conditions inside the SHN, and
 
 ### SHN Dedicated Facilities (SDF)
 
-Travellers arriving from Restricted Category countries/regions are required by default to serve their SHN at an SDF. Due to the fast-changing demands for SDFs, <b>travellers will be assigned to an available SDF only upon arrival</b>. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click <a href="/health/shn/sdfupgrade">here</a> to find out more.
+Travellers arriving from Restricted Category countries/regions are required by default to serve their SHN at an SDF. Due to the fast-changing demands for SDFs, <b>travellers will be assigned to an available SDF only upon arrival</b>. <!--Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click <a href="/health/shn/sdfupgrade">here</a> to find out more.-->
 
 The cost of a 7-day SDF stay is typically S$1,015 per person per room. A further breakdown is provided in the table below*. The exact costs for the SDF stay will be made known to travellers during the entry approval application process for pass holders, or during check-in at the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the <a href="/faq#shnsdf">FAQs</a> for more information.
 
@@ -55,7 +60,6 @@ The cost of a 7-day SDF stay is typically S$1,015 per person per room. A further
   </tr>
  </tbody></table>
  
-<sup>*</sup><i>Applicable to all travellers except migrant domestic workers (MDW) and confinement nannies. <!--For more information on costs for MDWs and confinement nannies, click  <a href="/wphl/shn-and-swab-summary">here</a>.--></i><br><br>
 <sup>**</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) who are serving SHN with the same travel history and duration are permitted to share a room.</i><br><br>
 <sup>***</sup><i>Most standard rooms are able to accommodate a maximum of 2 adults and 2 minors. For greater comfort, families may also request for inter-connecting rooms upon arrival at the SDF, subject to availability and charges for the additional room.</i>
 

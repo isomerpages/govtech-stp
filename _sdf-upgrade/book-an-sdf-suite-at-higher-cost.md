@@ -1,7 +1,13 @@
 ---
 title: Book an SDF Suite at Higher Cost
 permalink: /health/shn/sdfupgrade
+published: false
 ---
+
+<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;">
+<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Stay-Home Notice(SHN) and SHN Dedicated Facility (SDF) related information will move permanently to this <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/stay-home-notice-shn-dedicated-facilities/book-an-sdf-suite-at-higher-cost" target="_blank">ICA page</a>. Existing services under the SafeTravel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website</p>
+</div>
+
 # Book an SDF Suite at Higher Cost
 
 Subject to availability, travellers who are required to complete their [Stay-Home Notice (SHN)](/health/shn) at an [SHN Dedicated Facility (SDF)](/health/shn#sdf) may book a suite at higher cost. Travellers can refer to the guide below. Travellers are responsible for checking their eligibility before booking a suite.
