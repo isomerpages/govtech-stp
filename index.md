@@ -10,12 +10,7 @@ notification: <h6 style="text-align:left;"><!--Scheduled maintenance will be
   no longer be accessible.</b> All travel-related information can be found on <a
   href="https://www.ica.gov.sg/enter-transit-depart" target="_blank">ICA's Corporate Website</a>
   instead. Existing services under the SafeTravel Office (STO), e.g. STO Contact
-  Centre and Vaccination Check Portal, are unaffected. <br/><br/> <b>NOTICE:</b>
-  The ICA <a href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card
-  (SGAC) e-Service</a> is a simple pre-arrival declaration and no submission
-  fees are required. ICA does not support or endorse services offered by
-  commercial entities who claim to help travellers to fill the SGAC for a
-  fee.   </h6>
+  Centre and Vaccination Check Portal, are unaffected.</h6>
 sections:
   - hero:
       title: <h3 style="font-size:30px; font-weight:bold; font-family:Lato,sans-serif;
