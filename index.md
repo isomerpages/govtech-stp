@@ -3,11 +3,19 @@ layout: landing-page-stp
 title: SafeTravel
 description: Singapore’s latest border measures in response to COVID-19
 permalink: /
-notification: <h6 style="text-align:left;"><!--Scheduled maintenance will be taking place on:<br>&bull; 07 August 2022, from 12am to 8am. During this period, the Vaccination Check Portal and SafeTravel Application Portal will not be available.<br/><br/>--> <b>From 1 Sep 2022, the SafeTravel Website will no longer be accessible.</b> All travel-related information can be found on <a href="https://www.ica.gov.sg/" target="_blank">ICA's Corporate Website</a> instead. Existing services under the SafeTravel Office (STO), e.g. STO Contact Centre and Vaccination Check Portal, are unaffected. <br/><br/> Thank you for visiting the SafeTravel Website. <br/><br/> <b>NOTICE:</b> The ICA <a
-  href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card (SGAC)
-  e-Service</a> is a simple pre-arrival declaration and no submission fees are
-  required. ICA does not support or endorse services offered by commercial
-  entities who claim to help travellers to fill the SGAC for a fee.   </h6>
+notification: <h6 style="text-align:left;"><!--Scheduled maintenance will be
+  taking place on:<br>&bull; 07 August 2022, from 12am to 8am. During this
+  period, the Vaccination Check Portal and SafeTravel Application Portal will
+  not be available.<br/><br/>--> <b>From 1 Sep 2022, the SafeTravel Website will
+  no longer be accessible.</b> All travel-related information can be found on <a
+  href="https://www.ica.gov.sg/" target="_blank">ICA's Corporate Website</a>
+  instead. Existing services under the SafeTravel Office (STO), e.g. STO Contact
+  Centre and Vaccination Check Portal, are unaffected. <br/><br/> <b>NOTICE:</b>
+  The ICA <a href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card
+  (SGAC) e-Service</a> is a simple pre-arrival declaration and no submission
+  fees are required. ICA does not support or endorse services offered by
+  commercial entities who claim to help travellers to fill the SGAC for a
+  fee.   </h6>
 sections:
   - hero:
       title: <h3 style="font-size:30px; font-weight:bold; font-family:Lato,sans-serif;
