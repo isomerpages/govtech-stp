@@ -81,8 +81,7 @@ Click here to return to the <a href="#top">top</a>.
 	
 	
 <a target="_blank" href="/arriving/general-travel/fully-vaccinated"><button style="" class="pushable">
-  <span class="front">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align: center;"> <b>CLICK HERE for Fully Vaccinated Travel Checklist <br>(including children 12 and below by year of birth) </b></p>
+<p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align: center;"> <b>CLICK HERE for Fully Vaccinated Travel Checklist <br>(including children 12 and below by year of birth) </b></p>
 	</span>
 	</button></a>
 	<!---->
@@ -103,9 +102,6 @@ Click here to return to the <a href="#top">top</a>.
 
 <p style="margin-bottom:20px;"></p>
 
-
-
-
 <style>
   .pushableT {
     background: hsl(30deg, 100%, 37%);
@@ -124,7 +120,6 @@ Click here to return to the <a href="#top">top</a>.
     color: white;
     transform: translateY(-6px);
   }
-
   .pushableT:active .frontT {
     transform: translateY(-2px);
   }
@@ -132,7 +127,7 @@ Click here to return to the <a href="#top">top</a>.
 	
 <a target="_blank" href="/arriving/general-travel/non-fully-vaccinated"><button style="" class="pushableT">
   <span class="frontT">
-	 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;  text-algin:center"><b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
+<p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;  text-algin:center"><b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
 	</span>
 	</button></a>
 
