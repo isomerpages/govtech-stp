@@ -80,7 +80,7 @@ Click here to return to the <a href="#top">top</a>.
 </style>
 	
 	
-<a target="_blank" href="/arriving/general-travel/fully-vaccinated"><button style="" class="pushable">
+<a target="_blank" href="/arriving/general-travel/fully-vaccinated"><button style="" class="pushable"> <span class="front">
 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align: center;"> <b>CLICK HERE for Fully Vaccinated Travel Checklist <br>(including children 12 and below by year of birth) </b></p>
 	</span>
 	</button></a>
@@ -101,7 +101,6 @@ Click here to return to the <a href="#top">top</a>.
 <p style="font-size:20px; margin-top:0px; margin-bottom:30px; line-height:1.35;"><b>Generally, non-fully vaccinated long term pass holders and short-term visitors are not allowed to enter Singapore unless in exceptional circumstances.</b> Non-fully vaccinated travellers should click the orange button below for a detailed checklist of travel requirements. </p>
 
 <p style="margin-bottom:20px;"></p>
-
 <style>
   .pushableT {
     background: hsl(30deg, 100%, 37%);
@@ -116,21 +115,21 @@ Click here to return to the <a href="#top">top</a>.
     padding: 12px 42px;
     border-radius: 12px;
     font-size: 1.25rem;
-    background: hsl(30deg, 100%, 45%);
+   background: hsl(30deg, 100%, 45%);
     color: white;
     transform: translateY(-6px);
   }
-  .pushableT:active .frontT {
+
+  .pushable:active .frontT {
     transform: translateY(-2px);
   }
 </style>
 	
-<a target="_blank" href="/arriving/general-travel/non-fully-vaccinated"><button style="" class="pushableT">
-  <span class="frontT">
-<p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35;  text-algin:center"><b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
+	
+<a target="_blank" href="/arriving/general-travel/fully-vaccinated"><button style="" class="pushableT"> <span class="frontT">
+<p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align: center;"> <b>CLICK HERE for Travel Checklist for Non-Fully Vaccinated Travellers</b></p>
 	</span>
 	</button></a>
-
 
 
 ---
