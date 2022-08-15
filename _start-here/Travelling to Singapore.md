@@ -120,7 +120,7 @@ Click here to return to the <a href="#top">top</a>.
     transform: translateY(-6px);
   }
 
-  .pushable:active .frontT {
+  .pushableT:active .frontT {
     transform: translateY(-2px);
   }
 </style>
