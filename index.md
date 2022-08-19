@@ -7,11 +7,7 @@ notification: <h6 style="text-align:left;"><!--Scheduled maintenance will be
   taking place on:<br>&bull; 07 August 2022, from 12am to 8am. During this
   period, the Vaccination Check Portal and SafeTravel Application Portal will
   not be available.<br/><br/>--> <b>From 1 Sep 2022, the SafeTravel Website will
-  no longer be accessible.</b> All travel-related information can be found on <a
-  href="https://www.ica.gov.sg/enter-transit-depart" target="_blank">ICA's
-  Corporate Website</a> instead. Services under the Safe Travel Office such as
-  the SafeTravel Enquiry Helpline will operate as usual, and existing entry
-  approvals are not affected.</h6>
+  no longer be accessible.</b> Travel-related information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart" target="_blank">ICA's Corporate website</a>. Existing services under the Safe Travel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website.</h6>
 sections:
   - hero:
       title: <h3 style="font-size:30px; font-weight:bold; font-family:Lato,sans-serif;
