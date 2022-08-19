@@ -3,7 +3,7 @@ title: RGL Inbound Traveller FAQ
 permalink: /rgl/faq
 third_nav_title: RGL Travellers Visiting Singapore
 ---
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Please note that travellers can use the Vaccinated Travel Framework instead of the RGL:</p>
 <ol style="list-style-type: disc; padding-left:20px;">
 	 <li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</b> entering Singapore may refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Vaccinated Travellers</a></li>
@@ -43,10 +43,6 @@ There is no limit to the number of times a traveller can be sponsored for a Safe
 #### 3. I intend to visit Singapore, but I do not qualify for RGL. Is there another SafeTravel Pass that I apply for entry into Singapore? 
 
 You can check [here](/arriving/overview) for the available SafeTravel lanes to visit Singapore. Prospective travellers cannot apply for the SafeTravel Pass-RGL themselves; all RGL applications must be submitted by a company or government agency in Singapore via this [link](http://eservices.ica.gov.sg/STO).
-
-<!--#### 5. Can i use the RGL to come to Singapore for long-term work or long-term study?-->
-
-<!--The RGL is only for short-term essential business and official travel. Travellers seeking to enter Singapore for other purposes may wish to visit [here](/arriving/overview) for more information on other schemes-->
 
 #### 4. I was recently diagnosed with COVID-19 but am scheduled to travel to Singapore. Can I still visit Singapore?
 
@@ -173,10 +169,6 @@ In general, travellers should, upon arrival, identify themselves as travellers o
 Travellers who test positive for COVID-19 will be given medical attention/treatment immediately. The cost of the relevant medical treatments will be borne in full by the travellers. As such travellers are required be insured for any COVID-19 related medical treatment before travelling to Singapore. Click [here](/health/insurance-and-treatment) for more information on this requirement.
 
 Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.
-
-<!--#### 20. Can I visit the shops in the public area (e.g. to buy food or beverages) within airport terminals or Jewel upon arrival in Singapore?-->
-
-<!--No, travellers are not allowed to enter any of these shops. After taking the COVID-19 PCR test, the travellers are to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car <u>pre-arranged</u> by the host. <b>The use of public transportation is not allowed</b>. They must remain isolated at the accommodation until the test result is confirmed to be negative. Travellers will only be allowed to go about their activities within the submitted controlled itineraries after being notified of their negative test results.-->
 
 <div id ="publichealth"></div>
 
@@ -319,4 +311,4 @@ As the specific requirements may change over time, RGL travellers returning to t
    </td>
     </tr>
   </tbody>
-  </table>
+  </table>-->
