@@ -6,7 +6,7 @@ description: Requirements for transiting through Singapore
 
 <div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
 <p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>We have moved!</b></p>
-	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;">Transit-related information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/transiting-singapore" target="_blank">ICA’s “Transiting through Singapore”</a> page. </p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;">Transit-related information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/transiting-singapore">ICA’s “Transiting through Singapore”</a> page. </p>
 	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;">From 1 Sep 2022, this page will no longer be accessible. Please update your favourites/bookmarks to refer to the ICA Website instead.</p>
 	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;">Stay safe and thank you for visiting the SafeTravel website.</p>
 </div>
