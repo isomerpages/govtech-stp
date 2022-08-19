@@ -4,8 +4,11 @@ permalink: /health/shn
 description: ""
 ---
 
-<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Stay-Home Notice(SHN) and SHN Dedicated Facility (SDF) related information will move permanently to this <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/stay-home-notice-shn-dedicated-facilities" target="_blank">ICA page</a>. Existing services under the SafeTravel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website</p>
+<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>We have moved!</b></p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Information on the latest travel and border measures has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank">ICA’s “Entering Singapore” page</a>. </p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Please update your favourites/bookmarks to refer to the ICA Website instead.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Stay safe and thank you for visiting the SafeTravel website.</p>
 </div>
 
 On this page, you will find information on:
