@@ -4,11 +4,14 @@ permalink: /health/shn/sdfupgrade
 published: false
 ---
 
-<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Stay-Home Notice(SHN) and SHN Dedicated Facility (SDF) related information will move permanently to this <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/stay-home-notice-shn-dedicated-facilities/book-an-sdf-suite-at-higher-cost" target="_blank">ICA page</a>. Existing services under the SafeTravel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website</p>
+<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>We have moved!</b></p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Information on the latest travel and border measures has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank">ICA’s “Entering Singapore” page</a>. </p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Please update your favourites/bookmarks to refer to the ICA Website instead.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Stay safe and thank you for visiting the SafeTravel website.</p>
 </div>
 
-# Book an SDF Suite at Higher Cost
+<!--# Book an SDF Suite at Higher Cost
 
 Subject to availability, travellers who are required to complete their [Stay-Home Notice (SHN)](/health/shn) at an [SHN Dedicated Facility (SDF)](/health/shn#sdf) may book a suite at higher cost. Travellers can refer to the guide below. Travellers are responsible for checking their eligibility before booking a suite.
 
@@ -75,4 +78,4 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 **Step 3:**  After booking a suite with their preferred SDF, travellers must submit their booking details and confirmation at <a href="https://go.gov.sg/sdfsuite" target="_blank">https://go.gov.sg/sdfsuite</a>. This is to ensure that conveyance to the right SDF (where the suite was booked) is arranged. <u>The submission must be made at least 48 hours prior to the intended stay at the suite.</u>
 
-**Step 4:** Your existing SDF will contact you about the transport arrangements to the selected SDF and will collect payment for the additional costs at check-out. The cost of the suite will be pro-rated according to the number of remaining SHN days left to serve.
+**Step 4:** Your existing SDF will contact you about the transport arrangements to the selected SDF and will collect payment for the additional costs at check-out. The cost of the suite will be pro-rated according to the number of remaining SHN days left to serve.-->
