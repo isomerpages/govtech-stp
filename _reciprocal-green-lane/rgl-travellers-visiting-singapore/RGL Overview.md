@@ -6,10 +6,13 @@ description: ""
 ---
 
 <div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> RGL information on the SafeTravel website will move permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/safe-travel-lanes/reciprocal-green-lane/inbound" target="_blank">ICA's "RGL Page"</a>. <br><br> Thank you for visiting the SafeTravel Website</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>We have moved!</b></p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">RGL information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/safe-travel-lanes/reciprocal-green-lane/inbound" target="_blank">ICA’s RGL page</a>.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Please update your favourites/bookmarks to refer to the ICA Website instead.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Stay safe and thank you for visiting the SafeTravel website.</p>
 </div>
 
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Please note that travellers can use the Vaccinated Travel Framework instead of the RGL:</p>
 <ol style="list-style-type: disc; padding-left:20px;">
 	 <li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</b> entering Singapore may refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Vaccinated Travellers</a></li>
@@ -19,34 +22,9 @@ description: ""
 
 This page summarises the requirements for using the Reciprocal Green Lane (RGL) to enter Singapore.
 
-Currently, Brunei Darussalam and selected regions in Mainland China (i.e. Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) have an active RGL arrangement with Singapore. <!--However, travellers from these countries/regions should note that there are alternate SafeTavel Lanes (see list below) that offer more relaxed travel requirements. Travellers are therefore encouraged to explore these travel options first before attempting to apply for entry via RGL.-->
+Currently, Brunei Darussalam and selected regions in Mainland China (i.e. Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) have an active RGL arrangement with Singapore. 
 
-<!--<table>
-<thead>
-<tr>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Country/Region</b></th>
-<th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Alternative SafeTravel Lanes</b><br> 
-(no quarantine, no controlled itinerary)
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;">Brunei Darussalam 
-</td>
-<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a>
-</td>
-</tr>
-<tr>
-<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;">Mainland China 
-</td>
-<td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><a href="/atp/requirements-and-process">Air Travel Pass</a>
-</td>
-</tr>
-</tbody>
-</table>-->
-
-<!--If not, an overview of the RGL requirements can be found below. --> For the list of RGLs that have been suspended, see the Annex for more details.
+For the list of RGLs that have been suspended, see the Annex for more details.
 
 <table>
 <thead>
@@ -194,4 +172,4 @@ See Annex for partner countries/regions where RGL has been suspended.
 <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;text-align:center;vertical-align:middle;"><img src="/images/M.png" width="147" height="53"></td>
 </tr>
 </tbody>
-</table>
+</table>-->
