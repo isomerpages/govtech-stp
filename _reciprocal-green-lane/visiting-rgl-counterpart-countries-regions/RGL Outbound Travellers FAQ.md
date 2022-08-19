@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
 
-<div id="faq-top"></div>
+<!--<div id="faq-top"></div>
 
 ### FAQ for Travellers in Singapore seeking entry to the following RGL counterpart countries/regions
 
