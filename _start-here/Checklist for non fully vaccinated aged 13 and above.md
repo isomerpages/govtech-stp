@@ -6,11 +6,14 @@ third_nav_title: Travelling to Singapore
 ---
 
 <div id="top"></div>
-<div id="notes" style=" width:104.1%; border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Arrival-related information will move permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank">ICA's "Entering Singapore"</a> page. Services under the Safe Travel Office such as the SafeTravel Enquiry Helpline will operate as usual, and existing entry approvals are not affected. <br><br> Thank you for visiting the SafeTravel Website.</p>
+<div style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;" id="notes">
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>We have moved!</b></p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Arrival-related information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">ICA’s “Entering Singapore” page</a>. Existing services under the SafeTravel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Please update your favourites/bookmarks to refer to the ICA Website instead.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Stay safe and thank you for visiting the SafeTravel website.</p>
 </div>
 
-<html>
+<!--<html>
 <head>
 <style>
 
@@ -38,10 +41,6 @@ margin-left:60px;
   </div>
 
 <p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:104.1%;">For a smooth travel experience, read each step below carefully. Travellers can be turned away at pre-boarding or immigration or subject to penalties if they do not comply with the requirements.</p>
-<!--<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 1: <a href="#stage1">Pre-Departure Requirements</a></p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 2: <a href="#stage2">Requirements on Arrival</a></p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 3: <a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></p>
-<p style=" padding-left:20px; font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Stage 4: <a href="#stage4">Comply with Local Health Protocols</a></p>-->
 
 <html>
 <head>
@@ -79,38 +78,6 @@ margin-left:60px;
 	</body>
 	</html>
 
-<!--<html>
-	<head>
-	<style>
-.custom-ol {
-    counter-reset: nCounter 0;
-    padding: 0 0 0 75px;
-    margin: 20px;
-}
-.custom-ol li {
-    list-style: none outside;
-    padding: 0 0 0 0px;
-}
-.custom-ol li:before {
-    content: "Stage " counter(nCounter) "." ;
-    counter-increment: nCounter;
-    font-weight: bold;
-    margin: 0 0 0 -100px;
-    padding: 20px;
-    width: 50px;
-    font-size:18px;
-}
-	</style>
-	</head>
-<body>
-<ol class="custom-ol" style="width:118%;">
-<li style="font-size:18px; line-height:1.35; word-break: normal;"><a href="#stage1">Pre-Departure Requirements</a></li>
-<li style="font-size:18px; line-height:1.35; wword-break: normal;"><a href="#stage2">Requirements on Arrival</a></li>
-<li style="font-size:18px; line-height:1.35; word-break: normal;"><a href="#stage3">Stay-Home Notice (Quarantine) and COVID-19 Testing Requirements</a></li>
-<li style="font-size:18px; line-height:1.35; word-break: normal;"><a href="#stage4">Comply with Local Health Protocols</a></li>
-</ol>
-	</body>
-	</html>-->
   
 <div id="stage1" style="background-color: #102a40; border-left:10px #102a40 solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 0px 0px;width:104.1%;"><b>Step 1: Pre-Departure Requirements</b></div>
 
@@ -118,18 +85,8 @@ margin-left:60px;
 &#9634; &nbsp;&nbsp;<b>1A) Obtain Entry Approval</b></div>
 <div style="padding:10px 10px 10px 10px; margin-bottom: 0px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad;font-size:18px;width:104.1%;">
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Entry approval is <b>not</b> required if you are a Singapore Citizen or Permanent Resident.</p>
-<!--<ol style="list-style-type: disc; padding-left:25px;">
-        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Singapore Citizen or Permanent Resident</li>
-<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Long-Term Pass holder, including In-Principle Approval holders, born between 2005 and 2010 (inclusive), and <b>arriving before 1 Jul 2022 only.</b> Entries from 1 Jul 2022 will require entry approvals.</li>
-	</ol>-->
 	    <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;"><b>For all other non-fully vaccinated travellers, entry to Singapore is not allowed unless entry approval is obtained.</b></p>
 	<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Click your traveller profile below for details on how to apply:</p>
-	 <!--<ol style="list-style-type: disc; padding-left:25px;">
-        <li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Non-fully vaccinated Long-Term Pass Holders aged 18 and above (i.e. born before 2005)</li>
-<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Non-fully vaccinated Long-Term Pass holders aged 13 and above (i.e. born before 2010) <b>arriving from 1 Jul 2022</b></li>
-<li style="padding-left:25px; font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Non-fully vaccinated Short-Term Visitors aged 13 and above (i.e. born before 2010)</li> 
-	</ol>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">Only the following types of non-fully vaccinated travellers may apply for entry approval via the channels listed below:</p>-->
     <p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35; color:red;">(Click “+” to expand for details)</p>
 
 <html>
@@ -496,17 +453,6 @@ details[open] summary::before {
         </tbody>
     </table>
 </div>    
-
-<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#4f728e; color: white; border-left:2px solid #adadad; border-right:2px solid #adadad; font-size:18px; width:120.1%;" id="1F">&#9634;  <b>1F) Install and Activate TraceTogether</b></div>
-
-<div style="padding:10px 10px 10px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:120.1%;">
-    <p style="line-height:1.35; margin-bottom:10px; font-size:18px;">If you are a visitor and do not already have the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether contact tracing mobile application</a>, install it using <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-" target="_blank">this guide</a>, and only activate the app after clearing immigration. Only travellers aged 6 or below this year are exempted from installing TraceTogether.</p>
-    <p style="line-height:1.35; font-size:18px; margin-top: 20px; margin-bottom:10px;">If you encounter issues activating TraceTogether:</p>
-    <ol style="padding-left: 20px; margin-top:10px; list-style-type: lower-latin;">
-        <li style="font-size:18px; padding-left: 20px; margin-top:20px; margin-bottom:0px; line-height:1.35;">Submit a request for assistance to <a href="mailto:support@tracetogether.gov.sg" target="_blank">support@tracetogether.gov.sg</a>; <b>OR</b></li>
-        <li style="font-size:18px; padding-left: 20px; margin-top:10px; margin-bottom:10px; line-height:1.35;"><a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674443" target="_blank">Collect your TraceTogether token for a one-time fee of S$13</a></li>
-</ol>
-    </div>-->
     
 <div id="stage2" style="background-color: #102a40; border-left:10px #102a40 solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px;    margin: 20px 0px 0px 0px; width:104.1%;"><b>Step 2: Requirements on Arrival</b></div>
 
@@ -705,4 +651,4 @@ details[open] summary::before {
 <p style="font-size:18px; margin-top: 20px; margin-bottom: 10px; line-height:1.35;">By completing the required vaccination regimen, you will be eligible for the renewal or extension of your long-term pass. If you suffer from a medical condition that disallows you from being vaccinated against COVID-19, obtain medical certification within 30 days of your arrival in Singapore to prove your ineligibility for all COVID-19 vaccines under the <a href="https://www.vaccine.gov.sg/" target="_blank">National Vaccination Programme</a>.</p>
 </div>
 </body>
-</html>
+</html>-->
