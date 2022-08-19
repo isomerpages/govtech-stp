@@ -6,22 +6,19 @@ description: ""
 ---
 
 <div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> RGL information on the SafeTravel website will move permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/safe-travel-lanes/reciprocal-green-lane/inbound" target="_blank">ICA's "RGL Page"</a>. <br><br> Thank you for visiting the SafeTravel Website</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>We have moved!</b></p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">RGL information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/safe-travel-lanes/reciprocal-green-lane/inbound" target="_blank">ICA’s RGL page</a>.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Please update your favourites/bookmarks to refer to the ICA Website instead.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Stay safe and thank you for visiting the SafeTravel website.</p>
 </div>
 
-<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-bottom:20px; font-size:18px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:red;">Please note that travellers can use the Vaccinated Travel Framework instead of the RGL:</p>
 <ol style="list-style-type: disc; padding-left:20px;">
 	 <li style="line-height:1.4; margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Fully vaccinated travellers and non-fully vaccinated children aged 12 and below</b> entering Singapore may refer to the <a href="/arriving/general-travel/fully-vaccinated" target="_blank">General Travel Category Requirements for Vaccinated Travellers</a></li>
 <li style="line-height:1.4; margin-top:10px; margin-bottom:0px; font-size:18px;"><b>Non-fully vaccinated travellers aged 13 and above</b> may refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">General Travel Category Requirements for Non-Fully Vaccinated Travellers</a></li>
 		</ol>
 		</div>
-
-
-<!--<div style="padding: 5px; font-size:16px; line-height:1.5; border-style: solid; border-width: 1px; margin-bottom:10px; background-color:#f5f5f5;"><br>!! Readers who have arrived at this page directly from search engine or are new to the entry requirements imposed by Singapore, should start from the “<a href="/arriving/overview">Travelling to Singapore</a>" page found on this site. The self-help tool found on the page will help travellers identify the most suitable travel lane for their needs. Travellers who fail to comply with entry requirements will be turned away.
-
-<p style="font-size:16px; line-height:1.5; margin-bottom:15px;">Travellers who have left Singapore via RGL and are returning to the country, do not need an entry approval to enter. However, they will be subject to the prevailing travel and health control measures depending on which RGL country/region they visited.</p>
-</div>-->
 
 ### Reciprocal Green Lane Checklist (Travellers Inbound to Singapore)
 
@@ -176,4 +173,4 @@ After self-isolation, travellers may go about their activities but <b>must</b>:
 <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Comply with the latest public health measures, which includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> to facilitate Contact Tracing. For details on the prevailing public health measures, please visit the Ministry of Health <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">website</a>.</li>
 </ol>
 
-To qualify for vaccination-differentiated safe management measures (VDS) in Singapore, travellers will need to show proof of their vaccination status via the TraceTogether application. <a href="https://go.gov.sg/moh-smm" target="_blank">Click here for more details on VDS</a>.
+To qualify for vaccination-differentiated safe management measures (VDS) in Singapore, travellers will need to show proof of their vaccination status via the TraceTogether application. <a href="https://go.gov.sg/moh-smm" target="_blank">Click here for more details on VDS</a>. -->
