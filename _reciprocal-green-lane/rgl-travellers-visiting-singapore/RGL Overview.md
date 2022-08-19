@@ -7,7 +7,7 @@ description: ""
 
 <div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
 	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>We have moved!</b></p>
-	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">RGL information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/safe-travel-lanes/reciprocal-green-lane/inbound" target="_blank">ICA’s RGL page</a>.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">RGL information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/safe-travel-lanes/reciprocal-green-lane/inbound">ICA’s RGL page</a>.</p>
 	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Please update your favourites/bookmarks to refer to the ICA Website instead.</p>
 	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Stay safe and thank you for visiting the SafeTravel website.</p>
 </div>
