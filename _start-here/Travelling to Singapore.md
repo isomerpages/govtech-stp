@@ -9,16 +9,13 @@ third_nav_title: Travelling to Singapore
 <p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Arrival-related information will move permanently to <a target="_blank" href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">ICA's "Entering Singapore"</a> page. Services under the Safe Travel Office such as the SafeTravel Enquiry Helpline will operate as usual, and existing entry approvals are not affected. <br><br> Thank you for visiting the SafeTravel Website.</p>
 </div>
 	
-<p style="margin-top:20px; margin-bottom:15px; line-height:1.35; font-size:18px; background-color: #e3e3e3;"><b>Note:</b> If you are transiting through Singapore to another destination without clearing immigration, refer to the <a target="_blank" href="/transit/overview">"Transiting through Singapore"</a> page instead. If you are an Air/Sea Crew or Pleasure Craft Owner, <a target="_blank" href="/arriving/overview#crew">click here</a> for more instructions.</p>
+<!--<p style="margin-top:20px; margin-bottom:15px; line-height:1.35; font-size:18px; background-color: #e3e3e3;"><b>Note:</b> If you are transiting through Singapore to another destination without clearing immigration, refer to the <a target="_blank" href="/transit/overview">"Transiting through Singapore"</a> page instead. If you are an Air/Sea Crew or Pleasure Craft Owner, <a target="_blank" href="/arriving/overview#crew">click here</a> for more instructions.</p>-->
 
-
-<!--- [Automated Self-Help Tool for Entry Requirements](#selfhelptool)-->
-
-<p style="margin-top:20px; margin-bottom:20px; line-height:1.35; font-size:20px;">On this page, you will find the following information on travel to Singapore:</p>
+<!--<p style="margin-top:20px; margin-bottom:20px; line-height:1.35; font-size:20px;">On this page, you will find the following information on travel to Singapore:</p>
  <ol style="line-height:1.35;">
 	<li style="padding-left:20px; line-height:1.35; font-size:20px; margin-bottom:15px;"><a href="#checklist">Entry Criteria and Travel Checklists</a></li>
 		<li style="padding-left:20px;line-height:1.35; font-size:20px;"><a href="#vaccination">Accepted COVID-19 Vaccinations for Entry to Singapore</a></li>
-	</ol>
+	</ol>-->
 
 <!--<div id="selfhelptool"></div>
 
@@ -37,7 +34,7 @@ Click here to return to the <a href="#top">top</a>.
 
 ----->
 
-<div id="checklist"></div>
+<!--<div id="checklist"></div>
 
 #### 1. Entry Criteria and Travel Checklists
 
@@ -84,9 +81,7 @@ Click here to return to the <a href="#top">top</a>.
 <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.35; text-align: center;"> <b>CLICK HERE for Fully Vaccinated Travel Checklist <br>(including children 12 and below by year of birth) </b></p>
 </span>
 </button></a>
-	<!---->
-
-
+	
 </div>
 
 <hr style="margin-top:40px;">
@@ -275,6 +270,8 @@ Click here to return to the <a href="#top">top</a>.
 
 ---
 
+-->
+
 <!--<div id="VTF"></div>
 
 ### 3. Vaccinated Travel Framework – Summary of Border Measures
@@ -353,7 +350,7 @@ Click here to return to the <a href="#top">top</a>.
 
 
 
-<div id="crew"></div>
+<!--<div id="crew"></div>
 
 
 ### 3) Entry for Air/Sea Crew and Pleasure Craft Owners
@@ -426,7 +423,6 @@ Click here to return to the <a href="#top">top</a>.
 					<li style="line-height:1.35; font-size:16px;">7-day Stay-Home Notice (SHN) at declared place of accommodation</li>
 					<li style="line-height:1.35; font-size:16px;">SHN-exit PCR test</li>
 					</ul>
-			<!--<p style="margin-top:20px; line-height:1.35;font-size:16px;">Detailed requirements available in the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">Non-fully Vaccinated Traveller’s checklist</a></p>-->
 			</td>
 		</tr>
 </tbody>
@@ -467,3 +463,4 @@ Click here to return to the <a href="#top">top</a>.
 Click here to return to the <a href="#top">top</a>.
 
 ---
+-->
