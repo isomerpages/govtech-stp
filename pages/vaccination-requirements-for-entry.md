@@ -3,11 +3,12 @@ title: Vaccination Requirements for Entry
 permalink: /stpl/vaccination-requirements
 ---
 
-<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Refer to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/STPH-vaccination-requirements" target="_blank">ICA page</a>. <br><br> Thank you for visiting the SafeTravel Website</p>
+<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible. Thank you for visiting the SafeTravel website.</b></p>
+	<!--<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;">From 1 Sep 2022, this page will no longer be accessible. Refer to this ICA page on <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/STPH-vaccination-requirements">Vaccination Requirements for Student Pass Holders</a>. </p>-->
 </div>
 
-##### Student's Pass Holders and their accompanying family members who are aged 13 and above must be fully vaccinated before arrival. This page outlines:
+<!--##### Student's Pass Holders and their accompanying family members who are aged 13 and above must be fully vaccinated before arrival. This page outlines:
 
 <ol>
 	<li style="line-height:1.5;"><a href="#criteria">Criteria to be considered fully vaccinated </a></li>
@@ -115,14 +116,7 @@ permalink: /stpl/vaccination-requirements
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">Such travellers will need to undergo a medical review in Singapore with a Singapore-registered doctor within 30 days of arrival, and be certified to be medically ineligible for all COVID-19 vaccines under Singapore's National Vaccination Programme. Otherwise, they must complete the full vaccination regime within 2 months of arrival.</p>
 
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">The exemption request must be approved before the traveller can enter Singapore.</p>
-<!--<ol>
-	<li style="line-height:1.5; font-size:18px;">Travellers who are below 18 years old on the date of entry.
-<p style="font-size:18px; margin-top:10px; line-height:1.5;">Unvaccinated travellers who are 13 years old to below 18 years old on the date of entry will need to complete the full vaccination regime within 2 months of arrival. You may visit <a href="https://www.vaccine.gov.sg" target="_blank">https://www.vaccine.gov.sg</a> for information on the COVID-19 vaccination programme in Singapore.</p><p style="font-size:18px; margin-top:10px; line-height:1.5;">Travellers who are 13 years old to below 18 years old on the date of entry, and who were fully vaccinated overseas, must <a href="#additional-requirements">update their vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival.</p>
-<p style="font-size:18px; margin-top:10px; line-height:1.5;"><i>Note: Student’s Pass and other Long-Term Pass (including In-Principle Approval) holders below 18 years old may enter without entry approvals. However, eligible accompanying family members aged 13 to below 18 years old who do not hold Long-Term Passes must have a valid entry approval if they are not fully vaccinated.</i></p>
-	</li>
-	<li style="line-height:1.5; font-size:18px; margin-top:20px;">Travellers who cannot be vaccinated due to medical conditions <p style="font-size:18px; margin-top:10px; line-height:1.5;">To be considered for exemption, travellers must <a href="https://go.gov.sg/moe-vaccination-exemption" target="_blank">submit a request</a> and upload a doctor's memo. This should be done at least 1 week before the intended date of entry.</p> <p style="font-size:18px; margin-top:10px; line-height:1.5;">Such travellers will need to undergo a medical review in Singapore with a Singapore-registered doctor within 30 days of arrival, and <b>be certified to be medically ineligible</b> for all COVID-19 vaccines under Singapore’s National Vaccination Programme. Otherwise, they must complete the full vaccination regime within 2 months of arrival.</p><p style="font-size:18px; margin-top:10px; line-height:1.5;">The exemption request must be approved before the traveller can enter Singapore.</p>
-	</li>
-	</ol>-->
+
 	
 <div id="penalties"></div>
 
@@ -145,34 +139,6 @@ permalink: /stpl/vaccination-requirements
 <p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged 12 years old and below on the date of entry:</u></b></p>
 
 <p style="font-size:18px; margin-top:10px; line-height:1.5;">The vaccination condition for entry will not apply to you.</p>
-
-<!--<p style="font-size:18px; margin-top:10px; line-height:1.5;"><b><u>If you are aged 13 years old to below 18 years old on the date of entry</u>:</b></p>
-<table>
-  <thead>
-    <tr>
-     <th colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccination Status</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Vaccination Requirements for Entry under the STPHL</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Fully vaccinated with <a href="/arriving/overview#vaccination" target="_blank">full regimen of WHO Emergency Use Listing (WHO EUL) vaccines</a> at least two weeks before arrival</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated in Singapore</td>
-	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Show proof of vaccination at the port of departure/ checkpoint.</td>
-    </tr>
-	   <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Vaccinated overseas</td>
-			 	     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Show proof of vaccination at the port of departure/ checkpoint.<br><br><a href="#additional-requirements">Update vaccination records in Singapore’s National Immunisation Registry</a> within 30 days of arrival </td>
-    </tr>
-	   <tr>
-      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Medically ineligible for vaccination</td>
-		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Undergo medical review in Singapore within 30 days of arrival and be certified medically ineligible for all COVID-19 vaccines under Singapore’s National Vaccination Programme. Otherwise, complete full vaccination regime within 2 months of arrival.<br><br><b>[For eligible accompanying family members of STP holders who do not hold Long-Term Passes only]</b> Submit a request for exemption (with doctor’s memo) at least 1 week before arrival.</td>
-    </tr>	
-	    <tr>
-      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Partially vaccinated/ Unvaccinated</td>
-		     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Complete full vaccination regime within 2 months of arrival<br><br><b>[For eligible accompanying family members of STP holders who do not hold Long-Term Passes only]</b> Not allowed entry. Those with extenuating reasons for not being fully vaccinated before arrival may submit an entry appeal here, at least 1 week before the intended date of entry.</td>
-    </tr>	  
-	</tbody>
-	</table>-->
 	
 <p style="font-size:18px; margin-top:20px; line-height:1.5;"><b><u>If you are aged 13 years old and above on the date of entry:</u></b></p>
 
@@ -202,3 +168,4 @@ permalink: /stpl/vaccination-requirements
     </tr>	  
 	</tbody>
 	</table>
+-->
