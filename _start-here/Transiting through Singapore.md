@@ -5,10 +5,13 @@ description: Requirements for transiting through Singapore
 ---
 
 <div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Transit-related information will move permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/transiting-singapore" target="_blank">ICA's "Transiting through Singapore"</a> page. <br><br> Thank you for visiting the SafeTravel Website</p>
+<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>We have moved!</b></p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;">Transit-related information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/transiting-singapore">ICA’s “Transiting through Singapore”</a> page. </p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;">From 1 Sep 2022, this page will no longer be accessible. Please update your favourites/bookmarks to refer to the ICA Website instead.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;">Stay safe and thank you for visiting the SafeTravel website.</p>
 </div>
 
-<p style="font-size:20px; line-height:1.35;">Singapore is open to all transit travellers with no specific COVID-19 regulations or requirements. However, please note the following points to ensure that you have a smooth transit experience:</p>
+<!--<p style="font-size:20px; line-height:1.35;">Singapore is open to all transit travellers with no specific COVID-19 regulations or requirements. However, please note the following points to ensure that you have a smooth transit experience:</p>
 
 <ol style="margin-top:10px; margin-bottom:10px; font-size:20px;">
   <li style="margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><a href="#transittraveller">Qualifying as a transit traveller</a> </li>
@@ -38,4 +41,4 @@ description: Requirements for transiting through Singapore
   <li style="padding-left:20px; margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><b>Acceptance of transit travellers:</b> Whether the authorities of destination <b><i>Country Y</i></b> accept travellers transiting through Singapore, including whether they impose requirements on using certain flights for transit.  </li>
   <li style="padding-left:20px; margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><b>Entry requirements:</b> Whether the authorities of destination <b><i>Country Y</i></b> impose conditions of entry such as visas, entry approvals, vaccinations or other documentation. The airline will check upon boarding if you have the relevant documentation on hand.</li>
     <li style="padding-left:20px; margin-top:10px; margin-bottom:10px; font-size:20px; line-height:1.35;"><b>Pre-departure testing (PDT) requirements:</b> If <b><i>Country Y</i></b> requires travellers to take a COVID-19 test for entry into <b><i>Country Y</i></b>. Such COVID-19 tests are <u>not</u> available in the transit area of Changi Airport and travellers should take their PDT in <b><i>Country X</i></b>, if <b><i>Country Y</i></b> requires them to do so.</li>
-</ol>
+</ol>-->

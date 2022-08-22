@@ -5,10 +5,13 @@ description: Advisories and resources when departing from Singapore
 ---
 
 <div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Departure-related information will move permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/departing-singapore" target="_blank">ICA's "Departing from Singapore"</a> page. <br><br> Thank you for visiting the SafeTravel Website</p>
+<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>We have moved!</b></p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Departure-related information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/departing-singapore">ICA’s “Departing from Singapore”</a> page.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Please update your favourites/bookmarks to refer to the ICA Website instead.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Stay safe and thank you for visiting the SafeTravel website.</p>
 </div>
 
-<html>
+<!--<html>
 <head>
 <style>
 
@@ -195,4 +198,4 @@ details[open] summary::before {
   </html>
 			</div>
 	</body>
-	</html>
+	</html>-->

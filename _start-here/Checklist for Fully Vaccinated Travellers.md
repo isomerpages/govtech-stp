@@ -5,12 +5,14 @@ description: ""
 third_nav_title: Travelling to Singapore
 ---
 
-<div id="top"></div>
-<div id="notes" style="width:104.1%; border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Arrival-related information will move permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank">ICA's "Entering Singapore"</a> page. Services under the Safe Travel Office such as the SafeTravel Enquiry Helpline and Vaccination Check Portal will operate as usual.  <br><br> Thank you for visiting the SafeTravel Website</p>
+<div style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;" id="notes">
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>We have moved!</b></p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Arrival-related information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">ICA’s “Entering Singapore” page</a>. Existing services under the SafeTravel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Please update your favourites/bookmarks to refer to the ICA Website instead.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Stay safe and thank you for visiting the SafeTravel website.</p>
 </div>
 
-<html>
+<!--<html>
 <head>
 <style>
 
@@ -34,7 +36,6 @@ margin-left:50px;
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;">Travellers transiting in Singapore to another destination without clearing immigration should refer to the <a href="/transit/overview" target="_blank">“Transiting through Singapore”</a> page for information. </p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.3;"><b>Travellers born on or before 31 Dec 2009 who are medically ineligible for vaccination, not vaccinated or have recovered from COVID-19 without taking the minimum required WHO EUL vaccines are considered non-fully vaccinated and should refer to the <a href="/arriving/general-travel/non-fully-vaccinated" target="_blank">checklist for non-fully vaccinated travellers</a> instead.</b></p>
 	 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.3; color:black;"><i>*To be considered fully vaccinated, travellers must have taken minimally one dose of CanSinoBIO/Convidecia or Janssen/J&J, or minimally 2 doses of AstraZeneca, Covaxin, Moderna/Spikevax, Covishield, Novavax/Covovax/Nuvaxovid, Pfizer/BioNTech/COMIRNATY, Sinovac or Sinopharm. Mixed doses and boosters using these WHO EUL vaccines, and one vaccination dose after a COVID-19 infection are also acceptable. Boosters are not necessary for entry. For full definition of acceptable vaccinations and dose intervals for entry to Singapore, refer to <a href="/arriving/overview#vaccination" target="_blank">this page</a>.</i></p>
-			<!--<p style="font-size:18px; margin-top:10px; margin-bottom:10px;line-height:1.3;">Readers referencing this checklist can indicate “☑” in the boxes (&#9634;) for any completed activities.</p>-->
 	</div>
 	
 <p style=" font-size:18px; margin-top: 15px; margin-bottom:20px; line-height:1.35; width:104.1%;">For a smooth travel experience, read each step below carefully. Please note that <b>you are no longer required to take any COVID-19 tests before departure for Singapore.</b> </p>
@@ -78,44 +79,7 @@ margin-left:50px;
 			</table>
 	</body>
 			</html>
-			
 
-<!--<html>
-	<head>
-	<style>
-.custom-ol {
-    counter-reset: nCounter 0;
-    padding: 0 0 0 75px;
-    margin: 20px;
-}
-.custom-ol li {
-    list-style: none outside;
-}
-.custom-ol li:before {
-    content: "Step " counter(nCounter) "." ;
-    counter-increment: nCounter;
-    font-weight: bold;
-    margin: 0 0 0 -94px;
-    padding: 20px;
-    width: 50px;
-    font-size:18px;
-}
-	</style>
-	</head>
-<body>
-<ol class="custom-ol" style="width:118%;">
-<li style="word-break: normal; font-size:18px; line-height:1.35; "><a href="#step1">Ensure COVID-19 vaccination documentation is in order</a></li>
-<li style="word-break: normal; font-size:18px; line-height:1.35; "><a href="#step2">Obtain entry approvals and additional travel documentation if needed</a></li>
-<li style="word-break: normal; font-size:18px; line-height:1.35;"><a href="#step3">Fill SG Arrival Card up to 3 days before arrival</a></li>
-<li style="word-break: normal; font-size:18px; line-height:1.35; "><a href="#step4">Install TraceTogether app</a></li>
-<li style="word-break: normal; font-size:18px; line-height:1.35; "><a href="#step5">Immigration clearance in Singapore</a></li>
-<li style="word-break: normal; font-size:18px; line-height:1.35; "><a href="#step6">Comply with local health protocols</a></li>
-</ol>
-	</body>
-	</html>-->
-
-
-<!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 1: Pre-Departure for Singapore</b></div>-->
 
 <div id="step1"></div>
 
@@ -405,8 +369,6 @@ details[open] summary::before {
 	<summary><b>Non-Malaysian Work Permit In-principle Approval holders Employed in the Construction, Marine shipyard and Process Sector (CMP worker)</b></summary>
   <div style="border-bottom: 2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; background-color:#edf4fa;" class="contenttest">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Fully vaccinated male CMP workers must book a slot at <a href="https://www.mom.gov.sg/covid-19/onboard-centre" target="_blank">Ministry of Manpower's (MOM) Onboard centre</a> to undergo a residential onboarding programme upon arrival. </p>
-<!--<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">All CMP workers entering from Bangladesh, India or Myanmar must undergo a <a href="https://go.gov.sg/bca-pdpp" target="_blank">Pre-Departure Preparatory Programme</a> (PDPP) before entering Singapore.</p>
-	  <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b>[From 1 July 2022]</b> CMP workers entering from Bangladesh, India or Myanmar do not need to go for the PDPP. However, they will still need to attend the onboarding programme upon arrival.</p>-->
   </div>
 </details>
 </body>
@@ -428,29 +390,9 @@ details[open] summary::before {
 
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"></p>
 
-<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:104.1%;">&#9634;&nbsp;<b>Step 4:  Install TraceTogether App</b></div>
-
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; border-left:2px solid #adadad;border-right:2px solid #adadad;border-top:2px solid #adadad; border-bottom:2px solid #adadad; font-size:18px; width:104.1%;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you are a visitor and do not already have the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether contact tracing mobile application</a>, install it using <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-" target="_blank"> this guide</a>, and only activate the app after clearing immigration. Only travellers aged 6 or below this year are exempted from installing TraceTogether.</p>
-	<p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you encounter issues activating TraceTogether:
-	<ol style="padding-left: 20px; font-size:18px; margin-bottom:0px; list-style-type:lower-latin;">
-	<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;">Submit a request for assistance to <a href="mailto:support@tracetogether.gov.sg" target="_blank">support@tracetogether.gov.sg</a>; OR</li>
-		<li style="padding-left: 20px; font-size:18px; margin-top:0px; margin-bottom:10px; line-height:1.35;"><a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674443" target="_blank">Collect a TraceTogether token after arrival for a one-time fee of S$13</a></li>
-	</ol>
-	</p>
-</div>-->
-
-<!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 2: Departure for Singapore</b></div>-->
-
 <div id="step5"></div>
 
 <p style="font-size:18px; margin-top: 10px; margin-bottom:10px; line-height:1.35;"></p>
-
-<!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background: linear-gradient(90deg, #072b4b, #61788c);color:white; font-size:18px;">&#9634;&nbsp;<b>Step 6:  Immigration Clearance in Singapore</b></div>-->
-
-<!--<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#ededed; font-size:18px;"><p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">Transport operators may ask for documents listed at Stage 1 during pre-boarding checks. Failing which, you may be denied boarding.</p>
-	</div>-->
-
-<!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 3: Immigration Clearance in Singapore</b></div>-->
 
 <div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color: #102a40; border-left:10px #102a40; color:white; font-size:18px; width:104.1%;">&#9634;&nbsp;<b>Step 4:  Immigration Clearance in Singapore</b></div>
 
@@ -459,8 +401,6 @@ details[open] summary::before {
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 20px; line-height:1.35;">Passports will no longer be stamped at immigration. Foreign short-term visitors will be sent an e-Pass (i.e. Visit Pass) via email <b>after clearing arrival immigration</b>, stating the period of stay granted. The e-Pass will be sent to the email address indicated in the SGAC submission. Travellers who did not receive their e-Pass after immigration clearance <a href="https://eservices.ica.gov.sg/sgarrivalcard/epassenquiry" target="_blank">may retrieve their e-Pass using this e-service</a>, using the DE Number found in their SGAC acknowledgement email.</p>
 <p style=" font-size:18px; margin-top:0px; margin-bottom: 10px; line-height:1.35;">If you are symptomatic on arrival, you may be directed to take a COVID-19 test or be subject to other requirements as instructed by officers. Each Antigen Rapid Test (ART) administered will cost S$30, while each COVID-19 Polymerase Chain Reaction Test (PCR Test) will cost S$138.</p>
 </div>
-
-<!--<div style="background: linear-gradient(90deg, #072b4b, #61788c); border-left:10px #072b4b solid; color: #FFFFFF; font-size: 18px; line-height: 28px; padding: 15px 20px 15px 20px; margin: 20px 0px 20px 0px;"><b>Stage 4: Health Protocols during Stay in Singapore</b></div>-->
 
 <div id="step6"></div>
 
@@ -544,7 +484,7 @@ details[open] summary::before {
 </table>	
 </div>
 </body>
-</html>
+</html>-->
 
 
 <!--<div style="padding:10px 10px 10px 10px; margin-bottom:0px; line-height:1.35; background-color:#d5d5d5; font-size:18px;">&#9634;&nbsp;<b> C) Contracting and Recovering from COVID-19</b></div>

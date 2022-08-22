@@ -3,11 +3,14 @@ title: COVID-19 Travel Insurance and Medical Treatment for Inbound Travellers
 permalink: /health/insurance-and-treatment
 description: ""
 ---
-<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> COVID-Insurance information on the SafeTravel Website will move permanently to this <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/COVID-insurance" target="_blank">ICA page</a>. Existing services under the SafeTravel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website.</p>
+<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>We have moved!</b></p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">COVID insurance information on the SafeTravel website has moved permanently to this <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/COVID-insurance">ICA page</a>. </p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Please update your favourites/bookmarks to refer to the ICA Website instead.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Stay safe and thank you for visiting the SafeTravel website.</p>
 </div>
 
-This page contains information on the following issues:
+<!--This page contains information on the following issues:
 
 1. [COVID-19 Travel Insurance](#insurance)
 2. [Recovery Protocols for COVID-19](#treatment)
@@ -67,4 +70,4 @@ SCs and PRs may access Government subsidies, MediSave and MediShield Life/Integr
 
 Charges for hospitals and community facilities are billed separately. All paying patients may enquire about the relevant charges during financial counselling at the point of admission to the facility.
 
-This cost of hospitalisation at the hospitals and/or community facilities are separate from the cost of <a href="/health/shn#sdf" target="_blank">Stay-Home-Notice (SHN) Dedicated Facilities</a>.
+This cost of hospitalisation at the hospitals and/or community facilities are separate from the cost of <a href="/health/shn#sdf" target="_blank">Stay-Home-Notice (SHN) Dedicated Facilities</a>.-->

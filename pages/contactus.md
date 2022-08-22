@@ -2,28 +2,18 @@
 title: Contact Us
 permalink: /contact-us
 ---
-<!--<div style="padding-left: 5px; padding-bottom: 20px; margin-top:20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
 
-<p style="font-size:18px; margin-top:10px; margin-bottom:0px; font-weight:900;"><u>Advisory on Scam Calls Impersonating Government Officials</u></p>
-
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">ICA has received reports of calls made using the number “+65 6812 5555” by callers claiming to be government officials. This number is similar to the SafeTravel Enquiry Helpline. Recipients of these calls have reported being accused of committing various COVID-19 related offence, e.g. spreading fake news or breaking COVID-19 rules, and asked to pay a penalty or risk having further reports made against them.</p>
-
-<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.35;">ICA does not request for payments in any form over the phone, or solicit for personal and credit card details. If you suspect you have received a scam call, please contact the Police hotline at 1800-255-0000.</p>
-</div>-->
-
-<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red;">
-<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> The Safe Travel Office (STO) contact details can be found on the <a href="https://www.ica.gov.sg/contact-us" target="_blank">ICA Contact Us page</a>. Existing queries, appeals and services under STO are unaffected. <br><br> Thank you for visiting the SafeTravel Website.</p>
+<div id="notes" style="border-left: 2px solid red; border-top: 2px solid red; border-bottom: 2px solid red; border-right: 2px solid red; margin-bottom:20px;">
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:5px;"><b>We have moved!</b></p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">The SafeTravel Office contact details can be found on the <a href="https://www.ica.gov.sg/contact-us">ICA Contact Us page</a>. Existing queries, appeals and services under the SafeTravel Office (STO) are unaffected.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;"><b>From 1 Sep 2022, this page will no longer be accessible.</b> Please update your favourites/bookmarks to refer to the ICA Website instead.</p>
+	<p style="color:red; line-height:1.35; font-size:18px; margin-bottom:5px; margin-top:10px;">Stay safe and thank you for visiting the SafeTravel website.</p>
 </div>
 
-<p style="line-height:1.5;">Before contacting us for assistance, please ensure you have already referred to the latest travel information and processes on the following pages that may be relevant to you: <a href="/arriving/overview" target="_blank">Entries into Singapore</a>, <a href="/transit/overview" target="_blank">Transits through Singapore</a>, or <a href="/departing/overview" target="_blank">Departures from Singapore</a>. </p>
+
+<!--<p style="line-height:1.5;">Before contacting us for assistance, please ensure you have already referred to the latest travel information and processes on the following pages that may be relevant to you: <a href="/arriving/overview" target="_blank">Entries into Singapore</a>, <a href="/transit/overview" target="_blank">Transits through Singapore</a>, or <a href="/departing/overview" target="_blank">Departures from Singapore</a>. </p>
 
 <p style="line-height:1.5; margin-top:15px; margin-bottom:15px">For queries that are not covered in this website or <a href="/faq" target="_blank">FAQ</a>, refer to table below for assistance:</p>
-
-<!--<ol style="list-style-type: decimal; line-height:1.35;">
-	<li style="line-height:1.35;"><a href="#FAQ">Frequently Asked Questions</a></li> 
-	<li style="line-height:1.35;"><a href="#checker">Application Status Checker</a></li>
-	<li style="line-height:1.35;"><a href="#enquiry">SafeTravel Office Helpline Number and Enquiry Form</a></li>
-</ol>-->
 
 
 <div id="FAQ"></div>
@@ -40,11 +30,6 @@ permalink: /contact-us
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><b>SafeTravel Enquiry Helpline:</b>
 		<p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><b>+65 68125555*</b></p> 
 <p style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><i>* Regular call charges apply</i></p>
-			<!-- <p style="font-size:18px; line-height:1.35; margin-top:30px; margin-bottom:10px;"><b>Operating Hours (Singapore time)</b></p>
-			 <ol style="list-style-type:disc; margin-top: 0px; ">
-				 <li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;"><b>Call agents on duty:</b><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">8.30 am to 11.59pm daily (including weekends and public holidays)</p></li>
-	<li style="font-size:18px; line-height:1.35; margin-top:10px; margin-bottom:10px;"><b>Automated voice only:</b><p style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">12 midnight to 8.29am daily</p></li>
-				 </ol>-->
 			 </td>
 		      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"><ol style="list-style-type:disc; margin-top: 0px; ">
 <li style="font-size:18px; line-height:1.35; margin-top:0px; margin-bottom:10px;">COVID-19 Test Scheduling Issues</li>
@@ -80,4 +65,4 @@ permalink: /contact-us
 		 </td>
 	</tr>
 	</tbody>
-	</table>
+	</table>-->
