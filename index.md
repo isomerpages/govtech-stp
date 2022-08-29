@@ -3,7 +3,7 @@ layout: landing-page-stp
 title: SafeTravel
 description: Singapore’s latest border measures in response to COVID-19
 permalink: /
-notification: <h6 style="text-align:left;">Scheduled maintenance will be taking place on:<br>&bull; 29 August 2022, from 9pm to 31 August 2022, 1am. During this period, the Vaccination Check Portal and SafeTravel Application Portal will not be available.<br/><br/> <b>NOTE: From 1 Sep 2022, the SafeTravel Website will no longer be accessible.</b> Travel-related information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart">ICA's Corporate website</a>. Existing services under the Safe Travel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website.</h6>
+notification: <h6 style="text-align:left;"><!--Scheduled maintenance will be taking place on:<br>&bull; 29 August 2022, from 9pm to 31 August 2022, 1am. During this period, the Vaccination Check Portal and SafeTravel Application Portal will not be available.<br/><br/>--> <b>From 1 Sep 2022, the SafeTravel Website will no longer be accessible.</b> Travel-related information has moved permanently to <a href="https://www.ica.gov.sg/enter-transit-depart">ICA's Corporate website</a>. Existing services under the Safe Travel Office (STO), e.g. STO Contact Centre, Vaccination Check Portal, are unaffected. <br><br> Thank you for visiting the SafeTravel Website.</h6>
 sections:
   - hero:
       title: <h3 style="font-size:30px; font-weight:bold; font-family:Lato,sans-serif;
